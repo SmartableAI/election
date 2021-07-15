@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-h
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
 type: article
 quality: 121
-heat: 241
+heat: 261
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump makes closing speech at CPAC"
+    excerpt: "Watch \"Trump makes closing speech at CPAC\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-12T11:05:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210712110552-trump-makes-closing-speech-at-cpac/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11245824_1626088083.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pentagon hits reset on Trump's $10 bln cloud deal, welcoming new players"
     excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, reversing the Trump-era award to Microsoft Corp (MSFT.O) and announcing a new contract expected to include its rival Amazon."

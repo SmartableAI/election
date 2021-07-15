@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kenne
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/8971621592273/2021/upi/2813353be3fcd632f7f30032bedd183d/v1.5/Joe-Biden-welcomes-South-Koreas-Moon-Jae-in-to-DC-for-summit.jpg?lg=2"
         width: 800
         height: 533
+        isCached: true
+  - title: "Democrats Meet with President Joe Biden at White House"
+    excerpt: "U.S. Governors and Mayors exit the West wing following a meeting at the White House in Washington, DC, on Wednesday, July 14, 2021. Senate Democrats on the Budget Committee agreed to set a $3.5 trillion top-line spending level for a bill to carry most of Biden's economic agenda into law without Republican support,"
+    publishedDateTime: 2021-07-14T23:10:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dc70fc08397f3efdba505449a2bf2e0c/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dc70fc08397f3efdba505449a2bf2e0c/BIDEN-BUGET.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "v3fjWDMKTYL1H2INTJp/NNzpgK3OlflUxa3ZEJrnATpfVl/a5hOcBfqrXU1quEcHTEzgN+W1QU4qXJ9OVxy5F7r1OTCusX0i6FZkcRdhDa7StT3f41sIJblEfyodWTX+mT8M75+EhuPo1NI8Wz6XBsQZKxdNFP82E71jFe3Ts6x5NbogcuDo1JQqFZJunhA+zEpttz9U9Fx5HQZIjAkBCm93DwPhSX4iXI1L2sUYD3UoP2OO2qBzErmx14Ngcotkr/r/vmzR6AgVLF0//ACa79Y+tE409+3bl6+Xt0lmSWo1QUQI9X8kIWXyQikBTWdUb5BIpisETQ3iBJ3s/n82baMiK/7K+0+Q4BCCN5UzN38bgpPPrwF/w548MsoV63aByoIvHJHjMA6hTS9hUcEhe18PV+t88mNws6EuQ1xId3oyv+cnTbgTe/JmvB1YLrQxxLx+5C++FRWpb9ybKjl35wlSzOs70z8rbfRCDW1t50qlQRt1SrrMWEX+B+bEWJoCEmC/I/gRUMmy/5nGv1ZGOA==;nFRHk9aE2FmSIlyk1hQVzQ=="

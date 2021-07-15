@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden huddles with Senate Democrats at Capitol on infrastructure bills"
+    excerpt: "The president will meet with Democrats on Capitol Hill after they reached a deal on a $3.5 trillion infrastructure proposal."
+    publishedDateTime: 2021-07-14T20:45:00Z
+    webUrl: "https://www.cbsnews.com/news/infrastructure-bill-biden-senate-democrats-capitol/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-biden-senate-democrats-capitol/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-biden-senate-democrats-capitol/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/14/f2c50e26-581c-496e-bdad-6cac8c3ceb24/thumbnail/1200x630g2/068c71d90023b7964c8305e63061a831/gettyimages-1233977009.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "China Warns Joe Biden His Southeast Asia Moves 'Sabotage' Peace and Stability"
     excerpt: "Chinese Foreign Ministry spokesperson Zhao Lijian said the latest U.S. remarks offering support to ASEAN \"deliberately stoke disputes on territorial sovereignty and maritime rights and interests.\""
     publishedDateTime: 2021-07-14T19:46:00Z

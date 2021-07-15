@@ -51,7 +51,7 @@ related:
   - title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
     excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
     publishedDateTime: 2021-07-14T15:15:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
     type: article

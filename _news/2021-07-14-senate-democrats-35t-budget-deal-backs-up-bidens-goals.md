@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden heads to Capitol Hill to boost Democrats’ ‘human infrastructure’ plan"
+    excerpt: "President joins Senate Democrats for lunch a day after Schumer announces agreement on spending proposal"
+    publishedDateTime: 2021-07-14T20:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/14/joe-biden-capitol-hill-senate-democrats-infrastructure-plan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/14/joe-biden-capitol-hill-senate-democrats-infrastructure-plan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/14/joe-biden-capitol-hill-senate-democrats-infrastructure-plan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/b7cf6ea34ebc74b6bf2d404cf94fa26dbcda6c8f/0_144_6931_4159/master/6931.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2cd6c300618eefb5e9af195124803f14"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to meet Senate Democrats to push $3.5tn ‘human infrastructure’ plan – live"
     excerpt: "We are very proud of this plan,’ says majority leader Schumer but price tag much less than the $6tn Bernie Sanders pushed for – get the latest"
     publishedDateTime: 2021-07-14T14:32:00Z

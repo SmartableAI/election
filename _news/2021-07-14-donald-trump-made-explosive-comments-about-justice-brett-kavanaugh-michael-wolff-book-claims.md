@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Anarchy and chaos': Michael Bender book describes turmoil in Trump White House"
+    excerpt: "The final days of the Trump presidency were defined by furious debates over basic democratic norms challenged by Trump, according to a new book."
+    publishedDateTime: 2021-07-14T14:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/13/michael-bender-describes-turmoil-chaos-trump-white-house-book/7948108002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7948108002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7948108002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/27/USAT/142b3d22-d573-4f63-abfb-4d32fb451dd5-Trump-Lorain-pic.jpg?auto=webp&crop=4055,2281,x0,y142&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Landslide review: Michael Wolff’s third Trump book is his best – and most alarming"
     excerpt: "Fire and Fury infuriated a president and fueled a publishing boom. Its latest sequel is required reading for anyone who fears for American democracy"
     publishedDateTime: 2021-07-12T22:00:00Z

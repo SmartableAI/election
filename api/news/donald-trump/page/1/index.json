@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-it-will-be-remembered-trump-allies-cross-him-in-special-election.md",
+      "title": "‘It will be remembered’: Trump allies cross him in special election",
+      "excerpt": "Debbie Meadows, the wife of former Trump chief of staff Mark Meadows, and Sen. Rand Paul have endorsed candidates opposing a Trump pick in Ohio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/07/14/trump-allies-special-election-499655",
+      "originalUrl": "https://www.politico.com/news/2021/07/14/trump-allies-special-election-499655",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/9d/1e/2ad6c0b84fab96f53e386dd0de1c/210714-trump-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/14/trump-allies-special-election-499655",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/14/trump-allies-special-election-499655",
+      "publishedDateTime": "2021-07-14T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls.md",
       "title": "Poll: Without Trump in the race, DeSantis dominates 2024 GOP White House hopefuls",
       "excerpt": "Donald Trump remains the king of the GOP. Florida Gov. Ron DeSantis is looking like the crown prince. For months, DeSantis’ stature has been expanding within the party, marked by growing buzz among grassroots activists and GOP consultants who admire the pugilistic style of politics he wields against progressives and the media.",
@@ -89,58 +146,6 @@
         "name": "New York Magazine",
         "domain": "nymag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ap-fact-check-trump-stokes-jan-6-conspiracy-theories.md",
-      "title": "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories",
-      "excerpt": "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
-      "publishedDateTime": "2021-07-14T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -329,6 +334,101 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-anarchy-and-chaos-michael-bender-book-describes-turmoil-in-trump-white-house.md",
+      "title": "'Anarchy and chaos': Michael Bender book describes turmoil in Trump White House",
+      "excerpt": "The final days of the Trump presidency were defined by furious debates over basic democratic norms challenged by Trump, according to a new book.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/13/michael-bender-describes-turmoil-chaos-trump-white-house-book/7948108002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/13/michael-bender-describes-turmoil-chaos-trump-white-house-book/7948108002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/27/USAT/142b3d22-d573-4f63-abfb-4d32fb451dd5-Trump-Lorain-pic.jpg?auto=webp&crop=4055,2281,x0,y142&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7948108002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7948108002",
+      "publishedDateTime": "2021-07-14T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-fact-check-jfk-jr-did-not-publish-a-1999-trump-presidency-prediction.md",
+      "title": "Fact Check-JFK Jr did not publish a 1999 Trump presidency prediction",
+      "excerpt": "Claims that John Fitzgerald Kennedy Jr. published a statement supporting a future Donald Trump presidency in a 1999 issue of George magazine are false. George was the now-defunct magazine published by the son of the 35th president of the United States,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/factcheck-jfk-jr-donald-trump-idUSL1N2OQ1MS",
+      "originalUrl": "https://www.reuters.com/article/factcheck-jfk-jr-donald-trump-idUSL1N2OQ1MS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2OQ1MS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OQ1MS",
+      "publishedDateTime": "2021-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -610,21 +710,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-13-landslide-review-michael-wolffs-third-trump-book-is-his-best-and-most-alarming.md",
-      "title": "Landslide review: Michael Wolff’s third Trump book is his best – and most alarming",
-      "excerpt": "Fire and Fury infuriated a president and fueled a publishing boom. Its latest sequel is required reading for anyone who fears for American democracy",
+      "path": "_news/2021-07-13-what-mccarthy-and-trump-have-said-about-their-jan-6-call.md",
+      "title": "What McCarthy and Trump have said about their Jan. 6 call",
+      "excerpt": "Since the Capitol attack, House Minority Leader Kevin McCarthy (R-Calif.) and former president Donald Trump have expanded on what they said during their Jan. 6 phone call.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/jul/12/landslide-review-michael-wolff-donald-trump-book-",
-      "originalUrl": "https://www.theguardian.com/books/2021/jul/12/landslide-review-michael-wolff-donald-trump-book-",
+      "webUrl": "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/23ed8a672bc1757d35210ca42d9100ee24e714ef/0_0_5117_3071/master/5117.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae2f26daeaab1ee3f8c7ca35a37b8971",
-          "width": 600,
-          "height": 360,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-12-2021/t_8a57ad4063bf4b42b220e521c9d80fec_name_20210712_JAN6_CALL_V3.png&w=1080",
+          "width": 1080,
+          "height": 608,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -632,16 +732,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2021/jul/12/landslide-review-michael-wolff-donald-trump-book-",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/12/landslide-review-michael-wolff-donald-trump-book-",
-      "publishedDateTime": "2021-07-12T15:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1421,110 +1521,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-trump-says-global-warming-efforts-dont-work-because-rest-of-the-world-is-filthy.md",
-      "title": "Trump Says Global Warming Efforts Don't Work Because 'Rest of the World' is 'Filthy'",
-      "excerpt": "Trump blamed China and India for creating massive air pollution from coal plants while the U.S. focuses on \"stupid\" windmills that provide renewable energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
-      "originalUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1841386/oreilly-trump-global-warming-climate-change-filthy.jpg",
-          "width": 2500,
-          "height": 1554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
-      "publishedDateTime": "2021-07-08T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-trumps-aides-believed-rudy-giuliani-was-always-buzzed-in-the-mumble-tank-and-on-the-verge-of-becoming-senile-new-book-says.md",
-      "title": "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says",
-      "excerpt": "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7",
-      "originalUrl": "https://www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbecbf350e71a00115577f5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7?amp",
-      "publishedDateTime": "2021-07-08T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
