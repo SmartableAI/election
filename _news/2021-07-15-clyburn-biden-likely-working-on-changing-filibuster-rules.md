@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Ayanna Pressley Urges Joe Biden to End Federal Death Penalty by Executive Order"
-excerpt: "\"State-sanctioned murder is not justice,\" said Pressley, as she called on the president to commute the sentences of all inmates on federal death row."
-publishedDateTime: 2021-07-12T15:16:00Z
-originalUrl: "https://www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814"
-webUrl: "https://www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814"
-ampWebUrl: "https://www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814?amp=1"
+title: "Clyburn: Biden likely working on changing filibuster rules"
+excerpt: "U.S. House Majority Whip Jim Clyburn says he feels President Joe Biden is likely working behind the scenes to tweak Senate rules so the filibuster can’t be used on legislation pertaining to election l"
+publishedDateTime: 2021-07-15T00:29:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
+webUrl: "https://abcnews.go.com/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
 type: article
-quality: 121
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1843343/ayanna-pressley-speaks-boston.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://s.abcnews.com/images/Politics/WireAP_6b51f4808e4e42cf93063aae3609886f_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Clyburn: Biden likely working on changing filibuster rules"
-    excerpt: "U.S. House Majority Whip Jim Clyburn says he feels President Joe Biden is likely working behind the scenes to tweak Senate rules so the filibuster can’t be used on legislation pertaining to election l"
-    publishedDateTime: 2021-07-15T00:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6b51f4808e4e42cf93063aae3609886f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden to direct USDA to boost competition in agricultural industries - source"
     excerpt: "U.S. President Joe Biden will direct the Department of Agriculture to adopt new rules to boost competition in agricultural industries in an upcoming executive action from the White House, a source familiar with the situation said."
     publishedDateTime: 2021-07-06T12:33:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210706&t=2&i=1568043730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH650R0"
         width: 815
         height: 545
+        isCached: true
+  - title: "Ayanna Pressley Urges Joe Biden to End Federal Death Penalty by Executive Order"
+    excerpt: "\"State-sanctioned murder is not justice,\" said Pressley, as she called on the president to commute the sentences of all inmates on federal death row."
+    publishedDateTime: 2021-07-12T15:16:00Z
+    webUrl: "https://www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814"
+    ampWebUrl: "https://www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1843343/ayanna-pressley-speaks-boston.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "How the Supreme Court threw the Biden administration's ramped-up voting rights agenda off the rails"
     excerpt: "The Court's 6-3 conservative majority issued a ruling that erodes the key voting law that has protected Black voters from discrimination."
@@ -140,6 +140,6 @@ related:
         height: 336
         isCached: true
 
-secured: "ajfns0aAv+V9kraVCTt9bERlYDVR6oufiG+10FQcgj5ax+KEdidpXNAhxx8X3ozMXehBI3PKv6xywV2HFAfwaa9cwZU0McHe4WM1ntAauOhSP7r5kn2sDKz1jQjfFwX3rvOvSIzHRMPwsdGsim+krpRUKj5R8U9AbN9OzPX7fCidvtiT1soO1I2NLw+He/16+tuwKhwCjxMRu8aT9LB8nzbEBDFfEcmjNcLzqpQxya54lcL77OVnJZ/EPApTE3TnAfSPsZlwRzx9Fc+tHLwhdvZG4h/5NDpgxK3EHuEDosVT7seKBmmCQKv5zM9EWpd7ZoTzCQ3dPlNgzF+1mrGow4QHVUlm1pStcwtYQ3nDTDw=;ECLej4Lw3pwb9b3atjKFsQ=="
+secured: "bQKL8SAppQZJE3mjwwexfWQGXV8eqCSnRcJfMiponZCpFes9MIAeFhYHFBstSnBUoHaZkCwceoB0rVzlf1H9aDDPm6DPtrd0EmjC8he95PdclHa4nCl+hrjDLIWmrMZSWMHjh0PqRrM5xsSWXtpEfDBidngWspUjD7Q+eUe8vuoUVkBNIJ2N1kQ/z3DzNnYBKQ5fRwJKMjJ+7/GC6niktotyKq7sQWqn5Vx7MuBlr94fc1kUADHxR4XCGru8aykCGyCXZiHOITa1Um6CcgV2AkM7eBWPdjEXZHQLvCP8DhOEilG3nZClXiRrSWj+auPkazD7RLTpsQhewDqiVPBnfsGDF+YV54GIDNhvuV8PJV0=;nIz1yvEhpq16Za6Epc9Iqw=="
 ---
 

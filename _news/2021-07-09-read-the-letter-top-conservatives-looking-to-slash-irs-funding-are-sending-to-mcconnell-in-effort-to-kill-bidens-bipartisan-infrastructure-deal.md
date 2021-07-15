@@ -146,7 +146,7 @@ related:
   - title: "‘We’re going to get this done’: Biden on Capitol Hill to push infrastructure package – as it happened"
     excerpt: "President to discuss massive $3.5tn plan over lunch with Senate Democrats – get the latest politics news"
     publishedDateTime: 2021-07-14T23:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef71cd8f08331a6b287529"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef6c718f08331a6b2874f0"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
     type: article

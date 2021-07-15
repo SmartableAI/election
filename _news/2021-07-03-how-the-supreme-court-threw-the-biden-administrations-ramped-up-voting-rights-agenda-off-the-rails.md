@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Clyburn: Biden likely working on changing filibuster rules"
+    excerpt: "U.S. House Majority Whip Jim Clyburn says he feels President Joe Biden is likely working behind the scenes to tweak Senate rules so the filibuster can’t be used on legislation pertaining to election l"
+    publishedDateTime: 2021-07-15T00:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/clyburn-biden-working-changing-filibuster-rules-78852976"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6b51f4808e4e42cf93063aae3609886f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to direct USDA to boost competition in agricultural industries - source"
     excerpt: "U.S. President Joe Biden will direct the Department of Agriculture to adopt new rules to boost competition in agricultural industries in an upcoming executive action from the White House, a source familiar with the situation said."
     publishedDateTime: 2021-07-06T12:33:00Z

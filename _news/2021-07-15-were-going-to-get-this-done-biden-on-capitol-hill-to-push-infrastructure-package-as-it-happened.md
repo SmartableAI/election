@@ -3,8 +3,8 @@ category: news
 title: "‘We’re going to get this done’: Biden on Capitol Hill to push infrastructure package – as it happened"
 excerpt: "President to discuss massive $3.5tn plan over lunch with Senate Democrats – get the latest politics news"
 publishedDateTime: 2021-07-14T23:07:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef71cd8f08331a6b287529"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef71cd8f08331a6b287529"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef6c718f08331a6b2874f0"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef6c718f08331a6b2874f0"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
 type: article
@@ -215,6 +215,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "F6S3RBrRV7Bmjf81f8n3F7FHUyQBwdbkgLEZLnRJHluYWtwHBU+pVQ1JrTytLuqZqXIM+TD/3NU7M6qnINXNJwC1RAL+MdeSb2Qv9sl11dvE45x4Q6tGAXaftZR443GxnZP59Ld3Tcae1Mx9uCZK9aXhJBMAqEUGOd4ynEdkr3Mx+L5az6ODB9gZz5QNV7ikMKClkts2jLe7Yxgkb6RUHCQztS1xi2GJDYZIZAtL/uqgmLyrWUwXv4IXzA6+08h+4qjv2zDJoffzREFxXHkX47PAmKhHJuM64pOQ9YuGIjS544Z2rAMUghOoyv1NeViXsPON3DUhVQRDhQahnQOXPeSFZaIB2/vnt79mwu3zltU=;Ywb4naJJrZVW9ih4eIuIBA=="
+secured: "BhmeXofL3xFNruOoBiWQyGOe3OyuCa6MQx6IzYyDfS1WBZDZa++weXjDS5Yv9QPpG6nm+ger18InNGSsk5FLFeJAAgOlEsOsP+Bb0vg6EgiJjWcpDa7O99SY5OEkvFtgOP+k2gcYda2oaSZ5lQvdHlNDo94u3lVvh2iRcJE1UNRZ1FmK+NpKYneDxU27vOIrWbLVFBO1EHQja3wfqIO9HBJtBYS19RAcobpqs1a8JGDdTKSBFSmZCqEY8DRMHq/11ri16caJi0GVPdYQ48U/cQeecjjSmkscARhcsyTawSdnDN33XqZHII6FdAtSCQO++ykhyjvTF9CUJdFHLK6ek0V/mKhQsY1NIvyFsOiKeng=;jlui7pEzWGg11QTokE0uAA=="
 ---
 
