@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lara Trump: Americans should take Cuba protests as 'warning' about freedom"
+    excerpt: "Fox News contributor Lara Trump told \"Fox & Friends\" Thursday, it is time to let Cubans live freely as protesters demand freedom from communist dictatorship."
+    publishedDateTime: 2021-07-15T13:52:00Z
+    webUrl: "https://www.foxnews.com/media/lara-trump-time-cubans-live-freely"
+    ampWebUrl: "https://www.foxnews.com/media/lara-trump-time-cubans-live-freely.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-time-cubans-live-freely.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e82fad8-7009-4107-a5dd-2b54e9dc03ac/1e1f4ff2-c85a-48c3-b7c9-0957693efe29/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump: \"You Have To Give The Police Back Their Authority\""
     excerpt: "In an interview aired on \"FOX & Friends\" on Monday, former President Donald Trump discussed crime and the economy with FNC correspondent Lawrence Jones. Transcript, via Fox News: LAWRENCE JONES, FOX & FRIENDS ENTERPRISE REPORTER: Mr."
     publishedDateTime: 2021-07-12T21:54:00Z

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris urges vaccination in Michigan: 'This virus does not care who you voted for'"
+    excerpt: "In an exclusive interview with the Free Press Monday, Vice President Kamala Harris talked about the urgent need to get more people COVID-19 vaccines."
+    publishedDateTime: 2021-07-13T10:22:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/07/13/vice-president-kamala-harris-detroit-michigan-visit-covid-coronavirus-vaccines/7945583002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7945583002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7945583002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/24b3fb7d-7932-4642-92d9-1168499e5d92-071221_kamala_visit_rg_36.jpg?auto=webp&crop=2399,1350,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "With Harris and Hannah-Jones, Howard University positioning itself as a primary center of Black academic thought"
     excerpt: "For more than a century, the predominantly Black institution in the nation’s capital has educated generations of Black political and cultural leaders."
     publishedDateTime: 2021-07-10T13:43:00Z

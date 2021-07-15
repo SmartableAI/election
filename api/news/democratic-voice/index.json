@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-donald-trump-and-kevin-mccarthy-to-meet-on-thursday-as-16-committee-hearing-looms.md",
+      "title": "Donald Trump and Kevin McCarthy to meet on Thursday as 1/6 committee hearing looms",
+      "excerpt": "House GOP Leader Kevin McCarthy is expected to meet with former President Donald Trump on Thursday, Trump announced in a statement, coming as the California Republican is considering which members of his conference to appoint to a special committee tasked with investigating the deadly January 6 riot",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512104940-kevin-mccarthy-2020-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
+      "publishedDateTime": "2021-07-15T06:36:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-merkel-and-biden-to-chart-a-course-for-the-future-of-us-german-relations-in-white-house-meeting.md",
       "title": "Merkel and Biden to chart a course for the future of US-German relations in White House meeting",
       "excerpt": "President Joe Biden and German Chancellor Angela Merkel are set to meet in Washington on Thursday in what is likely the European leader's final appearance at the White House before she steps down from her long-held position this fall.\n    \n",
@@ -1631,63 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-the-rebranding-of-trump-country.md",
-      "title": "The Rebranding of ‘Trump Country’",
-      "excerpt": "The population is fleeing, jobs are disappearing and coal really isn’t coming back. West Virginia’s boldest plan to reverse the slide is bribing white-collar workers to move from out of state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
-      "originalUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/1d/94/ae211dc14744bf9dde718ba3af5a/thompson-mylan-52-2000-cms.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
-      "publishedDateTime": "2021-07-09T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

@@ -223,6 +223,22 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Live updates: Vice President Kamala Harris meets with Democratic Texas lawmakers opposing voting restrictions legislation"
+    excerpt: "Here are the latest updates on the Texas Democrats leaving Texas to block the special legislative session and a GOP voting restrictions bill."
+    publishedDateTime: 2021-07-12T19:07:00Z
+    webUrl: "https://www.texastribune.org/2021/07/12/texas-democrats-walk-out-voting-bill/"
+    ampWebUrl: "https://www.texastribune.org/2021/07/12/texas-democrats-walk-out-voting-bill/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/12/texas-democrats-walk-out-voting-bill/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 50
+    images:
+      - url: "https://thumbnails.texastribune.org/-o_d7w_12Xrh4hcoVLCrwyRatVE=/1200x630/filters:quality(95)/static.texastribune.org/media/files/3176dd1bbebc66291bc7ac2fbf8c4da8/Kamala%20Harris%20Texas%20Democrats%20Quorum%20REUTERS%20TT%2001.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris says Democrats will spend more to register voters as GOP pushes to limit voting"
     excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee would more than double its planned spending on voter registration and outreach ahead of the 2022 midterm"
     publishedDateTime: 2021-07-08T19:42:00Z

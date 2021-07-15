@@ -209,6 +209,22 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Live updates: Vice President Kamala Harris meets with Democratic Texas lawmakers opposing voting restrictions legislation"
+    excerpt: "Here are the latest updates on the Texas Democrats leaving Texas to block the special legislative session and a GOP voting restrictions bill."
+    publishedDateTime: 2021-07-12T19:07:00Z
+    webUrl: "https://www.texastribune.org/2021/07/12/texas-democrats-walk-out-voting-bill/"
+    ampWebUrl: "https://www.texastribune.org/2021/07/12/texas-democrats-walk-out-voting-bill/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/12/texas-democrats-walk-out-voting-bill/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 50
+    images:
+      - url: "https://thumbnails.texastribune.org/-o_d7w_12Xrh4hcoVLCrwyRatVE=/1200x630/filters:quality(95)/static.texastribune.org/media/files/3176dd1bbebc66291bc7ac2fbf8c4da8/Kamala%20Harris%20Texas%20Democrats%20Quorum%20REUTERS%20TT%2001.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
     excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
     publishedDateTime: 2021-07-09T03:01:00Z
@@ -238,6 +254,6 @@ related:
         height: 630
         isCached: true
 
-secured: "iy7wl/p5CDJHrSvHwAQ+nU9lu3RNNZ+V+/i4JNvEbu9UwMLTj8BsN9SzQ7HIc39jfAsese4ndUjmuS2uRsawQsHqGK9aWM5W6e9SItwrlBZyOgV8jwjGkZLdQAdT6dCtG0LQ3YEcG0QPq2AAfveHxYtZcu4guj0D+HFBlVT9gawlcyJmoPqh9H6wGxk8EwyfsajDwmIaYyJza72uEOIDjOGFgwOfnaiA1+xvjkaEAemQOboW9EJNlAgTz47QpolelOhDBJ/V/bjHjj0pf0wr1BCRqpCCZKfsZxN+EG9luBSYL5J62T6KdYVtbrjO/pSFMrR/JcEkvGg6NY0rY1Hd8KxXZ6y8SZPy9mTUXHWXSwA=;LCg37ZLrICfNuILJeHtOqw=="
+secured: "Z7kwtFLmQFFDNe4eF02V02lRGPw6ZsCNtuoPo0vx06UUoqudyEkyBMty8PM/N+x+QyroIpvMLXfusx5Qhq3pTk/4GxZGHnDo7Gt5IXPScmbu8WKTyoNfymdUFBGwStZfaHiG+KyUIerx19H9IHMTI61eZVT6UiRIh1oS4iBXkJEeLp0fSuSAlN77BEjsbMu2Y0gi+MsTipURdrNRoAHC725u/Uu2Cq49FdqVrQzI0pT59+jwOoJnXsKxQ2yoslo8lbr5RzTAskkGhN4CNOYxvaTPDqk9REaH2vDbaetFOACCME6VUDND/99dyTIqMFg/hH/dnzlzgnym8vqc94r5ZuNZRz0JwJhmSIKq02bZQYW118EJoFqv1sU+rPAw0hcCUfsfRjwJhH0jx7AeTjtczqzwVIOO2SC09tlK/fuu6AtQwnhq6d5aXYe0jli1DuPonjqDKmL13cEebgKFyb9QGf0EjSJS7D+TqYVAz+GY/O4YxNgQ4fzeIij2mo+tDoMK326mpLmFqoQzmlgwbKLLdw==;DL3gbNJGzRY4ex06zYwuYg=="
 ---
 

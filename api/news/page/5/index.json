@@ -2,6 +2,115 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-09-trump-after-agreeing-to-sit-for-a-raft-of-book-interviews-declares-them-a-total-waste-of-time.md",
+      "title": "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’",
+      "excerpt": "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AI2Q4HW7JAI6XIT7RMUUSMHJLM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-the-rebranding-of-trump-country.md",
+      "title": "The Rebranding of ‘Trump Country’",
+      "excerpt": "The population is fleeing, jobs are disappearing and coal really isn’t coming back. West Virginia’s boldest plan to reverse the slide is bribing white-collar workers to move from out of state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "originalUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/1d/94/ae211dc14744bf9dde718ba3af5a/thompson-mylan-52-2000-cms.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "publishedDateTime": "2021-07-09T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-trump-says-global-warming-efforts-dont-work-because-rest-of-the-world-is-filthy.md",
       "title": "Trump Says Global Warming Efforts Don't Work Because 'Rest of the World' is 'Filthy'",
       "excerpt": "Trump blamed China and India for creating massive air pollution from coal plants while the U.S. focuses on \"stupid\" windmills that provide renewable energy.",
@@ -166,7 +275,7 @@
       "originalUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -439,7 +548,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1183,118 +1292,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html",
       "publishedDateTime": "2021-07-07T08:44:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.md",
-      "title": "Biden meets with Chicago Mayor Lightfoot at airport amid surge in gun violence",
-      "excerpt": "President Biden will meet with Chicago’s mayor on Wednesday, in the wake of an extremely violent holiday weekend in the nation’s third most populous city.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l29PClZJvXo/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l29PClZJvXo/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.amp",
-      "publishedDateTime": "2021-07-07T08:29:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-marjorie-taylor-greene-compares-biden-vaccine-push-to-nazi-era-brown-shirts-weeks-after-apologizing-for-holocaust-comments.md",
-      "title": "Marjorie Taylor Greene compares Biden vaccine push to Nazi-era 'brown shirts' weeks after apologizing for Holocaust comments",
-      "excerpt": "Rep. Marjorie Taylor Greene on Tuesday compared officials carrying out President Joe Biden's latest Covid-19 vaccination push to Nazi-era \"brown shirts,\" just weeks after apologizing for her comments comparing Capitol Hill mask-wearing rules to the Holocaust.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5RUZaYkdUyQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5RUZaYkdUyQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210513184212-marjorie-taylor-greene-01-03-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/politics/marjorie-taylor-greene-brown-shirts-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/marjorie-taylor-greene-brown-shirts-vaccine/index.html",
-      "publishedDateTime": "2021-07-07T08:23:20-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

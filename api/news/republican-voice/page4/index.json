@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-26-biden-doj-lawsuit-over-georgia-election-law-may-backfire-legal-scholar-jonathan-turley-says.md",
+      "title": "Biden DOJ lawsuit over Georgia election law may backfire, legal scholar Jonathan Turley says",
+      "excerpt": "Attorney General Merrick Garland announced that the Department of Justice is suing the state of Georgia over their passing of a law to ensure election integrity and security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/doj-to-sue-georgia-over-election-law",
+      "originalUrl": "https://www.foxnews.com/media/doj-to-sue-georgia-over-election-law",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b322aa6-f05f-41e2-bdec-bf2815e5ac7f/f042989d-e00f-4606-9f34-ca68309067bc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/doj-to-sue-georgia-over-election-law.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/doj-to-sue-georgia-over-election-law.amp",
+      "publishedDateTime": "2021-06-26T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.md",
       "title": "NJ school official who called Kamala Harris ‘street walker,’ receives ‘no confidence’ vote: reports",
       "excerpt": "A school board member in New Jersey has received a \"no confidence\" vote from colleagues despite his apology for referring to Vice President Kamala Harris as a \"street walker,\" according to reports.",
@@ -1587,62 +1644,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
       "publishedDateTime": "2021-06-21T09:04:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-biden-nominee-with-crt-ties-appears-headed-for-close-party-line-vote.md",
-      "title": "Biden nominee with CRT ties appears headed for close party-line vote",
-      "excerpt": "President Biden's nominee to run the Office of Personnel Management (OPM) appears to be headed for a close, party-line vote in the Senate this week amid Republican concerns about her past ties to critical race theory and Ibram X. Kendi.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
-      "publishedDateTime": "2021-06-21T06:45:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -140,18 +140,18 @@ related:
         height: 533
         isCached: true
   - title: "Democrats Meet with President Joe Biden at White House"
-    excerpt: "Illinois Governor J. B. Pritzker (D-IL) looks on as New Jersey Governor Phil Murphy (D-NJ) speaks to journalists beside Dayton, Ohio Mayor Nan Whaley, following a meeting at the White House in Washington,"
+    excerpt: "U.S. Governors and Mayors exit the West wing following a meeting at the White House in Washington, DC, on Wednesday, July 14, 2021. Senate Democrats on the Budget Committee agreed to set a $3.5 trillion top-line spending level for a bill to carry most of Biden's economic agenda into law without Republican support,"
     publishedDateTime: 2021-07-14T23:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c62814463a9c1d2332218092983e3731/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c03dcb763603e1ab6b189b7cee176108/BIDEN-BUGET.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c62814463a9c1d2332218092983e3731/BIDEN-BUGET.jpg"
         width: 650
-        height: 433
+        height: 975
         isCached: true
 
 secured: "hOrFxUKGq6JD2BH8LBqmRkQb9AnmLD1HSec+TrswJQ3l4enSOEK7gpGMZSSHqKkdceP0q2SbnauSr7R+kfT8Ex12m85WQBRhKbQsOc8fapTPKkwob8J7fcQ+x0mCSxZAp9wFxfVSZJS5kZoDq+JW0MtwjbbEf0wS2KSqPUCGtSasVS76D/qWn1dIhBbECBv6F/Ue8X55tAG+HncNTZ0xE2G50M4/WXP6RzQOW/5pWXyOPA14w4AHEtlWrKOkIM5uhQE6+C4vbf7DZ0Vm9y6wveczcyGqsQBDCna+H3dn1iaxbCmlMu1y+q5kqll9RECy4jen5taICLg31cR2oqDIIsJk45b6rUYbc9a2c5zUFl8=;DTyHqNYt7eUuNz66uRL6+w=="
