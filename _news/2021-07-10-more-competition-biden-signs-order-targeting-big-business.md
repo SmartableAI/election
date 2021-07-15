@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-set-sign-competi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_6b51f4808e4e42cf93063aae3609886f_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Joe Biden's Stimulus Is Financing GOP's Billionaire Tax Cuts"
+    excerpt: "Republicans are taking advantage of the Biden administration's refusal to enforce a law designed to make sure stimulus money isn't used for tax breaks."
+    publishedDateTime: 2021-07-15T17:54:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-stimulus-financing-gops-billionaire-tax-cuts-1610196"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-stimulus-financing-gops-billionaire-tax-cuts-1610196?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-stimulus-financing-gops-billionaire-tax-cuts-1610196?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1847057/biden-stimulus-gop-billionaire-tax-cuts.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden to direct USDA to boost competition in agricultural industries - source"
     excerpt: "U.S. President Joe Biden will direct the Department of Agriculture to adopt new rules to boost competition in agricultural industries in an upcoming executive action from the White House, a source familiar with the situation said."

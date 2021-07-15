@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/557943-biden-to-host-ger
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 123
     images:
       - url: "https://i.guim.co.uk/img/media/808df3efdb5a196330c45a50e30edb178e13b9fb/0_268_5578_3347/master/5578.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c3dad6c7987a52609e907505aff5994"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to host Merkel at White House as German chancellor prepares to leave office – live"
+    excerpt: "German-US pair to hold bilateral meeting before holding joint press conference – follow all the latest politics news"
+    publishedDateTime: 2021-07-15T16:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/9893a2d674a9b811cd2da7a04ce81fbf739fb1af/0_0_5391_3235/master/5391.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6a00fbd0b8f2240c6a6c8bfca4f0a37c"
         width: 600
         height: 360
         isCached: true

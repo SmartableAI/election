@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris slammed for claiming rural Americans can't photocopy their IDs"
+    excerpt: "Kamala Harris was criticized Saturday for claiming that voter ID laws were impossible because rural Americans could not photocopy their ID's."
+    publishedDateTime: 2021-07-10T23:44:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-rural-americans-photocopy-ids-voter-id-laws"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-rural-americans-photocopy-ids-voter-id-laws.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-rural-americans-photocopy-ids-voter-id-laws.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e2d229-3060-40e0-9d98-fafbc767418d/52419ec5-9047-4b23-95a1-5c09832815af/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Gingrich slams Kamala Harris for suggesting rural Americans can't get voter ID: 'A dead loser'"
     excerpt: "Former House Speaker Newt Gingrich told \"Fox & Friends\" on Monday that the Democrats' push against voter ID requirements has been a \"dead loser\" politically, reacting to Vice President Kamala Harris claiming rural Americans would not be able to prove their identity in some cases."
     publishedDateTime: 2021-07-12T14:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-west-virgini
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Biden rallies Dems to support infrastructure ..."
+    excerpt: "Watch \"Biden rallies Dems to support infrastructure plan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-15T16:02:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210715160224-biden-rallies-dems-to-support-infrastructure-plan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11311260_1626365224.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "MI897tm3upz5ndr8MczTyedii9Ckhw1EyqqEJZc47i84V2oGv4n5CRx/ai1kUGkRecytvCIRcDALMIwEQakrt+Fg5JNNvM1T5lY8biVasnK1VswNXCOw+VBkugpfxnvztuHzI53F3dnpsjuykQX5AXi78M8CSRjNgRLqdJNP5rhX8QUA9wxMf9/EZmyg5zbCpoWoSLZfAbo9yZmm32c+RK7R/6vlGbL7jhbWwjcpfM+lBRO0/J46n4SmpEmlrhzZJ6rAJI4BSI3Sbf0UYmN6i+YCZVTAE+Y4tb9uxW88dYdvYS6440ybgl81allQsab2vYkbulsO3SIP2BeEVP5adVcUOGjtK6i39vxPZ8fVNqguxKdZD/QBz7ef83D3HrYPq4wiGDDb6DjM3TzxyyuGeBPcz5xwQRsW20j5M+a0TuGv0q7PHU0p/q9IwBDars6qVHF4LQYtzJdoJ7TE+Sud7Cd8ktcq9Nold4iTHKtoX3kgG2jjPWCcwXRlwHeVV4VKKhDW8Zqog2UvPUpRfPgzbQ==;C/BWPAIAJqRUgo5yZNKz9w=="
 ---

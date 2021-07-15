@@ -3,23 +3,27 @@ category: news
 title: "What, exactly, is Mike Pence doing?"
 excerpt: "Former Vice President Mike Pence has remained steadfast in his decision to defy Donald Trump and certify the 2020 election, but at the same time is trying to fully embrace"
 publishedDateTime: 2021-07-06T14:18:00Z
-originalUrl: "https://www.morningjournal.com/news/nation-world/what-exactly-is-mike-pence-doing/video_4a4f1083-b93c-5438-9e0e-f82c066e0d31.html"
-webUrl: "https://www.morningjournal.com/news/nation-world/what-exactly-is-mike-pence-doing/video_4a4f1083-b93c-5438-9e0e-f82c066e0d31.html"
-ampWebUrl: "https://www.morningjournal.com/news/nation-world/what-exactly-is-mike-pence-doing/video_4a4f1083-b93c-5438-9e0e-f82c066e0d31.amp.html"
-cdnAmpWebUrl: "https://www-morningjournal-com.cdn.ampproject.org/c/s/www.morningjournal.com/news/nation-world/what-exactly-is-mike-pence-doing/video_4a4f1083-b93c-5438-9e0e-f82c066e0d31.amp.html"
+originalUrl: "https://www.djournal.com/news/national/what-exactly-is-mike-pence-doing/video_0e3249d0-51d3-5cc0-b523-d4d83ec488e0.html"
+webUrl: "https://www.djournal.com/news/national/what-exactly-is-mike-pence-doing/video_0e3249d0-51d3-5cc0-b523-d4d83ec488e0.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: The Morning Journal
-  domain: morningjournal.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Mike Pence
 
-secured: "23KvZtH5mqEHgZ5X9IYSiaglS7MuJgVcuzB9NsaX/nFKWbeJBbH7O4m4gkk6Ai6IcaY2nTHzoYU0K327Ry+s7NSPIOhky1+Vwwt+42xHW9fkPAygUUVUvCE8FDDowv3lK54EjDyRstlaWOxr0igtdXN3i1t7NVhmhvtO98hg+TX1sk0h9Hnutf2dVObQeZJoI5xjqcg7XPbkHamIF7tNumURphWfQqJNXgEuoBmb++Llrs8yrIxWbsN+H4FV+nHhq8iYwCGClEgGPVV3PWN7wD10H/scgGTEkNz7LpiqJK13FY6OD/ah+n5XNipsRCIJ+fhhaGfd10IGUi0LNdrfjItgFn713TjX2v2b5AScnccPD4spUst/hWo/ygMug0HbvYBZmh/cPxGXuOgwUgUs3WYD1G3HPsMWENFZHYajzokbGjfiNE7uIlPLf4I4Byqxn2uhvEmK3W/PRAbWxYfz2gXOR5f3C2cSOoPnd1LPK/+CBlhW9hivzqdT2IjprQW4J3DEjMWjFkQ4QSS2tgzjVw==;KxKhsfh6hgfTooMdI/fbKw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/e3/0e3249d0-51d3-5cc0-b523-d4d83ec488e0/60e4804c8f649.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
+
+secured: "f9G4U/FvAcpmBlph53hq8edq/yqcIZc01woufmfsopPstaUN8T/E9KX1yHCOzW2eOkVKztewdNFoQFZeP8Nh1+RSJaT5Efdl/+cROTOcrzf+RIrkXnndmkFSD3DulU6Tjm5N7VKvt0RyNvQncYLJ7tc5zSPm0g3Hbm+r9kCohbOvApCyr4FJa/shqU9FNWIN5Tp3o7GAzI7tOdN13lFS485n5xPHp/vsvfcLhUy8Rd7ljZ/gGhfWGm+CuFdadKJEwEvoPEmc+PDnzxVC4iWDY5lhhlJ/hvs9dNXlBnPLFHseOxfJ+0JDR2b1dUz6H9Nrc5gyiEQPObboDISJJcEZeKX5gMCpGTZ2+Zb2gK+H06o=;0JSlDeqn8a0b4ouoqR/NAQ=="
 ---
 
