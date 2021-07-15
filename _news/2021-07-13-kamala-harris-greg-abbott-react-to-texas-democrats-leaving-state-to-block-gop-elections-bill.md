@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7943614002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7943614002"
 type: article
 quality: 129
-heat: 429
+heat: 449
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/dbe293de739353a67f2a6157f984ecae/HARRIS-RIGHTS.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris exaggerates food and water laws for voters"
+    excerpt: "States commonly ban bribing voters or limit electioneering within a certain distance of polling places. But laws that expressly ban giving away food or water to voters waiting in lines are rare. Voters who bring their own food and drinks remain free to consume them."
+    publishedDateTime: 2021-07-15T21:32:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/15/kamala-harris/fact-checking-kamala-harris-claim-food-water-hando/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg"
+        width: 438
+        height: 392
         isCached: true
   - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
     excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"

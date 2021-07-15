@@ -2,6 +2,59 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-04-11-vice-president-mike-pence-pleaded-with-the-acting-defense-secretary-to-clear-the-capitol-as-pro-trump-rioters-overran-the-building-report.md",
+      "title": "Vice President Mike Pence pleaded with the acting defense secretary to 'clear the Capitol' as pro-Trump rioters overran the building, report says",
+      "excerpt": "Vice President Mike Pence, who was in the building when the Capitol riot began, made an urgent call amid the chaos. \"Clear the Capitol,\" Pence told Acting Defense Secretary Christopher Miller, the Associated Press reported. Pence was in a \"secure location ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60726ada4943790018bb1ce1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp",
+      "publishedDateTime": "2021-04-10T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-trump-repeats-election-lies-and-insults-mcconnell-in-front-of-rnc-donors-in-palm-beach.md",
       "title": "Trump repeats election lies and insults McConnell in front of RNC donors in Palm Beach",
       "excerpt": "Former President Donald Trump repeated familiar lies about the 2020 election and insulted Senate Minority Leader Mitch McConnell Saturday when speaking to Republican National Committee donors gathered for the first time since Trump's defeat, a person in the room told CNN.\n    \n",
@@ -1289,58 +1342,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-milwaukee-asks-to-sanction-trump-over-baseless-election-suit.md",
-      "title": "Milwaukee asks to sanction Trump over ‘baseless’ election suit",
-      "excerpt": "Donald Trump and his lawyers should pay more than $65,000 in legal fees to Milwaukee County and face additional sanctions for filing a “baseless” lawsuit trying to overturn the result of the presidential election, Wisconsin’s biggest metropolitan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/SxmmnkCuK8npJYpMweFwVOqZLOI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TP6T4HP25W24BFJK5EIPZTUMX4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-09T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

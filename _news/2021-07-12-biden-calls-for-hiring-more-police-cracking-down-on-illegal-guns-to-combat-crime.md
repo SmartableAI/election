@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Sen. Rubio calls on Biden to immediately provide uncensored internet to Cubans"
+    excerpt: "Sen. Marco Rubio, R-Fla., outlined steps that the Biden administration can immediately take in order to provide Cubans access to uncensored internet, amid ongoing unrest between anti-communist protestors and supporters of the country's regime."
+    publishedDateTime: 2021-07-15T21:19:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFNyqoyci7Y/rubio-biden-uncensored-internet-cubans"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-uncensored-internet-cubans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-uncensored-internet-cubans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1abbfe3a-1094-4b15-a323-56cec8cfd07e/be805c93-93a2-4007-bb7d-8c87241cd69a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "House Republican demands Biden admin reveal cost of canceling border wall construction"
     excerpt: "The ranking Republican on the House Budget Committee is pressing the Biden administration to account for how much money it is costing taxpayers in litigation and settlement costs after President Biden halted construction on the wall at the U.S.-Mexico border, canceling government contracts in the process."
     publishedDateTime: 2021-07-14T14:00:00Z

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "DeSantis calls on Biden to ‘step up’ in helping restore internet to Cuba"
+    excerpt: "Florida Gov. Ron DeSantis on Thursday called on President Biden needs to help restore internet to Cuba after it was shut down by authorities in an effort to clamp down on the spread of information amid protests that broke out on the island nation."
+    publishedDateTime: 2021-07-15T21:37:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyDNMCFfhJ8/desantis-calls-biden-step-up-helping-restore-internet-cuba"
+    ampWebUrl: "https://www.foxnews.com/politics/desantis-calls-biden-step-up-helping-restore-internet-cuba.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-calls-biden-step-up-helping-restore-internet-cuba.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18a6cae7-fb38-4b57-a91b-614f000b8fd0/350b211e-b183-4ce9-a64f-3c54b3608a00/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'Your World' on Biden withdrawing troops, Florida recovery efforts"
     excerpt: "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there."
     publishedDateTime: 2021-07-09T15:28:00Z

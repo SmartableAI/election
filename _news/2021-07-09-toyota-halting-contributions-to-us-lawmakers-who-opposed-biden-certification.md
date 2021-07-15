@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden touts expanded child tax credit"
+    excerpt: "President Joe Biden delivered remarks at the White House as his administration rolled out its expanded child tax credit on Thursday."
+    publishedDateTime: 2021-07-15T21:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-touts-expanded-child-tax-credit/story?id=78865759"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-tax-cuts-families2-01-gty-iwb-210715_1626368271101_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden calls passing voting legislation ‘a national imperative’ and castigates voting restrictions based on ‘a big lie’"
     excerpt: "In a speech Tuesday in Philadelphia, the president underscored how the “denial of the right to vote” is “grounded in autocracy, undemocratic, un-American and unpatriotic,” a White House official said."
     publishedDateTime: 2021-07-13T15:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 775
+heat: 795
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_trumpcovidrisk_090220getty_3.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Trump opines on coup while rejecting fears about his actions"
+    excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election"
+    publishedDateTime: 2021-07-15T21:16:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_354a2d7ceab944c2b2444c4ca820ac79_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
     excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."

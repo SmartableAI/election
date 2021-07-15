@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden touts expanded child tax credit"
+    excerpt: "President Joe Biden delivered remarks at the White House as his administration rolled out its expanded child tax credit on Thursday."
+    publishedDateTime: 2021-07-15T21:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-touts-expanded-child-tax-credit/story?id=78865759"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-tax-cuts-families2-01-gty-iwb-210715_1626368271101_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Toyota halting contributions to U.S. lawmakers who opposed Biden certification"
     excerpt: "Toyota Motor Corp (7203.T) said on Thursday its political action committee will halt donations to U.S. lawmakers that voted against U.S. President Joe Biden's election certification in January."
     publishedDateTime: 2021-07-08T22:37:00Z

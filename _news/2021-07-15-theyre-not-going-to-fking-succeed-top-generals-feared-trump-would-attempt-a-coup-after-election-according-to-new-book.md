@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-co
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html"
 type: article
 quality: 163
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'He's not going to sit in silence': How the nation's top general found himself caught up in Trump's political wars"
+    excerpt: "In December 2018, then-President Donald Trump announced on Twitter that he would nominate Gen. Mark Milley as the next chairman of the Joint Chiefs. Milley was not the consensus pick, and then-Defense Secretary James Mattis objected to his selection. But Trump wanted the square jawed, barrel-chested"
+    publishedDateTime: 2021-07-15T21:35:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sGx4dQ9eVBs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714170338-mark-milley-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "DIEHL dials it down on TRUMP — JOCKEYING BEGINS over FED AID — UNPACKING Boston mayoral FUNDRAISING"
     excerpt: "Geoff Diehl co-chaired Donald Trump’s campaign here in 2016 and just months ago called on GOP Gov. Charlie Baker to “retract” his support for the president’s second impeachment. But now that he’s running for governor,"
     publishedDateTime: 2021-07-07T11:43:00Z

@@ -2,6 +2,62 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-05-25-biden-and-putin-summit-expected-to-take-place-next-month-in-switzerland.md",
+      "title": "Biden and Putin summit expected to take place next month in Switzerland",
+      "excerpt": "The first face-to-face meeting between President Joe Biden and Russian President Vladimir Putin is expected to take place next month in Switzerland, two US officials told CNN, as the White House and the Kremlin move closer this week to finalizing arrangements for the summit.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M8MKh_olRe0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M8MKh_olRe0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-geneva/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-geneva/index.html",
+      "publishedDateTime": "2021-05-25T05:58:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-trump-reacts-to-ufo-sightings-im-not-such-a-believer.md",
       "title": "Trump Reacts To UFO Sightings: 'I'm Not Such A Believer'",
       "excerpt": "Former President Donald Trump said he is not a \"believer\" of UFOs ahead of the release of a Pentagon report on sightings of mysterious flying objects.",
@@ -1292,62 +1348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-biden-appoints-amb-sung-kim-as-special-envoy-to-north-korea-signals-commitment-to-diplomacy.md",
-      "title": "Biden appoints Amb. Sung Kim as special envoy to North Korea, signals commitment to diplomacy",
-      "excerpt": "President Biden said the U.S. and South Korea are both “deeply concerned” about the situation in North Korea, and announced he is appointing Ambassador Sung Kim as special envoy to the Democratic People’s Republic of Korea (DPRK).",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/itvR3XbpNO4/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/itvR3XbpNO4/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bcdd1c-2b91-4615-ac0a-120d7aa8316f/c8802b2d-898e-4d85-b916-7e492de9e029/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy.amp",
-      "publishedDateTime": "2021-05-21T15:28:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

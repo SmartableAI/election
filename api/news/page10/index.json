@@ -2,6 +2,54 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-01-oreilly-biden-is-out-to-get-vp-kamala-harris-biden-doesnt-like-her.md",
+      "title": "O'Reilly: Biden Is Out To Get VP Kamala Harris, \"Biden Doesn't Like Her\"",
+      "excerpt": "\"The First\" host Bill O'Reilly said President Joe Biden is \"out to get\" Vice President Kamala Harris due to her primary debate performance where she basically accused him of being a racist with the \"that little girl was me\" line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/547161.jpg",
+          "width": 1006,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html",
+      "publishedDateTime": "2021-06-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-biden-signs-bill-repealing-trump-era-epa-rule-on-methane-emissions.md",
       "title": "Biden signs bill repealing Trump-era EPA rule on methane emissions",
       "excerpt": "President Joe Biden on Wednesday signed a bill repealing a Trump-era rule that rolled back regulations on methane emissions -- a particularly potent greenhouse gas believed to contribute significantly to the climate crisis -- from the oil and gas industries.\n    \n",
@@ -1315,58 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-trump-reps-told-parler-hed-become-an-active-member-of-the-platform-if-it-barred-his-critics-but-it-refused-book-says.md",
-      "title": "Trump reps told Parler he'd become an active member of the platform if it barred his critics, but it refused, book says",
-      "excerpt": "Trump reps proposed he join Parler in return for 40% of its revenue and a ban on his critics. Parler balked at the idea, according to a new book.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-join-parler-social-media-refused-ban-his-critics-2021-6",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-join-parler-social-media-refused-ban-his-critics-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60dae6c61477f300188c83cc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
