@@ -2,6 +2,54 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-20-trump-says-he-is-beyond-seriously-considering-2024-white-house-run.md",
+      "title": "Trump says he is ‘beyond seriously’ considering 2024 White House run",
+      "excerpt": "Former President Donald Trump said he is “seriously” considering another White House bid during an interview that aired Monday night. Trump teased the idea of a 2024 presidential run, but again",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/",
+      "originalUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/Trump-Republicans.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/amp/",
+      "publishedDateTime": "2021-04-19T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna.md",
       "title": "Trump: FDA pausing Johnson & Johnson was ‘terrible,’ only benefits Pfizer, Moderna",
       "excerpt": "Former President Donald Trump criticizes the FDA for their management of coronavirus vaccines in an exclusive interview with \"Hannity.\"",
@@ -1621,62 +1669,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-sen-ron-johnson-warns-biden-spending-blowout-is-irresponsible-could-bankrupt-nation.md",
-      "title": "Sen. Ron Johnson warns Biden spending blowout is 'irresponsible,' could 'bankrupt nation'",
-      "excerpt": "Sen. Ron Johnson, R-Wis., told \"The Story\" Tuesday that the Biden administration is \"mortgaging our children’s future\" by driving up debt to pay for a proposed infrastructure bill.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBx-uh2_8ZQ/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBx-uh2_8ZQ/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
-      "publishedDateTime": "2021-04-13T14:24:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-09-trumps-aides-believed-rudy-giuliani-was-always-buzzed-in-the-mumble-tank-and-on-the-verge-of-becoming-senile-new-book-says.md",
+      "title": "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says",
+      "excerpt": "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7",
+      "originalUrl": "https://www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbecbf350e71a00115577f5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7?amp",
+      "publishedDateTime": "2021-07-08T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-kamala-harris-joins-dnc-to-announce-expansion-of-i-will-vote-campaign.md",
       "title": "Kamala Harris joins DNC to announce expansion of \"I Will Vote\" campaign",
       "excerpt": "Vice President Harris on Thursday helped the Democratic National Committee announce an expansion of its \"I Will Vote\" campaign, which focuses on promoting voter registration and participation among minorities.",
@@ -1271,58 +1323,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-trump-told-chief-of-staff-hitler-did-a-lot-of-good-things-book-says.md",
-      "title": "Trump told chief of staff Hitler ‘did a lot of good things’, book says",
-      "excerpt": "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/32d9b4b7b6aa0703e0a39545dc45fb0535a661b9/54_0_1905_1143/master/1905.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=abc0f3c3e0e837a7f56c6c1a89f887ca",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "publishedDateTime": "2021-07-07T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

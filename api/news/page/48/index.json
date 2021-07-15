@@ -2,6 +2,63 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-04-12-gingrich-kamala-harris-put-in-charge-of-border-because-they-knew-she-wouldnt-do-anything.md",
+      "title": "Gingrich: Kamala Harris put in charge of border 'because they knew she wouldn’t do anything'",
+      "excerpt": "Newt Gingrich claimed Monday on \"Fox & Friends\" that the border crisis was not a mistake and that Vice President Kamala Harris was put in charge because they knew she wouldn't do anything to fix the situation. NEWT GINGRICH: If you look at a piece of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/gingrich-harris-border-crisis-immigration-illegal-immigrants",
+      "originalUrl": "https://www.foxnews.com/politics/gingrich-harris-border-crisis-immigration-illegal-immigrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gingrich-harris-border-crisis-immigration-illegal-immigrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-harris-border-crisis-immigration-illegal-immigrants.amp",
+      "publishedDateTime": "2021-04-12T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-trump-tightens-grip-on-gop-while-biden-bets-on-expanding-federal-power.md",
       "title": "Trump tightens grip on GOP while Biden bets on expanding federal power",
       "excerpt": "Prominent Republicans rededicated themselves to Donald Trump's creed of grievance, lies and demagoguery this weekend as President Joe Biden bolstered his counter bet on the use of expansive federal power to ease America's crises.\n    \n",
@@ -1305,58 +1362,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-on-the-house-review-john-boehners-lament-for-pre-trump-republicans.md",
-      "title": "On the House review: John Boehner’s lament for pre-Trump Republicans",
-      "excerpt": "Boehner offers no pushback. Boehner expresses contempt for Senator Ted Cruz and Mark Meadows, a former North Carolina congressman who became Donald Trump’s final chief of staff. As for Flyin’ Ted, Boehner is unsparing: “There is nothing more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans",
-      "originalUrl": "https://www.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d8c59c546c7310a8c2debabf5263186861e96952/0_263_3929_2357/master/3929.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=adebe66c8debb45d75e5adc31944d502",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans",
-      "publishedDateTime": "2021-04-09T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
