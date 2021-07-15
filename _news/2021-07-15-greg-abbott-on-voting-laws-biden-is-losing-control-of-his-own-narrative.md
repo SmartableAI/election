@@ -3,8 +3,8 @@ category: news
 title: "Greg Abbott On Voting Laws: Biden Is Losing Control Of His Own Narrative"
 excerpt: "Texas governor Greg Abbott defends Texas election laws on 'Kudlow:' GREG ABBOTT: It shows increasingly that Biden is losing control of his own narrative and losing control of what is trying to convey to the American people."
 publishedDateTime: 2021-07-15T14:52:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/15/greg_abbott_on_voting_laws_biden_is_losing_control_of_his_own_narrative.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/15/greg_abbott_on_voting_laws_biden_is_losing_control_of_his_own_narrative.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/15/greg_abbott_on_voting_laws_biden_is_losing_control_of_his_own_narrative.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/15/greg_abbott_on_voting_laws_biden_is_losing_control_of_his_own_narrative.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/15/greg_abbott_on_voting_laws_biden_is_losing_control_of_his_own_narrative.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/15/greg_abbott_on_voting_laws_biden_is_losing_control_of_his_own_narrative.amp.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 340
         isCached: true
 
-secured: "P8jxvQ/dbtKT1XfJ0VeW+90zk8Cl4dHJG0WBHs10N1oWxp7FXgNR+tcfbPbzUvzg0hlTLd2mqgWoaEhhtjjYbxNiSsIIgxVQVfZ8wMIrC6fSPZd7t8DiD3Ro3crFwP060gY7qt6+EmrAs1u4NBuD8unIAMHTxwPI5ActPb1urBJsp12XTythPi38Ghf7Pr4h8Vb6sDKdlR+lAC1tMbxGFwLPF9aGvu9WRStU94gFD024gzB6HLGE9vTRbBVSfqySISeG6awwR6TUPWwouTWQ8sSntOyELvVyq6awGxpB9UO/v6Mp9tXrMI1b/kYf8nIDeQfZS/GVR57Kuan31XKnzOfeVDan2PO30zw/C4hwp1bu4YRvbsmjmpzhv627O+TdjB/9wPC5w5P+TF+9WRr+2WgDV/3ibV9wTGWRrQedM0lMfPf6rjaruuzNs7NZN9SOBsB/pByYFds/PfM625lmEI2U20fntc+VdhAUeLfpcmB+m7xdkumJ9Yq969NmyNakh5c8vb+23ToYka0m+n2inQ==;aD1G8hxETob/hp6L646gHw=="
+secured: "TkZspETw39IgF+WPlk3cTznszUj56YgzbBkfEKzk1CqPU1eGlwuRyBGBko0r8F/fvcOkdqpzkyH0t226ksuKamWbDtQzS9XM1A/C5nhp4i1vmXLGMfs3d/0D7HX0o2bw23e57zNrm+5Sf3IRe/bJ1pwKtnJ8JzYeZj5e1SMgUKAXdMj0sBT3Td+Qvyoe3zv+yATiPM53xY83ssC1i7mdMkf2MSY84VS2orAA43hpFrtovdpx7RsCrYskTXbdNu588Cd4UjKNQl+pReXfHk+ECmBqRPu1XzdoIEgpADuL6Ab5O0J++bKbrM4hXPzMIg5Ojz006qhU4QqqKp+UV8NNDGfapZrKEUWGwAuJdiy1QCg=;RbxbeNxFcUTmxy9N5hjRog=="
 ---
 

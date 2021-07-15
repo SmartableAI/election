@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-clai
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
 type: article
 quality: 189
-heat: 349
+heat: 369
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707111001-01-trump-2018-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Attorney General Garland restores discretion for immigration judges that was stripped under Trump"
+    excerpt: "Attorney General Merrick Garland issued a ruling Thursday restoring discretion to immigration judges by allowing them to administratively close cases, a move that could prove significant in chipping away at the more than million case backlog facing immigration courts.\n    \n"
+    publishedDateTime: 2021-07-15T18:55:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tKirUNyr5j8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/immigration-court-garland/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/immigration-court-garland/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622141808-03-merrick-garland-0615-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

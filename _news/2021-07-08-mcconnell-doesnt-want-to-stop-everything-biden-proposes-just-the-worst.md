@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's flip on Hyde Amendment sign of administration 'spiraling way, way to the left': McConnell"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., slammed President Biden for steering the U.S. to the more to the left despite campaigning as a moderate, in light of Democrats' push to eliminate the Hyde Amendment."
+    publishedDateTime: 2021-07-15T18:05:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Btr0FGq8BSM/mcconnell-biden-flip-anti-abortion-hyde-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Z67Kpby6iawFI4WTenY11fcIH5IkBh837O0jZ+Vcsjy+cqAvN0sKLD8cDPM1TUukUyQ9YPeq2kKA527yTQ3EIx94Y61oQvSyO7MrS4Ab88uSYMxZfh2Wt+JkJR23JLh/Y9yhPuwR3odJFh3i7czPHjioauuSakWjJz2S/PHhuyOViJNIkpGjalixcj0/3awLRr2v4qupYgR52g3y3kQRmst0kzsHSAkP1w1zNu2emOtHUyKw/OO7VWVWlU0Z9CE7p/mzsdP68CgvSYNqf0o0w0y0hVGpuJeQbKtU+JBP9MKGP0xALungFqbYgdLXc3jHnsHRFCdFjvlh9y13VHO4+9p7BCVjDSKZGJK6WkthYek=;iaxZZwM4b9+9CMhfNIOA2Q=="
 ---

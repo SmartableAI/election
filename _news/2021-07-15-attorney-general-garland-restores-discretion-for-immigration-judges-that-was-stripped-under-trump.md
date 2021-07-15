@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Republican candidates back Trump's election lies across the 2021 and 2022 maps"
-excerpt: "Republican candidates in a spate of 2021 races and in the 2022 midterms are increasingly focusing their campaigns on the baseless claim that voter fraud was a rampant problem in the 2020 election.\n    \n"
-publishedDateTime: 2021-07-06T23:34:15Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/395kJOopa6w/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/395kJOopa6w/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
+title: "Attorney General Garland restores discretion for immigration judges that was stripped under Trump"
+excerpt: "Attorney General Merrick Garland issued a ruling Thursday restoring discretion to immigration judges by allowing them to administratively close cases, a move that could prove significant in chipping away at the more than million case backlog facing immigration courts.\n    \n"
+publishedDateTime: 2021-07-15T18:55:53Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tKirUNyr5j8/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tKirUNyr5j8/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/immigration-court-garland/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/immigration-court-garland/index.html"
 type: article
-quality: 186
+quality: 162
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210703205348-01-trump-rally-0703-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622141808-03-merrick-garland-0615-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 189
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210710190016-01-cpac-2021-0709-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican candidates back Trump's election lies across the 2021 and 2022 maps"
+    excerpt: "Republican candidates in a spate of 2021 races and in the 2022 midterms are increasingly focusing their campaigns on the baseless claim that voter fraud was a rampant problem in the 2020 election.\n    \n"
+    publishedDateTime: 2021-07-06T23:34:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/395kJOopa6w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210703205348-01-trump-rally-0703-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Attorney General Garland restores discretion for immigration judges that was stripped under Trump"
-    excerpt: "Attorney General Merrick Garland issued a ruling Thursday restoring discretion to immigration judges by allowing them to administratively close cases, a move that could prove significant in chipping away at the more than million case backlog facing immigration courts.\n    \n"
-    publishedDateTime: 2021-07-15T18:55:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tKirUNyr5j8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/immigration-court-garland/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/immigration-court-garland/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622141808-03-merrick-garland-0615-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump gets tested in suburban Texas"
     excerpt: "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA."
     publishedDateTime: 2021-05-01T11:00:00Z
@@ -176,6 +176,6 @@ related:
         height: 1731
         isCached: true
 
-secured: "I8fRI3MAWYaB4pH2ImLr+w4mIqBeIDFZxFVIt1CBi2BL1lzyxJ/zAg+fDi21PztH+OOgapiT3ErTnrGGDXLxMAXpy9J6bJrgUBHkU3VGjdsEGff+vdpNfOUamiLPQDRDyMNB+7gG3CcvEAWuYGMUgAOc1xCkKKfwqVrfsSRkU/PO5kejL598Lkdn5ja/EGD3mbKFEcP2+ZZwZonEWWddTxW5zNv03QCiyXY6bRIlvtVxVIyRTdpiYEK6G89dCUhUW8Hsfu5QEQvS1BW+QAPY+iNVdH+2ZQ3tOoWP1TQf6Iy0ch0VQEstfN1jyO+ebV1JhHItsLDRRi+S7s/chJn152nOCzqMzo6KpTxHAqYQKRM=;uGl2g8nE4YdIifrrGNtMGg=="
+secured: "EiFzPdS9Rwgm0ZEOLdGOmPI6WvurXoNXMPKAruQ8KFh3eVjQmTlMKGjQybDdR0EZB7i5ivoOY2dLAYGOY2dbOSL/nPrGbaVyPsmy8mQBVmATJrJ85h3ZSJNF2keod29T+zOletLaZauLvYWZr57bN+pcSc9jpdA0F0Atcfy+SrWmTqtMw4K/Y4I81OlXs9RVcL0NaI5uHEcBsUG/otlolWgTwctmIA0GEvvNBf2TQ9pjC6JBv1UzSzbIRBJcQqAr3SXapfTAmfvba40yt5VhyzZCO37fyCk7QBXD0pRYCDpRWYJv7ktKwNEvBU9mEGYgEYHFEWt9sbI/uXvEmPjq4SipUxfIErYtY5ND4wGxY0I=;0yo/jlRgEc5/9glvmda/Lg=="
 ---
 
