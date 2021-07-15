@@ -56,16 +56,16 @@ related:
   - title: "Olivia Rodrigo meets with President Joe Biden and Dr. Anthony Fauci"
     excerpt: "Olivia Rodrigo arrives to the White House to meet with President Joe Biden and Dr. Anthony Fauci as part of White House Covid vaccine push in Washington, D.C., U.S., on Wednesday, July 14, 2021. Photo"
     publishedDateTime: 2021-07-14T16:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0833afbe0841d2d68e1bc40e7073e572/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ccf8fc5bf4ebe44654b98f4f51b36411/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0833afbe0841d2d68e1bc40e7073e572/WH.jpg"
-        width: 650
-        height: 974
+      - url: "https://cdnph.upi.com/related/6651619626685/1/v1.5/90b9a76fba41f726e3e204347ac57313/upi/SpaceX-Crew-2-launches-to-International-Space-Station.jpg"
+        width: 600
+        height: 399
         isCached: true
 
 secured: "QkqPHqXp2HEq5uaeTffKiz4biZARnLFeueNu7jk4ymcSNDrRWkK86hRv0djQw+ehfA0looxow02cxXV5ot0YBhxKJoD3xPLZe4BWxP3EqEKvWly++aDqSVAb7j2l3G/7nr2gV6ik3Or0FGMYug8e4r5exycyCf1/6m+P/ssQqdMa/eyR7/KlWIo+ZEnmLml/sRr9BiJw2HUDOPrG5Nk0ZFTfcx5isZrCXQvTj5DW2NFIUo605ULK3AjtIOXxagfP9m5NAzGzYJ4CDQfob4QzT1uJXKlxZZuWvBG0Bc3otjy38kJiyT9/jCq2G4jg9E4Qc1pzXWg1yp7ZvdEMmEz+L4kmcJvvh2GsuNzDQ+AiL63WraNgttXAoGqe4EGrimRHmMgj8x78uGpvKMDV6UggJFXvslXEBq7F9ObagMr0m2m7YuG3qYqwJwR8kqWxq2Tr9x7DD7SqkAStldcp5YvvPfih8Q6r/1KGUjBTveP8e/wmyVpbKibjIVT51R1BxRXd/r76jDTfPgnd/Yt5+Z0TRg==;FwffPHjGfdssssiJmkj9oA=="

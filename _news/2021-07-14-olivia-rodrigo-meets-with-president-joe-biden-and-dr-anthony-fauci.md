@@ -3,8 +3,8 @@ category: news
 title: "Olivia Rodrigo meets with President Joe Biden and Dr. Anthony Fauci"
 excerpt: "Olivia Rodrigo arrives to the White House to meet with President Joe Biden and Dr. Anthony Fauci as part of White House Covid vaccine push in Washington, D.C., U.S., on Wednesday, July 14, 2021. Photo"
 publishedDateTime: 2021-07-14T16:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/0833afbe0841d2d68e1bc40e7073e572/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/0833afbe0841d2d68e1bc40e7073e572/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/ccf8fc5bf4ebe44654b98f4f51b36411/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/ccf8fc5bf4ebe44654b98f4f51b36411/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/0833afbe0841d2d68e1bc40e7073e572/WH.jpg"
-    width: 650
-    height: 974
+  - url: "https://cdnph.upi.com/related/6651619626685/1/v1.5/90b9a76fba41f726e3e204347ac57313/upi/SpaceX-Crew-2-launches-to-International-Space-Station.jpg"
+    width: 600
+    height: 399
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 940
         isCached: true
 
-secured: "ldm4QB1ythJIcjyOkQOtGBFcVaJhU8RQ1nCuYf5TpefesycWn2DaoSL/PR4GLX5Uw08avwVT2NnewKFE34KgRq6Rj5k1rad+S7G+0J/Wn9oBDRt8mVkMwSAcOMUdIpb/E/5IwlKSu1MI6iXNfWQkSfnOfeCK8fctbzN31R3ZmcEUeTYRdwO27d4a3itKvq/zKSj7yZWsRIAxu5IW7vwMJi3lUgH79Dy7Ln2aiFkSD73/G+oUUXK+S7VzjZ6lEOuZ+7Z06izciQLsFL++Ti7mEO2Nq2E2YGRHLfd3D7TskYXQEgPlR5yw9csxgfOQI6qO3+jRpcwzfKO8MNY1IJbzGt4Z/PRWSMWc3HGADaCozqk=;1SDAEyd44XumaHllLuugdQ=="
+secured: "oHYTuhP9P+78110DlkxJ+j13p3UXFR1Lmc1zlc+2DP2ThspXn/fHtwZfQpcpObdYGoChGFGeo+PFXGLgz4786d5A/+YtHuUMP3WnOXHm19QnX65umyGsGfQaWyrwcGvGZTQDBHkDvFcelJrTr1qDykZ2+YS6FdlWgn5anIR0SsX/FFUmYLhAqavazSEfxBNUAVvZL8l3/wcs18F4u9EaBuvvgv9KwM0s4w8BuvJ2NmunJYcxDk2EiuQdWkWSZDKgR/BT8oBmcq081UMISN+3Rf2//UvynZUpwSwJ1ouQmMpFynH7Gw2m0ocJhhgrUtiLSMQUCDzp6Jm1mwImIDpfNec76KTYEx0VIrrenEIhZhw=;5lmcEFmYdYm7PtlDdLbHKw=="
 ---
 

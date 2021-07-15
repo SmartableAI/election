@@ -2,15 +2,13 @@
 category: news
 title: "Poll: Without Trump in the race, DeSantis dominates 2024 GOP White House hopefuls"
 excerpt: "Donald Trump remains the king of the GOP. Florida Gov. Ron DeSantis is looking like the crown prince. For months, DeSantis’ stature has been expanding within the party, marked by growing buzz among grassroots activists and GOP consultants who admire the pugilistic style of politics he wields against progressives and the media."
-publishedDateTime: 2021-07-14T21:05:00Z
-originalUrl: "https://www.politico.com/news/2021/07/14/desantis-poll-2024-president-499670"
-webUrl: "https://www.politico.com/news/2021/07/14/desantis-poll-2024-president-499670"
-ampWebUrl: "https://www.politico.com/amp/news/2021/07/14/desantis-poll-2024-president-499670"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/14/desantis-poll-2024-president-499670"
+publishedDateTime: 2021-07-15T09:42:00Z
+originalUrl: "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365"
+webUrl: "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365"
 type: article
-quality: 130
-heat: 150
-published: true
+quality: 110
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -47,6 +45,6 @@ related:
         height: 773
         isCached: true
 
-secured: "oNgbLKQlKbK3o+DqIWqzTcj5jvy40kVi4bML0YMPsoST90hNBKceTAD8NgAX7vXhLd9mHKSvrliTp0jcavuWv+T39WVIfX5kqokOWGxgSl+/AzgNmYIR4Q44hH0iILCJPMfTjZs8cnQNjp3siSWIckCESWLJc8hMg9YgnHYAaiuDBEHUgC6egn2v62xD0MdA2cy8U9w1W8Y4A/y/VXJTVoZ1orX1f81ZXcOCTRYPp9OZqHgkoYufa4TVUYUJwa1pO3kSLsW9moGLB+0hHDkYMQ/awlKM75mkxJ97E3e2X+bwNE9qO+00N6YkgWSWVEgCs7pKZep4IyMlabpAT2nRRaGVaXHjbhTVFpoE5kabdcas3ZkoGi/12EcI+hI4G3oLzOp192X8UCscG2BD3UmpT820hUWVToS5ZB0QUTRSFI1esIgtZeVVeiCpuMMDtTJc/80rXsLv9/ANeTPkA5SilKIutkJH9xZ/LMZtpdmUrQyOAi8pw6XWxp0FOE9okPNW49ZdNpRXEawyxX/QKujwmg==;WdrMnXWzaih3ooIMGwOmUg=="
+secured: "3Rj6Q5dHyMNueSt9yxaPtaGsiONT1wC940EZhrqBbuoX6ROwm5DnyOk/+yWGJ/TbA08hTHfBXBsndLRrMQtHqGz1RYuKCB5kdsoyRubWW1hTzGvnEujC2XpJS1hEsTt6d2/Aqyy0M56Ix2uQTwzsHT1/FnSbwrcJ4ddOb/KVeHQb0x+JaQ3IF2p4pEYJ8EWBjHhFlS1qLmM9zQBcCHueK7BVVns8LJF49tWl259+qR2ZYykvzkqd/CWew1DmVOCc1mzXHV7/JfmFRRyWTtITM6rEmfaI7p/4zZ+50PXLCv1LAQR8cwQ9CRM11AT84G6g1GI9whvAmK4AgGX5qZVMFBZysLbwxqc2in+sWMkaP28=;MHHT8HQ13w4DrCiSx/8CDQ=="
 ---
 

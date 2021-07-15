@@ -192,6 +192,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump rages over post-presidential books he did interviews for"
+    excerpt: "The avalanche of coming books has caused recriminations. And there is anxiety about what’s to come. He knew it was coming. But former President Donald Trump still was not pleased. He had read a new book excerpt—one of many about his presidency in the last few weeks—that described him telling his former chief of staff John Kelly that Hitler,"
+    publishedDateTime: 2021-07-15T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/15/trump-post-presidential-books-499741"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/15/trump-post-presidential-books-499741"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/15/trump-post-presidential-books-499741"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/aa/97/809f5d9246d2ae67589ca151921b/7-14-21-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "PRITZKER TO MEET WITH BIDEN — COOK COUNTY’s TAX PROBLEM — TERRI BRYANT’s TRUMP TALK"
     excerpt: "Pritzker headed to White House for meeting with Biden on bipartisan infrastructure plan: “Gov. J.B. Pritzker is one of three governors and five mayors who will join President Joe Biden at the White House on Wednesday for a bipartisan meeting on infrastructure,"
     publishedDateTime: 2021-07-14T12:19:00Z

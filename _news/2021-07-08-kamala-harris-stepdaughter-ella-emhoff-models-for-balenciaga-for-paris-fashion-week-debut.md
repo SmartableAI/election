@@ -47,22 +47,6 @@ related:
         width: 1127
         height: 810
         isCached: true
-  - title: "Kamala Harris' stepdaughter Ella Emhoff walks Balenciaga runway at Paris Fashion Week"
-    excerpt: "After Ella Emhoff's head-turning inauguration outfit, the stepdaughter to Vice President Kamala Harris is hitting fashion weeks. See her Paris debut."
-    publishedDateTime: 2021-07-08T11:21:00Z
-    webUrl: "https://www.indystar.com/story/entertainment/celebrities/2021/07/08/ella-emhoff-balenciaga-kamala-harris-stepdaughter-paris-fashion-week/7898669002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7898669002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7898669002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/6ca4f80f-c5c9-4928-ac10-4853bfbc9178-AFP_93B7QU.jpg?auto=webp&crop=2699,1519,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "9LU2ccSzRljpjG2GJUt1KSo7TAifJbIKM+Cb2j5BR+TBY6ZAGeLrBf3Bd/k7ycaGRu2b73i790bsc4uabNCkxBZFSBdrtX1Xh8oauDrRtx+93Fu9TKHZ/2Rpuz+2fjkJpRxDNkaiQ68eCvyOPBkgXSf3jWHqvFiYZlIO70DQU6QJGO1IqxowycMyvuFD656lmcBHDSqXZRE4ekSwhVfOpRcV2kntPjiX3KZubQE0eGlsj08WxfiYpdiUJxfPo1IslOL/Sf02+bbK0hw2F79tFWHExV3r2cckRyQ7FVPqCmkuUCX65aCsH63kRq738p6UTmXa6miGVDcdeFJdbAzVTOCbjUX8VeeSWIMCLm4dMlVzFrEprIBBuL86PrveKPW8FYqg06aUPM9g6dou89Ws4HqhuB2Eog/kmJCz/UBIyiyu4nlda5QM2CRntxx7YqmQNKIepaW4fDjC9lIwARSd69vTTDPGCa8qb5J+Bei4lZ9kfqouL4VDEmSR6j9QUukGY1Yngt6RroxUmupaJk1VQA==;auJTRKdJ8HIFxOdFsOVEKg=="
 ---

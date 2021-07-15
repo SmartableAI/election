@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
-excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
-publishedDateTime: 2021-07-07T16:50:00Z
-originalUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
-webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
+title: "Biden's BLM pick hit with new allegations from former investigator in tree-spiking case"
+excerpt: "Republican opposition to the nominee to lead the agency that oversees the nation's public lands is reaching a fever pitch."
+publishedDateTime: 2021-07-15T09:00:00Z
+originalUrl: "https://www.politico.com/news/2021/07/15/biden-blm-pick-allegations-499739"
+webUrl: "https://www.politico.com/news/2021/07/15/biden-blm-pick-allegations-499739"
+ampWebUrl: "https://www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
 type: article
-quality: 135
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://static.politico.com/07/1f/d2b976e147fa8292b29bdcdcf57b/stone-manning-ap-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
+    excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
+    publishedDateTime: 2021-07-07T16:50:00Z
+    webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden to nominate former GOP Sen. Jeff Flake to be ambassador to Turkey"
     excerpt: "Flake, a frequent critic of former President Donald Trump, crossed party lines to endorse Joe Biden in last year's election."
     publishedDateTime: 2021-07-14T01:34:00Z
@@ -256,22 +272,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden's BLM pick hit with new allegations from former investigator in tree-spiking case"
-    excerpt: "Republican opposition to the nominee to lead the agency that oversees the nation's public lands is reaching a fever pitch."
-    publishedDateTime: 2021-07-15T09:00:00Z
-    webUrl: "https://www.politico.com/news/2021/07/15/biden-blm-pick-allegations-499739"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 127
-    images:
-      - url: "https://static.politico.com/07/1f/d2b976e147fa8292b29bdcdcf57b/stone-manning-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’"
     excerpt: "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo"
     publishedDateTime: 2021-07-07T20:43:00Z
@@ -289,6 +289,6 @@ related:
         height: 550
         isCached: true
 
-secured: "nZqlqNc43eLWpVf1Ca+xoHxlrBu7xS3PnoaUfwtnKxKlnuzTHeTX71nt7IdehhzsvtXSOjADAKhUGdcU6VbrdVYWvknBg0WPO9bMJoLbQInIQx/vX3f8KSAOGAXE/Q2gpn3S0iowlurvnRLSHbgKuG9Ldop+OkLxKdKY25cHQ3uVCsmRS5RaCMW0UOK/acHSN09c18e6ngzTu4QAZ629JUF/jHbl4vmNZvJkjfUXKVxltmCW914lKZI95ld7bRzSDhx6K/GOJYrn6f7GZcNsMUoHxHBfPvp6NT7ZNcuqyzIhXsi54Yn7Y8XuYNV+AH61ijrfP5cE3Yx3TZb3N5cxwx6Qi5aV5hYuoISRnZ8oLxXZC+Mlp37ynGC0AjB4YqVg61vmF+bGoswP0PeEUtXx8nb0FFrK6UKngVs1SEKctxGrB73Xd1e0Dffpgd0BPQ4K2aX3fculInpxtTJ0tTgFmYWuuE1nHaDSlwlz9Llg/Q7m/c/+82hizyWar454RdSPFKlCDfe5YM9KsUy++4zv2A==;0aZHEYx3b4fiqZP34pCZPw=="
+secured: "oITDZnlZgiSTGqRBejIVbj7Cf/jbyNHg58BDowD+Nyevm9yx1V43wfqsv6lRoUA96GpWJJ/P97OVDmQmhbtHZvJ0JdNZSKcibmxaHIYRu7JC5xv1WAXq5y1roJIaO1XEaAgXy6gJCw7uFrq8yoA4pRQ+mB0Ldp9FarQFzkRrsy/kxwoPA0gGJZYoou7uQlGKBRbMV5Ur8i7DfACRylSmxRFML9jPgUqEuhel1+/jMevfjKTbrYfLcUCuchZgF4F97iQFSyN7amrCNoBS0XFg3MMH8h9Zf4lkWNdF6abookHEW8gP8YaZEfWfwUcXOIjNUzbujPUSScrrNpJ3wxAphb+jiyWM0rT6JhUKoCSi7w8=;LtYz6y4uWKqkukoKbWMIlA=="
 ---
 

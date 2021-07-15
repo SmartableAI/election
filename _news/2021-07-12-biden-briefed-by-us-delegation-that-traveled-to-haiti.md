@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 131
     images:
       - url: "https://static.politico.com/38/21/c36a4c9046359c77ad1260f42f98/210712-david-chipman-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden's BLM pick hit with new allegations from former investigator in tree-spiking case"
+    excerpt: "Republican opposition to the nominee to lead the agency that oversees the nation's public lands is reaching a fever pitch."
+    publishedDateTime: 2021-07-15T09:00:00Z
+    webUrl: "https://www.politico.com/news/2021/07/15/biden-blm-pick-allegations-499739"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 127
+    images:
+      - url: "https://static.politico.com/07/1f/d2b976e147fa8292b29bdcdcf57b/stone-manning-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

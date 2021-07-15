@@ -255,6 +255,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden's BLM pick hit with new allegations from former investigator in tree-spiking case"
+    excerpt: "Republican opposition to the nominee to lead the agency that oversees the nation's public lands is reaching a fever pitch."
+    publishedDateTime: 2021-07-15T09:00:00Z
+    webUrl: "https://www.politico.com/news/2021/07/15/biden-blm-pick-allegations-499739"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 127
+    images:
+      - url: "https://static.politico.com/07/1f/d2b976e147fa8292b29bdcdcf57b/stone-manning-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’"
     excerpt: "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo"
     publishedDateTime: 2021-07-07T20:43:00Z

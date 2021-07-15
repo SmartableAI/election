@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-
 webUrl: "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day-493549"
 type: article
 quality: 127
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: Politico
@@ -32,15 +32,13 @@ images:
 related:
   - title: "Poll: Without Trump in the race, DeSantis dominates 2024 GOP White House hopefuls"
     excerpt: "Donald Trump remains the king of the GOP. Florida Gov. Ron DeSantis is looking like the crown prince. For months, DeSantis’ stature has been expanding within the party, marked by growing buzz among grassroots activists and GOP consultants who admire the pugilistic style of politics he wields against progressives and the media."
-    publishedDateTime: 2021-07-14T21:05:00Z
-    webUrl: "https://www.politico.com/news/2021/07/14/desantis-poll-2024-president-499670"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/14/desantis-poll-2024-president-499670"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/14/desantis-poll-2024-president-499670"
+    publishedDateTime: 2021-07-15T09:42:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 130
+    quality: 110
     images:
       - url: "https://static.politico.com/aa/ab/9503fd984efb9e26be00ba54c31e/ap21148637808493-1.jpg"
         width: 1160

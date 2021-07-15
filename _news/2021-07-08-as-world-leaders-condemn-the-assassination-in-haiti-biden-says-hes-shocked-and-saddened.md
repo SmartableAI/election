@@ -272,6 +272,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden's BLM pick hit with new allegations from former investigator in tree-spiking case"
+    excerpt: "Republican opposition to the nominee to lead the agency that oversees the nation's public lands is reaching a fever pitch."
+    publishedDateTime: 2021-07-15T09:00:00Z
+    webUrl: "https://www.politico.com/news/2021/07/15/biden-blm-pick-allegations-499739"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/15/biden-blm-pick-allegations-499739"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 127
+    images:
+      - url: "https://static.politico.com/07/1f/d2b976e147fa8292b29bdcdcf57b/stone-manning-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "wANFlKmuKcs4X0PLrCfk+NOWjTeohITGfSJtbfq8xLv7ZoknVqYPCCFzFb1jOtpyebon0ZYen5LhtePL+s2TX2mBVFAo+yJ2VdTR3sc9QgL/KaPXkWxB9CyoUQ5N7WdSa9nU4UMH9dcKlH4LtG7hgdUCLapurLf/LbxLyfkvU6DOvFkVvbGcStTOU9aknbq3GlYqPWrzsCvnzEwc0NUMrIu4mOpjtuPKlkPoiu+eiDyoghmWkevWBDV/K1UXYEREYjvyJNkh9Kan6bqk/XfAaLOAvzTqSewmpO0fv0pTKCldOHcRZ98x3K2PEawswKqA99i+rg8CyKNHBfegBQcgKecaUz7JOya3MvP4LxKEwgncS5AqOcKRVmxep7KD1dV6xLVFDExP4fl/Wk/W8pRJbvIVdsva0lG9oJp3BWy7+cWGo20Uh8WgQt+6/P5bXZdsC9bDkbqguua2qj7qlaJ1BrqFUA4XkkHIf2PnNt3U5sc4IBRu8bn/BtJAcCM8uaMQhdU5WHvdR6+f6sCR3DVLVw==;RL12/LkvyeZCDY0NMxeoPg=="
 ---

@@ -176,6 +176,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump rages over post-presidential books he did interviews for"
+    excerpt: "The avalanche of coming books has caused recriminations. And there is anxiety about what’s to come. He knew it was coming. But former President Donald Trump still was not pleased. He had read a new book excerpt—one of many about his presidency in the last few weeks—that described him telling his former chief of staff John Kelly that Hitler,"
+    publishedDateTime: 2021-07-15T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/15/trump-post-presidential-books-499741"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/15/trump-post-presidential-books-499741"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/15/trump-post-presidential-books-499741"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/aa/97/809f5d9246d2ae67589ca151921b/7-14-21-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden says U.S. stands with Cuban protesters after historic weekend demonstrations"
     excerpt: "Biden said Cubans are responding to the \"tragic grip of the pandemic\" and \"decades of repression and economic suffering.\""
     publishedDateTime: 2021-07-12T16:15:00Z
