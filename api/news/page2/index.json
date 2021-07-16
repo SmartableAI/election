@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-15-mike-pence-evidence-strongly-suggests-covid-19-came-from-a-chinese-lab.md",
+      "title": "Mike Pence: Evidence 'strongly suggests' COVID-19 came from a Chinese lab",
+      "excerpt": "Ex-VP Mike Pence points to a Chinese lab as COVID's source, but doesn't elaborate on the evidence he's citing. In a new paper, virologists disagree.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/14/USAT/a2df8c41-e316-433a-a049-afa1df9aa141-Pence.jpg?auto=webp&crop=1999,1125,x0,y390&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/7968126002",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7968126002",
+      "publishedDateTime": "2021-07-14T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-republicans-ramp-up-pressure-on-biden-to-pull-nominee-linked-to-eco-terrorist-plot.md",
       "title": "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot",
       "excerpt": "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director.",
@@ -1310,49 +1353,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-donald-trump-lawyer-jenna-ellis-leaves-gop-official-called-her-election-claims-a-joke.md",
-      "title": "Donald Trump lawyer Jenna Ellis leaves GOP; official called her election claims 'a joke'",
-      "excerpt": "In a November email, a GOP attorney said Ellis and fellow Trump attorney Rudy Giuliani were pushing conspiracy theories about the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/09/USAT/fd3632b9-16e8-4d9a-aa74-eb98e1801514-AFP_AFP_8WQ7WV.jpg?auto=webp&crop=5328,2997,x0,y303&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/7948904002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7948904002",
-      "publishedDateTime": "2021-07-13T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

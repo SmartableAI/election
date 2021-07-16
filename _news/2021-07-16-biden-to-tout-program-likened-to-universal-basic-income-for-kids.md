@@ -1,6 +1,6 @@
 ---
 category: news
-title: "Biden sees U.S. child tax credit as 'giant step' to counter poverty"
+title: "Biden to tout program likened to universal basic income for kids"
 excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
 publishedDateTime: 2021-07-15T19:47:00Z
 originalUrl: "https://www.reuters.com/world/us/biden-tout-program-likened-universal-basic-income-kids-2021-07-15/"
@@ -61,7 +61,7 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden to tout program likened to universal basic income for kids"
+  - title: "Biden sees U.S. child tax credit as 'giant step' to counter poverty"
     excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
     publishedDateTime: 2021-07-15T19:47:00Z
     webUrl: "https://www.reuters.com/world/us/biden-tout-program-likened-universal-basic-income-kids-2021-07-15/"
@@ -76,6 +76,6 @@ related:
         height: 628
         isCached: true
 
-secured: "T7fRjsywgYP8I3hVrkJEF6OkgqEGtFvfVy/z7OF4aU6QmPxDhLpi3A26wUBaXLIgqY2Sz8V4h5xdt986wpZVFvEt99NICze8WB+LVqlfUmjfh4eyWr0QF0WKddOapQd0f+/Ci3RcpyF43MAEmeWb1d2MeeyoJLzQ1fa6rZBnOwFjJ8B251/aonfJz0pwa8g2KcPNtjunhM7O1NsQjCHlriwa1rFv4IhA+PTEyMMDv5+IkFderDSeEOnNb6lXPDH0NrSE7XvVytrwp0wBj4nv2kXHi7tJ+//4+IOBDdGW+9PoA83I50e7LGN3EPZdom1fD2owLGoQ5OGMT92QCzyfh8PomIQH8WJfPYSYQm/X8lJ6SYmfKDQBIJgKBd7+NVccmOvgQQ243YX27oNqL95crrZTvF90Khuwm3IfUOYMDVnexGZv8Bxq5MCWvSG8KL9dz3CM6PF5meqAgQ2f5+QKRr3x9Xr31aJC/b963zje2lU2uCDRn9/mirt61I8V+ouVXmfSJRsqISUVr6QmbDWhOQ==;ygIf7fKvA0pp0sXJtx/d/g=="
+secured: "ALiwH/y5tIwrJ7RA7bgvo7wj32leb8IPnJYkFenRks116u/ID68ThA8ZYuGaB3spOYgTQVOvnaI7aEY5GoCH04iuXXX5A77UXVcAKyPavHd3j2n/O1eySHYmLWWfLNDxMWu7bm6Gkq3/MOBzTgd24YlxTbnJsOq/Alaxn01EeU+GkX2oGfMPOcoFtXefrW0FrnnXDFgepDr91pTulITNFGc19C6+Y62GSiC27a1q2FLljmrZqHPQiX5N5RWF3ajsPOmnVU1FM4vdTs+/ZSrfUrBuYrWdIwbU00Y/xQ3KW4xuSAbkxWlbNuY6v+LNmTAslbSh0YH74EToIJW1dLbbdr+Zx2Fyjd2G1z2QbhqVntI=;RA7p+RhkXwu3g7Oh+7o3Jg=="
 ---
 

@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden to tout program likened to universal basic income for kids"
+    excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
+    publishedDateTime: 2021-07-15T19:47:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-tout-program-likened-universal-basic-income-kids-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/y5He3Hpeccj9uPqCfW8BphaheVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HVLUSZ6UWZI2BDO3L33JXFQCTQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "KtfwDjl/WbuS52kl/erKHl80Yr8Z9TiDQ0RR45K4N8rpyIMzsbn2Y9khZFRb7lwRDPe+pm1ezWVtaUdwoSHxsAkBSMGXEXzD7xiQfoNXQAYGcYtMCdvt8+fTTtBB4GbM36RR4vX4jVQm/tkAFbTMBBrrPg4JiH1NizKyuJNig63Tr35lrmTeploFvYvK2zecSttFsrKLDSNTs+Hns/Hu7nZbnXGXSH0fHfy1f3eOkJnXLWkdrqOTXpSSL36mezo3++N3B+pb0kcy31pKb7MKmndyLQBTuItZFZWz7rHvw19C7o1S9nfwUV3xWwbSBf6gH8N6hrRTTYR7pTm2gUE/uOAw8lEPZfop7j5IWGCDLGTH/X5SM3HUsgKhAsPL2lWtHxIkgGfxgVzQPcAUskEWXEKJJXPfJsqtm9B4oN4qi+zEEXuZQfINFsksHrwVysbUU3eHGErkEfvlynuJiUVPdGsNlVMVonpwxL/geym7Dtbg1M0xK/N/Q8PuimryRIf6IyDlqrCLK/X2ADptNAfh5w==;YJidU+AUxFIQO0KrhdV8AA=="
 ---

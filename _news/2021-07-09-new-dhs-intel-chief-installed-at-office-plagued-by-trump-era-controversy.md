@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy puts political hopes above democracy with Trump pilgrimage"
+    excerpt: "House Republican leader Kevin McCarthy's new pilgrimage to Donald Trump shows there is no price a party that has slipped its moral moorings and given up on democracy will not pay for power.\n    \n"
+    publishedDateTime: 2021-07-16T04:43:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H7Q5xKP5Tcc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/donald-trump-kevin-mccarthy-republican-party-capitol-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/donald-trump-kevin-mccarthy-republican-party-capitol-insurrection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128150146-01-kevin-mccarthy-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump is still the king of the GOP -- J.D. Vance just proved why"
     excerpt: "It took J.D. Vance only four days to understand just how much control Donald Trump has over the Republican Party these days.\n    \n"
     publishedDateTime: 2021-07-06T20:09:35Z

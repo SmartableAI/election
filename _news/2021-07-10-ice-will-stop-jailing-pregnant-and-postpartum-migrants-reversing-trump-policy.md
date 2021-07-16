@@ -159,6 +159,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
+    excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
+    publishedDateTime: 2021-07-16T02:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pentagon/i-wouldnt-do-a-coup-with-milley-trump-says-of-top-u-s-general-idUSKBN2EL2LS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL2LS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL2LS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1569007152&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E17W"
+        width: 678
+        height: 545
+        isCached: true
   - title: "Trump opines on coup while rejecting fears about his actions"
     excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election"
     publishedDateTime: 2021-07-15T21:16:00Z
@@ -299,20 +315,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2021/t_a3c3cde991714404b31a8233fe5f855f_name_20210713_GOP_VACCINE_V3.png&w=1440"
         width: 1440
         height: 810
-        isCached: true
-  - title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
-    excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
-    publishedDateTime: 2021-07-16T02:24:00Z
-    webUrl: "https://www.reuters.com/world/us/i-wouldnt-do-coup-with-milley-trump-says-top-us-general-2021-07-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/gNE8bQbI5tTcyir7uCt_G2PcOiE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RN73CRM2KVPD5KL455LI56S4BA.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."

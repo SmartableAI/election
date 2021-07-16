@@ -2,11 +2,13 @@
 category: news
 title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
 excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
-publishedDateTime: 2021-07-16T02:24:00Z
-originalUrl: "https://www.reuters.com/world/us/i-wouldnt-do-coup-with-milley-trump-says-top-us-general-2021-07-15/"
-webUrl: "https://www.reuters.com/world/us/i-wouldnt-do-coup-with-milley-trump-says-top-us-general-2021-07-15/"
+publishedDateTime: 2021-07-16T02:28:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-pentagon/i-wouldnt-do-a-coup-with-milley-trump-says-of-top-u-s-general-idUSKBN2EL2LS"
+webUrl: "https://www.reuters.com/article/us-usa-trump-pentagon/i-wouldnt-do-a-coup-with-milley-trump-says-of-top-u-s-general-idUSKBN2EL2LS"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL2LS"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL2LS"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.reuters.com/resizer/gNE8bQbI5tTcyir7uCt_G2PcOiE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RN73CRM2KVPD5KL455LI56S4BA.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1569007152&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E17W"
+    width: 678
+    height: 545
     isCached: true
 
 related:
@@ -579,6 +581,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "cNsm80tfDvyJ4QgmF65WlGgMU9DF9uEOrzXNDKv69bMW+o3h/7pLbpdtCLdynzT43KBEFqhMQulf7pf4z0nnoVs2aqYjmKhQBmaAIyN/fW9JY8asfBGsBlLvIbCbluEXr2cI3OQK5/jPBG+m/YI0p/NFC+i/IB1YlSDD0/ZLsgzwfz4PZ+MMerr/MZjXwdq1wbab+jHzA1J/42iq/JWlDZ6ifi5zPWgpSf9CTCdqch7PK4DU0G+wrFEorFue/Z+NSFhUhuDCMU4y4Gcm8WSxF1XdeIulO2ks+iDn243iAP8fyrnyUCbmqUkTCwJPph6Yi9YCwk5Y8KAHUQIsc4hgdi30/amvtBJmbPHzqUU7XTwn6y5DmimHs/A50NPzTMLDwVLxHP1psMssf8dtwHoi1Q6CIO0yhIaQbW8XGf3wBaT5QQa3OVBgqG5YeuJdqqgJsS1vCY/Fz4FyOHfeIOQTYM7t7JhpiKHRL12HGC8IW0Z/wiMG2M//hkLJ22gkbTUaZjWJnQiaLV/r54Ea5hbu2A==;fXVXMTxp+0AW/mLxKLKSCg=="
+secured: "4sZj7GUe6E8Go0/5+gk/6ohJJCq3apCwXJ3wvIwiCCFAUuFisVf36hwxY77/gMmmwQ9qjzwaScWpNI7HB9/eJpbgHFpYzykdXL71PelziDUOqtvcA5kB5+/tbK/0Om0/MEHL8iQu8ArJ0/xF/9d/zBs3EXklS/lLaB1/JWzr9HF6kbr+wsoC3Mm1g8B3ZXyJZrT9iwWEA+mMg7xYroZWcYwBKGnAlphtQ/wNjB3HKRU7H9sNlLL2V3Ek6quXzBZE03yoLo1WXsgcFFiJpLPzF/gbgAa8N/jh9Ek7MYaMLbvYCfr1Yw5a15N8eqpme6suj+YvETdyL6Fx8KXC39n8WvipohlgKsGxxFD61Z+vfKA=;WTRiS5BdTvQY6CcRHNhJ8g=="
 ---
 
