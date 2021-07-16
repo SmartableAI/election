@@ -27,37 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "Tucker Carlson Calls Kamala Harris a 'Power Hungry Buffoon,' Says She Acts Like President"
-    excerpt: "Tucker Carlson has branded Vice President Kamala Harris a \"power hungry buffoon\" who may have a lot of power as a result of what he called President Joe Biden's \"senility.\" The Fox News personality told his prime-time audience on Friday that the vice president \"has no idea what she's doing\" and he pointed to a Politico report about the culture in her office."
-    publishedDateTime: 2021-07-03T09:35:00Z
-    webUrl: "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623"
-    ampWebUrl: "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1"
+  - title: "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit"
+    excerpt: "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center."
+    publishedDateTime: 2021-07-12T13:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7934543002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7934543002"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/25/PTX1/77b5bf4f-deac-457f-8549-bb1965edcac4-Harris_Border1553.JPG?auto=webp&crop=4364,2455,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Kamala Harris holds listening session on voting rights, vaccination event in Michigan"
+    excerpt: "Kamala Harris was expected to address voting rights and the coronavirus vaccination effort during her first visit to Detroit as vice president."
+    publishedDateTime: 2021-07-12T22:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7935097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7935097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 116
     images:
-      - url: "https://d.newsweek.com/en/full/1837281/biden-delivers-remarks-kamala-harris.jpg"
-        width: 2500
-        height: 1621
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Vice President Harris announces $25 million for DNC voter registration efforts ahead of midterms"
-    excerpt: "Vice President Kamala Harris announces a $25 million investment by the DNC into its voter registration program."
-    publishedDateTime: 2021-07-08T23:42:00Z
-    webUrl: "https://www.cnbc.com/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+  - title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
+    excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."
+    publishedDateTime: 2021-07-13T00:49:00Z
+    webUrl: "https://www.indystar.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7935097002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7935097002"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 112
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 66
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106908357-1625766367770-gettyimages-1233874089-AFP_9EF64V.jpeg?v=1625766403"
-        width: 4500
-        height: 2993
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Kamala Harris urges vaccination in Michigan: 'This virus does not care who you voted for'"
+    excerpt: "In an exclusive interview with the Free Press Monday, Vice President Kamala Harris talked about the urgent need to get more people COVID-19 vaccines."
+    publishedDateTime: 2021-07-13T10:22:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/07/13/vice-president-kamala-harris-detroit-michigan-visit-covid-coronavirus-vaccines/7945583002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7945583002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7945583002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/24b3fb7d-7932-4642-92d9-1168499e5d92-071221_kamala_visit_rg_36.jpg?auto=webp&crop=2399,1350,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "With Harris and Hannah-Jones, Howard University is on a roll"
     excerpt: "With the surprise twin hiring of two of the country’s most prominent writers on race, Howard University in Washington, D."

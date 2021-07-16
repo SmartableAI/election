@@ -47,33 +47,6 @@ related:
         width: 2500
         height: 1621
         isCached: true
-  - title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
-    excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"
-    publishedDateTime: 2021-07-07T23:59:00Z
-    webUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 71
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LISVKDLIQVFNVMSZDAWOLGMXRQ.jpg"
-        width: 5714
-        height: 3809
-        isCached: true
-  - title: "With Harris and Hannah-Jones, Howard University is on a roll"
-    excerpt: "With the surprise twin hiring of two of the country’s most prominent writers on race, Howard University in Washington, D."
-    publishedDateTime: 2021-07-10T23:41:00Z
-    webUrl: "https://www.heraldsun.com/news/state/article252698243.html"
-    ampWebUrl: "https://amp.heraldsun.com/news/state/article252698243.html"
-    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/state/article252698243.html"
-    type: article
-    provider:
-      name: The Herald-Sun
-      domain: heraldsun.com
-    quality: 55
 
 secured: "06TEACBwBiXZC9rFtIRwNSx7g4FHTvgoqLcdI2NXUy09XM7DwzOfquk3LsMmbjz5TDk6aoYixTdPJMy3A6rIRf8Xxr5DUATfORx+5cHxymV8nEBl9gRXkzQmoamlP8ygw3FbP77RKPDt261U9EJpP3h17q1hc+hzG3nyJPUwChImGndHHJrTSWjjCAIkbj7eeOVcTyqd7DD+ZEkwsgVoeT4zcSXP2yr1UvPNhmQzh95HAYC+FqfHweCySC+dbi3Y/RTDbFT9UV04VCZxzKvlsg0CZoK9HPTKnSGxxkmrDLDLV91x90TOyFSDVF3ZxqDbXcvODMjLMuJrKnk6M5dzHBPwFCCpXZeuPt7x3FntbMg=;a3wbg/TN9v+4PPdQgrSr6w=="
 ---

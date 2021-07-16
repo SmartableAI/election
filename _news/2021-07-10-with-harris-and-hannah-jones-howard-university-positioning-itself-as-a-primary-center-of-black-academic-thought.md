@@ -41,54 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "VP Kamala Harris holds listening session on voting rights, vaccination event in Michigan"
-    excerpt: "Kamala Harris was expected to address voting rights and the coronavirus vaccination effort during her first visit to Detroit as vice president."
-    publishedDateTime: 2021-07-12T22:45:00Z
-    webUrl: "https://www.azcentral.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/7935097002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7935097002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
-    excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."
-    publishedDateTime: 2021-07-13T00:49:00Z
-    webUrl: "https://www.indystar.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7935097002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7935097002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Kamala Harris urges vaccination in Michigan: 'This virus does not care who you voted for'"
-    excerpt: "In an exclusive interview with the Free Press Monday, Vice President Kamala Harris talked about the urgent need to get more people COVID-19 vaccines."
-    publishedDateTime: 2021-07-13T10:22:00Z
-    webUrl: "https://www.indystar.com/story/news/2021/07/13/vice-president-kamala-harris-detroit-michigan-visit-covid-coronavirus-vaccines/7945583002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7945583002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7945583002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/24b3fb7d-7932-4642-92d9-1168499e5d92-071221_kamala_visit_rg_36.jpg?auto=webp&crop=2399,1350,x0,y171&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "In Las Vegas visit, Harris touts nation’s resilience, infrastructure package"
     excerpt: "The event was part of the Biden administration’s “America’s Back Together” tour celebrating the country’s progress against the COVID-19. In speeches to cheering supporters, Harris and Democrats in the Nevada congressional delegation touted federal COVID relief,"
     publishedDateTime: 2021-07-03T23:55:00Z

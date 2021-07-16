@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to warn US companies about doing business in Hong Kong"
+    excerpt: "The Biden administration is expected to issue a blanket warning to U.S. firms about the risks of doing business in Hong Kong as China continues to clamp down on political and economic freedoms in the"
+    publishedDateTime: 2021-07-15T23:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-warn-us-companies-business-hong-kong-78874750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-warn-us-companies-business-hong-kong-78874750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-warn-us-companies-business-hong-kong-78874750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_12b4e463d78b4ed98190c44b94de1acb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden's Stimulus Is Financing GOP's Billionaire Tax Cuts"
     excerpt: "Republicans are taking advantage of the Biden administration's refusal to enforce a law designed to make sure stimulus money isn't used for tax breaks."
     publishedDateTime: 2021-07-15T17:54:00Z

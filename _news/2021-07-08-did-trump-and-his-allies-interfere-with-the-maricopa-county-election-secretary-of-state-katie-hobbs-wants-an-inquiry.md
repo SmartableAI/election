@@ -191,6 +191,20 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Winston partner withdraws as lawyer for pro-Trump election challenger"
+    excerpt: "One week after they signed on to represent a former Trump administration official who is facing potential sanctions after suing to overturn the election results in Michigan, Winston & Strawn and one of its high-ranking partners are walking away from the case."
+    publishedDateTime: 2021-07-15T20:31:00Z
+    webUrl: "https://www.reuters.com/legal/government/winston-partner-withdraws-lawyer-pro-trump-election-challenger-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://www.reuters.com/resizer/24P_AVnaICSZoyPGlCt9F1Xf8H0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MY47DQUMBFIRHMYLA54BW7L2WE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Ariz. Secy. of State calls for probe of Trump..."
     excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-09T04:45:00Z

@@ -175,6 +175,20 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Winston partner withdraws as lawyer for pro-Trump election challenger"
+    excerpt: "One week after they signed on to represent a former Trump administration official who is facing potential sanctions after suing to overturn the election results in Michigan, Winston & Strawn and one of its high-ranking partners are walking away from the case."
+    publishedDateTime: 2021-07-15T20:31:00Z
+    webUrl: "https://www.reuters.com/legal/government/winston-partner-withdraws-lawyer-pro-trump-election-challenger-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://www.reuters.com/resizer/24P_AVnaICSZoyPGlCt9F1Xf8H0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MY47DQUMBFIRHMYLA54BW7L2WE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Did Trump and his allies interfere with the Maricopa County election? Secretary of State Katie Hobbs wants an inquiry"
     excerpt: "Hobbs asked Brnovich to refer her request to another law enforcement agency if his ethical duties prevent him from looking into it."
     publishedDateTime: 2021-07-08T15:35:00Z
@@ -521,6 +535,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "LR5hOXH4BDD2ZQfQveDiz/xcKU+8N6gOzet3rAMvwUkNOhPK2rW0vy+rrhD0FOQJVUwi+xkUm6W594l/v5YbHLu7U59l3O1uE4rRKG/NcTo4McPIfdasCSJNqB/m2cAN5FkxZI8/l0CIN6x/okOnQdozfBThLKa/KlZixLzkv3K26uj+Sq8kI/R8VGdoLboppnRiODxigsjun/xy2rFEMPAdxp77HWvz/Wekc+Ccfc8LS/DMO1onKUyhX5opDF37zJ/PyuOg2U6SZJaHSkhSj4fCklPgiYGAJkfCQqvdVFoUa7pt7YOe4Jq+gxiD0CshIyv66g5B3ZiAEgrMeYu0irFHjRyfkYMbV9+XeGiYrVs=;59vOJQLOPF/6Os5jV3o95Q=="
+secured: "20E5HQjZNTAEThLXRww+ksEyVdjIQSAwEyWGo74TRzZ6+HaZNJhAAJBra2+B7ILvY+3jMqXBlIgtpRUESfH09jARZiqXOCVQh7+QQOYK/3lQwPXlLT1aNECljpsl32wHZaE3NOJnYZt/R2M+Lo5kLY5EW+18cEHg3QHguCj9Kmt5MrTGBCn4Y4aXBYzrppXvB791Mx83N4C9meFQk33F3WpQBqxSod1i/T5W9xA1PLkKvQPrOSLh9j9+1fSVaNtyIcD7xWNwSccnkoVa1f/mvo+ETQ9d1115GHd6pShdPnELs4X+xsV2/3c5pkGNjrG2O6r6l1NDsehIlSpFOXPbQfLYYvSlkwzh8Zm9Sa3sPJRnFkuXKt95HvIzogCTlv+3Dab3ruJFdU+G2/+OJj9SIFv2xil4OO94STEWkMSEtmNF1FrITOZnRSs09XM6dgBxbPfnN2ow1Tg0c8dfDXcqTB2T1dOc/sdUYWEBQvb0v6gtUh5TNnfdXBzEqtRFnBKoLzMDDpRebiH1lHKB7JuL2A==;NPLU2S43fIirkb1cljBq7g=="
 ---
 

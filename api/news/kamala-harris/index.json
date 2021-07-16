@@ -224,11 +224,11 @@
       "title": "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit",
       "excerpt": "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center.",
       "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -242,14 +242,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/7934543002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7934543002",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7934543002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7934543002",
       "publishedDateTime": "2021-07-12T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -385,7 +394,7 @@
       "originalUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -598,7 +607,7 @@
       "originalUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 136,
       "tags": null,
       "images": [
         {

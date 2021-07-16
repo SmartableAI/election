@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-16-biden-sending-troops-to-haiti-not-on-the-agenda.md",
+      "title": "Biden: Sending troops to Haiti 'not on the agenda'",
+      "excerpt": "President Joe Biden says that the U.S. will bolster security at its embassy in Haiti following last week's assassination of that country's president, but sending American troops to stabilize the country was \"not on the agenda.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/15/biden-sending-troops-haiti-not-agenda/7986705002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/15/biden-sending-troops-haiti-not-agenda/7986705002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/0d391e16-975f-4be7-af38-992eee6e405e_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-biden-praises-child-tax-credit-payments-as-historic-step-to-end-child-poverty-live.md",
       "title": "Biden praises child tax credit payments as ‘historic step’ to end child poverty – live",
       "excerpt": "Biden says – follow all the latest politics news",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0493f8f0827c8ef6d1ac3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -274,63 +326,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-biden-wanted-a-climate-alliance-with-europe-hes-getting-a-fight.md",
-      "title": "Biden wanted a climate alliance with Europe. He's getting a fight.",
-      "excerpt": "The European Union’s leadership is set to unveil a proposal on Wednesday to tax imports from countries — including the U.S. — that lack aggressive carbon-reducing policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/07/13/europe-climate-tax-trade-biden-499557",
-      "originalUrl": "https://www.politico.com/news/2021/07/13/europe-climate-tax-trade-biden-499557",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/82/12/ae65cf394d20be5a17a9d53cb905/210713-kerry-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/13/europe-climate-tax-trade-biden-499557",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/europe-climate-tax-trade-biden-499557",
-      "publishedDateTime": "2021-07-13T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -642,7 +637,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -694,7 +689,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {

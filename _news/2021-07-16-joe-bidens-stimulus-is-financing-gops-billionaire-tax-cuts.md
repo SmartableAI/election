@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to warn US companies about doing business in Hong Kong"
+    excerpt: "The Biden administration is expected to issue a blanket warning to U.S. firms about the risks of doing business in Hong Kong as China continues to clamp down on political and economic freedoms in the"
+    publishedDateTime: 2021-07-15T23:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-warn-us-companies-business-hong-kong-78874750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-warn-us-companies-business-hong-kong-78874750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-warn-us-companies-business-hong-kong-78874750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_12b4e463d78b4ed98190c44b94de1acb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to direct USDA to boost competition in agricultural industries - source"
     excerpt: "U.S. President Joe Biden will direct the Department of Agriculture to adopt new rules to boost competition in agricultural industries in an upcoming executive action from the White House, a source familiar with the situation said."
     publishedDateTime: 2021-07-06T12:33:00Z

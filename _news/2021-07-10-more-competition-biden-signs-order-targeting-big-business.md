@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-set-sign-competi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_6b51f4808e4e42cf93063aae3609886f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to warn US companies about doing business in Hong Kong"
+    excerpt: "The Biden administration is expected to issue a blanket warning to U.S. firms about the risks of doing business in Hong Kong as China continues to clamp down on political and economic freedoms in the"
+    publishedDateTime: 2021-07-15T23:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-warn-us-companies-business-hong-kong-78874750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-warn-us-companies-business-hong-kong-78874750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-warn-us-companies-business-hong-kong-78874750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_12b4e463d78b4ed98190c44b94de1acb_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

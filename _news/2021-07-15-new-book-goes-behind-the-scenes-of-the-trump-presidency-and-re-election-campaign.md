@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 795
+heat: 815
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/b80266b/2147483647/strip/true/crop/3661x2391+27+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F55%2F573f804d4c2bbad3a1f1aeb985c8%2Fimg-5620.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Winston partner withdraws as lawyer for pro-Trump election challenger"
+    excerpt: "One week after they signed on to represent a former Trump administration official who is facing potential sanctions after suing to overturn the election results in Michigan, Winston & Strawn and one of its high-ranking partners are walking away from the case."
+    publishedDateTime: 2021-07-15T20:31:00Z
+    webUrl: "https://www.reuters.com/legal/government/winston-partner-withdraws-lawyer-pro-trump-election-challenger-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://www.reuters.com/resizer/24P_AVnaICSZoyPGlCt9F1Xf8H0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MY47DQUMBFIRHMYLA54BW7L2WE.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Did Trump and his allies interfere with the Maricopa County election? Secretary of State Katie Hobbs wants an inquiry"
     excerpt: "Hobbs asked Brnovich to refer her request to another law enforcement agency if his ethical duties prevent him from looking into it."

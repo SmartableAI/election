@@ -79,6 +79,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New book claims top generals feared Trump wanted military post-election coup"
+    excerpt: "According to a new book about Donald Trump’s final year as president, the nation’s top military leader was worried about what Trump might do to remain in power after the 2020 election. NBC News’ Courtney Kube explains the conversations detailed in the book."
+    publishedDateTime: 2021-07-15T22:53:00Z
+    webUrl: "https://www.nbcnews.com/now/video/new-book-claims-top-generals-feared-trump-wanted-military-post-election-coup-116846661558"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116846661558"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116846661558"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/ott_now_book_2coup_210715_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Donald Trump will attend the fight, Dana White said."
     excerpt: "The U.F.C.’s president, Dana White, told TMZ that former President Donald J. Trump would be in Las Vegas on Saturday night as McGregor and Poirier complete their trilogy at U.F.C. 264. White said that Trump will sit right behind him on the floor near the octagon."
     publishedDateTime: 2021-07-10T23:07:00Z
