@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-17-bad-hair-days-return-biden-drops-showerhead-rule-trump-demanded-for-more-water-perfect-coiffure.md",
+      "title": "Bad hair days return? Biden drops showerhead rule Trump demanded for more water, 'perfect' coiffure",
+      "excerpt": "President Joe Biden's administration is reversing a Trump-era rule that allowed more water to flow through showerheads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/24/USAT/f0dfce74-db67-49bb-8c0e-2000322cef95-showerhead.png?auto=webp&crop=1044,587,x5,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7992908002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7992908002",
+      "publishedDateTime": "2021-07-16T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f-king-war.md",
       "title": "Gen. Milley warned Trump on possible Iran strikes: 'You're gonna have a f--king war'",
       "excerpt": "Chairman of the Joint Chiefs Gen. Mark Milley Mark Milley Overnight Defense: Milley feared Trump coup, book says \\| Gillibrand expects fall vote on sweeping military justice bill \\|",
@@ -1487,49 +1539,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison.md",
-      "title": "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison",
-      "excerpt": "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/",
-      "originalUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zCa1Ca2zlW4bmCcsYI3SU8riwQQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HLGM5BHIYRGMROO3EYOIRXRYUU.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp",
-      "publishedDateTime": "2021-07-09T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
 type: article
 quality: 163
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Two men charged in alleged scheme to attack Democratic headquarters in Sacramento inspired by Trump defeat, DOJ says"
+    excerpt: "Federal authorities have arrested two men in California who allegedly wanted to start a movement to overthrow the government and discussed blowing up the Democratic headquarters in Sacramento because of the 2020 election, according to a Justice Department press release.\n    \n"
+    publishedDateTime: 2021-07-16T17:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A-7nc3OKua8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 152
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716105211-doj-complaint-ieds-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump could be called to testify before House Jan. 6 panel, Clyburn says"
     excerpt: "Trump held a rally on Saturday where he asked for more information into the death of a woman who was fatally shot while storming the Capitol."
     publishedDateTime: 2021-07-04T15:42:00Z

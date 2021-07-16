@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html"
 type: article
 quality: 162
-heat: 162
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden to tap former ambassador to France as his ambassador to the UK after lengthy search"
+    excerpt: "President Joe Biden will name Jane Hartley as his ambassador to the United Kingdom after a lengthy search, a person familiar with the decision told CNN.\n    \n"
+    publishedDateTime: 2021-07-16T17:11:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE06_f1H4RM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716112743-jane-hartley-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "lH3ML9hHL9jJdeSGgkV06NtydEA+ULGb89lqlIxHUcCnGMJRnZM09F4a8ZBQiLiCvkp+7kOtDviQjodt2D06dG11/mrBvNyT33J3cbrexrk70Xtg2vFV2VDFCpXBJvddJQAq72y54QbzpUO4fGg+ImFilcPEB7nVU3UvZZ5g5mF5oipNe4Spog1YQrZqUZgSUwzitHNmMsTrUH8A+JmeNScb43MKatoIDea9dXJyTUwRXnSlUmVRnRusDw3XKVXNoRiQQjdGk+PeJyp3S6HLb8vEHjAoxFpLmDqyTjmlncs1d8EXsQqnm0GXNDZGjc0dfLHhLQL4J+gedHGsU2bS0CJUCXinkzpSjiJfnse6G48=;1YQpn95mN79KpBkSfEXUBw=="
 ---

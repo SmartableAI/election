@@ -2,6 +2,172 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-15-gutfeld-on-bidens-blast-to-voting-laws-halting-of-lego-gun-sales.md",
+      "title": "'Gutfeld!' on Biden's blast to voting laws, halting of Lego gun sales",
+      "excerpt": "In some of his strongest language yet, President Biden today blasting Republican efforts to restrict voting access as un-American and a test of our democracy. UNIDENTIFIED MALE: President Biden late today in Philadelphia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales",
+      "originalUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp",
+      "publishedDateTime": "2021-07-15T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-10-things-in-politics-kamala-harris-toxic-work-culture.md",
+      "title": "10 Things in Politics: Kamala Harris' toxic work culture",
+      "excerpt": "And Republicans are getting antsy about infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/605c34990d155e0019ef69ef?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp",
+      "publishedDateTime": "2021-07-15T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-chaffetz-claims-direct-evidence-joe-biden-was-privy-to-hunters-business-deals-as-house-gop-seeks-documents.md",
+      "title": "Chaffetz claims 'direct evidence' Joe Biden was privy to Hunter's business deals, as House GOP seeks documents",
+      "excerpt": "Government Accountability Institute fellow Jason Chaffetz claimed Wednesday on “Hannity” that there is direct evidence being laid out by one of his GAI colleagues that shows President Joe Biden was privy to Hunter Biden's foreign business dealings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals",
+      "originalUrl": "https://www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b08bc2fd-79b2-4cc1-aa64-1c5784d1fc24/9c40225e-d388-4b71-8ee5-5d800a33c276/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals.amp",
+      "publishedDateTime": "2021-07-14T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-mcconnell-condemns-biden-fury-over-gop-voting-reform-as-utter-nonsense.md",
       "title": "McConnell condemns Biden fury over GOP voting reform as 'utter nonsense'",
       "excerpt": "Senate Minority Leader Mitch McConnell on Wednesday condemned a fiery speech by President Biden as “utter nonsense” for alleging GOP voting reform laws were comparable to the Civil War.",
@@ -14,7 +180,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 214,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -977,7 +1143,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1162,174 +1328,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.amp",
       "publishedDateTime": "2021-07-13T18:56:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-justice-clarence-thomas-rejects-longshot-bid-to-disrupt-bidens-mask-mandate-for-public-transport.md",
-      "title": "Justice Clarence Thomas rejects longshot bid to disrupt Biden's mask mandate for public transport",
-      "excerpt": "Justice Clarence Thomas on Tuesday rejected an emergency request to block Biden administration's Covid-19 mask requirement for public travel.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210713183958-airline-passenger-masks-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
-      "publishedDateTime": "2021-07-13T16:37:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-mitch-mcconnell-responds-to-trumps-old-crow-insult-its-quite-an-honor.md",
-      "title": "Mitch McConnell responds to Trump's 'Old Crow' insult: 'It's quite an honor'",
-      "excerpt": "Former President Donald Trump took a whack at Senate GOP leader Mitch McConnell last weekend, calling him an \"Old Crow\" as he railed against the Kentucky Republican.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1daCraT4Ons/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1daCraT4Ons/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216121358-01-mcconnell-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/mitch-mcconnell-old-crow/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/mitch-mcconnell-old-crow/index.html",
-      "publishedDateTime": "2021-07-13T16:02:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-biden-taps-new-drug-czar-as-illicit-substances-continue-to-pour-across-the-border.md",
-      "title": "Biden taps new drug czar as illicit substances continue to pour across the border",
-      "excerpt": "President Biden nominated former West Virginia health official, Rahul Gupta, as the nation’s new head of U.S. drug policy as overdoses and drug trafficking surge.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n6IB-El_G2E/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n6IB-El_G2E/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp",
-      "publishedDateTime": "2021-07-13T15:38:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "McConnell calls for Biden to withdraw nominee linked to eco-terrorist plot"
+    excerpt: "EXCLUSIVE: Senate Minority Leader Mitch McConnell is calling on President Biden to \"immediately\" pull Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director over her link to an eco-terrorist plot and her apparently misleading answers to senators about it. "
+    publishedDateTime: 2021-07-16T16:41:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ftWcvMnEJHM/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's flip on Hyde Amendment sign of administration 'spiraling way, way to the left': McConnell"
     excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., slammed President Biden for steering the U.S. to the more to the left despite campaigning as a moderate, in light of Democrats' push to eliminate the Hyde Amendment."
     publishedDateTime: 2021-07-15T18:05:24Z

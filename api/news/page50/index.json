@@ -2,6 +2,114 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-04-10-donald-trump-jr-and-kimberly-guilfoyle-buy-south-florida-mansion-for-97m.md",
+      "title": "Donald Trump Jr. and Kimberly Guilfoyle buy South Florida mansion for $9.7M",
+      "excerpt": "Donald Trump Jr. and his partner, the TV personality Kimberly Guilfoyle, have reportedly picked up a waterfront mansion in Jupiter, FL.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html",
+      "originalUrl": "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/eY5MetWHg1EM4BGDFmOEQ8BBUUU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSTH2KLA2VC2VOE5P64ONHJS4A.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-09T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-trump-says-prince-philips-death-is-irreplaceable-loss-for-great-britain.md",
+      "title": "Trump says Prince Philip's death is 'irreplaceable loss for Great Britain'",
+      "excerpt": "Former President Donald Trump remembered the late Prince Philip on Friday as \"a man who embodied the noble soul and proud spirit\" of the United Kingdom.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B066RT089tM/trump-prince-philip-irreplaceable-loss-great-britain",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B066RT089tM/trump-prince-philip-irreplaceable-loss-great-britain",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/queenphilip.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp",
+      "publishedDateTime": "2021-04-09T11:33:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-bidens-budget-wish-list-850m-for-central-america-aid-36b-for-poor-schools.md",
       "title": "Biden's Budget Wish List: $850M for Central America Aid, $36B for Poor Schools",
       "excerpt": "President Joe Biden is set to release his first budget wish list before members of Congress return next week, giving insight into his policy agenda and marking his stark departure from former President Donald Trump's priorities. Included in the proposal ...",
@@ -1234,118 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mueller-fraud-investigator-brought-in-to-help-vances-probe-of-trump-org.md",
-      "title": "Mueller fraud investigator brought in to help Vance's probe of Trump Org.",
-      "excerpt": "A former FBI agent key to special counsel Robert Mueller's investigation into Russian meddling in the 2016 presidential election is one of several forensic accountants working on the Manhattan district attorney's investigation into the Trump Organization, people familiar with the matter say.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aZEDcNpRbYg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aZEDcNpRbYg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/vance-mueller-manafort/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/vance-mueller-manafort/index.html",
-      "publishedDateTime": "2021-04-08T12:16:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-epa-replaces-trump-era-chemical-guidance-calling-it-compromised-by-politics.md",
-      "title": "EPA replaces Trump-era chemical guidance, calling it 'compromised' by politics",
-      "excerpt": "The Biden-led Environmental Protection Agency says Trump administration political officials \"compromised\" an assessment of chemical dangers and has replaced it with a new one they say \"upholds the tenants of scientific integrity.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GfiiSe6n1nw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GfiiSe6n1nw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/environmental-protection-agency-chemical-guidance/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/environmental-protection-agency-chemical-guidance/index.html",
-      "publishedDateTime": "2021-04-08T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

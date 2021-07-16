@@ -223,6 +223,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Cuban president responds to Biden on 'failed state' comments"
+    excerpt: "Cuban President Miguel Diaz-Canel said it was the U.S. and not Cuba which was a \"failed state,\" reacting to previous comments made by President Joe Biden."
+    publishedDateTime: 2021-07-16T17:02:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/cuban-president-responds-biden-failed-state-comments-rcna1442"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1442"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1442"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210716-Miguel-Diaz-Canel-ew-1254p-e10d17.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Biden says U.S. stands with Cuban protesters after historic weekend demonstrations"
     excerpt: "Biden said Cubans are responding to the \"tragic grip of the pandemic\" and \"decades of repression and economic suffering.\""
     publishedDateTime: 2021-07-12T16:15:00Z

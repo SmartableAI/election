@@ -240,6 +240,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Cuban president responds to Biden on 'failed state' comments"
+    excerpt: "Cuban President Miguel Diaz-Canel said it was the U.S. and not Cuba which was a \"failed state,\" reacting to previous comments made by President Joe Biden."
+    publishedDateTime: 2021-07-16T17:02:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/cuban-president-responds-biden-failed-state-comments-rcna1442"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1442"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1442"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210716-Miguel-Diaz-Canel-ew-1254p-e10d17.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "PRITZKER TO MEET WITH BIDEN — COOK COUNTY’s TAX PROBLEM — TERRI BRYANT’s TRUMP TALK"
     excerpt: "Pritzker headed to White House for meeting with Biden on bipartisan infrastructure plan: “Gov. J.B. Pritzker is one of three governors and five mayors who will join President Joe Biden at the White House on Wednesday for a bipartisan meeting on infrastructure,"
     publishedDateTime: 2021-07-14T12:19:00Z

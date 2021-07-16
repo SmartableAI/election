@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-voting-rights-speech-state-el
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Prosecutor investigating Hunter Biden stalled to avoid alerting public about probe ahead of election: Report"
+    excerpt: "The federal prosecutor investigating Hunter Biden’s taxes reportedly waited until after the election to seek search warrants, which stalled the public from finding out about the probe."
+    publishedDateTime: 2021-07-16T16:16:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/69UGnmSa_Xo/federal-proscutor-investigating-hunter-biden-stalled"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-proscutor-investigating-hunter-biden-stalled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-proscutor-investigating-hunter-biden-stalled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

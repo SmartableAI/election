@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden meets Merkel at White House: ‘Our nations understand the imperative of democracy’ – live"
+    excerpt: "President thanks German chancellor for ‘strong, principled leadership’ – follow all the latest politics news"
+    publishedDateTime: 2021-07-15T23:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0b1f48f08331a6b28860c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/0259455082635cfb374ca5eb6d782612ff0bfbd3/0_13_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0096c3b7acc3f0d73a979f1b6d79602"
+        width: 600
+        height: 360
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Goldman Sachs - Biden rallies Senate Dems behind mammoth spending plan"
     excerpt: "President Biden on Wednesday appeared on Capitol Hill in an attempt to rally Senate Democrats behind his push to pass a multi-trillion-dollar spending plan aimed at infrastructure, climate change and health care that requires unanimous support from all 50 members."
     publishedDateTime: 2021-07-15T10:22:00Z
@@ -96,6 +112,6 @@ related:
         height: 551
         isCached: true
 
-secured: "27VZtWqpur5tgrxThUbVSWMBz6lpjNUV2TR4eFZO7+nXI1vND13ODAEFcq+9gX+rgsBmXAOZCxrzvZlXpMVX1xWUszZJknrrYHKYo5u5vxm0i1ofzHEkS0TgmGCPYuyfuy1Q+vhK7HHmhroxJhXKxiElazzesb8aW/MnL4qlPTtg8Mn+0mypO9D0FEi4VfPJFY4NLHWiRiPwT/j64eXIplfvY4FKJWA6UppmxtL2/vxbXI4TOtu1OP1wYwWwxE5cZlrxNxWfftdQsHzQ05VTiEkwfvrIuuwX/aW1diHXyYgFGIxZ8xkoBCXkXE4GhtKDBDlux/Kktmbmpr6MzN7Kf3DYV+zbXPY4au9g/xAiAcQ=;02DBCe4XQy0bO7CHo4g+LA=="
+secured: "tSF6FWARvu5hTgVXiL9Cr4rQOfhHuzh1Ulk23DG7zVgYORWFCMYRl+EkNDMZqwOHv3geGIcjPDi3AfV/vBS3m85k9qk4yNGFi5YiX5l4rMz9jQzqcKQK4SbCD323LgbJY2woTLdtncvY0lHOpsh4uUqMlYmasChsz/POMPpJtZJinaL4G0Uxg1aPP4Xp4pMWhbqJ6x6DxgEZnqi6yz4SPlIKxAJhKv/euMBtvICDrB0O3ECt/K212EuMAEaDlyQUHx1dROtWgAEhfrVBiWCz82oU0las7qAsBTy+K3eXnCwk2xX/YdbhBWtboU6PHyVdwh50YHUTVB1CQJJpmoVs00G9Q9VBWrtVNnPBGH2phpOsyS5NE4TS6H5HVjX6H2KHEq8ZynWym+V/Pi4cUeZr2nUA6hRiljjyoxvW/AnahjealViQcxGceafVQSv9t66+PPeWCH1c5RGu7hqtpCa+Zan8ACCDd9NquOmh4UgyUbsaR2cBNN0GIkYS4e9zoBEuz6xucOl6eERU9mm2aS5Yyw==;6gyxHvM8Zrbhu1mZyL3Xxw=="
 ---
 
