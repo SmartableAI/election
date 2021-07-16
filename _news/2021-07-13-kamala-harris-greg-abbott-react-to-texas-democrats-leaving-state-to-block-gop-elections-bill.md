@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7943614002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7943614002"
 type: article
 quality: 129
-heat: 449
+heat: 469
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fact Check-Kamala Harris Central America policy fact sheet screenshot stripped of context"
+    excerpt: "Posts are misinterpreting a fact sheet for one of U.S. Vice President Kamala Harris’ Central America policy initiatives and claiming that it is simply an advertisement for Chobani, a company known for selling yogurt products."
+    publishedDateTime: 2021-07-16T13:20:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-harris-policy-idUSL1N2OS1A3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2OS1A3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OS1A3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
   - title: "Ex-Kamala Harris staffers have bad memories of a toxic culture in her past offices and are texting each other about it"
     excerpt: "Ex-aides to Kamala Harris say she's often led offices with low morale. They see similarities in news reports about internal VP staff dysfunction."
     publishedDateTime: 2021-07-14T17:08:00Z

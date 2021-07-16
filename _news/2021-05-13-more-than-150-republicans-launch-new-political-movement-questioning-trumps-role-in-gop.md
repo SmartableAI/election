@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House GOP's 10 Trump critics raise piles of cash in battle to hang on to their seats"
+    excerpt: "Former President Donald Trump made his return to campaign politics last month by trekking to northern Ohio to take revenge on one of the 10 Republicans who voted to impeach him: Rep. Anthony Gonzalez.\n    \n"
+    publishedDateTime: 2021-07-16T19:55:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/upCdqCNIOYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/impeachment-republicans-house-reelection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/impeachment-republicans-house-reelection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716104338-10-gop-impeachment-vote-house-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "F.E.C. Drops Case Reviewing Trump Hush-Money Payments to Women"
     excerpt: "The case had examined whether Donald Trump violated election law with a $130,000 payment shortly before the 2016 election to a pornographic-film actress by his personal lawyer, Michael Cohen."
     publishedDateTime: 2021-05-06T23:11:00Z

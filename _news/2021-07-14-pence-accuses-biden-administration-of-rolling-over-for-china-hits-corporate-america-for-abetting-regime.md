@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-rolling-over-china-corp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp"
 type: article
 quality: 181
-heat: 281
+heat: 321
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Oklahoma suing Biden admin, claiming federal overreach of mining lands"
+    excerpt: "Oklahoma Gov. Kevin Stitt is suing the Biden administration over the Department of Interior's decision to strip the state's ability to regulate mines, arguing it is an unlawful act of federal overreach."
+    publishedDateTime: 2021-07-16T19:13:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQ0PvFN6vSo/oklahoma-suing-biden-federal-overreach-mining-lands"
+    ampWebUrl: "https://www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3c835d-7194-43b9-add2-96f492548d04/8dbab13c-c061-4e73-8b0b-802e30fcb680/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package"
     excerpt: "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects."
     publishedDateTime: 2021-07-07T22:24:32Z
@@ -109,6 +125,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden's Shameful Voting-Rights Speech"
+    excerpt: "Republican \"anti-voting\" laws, President Joe Biden claimed during his demagogic speech at the National Constitution Center in Philadelphia this week, are the most \"significant test of our democracy since the Civil War."
+    publishedDateTime: 2021-07-16T11:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/548237_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "SG8Z9A8pXWyBYGMmDnekLh9BJfW3H8c2AEcqMaGuDJoJFMPKsmup6JHazuQtos28XrunU5Ml94wW1e3WaCXd5xjp4sdN31Laino+ypAFyQoDcQCBfJcqZfR0NXwz+PEETVc54aVpilky6SBjtv6lzs2u2iHoIpoxe6rtd8yAXjlC4Kd479XXKIaJDGKiUYDoIs2qrODLHEnwgWYLomb58fB/mVaQV1gj0sDML91DZwiiMNVDjPMxDPCaGSU0aQUPXF5txzcZQV877XZaN1r3+8RcU/vBzfPBcuhVbJtcujM/9TpRiB+RcTh8niAp01h7sHRW3l1qUD1027hwXuz7ArNTachKYiaizDAAVRrfPhs=;QL4GGUafrE4co8HNxOflFQ=="

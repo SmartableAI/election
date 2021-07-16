@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-polit
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
 type: article
 quality: 117
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden sees U.S. child tax credit as 'giant step' to counter poverty"
+    excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
+    publishedDateTime: 2021-07-16T01:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568977952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0XV"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden praises child tax credit payments as ‘historic’ step to end child poverty – live"
     excerpt: "Biden says – follow all the latest politics news"
     publishedDateTime: 2021-07-15T19:21:00Z
@@ -47,7 +63,7 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden sees U.S. child tax credit as 'giant step' to counter poverty"
+  - title: "Biden to tout program likened to universal basic income for kids"
     excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
     publishedDateTime: 2021-07-15T19:47:00Z
     webUrl: "https://www.reuters.com/world/us/biden-tout-program-likened-universal-basic-income-kids-2021-07-15/"

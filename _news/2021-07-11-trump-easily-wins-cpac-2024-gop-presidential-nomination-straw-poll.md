@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-pre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -222,6 +222,20 @@ related:
       - url: "https://assets.realclear.com/images/52/525848.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "Why the GOP Can't Shake Its Loyalty to Trump"
+    excerpt: "Nicole Hemmer writes the Republican Party has continued to protect former President Donald Trump and the Big Lie as part of a dangerous effort 'to hold on to power and to subvert democracy.'"
+    publishedDateTime: 2021-07-16T11:15:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/16/why_the_gop_cant_shake_its_loyalty_to_trump_547292.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/547909_5_.jpg"
+        width: 750
+        height: 436
         isCached: true
 
 secured: "gb0pEZVQT4ZJo1BSlqA6fA1US4JgHOt2+TVwlTvYnlwL2KwO7kSzGc24QnkTvjx4Hiwv6PjUKZdRteda/aO5ylnmQ00CVT1BckFQQYlcAjhi5G54SfZcL2l0VwmWm3ENnbSQwwkSgaPg1IcmUf6Dtd9sj+WR8ZSOz66l6YlLplo1dDdu6Aj8BkRgs1nUrnql4Djj+Doldue8qM4pA/bJcA/GZmzosdWkx+cOdlFoEX3JhmzmpZ6vnO2FSwIcWi1KJg6mcn/CGObjocyLE6gpETWyLCwHnKAPFzEGuUCFJ1WYpfgIkbATx+Qr4VpdXkxmu1k6FYqao/eNQRE/6AG/PxlBnrzlxKbplRL1ADUudj4=;zK4Pz1VsxKXO4jDPcxC/Hw=="

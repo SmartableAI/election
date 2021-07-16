@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House GOP's 10 Trump critics raise piles of cash in battle to hang on to their seats"
+    excerpt: "Former President Donald Trump made his return to campaign politics last month by trekking to northern Ohio to take revenge on one of the 10 Republicans who voted to impeach him: Rep. Anthony Gonzalez.\n    \n"
+    publishedDateTime: 2021-07-16T19:55:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/upCdqCNIOYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/impeachment-republicans-house-reelection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/impeachment-republicans-house-reelection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716104338-10-gop-impeachment-vote-house-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "More than 150 Republicans launch new political movement questioning Trump's role in GOP"
     excerpt: "A group of more than 150 Republicans, led by Donald Trump critics Evan McMullin and Miles Taylor, announced a new political movement that takes aim at former President Donald Trump's hold on the GOP and calls for a reform of the party.\n    \n"
     publishedDateTime: 2021-05-13T11:39:04Z

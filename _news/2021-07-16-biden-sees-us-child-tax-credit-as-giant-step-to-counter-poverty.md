@@ -2,13 +2,15 @@
 category: news
 title: "Biden sees U.S. child tax credit as 'giant step' to counter poverty"
 excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
-publishedDateTime: 2021-07-15T19:47:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-tout-program-likened-universal-basic-income-kids-2021-07-15/"
-webUrl: "https://www.reuters.com/world/us/biden-tout-program-likened-universal-basic-income-kids-2021-07-15/"
+publishedDateTime: 2021-07-16T01:58:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV"
+webUrl: "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
 type: article
-quality: 105
-heat: -1
-published: false
+quality: 125
+heat: 185
+published: true
 
 provider:
   name: Reuters
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/y5He3Hpeccj9uPqCfW8BphaheVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HVLUSZ6UWZI2BDO3L33JXFQCTQ.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568977952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0XV"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -61,7 +63,21 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to tout program likened to universal basic income for kids"
+    excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
+    publishedDateTime: 2021-07-15T19:47:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-tout-program-likened-universal-basic-income-kids-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/y5He3Hpeccj9uPqCfW8BphaheVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HVLUSZ6UWZI2BDO3L33JXFQCTQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "T7fRjsywgYP8I3hVrkJEF6OkgqEGtFvfVy/z7OF4aU6QmPxDhLpi3A26wUBaXLIgqY2Sz8V4h5xdt986wpZVFvEt99NICze8WB+LVqlfUmjfh4eyWr0QF0WKddOapQd0f+/Ci3RcpyF43MAEmeWb1d2MeeyoJLzQ1fa6rZBnOwFjJ8B251/aonfJz0pwa8g2KcPNtjunhM7O1NsQjCHlriwa1rFv4IhA+PTEyMMDv5+IkFderDSeEOnNb6lXPDH0NrSE7XvVytrwp0wBj4nv2kXHi7tJ+//4+IOBDdGW+9PoA83I50e7LGN3EPZdom1fD2owLGoQ5OGMT92QCzyfh8PomIQH8WJfPYSYQm/X8lJ6SYmfKDQBIJgKBd7+NVccmOvgQQ243YX27oNqL95crrZTvF90Khuwm3IfUOYMDVnexGZv8Bxq5MCWvSG8KL9dz3CM6PF5meqAgQ2f5+QKRr3x9Xr31aJC/b963zje2lU2uCDRn9/mirt61I8V+ouVXmfSJRsqISUVr6QmbDWhOQ==;ygIf7fKvA0pp0sXJtx/d/g=="
+secured: "XnmuHD28pgC9JPdjNXernCxdSp8++YyLKs7x3FES5Z7GUEkX8hcrgGQqrrN9jE12Pkal+cU6zJ/2JrueTHHxgDko4M/eYMok4Czh+Gpegw7SHbdzfpGqXUFdRsNh9jRCfQABZXQ6VVE4q24Q90c5IMzJLXOWV6T671s6VvJETvdVfQ4G9oi9rg34pQ6FCPhQ86jTxXi9qdFjCtt97q/IFmuEAVEz+PFuz43BpaSFtkUXhyXbzMZsHHt3QAIVxc4/KCS0tb1dyQTU4+XLH+2fViraW2VoouhLTMrFpZ3BpG58uxUloEOZCg4Y9mnmTBSJ0JeaC82rpS8ZvWUUFPkdbQrT2cL8loefES9YzX+2Apg=;8vPNzX6o2a2MuniUO5mS0A=="
 ---
 

@@ -75,6 +75,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fact Check-Kamala Harris Central America policy fact sheet screenshot stripped of context"
+    excerpt: "Posts are misinterpreting a fact sheet for one of U.S. Vice President Kamala Harris’ Central America policy initiatives and claiming that it is simply an advertisement for Chobani, a company known for selling yogurt products."
+    publishedDateTime: 2021-07-16T13:20:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-harris-policy-idUSL1N2OS1A3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2OS1A3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OS1A3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
   - title: "Harris meets with Texas lawmakers who left state to block GOP voting bill"
     excerpt: "VP Kamala Harris will meet with Texas Democratic lawmakers this week. Harris last met with Texas Democratic leaders in June. WASHINGTON — Vice President Kamala Harris met Tuesday with Democratic lawmakers from Texas who left the state to avoid voting on a bill backed by a GOP-controlled Legislature that would make sweeping changes to voting in the state."
     publishedDateTime: 2021-07-13T21:33:00Z

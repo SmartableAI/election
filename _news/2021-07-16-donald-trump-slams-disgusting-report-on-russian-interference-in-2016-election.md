@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/07/15/trump-slams-disgusting-report-on-russi
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/trump-slams-disgusting-report-on-russian-election-interference/amp/"
 type: article
 quality: 146
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Addison Rae slammed for greeting ex-President Trump at event"
+    excerpt: "Once the TikToker got his attention, the two shook hands and she mentioned that she just “had to say hi” and that it was “so nice to meet you.” Social media users were not"
+    publishedDateTime: 2021-07-16T18:50:00Z
+    webUrl: "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/"
+    ampWebUrl: "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/addison-ray-trump-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "7nxcuaJoO/3VKPYdkRsm1P/fTMnezdRNO4BnI3P3I1zDnYSTbZNY1q3olX0msraVSh63HVXG3K+zXqN+wWrJ4GcXI0WfuFao8VtS7O4rJXKcKl5QsI48fUisi5VMR22ZplPgqVhU+5nmdpW0VE086it4ZkFJ0J0jbM6PfEjPAnac5RBhW++gv4QTJK3Co9SvLpdtlVGX5xKa8mIO0ayofpx7V0PaeuVKVfaUCj5eufZWX/WUUBGyHja7WD7mZnano/sKejB3NfmNOmL8c5DJyyADL5c2zrEPhqwPmrNoQlMjpRMkmElKEMWs+EPgWWqqy2v77yoyAzmjNDWJH+CLj3jAsb6dZyU/82XdUBtbGNPWQ1cM4utp15TLf9Ht4bup7SzWG6+BAMxlIgXMWISRJu4a32Sv3Orqc/i8TCjCzPsfWwsOmJmtG2JCz88tfRSR1P7nRhdCHIqH80a4itgB9q2etPDYE74JretZ0m2SiDemy6eZoqoYZL60yIgRit661rTpLmZR6K77aZU6pOJFOA==;XrtONW0ENx82IAxp9E4skA=="
 ---

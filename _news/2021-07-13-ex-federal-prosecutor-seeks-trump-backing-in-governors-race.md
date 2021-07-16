@@ -229,6 +229,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Arizona Democrats call for investigation after report that Trump, Giuliani pressured state elections officials"
+    excerpt: "Phone records show the former president and his allies tried to pressure Republican election officials in Maricopa County to stop counting votes."
+    publishedDateTime: 2021-07-16T19:35:00Z
+    webUrl: "https://www.businessinsider.com/arizona-democrats-call-for-investigation-into-trump-election-pressure-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/arizona-democrats-call-for-investigation-into-trump-election-pressure-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-democrats-call-for-investigation-into-trump-election-pressure-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f8b1f79c21cfb0019468a13?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Did Trump and his allies interfere with the Maricopa County election? Secretary of State Katie Hobbs wants an inquiry"
     excerpt: "Hobbs asked Brnovich to refer her request to another law enforcement agency if his ethical duties prevent him from looking into it."
     publishedDateTime: 2021-07-08T15:35:00Z
@@ -353,6 +369,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQWXJBLQAVD7RE7BGU6FWUNQ2Q.jpg&w=1440"
         width: 1106
         height: 622
+        isCached: true
+  - title: "Top Generals under Trump feared a coup"
+    excerpt: "Watch \"Top Generals under Trump feared a coup accoring to a new tell-all book\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-16T19:12:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210716191202-top-generals-under-trump-feared-a-coup-accoring-to-a-new-tell-all-book/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."

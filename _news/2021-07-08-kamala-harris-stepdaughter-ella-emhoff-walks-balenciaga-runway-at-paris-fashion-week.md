@@ -43,6 +43,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
+    excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
+    publishedDateTime: 2021-07-16T17:57:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article252835123.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252835123.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252835123.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Harris Attends Roundtable Meeting on Voting Rights"
+    excerpt: "Vice President Kamala Harris delivers remarks while participating in a meeting on voting rights with members of the Black Women's Roundtable, National Council of Negro Women and other women leaders on voting rights,"
+    publishedDateTime: 2021-07-16T19:38:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ac46821644135f59e9fe9b8e22edeeca/VP-Harris-Attends-Roundtable-Meeting-on-Voting-Rights/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ac46821644135f59e9fe9b8e22edeeca/HARRIS-VOTING-RIGHTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "2zR0gK9iD2JyDcJe+SdTSLUJ8qRFi48KYKJxO0g7D1JrA1Ix0bdxl1IgJhqMH2TuqWngE/vljGWG1tKL/BiPShQnqcKQi9aful4tWS4byN+qVQOauhJGdwlRhHMNgkMOSBlCKf8vCDR4iA9Ko1gSHGI5p/HxvGL9CuskIG6SZ628LZhRPxXtqTMEnav5bVMEdj/6GNPeWBlvKuzhB/wIVO8GmzrKso7BJ8LxtwjdonKhdMvp0G7dN5SjVsf5kQGWQYtWd77q3I96hSe9oKRjyOkYPHAZfkQLmQmffjG53Iv/4XPr7Jc4ltaIYXS6aTDkIKMWy9njrALbTT/IsYL0sCDSGlXYkwUn7s+0d+90kFJz7KkR4rdWMFM1Pj0nk+MHdSndjxi2Pt91O4Iesr6oY+emxu+kDJZNYj+U1VD8AQ2HqIwXu6mebDA2EX5+7D1Chnldc2I/uO3KefZZ9riHEU11KLiHDQEJaI8JNFmj6bN/7AVr9YzPCPwqV1DdDbG8LfFiI7fay3Mj7oFroUzn6Q==;5lO+QTmlzUlaFJgfg2qwaQ=="
 ---

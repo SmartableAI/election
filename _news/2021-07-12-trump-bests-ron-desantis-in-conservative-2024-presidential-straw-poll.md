@@ -220,6 +220,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Why the GOP Can't Shake Its Loyalty to Trump"
+    excerpt: "Nicole Hemmer writes the Republican Party has continued to protect former President Donald Trump and the Big Lie as part of a dangerous effort 'to hold on to power and to subvert democracy.'"
+    publishedDateTime: 2021-07-16T11:15:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/16/why_the_gop_cant_shake_its_loyalty_to_trump_547292.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/547909_5_.jpg"
+        width: 750
+        height: 436
+        isCached: true
 
 secured: "Nk8HocmFuXKl8UvRi73PANHQ7NTwBKlGZgMaoJSRPUF3MKarqDV4ZfT1KqSHaqgEN7n5HKpX0dS7IwSzOojN6giepZkLw7GZVEBQycUfNFcj3QVCVEd/c6F7Rc+n/lrZ/7jl4QzbGaIc8Hhl3TfopMiJXoH64OUANPrf9Q8kvDp1Wpzxy/zfIumERJ+TT7xMXuKFkh4crRuVUh3oielACngacGSl5lvMrYq/pKu4Ma1T6fi/S4FeYeTyuj28aEYmmrvgQkHKZOkMO++tB/RitwwhVvp1W1P7MLDGwy6RutQsrx9N7DdyZD1l0FC7EHp94bvSkt2nbglcLvyY/cU4KLKEm4oHD3YAim17IQH2eMD24njuZhWjHTwD16Vjqg+fNZT1t16Mt9JR44nF+reb3gV0cYOSf8p8kcKsuEa/5tN28jHP5bf50TrUUnCjLfw3dkASBEjiOzIVMdkzq+kxyfxtoNrLBem9E6d0S5OAbR4Vh7m1qvQVnuIGIKIWMgXhP6bwgwMNJ3Nc87joG9UOJA==;Qc//qduj3AtG4LsqDc2Gxw=="
 ---

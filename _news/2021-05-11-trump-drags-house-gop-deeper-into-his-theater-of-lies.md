@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511093432-01-liz-cheney-vote-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House GOP's 10 Trump critics raise piles of cash in battle to hang on to their seats"
+    excerpt: "Former President Donald Trump made his return to campaign politics last month by trekking to northern Ohio to take revenge on one of the 10 Republicans who voted to impeach him: Rep. Anthony Gonzalez.\n    \n"
+    publishedDateTime: 2021-07-16T19:55:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/upCdqCNIOYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/impeachment-republicans-house-reelection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/impeachment-republicans-house-reelection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716104338-10-gop-impeachment-vote-house-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

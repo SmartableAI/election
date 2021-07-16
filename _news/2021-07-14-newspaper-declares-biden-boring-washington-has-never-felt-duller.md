@@ -46,6 +46,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Oklahoma suing Biden admin, claiming federal overreach of mining lands"
+    excerpt: "Oklahoma Gov. Kevin Stitt is suing the Biden administration over the Department of Interior's decision to strip the state's ability to regulate mines, arguing it is an unlawful act of federal overreach."
+    publishedDateTime: 2021-07-16T19:13:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQ0PvFN6vSo/oklahoma-suing-biden-federal-overreach-mining-lands"
+    ampWebUrl: "https://www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3c835d-7194-43b9-add2-96f492548d04/8dbab13c-c061-4e73-8b0b-802e30fcb680/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package"
     excerpt: "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects."
     publishedDateTime: 2021-07-07T22:24:32Z
@@ -109,6 +125,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae8b4ac5-c535-402b-91f1-0f8b750827b6/9e32dacb-0ead-4a3c-8f4e-7a7c8b39e257/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Joe Biden's Shameful Voting-Rights Speech"
+    excerpt: "Republican \"anti-voting\" laws, President Joe Biden claimed during his demagogic speech at the National Constitution Center in Philadelphia this week, are the most \"significant test of our democracy since the Civil War."
+    publishedDateTime: 2021-07-16T11:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/548237_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "WlyoEXw5DvpqGTQPh53fdTFL5rfEuXZaZfRZre4oAeNte7tNECIII7fTv2b4LSRoZI+cCahtJ5FgyroQtmTsjq0wQoe78wjPiPbXBPneUJHbZTyT9h6oMWFRcGBsMXpUTq5Yfagpv4Lrd9StJllzp+5pKLeVnPjNiWhqEyybMbzUf1YeV1hWpZNcSe0OoFD82luduEIzcG623xPFJc8kmSe0xplLSM9HDqi6zau8A34vjO1NQqu6gKlq9D/IY39TSeSKn9EOQKlBaYNbu7tHWiWrRF8zlP3vw3fTYp3+Uz0Dzr7hFrg5IFMlm3TRzgRQ42dGnAxTYZ1OuwmFMQN36a2Z8xCOcW8UjKBShp/QAKo=;CYMBdnI+K0ckivWfWuYNxg=="
