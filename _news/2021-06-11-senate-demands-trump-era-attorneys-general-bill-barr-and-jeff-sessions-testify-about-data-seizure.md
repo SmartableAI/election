@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Charges cite Trump unrest in alleged plot on Democrats' HQ"
+    excerpt: "Federal prosecutors say a man living in California's wine country had five illegal pipe bombs and nearly 50 weapons at his home and shop as he conspired to firebomb the state Democratic Party headquar"
+    publishedDateTime: 2021-07-16T21:15:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0b66bd009458456ea6a6c16dad5b3f24_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Democrat says Trump counsel recounted 'troubling events'"
     excerpt: "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign."
     publishedDateTime: 2021-06-04T23:46:00Z

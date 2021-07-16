@@ -560,6 +560,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "AP: Few Arizona voter fraud cases undercut Trump's claims"
+    excerpt: "Arizona county election officials have identified fewer than 200 cases of potential voter fraud out of more than 3 million ballots cast in last year's presidential election, undercutting former President Donald Trump's claims of a stolen election as his allies continue a disputed ballot review in the state's most populous county."
+    publishedDateTime: 2021-07-16T19:02:00Z
+    webUrl: "https://www.chron.com/news/article/AP-Few-Arizona-voter-fraud-cases-undercut-16320162.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-Few-Arizona-voter-fraud-cases-undercut-16320162.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-Few-Arizona-voter-fraud-cases-undercut-16320162.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
     excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."
     publishedDateTime: 2021-07-09T19:21:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden meets Merkel at White House: ‘Our nations understand the imperative of democracy’ – as it happened"
-excerpt: "Biden says – follow all the latest politics news"
-publishedDateTime: 2021-07-16T00:11:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0493f8f0827c8ef6d1ac3"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0493f8f0827c8ef6d1ac3"
+excerpt: "President thanks German chancellor for ‘strong, principled leadership’ – follow all the latest politics news"
+publishedDateTime: 2021-07-15T23:11:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f06eeb8f0827c8ef6d1db6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f06eeb8f0827c8ef6d1db6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
 type: article
@@ -112,6 +112,6 @@ related:
         height: 551
         isCached: true
 
-secured: "tSF6FWARvu5hTgVXiL9Cr4rQOfhHuzh1Ulk23DG7zVgYORWFCMYRl+EkNDMZqwOHv3geGIcjPDi3AfV/vBS3m85k9qk4yNGFi5YiX5l4rMz9jQzqcKQK4SbCD323LgbJY2woTLdtncvY0lHOpsh4uUqMlYmasChsz/POMPpJtZJinaL4G0Uxg1aPP4Xp4pMWhbqJ6x6DxgEZnqi6yz4SPlIKxAJhKv/euMBtvICDrB0O3ECt/K212EuMAEaDlyQUHx1dROtWgAEhfrVBiWCz82oU0las7qAsBTy+K3eXnCwk2xX/YdbhBWtboU6PHyVdwh50YHUTVB1CQJJpmoVs00G9Q9VBWrtVNnPBGH2phpOsyS5NE4TS6H5HVjX6H2KHEq8ZynWym+V/Pi4cUeZr2nUA6hRiljjyoxvW/AnahjealViQcxGceafVQSv9t66+PPeWCH1c5RGu7hqtpCa+Zan8ACCDd9NquOmh4UgyUbsaR2cBNN0GIkYS4e9zoBEuz6xucOl6eERU9mm2aS5Yyw==;6gyxHvM8Zrbhu1mZyL3Xxw=="
+secured: "SX633NlE8da7Zgmb3ADUEuo06vu3mp7NlOhyOtkvsoI0x4BwSj0ZkeFuNHAs4o+aoQdDKlft6Jf225EMXVICF/nWyLXX8zwoiLw12/K8n1K87m2khaN4icECRRlvlFBiaJmp7UfBHdegufy3Skk8mpCZWOnehftTbKnSYAgrWGdczFu1q1HiXdrxmQw8F5+IUFUYoZ0+YlN32odsL6HOBCNOeqVPDEvjFWJ9JOasBc5r6DvDLWYblsRG2szBy/B9ovWjUV6uegPjF96hKWu/cH+oshxL3GL+EP1F6PJwjnLUggw79F6Oe/SZ2WoDRY/ZNTDlOXP87nPiN4zam6EzaIgjahwTtnsV+uqDqBVI2mk=;Zl2xIHwSxTqOYrEldSnX3A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-u
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "‘Ingraham Angle’ on Biden, Bernie, 2022 Midterms"
+    excerpt: "Guests: Trace Gallagher, Patrick Morrisey, Mark Brnovich, Matt Walsh, Mollie Hemingway, Byron Donalds, Jim Comer"
+    publishedDateTime: 2021-07-16T20:04:00Z
+    webUrl: "https://www.foxnews.com/transcript/ingraham-angle-on-biden-bernie-2022-midterms"
+    ampWebUrl: "https://www.foxnews.com/transcript/ingraham-angle-on-biden-bernie-2022-midterms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ingraham-angle-on-biden-bernie-2022-midterms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ad94cab-eab0-4eaa-b6c2-bce020bfbb67/263dc254-ba3c-45ef-918c-f4b6172e01c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "oA0lbyw33BP9Ll5EtxW/GnycUip5/ILXSpfi8/hJggt0qahnPadPF2UEAQO/1QURhFWdqL/3v83f2D0ylgshqgoIRwB8y7D27K28gXCKgEQKO7NwI7HPevu51d51DrMRmhchUpWxp4Vr9OIu2wmvB9LwS/zmsXiQLqQuQc7+np2MH2AlQAWTvWvy11pFBzhOvAEbqzp0DtwiEIUqkvuU4avLQQDrM2Yltks1Kcg4ntjV77k1NmK9JFaZPd+8pq4Hz2erkSI2XtrIQ/I8j5PlKbN2jxxZTX1UXk6r8YrgiRTrxVcanQHozlTDKYRlHY3bxR0tzoYPJR4AK2pS603ZkEe0BOxsGKsHjIuHLipw+Qigp0c5PoxzeffEhMHwPj2JrjwjidGzk0drVsGBgxtgeCIsY67VpT7/jhAnKJki2vhucHcp3HXus72C3qzfUOZDUGyumH/1wGuVQLYcnj86BO/KV+X3WcrUj/EXtPzfeEwasHxvj3nxZWAkQ0QWLqFwmzQx+oDlGGIIkWOYmKLvpQ==;y739xCeMQVf3D2aLv/PG1w=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden picks former Sen. Tom Udall for New Zealand ambassador"
+    excerpt: "President Joe Biden is nominating former New Mexico Sen. Tom Udall to serve as his ambassador to New Zealand and Samoa"
+    publishedDateTime: 2021-07-16T19:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-fundraiser-uk-ambassador-78889457"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-fundraiser-uk-ambassador-78889457"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-fundraiser-uk-ambassador-78889457"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_02d45db45f544ca8858e9eb447415f7b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "s5F/6ZcS1jFMWisQp73yAz2QNfbX3zcIJ+IvNuRGbkSACnHTRDX+du184Hy5/eECP3epCrDETBwGM5u6iMy46GYbOqnFGMn/xgtLYLgxNnfPVNfVi/gmgzXAAFEjtMoMNtrvt4V6eiZr1bAE93ieGo5n5anwaXN9D9FoouLIQZdPsuyAYQkuXaGb0L8yuHcMWLXSnr2rygnZJ8HNYUFmAqA0zf79p/F1RadDPih858XOqWNLQpFZz8fq90QGsSH2o4VtiLh911yR7CS4sloSqDLubhgUopvTEoUVUU0K1t4QXxxJ/BoeJ1rJ6VsZmYAX4qaT/gJU6i3pra2SKp8PrHKgbNdeZFw/JRbZo25qapQ=;/duK/YKn2RxtY4qASfQN+w=="
 ---

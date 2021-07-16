@@ -3,18 +3,18 @@ category: news
 title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
 excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
 publishedDateTime: 2021-07-16T17:57:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/article252835123.html"
-webUrl: "https://www.sacbee.com/news/politics-government/article252835123.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252835123.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252835123.html"
+originalUrl: "https://www.newsobserver.com/news/politics-government/article252835123.html"
+webUrl: "https://www.newsobserver.com/news/politics-government/article252835123.html"
+ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252835123.html"
+cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252835123.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - Election
@@ -74,6 +74,6 @@ related:
         height: 433
         isCached: true
 
-secured: "tM07SxETwHqzmlc/YkVRuvV41t8WoQ4kxNUCzyc91q8X2tq752g6G5kJE14KgxMzVyv+1RF7P9t6lVbFqnK+PM5rWyMaky6NZK5fMVF6B0LkgpeWbMC2rRA69E84c44sHyWZfkbRjlejOCIUQa4LJO4z0o+WygJEe8fltSS0rAUMvCY8tdAo5ar+eXlIIvtVUzGtuEPXV4apH0K86zA5bMqc0ey4co9DH62snSjOAboaUyNkzePvMIH7SSRyBLsoL1EYn2bqFI108LAGif75NFBJAuFs9Mqe9O71JB/G+P1t8pgBUUPvKI9B8KNibFfUvbo8rI9rkNYGNQixvrXY34C4Y1haMA0JtYBncfrQz40=;mGy/+zTxcgApXjkARtizOQ=="
+secured: "TEyO6QgeaHTmN0GaCV2BJKFcTenyfN5zDdFMC9KdC19T5Y14tgDL86X4Zn1X2b2F8h3oIdr9u8BjmJmTQzsFSdTo0f2BcNHlHZIExQgZB8uY7TFXnBTaYpkGsboNNo/rreePUIkHeaUjzzyDgvLucKVxNwias/aZxMhQQh2K+HRpay6Y9B0KBpeT7jWWaiWd26TvR5sGbAGogmUbJxfTTc8IzjMoaLEQbmqCSMinc8o64IgnMaRcEUeDCEk070RiBn7/fFiazTRO9ySgttYm9PHGTkPKS/eaBegq2HvcgGkXHQffadt/dryocWNCUagbuLcjBWR6lCy/zlM/Q0Z9Bg/dL7UOKaLgs303oXyoChE=;w5ZExqXy71SAwET7GUuitw=="
 ---
 

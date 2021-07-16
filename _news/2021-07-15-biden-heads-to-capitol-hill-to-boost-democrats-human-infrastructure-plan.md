@@ -80,9 +80,9 @@ related:
         height: 360
         isCached: true
   - title: "Biden meets Merkel at White House: ‘Our nations understand the imperative of democracy’ – as it happened"
-    excerpt: "Biden says – follow all the latest politics news"
-    publishedDateTime: 2021-07-16T00:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0493f8f0827c8ef6d1ac3"
+    excerpt: "President thanks German chancellor for ‘strong, principled leadership’ – follow all the latest politics news"
+    publishedDateTime: 2021-07-15T23:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f06eeb8f0827c8ef6d1db6"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
     type: article

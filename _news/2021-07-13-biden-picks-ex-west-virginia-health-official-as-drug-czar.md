@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-west-virgini
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden picks former Sen. Tom Udall for New Zealand ambassador"
+    excerpt: "President Joe Biden is nominating former New Mexico Sen. Tom Udall to serve as his ambassador to New Zealand and Samoa"
+    publishedDateTime: 2021-07-16T19:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-fundraiser-uk-ambassador-78889457"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-fundraiser-uk-ambassador-78889457"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-fundraiser-uk-ambassador-78889457"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_02d45db45f544ca8858e9eb447415f7b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden rallies Dems to support infrastructure ..."
     excerpt: "Watch \"Biden rallies Dems to support infrastructure plan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-15T16:02:00Z

@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-16-schumers-challenge-wooing-moderate-democrats-on-35-trillion-biden-plan.md",
+      "title": " Schumer's challenge: Wooing moderate Democrats on $3.5 trillion Biden plan",
+      "excerpt": "Sen. Maggie Hassan, a New Hampshire Democrat who is running for a second term next year, has been working behind the scenes to help craft a bipartisan infrastructure deal that could be popular in her swing state.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dwHtr7P_7EU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dwHtr7P_7EU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205121013-06-chuck-schumer-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/chuck-schumer-challenge-infrastructure/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/chuck-schumer-challenge-infrastructure/index.html",
+      "publishedDateTime": "2021-07-16T14:39:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-biden-says-platforms-like-facebook-are-killing-people-with-covid-misinformation.md",
+      "title": "Biden says platforms like Facebook are 'killing people' with Covid misinformation",
+      "excerpt": "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
+      "publishedDateTime": "2021-07-16T13:50:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-biden-to-tap-former-ambassador-to-france-as-his-ambassador-to-the-uk-after-lengthy-search.md",
       "title": "Biden to tap former ambassador to France as his ambassador to the UK after lengthy search",
       "excerpt": "President Joe Biden will name Jane Hartley as his ambassador to the United Kingdom after a lengthy search, a person familiar with the decision told CNN.\n    \n",
@@ -1479,7 +1591,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 369,
+      "heat": 389,
       "tags": null,
       "images": [
         {
@@ -1552,118 +1664,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html",
       "publishedDateTime": "2021-07-09T18:00:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-how-the-manhattan-da-could-pressure-allen-weisselberg-to-cooperate-against-donald-trump.md",
-      "title": "How the Manhattan DA could pressure Allen Weisselberg to cooperate against Donald Trump  ",
-      "excerpt": "A Mercedes-Benz for his wife, an apartment for his son and school tuition for his grandchildren.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YhcdAg6rLqg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YhcdAg6rLqg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709152352-02-allen-weisselberg-court-0701-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html",
-      "publishedDateTime": "2021-07-09T16:01:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-fact-check-trumps-nonsensical-op-ed-on-his-lawsuit-against-social-media-companies.md",
-      "title": "Fact check: Trump's nonsensical op-ed on his lawsuit against social media companies",
-      "excerpt": "He keeps saying it. It's still wrong.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eloNEH1ujfs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eloNEH1ujfs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708152736-trump-lecturn-social-media-lawsuit-presser-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/fact-check-trump-op-ed-social-media-wall-street-journal/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/fact-check-trump-op-ed-social-media-wall-street-journal/index.html",
-      "publishedDateTime": "2021-07-09T14:02:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

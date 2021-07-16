@@ -175,6 +175,22 @@ related:
         width: 2500
         height: 1731
         isCached: true
+  - title: "County officials in Arizona reported few suspicious ballots, undercutting Trump's claims"
+    excerpt: "Less than 200 potential cases of voter fraud were identified out of more than 3 million ballots cast, AP review of records finds."
+    publishedDateTime: 2021-07-16T21:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/county-officials-arizona-reported-few-suspicious-ballots-undercutting-trump-s-n1274238"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274238"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274238"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3488218/210701-arizona-voters-line-2018-ac-441p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "yF9Rty274WBKoEbOMbdXo6kI3TPImlXfj+yjWTkv5jvJt/z2xgEBiXwtmu7sWEpXr73/CJDUxXVHbiKT/yk5aTdb40IXTZKqHYLT9abmedvxGdQs7kZbVjoedZW6gNAlRXws0PWxDRWm/VVbD55251Q6aeqFZfVm8Twjsm/5b3+szWNhyIjXTs2YJ7/gxD6X1SI3Bm89MaUxakQlv34LbDe33V3tMwsOGLvvJ/8A3IZLaBfuQaOS1dLHy4Qza/3af+mQRmKTlB3ldF3Fx3wPU25tSq0ZMdibl+bAB3zNFe0SWF1N5aRUcjrpVRkIZWrJ4Bswju7kL9CTDb++lB0eS/yi+fiL4JpqKBbi+JG4mao=;9l+tM2H8b/BPY2I6TtIafw=="
 ---

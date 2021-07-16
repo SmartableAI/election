@@ -3,8 +3,8 @@ category: news
 title: "Fact Check-Kamala Harris Central America policy fact sheet screenshot stripped of context"
 excerpt: "Posts are misinterpreting a fact sheet for one of U.S. Vice President Kamala Harris’ Central America policy initiatives and claiming that it is simply an advertisement for Chobani, a company known for selling yogurt products."
 publishedDateTime: 2021-07-16T13:20:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-harris-policy-idUSL1N2OS1A3"
-webUrl: "https://www.reuters.com/article/factcheck-harris-policy-idUSL1N2OS1A3"
+originalUrl: "https://www.reuters.com/article/factcheck-harris-policy/fact-check-kamala-harris-central-america-policy-fact-sheet-screenshot-stripped-of-context-idUSL1N2OS1A3"
+webUrl: "https://www.reuters.com/article/factcheck-harris-policy/fact-check-kamala-harris-central-america-policy-fact-sheet-screenshot-stripped-of-context-idUSL1N2OS1A3"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2OS1A3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OS1A3"
 type: article
@@ -223,6 +223,20 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Harris meets with Black women's groups on voting"
+    excerpt: "Vice President Kamala Harris huddled at the White House with leaders from several national Black women's groups to discuss voting rights. (July 17)"
+    publishedDateTime: 2021-07-16T21:50:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/nation/2021/07/16/harris-meets-black-womens-groups-voting/7996908002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ee64d7e3-70f5-4fca-b473-b39e5b2b525d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
     excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
     publishedDateTime: 2021-07-13T23:12:00Z
@@ -282,6 +296,6 @@ related:
         height: 630
         isCached: true
 
-secured: "HzeakoPYMc0Uuhq/LQvU4NqPf3L6b+YH2yHnJi9yXzrncZmTc1ChOSVyAs6yMiWtk/wFC7MzkPg8Dw6gU/uq5lZ19W01VPJS1F4LTXsnj89nYy6uRqwNtm8dsUGlRpMxPhtQWGbutBc1mud+hbqRxdsKQeJbjwG1ehm/kKjrmQvoaLaafpBz3CH+RUCT+lQO61FCZjI7Atyp3hAVI6eSKGZlQNDIrmEBZQS4NOG/Jp/1BZTkrwrAakVtFTUASD1/bi3kkzsFmyBC+1wnSk1CkV2I/WHhSJUr3ygjYlewx1EpKzMnEIx6g8HwgzrdzsxwcaXl4Su7PWfJSx0XTa4wBaNNAyNlGxy20qo5Lqj1F1E=;vyZbz5kouUSrxuuykuwyPQ=="
+secured: "1aQJmGsJRXZu+SrTDVnvyeDkAmu7EPLkU1ivOanY6KptKfbet3ze8djtXy88zXIYkRQHuNHk7CBeGBVoUvsXHzXultGbsfp0SfsTMjLyXR51IJ2jrobacaSttbd2MRzGbU42pMaRivLKnIrZi2zWaEhPjJJogkHR1JWiDU3wfDLVnWpYJWZtRNZksmIB1yhccTKf2yfHBT777B5wTJ1NIbPY/Hhj1n7LrtXnw2TNGgWQFT5nZiZPXh/as2n6I9M98/cuOG4osX2fmsqwZn7JLa5o5vKlR8A5MwGJ24UKiyIdWEJQWq00olGv015yPxrrTkpmnv6RUmV87JYGH4q3wBlN4XzsQR5Wp7Wd7mbb7HU=;JVvtEJhuyv9hJAwebyFTog=="
 ---
 

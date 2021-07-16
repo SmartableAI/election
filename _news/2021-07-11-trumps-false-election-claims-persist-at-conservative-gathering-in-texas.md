@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-clai
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
 type: article
 quality: 189
-heat: 369
+heat: 389
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490831/210713-stephen-calk-se-248p.jpg"
         width: 2500
         height: 1731
+        isCached: true
+  - title: "County officials in Arizona reported few suspicious ballots, undercutting Trump's claims"
+    excerpt: "Less than 200 potential cases of voter fraud were identified out of more than 3 million ballots cast, AP review of records finds."
+    publishedDateTime: 2021-07-16T21:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/county-officials-arizona-reported-few-suspicious-ballots-undercutting-trump-s-n1274238"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274238"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274238"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3488218/210701-arizona-voters-line-2018-ac-441p.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "iPwQtE7ifvn6JBgxPP+nfk72+BwVKLWF0tRBkXQugx2EGH3BsCyjybVo52CWokzmf/ji+E7QebD2qYT49bpi3b1qSuQ64Xd/osEnnOSmxfW7++42sT9hWMIOwJtx6dbboLQgHrc8ngXnbGKI7TtH8HLh+teVJYWoMuGQLpkEsRPCcXADUsIdScIR0AR9naZJjXNUgz03q2IB93t5v8JxaP+TTmMIi/8faB5yG/iLnCaZjJV3SIwytSvq6zWmVFsVvvS2S+uDjzjFTT6hAxBpDidkIihz+mLXeQ08fKmgTKaEGdEDcHAQs9BksNXXcWUdKsvblx6lJFopQVJK0Gc4GoalhzUEZjC+2UnIGgmeKeU=;UgIFsvaJzMiOd4+XAvzqYA=="

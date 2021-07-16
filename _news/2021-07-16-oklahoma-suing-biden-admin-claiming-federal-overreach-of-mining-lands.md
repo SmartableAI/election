@@ -47,6 +47,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Federal judge orders Biden administration to end new DACA applications"
+    excerpt: "A federal judge on Friday ordered the Biden administration to stop all applications for the Deferred Action for Childhood Arrivals (DACA) program, after a coalition of states sued and claimed that the Obama-era program was illegal."
+    publishedDateTime: 2021-07-16T21:45:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Joe Biden accuses Facebook of 'killing people' with vaccine misinformation"
+    excerpt: "President Biden accused the social media platform of “killing people” by allowing what he deems as misinformation on coronavirus vaccines to be shared on the site."
+    publishedDateTime: 2021-07-16T21:37:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SyJEAaXRdqw/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package"
     excerpt: "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects."
     publishedDateTime: 2021-07-07T22:24:32Z

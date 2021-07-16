@@ -76,7 +76,7 @@ related:
   - title: "Fact Check-Kamala Harris Central America policy fact sheet screenshot stripped of context"
     excerpt: "Posts are misinterpreting a fact sheet for one of U.S. Vice President Kamala Harris’ Central America policy initiatives and claiming that it is simply an advertisement for Chobani, a company known for selling yogurt products."
     publishedDateTime: 2021-07-16T13:20:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-harris-policy-idUSL1N2OS1A3"
+    webUrl: "https://www.reuters.com/article/factcheck-harris-policy/fact-check-kamala-harris-central-america-policy-fact-sheet-screenshot-stripped-of-context-idUSL1N2OS1A3"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2OS1A3"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OS1A3"
     type: article
@@ -219,6 +219,20 @@ related:
       - url: "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg"
         width: 438
         height: 392
+        isCached: true
+  - title: "Harris meets with Black women's groups on voting"
+    excerpt: "Vice President Kamala Harris huddled at the White House with leaders from several national Black women's groups to discuss voting rights. (July 17)"
+    publishedDateTime: 2021-07-16T21:50:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/nation/2021/07/16/harris-meets-black-womens-groups-voting/7996908002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ee64d7e3-70f5-4fca-b473-b39e5b2b525d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
     excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
