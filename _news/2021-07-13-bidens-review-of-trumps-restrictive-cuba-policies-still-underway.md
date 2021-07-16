@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
 type: article
 quality: 190
-heat: 490
+heat: 510
 published: true
 
 provider:
@@ -264,6 +264,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Biden's cautious Cuba stance may haunt Florida Dems"
+    excerpt: "Ron DeSantis and Marco Rubio next year, it’s as simple as this: Over the next few days (maybe weeks), they will find out whether national Democrats and those surrounding President Joe Biden plan to write off Florida for the foreseeable future."
+    publishedDateTime: 2021-07-16T10:58:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/07/16/bidens-cautious-cuba-stance-may-haunt-florida-dems-493607"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
         isCached: true
 
 secured: "Wgn6mKs1de3HoPks/jWxVdIFjI23SOqLXUeyMcjzdVmXzzDf3+YCM1rIHZ1Uf8cvsh97/Ap42oF3ldz3MD1iPDIE8LmLd/7sqs5iTzs1/sAjX6aFPvbUMFN17/p/zV2WFRJnmcp58n0DqmNXFlD4j0mAhEAHESeTuz7G57LrXiJx0fN85BVk2hrGqqNkGJcvHn2KRwp2mnRJ/ZaE0TLnq/Zdcs//Sf2HZ1tUnOGlF1VpZ8kPW6VKIduZSbzYpOiHJHz1Xj59HLs4bfosZx7BMD1a36rHa8lEwWGfAqbabOh50UA9piw16+9ibuEXqf1tmQNW3WlPs0DVYbM/Uj+5KNYAKBk3xKvIlGt2B4e2aKk=;luV8SGyhKRWsDEdiXGjVVQ=="

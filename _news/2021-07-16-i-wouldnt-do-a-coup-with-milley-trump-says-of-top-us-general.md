@@ -159,6 +159,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "'If I was going to do a coup' becomes viral Trump punchline"
+    excerpt: "Former President Trump’s line in a press statement about how if he was going to do a coup it would not be with Gen. Mark Milley has quickly become a viral punchline."
+    publishedDateTime: 2021-07-15T19:35:00Z
+    webUrl: "https://thehill.com/policy/technology/563238-if-i-was-going-to-do-a-coup-becomes-viral-punchline-after-latest-trump"
+    ampWebUrl: "https://thehill.com/policy/technology/563238-if-i-was-going-to-do-a-coup-becomes-viral-punchline-after-latest-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/563238-if-i-was-going-to-do-a-coup-becomes-viral-punchline-after-latest-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mreporttrump_13.jpg"
+        width: 580
+        height: 386
+        isCached: true
   - title: "Trump opines on coup while rejecting fears about his actions"
     excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election"
     publishedDateTime: 2021-07-15T21:16:00Z
@@ -315,6 +331,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2021/t_a3c3cde991714404b31a8233fe5f855f_name_20210713_GOP_VACCINE_V3.png&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "The striking, growing evidence of the very real Trump coup fears"
+    excerpt: "We now have evidence that two defense secretaries and the chairman of the Joint Chiefs of Staff all had significant worries about this."
+    publishedDateTime: 2021-07-15T17:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/15/growing-evidence-very-real-trump-coup-fears/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQWXJBLQAVD7RE7BGU6FWUNQ2Q.jpg&w=1440"
+        width: 1106
+        height: 622
         isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."

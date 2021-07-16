@@ -2,9 +2,9 @@
 category: news
 title: "Kremlin papers appear to show Putin’s plot to put Trump in White House"
 excerpt: "Exclusive: Documents suggest Russia launched secret multi-agency effort to interfere in US democracy"
-publishedDateTime: 2021-07-15T22:00:00Z
-originalUrl: "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR22bQuGeUT2XUHFC_PgJr0-5bZdWyptY_SERIRWZv2DEYQf7sOzxzrtSjQ"
-webUrl: "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR22bQuGeUT2XUHFC_PgJr0-5bZdWyptY_SERIRWZv2DEYQf7sOzxzrtSjQ"
+publishedDateTime: 2021-07-16T04:28:00Z
+originalUrl: "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR2f9PP2XQJSm4mw1TR3DH7dX7lMAycXlsXy26URkrlwSYOYGwtc2Ma4HwY"
+webUrl: "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR2f9PP2XQJSm4mw1TR3DH7dX7lMAycXlsXy26URkrlwSYOYGwtc2Ma4HwY"
 ampWebUrl: "https://amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 360
         isCached: true
 
-secured: "rx3RxfhJktl7BKCjZdOFAsJLWoOth3PHLkBR4+lOQHpKc94zzSvaNmecWo/QqiLiUo6Sn6SLHQayRp7zWPb7apq/QLY8XEQjZHdpwF7+9W/8b/AB65tkXJYdT59YbkBO1eBruzn8zxb9G2aMXqHCDhd9h9ajb4iKCqzX1bfK8m/kTJGjRkK7LUX7vDk3LAiDE6XUjaea2msEVHSQPjU137hpGtBEQu+eezaA+FVMg0xLMbGIMP+2u4bO4KMgOhA5+hves0bQY81RdHJJoYk035SvUhAbLRjlX82SwQcIiGxUFYCJmr4PXsSssjmI/p0BsnZkkvbQjhFIrDihaerGvCGV57CEp3zVkTSft1uyt5U=;ucvoJQ4VyIIxNzMuZkrHog=="
+secured: "vj5Ew7rbckgxTxoys9pP6XfEAA6knq32oIxfPBmAU2xyQ1hWyUFIooQ7UKze9fQM4XtW4Zwto/ltyC2P05D1KFMh52aw56m45px2TWeUB9chl8q+S+T1yLACFvoisxf5wmQ3vACRciS0ymWuuCTd0Mff7aUHV7COZ61W9l2Ywjn+TDu7rBGy40/2H/omLyC0p9ZD0Fi+2muj7MTyIDPodxktKkG9XefWlmkeEIwaXhmsOCyjVJUpAvFjzjZYZeq6SavZlNlKuPmQ/yY0+4v6Mp+QnkKnmQdtXi5DOLUHOf0JqX881tFDsov64fAaVbqo8mmvg++o/T1It+eRqTpF71bHQM4oHgYe/1hXvzqgwXg=;MFUbP/uU2dSCAoTYYvKqlA=="
 ---
 

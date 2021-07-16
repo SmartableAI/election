@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709154923-dept-homeland-security-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McCarthy's trip shows House Republicans see the path back to power is with Trump"
+    excerpt: "The House GOP's plan to win back power is becoming increasingly centered on one man: Donald J. Trump.\n    \n"
+    publishedDateTime: 2021-07-16T11:25:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jyKzTYnUpq8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/mccarthy-fundraising-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/mccarthy-fundraising-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210715143010-trump-mccarthy-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

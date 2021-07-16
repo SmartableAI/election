@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy's trip shows House Republicans see the path back to power is with Trump"
+    excerpt: "The House GOP's plan to win back power is becoming increasingly centered on one man: Donald J. Trump.\n    \n"
+    publishedDateTime: 2021-07-16T11:25:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jyKzTYnUpq8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/mccarthy-fundraising-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/mccarthy-fundraising-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210715143010-trump-mccarthy-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump is still the king of the GOP -- J.D. Vance just proved why"
     excerpt: "It took J.D. Vance only four days to understand just how much control Donald Trump has over the Republican Party these days.\n    \n"
     publishedDateTime: 2021-07-06T20:09:35Z

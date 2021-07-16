@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy's trip shows House Republicans see the path back to power is with Trump"
+    excerpt: "The House GOP's plan to win back power is becoming increasingly centered on one man: Donald J. Trump.\n    \n"
+    publishedDateTime: 2021-07-16T11:25:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jyKzTYnUpq8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/mccarthy-fundraising-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/mccarthy-fundraising-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210715143010-trump-mccarthy-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Indicted Trump Organization CFO removed as an officer from several company subsidiaries"
     excerpt: "The Trump Organization has removed Allen Weisselberg, its chief financial officer, from officer positions at several of its subsidiaries, including Mar-a-Lago, after he and former President Donald Trump's namesake business were indicted for allegedly running a 15-year tax fraud scheme.\n    \n"
     publishedDateTime: 2021-07-12T21:48:09Z

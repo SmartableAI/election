@@ -265,6 +265,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden's cautious Cuba stance may haunt Florida Dems"
+    excerpt: "Ron DeSantis and Marco Rubio next year, it’s as simple as this: Over the next few days (maybe weeks), they will find out whether national Democrats and those surrounding President Joe Biden plan to write off Florida for the foreseeable future."
+    publishedDateTime: 2021-07-16T10:58:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/07/16/bidens-cautious-cuba-stance-may-haunt-florida-dems-493607"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
+        isCached: true
 
 secured: "sKhTS7Y8GhegGXFqcXknmd5qdWlvLbVk9l4GCILG80a7bd+VpE4yarh9nzed/7MoKBodwFwXYUzVhwjc6H0PVO2gNj6wig848kgzMSrmt//lqtdMIfIQh3C7qenPY/A4W0Coz5QBFbarbv/aek58yt4seeBzJfBP170rJ2W/bfXpeLmg4ITQdE7mE4JMAI4Lf5AjY7kJod0Gr5S7tLvZ+yfTJPUqJmBggBCJeVCR1FtaB6zJNQh7AQt5i2qKUHCgZylziT+wy5BNh640MFk0PfXVGnKTRkCw1UsfD2ukKoPtjsDfwgaI05uc59ddY3hj/w7jtTEiBBv3nE6jQGniU33+xVTPD/gCpRx1b9G+4WA=;T0rjR/oyHT9q28Es6B0Atg=="
 ---
