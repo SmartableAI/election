@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration moves to reverse Trump-era showerhead rule"
+    excerpt: "The Department of Energy is moving to reverse a Trump-era rule that rolled back water efficiency standards for showerheads, an administration official confirmed to CNN on Friday.\n    \n"
+    publishedDateTime: 2021-07-16T14:57:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Awq9c6VTEz8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/shower-head-rules-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/shower-head-rules-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716104141-shower-head-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats have national power, but Trump conservatives are thriving"
     excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
     publishedDateTime: 2021-07-06T10:10:44Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-pre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Will social conservatives stick with Trump if he runs again in 2024?"
+    excerpt: "Will White evangelicals and other social conservative voters, who strongly supporter former President Trump in the 2016 and 2020 elections, stick with him if he runs again in 2024."
+    publishedDateTime: 2021-07-16T14:45:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6GbJjciaJg/will-social-conservatives-stick-with-trump-if-he-runs-again-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/will-social-conservatives-stick-with-trump-if-he-runs-again-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-social-conservatives-stick-with-trump-if-he-runs-again-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

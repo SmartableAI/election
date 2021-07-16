@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Will social conservatives stick with Trump if he runs again in 2024?"
+    excerpt: "Will White evangelicals and other social conservative voters, who strongly supporter former President Trump in the 2016 and 2020 elections, stick with him if he runs again in 2024."
+    publishedDateTime: 2021-07-16T14:45:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6GbJjciaJg/will-social-conservatives-stick-with-trump-if-he-runs-again-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/will-social-conservatives-stick-with-trump-if-he-runs-again-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-social-conservatives-stick-with-trump-if-he-runs-again-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump speech, CPAC straw poll, put 2024 GOP presidential race in Sunday spotlight"
     excerpt: "The road to the 2024 GOP presidential nomination winds through Texas on Sunday, as former President Trump and two other potential Republican White House contenders take the stage on the final day of the Conservative Political Action Conference (CPAC) in Dallas."
     publishedDateTime: 2021-07-11T12:49:11Z

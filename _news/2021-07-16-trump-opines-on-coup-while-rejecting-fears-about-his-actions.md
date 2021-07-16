@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Opines on Coup While Rejecting Fears About His Actions"
-excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election."
-publishedDateTime: 2021-07-15T21:14:00Z
-originalUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions"
-webUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions"
-ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions?context=amp"
+title: "Trump opines on coup while rejecting fears about his actions"
+excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election"
+publishedDateTime: 2021-07-15T21:16:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Entertainment/WireAP_354a2d7ceab944c2b2444c4ca820ac79_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "New book goes behind the scenes of the Trump presidency and re-election campaign"
@@ -156,7 +162,7 @@ related:
   - title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
     excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
     publishedDateTime: 2021-07-16T02:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pentagon/i-wouldnt-do-a-coup-with-milley-trump-says-of-top-u-s-general-idUSKBN2EL2LS"
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2EL2LS"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL2LS"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL2LS"
     type: article
@@ -605,6 +611,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "iDAgCSCoBEPOZTrvDT/tr/jFL1fYxN4xxv4uNjqNnz0aBS3L1GgVrVZ2lRdExSWUaLOXus3loTnNCSeiipbvM4WVHFMPNKVL6wqZaVKeYN5QWMw2saHnzE6VX29dhffchxzXYNUmzESDRO9SUw1XudYsCjJzDMItL/ZrOitlGNHv+u07p5RVZ++SKWKYzzByRhqeaY2ZEdB+jVtyxOB/2dXWAuCEeVKs3OpBQXeOko0QELWqqU05E+wlAcq9Jf4qxHaqBVghc+nHc6aoDLfAHFGGWbW40Tlwu+kA9IwKAiI0XRcOK+IdFI0B+B+AleUBrOW7xt6C6DYHHp6zm/HrtWxeGaKU6COd7gnUbySkHUKN5QsBMEMRVdP9szB5S5X4Wi/FZuceLU/O4x9irVtuhSare6JxIEriHfzWVxYAKBLIx0SlR5ddIL31n6ipEzFZ5JLgaQMkt7F8IOIC9ZBer8uHOhDI3QGXu4n+5g4nT1qJwmMoAlI0lZe6uAYU92u3eZ60w2NCBN6YhgS93xOPxg==;Jaq3UE8C9LtrZFhzgj4JrA=="
+secured: "goTyOEXgSJNbW1bx6sdpGi8jjAO4bZ9rceGPGB4/QcF3rwPGgmqb3q40bTJdpU8iYfnxC7Id+6sN+e18ev5xHHLJMyMg4gYQte0y6tMsU4ux1fHR54ph+buVd+J/GaTQkJJxqk/yCg4uXwwwWugqYTDt+Pj89lZ5zvEEx9v0jXc1Q4ClgrvJ/QUr99KSqeOsOl3xi5lyO3HbQq7g7Cl3lq8Kp5lz0vTwuSBnrxCpTyRK06vViGrjh1Y57yStDv3M1DQb1wV/N24+9od5jMJbUCgrBAkZAc6+aTqeyf7Bgw4O6VkGjwUwfIt9tQGW77riEOAv5rdfyF3vECu+EFCUeHzAQSI06HKcZUz57i72vyY=;ZvMW/yzy9abjB3oOcPtcsA=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
 excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
 publishedDateTime: 2021-07-16T02:28:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-pentagon/i-wouldnt-do-a-coup-with-milley-trump-says-of-top-u-s-general-idUSKBN2EL2LS"
-webUrl: "https://www.reuters.com/article/us-usa-trump-pentagon/i-wouldnt-do-a-coup-with-milley-trump-says-of-top-u-s-general-idUSKBN2EL2LS"
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2EL2LS"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2EL2LS"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL2LS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL2LS"
 type: article
@@ -174,6 +174,22 @@ related:
       - url: "https://thehill.com/sites/default/files/mreporttrump_13.jpg"
         width: 580
         height: 386
+        isCached: true
+  - title: "Trump opines on coup while rejecting fears about his actions"
+    excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election"
+    publishedDateTime: 2021-07-15T21:16:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_354a2d7ceab944c2b2444c4ca820ac79_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
     excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."
@@ -576,17 +592,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Trump Opines on Coup While Rejecting Fears About His Actions"
-    excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election."
-    publishedDateTime: 2021-07-15T21:14:00Z
-    webUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions"
-    ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Donald Trump Jr. Remarks at CPAC"
     excerpt: "T18:10:26-04:00 Trump Jr. delivers remarks at the 2021 Conservative Political Action Conference (CPAC) in Dallas. Javascript must be enabled in order to access C-SPAN videos. This program contains introductory remarks at the beginning of a session at the Conservative Political"
     publishedDateTime: 2021-07-09T23:32:00Z
@@ -606,6 +611,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4sZj7GUe6E8Go0/5+gk/6ohJJCq3apCwXJ3wvIwiCCFAUuFisVf36hwxY77/gMmmwQ9qjzwaScWpNI7HB9/eJpbgHFpYzykdXL71PelziDUOqtvcA5kB5+/tbK/0Om0/MEHL8iQu8ArJ0/xF/9d/zBs3EXklS/lLaB1/JWzr9HF6kbr+wsoC3Mm1g8B3ZXyJZrT9iwWEA+mMg7xYroZWcYwBKGnAlphtQ/wNjB3HKRU7H9sNlLL2V3Ek6quXzBZE03yoLo1WXsgcFFiJpLPzF/gbgAa8N/jh9Ek7MYaMLbvYCfr1Yw5a15N8eqpme6suj+YvETdyL6Fx8KXC39n8WvipohlgKsGxxFD61Z+vfKA=;WTRiS5BdTvQY6CcRHNhJ8g=="
+secured: "a/yMBMUxaPY41p8PV9JdScvfpAX4InkvlR0ndidOrG0mco1D8fU3EWsIovqaPXs7CrmDu8jhz3pKgOQrSLn9ljLNWXl9/acKwOb/adjilcfyYeD53oplt0GK8+uPu7mboklI9hbs/NZ3McYzMiL9wAfvpgGtmycF51/lxDOscnIesSWX44bAWaR/f7H4hytisJLlA8rmamuOiqf4iTRVoXvDHxK5+kWWUBDRikf1FdebhV9keM6OFzjL2ppaCrW9OpmT9+e7LAu/7ac6kxhjO9WmTOacls90GmKJa8i36eMhyFCnBNUVnmpnbCb5xLQh/KhQGtk6j4DdfY2QjJK5pzHe0ULpMBisqYou8fw9ZqU=;biCtm8MMMBMyKSj+zwTxNQ=="
 ---
 

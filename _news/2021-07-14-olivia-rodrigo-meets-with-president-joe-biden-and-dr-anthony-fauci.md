@@ -3,8 +3,8 @@ category: news
 title: "Olivia Rodrigo meets with President Joe Biden and Dr. Anthony Fauci"
 excerpt: "Olivia Rodrigo arrives to the White House to meet with President Joe Biden and Dr. Anthony Fauci as part of White House Covid vaccine push in Washington, D.C., U.S., on Wednesday, July 14, 2021. Photo"
 publishedDateTime: 2021-07-14T16:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/ccf8fc5bf4ebe44654b98f4f51b36411/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/ccf8fc5bf4ebe44654b98f4f51b36411/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/77a6c5ed567406002c222d7a4e309259/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/77a6c5ed567406002c222d7a4e309259/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/related/6651619626685/1/v1.5/90b9a76fba41f726e3e204347ac57313/upi/SpaceX-Crew-2-launches-to-International-Space-Station.jpg"
-    width: 600
-    height: 399
+  - url: "https://cdnph.upi.com/pv/upi/77a6c5ed567406002c222d7a4e309259/WH.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 940
         isCached: true
 
-secured: "/25JkMPzh9lUfyAUI0DyQyzlvUYeH86Xbeg3BuCH+gi9KB97DRGCU9E2Duj7MtN+N/90VVCAzFU1TOX4CIP871VheSkBMh1VXCvxllSo3YeDfmQ820HmL6J5nWOhPlpfTB/pYyBWGNIpmNyehpC3gV/zsOCAVQcGX2GSXxK8gTpKqaS5PD1axxSbTahgdV9cqwW6S2f5teGooEcA3/9KOhJe7FbL7hlvvLNBm/V2Sjw55qhxsK/I3RXZ+TKNUNiCG/rLHctzs25Oe6pBv2jxagMDtsQWnCki7q+eVkiMuPRskX/dLeVVl2KhNePezzF4jLRUKBA1u8ELQIz7DMMkoFoZyfTU8cQLlRCDnduiT39CqYT1ZBlV74Fd96EQZHiR1hingdZ0rZaXpv+IkjyeZK+c/D0ucwDJblLBs+2fd7E1ZdwMAnkA9+AGVaCDxOTqC3aQA+f3w3ediohDFC4RmzGzuvOUHLwEkacbMXsrO5K92Vf8f15Fd+m+fVFGRQm8j3h/FRfEYo1DdO1DWN8jXw==;YwaySCDfV2EFn3HOlOWVSQ=="
+secured: "Xrox42UqyZnTzlDc2Hx6+9eySyMv2OmoMseg0f7e3NiVyYWUnFCWJ8xchr5iaNQ7Iqf92wa2GzaA3L7d2sbSK5uHX6nDWlHC9slPCdtSb0Uke6YsED/mRL6zEX2lpvi39Etxhz5hdqaSRQiIgkAXcKx657WuCK4OiL2A47VOae8pK8OICyT8qZ5YvdFm1T0MqvzK7/qvN0i2OUKgMvVbFSTeHkzuzNDw/Qd8qAfge05MvOnTCy3oSIEveb4QfnxkibgfLafLiK+a62F4RgDgl7aYvHe+VcLnTTVl8B5Bluldts/tEavGnM1UnQOKhBY0Dzw0Hx0kVTQgcSw0FhTkq4rZ5p4XopEO/0/Ct0MIwmE=;ZYHrH30qSUJpYDoejoO+Tg=="
 ---
 

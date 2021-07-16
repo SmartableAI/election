@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden meets Merkel at White House: ‘Our nations understand the imperative of democracy’ – as it happened"
+    excerpt: "Biden says – follow all the latest politics news"
+    publishedDateTime: 2021-07-16T00:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0493f8f0827c8ef6d1ac3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 108
+    images:
+      - url: "https://i.guim.co.uk/img/media/0259455082635cfb374ca5eb6d782612ff0bfbd3/0_13_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0096c3b7acc3f0d73a979f1b6d79602"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "y9extBAMXrYGWjSKMElC5f9jew2iTGh3JZyZIyhPCEs6QJoglIJN0xb/JldqvRJUeU0jqdwPrYrNqzIuMn9lfCJbQ2B/9sJNMT8vyT1DJb1MePKmRtb0UxTf5C1l0Jk5KSSOKDy3fkOqVTdFpGykdLDtnWK0Sn59dVFimNPcars0PVfdEQMhA7a+6uBLXooiL2z5LJx0htRKG4I1PoaayBs4b+AUAqR7OmSALvTBKH3uoCwkeiNqnNP+34aXVVA0+eZaXWPbQlAnTGiksfFE/cypRJxlODzZFvysV3u6fdTEwatOa5kCMq6TAhwObxS4hiTdb0AJLVOnruKh83sf0ncM7/Hfj265LOOH2AuPgf7QL1AF8ytbLiUaxPnYDge8qEYiw4RTBCieIdV6T96E/r6g2T+i80XtEsPJScJiblb3RwKCxts0Q9S13ytY/243B1d0NLINf6GY1rhsPYiV4Kw+Pk9BncABzEBQ+s2zgC2H9yyiFz/LkzafpGNxjhDO4PqlHyI0ZVCVmcSTdKd4ZA==;cqc33Cfcf1GWrb6LKmHl2w=="
 ---

@@ -2,6 +2,63 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-04-21-brian-sicknick-death-ruling-debunks-media-narrative-that-fueled-second-trump-impeachment-hurt.md",
+      "title": "Brian Sicknick death ruling debunks media narrative that fueled second Trump impeachment: Hurt",
+      "excerpt": "The official ruling on the cause of U.S. Capitol Police officer Brian Sicknick's death debunks the media narrative upon which former President Donald Trump's second impeachment was largely predicated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
+      "originalUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Brian-Sicknick-sharp.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
+      "publishedDateTime": "2021-04-20T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-biden-doj-dispatches-peacemakers-to-minneapolis-ahead-of-chauvin-verdict-report.md",
       "title": "Biden DOJ dispatches 'peacemakers' to Minneapolis ahead of Chauvin verdict: report",
       "excerpt": "The Justice Department has reportedly dispatched officials from its Community Relations Service to act as peacemakers and facilitate listening sessions in Minneapolis.",
@@ -1271,63 +1328,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.md",
-      "title": "Babylon Bee editor in chief scolds Samantha Bee for pulling punches on Biden: 'Blinded by your own worldview'",
-      "excerpt": "The editor-in-chief of the popular satirical website The Babylon Bee sounded off at TBS’ far-left \"Full Frontal\" host Samantha Bee over the weekend after she admitted to going easy on President Biden despite years of hard-hitting jokes at the expense of his predecessor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
-      "originalUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Samantha-Bee-628x354.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
-      "publishedDateTime": "2021-04-18T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

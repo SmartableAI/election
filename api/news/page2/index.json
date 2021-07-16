@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-15-mcconnell-condemns-biden-fury-over-gop-voting-reform-as-utter-nonsense.md",
+      "title": "McConnell condemns Biden fury over GOP voting reform as 'utter nonsense'",
+      "excerpt": "Senate Minority Leader Mitch McConnell on Wednesday condemned a fiery speech by President Biden as “utter nonsense” for alleging GOP voting reform laws were comparable to the Civil War.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UlAfIHWo4o/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UlAfIHWo4o/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f38ee14-d816-4591-864f-dac261609a32/60b2a75e-81f7-4c1a-956c-dc27519da183/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp",
+      "publishedDateTime": "2021-07-14T18:36:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-theyre-not-going-to-fking-succeed-top-generals-feared-trump-would-attempt-a-coup-after-election-according-to-new-book.md",
       "title": "'They're not going to f**king succeed': Top generals feared Trump would attempt a coup after election, according to new book",
       "excerpt": "The top US military officer, Chairman of the Joint Chiefs Gen. Mark Milley, was so shaken that then-President Donald Trump and his allies might attempt a coup or take other dangerous or illegal measures after the November election that Milley and other top officials informally planned for different ways",
@@ -921,7 +977,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1298,62 +1354,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-biden-in-standoff-with-democratic-senators-over-who-should-lead-fda.md",
-      "title": "Biden in standoff with Democratic senators over who should lead FDA",
-      "excerpt": "Nearly six months into a presidency fully engulfed in a battle against a global pandemic, President Joe Biden is in a standoff with senators in his own party over who should lead the US Food and Drug Administration, a key post in the fight against Covid-19 -- with no indication the White House will name",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4rNsmYKr2Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4rNsmYKr2Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210528195632-fda-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html",
-      "publishedDateTime": "2021-07-13T14:17:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

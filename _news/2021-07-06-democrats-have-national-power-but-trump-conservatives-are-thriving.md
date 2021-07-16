@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration moves to reverse Trump-era showerhead rule"
+    excerpt: "The Department of Energy is moving to reverse a Trump-era rule that rolled back water efficiency standards for showerheads, an administration official confirmed to CNN on Friday.\n    \n"
+    publishedDateTime: 2021-07-16T14:57:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Awq9c6VTEz8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/shower-head-rules-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/shower-head-rules-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716104141-shower-head-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New Trump revelations underscore his undimmed danger"
     excerpt: "The most chilling implication from new reports that America's top military officer feared Donald Trump would try to order the armed forces to stage a coup is not how close the nation came to a post-election disaster last year.\n    \n"
     publishedDateTime: 2021-07-15T04:41:15Z
