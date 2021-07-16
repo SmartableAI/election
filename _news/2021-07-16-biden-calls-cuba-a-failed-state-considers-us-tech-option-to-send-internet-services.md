@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden to target state election bills, Supreme Court decisions in voting rights speech in Philadelphia"
-excerpt: "President Biden is expected to target new election bills in states across the country that administration officials say are erecting new barriers to voting, as well as Supreme Court decisions they claim have weakened federal tools to combat \"regressive voting laws,\" in a speech focused on voting rights"
-publishedDateTime: 2021-07-13T17:39:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYA2b-idsxY/biden-voting-rights-speech-state-election-bills-supreme-court-decisions"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYA2b-idsxY/biden-voting-rights-speech-state-election-bills-supreme-court-decisions"
-ampWebUrl: "https://www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
+title: "Biden calls Cuba a 'failed' state, considers US tech option to send internet services"
+excerpt: "President Biden said Thursday that he is considering the possibility of establishing an internet source for the Cuban people after the government shut off access amid mass protests."
+publishedDateTime: 2021-07-16T00:02:43Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neC-mF_Vtkg/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neC-mF_Vtkg/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services"
+ampWebUrl: "https://www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
 type: article
-quality: 175
-heat: 275
-published: true
+quality: 168
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e3ccdd0-02cb-431c-b1f4-3cd65e1cbf23/bbc7e75a-2359-4191-94b8-1da714252a15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
+  - title: "Biden to target state election bills, Supreme Court decisions in voting rights speech in Philadelphia"
+    excerpt: "President Biden is expected to target new election bills in states across the country that administration officials say are erecting new barriers to voting, as well as Supreme Court decisions they claim have weakened federal tools to combat \"regressive voting laws,\" in a speech focused on voting rights"
+    publishedDateTime: 2021-07-13T17:39:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYA2b-idsxY/biden-voting-rights-speech-state-election-bills-supreme-court-decisions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden calls on GOP to protect voting rights 'for God's sake' in fiery address"
     excerpt: "In a fiery address Tuesday, President Biden called on Republican lawmakers to protect voting rights and counter laws that place restrictions on the ballot."
     publishedDateTime: 2021-07-13T20:58:40Z
@@ -44,22 +60,6 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden calls Cuba a 'failed' state, considers US tech option to send internet services"
-    excerpt: "President Biden said Thursday that he is considering the possibility of establishing an internet source for the Cuban people after the government shut off access amid mass protests."
-    publishedDateTime: 2021-07-16T00:02:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neC-mF_Vtkg/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e3ccdd0-02cb-431c-b1f4-3cd65e1cbf23/bbc7e75a-2359-4191-94b8-1da714252a15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 405
         isCached: true
 
-secured: "QmofWgYjEYKV9aXguhB73+ZGKIMEp7fzMwuJ4F7tKUIxiQOTdheacxJNOkKLfnJa4qFEFMjkQw4s55yfidejiGZvlnuYQjl3Po6453kNFB3NESZVszhENO53TWtdXwVPJAdNfw2NNOWZqJv20q6PPB+90uwBmjGHUNV/wXXztqp4xtBfDYwmnQgwqg2HAgqj87nEwWvi1/djSZGGIig/6L3DGJuN5AZ6lEh0kBSQFIy16TsSAaswSuGOlwEcFxS3Zr7yL1uZ65hvnd0rji3gbAooHOd/2w69T24s/bHr9y+F8BZ/3wc/YU1P1PcBmvRt89IhvZDOX9LEhYR0KrehO6tmRRutYnCWJ2DxoIgzY68=;x6LFNOTkoWK3uGeTyfP+gA=="
+secured: "RJjieejVzlryAoZmSQr1LYnh8R6WuoiNEMeNuH5uC4Iv+oqPCK6aPHSkFhU9GwkoObuXGloVifyRNI6wt1JIgM70l4UWjROtY8ePHVpbcqCGROJ/KTDFtxW6cEPH1C2sBycgKmmOyAp8VxKZf1N922HLIWYA6K23qav8hhlf6TTZ1kHxbJw4hHF67fIkVnhjFeMLvLku4lRkaxri5tVCzZ5C5TwJ4j1De7N6YeeXK45uJokBcCZYH2ELlN1qOi5fVQHjwu2JOTTfgKmqv2b3GiIoluqKIBzy/HYY7Lh4D/8lTcwxbbSkgcSjfaYTGekZC8FTXeaNCxWP6KB5qr+W/lcLlVF5thrSNQYZ2BkINwQ=;3xxjk4c2GwhBMKGKZQZwzg=="
 ---
 
