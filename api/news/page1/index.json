@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-16-from-coup-warnings-to-alleged-kremlin-documents-journalists-refight-the-trump-wars.md",
+      "title": "From ‘coup’ warnings to alleged Kremlin documents, journalists refight the Trump wars",
+      "excerpt": "From the Pentagon to the Kremlin, new allegations against Donald Trump are emerging almost by the hour as a flood of books and investigative pieces hit the marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/from-coup-warnings-to-alleged-kremlin-documents-journalists-refight-the-trump-wars",
+      "originalUrl": "https://www.foxnews.com/media/from-coup-warnings-to-alleged-kremlin-documents-journalists-refight-the-trump-wars",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ap18082762096951.jpg",
+          "width": 1920,
+          "height": 1243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-ruthless-podcast-plays-veep-or-veep-using-quotes-from-kamala-harris-fictional-vp-selina-meyer.md",
       "title": "Ruthless podcast plays 'Veep or Veep' using quotes from Kamala Harris, fictional VP Selina Meyer",
       "excerpt": "The \"Ruthless\" podcast debuted a new game on Thursday called \"Veep or Veep\" involving quotes made by Vice President Kamala Harris and fictional VP Selina Meyer.",
@@ -691,8 +748,8 @@
       "title": "CNBC Host vs. Mnuchin: Do You Believe It Is A Lie That The Election Was Stolen From Donald Trump?",
       "excerpt": "Former Treasury Secretary Steve Mnunchin responds to a question from CNBC host Eamon Javers about the results of the 2020 election: \"In 2020, I wasn’t able to participate in the campaign. So I’m really just watching this from the outside.",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!",
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -1271,62 +1328,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-republicans-ramp-up-pressure-on-biden-to-pull-nominee-linked-to-eco-terrorist-plot.md",
-      "title": "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot",
-      "excerpt": "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
-      "publishedDateTime": "2021-07-14T14:22:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

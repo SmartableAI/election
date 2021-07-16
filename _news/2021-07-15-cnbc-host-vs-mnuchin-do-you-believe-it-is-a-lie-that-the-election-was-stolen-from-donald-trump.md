@@ -3,8 +3,8 @@ category: news
 title: "CNBC Host vs. Mnuchin: Do You Believe It Is A Lie That The Election Was Stolen From Donald Trump?"
 excerpt: "Former Treasury Secretary Steve Mnunchin responds to a question from CNBC host Eamon Javers about the results of the 2020 election: \"In 2020, I wasn’t able to participate in the campaign. So I’m really just watching this from the outside."
 publishedDateTime: 2021-07-15T14:51:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.amp.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 846
     isCached: true
 
-secured: "ZrsQpCmvee+QqzDTP278zaVkQeZKI8tFEx26o55Ou1orq+eN0motikxRSbCoN4LV0xU123jqThYOX1561OTN2/CF0wpGAYgDykr/8bxPl9t52u5aFruVpnv/MLgxyNJObUQbauzDmCKDau7gVZOdNQ5LozXOgbIZFItXqSvyMvmcCRYAJgcR54shiipYVtbT1zDNrgEs2br43+0vdGwHvWRA90IYHzCsZESIDK6JoJp31SxdsmPmEGO3NAtiR8eU7vUpXH382a/sMgQfTV2cDf4p3MIzZYLGpULH1rQf76XiooA8cv4kMFHHBe3Au7LUB7ZHQj1x6j6wsTnW/U3ENmkyM1dr4bqPIjRlw0rg80bN4ksuRCwLscw6WUAK4y/o/3/mWhPKC1nyTC3xIQazqLQHZfRVY1yykSjtqScvU4jOlLaJaIIC5Tt6M7B98bxun4O9gLo2kBmP5h0rvUQcUeMewzm68nDftWv9wpwOdNyXc35EY9UTczjibKqqwm/IpRTgU3U1rPAXlB5JK/+21g==;bo9TgCMg3sFmcdN4ByCWrQ=="
+secured: "BzYj7grfjuHPohqBmaggvEr8hGzLC1GRm5wW5z/Qq7P6UXc4dbkpIyMzwTAlNn6h92XCYioD36V4NEI/gxG6k6MvQxCyeYvu7i174G8NaD2Klcgm8t5bYEdv2ZSawo3mNMWFsgL+OpcNgeHIjJ+VKjf6ygWjIWq2K3yKZF+1T0MZo43k+XeBo2pTZLO7dJx5fR4ee5rmoA1qfllfENTeR9iZ2XA5sAlDwScuDcTVswRjV85qZ/E5yCb12lqyenkXpjW2UtWhGlW/bTyOeGskCkDJGyUL1jqucpgibXl/WHgMJTEPrXQtCOxcL0CZsP+Etk/BwYz7uypeZcZubk8ZziXspNnFNVtDQuMppp+pi8g=;g1+FTHs3wfPRtc6ZDVHH8A=="
 ---
 
