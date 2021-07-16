@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-20-nina-simones-grandaughter-says-kamala-harris-bullied-her-mother-to-the-point-she-almost-killed-herself.md",
+      "title": "Nina Simone's grandaughter says Kamala Harris 'bullied' her mother to the point she 'almost killed herself'",
+      "excerpt": "Legendary singer Nina Simone’s granddaughter accused Vice President Harris of causing the family to lose control of Simone's estate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WRhdHghQ0k8/nina-simone-kamala-harris-granddaughter-estate-california",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WRhdHghQ0k8/nina-simone-kamala-harris-granddaughter-estate-california",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/7665a381-Kamala-Harris-Guatemala-Press-Conference-AP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-20T14:19:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-pence-criticizes-harris-over-declining-to-visit-us-mexico-border.md",
       "title": "Pence criticizes Harris over declining to visit US-Mexico border",
       "excerpt": "Former Vice President Mike Pence took aim at his successor on Friday at a conference for religious conservatives in Florida, criticizing Vice President Kamala Harris for declining to visit the US-Mexico border during a recent immigration-focused trip to Central America.\n    \n",
@@ -1564,49 +1621,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-biden-and-harris-make-first-maskless-appearance-better-days-are-ahead.md",
-      "title": "Biden and Harris make first maskless appearance: ‘Better days are ahead’",
-      "excerpt": "\"We'll laugh again. We’ll know joy again,\" President Biden said Thursday. \"We'll smile again — and now, see one another's smile.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/",
-      "originalUrl": "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2021/05/BidenHarris-scaled.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/",
-      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/",
-      "publishedDateTime": "2021-05-14T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

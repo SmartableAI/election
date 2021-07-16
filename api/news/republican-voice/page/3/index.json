@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-04-bill-oreilly-pelosi-cheney-team-up-against-trump-on-january-6-commission.md",
+      "title": "Bill O'Reilly: Pelosi & Cheney Team Up Against Trump On January 6 Commission",
+      "excerpt": "Pelosi \"rammed through\" a select committee on January 6... & appointed Liz Cheney to it, reports Bill O'Reilly. \"Why? The FBI is already doing it.\" \"What a colossal waste of money,\" he said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/547276.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.amp.html",
+      "publishedDateTime": "2021-07-04T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-trump-rails-against-terrible-ny-prosecutors-criminal-charges-at-rally.md",
       "title": "Trump rails against ‘terrible’ NY prosecutors, criminal charges at rally",
       "excerpt": "Former President Trump came out swinging against the New York prosecutors who brought criminal charges against his organization.",
@@ -1569,62 +1617,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp",
       "publishedDateTime": "2021-06-29T09:30:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-florida-condo-building-collapse-biden-to-travel-to-surfside-on-thursday.md",
-      "title": "Florida condo building collapse: Biden to travel to Surfside on Thursday",
-      "excerpt": "President Biden and first lady Jill Biden are expected to travel to Surfside, Florida, on Thursday after the collapse of a beachfront condo building that left 10 dead and more than 150 people still missing. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nBCc4TGnEIQ/florida-condo-building-collapse-biden-surfside",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nBCc4TGnEIQ/florida-condo-building-collapse-biden-surfside",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-condo-building-collapse-biden-surfside.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-condo-building-collapse-biden-surfside.amp",
-      "publishedDateTime": "2021-06-29T08:22:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

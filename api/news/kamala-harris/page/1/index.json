@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-16-ruthless-podcast-plays-veep-or-veep-using-quotes-from-kamala-harris-fictional-vp-selina-meyer.md",
+      "title": "Ruthless podcast plays 'Veep or Veep' using quotes from Kamala Harris, fictional VP Selina Meyer",
+      "excerpt": "The \"Ruthless\" podcast debuted a new game on Thursday called \"Veep or Veep\" involving quotes made by Vice President Kamala Harris and fictional VP Selina Meyer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer",
+      "originalUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/047dda84-2e62-4f40-92a8-090c4459b838/e0d0db1b-9ff6-4375-a047-9825c20eccbd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer.amp",
+      "publishedDateTime": "2021-07-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-10-things-in-politics-kamala-harris-toxic-work-culture.md",
       "title": "10 Things in Politics: Kamala Harris' toxic work culture",
       "excerpt": "And Republicans are getting antsy about infrastructure.",
@@ -1559,63 +1616,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp",
       "publishedDateTime": "2021-06-22T15:23:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-nina-simones-grandaughter-says-kamala-harris-bullied-her-mother-to-the-point-she-almost-killed-herself.md",
-      "title": "Nina Simone's grandaughter says Kamala Harris 'bullied' her mother to the point she 'almost killed herself'",
-      "excerpt": "Legendary singer Nina Simone’s granddaughter accused Vice President Harris of causing the family to lose control of Simone's estate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WRhdHghQ0k8/nina-simone-kamala-harris-granddaughter-estate-california",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WRhdHghQ0k8/nina-simone-kamala-harris-granddaughter-estate-california",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/7665a381-Kamala-Harris-Guatemala-Press-Conference-AP.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-20T14:19:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

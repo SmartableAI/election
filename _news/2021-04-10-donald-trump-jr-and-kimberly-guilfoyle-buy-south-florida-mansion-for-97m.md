@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html?outputType=amp"
 type: article
 quality: 123
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.insider.com/6071a7c54943790018bb1c96?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard"
+    excerpt: "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool."
+    publishedDateTime: 2021-07-16T05:11:00Z
+    webUrl: "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012"
+    ampWebUrl: "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/04/donald-trump-jr-kimberly-guilfoyle.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "yYQJD4Ky/lPD2lifIaAC2VO9tRLhSHH4tLKDfdBSEOx3ECCECatbJHPnhmFpSABymcbZzjvHJSZCxe5chDhmV5qWozUqIrQqG4C9wZRLFqt7gwd74nILexhQRZuqKVzZTkxZyd2r1RkYMORdL4mPfTI3BupK6lRR3CqVqYVAQvdtD+LSlNhYFQRwpDNwJLsfAPT4UaB59mrB6yPW4ESSA9PwnMtvc3o6pzBY0bkpGv7jaGfPLvWspHAEUnKE/D+Euh+jFQnxlUMQ52+xWP/bjOif0d8swewwkxfwXaQj3ZnCVpT4UGh8PebXbzVzC6mOkBk1ynJwZyNKrwXj3Vr3nxONHJ6AtKuoarigpO+2hmWvCOoMKNur+FmHkcjki7u3EYTgmL2FpJ9T2SEeX+z3nnOd/eFZRsrkLYQKanvmzDiI7iuBvltP9ZpNnXuAyUavc//0OWVTNUA8pLUyxhiuNPLk21dvcaLckDa/S8XZ4vZ9qSvVAbsxp34U80e/krI4zHJqjZ6t4gbEE7pGUUNpTw==;eVxmpOKtbNtGImpDelBSWQ=="

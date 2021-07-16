@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/garland-reverses-trump-era-asylum-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.wsj.net/im-354640/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "AG Merrick Garland lets judges pause deportation cases in latest Trump reversal"
+    excerpt: "Attorney General Merrick Garland said Thursday that immigration judges can put off hearing deportation cases they deem to be low priority, in another Trump-reversal by the Biden administration."
+    publishedDateTime: 2021-07-16T02:06:00Z
+    webUrl: "https://nypost.com/2021/07/15/ag-garland-lets-judges-pause-deportation-cases-in-latest-trump-reversal/"
+    ampWebUrl: "https://nypost.com/2021/07/15/ag-garland-lets-judges-pause-deportation-cases-in-latest-trump-reversal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/ag-garland-lets-judges-pause-deportation-cases-in-latest-trump-reversal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/garland-immigration-447.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump World's Latest Crazy Idea Could Be Good For Dems"
     excerpt: "Dean Obeidallah writes that Donald Trump supporters floating the idea that the former president could be the next House Speaker. Read Full Article »"

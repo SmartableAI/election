@@ -390,6 +390,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Melania Trump Rejected Election Night Party At The White House 4 Times, Book Claims"
+    excerpt: "Melania Trump did not want the election night party to happen at the White House due to the pandemic, according to a new book."
+    publishedDateTime: 2021-07-16T04:27:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
     excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud and warning that he will be entitled to reject the results unless Congress overhauls the voting system."
     publishedDateTime: 2021-07-09T19:49:00Z
@@ -563,6 +579,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "BOteJkNi1lV+rOYXEjY0lLAuitsqc1hWK92exEnP7Jeq8MSLGPRlyHOGdZWfppO7q/hG7wFmI3AHtPzDB1hljmlcV/ITmrnSJYBKdGXvyHFIr0N4Jl8ewnGpPETvngVCOt8QuKudq630tIEaIh2QKXDnFiNni5+y1z6M1c+QVQyxlY0zDu/ei0QMotEHl/P5r/qvJs95T3W8jtMwy5wje7wtjaHe9Zu0Bbb+yjVud8Vp6w6haNwLi45rQsXGBqPyDKHrCDpwasl0n/txGWXjbIj+E1njEuaEzbH7rvJjOoy528n4gNOE/arpDsLl/u3zQ2RVBkOA9XJdw3txqRyF8Jg00GRMb8ZNxNX0ARsMb64=;oYAshqj8WJ23meMy8ZEqvA=="
+secured: "llIpkqS+eKJmJD5DAha9boxfy/PkmFCson8EYFxgtvxJdqsH9XBC3RsdTmNiglONODMMQnqOUZTC4nQVYnLCp7bn5csArv9Z/C9KNV5hwczobYjDLhL+8iqA6j9Vzefn9xK6Nacd7WiJWh5WhLd9HqpRFQfh858KFuAbZ89ZQfyZWE7n6adejml2whOyG6p4ncV1s6yNJY9SsHsjw+XGBbb/71I9j4CGJHx9Sw+9zru/NaK9YWCDZI47cct4SeMwdtzrBTISqJxom3mHOEi2Ctdbj1hCENTj6hDsyopu4Utmgq3lSkTVcrTYdVFCv0A+26ZFy+83lgH/pS6y6lOTEWd9TvhWwokgmPRa4+ntrHURuGTM2MpGLdHU1RfxVGQ78XEFZsFPnxcKKMnqGIeWPBXCO/NShd/r/j7O+HUMVXKHHB1LvgsBOM+bBiK9XXzMwqAeBNWW9iv0V4heI7uyaLu6vMcdmyHpOdiywoaJ9dRlmHK994LQ48SWNgIVhvgTPG4nmc5lqC41lnSMePFnxQ==;W01gx45R4UrJ5RHPrjY1rA=="
 ---
 

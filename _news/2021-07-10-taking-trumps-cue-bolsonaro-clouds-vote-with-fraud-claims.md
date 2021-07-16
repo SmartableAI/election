@@ -402,6 +402,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Melania Trump Rejected Election Night Party At The White House 4 Times, Book Claims"
+    excerpt: "Melania Trump did not want the election night party to happen at the White House due to the pandemic, according to a new book."
+    publishedDateTime: 2021-07-16T04:27:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump and the Senate race, MLB Draft, weather outlook: Down in Alabama"
     excerpt: "On today’s news briefing we have Trump taking an aggressive position for and against Republicans running for U.S. Senate. We also have an Alabama high school grad taken in the first round of the baseball draft."
     publishedDateTime: 2021-07-12T10:09:00Z

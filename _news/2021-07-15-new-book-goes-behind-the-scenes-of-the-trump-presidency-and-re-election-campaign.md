@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 855
+heat: 875
 published: true
 
 provider:
@@ -387,6 +387,22 @@ related:
     quality: 84
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-says-he-came-to.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Melania Trump Rejected Election Night Party At The White House 4 Times, Book Claims"
+    excerpt: "Melania Trump did not want the election night party to happen at the White House due to the pandemic, according to a new book."
+    publishedDateTime: 2021-07-16T04:27:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
         width: 1024
         height: 682
         isCached: true

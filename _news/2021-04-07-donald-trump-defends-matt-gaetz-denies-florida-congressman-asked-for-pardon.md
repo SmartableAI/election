@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard"
+    excerpt: "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool."
+    publishedDateTime: 2021-07-16T05:11:00Z
+    webUrl: "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012"
+    ampWebUrl: "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/04/donald-trump-jr-kimberly-guilfoyle.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "ytoKEyfuuvLPdbqWNqZOP6Xit4afeYrfDnSrmwGfR91phfa3iwqAjufpwLfvBaBEk9C67TGhck/EiGghaXpn79+bPwJ0+GG1CzmBKCBMN+t9yURz0sxmvuOc+R33HPrTi4l5jS70FY7j7Cw9vOljisCLrJpkKoyMJG5157JLcLDuFdSbg3jSK/qTKQm5i2PP1rvAR6KXclkSpJRGCG0EZsWO56w1M7Xu6n7yH1tGJv2mkTEsO1q9VPM6uhcPDkvm/sKGFhnxmlNaZpiOPOKjJ/tesbPNfdXz4FE2x4PdAYLcd7g5ef2PUOndt/1mo9OXGC3UtEC/e6gM6mS7C43Av1tOnJLaJvB5YAWSYB++SYmyz0/FOwlxVIJ7ZZ0lDzcFkylmjgSMxoXiMXEqBFJ59lPisAlBR/ci/etY0hh2FDgDBG6p95WvKhcz6vweLvxHQ6ZuVplTUX9815E5CjsP8cMYE4OTynkYu895on+Oov0YpWzM8XNpU8ySD+rbNIFSxfzwTFqlsRRPQacbwn5cqQ==;GtR6hn31pFClyXd8cRa+JA=="
 ---
