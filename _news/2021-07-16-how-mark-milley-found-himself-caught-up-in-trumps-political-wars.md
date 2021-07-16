@@ -1,32 +1,33 @@
 ---
 category: news
-title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
-excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
-publishedDateTime: 2021-07-13T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
-webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
+title: "How Mark Milley found himself caught up in Trump's political wars"
+excerpt: "In December 2018, then-President Donald Trump announced on Twitter that he would nominate Gen. Mark Milley as the next chairman of the Joint Chiefs. Milley was not the consensus pick, and then-Defense Secretary James Mattis objected to his selection. But Trump wanted the square jawed, barrel-chested"
+publishedDateTime: 2021-07-16T12:32:30Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sGx4dQ9eVBs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sGx4dQ9eVBs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
 type: article
-quality: 114
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714170338-mark-milley-2020-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -59,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714175415-01-sheriff-ed-gonzalez-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How Mark Milley found himself caught up in Trump's political wars"
-    excerpt: "In December 2018, then-President Donald Trump announced on Twitter that he would nominate Gen. Mark Milley as the next chairman of the Joint Chiefs. Milley was not the consensus pick, and then-Defense Secretary James Mattis objected to his selection. But Trump wanted the square jawed, barrel-chested"
-    publishedDateTime: 2021-07-16T12:32:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sGx4dQ9eVBs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714170338-mark-milley-2020-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -238,7 +223,21 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
+    excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
+    publishedDateTime: 2021-07-13T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "pHl3nN9OoRIGkOK76ixk6ASciAyMoG32cxPJVlo7uQq/l74ZSJM/P20IxCBiIie53N3DdFvFLpUlzcTPYL2MGTrD+Xu0fk+u7lYxN2j2JofYjUhrB8O/OVRgBg7u9jDH3ol8n2j5UkIvOin1KewvXzFxyJfL6Gk+UCXLhYN5OMvq81F32A3BxNN8z15ZwZScBn3AgZwjNyuXe9Cw/SUhHC/lkY2+H/FHSD/5EIO5GPPXHTf49TS24f3sjXfqWvULGNng2zpeaZuh/dY/EFaWAKRR5I2A5W1FmLcqEnIX3jpU1iEoWXagxW6b6y4wrBEdd1WExjIOOa2vzvJZ074TNW//NRKaM2PLRhcGkjxVE5rgsCzEBrin9omn8s54peTgIuNACLDRi7gODjxkl5efAURgbjzokyvCrVLp/Gu2E4fPuelB3no2H4gQ0Q/EkBJHqHBHLKAl75xM67rFD6ip5S46tx6UiCGmpW6/Db6rg+M7gnhm+6G1SCp1J+DwoDV29UvjcTrT4YVHEKR1XeuuDA==;qV3x+t9acVI1UqmSlHwgsw=="
+secured: "G5P043vSucS9dw5EiAPvPNGVYLS9/blzeph/UaPuWfR0afq4aRz7T5MMgFhg3P9rzx+oC1M9gLJsnpoAFEStJqWJDzdgdyTPq4B1hrs8GHoOe2dxe6qD+3fAy21fohgYUJmI5dOqEuuEYGD8TMFd+mC3pSNmXwHYlSPRRPz7FfaQRLKHYoGyZJgZjfSKtsaydyNkKS2FDN64wXfnBI/d+PQOtirpIyHSggh1WwVPx3zA5U64J+rs1eyDCfxBQHd4XdqUTwXZ2gZOyvJC2aNysusLDF9wB8HNFQxyBVfo0Fb84M90Lgrl6+YThkpXDnd4COYiaB8wMaERJW7ZwqWbZb5n/fvoyl2eqySgjp7Vl7s=;PEGz+pMiYAejMdq1R+GYGQ=="
 ---
 

@@ -40,16 +40,16 @@ related:
         height: 433
         isCached: true
   - title: "Joe Biden Departs to Philadelphia From Washington"
-    excerpt: "U.S. President Joe Biden walks on the South Lawn of the White House in Washington before his departure to deliver remarks on protecting the constitutional right to vote in Philadelphia, Pennsylvania on July 13,"
+    excerpt: "U.S. President Joe Biden boards Marine One helicopter on the South Lawn of the White House in Washington before his departure to deliver remarks on protecting the constitutional right to vote in Philadelphia,"
     publishedDateTime: 2021-07-13T17:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5e27340e63a35ccee1d8991303c712bb/Joe-Biden-Departs-to-Philadelphia-From-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c74d6c2f5c94711b1703002f65a5f8e1/Joe-Biden-Departs-to-Philadelphia-From-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5e27340e63a35ccee1d8991303c712bb/BIDEN-DEPARTS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c74d6c2f5c94711b1703002f65a5f8e1/BIDEN-DEPARTS.jpg"
         width: 650
         height: 433
         isCached: true

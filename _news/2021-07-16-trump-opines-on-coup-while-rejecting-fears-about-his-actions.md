@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump opines on coup while rejecting fears about his actions"
-excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election"
-publishedDateTime: 2021-07-15T21:16:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
+title: "Trump Opines on Coup While Rejecting Fears About His Actions"
+excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election."
+publishedDateTime: 2021-07-15T21:14:00Z
+originalUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions"
+webUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions"
+ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_354a2d7ceab944c2b2444c4ca820ac79_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "New book goes behind the scenes of the Trump presidency and re-election campaign"
@@ -611,6 +605,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "20E5HQjZNTAEThLXRww+ksEyVdjIQSAwEyWGo74TRzZ6+HaZNJhAAJBra2+B7ILvY+3jMqXBlIgtpRUESfH09jARZiqXOCVQh7+QQOYK/3lQwPXlLT1aNECljpsl32wHZaE3NOJnYZt/R2M+Lo5kLY5EW+18cEHg3QHguCj9Kmt5MrTGBCn4Y4aXBYzrppXvB791Mx83N4C9meFQk33F3WpQBqxSod1i/T5W9xA1PLkKvQPrOSLh9j9+1fSVaNtyIcD7xWNwSccnkoVa1f/mvo+ETQ9d1115GHd6pShdPnELs4X+xsV2/3c5pkGNjrG2O6r6l1NDsehIlSpFOXPbQfLYYvSlkwzh8Zm9Sa3sPJRnFkuXKt95HvIzogCTlv+3Dab3ruJFdU+G2/+OJj9SIFv2xil4OO94STEWkMSEtmNF1FrITOZnRSs09XM6dgBxbPfnN2ow1Tg0c8dfDXcqTB2T1dOc/sdUYWEBQvb0v6gtUh5TNnfdXBzEqtRFnBKoLzMDDpRebiH1lHKB7JuL2A==;NPLU2S43fIirkb1cljBq7g=="
+secured: "iDAgCSCoBEPOZTrvDT/tr/jFL1fYxN4xxv4uNjqNnz0aBS3L1GgVrVZ2lRdExSWUaLOXus3loTnNCSeiipbvM4WVHFMPNKVL6wqZaVKeYN5QWMw2saHnzE6VX29dhffchxzXYNUmzESDRO9SUw1XudYsCjJzDMItL/ZrOitlGNHv+u07p5RVZ++SKWKYzzByRhqeaY2ZEdB+jVtyxOB/2dXWAuCEeVKs3OpBQXeOko0QELWqqU05E+wlAcq9Jf4qxHaqBVghc+nHc6aoDLfAHFGGWbW40Tlwu+kA9IwKAiI0XRcOK+IdFI0B+B+AleUBrOW7xt6C6DYHHp6zm/HrtWxeGaKU6COd7gnUbySkHUKN5QsBMEMRVdP9szB5S5X4Wi/FZuceLU/O4x9irVtuhSare6JxIEriHfzWVxYAKBLIx0SlR5ddIL31n6ipEzFZ5JLgaQMkt7F8IOIC9ZBer8uHOhDI3QGXu4n+5g4nT1qJwmMoAlI0lZe6uAYU92u3eZ60w2NCBN6YhgS93xOPxg==;Jaq3UE8C9LtrZFhzgj4JrA=="
 ---
 

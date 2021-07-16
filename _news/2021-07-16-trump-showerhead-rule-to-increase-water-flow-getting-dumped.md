@@ -1,20 +1,22 @@
 ---
 category: news
-title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
-excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
-publishedDateTime: 2021-07-13T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
-webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
+title: "Trump showerhead rule to increase water flow getting dumped"
+excerpt: "The former president complained he wasn’t getting wet enough because of limits on water flow from showerheads."
+publishedDateTime: 2021-07-16T13:44:00Z
+originalUrl: "https://www.nbcnews.com/politics/politics-news/trump-showerhead-rule-increase-water-flow-getting-dumped-n1274150"
+webUrl: "https://www.nbcnews.com/politics/politics-news/trump-showerhead-rule-increase-water-flow-getting-dumped-n1274150"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274150"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274150"
 type: article
-quality: 114
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491679/210716-donald-trump-hair-mn-0930.jpg"
+    width: 2500
+    height: 1748
     isCached: true
 
 related:
@@ -190,22 +192,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump showerhead rule to increase water flow getting dumped"
-    excerpt: "The former president complained he wasn’t getting wet enough because of limits on water flow from showerheads."
-    publishedDateTime: 2021-07-16T13:44:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-showerhead-rule-increase-water-flow-getting-dumped-n1274150"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274150"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274150"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491679/210716-donald-trump-hair-mn-0930.jpg"
-        width: 2500
-        height: 1748
-        isCached: true
   - title: "Indicted Trump CFO removed from top roles at organization's subsidiaries"
     excerpt: "Trump Organization chief financial officer, Allen Weisselberg, has been removed from his top positions at more than two dozen of the company's subsidiaries. Weisselberg was indicted on tax fraud charges,"
     publishedDateTime: 2021-07-13T17:27:00Z
@@ -238,7 +224,21 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
+    excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
+    publishedDateTime: 2021-07-13T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "pHl3nN9OoRIGkOK76ixk6ASciAyMoG32cxPJVlo7uQq/l74ZSJM/P20IxCBiIie53N3DdFvFLpUlzcTPYL2MGTrD+Xu0fk+u7lYxN2j2JofYjUhrB8O/OVRgBg7u9jDH3ol8n2j5UkIvOin1KewvXzFxyJfL6Gk+UCXLhYN5OMvq81F32A3BxNN8z15ZwZScBn3AgZwjNyuXe9Cw/SUhHC/lkY2+H/FHSD/5EIO5GPPXHTf49TS24f3sjXfqWvULGNng2zpeaZuh/dY/EFaWAKRR5I2A5W1FmLcqEnIX3jpU1iEoWXagxW6b6y4wrBEdd1WExjIOOa2vzvJZ074TNW//NRKaM2PLRhcGkjxVE5rgsCzEBrin9omn8s54peTgIuNACLDRi7gODjxkl5efAURgbjzokyvCrVLp/Gu2E4fPuelB3no2H4gQ0Q/EkBJHqHBHLKAl75xM67rFD6ip5S46tx6UiCGmpW6/Db6rg+M7gnhm+6G1SCp1J+DwoDV29UvjcTrT4YVHEKR1XeuuDA==;qV3x+t9acVI1UqmSlHwgsw=="
+secured: "nQ35Ye0jsQZXSr6nIhuEmpfn7Vv0AFr0pJcx0rm4zd1hyqpFOZTyQtXVGNreohUd3yrcM+tGUTlqSJaYZib4Ae5pSQxvT7ii6IPkvPUredyXyPef77zt73n0ACk5UuttNNT/0rUPO8f5P5IjSAbWYyUH5L+sO0jUG+XMcardRibYceNNhIx8ykD2d+11WNO40xcWyyEyL9mNxor2vNm7sNnfi6I0iG40tZZewYZT4bDkgmbTRg+3YNPvpB3+dfzp0cI5fC83tziR4cdZSc0v+Gf9WmofOnIRcPSmba8urPun3O0VFnvTuJE78H9CHhk0RACou7ks6PbrnQ0ZFOa8j7FWm6y/3smc5JGT8TsXuDE=;yIUXDHptN8ncEZDyxKKcZQ=="
 ---
 

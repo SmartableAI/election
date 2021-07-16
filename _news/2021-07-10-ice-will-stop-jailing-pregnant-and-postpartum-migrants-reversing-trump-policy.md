@@ -191,22 +191,6 @@ related:
         width: 580
         height: 386
         isCached: true
-  - title: "Trump opines on coup while rejecting fears about his actions"
-    excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election"
-    publishedDateTime: 2021-07-15T21:16:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-opines-coup-rejecting-fears-actions-78872692"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_354a2d7ceab944c2b2444c4ca820ac79_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Winston partner withdraws as lawyer for pro-Trump election challenger"
     excerpt: "One week after they signed on to represent a former Trump administration official who is facing potential sanctions after suing to overturn the election results in Michigan, Winston & Strawn and one of its high-ranking partners are walking away from the case."
     publishedDateTime: 2021-07-15T20:31:00Z
@@ -592,6 +576,17 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Trump Opines on Coup While Rejecting Fears About His Actions"
+    excerpt: "Former President Donald Trump is insisting he's “not into coups” after a new book revealed the country’s top military leader feared Trump might try to stage one after losing the 2020 election."
+    publishedDateTime: 2021-07-15T21:14:00Z
+    webUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions"
+    ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2021-07-15/trump-opines-on-coup-while-rejecting-fears-about-his-actions?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Donald Trump Jr. Remarks at CPAC"
     excerpt: "T18:10:26-04:00 Trump Jr. delivers remarks at the 2021 Conservative Political Action Conference (CPAC) in Dallas. Javascript must be enabled in order to access C-SPAN videos. This program contains introductory remarks at the beginning of a session at the Conservative Political"
     publishedDateTime: 2021-07-09T23:32:00Z

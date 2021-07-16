@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Mark Milley found himself caught up in Trump's political wars"
+    excerpt: "In December 2018, then-President Donald Trump announced on Twitter that he would nominate Gen. Mark Milley as the next chairman of the Joint Chiefs. Milley was not the consensus pick, and then-Defense Secretary James Mattis objected to his selection. But Trump wanted the square jawed, barrel-chested"
+    publishedDateTime: 2021-07-16T12:32:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sGx4dQ9eVBs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714170338-mark-milley-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy puts political hopes above democracy with Trump pilgrimage"
     excerpt: "House Republican leader Kevin McCarthy's new pilgrimage to Donald Trump shows there is no price a party that has slipped its moral moorings and given up on democracy will not pay for power.\n    \n"
     publishedDateTime: 2021-07-16T04:43:02Z
@@ -175,6 +191,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump showerhead rule to increase water flow getting dumped"
+    excerpt: "The former president complained he wasn’t getting wet enough because of limits on water flow from showerheads."
+    publishedDateTime: 2021-07-16T13:44:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-showerhead-rule-increase-water-flow-getting-dumped-n1274150"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274150"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274150"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491679/210716-donald-trump-hair-mn-0930.jpg"
+        width: 2500
+        height: 1748
         isCached: true
   - title: "The Atlantic thrived through Trump and the pandemic. The future is harder."
     excerpt: "The Atlantic's challenges cast a shadow over what had been an otherwise sunny media story about a recent digital success."
