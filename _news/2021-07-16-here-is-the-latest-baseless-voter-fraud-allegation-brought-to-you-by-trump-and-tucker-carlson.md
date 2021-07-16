@@ -1,22 +1,20 @@
 ---
 category: news
-title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
-excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
-publishedDateTime: 2021-07-14T16:45:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+title: "Here is the latest baseless voter fraud allegation, brought to you by Trump and Tucker Carlson"
+excerpt: "In the long history of jarringly ironic comments made by on-air talent at Fox News, a pronouncement from Tucker Carlson on Wednesday night immediately vaulted into the upper echelon. “You can’t have a democracy if the public doesn’t believe election results,"
+publishedDateTime: 2021-07-15T22:08:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/07/15/here-is-latest-baseless-voter-fraud-allegation-brought-you-by-trump-tucker-carlson/"
+webUrl: "https://www.washingtonpost.com/politics/2021/07/15/here-is-latest-baseless-voter-fraud-allegation-brought-you-by-trump-tucker-carlson/"
 type: article
-quality: 125
+quality: 93
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWA7Z7V2OAI6XFVZ5FE5KOL55E.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -126,6 +124,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/11/54cbd432-d327-400c-90da-9d95aba796e7/thumbnail/1200x630/bec7529f9319b87a291ffdcaf5815534/cbsn-fusion-former-president-trump-to-c-thumbnail-751566-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
+    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
+    publishedDateTime: 2021-07-14T16:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Michigan GOP executive director quits under pressure from Trump allies"
     excerpt: "The executive director of the Michigan Republican Party has quit his post just a few months after taking over the top job amid pressure from supporters of former President Trump."
@@ -329,20 +343,6 @@ related:
       - url: "https://i.insider.com/5fbecbf350e71a00115577f5?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Here is the latest baseless voter fraud allegation, brought to you by Trump and Tucker Carlson"
-    excerpt: "In the long history of jarringly ironic comments made by on-air talent at Fox News, a pronouncement from Tucker Carlson on Wednesday night immediately vaulted into the upper echelon. “You can’t have a democracy if the public doesn’t believe election results,"
-    publishedDateTime: 2021-07-15T22:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/15/here-is-latest-baseless-voter-fraud-allegation-brought-you-by-trump-tucker-carlson/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 93
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWA7Z7V2OAI6XFVZ5FE5KOL55E.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’"
     excerpt: "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”"
@@ -563,6 +563,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "B1GkSRLklYze48PRGuIvh47qSy66BDW9aSa3p8u9PHlbREdLGkXHMtxS0NF8hXRjcA3gWLuGLed3i+OQ7TSCNze84cwWHsyiD0ZKd8KRclP98J0KLNyvATYLxkcjNRFPkh5Hx8IKlZdpUSQ2mG+GkRsoyqErTP5mZrrL+E44m9xKLKhd9FgqEQMXLUauSWwbWn/EMgpzj1tfg8fEZJnHsIccbgX+/AGrjJc3UIVFkfbyIc9qk0XzTflVJ8P/5uOQAh4FS+4wjoc736iAkt05zgkUmTLcm9zl8m0F9mWAmb1MaC+MZP2W+1sE7OVzZMOie2XVSFY0MXUqCST41e2+jd5S5Mx2W5aZ2oyvIHqNji0=;5zVRhOYs2WAxouxiX/V2XA=="
+secured: "BOteJkNi1lV+rOYXEjY0lLAuitsqc1hWK92exEnP7Jeq8MSLGPRlyHOGdZWfppO7q/hG7wFmI3AHtPzDB1hljmlcV/ITmrnSJYBKdGXvyHFIr0N4Jl8ewnGpPETvngVCOt8QuKudq630tIEaIh2QKXDnFiNni5+y1z6M1c+QVQyxlY0zDu/ei0QMotEHl/P5r/qvJs95T3W8jtMwy5wje7wtjaHe9Zu0Bbb+yjVud8Vp6w6haNwLi45rQsXGBqPyDKHrCDpwasl0n/txGWXjbIj+E1njEuaEzbH7rvJjOoy528n4gNOE/arpDsLl/u3zQ2RVBkOA9XJdw3txqRyF8Jg00GRMb8ZNxNX0ARsMb64=;oYAshqj8WJ23meMy8ZEqvA=="
 ---
 

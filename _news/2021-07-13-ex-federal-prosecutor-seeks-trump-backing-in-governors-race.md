@@ -308,6 +308,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
+    excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
+    publishedDateTime: 2021-07-16T02:24:00Z
+    webUrl: "https://www.reuters.com/world/us/i-wouldnt-do-coup-with-milley-trump-says-top-us-general-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/gNE8bQbI5tTcyir7uCt_G2PcOiE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RN73CRM2KVPD5KL455LI56S4BA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
     publishedDateTime: 2021-07-08T20:17:00Z
@@ -323,6 +337,20 @@ related:
       - url: "https://i.insider.com/5fbecbf350e71a00115577f5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Here is the latest baseless voter fraud allegation, brought to you by Trump and Tucker Carlson"
+    excerpt: "In the long history of jarringly ironic comments made by on-air talent at Fox News, a pronouncement from Tucker Carlson on Wednesday night immediately vaulted into the upper echelon. “You can’t have a democracy if the public doesn’t believe election results,"
+    publishedDateTime: 2021-07-15T22:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/15/here-is-latest-baseless-voter-fraud-allegation-brought-you-by-trump-tucker-carlson/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 93
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWA7Z7V2OAI6XFVZ5FE5KOL55E.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’"
     excerpt: "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”"

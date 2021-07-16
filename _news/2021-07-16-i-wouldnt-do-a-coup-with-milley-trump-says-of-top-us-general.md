@@ -1,22 +1,20 @@
 ---
 category: news
-title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
-excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
-publishedDateTime: 2021-07-14T16:45:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
+excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
+publishedDateTime: 2021-07-16T02:24:00Z
+originalUrl: "https://www.reuters.com/world/us/i-wouldnt-do-coup-with-milley-trump-says-top-us-general-2021-07-15/"
+webUrl: "https://www.reuters.com/world/us/i-wouldnt-do-coup-with-milley-trump-says-top-us-general-2021-07-15/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.reuters.com/resizer/gNE8bQbI5tTcyir7uCt_G2PcOiE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RN73CRM2KVPD5KL455LI56S4BA.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -126,6 +124,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/11/54cbd432-d327-400c-90da-9d95aba796e7/thumbnail/1200x630/bec7529f9319b87a291ffdcaf5815534/cbsn-fusion-former-president-trump-to-c-thumbnail-751566-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
+    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
+    publishedDateTime: 2021-07-14T16:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Michigan GOP executive director quits under pressure from Trump allies"
     excerpt: "The executive director of the Michigan Republican Party has quit his post just a few months after taking over the top job amid pressure from supporters of former President Trump."
@@ -299,20 +313,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2021/t_a3c3cde991714404b31a8233fe5f855f_name_20210713_GOP_VACCINE_V3.png&w=1440"
         width: 1440
         height: 810
-        isCached: true
-  - title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
-    excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
-    publishedDateTime: 2021-07-16T02:24:00Z
-    webUrl: "https://www.reuters.com/world/us/i-wouldnt-do-coup-with-milley-trump-says-top-us-general-2021-07-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/gNE8bQbI5tTcyir7uCt_G2PcOiE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RN73CRM2KVPD5KL455LI56S4BA.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
@@ -563,6 +563,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "B1GkSRLklYze48PRGuIvh47qSy66BDW9aSa3p8u9PHlbREdLGkXHMtxS0NF8hXRjcA3gWLuGLed3i+OQ7TSCNze84cwWHsyiD0ZKd8KRclP98J0KLNyvATYLxkcjNRFPkh5Hx8IKlZdpUSQ2mG+GkRsoyqErTP5mZrrL+E44m9xKLKhd9FgqEQMXLUauSWwbWn/EMgpzj1tfg8fEZJnHsIccbgX+/AGrjJc3UIVFkfbyIc9qk0XzTflVJ8P/5uOQAh4FS+4wjoc736iAkt05zgkUmTLcm9zl8m0F9mWAmb1MaC+MZP2W+1sE7OVzZMOie2XVSFY0MXUqCST41e2+jd5S5Mx2W5aZ2oyvIHqNji0=;5zVRhOYs2WAxouxiX/V2XA=="
+secured: "/jog8YG0Wb1JMK+nibq0zFeu4/U2+qLt3zlOo8opbWULzmLoXbTW9FyBJWThHaGbsVRbnHYo8GUW6HqFtXWTj2GwsthJ+LuD6zdqlBd0rm3xB5ix8mJ0TBLXtOmuzf9SyrVT1bW28v1gUU4eZ1jiNO2WrF4un5nw5mx24UlqB2G2zl1kP/FsvKJJxDT/ojqeX90TL1gZ1xfOsFd32Zm9PMBAzO8Ioe6eAPmuvLCryHhxBgqZqi0S1zRTh9BgRDASWr2VtiNfvlcRBVQvxzim6WACVHpfG6qbeG063LGvDYX/ON3ZcZrosEFO0hYNFUXkz+S6z1gZkXBaoUDZJzGkMIsEAEgxytMhEkzVtRWl54k=;8fHbKhI2wNZXRHb/UvYXLg=="
 ---
 

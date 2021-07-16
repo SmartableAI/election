@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Jared Kushner said Trump put Pence in charge of the US coronavirus response because 'he didn't have anything else to do,' book says"
+    excerpt: "A new book by two Washington Post reporters sheds light on Trump's thinking when he installed Pence as his coronavirus czar."
+    publishedDateTime: 2021-07-15T15:50:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-made-coronavirus-czar-nothing-else-to-do-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/mike-pence-made-coronavirus-czar-nothing-else-to-do-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-made-coronavirus-czar-nothing-else-to-do-book-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/60f02411d1026600182c5aba?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "osBFa8CdHl93/CaQcW70Je5gp1uFw/1jSzdBwrVprn5cwuV3j7ftwXTuoQP6+GxfTv9zVLjn4/FFfN6WHx5Vxijdhwg+5U2+IPS5Ia+jpiUe8MWu2EUVdxWX5sovn3er3cCqsf/qWo13swy8Rds5/erhc+rdBOoJpkWSLXGEqCJ4DEp1tmY2FyMgGHC71Mk6lyCn4GB0tBnDRm/Xd/p8AZ2UPGQSnPZxIXHccMyvnU4E6jC2msiBhnx6ww07KQQrjBjNAwzT2ZMPD4VyuvNHnFb2lPcGLo40pYzt2e4jzIni4+re4hvaOKqRVRitXdyno+wUozFMhR1KLSW4tpMT7Hr1wEjUkVSW15gDxctjbCifgrN6CMoZB4GcBNsJk1SX6pdft1+BDU8KNZ4fKiuoVOiNMmne/kqMZw9QfAcVSlGqhyAflKHTaA9rUvTred9rvzv4XCRR0KFKr+VDVz2kLT/dHDOkJIFhSSBujsuZDjpTsCS+Y9YZjPv39vT8OoBidNrS7LvIlRNOi8cx/4oT7Q==;uB+jvxWut4C9Wt0rKykz+A=="
 ---

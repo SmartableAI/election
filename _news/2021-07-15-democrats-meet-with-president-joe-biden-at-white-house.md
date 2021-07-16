@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Democrats Meet with President Joe Biden at White House"
-excerpt: "Illinois Governor J. B. Pritzker (D-IL) looks on as New Jersey Governor Phil Murphy (D-NJ) speaks to journalists beside Dayton, Ohio Mayor Nan Whaley, following a meeting at the White House in Washington,"
+excerpt: "Dayton, Ohio Mayor Nan Whaley, center, speaks to journalists beside Illinois Governor J. B. Pritzker (D-IL), left, New Jersey Governor Phil Murphy (D-NJ), right, and Denver, Colorado Mayor Michael B."
 publishedDateTime: 2021-07-14T23:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/5ea5d7652bd804ac7b8ba932b4c753a8/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/5ea5d7652bd804ac7b8ba932b4c753a8/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c03dcb763603e1ab6b189b7cee176108/BIDEN-BUGET.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/5ea5d7652bd804ac7b8ba932b4c753a8/BIDEN-BUGET.jpg"
     width: 650
     height: 433
     isCached: true
@@ -150,6 +150,6 @@ related:
         height: 533
         isCached: true
 
-secured: "1QvnICb+ZFUDcPcQwKvRbJ8Q2XsqhHG04CF340DyYqIP6bvD9ubHeyU821tU6uQGZWIq56uOTrQy4imJ4npaHPaFo7VXrBWUle1buBhPnWUKE2XVyZ79LCpOrH6xcwDGGl7oFjUJbB7ISYzLyAdN0ijwRR8uzTLadADQLWb8RfG4MnVcD+y4UrifYMyXq+d87t4FFMXOCndyHW2UQKyi8bQWpUZV7yQkAx83MRaMlUA5sWJkmnAnApIvkTuOrm/at9mieqXwUK+fSq3vJtObxHutL+SPUJNFbYkFP9sdjCQt31rxp9Ywb8DaxfyishB1xmcBsqCiIV7Ar62NYBMew31f9eU8aZNqYEkmygUb39Q=;vqS2Vapc35txPFmXGcNmRw=="
+secured: "7r1v828qP/NYR7b/pOHb39gz5ZF7ERHV1Ipzl4L48EbfMD4NyowFaFw/CLFI5qu7t5o/u8mHedEzbMOAPbUBN8c/us/kgDQjOK2eN7uXS2TdoH8tQ+BfYild1kKVGN9YZ61y2Z8ydFJD/jfHEBaN8kRyOtibmDfs8vskoRzYtQqbZMWiN81cWj00lYhkgONK5jerPgPt0Z+PCT2HwkCc9sGp1DdKvF/rnDWQlCJKTPjj09RSzZc6C+D3/JdvMajdEOWclxnzvQH2t1hDLhMgvvJXYUM2MuN+udkhsA9xvEq2WNcrlNQAf6jDJ2ftzlsvpYt9yG2Le0QRCKg+hBydoLnppZkpeUTW2BGVvUe+/40=;bSa582sxnntsQ9HOL5NWlA=="
 ---
 

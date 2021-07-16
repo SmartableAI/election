@@ -140,16 +140,16 @@ related:
         height: 533
         isCached: true
   - title: "Democrats Meet with President Joe Biden at White House"
-    excerpt: "Illinois Governor J. B. Pritzker (D-IL) looks on as New Jersey Governor Phil Murphy (D-NJ) speaks to journalists beside Dayton, Ohio Mayor Nan Whaley, following a meeting at the White House in Washington,"
+    excerpt: "Dayton, Ohio Mayor Nan Whaley, center, speaks to journalists beside Illinois Governor J. B. Pritzker (D-IL), left, New Jersey Governor Phil Murphy (D-NJ), right, and Denver, Colorado Mayor Michael B."
     publishedDateTime: 2021-07-14T23:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5ea5d7652bd804ac7b8ba932b4c753a8/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c03dcb763603e1ab6b189b7cee176108/BIDEN-BUGET.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/5ea5d7652bd804ac7b8ba932b4c753a8/BIDEN-BUGET.jpg"
         width: 650
         height: 433
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158?amp=1"
 type: article
 quality: 118
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jared Kushner said Trump put Pence in charge of the US coronavirus response because 'he didn't have anything else to do,' book says"
+    excerpt: "A new book by two Washington Post reporters sheds light on Trump's thinking when he installed Pence as his coronavirus czar."
+    publishedDateTime: 2021-07-15T15:50:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-made-coronavirus-czar-nothing-else-to-do-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/mike-pence-made-coronavirus-czar-nothing-else-to-do-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-made-coronavirus-czar-nothing-else-to-do-book-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/60f02411d1026600182c5aba?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Draws ‘If I Did It’ Comparisons After Blasting General Milley’s Coup Concerns"
     excerpt: "Leonnig and Philip Rucker claimed Milley feared the former president might attempt a coup and began making informal plans toward the end of Trump’s term to prevent it. On Thursday, Trump issued a statement denying he considered a coup."
     publishedDateTime: 2021-07-15T22:13:00Z

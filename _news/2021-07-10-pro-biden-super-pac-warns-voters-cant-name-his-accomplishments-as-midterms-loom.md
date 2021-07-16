@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-super-pac-voters-accomplishme
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-super-pac-voters-accomplishments-midterms.amp"
 type: article
 quality: 170
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "President Biden: Communism Is A Universally Failed System"
+    excerpt: "President Biden was asked to comment on his position on protests and unrest in Cuba and critics from the right who said he is soft on communism: NEW!Powerful statement from President Donald J. Trump on Biden's refusal to stand up to the Communist regime in Cuba\"Today’s Democrat Party is so far left they can’t even take a stand against violent Communism."
+    publishedDateTime: 2021-07-15T22:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/15/biden_communism_is_a_universally_failed_system.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/15/biden_communism_is_a_universally_failed_system.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/15/biden_communism_is_a_universally_failed_system.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/548226.jpg"
+        width: 4198
+        height: 2799
+        isCached: true
 
 secured: "VZbth8vzczInhpl+NMRNKm93aeY3UxX4C6AVjDoDP/ooDrjosMTteCmeG8yHMc39zmgE8zWgFoeqfUni6nLOnghOaeutTNv0g68QwrL+JfztblCkoZ83fUQvJngxrg24RsY0pNgWiR+jfP7oUJALtA/tMAZCIa0lu1Yt/PBrfT2f5zmKUC9vMzw/zjrVJNXqFaCYrUNGP1l5DItZpsL9e8x8yFh/BFMet6g9pToitqEmaPNjLrxnOpQ+GUCBFduSmeeuSKiymiP0wpG9fLS21lQDXoBLJbZmPX6Hiiypv+loS+vXWxNraO7WPsn7mJWndGu3T9qxzzdDc6pGvbfXNEqka+ixcFPSjNJuEkIiBxY=;hhfqx/T9BsJVPnrdlnJPiQ=="
 ---
