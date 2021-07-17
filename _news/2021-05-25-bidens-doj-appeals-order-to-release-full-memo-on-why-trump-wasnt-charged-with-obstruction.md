@@ -783,22 +783,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden’s nominees to lead ICE and the Border Patrol are a sharp departure from the Trump era."
-    excerpt: "If they are confirmed, Ed Gonzalez and Chris Magnus would be responsible for delivering on President Biden’s promise to return compassion to the immigration system."
-    publishedDateTime: 2021-07-15T22:13:00Z
-    webUrl: "https://www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 139
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/28/us/politics/15dc-immig-chiefs/00dc-immig-chiefs-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Biden decides to shelve Warren’s wealth tax"
     excerpt: "President Joe Biden will not call for a wealth tax to help pay for his multitrillion-dollar Build Back Better initiative, according to multiple people familiar with the White House’s thinking. In doing so, he will sidestep a proposal that progressive ..."
     publishedDateTime: 2021-03-30T23:58:00Z

@@ -320,6 +320,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
+    excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
+    publishedDateTime: 2021-06-09T23:02:00Z
+    webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/09/us/politics/09dc-TIKTOK-SWAP/09dc-TIKTOK-SWAP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "A tale of two jackets: From Melania Trump to Jill Biden"
     excerpt: "Mika Brzezinski says Jill Biden’s “love” jacket shows the Bidens are turning the page on Trump’s tenure — and all of the Trump family, including former first lady Melania."
     publishedDateTime: 2021-06-11T19:52:00Z
@@ -335,6 +351,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3482376/210611-2x1-melania-jill-jacket-ew-227p.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden Plans to Restore Alaskan Forest Protections Stripped Under Trump"
+    excerpt: "The administration says it will “repeal or replace” the rule that opened up more than half of Tongass National Forest to logging."
+    publishedDateTime: 2021-06-11T20:48:00Z
+    webUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/science/11CLI-TONGASS1/11CLI-TONGASS1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
     excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"

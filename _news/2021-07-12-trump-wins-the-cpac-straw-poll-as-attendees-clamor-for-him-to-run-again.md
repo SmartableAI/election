@@ -79,6 +79,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats have national power, but Trump conservatives are thriving"
+    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
+    publishedDateTime: 2021-07-06T10:10:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New Trump revelations underscore his undimmed danger"
+    excerpt: "The most chilling implication from new reports that America's top military officer feared Donald Trump would try to order the armed forces to stage a coup is not how close the nation came to a post-election disaster last year.\n    \n"
+    publishedDateTime: 2021-07-15T04:41:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iDwJEtBLIXM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-danger-mark-milley-new-book/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-danger-mark-milley-new-book/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707123602-01-trump-lawsuit-0707-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "AZ secretary of state asks for probe into whether Trump and allies tried to interfere in election results"
     excerpt: "Arizona Secretary of State Katie Hobbs wants the state attorney general to investigate whether allies of former President Donald Trump violated state laws by conducting a pressure campaign against county officials in the wake of the November 2020 election.\n    \n"
     publishedDateTime: 2021-07-08T20:46:26Z

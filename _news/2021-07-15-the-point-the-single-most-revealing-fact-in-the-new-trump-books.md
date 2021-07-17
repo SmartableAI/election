@@ -31,90 +31,168 @@ images:
     isCached: true
 
 related:
-  - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
-    excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence.\n    \n"
-    publishedDateTime: 2021-07-09T19:21:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CtxyWf8Z_nI/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/09/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/09/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn"
+  - title: "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa"
+    excerpt: "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n"
+    publishedDateTime: 2021-07-17T00:19:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 200
+    quality: 209
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709090520-george-conway-newday-07092021-super-tease.jpeg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "New Woodward book to cover last days of Trump presidency"
-    excerpt: "Legendary investigative journalist Bob Woodward has already covered fear and rage within the Trump White House, and soon, he will release a third book on Donald Trump's final days in office.\n    \n"
-    publishedDateTime: 2021-07-04T16:28:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pFW4LljK4Z0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/bob-woodward-robert-costa-donald-trump-new-book/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/bob-woodward-robert-costa-donald-trump-new-book/index.html"
+  - title: "Biden's review of Trump's restrictive Cuba policies still underway"
+    excerpt: "President Joe Biden's review of former President Donald Trump's restrictive Cuba policy is still underway, a senior administration official tells CNN.\n    \n"
+    publishedDateTime: 2021-07-13T12:59:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6-kWGDAdoDA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712073330-02-biden-administration-taliban-political-process-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration moves to reverse Trump-era showerhead rule"
+    excerpt: "The Department of Energy is moving to reverse a Trump-era rule that rolled back water efficiency standards for showerheads, an administration official confirmed to CNN on Friday.\n    \n"
+    publishedDateTime: 2021-07-16T14:57:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Awq9c6VTEz8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/shower-head-rules-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/shower-head-rules-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716104141-shower-head-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's migration adviser leaves White House role"
+    excerpt: "President Joe Biden's senior adviser for migration, Amy Pope, is leaving her position, according to the White House.\n    \n"
+    publishedDateTime: 2021-07-16T22:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0MIaaHhrmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704121756-restricted-split-bob-woodward-robert-costa-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump lawyers might be penalized over Michigan election case"
-    excerpt: "A federal judge is considering whether to order financial penalties or other sanctions against some of former President Donald Trump's lawyers who signed onto a lawsuit last year challenging Michigan's election results."
-    publishedDateTime: 2021-07-12T10:52:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-lawyers-might-be-penalized-over-michigan-election-case-n1273677"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273677"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273677"
+  - title: "Biden to head to Capitol Hill as pressure ramps up on infrastructure talks"
+    excerpt: "President Joe Biden will travel to Capitol Hill on Wednesday to meet with Senate Democrats during their luncheon and will continue to make the case for both the bipartisan infrastructure proposal and a more sweeping package that can be pursued through reconciliation.\n    \n"
+    publishedDateTime: 2021-07-14T13:19:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0sSHejXpfs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden condemns 'selfishness' of stolen election lie pushed by Trump"
+    excerpt: "\"Have you no shame?\" he asked Republicans in a Tuesday speech as federal voting rights legislation stalled and a wave of restrictive new laws passed in GOP states nationwide."
+    publishedDateTime: 2021-07-13T23:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-condemns-selfishness-stolen-election-lie-pushed-trump-n1273873"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273873"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273873"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 150
+    quality: 165
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624551352660_ott_now_giuliani_law_210624_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490865/210713-joe-biden-bloomberg-ew-534p.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "New book claims top generals feared Trump wanted military post-election coup"
-    excerpt: "According to a new book about Donald Trump’s final year as president, the nation’s top military leader was worried about what Trump might do to remain in power after the 2020 election. NBC News’ Courtney Kube explains the conversations detailed in the book."
-    publishedDateTime: 2021-07-15T22:53:00Z
-    webUrl: "https://www.nbcnews.com/now/video/new-book-claims-top-generals-feared-trump-wanted-military-post-election-coup-116846661558"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116846661558"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116846661558"
+  - title: "Biden’s nominees to lead ICE and the Border Patrol are a sharp departure from the Trump era."
+    excerpt: "If they are confirmed, Ed Gonzalez and Chris Magnus would be responsible for delivering on President Biden’s promise to return compassion to the immigration system."
+    publishedDateTime: 2021-07-15T22:13:00Z
+    webUrl: "https://www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 147
+      name: New York Times
+      domain: nytimes.com
+    quality: 139
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/ott_now_book_2coup_210715_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static01.nyt.com/images/2021/05/28/us/politics/15dc-immig-chiefs/00dc-immig-chiefs-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Donald Trump will attend the fight, Dana White said."
-    excerpt: "The U.F.C.’s president, Dana White, told TMZ that former President Donald J. Trump would be in Las Vegas on Saturday night as McGregor and Poirier complete their trilogy at U.F.C. 264. White said that Trump will sit right behind him on the floor near the octagon."
-    publishedDateTime: 2021-07-10T23:07:00Z
-    webUrl: "https://www.nytimes.com/2021/07/10/sports/donald-trump-ufc.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/10/sports/donald-trump-ufc.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/10/sports/donald-trump-ufc.amp.html"
+  - title: "Garland Settles In but Trump Era Still Shadows the Justice Dept."
+    excerpt: "The attorney general’s decisions in a handful of cases have shaped an early challenge for him: fortifying the department’s independence."
+    publishedDateTime: 2021-07-09T16:12:00Z
+    webUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/07/10/sports/10ufc-live05/10ufc-live05-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/25/us/politics/00dc-garland/00dc-garland-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "House GOP times antitrust response with Trump lawsuits"
-    excerpt: "Could China’s privacy protections leave the U.S. in the dust? — After Florida’s social media bill, Texas is next"
-    publishedDateTime: 2021-07-08T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2021/07/08/house-gop-times-antitrust-response-with-trump-lawsuits-796373"
+  - title: "Trump rages over post-presidential books he did interviews for"
+    excerpt: "The avalanche of coming books has caused recriminations. And there is anxiety about what’s to come. He knew it was coming. But former President Donald Trump still was not pleased. He had read a new book excerpt—one of many about his presidency in the last few weeks—that described him telling his former chief of staff John Kelly that Hitler,"
+    publishedDateTime: 2021-07-15T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/15/trump-post-presidential-books-499741"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/15/trump-post-presidential-books-499741"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/15/trump-post-presidential-books-499741"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/aa/97/809f5d9246d2ae67589ca151921b/7-14-21-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "PRITZKER TO MEET WITH BIDEN — COOK COUNTY’s TAX PROBLEM — TERRI BRYANT’s TRUMP TALK"
+    excerpt: "Pritzker headed to White House for meeting with Biden on bipartisan infrastructure plan: “Gov. J.B. Pritzker is one of three governors and five mayors who will join President Joe Biden at the White House on Wednesday for a bipartisan meeting on infrastructure,"
+    publishedDateTime: 2021-07-14T12:19:00Z
+    webUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/07/14/pritzker-to-meet-with-biden-cook-countys-tax-problem-terri-bryants-trump-talk-493573"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden is not boring"
+    excerpt: "The White House loves leaning into the notion that the JOE BIDEN presidency is a deliberate bore. Taking the drama out of politics is a good thing, they argue, if not for their own electoral prospects then for society writ large."
+    publishedDateTime: 2021-07-09T21:10:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/07/09/biden-is-not-boring-493526"
     type: article
     provider:
       name: Politico

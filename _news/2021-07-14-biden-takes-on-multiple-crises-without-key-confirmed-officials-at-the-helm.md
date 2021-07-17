@@ -95,6 +95,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden forced to pivot foreign policy focus to crises in neighboring nations"
+    excerpt: "President Joe Biden has staked his presidency on America's return -- a return to normalcy amid the coronavirus pandemic, a return to the global stage following four years of Trump-era isolationism and, arguably, a return to many of the policy positions adopted by the Obama administration.\n    \n"
+    publishedDateTime: 2021-07-13T11:29:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YwYc-TRdBO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707175413-02-biden-illinois-0707-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden tries to hold the center as Democrats clash over police and public safety"
+    excerpt: "President Joe Biden convened a small summit of local leaders in late June to discuss his plans to combat nationwide surge in violent crime. This week, he did it again -- this time encouraging cities to use resources from his Covid-19 relief package to fund a range of new public safety measures.\n    \n"
+    publishedDateTime: 2021-07-13T14:13:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xmHxkIq-XfA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-democrats-police-and-public-safety/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-democrats-police-and-public-safety/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712140319-01-biden-gun-violence-meeting-0712-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration launching operation to help relocate Afghans who helped US"
     excerpt: "The Biden administration is launching \"Operation Allies Refuge,\" an effort to relocate thousands of Afghan interpreters and translators who worked for the United States throughout its nearly two-decade military campaign in Afghanistan and now fear for their safety.\n    \n"
     publishedDateTime: 2021-07-14T17:30:47Z
@@ -255,6 +287,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Cuban president responds to Biden on 'failed state' comments"
+    excerpt: "Cuban President Miguel Diaz-Canel said it was the U.S. and not Cuba which was a \"failed state,\" reacting to previous comments made by President Joe Biden."
+    publishedDateTime: 2021-07-16T17:02:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/cuban-president-responds-biden-failed-state-comments-rcna1442"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1442"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1442"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210716-Miguel-Diaz-Canel-ew-1254p-e10d17.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Biden gun regulation nominee stuck in limbo as White House tries to stem crime"
     excerpt: "A handful of moderate Senate Democrats remain undecided on the nomination of David Chipman, who now works with a top gun control group."
     publishedDateTime: 2021-07-13T08:31:00Z
@@ -302,6 +350,34 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/07/world/07haiti-president-briefing-washington-sub/merlin_190332039_43550787-f35d-456c-aa62-2b91c0ea129c-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden goes after consolidation"
+    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
+    publishedDateTime: 2021-07-12T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden's cautious Cuba stance may haunt Florida Dems"
+    excerpt: "Ron DeSantis and Marco Rubio next year, it’s as simple as this: Over the next few days (maybe weeks), they will find out whether national Democrats and those surrounding President Joe Biden plan to write off Florida for the foreseeable future."
+    publishedDateTime: 2021-07-16T10:58:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/07/16/bidens-cautious-cuba-stance-may-haunt-florida-dems-493607"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
         isCached: true
 
 secured: "pRVdTJFgSNLZ/2L2D/ZjqDsheCT0OYq4r7GKRr4RRfbL2LGE33SpKdBkwbjs0lIpJpu0RITts6H5+S9q+2/30DtzZm6Cm1mFfw0E0cdKH84SmuXW7MjPdI4CVTCTkLN9TYyVJXdLLjfhQyALIZHCq9YLsTjEiLWsog8p7o1uL+PsdbJwsjgWZwOUiMKhJWYvMeU4UNY3bmZdjDKd6TILbACRPd34oesi+JaiJ6jdrc9PXEFXRQm5yuk29poNYYonlByI9bL1TgnHf/4NHI89ehRVcH62XfhC6IKbJCQ4lQhK4RpC+TBpBvpfSbEbq7/fI+i8OkLJCAXTquRHXcYdxKizbmSlp8yC/otjFPRAUa8=;Uo6KKjzNkTRxQA5nWdQpDQ=="

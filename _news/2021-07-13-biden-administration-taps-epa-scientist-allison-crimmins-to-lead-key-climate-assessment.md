@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden picks former West Virginia health official as drug czar"
+    excerpt: "Rahul Gupta, who gained national recognition for his anti-opioid efforts, will oversee President Joe Biden's response to a worsening drug crisis."
+    publishedDateTime: 2021-07-13T15:27:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/biden-drug-czar-rahul-gupta-499478"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-drug-czar-rahul-gupta-499478"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-drug-czar-rahul-gupta-499478"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/04/3e/115d7a8249cf8c43ee205496931d/210713-rahul-gupta-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "uk6uVqXWUgsEz+JEElVPxMNJ1oyD/5QnhWcScUxbKqcsG0YB/ddQlQscc9FvflvaM8TDNKvAfYLwFoHBhNaD6ne2oMVgCOgSUyknIgYJtdDNv3de1XwWI2/RGJjxml47sOHLVEWJepEPfy6MYC3N9RMXotelftA9WPrwQI4JhBb0/L29mWvImMsHbsL0jUqudINyuUgy5W3PiQmOJCGOLinl54wPJTwMEuieD6Sfo3lRqr8OSHjxJENQACjzL2mLMqszbxT6V2SL2t7GsQoOHF3r9+dZsGp2lLI7meoAMxUVt6YypDyAy+FDfi9vlEdBvdfDwF4ywYKZmMV26J9S99F6bQV8mtXilivq4KBjpcc=;antyEuYkVg3i6fh9zbteeg=="
 ---

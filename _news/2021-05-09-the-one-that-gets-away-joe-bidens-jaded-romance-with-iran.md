@@ -192,22 +192,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to head to Capitol Hill as pressure ramps up on infrastructure talks"
-    excerpt: "President Joe Biden will travel to Capitol Hill on Wednesday to meet with Senate Democrats during their luncheon and will continue to make the case for both the bipartisan infrastructure proposal and a more sweeping package that can be pursued through reconciliation.\n    \n"
-    publishedDateTime: 2021-07-14T13:19:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0sSHejXpfs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration approves first major offshore wind project in US waters"
     excerpt: "The Biden administration announced Tuesday that it is moving forward with the nation's first large-scale offshore wind project, a significant step toward achieving President Joe Biden's goal of increasing US renewable energy production.\n    \n"
     publishedDateTime: 2021-05-11T22:18:16Z

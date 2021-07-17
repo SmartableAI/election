@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Democrats Meet with President Joe Biden at White House"
-excerpt: "Denver, Colorado Mayor Michael B. Hancock walks out of the West Wing with New Jersey Governor Phil Murphy (D-NJ), and Oklahoma City Mayor Michael B. Hancock, following a meeting at the White House in Washington,"
+excerpt: "Dayton, Ohio Mayor Nan Whaley, center, speaks to journalists beside Illinois Governor J. B. Pritzker (D-IL), left, New Jersey Governor Phil Murphy (D-NJ), right, and Denver, Colorado Mayor Michael B."
 publishedDateTime: 2021-07-14T23:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8df62f8b4df97cb55835f549f1dbdc95/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8df62f8b4df97cb55835f549f1dbdc95/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/5ea5d7652bd804ac7b8ba932b4c753a8/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/5ea5d7652bd804ac7b8ba932b4c753a8/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8df62f8b4df97cb55835f549f1dbdc95/BIDEN-BUGET.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/5ea5d7652bd804ac7b8ba932b4c753a8/BIDEN-BUGET.jpg"
     width: 650
     height: 433
     isCached: true
@@ -89,6 +89,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to meet with Iraqi prime minister at White House"
+    excerpt: "The White House says President Joe Biden will meet with Iraqi Prime Minister Mustafa al-Kadhimi later this month in Washington"
+    publishedDateTime: 2021-07-17T00:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-meet-iraqi-prime-minister-white-house-78895540"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-meet-iraqi-prime-minister-white-house-78895540"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meet-iraqi-prime-minister-white-house-78895540"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_db7955c453bd4de29d63efae0e606546_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden meets with 'Dreamers' in the White House to push pathway to citizenship"
     excerpt: "Biden gathered a group of DREAMers at the White House Friday for a discussion on the future of the DACA program."
     publishedDateTime: 2021-05-15T19:46:00Z
@@ -150,6 +166,6 @@ related:
         height: 533
         isCached: true
 
-secured: "55lcAun9v8VqFm4tKfbj2K/kqQX120GQEJZYoi9h5/6/BxWM87OXvRi6Y/4RJ5zybyDGRq7XayFoQrONUxPdXrX8ceZE0dXY3BDCGsVhOV3SUFnIxx1eSG6tHY34WMriaa31+EaDbP1uKcNXNSgIKDTPfFf/bJYB+R0gpPJl2DQI+nOB8D+bLhLvaOhgmG15ifMCeOBhFZ3AteKsxfAV8LD0t0QU80791uHeQYHv2wQP7GV1RFQw1ar/ENqG8RuI9bjrM8iug9La3kEOU36PtWIkwLKEJCU5tXk2YR1P3dguw+QAHcs11r5ikSIWOcfKuQAvixDn4HXjxhAQAlWf3lvbevmof20QGyKZeF+bs8U=;lRP1rym0BWXMeH9dbIKEsA=="
+secured: "mBl3UhVq2iG7lvTh5d+OJvvSkgD/5Z/D8KPB/WaqsE7Z0Wk9j1IMfjMNcff8rtJfFJma4Vz3yYXSb5HtBw24OGBJUCyeFXy8LhNyLfW4kMDZ0b23Yo3blXNnsA4Tbq588/BwtWCEf7N6vRLl3PYL5a5Q3SNS7FyuuJVbYUG5AY17p2M4Tj03F26WzrVQ3q/AEWBZ7nyHnq6AKjnrHDwwXoy3c4cAXU5v/f2p/rM1RKJFsOQUSfWEqVdPm9qiqwo6og7vc16mazmbD5XzzfPJDJdpO5aDzxHImxn9tnpdVwZpEY6GlbB5r9Rm2NQ+LhjmA6L5Rka39t0VmEAqUxR6HGSa7OUR6vhgpxk85T7DzvQ=;H+Rec8/079wTtgvDQ5HJ4g=="
 ---
 

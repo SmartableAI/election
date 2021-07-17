@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa"
+    excerpt: "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n"
+    publishedDateTime: 2021-07-17T00:19:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 209
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's review of Trump's restrictive Cuba policies still underway"
     excerpt: "President Joe Biden's review of former President Donald Trump's restrictive Cuba policy is still underway, a senior administration official tells CNN.\n    \n"
     publishedDateTime: 2021-07-13T12:59:49Z
@@ -62,35 +78,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats have national power, but Trump conservatives are thriving"
-    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
-    publishedDateTime: 2021-07-06T10:10:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+  - title: "The Point: The single most revealing fact in the new Trump books"
+    excerpt: "There are all sorts of explosive new revelations in the three new books detailing the final months and days of Donald Trump's car-crash presidency. But the most revealing part of all three has nothing to do with their contents. It's that, for each book, the former President sat for extended interviews"
+    publishedDateTime: 2021-07-15T15:17:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vp9YyBlR8Fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "New Trump revelations underscore his undimmed danger"
-    excerpt: "The most chilling implication from new reports that America's top military officer feared Donald Trump would try to order the armed forces to stage a coup is not how close the nation came to a post-election disaster last year.\n    \n"
-    publishedDateTime: 2021-07-15T04:41:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iDwJEtBLIXM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-danger-mark-milley-new-book/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-danger-mark-milley-new-book/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707123602-01-trump-lawsuit-0707-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316235645-cnne-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -110,35 +110,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden forced to pivot foreign policy focus to crises in neighboring nations"
-    excerpt: "President Joe Biden has staked his presidency on America's return -- a return to normalcy amid the coronavirus pandemic, a return to the global stage following four years of Trump-era isolationism and, arguably, a return to many of the policy positions adopted by the Obama administration.\n    \n"
-    publishedDateTime: 2021-07-13T11:29:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YwYc-TRdBO0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
+  - title: "Biden to head to Capitol Hill as pressure ramps up on infrastructure talks"
+    excerpt: "President Joe Biden will travel to Capitol Hill on Wednesday to meet with Senate Democrats during their luncheon and will continue to make the case for both the bipartisan infrastructure proposal and a more sweeping package that can be pursued through reconciliation.\n    \n"
+    publishedDateTime: 2021-07-14T13:19:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0sSHejXpfs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707175413-02-biden-illinois-0707-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden tries to hold the center as Democrats clash over police and public safety"
-    excerpt: "President Joe Biden convened a small summit of local leaders in late June to discuss his plans to combat nationwide surge in violent crime. This week, he did it again -- this time encouraging cities to use resources from his Covid-19 relief package to fund a range of new public safety measures.\n    \n"
-    publishedDateTime: 2021-07-13T14:13:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xmHxkIq-XfA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-democrats-police-and-public-safety/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-democrats-police-and-public-safety/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712140319-01-biden-gun-violence-meeting-0712-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -158,53 +142,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
-    excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
-    publishedDateTime: 2021-06-09T23:02:00Z
-    webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
+  - title: "Biden’s nominees to lead ICE and the Border Patrol are a sharp departure from the Trump era."
+    excerpt: "If they are confirmed, Ed Gonzalez and Chris Magnus would be responsible for delivering on President Biden’s promise to return compassion to the immigration system."
+    publishedDateTime: 2021-07-15T22:13:00Z
+    webUrl: "https://www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 150
+    quality: 139
     images:
-      - url: "https://static01.nyt.com/images/2021/06/09/us/politics/09dc-TIKTOK-SWAP/09dc-TIKTOK-SWAP-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/05/28/us/politics/15dc-immig-chiefs/00dc-immig-chiefs-facebookJumbo.jpg"
         width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden Plans to Restore Alaskan Forest Protections Stripped Under Trump"
-    excerpt: "The administration says it will “repeal or replace” the rule that opened up more than half of Tongass National Forest to logging."
-    publishedDateTime: 2021-06-11T20:48:00Z
-    webUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/11/science/11CLI-TONGASS1/11CLI-TONGASS1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden's assault on monopolies launches Friday"
-    excerpt: "The sweeping executive order, coming Friday, takes aim at monopolies and concentrated markets in industries including agriculture, airlines, broadband and banking."
-    publishedDateTime: 2021-07-08T23:23:00Z
-    webUrl: "https://www.politico.com/news/2021/07/08/biden-assault-monopolies-498876"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/capny/files/a-applestore.jpg"
-        width: 400
-        height: 270
+        height: 549
         isCached: true
   - title: "Garland Settles In but Trump Era Still Shadows the Justice Dept."
     excerpt: "The attorney general’s decisions in a handful of cases have shaped an early challenge for him: fortifying the department’s independence."
@@ -222,22 +174,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden picks former West Virginia health official as drug czar"
-    excerpt: "Rahul Gupta, who gained national recognition for his anti-opioid efforts, will oversee President Joe Biden's response to a worsening drug crisis."
-    publishedDateTime: 2021-07-13T15:27:00Z
-    webUrl: "https://www.politico.com/news/2021/07/13/biden-drug-czar-rahul-gupta-499478"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-drug-czar-rahul-gupta-499478"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-drug-czar-rahul-gupta-499478"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/04/3e/115d7a8249cf8c43ee205496931d/210713-rahul-gupta-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump rages over post-presidential books he did interviews for"
     excerpt: "The avalanche of coming books has caused recriminations. And there is anxiety about what’s to come. He knew it was coming. But former President Donald Trump still was not pleased. He had read a new book excerpt—one of many about his presidency in the last few weeks—that described him telling his former chief of staff John Kelly that Hitler,"
     publishedDateTime: 2021-07-15T08:30:00Z
@@ -254,42 +190,10 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Cuban president responds to Biden on 'failed state' comments"
-    excerpt: "Cuban President Miguel Diaz-Canel said it was the U.S. and not Cuba which was a \"failed state,\" reacting to previous comments made by President Joe Biden."
-    publishedDateTime: 2021-07-16T17:02:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/cuban-president-responds-biden-failed-state-comments-rcna1442"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1442"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1442"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210716-Miguel-Diaz-Canel-ew-1254p-e10d17.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Biden says U.S. stands with Cuban protesters after historic weekend demonstrations"
-    excerpt: "Biden said Cubans are responding to the \"tragic grip of the pandemic\" and \"decades of repression and economic suffering.\""
-    publishedDateTime: 2021-07-12T16:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-says-u-s-stands-cuban-protesters-after-historic-weekend-n1273720"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273720"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273720"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490444/210712-cuba-al-1020.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Business groups knock Biden antitrust order"
-    excerpt: "But several of K Street’s largest trade groups today gave Biden’s push a chilly reception. Neil Bradley, the U.S. Chamber of Commerce ’s chief policy officer, asserted in a statement that Biden’s order is based off of what he described as a faulty premise — that ”our economy is over concentrated,"
-    publishedDateTime: 2021-07-09T21:36:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/09/business-groups-knock-biden-antitrust-order-796408"
+  - title: "Biden is not boring"
+    excerpt: "The White House loves leaning into the notion that the JOE BIDEN presidency is a deliberate bore. Taking the drama out of politics is a good thing, they argue, if not for their own electoral prospects then for society writ large."
+    publishedDateTime: 2021-07-09T21:10:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/07/09/biden-is-not-boring-493526"
     type: article
     provider:
       name: Politico
@@ -299,34 +203,6 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
-        isCached: true
-  - title: "Biden goes after consolidation"
-    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
-    publishedDateTime: 2021-07-12T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "Biden's cautious Cuba stance may haunt Florida Dems"
-    excerpt: "Ron DeSantis and Marco Rubio next year, it’s as simple as this: Over the next few days (maybe weeks), they will find out whether national Democrats and those surrounding President Joe Biden plan to write off Florida for the foreseeable future."
-    publishedDateTime: 2021-07-16T10:58:00Z
-    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/07/16/bidens-cautious-cuba-stance-may-haunt-florida-dems-493607"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
-        width: 900
-        height: 1165
         isCached: true
 
 secured: "7NQEvOEWHkZ+4CKEuhK0RIzPHL14b4D3FXaX7g3FN0kHHOfgNO6wX9axkkZPFDO9elzKDa9No9jsWaRtAeaJHbd7LtcSG6FnYTHdWmsO/ztnhAm3Kr+fZm9FbpiX1cfTsDIKqfJeywrXiXXYVFHm0eXPNBrmBQ6RTYxh3O52bKC+asiB5LljzjDMuFiaI6XftNoIUeYiOuCyB3qLQ4MBXe7163TiGG+VZzpOsuG399mxJFG5rCDUSw13/R7KkwOkTp6njERPg9zaFjn5Vf2YtwUGYbo9lQRVLR60w91xBltBVaK6nZ9T5TqDjFNltv0kiMtuYQ4bUCJCgoN/CAfPSJhaNhYT5VFB3oC4AgXZPQ4=;Hh4zzXY7ucvwHb0qgvBIJA=="

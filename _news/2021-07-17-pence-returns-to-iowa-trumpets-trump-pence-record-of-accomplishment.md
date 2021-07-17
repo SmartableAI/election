@@ -203,6 +203,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP: Few AZ voter fraud cases, discrediting Trump's claims"
+    excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year's presidential election that requi"
+    publishedDateTime: 2021-07-17T00:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6cb8e888b3504625a9f4071c1556ff28_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
     excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."
     publishedDateTime: 2021-07-09T20:49:00Z
@@ -669,6 +685,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DeLXH9yUIZPdAi8ASGavfX7GH2FpN4MT4vzhljaPbDpSZyNzkYMob5dUCf0Y/Bw7ktJ1od0xSJZKuy2P7vawH90Y6Ms0CDqWmfctIPH+SyjaDH0N885FG+Y43uOKFr0dT3ag1S9OxT84LBFAeWPoHjirtSvhuWl/Z7tfcwl/I0y31H1prKO622UHmjh7wcX/Gr8y5Pl7FXbIlAdGDY6DdvEkg9mUyZpVu8U4XQeRY18dcPW6cvAbQi56xdcSeSF2mPp7hA22gjiZ9aSsCUiAVZARB5TeP0DFq+S4r24Iez5SXVUhVYmOijkAaXNpT6dpBai+nuaGD5ATHYU1+OG50XIVqSkjupiXffp9+Nfz8BM=;kGvJKoekhvsANTXhMo8hEQ=="
+secured: "w7NmYHsVspU0nzIPByU8HDzwlfD3PhAV0ciEiMEuTDXZdJts8N/jse0INXoj7es13hY8pC+Oifo4FgpWxPTeT9DEOjEY+2XAqZsQw58oyiIznmzcOfy2QFjx9nGIdC9uG4x50vxWL9zY+POXO8yCDPLx/aLEzStN5yYDFe9pDuNTDKAtCOgwIjOow28z4FBx5q6KefQByxsyqr0ooLpDJ6y3wIimtpW7dcGeg2+AuhUcWrnjN4LV4s4p3y+gfm558ggSz3XkVRHjcF1+qDkGNB+BWDCSSj9k401d7n1BLGuKMRr118NjrgWsmS/OyIS1b/XC9RT6RhDLgPxB2Xyyzg2LQPF+TmUXqmpWasXl29mx5LAfHIwNJltP1ntwIyXqXj2Jaso6xyPZfFSc1lUjai6GP+V+OYxYwkRciVkcoMSGliAEa6+FU6wJCmJ5u3gTewgL2c87wVc/yTjjcmfWS6jKt441f9d+86qnPZ7OvfNEv+kvDK0JNmWBI/3UJp+0eyG9YW+dSbPj1mgMoxgVRg==;SRZmt+BzYbbdc0UsLj63mg=="
 ---
 

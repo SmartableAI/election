@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: The single most revealing fact in the new Trump books"
-    excerpt: "There are all sorts of explosive new revelations in the three new books detailing the final months and days of Donald Trump's car-crash presidency. But the most revealing part of all three has nothing to do with their contents. It's that, for each book, the former President sat for extended interviews"
-    publishedDateTime: 2021-07-15T15:17:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vp9YyBlR8Fk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316235645-cnne-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "New book claims top generals feared Trump wanted military post-election coup"
     excerpt: "According to a new book about Donald Trump’s final year as president, the nation’s top military leader was worried about what Trump might do to remain in power after the 2020 election. NBC News’ Courtney Kube explains the conversations detailed in the book."
     publishedDateTime: 2021-07-15T22:53:00Z

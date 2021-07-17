@@ -30,175 +30,179 @@ images:
     isCached: true
 
 related:
-  - title: "Biden and Harris to focus on voting rights Thursday, expand DNC program "
-    excerpt: "President Joe Biden and Vice President Kamala Harris will hold separate events Thursday to focus attention on Democratic efforts to combat voter suppression and protect voting rights nationwide, Democratic officials tell CNN.\n    \n"
-    publishedDateTime: 2021-07-06T22:54:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
+  - title: "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa"
+    excerpt: "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n"
+    publishedDateTime: 2021-07-17T00:19:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 199
+    quality: 209
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624141126-01-biden-infrastructure-0624-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden celebrates LA Dodgers win and a return to normal"
-    excerpt: "President Joe Biden welcomed the World Series champion Los Angeles Dodgers to the White House on Friday, marking the return to a regular tradition the Covid-19 pandemic had interrupted.\n    \n"
-    publishedDateTime: 2021-07-02T17:36:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tQok58mhhE4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/los-angeles-dodgers-white-house-visit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/los-angeles-dodgers-white-house-visit/index.html"
+  - title: "Biden's review of Trump's restrictive Cuba policies still underway"
+    excerpt: "President Joe Biden's review of former President Donald Trump's restrictive Cuba policy is still underway, a senior administration official tells CNN.\n    \n"
+    publishedDateTime: 2021-07-13T12:59:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6-kWGDAdoDA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712073330-02-biden-administration-taliban-political-process-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration moves to reverse Trump-era showerhead rule"
+    excerpt: "The Department of Energy is moving to reverse a Trump-era rule that rolled back water efficiency standards for showerheads, an administration official confirmed to CNN on Friday.\n    \n"
+    publishedDateTime: 2021-07-16T14:57:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Awq9c6VTEz8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/shower-head-rules-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/shower-head-rules-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716104141-shower-head-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: The single most revealing fact in the new Trump books"
+    excerpt: "There are all sorts of explosive new revelations in the three new books detailing the final months and days of Donald Trump's car-crash presidency. But the most revealing part of all three has nothing to do with their contents. It's that, for each book, the former President sat for extended interviews"
+    publishedDateTime: 2021-07-15T15:17:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vp9YyBlR8Fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702131747-01-biden-harris-la-dodgers-0702-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316235645-cnne-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to make 'moral case' for voting rights in major speech Tuesday"
-    excerpt: "President Joe Biden will make \"the moral case\" for voting rights in a highly anticipated speech on Tuesday centered around protecting ballot access in the face of \"authoritarian and anti-American\" restrictions, White House press secretary Jen Psaki said Monday.\n    \n"
-    publishedDateTime: 2021-07-13T09:13:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TsjQJJ2wF8E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/voting-rights-joe-biden-trump-big-lie/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/voting-rights-joe-biden-trump-big-lie/index.html"
+  - title: "Biden's migration adviser leaves White House role"
+    excerpt: "President Joe Biden's senior adviser for migration, Amy Pope, is leaving her position, according to the White House.\n    \n"
+    publishedDateTime: 2021-07-16T22:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0MIaaHhrmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration to spotlight voting rights as advocates push President to do more"
-    excerpt: "President Joe Biden plans to hold another meeting on voting rights Thursday as Democrats clamor for him to do and say more on the issue after defeats in Congress and the Supreme Court.\n    \n"
-    publishedDateTime: 2021-07-08T11:33:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZEPlXUldsL4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/voting-rights-biden-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/voting-rights-biden-harris/index.html"
+  - title: "Biden to head to Capitol Hill as pressure ramps up on infrastructure talks"
+    excerpt: "President Joe Biden will travel to Capitol Hill on Wednesday to meet with Senate Democrats during their luncheon and will continue to make the case for both the bipartisan infrastructure proposal and a more sweeping package that can be pursued through reconciliation.\n    \n"
+    publishedDateTime: 2021-07-14T13:19:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0sSHejXpfs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'We're buying some time': Texas Democrats heap pressure on Biden, Congress for voting rights action"
-    excerpt: "Texas House Democrats said Tuesday they can only hold off Republicans' push for restrictive new voting laws for weeks, as they urged President Joe Biden and Democratic members of Congress to look for new ways to implement federal protections -- including backing South Carolina Rep. Jim Clyburn's call"
-    publishedDateTime: 2021-07-13T15:52:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5iMp1SeLnVg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/texas-house-democrats-buying-time/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/texas-house-democrats-buying-time/index.html"
+  - title: "Biden condemns 'selfishness' of stolen election lie pushed by Trump"
+    excerpt: "\"Have you no shame?\" he asked Republicans in a Tuesday speech as federal voting rights legislation stalled and a wave of restrictive new laws passed in GOP states nationwide."
+    publishedDateTime: 2021-07-13T23:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-condemns-selfishness-stolen-election-lie-pushed-trump-n1273873"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273873"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273873"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713105804-01-texas-democrats-us-capitol-0713-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490865/210713-joe-biden-bloomberg-ew-534p.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
-    excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
-    publishedDateTime: 2021-06-29T14:47:00Z
-    webUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden to call for 'a new coalition' to defend voting rights"
-    excerpt: "During his speech in Philadelphia on Tuesday, the president will say GOP election bills are \"grounded in autocracy, undemocratic.\""
-    publishedDateTime: 2021-07-13T08:31:00Z
-    webUrl: "https://www.politico.com/news/2021/07/13/biden-coalition-voting-rights-499452"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/84/cf/c081e11f4dc3b15d26f47849cf8c/210712-biden-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden to Host Independence Day Event Celebrating Progress on the Pandemic"
-    excerpt: "The White House hosted an Independence Day event to signal the administration’s headway against the pandemic, but it was still far from a victory pronouncement."
-    publishedDateTime: 2021-07-04T19:36:00Z
-    webUrl: "https://www.nytimes.com/2021/07/04/us/politics/biden-independence-day-coronavirus.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/04/us/politics/biden-independence-day-coronavirus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/04/us/politics/biden-independence-day-coronavirus.amp.html"
+  - title: "Biden’s nominees to lead ICE and the Border Patrol are a sharp departure from the Trump era."
+    excerpt: "If they are confirmed, Ed Gonzalez and Chris Magnus would be responsible for delivering on President Biden’s promise to return compassion to the immigration system."
+    publishedDateTime: 2021-07-15T22:13:00Z
+    webUrl: "https://www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/politics/ice-border-patrol-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 134
+    quality: 139
     images:
-      - url: "https://static01.nyt.com/images/2021/07/05/lens/04dc-biden1-print/merlin_190369032_6142b5f0-8ba2-4369-af19-f65061aaf735-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/05/28/us/politics/15dc-immig-chiefs/00dc-immig-chiefs-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Garland Settles In but Trump Era Still Shadows the Justice Dept."
+    excerpt: "The attorney general’s decisions in a handful of cases have shaped an early challenge for him: fortifying the department’s independence."
+    publishedDateTime: 2021-07-09T16:12:00Z
+    webUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/25/us/politics/00dc-garland/00dc-garland-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden to visit site of Surfside building collapse on Thursday"
-    excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."
-    publishedDateTime: 2021-06-29T15:15:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2021/06/29/biden-to-visit-site-of-surfside-building-collapse-on-thursday-1387349"
+  - title: "Trump rages over post-presidential books he did interviews for"
+    excerpt: "The avalanche of coming books has caused recriminations. And there is anxiety about what’s to come. He knew it was coming. But former President Donald Trump still was not pleased. He had read a new book excerpt—one of many about his presidency in the last few weeks—that described him telling his former chief of staff John Kelly that Hitler,"
+    publishedDateTime: 2021-07-15T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/15/trump-post-presidential-books-499741"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/15/trump-post-presidential-books-499741"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/15/trump-post-presidential-books-499741"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+      - url: "https://static.politico.com/aa/97/809f5d9246d2ae67589ca151921b/7-14-21-donaldtrump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden's choice: The filibuster or voting rights?"
-    excerpt: "I told you how civil rights leaders were preparing for their meeting with President JOE BIDEN and VP KAMALA HARRIS over voting rights and their belief that the administration wasn’t acting aggressively enough to advocate on the issue."
-    publishedDateTime: 2021-07-10T14:04:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/07/10/bidens-choice-the-filibuster-or-voting-rights-493528"
+  - title: "PRITZKER TO MEET WITH BIDEN — COOK COUNTY’s TAX PROBLEM — TERRI BRYANT’s TRUMP TALK"
+    excerpt: "Pritzker headed to White House for meeting with Biden on bipartisan infrastructure plan: “Gov. J.B. Pritzker is one of three governors and five mayors who will join President Joe Biden at the White House on Wednesday for a bipartisan meeting on infrastructure,"
+    publishedDateTime: 2021-07-14T12:19:00Z
+    webUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/07/14/pritzker-to-meet-with-biden-cook-countys-tax-problem-terri-bryants-trump-talk-493573"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 124
     images:
-      - url: "https://static.politico.com/35/7b/a931fa7d4274994d1f73fbd680bd/210710-biden-ap-1160.jpg"
-        width: 1160
-        height: 774
-        isCached: true
-  - title: "Cuba protests may be big test for Biden, Florida Democrats"
-    excerpt: "Crisis in the region — The protests come as the Biden administration is already dealing with the turmoil in Haiti and trying to figure out an appropriate response following the assassination of President Jovenel Moïse."
-    publishedDateTime: 2021-07-12T10:58:00Z
-    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/07/12/cuba-protests-could-test-biden-the-bridge-mystery-unraveled-former-fla-man-crashes-texas-governors-race-493533"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
-        width: 900
-        height: 1165
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "XuESZRhQbmgwy8q9m/9p7UhoEO+Qw7bfprY2DJ3Xkwm6PbMt3T1/4R9X+7xgu0olCy5n7Hj64DpzsCh1imG+5nMiZJzIpYqAhArQA/CEYA0uGI/axflFa8XuCbO0cTkrvdm+xsezmu9Gcs1rmp8k+KIs8Kzs4YPH83F4YGReA7atKZK96SFaLghAyc/l+vVfpo5Tfne+efDk78tsdUSI6s/HY9jmiRb+Wilr6cpNAQoil5S/KguqUfmc+irGHvekgNu8hk6GwWX/IFmSmA5pgMVkucJ213gZN5DSjBVtU/8Wv5t65vJf370PFcOwMk/v0+Ce9t1s4AKpggwQsBuT5ckeqh0DeNwCfK0UTaOsU+c=;d7KeQ0R5MYECsIJBQXK0qA=="

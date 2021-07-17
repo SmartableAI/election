@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3489342/210707-joe-biden-al-1255.jpg"
         width: 4368
         height: 2741
+        isCached: true
+  - title: "Biden says U.S. stands with Cuban protesters after historic weekend demonstrations"
+    excerpt: "Biden said Cubans are responding to the \"tragic grip of the pandemic\" and \"decades of repression and economic suffering.\""
+    publishedDateTime: 2021-07-12T16:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-says-u-s-stands-cuban-protesters-after-historic-weekend-n1273720"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273720"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273720"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490444/210712-cuba-al-1020.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "d7K3yLPk3MJ9PwezrB3PtrFQ5D0LuGas0yrg8kd2b3JiaDxWey5mRGT9HWlNeIckqxRp2x9vKcBpsDIldy1l6cSGuaDNtpvsTOEQAxqeKsdJsA7UN0uum9mFgIbVWvJZHu05UG2tGjY6rKIA+pUjl2Qfu8z/32yXc9XQKo6w8l+0JQio7E/HoNhWHkYCDi6AqMAWuNzm64hKzqo9b1VVZl/p5QMVktB0ihl25qC26goJMEWL348VRTMF9MR3msuyJ1K6yKamZ7cDAOdCiKJilDw1fb27xrCGCGM+Sh0CLEZw416hvnCNjclApltNRTTQg/S0JqRnTzkT/DFxkhoPtafuPjH+JqZPCTx/PNgJBu8=;EG5xhNWCkrjsaelmIwVewg=="
