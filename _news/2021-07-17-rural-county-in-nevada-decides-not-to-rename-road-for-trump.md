@@ -1,33 +1,29 @@
 ---
 category: news
-title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
-excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
-publishedDateTime: 2021-07-16T02:28:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2EL2LS"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2EL2LS"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL2LS"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL2LS"
+title: "Rural county in Nevada decides not to rename road for Trump"
+excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him. Lyon County commissioners cited community opposition before voting 3-2 on Thursday against renaming the half-mile (0."
+publishedDateTime: 2021-07-16T20:57:00Z
+originalUrl: "https://www.chron.com/news/article/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+webUrl: "https://www.chron.com/news/article/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+ampWebUrl: "https://www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1569007152&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E17W"
-    width: 678
-    height: 545
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -158,6 +154,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_trumpcovidrisk_090220getty_3.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
+    excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
+    publishedDateTime: 2021-07-16T02:28:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2EL2LS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL2LS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL2LS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1569007152&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E17W"
+        width: 678
+        height: 545
         isCached: true
   - title: "'If I was going to do a coup' becomes viral Trump punchline"
     excerpt: "Former President Trump’s line in a press statement about how if he was going to do a coup it would not be with Gen. Mark Milley has quickly become a viral punchline."
@@ -596,22 +608,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Rural county in Nevada decides not to rename road for Trump"
-    excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him. Lyon County commissioners cited community opposition before voting 3-2 on Thursday against renaming the half-mile (0."
-    publishedDateTime: 2021-07-16T20:57:00Z
-    webUrl: "https://www.chron.com/news/article/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
     excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."
     publishedDateTime: 2021-07-09T19:21:00Z
@@ -705,6 +701,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "a/yMBMUxaPY41p8PV9JdScvfpAX4InkvlR0ndidOrG0mco1D8fU3EWsIovqaPXs7CrmDu8jhz3pKgOQrSLn9ljLNWXl9/acKwOb/adjilcfyYeD53oplt0GK8+uPu7mboklI9hbs/NZ3McYzMiL9wAfvpgGtmycF51/lxDOscnIesSWX44bAWaR/f7H4hytisJLlA8rmamuOiqf4iTRVoXvDHxK5+kWWUBDRikf1FdebhV9keM6OFzjL2ppaCrW9OpmT9+e7LAu/7ac6kxhjO9WmTOacls90GmKJa8i36eMhyFCnBNUVnmpnbCb5xLQh/KhQGtk6j4DdfY2QjJK5pzHe0ULpMBisqYou8fw9ZqU=;biCtm8MMMBMyKSj+zwTxNQ=="
+secured: "uIWL99OW1E+Ph0tsIKBrw7yO15bwFgI3VZ00E4gakMhywfQa1Cqw1JhilHWTQFKUpp23/uEso+GuqTVAFExwUtMtzIUnzhIgjjbFtoOiTqUJAmOO8IdrYFYa7efw/n7Xd4WRTrs9j3DKq39qD/a8VFesm+0N11eQe7bUK8zoRYovufO3YWrm228hc+/zTg58IJnWpvP4VYwn4awTx5s+JXO6emUwSMtBZXD3THDkDoLaHXK58bIkOhQvTiHl1oD4nxDpGWHJ5ibBJZZMBZNw6uYWRXv4jUUZ5z5oSoAJvtk2Vr05a31fp5bC8R0VeDmluNjKOfnAfY11uSAS0lQzvAffphD/3V00R6Km5Y6vOWE=;6zFWj+xvuA9xJaPKL7N5jA=="
 ---
 

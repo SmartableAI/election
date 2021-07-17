@@ -606,6 +606,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Rural county in Nevada decides not to rename road for Trump"
+    excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him. Lyon County commissioners cited community opposition before voting 3-2 on Thursday against renaming the half-mile (0."
+    publishedDateTime: 2021-07-16T20:57:00Z
+    webUrl: "https://www.chron.com/news/article/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "PA dentist and friend of Donald Trump charged with assault for groping a patient, police say"
     excerpt: "Albert Hazzouri Jr., the self-proclaimed \"dentist and personal friend of Donald Trump,\" has been charged with assault after he allegedly groped a patient in his Scranton office."
     publishedDateTime: 2021-07-08T17:04:00Z

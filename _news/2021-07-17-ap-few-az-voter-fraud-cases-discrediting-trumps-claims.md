@@ -596,6 +596,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Rural county in Nevada decides not to rename road for Trump"
+    excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him. Lyon County commissioners cited community opposition before voting 3-2 on Thursday against renaming the half-mile (0."
+    publishedDateTime: 2021-07-16T20:57:00Z
+    webUrl: "https://www.chron.com/news/article/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
     excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."
     publishedDateTime: 2021-07-09T19:21:00Z
@@ -689,6 +705,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "/WGnwoJ0ZKStaHBXTJibYmol8P+EFczi4Hm28+8p0bQ9AXr9yw7jOH8xF3fCQJySx/GYMB5N9dmseBnavZAFJCwYQQFQT2XOIvOH8ko0tQWDuqYcag2KLgkEoqPeLTPx2nF3oZQsA/qQ1o3IIWzhv5i3X+0qAYViE6zyU+5ZnRi+HTgb47C9EVPXWZ0EimxEfxdiSOvmIF6jtN/u5lfqa5tRy9hZ46de3SMIxZkY1Fw9aoYdGwj+qVIcLnwLSIDDgypuay4/WlqDrkVS9GASExr/u3GDKavo1L8WbTOY58dtvmoWAutx7u+6Vh86JLJK7m+csBn+Pp8918XK84nfbv9aTx9ppuZdvt69Ea7BxAM=;y6v7i+Q9YdkQc7v6ezeOUg=="
+secured: "yG8NiW0fQOTmj0Xaj9bvOZ+Hrw1ulYjLlrirrA3M9MQdfgLvLW1FiBpAKRRCjgc61wxdfXpgTthiQBFfR8l5gmmm+X5/4PdsgYhgl/ovD7zGlCnuRA5DLPVHKu6PnlqXAzkM4A5OcwwC8qVNb2j9QGAApxcrGpmQUsivF3Q1PXL59dC95YBvrVpaBFkDUJvA4NDY7g8eBgX6BJyL2/4vS9GDPT569UXNa4WLRHkCY+Dhfe4C6cq8IdJ7IHXPEqrzsS2/oIAhmrU9zgSFYtcig2giqykMXXrzu3Fm7rA0VyUtfkrK/+oqfm24sFCRRMcflKniacvbiLBedTH/nVwbHV4DP1/HzW8SnWSd6g0um3Zdz/ey4NaztSLqVXNfeqh+5CbePT8er56IMuZ7kyQAzMVjXrpvWifDt/EF43nM4ySoS5MscYVz5dJtR7rWRgBj6GuLe6MUacZCkixm5Riqah7aOgInTOR5XUPIRR8ecveEi0pa/tou9/XglrBlKY+cRgmXEaqyN6q5lCySnyWbdA==;bW5MHcPHzehwdvRDIYXpsg=="
 ---
 

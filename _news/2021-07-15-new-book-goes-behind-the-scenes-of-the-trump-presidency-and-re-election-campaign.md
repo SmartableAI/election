@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 1015
+heat: 1035
 published: true
 
 provider:
@@ -586,6 +586,22 @@ related:
     webUrl: "https://www.chron.com/news/article/AP-Few-Arizona-voter-fraud-cases-undercut-16320162.php"
     ampWebUrl: "https://www.chron.com/news/amp/AP-Few-Arizona-voter-fraud-cases-undercut-16320162.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-Few-Arizona-voter-fraud-cases-undercut-16320162.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Rural county in Nevada decides not to rename road for Trump"
+    excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him. Lyon County commissioners cited community opposition before voting 3-2 on Thursday against renaming the half-mile (0."
+    publishedDateTime: 2021-07-16T20:57:00Z
+    webUrl: "https://www.chron.com/news/article/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
     type: article
     provider:
       name: Houston Chronicle
