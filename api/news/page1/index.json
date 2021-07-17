@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-17-arizona-ag-brnovich-urges-biden-to-reverse-reported-title-42-repeal-after-border-numbers-rise-again.md",
+      "title": "Arizona AG Brnovich urges Biden to reverse reported Title 42 repeal after border numbers rise again",
+      "excerpt": "FIRST ON FOX: Arizona Attorney General Mark Brnovich on Friday wrote to President Biden urging him to reverse a reported plan to rollback Title 42 public health protections that allow for the rapid expulsion of migrants at the southern border after figures show there were nearly 190,000 attempted crossings",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4y7A3Cb2K0/arizona-brnovich-biden-reverse-title-42-repeal-border-numbers-rise-again",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4y7A3Cb2K0/arizona-brnovich-biden-reverse-title-42-repeal-border-numbers-rise-again",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdcc19ec-b13e-4192-bb0b-d93532f1b904/111142cd-63a4-4ea6-834e-5dc83240884b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-17T10:31:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-biden-pledges-appeal-of-deeply-disappointing-daca-ruling.md",
+      "title": "Biden pledges appeal of 'deeply disappointing' DACA ruling",
+      "excerpt": "President Joe Biden says the Justice Department intends to appeal a federal judge’s ruling deeming illegal an Obama-era program that's protected hundreds of thousands of young immigrants from deportat",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_981e6225239b49389ae424b06540c40c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322",
+      "publishedDateTime": "2021-07-17T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-levin-slams-biden-admins-relationship-with-facebook-calls-trumps-big-tech-lawsuit-slam-dunk.md",
       "title": "Levin slams Biden admin's relationship with Facebook, calls Trump's Big Tech lawsuit 'slam dunk'",
       "excerpt": "Conservative commentator and author Mark Levin slammed the Biden administration for its relationship with Silicon Valley in its bid to halt the spread of misinformation concerning vaccines.",
@@ -1242,114 +1350,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f-king-war.md",
-      "title": "Gen. Milley warned Trump on possible Iran strikes: 'You're gonna have a f--king war'",
-      "excerpt": "Chairman of the Joint Chiefs Gen. Mark Milley Mark Milley Overnight Defense: Milley feared Trump coup, book says \\| Gillibrand expects fall vote on sweeping military justice bill \\|",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
-      "originalUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/milleymark_062321upi_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
-      "publishedDateTime": "2021-07-16T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.md",
-      "title": "Biden to bolster security at US Embassy in Haiti, won't send troops to stabilize country",
-      "excerpt": "President Biden plans to bolster security at the U.S. Embassy in Port-au-Prince after the assassination of Haitian President Jovenel Moïse earlier this month, he said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHGG8qKrZ9E/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHGG8qKrZ9E/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fdc43bb-25a1-4fc2-9e33-3a3b4fe3eee8/11d27d76-b787-42d5-af76-d2fb82c88562/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp",
-      "publishedDateTime": "2021-07-16T03:01:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.indystar.com/amp/7737000002"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7737000002"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions"
-    excerpt: "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot."
-    publishedDateTime: 2021-07-01T16:35:00Z
-    webUrl: "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting"
-    ampWebUrl: "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden's visit to western Wisconsin brings him to one of the state's leading political battlegrounds"
-    excerpt: "The president's trip to western Wisconsin brings him to a congressional district that will be among the most hotly contested in the nation in 2022."
-    publishedDateTime: 2021-06-29T13:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7793245002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793245002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/1ad11457-d090-4ebf-ac4a-9c4c401d1f5b-biden_and_manchin.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "O2JOUtf2uxh/wA2od2BHaV3tjClFi52Xa1auLUdwNrVhuft4sBteAz+93jijw5APdKibLSNGgOenYAKR7Ldr+vdELhTnSwnDsqCyZC05krYDM/Qws/0osL6zYC/WEF9UyzW2ZFtZ7Uv4vk4Q8WuSPVgD+J0mR5CAu5UfNDvLIJo+8H/9PhIQ2SdtlO4TiIpzAhOFCTBY9SAC5J2HQwxWiYWgFOT4tVMHOb9Nz1zRI/WDZZohm0o/8O3emGdrgmMXXVvppHr42RyUcXJ+K4HTr1+2e0hldAh2kpMXnlfDkCJAbotwec3YKaBJq39WHpvSBZkjUCR63HM+CjCS8P9ve+BdSVv0tAVV3X/zZ2mv2mf6ATb2jlSbtS3s/6JSEnnYl+Nmzs29agOWPI4/h9yqihFO3XIN9KUX0SH9qdHH4eIqtpNH4jZIwRGWb060D9k82VxsC96LAs69W/9mnIFg8iF6p1la2RHhDBNS6Gum8/H6u6XinVcFpjgLiiL6OkOJkth7jc5FevyaQGlu52VZyA==;0LFRa3phLg9f7ndJCxwtUg=="
 ---

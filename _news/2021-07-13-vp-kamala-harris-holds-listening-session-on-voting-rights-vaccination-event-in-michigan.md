@@ -117,6 +117,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Harris says voting bills honor ‘American hero’ John Lewis"
+    excerpt: "Vice President Kamala Harris is urging Congress to honor the civil rights legacy of the late U.S. Rep. John Lewis by protecting voting rights."
+    publishedDateTime: 2021-07-17T17:06:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article252852678.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article252852678.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article252852678.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 55
 
 secured: "twIVgPrDBPN92tCCt/oUUlDtqt+aaFFNGp5eZtjZ+QALwGZcBgWWqbqA9kA7yRFagNEjNVBT1xgjcJA6VsmufFZk4+7hoDrsiu2D06DdjYcIZPvjCkNJwS8XeU2LPGIWavTQ1xG5kI0cC9XSZyPufFQPGk4qrbCr/oX82Fhb3TleTBhPnXDmg0AjYGA3sNBAtXRKBO14q6JZdAgMfygS9fZ9wAlrr2Z5ezpP+nVEOylrXomioeUCzq8Ywu3qkQ2AWwk2IAtE8VMbkbcGC3AGpY+nHj+iARLy4i1mSwz9eBV46r0hqoN1z9QfaR6UHjc1ZaVHL6O9+COY4JbbReobbLmJeCQf0216U51CcBC5Wee1TkVfkTmRadXEEMRRGRUTJv3dFWTIOlHW6CdLI3BNQAAEMYdW2aFzO9Vz5kWW8UxmZ+lV+pdn48Gtt95f9ZO1+P6k1dTWdR3rl6ETe5p+4zd2VTaGtOb2mwsj3CuTzI5nTUzsV9ILqTssB1inaYLHaEvIpxR/rwD5ACU1ZW2rVQ==;trgrq4BgC+z9w51rdSdcXw=="
 ---

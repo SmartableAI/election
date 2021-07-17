@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-06-biden-doubles-down-on-vaccine-efforts-after-missing-july-4th-goal.md",
+      "title": "Biden doubles down on vaccine efforts after missing July 4th goal",
+      "excerpt": "President Joe Biden is doubling down on efforts to get more Americans vaccinated despite missing his self-imposed Fourth of July deadline.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 525,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063",
+      "publishedDateTime": "2021-07-06T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-joe-biden-ramps-up-vaccination-drive-with-new-initiatives-pfizer-moderna-vaccines-on-brink-of-full-fda-approval-todays-covid-19-updates.md",
       "title": "Joe Biden ramps up vaccination drive with new initiatives; Pfizer, Moderna vaccines on brink of full FDA approval?: Today's COVID-19 updates",
       "excerpt": "President Biden unveiled initiatives aimed at the one-third of the eligible U.S. population that has not gotten any COVID vaccine shots. Latest news.",
@@ -740,58 +792,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-01-biden-deeply-disappointed-by-supreme-court-ruling-on-voting-restrictions.md",
-      "title": "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions",
-      "excerpt": "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting",
-      "originalUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp",
-      "publishedDateTime": "2021-07-01T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-07-01-coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths.md",
       "title": "Coronavirus live news: Biden behind on global vaccine delivery; Thailand suffers second day of record deaths",
       "excerpt": "US President fails to deliver 80m doses by end of June; Thailand toll comes as Phuket reopens for tourism; Australia vaccine rift grows",
@@ -998,6 +998,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-bidens-visit-to-western-wisconsin-brings-him-to-one-of-the-states-leading-political-battlegrounds.md",
+      "title": "Biden's visit to western Wisconsin brings him to one of the state's leading political battlegrounds",
+      "excerpt": "The president's trip to western Wisconsin brings him to a congressional district that will be among the most hotly contested in the nation in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/24/USAT/1ad11457-d090-4ebf-ac4a-9c4c401d1f5b-biden_and_manchin.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7793245002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793245002",
+      "publishedDateTime": "2021-06-29T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1538,58 +1590,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-joe-biden-whispering-video-viewed-over-3-million-times-what-did-i-just-watch.md",
-      "title": "Joe Biden Whispering Video Viewed Over 3 Million Times: 'What Did I Just Watch?'",
-      "excerpt": "The president drew criticism from several prominent conservatives for his whispered responses to reporters while discussing a $1.2 trillion infrastructure deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022",
-      "originalUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1829722/joe-biden-whispering-white-house.jpg",
-          "width": 2500,
-          "height": 1817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022?amp=1",
-      "publishedDateTime": "2021-06-25T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

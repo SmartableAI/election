@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Smerconish: Here's why Trump refuses to take the next logical step"
+    excerpt: "With new vaccinations dwindling and Covid-19 cases going up across the US, CNN's Michael Smerconish asks why won't former President Trump is not stepping up help bridge the vaccine's political divide.\n    \n"
+    publishedDateTime: 2021-07-17T16:59:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LrOEIGbFXY/smerconish-why-wont-trump-promote-vaccination.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/07/17/smerconish-why-wont-trump-promote-vaccination.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/07/17/smerconish-why-wont-trump-promote-vaccination.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210717091948-smerconish-why-wont-trump-promote-vaccination-00000000-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New DHS intel chief installed at office plagued by Trump-era controversy "
     excerpt: "Homeland Security official John Cohen will take over leadership of the department's intelligence branch, an office that is still trying to find its footing after a series of controversies during the Trump administration.\n    \n"
     publishedDateTime: 2021-07-09T22:15:59Z
@@ -255,6 +271,6 @@ related:
         height: 773
         isCached: true
 
-secured: "e92zdZtFgyBKjARDQP0YFtgvmve5LBh2kmOi5LaJcu/UgZJQqkZ3z/QvlxbJ/t26vxHy3hn+5iiw2tc86GsNyVM+dQOwGvAEsLHhknXlQq9uou0uxbgfwSGKlqbSi53GbHW4x9aWSiIe0cWwXlWOoWJcU2OHpPLnib4aKwG9LP9j1SAAkNi6gA3gyh5z4qT7VtLC+W5YBRls8BHd8/2LD5IXmBAbFS5F4XgwMyZtwcGTegiQrK35Jesbyd5Nm210FQSRVv1uVYj/KxUxhZrZUTOnAuRvxt/l54Lj9G3QKKjWtzYC02XNLFcLsHsr5m/cuPMxXymGKCXirpujBihAPLZhdn4SzwwuhuVJFyHRz4E=;SB7nsgi64j6Nq0Ihlk90wg=="
+secured: "ypv0g8xrtGgSgIRPUgveOCk2E7TD5I0WuoQRp0ltAe5T2GhgNslDLk2h4HnC60/bMko2gs8vcENtpHwsB3KeQQQ8abaQDvsIS3K0i9RNq8jhvGmhb5Ob8S0q+pCZC3KK6UH+YEfzdF/7TvTzy4xtfNsJYPgC6uyKkL3ZJFXqT2jNYFCllt1s3JItD5oHBu3fqeaMFp4+yNfedbQ9/mk+VNwtNrqaEyJESSInKxME0V20HGSeAv8AMM431SQC/ReLATKWh9XKPxmUBBjy6NIhB3pwpbjMTulSijntVsbp4nkDtoarezkfaHjUOwlSbthL7D/HUIV1FtExvaH55kl2ATJyFLQB5XBcWnQTf+pjBxxAiNTN/ejPvyyFnjbl8elS8jfRez+aC4UKssCfFB+2jyLs7dcnDAY3dVfyATD8uoAIH1WgzBB+Mzc85MD+LzDEQQbwn4hYxi3BwR2oZxC0YAVX/mbazPjsAj2OJmwup3MJHLJChnuEejthB0CIjOaWBOvNBoBz+CtxkA0SgijTAw==;2eXb89YmuXm1lQcRO0aIoA=="
 ---
 

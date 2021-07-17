@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Rural County in Nevada Decides Not to Rename Road for Trump"
-excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him."
-publishedDateTime: 2021-07-16T21:56:00Z
-originalUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-07-16/rural-county-in-nevada-decides-not-to-rename-road-for-trump"
-webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-07-16/rural-county-in-nevada-decides-not-to-rename-road-for-trump"
+title: "Rural county in Nevada decides not to rename road for Trump"
+excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him. Lyon County commissioners cited community opposition before voting 3-2 on Thursday against renaming the half-mile (0."
+publishedDateTime: 2021-07-16T20:57:00Z
+originalUrl: "https://www.chron.com/news/article/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+webUrl: "https://www.chron.com/news/article/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+ampWebUrl: "https://www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "New book goes behind the scenes of the Trump presidency and re-election campaign"
@@ -713,6 +717,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "eNNFXEU/bexKy4UH2lzLMIVIW1PdznrNqeF2vQ4etgTURGVrBe8xZPSMGM2oiAomsgDrOQ3CjQFgS/VdKamoPdb6ZUmXd/jtV16/oTZ3W8afUa+JVD6ORR7WvRDQhz1nXnXRLFUzieGnV7ww/oHl3xORF82fDd6YQl9I/nStNYfSmj3ZPJ+RGLvujhZAggnBsXF5VXhgLgCyXX/iMT0JHMfRsf+h9SsgCgiyu6DIKk+n9JdB4Q0Sk3vqnzMULjQaJJHfuqPPH0VnZh3oacpiWNgXVgIUnL7qGko4MacvzQIjplanaAR7/tITsZcxKrxJowafvoPiJmGP0NuVgkooRS44ehikRHCkAEzfrBG9Ddw=;TJRPzarEwxTXseCT/nqUkg=="
+secured: "3RtNepTDUElR8/9pmLnUhE/z6ZVthtM/Hsqw7zfJ76cKq+vbU4Iq5fhQr1BTpcknFDZ97GuxJa3v2uk7vXtH4QGL9vxLlgmob5JYx5/cG5KPa0LtjKeJwIhCC2xQ1wtOkPnLmJswaakV1SIBrr1VlcHVlINOFkjlVdjDG4Y82TKFojtuOYmzbdjHXgOU69f8sViIGWAx6FrRzvnK7CCPLr1mGceA3T/3JQzJHh1i/1tyDdZRznPN2nt4e0/QJQPl3Y7CzOiIWU0qA6hYRz9ygagnD+T4iyksGfspBxr6scnQ19tBUvuGba/mLpcG0CoiYkXlWeB4tLxRfN7d+kWfB8fLdLZH6yVVZWQhX2PlknI=;VHe7gCKZJpR3z2rE7QB2Uw=="
 ---
 

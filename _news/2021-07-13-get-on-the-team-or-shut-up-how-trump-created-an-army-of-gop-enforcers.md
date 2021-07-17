@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Smerconish: Here's why Trump refuses to take the next logical step"
+    excerpt: "With new vaccinations dwindling and Covid-19 cases going up across the US, CNN's Michael Smerconish asks why won't former President Trump is not stepping up help bridge the vaccine's political divide.\n    \n"
+    publishedDateTime: 2021-07-17T16:59:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LrOEIGbFXY/smerconish-why-wont-trump-promote-vaccination.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/07/17/smerconish-why-wont-trump-promote-vaccination.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/07/17/smerconish-why-wont-trump-promote-vaccination.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210717091948-smerconish-why-wont-trump-promote-vaccination-00000000-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New DHS intel chief installed at office plagued by Trump-era controversy "
     excerpt: "Homeland Security official John Cohen will take over leadership of the department's intelligence branch, an office that is still trying to find its footing after a series of controversies during the Trump administration.\n    \n"
     publishedDateTime: 2021-07-09T22:15:59Z
