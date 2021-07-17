@@ -63,21 +63,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's flip on Hyde Amendment sign of administration 'spiraling way, way to the left': McConnell"
-    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., slammed President Biden for steering the U.S. to the more to the left despite campaigning as a moderate, in light of Democrats' push to eliminate the Hyde Amendment."
-    publishedDateTime: 2021-07-15T18:05:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Btr0FGq8BSM/mcconnell-biden-flip-anti-abortion-hyde-amendment"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
+  - title: "Biden calls on GOP to protect voting rights 'for God's sake' in fiery address"
+    excerpt: "In a fiery address Tuesday, President Biden called on Republican lawmakers to protect voting rights and counter laws that place restrictions on the ballot."
+    publishedDateTime: 2021-07-13T20:58:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2anQW0pSpME/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "8UFwuQrSSf7MxjUKPhhSBjxM9ZlWUUivJWS6GIEMJY4CS4SimLwMT9HrWxVhykx3SaeQko4xFEy/F7ahxkCvOhIJpWqz/m8FehxvaCtn1T2Fde33l12C1uXKAhwpB8QBGcuJOPnUa7nUyRJpTuebv6LUuYHBYE9w61+anWVO1WH8thvDzmYjusi9mDYO1Pgurg1lTbTqiddPgHWbiEyWj+ihkUGvo0nDTyO9vmZC31m2ug+Mz93TkJIZQlrQfKe9BgMl0QjaGz3M835hLMuGEjTB4jJ8bRHunayLZXdUcPzBm60n8xN7sCpM5Pl3zBy3M46/y3hqN9OfQRImbjAJxX2/D/K3i2Pz2z8268zuw0Q=;i1CKqLI1+3dBcChQV44ORw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123633-02-bagram-air-base-0705-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senior Biden officials finding that Covid lab leak theory as credible as natural origins explanation"
+    excerpt: "Senior Biden administration officials overseeing an intelligence review into the origins of the coronavirus now believe the theory that the virus accidentally escaped from a lab in Wuhan is at least as credible as the possibility that it emerged naturally in the wild -- a dramatic shift from a year ago,"
+    publishedDateTime: 2021-07-16T22:18:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QNOhah3Q2t8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-intel-review-covid-origins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-intel-review-covid-origins/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

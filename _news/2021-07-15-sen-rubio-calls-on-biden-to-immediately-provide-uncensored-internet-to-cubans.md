@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Rep. Andy Biggs provides video of illegal immigrants streaming across border, calls on Biden to act"
+    excerpt: "Republican Congressman Andy Biggs has released an exclusive video from his home state of Arizona showing illegal immigrants, many of them wearing camouflage and backpacks, streaming across the border undeterred."
+    publishedDateTime: 2021-07-16T23:32:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2hqRWu3oBto/exclusive-rep-biggs-provides-video-of-illegal-immigrants-streaming-across-border-calls-on-biden-to-act"
+    ampWebUrl: "https://www.foxnews.com/politics/exclusive-rep-biggs-provides-video-of-illegal-immigrants-streaming-across-border-calls-on-biden-to-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-rep-biggs-provides-video-of-illegal-immigrants-streaming-across-border-calls-on-biden-to-act.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6cf398f-cb4c-47fe-a67f-16e550836ae5/d5a3e5bc-a9e8-4b08-90fb-500aecf85f05/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Nikki Haley calls for Beijing Olympics boycott, urges Biden diplomats to create COVID probe alliance"
     excerpt: "Former U.S. Ambassador to the United Nations Nikki Haley on Tuesday called on the United States to boycott the 2022 Winter Olympics set to take place next February in Beijing."
     publishedDateTime: 2021-05-25T21:49:36Z

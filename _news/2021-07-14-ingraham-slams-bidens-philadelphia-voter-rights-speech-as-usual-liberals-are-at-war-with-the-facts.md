@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-righ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp"
 type: article
 quality: 119
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Fox News
@@ -30,104 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Biden to target state election bills, Supreme Court decisions in voting rights speech in Philadelphia"
-    excerpt: "President Biden is expected to target new election bills in states across the country that administration officials say are erecting new barriers to voting, as well as Supreme Court decisions they claim have weakened federal tools to combat \"regressive voting laws,\" in a speech focused on voting rights"
-    publishedDateTime: 2021-07-13T17:39:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYA2b-idsxY/biden-voting-rights-speech-state-election-bills-supreme-court-decisions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden calls on GOP to protect voting rights 'for God's sake' in fiery address"
-    excerpt: "In a fiery address Tuesday, President Biden called on Republican lawmakers to protect voting rights and counter laws that place restrictions on the ballot."
-    publishedDateTime: 2021-07-13T20:58:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2anQW0pSpME/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Prosecutor investigating Hunter Biden stalled to avoid alerting public about probe ahead of election: Report"
-    excerpt: "The federal prosecutor investigating Hunter Biden’s taxes reportedly waited until after the election to seek search warrants, which stalled the public from finding out about the probe."
-    publishedDateTime: 2021-07-16T16:16:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/69UGnmSa_Xo/federal-proscutor-investigating-hunter-biden-stalled"
-    ampWebUrl: "https://www.foxnews.com/politics/federal-proscutor-investigating-hunter-biden-stalled.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-proscutor-investigating-hunter-biden-stalled.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden calls Cuba a 'failed' state, considers US tech option to send internet services"
-    excerpt: "President Biden said Thursday that he is considering the possibility of establishing an internet source for the Cuban people after the government shut off access amid mass protests."
-    publishedDateTime: 2021-07-16T00:02:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neC-mF_Vtkg/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e3ccdd0-02cb-431c-b1f4-3cd65e1cbf23/bbc7e75a-2359-4191-94b8-1da714252a15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden administration to relocate Afghans who aided US military effort as they await visa process"
-    excerpt: "The Biden administration is launching an operation to relocate Afghan nationals who aided the U.S. military effort in Afghanistan and are in the process of applying for residency in the United States."
-    publishedDateTime: 2021-07-14T16:15:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYw0SSdEQss/biden-relocate-afghans-us-military-effort-visa-process"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f166eaac-f705-4390-965d-d445c57b7af3/52664491-8d61-4399-950d-8ac93cd5d5c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff"
-    excerpt: "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,"
-    publishedDateTime: 2021-07-13T22:29:00Z
-    webUrl: "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle"
-    ampWebUrl: "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15acd04c-ce05-489f-b4ff-0c3c721a9261/c65b3c24-a176-43f7-9682-1e934821161f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "l8MbH0TASO7L6fJW3vMLRo+FfXWUQlfTte0o3Pk+jvP0SY1Rw0erLAnt0QsC0KSf5KBKfZVdgDIC2yFe+CLUESglmZZrbuPoqXjQKtDBbDZoTPR6xnoCOT7bm2cnrKpfcLxuxSsbSoVVfFgXbP/RcS01Vp3RRpybcSKM7CXEB0Gz1LaSUz3YtCUtRDmN+Y8NDcOIMvNBLI2Zk/gYZTqfpU4rqx+Nggkmybi/Tku/kDlGzOpk24VEg/El3MGyZMt/bVlTrEjV5pFKuygEFE6p3Bml/Dgp1bVaUVeE5/HnrR39VYec/ZozDG7h7l+dNyIEbN0YVj2YuZNoQIX4VXMKV74WUoWqLQTrV1k2GnpHZIUassQ933TifT32kgydixr+55Myh09g9JEErWSoNei3duWlOLkfolMnz351ImyaKKn9vPIhsmGpTuROi8pUNrUL2sfbwywObg6VHEVeL0hJKCXo9GC4ViS54LH7xxUrDVuThRd5JKU8nyqQeON4jhoGxh9ZZyWN0jMY3Ms11BIWPQ==;eXyqUl6eU8xr5T84GFsxYQ=="
 ---

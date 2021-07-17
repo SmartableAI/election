@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-rolling-over-china-corp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp"
 type: article
 quality: 181
-heat: 361
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,147 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "Federal judge orders Biden administration to end new DACA applications"
-    excerpt: "A federal judge on Friday ordered the Biden administration to stop all applications for the Deferred Action for Childhood Arrivals (DACA) program, after a coalition of states sued and claimed that the Obama-era program was illegal."
-    publishedDateTime: 2021-07-16T21:45:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications"
-    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp"
+  - title: "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’"
+    excerpt: "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have"
+    publishedDateTime: 2021-07-16T23:50:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 194
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Noem, at CPAC, argues country needs to 'fix damage' Biden is doing"
+    excerpt: "Republican. Kristi Noem of South Dakota kept up her vocal criticism of President Biden and his Democratic administration on Sunday, as she showcased her conservative credentials in front of a large gathering of activists and fellow leaders in Texas."
+    publishedDateTime: 2021-07-11T18:57:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkeZaJtTVCI/noem-at-cpac-biden-damage"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Oklahoma suing Biden admin, claiming federal overreach of mining lands"
-    excerpt: "Oklahoma Gov. Kevin Stitt is suing the Biden administration over the Department of Interior's decision to strip the state's ability to regulate mines, arguing it is an unlawful act of federal overreach."
-    publishedDateTime: 2021-07-16T19:13:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQ0PvFN6vSo/oklahoma-suing-biden-federal-overreach-mining-lands"
-    ampWebUrl: "https://www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
+  - title: "Biden to target state election bills, Supreme Court decisions in voting rights speech in Philadelphia"
+    excerpt: "President Biden is expected to target new election bills in states across the country that administration officials say are erecting new barriers to voting, as well as Supreme Court decisions they claim have weakened federal tools to combat \"regressive voting laws,\" in a speech focused on voting rights"
+    publishedDateTime: 2021-07-13T17:39:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYA2b-idsxY/biden-voting-rights-speech-state-election-bills-supreme-court-decisions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3c835d-7194-43b9-add2-96f492548d04/8dbab13c-c061-4e73-8b0b-802e30fcb680/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Joe Biden accuses Facebook of 'killing people' with vaccine misinformation"
-    excerpt: "President Biden accused the social media platform of “killing people” by allowing what he deems as misinformation on coronavirus vaccines to be shared on the site."
-    publishedDateTime: 2021-07-16T21:37:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SyJEAaXRdqw/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
+  - title: "Trump rips Biden, Big Tech and critical race theory at CPAC"
+    excerpt: "Former President Donald Trump has taken the stage to deliver the keynote address at the three-day Conservative Political Action Conference in Dallas."
+    publishedDateTime: 2021-07-11T20:02:00Z
+    webUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/"
+    ampWebUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-061.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Noem, at CPAC, argues country needs to 'fix damage' Biden is doing"
+    excerpt: "Republican. Kristi Noem of South Dakota kept up her vocal criticism of President Biden and his Democratic administration on Sunday, as she showcased her conservative credentials in front of a large gathering of activists and fellow leaders in Texas."
+    publishedDateTime: 2021-07-11T20:24:00Z
+    webUrl: "https://www.foxnews.com/politics/noem-at-cpac-biden-damage"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8422d4e-5f51-43fd-98e8-4f9eaa2eba31/d2f44aa8-cc14-4663-871c-7aeb9ba00db7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package"
-    excerpt: "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects."
-    publishedDateTime: 2021-07-07T22:24:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQZbjitww3w/biden-reagan-morning-america-ad-infrastructure-packages"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
-    excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
-    publishedDateTime: 2021-07-12T16:29:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUTXxIkXtXc/arizona-ag-injunction-reverse-biden-border-wall-construction"
-    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
-    excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."
-    publishedDateTime: 2021-07-15T15:14:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rpo17l9LF-Y/texas-george-p-bush-biden-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
-    excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."
-    publishedDateTime: 2021-07-13T10:36:00Z
-    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement"
-    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae8b4ac5-c535-402b-91f1-0f8b750827b6/9e32dacb-0ead-4a3c-8f4e-7a7c8b39e257/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Newspaper declares Biden boring; Washington has never felt duller"
-    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
-    publishedDateTime: 2021-07-14T07:10:00Z
-    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden's Shameful Voting-Rights Speech"
-    excerpt: "Republican \"anti-voting\" laws, President Joe Biden claimed during his demagogic speech at the National Constitution Center in Philadelphia this week, are the most \"significant test of our democracy since the Civil War."
-    publishedDateTime: 2021-07-16T11:33:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/548237_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "SG8Z9A8pXWyBYGMmDnekLh9BJfW3H8c2AEcqMaGuDJoJFMPKsmup6JHazuQtos28XrunU5Ml94wW1e3WaCXd5xjp4sdN31Laino+ypAFyQoDcQCBfJcqZfR0NXwz+PEETVc54aVpilky6SBjtv6lzs2u2iHoIpoxe6rtd8yAXjlC4Kd479XXKIaJDGKiUYDoIs2qrODLHEnwgWYLomb58fB/mVaQV1gj0sDML91DZwiiMNVDjPMxDPCaGSU0aQUPXF5txzcZQV877XZaN1r3+8RcU/vBzfPBcuhVbJtcujM/9TpRiB+RcTh8niAp01h7sHRW3l1qUD1027hwXuz7ArNTachKYiaizDAAVRrfPhs=;QL4GGUafrE4co8HNxOflFQ=="

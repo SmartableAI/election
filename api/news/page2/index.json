@@ -2,6 +2,374 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-16-minority-leader-mccarthy-meets-with-trump.md",
+      "title": "Minority leader McCarthy meets with Trump",
+      "excerpt": "Watch \"Minority leader McCarthy meets with former President Trump ahead of Capitol riot hearing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11319195_1626392404.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-biden-sending-troops-to-haiti-not-on-the-agenda.md",
+      "title": "Biden: Sending troops to Haiti 'not on the agenda'",
+      "excerpt": "President Joe Biden says that the U.S. will bolster security at its embassy in Haiti following last week's assassination of that country's president, but sending American troops to stabilize the country was \"not on the agenda.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/15/biden-sending-troops-haiti-not-agenda/7986705002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/15/biden-sending-troops-haiti-not-agenda/7986705002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/0d391e16-975f-4be7-af38-992eee6e405e_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-biden-promises-answers-on-european-travel-ban-in-the-next-several-days.md",
+      "title": "Biden promises answers on European travel ban 'in the next several days'",
+      "excerpt": "President Joe Biden said Thursday he'll soon be able to answer persistent questions about travel to the US from Europe after German Chancellor Angela Merkel raised the matter in the Oval Office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kLpImWqEco/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kLpImWqEco/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210714123504-biden-vaccine-remarks-0618-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/european-travel-ban-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/european-travel-ban-biden/index.html",
+      "publishedDateTime": "2021-07-15T15:55:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-biden-says-cuba-is-a-failed-state-and-calls-communism-a-universally-failed-system.md",
+      "title": "Biden says Cuba is a 'failed state' and calls communism 'a universally failed system'",
+      "excerpt": "President Joe Biden said on Thursday that Cuba is a \"failed state\" and called communism a \"failed system\" as protests play out against the Caribbean nation's repressive regime.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bHoC1da5Qcw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bHoC1da5Qcw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210715133120-01-biden-child-tax-credit-0715-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/cuba-communism-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/cuba-communism-biden/index.html",
+      "publishedDateTime": "2021-07-15T15:36:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-exclusive-documents-show-which-pence-aides-are-still-getting-government-paychecks.md",
+      "title": "Exclusive documents show which Pence aides are still getting government paychecks",
+      "excerpt": "The documents show how Pence has been spending taxpayer cash since leaving the White House in January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-staff-getting-federal-paychecks-2021-7",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-staff-getting-federal-paychecks-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60f05f79d1026600182c5bad?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-megan-fox-rips-burn-a-witch-at-the-stake-cancel-culture-over-her-trump-comments.md",
+      "title": "Megan Fox rips ‘burn-a-witch-at-the-stake’ cancel culture over her Trump comments",
+      "excerpt": "Uhmmm … I do not align myself with any political party or individual politicians,” the Megan Fox wrote in an all-caps message on her Instagram stories addressing her attackers.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
+      "originalUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/machine-gun-kelly-megan-fox-003.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
+      "publishedDateTime": "2021-07-15T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-trump-says-hes-not-into-coups-after-book-claims-general-feared-dangerous-takeover.md",
+      "title": "Trump Says He's 'Not Into Coups' After Book Claims General Feared Dangerous Takeover",
+      "excerpt": "Even if he were interested in a coup, Trump said General Mark Milley is the \"last person\" he'd want to participate in one with.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158",
+      "originalUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1846983/donald-trump-coup-mark-milley.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158?amp=1",
+      "publishedDateTime": "2021-07-15T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-porsches-gucci-rings-and-billions-of-robocalls-inside-the-pac-operation-that-raised-millions-by-impersonating-donald-trump.md",
       "title": "Porsches, Gucci rings, and billions of robocalls: Inside the PAC operation that raised millions by impersonating Donald Trump",
       "excerpt": "At first glance, \"Matte Nox\" looks like your typical thirty-something wannabe Internet influencer, flaunting a lavish lifestyle on his public Instagram and TikTok accounts.\n    \n",
@@ -66,7 +434,7 @@
       "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 975,
+      "heat": 995,
       "tags": null,
       "images": [
         {
@@ -258,6 +626,62 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-lead-investigator-of-ecoterrorist-plot-involving-biden-nominee-says-she-was-the-nastiest-of-the-suspects.md",
+      "title": "Lead investigator of ecoterrorist plot involving Biden nominee says she was the 'nastiest of the suspects'",
+      "excerpt": "The lead Forest Service investigator of the ecoterrorist plot involving President Biden's Bureau of Land Management (BLM) director nominee is pushing back against Tracy Stone-Manning's testimony.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e271dbb-447d-4ecc-a8e2-135035d09617/2d5ba43a-074d-4c89-9aef-ccd4937540c3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp",
+      "publishedDateTime": "2021-07-15T06:54:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-donald-trump-and-kevin-mccarthy-to-meet-on-thursday-as-16-committee-hearing-looms.md",
       "title": "Donald Trump and Kevin McCarthy to meet on Thursday as 1/6 committee hearing looms",
       "excerpt": "House GOP Leader Kevin McCarthy is expected to meet with former President Donald Trump on Thursday, Trump announced in a statement, coming as the California Republican is considering which members of his conference to appoint to a special committee tasked with investigating the deadly January 6 riot",
@@ -343,63 +767,6 @@
       "ampWebUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
       "publishedDateTime": "2021-07-15T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-gutfeld-on-bidens-blast-to-voting-laws-halting-of-lego-gun-sales.md",
-      "title": "'Gutfeld!' on Biden's blast to voting laws, halting of Lego gun sales",
-      "excerpt": "In some of his strongest language yet, President Biden today blasting Republican efforts to restrict voting access as un-American and a test of our democracy. UNIDENTIFIED MALE: President Biden late today in Philadelphia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales",
-      "originalUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp",
-      "publishedDateTime": "2021-07-15T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -749,62 +1116,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-republicans-ramp-up-pressure-on-biden-to-pull-nominee-linked-to-eco-terrorist-plot.md",
-      "title": "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot",
-      "excerpt": "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
-      "publishedDateTime": "2021-07-14T14:22:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-pence-calls-on-biden-to-demand-olympics-move-out-of-beijing-until-china-offers-transparency-on-covid-19.md",
       "title": "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19",
       "excerpt": "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang.",
@@ -817,7 +1128,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 344,
+      "heat": 364,
       "tags": null,
       "images": [
         {
@@ -915,63 +1226,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-pence-accuses-biden-administration-of-rolling-over-for-china-hits-corporate-america-for-abetting-regime.md",
-      "title": "Pence accuses Biden administration of 'rolling over' for China, hits corporate America for 'abetting' regime",
-      "excerpt": "Former Vice President Mike Pence on Wednesday accused the Biden administration of \"rolling over\" for the Chinese Communist regime in a wide-ranging speech that tackled the Chinese threat, and also took aim at corporate America for \"aiding and abetting\" Beijing.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeA9DA3vdkQ/pence-biden-rolling-over-china-corporate-america-aiding-regime",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeA9DA3vdkQ/pence-biden-rolling-over-china-corporate-america-aiding-regime",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 361,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8bfdf72-651e-4cd8-a730-4e0a4cc28e14/7c3c31b7-21fc-463a-b222-40e9bb969b68/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp",
-      "publishedDateTime": "2021-07-14T12:41:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     },
     {
@@ -1081,261 +1335,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-biden-nominee-claims-trump-era-title-ix-regs-protecting-due-process-allow-students-to-rape-with-impunity.md",
-      "title": "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'",
-      "excerpt": "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVnYXaBPA5o/biden-catherine-lhamon-title-ix-rape-impunity",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVnYXaBPA5o/biden-catherine-lhamon-title-ix-rape-impunity",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8296388-755b-456e-894f-0499391e5eea/8503e4fd-ecf0-42a3-aabb-fea38e2cccf9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp",
-      "publishedDateTime": "2021-07-14T09:58:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-david-gergen-trump-more-dangerous-than-nixon-could-bring-the-whole-system-down.md",
-      "title": "David Gergen: Trump More Dangerous Than Nixon, Could \"Bring The Whole System Down\"",
-      "excerpt": "Former Nixon advisor David Gergen told CNN on Tuesday that he fears President Trump was \"more dangerous\" than Richard Nixon because he was \"crazy.\" \"what we worried about with Trump was that he was crazy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/41/414210.jpg",
-          "width": 568,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
-      "publishedDateTime": "2021-07-14T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-trump-economist-steve-moore-hired-to-ruin-yet-another-state.md",
-      "title": "Trump Economist Steve Moore Hired to Ruin Yet Another State",
-      "excerpt": "I have the best senior economic adviser on the planet in Stephen Moore working with me,” boasts Virginia governor candidate Glenn Youngkin.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/07/youngkin-hires-trump-economist-steve-moore-to-ruin-virginia-budget.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/07/youngkin-hires-trump-economist-steve-moore-to-ruin-virginia-budget.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/cc9/307/d6fbdbdcc9f3b0b19cd024aba397eacc4b-stephen-moore-NI.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/07/youngkin-hires-trump-economist-steve-moore-to-ruin-virginia-budget.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/youngkin-hires-trump-economist-steve-moore-to-ruin-virginia-budget.html",
-      "publishedDateTime": "2021-07-14T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-did-donald-trump-lose-a-revealing-fox-news-interview-leads-to-a-challenging-question-for-its-host.md",
-      "title": "'Did Donald Trump lose?’: A revealing Fox News interview leads to a challenging question for its host",
-      "excerpt": "Fox News host Pete Hegseth declined to answer the question in a fiery interview with Texas state Rep. James Talarico (D).",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/07/14/did-donald-trump-lose-revealing-fox-news-interview-leads-challenging-question-its-host/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/14/did-donald-trump-lose-revealing-fox-news-interview-leads-challenging-question-its-host/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WW36VWVWPEI6NJTXWYEPXM5K6Y.jpg&w=1440",
-          "width": 1440,
-          "height": 948,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-ernst-gop-senators-blast-bidenomics-for-spinning-out-of-control-that-price-it-just-isnt-right.md",
-      "title": "Ernst, GOP senators blast 'Bidenomics' for spinning out of control: 'that price ... it just isn't right'",
-      "excerpt": "FIRST ON FOX: A group of GOP senators led by Sen. Joni Ernst, R-Iowa, plans to blast \"Bidenomics\" during a speech on the Senate floor Wednesday afternoon focused on how Biden's proposed $3.5 trillion spending bill will harm hardworking Americans and contribute to \"nationwide sticker shock.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M03RWf5dWh0/ernst-gop-senators-blast-bidenomics-spinning-control-price-isnt-right",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M03RWf5dWh0/ernst-gop-senators-blast-bidenomics-spinning-control-price-isnt-right",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0aae24c-0f56-4c53-bdfc-a15b88a552d2/eb414e88-47c3-44b8-b4a4-c011126f903f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ernst-gop-senators-blast-bidenomics-spinning-control-price-isnt-right.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ernst-gop-senators-blast-bidenomics-spinning-control-price-isnt-right.amp",
-      "publishedDateTime": "2021-07-14T08:17:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -432,6 +432,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pence returns to Iowa, trumpets ‘Trump-Pence’ record of accomplishment"
+    excerpt: "Back in Iowa for the first time since the 2020 election, former Vice President Mike Pence told voters in the first-in-the-nation caucus state the “Trump-Pence” administration showed what can be accomplished when you fight for conservative principles."
+    publishedDateTime: 2021-07-16T22:18:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/16/mike-pence-returns-iowa-trumpets-trump-pence-recor/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/16/mike-pence-returns-iowa-trumpets-trump-pence-recor/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/16/mike-pence-returns-iowa-trumpets-trump-pence-recor/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/28/virus_outbreak_trump_fact_check_43481_c0-0-3693-2154_s1200x700.jpg?3001f657d3eebe37f8930f23996b303c6df4f7a9"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Trump denies ‘blow-up’ with Mike Pence in 2018, calls new book ‘fiction’"
     excerpt: "Former President Donald Trump Friday denied a report in a forthcoming book that he had a rare blow-up with Vice President Mike Pence in 2018 over Mr. Pence’s hiring of former campaign manager Corey Lewandowski."
     publishedDateTime: 2021-07-09T14:15:00Z
@@ -653,6 +669,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "V3V00HFPg4x2Kcd+P8qG+lj504rJo16eYyxc6XHj9w+9LpnF91E9hmFbxde0o78hBr22wIhDky44EMgt+4EMIq7vdvlSknphvwW/KqdByQkHtElxtzKJHeNBb+aGyI2f9BbRlsa5Fz7AZXw97HTzxmrhHnDKkC4rPmSORebzClgyvCxWholT1XS4ca+AQWoEW5Nemo18R7CjpahAuwr6tg936+B8i4RmCXxNSOvmfthk25tQzgcKebpxHz+ZXCLVqI5HJ5KRujQkNYXA6Wh6GV3sM+AOakQXo6EDISnm+hqWxR7oTPJdxK4M9npcL+BYKdkxCG4emaGvqpW3XwFOWx0P1YhW6vI38Ss999ZHzMo=;0depq74EKL5F8hFz9uaVkw=="
+secured: "mABJXgfvYbPOUpHQZTjkzjpt3SBQB0YtEwP2JItgf/x4xmgW50oQ9qY5aAZYNXf6tWaSpla/gdi2GW5DjgkySkx/Wj5k0FTcwSr9IebPxFZg8cMQl6q6rPf7xHss+r6Xme9SOEP21v4v1uQ5V7avi4R09jDAGdIkzJwlwBm5pl4HXfgyDoZ3GFZlkb6H30HeCyo99GjSsDCh601YoC5ydWgfAawWTfW+Cjf1xfogR3p3yZWcAxEj9EqckQbsxUVvDlaAScGLMO7q+F3wG3V3cNlVkavKrI9Ge6Fdr52zKhiO/X31X5B5gXG7XXpo2FzZNsAErhuEAFpYgEasjioZy9oOYj0rJifnb1dwfhwmLvBuhPm89B59PjmV6qmPpVayHHBgK+m6zh9KcJjhd+URIks3wA17qs+kg3OX6gtM5pNibCXDHu1tpgYGlUzfk4mclc7h759u2WasKlZBA42EiHIwDqDaYrnE5WOurbo2AWmsGlCWAHeCee0AEDK+aQUu4X+fds+2Uic5TMG7Kb177Q==;149FSxVd+1CZ6eLEC0AAMw=="
 ---
 

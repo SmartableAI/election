@@ -2,6 +2,335 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-16-pence-in-iowa-charges-biden-trying-to-turn-america-into-a-secular-welfare-state.md",
+      "title": "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’",
+      "excerpt": "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "publishedDateTime": "2021-07-16T16:50:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-noem-says-shes-counting-on-trump-running-again-in-2024.md",
+      "title": "Noem says she’s ‘counting’ on Trump running again in 2024",
+      "excerpt": "Republican Gov. Kristi Noem of South Dakota - speaking with Fox News during a trip to Iowa - says she’s “counting” on former President Trump to run again for the White House in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
+      "publishedDateTime": "2021-07-16T16:25:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-federal-judge-orders-biden-administration-to-end-new-daca-applications.md",
+      "title": "Federal judge orders Biden administration to end new DACA applications",
+      "excerpt": "A federal judge on Friday ordered the Biden administration to stop all applications for the Deferred Action for Childhood Arrivals (DACA) program, after a coalition of states sued and claimed that the Obama-era program was illegal.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp",
+      "publishedDateTime": "2021-07-16T14:45:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.md",
+      "title": "Joe Biden accuses Facebook of 'killing people' with vaccine misinformation",
+      "excerpt": "President Biden accused the social media platform of “killing people” by allowing what he deems as misinformation on coronavirus vaccines to be shared on the site.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SyJEAaXRdqw/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SyJEAaXRdqw/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp",
+      "publishedDateTime": "2021-07-16T14:37:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-addison-rae-slammed-for-greeting-ex-president-trump-at-event.md",
+      "title": "Addison Rae slammed for greeting ex-President Trump at event",
+      "excerpt": "Once the TikToker got his attention, the two shook hands and she mentioned that she just “had to say hi” and that it was “so nice to meet you.” Social media users were not",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/",
+      "originalUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/addison-ray-trump-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/",
+      "publishedDateTime": "2021-07-16T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-prosecutor-investigating-hunter-biden-stalled-to-avoid-alerting-public-about-probe-ahead-of-election-report.md",
+      "title": "Prosecutor investigating Hunter Biden stalled to avoid alerting public about probe ahead of election: Report",
+      "excerpt": "The federal prosecutor investigating Hunter Biden’s taxes reportedly waited until after the election to seek search warrants, which stalled the public from finding out about the probe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/69UGnmSa_Xo/federal-proscutor-investigating-hunter-biden-stalled",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/69UGnmSa_Xo/federal-proscutor-investigating-hunter-biden-stalled",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/federal-proscutor-investigating-hunter-biden-stalled.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-proscutor-investigating-hunter-biden-stalled.amp",
+      "publishedDateTime": "2021-07-16T09:16:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.md",
       "title": "Biden to bolster security at US Embassy in Haiti, won't send troops to stabilize country",
       "excerpt": "President Biden plans to bolster security at the U.S. Embassy in Port-au-Prince after the assassination of Haitian President Jovenel Moïse earlier this month, he said Thursday.",
@@ -54,63 +383,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-from-coup-warnings-to-alleged-kremlin-documents-journalists-refight-the-trump-wars.md",
-      "title": "From ‘coup’ warnings to alleged Kremlin documents, journalists refight the Trump wars",
-      "excerpt": "From the Pentagon to the Kremlin, new allegations against Donald Trump are emerging almost by the hour as a flood of books and investigative pieces hit the marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/from-coup-warnings-to-alleged-kremlin-documents-journalists-refight-the-trump-wars",
-      "originalUrl": "https://www.foxnews.com/media/from-coup-warnings-to-alleged-kremlin-documents-journalists-refight-the-trump-wars",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ap18082762096951.jpg",
-          "width": 1920,
-          "height": 1243,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -168,54 +440,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-donald-trump-slams-disgusting-report-on-russian-interference-in-2016-election.md",
-      "title": "Donald Trump slams ‘disgusting’ report on Russian interference in 2016 election",
-      "excerpt": "A new report alleging Russian spy agencies were told to help Donald Trump win the 2016 presidential election is “disgusting” and “fiction,” the former president said",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/15/trump-slams-disgusting-report-on-russian-election-interference/",
-      "originalUrl": "https://nypost.com/2021/07/15/trump-slams-disgusting-report-on-russian-election-interference/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/russia-trump-putin-01.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/15/trump-slams-disgusting-report-on-russian-election-interference/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/trump-slams-disgusting-report-on-russian-election-interference/amp/",
-      "publishedDateTime": "2021-07-15T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -364,6 +588,62 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-lead-investigator-of-ecoterrorist-plot-involving-biden-nominee-says-she-was-the-nastiest-of-the-suspects.md",
+      "title": "Lead investigator of ecoterrorist plot involving Biden nominee says she was the 'nastiest of the suspects'",
+      "excerpt": "The lead Forest Service investigator of the ecoterrorist plot involving President Biden's Bureau of Land Management (BLM) director nominee is pushing back against Tracy Stone-Manning's testimony.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e271dbb-447d-4ecc-a8e2-135035d09617/2d5ba43a-074d-4c89-9aef-ccd4937540c3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp",
+      "publishedDateTime": "2021-07-15T06:54:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.md",
       "title": "'Ingraham Angle' on Biden calling UN probe on US, South African riots",
       "excerpt": "They even invited the UN to come in and grade their anti-racism efforts. This is completely insane. But again, they're a bunch of self loathing idiots. They're happiest when America is down on our knees,",
@@ -393,63 +673,6 @@
       "ampWebUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
       "publishedDateTime": "2021-07-15T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-gutfeld-on-bidens-blast-to-voting-laws-halting-of-lego-gun-sales.md",
-      "title": "'Gutfeld!' on Biden's blast to voting laws, halting of Lego gun sales",
-      "excerpt": "In some of his strongest language yet, President Biden today blasting Republican efforts to restrict voting access as un-American and a test of our democracy. UNIDENTIFIED MALE: President Biden late today in Philadelphia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales",
-      "originalUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp",
-      "publishedDateTime": "2021-07-15T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -591,62 +814,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-republicans-ramp-up-pressure-on-biden-to-pull-nominee-linked-to-eco-terrorist-plot.md",
-      "title": "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot",
-      "excerpt": "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
-      "publishedDateTime": "2021-07-14T14:22:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-pence-calls-on-biden-to-demand-olympics-move-out-of-beijing-until-china-offers-transparency-on-covid-19.md",
       "title": "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19",
       "excerpt": "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang.",
@@ -659,7 +826,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 344,
+      "heat": 364,
       "tags": null,
       "images": [
         {
@@ -676,63 +843,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
       "publishedDateTime": "2021-07-14T13:10:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-pence-accuses-biden-administration-of-rolling-over-for-china-hits-corporate-america-for-abetting-regime.md",
-      "title": "Pence accuses Biden administration of 'rolling over' for China, hits corporate America for 'abetting' regime",
-      "excerpt": "Former Vice President Mike Pence on Wednesday accused the Biden administration of \"rolling over\" for the Chinese Communist regime in a wide-ranging speech that tackled the Chinese threat, and also took aim at corporate America for \"aiding and abetting\" Beijing.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeA9DA3vdkQ/pence-biden-rolling-over-china-corporate-america-aiding-regime",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeA9DA3vdkQ/pence-biden-rolling-over-china-corporate-america-aiding-regime",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 361,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8bfdf72-651e-4cd8-a730-4e0a4cc28e14/7c3c31b7-21fc-463a-b222-40e9bb969b68/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp",
-      "publishedDateTime": "2021-07-14T12:41:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -830,7 +940,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 232,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1091,6 +1201,63 @@
       ]
     },
     {
+      "path": "_news/2021-07-14-newspaper-declares-biden-boring-washington-has-never-felt-duller.md",
+      "title": "Newspaper declares Biden boring; Washington has never felt duller",
+      "excerpt": "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller",
+      "originalUrl": "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill.md",
       "title": "Texas’ Abbott says Biden, Dems must stop ‘misinformation’ spread on voting bill",
       "excerpt": "Gov. Greg Abbott, the Texas Republican, took to Twitter late Tuesday to blame President Biden for willfully spreading “misinformation” about the state GOP’s sweeping elections overhaul bill.",
@@ -1143,6 +1310,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-ingraham-slams-bidens-philadelphia-voter-rights-speech-as-usual-liberals-are-at-war-with-the-facts.md",
+      "title": "Ingraham slams Biden's Philadelphia voter rights speech: 'As usual, liberals are at war with the facts'",
+      "excerpt": "In response to President Joe Biden's Tuesday speech on voting rights protection in Philadelphia, Fox News host Laura Ingraham ripped the president on \"The Ingraham Angle,\" claiming that \"as usual, liberals are at war with the facts\" and that Biden was \"just reading whatever script his writers handed to him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46929a4d-78fe-445f-a714-0ea8ceb5e626/8eb45b00-d0a2-4b1b-8670-7c60e17ede15/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "publishedDateTime": "2021-07-13T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1259,23 +1483,23 @@
       ]
     },
     {
-      "path": "_news/2021-07-13-biden-taps-new-drug-czar-as-illicit-substances-continue-to-pour-across-the-border.md",
-      "title": "Biden taps new drug czar as illicit substances continue to pour across the border",
-      "excerpt": "President Biden nominated former West Virginia health official, Rahul Gupta, as the nation’s new head of U.S. drug policy as overdoses and drug trafficking surge.",
+      "path": "_news/2021-07-14-gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-standoff.md",
+      "title": "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff",
+      "excerpt": "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n6IB-El_G2E/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n6IB-El_G2E/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border",
+      "webUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
+      "originalUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15acd04c-ce05-489f-b4ff-0c3c721a9261/c65b3c24-a176-43f7-9682-1e934821161f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -1285,9 +1509,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp",
-      "publishedDateTime": "2021-07-13T15:38:39-07:00",
+      "ampWebUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
+      "publishedDateTime": "2021-07-13T15:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1311,6 +1535,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1344,62 +1569,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/house-dems-visas-available-immigrants-trump-travel-bans.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-visas-available-immigrants-trump-travel-bans.amp",
       "publishedDateTime": "2021-07-13T12:56:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-biden-to-target-state-election-bills-supreme-court-decisions-in-voting-rights-speech-in-philadelphia.md",
-      "title": "Biden to target state election bills, Supreme Court decisions in voting rights speech in Philadelphia",
-      "excerpt": "President Biden is expected to target new election bills in states across the country that administration officials say are erecting new barriers to voting, as well as Supreme Court decisions they claim have weakened federal tools to combat \"regressive voting laws,\" in a speech focused on voting rights",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYA2b-idsxY/biden-voting-rights-speech-state-election-bills-supreme-court-decisions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYA2b-idsxY/biden-voting-rights-speech-state-election-bills-supreme-court-decisions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp",
-      "publishedDateTime": "2021-07-13T10:39:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1479,168 +1648,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-tucker-biden-administration-deems-censorship-applicable-to-private-speech.md",
-      "title": "Tucker: Biden administration deems censorship 'applicable to private speech'",
-      "excerpt": "Today, we learned the Biden administration considers censorship applicable to private speech as well. What you say in private, when you're alone with your phone, you won't be able to say or read what you want because the D.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech",
-      "originalUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4079e924-d89c-4b34-8ba8-f093c8b58cbb/2afceed1-004a-4a78-b7f2-cf2c2eeb2dc1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp",
-      "publishedDateTime": "2021-07-13T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-tammy-bruce-kamala-harris-clearly-doesnt-know-america-at-all.md",
-      "title": "Tammy Bruce: Kamala Harris clearly doesn't know America at all",
-      "excerpt": "Fox News contributor Tammy Bruce joined “Tucker Carlson Tonight” to react to Vice President Kamala Harris' comments on rural voters not being able to photocopy an ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
-      "originalUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aed3fb8-f75b-402e-999e-50a80149916a/543856b3-355a-4b2a-836b-d49bc1330f04/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
-      "publishedDateTime": "2021-07-12T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-biden-the-united-states-stands-firmly-with-the-people-of-cuba.md",
-      "title": "Biden: \"The United States Stands Firmly With The People Of Cuba\"",
-      "excerpt": "President Joe Biden addressed civil unrest in Cuba before delivering remarks on gun crime at a press availability on Monday. \"The United States stands firmly with the people of Cuba as they assert their universal rights,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/547926.jpg",
-          "width": 912,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html",
-      "publishedDateTime": "2021-07-12T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

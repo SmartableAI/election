@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NY prosecutors seek cooperation from Trump Organization executive Matthew Calamari "
+    excerpt: "New York prosecutors have continued to pressure top Trump Organization executive Matthew Calamari to cooperate since charging the company and its chief financial officer earlier this month, according to a person familiar with the matter -- the latest sign that the inquiry is continuing.\n    \n"
+    publishedDateTime: 2021-07-16T22:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WaqfWjHdABI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/matthew-calamari-trump-organization-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/matthew-calamari-trump-organization-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716121220-matthew-calamari-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Attorney General Garland restores discretion for immigration judges that was stripped under Trump"
     excerpt: "Attorney General Merrick Garland issued a ruling Thursday restoring discretion to immigration judges by allowing them to administratively close cases, a move that could prove significant in chipping away at the more than million case backlog facing immigration courts.\n    \n"
     publishedDateTime: 2021-07-15T18:55:53Z
@@ -193,6 +209,6 @@ related:
         height: 1731
         isCached: true
 
-secured: "5skAFVPYAhBqKTf7yTs7ignXboY0ohwnz1xx/HS3mpj90qg7q2ozfr5FYqdAE2oyACVhZDOaoAWVUT3U423kaqK1Dpmaa3+OMlnZ3h2KZcvBW5rXBjpnTX16ALuGpZNA9EqcLa/oWo8mSt3QyZF2C+rJjIhNKUMYrEDugQLGOPXJV6je3STJFMVY2wRnWl6ZKPKXZDroJq+zm4VYsr+7R7xRXfVuvmlF1ySRzAF/k7bTo6hxj50DqkSksYD5NTul7bWPByxDMcMeJCpMORoF7Ief+zvpDux9ngbdO2oVpvSFm4RmQr6ulyAfOIUfFvgpbBVnSiSlkeMghMrk/BOcttJIc+/+1kAlh7hsT+gvUis=;SA0EtNU1TiH+T8QoglUkBg=="
+secured: "hfhxU6f5qCFcre3UiDIAsr3fruu/v6x3ffXEfkdkooIpeItjLx1TopHP5FdmoCiKCvtuvk9wjE2QYjI9uHpJYWtmxteGXRRQDl6NgGwmr/WuRF2G5J6gWakm1BFFZ80q161/YH6xSAkInE9oC3fFRXZXm5oJE8xVkBnylDHmA5A821ZUXKbvR4m3VBcF64G85QkH6naqGAS/r6nthhQq7mMRHocLvwM1++L67+RR27xl8lnuKk9Jv/JVPPG1IvO5E6SJQUlKVOjYQgGYa8vzK/KD6yc8XyuaFah2LQMESxEbMN5l41SYKVxXW6hCcaPyhiqaGXzOy9mkhG3iP3cdTJZj7mSS21wyFm6jDdVwYNyzTZimY1rlJRaCqpOhtGFv6i1gPBBGozC5z42Pi/rg/GOMgi2l+I9iQ214/HV3FE493WiFK8YC4RX8nZ5FnMtx016KUQyNswPjZ2uAlJKXitaqfAoAVYPANULxp1331/DTuWDY4CdQGDknV6B7gIzms7TQasgdhNq7Hp/WcmadcQ==;q8ST6b/Adt5NeJDgisOKNw=="
 ---
 

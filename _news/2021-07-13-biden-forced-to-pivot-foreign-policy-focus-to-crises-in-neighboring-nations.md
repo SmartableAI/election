@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's migration adviser leaves White House role"
+    excerpt: "President Joe Biden's senior adviser for migration, Amy Pope, is leaving her position, according to the White House.\n    \n"
+    publishedDateTime: 2021-07-16T22:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0MIaaHhrmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden tries to hold the center as Democrats clash over police and public safety"
     excerpt: "President Joe Biden convened a small summit of local leaders in late June to discuss his plans to combat nationwide surge in violent crime. This week, he did it again -- this time encouraging cities to use resources from his Covid-19 relief package to fund a range of new public safety measures.\n    \n"
     publishedDateTime: 2021-07-13T14:13:51Z

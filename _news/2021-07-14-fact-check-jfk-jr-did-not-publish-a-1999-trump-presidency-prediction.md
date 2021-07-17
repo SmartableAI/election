@@ -419,6 +419,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pence returns to Iowa, trumpets ‘Trump-Pence’ record of accomplishment"
+    excerpt: "Back in Iowa for the first time since the 2020 election, former Vice President Mike Pence told voters in the first-in-the-nation caucus state the “Trump-Pence” administration showed what can be accomplished when you fight for conservative principles."
+    publishedDateTime: 2021-07-16T22:18:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/16/mike-pence-returns-iowa-trumpets-trump-pence-recor/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/16/mike-pence-returns-iowa-trumpets-trump-pence-recor/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/16/mike-pence-returns-iowa-trumpets-trump-pence-recor/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/28/virus_outbreak_trump_fact_check_43481_c0-0-3693-2154_s1200x700.jpg?3001f657d3eebe37f8930f23996b303c6df4f7a9"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Trump denies ‘blow-up’ with Mike Pence in 2018, calls new book ‘fiction’"
     excerpt: "Former President Donald Trump Friday denied a report in a forthcoming book that he had a rare blow-up with Vice President Mike Pence in 2018 over Mr. Pence’s hiring of former campaign manager Corey Lewandowski."
     publishedDateTime: 2021-07-09T14:15:00Z

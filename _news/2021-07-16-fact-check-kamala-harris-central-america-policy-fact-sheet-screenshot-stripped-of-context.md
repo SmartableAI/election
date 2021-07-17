@@ -3,8 +3,8 @@ category: news
 title: "Fact Check-Kamala Harris Central America policy fact sheet screenshot stripped of context"
 excerpt: "Posts are misinterpreting a fact sheet for one of U.S. Vice President Kamala Harris’ Central America policy initiatives and claiming that it is simply an advertisement for Chobani, a company known for selling yogurt products."
 publishedDateTime: 2021-07-16T13:20:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-harris-policy/fact-check-kamala-harris-central-america-policy-fact-sheet-screenshot-stripped-of-context-idUSL1N2OS1A3"
-webUrl: "https://www.reuters.com/article/factcheck-harris-policy/fact-check-kamala-harris-central-america-policy-fact-sheet-screenshot-stripped-of-context-idUSL1N2OS1A3"
+originalUrl: "https://www.reuters.com/article/factcheck-harris-policy-idUSL1N2OS1A3"
+webUrl: "https://www.reuters.com/article/factcheck-harris-policy-idUSL1N2OS1A3"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2OS1A3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OS1A3"
 type: article
@@ -132,6 +132,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/30/Harris_25754.jpg-6d4d8_c0-232-5571-3481_s1200x700.jpg?eb2fa2f78034277a5400180c214d15fe21b76d4b"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Vice President Harris hosts Black women voting rights activists after arrests"
+    excerpt: "President Biden and Vice President Harris listened to Black women voting rights activists at the conference table of the Roosevelt Room."
+    publishedDateTime: 2021-07-16T22:40:00Z
+    webUrl: "https://thegrio.com/2021/07/16/vice-president-harris-black-women-voting-rights-meeting/"
+    ampWebUrl: "https://thegrio.com/2021/07/16/vice-president-harris-black-women-voting-rights-meeting/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/07/16/vice-president-harris-black-women-voting-rights-meeting/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 72
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/07/Harris-Black-Women-Meeting.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris resets trip to Detroit for next week, will address voting rights"
     excerpt: "Vice President Kamala Harris' has rescheduled her trip to Detroit for Monday after her previous travel was postponed following massive flooding in the area in late June."
@@ -296,6 +312,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1aQJmGsJRXZu+SrTDVnvyeDkAmu7EPLkU1ivOanY6KptKfbet3ze8djtXy88zXIYkRQHuNHk7CBeGBVoUvsXHzXultGbsfp0SfsTMjLyXR51IJ2jrobacaSttbd2MRzGbU42pMaRivLKnIrZi2zWaEhPjJJogkHR1JWiDU3wfDLVnWpYJWZtRNZksmIB1yhccTKf2yfHBT777B5wTJ1NIbPY/Hhj1n7LrtXnw2TNGgWQFT5nZiZPXh/as2n6I9M98/cuOG4osX2fmsqwZn7JLa5o5vKlR8A5MwGJ24UKiyIdWEJQWq00olGv015yPxrrTkpmnv6RUmV87JYGH4q3wBlN4XzsQR5Wp7Wd7mbb7HU=;JVvtEJhuyv9hJAwebyFTog=="
+secured: "54m66CPaYJFLK108cjnRTZCTvRyWzFuS3Sh3ZcIkaqdtQzOERCHbQ2Xv2TOPZxn60rqjyKnkg1x3d3o8SvOpp9WBWORBGgs0Smf/4tqjGxnXJPd01JiwJ9/Ebazi3yVEO3o97LhYd+VnGiqUNAVMXtD3qYOhVoiGqyPDpqKg20lAiIp9f1dm1/UgN8jKykrCPoceEyoBCuK6AeOSywbzNZA5o3qpwbimpzd56EFry68Egwn723/wMnXnr/kBc8nNTsIaj0WiIaMq0mw4GGip7qj+g2rOQ7qTOXOOwLM1bzdRpMqJu1mMX1SL5JwUZwNsdfEZ1huSZPsdf1Zwox/fwjEVMvEQGQgXW6TGIRiAwcU=;5efAx7qMoXp1Ftd3ld8nnA=="
 ---
 

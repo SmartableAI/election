@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/media/from-coup-warnings-to-alleged-kremli
 webUrl: "https://www.foxnews.com/media/from-coup-warnings-to-alleged-kremlin-documents-journalists-refight-the-trump-wars"
 type: article
 quality: 108
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -28,6 +28,40 @@ images:
     width: 1920
     height: 1243
     isCached: true
+
+related:
+  - title: "Noem says she’s ‘counting’ on Trump running again in 2024"
+    excerpt: "Republican Gov. Kristi Noem of South Dakota - speaking with Fox News during a trip to Iowa - says she’s “counting” on former President Trump to run again for the White House in 2024."
+    publishedDateTime: 2021-07-16T23:25:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Donald Trump slams ‘disgusting’ report on Russian interference in 2016 election"
+    excerpt: "A new report alleging Russian spy agencies were told to help Donald Trump win the 2016 presidential election is “disgusting” and “fiction,” the former president said"
+    publishedDateTime: 2021-07-15T19:12:00Z
+    webUrl: "https://nypost.com/2021/07/15/trump-slams-disgusting-report-on-russian-election-interference/"
+    ampWebUrl: "https://nypost.com/2021/07/15/trump-slams-disgusting-report-on-russian-election-interference/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/trump-slams-disgusting-report-on-russian-election-interference/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/russia-trump-putin-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KPdYjQvQRXyG4VTXVFXfQg70MyBKZCM9PfuEb8YO1ixQEj2hAVLp4uNNWRdWWi4qAErt9qXL6PgpBeXKkZogTFnahjjZUXFZoJ6QSxGo10qlrqysJ/t0nXFSc30MdROvjeDVs+Avfw3KZK6s9WcxixHRkMijOA1lcH0vth6hJ17FZsKuZk/8w/MoYA5mDIBNc/rbarnB71jsQj1fTqaQSr334MESDf7l3M/0A0fD6CZJ30W1HIbPGGkP8c7dJNsTySjtkdvuM4HV80dpFxwO8zbeTJwktj0S4XoeVD/m3+kFy7uve7gtLReV4uAIrkLG5nbtmCEb9JCsmaoeF9Y8PlbZhKqHjTSuAU+pLNQuat0=;rVhj6n1LlG7Pz+bJymbn0w=="
 ---

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NY prosecutors seek cooperation from Trump Organization executive Matthew Calamari "
+    excerpt: "New York prosecutors have continued to pressure top Trump Organization executive Matthew Calamari to cooperate since charging the company and its chief financial officer earlier this month, according to a person familiar with the matter -- the latest sign that the inquiry is continuing.\n    \n"
+    publishedDateTime: 2021-07-16T22:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WaqfWjHdABI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/matthew-calamari-trump-organization-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/matthew-calamari-trump-organization-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716121220-matthew-calamari-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Attorney General Garland restores discretion for immigration judges that was stripped under Trump"
     excerpt: "Attorney General Merrick Garland issued a ruling Thursday restoring discretion to immigration judges by allowing them to administratively close cases, a move that could prove significant in chipping away at the more than million case backlog facing immigration courts.\n    \n"
     publishedDateTime: 2021-07-15T18:55:53Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://siouxcityjournal.com/news/local/govt-and-politics/pence-slam
 cdnAmpWebUrl: "https://siouxcityjournal-com.cdn.ampproject.org/c/s/siouxcityjournal.com/news/local/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-sioux-center-picnic/article_8884d00b-8701-556b-b09a-6d69e9db2425.amp.html"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 682
     isCached: true
 
-secured: "Q8S7dZw+qMaTLGcYm1QdjUD2/uWPe3wMGAIUDxAG97wbJ7Uw/ojRh/5AQ9cff1x7sR516v3UXexplzdvBzQN/3aY3zyqTbmMk9MLiUpgJKnn/VyXoLSiqxUJggINX7QxBwRbzqqikvpBakvDEM+WIMRe1JjaAGP2oSHwhBHLrivycZmaP9TuCkDE48uyCzIBF6MF/YLPu59omDS9JcKZKHbTVMW9WwVaaPoJ7PaZTR2HztbacO++/IsREaapQo5xqOnkQa/Cs0ypiH0HwgTjBC0yPM7FQKE6K0EeIt0GcINRbTKnmJCIVFuu+dtdYEbCklc+NXRHCVRVH7Sfc+36yLNF+7lubuvob2iN0fHqpRQ=;gpuQj5Za37BIDfYOWLyG0w=="
+related:
+  - title: "Pence slams Democrats for \"massive expansion of government\" at Feenstra picnic"
+    excerpt: "While touting the Trump administration's accomplishments, former Vice President Mike Pence said Republicans need to roll up their sleeves and win back America from the \"radical"
+    publishedDateTime: 2021-07-16T23:00:00Z
+    webUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.html"
+    ampWebUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.amp.html"
+    cdnAmpWebUrl: "https://qctimes-com.cdn.ampproject.org/c/s/qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.amp.html"
+    type: article
+    provider:
+      name: Quad-City Times
+      domain: qctimes.com
+    quality: 71
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/ef/6efedde6-fa03-57a9-a78b-f849174977ff/60f20fae9a50b.image.jpg?resize=1024%2C738"
+        width: 1024
+        height: 738
+        isCached: true
+
+secured: "qGVRZ9TCKBwBIDkalEzH8+qYalf8lLIY9KrhH++oTct0u9hBhKmoBDpKhLcrW033IO2oPzFo5kfEaYdUz8PWbjY0xQVA6dWF/xfNOCLNwqtHhWnJcf0vAmsgKaTMlGdkQnC9UjydKt73azQyaPC7OaWIi947TBYiz1EBsMjhYCUVRIqrJCft1yo5YbMIISr225DbrtOUKB5rJRMlngtZ62s2dpatXcWAnYp2e3mw6GSl3c4qiakieXn+N7NHdXDcVedFjaYOaj5o2XgHgpnzi7VxMbBAyIGhdqp9BlBRrrgsaSOk/4VleksPmb3J719tAH2i1DwEHeCLG83nZNBbd+I0w2BaShJGZccs38HVKg5kxN3RT2jtHqQeQZhOhZzJ8LAzG+mIAJH9ZRW61QOL45rArU7ZWoZUHKW4Jk/rrE1GANk8tL9wSdzTlMX1/A6Q+b62scI1MTzJ8Wm4Jt21p+7z60jicI3b2gcGz1//h07E/OAn2LeTPPXu2FAVGRRqVAbpQmvI0P0nlqU+0P2vPg==;cBFm0XwEkg+KgbkvN4GVMg=="
 ---
 

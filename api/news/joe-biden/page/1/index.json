@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-17-biden-social-media-platforms-killing-people-with-misinfo.md",
-      "title": "Biden: Social media platforms 'killing people' with misinfo",
-      "excerpt": "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines",
+      "path": "_news/2021-07-17-biden-says-social-media-carrying-covid-misinformation-is-killing-people.md",
+      "title": "Biden says social media carrying COVID misinformation is 'killing people'",
+      "excerpt": "President Joe Biden on Friday said social media platforms such as Facebook \"are killing people\" after the White House continued criticizing the company for allowing misinformation about coronavirus vaccines to be posted on its platform.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/biden-social-media-platforms-killing-people-misinfo-78891898",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/biden-social-media-platforms-killing-people-misinfo-78891898",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-facebook-idUSKBN2EM219",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-facebook-idUSKBN2EM219",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/WireAP_1309cc2417da42a6bf73d9ba56a2c76e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210716&t=2&i=1569106900&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6F138",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-16T14:51:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2EM219",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EM219",
+      "publishedDateTime": "2021-07-16T16:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -319,63 +319,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-gutfeld-on-bidens-blast-to-voting-laws-halting-of-lego-gun-sales.md",
-      "title": "'Gutfeld!' on Biden's blast to voting laws, halting of Lego gun sales",
-      "excerpt": "In some of his strongest language yet, President Biden today blasting Republican efforts to restrict voting access as un-American and a test of our democracy. UNIDENTIFIED MALE: President Biden late today in Philadelphia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales",
-      "originalUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp",
-      "publishedDateTime": "2021-07-15T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-chaffetz-claims-direct-evidence-joe-biden-was-privy-to-hunters-business-deals-as-house-gop-seeks-documents.md",
       "title": "Chaffetz claims 'direct evidence' Joe Biden was privy to Hunter's business deals, as House GOP seeks documents",
       "excerpt": "Government Accountability Institute fellow Jason Chaffetz claimed Wednesday on “Hannity” that there is direct evidence being laid out by one of his GAI colleagues that shows President Joe Biden was privy to Hunter Biden's foreign business dealings.",
@@ -485,6 +428,177 @@
       ]
     },
     {
+      "path": "_news/2021-07-14-newspaper-declares-biden-boring-washington-has-never-felt-duller.md",
+      "title": "Newspaper declares Biden boring; Washington has never felt duller",
+      "excerpt": "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller",
+      "originalUrl": "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-ingraham-slams-bidens-philadelphia-voter-rights-speech-as-usual-liberals-are-at-war-with-the-facts.md",
+      "title": "Ingraham slams Biden's Philadelphia voter rights speech: 'As usual, liberals are at war with the facts'",
+      "excerpt": "In response to President Joe Biden's Tuesday speech on voting rights protection in Philadelphia, Fox News host Laura Ingraham ripped the president on \"The Ingraham Angle,\" claiming that \"as usual, liberals are at war with the facts\" and that Biden was \"just reading whatever script his writers handed to him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46929a4d-78fe-445f-a714-0ea8ceb5e626/8eb45b00-d0a2-4b1b-8670-7c60e17ede15/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "publishedDateTime": "2021-07-13T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-standoff.md",
+      "title": "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff",
+      "excerpt": "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
+      "originalUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15acd04c-ce05-489f-b4ff-0c3c721a9261/c65b3c24-a176-43f7-9682-1e934821161f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
+      "publishedDateTime": "2021-07-13T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-biden-picks-ex-west-virginia-health-official-as-drug-czar.md",
       "title": "Biden picks ex-West Virginia health official as drug czar",
       "excerpt": "President Joe Biden is nominating West Virginia’s former health commissioner as the nation’s top anti-drug official, tapping a doctor who served on the front lines of the nation’s opioid epidemic",
@@ -534,63 +648,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-tucker-biden-administration-deems-censorship-applicable-to-private-speech.md",
-      "title": "Tucker: Biden administration deems censorship 'applicable to private speech'",
-      "excerpt": "Today, we learned the Biden administration considers censorship applicable to private speech as well. What you say in private, when you're alone with your phone, you won't be able to say or read what you want because the D.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech",
-      "originalUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4079e924-d89c-4b34-8ba8-f093c8b58cbb/2afceed1-004a-4a78-b7f2-cf2c2eeb2dc1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp",
-      "publishedDateTime": "2021-07-13T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -897,7 +954,7 @@
       "originalUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1481,58 +1538,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-joe-biden-ramps-up-vaccination-drive-with-new-initiatives-pfizer-moderna-vaccines-on-brink-of-full-fda-approval-todays-covid-19-updates.md",
-      "title": "Joe Biden ramps up vaccination drive with new initiatives; Pfizer, Moderna vaccines on brink of full FDA approval?: Today's COVID-19 updates",
-      "excerpt": "President Biden unveiled initiatives aimed at the one-third of the eligible U.S. population that has not gotten any COVID vaccine shots. Latest news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2021/07/06/delta-covid-variant-missouri-mississippi-indonesia-oxygen/7867828002/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2021/07/06/delta-covid-variant-missouri-mississippi-indonesia-oxygen/7867828002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/05/USAT/d9b8c20d-2490-487b-a9f4-3ce0c8477dd1-AP21183799994472.jpg?auto=webp&crop=4644,2613,x0,y236&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7867828002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7867828002",
-      "publishedDateTime": "2021-07-06T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

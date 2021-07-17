@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senior Biden officials finding that Covid lab leak theory as credible as natural origins explanation"
+    excerpt: "Senior Biden administration officials overseeing an intelligence review into the origins of the coronavirus now believe the theory that the virus accidentally escaped from a lab in Wuhan is at least as credible as the possibility that it emerged naturally in the wild -- a dramatic shift from a year ago,"
+    publishedDateTime: 2021-07-16T22:18:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QNOhah3Q2t8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-intel-review-covid-origins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-intel-review-covid-origins/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration took steps to 'off-board' fired Social Security chief, administration official says"
     excerpt: "The Biden administration has worked to off-board the fired commissioner of the Social Security Administration who said he would report to work on Monday despite being terminated on Friday, an administration official said.\n    \n"
     publishedDateTime: 2021-07-12T16:29:07Z

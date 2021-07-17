@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707123602-01-trump-lawsuit-0707-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's migration adviser leaves White House role"
+    excerpt: "President Joe Biden's senior adviser for migration, Amy Pope, is leaving her position, according to the White House.\n    \n"
+    publishedDateTime: 2021-07-16T22:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0MIaaHhrmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

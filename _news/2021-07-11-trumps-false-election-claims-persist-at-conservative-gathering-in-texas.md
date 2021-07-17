@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-clai
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
 type: article
 quality: 189
-heat: 389
+heat: 409
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707111001-01-trump-2018-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "NY prosecutors seek cooperation from Trump Organization executive Matthew Calamari "
+    excerpt: "New York prosecutors have continued to pressure top Trump Organization executive Matthew Calamari to cooperate since charging the company and its chief financial officer earlier this month, according to a person familiar with the matter -- the latest sign that the inquiry is continuing.\n    \n"
+    publishedDateTime: 2021-07-16T22:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WaqfWjHdABI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/matthew-calamari-trump-organization-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/matthew-calamari-trump-organization-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716121220-matthew-calamari-2017-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

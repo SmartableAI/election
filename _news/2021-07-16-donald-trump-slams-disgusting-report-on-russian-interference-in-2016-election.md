@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/07/15/trump-slams-disgusting-report-on-russi
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/trump-slams-disgusting-report-on-russian-election-interference/amp/"
 type: article
 quality: 146
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -28,21 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Addison Rae slammed for greeting ex-President Trump at event"
-    excerpt: "Once the TikToker got his attention, the two shook hands and she mentioned that she just “had to say hi” and that it was “so nice to meet you.” Social media users were not"
-    publishedDateTime: 2021-07-16T18:50:00Z
-    webUrl: "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/"
-    ampWebUrl: "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/"
+  - title: "Noem says she’s ‘counting’ on Trump running again in 2024"
+    excerpt: "Republican Gov. Kristi Noem of South Dakota - speaking with Fox News during a trip to Iowa - says she’s “counting” on former President Trump to run again for the White House in 2024."
+    publishedDateTime: 2021-07-16T23:25:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/addison-ray-trump-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "From ‘coup’ warnings to alleged Kremlin documents, journalists refight the Trump wars"
+    excerpt: "From the Pentagon to the Kremlin, new allegations against Donald Trump are emerging almost by the hour as a flood of books and investigative pieces hit the marketplace."
+    publishedDateTime: 2021-07-16T06:38:00Z
+    webUrl: "https://www.foxnews.com/media/from-coup-warnings-to-alleged-kremlin-documents-journalists-refight-the-trump-wars"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 108
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ap18082762096951.jpg"
+        width: 1920
+        height: 1243
         isCached: true
 
 secured: "7nxcuaJoO/3VKPYdkRsm1P/fTMnezdRNO4BnI3P3I1zDnYSTbZNY1q3olX0msraVSh63HVXG3K+zXqN+wWrJ4GcXI0WfuFao8VtS7O4rJXKcKl5QsI48fUisi5VMR22ZplPgqVhU+5nmdpW0VE086it4ZkFJ0J0jbM6PfEjPAnac5RBhW++gv4QTJK3Co9SvLpdtlVGX5xKa8mIO0ayofpx7V0PaeuVKVfaUCj5eufZWX/WUUBGyHja7WD7mZnano/sKejB3NfmNOmL8c5DJyyADL5c2zrEPhqwPmrNoQlMjpRMkmElKEMWs+EPgWWqqy2v77yoyAzmjNDWJH+CLj3jAsb6dZyU/82XdUBtbGNPWQ1cM4utp15TLf9Ht4bup7SzWG6+BAMxlIgXMWISRJu4a32Sv3Orqc/i8TCjCzPsfWwsOmJmtG2JCz88tfRSR1P7nRhdCHIqH80a4itgB9q2etPDYE74JretZ0m2SiDemy6eZoqoYZL60yIgRit661rTpLmZR6K77aZU6pOJFOA==;XrtONW0ENx82IAxp9E4skA=="

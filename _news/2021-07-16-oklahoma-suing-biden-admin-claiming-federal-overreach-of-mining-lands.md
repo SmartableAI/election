@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pence accuses Biden administration of 'rolling over' for China, hits corporate America for 'abetting' regime"
-    excerpt: "Former Vice President Mike Pence on Wednesday accused the Biden administration of \"rolling over\" for the Chinese Communist regime in a wide-ranging speech that tackled the Chinese threat, and also took aim at corporate America for \"aiding and abetting\" Beijing."
-    publishedDateTime: 2021-07-14T19:41:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeA9DA3vdkQ/pence-biden-rolling-over-china-corporate-america-aiding-regime"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8bfdf72-651e-4cd8-a730-4e0a4cc28e14/7c3c31b7-21fc-463a-b222-40e9bb969b68/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Federal judge orders Biden administration to end new DACA applications"
     excerpt: "A federal judge on Friday ordered the Biden administration to stop all applications for the Deferred Action for Childhood Arrivals (DACA) program, after a coalition of states sued and claimed that the Obama-era program was illegal."
     publishedDateTime: 2021-07-16T21:45:09Z
@@ -63,35 +47,67 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Joe Biden accuses Facebook of 'killing people' with vaccine misinformation"
-    excerpt: "President Biden accused the social media platform of “killing people” by allowing what he deems as misinformation on coronavirus vaccines to be shared on the site."
-    publishedDateTime: 2021-07-16T21:37:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SyJEAaXRdqw/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
+  - title: "Trump-era DHS officials warn of ‘catastrophic’ results if Biden administration ends Title 42 border expulsions"
+    excerpt: "FIRST ON FOX: Former Homeland Security officials who served during the Trump administration are warning of dire consequences if the Biden administration ends a Trump-era public health rule that allows the rapid expulsion of migrants at the border due to the COVID-19 pandemic."
+    publishedDateTime: 2021-07-10T18:40:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qq0vx9Ga6Cw/trump-dhs-officials-biden-administration-title-42-migrant-expulsions"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d965c2e6-6826-4417-bbfc-0bb2df7f90f6/f4ce6119-177b-465c-9a87-706424e526fc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package"
-    excerpt: "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects."
-    publishedDateTime: 2021-07-07T22:24:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQZbjitww3w/biden-reagan-morning-america-ad-infrastructure-packages"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp"
+  - title: "Biden taps new drug czar as illicit substances continue to pour across the border"
+    excerpt: "President Biden nominated former West Virginia health official, Rahul Gupta, as the nation’s new head of U.S. drug policy as overdoses and drug trafficking surge."
+    publishedDateTime: 2021-07-13T22:38:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n6IB-El_G2E/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot"
+    excerpt: "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director."
+    publishedDateTime: 2021-07-14T21:22:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden calls Cuba a 'failed' state, considers US tech option to send internet services"
+    excerpt: "President Biden said Thursday that he is considering the possibility of establishing an internet source for the Cuban people after the government shut off access amid mass protests."
+    publishedDateTime: 2021-07-16T00:02:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neC-mF_Vtkg/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e3ccdd0-02cb-431c-b1f4-3cd65e1cbf23/bbc7e75a-2359-4191-94b8-1da714252a15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -111,6 +127,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration to relocate Afghans who aided US military effort as they await visa process"
+    excerpt: "The Biden administration is launching an operation to relocate Afghan nationals who aided the U.S. military effort in Afghanistan and are in the process of applying for residency in the United States."
+    publishedDateTime: 2021-07-14T16:15:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYw0SSdEQss/biden-relocate-afghans-us-military-effort-visa-process"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f166eaac-f705-4390-965d-d445c57b7af3/52664491-8d61-4399-950d-8ac93cd5d5c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's flip on Hyde Amendment sign of administration 'spiraling way, way to the left': McConnell"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., slammed President Biden for steering the U.S. to the more to the left despite campaigning as a moderate, in light of Democrats' push to eliminate the Hyde Amendment."
+    publishedDateTime: 2021-07-15T18:05:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Btr0FGq8BSM/mcconnell-biden-flip-anti-abortion-hyde-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
     excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."
     publishedDateTime: 2021-07-15T15:14:44Z
@@ -127,35 +175,53 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
-    excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."
-    publishedDateTime: 2021-07-13T10:36:00Z
-    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement"
-    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
+  - title: "Eric Adams to visit Joe Biden, the White House"
+    excerpt: "Democratic mayoral nominee Eric Adams is headed to the White House Monday to discuss ways to combat gun violence with President Biden."
+    publishedDateTime: 2021-07-12T02:34:00Z
+    webUrl: "https://nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/"
+    ampWebUrl: "https://nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/ericadams.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "'The Five' on Biden getting tough questions about Afghanistan withdrawal"
+    excerpt: "Who's got the best carnival skills? We're going to find out later in a special \"Dana's Sports Corner.\" But coming up next, Joe Biden blowing up on the media over his Afghanistan withdrawal plan as the Taliban regains control. MCDOWELL: President Biden ..."
+    publishedDateTime: 2021-07-09T15:29:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 134
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae8b4ac5-c535-402b-91f1-0f8b750827b6/9e32dacb-0ead-4a3c-8f4e-7a7c8b39e257/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8bfc98a-d7a9-4981-87e4-9d271a9d75d9/1aa9f9d5-e278-4d92-a942-df034ef78d03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Newspaper declares Biden boring; Washington has never felt duller"
-    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
-    publishedDateTime: 2021-07-14T07:10:00Z
-    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
+  - title: "Tucker: Biden administration deems censorship 'applicable to private speech'"
+    excerpt: "Today, we learned the Biden administration considers censorship applicable to private speech as well. What you say in private, when you're alone with your phone, you won't be able to say or read what you want because the D."
+    publishedDateTime: 2021-07-13T11:48:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 115
+    quality: 132
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4079e924-d89c-4b34-8ba8-f093c8b58cbb/2afceed1-004a-4a78-b7f2-cf2c2eeb2dc1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Joe Biden's Shameful Voting-Rights Speech"
     excerpt: "Republican \"anti-voting\" laws, President Joe Biden claimed during his demagogic speech at the National Constitution Center in Philadelphia this week, are the most \"significant test of our democracy since the Civil War."
@@ -173,6 +239,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Anti-Competitive 'Competition' Order"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-10T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/10/bidens_anti-competitive_competition_order_546840.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "ZyFEswVYvncPBILjhj4fJASHJvIXhJrokEkTcPlUH9YPBvhqd6I6jltN0LEEFZUjBxTdEgN8IEdnxfLVfMfIO5olkgBpcW8cPnAV6sqE2mbXfB02h/Pu9obrLO0ZxESF3YG5qyUc3IA1QQ4hJ64bBy52xVmI/Xu6PRegnhwZbxWQqlhjZ9qs57T3m3jyYY8kZbnF8OIOGhWtY1XmBFomsMZnME93hjeCxOVEoF4Mbq4jPNZ9leuwHNxsuMW38cG1Q9A+Ur85cT/ZkpAGruUDEESIlZi2b2DbmKaNbW0U9jWLIFdzyki/atQlc0G+xnkltyOYlCr4axFOMPMPcMYawq7iItf294LKlS7p0gJVwCI=;WwFqkrEs26Yv6J0p+cSitw=="
 ---

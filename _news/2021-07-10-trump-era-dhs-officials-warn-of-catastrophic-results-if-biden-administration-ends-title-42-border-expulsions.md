@@ -31,54 +31,223 @@ images:
     isCached: true
 
 related:
-  - title: "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'"
-    excerpt: "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\""
-    publishedDateTime: 2021-07-14T16:58:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVnYXaBPA5o/biden-catherine-lhamon-title-ix-rape-impunity"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
+  - title: "Federal judge orders Biden administration to end new DACA applications"
+    excerpt: "A federal judge on Friday ordered the Biden administration to stop all applications for the Deferred Action for Childhood Arrivals (DACA) program, after a coalition of states sued and claimed that the Obama-era program was illegal."
+    publishedDateTime: 2021-07-16T21:45:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8296388-755b-456e-894f-0499391e5eea/8503e4fd-ecf0-42a3-aabb-fea38e2cccf9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden nomination of Richard Trumka Jr. marks another appointment with union ties"
-    excerpt: "The Biden administration built on its effort to cultivate close ties to prominent figures within the labor sector this week with President Biden’s decision to nominate Richard Trumka Jr. to a seat on the Consumer Product Safety Commission."
-    publishedDateTime: 2021-07-14T21:51:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lctSkh7s_4g/biden-nomination-richard-trumka-jr-appointment-union-ties"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
+  - title: "Oklahoma suing Biden admin, claiming federal overreach of mining lands"
+    excerpt: "Oklahoma Gov. Kevin Stitt is suing the Biden administration over the Department of Interior's decision to strip the state's ability to regulate mines, arguing it is an unlawful act of federal overreach."
+    publishedDateTime: 2021-07-16T19:13:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQ0PvFN6vSo/oklahoma-suing-biden-federal-overreach-mining-lands"
+    ampWebUrl: "https://www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3c835d-7194-43b9-add2-96f492548d04/8dbab13c-c061-4e73-8b0b-802e30fcb680/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden taps new drug czar as illicit substances continue to pour across the border"
+    excerpt: "President Biden nominated former West Virginia health official, Rahul Gupta, as the nation’s new head of U.S. drug policy as overdoses and drug trafficking surge."
+    publishedDateTime: 2021-07-13T22:38:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n6IB-El_G2E/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot"
+    excerpt: "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director."
+    publishedDateTime: 2021-07-14T21:22:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden blasts GOP election reforms during a visit Trump calls a ‘joke’ because he’s just scared of PA audit"
-    excerpt: "President Biden is traveling to Philadelphia to tout the “sacred” right to vote, but former President Donald Trump cheered an audit currently underway of Biden’s victory in the"
-    publishedDateTime: 2021-07-13T17:21:00Z
-    webUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/"
-    ampWebUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
+  - title: "Biden calls Cuba a 'failed' state, considers US tech option to send internet services"
+    excerpt: "President Biden said Thursday that he is considering the possibility of establishing an internet source for the Cuban people after the government shut off access amid mass protests."
+    publishedDateTime: 2021-07-16T00:02:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neC-mF_Vtkg/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e3ccdd0-02cb-431c-b1f4-3cd65e1cbf23/bbc7e75a-2359-4191-94b8-1da714252a15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
+    excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
+    publishedDateTime: 2021-07-12T16:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUTXxIkXtXc/arizona-ag-injunction-reverse-biden-border-wall-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration to relocate Afghans who aided US military effort as they await visa process"
+    excerpt: "The Biden administration is launching an operation to relocate Afghan nationals who aided the U.S. military effort in Afghanistan and are in the process of applying for residency in the United States."
+    publishedDateTime: 2021-07-14T16:15:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYw0SSdEQss/biden-relocate-afghans-us-military-effort-visa-process"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f166eaac-f705-4390-965d-d445c57b7af3/52664491-8d61-4399-950d-8ac93cd5d5c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's flip on Hyde Amendment sign of administration 'spiraling way, way to the left': McConnell"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., slammed President Biden for steering the U.S. to the more to the left despite campaigning as a moderate, in light of Democrats' push to eliminate the Hyde Amendment."
+    publishedDateTime: 2021-07-15T18:05:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Btr0FGq8BSM/mcconnell-biden-flip-anti-abortion-hyde-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
+    excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."
+    publishedDateTime: 2021-07-15T15:14:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rpo17l9LF-Y/texas-george-p-bush-biden-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Eric Adams to visit Joe Biden, the White House"
+    excerpt: "Democratic mayoral nominee Eric Adams is headed to the White House Monday to discuss ways to combat gun violence with President Biden."
+    publishedDateTime: 2021-07-12T02:34:00Z
+    webUrl: "https://nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/"
+    ampWebUrl: "https://nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 147
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joe-biden-philly-trump-hp.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/ericadams.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
+  - title: "'The Five' on Biden getting tough questions about Afghanistan withdrawal"
+    excerpt: "Who's got the best carnival skills? We're going to find out later in a special \"Dana's Sports Corner.\" But coming up next, Joe Biden blowing up on the media over his Afghanistan withdrawal plan as the Taliban regains control. MCDOWELL: President Biden ..."
+    publishedDateTime: 2021-07-09T15:29:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8bfc98a-d7a9-4981-87e4-9d271a9d75d9/1aa9f9d5-e278-4d92-a942-df034ef78d03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Tucker: Biden administration deems censorship 'applicable to private speech'"
+    excerpt: "Today, we learned the Biden administration considers censorship applicable to private speech as well. What you say in private, when you're alone with your phone, you won't be able to say or read what you want because the D."
+    publishedDateTime: 2021-07-13T11:48:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4079e924-d89c-4b34-8ba8-f093c8b58cbb/2afceed1-004a-4a78-b7f2-cf2c2eeb2dc1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Joe Biden's Shameful Voting-Rights Speech"
+    excerpt: "Republican \"anti-voting\" laws, President Joe Biden claimed during his demagogic speech at the National Constitution Center in Philadelphia this week, are the most \"significant test of our democracy since the Civil War."
+    publishedDateTime: 2021-07-16T11:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/16/joe_bidens_shameful_voting-rights_speech_146093.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/548237_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's Anti-Competitive 'Competition' Order"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-10T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/10/bidens_anti-competitive_competition_order_546840.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "Xav9yKgsx/soyjtBdB8JghwB4zuTvoh+2AXmWdt53j7nP8OgWqYunMlzHZ48IwO6YVwT4b4sekHHsmsMa43wfK3Yyd2veNIDO43hjlXpJIsXtChUMco97t6H3cAG3in4j+8XlkfOPNdSn8COBke1cJD9uHcM/FNROLptdh9i1BoMAh+uaCF8KNrHwSKazvyBg3Atx4cnDckGLwgvS5mjDr5c9Efglc7TWynmx5y5D4RtVZLnhFveAMfVkOElMCugNeYVklG2EBSmiLJmpjhrNAVm2cXGoTMPkXRFB686TQeJWv5CUs/b2oFYlpLUp1KQn2tNwFIr+rkTnwqy+ExcqlnciCQL69515kaBbWIkuYM=;q7VReydu1pI7hAAv19wUSw=="
 ---
