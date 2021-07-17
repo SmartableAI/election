@@ -408,6 +408,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Trump directly implicated himself in potential tax crimes at the Trump Organization with an offer to pay school fees, report says"
+    excerpt: "Sources told The Daily Beast that Jennifer Weisselberg told investigators Trump personally offered perks in lieu of taxable salary at a 2012 meeting."
+    publishedDateTime: 2021-07-16T16:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60b9caa193c6fa00195e514a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Here is the latest baseless voter fraud allegation, brought to you by Trump and Tucker Carlson"
     excerpt: "In the long history of jarringly ironic comments made by on-air talent at Fox News, a pronouncement from Tucker Carlson on Wednesday night immediately vaulted into the upper echelon. “You can’t have a democracy if the public doesn’t believe election results,"
     publishedDateTime: 2021-07-15T22:08:00Z

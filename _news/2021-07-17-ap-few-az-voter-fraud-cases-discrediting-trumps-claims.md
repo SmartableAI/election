@@ -408,6 +408,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump directly implicated himself in potential tax crimes at the Trump Organization with an offer to pay school fees, report says"
+    excerpt: "Sources told The Daily Beast that Jennifer Weisselberg told investigators Trump personally offered perks in lieu of taxable salary at a 2012 meeting."
+    publishedDateTime: 2021-07-16T16:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60b9caa193c6fa00195e514a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Here is the latest baseless voter fraud allegation, brought to you by Trump and Tucker Carlson"
     excerpt: "In the long history of jarringly ironic comments made by on-air talent at Fox News, a pronouncement from Tucker Carlson on Wednesday night immediately vaulted into the upper echelon. “You can’t have a democracy if the public doesn’t believe election results,"
     publishedDateTime: 2021-07-15T22:08:00Z
@@ -705,6 +721,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "tRFuK96WNQsr5PxEaBSxVYM892yO1r6UyttAb3zBRghu98FxemU9H47oNif94ZwbSdAjgIwn5kgKZkR7DQqJlz1Pv7f57a3+d5rk6Ruv1hfPsICSy5IHeIH1hvmFqQlsqi+HJxjDCmRk0cHx1yIL/2fYmPjNEeEhLYs0nY/aerBtX8BFDKQZ/6qPzkrxBjwyQIel7+D9RAGygFjrndxDHHQxk9UURKb64OavlWtoC0crida/+MJs2IaXeN9zqy/Czru2vBA5CzJ0OzZuIiY68AWKatUYTTISSPCF22rjkG9UFYtIpwPpiFx8GCCzWEJkGZiojIK/+E5l9zVnyYjCqIf8A0YVi3jkPpzXA75MzuI=;i8tv2lxApA+X0w9sLyL+eA=="
+secured: "hqYbQ/hi/8g9oJp8ABlVcL4o518Plyn2OGSKBe47W73v+68fi27v6HGmTWlKNXKjQHFVDkbEyvbE1b+z+HLEJVOhraA9O0OHgJyuJ+YdwJMMMAJUgjt7NYod9jHlzRB6GWQ9GaMeWo+cX7Pz5dOp/b8NJuhVYucLYrh1b5Aip49W787BSZc/WfxMd1J5A/388p3YkgAYGoSXqni6dTOEo6zQM8S3AWlVoRiupQ3z4UrpleYq/jKrxUlXxPd07HQhQD6nHoNMs6bupERQQFbdtj8fI6YUOzQXw8xrShzY8/jMgNYlmimYIStqv6y3UEkvFKZ1llaRaAOKo357bQKIVn5u6kw9GhBgXeKdaiLB7DafTEpyPbQ0JqvU3HsoUQm+gCwWBvHn+LkiFJeiAMxyNDpbnVgrOK58YJZcOO0o29RXmPbPN8PFtWIAtKMYfEHNzKNC0Efa9yfkJi2/cxj4g2uyHI6XGQtMXca9xXWLKM4u5Xs978buHGvA6yHBKs+ZC7mxLxPaLAHeNFCvf2pHfQ==;u/FwOoaxmW3nMiq5Sz1m2Q=="
 ---
 

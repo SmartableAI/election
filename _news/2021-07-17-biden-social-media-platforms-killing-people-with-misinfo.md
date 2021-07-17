@@ -7,7 +7,7 @@ originalUrl: "https://abcnews.go.com/US/wireStory/biden-social-media-platforms-k
 webUrl: "https://abcnews.go.com/US/wireStory/biden-social-media-platforms-killing-people-misinfo-78891898"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Biden: Virus disinformation is 'killing people'"
+    excerpt: "As he left the White House for Camp David Friday afternoon, President Joe Biden warned the unchecked spread of disinformation about COVID-19 and vaccines is having deadly consequences. (July 16)"
+    publishedDateTime: 2021-07-16T20:03:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/16/biden-virus-disinformation-killing-people/7996321002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d6fe8e2f-34ae-4357-a382-066be3edcbb5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "6y8eD7zpyAHCcSB2UydwybRq7hrGgsKgecebiAvElBvO0gwX+/rKvu5q7rpZ/f7sSvo/kSq2DFCWEt3W7o0y3RNo0jCUvTM5XYZgix1jRrcbLnUzxrebqDubHGlJkABgTbeTC6L3pF/o9/Fvpwi3JV4ieXtoNGYsvv9ZyEVnxTXCpO7YoThCOYgplxDR2Ijg4M+96jSMlhAxVVo8KWMdmvbYq4hnF+wY81oRHHsHFrNn7ZEN2cCGJ/zD2R3rzxMpgqv2m3XR6lY5OFa4jcWgUUwBwDVbIxltJ7NHpSfIiF0gC5MvfSDv0cjcbCkBWX/PzQ9ItejmGzgA39D/YjdY9lySZAkPaBa1z2rUKhiFG4Tqx/XNCibxFK47PRBXTzcr9wfrzE/cv0GlLaLvHbExUnD4vMX9OCorvHykvld6da4Pa4KLt+C5GuRNZsqzX/XUt5m8dLhhlxnH4DO2EhAeR9hUqi5ubK3YT1UP2fpTphv1GaCF1P1q3Aaj9ti/0cLIiJRvZvkiVaY8UWr0GMww1w==;keXFjBsowDrKVJQ8gEVoXg=="
 ---

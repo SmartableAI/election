@@ -422,6 +422,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump directly implicated himself in potential tax crimes at the Trump Organization with an offer to pay school fees, report says"
+    excerpt: "Sources told The Daily Beast that Jennifer Weisselberg told investigators Trump personally offered perks in lieu of taxable salary at a 2012 meeting."
+    publishedDateTime: 2021-07-16T16:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60b9caa193c6fa00195e514a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’"
     excerpt: "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”"
     publishedDateTime: 2021-07-09T08:50:00Z

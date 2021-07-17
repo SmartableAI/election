@@ -1,22 +1,34 @@
 ---
 category: news
-title: "Donald Trump Jr. Remarks at CPAC"
-excerpt: "T18:10:26-04:00 Trump Jr. delivers remarks at the 2021 Conservative Political Action Conference (CPAC) in Dallas. Javascript must be enabled in order to access C-SPAN videos. This program contains introductory remarks at the beginning of a session at the Conservative Political"
-publishedDateTime: 2021-07-09T23:32:00Z
-originalUrl: "https://www.c-span.org/video/?513284-1/donald-trump-jr-remarks-cpac"
-webUrl: "https://www.c-span.org/video/?513284-1/donald-trump-jr-remarks-cpac"
+title: "Trump directly implicated himself in potential tax crimes at the Trump Organization with an offer to pay school fees, report says"
+excerpt: "Sources told The Daily Beast that Jennifer Weisselberg told investigators Trump personally offered perks in lieu of taxable salary at a 2012 meeting."
+publishedDateTime: 2021-07-16T16:37:00Z
+originalUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7"
+webUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7"
+ampWebUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
 type: article
-quality: 35
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.insider.com/60b9caa193c6fa00195e514a?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "New book goes behind the scenes of the Trump presidency and re-election campaign"
@@ -412,22 +424,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump directly implicated himself in potential tax crimes at the Trump Organization with an offer to pay school fees, report says"
-    excerpt: "Sources told The Daily Beast that Jennifer Weisselberg told investigators Trump personally offered perks in lieu of taxable salary at a 2012 meeting."
-    publishedDateTime: 2021-07-16T16:37:00Z
-    webUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-implicated-manhattan-trump-org-tax-investigation-report-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/60b9caa193c6fa00195e514a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Here is the latest baseless voter fraud allegation, brought to you by Trump and Tucker Carlson"
     excerpt: "In the long history of jarringly ironic comments made by on-air talent at Fox News, a pronouncement from Tucker Carlson on Wednesday night immediately vaulted into the upper echelon. “You can’t have a democracy if the public doesn’t believe election results,"
     publishedDateTime: 2021-07-15T22:08:00Z
@@ -706,6 +702,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Donald Trump Jr. Remarks at CPAC"
+    excerpt: "T18:10:26-04:00 Trump Jr. delivers remarks at the 2021 Conservative Political Action Conference (CPAC) in Dallas. Javascript must be enabled in order to access C-SPAN videos. This program contains introductory remarks at the beginning of a session at the Conservative Political"
+    publishedDateTime: 2021-07-09T23:32:00Z
+    webUrl: "https://www.c-span.org/video/?513284-1/donald-trump-jr-remarks-cpac"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Ex-Federal Prosecutor Seeks Trump Backing in Governor's Race"
     excerpt: "The top federal prosecutor in Philadelphia appointed by Donald Trump has written to the former president to seek his endorsement in a Republican primary race to run for governor in next year’s election."
     publishedDateTime: 2021-07-13T14:00:00Z
@@ -716,6 +721,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "FzFTZIMv6QFtdneMzeTdQor6GHqWQzTEU4Si90Z+OP8w7B7Lx1JshZZDjPKxif/h53jrZ00b/v3rGAlt9QgRpWm5AbtvtyTk5uuaknpQ+U+ehMPtqD/Bs1j6H7t6B5AdVwzy06CX9HAmQ/Ez6kH2ezObky3mlV190jErE8wFGbdIg+VpAQlmt/JXxyMyq7ka8eRvYI6rwqkqwrmBbECltJE942t/HG33fOq+C8zRk3u/DEq5rKH2gsHC2e/3uHghgxSZ4+EnEZmumVCvPQHS571p5366xKWDqVsb+PhVj3e1Y8e1JfnE3UXPm3Zok8rlnEK9guUZOQwTA7xd6wC2QSQMk5Po4Rb7ZnZuuMesGBLmCjNuFG5EDv/v4bzUylfw6VodJxeZ7saxxGrDnLJMwA8CAuWB5pKI6SgVcQ6sb0D4m4oUxKsZN2bse/0m9xTEWUXKmsJi2FQdSjaS4Vg2DP4F+yppS0tY+L9Qd0a8VDn3Yv+z+p/80JzpIR3HQm0cJAxzmNT52cxz01a8CpR7ew==;GfkLdrP9gG5JEvO/YNzEuQ=="
+secured: "rpez83ODoyqKHQRAGgOG+hV875okTj00SlfE48KG1/VBJUkGzsVn7Q2DiOfsFD2WFTnTzlS6XoV9aIophxkBWpCBrRoJFzo3ma9HITs9qDS7oCeq4pCmzDBzrdkikewS2xRr7ZdHUd69+WW14BZxuzo2HePjWnxyBbeABPJwFIUNSONKHJ2NoIYAJ46Z+EWFHvJdOq/VWGj1SH0g7o0c9AXUleRsyySj6nWZcduEmR1uT8iX00C6OFf6i8Dt94zTFZ0Y7SfLbcUKPBihuzPlBunGD9w8j+ahhnDwfFEquMDH/vEJ38E/O8xhP/YZcuxTVofzyR4rnFO/xdiMhQEaeZzvfdqrRdk+ULwhA6qMzWo=;dgeZORgBg3bBXY98Xf0Z+w=="
 ---
 
