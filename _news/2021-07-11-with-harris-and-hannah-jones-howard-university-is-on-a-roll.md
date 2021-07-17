@@ -101,6 +101,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Harris Says Voting Bills Honor 'American Hero' John Lewis"
+    excerpt: "Vice President Kamala Harris is urging Congress to honor the civil rights legacy of the late U.S. Rep. John Lewis by protecting voting rights."
+    publishedDateTime: 2021-07-17T15:35:00Z
+    webUrl: "https://www.usnews.com/news/best-states/alabama/articles/2021-07-17/harris-says-voting-bills-honor-american-hero-john-lewis"
+    ampWebUrl: "https://www.usnews.com/news/best-states/alabama/articles/2021-07-17/harris-says-voting-bills-honor-american-hero-john-lewis?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/alabama/articles/2021-07-17/harris-says-voting-bills-honor-american-hero-john-lewis?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "qaQOnAQhGMNxIVQeOASFeVrM4+/n3M3xR3YvG1vh6/DQAxEQ9NUxhSyZOgwY67EO/P0HhH3PcUDU3aThW8dlIXcR/zulGGrS4Oiid158PkPgqyCEhTBmp8kyc7uBgv5qVPVKSuBXabb6hb4+ZPbQL9K0VPXGgjZ8qOTLFmyfAkM14oiUgETnGJEtVVJ0P88Bt54KkgOKRgRGA2VUOC6kN4Fk1kd7ozEJldL5cUfhtJmivEceAjmsipOsP32oB52M5zKFFStslZ6Meh92pCNaxcJtpxL56C9JvGSJYA8gaLFl5+UqaNwJTy5LW9WSfSL0rPZXQ9GjkYY+GkwhoJMRg0KXTGZ3NM757+yMnJSTK/OWra8HCSMHK/4BPmUaZLPDRynzfRkyhs2lzaeeL4ki7RGVQPWJMAwZtdWCaS++U2ajf+5dYLeZqfIYPlbRdh0OiXHW7LM9923or7T8RUXYDl7Jqhkx3LEb/AyxlS92n0TeTS9fBfyo0087Ipqip3lO5ntBWQ/J7L7KYRwxPL9wqg==;piyy3x75r1tM6V5sdJd6Cw=="
 ---

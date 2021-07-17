@@ -32,69 +32,133 @@ images:
     isCached: true
 
 related:
-  - title: "Trump on Big Tech: 'They're immune from so many different things, but they're not immune from this lawsuit'"
-    excerpt: "Former President Donald Trump continued his fight against tech industry giants he claims are improperly censoring him, telling Fox News' \"Sunday Morning Futures\" that what Twitter, Facebook and YouTube are doing amounts to campaign contributions to Democrats."
-    publishedDateTime: 2021-07-11T16:09:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp"
+  - title: "Levin slams Biden admin's relationship with Facebook, calls Trump's Big Tech lawsuit 'slam dunk'"
+    excerpt: "Conservative commentator and author Mark Levin slammed the Biden administration for its relationship with Silicon Valley in its bid to halt the spread of misinformation concerning vaccines."
+    publishedDateTime: 2021-07-17T15:31:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ag7t6vogZ1A/levin-biden-administration-facebook-not-independent"
+    ampWebUrl: "https://www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 177
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Trump says tech titans are not ‘immune’ from his class-action lawsuit"
-    excerpt: "Big Tech has the power to censor people’s speech in violation of the Constitution, Donald Trump said, but Facebook, YouTube and Twitter are not “immune” from the class-action"
-    publishedDateTime: 2021-07-11T19:49:00Z
-    webUrl: "https://nypost.com/2021/07/11/trump-says-tech-titans-are-not-immune-from-his-lawsuit/"
-    ampWebUrl: "https://nypost.com/2021/07/11/trump-says-tech-titans-are-not-immune-from-his-lawsuit/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/trump-says-tech-titans-are-not-immune-from-his-lawsuit/amp/"
+  - title: "Joe Biden accuses Facebook of 'killing people' with vaccine misinformation"
+    excerpt: "President Biden accused the social media platform of “killing people” by allowing what he deems as misinformation on coronavirus vaccines to be shared on the site."
+    publishedDateTime: 2021-07-16T21:37:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SyJEAaXRdqw/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'"
+    excerpt: "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\""
+    publishedDateTime: 2021-07-14T16:58:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVnYXaBPA5o/biden-catherine-lhamon-title-ix-rape-impunity"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8296388-755b-456e-894f-0499391e5eea/8503e4fd-ecf0-42a3-aabb-fea38e2cccf9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump-era DHS officials warn of ‘catastrophic’ results if Biden administration ends Title 42 border expulsions"
+    excerpt: "FIRST ON FOX: Former Homeland Security officials who served during the Trump administration are warning of dire consequences if the Biden administration ends a Trump-era public health rule that allows the rapid expulsion of migrants at the border due to the COVID-19 pandemic."
+    publishedDateTime: 2021-07-10T18:40:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qq0vx9Ga6Cw/trump-dhs-officials-biden-administration-title-42-migrant-expulsions"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d965c2e6-6826-4417-bbfc-0bb2df7f90f6/f4ce6119-177b-465c-9a87-706424e526fc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden nomination of Richard Trumka Jr. marks another appointment with union ties"
+    excerpt: "The Biden administration built on its effort to cultivate close ties to prominent figures within the labor sector this week with President Biden’s decision to nominate Richard Trumka Jr. to a seat on the Consumer Product Safety Commission."
+    publishedDateTime: 2021-07-14T21:51:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lctSkh7s_4g/biden-nomination-richard-trumka-jr-appointment-union-ties"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
+    excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
+    publishedDateTime: 2021-07-12T16:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUTXxIkXtXc/arizona-ag-injunction-reverse-biden-border-wall-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
+    excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."
+    publishedDateTime: 2021-07-15T15:14:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rpo17l9LF-Y/texas-george-p-bush-biden-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden blasts GOP election reforms during a visit Trump calls a ‘joke’ because he’s just scared of PA audit"
+    excerpt: "President Biden is traveling to Philadelphia to tout the “sacred” right to vote, but former President Donald Trump cheered an audit currently underway of Biden’s victory in the"
+    publishedDateTime: 2021-07-13T17:21:00Z
+    webUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/"
+    ampWebUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 147
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-lawsuit.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joe-biden-philly-trump-hp.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "'Media Buzz' on Trump's lawsuit against media giants, ESPN benching top host"
-    excerpt: "Donald Trump may or may not have legal success in going after Twitter and Facebook but I'll tell you this. His continued banishment by the social media giants is an absolute outrage and hurts them far more than the former president."
-    publishedDateTime: 2021-07-12T12:45:00Z
-    webUrl: "https://www.foxnews.com/transcript/media-buzz-on-trumps-lawsuit-against-media-giants-espn-benching-top-host"
-    ampWebUrl: "https://www.foxnews.com/transcript/media-buzz-on-trumps-lawsuit-against-media-giants-espn-benching-top-host.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/media-buzz-on-trumps-lawsuit-against-media-giants-espn-benching-top-host.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9405417-015e-4a5e-b9f5-3a2da0f85890/12410f38-9d56-4484-9a95-64dd12013221/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "'Woke, Inc.' author on Trump's Big Tech lawsuit: Imagine the response if 'facts were reversed'"
-    excerpt: "Vivek Ramaswamy, biotech entrepreneur and author of ‘Woke, Inc,' joined ‘Fox & Friends’ to provide insight into former President Trump's lawsuit against Big Tech. He said it could be one of the defining cases of our time,"
-    publishedDateTime: 2021-07-08T14:31:00Z
-    webUrl: "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author"
-    ampWebUrl: "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "2bCMRHj11Nj9IYoYhr+WHvt0muJNQyJ51Zw03mz1srs+cxPOlTaKWZvj+1v3IM4FNHSFpfoKQoEYTItgdTdhUG8nfnjzqid7JMFalV6C0363Bof+bfmZJdBAJxHk+17PbiBCQ60e7GxbyGGW54ryd9VPb1Id6hf15JyJSqjIf20uQ9p5uI5Nh/VxMgUGvrrqTfIAE5Spr5gEGRBMJxYFuawRdRIeWkdcmchHlDkPq2yXa4ZLdlSmQQKYbphluW9q5wzl1/xpmTzI3Cm4usZGFet7cF/J054Pj0dKQetGJkiNldEVDBhiqfWKbBrWZw/qhDY6ODld/AgjnMydXyrRJeFu0uJdLBkzT+IMQJOG9fSJmeyXHGOamNwMTAIyduRcO4MM4RXS9U5oaayFgwnF1OAA0bHIJuFTWtOFBtwoMj9EJ2otqzmFrnCWcQRXWrKUbTRueCez3MCvlTnVjeOLoACD1Nq0MWPBxVVmiTtSnIIWXPim5lkLFAEZotVygcEjln/L+Ff1eP6TOmhdaGx56g==;DsZ2cfz9YvXILVjy4DQtDg=="

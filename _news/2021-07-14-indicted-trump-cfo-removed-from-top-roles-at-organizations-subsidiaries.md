@@ -210,10 +210,10 @@ related:
         isCached: true
   - title: "Democrats See Edge in Early Senate Map as Trump Casts Big Shadow"
     excerpt: "Early fund-raising has given Democrats cause for optimism in key states as Republicans split over how closely to align with Donald Trump’s preferences."
-    publishedDateTime: 2021-07-17T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
+    publishedDateTime: 2021-07-17T09:31:00Z
+    webUrl: "https://www.nytimes.com/2021/07/17/us/politics/midterm-elections.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/17/us/politics/midterm-elections.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/17/us/politics/midterm-elections.amp.html"
     type: article
     provider:
       name: New York Times

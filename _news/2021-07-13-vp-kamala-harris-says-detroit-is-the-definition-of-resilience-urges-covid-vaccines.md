@@ -102,6 +102,17 @@ related:
       name: The Herald-Sun
       domain: heraldsun.com
     quality: 55
+  - title: "Harris Says Voting Bills Honor 'American Hero' John Lewis"
+    excerpt: "Vice President Kamala Harris is urging Congress to honor the civil rights legacy of the late U.S. Rep. John Lewis by protecting voting rights."
+    publishedDateTime: 2021-07-17T15:35:00Z
+    webUrl: "https://www.usnews.com/news/best-states/alabama/articles/2021-07-17/harris-says-voting-bills-honor-american-hero-john-lewis"
+    ampWebUrl: "https://www.usnews.com/news/best-states/alabama/articles/2021-07-17/harris-says-voting-bills-honor-american-hero-john-lewis?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/alabama/articles/2021-07-17/harris-says-voting-bills-honor-american-hero-john-lewis?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "u0xf/4mS/Q3kRutDxJ7zgeG4aRHtiwnc5d1bZ6yYcLYrWnuJ2jh56lh+m2wCFeVRB5glx0BBUkUD/MwpnSHjlBBYMisF/QOUGeaxJP9dp5ZucyE9ToL/e7XdrBGUD4aqDIvvU/yQ9WCss4WZg9933EhiUYpnXrYhA81rpJBJ9tbo/mhSf8GMzHV5FjwpcfaT6Ap4KdMli6dy+9t6x2+ZMVhL/ZwklxVx13RAwn/QfvK2Efd4wLxhBbeNnAAh38+eNoL8jlJ8RqFpon5H44qyhpRzIrhJKmwD9hEBfVicw1c50xOc/b+2LXCUBe/gr+7d1UQJG1GbAKeFl0J/DrzI52+8nvzeIC3pDXG4frU+28kOsCSKcmDGjG1yO7v6nVx1ULCdK+D+B3Sc1QqmoH2naSOU9Pnj9K5gL1VByigMMY7I8nLRPYKb0wI+nPNmnrhxkky0F9MfV+x55k6eHJdjVRHPMW6XcstZzFUI+aUkiMLjy9wlUNT9A49W7HCAD1mApm9jjs/M/vkZGMztlVCNLA==;UF8wIX/SUIJfF1shexUl7g=="
 ---

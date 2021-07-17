@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump showerhead rule to increase water flow being dropped"
+    excerpt: "The Biden administration is reversing a Trump-era rule approved after the former president complained he wasn’t getting wet enough because of limits on water flow from showerheads. Now, with a new president in office,"
+    publishedDateTime: 2021-07-16T12:25:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "VI2IkplCxCQbpcw88XN3YjfxKvB7ymyzcMybi0l0FCoi3wI/XloWW6T9aKEREN+27SliI0SUy7OW2AYF3Xe4+3V6j4DykB7PLL6mQ6lJ93AHfi7G8m1S+I1BNtaheOe3aRpD4B45BkmVFrhUWOxN3elZ+rYG0L2PizB6Qqqfj61x+heHqozphd1MBO33TPYYS+T9rHyeqxrhDtUat0jZPNSgZmFHfRbJaa0PNiE3r3dCbx2WeErVGDpzoYVxhS1pz7el3VvViOfgLujNj3azrTmLSyvosGMrtnuKwGRcDeokbqj6lBcu79fZZOs3n92Xz95bAyoNXZhIrg9ZTqV9edg6koh3SQlqVcGelVVoWrZpYGDTylJKy8nu/jMMKnpVvRg0HMPBAIThSsboaocZFEfIqq6xogdcyt3aqSIAIXfuxlm5G1P5yxw3kio1ufUXESECRkP8q5dDRVNqj9BSy1v28KvP5YkG9icdnMbeD64KOTzwnoA8itnhjC6w63N3J274+zGlDQvW7FtwQCC0yw==;N25v/HQ/XIDisvvZScNsYw=="
 ---

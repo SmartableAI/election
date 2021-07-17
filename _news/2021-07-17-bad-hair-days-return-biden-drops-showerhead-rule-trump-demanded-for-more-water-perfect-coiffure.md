@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7992908002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7992908002"
 type: article
 quality: 126
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump showerhead rule to increase water flow being dropped"
+    excerpt: "The Biden administration is reversing a Trump-era rule approved after the former president complained he wasn’t getting wet enough because of limits on water flow from showerheads. Now, with a new president in office,"
+    publishedDateTime: 2021-07-16T12:25:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Down the Drain for Trump Showerhead Rule on More Water Flow"
     excerpt: "The Biden administration is reversing a Trump-era rule on showerheads that was approved after then-President Donald Trump complained he couldn’t get wet enough because of limits on their water flow."
     publishedDateTime: 2021-07-16T12:59:00Z

@@ -620,22 +620,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Rural county in Nevada decides not to rename road for Trump"
-    excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him. Lyon County commissioners cited community opposition before voting 3-2 on Thursday against renaming the half-mile (0."
-    publishedDateTime: 2021-07-16T20:57:00Z
-    webUrl: "https://www.chron.com/news/article/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Rural-county-in-Nevada-decides-not-to-rename-road-16320486.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
     excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."
     publishedDateTime: 2021-07-09T19:21:00Z
@@ -718,6 +702,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Rural County in Nevada Decides Not to Rename Road for Trump"
+    excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him."
+    publishedDateTime: 2021-07-16T21:56:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-07-16/rural-county-in-nevada-decides-not-to-rename-road-for-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "UsI7+Z9qhL8tBpDRm1inb+MscoYLjeSEqCHf6UeCZhiWRvxNhSZPx6sezawCX3XHPDL4cRwdRiZrtE/3f5Wr6+X0h/z80K8XrEgyVnt5ohGdlPRykB9iiULDNEYkLErSQIrMtl2zUr6qtXeAUcimtUQdZo6uBdgCneovWlxQw9edZnpPjZuH1K5UjG/IDBNmPqnOCdqXK2vnfGmNm9y0Fyt5t81GA5kuKrFRyQIV6o8QzkuFdu+GCh1ECHRa3Nw3d+d+fxqOR3imJC9ZdBDqpEGFlWJOqaBlS6VfISRSL6ja5w9xrAODA8G6f6NRAM/+Hsa96DXgEgMAsLgV2QNny8hLIoFE0uMwBGxto4G568s=;n6Spr1lRaNAzFdbwHC0i+Q=="

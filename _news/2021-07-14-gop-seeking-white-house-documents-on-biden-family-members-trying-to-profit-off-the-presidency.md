@@ -45,6 +45,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Top Biden officials now believe COVID lab leak possible: report"
+    excerpt: "Biden administration officials are divided over the origin of the coronavirus, but an increasing number now believe that it could have leaked from a lab in Wuhan, China, according to a report."
+    publishedDateTime: 2021-07-17T15:13:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQ6sxe9zDaI/biden-officials-covid-lab-leak-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-officials-covid-lab-leak-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-officials-covid-lab-leak-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sen. Rubio calls on Biden to immediately provide uncensored internet to Cubans"
     excerpt: "Sen. Marco Rubio, R-Fla., outlined steps that the Biden administration can immediately take in order to provide Cubans access to uncensored internet, amid ongoing unrest between anti-communist protestors and supporters of the country's regime."
     publishedDateTime: 2021-07-15T21:19:10Z

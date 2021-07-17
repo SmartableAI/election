@@ -2,11 +2,11 @@
 category: news
 title: "Democrats See Edge in Early Senate Map as Trump Casts Big Shadow"
 excerpt: "Early fund-raising has given Democrats cause for optimism in key states as Republicans split over how closely to align with Donald Trump’s preferences."
-publishedDateTime: 2021-07-17T09:00:00Z
-originalUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.html"
-webUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
+publishedDateTime: 2021-07-17T09:31:00Z
+originalUrl: "https://www.nytimes.com/2021/07/17/us/politics/midterm-elections.html"
+webUrl: "https://www.nytimes.com/2021/07/17/us/politics/midterm-elections.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/17/us/politics/midterm-elections.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/17/us/politics/midterm-elections.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -255,6 +255,6 @@ related:
         height: 773
         isCached: true
 
-secured: "3K3UfHhJtCQUkzQD8GQpucFMUP0ZMEXlDh57SN/Lsu1/r73tLv2gRlVMRNsosPtHgk2MwHXY5+91M0EHRxUOUPkYU7UcekabENHLkOgitsAuN6yKDVsLpSBQPyub6XNWCRj9waeNrMwImpnbLBzoXayH9L5WqtTK93FeZ7g88DBbowUvlQti7DV/3ou5+Az6D218BJRnACI6G0nTuKa4isyAwTbnOM2WiPLF31r9nr7DfJTmpPmT/Scja7lxe5NOsEDMjKDiFCmyn37oxxzOKwt2/L+ogAawKM78ZcTbGkk4vGcvSazjy8xZfBoUJGEN2xKUETbXhwx+xfsfBM6HrGSyt0CjMGA5R04AFhSw3PSaZiwYeyDuin9GcMpF5vM+3696t/gOh0k5CIgsETlP8+sHLVZjN+IORLOwkp4D0HROTKsSIJxKCaY/9+JwDbB/vFysz1Y/5E8EUB9Tz62fG8pEzoSHSUn/Z9f3UqvSSxtrWnsIc/RHx1HYAx8Ft7jmDl4gNkGSIqmJ3XBmrcTzsg==;mIbmkopQf4fY7ZSpk2Pk3A=="
+secured: "e92zdZtFgyBKjARDQP0YFtgvmve5LBh2kmOi5LaJcu/UgZJQqkZ3z/QvlxbJ/t26vxHy3hn+5iiw2tc86GsNyVM+dQOwGvAEsLHhknXlQq9uou0uxbgfwSGKlqbSi53GbHW4x9aWSiIe0cWwXlWOoWJcU2OHpPLnib4aKwG9LP9j1SAAkNi6gA3gyh5z4qT7VtLC+W5YBRls8BHd8/2LD5IXmBAbFS5F4XgwMyZtwcGTegiQrK35Jesbyd5Nm210FQSRVv1uVYj/KxUxhZrZUTOnAuRvxt/l54Lj9G3QKKjWtzYC02XNLFcLsHsr5m/cuPMxXymGKCXirpujBihAPLZhdn4SzwwuhuVJFyHRz4E=;SB7nsgi64j6Nq0Ihlk90wg=="
 ---
 
