@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence, Feenstra slam Dems for 'massive expansion of government' at picnic"
+    excerpt: "Former VP Mike Pence decried policies of open borders, high taxes and \"abortion on demand,\" during a fundraiser for Rep. Randy Feenstra."
+    publishedDateTime: 2021-07-17T19:30:00Z
+    webUrl: "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html"
+    ampWebUrl: "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html"
+    cdnAmpWebUrl: "https://globegazette-com.cdn.ampproject.org/c/s/globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html"
+    type: article
+    provider:
+      name: Globe Gazette
+      domain: globegazette.com
+    quality: 74
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/2/0b/20bba3a4-5da0-56e3-847a-4c23bace4ff6/60f21602604a1.image.jpg?resize=1024%2C738"
+        width: 1024
+        height: 738
+        isCached: true
   - title: "Pence slams Democrats for \"massive expansion of government\" at Feenstra picnic"
     excerpt: "While touting the Trump administration's accomplishments, former Vice President Mike Pence said Republicans need to roll up their sleeves and win back America from the \"radical"
     publishedDateTime: 2021-07-16T23:00:00Z
@@ -40,6 +56,22 @@ related:
     quality: 71
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/ef/6efedde6-fa03-57a9-a78b-f849174977ff/60f20fae9a50b.image.jpg?resize=1024%2C738"
+        width: 1024
+        height: 738
+        isCached: true
+  - title: "Pence slams Democrats for 'massive expansion of government' at Sioux Center picnic"
+    excerpt: "\"In just 177 days, the Biden administration has unleashed a tidal wave of left wing policies that threaten to wipe out all the progress we made,\" former Vice President Mike"
+    publishedDateTime: 2021-07-17T17:34:00Z
+    webUrl: "https://fremonttribune.com/news/state-and-regional/pence-slams-democrats-for-massive-expansion-of-government-at-sioux-center-picnic/article_22627edc-0afa-5a67-923a-f0734dceb026.html"
+    ampWebUrl: "https://fremonttribune.com/news/state-and-regional/pence-slams-democrats-for-massive-expansion-of-government-at-sioux-center-picnic/article_22627edc-0afa-5a67-923a-f0734dceb026.amp.html"
+    cdnAmpWebUrl: "https://fremonttribune-com.cdn.ampproject.org/c/s/fremonttribune.com/news/state-and-regional/pence-slams-democrats-for-massive-expansion-of-government-at-sioux-center-picnic/article_22627edc-0afa-5a67-923a-f0734dceb026.amp.html"
+    type: article
+    provider:
+      name: Fremont Tribune
+      domain: fremonttribune.com
+    quality: 69
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/fremonttribune.com/content/tncms/assets/v3/editorial/e/ad/ead9912a-bc32-509d-a630-e9a6f60bf335/60f322ce1d77c.image.jpg?resize=1024%2C738"
         width: 1024
         height: 738
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/federal-judge-biden-administration-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97362a73-be8a-4484-a58b-45241e575b5b/a22dbef5-7bf9-47e9-9ce7-cc65e772c142/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Family of 15-year-old terrorist attack victim asks Biden to bring justice for daughter"
+    excerpt: "Malki Roth, a talented young musician with a sunny and emphatic personality, was just 15 years old when she was killed by a terrorist attack while lunching at a crowded pizzeria with her teenaged friend. "
+    publishedDateTime: 2021-07-17T18:17:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X1jLOJKbb4M/family-15-year-old-terrorist-attack-victim-biden-justice-daughter"
+    ampWebUrl: "https://www.foxnews.com/politics/family-15-year-old-terrorist-attack-victim-biden-justice-daughter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/family-15-year-old-terrorist-attack-victim-biden-justice-daughter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden administration to relocate Afghans who aided US military effort as they await visa process"
     excerpt: "The Biden administration is launching an operation to relocate Afghan nationals who aided the U.S. military effort in Afghanistan and are in the process of applying for residency in the United States."

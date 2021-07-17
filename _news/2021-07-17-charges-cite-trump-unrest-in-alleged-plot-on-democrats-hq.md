@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Charges cite Trump unrest in alleged plot on Democrats' HQ"
-excerpt: "Federal prosecutors say a man living in California's wine country had five illegal pipe bombs and nearly 50 weapons at his home and shop as he conspired to firebomb the state Democratic Party headquar"
-publishedDateTime: 2021-07-16T21:15:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
-webUrl: "https://abcnews.go.com/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
+excerpt: "His attorney admits his client is in serious trouble, but said Friday that the alleged plot was nothing more than drunken talk between two buddies inflamed by the defeat of former president Donald Trump."
+publishedDateTime: 2021-07-16T23:35:00Z
+originalUrl: "https://www.chron.com/news/article/2-charged-with-plotting-to-blow-up-Democratic-16318558.php"
+webUrl: "https://www.chron.com/news/article/2-charged-with-plotting-to-blow-up-Democratic-16318558.php"
+ampWebUrl: "https://www.chron.com/news/amp/2-charged-with-plotting-to-blow-up-Democratic-16318558.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/2-charged-with-plotting-to-blow-up-Democratic-16318558.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_0b66bd009458456ea6a6c16dad5b3f24_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -96,6 +92,6 @@ related:
         height: 800
         isCached: true
 
-secured: "9ttsXwChyj0TdBQETQrKs2lSg4+TA5H0IFw8B/WKEACiyWpZryzZGMuxcDAilHMx0ENQOJEyQ4x1mbTREtKCGVMSt8+eqHWMoBQ38DcipZCCwxwoqYnYlj6KoJsX5eATEaCzKFzzTkr3VOaL6LaweIppZR5j6qLcSSipfm0KjfavCzc8w9CPqOVLloeNexNrCHhLodO+YxqqOJRGtNZnu3SNJQkkhRcJ0pqLQ1xWvJ09AZZ9OLz/NKNY9h/wrC0HuvyvmTAVdX48Ug7KKwdIphDO0ewHt42yUiB67S9pFK9mUIHaNjtpbOucNZZJ2DfMfzF35rz33sihNwDUyVWwE7DfXIJMDbGgXXzjx6TswCNnm6WJpvZCId+o8lGWruoFuGQfhZ5pz4HQyrmc3Bhf1EfmhCwpF+h0J9W3J8ciU0+EwGpl8rWxj4Z+6cTJsPwy9/aeCVD3qurMOL+Robjc33EZsvfLd2vjHqSCriF/8QNnvGlp0/cne8GVVsxC+0CDGlqdBzY01YbZQlmPkhkvsg==;qQesvdRe9jVPvMXa4cqwQw=="
+secured: "/Z/llu221BDc2fcCGK5cMFYqr+a4kO3aPSLf4OG+4XCL3GPTa2N21qZm/zKPMmmKiUH5esyd+v3dCTWXeyVrelZfl32XT3RLYsDLmvDkpen5m5zzuImWeMajHSqwUrf9iNyZBJPk/0/dqRiZ4gGHLRI8eNcN6TiY2fQPmHh4eI9M4PDurcVmHKq3Eo6qnwcwnMk7gC2cpADrhtqL4oqvTWuNW3/tpxFFjW+8f+tbOboA4C/dt9/ppsujuiKnVEv2j2t6oHSVyZz8ntgzoEyszM872jPjGXv0tTxyQFEkn6GA7idcnv5wJ+QO52zFZqXAaVlBOQw+CtAyPJ/UGK1Ad3MbMG3JgIzH5bhWoZJvBEc=;emyM7XpL+P/pM8LGTmWsHQ=="
 ---
 

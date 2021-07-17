@@ -2,19 +2,19 @@
 category: news
 title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
 excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
-publishedDateTime: 2021-07-16T17:57:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article252835123.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article252835123.html"
-ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252835123.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252835123.html"
+publishedDateTime: 2021-07-17T12:00:00Z
+originalUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
+webUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
+ampWebUrl: "https://amp.thenewstribune.com/news/local/article252835123.html"
+cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/local/article252835123.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: News Tribune
+  domain: thenewstribune.com
 
 topics:
   - Election
@@ -74,6 +74,6 @@ related:
         height: 433
         isCached: true
 
-secured: "LVU6B5gCREOnJ76hGj7RngUsXYAezYsgQK2YONY6gUMIOZjAElJKzwXYxGj531y0BoIOoAZhIwD7AWIOIrrN8+K6SyithBZlbFFbnepUl9kKdj0biu/mE/fkEDpu1lJnpG4z6Oj8CO3Jixny1iF6BbKgQlxCxA2Y0v4YOni7wbvWizSkhxJka3HbwzC+ZdEEeEQXdb97VZFtFE1XKoiKQr5+8SSvdXCOgUqN4VmJEwCTxq4Bc3bPdwhfJm36j5Hej9r7Lg0AK6jjRvFYwkUoJM6RIbBZMrXQ6SSmsidQhxb+zEMCyQj8z++eJNS2mroddmn7EXjXpeZQFBK7gx5SfppQ7xuNrBN02y5uogyzmshUrQvaQI4xl1GT1sULwRBrN364uWzlwYQ8IBF7XorDEhLWo9AuSNEiA98EhV2UugwYK1w7//WWZ18VZz2xTcl+YEFtno/eRKkKwO9kdP3orZ4WzYuQYyOxsSxfh6AuvlcD9Tkh9/M2AlvCDzl+lw1B0/Ps0XVNruNsz4UkXwWfYA==;wMBVCQbOHlO4nFa/qZIMeA=="
+secured: "yZiMPowexGnGIYtMn0QQQoXNwxDWwUkoKBFbh91aZydwWaBeeUcD5YYpmjtLddMVuYwk2hw1wSeNAlUai3KhBq91yVR4mHlfby0YNeCzrYjoQwc3KN0Znk3HAaeqkYzpX5Udr75WG0RRe2EYtyb+3lpJkiRbjMgvmhn6qcNDDwX71XE01FkcubxeZDz8kJoGmPzt0CTo9EwYoQsPfns5Jep8St4tXHdzlJyZZefASc6qq7H9PDq68m+FLIyar8F92sr2LqSFUavhnMAWkvoZrkF3e7/wmiElpqSZ1AQ0PICLhKi+UaJ5G8QSQxlDjj0qfCU2zExFHrCMzmPzIUzrWXmUsTRm8z7+v2wDkcSX2L0=;/FLwQcQgmg8OO//ZqZYP1g=="
 ---
 

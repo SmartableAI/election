@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-18-biden-pledges-appeal-of-deeply-disappointing-daca-ruling.md",
+      "title": "Biden pledges appeal of 'deeply disappointing' DACA ruling",
+      "excerpt": "He again called on Congress to pass the American Dream and Promise Act to \"finally provide security to all Dreamers, who have lived too long in fear.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-pledges-appeal-deeply-disappointing-daca-ruling-n1274280",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-pledges-appeal-deeply-disappointing-daca-ruling-n1274280",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490968/210714-biden-mb-13132.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1274280",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274280",
+      "publishedDateTime": "2021-07-17T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic.md",
+      "title": "Pence, Feenstra slam Dems for 'massive expansion of government' at picnic",
+      "excerpt": "Former VP Mike Pence decried policies of open borders, high taxes and \"abortion on demand,\" during a fundraiser for Rep. Randy Feenstra.",
+      "sourceUrl": null,
+      "webUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
+      "originalUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/2/0b/20bba3a4-5da0-56e3-847a-4c23bace4ff6/60f21602604a1.image.jpg?resize=1024%2C738",
+          "width": 1024,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
+      "cdnAmpWebUrl": "https://globegazette-com.cdn.ampproject.org/c/s/globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
+      "publishedDateTime": "2021-07-17T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Globe Gazette",
+        "domain": "globegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-trump-takes-a-hack-at-british-open-for-bypassing-his-scottish-golf-course.md",
+      "title": "Trump takes a hack at British Open for bypassing his Scottish golf course",
+      "excerpt": "Former President Trump teed off on the British Open Saturday for hosting the contest at the Royal St. George’s in Kent — rather than his Scottish course.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/17/trump-bashes-british-open-for-bypassing-his-scottish-course/",
+      "originalUrl": "https://nypost.com/2021/07/17/trump-bashes-british-open-for-bypassing-his-scottish-course/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-turnberry-004.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/17/trump-bashes-british-open-for-bypassing-his-scottish-course/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/17/trump-bashes-british-open-for-bypassing-his-scottish-course/amp/",
+      "publishedDateTime": "2021-07-17T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-arizona-ag-brnovich-urges-biden-to-reverse-reported-title-42-repeal-after-border-numbers-rise-again.md",
       "title": "Arizona AG Brnovich urges Biden to reverse reported Title 42 repeal after border numbers rise again",
       "excerpt": "FIRST ON FOX: Arizona Attorney General Mark Brnovich on Friday wrote to President Biden urging him to reverse a reported plan to rollback Title 42 public health protections that allow for the rapid expulsion of migrants at the southern border after figures show there were nearly 190,000 attempted crossings",
@@ -501,49 +649,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-17-pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic.md",
-      "title": "Pence slams Democrats for \"massive expansion of government\" at Feenstra picnic",
-      "excerpt": "While touting the Trump administration's accomplishments, former Vice President Mike Pence said Republicans need to roll up their sleeves and win back America from the \"radical",
-      "sourceUrl": null,
-      "webUrl": "https://qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.html",
-      "originalUrl": "https://qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/ef/6efedde6-fa03-57a9-a78b-f849174977ff/60f20fae9a50b.image.jpg?resize=1024%2C738",
-          "width": 1024,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.amp.html",
-      "cdnAmpWebUrl": "https://qctimes-com.cdn.ampproject.org/c/s/qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.amp.html",
-      "publishedDateTime": "2021-07-16T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quad-City Times",
-        "domain": "qctimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-07-17-biden-social-media-platforms-killing-people-with-misinfo.md",
       "title": "Biden: Social media platforms 'killing people' with misinfo",
       "excerpt": "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines",
@@ -608,7 +713,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 415,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1242,114 +1347,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-brianna-keilar-asks-john-bolton-if-trump-is-a-fascist.md",
-      "title": "Brianna Keilar asks John Bolton if Trump is a fascist",
-      "excerpt": "Former national security adviser John Bolton questions whether former President Donald Trump was capable of orchestrating a violent coup.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNoAeoRg0M4/john-bolton-trump-coup-fascism-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNoAeoRg0M4/john-bolton-trump-coup-fascism-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716090818-john-bolton-new-day-07162021-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/07/16/john-bolton-trump-coup-fascism-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/16/john-bolton-trump-coup-fascism-newday-vpx.cnn",
-      "publishedDateTime": "2021-07-16T06:15:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-disinformation-experts-doubt-authenticity-of-leaked-documents-describing-a-russian-plot-to-help-trump-in-2016.md",
-      "title": "Disinformation experts doubt authenticity of leaked documents describing a Russian plot to help Trump in 2016",
-      "excerpt": "Former US cyber security chief Chris Krebs warned that the papers obtained by the Guardian may themselves be part of a disinformation operation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/experts-doubt-leaked-docs-russia-plot-trump-2016-guardian-2021-7",
-      "originalUrl": "https://www.businessinsider.com/experts-doubt-leaked-docs-russia-plot-trump-2016-guardian-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60f15504016a320018836920?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/experts-doubt-leaked-docs-russia-plot-trump-2016-guardian-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/experts-doubt-leaked-docs-russia-plot-trump-2016-guardian-2021-7?amp",
-      "publishedDateTime": "2021-07-16T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

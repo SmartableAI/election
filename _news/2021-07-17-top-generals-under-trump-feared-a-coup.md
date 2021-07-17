@@ -206,20 +206,20 @@ related:
         height: 558
         isCached: true
   - title: "AP: Few AZ voter fraud cases, discrediting Trump's claims"
-    excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year’s presidential election that requi"
-    publishedDateTime: 2021-07-16T19:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year's presidential election that requi"
+    publishedDateTime: 2021-07-17T00:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7J4GEHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6cb8e888b3504625a9f4071c1556ff28_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
     excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."

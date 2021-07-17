@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 120
     images:
       - url: "https://i.guim.co.uk/img/media/1d11e17be4bb6a0ef9dcc201039dd764d82158db/0_234_6999_4199/master/6999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52cc80174ae54a594325e76480459b4f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "US democracy faces a momentous threat, says Joe Biden – but is he up for the fight?"
+    excerpt: "The president’s speech in Philadelphia decried Republicans’ assault on voting rights but critics say it offered few answers, especially on Senate rules that let the minority to block reform"
+    publishedDateTime: 2021-07-17T11:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/5842ee7cfa56347a9cdf4a5b9c2305c5f4cd5ff3/0_50_5702_3423/master/5702.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e3aa1af003f53c344217e2c42ffe4552"
         width: 600
         height: 360
         isCached: true

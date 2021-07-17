@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-18-pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic.md",
+      "title": "Pence, Feenstra slam Dems for 'massive expansion of government' at picnic",
+      "excerpt": "Former VP Mike Pence decried policies of open borders, high taxes and \"abortion on demand,\" during a fundraiser for Rep. Randy Feenstra.",
+      "sourceUrl": null,
+      "webUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
+      "originalUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/2/0b/20bba3a4-5da0-56e3-847a-4c23bace4ff6/60f21602604a1.image.jpg?resize=1024%2C738",
+          "width": 1024,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
+      "cdnAmpWebUrl": "https://globegazette-com.cdn.ampproject.org/c/s/globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
+      "publishedDateTime": "2021-07-17T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Globe Gazette",
+        "domain": "globegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-pence-says-hes-had-enough-of-biden-as-he-looks-to-escape-trumps-shadow-in-iowa.md",
       "title": "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa",
       "excerpt": "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n",
@@ -112,49 +155,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic.md",
-      "title": "Pence slams Democrats for \"massive expansion of government\" at Feenstra picnic",
-      "excerpt": "While touting the Trump administration's accomplishments, former Vice President Mike Pence said Republicans need to roll up their sleeves and win back America from the \"radical",
-      "sourceUrl": null,
-      "webUrl": "https://qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.html",
-      "originalUrl": "https://qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/ef/6efedde6-fa03-57a9-a78b-f849174977ff/60f20fae9a50b.image.jpg?resize=1024%2C738",
-          "width": 1024,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.amp.html",
-      "cdnAmpWebUrl": "https://qctimes-com.cdn.ampproject.org/c/s/qctimes.com/news/state-and-regional/govt-and-politics/pence-slams-democrats-for-massive-expansion-of-government-at-feenstra-picnic/article_26249d17-29bc-58cd-a04a-95e7bb99dc3c.amp.html",
-      "publishedDateTime": "2021-07-16T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quad-City Times",
-        "domain": "qctimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     },

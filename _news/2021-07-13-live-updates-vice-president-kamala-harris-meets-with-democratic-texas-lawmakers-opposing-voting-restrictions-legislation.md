@@ -280,6 +280,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
+    excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
+    publishedDateTime: 2021-07-17T00:00:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6048b1f33fb5d6da1a96ec6aa9f5ee83/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6048b1f33fb5d6da1a96ec6aa9f5ee83/TEXAS-DEMOCRATS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
     excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
     publishedDateTime: 2021-07-09T03:01:00Z

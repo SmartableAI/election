@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Charges cite Trump unrest in alleged plot on Democrats' HQ"
-    excerpt: "Federal prosecutors say a man living in California's wine country had five illegal pipe bombs and nearly 50 weapons at his home and shop as he conspired to firebomb the state Democratic Party headquar"
-    publishedDateTime: 2021-07-16T21:15:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/charges-cite-trump-unrest-alleged-plot-democrats-hq-78892352"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0b66bd009458456ea6a6c16dad5b3f24_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Senate demands Trump-era Attorneys General Bill Barr and Jeff Sessions testify about data seizure"
     excerpt: "Senate Democratic leaders are demanding that Trump-era Attorneys General Bill Barr and Jeff Sessions testify about the secret seizure of data from House Democrats in 2018."
     publishedDateTime: 2021-06-11T16:13:00Z
@@ -69,6 +53,22 @@ related:
     webUrl: "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php"
     ampWebUrl: "https://www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Charges cite Trump unrest in alleged plot on Democrats' HQ"
+    excerpt: "His attorney admits his client is in serious trouble, but said Friday that the alleged plot was nothing more than drunken talk between two buddies inflamed by the defeat of former president Donald Trump."
+    publishedDateTime: 2021-07-16T23:35:00Z
+    webUrl: "https://www.chron.com/news/article/2-charged-with-plotting-to-blow-up-Democratic-16318558.php"
+    ampWebUrl: "https://www.chron.com/news/amp/2-charged-with-plotting-to-blow-up-Democratic-16318558.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/2-charged-with-plotting-to-blow-up-Democratic-16318558.php"
     type: article
     provider:
       name: Houston Chronicle

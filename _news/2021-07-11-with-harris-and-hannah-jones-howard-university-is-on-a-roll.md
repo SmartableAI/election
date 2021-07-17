@@ -69,6 +69,22 @@ related:
         width: 5714
         height: 3809
         isCached: true
+  - title: "Kamala Harris taps California donors for Democratic fundraiser | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
+    publishedDateTime: 2021-07-16T14:54:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252835123.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252835123.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252835123.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
     excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."
     publishedDateTime: 2021-07-13T00:49:00Z

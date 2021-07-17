@@ -255,6 +255,22 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Joe Biden, Kamala Harris Set to Meet with Texas Democrats in D.C. Avoiding Special Session"
+    excerpt: "Biden and Harris, who have spent weeks advocating for broad federal voting rights measures, plan to meet in the coming days with dozens of Texas lawmakers."
+    publishedDateTime: 2021-07-13T21:47:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-kamala-harris-set-meet-texas-democrats-dc-avoiding-special-session-1609376"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-kamala-harris-set-meet-texas-democrats-dc-avoiding-special-session-1609376?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-kamala-harris-set-meet-texas-democrats-dc-avoiding-special-session-1609376?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1844956/texas-democrats-seek-support-voting-rights.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Hate mail sent to DuSable Museum threatens Joe Biden, Kamala Harris and Obama family, officials say"
     excerpt: "The Secret Service is investigating six threatening letters sent to the DuSable Museum of African American History that mention President Joe Biden, Vice President Kamala Harris and the Obama family,"
     publishedDateTime: 2021-04-27T22:59:00Z
@@ -931,6 +947,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/08/14/PWIL/931880a3-37ec-4b6a-a5c6-1f320274bded-COURTS_STOCK_IMAGE_STOCK.jpg?auto=webp&crop=1799,1012,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden, Harris: Protect voting rights to honor John Lewis"
+    excerpt: "President Joe Biden and Vice President Kamala Harris on Saturday both marked the one-year anniversary of U.S. Rep. John Lewis's death by urging Congress to enact laws"
+    publishedDateTime: 2021-07-17T19:09:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.html"
+    ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.amp.html"
+    cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.amp.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 90
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/c7/8c7c0b84-76b4-536a-88d7-b695957fad15/60f32cbcd6266.image.jpg?resize=1024%2C704"
+        width: 1024
+        height: 704
         isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
