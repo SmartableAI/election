@@ -1,20 +1,22 @@
 ---
 category: news
-title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
-excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
-publishedDateTime: 2021-07-13T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
-webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
+title: "Democrats See Edge in Early Senate Map as Trump Casts Big Shadow"
+excerpt: "Early fund-raising has given Democrats cause for optimism in key states as Republicans split over how closely to align with Donald Trump’s preferences."
+publishedDateTime: 2021-07-17T09:00:00Z
+originalUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.html"
+webUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
 type: article
-quality: 114
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static01.nyt.com/images/2021/07/16/us/politics/16senate-map1sub/16senate-map1sub-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -206,22 +208,6 @@ related:
         width: 2500
         height: 1748
         isCached: true
-  - title: "Democrats See Edge in Early Senate Map as Trump Casts Big Shadow"
-    excerpt: "Early fund-raising has given Democrats cause for optimism in key states as Republicans split over how closely to align with Donald Trump’s preferences."
-    publishedDateTime: 2021-07-17T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/16/us/politics/16senate-map1sub/16senate-map1sub-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Indicted Trump CFO removed from top roles at organization's subsidiaries"
     excerpt: "Trump Organization chief financial officer, Allen Weisselberg, has been removed from his top positions at more than two dozen of the company's subsidiaries. Weisselberg was indicted on tax fraud charges,"
     publishedDateTime: 2021-07-13T17:27:00Z
@@ -254,7 +240,21 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
+    excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
+    publishedDateTime: 2021-07-13T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "pHl3nN9OoRIGkOK76ixk6ASciAyMoG32cxPJVlo7uQq/l74ZSJM/P20IxCBiIie53N3DdFvFLpUlzcTPYL2MGTrD+Xu0fk+u7lYxN2j2JofYjUhrB8O/OVRgBg7u9jDH3ol8n2j5UkIvOin1KewvXzFxyJfL6Gk+UCXLhYN5OMvq81F32A3BxNN8z15ZwZScBn3AgZwjNyuXe9Cw/SUhHC/lkY2+H/FHSD/5EIO5GPPXHTf49TS24f3sjXfqWvULGNng2zpeaZuh/dY/EFaWAKRR5I2A5W1FmLcqEnIX3jpU1iEoWXagxW6b6y4wrBEdd1WExjIOOa2vzvJZ074TNW//NRKaM2PLRhcGkjxVE5rgsCzEBrin9omn8s54peTgIuNACLDRi7gODjxkl5efAURgbjzokyvCrVLp/Gu2E4fPuelB3no2H4gQ0Q/EkBJHqHBHLKAl75xM67rFD6ip5S46tx6UiCGmpW6/Db6rg+M7gnhm+6G1SCp1J+DwoDV29UvjcTrT4YVHEKR1XeuuDA==;qV3x+t9acVI1UqmSlHwgsw=="
+secured: "hIe5uOTqL2ygsDaU7ca0xsqkxnaeBPdGICtNKSe4JkraSCX2udU+vANdEoc8YkUkgi6zLBV5Ev6KIrne7kJzb2Skr5VV59fL0UEPo2c3HEPxBLlbAfS/JfRhOpZMqF7ku2IDhToLQYHLcvz+0yPIcwmTykHFx9MjYgab7ExosXy0fHbLysVwny4Alf9a0lamRMCFwQd/3yLEgSZ+VJOzirIeF6mZzC7plgoFQZ4vuaFfNoBLVNx/w0SfU31QxqyDUfZJzIvSXYcpQPapw6j7YvLbYnm4ZObgA0S8kIrL/StywlTLR2y3QwzxL/u1JMX5AkAp69LE22Hs4GfR8CPhBy6wKadbee4L17AckEjIhBE=;oeq2IIIel7hMZ8l5uiGbDg=="
 ---
 

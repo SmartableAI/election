@@ -32,12 +32,14 @@ related:
   - title: "Biden: Social media platforms 'killing people' with misinfo"
     excerpt: "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines"
     publishedDateTime: 2021-07-16T21:51:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-social-media-platforms-killing-people-misinfo-78891898"
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 105
+    quality: 125
     images:
       - url: "https://s.abcnews.com/images/US/WireAP_1309cc2417da42a6bf73d9ba56a2c76e_16x9_992.jpg"
         width: 992

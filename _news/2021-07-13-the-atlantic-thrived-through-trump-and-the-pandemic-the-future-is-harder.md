@@ -208,6 +208,22 @@ related:
         width: 2500
         height: 1748
         isCached: true
+  - title: "Democrats See Edge in Early Senate Map as Trump Casts Big Shadow"
+    excerpt: "Early fund-raising has given Democrats cause for optimism in key states as Republicans split over how closely to align with Donald Trump’s preferences."
+    publishedDateTime: 2021-07-17T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/17/us/politics/2022-senate-elections.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/16/us/politics/16senate-map1sub/16senate-map1sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Indicted Trump CFO removed from top roles at organization's subsidiaries"
     excerpt: "Trump Organization chief financial officer, Allen Weisselberg, has been removed from his top positions at more than two dozen of the company's subsidiaries. Weisselberg was indicted on tax fraud charges,"
     publishedDateTime: 2021-07-13T17:27:00Z
