@@ -47,22 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "McConnell calls for Biden to withdraw nominee linked to eco-terrorist plot"
-    excerpt: "EXCLUSIVE: Senate Minority Leader Mitch McConnell is calling on President Biden to \"immediately\" pull Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director over her link to an eco-terrorist plot and her apparently misleading answers to senators about it. "
-    publishedDateTime: 2021-07-16T16:41:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ftWcvMnEJHM/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden calls on GOP to protect voting rights 'for God's sake' in fiery address"
     excerpt: "In a fiery address Tuesday, President Biden called on Republican lawmakers to protect voting rights and counter laws that place restrictions on the ballot."
     publishedDateTime: 2021-07-13T20:58:40Z

@@ -28,69 +28,99 @@ images:
     isCached: true
 
 related:
-  - title: "‘Where is Biden?’ chant breaks out at Florida protest in support of Cuba"
-    excerpt: "A protest broke out in Tampa, Florida, on Tuesday in support of the anti-government protesters in Cuba and participants appealed to the Biden administration to take a firmer stance on the crackdown in Havana."
-    publishedDateTime: 2021-07-14T04:24:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IbvrFFW4wC0/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp"
+  - title: "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning"
+    excerpt: "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management."
+    publishedDateTime: 2021-07-17T13:27:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning"
+    ampWebUrl: "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "DeSantis calls on Biden to ‘step up’ in helping restore internet to Cuba"
-    excerpt: "Florida Gov. Ron DeSantis on Thursday called on President Biden needs to help restore internet to Cuba after it was shut down by authorities in an effort to clamp down on the spread of information amid protests that broke out on the island nation."
-    publishedDateTime: 2021-07-15T21:37:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyDNMCFfhJ8/desantis-calls-biden-step-up-helping-restore-internet-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/desantis-calls-biden-step-up-helping-restore-internet-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-calls-biden-step-up-helping-restore-internet-cuba.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18a6cae7-fb38-4b57-a91b-614f000b8fd0/350b211e-b183-4ce9-a64f-3c54b3608a00/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Cruz calls out Biden's State Department amid reports of Cuba’s crackdown on protesters"
-    excerpt: "Sen. Ted Cruz, R-Texas, on Monday questioned an early tweet from the U.S. State Department that seemed to assure Americans that the right to peaceful assembly is observed in Cuba amid new reports of a punishing crackdown by the government and an emerging “list of missing persons.”"
-    publishedDateTime: 2021-07-13T05:13:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UyLU25eTpJA/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters.amp"
+  - title: "McConnell calls for Biden to withdraw nominee linked to eco-terrorist plot"
+    excerpt: "EXCLUSIVE: Senate Minority Leader Mitch McConnell is calling on President Biden to \"immediately\" pull Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director over her link to an eco-terrorist plot and her apparently misleading answers to senators about it. "
+    publishedDateTime: 2021-07-16T16:41:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ftWcvMnEJHM/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "'Your World' on Biden withdrawing troops, Florida recovery efforts"
-    excerpt: "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there."
-    publishedDateTime: 2021-07-09T15:28:00Z
-    webUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts"
-    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
+  - title: "Biden's ICE nominee angers all sides, says drop in illegal immigrant arrests is 'concerning'"
+    excerpt: "President Joe Biden’s pick to lead Immigration and Customs Enforcement (ICE) said Thursday the drop in arrests by the agency in recent months is \"concerning\" -- while saying he wanted to move \"aggressively\" against illegal immigrants who pose a threat to communities in the U.S."
+    publishedDateTime: 2021-07-15T23:22:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I84uBTq3Dgo/bidens-ice-nominee-angers-all-sides-says-drop-in-illegal-immigrant-arrests-concerning"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-ice-nominee-angers-all-sides-says-drop-in-illegal-immigrant-arrests-concerning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-ice-nominee-angers-all-sides-says-drop-in-illegal-immigrant-arrests-concerning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5455c37c-da8b-4fec-add5-17be85ed9048/9481676c-fd58-416d-9cc0-c3cf4e791cb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Lead investigator of ecoterrorist plot involving Biden nominee says she was the 'nastiest of the suspects'"
+    excerpt: "The lead Forest Service investigator of the ecoterrorist plot involving President Biden's Bureau of Land Management (BLM) director nominee is pushing back against Tracy Stone-Manning's testimony."
+    publishedDateTime: 2021-07-15T13:54:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect"
+    ampWebUrl: "https://www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e271dbb-447d-4ecc-a8e2-135035d09617/2d5ba43a-074d-4c89-9aef-ccd4937540c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Gutfeld!' on Biden's blast to voting laws, halting of Lego gun sales"
+    excerpt: "In some of his strongest language yet, President Biden today blasting Republican efforts to restrict voting access as un-American and a test of our democracy. UNIDENTIFIED MALE: President Biden late today in Philadelphia,"
+    publishedDateTime: 2021-07-15T11:15:00Z
+    webUrl: "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales"
+    ampWebUrl: "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Newspaper declares Biden boring; Washington has never felt duller"
+    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
+    publishedDateTime: 2021-07-14T07:10:00Z
+    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Kyqt5xlRXv4KoZpr8O1Rj0YkHSTHhtMy1AGDomUaC0h/1YFRXl9CVH5sqdUjoJxfSbQ7Jzb+GkZyXVZKKx/MGCvNExBPrSuk4aVHT1WkwwFZna2c7ZNuHfMQSv0LAqiQn0dQsMde7tNabvMTamuDuXJjvGUZggXpM0U6bGBnXP6mTvw21B9Tubd7ZfmtE5wkYAG8VDHaIHNaSziqL45bQyy1z2tFlyxrcnRLH0E4QVhIeG35yWA+zJja6JCVZu/NrAWpqlk/RnPUTxmf44poNIZ0C2fUpOFJslk78QDTSz8wbfAbmAeKb8V9oet+tk4RHfOo2+G/uu4M6sjXPFUaYIVnXBNEtZhq/VoFANyYqGHg7GxlEaTngOrBDVb14ByQPwtfpWsgglf+qVQGpWsGGIMMVmXyF5K6CisXLJFNP3tk0e31NpsPDmPCA5x5jcNiu0K6rJHdLLDKloqpAGv5kHlxLJ5Bw0sgjh0sfwJtgg/YwHRPt9WfDrY0fEjh9JIsG0AT/SLxpSNnIli4ePDs+A==;Rsd+T36QFEbYr10Fy0kNKw=="

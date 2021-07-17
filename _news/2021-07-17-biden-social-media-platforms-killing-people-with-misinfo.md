@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-social-media-pla
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says Covid-19 misinformation is 'killing people' – video"
+    excerpt: "Joe Biden says social media platforms such as Facebook 'are killing people' for allowing misinformation about coronavirus vaccines to be posted."
+    publishedDateTime: 2021-07-17T10:01:00Z
+    webUrl: "https://www.theguardian.com/technology/video/2021/jul/17/biden-says-covid-19-misinformation-is-killing-people-video?via=indexdotco"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/de7edacece93403f08d75094c0d0440e5f1f8247/0_15_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=458fed88c7b2a2eee5e48de906d4f44d"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden: Virus disinformation is 'killing people'"
     excerpt: "As he left the White House for Camp David Friday afternoon, President Joe Biden warned the unchecked spread of disinformation about COVID-19 and vaccines is having deadly consequences. (July 16)"
     publishedDateTime: 2021-07-16T20:03:00Z

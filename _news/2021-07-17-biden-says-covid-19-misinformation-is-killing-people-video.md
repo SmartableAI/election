@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Biden: Virus disinformation is 'killing people'"
-excerpt: "As he left the White House for Camp David Friday afternoon, President Joe Biden warned the unchecked spread of disinformation about COVID-19 and vaccines is having deadly consequences. (July 16)"
-publishedDateTime: 2021-07-16T20:03:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/16/biden-virus-disinformation-killing-people/7996321002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/16/biden-virus-disinformation-killing-people/7996321002/"
+title: "Biden says Covid-19 misinformation is 'killing people' – video"
+excerpt: "Joe Biden says social media platforms such as Facebook 'are killing people' for allowing misinformation about coronavirus vaccines to be posted."
+publishedDateTime: 2021-07-17T10:01:00Z
+originalUrl: "https://www.theguardian.com/technology/video/2021/jul/17/biden-says-covid-19-misinformation-is-killing-people-video?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/video/2021/jul/17/biden-says-covid-19-misinformation-is-killing-people-video?via=indexdotco"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d6fe8e2f-34ae-4357-a382-066be3edcbb5_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://i.guim.co.uk/img/media/de7edacece93403f08d75094c0d0440e5f1f8247/0_15_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=458fed88c7b2a2eee5e48de906d4f44d"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -45,19 +45,19 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden says Covid-19 misinformation is 'killing people' – video"
-    excerpt: "Joe Biden says social media platforms such as Facebook 'are killing people' for allowing misinformation about coronavirus vaccines to be posted."
-    publishedDateTime: 2021-07-17T10:01:00Z
-    webUrl: "https://www.theguardian.com/technology/video/2021/jul/17/biden-says-covid-19-misinformation-is-killing-people-video?via=indexdotco"
+  - title: "Biden: Virus disinformation is 'killing people'"
+    excerpt: "As he left the White House for Camp David Friday afternoon, President Joe Biden warned the unchecked spread of disinformation about COVID-19 and vaccines is having deadly consequences. (July 16)"
+    publishedDateTime: 2021-07-16T20:03:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/16/biden-virus-disinformation-killing-people/7996321002/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/de7edacece93403f08d75094c0d0440e5f1f8247/0_15_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=458fed88c7b2a2eee5e48de906d4f44d"
-        width: 1200
-        height: 630
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d6fe8e2f-34ae-4357-a382-066be3edcbb5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden says Facebook, others 'killing people' by carrying COVID misinformation"
     excerpt: "U.S. President Joe Biden on Friday said social media platforms like Facebook (FB.O) \"are killing people\" for allowing misinformation about coronavirus vaccines to be posted on its platform, as the administration continued criticizing the company."
@@ -74,6 +74,6 @@ related:
         height: 628
         isCached: true
 
-secured: "aWG3EWG4LDLJMDe4uaUayNvxRH6Uz2/55t4mWAPVGIIF06SlZ4rcwKUVs6eQV4Aj0oar2ljwNRcvn3bfbnej3bySEF3UQfVi/QXLP3NjExtbbKm55ZQlP7HRh7mqsac6wteBrCzu6YDA9Fgv0z1Rz3q1uttblE3Nkla6WIN4TzGvrk/6QNlr/ta74a72K+MIbXUlrtRnfUGJvWwpUM5mj2CG2ZkKQnRh8ro5BySznUCqg/wZ3zUW5P+Ql/V3pTpAAMQaHPAvEMeyUHclPZbP6Vu+lVY0dr5DJejrke6k9c/GNzzxLR0CEylP/mNE7ZvjObyTKS7t8Yrb8cxJFq/5rcb4AdYoOOwt33jxQcJpFro=;bFX2Abdml1/Jaya/RgsUCA=="
+secured: "mtHggUaT2F+Vuos8igspG0/Yh5e3Eg0sisczcGWdeJNFGfDpj9ccT8J1GDeC9P0IMyw7nC1N3msUsikCCJVSPhVx+4HbLJOX4MojozokuC5eM3e9RsonC2EIcrF4fsPQsiz+czhL6cUcldkI6r6jrpPY7Q8RHCytoF5wjdsArG7vXea08dUYa28KkUNX9fVKVO6VA8SbFelxN4F2ArWHmemgGN473+pkoKKIAOcvG9AevedAF/JQBTdnUjP08AyOn338lxCtYklJGizdFNgKtQjaN4obVzipAThH/lDppTx0ZQRyA/fFgZ0cRQGDpGbvyvtJR54C+A3v8oX035lZNgUV1cm5Kfzllkry9QfSkoY=;pvugiXT3IGw4+aNjpAqhpw=="
 ---
 

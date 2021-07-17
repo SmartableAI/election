@@ -31,37 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Biden fires Social Security Commissioner Andrew Saul, who says he isn't leaving"
-    excerpt: "President Biden fired Social Security Commissioner Andrew Saul on Friday amid an ongoing dispute over his leadership of the independent agency responsible for administering retirement and disability benefits."
-    publishedDateTime: 2021-07-09T22:27:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp"
+  - title: "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning"
+    excerpt: "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management."
+    publishedDateTime: 2021-07-17T13:27:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning"
+    ampWebUrl: "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden on Guns: \"It Seems Like Most Of My Career I've Been Dealing With This Issue\""
-    excerpt: "President Joe Biden on Monday held a roundtable with American city leaders to discuss gun violence and reform. Biden said \"stemming the flow of firearms\" that are meant to commit violent crimes is something that works."
-    publishedDateTime: 2021-07-12T22:22:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
+  - title: "McConnell calls for Biden to withdraw nominee linked to eco-terrorist plot"
+    excerpt: "EXCLUSIVE: Senate Minority Leader Mitch McConnell is calling on President Biden to \"immediately\" pull Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director over her link to an eco-terrorist plot and her apparently misleading answers to senators about it. "
+    publishedDateTime: 2021-07-16T16:41:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ftWcvMnEJHM/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Lead investigator of ecoterrorist plot involving Biden nominee says she was the 'nastiest of the suspects'"
+    excerpt: "The lead Forest Service investigator of the ecoterrorist plot involving President Biden's Bureau of Land Management (BLM) director nominee is pushing back against Tracy Stone-Manning's testimony."
+    publishedDateTime: 2021-07-15T13:54:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect"
+    ampWebUrl: "https://www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e271dbb-447d-4ecc-a8e2-135035d09617/2d5ba43a-074d-4c89-9aef-ccd4937540c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Gutfeld!' on Biden's blast to voting laws, halting of Lego gun sales"
+    excerpt: "In some of his strongest language yet, President Biden today blasting Republican efforts to restrict voting access as un-American and a test of our democracy. UNIDENTIFIED MALE: President Biden late today in Philadelphia,"
+    publishedDateTime: 2021-07-15T11:15:00Z
+    webUrl: "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales"
+    ampWebUrl: "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Newspaper declares Biden boring; Washington has never felt duller"
+    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
+    publishedDateTime: 2021-07-14T07:10:00Z
+    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Are the Good Times Over for Biden?"
+    excerpt: "Are the Democrats headed for their Little Bighorn, with President Joe Biden as Col. Custer? The wish, you suggest, is father to the thought. Yet, consider."
+    publishedDateTime: 2021-07-13T10:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 79
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/547929.jpg"
-        width: 1008
-        height: 756
+      - url: "https://assets.realclear.com/images/54/547933_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "YUANJMrJKCQ/MhYsjN3JWbGF4F1sjRb5HRtAU3XZQ+rjZHtJqwPaXJjv+k8MutfHsKk4XNUkqSxt39hQgyq+uURLukjzs5GElN2MXlYgSS5jRz3dCODOEGmEdji8JbGFjo0bC0li76TY1CGf4bE2smedsmbKJtvHyHXx9eSyLilp5hSXmYcCwW6sCYqIdtEpx8U3jDV962qDgeN9X4ovo6+NQ0x1SDF0xlEIVqc18pfdpZc1Xl56trerftio/MOAzUfg2ivNR8XVGhuDToW90WYecTAKKe7Eo2jBF955Sx0vRIVwpkjGTFLqdtv5sZzzdkogSRmQUJQPA3etQiKJNzejoHZC32y+vfHwuc4SWiw=;XhA/1v/IY46P8J/Qf/LMCg=="

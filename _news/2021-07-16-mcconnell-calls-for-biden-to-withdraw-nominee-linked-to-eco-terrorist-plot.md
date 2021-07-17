@@ -31,53 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell condemns Biden fury over GOP voting reform as 'utter nonsense'"
-    excerpt: "Senate Minority Leader Mitch McConnell on Wednesday condemned a fiery speech by President Biden as “utter nonsense” for alleging GOP voting reform laws were comparable to the Civil War."
-    publishedDateTime: 2021-07-15T01:36:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UlAfIHWo4o/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp"
+  - title: "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning"
+    excerpt: "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management."
+    publishedDateTime: 2021-07-17T13:27:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning"
+    ampWebUrl: "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f38ee14-d816-4591-864f-dac261609a32/60b2a75e-81f7-4c1a-956c-dc27519da183/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "McConnell doesn't want to stop 'everything' Biden proposes, just the 'worst'"
-    excerpt: "Senate Minority Leader Mitch McConnell said Thursday the goal of Senate Republicans is not to stop \"everything\" President Biden proposes – just the \"worst.\""
-    publishedDateTime: 2021-07-08T20:02:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OBQSw4Jidg/mcconnell-biden-worst-proposals"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-worst-proposals.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-worst-proposals.amp"
+  - title: "Biden's ICE nominee angers all sides, says drop in illegal immigrant arrests is 'concerning'"
+    excerpt: "President Joe Biden’s pick to lead Immigration and Customs Enforcement (ICE) said Thursday the drop in arrests by the agency in recent months is \"concerning\" -- while saying he wanted to move \"aggressively\" against illegal immigrants who pose a threat to communities in the U.S."
+    publishedDateTime: 2021-07-15T23:22:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I84uBTq3Dgo/bidens-ice-nominee-angers-all-sides-says-drop-in-illegal-immigrant-arrests-concerning"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-ice-nominee-angers-all-sides-says-drop-in-illegal-immigrant-arrests-concerning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-ice-nominee-angers-all-sides-says-drop-in-illegal-immigrant-arrests-concerning.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden calls on GOP to protect voting rights 'for God's sake' in fiery address"
-    excerpt: "In a fiery address Tuesday, President Biden called on Republican lawmakers to protect voting rights and counter laws that place restrictions on the ballot."
-    publishedDateTime: 2021-07-13T20:58:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2anQW0pSpME/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5455c37c-da8b-4fec-add5-17be85ed9048/9481676c-fd58-416d-9cc0-c3cf4e791cb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Lead investigator of ecoterrorist plot involving Biden nominee says she was the 'nastiest of the suspects'"
+    excerpt: "The lead Forest Service investigator of the ecoterrorist plot involving President Biden's Bureau of Land Management (BLM) director nominee is pushing back against Tracy Stone-Manning's testimony."
+    publishedDateTime: 2021-07-15T13:54:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect"
+    ampWebUrl: "https://www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e271dbb-447d-4ecc-a8e2-135035d09617/2d5ba43a-074d-4c89-9aef-ccd4937540c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Gutfeld!' on Biden's blast to voting laws, halting of Lego gun sales"
+    excerpt: "In some of his strongest language yet, President Biden today blasting Republican efforts to restrict voting access as un-American and a test of our democracy. UNIDENTIFIED MALE: President Biden late today in Philadelphia,"
+    publishedDateTime: 2021-07-15T11:15:00Z
+    webUrl: "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales"
+    ampWebUrl: "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Newspaper declares Biden boring; Washington has never felt duller"
+    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
+    publishedDateTime: 2021-07-14T07:10:00Z
+    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Are the Good Times Over for Biden?"
+    excerpt: "Are the Democrats headed for their Little Bighorn, with President Joe Biden as Col. Custer? The wish, you suggest, is father to the thought. Yet, consider."
+    publishedDateTime: 2021-07-13T10:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547933_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "X2tCVgx5IWFzipWMS5TejiBge/V1vFQuqv0FYeOldbM59a+RexXBH4zWekGLWM7H06UuP2OQSPNAjexNat9TNOF3ATDkc6Man+omt17hth0GJDUbh/RX5BD7PbSoQsrFXWq6cywqsP6jVbT5GT0r6EZx8sYTyLRR1b3QNObdVzbsMqD+URTs7a6BemmlbAt/rVPkWW7xilKr57RcAmlYxuP47TR/0BKgk2WHnpUSRwqsl7kxHEIOULvlk0FF1HkFXuH+qp724ehVsiFU04DoKnHbge9iHzWmG1ZhJmqnN1KUQpnR8rpt0wdO1GkSGtygoSMDhf9Jl2Gj8imrna00TTi2mwZy9uQjjYwMUHwaW5A=;M3QiEvOIt08sRvXOC2dGig=="

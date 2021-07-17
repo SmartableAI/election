@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp"
 type: article
 quality: 174
-heat: 254
+heat: 234
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Are the Good Times Over for Biden?"
-    excerpt: "Are the Democrats headed for their Little Bighorn, with President Joe Biden as Col. Custer? The wish, you suggest, is father to the thought. Yet, consider."
-    publishedDateTime: 2021-07-13T10:33:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/547933_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "TNqzWSiZE/72qozHBQBtqWg0sIVO8rblqD0RaxnDmVw5+3mD+H3eCTPuVZM7oXqZYHr2NDJL8JjZO9F0qjL/HTEfpIS434C/bpU0CC8LllEDRKu4FDONfnOB7NFJeZie9mGBtFXN7Coh/Lz2y5cDmNY4Pz9yAFu8pL1/Xs9nCy6srcgnUR26eVUkdDm3APUIKfWR+6GhWupM2U1Tio4DsHuVPp3nu7jj6dPk2YPSjzJTUjnWcYOuPQWPUF9DsOd+kXhha8SxGZ7y8g2qBcgEgS5bX9Z/PoPsaKsbGXwVbyuMwCkdhaDtYCkPWDB7noKEHG0i1XQqmjfFb4wU3ZJVNe450JHD4I6GxxXOk9bje9E=;W/ehCrwbH3HjfJ8qqtsVOA=="

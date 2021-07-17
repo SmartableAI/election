@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Lead investigator of ecoterrorist plot involving Biden nominee says she was the 'nastiest of the suspects'"
-excerpt: "The lead Forest Service investigator of the ecoterrorist plot involving President Biden's Bureau of Land Management (BLM) director nominee is pushing back against Tracy Stone-Manning's testimony."
-publishedDateTime: 2021-07-15T13:54:49Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect"
-ampWebUrl: "https://www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+title: "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning"
+excerpt: "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management."
+publishedDateTime: 2021-07-17T13:27:39Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning"
+ampWebUrl: "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
 type: article
-quality: 157
-heat: -1
-published: false
+quality: 175
+heat: 295
+published: true
 
 provider:
   name: Fox News
@@ -25,28 +25,12 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e271dbb-447d-4ecc-a8e2-135035d09617/2d5ba43a-074d-4c89-9aef-ccd4937540c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
-  - title: "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning"
-    excerpt: "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management."
-    publishedDateTime: 2021-07-17T13:27:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning"
-    ampWebUrl: "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "McConnell calls for Biden to withdraw nominee linked to eco-terrorist plot"
     excerpt: "EXCLUSIVE: Senate Minority Leader Mitch McConnell is calling on President Biden to \"immediately\" pull Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director over her link to an eco-terrorist plot and her apparently misleading answers to senators about it. "
     publishedDateTime: 2021-07-16T16:41:44Z
@@ -76,6 +60,22 @@ related:
     quality: 164
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5455c37c-da8b-4fec-add5-17be85ed9048/9481676c-fd58-416d-9cc0-c3cf4e791cb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Lead investigator of ecoterrorist plot involving Biden nominee says she was the 'nastiest of the suspects'"
+    excerpt: "The lead Forest Service investigator of the ecoterrorist plot involving President Biden's Bureau of Land Management (BLM) director nominee is pushing back against Tracy Stone-Manning's testimony."
+    publishedDateTime: 2021-07-15T13:54:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect"
+    ampWebUrl: "https://www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e271dbb-447d-4ecc-a8e2-135035d09617/2d5ba43a-074d-4c89-9aef-ccd4937540c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -126,6 +126,6 @@ related:
         height: 500
         isCached: true
 
-secured: "V2AQ/3Xj0er+viIETZ5al9CMrdkGj/Ra00UWAq3Cbc4NOFJAvRU1MwlHl9l/HaVcpMPAlkxx9Ll646Be9png2blwdjtysGyaptF/1C7ONo37UvM6dw53zp7xJo/ROAw7FrhxCUa72tQbxSLLvhSmu5qKvvcvkDu4sTpN6EIVRo6pBV9Kp+VFVVvQz0Km3fFUNsH7rOqpnTxuPoMUCmblL9NpibHGsn1GYf+KXm4R98BmVq2aB79fWSCbTsrnx/kke8oMq46JaFV9ITwcgAshEzqNbPzTUSeEE9+UC0zo28/CdlO5aj6JNVittypyZ7JQK/pyw72WrDFOXe3BiM6GvVAoqzy9lt5cHdlWX9kixa4=;ZOhMYMqT0BzvHBOlzSDX2g=="
+secured: "a5DYKcwifGvDuvPNYrTqaPJmTZJVRY/4OR+XvZd9TM/FHhej7P9Qo0gO9AWiAbnunAp992vj8hIvApmaA9TmyibJxU4oWloSi3QIkjzu0rguFNgVZ7ODXx/4/NBDk4F7QMyq97lmaXFe6z5OL0yeJ5rGksLIZ2UrJPv8tGzaaUAaJu1oD2vYCsVh4AUnhItaDxEQAteXvqlcNU9rIK1E+/9fLA2SiGgzxog0uvwZK/GSn3KvmgkCUyS4I4hq4NAQgi1JfM03XpV3QZMmObm3XiPrIV5089N12+pLPIHTxcxZLRmPXyJ20BJ0Y6NJCMK05HJiV/BKEH5efQ+zxsJKvFwuiL+/PQPZ2AyGmq8aQ7A=;qsGB5GFvcUlsZ85XTOAoxA=="
 ---
 
