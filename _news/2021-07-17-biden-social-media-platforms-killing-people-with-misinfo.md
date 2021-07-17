@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-social-media-pla
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden says Facebook, others 'killing people' by carrying COVID misinformation"
+    excerpt: "U.S. President Joe Biden on Friday said social media platforms like Facebook (FB.O) \"are killing people\" for allowing misinformation about coronavirus vaccines to be posted on its platform, as the administration continued criticizing the company."
+    publishedDateTime: 2021-07-16T21:45:00Z
+    webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/white-house-says-facebooks-steps-stop-vaccine-misinformation-are-inadequate-2021-07-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://www.reuters.com/resizer/vdH6AigbX3vlKTHUBpdTHsGRYIc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4BXXPSHJLFJZLDJ6ITX527BNOI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "tJsC6Z4IbrJcmbcbucLk+M/Rpavnpa6yiJ2SLrkOOgSdH5E4vHrKw0faYajxK0M8LSPE82QbDZqeZfDvEE2UsYw/Ke5sbmUwmoVxZpwKEike89ZWCjK/OoHEWjK/CkY9daMJuRPqoYFqrP07RjFeHp8cXdyk/CEyEfNWQZyFGVd9QNrcjmVkgbr/hyZauT4Oz7EumgkpkB13jt2r+pgBTclvFL9GyxsKmg4mQl/6BG7xFDgq7IUak0U6yohYPQyjqWtnXPoFRG3PkMv+BVqYHRg9xUceYx0meby7/OBhLQE/A2qht+nnzjQfTwiXz9LtpyGw/L8wkzV+h09eZIJqFJPwvPVIFp4rXEVbel+gYCs=;W4jmfrk/IZsyq0JncYJ9YA=="
+secured: "CGCIwAHat7VNsniIr9QYywwXfQxSVHDSaur9n2hkMV9+mKtyG4zK54td0wgT66F4XBRj8r9zHYxWhvuS1gOD7lu5caLEWQ34t9YjG//SQlTzK4Qvmc0Mfctz5mW2e2y7nJA/hjxrnpN0UGbgv6+2INMQFvCGldwMT95hBLHD8ljTi6lzcm0W+C8dJ3NTyl6qWoCBNO8PTmbtTYH5WdKFL8K6MDZYNITsp7K6d4DoHcRIdB0dQ2oC1/mUQLvR7V/dCs/MO2bTi5xEdZgm4vHzgezRResMt0Vewp3e0q1srkBEgtsticGgaTeeC0Na6BZHalr5wcvmWoujaX0+LniYcZ6AlyTwLC48wnQ2mKUEKfQ=;IjNwoqMvrMaxkbZgkcZcbA=="
 ---
 

@@ -31,22 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Down the drain for Trump showerhead rule on more water flow"
-    excerpt: "The Biden administration is reversing a Trump-era rule approved after the former president complained he wasn’t getting wet enough because of limits on water flow from showerheads. Now, with a new president in office,"
-    publishedDateTime: 2021-07-16T16:25:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
+  - title: "Down the Drain for Trump Showerhead Rule on More Water Flow"
+    excerpt: "The Biden administration is reversing a Trump-era rule on showerheads that was approved after then-President Donald Trump complained he couldn’t get wet enough because of limits on their water flow."
+    publishedDateTime: 2021-07-16T12:59:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-07-16/trump-showerhead-rule-to-increase-water-flow-getting-dumped"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-07-16/trump-showerhead-rule-to-increase-water-flow-getting-dumped?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-07-16/trump-showerhead-rule-to-increase-water-flow-getting-dumped?context=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "nGvQk5/CK85gwLiue/NWm5m8sYFGNdJVY6AMfRJZEgT7Qe72N42/GS/8KHsyX03cIC0JOqWfsWhmKVgJbbCdNq51BJWK5bI9/VRbtcrtG63ai8k+sxd/cnGTwrxXXHsO2yWywo9J6LJT3nIUYC+HhcAluORLoKFxEsvuI+fxtpzeMEFW+Bn9IBpyYDVmZPhIOD2WyJXayfFkWT0gDWvt7Cq10fwtfZU7GqJoEfLgWz6p7GEX5Pxiv4t83yg3QOyLDuuE87ClJW5AEUcPL5xbx+7qN0FFKWpO2wUBRRg6YIujWISR8EHAFsc2yp0aCtbVVdk3lEdx0E13dFHBZZnn5P/Nf0LlQGCKRQKx7uXMWjk=;Zwk+7U8CUeQOaSKBnh8CXA=="
 ---

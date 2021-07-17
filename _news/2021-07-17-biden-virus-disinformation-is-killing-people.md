@@ -45,6 +45,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says Facebook, others 'killing people' by carrying COVID misinformation"
+    excerpt: "U.S. President Joe Biden on Friday said social media platforms like Facebook (FB.O) \"are killing people\" for allowing misinformation about coronavirus vaccines to be posted on its platform, as the administration continued criticizing the company."
+    publishedDateTime: 2021-07-16T21:45:00Z
+    webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/white-house-says-facebooks-steps-stop-vaccine-misinformation-are-inadequate-2021-07-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://www.reuters.com/resizer/vdH6AigbX3vlKTHUBpdTHsGRYIc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4BXXPSHJLFJZLDJ6ITX527BNOI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "aWG3EWG4LDLJMDe4uaUayNvxRH6Uz2/55t4mWAPVGIIF06SlZ4rcwKUVs6eQV4Aj0oar2ljwNRcvn3bfbnej3bySEF3UQfVi/QXLP3NjExtbbKm55ZQlP7HRh7mqsac6wteBrCzu6YDA9Fgv0z1Rz3q1uttblE3Nkla6WIN4TzGvrk/6QNlr/ta74a72K+MIbXUlrtRnfUGJvWwpUM5mj2CG2ZkKQnRh8ro5BySznUCqg/wZ3zUW5P+Ql/V3pTpAAMQaHPAvEMeyUHclPZbP6Vu+lVY0dr5DJejrke6k9c/GNzzxLR0CEylP/mNE7ZvjObyTKS7t8Yrb8cxJFq/5rcb4AdYoOOwt33jxQcJpFro=;bFX2Abdml1/Jaya/RgsUCA=="
 ---
