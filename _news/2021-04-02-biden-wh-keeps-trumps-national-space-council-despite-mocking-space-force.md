@@ -544,6 +544,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Beach Sand Policy Is Reversed by Biden Administration"
+    excerpt: "The action followed objections by environmentalists to a change that made it easier for towns to import sand from protected areas."
+    publishedDateTime: 2021-07-16T20:23:00Z
+    webUrl: "https://www.wsj.com/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977?mod=politics_lead_pos10"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-370970/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Former Trump aide Stephen Miller launches group targeting Biden’s policies"
     excerpt: "Former President Donald Trump’s senior aide Stephen Miller has launched a new organization that aims to challenge the Biden administration’s policies in courts."
     publishedDateTime: 2021-04-07T13:06:00Z

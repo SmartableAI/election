@@ -2,9 +2,9 @@
 category: news
 title: "Top Generals under Trump feared a coup"
 excerpt: "Watch \"Top Generals under Trump feared a coup accoring to a new tell-all book\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-07-16T19:12:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210716191202-top-generals-under-trump-feared-a-coup-accoring-to-a-new-tell-all-book/"
-webUrl: "https://www.cbsnews.com/live/video/20210716191202-top-generals-under-trump-feared-a-coup-accoring-to-a-new-tell-all-book/"
+publishedDateTime: 2021-07-16T22:12:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210716221202-top-generals-under-trump-feared-a-coup-accoring-to-a-new-tell-all-book/"
+webUrl: "https://www.cbsnews.com/live/video/20210716221202-top-generals-under-trump-feared-a-coup-accoring-to-a-new-tell-all-book/"
 type: article
 quality: 105
 heat: -1
@@ -207,10 +207,10 @@ related:
         isCached: true
   - title: "AP: Few AZ voter fraud cases, discrediting Trump's claims"
     excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year's presidential election that requi"
-    publishedDateTime: 2021-07-17T00:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
+    publishedDateTime: 2021-07-17T04:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
     type: article
     provider:
       name: ABC
@@ -705,6 +705,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "5AVp5WFZJpy7IAEA0rFn7eg+R2EHQJBP56xSpZt6fxer05m/Z+M87373n2v8niKh8/C4mUHcT+nOmyjGSjcYtyRlK4av6hBJA/4f42sTuit/7lvIKyNm9o30lCQDTmxT384ryTbFMm5XcFhgippVRGAfcOtkBPd4g6fuuIqmNU6zGHY2gDWzd7egRIY1aOawoknRSwrjnj/rYV+mqk3TzD32xd/MtYT6RNqQfhMAcbJRhKFkfW5A7wHGvdLuD+jIGOxF0iBOJGsgAAw+nM6RMciirMwe4F3E0kfFpqLACx68VmORWYahzUOq6PyX7nkfhXZbhuHp84xKV7OoCewl8wiVQ6BAanUTG8tukRVODL0=;DeiLphia/AwKGjRY6GiW/A=="
+secured: "0vBxTpGDIXfUiwPZRS7AAUJCQTJbNTEnifODJvt0giH7rlUzqlbrhANrCZUuww567KCqsnzZhbUjc+6zhiGVl8MS8slpCpSa6sLoHow4zR0G2OZ+OLyEXXW1OBuE7lT8LEJ0ql1jJNWnZcr/M2Hr0jMDDrVAVc4cHjvxu6j8WZGXyCE7RmY+FNbod95CXEtwHl5LwcXL14mRB/owjDK5A1mMmRs2n6nLxrphMBW5glE7MlFLb9+uA3c8MnIZ6BhswO8eykfciAd9NL0BYIxtbp1Za6vXEcFvIkEpO+C6EHLbwWFI+w0P6M0FjDvpi0mV17TCOlXjfGGbeQjUWjQqdW4offaiOf5k1Xz9y/6h2cU=;lxLgXTLH49Pvcrw3M4tfIw=="
 ---
 

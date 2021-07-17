@@ -203,10 +203,10 @@ related:
         isCached: true
   - title: "AP: Few AZ voter fraud cases, discrediting Trump's claims"
     excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year's presidential election that requi"
-    publishedDateTime: 2021-07-17T00:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
+    publishedDateTime: 2021-07-17T04:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
     type: article
     provider:
       name: ABC
@@ -379,8 +379,8 @@ related:
         isCached: true
   - title: "Top Generals under Trump feared a coup"
     excerpt: "Watch \"Top Generals under Trump feared a coup accoring to a new tell-all book\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-16T19:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210716191202-top-generals-under-trump-feared-a-coup-accoring-to-a-new-tell-all-book/"
+    publishedDateTime: 2021-07-16T22:12:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210716221202-top-generals-under-trump-feared-a-coup-accoring-to-a-new-tell-all-book/"
     type: article
     provider:
       name: CBS News

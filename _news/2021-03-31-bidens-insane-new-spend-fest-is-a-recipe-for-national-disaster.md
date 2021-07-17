@@ -532,6 +532,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Beach Sand Policy Is Reversed by Biden Administration"
+    excerpt: "The action followed objections by environmentalists to a change that made it easier for towns to import sand from protected areas."
+    publishedDateTime: 2021-07-16T20:23:00Z
+    webUrl: "https://www.wsj.com/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977?mod=politics_lead_pos10"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-370970/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden WH keeps Trump's National Space Council despite mocking Space Force"
     excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."
     publishedDateTime: 2021-04-02T00:16:00Z

@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says social media carrying COVID misinformation is 'killing people'"
-    excerpt: "President Joe Biden on Friday said social media platforms such as Facebook \"are killing people\" after the White House continued criticizing the company for allowing misinformation about coronavirus vaccines to be posted on its platform."
-    publishedDateTime: 2021-07-16T23:41:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-facebook-idUSKBN2EM219"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EM219"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EM219"
+  - title: "Joe Biden urges Vladimir Putin to ‘take action’ against ransomware hackers"
+    excerpt: "Joe Biden warned Vladimir Putin that Russia would face consequences if it failed to act against hackers behind a spate of ransomware attacks, saying the US would take “any necessary action” to protect its people and infrastructure."
+    publishedDateTime: 2021-07-09T20:48:00Z
+    webUrl: "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2"
+    ampWebUrl: "https://amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: The Financial Times
+      domain: ft.com
+    quality: 123
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210716&t=2&i=1569106900&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6F138"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden: Social media platforms 'killing people' with misinfo"
-    excerpt: "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines"
-    publishedDateTime: 2021-07-16T21:51:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-social-media-platforms-killing-people-misinfo-78891898"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_1309cc2417da42a6bf73d9ba56a2c76e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcffef3b2-c492-4f1a-9be1-d0f51eca2b41.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "j98u2qgRn/Jy7dcNdGIzSEEYdzH4WjqXlYm/FE+8Lo7ar1TgLpoL9MtheF03meGa93gkHg7jkkTLe/sLScUlEd8zxxLMDZrHvwafvxmZIZ632Rrv1TkAzmWszSOKCmFNexSqC13adSlqqRqsGhpoF1oKVRFsvoE83AuPD8+/qdqTJpfNWrgfZuoX+iSa02jZZdj2rgVC5bf2ZfrEuqjc+4u3sBT5OgKisv5CBO0lLujJBJxSVYTI2F8RMszg35U/R54mkBBu6Hk8gjye8FWNyI9A+DitXnohc9ormjpPVNFHFi5EPjpKSxLKOJZYC2WaNvzicrcbPBnclXOT9skoIgX3t5eioz3oVENK1Esi/9E=;Hyo9llLpqyHAWYqLXIkLHw=="

@@ -2,11 +2,11 @@
 category: news
 title: "AP: Few AZ voter fraud cases, discrediting Trump's claims"
 excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year's presidential election that requi"
-publishedDateTime: 2021-07-17T00:04:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
+publishedDateTime: 2021-07-17T04:28:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
 type: article
 quality: 125
 heat: -1
@@ -380,8 +380,8 @@ related:
         isCached: true
   - title: "Top Generals under Trump feared a coup"
     excerpt: "Watch \"Top Generals under Trump feared a coup accoring to a new tell-all book\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-16T19:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210716191202-top-generals-under-trump-feared-a-coup-accoring-to-a-new-tell-all-book/"
+    publishedDateTime: 2021-07-16T22:12:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210716221202-top-generals-under-trump-feared-a-coup-accoring-to-a-new-tell-all-book/"
     type: article
     provider:
       name: CBS News
@@ -705,6 +705,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "yG8NiW0fQOTmj0Xaj9bvOZ+Hrw1ulYjLlrirrA3M9MQdfgLvLW1FiBpAKRRCjgc61wxdfXpgTthiQBFfR8l5gmmm+X5/4PdsgYhgl/ovD7zGlCnuRA5DLPVHKu6PnlqXAzkM4A5OcwwC8qVNb2j9QGAApxcrGpmQUsivF3Q1PXL59dC95YBvrVpaBFkDUJvA4NDY7g8eBgX6BJyL2/4vS9GDPT569UXNa4WLRHkCY+Dhfe4C6cq8IdJ7IHXPEqrzsS2/oIAhmrU9zgSFYtcig2giqykMXXrzu3Fm7rA0VyUtfkrK/+oqfm24sFCRRMcflKniacvbiLBedTH/nVwbHV4DP1/HzW8SnWSd6g0um3Zdz/ey4NaztSLqVXNfeqh+5CbePT8er56IMuZ7kyQAzMVjXrpvWifDt/EF43nM4ySoS5MscYVz5dJtR7rWRgBj6GuLe6MUacZCkixm5Riqah7aOgInTOR5XUPIRR8ecveEi0pa/tou9/XglrBlKY+cRgmXEaqyN6q5lCySnyWbdA==;bW5MHcPHzehwdvRDIYXpsg=="
+secured: "tRFuK96WNQsr5PxEaBSxVYM892yO1r6UyttAb3zBRghu98FxemU9H47oNif94ZwbSdAjgIwn5kgKZkR7DQqJlz1Pv7f57a3+d5rk6Ruv1hfPsICSy5IHeIH1hvmFqQlsqi+HJxjDCmRk0cHx1yIL/2fYmPjNEeEhLYs0nY/aerBtX8BFDKQZ/6qPzkrxBjwyQIel7+D9RAGygFjrndxDHHQxk9UURKb64OavlWtoC0crida/+MJs2IaXeN9zqy/Czru2vBA5CzJ0OzZuIiY68AWKatUYTTISSPCF22rjkG9UFYtIpwPpiFx8GCCzWEJkGZiojIK/+E5l9zVnyYjCqIf8A0YVi3jkPpzXA75MzuI=;i8tv2lxApA+X0w9sLyL+eA=="
 ---
 

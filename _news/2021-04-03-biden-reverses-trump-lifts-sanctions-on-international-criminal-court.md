@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1570
+heat: 1590
 published: true
 
 provider:
@@ -524,6 +524,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-351169/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Beach Sand Policy Is Reversed by Biden Administration"
+    excerpt: "The action followed objections by environmentalists to a change that made it easier for towns to import sand from protected areas."
+    publishedDateTime: 2021-07-16T20:23:00Z
+    webUrl: "https://www.wsj.com/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977?mod=politics_lead_pos10"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-370970/social"
         width: 1280
         height: 640
         isCached: true

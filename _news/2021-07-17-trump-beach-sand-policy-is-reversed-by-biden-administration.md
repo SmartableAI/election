@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
-excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms."
-publishedDateTime: 2021-04-08T21:59:47Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
-ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+title: "Trump Beach Sand Policy Is Reversed by Biden Administration"
+excerpt: "The action followed objections by environmentalists to a change that made it easier for towns to import sand from protected areas."
+publishedDateTime: 2021-07-16T20:23:00Z
+originalUrl: "https://www.wsj.com/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977?mod=politics_lead_pos10"
+webUrl: "https://www.wsj.com/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977?mod=politics_lead_pos10"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
 type: article
-quality: 190
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
+  - url: "https://images.wsj.net/im-370970/social"
     width: 1280
-    height: 720
+    height: 640
     isCached: true
 
 related:
@@ -44,6 +45,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91d04a2f-0fcc-4e80-a4db-39df11088247/3c84e3f6-2c0a-488c-93d2-6bbf39b4ec59/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
+    excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms."
+    publishedDateTime: 2021-04-08T21:59:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -524,22 +541,6 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-351169/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Beach Sand Policy Is Reversed by Biden Administration"
-    excerpt: "The action followed objections by environmentalists to a change that made it easier for towns to import sand from protected areas."
-    publishedDateTime: 2021-07-16T20:23:00Z
-    webUrl: "https://www.wsj.com/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977?mod=politics_lead_pos10"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-beach-sand-policy-is-reversed-by-biden-administration-11626469977"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-370970/social"
         width: 1280
         height: 640
         isCached: true
@@ -1133,6 +1134,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "LSR79S/zXG6lcy7b37G5DoCHKniry3hbPo04nFLW6zo0Asa+HkSb/g8vH47YaaTaelTtSgW5s9OwIq9hjtoFGeOZ9q/cd6mWwC72YjvQjPpZGPxzACa/Z4Tn51vxEkpPeigSzwPK9bHkWhjq8SoRoRR50X3noRETWIGwSCI/bJj967UMBipHSvrYyz5INvB4vSewvY2hNSCuRC4qiNgJpwJ3iqH1QrMHEIXAyjMv3oJHwRh7RgZFK/aB53zCL5oim1UbJiNDNkuotEYHaOrmRkvwCCN0IKikqHOnzSi2ugmy+k02Eo6Rk6g7Bxz4lPgQe0sXCAnMWgrNsUqr9rrPd3HjRXzTq00JwG5520oA+Uc=;PG7VAnIPZcasbxwfFIDyNg=="
+secured: "R1FUhvdoNizelCR0xlzxttKPO9DfwDDYDyNQU69+mHH0D4kdsWH4bk4fn/XZgRHADjvpgIbAYVKTmVbk78y+27abhCpIGd49Pr5sl0uF5DOORuNBsByg/BclC1/N3ARBTKlt5JdnINlBRf0Dk36SWc3WUsRaueXPFXo7JoiOVHsmqu1fxJl5RfLcZAHMSeWX/hx5fClRjNSoYeGrZxVh38JlMffKoLOjY98mV/Hn4hTP4wA0VhV5WA4YhF77RuhvkIKbei0QOkp2lUh8xW6LB5tZoxhv9G/ieMDvIHoFD9oSJex/ZrP2rCtu4cnQa/aoefEu8BNbjyjP842irYahFvUankJ+1BoqIgTAeo8o23Y=;EzSHlfIoDZWZ6lXhUp3X7w=="
 ---
 
