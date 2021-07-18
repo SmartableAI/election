@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden exits the Oval Office at the White House"
 excerpt: "U.S. President Joe Biden walks across the South Lawn of the White House as he boards Marine One on Friday, July 9, 2021 in Washington, DC. Biden departs Washington for Wilmington, Delaware, where he will spend the weekend."
 publishedDateTime: 2021-07-09T19:41:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/33d98e65be3586ab09cd488476c90bab/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/33d98e65be3586ab09cd488476c90bab/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/804efaf937016fa6ae3c0328ca990552/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/804efaf937016fa6ae3c0328ca990552/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/33d98e65be3586ab09cd488476c90bab/BIDEN-ECONOMY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/804efaf937016fa6ae3c0328ca990552/BIDEN-ECONOMY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -401,6 +401,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "trqKG3jvgYD31N8hrYK3ODEeVc0aZ6FkGrwnYc7CkoeE3Cy6teGownppNWS0Q25zpVRABKd1ayi4EVQPFZTIhuUcv1yuJOZh2kMMfEs3V84Gc23JLabzQ8g+B8D5L5G1yC4Vla982A0C5hiTM2x9CHn/a10WM9kwgbf9nz2Kg2D+bEyU2sZUWN9ys0wfZdxTyPyiRys3VtmSRtKHaBgfoslW6CO4r0/rTH/r9Qn25YcRikDWV5vZgrc3UtsCjVpqimrv2RaZcLrxOKVyQzki4zIx6YoT9RTQP9jahe7VCfW1N0c5qWZWvY+gxa7i+qOZ8ntxn8yR2GV8k3pylfD01bYfg+ttRTQBS8ERReB/3VQ=;IfnqlCeYmQfKoYEAMibpog=="
+secured: "IOtFSqjg+KPAHosqjZ/8btHmDf66WFSKOcYEoZv6+q6RHBBsQZFeNSOI8Wc2X3yrwjhqogCqyTcu6HitkB+g95Evcwk1Avce8f65J+6C2Svzy/sD3DdJWtl/f5Nlp9wuryJu29y6MmvpGcsew6MujbAV0jMHhFtKyjuXarlfTQaw3s3DBTd/v/YXSwdI9zcAKnIWRmEjmfNXN9DrV9A+ialnT21B+uiOBN8RA/DJmjAtYGCR2dPLUrzd4bTSYiwe/p9HJI44dNMZsXrr9uQLG0YDVZK9oaLuRwZkTaGIYX/C/I0yltK7YDPIzrN1IgGbvCErWu2wpXD2GOS9JVlARdIOOSf2MXwpFR3yKUatr0k=;H4eSmQb9imYaDJwKNJcrhw=="
 ---
 

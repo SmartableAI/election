@@ -3,8 +3,8 @@ category: news
 title: "OPEC and Big Oil's New Best Friend, Joe Biden"
 excerpt: "The price of oil surged to $75 a barrel the other day under President Joe Biden's green energy policies. The price was as low as $35 a barrel under"
 publishedDateTime: 2021-07-13T10:33:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.amp.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 405
         isCached: true
 
-secured: "9DtWzA1IKAhmq76dXvUNYGAGSdJdH4XcxMxsiSWV9tGjUq9Dos6+yvzqcsjaaKt7th/Ja0mSweRLb40Z21LAn1ksV8FaBZsG0rkWvb+Bs3+Izw/ItBfvwHxXv1SBVWMI5GFnk1WkV0XQf/1uIbDfOGuu0NOCWEJbHCR1r/icMXxXlOwPrIEvdnNTl9hrNmyNRy0V8jtFJHsSqB8Qgyr8ex53+Yd8SzsVhWNwppeqIYx+39Kp6LCKsHga670EwB3QrfLf4RzPMqgcDgY2LuQ38nzsC8jAXBxis+R4n0Maio59juzGnKPBNpPaAo22i0PbGdzvHcwkvNlwpKoZmXD1/jFRmLAjgAFPFr+ZgUjtZPImeIjZPto8pLGdd7kOQi2C/EX0AzholJKiKTrVkPkDYXo5Xnseb8UWNnavMSsOQvU3vFvcUY4PSgkVZpBVFvDwFkM1ZRhVgnJkOx3fIxElIg3vJS2hxcntGzVJxo7+mnLX87rWrfx9RpUW8U3kVBQKon1BQQ3z16Ojwgo78Vx5kw==;u6xsJmfCuiKU3PyDQb40Nw=="
+secured: "G5of+KR/qoIEgjy5W9Y61DjA1ToLQxBeasZ73TMemGCdbgiM331PTbM1U26jhQIpm+MAZyfU0W9Ic/qDsRrvxIDNxka+OtnepXNTTa231PFyxcWS4xoiO2TBDgqkHBSJgS6JjhE627EkMabgZkduaa2v4cn9OIAnZV1UJtz5rW8ti5zASApTkTj4MQesgWTcWfBM2n7tgP7QtorVBK/UVoIdYgNSRC7r1wu8R35NzXKLObP9vV/s6tNyeXRw4RKqtGNDzfx7p5DCsT3+o7tDxaEjVDR3PQFbnW9LWHpxh+7kekmn8PmP6V1iUJFWTcA5VJumMUVhldvrn5e7d3ucmG3Dp6nFuG1CvkiOR7MSyxQ=;uxEwk7XiHrCZAfcqohsz/w=="
 ---
 

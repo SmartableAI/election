@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-16-biden-officials-convene-meeting-with-homebuilding-stakeholders-amid-inflation-concerns-and-rising-home-prices.md",
+      "title": "Biden officials convene meeting with homebuilding stakeholders amid inflation concerns and rising home prices",
+      "excerpt": "Top White House officials are meeting Friday with stakeholders from the homebuilding industry, officials confirm, which comes amid soaring home prices and inflation concerns.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VLyEx7u68dQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VLyEx7u68dQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210616091914-us-housing-construction-1604-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/white-house-homebuilding-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/white-house-homebuilding-meeting/index.html",
+      "publishedDateTime": "2021-07-16T09:18:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-prosecutor-investigating-hunter-biden-stalled-to-avoid-alerting-public-about-probe-ahead-of-election-report.md",
       "title": "Prosecutor investigating Hunter Biden stalled to avoid alerting public about probe ahead of election: Report",
       "excerpt": "The federal prosecutor investigating Hunter Biden’s taxes reportedly waited until after the election to seek search warrants, which stalled the public from finding out about the probe.",
@@ -1033,7 +1089,7 @@
       "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1095,
+      "heat": 1115,
       "tags": null,
       "images": [
         {
@@ -1278,63 +1334,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.md",
-      "title": "'Ingraham Angle' on Biden calling UN probe on US, South African riots",
-      "excerpt": "They even invited the UN to come in and grade their anti-racism efforts. This is completely insane. But again, they're a bunch of self loathing idiots. They're happiest when America is down on our knees,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots",
-      "originalUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8021675e-3986-406b-af91-de3a1cf6840a/4a0e5c30-8d16-4858-87f3-93d3c87f3eff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
-      "publishedDateTime": "2021-07-15T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-06-18-biden-left-to-settle-intra-party-squabbles-the-note.md",
+      "title": "Biden left to settle intra-party squabbles: The Note",
+      "excerpt": "Congress is in the middle of a flurry of legislating, but it will fall to Biden in large part to define what he wants to do with the dwindling calendar.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/Joe-Biden-juneteenth-ge_hpMain_20210617-182353_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
+      "publishedDateTime": "2021-06-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-bidens-off-limits-list-for-russian-cyberattacks-criticized-as-green-light-to-target-everything-else.md",
       "title": "Biden's 'off-limits' list for Russian cyberattacks criticized as 'green light' to target everything else",
       "excerpt": "President Biden's list of 16 key infrastructure entities that are “off-limits” to Russian cyberattacks has effectively given the Russians a green light to target everything not on that list without facing serious repercussions, national security experts and senior Republicans tell Fox News.",
@@ -1261,62 +1313,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-15T18:45:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-gov-noem-slams-biden-over-white-house-fireworks-event-what-a-hypocrite.md",
-      "title": "Gov. Noem slams Biden over White House fireworks event: 'What a hypocrite'",
-      "excerpt": "South Dakota Gov. Kristi Noem slammed President Biden on Tuesday after his administration unveiled plans to host an Independence Day fireworks display at the White House, weeks after federal officials rejected her bid to host a similar event at Mount Rushmore.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T15:03:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

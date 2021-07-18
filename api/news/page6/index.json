@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-10-joe-biden-urges-vladimir-putin-to-take-action-against-ransomware-hackers.md",
+      "title": "Joe Biden urges Vladimir Putin to ‘take action’ against ransomware hackers",
+      "excerpt": "Joe Biden warned Vladimir Putin that Russia would face consequences if it failed to act against hackers behind a spate of ransomware attacks, saying the US would take “any necessary action” to protect its people and infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "originalUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcffef3b2-c492-4f1a-9be1-d0f51eca2b41.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "publishedDateTime": "2021-07-09T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-watchdog-2-trump-epa-appointees-defrauded-agency-of-130k.md",
       "title": "Watchdog: 2 Trump EPA appointees defrauded agency of $130K",
       "excerpt": "A report by an internal watchdog says two high-ranking political appointees of Donald Trump's at the Environmental Protection Agency engaged in fraudulent payroll activities that cost the agency more than $130,",
@@ -1296,62 +1348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-biden-misquotes-reagans-morning-in-america-ad-while-plugging-infrastructure-package.md",
-      "title": "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package",
-      "excerpt": "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQZbjitww3w/biden-reagan-morning-america-ad-infrastructure-packages",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQZbjitww3w/biden-reagan-morning-america-ad-infrastructure-packages",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp",
-      "publishedDateTime": "2021-07-07T15:24:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

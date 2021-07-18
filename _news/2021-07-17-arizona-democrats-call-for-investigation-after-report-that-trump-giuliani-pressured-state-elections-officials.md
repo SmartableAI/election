@@ -269,6 +269,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump decries The Open Championship not being played at his Scotland golf course"
+    excerpt: "Former President Trump released a statement on Saturday saying The Open Championship should have been played at his golf course in Scotland."
+    publishedDateTime: 2021-07-17T19:06:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_063021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Did Trump and his allies interfere with the Maricopa County election? Secretary of State Katie Hobbs wants an inquiry"
     excerpt: "Hobbs asked Brnovich to refer her request to another law enforcement agency if his ethical duties prevent him from looking into it."
     publishedDateTime: 2021-07-08T15:35:00Z

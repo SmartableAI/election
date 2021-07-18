@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-07-qanon-influencers-received-press-credentials-to-trump-rally-report.md",
+      "title": "QAnon influencers received press credentials to Trump rally: report",
+      "excerpt": "QAnon influencers were given official press credentials to former President Donald Trump's rally in Florida this past weekend, suggesting a continued acceptance by the ex-president's organization toward the conspiracy theory.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/561685-qanon-influencers-received-press-credentials-to-trump-rally-report",
+      "originalUrl": "https://thehill.com/homenews/media/561685-qanon-influencers-received-press-credentials-to-trump-rally-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_7321_gettyimages.png",
+          "width": 826,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/561685-qanon-influencers-received-press-credentials-to-trump-rally-report?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/561685-qanon-influencers-received-press-credentials-to-trump-rally-report?amp",
+      "publishedDateTime": "2021-07-06T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-biden-doubles-down-on-vaccine-efforts-after-missing-july-4th-goal.md",
       "title": "Biden doubles down on vaccine efforts after missing July 4th goal",
       "excerpt": "President Joe Biden is doubling down on efforts to get more Americans vaccinated despite missing his self-imposed Fourth of July deadline.",
@@ -1260,58 +1312,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-team-trumps-conservative-gettr-app-looks-suspiciously-like-twitter.md",
-      "title": "Team Trump's conservative GETTR app looks suspiciously like Twitter",
-      "excerpt": "GETTR's home screen, posts, and user profiles look similar to Twitter's, whose exile of Trump fueled the right's belief that tech is targeting them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7",
-      "originalUrl": "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60df488d7cd04c001a227b28?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp",
-      "publishedDateTime": "2021-07-04T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

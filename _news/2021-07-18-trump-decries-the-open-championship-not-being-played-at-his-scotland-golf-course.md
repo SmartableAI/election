@@ -1,22 +1,22 @@
 ---
 category: news
-title: "US stops jailing pregnant migrants, reversing Trump policy"
-excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
-publishedDateTime: 2021-07-09T17:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+title: "Trump decries The Open Championship not being played at his Scotland golf course"
+excerpt: "Former President Trump released a statement on Saturday saying The Open Championship should have been played at his golf course in Scotland."
+publishedDateTime: 2021-07-17T19:06:00Z
+originalUrl: "https://thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his"
+webUrl: "https://thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his"
+ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his?amp"
 type: article
-quality: 125
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_063021getty.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWOL62XAZEI6XIT7RMUUSMHJLM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "US stops jailing pregnant migrants, reversing Trump policy"
+    excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
+    publishedDateTime: 2021-07-09T17:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Former President Trump to headline final day of CPAC"
     excerpt: "The Conservative Political Action Conference will wrap up Sunday with a speech from former President Donald Trump. The three-day event in Dallas largely focused on \"cancel culture,\" President Biden and the Democrats."
@@ -268,22 +284,6 @@ related:
       - url: "https://i.insider.com/5f8b1f79c21cfb0019468a13?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump decries The Open Championship not being played at his Scotland golf course"
-    excerpt: "Former President Trump released a statement on Saturday saying The Open Championship should have been played at his golf course in Scotland."
-    publishedDateTime: 2021-07-17T19:06:00Z
-    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his"
-    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 120
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_063021getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Did Trump and his allies interfere with the Maricopa County election? Secretary of State Katie Hobbs wants an inquiry"
     excerpt: "Hobbs asked Brnovich to refer her request to another law enforcement agency if his ethical duties prevent him from looking into it."
@@ -762,6 +762,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "k3LWgT4mZP6BeB0vRd7gHJFitaDR0w29c/Y/OcrHXHJkgIHwPu+S4afukF18NejpuD5lOw6XPwegUPP2fVDjxxMRLL1GjJHeuunjaLxDALipDNk4WkzXntReECOwnMVfBXCvlPS1tY+e7JF/mMXk0td3bqWT3mAnE6EZUDKYHbS6ycrBd0WdPeoT9jFUmI2XkXkSl1msiKTeXp3KyNncQ1Z1h1Ml92evvDYJ0turTuwrhb2w6QiUQGynFnQVyyq/Yq16XOrpyOxI/s5V0ZcX2SiuGVRvWCb/I4QAlHvskkECO0pOU2hiD9jnOBacZBw8AZgglOwxq/xSDxqU7SXNYtLhmPBPBPBtowh46NBg0Ow=;O+9OPQHHgkiDRLueE5b6yw=="
+secured: "Q4jgw6ebpbiBykmWSWPEhJWZBXobemIA/3m1vPldRRPWPmvabCnonQLTORGEr20oYoc1LkK9EJexXdaYKxvputgUuTNPaLXuPWiOe1oBlhchNjf1MYCgz+kp1DIFmAzUPnB854bIvS5OzbkZTedEdNeOQ0KIW1FTN98kfgirNc+0y1U/JyF8lt2mjLXOb+qm+Py6ZHXNccKiQh0JVM2kSG6L3WsFxX1uUxVzhhi6amkwQUT4CfflcfI3HXwWkDXuLqr29kHaOIg6CDnJ0ekG+1+01wVMZrYrkNFAZpakivW36VuGa1yZ6/KyyQBY+p6BKne5VY8cXb7nb3G8EcoBn5XSR/Ny5vm6Ys1LTLnGUU0=;SbXbPla4BKMsUraEhhUlVQ=="
 ---
 

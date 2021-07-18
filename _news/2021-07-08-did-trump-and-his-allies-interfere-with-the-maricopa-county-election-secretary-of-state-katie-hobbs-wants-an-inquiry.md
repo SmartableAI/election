@@ -285,6 +285,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump decries The Open Championship not being played at his Scotland golf course"
+    excerpt: "Former President Trump released a statement on Saturday saying The Open Championship should have been played at his golf course in Scotland."
+    publishedDateTime: 2021-07-17T19:06:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/563540-trump-decries-the-open-championship-not-being-played-at-his?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_063021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Ariz. Secy. of State calls for probe of Trump..."
     excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-09T04:45:00Z
