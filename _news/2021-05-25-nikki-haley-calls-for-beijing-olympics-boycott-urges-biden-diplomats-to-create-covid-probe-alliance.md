@@ -187,6 +187,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden Punts on Pot"
+    excerpt: "There is one issue where President Joe Biden has not moved further left and in lockstep with other liberal leaders: marijuana. The oldest man to take the"
+    publishedDateTime: 2021-07-18T10:38:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/51/518687_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "YBj0AqoTLHKsgGEfCEL2t0BfHCHSrMWDZuwIMFskg0LGg+a7drvGU0J5c7uQNYTWvTDWJ5LnNMTU1W5FfWi0Yzu9wE7vVnk2glxjViBT+V9m++axQPHaqFnPUmw3qIkmDjS7RloN0+npB8JMYVRKCWlRqLPbYwrDtHoc04HaSqe1aeXPr0uVKJiYjP8Zr3ynPlCqPyFm0V9bk5tn5C7JKc6fIryqYZTbkOtSZNuveEBLSUf4rZ9IeRcTm34FMr/0mBk42yJuRwx+/qGmojjZ6cZw1bCvmY/oR+9hawA/gweR4egvAynqBKnaZ9yE7Mv1KQwR0RKL0EUdpbXVesrLk/Un7WXUnlL+ps8XN2wli4k=;ivRh7XvrsRT2LGDA1MtVPg=="
 ---

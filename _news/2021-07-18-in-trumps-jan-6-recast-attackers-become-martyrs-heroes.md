@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’"
-excerpt: "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”"
-publishedDateTime: 2021-07-09T08:50:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html"
+title: "In Trump's Jan. 6 recast, attackers become martyrs, heroes"
+excerpt: "Months after Donald Trump’s supporters besieged the Capitol, the ex-president and his supporters are revising their account of that day"
+publishedDateTime: 2021-07-18T11:25:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trumps-jan-recast-attackers-martyrs-heroes-78910533"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-jan-recast-attackers-martyrs-heroes-78910533"
 type: article
-quality: 92
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AI2Q4HW7JAI6XIT7RMUUSMHJLM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4b78c14f27aa48ec9dbc1c5049e8c6f0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -452,20 +452,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "In Trump's Jan. 6 recast, attackers become martyrs, heroes"
-    excerpt: "Months after Donald Trump’s supporters besieged the Capitol, the ex-president and his supporters are revising their account of that day"
-    publishedDateTime: 2021-07-18T11:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-jan-recast-attackers-martyrs-heroes-78910533"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4b78c14f27aa48ec9dbc1c5049e8c6f0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
     publishedDateTime: 2021-07-08T20:17:00Z
@@ -509,6 +495,20 @@ related:
     quality: 93
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWA7Z7V2OAI6XFVZ5FE5KOL55E.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’"
+    excerpt: "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”"
+    publishedDateTime: 2021-07-09T08:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AI2Q4HW7JAI6XIT7RMUUSMHJLM.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -776,6 +776,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "/zhwQkOHRe25rgDwWE/k8Nut2FVGKzfGLQj/1rkK3D8SNAc+WSZKJHLQUeGgGTOPTBbQMX/+enuQhUhl7pdasjM6PTA5tOFM26HqSoXwIGckcFRNqIS8WxDiD2X0Yr012/te9gFszDcGuv3dd7K+SqKks2LYWi4J4ZygO9DLRSV40eDpGbc3vhwtjdlZIUSXesjib74XXIfnRHrNNbkKVg3jzg5Fm0VyyQF1hZ7HxHfhlUK0K/d5IUdmT0tZEaWvhfDOZKRV9XhCeFCitfMc7qcpiSBGDMWmeYBo/2P9KtGY3jXpWiED+YiyhRl26BlTA1UXaq1XUzfOcVKK4i5folyJszSkmcFKn2X3249xFW4=;phJVmuTy28kLIRyqOHqRaw=="
+secured: "3csi7lg44GAZgO++EM2c2GUlgnQBYwIW7uAIeaoAN20VluzR0EPfKPR7C+RSrJk+m8jaxRUvvPoJOexq532ZJuxxcYFFdmQ17VxjNqHwtAI7X9exJ0femtkyBj7u6gVsZh0qE4Koq30BsiwK0VsK/jxtEbwuQakTzGiphl5i8GNnUbx5/stHtht7TjkPAxvtcb0KwwGipeJvcOhHHpNTml1gV4lSiV7XixhL9zTATe5m8WuN67gCCEP15dtSSAfiGLGWbtuQn4/4CJYcPEW/z5NPUDVOC8+XH/H/zJcAxKsBgqG2ijBLqGBOcDOagc0oGjKuUb+DYmC0vlNxqIQY5wS2LtuKE0zsxN8YwUtrl8M=;hI0h2OOBpHId4v47j3FmwQ=="
 ---
 

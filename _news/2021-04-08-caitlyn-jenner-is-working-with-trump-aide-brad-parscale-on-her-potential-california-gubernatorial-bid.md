@@ -47,22 +47,6 @@ related:
         width: 645
         height: 363
         isCached: true
-  - title: "Caitlyn Jenner says she doesn't want Trump's endorsement for her California gubernatorial campaign"
-    excerpt: "Caitlyn Jenner, who is running in California's recall election against Gov. Gavin Newsom, publicly supported former President Donald Trump in 2016."
-    publishedDateTime: 2021-07-10T09:37:00Z
-    webUrl: "https://www.businessinsider.com/caitlyn-jenner-doesnt-want-trumps-endorsement-for-her-california-bid-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/caitlyn-jenner-doesnt-want-trumps-endorsement-for-her-california-bid-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/caitlyn-jenner-doesnt-want-trumps-endorsement-for-her-california-bid-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/60e9642f61b8600019f16772?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "oeFcRP4jc6DgBpITXCLIudqn7PtQzZC45Kaj9hYHzZiHewD19FGd3U95/llvKFLiMPbOc9QwDgXoPMGo25121YzjWX+7z0HBUqhCLfLZyO0XwcWtR9pGdwSQMXluvH3WbrSM2LFzLx78ynZG5vi2IDaH+gD1g+haTZuOErZrgorkVwpMpsHD8e59pgUPMfpNQxWLWif0kl5K79R0s1M1SEk6ZqwcG+ozYR6craZodKKGzGh01UUMGfIbqCn28Hrp/YVgk/TNMqP2ooJyzkwy360fAJkGXkiEqK7F5i/4Et2PUXr/YurKzesuM8q7UgkOgvDY80n+0RgoDbTCVUxfRmd5tKxNQ76YBjcO8Ahn3TVtBSpeCtYRzKnSLgxMQ/hThR/kODQFrg29/EmOdxpTpq945iQZ8WhD2FsnMTpSkdZBPERR2Q3ai6bfaMyYC4AHXoJ0MHZVhIqpUMM4FHSyhRvx9JjcvCk3tk+VRo6WLyVhgUhjVkeixv8KlVhnU5gSa3nnA/h9drKD9YQjWPlz1A==;9HANi+nbtx72UHc/yHSH4A=="
 ---

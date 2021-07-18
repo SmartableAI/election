@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp"
 type: article
 quality: 184
-heat: 384
+heat: 404
 published: true
 
 provider:
@@ -185,6 +185,22 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/53/539209_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden Punts on Pot"
+    excerpt: "There is one issue where President Joe Biden has not moved further left and in lockstep with other liberal leaders: marijuana. The oldest man to take the"
+    publishedDateTime: 2021-07-18T10:38:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/51/518687_5_.jpg"
         width: 750
         height: 500
         isCached: true

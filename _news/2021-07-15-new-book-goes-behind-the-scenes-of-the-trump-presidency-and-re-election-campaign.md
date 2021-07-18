@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 1115
+heat: 1135
 published: true
 
 provider:
@@ -437,6 +437,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "In Trump's Jan. 6 recast, attackers become martyrs, heroes"
+    excerpt: "Months after Donald Trump’s supporters besieged the Capitol, the ex-president and his supporters are revising their account of that day"
+    publishedDateTime: 2021-07-18T11:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-jan-recast-attackers-martyrs-heroes-78910533"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4b78c14f27aa48ec9dbc1c5049e8c6f0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."

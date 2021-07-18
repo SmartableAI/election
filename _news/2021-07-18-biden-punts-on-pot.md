@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
-excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
-publishedDateTime: 2021-07-08T01:05:57Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
-ampWebUrl: "https://www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+title: "Biden Punts on Pot"
+excerpt: "There is one issue where President Joe Biden has not moved further left and in lockstep with other liberal leaders: marijuana. The oldest man to take the"
+publishedDateTime: 2021-07-18T10:38:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
 type: article
-quality: 164
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/51/518687_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -94,6 +91,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
+    excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
+    publishedDateTime: 2021-07-08T01:05:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
+    ampWebUrl: "https://www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Rep. Andy Biggs provides video of illegal immigrants streaming across border, calls on Biden to act"
     excerpt: "Republican Congressman Andy Biggs has released an exclusive video from his home state of Arizona showing illegal immigrants, many of them wearing camouflage and backpacks, streaming across the border undeterred."
@@ -187,23 +200,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden Punts on Pot"
-    excerpt: "There is one issue where President Joe Biden has not moved further left and in lockstep with other liberal leaders: marijuana. The oldest man to take the"
-    publishedDateTime: 2021-07-18T10:38:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/51/518687_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "oqHCGj2PKkazynALZRv5rek2EAGFImgWvzbXN5FMwbj8BzKSLVaewOf1gLmfPtWZnXw9wfWnZiOJZMUVPxfdmFTcQ5okthnLa1HAAcyITsIBd+TETm/9/gu9nst7fKZEV7Oe9PgHVZzAAc4GYFtHM7Qmy43yzow7aLMADWypqAV/w6AqCEhy3KxvLTrp7RssSy81p0OVyFSTbA4+hCF1tGQy25L8P1ypMVuyEoH0OkbuGj91A1Iaw6ntYF9krByLcy4CgHGwyVTJ13grU3dyNLAdoRaSIBCLgMw5O68/g56cz8TpqtN03OzNJik6YYjgEVNNdoiB8ihH2JsOfWluZ4MMBHhry/aMozbifKh6YcE=;NXqUI31OsuLDHX5TEL2WQQ=="
+secured: "Qddh5Ig6a4djkMlCjefY58mrT09un6ybmw4CJou3SUdLo7i+/WyvU9UKBO3g4MCI6bQpDwlksykCMV1BBaAK4csXBIQ0MkHlcnfDnc9kiTkEFR3ePq1cM86nulJzk2SC+qQsHt7lHTPB5uQohDFTgGFfbF6uJabJNk6wlaU4gRGkNhtbMd3UygcuaV1GDPmy2cvoMDQ4LaxxuViVSpjBfLXEFXcdWky+8enwR0d3M6PhoeU/I+5YsdJpUam9B8vbEdGZLbf3M2OzwaWqHCZu2T++q+unAOwkPQOOkbY3D6/Yx5b8yIawyqzeqFAarD6YKbX6wbcgywlbSMdygiHo+CU9gmDTOZpxBFUElJGV21I=;0BYBNJIyQsBZFwcl4Px4qQ=="
 ---
 

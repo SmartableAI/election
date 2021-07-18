@@ -3,8 +3,8 @@ category: news
 title: "Malzberg: What People Missed From The Kamala Harris BET Interview"
 excerpt: "RT: It's happened again. Vice President Kamala Harris sits down for another one on one interview, and she blows it when asked about voter ID. We'll show you much more from that media disaster. Host Steve Malzberg points out that in the interview Harris said it should be mandatory for police to fill out a report when a woman is raped."
 publishedDateTime: 2021-07-13T22:51:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.amp.html"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 800
         isCached: true
 
-secured: "jjP7a260bLfwYUgm80O5/dZT5l3UVX1+7Z1W7W3iTxet+cPW7DUSPwQnm1LZHMipWQ7qUVblMqt0TK9X4SolssQ1g3x+XfV7WfqYEOZJyWluEezL2Z9h5+/gyBM1dXabx0TvtJH5QIdDTN1T6whtf+lBWlGcgsLAmTeOrdqqf30mqtRHmPym9/svEG0uYNjKrTsJHH/ZupgK32hxIJ3xREtWNw5nA9oGxi2qsMMDRKiquRhCEkc6LKWI8MYahpD+peHK6lqIWNNCVYHaT8g/aEwdXUe1Ge9eqMfdXlV4sA7WwshuUs7HWcU55tF+si7RS3i7qYx2EDl6Ew7WmmULXkAq1BDpgt76bkoROi63UB4=;Mnx8QEw9evJmsLO1wDlEfg=="
+secured: "jlspkS/uFcVfn9oGO3PCQKV86vn0qLHOKPQRVyyAEN2pTktbNelBMqbl1YGkfIM2SROLiw1InB+HPrWb0E6b1GW+8kF2h9qE61M+kao1vXl7su2387bDVdZf7P72Asgb69mewE2lyJT30hPjcPhCpb4pbrIlWqkt9cNmmMe4RByItmF9xv2Y/Q1NShdYARaPmdAqArFu47w2bA/TRwjH6axzEZ2iwWUeN1B8RAcVXCTqPWGnrg6yOAdzHHagMXzm0yC7tZKLLX2utMPUkQWv3TNr0F+Co+6cDpkSOyfXn2jBW5/Bl6rzrP0eJezTxl2fMLPR3ecsx//+WQC6FAf7nNMLWTL0OfZ9aN5ulRYL/lI=;DCF8M9KeqZCAmP/GzBCpZQ=="
 ---
 
