@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1"
 type: article
 quality: 133
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/2nWnj5haA-qau8SR22D1WYa4LD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QYN2LLGFQUWOVAU4COC53GX44U.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "A staffer had to tell Bill Clinton about the infamous Trump-Rubio fight in 2016 over penis size"
+    excerpt: "Briefing Bill Clinton after Trump bragged about his manhood in a debate was one of the more \"awkward moments\" of his life, an ex-staffer told Insider."
+    publishedDateTime: 2021-07-18T15:16:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-penis-size-marco-rubio-hands-bill-clinton-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-penis-size-marco-rubio-hands-bill-clinton-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-penis-size-marco-rubio-hands-bill-clinton-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/60f1c2dd7b0ec5001800a80c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "OH8g6Z4XOek4EYlDkDa4W6+UiVLNuwv2x0a+rgzJs5l++HhMJhsvz7N+wRUl5lwWBeVY4k7qh3NEE7+O72R8Z7lzKOOYAGPMdG1e3d2lSWk3RRYvnESyxXnwWdtI3f3Q7NUvls26+SdpUfkH7uwRMKIfJbJTd9rQm0hz93tbepyPswrcE8JXwQzNt//SI/IXqQZfk0v/zjeOlnzTfSwmbJLj2GaI1K6qqiwK5bDEryryGhfTUJrey+Bvfpc6A6Rx/OlRD65qIti9o7VaQK9DDQltM17iPgwSPwXS2tD5IVqXNxqX0/NEu+MJ0dPFO+lsbDlUTvPD3h6pAFuW6ixwLnYmT2vB1eXO0KEPWdZxP6U=;VqNlE7tUMLtBTxEF3jRhdg=="

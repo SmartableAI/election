@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to welcome Super Bowl champion Buccaneers to White House"
+    excerpt: "President Joe Biden will welcome the Super Bowl champion Tampa Bay Buccaneers to the White House on Tuesday, an official tells CNN, marking yet another return to normalcy after the coronavirus pandemic and years of tension between the NFL and Biden's predecessor, former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-07-18T15:18:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-RNJJi8KDE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/18/politics/tampa-bay-buccaneers-white-house-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/18/politics/tampa-bay-buccaneers-white-house-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210718104129-tampa-bay-buccaneers-super-bowl-win-02-07-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden takes on multiple crises without key confirmed officials at the helm"
     excerpt: "President Joe Biden is facing a border crisis without a confirmed border commissioner, spending fights without an official budget director and a pandemic without a confirmed Food and Drug Administration commissioner.\n    \n"
     publishedDateTime: 2021-07-14T13:25:07Z

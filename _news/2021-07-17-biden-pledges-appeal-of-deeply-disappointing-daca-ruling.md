@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden pledges appeal of ‘deeply disappointing’ DACA ruling"
-excerpt: "Biden urged Congress to move forward with legislation to permanently protect those covered by the Deferred Action for Childhood Arrivals program."
-publishedDateTime: 2021-07-17T15:02:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/17/joe-biden-pledges-appeal-daca-ruling-deeply-disappointing/8001889002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/07/17/joe-biden-pledges-appeal-daca-ruling-deeply-disappointing/8001889002/"
-ampWebUrl: "https://amp.usatoday.com/amp/8001889002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8001889002"
+title: "Biden pledges appeal of 'deeply disappointing' DACA ruling"
+excerpt: "President Joe Biden says the Justice Department intends to appeal a federal judge’s ruling deeming illegal an Obama-era program that's protected hundreds of thousands of young immigrants from deportat"
+publishedDateTime: 2021-07-17T15:33:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322"
 type: article
 quality: 125
 heat: 165
 published: true
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/12/USAT/c222758a-82e2-473d-9d80-155527a55e64-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s.abcnews.com/images/Politics/WireAP_981e6225239b49389ae424b06540c40c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -62,6 +62,6 @@ related:
         height: 540
         isCached: true
 
-secured: "+63x4iadJkX+nVIHCX/kEl6T3o47aR6xQToqLEcsL4LtuPEWd5yPEE8b5Fkcjl5HgUdnZvpv2lu44gFjgp4PqOSngTUJr0ZbDtOB/NkEA6WtCip2SuHAEoFe0xms4xgRI/tuRbq0S+p5vavPnd37yzUHDDcfo4oIm/vQ0sth9xGoWzZhs5nFWxfB2Fzwx6UxVa4TlGiO3SDLSNzkB2lwaLj386ofAikmcGvVVDcRFVkJnmNYydeYFi4qyygWRDqi48updmbMc+w4OAq+SIpwKbBBU7hIIkcVQMexBKi7FoOlxiAtAUMWmZOd5KQB8sLJ5OcyJer5m+GC4FplLhqz7E3I26k6SD7pH6ao49RnL8+qo+1AuI0gpkxi7W95boK0NVzxCpm+/IEhWZG0/YZ8ZgxYiifbnjVDGKAUYNM69AICtgkPHaC12vnjL3vhT6NR9jEwc2UIW9P7HXsgssof/p7cRfKzZoeJApxwHZISZ4Ls0Po7IqJ5rK6wZ9DRL4wQGtkLslFr4IgrJTb8WgTWCQ==;RtqMtbvXCWtXGgWV6Myfxg=="
+secured: "Xkli/hwrP4ndMKyHz382g6uOEDIZ+7PNLwdSfUVfHkBauISMPXbbJI0/a/y/4AVa7A3hzTYQzSZLJFClvJDqZWyO7oC2nOA3srrj5DpOqG/qP0zsEfQXaRePw/tPWA+p7hBdmZd9gv+BhlXlbAK1+i8IMHeEtz8v1pqkNDKDtEIBNcVbHmG6aK5SWaGg1zUPld1yWbxSMKmwCUGgR0vAoR/xmMqYCokD3Q/XNztoc27WYO1Q2aetHg7bw6zdWwUwsWCUzeXbEh6xcR58OXF+aNU91RS24ZaA5WIeAgsciaV5VFsg6+mb233YPfp+WpVDAcp9rGhM64KRFYOv2hWHmhKvsNxg6O20P0iEfELicVI=;pDsfTa9QSmVT9cpKqhFxBQ=="
 ---
 

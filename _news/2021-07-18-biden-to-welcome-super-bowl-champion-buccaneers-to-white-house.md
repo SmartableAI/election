@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Senior Biden officials finding that Covid lab leak theory as credible as natural origins explanation"
-excerpt: "Senior Biden administration officials overseeing an intelligence review into the origins of the coronavirus now believe the theory that the virus accidentally escaped from a lab in Wuhan is at least as credible as the possibility that it emerged naturally in the wild -- a dramatic shift from a year ago,"
-publishedDateTime: 2021-07-16T22:18:15Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QNOhah3Q2t8/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QNOhah3Q2t8/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-intel-review-covid-origins/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-intel-review-covid-origins/index.html"
+title: "Biden to welcome Super Bowl champion Buccaneers to White House"
+excerpt: "President Joe Biden will welcome the Super Bowl champion Tampa Bay Buccaneers to the White House on Tuesday, an official tells CNN, marking yet another return to normalcy after the coronavirus pandemic and years of tension between the NFL and Biden's predecessor, former President Donald Trump.\n    \n"
+publishedDateTime: 2021-07-18T15:18:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-RNJJi8KDE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-RNJJi8KDE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/18/politics/tampa-bay-buccaneers-white-house-visit/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/18/politics/tampa-bay-buccaneers-white-house-visit/index.html"
 type: article
-quality: 160
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210718104129-tampa-bay-buccaneers-super-bowl-win-02-07-2021-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -92,22 +92,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706131625-02-texas-block-biden-immigration-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to welcome Super Bowl champion Buccaneers to White House"
-    excerpt: "President Joe Biden will welcome the Super Bowl champion Tampa Bay Buccaneers to the White House on Tuesday, an official tells CNN, marking yet another return to normalcy after the coronavirus pandemic and years of tension between the NFL and Biden's predecessor, former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-07-18T15:18:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-RNJJi8KDE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/18/politics/tampa-bay-buccaneers-white-house-visit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/18/politics/tampa-bay-buccaneers-white-house-visit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210718104129-tampa-bay-buccaneers-super-bowl-win-02-07-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -236,6 +220,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123633-02-bagram-air-base-0705-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senior Biden officials finding that Covid lab leak theory as credible as natural origins explanation"
+    excerpt: "Senior Biden administration officials overseeing an intelligence review into the origins of the coronavirus now believe the theory that the virus accidentally escaped from a lab in Wuhan is at least as credible as the possibility that it emerged naturally in the wild -- a dramatic shift from a year ago,"
+    publishedDateTime: 2021-07-16T22:18:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QNOhah3Q2t8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-intel-review-covid-origins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-intel-review-covid-origins/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -396,6 +396,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "5yXOf8oEb0frIfqX2w610mhpt0USYyLliKXlVZhFDKk9U8Ve35ozzxorg45ncsQ778bdTZ2HO86/r9A9BQhE0QaQHVP6zxtYFTxcppFNjKBxWXw0CUQF0+vraoVwECf4nJ6FrsaTdEOOraE1c7I4l+xjbq61VoeNYpkShgx7iXb32rQVpJ2Mmedw5DDMUoG2YiRxUo2ksXDUUpw01/89ZKE4R0weRcsAHlLZKSKeYrZRKoajIQ35sjRZ0wHHJV1VglZYRxN1xewRQMF2lKtOZKRZX52UDKjd+FebAOGIrQTzJqTn1lNPH6IKNwELufceNajr4Chi7nq7kdGvULc7oYtqWqSgiRFMu4iYQpq3zzA=;kFJCoQoUKXLGTkEY8MwbRA=="
+secured: "OlHvcTkhDA+wockLTqtuK3iH4fgsb7GmX580oZIdqSdC1MUULHOrD7Blx8GEKFzKwEx5U8Fdi9QOZTfH3AoE2KmpPPTyU41oAm7lDZklyi033iUBm11ceafdtil6/WgXoUjeLcd+G0ONuiPKwKV9DITco7fTBFGTKRenHu6rMnfYoo93zT7l4W90D9OhT9KtLV/aMCDT6ZD0bHh1SKUeiS0+OTQwgqL+W1iM85GmMqS3llcNqNRvH3Pzn/RWldFi3mRhyxE7S4QAniASFWdmVgFhX1EH5JKGgMWMexdNIJPVkMCmF/33mCrmRh70RQ5QQvw3q/gKMbmaW9BbL7EFs8reE0CMDgI0dFIwkzNZecE=;CL666ZxyB2CQh4LEhHU//w=="
 ---
 

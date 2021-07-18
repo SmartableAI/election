@@ -154,20 +154,20 @@ related:
         height: 533
         isCached: true
   - title: "Democrats Meet with President Joe Biden at White House"
-    excerpt: "Illinois Governor J. B. Pritzker (D-IL) looks on as New Jersey Governor Phil Murphy (D-NJ) speaks to journalists beside Dayton, Ohio Mayor Nan Whaley, following a meeting at the White House in Washington,"
+    excerpt: "Denver, Colorado Mayor Michael B. Hancock walks out of the West Wing with New Jersey Governor Phil Murphy (D-NJ), and Oklahoma City Mayor Michael B. Hancock, following a meeting at the White House in Washington,"
     publishedDateTime: 2021-07-14T23:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8df62f8b4df97cb55835f549f1dbdc95/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c03dcb763603e1ab6b189b7cee176108/BIDEN-BUGET.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8df62f8b4df97cb55835f549f1dbdc95/BIDEN-BUGET.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "tQuKbEKBPzwVPBWjknaDPWW0gQT+bBGAMQ9TnEbe6DH303CB1LNGPuRPOKmGBslfDZpPB+qgf0jIBGaiIP3rz9JgCMUXBJHntxSPawLCJfa4RzmMDq0jSyURrZTwJ6UDgjjoyOvV5pDSVPFT0xauBRpmfhUO12NMLgsdtZm0mVlrn+MueKa1eU0GF1S7ctNqcQ497MFRcL1/HjkUoeI6j5YEYgDXEl4r7zyyC0K6CwCTJlDITIwbHnlmZn5SdfnBRRNFxiyPeyIGWEXu6oGwIk1FePIgwK4qTx9oWeUHi7TwxidLwekjg2PBO2gbHsgm3G5b1uPtYcSiLuN4um6B3W2jkF8rzqdo9VSG5j40qbY=;11CBIbjmMdMoccpQM/SbGg=="
+secured: "/Gwf2g8m717UsGnWvwDPT8OdLe5mG2nSPgXhTy9QHS4Q6XhH9ndV/JvEca6M7e3LDUezq2CtwVN/nVRgudK8qlNs/Fr0mhMkfO1d0A66gCvVm6ObHK9Brj5JDkNpkiPbusrSjxvK1o/ellWMMEYYhBmuQwYUpTzb8+68LgCb5sMsjtUajN6dXe5IC6peTM4IgSQGyDZR0VZeaTOjKY5tWESdFvzQ1x0Yb8vuO0WDorrpXwVubaiBV+lClJpLIU6EHG28Fqx9dFReUeONZqNzzO1NmQr0IYJlz5uFmwrJ9itbvwJ5IJ5tQ3sRyao8uuj1Y4Olo1x9DRhBQYObc6Dd0EaV3ZdH0Vlpyzc/T/Ozz3Wj2IqUkhFGnEfgR8ZUKMIuLamnEKmjlgRevLoMZtWCpZeAEW2P+NrwIImzCPDJCNc3bJ4xtuxXa21MqUv9NWX1qZrP4VmJ7p9l/BoL0hFIKpBeAGLgE0U0wkqmHTpF5nW7LJYkUyGzM1gYlpP44froxM49Z/uGoILbbz2zUd3IVQ==;A9ExAqIae7MDAcgNsGyKHw=="
 ---
 

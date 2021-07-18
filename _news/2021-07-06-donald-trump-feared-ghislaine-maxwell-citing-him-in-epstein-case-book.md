@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A staffer had to tell Bill Clinton about the infamous Trump-Rubio fight in 2016 over penis size"
+    excerpt: "Briefing Bill Clinton after Trump bragged about his manhood in a debate was one of the more \"awkward moments\" of his life, an ex-staffer told Insider."
+    publishedDateTime: 2021-07-18T15:16:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-penis-size-marco-rubio-hands-bill-clinton-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-penis-size-marco-rubio-hands-bill-clinton-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-penis-size-marco-rubio-hands-bill-clinton-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/60f1c2dd7b0ec5001800a80c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "NiPVQoO53IuYbbI/HL6435UGQv/Vr1Eg1j1m528gbGwuVxy5AzAFDTa6OeuEvxT2C8rxHbmWGdbOZaV5ik8NVsSJBEydujjEKJDL6OFKouWnVbnCsBOM+NfSObsQzJFi/CgxrBajShAOLc0fO2hcN6zNmuBrRZfOkPfM/mZ5XB8Y9qt88RetxK4oNCifmejn1ehRctaPc/vRIhpgzw+UAz1qPb0trPne8ufvTBM4WJl7uAo3QONDD3IYdmtDu6dt1tfuTPhT4U5eNRQKVqcAaB/WzyJ5ZbsZJ+GPTtMbjOREvCGL0Kqt2UHrGS8iyxOBlLGGMIth9WF6aK1SurnUQHhs1LYGiVhLxmjENsxUL8dJCbbw/cRtkZjQOLF/vskQfIwYBnUhww9diETE7hue0OYIxA1r2xSAZVgyMVZWSUxw+sxJeVQXX3hYeflXIjHTZE7rt2fSKyFtVxFMsPCmMZcsYn7k2f6qiUiYTOrVvzO80LXLkYm6NEGVFf6AWQcOASli+CQfjQrSvFDMcXOnQw==;IL6rRTz5G8bPYqV9Gw6UKg=="
 ---
