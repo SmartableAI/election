@@ -150,6 +150,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-18-ap-fact-check-trump-makes-false-claims-about-arizona-audit.md",
+      "title": "AP FACT CHECK: Trump makes false claims about Arizona audit",
+      "excerpt": "PHOENIX — Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona’s electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ap-fact-check-trump-makes-false-claims-about-arizona-audit/2021/07/17/61271ee2-e751-11eb-88c5-4fd6382c47cb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ap-fact-check-trump-makes-false-claims-about-arizona-audit/2021/07/17/61271ee2-e751-11eb-88c5-4fd6382c47cb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7B4EYCHHD4I6XCGFJ7LDQLCHZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-17T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-arizona-ag-brnovich-urges-biden-to-reverse-reported-title-42-repeal-after-border-numbers-rise-again.md",
       "title": "Arizona AG Brnovich urges Biden to reverse reported Title 42 repeal after border numbers rise again",
       "excerpt": "FIRST ON FOX: Arizona Attorney General Mark Brnovich on Friday wrote to President Biden urging him to reverse a reported plan to rollback Title 42 public health protections that allow for the rapid expulsion of migrants at the southern border after figures show there were nearly 190,000 attempted crossings",
@@ -214,7 +266,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -270,7 +322,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 337,
+      "heat": 357,
       "tags": null,
       "images": [
         {
@@ -548,7 +600,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1295,58 +1347,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-biden-to-reappoint-jerome-powell-as-fed-chair-say-economists.md",
-      "title": "Biden to reappoint Jerome Powell as Fed chair, say economists",
-      "excerpt": "U.S. President Joe Biden will reappoint current Federal Reserve Chair Jerome Powell for a second four-year term starting February next year, according to an overwhelming majority of economists polled by Reuters this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-economy-fed-poll-idUSKBN2EM0Y1",
-      "originalUrl": "https://www.reuters.com/article/us-usa-economy-fed-poll-idUSKBN2EM0Y1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210716&t=2&i=1569058150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6F0FQ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2EM0Y1",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EM0Y1",
-      "publishedDateTime": "2021-07-16T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

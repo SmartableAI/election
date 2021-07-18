@@ -178,6 +178,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden, Harris: Protect voting rights to honor John Lewis | Charlotte Observer"
+    excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
+    publishedDateTime: 2021-07-17T21:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 67
   - title: "Live updates: Kamala Harris says Texas Democrats showing \"extraordinary courage\" in effort to leave the state"
     excerpt: "Here's the latest updates on the Texas Democrats' attempts to leave Texas to block the special legislative session and a GOP voting restrictions bill."
     publishedDateTime: 2021-07-12T19:07:00Z

@@ -47,22 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Top Biden officials now believe COVID lab leak possible: report"
-    excerpt: "Biden administration officials are divided over the origin of the coronavirus, but an increasing number now believe that it could have leaked from a lab in Wuhan, China, according to a report."
-    publishedDateTime: 2021-07-17T15:13:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQ6sxe9zDaI/biden-officials-covid-lab-leak-theory"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-officials-covid-lab-leak-theory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-officials-covid-lab-leak-theory.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden calls for hiring more police, cracking down on illegal guns to combat crime"
     excerpt: "President Biden on Monday convened federal law enforcement and community leaders to discuss his administration’s comprehensive strategy to reduce gun crimes."
     publishedDateTime: 2021-07-12T19:29:55Z
@@ -170,6 +154,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Hunter-Biden-george-Bergers-gallery-3.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Top Biden officials now believe COVID lab leak possible: report"
+    excerpt: "Biden administration officials are divided over the origin of the coronavirus, but an increasing number now believe that it could have leaked from a lab in Wuhan, China, according to a report."
+    publishedDateTime: 2021-07-17T15:13:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-officials-covid-lab-leak-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-officials-covid-lab-leak-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-officials-covid-lab-leak-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden Ignoring COVID-19 Dangers at Border and in Hospitals"
     excerpt: "COVID-19 cases in the US leapt 47.5% last week from the previous week. Shots in arms, not shutdowns, are the answer. Among the big risks to Americans right"

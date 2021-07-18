@@ -203,12 +203,28 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "‘A madman with millions of followers’: what the new Trump books tell us"
+    excerpt: "Books show how close the US came to disaster, and document an unprecedented moment in US history that is not yet over"
+    publishedDateTime: 2021-07-17T11:24:00Z
+    webUrl: "https://www.theguardian.com/books/2021/jul/17/donald-trump-books-leonnig-rucker-bender-wolff"
+    ampWebUrl: "https://amp.theguardian.com/books/2021/jul/17/donald-trump-books-leonnig-rucker-bender-wolff"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/17/donald-trump-books-leonnig-rucker-bender-wolff"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/397aea32919885738f1e6d8ed8c6734ef87b3f19/0_116_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=81436f5376a92c3ed23e492cd1328ef4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "AP: Few AZ voter fraud cases, discrediting Trump's claims"
     excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year's presidential election that requi"
-    publishedDateTime: 2021-07-17T00:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-arizona-voter-fraud-cases-undercut-trumps-claims-78891373"
+    publishedDateTime: 2021-07-17T04:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
     type: article
     provider:
       name: ABC
@@ -389,6 +405,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQWXJBLQAVD7RE7BGU6FWUNQ2Q.jpg&w=1440"
         width: 1106
         height: 622
+        isCached: true
+  - title: "The media scramble at the heart of Trump Book Summer"
+    excerpt: "As multiple books about the last president race to the shelves, juicy revelations have journalists chasing advance copies and looking for the best parts. It’s not bad for sales."
+    publishedDateTime: 2021-07-17T09:47:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/trump-books-journalist-scoops/2021/07/16/99241cc0-e574-11eb-b722-89ea0dde7771_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WGMCKWXGLUI6XJA6ZBCCYIJ7VA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Top Generals under Trump feared a coup"
     excerpt: "Watch \"Top Generals under Trump feared a coup accoring to a new tell-all book\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -608,22 +638,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "AP: Few Arizona voter fraud cases undercut Trump's claims"
-    excerpt: "Arizona county election officials have identified fewer than 200 cases of potential voter fraud out of more than 3 million ballots cast in last year's presidential election, undercutting former President Donald Trump's claims of a stolen election as his allies continue a disputed ballot review in the state's most populous county."
-    publishedDateTime: 2021-07-16T19:02:00Z
-    webUrl: "https://www.chron.com/news/article/AP-Few-Arizona-voter-fraud-cases-undercut-16320162.php"
-    ampWebUrl: "https://www.chron.com/news/amp/AP-Few-Arizona-voter-fraud-cases-undercut-16320162.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-Few-Arizona-voter-fraud-cases-undercut-16320162.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Rural county in Nevada decides not to rename road for Trump"
     excerpt: "Elected officials in a rural Nevada county where voters sided solidly with Republican President Donald Trump in the 2020 election have rejected a proposal to rename a road for him. Lyon County commissioners cited community opposition before voting 3-2 on Thursday against renaming the half-mile (0."
     publishedDateTime: 2021-07-16T20:57:00Z
@@ -698,6 +712,17 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "AP: Few Arizona Voter Fraud Cases Undercut Trump's Claims"
+    excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year's presidential election that require review by local prosecutors."
+    publishedDateTime: 2021-07-16T19:59:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-16/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-16/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-16/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Donald Trump Jr. Remarks at CPAC"
     excerpt: "T18:10:26-04:00 Trump Jr. delivers remarks at the 2021 Conservative Political Action Conference (CPAC) in Dallas. Javascript must be enabled in order to access C-SPAN videos. This program contains introductory remarks at the beginning of a session at the Conservative Political"
     publishedDateTime: 2021-07-09T23:32:00Z

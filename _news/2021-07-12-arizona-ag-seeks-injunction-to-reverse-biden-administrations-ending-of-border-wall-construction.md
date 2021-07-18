@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "White House doubles down on its harsh criticism of Facebook following Biden's 'killing' remarks"
+    excerpt: "The White House isn't backing down from its harsh criticism of Facebook after President Biden on Friday accused the social media giant of \"killing people\" with misinformation about coronavirus vaccinations. "
+    publishedDateTime: 2021-07-17T21:42:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U0amfo7RRuM/white-house-criticism-facebook-biden-killing-remarks"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
     excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."
     publishedDateTime: 2021-07-15T15:14:44Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-ru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/russia-trump-putin-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Noem says she’s ‘counting’ on Trump running again in 2024"
+    excerpt: "Republican Gov. Kristi Noem of South Dakota - speaking with Fox News during a trip to Iowa - says she’s “counting” on former President Trump to run again for the White House in 2024."
+    publishedDateTime: 2021-07-17T02:00:00Z
+    webUrl: "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "From ‘coup’ warnings to alleged Kremlin documents, journalists refight the Trump wars"
     excerpt: "From the Pentagon to the Kremlin, new allegations against Donald Trump are emerging almost by the hour as a flood of books and investigative pieces hit the marketplace."

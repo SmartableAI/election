@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Biden, Harris: Protect voting rights to honor John Lewis"
-excerpt: "President Joe Biden and Vice President Kamala Harris on Saturday both marked the one-year anniversary of U.S. Rep. John Lewis's death by urging Congress to enact laws"
-publishedDateTime: 2021-07-17T19:09:00Z
-originalUrl: "https://www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.html"
-webUrl: "https://www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.html"
-ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.amp.html"
-cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.amp.html"
+excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
+publishedDateTime: 2021-07-17T21:45:00Z
+originalUrl: "https://www.thenewstribune.com/news/nation-world/national/article252852678.html"
+webUrl: "https://www.thenewstribune.com/news/nation-world/national/article252852678.html"
+ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article252852678.html"
+cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article252852678.html"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Bozeman Daily Chronicle
-  domain: bozemandailychronicle.com
+  name: News Tribune
+  domain: thenewstribune.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/c7/8c7c0b84-76b4-536a-88d7-b695957fad15/60f32cbcd6266.image.jpg?resize=1024%2C704"
-    width: 1024
-    height: 704
-    isCached: true
 
 related:
   - title: "Watch live: Biden, Harris speak at virtual climate summit"
@@ -1616,6 +1610,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "r/MeM3sVps/P38aS0Xk27meTOe7DyFY0h69236jyeCiCBiCN4XdcMG0mU+H2Ojf5mW8y4x9WyeAtWhuOUj9u7CkOFpumW8rGBvbvlhzKLQzRbfL+V+xw/kp4AVX8g7r+AGBw6czOzEiJYaxSJzLnwbWOqy9rSUCdS+QXTwNEwjW98vu76Th6anWoilRn53ao0qD7IowjRBi50LAPjrE/eVMXOC1TcMVvUYPQ5KcG4WGofW6cCIFlcmrz+PisG8JDpbOQ/AiRknOLVq1kFOa9Kead5Ec21WZdlqOaDqHVHcz/I4XfZgwxq9LGW4P/YHBNwzlJh2kgI1ugM3iTpCUW+fGq/DWrpCUEdhtq3Zmej9M=;04blSTSfRzGLQI+Ir9nGrA=="
+secured: "J3EVgcOmoJpUdaoBNpZhWhki7rKYAwGw0sjyGqVGVVNmvS6WpCYgEBwlYwOpWcVQCFR41jr4jncnjdF85ZY4kO2P5GfXsDh/xBYJZynuXEMi2hKE5dKKcQiQpGVOK6CEKvbmMkzgZpLCSrdImG5VTtHeBtUAfwM3JqB9MO3/V2woBtRlwcF/KfMUO8CpuwFfj6uxzuqtfCHdqAn8xQmOtwpNiU73rUWpLlPjRf/zkk5po/887ua6d4HGzVrU0h3csumDEhETvOfGrcUbmlyFWikFpkd4YKkvvE+NVmTTvWuFSiaGLmMivfdLSguramiJdFpy1jXbjVcW63V6EKg1Fy1w0JgMfFaN8Zm6n97Nz9gwyBj2G03my30SIwGt/3r7l/6E3VDJPtSbOZmHtbUTaiwYvhtSkBnseehAybcvA449ge7NlxSWl6wCUUHX7h7vrcgsNwh+RFrYi5c2Be6gmWyozaH8+Ctx7JNMPpGlFvz+fWy/dlbE624tkm7aK+1M8ZSx0dYat+rNmMpTe5Z6SA==;jBxMQUTXqdrNOcoYvF1M5Q=="
 ---
 

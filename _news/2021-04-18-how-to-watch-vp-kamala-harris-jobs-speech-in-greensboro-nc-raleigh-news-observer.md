@@ -960,22 +960,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden, Harris: Protect voting rights to honor John Lewis"
-    excerpt: "President Joe Biden and Vice President Kamala Harris on Saturday both marked the one-year anniversary of U.S. Rep. John Lewis's death by urging Congress to enact laws"
-    publishedDateTime: 2021-07-17T19:09:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.html"
-    ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.amp.html"
-    cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/biden-harris-protect-voting-rights-to-honor-john-lewis/article_b0bc7dcd-9243-51dd-a822-25f4268e6f99.amp.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 90
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/c7/8c7c0b84-76b4-536a-88d7-b695957fad15/60f32cbcd6266.image.jpg?resize=1024%2C704"
-        width: 1024
-        height: 704
-        isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
     publishedDateTime: 2021-04-21T22:37:00Z
@@ -1427,6 +1411,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Biden, Harris: Protect voting rights to honor John Lewis"
+    excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
+    publishedDateTime: 2021-07-17T21:45:00Z
+    webUrl: "https://www.thenewstribune.com/news/nation-world/national/article252852678.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article252852678.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article252852678.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 70
   - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
     excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
     publishedDateTime: 2021-04-20T14:07:00Z

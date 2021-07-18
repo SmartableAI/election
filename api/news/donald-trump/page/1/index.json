@@ -50,6 +50,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-18-ap-fact-check-trump-makes-false-claims-about-arizona-audit.md",
+      "title": "AP FACT CHECK: Trump makes false claims about Arizona audit",
+      "excerpt": "PHOENIX — Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona’s electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ap-fact-check-trump-makes-false-claims-about-arizona-audit/2021/07/17/61271ee2-e751-11eb-88c5-4fd6382c47cb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ap-fact-check-trump-makes-false-claims-about-arizona-audit/2021/07/17/61271ee2-e751-11eb-88c5-4fd6382c47cb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7B4EYCHHD4I6XCGFJ7LDQLCHZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-17T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-william-h-pauley-iii-judge-in-trump-hush-money-case-dies-at-68.md",
       "title": "William H. Pauley III, Judge in Trump Hush Money Case, Dies at 68",
       "excerpt": "He sentenced Michael D. Cohen to three years in prison for breaking campaign finance laws by helping to buy the silence of two women who said they had affairs with Donald J. Trump.",
@@ -637,7 +689,7 @@
       "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1055,
+      "heat": 1095,
       "tags": null,
       "images": [
         {
@@ -1501,58 +1553,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-john-dean-a-key-figure-in-the-watergate-scandal-said-hed-pay-to-handle-trumps-deposition-which-he-thinks-could-sell-tickets.md",
-      "title": "John Dean, a key figure in the Watergate scandal, said he'd 'pay to handle' Trump's deposition which he thinks could 'sell tickets'",
-      "excerpt": "\"He's always said 'I'm willing to give a deposition,' just like he's always said 'I'm going to turn over my tax returns,'\" Dean said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7",
-      "originalUrl": "https://www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60eb7da0ca74780018ae8cba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7?amp",
-      "publishedDateTime": "2021-07-11T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

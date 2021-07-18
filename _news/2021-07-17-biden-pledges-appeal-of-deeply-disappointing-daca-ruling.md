@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pledges-appeal-d
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden vows to appeal 'disappointing' DACA ruling"
+    excerpt: "Top News Biden vows to appeal 'disappointing' DACA ruling. Posted [NFA] President Joe Biden said on Saturday that the Justice Department will appeal a \"deeply disappointing\" rulin"
+    publishedDateTime: 2021-07-17T21:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEM8HMN3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210717&i=OVEM8HMN3&r=OVEM8HMN3&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "+vzipnhMfEMyZ/vJ1Z8ht9zm9lTEj1mytZ5fyv72myBVdK3CNbOuKQ4t1BXi0Eoox4zTr8Zzusu8akc4Dex3cumgLqLHRWtKa3pWvOeJZCsm4/VoAoDmQQzmDha2ax2/nYnPqHPpFJ+o0v4ojMgpNDdYPdQvVLyMTplE/9epjIza5Xh2fGWfCdC7qI/4SrzCpDEn0H1EqyvfryMd52Nddv55+lfKuoX0DRnIDHQXWPGVsgdmgE++LAO9oFOtUl8u1ypnRFzJ0Luy9iENqVkdHZnLxmvxk3i/WUWQArthau4S+s76skNGqHMSnxr0mz5h1HpU2V+YxndxvCrvKIFlZJhwBXeMlvoN7Bk6SXNKuQk=;NxkdYIgwVzX4I0MkBpiKpg=="

@@ -3,12 +3,12 @@ category: news
 title: "Top Biden officials now believe COVID lab leak possible: report"
 excerpt: "Biden administration officials are divided over the origin of the coronavirus, but an increasing number now believe that it could have leaked from a lab in Wuhan, China, according to a report."
 publishedDateTime: 2021-07-17T15:13:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQ6sxe9zDaI/biden-officials-covid-lab-leak-theory"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQ6sxe9zDaI/biden-officials-covid-lab-leak-theory"
+originalUrl: "https://www.foxnews.com/politics/biden-officials-covid-lab-leak-theory"
+webUrl: "https://www.foxnews.com/politics/biden-officials-covid-lab-leak-theory"
 ampWebUrl: "https://www.foxnews.com/politics/biden-officials-covid-lab-leak-theory.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-officials-covid-lab-leak-theory.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -188,6 +189,6 @@ related:
         height: 500
         isCached: true
 
-secured: "udxjjVAyg11cb3gieZG+wHreRctUCzU+DJnUjz9y5ybmOQAX2oJJun7SCTvlKQPTXlxqlD04p76VNfiS1TdpWigICxTzr+utJCwg1QjIDZd1vfd2tIrMTyYno3mhQ6Nrr+ZYZSQynu7fNkXk1mBL5680L9Z7npMgKDhY8eGIhQff5bRc9DgaRpKBNxaOpxNa2MYeMaMFDd73ul9PtGUd6Nl4Qvfh2QBcny23mUc7a06ArpvyIwGMLSpb7YyxBnY8oZQ48s3orJmoqP8oagRc7v2ZLNzUK9OkAxPwCDPLAROmI+6Xk8XqG3KGIp5lqWfUqSjiamg8EuXAEtuTRghK0gDPBzSv8lZGi/lgHgSojto=;IttF/W2OX8mD6TGevlu1RQ=="
+secured: "/kNxfN07Om5H8j1bXbgyx0NyYuI7biya3JoiomNlbDKbntzhONu7EwTdvchgRbc+bMEwQ5NaIKqxtRSZ952qydTyTuG76+OTPepxpdJp95TnABUlWBUHPfWyD3BPab8GJkD7Nk3Ljk133ybtuqWQCDMOxXdURIHHWBaTO3BmOMDocCxsQ7w1x0UvWpqzoo7BmchVilvSHWxgDmlDIrQiIsDUHxPhj6kVbGkh8BBx9sUQFnSX5Ay8uHRl07s0cY94xH/vVEzDJjZn7I26x/Anmp+2m1azjOe2Z6neF6WIORXN4alY7kue9yMm/EveWBKi42W9HZQni2byofuRNITk11xRMlTONJ4eYe8ccsJtNzE=;+XBI3bMRfHyYknWbuHtmJg=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
+    excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
+    publishedDateTime: 2021-07-17T17:34:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article252835123.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252835123.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252835123.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Harris Attends Roundtable Meeting on Voting Rights"
     excerpt: "Vice President Kamala Harris delivers remarks while participating in a meeting on voting rights with members of the Black Women's Roundtable, National Council of Negro Women and other women leaders on voting rights,"
     publishedDateTime: 2021-07-16T19:38:00Z

@@ -40,18 +40,18 @@ related:
         height: 433
         isCached: true
   - title: "Joe Biden Returns to the White House from Philadelphia"
-    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
+    excerpt: "U.S. President Joe Biden salutes from the steps of Marine One helicopter on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yu"
     publishedDateTime: 2021-07-13T23:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4ea2d4f38fc788e6fe73b8f647db66fa/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4ea2d4f38fc788e6fe73b8f647db66fa/BIDEN-RETURNS.jpg"
         width: 650
-        height: 940
+        height: 433
         isCached: true
   - title: "Olivia Rodrigo meets with President Joe Biden and Dr. Anthony Fauci"
     excerpt: "Olivia Rodrigo arrives to the White House to meet with President Joe Biden and Dr. Anthony Fauci as part of White House Covid vaccine push in Washington, D.C., U.S., on Wednesday, July 14, 2021. Photo"
