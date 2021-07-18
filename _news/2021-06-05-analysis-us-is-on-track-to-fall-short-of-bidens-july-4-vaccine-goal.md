@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why the economy could make or break Biden's presidency"
+    excerpt: "Former President Donald Trump broke the mold when it came to how the economy correlated with election outcomes. More people approved than disapproved of his economic performance, yet his party lost the House in 2018 and the Senate and presidency in 2020.\n    \n"
+    publishedDateTime: 2021-07-18T18:10:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wwUck3T8w3A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/18/politics/economy-biden-presidency-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/18/politics/economy-biden-presidency-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Biden's delivering more leverage for workers, if not in the way he planned"
     excerpt: "Candidate Joe Biden promised to help American workers bargain for higher wages. For a while, at least, President Biden is delivering.\n    \n"
     publishedDateTime: 2021-06-06T11:00:37Z

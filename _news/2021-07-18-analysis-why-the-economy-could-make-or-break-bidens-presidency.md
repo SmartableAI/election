@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Analysis: DeSantis and Biden make nice on the national stage"
-excerpt: "Florida Gov. Ron DeSantis has been hard at work raising his profile within the national Republican Party. \n    \n"
-publishedDateTime: 2021-07-01T22:33:06Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAhi3ZlS0no/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAhi3ZlS0no/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/desantis-biden-2024-surfside-florida/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/desantis-biden-2024-surfside-florida/index.html"
+title: "Analysis: Why the economy could make or break Biden's presidency"
+excerpt: "Former President Donald Trump broke the mold when it came to how the economy correlated with election outcomes. More people approved than disapproved of his economic performance, yet his party lost the House in 2018 and the Senate and presidency in 2020.\n    \n"
+publishedDateTime: 2021-07-18T18:10:39Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wwUck3T8w3A/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wwUck3T8w3A/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/18/politics/economy-biden-presidency-analysis/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/18/politics/economy-biden-presidency-analysis/index.html"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701111621-02-biden-florida-0701-desantis-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,19 +111,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why the economy could make or break Biden's presidency"
-    excerpt: "Former President Donald Trump broke the mold when it came to how the economy correlated with election outcomes. More people approved than disapproved of his economic performance, yet his party lost the House in 2018 and the Senate and presidency in 2020.\n    \n"
-    publishedDateTime: 2021-07-18T18:10:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wwUck3T8w3A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/18/politics/economy-biden-presidency-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/18/politics/economy-biden-presidency-analysis/index.html"
+  - title: "Analysis: DeSantis and Biden make nice on the national stage"
+    excerpt: "Florida Gov. Ron DeSantis has been hard at work raising his profile within the national Republican Party. \n    \n"
+    publishedDateTime: 2021-07-01T22:33:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAhi3ZlS0no/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/desantis-biden-2024-surfside-florida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/desantis-biden-2024-surfside-florida/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701111621-02-biden-florida-0701-desantis-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -206,6 +206,6 @@ related:
         height: 629
         isCached: true
 
-secured: "DiULywfBjYGjOrzbks2QqjfHyJW9HIfZbrQIc05hYJkWrg3agOIOX9rN7Mvh1OoHPWRikHYnqwJheqIaXCXKoAAblQny5xTJreYXg/keui2+xl6fMMBO/C4jCSDT7uWk+i1dtqgW1R+mlhH0RcB3nCKga5VhHoPpnw2QMieEd1YTA6tbLxElhFDMH2GjK+pSNBej1l6a89aLHjrea+QRCPB1s7hkXtRhuNaDqq55WhE851qRSW5OakURUKDoWZ9HtH8qSCv522kqbyDRUqLAa7rijTAzbnxy2b7GQJ6KH9XeKOpp7bSCh6t7nhbGHXtEAJRxABhKGKzE3zn4ilpr94AQP0ofhUxVwRaJniuQHA4=;9ZhGqcH48o7wkdlNXwq9Pg=="
+secured: "Qad+s3aRIm+M0/67YN46/aEsZr3ZVeX8o78F1JCz8FwAiA9S3aSXyjJnVhOGk53tdrSREBc1zGftkl16cPB3WU9rbrkMPxWVcRXbCpCP5h+cGKQdlSERqSS1iKsDuT7yof7CuWkXjH2zAHmiP6Dn8MdkhI6klDO6j3uab9b4SB1hx3A2xBbRiucmi3ZXn850bMpvOA8hURghua46OgTfM83j6zqkZB0YjsAb61oF+YrZJrubOs/RBYIlzjn+oQhxKg33wD9+tz7zIBCD7vuLfTqqUelQSvTncUgKhPZAMFmzvHrmy/6sffmCL2ALM0NC2caXr/IUBwHgXqaWHHGaPn8NKlWBkV6J1YAUzgCtZko=;a1rWee7o075CGQwdR8mcJQ=="
 ---
 
