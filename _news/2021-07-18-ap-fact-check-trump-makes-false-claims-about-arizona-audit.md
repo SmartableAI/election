@@ -1,20 +1,22 @@
 ---
 category: news
 title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
-excerpt: "PHOENIX — Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona’s electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate ..."
-publishedDateTime: 2021-07-17T17:50:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-makes-false-claims-about-arizona-audit/2021/07/17/61271ee2-e751-11eb-88c5-4fd6382c47cb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-makes-false-claims-about-arizona-audit/2021/07/17/61271ee2-e751-11eb-88c5-4fd6382c47cb_story.html"
+excerpt: "Former President Donald Trump issued three statements in two days claiming that voting fraud and irregularities cost him Arizona’s electoral votes"
+publishedDateTime: 2021-07-17T22:52:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
 type: article
-quality: 105
-heat: 105
+quality: 125
+heat: 125
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,11 +25,11 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7B4EYCHHD4I6XCGFJ7LDQLCHZM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_d41fc5cd7794411798da8de37cc52341_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "hjxoB41wCdZDlg8HLFckpKUpF1onZK/ak75TG+SR5wspP9isR7F6eXVRe72H4jzJiGSNdnVO74Z39kXYUwdB/gVJVvzaY51bGW3Z9bxZVPbJpQ5xWbDAZC7uXpEJMNcp/Y8WSb3QV40hwyon8yZvyXg8qNaZo0ZE6c2B1fFDPjAumOSeZXtOzSb9r2D3CN+FKD1L5v6mm2qcj4G593i8HsrWLD7XD/jkAjVEG/oUx+JzuDzaVCNjoxL+cmefjN8cI5BrBDxL+4rp19zFG5GmFFZnBt/Drr3IOmE+F2/6pGIooblKsJMbKktaFvdUKYVC3EdQPIjq+Mujaisnhj6NpTLvL7OpoPn9yMnTOCDDJHu9StOxaT/227mTYMoiXZ/oKWrUZxAs27o7/FptRIg+j+Fs3L6HBICmJ0hCZRoe7UDf9KnIieiDZ6ebF8qvFYnd3X9u8+0N5KIfwfno1QuuHx4aGpKHUpgmXAnCIM9KOQUZSStvqRDlpL+w5jwE1JxP9RjoZQBL/cUyNhOsQ/JZiQ==;kDWQeF3M5FUwB6dLeF1vcw=="
+secured: "szXyd0T3vjiGDrEPBOP9QE63SSld2MYCvJA572J0JI3h/EqokgZSn3LBYC72Lppt/lSuldMTQJXeKPDqaBo+gmIpmZ7DN2IgmMzCmwykMKEH1JrZe4PXFJbEAk7q5nQ8NwX2ugNnJwzjvbfGiAuQTOYUFSzHxgTQh0eFg1fg14yqzCBd5yg42CsZyBCkJrXEExioVQDrrOCfudTOaZUfrY/vO3ejqxLktzImbNw4/8MnPRD/7aoqR+P+Dqviotu9dXCol694F0XmjDaA1+MaWu98vwRJa93O+Fn+tdeWd6bCePQVXTOYdDRrPGjbfQrT3NLCwKTlKkxQSVvMxWDhXQZ8CxphHgPmrAf85irRj4k=;gVDSP2kMaBGCoXp/aTCyMg=="
 ---
 

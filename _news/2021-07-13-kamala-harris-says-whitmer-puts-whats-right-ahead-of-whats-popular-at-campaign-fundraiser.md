@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Harris says voting bills honor ‘American hero’ John Lewis"
-excerpt: "Vice President Kamala Harris is urging Congress to honor the civil rights legacy of the late U.S. Rep. John Lewis by protecting voting rights."
-publishedDateTime: 2021-07-17T17:06:00Z
-originalUrl: "https://www.kansascity.com/news/politics-government/national-politics/article252852678.html"
-webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article252852678.html"
-ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article252852678.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article252852678.html"
+title: "Kamala Harris says Whitmer ‘puts what’s right ahead of what’s popular’ at campaign fundraiser"
+excerpt: "Vice President Kamala Harris said she and President Joe Biden stand behind Gov. Gretchen Whitmer during a stump speech at a fundraiser for the Democratic governor’s reelection campaign in Detroit. Harris addressed a crowd of roughly 40 people at the TCF Center in Detroit during her first visit to Michigan since taking office."
+publishedDateTime: 2021-07-13T02:41:00Z
+originalUrl: "https://www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html"
+webUrl: "https://www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html"
+ampWebUrl: "https://www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html?outputType=amp"
 type: article
-quality: 55
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: MLive
+  domain: mlive.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5GHPCQPMGNDKLJJDTGFGUOZ6FM.JPG"
+    width: 8256
+    height: 5504
+    isCached: true
 
 related:
   - title: "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit"
@@ -101,22 +107,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris says Whitmer ‘puts what’s right ahead of what’s popular’ at campaign fundraiser"
-    excerpt: "Vice President Kamala Harris said she and President Joe Biden stand behind Gov. Gretchen Whitmer during a stump speech at a fundraiser for the Democratic governor’s reelection campaign in Detroit. Harris addressed a crowd of roughly 40 people at the TCF Center in Detroit during her first visit to Michigan since taking office."
-    publishedDateTime: 2021-07-13T02:41:00Z
-    webUrl: "https://www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 64
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5GHPCQPMGNDKLJJDTGFGUOZ6FM.JPG"
-        width: 8256
-        height: 5504
-        isCached: true
   - title: "VP Kamala Harris urges vaccination in Michigan: 'This virus does not care who you voted for'"
     excerpt: "In an exclusive interview with the Free Press Monday, Vice President Kamala Harris talked about the urgent need to get more people COVID-19 vaccines."
     publishedDateTime: 2021-07-13T10:22:00Z
@@ -155,7 +145,18 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Harris says voting bills honor ‘American hero’ John Lewis"
+    excerpt: "Vice President Kamala Harris is urging Congress to honor the civil rights legacy of the late U.S. Rep. John Lewis by protecting voting rights."
+    publishedDateTime: 2021-07-17T17:06:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article252852678.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article252852678.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article252852678.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 55
 
-secured: "OtTZVHIY9FRKo8s0kyd6slVZUi8+1HG8Wm4zBJEgC57ch3Zc2zIDXCuCwcUEwsOwbvKcsfDAbxRDdXR8NxcgzNIhEO3fSr0LmMEInXMdM6HPtXK+FW8FTpqk4bQX0+2826vIIJysbFW4WiZDjKG/oaEYdVgTMb1Dwc96ns5/3S8LSbjUQ0bQbut2ySnKr3ZmwNlmqdMlEkg/370qDj8dZSssKdHdnqhIuMwFVp2DZY6ikjtIqTToEXOnsz9dO/oOhFdeMB6hvAz5TcWwGCWgHpW2Wm/z55BrPO7F6fWSX6Af2KMNq03MuU5PgWBEZQwtiHxC19w7g5vCCxdiJSCSlljlknu8U8FzgxYKlVuTyJy47WuVoSPrK/3mX4rodRgWsjwqOoeYTV8hRCFa0NC9vcMuLuA0X3Te2Ca8qEM28X2XkBNZhsNdSBV9JB3PFULh/Gt4E96CAhqh9d1jiIWgyPlNybVBKTdEbP6qN/9DW0tV29pVTaJjZwBy4yvFdanmIt9DChbFjm5NwSzKyVKEGw==;mk6sF4yGczBfUfJLcCXDCQ=="
+secured: "sp20yHv/aHKoPLEhu1qw+yOeSP+WBqDoPOtGyJ+e/A22DuJgvWjb4eXXgkVdAUOokcKIDhyJfjfYtUYn6NMWGwr+zm6UNNpbW53/N919+NGx9VP71mbUm3m1p6mCwkw1+crmSsM53YtuHbZcjs8xiN6+o2eYn4xSnR6VuJMaDhOTMD5pLQ5IZV9gv/vnAx26ItPnvGIAjJyUq953DDtZWVr0JHQ/wqgEaOaAXB+GFBV8ctrfSePjUjDVxy1d2gsJvKuIlUtbqy9S5wihRSzEOXRVFyjmtJFCvwKgsrYkwO8SYOqf8FzGOlLdec3j0HaKObh+C/Kj/fJ8hkVzLVE0uysbMau7jS00wMBtRwGi4MM=;Kpfa0UuNscyrR6lHTI4TUA=="
 ---
 

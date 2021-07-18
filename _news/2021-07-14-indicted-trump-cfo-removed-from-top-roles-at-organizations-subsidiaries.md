@@ -256,6 +256,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Two Accounts of Donald Trump’s Final Year in Office, One More Vivid and Apt Than the Other"
+    excerpt: "I Alone Can Fix It,” by Carol Leonnig and Philip Rucker, and “Landslide,” by Michael Wolff, take different approaches to recounting the events of 2020 and early 2021."
+    publishedDateTime: 2021-07-15T12:25:00Z
+    webUrl: "https://www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/19/books/review/19BOOKWOLFF-LEONNIG-RUCKER1/19BOOKWOLFF-LEONNIG-RUCKER1-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
     excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
     publishedDateTime: 2021-07-13T08:30:00Z

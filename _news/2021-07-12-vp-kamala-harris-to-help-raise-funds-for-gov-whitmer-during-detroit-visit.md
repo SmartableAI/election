@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7934543002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7934543002"
 type: article
 quality: 123
-heat: 283
+heat: 303
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris says Whitmer ‘puts what’s right ahead of what’s popular’ at campaign fundraiser"
+    excerpt: "Vice President Kamala Harris said she and President Joe Biden stand behind Gov. Gretchen Whitmer during a stump speech at a fundraiser for the Democratic governor’s reelection campaign in Detroit. Harris addressed a crowd of roughly 40 people at the TCF Center in Detroit during her first visit to Michigan since taking office."
+    publishedDateTime: 2021-07-13T02:41:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/kamala-harris-says-whitmer-puts-whats-right-ahead-of-whats-popular-at-campaign-fundraiser.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 64
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5GHPCQPMGNDKLJJDTGFGUOZ6FM.JPG"
+        width: 8256
+        height: 5504
         isCached: true
   - title: "VP Kamala Harris urges vaccination in Michigan: 'This virus does not care who you voted for'"
     excerpt: "In an exclusive interview with the Free Press Monday, Vice President Kamala Harris talked about the urgent need to get more people COVID-19 vaccines."

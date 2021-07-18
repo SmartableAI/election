@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Smerconish: Here's why Trump refuses to take the next logical step"
-excerpt: "With new vaccinations dwindling and Covid-19 cases going up across the US, CNN's Michael Smerconish asks why won't former President Trump is not stepping up help bridge the vaccine's political divide.\n    \n"
-publishedDateTime: 2021-07-17T16:59:44Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LrOEIGbFXY/smerconish-why-wont-trump-promote-vaccination.cnn"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LrOEIGbFXY/smerconish-why-wont-trump-promote-vaccination.cnn"
-ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/07/17/smerconish-why-wont-trump-promote-vaccination.cnn"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/07/17/smerconish-why-wont-trump-promote-vaccination.cnn"
+title: "Two Accounts of Donald Trump’s Final Year in Office, One More Vivid and Apt Than the Other"
+excerpt: "I Alone Can Fix It,” by Carol Leonnig and Philip Rucker, and “Landslide,” by Michael Wolff, take different approaches to recounting the events of 2020 and early 2021."
+publishedDateTime: 2021-07-15T12:25:00Z
+originalUrl: "https://www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.html"
+webUrl: "https://www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.amp.html"
 type: article
-quality: 175
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210717091948-smerconish-why-wont-trump-promote-vaccination-00000000-super-tease.png"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/07/19/books/review/19BOOKWOLFF-LEONNIG-RUCKER1/19BOOKWOLFF-LEONNIG-RUCKER1-facebookJumbo.png"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -92,6 +93,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128150146-01-kevin-mccarthy-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Smerconish: Here's why Trump refuses to take the next logical step"
+    excerpt: "With new vaccinations dwindling and Covid-19 cases going up across the US, CNN's Michael Smerconish asks why won't former President Trump is not stepping up help bridge the vaccine's political divide.\n    \n"
+    publishedDateTime: 2021-07-17T16:59:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LrOEIGbFXY/smerconish-why-wont-trump-promote-vaccination.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/07/17/smerconish-why-wont-trump-promote-vaccination.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/07/17/smerconish-why-wont-trump-promote-vaccination.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210717091948-smerconish-why-wont-trump-promote-vaccination-00000000-super-tease.png"
         width: 1100
         height: 619
         isCached: true
@@ -255,22 +272,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "Two Accounts of Donald Trump’s Final Year in Office, One More Vivid and Apt Than the Other"
-    excerpt: "I Alone Can Fix It,” by Carol Leonnig and Philip Rucker, and “Landslide,” by Michael Wolff, take different approaches to recounting the events of 2020 and early 2021."
-    publishedDateTime: 2021-07-15T12:25:00Z
-    webUrl: "https://www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 125
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/19/books/review/19BOOKWOLFF-LEONNIG-RUCKER1/19BOOKWOLFF-LEONNIG-RUCKER1-facebookJumbo.png"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
     excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
     publishedDateTime: 2021-07-13T08:30:00Z
@@ -286,6 +287,6 @@ related:
         height: 773
         isCached: true
 
-secured: "M+Fzl2rHokEzuNy61taRDYtc6sRCw7kbZn6X5psW7iOKsjMcpV0DLD0fYJeggOGn6GFWebHwCrrR7+Fb9lVJaZj9uf51Rg6owgo0Q8rYl0uBYhEtA+/LbiuWZ9YzX/uMY+nYSrNis7WUj/RlPvWYMZRuj9+uaIHlnDZzNRqvYE8lECqnhjS10I909Ddg7/KIYeWS9N/UYcga7uo5CM/y96LXTSHfb7E7uEunkduubVGFYmSgLd4RylFwTFkRQiRLBVXpyWKURhY2Nt2W0Ict9UfEoP/s6SdvLSSjwGMgK0KMcIFD7u9VN9qGhgMLbJdjXjb/dBdP/CdJSbM+pdy7zVoyEoVbu5sJzvAHODUQXGA=;9wm8RoDkTzCqI0P05T/VRg=="
+secured: "0tcyvMh+IiItcQ2SBzhliYMdMX95V47E98SlV9NQKML0cBimpa7SaFyNURCD4MrmmyPO1JF/gfOc/AKwG6yB7VGdwc0vlW75PrhGM3QsoQ505yjznG/XL6ibsMdYiNbQam0ug31yLI8IUnvy1Fc+MhiUqsfRihJShNOp1XhV+Eg6frJhqkNKrzuYsyBC+YmBugkwqVeaxMaefehtwnVu3nGi58leGcSD5h0WkZQPoFrOG1ZgKe1G3Vprun0wNkxGFpcws5WwOTlm64P2t2ry49NwZ86D5a592dVBXh8h/+L8ZoCok50xBRsa2MImlhaJjmcmF+Xu4b0O6NrJA4qBChCNv2LZugQhKBdeZyZk7Pk=;0qlcuPm3iDDYL0wifLBkbQ=="
 ---
 

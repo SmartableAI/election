@@ -270,6 +270,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Two Accounts of Donald Trump’s Final Year in Office, One More Vivid and Apt Than the Other"
+    excerpt: "I Alone Can Fix It,” by Carol Leonnig and Philip Rucker, and “Landslide,” by Michael Wolff, take different approaches to recounting the events of 2020 and early 2021."
+    publishedDateTime: 2021-07-15T12:25:00Z
+    webUrl: "https://www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/books/review-landslide-donald-trump-michael-wolff-i-alone-can-fix-it-carol-leonnig-philip-rucker.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/19/books/review/19BOOKWOLFF-LEONNIG-RUCKER1/19BOOKWOLFF-LEONNIG-RUCKER1-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "pHl3nN9OoRIGkOK76ixk6ASciAyMoG32cxPJVlo7uQq/l74ZSJM/P20IxCBiIie53N3DdFvFLpUlzcTPYL2MGTrD+Xu0fk+u7lYxN2j2JofYjUhrB8O/OVRgBg7u9jDH3ol8n2j5UkIvOin1KewvXzFxyJfL6Gk+UCXLhYN5OMvq81F32A3BxNN8z15ZwZScBn3AgZwjNyuXe9Cw/SUhHC/lkY2+H/FHSD/5EIO5GPPXHTf49TS24f3sjXfqWvULGNng2zpeaZuh/dY/EFaWAKRR5I2A5W1FmLcqEnIX3jpU1iEoWXagxW6b6y4wrBEdd1WExjIOOa2vzvJZ074TNW//NRKaM2PLRhcGkjxVE5rgsCzEBrin9omn8s54peTgIuNACLDRi7gODjxkl5efAURgbjzokyvCrVLp/Gu2E4fPuelB3no2H4gQ0Q/EkBJHqHBHLKAl75xM67rFD6ip5S46tx6UiCGmpW6/Db6rg+M7gnhm+6G1SCp1J+DwoDV29UvjcTrT4YVHEKR1XeuuDA==;qV3x+t9acVI1UqmSlHwgsw=="
 ---
