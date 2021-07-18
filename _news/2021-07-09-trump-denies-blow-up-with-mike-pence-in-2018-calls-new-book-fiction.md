@@ -540,6 +540,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The definitive oral history of how Trump took over the GOP, as told to us by Cruz, Rubio, and 20 more insiders"
+    excerpt: "Trump became the king of the Republicans five years ago this week. We spoke to Cruz, Rubio, and many others who had front-row seats to the coronation."
+    publishedDateTime: 2021-07-18T12:20:00Z
+    webUrl: "https://www.businessinsider.com/how-trump-took-over-gop-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/60f1fd2571757b0018c6a314?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Eric Trump ‘Flipped Out,’ Yelled At Campaign Staffers After Shock Election Results"
     excerpt: "The former US president’s son, Eric Trump, reportedly got angry at campaign aides after electoral votes showed that now-President Joe Biden had won the 2020 election."
     publishedDateTime: 2021-07-14T03:45:00Z

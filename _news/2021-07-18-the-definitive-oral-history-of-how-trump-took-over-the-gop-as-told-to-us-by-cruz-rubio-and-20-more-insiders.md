@@ -1,20 +1,20 @@
 ---
 category: news
-title: "In Trump's Jan. 6 recast, attackers become martyrs, heroes"
-excerpt: "Months after Donald Trump’s supporters besieged the Capitol, the ex-president and his supporters are revising their account of that day"
-publishedDateTime: 2021-07-18T11:25:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trumps-jan-recast-attackers-martyrs-heroes-78910533"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-jan-recast-attackers-martyrs-heroes-78910533"
+title: "The definitive oral history of how Trump took over the GOP, as told to us by Cruz, Rubio, and 20 more insiders"
+excerpt: "Trump became the king of the Republicans five years ago this week. We spoke to Cruz, Rubio, and many others who had front-row seats to the coronation."
+publishedDateTime: 2021-07-18T12:20:00Z
+originalUrl: "https://www.businessinsider.com/how-trump-took-over-gop-2021-7"
+webUrl: "https://www.businessinsider.com/how-trump-took-over-gop-2021-7"
 type: article
-quality: 105
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4b78c14f27aa48ec9dbc1c5049e8c6f0_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.insider.com/60f1fd2571757b0018c6a314?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -452,6 +452,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "In Trump's Jan. 6 recast, attackers become martyrs, heroes"
+    excerpt: "Months after Donald Trump’s supporters besieged the Capitol, the ex-president and his supporters are revising their account of that day"
+    publishedDateTime: 2021-07-18T11:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-jan-recast-attackers-martyrs-heroes-78910533"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4b78c14f27aa48ec9dbc1c5049e8c6f0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
     publishedDateTime: 2021-07-08T20:17:00Z
@@ -543,20 +557,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/28/virus_outbreak_trump_fact_check_43481_c0-0-3693-2154_s1200x700.jpg?3001f657d3eebe37f8930f23996b303c6df4f7a9"
         width: 1200
         height: 700
-        isCached: true
-  - title: "The definitive oral history of how Trump took over the GOP, as told to us by Cruz, Rubio, and 20 more insiders"
-    excerpt: "Trump became the king of the Republicans five years ago this week. We spoke to Cruz, Rubio, and many others who had front-row seats to the coronation."
-    publishedDateTime: 2021-07-18T12:20:00Z
-    webUrl: "https://www.businessinsider.com/how-trump-took-over-gop-2021-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/60f1fd2571757b0018c6a314?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Eric Trump ‘Flipped Out,’ Yelled At Campaign Staffers After Shock Election Results"
     excerpt: "The former US president’s son, Eric Trump, reportedly got angry at campaign aides after electoral votes showed that now-President Joe Biden had won the 2020 election."
@@ -790,6 +790,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "BDUXo9fAv3kNTwkEm6KwDPPMhJ6xymunxl2HNgm2tdcKAga4dq4Eom7G2iFMStCdXWN4fWu+uHTnqObL5Uzj9L6AdTqjy2ebQ2IjEEMLu4ljMXxJd9FBLHGdisH593pYGZ+qC2IDuUgO89ZRmBC4ChfFazHBWC7Zw337jlQHFPvacnralLl9derCgq9YrJir75Wp/x9sO4B30cye53G9j1JRXQEexGaHPBe8DbOGr5Bypg384n1j4Z29dptQpwUroncNJOm8kvqmC069kw6EDUSczGoN6BUCDwQXTDgcpm+9xkVNf5xZQ2IKzkoVgMkAy1MC98IpDJ2o14w8BDi0HOy/M6xceOIqREbpfjSpusQdXXdBsYHRZeYbSqtFQ/qqOTZx0gr+7xOiDu76OZ/lg3gcwdV2gu6zofqx3LiashR/n7xMM5SAVN0tWc0Tj7LGluPDGcHHrhUvyOuyqxuWeBcQ9TqgJHa1f4ymavjCn1c7JTUMN8AGxvT2LLMPocLXxBnDgxosblz21BGS8qZipA==;e9x9S6GMVgmDyppsm3zSoA=="
+secured: "ncSoJr/fvBy0sMjoltUC1eiOStpl06cuPT62vwjjtPg1dXJ7zp6ZqwviJPFcVRYvRQfU+I4nSzcjjMd0MC/mlOMsDVkOCteAJvEKFwXhgPdaTBWsktlC53Xp2GpXGpYxUiCdWr6RqUNgbm7kmo7XNyJD0dRoDbhYNFJItZ/44W+fxQvX1swfxgPuRrPW38uKe4XB4fxSin1q1Mi4RjfZFPQq6obYdC9Sf7MzxlKglxza6zvK5FqXQa3pb8rWhTaB8PE+evVQbM0yb4vR8ZDJMALndGbUJvScm0qJTcUZGcPP2Hmvy62gIPH1pdc8y+ewzQ5TnZ1KVs8KOOo8+CYe5i08fJRybiaDxkQ7sy75gzg=;sTsflMaN/pm/kb5LoVt4qg=="
 ---
 
