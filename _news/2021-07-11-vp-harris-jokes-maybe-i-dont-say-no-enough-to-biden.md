@@ -47,7 +47,7 @@ related:
   - title: "Malzberg: What People Missed From The Kamala Harris BET Interview"
     excerpt: "RT: It's happened again. Vice President Kamala Harris sits down for another one on one interview, and she blows it when asked about voter ID. We'll show you much more from that media disaster. Host Steve Malzberg points out that in the interview Harris said it should be mandatory for police to fill out a report when a woman is raped."
     publishedDateTime: 2021-07-13T22:51:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.amp.html"
     type: article

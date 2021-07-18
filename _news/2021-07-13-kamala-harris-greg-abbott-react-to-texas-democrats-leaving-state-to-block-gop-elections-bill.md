@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7943614002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7943614002"
 type: article
 quality: 129
-heat: 549
+heat: 569
 published: true
 
 provider:
@@ -264,6 +264,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ee64d7e3-70f5-4fca-b473-b39e5b2b525d_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Harris: Voting bills honor John Lewis"
+    excerpt: "Congress should honor the memory of the late U.S. Rep. John Lewis by enacting laws to protect voting rights, Vice President Kamala Harris said Saturday in a statement on the one-year anniversary of his death."
+    publishedDateTime: 2021-07-18T09:07:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/jul/18/harris-voting-bills-honor-john-lewis/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/198906915_4a1-lewis-0718_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
     excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"

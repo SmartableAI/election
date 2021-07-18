@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
-excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
-publishedDateTime: 2021-07-09T03:01:00Z
-originalUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
-webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+title: "Harris: Voting bills honor John Lewis"
+excerpt: "Congress should honor the memory of the late U.S. Rep. John Lewis by enacting laws to protect voting rights, Vice President Kamala Harris said Saturday in a statement on the one-year anniversary of his death."
+publishedDateTime: 2021-07-18T09:07:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/jul/18/harris-voting-bills-honor-john-lewis/"
+webUrl: "https://www.arkansasonline.com/news/2021/jul/18/harris-voting-bills-honor-john-lewis/"
 type: article
-quality: 45
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Bozeman Daily Chronicle
-  domain: bozemandailychronicle.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-    width: 1200
-    height: 630
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/198906915_4a1-lewis-0718_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -275,20 +275,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Harris: Voting bills honor John Lewis"
-    excerpt: "Congress should honor the memory of the late U.S. Rep. John Lewis by enacting laws to protect voting rights, Vice President Kamala Harris said Saturday in a statement on the one-year anniversary of his death."
-    publishedDateTime: 2021-07-18T09:07:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/jul/18/harris-voting-bills-honor-john-lewis/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/198906915_4a1-lewis-0718_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
     excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
     publishedDateTime: 2021-07-13T23:12:00Z
@@ -333,6 +319,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
+    excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
+    publishedDateTime: 2021-07-09T03:01:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris says Democrats will spend more to register voters as GOP pushes to limit voting"
     excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee would more than double its planned spending on voter registration and outreach ahead of the 2022 midterm"
     publishedDateTime: 2021-07-08T19:42:00Z
@@ -348,6 +348,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Dsxlr48HjgktyyRGBprkJddRmmsLjC9JMnR6m9si3bgxGLeP3x5Dy6gXU5rz+3BwAIoFJLDKRLtC9YEWLTTMFh3r8mtHCBUYrmKl6u3EpqOIW4i4Ey7W0hKYnHLsy3nYLsN6zUNzYmb/AgY/yBRJTIVof6F3Zovb1KTJKcX/20VRjdtBe4dSEYreolaZv9yN4G9nCbtEuLhxxIxPbm5TTczm3K4PZFI07cLjbRYavwqu15VkV8OhfmbA9B1/bA9ZBc+uGNrOoWHWAk0LXcWzhy4JiqVKNt17MnZ3rI2a6zoMjVhh25dWw0MKifxYSiLyrQYx0hK4PwZY4PUP2vSfzBSjh794QUoZPlGlfYQOOCM=;nkFbbRyD71Ep+53Ttad+XA=="
+secured: "6z6o1XdTEIFs/hiTt5lw8zj1GBR2ZY3TcwtTEkskdbscNuGj/5cU1EBZXfiBzX7JMPPZ0xU56S1s0ZJ5YBqBoB7hAIHqzAP49A2IxTcnBE7fQpPDnRyTSyeXsNtKR7s8m5fWr8mQtDRPN7oeRzw3KXdFVY56skuOqGlSWEhOVbl0k2ICOieAAr3MkTnFiO7NMooVInrj+Bejh/NUMJPnBAgMbmHf7o6visMdZXo2P6bW40XvKikxgcqb0tSgagz/98yQp50JnxyX3MvqCZ31g5Fi8ma31KXjIdCySnltJYTs8W4xIxMCvq0VHYmPkekgLZSQkKGyP8TuscY0yNXCqIXMAtH9/oqVvtLarpnvrJI=;zatzdMzGVy4eOy/uxeQTOA=="
 ---
 

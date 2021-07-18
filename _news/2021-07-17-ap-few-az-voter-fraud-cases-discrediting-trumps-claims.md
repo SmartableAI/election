@@ -1,22 +1,22 @@
 ---
 category: news
 title: "AP: Few AZ voter fraud cases, discrediting Trump's claims"
-excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year's presidential election that requi"
-publishedDateTime: 2021-07-17T04:28:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-az-voter-fraud-cases-discrediting-trumps-claims-78897683"
+excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year’s presidential election that requi"
+publishedDateTime: 2021-07-16T19:46:00Z
+originalUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_6cb8e888b3504625a9f4071c1556ff28_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7J4GEHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -762,6 +762,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "PywP8j+GJJ0zLYzK7SKOy4ZZ/M3Bd218vR0swavwWPom1fKCNQtI4wyK58qcYyc6aBwA9YBT9MOj91dh4qnrSYrBFuC85oEbdV5G7nW3OcjeoVHQ7At+I3fkLqVHKb2+Yqo7f7QwSY8q6mw3BrIbNAt2uCgHgsAQ3iVQ7ct1/kaS6ksiwz6/2gd9ZqeTRww6BQz1sih1qEjaTLOOmhqLjDfjai0ZYSn6VJrIMKXbrbbjvJZLAj2bu4Zl/Jx7XiY6vL+zUd34D5jrS0zM2jGfyh6UXITxVI0MmBK2ujGyuCCT71M8zGoMMy0275FneQ8qoC0DTLbVObXntcEJeHtJQo0JdrnS3VU8VuxxjxAxWGUI2wwHoCe510do27UIiJ05ZOuy026vmtrHIaJ8FB9lwningMvaraUxCUCAPbQhmjLMhd75kwS878U7InGAZO1XEgi1bDp+nbBnrodYNSSydAI4sUyJeKCUPN6xcDCn9bZ5cIFToRZOUFbE61oU8PRYT9ZXfZCTR9BHd4aaUH8l8Q==;UlRPaJp+r/F749W0B1AsyQ=="
+secured: "gU4bczVuftcfUrnMl8InDiivngXLzQ8n5WG/N7cVilEJCZl9JUPsbLqZ1F9NfxQpnZW0FXeNIMqKT70t24ODNR936vEWGcXz6DhzUguF6wX+q0Snz5nFlUjh4jVaw5XC/ZlRQarC7zFM/jIqGaapthLtsDEIUIy7+0L09XDBfHZ9DThI7SxQeUoVDwOd5WZHJlJmdPX/GMeqT0ifIrBRB4UT7rQIBKf03XSobRMZP+hfySdEPVjfYIHT89NhZZHG5RigxymLE8Bc6/JjCkdw+8INlS+dES5uo5451qi2acTU3rttLdPgDV6XSjr/vivfdeakrM4+Sp58vaMnGEK9aemvv24IpSWMFtGhnI7wbbc=;DvZmagsQ9raNvLoFzlDSlQ=="
 ---
 
