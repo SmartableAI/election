@@ -1411,6 +1411,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Biden, Harris: Protect voting rights to honor John Lewis"
+    excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
+    publishedDateTime: 2021-07-18T19:09:00Z
+    webUrl: "https://www.sunherald.com/news/nation-world/national/article252852678.html"
+    ampWebUrl: "https://amp.sunherald.com/news/nation-world/national/article252852678.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/national/article252852678.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 70
   - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
     excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
     publishedDateTime: 2021-04-20T14:07:00Z

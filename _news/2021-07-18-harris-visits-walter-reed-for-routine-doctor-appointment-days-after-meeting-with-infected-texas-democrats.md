@@ -1,49 +1,37 @@
 ---
 category: news
-title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
-excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
-publishedDateTime: 2021-07-14T15:15:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
-ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+title: "Harris visits Walter Reed for 'routine' doctor appointment days after meeting with infected Texas Democrats"
+excerpt: "Vice President Kamala Harris is going for what a White House official told Fox News is a \"routine doctor's appointment\" at Walter Reed Medical Center on Sunday."
+publishedDateTime: 2021-07-18T18:27:53Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid"
+ampWebUrl: "https://www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 167
+heat: 247
+published: true
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://assets.realclear.com/images/54/548078.jpg"
-    width: 750
-    height: 562
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
-  - title: "Harris visits Walter Reed for 'routine' doctor appointment days after meeting with infected Texas Democrats"
-    excerpt: "Vice President Kamala Harris is going for what a White House official told Fox News is a \"routine doctor's appointment\" at Walter Reed Medical Center on Sunday."
-    publishedDateTime: 2021-07-18T18:27:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Harris says Democrats who fled Texas 'in line' with legacy of Frederick Douglass, Selma marchers, suffragettes"
     excerpt: "Vice President Kamala Harris said Democratic lawmakers who fled Texas in an effort to block the state’s new election legislation from passing are \"in line\" with the legacy of civil rights and voting rights leaders and activists, while praising them for their \"bold, courageous action.\" "
     publishedDateTime: 2021-07-14T18:15:40Z
@@ -76,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
+    excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
+    publishedDateTime: 2021-07-14T15:15:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/54/548078.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Kamala Harris: Texas Democrats Took Bold, Courageous Action In Line With Legacy of Frederick Douglass"
     excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
     publishedDateTime: 2021-07-15T03:33:00Z
@@ -93,6 +97,6 @@ related:
         height: 692
         isCached: true
 
-secured: "agXInu2ANrleODlUd+Ewb3R7TUnO0thYhXG+TWAiobaLgqaHwRfmPnWFUyptqDVBLiXnIdaNvEEoBjPAk2zXx0BUckLcD7Rw6KdGlz4QaiP4XPtBeO/gtNrH/Bf5clgACjTjWIidN2XR25rgwLZS4UoNqh30x88CgMJtRWZxPNDVybMoEPDsMEgh9rPZltxxGvetdHoYghwF4ljZIV46nlwbTx+Cr7TiigV5lJZJvf5U/CuRgUfchMr6qZycI9i6HXckZX/WZVq0rFJHY7U78ycHOtRCwLvrfhO4mwCRIJeTE64iYjzXf7OLx1HJAF0NxJazW7LERDaNfa52ZouzoCzHpC2jb+H0A1vze5woeizAqo5Tt7F3UtiLz31y4Mw7mwGKnlJiIrxqj+kcMvqH8oDnmFOAxct1tYOsw2P5MJ9LneyC2HccuKXYUlvBu2v/DZMfg84bfLaAR+3uYQfvDzacaMbzBNRgpeJpkNQqhznN5ueKJUHzDKXZMIrJwmAzu/gNhJIKARDrS7fbT6KLzQ==;bDauEIJunIXvGyxQXhFtFQ=="
+secured: "4bGkxws5QxWNN40KXofm2dimVSZylPdJYg+cMRvqlHF14dsXx+bRJAXqjy+7Bm4WztUbXEb1vT+ewDAqezIMpWsEwBSz4TFXXhHyltMvcUzTAv9djAMcDP3jNEDgKxoXD+bfcIDi2/IhtT4UMU2CQb6II+/NnPqbIWLCL63hBpEHxuJHDXpF+X2APGmgOEgbhHV9FB10rC5JSYsoieQTmCOCiowv0rQecrqSnwhh/etnNGneE3UfiM78M/dAlGQc4vc6UyjM5nuSWdAqSSixKTt2g10po5F6yLP8K6I9wejpXGxiy0NQ8lY0EtK6r/G9SKISD1G8o3E9ObmGQmz/CTmhnW6qhbQycu6FDE7PkPs=;JMfDkPo24rAURnf3XxFHcg=="
 ---
 

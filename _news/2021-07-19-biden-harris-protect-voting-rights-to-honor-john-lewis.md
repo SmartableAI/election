@@ -1,30 +1,24 @@
 ---
 category: news
-title: "VP Kamala Harris to visit Baltimore on Biden administration’s 100th day, tout COVID relief, recovery"
-excerpt: "Democratic Vice President Kamala Harris is expected to visit Baltimore the day after President Joe Biden makes his first joint address to Congress."
-publishedDateTime: 2021-04-28T20:00:00Z
-originalUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html"
-webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html"
-ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html?outputType=amp"
+title: "Biden, Harris: Protect voting rights to honor John Lewis"
+excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
+publishedDateTime: 2021-07-18T19:09:00Z
+originalUrl: "https://www.sunherald.com/news/nation-world/national/article252852678.html"
+webUrl: "https://www.sunherald.com/news/nation-world/national/article252852678.html"
+ampWebUrl: "https://amp.sunherald.com/news/nation-world/national/article252852678.html"
+cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/national/article252852678.html"
 type: article
-quality: 75
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Biloxi Sun Herald
+  domain: sunherald.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.baltimoresun.com/resizer/q-eMBQKp4K4D9uqhrC6Tktzy2SM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4XPWGYHAKGDFMQEVOHHYOJM7SU.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Watch live: Biden, Harris speak at virtual climate summit"
@@ -1230,6 +1224,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris to visit Baltimore on Biden administration’s 100th day, tout COVID relief, recovery"
+    excerpt: "Democratic Vice President Kamala Harris is expected to visit Baltimore the day after President Joe Biden makes his first joint address to Congress."
+    publishedDateTime: 2021-04-28T20:00:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/q-eMBQKp4K4D9uqhrC6Tktzy2SM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4XPWGYHAKGDFMQEVOHHYOJM7SU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris to be 1st vice president with Madame Tussauds wax figure"
     excerpt: "Kamala Harris will become the first United States vice president to have a figure on display at the Madame Tussauds wax museum in New York City."
     publishedDateTime: 2021-04-29T23:30:00Z
@@ -1395,17 +1405,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Biden, Harris: Protect voting rights to honor John Lewis"
-    excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
-    publishedDateTime: 2021-07-18T19:09:00Z
-    webUrl: "https://www.sunherald.com/news/nation-world/national/article252852678.html"
-    ampWebUrl: "https://amp.sunherald.com/news/nation-world/national/article252852678.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/national/article252852678.html"
-    type: article
-    provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 70
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z
@@ -1620,6 +1619,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "Q0nDnneNnMoE1K8f4RWM8J5O1V4xGEMISDdrFV0L/1c2P2VZ8LoH8vFQxgZXx5vhHvCE4WlFvB9oOXeKwHGkNUqsVFPrA/p7lWlhEC2vNAksgANBnGMVNR3cFmPPQfb69OVeNslB7Wzoioj19jU1Lf1q20pLezkUaMyA/jt/3J0lldWYST/EITUJrMHPxP0R7zA0oG4nSd/gZ7peYJ2vD+cLQv2ejO+raibbtsnlOyve9tKt3hrtY+Z6j6lehEUAnwHJwgd+47A38wRZiqLHm7kI5zYec5RzmNmUFqHre1HXhH4OBt6yNZpOzd7sMYDLW/ziu9s6+q7aJv4VMhyIUh4DB/ZJ1GyzCkn8O5E9Rzw1ML2PmQ1U+oQeszxbJfYBSArTkteec/NFbctnOuWh/jfcbXIQ04H3BA4/XPay8WxX21ZHjfX4ao42Qw+fbPhl2pXDLOZhpugYEPc7VUiEYRR0K9recpbK5DyL2csfWUNYGDjqWyo83ekoL0QGB543eUs9k4NXdxMdDR8AZRALQw==;45FUAbXdZP/9Wa8mi2Ra8Q=="
+secured: "kBqTluHjkX7pcDzGmKZZ+ia4EirXwDRu6O/7UF46Tgn330Nctk/qDjnUp+NLe1t7D33DYXF2OZRGqlSGueY57gzsDDOr2+6bxHvvz+8KHAJw80Vcu+ZMNUKdPXXUszp1AgnpeAvCWRatDOvZJcWDrnlR1YRThQJxhCTxbZ4fZ6s5rWx8M+zdVuoTOwsMbo1Q4TFZJ8SHz2zKr0SMFmiwjZpnPNB+HQ8z5rWQfZ21QCbcsTVVnFa1s0bZq4sxCf9wnIcjYjMj8SpDh4Rcv1pSdhpqpCaagGiXdT/kw9MPH6GB9ACCoh40jqWyCXaCk1BnBhTmu61yH3oCxQCsM27jAQg0ongbSday52t0hAApa+4ntiFxyla2UzlADeFOFQVI47fn4w6hN1I46hj0LYSKEop+2VbnRpD4q4RvR/igs2pcSttRwF7D7WyhdJncugnQnX/4NabCI9uBas/INwBTXKSjhW0n9k3KVva9alLaNRBHmeWy2wxm5bSVtEFjrO6UQswsiP1n2jnOSnMQdZ4iPQ==;4qWXlIcaU+Mao3jV4GheOg=="
 ---
 

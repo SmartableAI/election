@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/levin-biden-administration-facebook
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
 type: article
 quality: 177
-heat: 377
+heat: 397
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Cruz accuses Biden of being 'in bed' with Big Tech amid vaccine misinformation controversy"
+    excerpt: "Sen. Ted Cruz, R-Texas, on Sunday accused the Biden administration of being “in bed with Big Tech,” making the argument that comments made by White House Press Secretary Jen Psaki last week have only strengthened former President Trump’s lawsuit accusing Facebook and Twitter of censorship."
+    publishedDateTime: 2021-07-18T18:54:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K05RIHUFHMY/cruz-biden-big-tech-in-bed-vaccine-controversy"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "White House doubles down on its harsh criticism of Facebook following Biden's 'killing' remarks"
     excerpt: "The White House isn't backing down from its harsh criticism of Facebook after President Biden on Friday accused the social media giant of \"killing people\" with misinformation about coronavirus vaccinations. "

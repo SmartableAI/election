@@ -1,14 +1,14 @@
 ---
 category: news
-title: "White House doubles down on its harsh criticism of Facebook following Biden's 'killing' remarks"
-excerpt: "The White House isn't backing down from its harsh criticism of Facebook after President Biden on Friday accused the social media giant of \"killing people\" with misinformation about coronavirus vaccinations. "
-publishedDateTime: 2021-07-17T21:42:27Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U0amfo7RRuM/white-house-criticism-facebook-biden-killing-remarks"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U0amfo7RRuM/white-house-criticism-facebook-biden-killing-remarks"
-ampWebUrl: "https://www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
+title: "Cruz accuses Biden of being 'in bed' with Big Tech amid vaccine misinformation controversy"
+excerpt: "Sen. Ted Cruz, R-Texas, on Sunday accused the Biden administration of being “in bed with Big Tech,” making the argument that comments made by White House Press Secretary Jen Psaki last week have only strengthened former President Trump’s lawsuit accusing Facebook and Twitter of censorship."
+publishedDateTime: 2021-07-18T18:54:22Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K05RIHUFHMY/cruz-biden-big-tech-in-bed-vaccine-controversy"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K05RIHUFHMY/cruz-biden-big-tech-in-bed-vaccine-controversy"
+ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
 type: article
-quality: 163
+quality: 165
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
@@ -111,19 +111,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Cruz accuses Biden of being 'in bed' with Big Tech amid vaccine misinformation controversy"
-    excerpt: "Sen. Ted Cruz, R-Texas, on Sunday accused the Biden administration of being “in bed with Big Tech,” making the argument that comments made by White House Press Secretary Jen Psaki last week have only strengthened former President Trump’s lawsuit accusing Facebook and Twitter of censorship."
-    publishedDateTime: 2021-07-18T18:54:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K05RIHUFHMY/cruz-biden-big-tech-in-bed-vaccine-controversy"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
+  - title: "White House doubles down on its harsh criticism of Facebook following Biden's 'killing' remarks"
+    excerpt: "The White House isn't backing down from its harsh criticism of Facebook after President Biden on Friday accused the social media giant of \"killing people\" with misinformation about coronavirus vaccinations. "
+    publishedDateTime: 2021-07-17T21:42:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U0amfo7RRuM/white-house-criticism-facebook-biden-killing-remarks"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -208,6 +208,6 @@ related:
         height: 405
         isCached: true
 
-secured: "St1vZ08OxixlLQz/E4+TA5B7fakqhhgWl8bv+qmiSJ1cZQC+sRZj1zwWRdEP/lqiSroqQg566JRgYe9Me5yXl4H1nKLMUr2wQnJVp4QAZaWoTgzIXo9fPAA5G3VEsFCwdk/zJ+TgFjos99k/XywEONrjssZP2SIdY32TeCxJC3aaIRoLhkuxYbVmArqhIZRZhS0hXzxf5pb56pia/ZSI8XL3afND8ivHVJZn3Oti5N+VQ+AEHwOTCIdPpwjvIahz3LVX+bfjbOaZuHyoC3wkMS5UG8/I6cc76PuQLv6bJbAN9N+TCRbzLHnN0DPuuyRKE6L5E3Pe0Vt/lJEIJZaYYPxu7iOc5TshNc1GMnjNyzE=;9fuTeY3PXqVGBPPiPKhkvg=="
+secured: "4SM+2/mt2mogi/gKl7LVhlRsczuLpKXVr8PA7vgB4ugmEtkp9oNJCSh1P4umcX4TBupoeonqrVzyMyve7r3ALC3f5pFugnhCgr1l1mexnd/ar23aEHrycakpMiF8OeTPrUVEfGm8FO8VZ0LA/ayQA9E7lVV6Ez2cHZHsn3W5F/FKH7oR4ZMJuUK+igl4k2t+G9gZdzoARvXunIWHQS80qzle/RxJd3XFMc9O5qJZ0rWfPyDFkCeUy03X0w1EWPJgrsLfjre5KrwPH7Xnoxr41D2NRYMEdUEpXTOW3y+JF8m3KGd1ZG3eZpb82MoMsF8pjhNKYhqMkE2sfFFnHZsZbZFEdIFhsHa/uj4GgDnbdZE=;bLzW99ogtc351JeXgCnsmA=="
 ---
 

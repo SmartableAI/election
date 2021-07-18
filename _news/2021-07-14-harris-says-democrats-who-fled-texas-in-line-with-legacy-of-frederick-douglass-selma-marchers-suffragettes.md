@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-democrats-who-fled-texas-fre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes.amp"
 type: article
 quality: 165
-heat: 225
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris visits Walter Reed for 'routine' doctor appointment days after meeting with infected Texas Democrats"
+    excerpt: "Vice President Kamala Harris is going for what a White House official told Fox News is a \"routine doctor's appointment\" at Walter Reed Medical Center on Sunday."
+    publishedDateTime: 2021-07-18T18:27:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris compares ‘courageous’ Texas Democrats to Frederick Douglass"
     excerpt: "Vice President Kamala Harris likened a group of Texas Democrats who flew to DC on a private jet to avoid voting on a Republican election reform bill to abolitionist Frederick Douglass."
     publishedDateTime: 2021-07-14T21:53:00Z

@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Cruz accuses Biden of being 'in bed' with Big Tech amid vaccine misinformation controversy"
+    excerpt: "Sen. Ted Cruz, R-Texas, on Sunday accused the Biden administration of being “in bed with Big Tech,” making the argument that comments made by White House Press Secretary Jen Psaki last week have only strengthened former President Trump’s lawsuit accusing Facebook and Twitter of censorship."
+    publishedDateTime: 2021-07-18T18:54:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K05RIHUFHMY/cruz-biden-big-tech-in-bed-vaccine-controversy"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House doubles down on its harsh criticism of Facebook following Biden's 'killing' remarks"
     excerpt: "The White House isn't backing down from its harsh criticism of Facebook after President Biden on Friday accused the social media giant of \"killing people\" with misinformation about coronavirus vaccinations. "
     publishedDateTime: 2021-07-17T21:42:27Z

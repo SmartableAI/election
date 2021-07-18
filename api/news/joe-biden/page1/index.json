@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-18-joe-biden-six-months-on-cold-hard-reality-eclipses-early-euphoria.md",
+      "title": "Joe Biden: six months on, cold, hard reality eclipses early euphoria",
+      "excerpt": "The president reset the tone from the Trump era and passed a huge Covid relief bill but other priorities have hit formidable political obstacles",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4c9bbca37ce50ea8ab6a6bb1c9b19dc3b40b962b/0_37_5120_3071/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=408decbf4eb708f0ca8186ac8d164d10",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
+      "publishedDateTime": "2021-07-18T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-18-biden-pledges-appeal-of-deeply-disappointing-daca-ruling.md",
       "title": "Biden pledges appeal of 'deeply disappointing' DACA ruling",
       "excerpt": "He again called on Congress to pass the American Dream and Promise Act to \"finally provide security to all Dreamers, who have lived too long in fear.”",
@@ -351,58 +403,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-biden-sending-troops-to-haiti-not-on-the-agenda.md",
-      "title": "Biden: Sending troops to Haiti 'not on the agenda'",
-      "excerpt": "President Joe Biden says that the U.S. will bolster security at its embassy in Haiti following last week's assassination of that country's president, but sending American troops to stabilize the country was \"not on the agenda.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/15/biden-sending-troops-haiti-not-agenda/7986705002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/15/biden-sending-troops-haiti-not-agenda/7986705002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/0d391e16-975f-4be7-af38-992eee6e405e_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

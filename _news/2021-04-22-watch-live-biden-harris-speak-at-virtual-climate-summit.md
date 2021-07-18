@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-bide
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
 type: article
 quality: 150
-heat: 2230
+heat: 2250
 published: true
 
 provider:
@@ -1400,6 +1400,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Biden, Harris: Protect voting rights to honor John Lewis"
+    excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
+    publishedDateTime: 2021-07-18T19:09:00Z
+    webUrl: "https://www.sunherald.com/news/nation-world/national/article252852678.html"
+    ampWebUrl: "https://amp.sunherald.com/news/nation-world/national/article252852678.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/national/article252852678.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 70
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z
