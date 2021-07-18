@@ -1,14 +1,14 @@
 ---
 category: news
-title: "White House doubles down on its harsh criticism of Facebook following Biden's 'killing' remarks"
-excerpt: "The White House isn't backing down from its harsh criticism of Facebook after President Biden on Friday accused the social media giant of \"killing people\" with misinformation about coronavirus vaccinations. "
-publishedDateTime: 2021-07-17T21:42:27Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U0amfo7RRuM/white-house-criticism-facebook-biden-killing-remarks"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U0amfo7RRuM/white-house-criticism-facebook-biden-killing-remarks"
-ampWebUrl: "https://www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
+title: "Judge Jeanine slams the Biden administration: Who do you work for?"
+excerpt: "Judge Jeanine Pirro slammed the Biden administration Saturday on “Justice with Judge Jeanine” for inviting the United Nations Human Rights Council, which includes countries like China, Russia, Cuba and Venezuela,"
+publishedDateTime: 2021-07-18T02:40:00Z
+originalUrl: "https://www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for"
+webUrl: "https://www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for"
+ampWebUrl: "https://www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for.amp"
 type: article
-quality: 163
+quality: 135
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
@@ -111,6 +112,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "White House doubles down on its harsh criticism of Facebook following Biden's 'killing' remarks"
+    excerpt: "The White House isn't backing down from its harsh criticism of Facebook after President Biden on Friday accused the social media giant of \"killing people\" with misinformation about coronavirus vaccinations. "
+    publishedDateTime: 2021-07-17T21:42:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U0amfo7RRuM/white-house-criticism-facebook-biden-killing-remarks"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
     excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
     publishedDateTime: 2021-07-12T16:29:21Z
@@ -159,22 +176,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Judge Jeanine slams the Biden administration: Who do you work for?"
-    excerpt: "Judge Jeanine Pirro slammed the Biden administration Saturday on “Justice with Judge Jeanine” for inviting the United Nations Human Rights Council, which includes countries like China, Russia, Cuba and Venezuela,"
-    publishedDateTime: 2021-07-18T02:40:00Z
-    webUrl: "https://www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for"
-    ampWebUrl: "https://www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "'Sunday Morning Futures' on Trump's Big Tech lawsuit, US-China relations"
     excerpt: "Welcome to \"Sunday Morning Futures.\" I'm Maria Bartiromo. Today, breaking news, with President Trump still fightin"
     publishedDateTime: 2021-07-12T12:44:00Z
@@ -192,6 +193,6 @@ related:
         height: 405
         isCached: true
 
-secured: "St1vZ08OxixlLQz/E4+TA5B7fakqhhgWl8bv+qmiSJ1cZQC+sRZj1zwWRdEP/lqiSroqQg566JRgYe9Me5yXl4H1nKLMUr2wQnJVp4QAZaWoTgzIXo9fPAA5G3VEsFCwdk/zJ+TgFjos99k/XywEONrjssZP2SIdY32TeCxJC3aaIRoLhkuxYbVmArqhIZRZhS0hXzxf5pb56pia/ZSI8XL3afND8ivHVJZn3Oti5N+VQ+AEHwOTCIdPpwjvIahz3LVX+bfjbOaZuHyoC3wkMS5UG8/I6cc76PuQLv6bJbAN9N+TCRbzLHnN0DPuuyRKE6L5E3Pe0Vt/lJEIJZaYYPxu7iOc5TshNc1GMnjNyzE=;9fuTeY3PXqVGBPPiPKhkvg=="
+secured: "+JVlN7NICkVrUmrXY9pFpGc7VpdjjpgnWyWDBIpT7a7kgVlBvEU5bJRjFIpC1/pCH3LYJ3y8lKvCEBE3RlUEKDKeuvZuyPtG84exL+fY+E83DgG/jShQTnouZQV8AZgTzNkDG3R7ClbzpzZkNdG9VLl0vEbdPcmZ9fAfVLxOo7pySoR/vhe0V0MBpsfrJmPZyhiV9fE5tvwDUyjxBo8cvn1m6i381PjriPaRrIDV4WZZyLbDHPIhYlkWDZoV/qruF8wqNE0zTKhMQ78i4c4S/6q/+2U+2uo2AjjHjVCm/KmXKjfK127ChHsanuNMrbsuDkT585d9CnwzHD5+du5Iet1lsItdsLXukDPGCh4vElw=;LEbl/OMWUdvI5b8Tk5CmvQ=="
 ---
 

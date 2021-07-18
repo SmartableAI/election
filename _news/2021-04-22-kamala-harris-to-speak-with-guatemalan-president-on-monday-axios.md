@@ -1407,17 +1407,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Biden, Harris: Protect voting rights to honor John Lewis"
-    excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
-    publishedDateTime: 2021-07-17T21:45:00Z
-    webUrl: "https://www.thenewstribune.com/news/nation-world/national/article252852678.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article252852678.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article252852678.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 70
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z
@@ -1594,6 +1583,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 50
+  - title: "Biden, Harris: Protect voting rights to honor John Lewis"
+    excerpt: "President Joe Biden and Vice President Kamala Harris on Saturday both marked the one-year anniversary of U.S. Rep. John Lewis' death by urging Congress to honor the legacy"
+    publishedDateTime: 2021-07-18T03:48:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jul/17/biden-harris-protect-voting-rights-to-honor-john-l/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
     quality: 50
   - title: "Vice President Harris Holds Roundtable on Northern Triangle"
     excerpt: "T10:00:00-04:00  Vice President Harris hosts a roundtable meeting with foundation leaders on the Northern Triangle (El"

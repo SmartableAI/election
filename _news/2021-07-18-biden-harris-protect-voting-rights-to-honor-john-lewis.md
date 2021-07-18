@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Biden, Harris: Protect voting rights to honor John Lewis"
-excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
-publishedDateTime: 2021-07-17T21:45:00Z
-originalUrl: "https://www.thenewstribune.com/news/nation-world/national/article252852678.html"
-webUrl: "https://www.thenewstribune.com/news/nation-world/national/article252852678.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article252852678.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article252852678.html"
+excerpt: "President Joe Biden and Vice President Kamala Harris on Saturday both marked the one-year anniversary of U.S. Rep. John Lewis' death by urging Congress to honor the legacy"
+publishedDateTime: 2021-07-18T03:48:00Z
+originalUrl: "https://lasvegassun.com/news/2021/jul/17/biden-harris-protect-voting-rights-to-honor-john-l/"
+webUrl: "https://lasvegassun.com/news/2021/jul/17/biden-harris-protect-voting-rights-to-honor-john-l/"
 type: article
-quality: 70
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - Election
@@ -1610,6 +1608,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "J3EVgcOmoJpUdaoBNpZhWhki7rKYAwGw0sjyGqVGVVNmvS6WpCYgEBwlYwOpWcVQCFR41jr4jncnjdF85ZY4kO2P5GfXsDh/xBYJZynuXEMi2hKE5dKKcQiQpGVOK6CEKvbmMkzgZpLCSrdImG5VTtHeBtUAfwM3JqB9MO3/V2woBtRlwcF/KfMUO8CpuwFfj6uxzuqtfCHdqAn8xQmOtwpNiU73rUWpLlPjRf/zkk5po/887ua6d4HGzVrU0h3csumDEhETvOfGrcUbmlyFWikFpkd4YKkvvE+NVmTTvWuFSiaGLmMivfdLSguramiJdFpy1jXbjVcW63V6EKg1Fy1w0JgMfFaN8Zm6n97Nz9gwyBj2G03my30SIwGt/3r7l/6E3VDJPtSbOZmHtbUTaiwYvhtSkBnseehAybcvA449ge7NlxSWl6wCUUHX7h7vrcgsNwh+RFrYi5c2Be6gmWyozaH8+Ctx7JNMPpGlFvz+fWy/dlbE624tkm7aK+1M8ZSx0dYat+rNmMpTe5Z6SA==;jBxMQUTXqdrNOcoYvF1M5Q=="
+secured: "/pJue5RQBqdh9v5Uj+D4JhZijgah0MOz2Q/T5/yAGL1+wGpwe5+fcSD4a217uNvRK0vAPebcSgh3CqqZhcftIc8WkT1aKFPLSLQXuoKBAW+8AEmSCzdOETbCFuGXJXRWU6dAvqgB4fN6dVeVy/Q6OkMTfwrgtGrrFLay8T5jRu5JMnzHtLcRUdrFfwzal6AoDlvmBfoDum8HRBjrtsdNhdN/+DdQgUMtxRzQVaYF/vuzCK/he6EvE02FsXxyfzXB+xVsw9jq56gJbA2+aTw/ofBOV0TMGjdnG5WjDWImR6l2PjDLIcWPmnz387b3JPov08Ai/ng+k4DmoNKJwyPqM8aRtChITKbLmTCsMOxZLeCw/RJg8i+G6d80SlYJOzs6Z/xH5HrsDc6iVOreu/TKi/CJV6jzIxNjJLDXrK/Qy4zUJjqlNfbzn6jeXeLGb1Kik+WI0oA5VmGbhZ1je/DnLRJResXmKAVPTKCuXV7yfPnmGzb9wAYlBGvQDul2N/8N5o7xV8vju9kFFJgINKB8Hg==;OgueLiKlD81jyos1If2wdw=="
 ---
 

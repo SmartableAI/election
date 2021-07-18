@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/levin-biden-administration-facebook
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
 type: article
 quality: 177
-heat: 357
+heat: 377
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joe-biden-philly-trump-hp.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Judge Jeanine slams the Biden administration: Who do you work for?"
+    excerpt: "Judge Jeanine Pirro slammed the Biden administration Saturday on “Justice with Judge Jeanine” for inviting the United Nations Human Rights Council, which includes countries like China, Russia, Cuba and Venezuela,"
+    publishedDateTime: 2021-07-18T02:40:00Z
+    webUrl: "https://www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for"
+    ampWebUrl: "https://www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "'Sunday Morning Futures' on Trump's Big Tech lawsuit, US-China relations"
     excerpt: "Welcome to \"Sunday Morning Futures.\" I'm Maria Bartiromo. Today, breaking news, with President Trump still fightin"
