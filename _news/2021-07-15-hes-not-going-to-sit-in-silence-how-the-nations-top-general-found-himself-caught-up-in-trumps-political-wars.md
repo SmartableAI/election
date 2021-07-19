@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jordan’s king seeks to strengthen ties with the U.S. after a Trump-era thaw in relations."
+    excerpt: "King Abdullah has been seen by American presidents as a moderate, reliable ally in the Middle East, often playing the role of envoy from the Arab world in Washington."
+    publishedDateTime: 2021-07-19T18:54:00Z
+    webUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/19/multimedia/19political-briefing-abdullah2/19political-briefing-abdullah2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "DIEHL dials it down on TRUMP — JOCKEYING BEGINS over FED AID — UNPACKING Boston mayoral FUNDRAISING"
     excerpt: "Geoff Diehl co-chaired Donald Trump’s campaign here in 2016 and just months ago called on GOP Gov. Charlie Baker to “retract” his support for the president’s second impeachment. But now that he’s running for governor,"
     publishedDateTime: 2021-07-07T11:43:00Z

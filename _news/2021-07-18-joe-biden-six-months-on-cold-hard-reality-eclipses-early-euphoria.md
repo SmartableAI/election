@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "User Clip: Joe Biden: We're Just Asking Facebook to Suppress 12 People"
+    excerpt: "We're Just Asking Facebook to Suppress 12 People"
+    publishedDateTime: 2021-07-19T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?c4970249/user-clip-joe-biden-facebook-suppress-12-people"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "pe0yRB/0MtrlfTwiaImoLcRAi1smSwrCV1WWJMtGO/Udo4bKTVENqX0kce/Eq26vg+r91Obyld0MF1a4j/j1iuBsw3/M/wzV2aw3Ubyfk6j7WVVKA/CiXauyeZSr+YzEbgZ5qppA5zpPB9uSQ4dQqbxd6vjVAWTa3It85E8iVFHQKFBz5mFQ2j8mBCrauMDwFEY5ZjjRYklGx3/8B0BY7eSisGFMaFlcCPyfeHJDJpK1dgAq/KpMAqbWugKSoklvfWlFOXcuhvOzq3j8EsweTD/101iAKYjLzlFoieDTtm5HitFnFhHZPxAzUtZxySgbzzCrPTD124mT6Hg3CyKc5TeQJrCWCUgd8iW/SRgZ2HX7Rg1U6aBvM1f9UPLjrPFNFGGZjnAatk1+iKeKtWXHO2PiLyTDqOVKfljRqZMAnHP0aqJITOpDtBEhnMD8COtjgJHTHF/36r4LQZpNNMoQn/pJIw67HX3WaqB7cAwMEyo8ZTNZAuMhCOOiM+42QOTIm+IHj5BFUfY1FzdoJVIqNA==;yyZpRa8ep+Y78WBxRfXKDQ=="
 ---

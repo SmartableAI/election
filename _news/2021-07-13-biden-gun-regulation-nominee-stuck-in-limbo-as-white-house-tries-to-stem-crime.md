@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden makes plea to those spreading misinformation on Facebook"
+    excerpt: "President Biden backed away from his claim that Facebook is \"killing people\" by allowing Covid-19 misinformation, clarifying that his previous assertion wasn't meant to be a personal attack on the company.\n    \n"
+    publishedDateTime: 2021-07-19T17:09:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xIbUbONBtao/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/07/19/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/07/19/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden forced to pivot foreign policy focus to crises in neighboring nations"
     excerpt: "President Joe Biden has staked his presidency on America's return -- a return to normalcy amid the coronavirus pandemic, a return to the global stage following four years of Trump-era isolationism and, arguably, a return to many of the policy positions adopted by the Obama administration.\n    \n"
     publishedDateTime: 2021-07-13T11:29:56Z
@@ -427,6 +443,20 @@ related:
       - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
         width: 900
         height: 1165
+        isCached: true
+  - title: "POLITICO Playbook PM: Specter of spiraling inflation bears down on Biden"
+    excerpt: "Inflation has soared since then and been picked up as a principal Republican attack against any government spending. But recall that Summers’ argument was not a critique from the right against Biden policies."
+    publishedDateTime: 2021-07-19T17:06:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/07/19/specter-of-spiraling-inflation-bears-down-on-biden-493638"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/89/37/4e767ebb4b6aa911c8f975dfcf2d/210719-biden-ap-1160.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "DtHhIVNSY5YDz/94G8hwQrr719WkhLyzHIf2n2SiIsg6ajRLuqNJ6KUdepscIpMpci14atxGOmbnO9TjjrTVUuo/zIrEogap/mtRvAHZA7nGbDs38959uMFGKiKBBLRDdpVufwTJsb6I+10I3ImHRTPyrr1i4HTxrfOFX7HPMxU57PIXzLZoN0EIwwgKSj3DMdtW/QhQjRpGikz1yVgACSJy6424QAbYYWHLT/LKlvaSKPDCN9IZcQzPVsOnCk/kK6z0EQ30HgxqpJZ3DW1d/cRhtEX2hE2wJQfZa2q3UkMYh33FbIaAmH87YSEZCHXPWaZP/tSI1BqtT7ES3MJPIogVwv+naJBvHv/ZQvB4JahdOOfg3PD//ItODU6T9wDVUwzGWbDvINsGOfEEbx6PfyxfpJeGtFnSRPSWALk587vg5DLDAcpXeJTYVjkMzFIiwZ1udRrzSI05njAtO7/cID3yJcPgnZwAghknz3oIFjqdA5jST+uMtSZ1+RGC/1CQ8EcR/IpjQvw8kM7pV/PlTA==;HfN/2wH4K9uCIUNvSreiow=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210716&t=2&i=1569106900&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6F138"
         width: 817
         height: 545
+        isCached: true
+  - title: "'Please, please get vaccinated': Biden"
+    excerpt: "Biden. Posted . U.S. President Joe Biden urged Americans to get vaccinated for the coronavirus on Monday with the unvaccinated responsibl"
+    publishedDateTime: 2021-07-19T19:04:00Z
+    webUrl: "https://www.reuters.com/video/watch/please-please-get-vaccinated-biden-id733127145?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210719&i=OVEMIHQZJ&r=OVEMIHQZJ&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "nJzGJm2/igzp5mtxv3tw7zM7mTG5QjjAhzUPSj60ObL4QrF7jWRfuZBqyN/iD3phsz8z/lbr+quKeGjeed4PaECZj7VugX9gwnyuqSY15giZHfeC4VKC2PpyvlJbmA6/A4sVFGXR7fRgY0/7HLgLq0cSI6ODCUt1Yq7epDVRBPZofh1PIirwmsncm570Ng+67GHDOvAL5gNBrpAj/9bc6Hq6DSmKqyO6w2ASZGP+e4WoX4IeHeS2x2X0CW8WlSdwVgq18EPFZJ8O8KvgCgmVGQDjChqdoMq3Z4nA2ycMXQAoBkHkFmxgwrjMjXvoPxHmtZmEOpU30TjLy4wcZiuHxyQJWiVMr7+IxExG+wUbQjF9N/rEqRwu5FdWT0L3zyk3F9x7Dt/wqeduNiPKFVI6CL1o3dHq9cWaQqOJz680s1UGyd1ZfZhwhnxr7uSEzPbv5TISHeCw+VOeqKpI1DhNLgzBdznEDm+i/41SXGWAicp9MNZMIzRGE1wA4r0yUqgtC0d9GgyWBFA5tgrRtrJAWQ==;YKRnkVIfCKkeJybvcTsWEw=="

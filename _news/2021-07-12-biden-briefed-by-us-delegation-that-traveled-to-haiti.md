@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 715
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210718104129-tampa-bay-buccaneers-super-bowl-win-02-07-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden makes plea to those spreading misinformation on Facebook"
+    excerpt: "President Biden backed away from his claim that Facebook is \"killing people\" by allowing Covid-19 misinformation, clarifying that his previous assertion wasn't meant to be a personal attack on the company.\n    \n"
+    publishedDateTime: 2021-07-19T17:09:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xIbUbONBtao/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/07/19/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/07/19/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -426,6 +442,20 @@ related:
       - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
         width: 900
         height: 1165
+        isCached: true
+  - title: "POLITICO Playbook PM: Specter of spiraling inflation bears down on Biden"
+    excerpt: "Inflation has soared since then and been picked up as a principal Republican attack against any government spending. But recall that Summers’ argument was not a critique from the right against Biden policies."
+    publishedDateTime: 2021-07-19T17:06:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/07/19/specter-of-spiraling-inflation-bears-down-on-biden-493638"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/89/37/4e767ebb4b6aa911c8f975dfcf2d/210719-biden-ap-1160.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "qNAQlTbgPNUFC2G9JEzhCE8WBSR+IwAyHIteDNZWIpSdFeJzG181XUDU5ofceuly/3H78ReFePUhPOvFaA7F/T5w2sICueAhREvCwZju2yBW2pN2uTO7vgPcYllnFkjj998c6FiJzI0+xxwbDvY3Dy/6d0i7U8nSHoKvULKskHJcccr/ts5UkQmnV2kA8MzDh/X2VQK7c5RJGz3z1Iv16gxjBVTNbGlw3Tt9KUO/pO9SLWPnae7dP0XRFH+8cSkD2TWihDshmBLj8hxjKAtCuneify9O6tI8J3ktxCPL07xPQZDc6lpXrcalc55sCl7wxelkijkad7oFN/GVDA+Lfez6PuoKaceSWyUWJLIb0oc=;6KWZO56c01Cleh4Em67G/Q=="

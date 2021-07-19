@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Please, please get vaccinated': Biden"
+    excerpt: "Biden. Posted . U.S. President Joe Biden urged Americans to get vaccinated for the coronavirus on Monday with the unvaccinated responsibl"
+    publishedDateTime: 2021-07-19T19:04:00Z
+    webUrl: "https://www.reuters.com/video/watch/please-please-get-vaccinated-biden-id733127145?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210719&i=OVEMIHQZJ&r=OVEMIHQZJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "EcBcNvdy4VO8xnoC9w87g/nZApJP1nigBOx24faHjiBO1wzcmIz6ngb3igQNkzEvJIwO9CThbOsab0l4rfjbQXGWxv+hkrPx6qxoxDFI+ERblxkbyzlXIZCCTgbPQ62T/0q/LnOQ0fYiCiaeaQN+qgNvN9RhfX+dtg0cTjYQwQnV56jNoFt0MPT8wJNuTW3RGbBkAaXcQ5IBS2D1vpoZU8DXzsjBm8L+GEDQMg8RfReB1oV7dV4iWoWQ2BDKHwkviMmqVgo2QSFZLLUs+C4hkpjsVHulQc413/Rtv8Rvf2/oYBzRNHreUmVJuT0SzidltFWiyKkKIHQb3i8AGZK5UtycKrE/b2cubYqX5XXSMW97JeH/H2dJMQg6nlutH5bJ/IhBAFgbVXVuNkuQRCDBtwOVCZUqXXXaoWpAEnr/u4fS+yWhWX/1APPbNKyf7aodVFuzUgpJXo+QspL21quOXmpIa9EWI0sOVWaVM/hsy8eoozf/CuX7GCkI4PW2wtemt5M15iOy+b5a00MUpfRBlg==;Vs2L2gteafZePLBe8KG2Vw=="
 ---

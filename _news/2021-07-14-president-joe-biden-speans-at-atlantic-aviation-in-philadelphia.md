@@ -7,7 +7,7 @@ originalUrl: "https://www.upi.com/News_Photos/view/upi/e1f050c413c7fa2b6a66cce25
 webUrl: "https://www.upi.com/News_Photos/view/upi/e1f050c413c7fa2b6a66cce25f31c302/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 650
     height: 480
     isCached: true
+
+related:
+  - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
+    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
+    publishedDateTime: 2021-07-19T19:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "President Joe Biden wants to ensure 'Right to Repair' smartphones, other devices"
+    excerpt: "President Joe Biden asked regulators to crack down on companies that make it harder for people to repair smartphones and other software-driven tech."
+    publishedDateTime: 2021-07-15T10:02:00Z
+    webUrl: "https://www.oklahoman.com/story/business/2021/07/15/president-joe-biden-backs-right-to-repair-smartphone-regulations/7936627002/"
+    type: article
+    provider:
+      name: The Oklahoman
+      domain: oklahoman.com
+    quality: 30
 
 secured: "GEtu4IknQqugBx/V7m1OZJJKNUG781OLFQg/88u+zxEPmUka39ieAwNHJmCXh4F4DXjZHTBa7yy+Al0a7LF7C9yCcW+7hrjlT1s2xb3ZhcY2xZFhX3VMmH7oVeZevbL63tn07d5TtyDdngHagob/U7T6xn6WFmkEVQKmTDaQWYA/MOViAG3OmoChtMoLmFx0koqoznTAvh37IF2sgydkj2pf23qEIEdn+8g7F2oiRoTlnyiF3fZ0SowBhhI9D7KZJBV4reHo6hBrd9mvg5keevnfJBRtYreuUKSmlulMBgoMFkeZPtrjYyWGUHRqTc6bc35HUasJ5xxBrXZmeXTeyaF8DCfweucUscBgkVsPea/ephoYBR1MHd0C5LaEsfyPYitsa1/tiWg5b0MTwmODwVtUbv9D5b32dWs8ntyb9DdY45ydaokA6gtVp1SEQPUpa47nmqc1MSCjgJixxfPpcLtExmrX+a8u4jgNgkvpS2ot6Nm+SvxZ9w3tm4Suh+J5CVoRRr94iYQ+mDL3A53a8Q==;h2Xy4coDPgrVai9D/Qtp2A=="
 ---

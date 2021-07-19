@@ -45,6 +45,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "User Clip: Joe Biden: We're Just Asking Facebook to Suppress 12 People"
+    excerpt: "We're Just Asking Facebook to Suppress 12 People"
+    publishedDateTime: 2021-07-19T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?c4970249/user-clip-joe-biden-facebook-suppress-12-people"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "y+du8AeJ9uCKoHPLChPcB9U09jHQNtR7zmzsbFS/poTXXFPFzcAVoSKFL/H5L7KULprgbhaIMCZNK9ZewkKvGqTd84SUSpEQVhd7e56m0/gINHi5GpeMC24eKEi7yL/VgA1Rf/bAhtJclT0zefUFnu/9/nmWp3fozeEqaUa75Vz7Q6z2d6uT1xo1ya+5l+jpY8fQadvpC+FTnZU7TvDrsfm7VehpIRGLb3mu48nfr8CG2bpaKExMujVDk/uAlxPi+2/AtLgKLUjwEQMoQztCHf+gXEslaEK3BvZkL/cCMQeeuHlyTyRyqVtZ4w9XEpQQU1xvCNK3rhSmWk37OtLyYuUG4NOQz1iUeD+rwoL2YxRHzpZ0pZML5tG3+YSaVCjgh2Jt6il0Z5o6jbHI6ApVC/t4ej0xB5QCmIuiSY4leaARgqW+s3QbW7DCaNXU+WsZks9FykEp8CGn6b0Q+nUGDn14IsdBN1R26CVi7OJAabDslz0+zvoFFrf9s8LXkIG0MLGga4iFHp5y1Ublx2MaQw==;7nSPYu0JVLQiA3HQcu/ESA=="
 ---

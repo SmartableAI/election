@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden makes plea to those spreading misinformation on Facebook"
+    excerpt: "President Biden backed away from his claim that Facebook is \"killing people\" by allowing Covid-19 misinformation, clarifying that his previous assertion wasn't meant to be a personal attack on the company.\n    \n"
+    publishedDateTime: 2021-07-19T17:09:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xIbUbONBtao/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/07/19/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/07/19/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden takes on multiple crises without key confirmed officials at the helm"
     excerpt: "President Joe Biden is facing a border crisis without a confirmed border commissioner, spending fights without an official budget director and a pandemic without a confirmed Food and Drug Administration commissioner.\n    \n"
     publishedDateTime: 2021-07-14T13:25:07Z
@@ -426,6 +442,20 @@ related:
       - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
         width: 900
         height: 1165
+        isCached: true
+  - title: "POLITICO Playbook PM: Specter of spiraling inflation bears down on Biden"
+    excerpt: "Inflation has soared since then and been picked up as a principal Republican attack against any government spending. But recall that Summers’ argument was not a critique from the right against Biden policies."
+    publishedDateTime: 2021-07-19T17:06:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/07/19/specter-of-spiraling-inflation-bears-down-on-biden-493638"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/89/37/4e767ebb4b6aa911c8f975dfcf2d/210719-biden-ap-1160.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "sKhTS7Y8GhegGXFqcXknmd5qdWlvLbVk9l4GCILG80a7bd+VpE4yarh9nzed/7MoKBodwFwXYUzVhwjc6H0PVO2gNj6wig848kgzMSrmt//lqtdMIfIQh3C7qenPY/A4W0Coz5QBFbarbv/aek58yt4seeBzJfBP170rJ2W/bfXpeLmg4ITQdE7mE4JMAI4Lf5AjY7kJod0Gr5S7tLvZ+yfTJPUqJmBggBCJeVCR1FtaB6zJNQh7AQt5i2qKUHCgZylziT+wy5BNh640MFk0PfXVGnKTRkCw1UsfD2ukKoPtjsDfwgaI05uc59ddY3hj/w7jtTEiBBv3nE6jQGniU33+xVTPD/gCpRx1b9G+4WA=;T0rjR/oyHT9q28Es6B0Atg=="

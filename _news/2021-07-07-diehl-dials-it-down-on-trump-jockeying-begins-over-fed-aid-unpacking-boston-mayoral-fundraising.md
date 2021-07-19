@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jordan’s king seeks to strengthen ties with the U.S. after a Trump-era thaw in relations."
+    excerpt: "King Abdullah has been seen by American presidents as a moderate, reliable ally in the Middle East, often playing the role of envoy from the Arab world in Washington."
+    publishedDateTime: 2021-07-19T18:54:00Z
+    webUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/19/multimedia/19political-briefing-abdullah2/19political-briefing-abdullah2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "xeAqa/eXKkuj1Yf/bh3F05K4j7lw1BpwXTflDUcntNCr4tU+mXxg3q8SR13CWu99Tj0PWzt9MXTNgnu7Zmkp7gB259Js3ZmcycaWu8hLVa0iz/srHHtyE8YnPerLk4GE2genNJzKdgcNdkctufq1YHrd1xFWH6immDE33ci6UyvLH8tPKIloRzCVNoMoAJ2dDpdTVNPk4QqWHbjoCUckw6Su3tt9mzkfSo/4OIUClIYOZI/bmH+1WSJUnO5mbeDZ3k55+OM5jwTlZlHxS5O4wib1rkeBu4LEh4EDB4uv6uIjQdoWgS+VemnylchCoAZnkm1OKtBsSx1lCwBH26gDRYC415tk2/u3srSf3wVz2ak=;gd3oiS1kW64fEvMc9yiK/Q=="
 ---
