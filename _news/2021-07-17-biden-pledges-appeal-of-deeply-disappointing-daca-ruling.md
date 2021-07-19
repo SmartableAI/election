@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/8001889002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8001889002"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says DOJ to appeal DACA ruling he calls 'deeply disappointing'"
+    excerpt: "President Joe Biden said the DOJ will appeal a federal judge's ruling that the Deferred Action for Childhood Arrivals, or DACA, program is unlawful."
+    publishedDateTime: 2021-07-17T17:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/judge-rules-obama-era-daca-immigration-program-illegal/story?id=78893231&ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doj-appeal-daca-ruling-calls-deeply-disappointing/story?id=78893231"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doj-appeal-daca-ruling-calls-deeply-disappointing/story?id=78893231"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-daca-01-gty-llr-210717_1626532248217_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions"
     excerpt: "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot."
     publishedDateTime: 2021-07-01T16:35:00Z

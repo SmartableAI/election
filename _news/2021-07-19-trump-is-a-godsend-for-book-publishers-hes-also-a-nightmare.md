@@ -235,6 +235,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
+    excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"
+    publishedDateTime: 2021-07-19T13:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/0974f042b252b0614f0df153ddaf3126d9756395/0_41_4248_2549/master/4248.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=53c051ff82d916f43c32772ddc8d5fa9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
     excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."
     publishedDateTime: 2021-07-09T20:49:00Z
@@ -802,6 +818,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "HpzVfmTzAumtbLc0dY8CfO6h+psIFmP5wFUUGL+K29re57ApTG/Uqccmv+NHtY5/D2RB6L+HGWXAoX62A7nEX18KFlWsZ/BZLj2k2+fiY5uVFKz5ubI2gVkhr+QUany04C7waCTfBgZVUcfs2c/grfdRZSmxbaJiZ/DIDTUsH2hu/I1eUNRgZKad1Yo4+CqB4fwcBU9Lhx7dW2mqITSdtMr+fjMdTAfn+Rb/kNkFRLjvDsdu0Sb1gvYbOusYtC6Xr6t5nYXf1JlYnfqUDP7PLAWbra1aB06elwiqqroC8QM2mV9QHrugL6n/Z4asqmeO5YZPjrzOlDZUc4EdXiIO9w+haYp+jHsHL6nHR6MpMds=;1D3UPqydFnGxc+hf5pSm0Q=="
+secured: "nvXt4areF4emlf/7yTQAFoykQD+GKH4dNLtut+qniXCF6ftXXe0iWS1j+HQ8+8S/zrpetiucye1Lz9mE3B7Er8mfcXnzQ621ALqeT39B/oeOYiUvSsSH5c2by1oyI1pmld08xX9PpC8xFM5yIylfkmGNjXyKDbW2YE5Ux0m63jVAqhadPQRBO2dcAqSnXyTmk0DHSox/IkyjkYd00R2cYsDfFDVEhXSN5Bzz2Zatwqq0jCw256yx+aG0BMS/yV/tWpd5rbJKXQ8G0yOb6ugMQ5NfkikU6Q1oqRo39DWB9t7m1YiPia0UvjucivvsxsraIyp3y8ib9ECvxO09srBYdlo1uGDNLTWCPfRPWETJoj6YNW9VJwQLETSZNgPPZliZbFNedjApd64kPGIpVZeQlz9wCYDch/y9SoHUXKHcuUv5njTnHn7jzfggkOWr07ejXkYaX7IUCqwxN6KVISdRcmnbCieCHHSf9pD5ff05J7EthPAZAbDvgSJURLRQGW2VtE7bSMI9ttUb50x8IFTS+w==;U+TCerrx96OEYm+hqywpLg=="
 ---
 

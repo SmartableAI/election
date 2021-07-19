@@ -239,6 +239,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
+    excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"
+    publishedDateTime: 2021-07-19T13:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/0974f042b252b0614f0df153ddaf3126d9756395/0_41_4248_2549/master/4248.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=53c051ff82d916f43c32772ddc8d5fa9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Winston partner withdraws as lawyer for pro-Trump election challenger"
     excerpt: "One week after they signed on to represent a former Trump administration official who is facing potential sanctions after suing to overturn the election results in Michigan, Winston & Strawn and one of its high-ranking partners are walking away from the case."
     publishedDateTime: 2021-07-15T20:31:00Z

@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden aims to directly counter inflation concerns as sweeping agenda hangs in the balance"
+    excerpt: "President Joe Biden plans to use remarks on Monday to directly counter concerns that his sweeping economic agenda will serve as an accelerant to inflation amid growing concern about price hikes across the economic spectrum.\n    \n"
+    publishedDateTime: 2021-07-19T14:19:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FoGhleEIqJc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/biden-inflation-concerns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/biden-inflation-concerns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden has just a few weeks left to make key decisions that will shape the future of Afghanistan "
     excerpt: "With the Taliban advancing across rural parts of Afghanistan, and criticism mounting over what some view as an overly hasty departure, the Biden administration is staring down a few short weeks to make a handful of critical decisions it's put off until the last minute.\n    \n"
     publishedDateTime: 2021-07-08T16:30:28Z

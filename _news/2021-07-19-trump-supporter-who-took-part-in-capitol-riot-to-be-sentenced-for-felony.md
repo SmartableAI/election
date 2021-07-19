@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Winston partner withdraws as lawyer for pro-Trump election challenger"
-excerpt: "One week after they signed on to represent a former Trump administration official who is facing potential sanctions after suing to overturn the election results in Michigan, Winston & Strawn and one of its high-ranking partners are walking away from the case."
-publishedDateTime: 2021-07-15T20:31:00Z
-originalUrl: "https://www.reuters.com/legal/government/winston-partner-withdraws-lawyer-pro-trump-election-challenger-2021-07-15/"
-webUrl: "https://www.reuters.com/legal/government/winston-partner-withdraws-lawyer-pro-trump-election-challenger-2021-07-15/"
+title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
+excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"
+publishedDateTime: 2021-07-19T13:20:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
 type: article
-quality: 120
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.reuters.com/resizer/24P_AVnaICSZoyPGlCt9F1Xf8H0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MY47DQUMBFIRHMYLA54BW7L2WE.jpg"
-    width: 1200
-    height: 628
+  - url: "https://i.guim.co.uk/img/media/0974f042b252b0614f0df153ddaf3126d9756395/0_41_4248_2549/master/4248.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=53c051ff82d916f43c32772ddc8d5fa9"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -237,22 +239,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
-    excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"
-    publishedDateTime: 2021-07-19T13:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/0974f042b252b0614f0df153ddaf3126d9756395/0_41_4248_2549/master/4248.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=53c051ff82d916f43c32772ddc8d5fa9"
-        width: 600
-        height: 360
-        isCached: true
   - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
     excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."
     publishedDateTime: 2021-07-09T20:49:00Z
@@ -268,6 +254,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/b80266b/2147483647/strip/true/crop/3661x2391+27+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F55%2F573f804d4c2bbad3a1f1aeb985c8%2Fimg-5620.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Winston partner withdraws as lawyer for pro-Trump election challenger"
+    excerpt: "One week after they signed on to represent a former Trump administration official who is facing potential sanctions after suing to overturn the election results in Michigan, Winston & Strawn and one of its high-ranking partners are walking away from the case."
+    publishedDateTime: 2021-07-15T20:31:00Z
+    webUrl: "https://www.reuters.com/legal/government/winston-partner-withdraws-lawyer-pro-trump-election-challenger-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://www.reuters.com/resizer/24P_AVnaICSZoyPGlCt9F1Xf8H0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MY47DQUMBFIRHMYLA54BW7L2WE.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Arizona Democrats call for investigation after report that Trump, Giuliani pressured state elections officials"
     excerpt: "Phone records show the former president and his allies tried to pressure Republican election officials in Maricopa County to stop counting votes."
@@ -822,6 +822,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "mGC2YW6aXHoE/qV16sRHoTOHB3VZjhP964OiuyH2X/WFW5YzgdhNRcsqkiuZacCXZSfyUH+5xjiwr5zRxSvdx8MLjdTZLTV0d8JjNILQ0iGr51pJj2PI3Otz5JJHCaiR6gXzJ3bhYeQtD45DDMmcI3PC++XWJyRIvh8SOEygxf/sy5Q+PZ2OWYqIWxH3VkefYZoZtOzAljTTVERpQREWqsD1aehnQ29UM4/LqYfX/dXstRqxouT/0WBMbPfK+5Wecwh7PBCOe0WC2yajRQ7BdPpdFJRXntPEfThmQ6BltHVzqQTFsudBa+w/bacw7YmgLa3+NlzmgjWAnfVVWX3z/F1GYDObmkljAm0gVLTIa2f2RV9a4wf2x4X/Ko/g624NURVTN2Ns8GT/4THsUAZVUPAZfLLkGXUthUMJcCANWciCf+ygMAQtbODdUiBClv/TswOYSNn/wpUD2QXxYiWuFhKonJsMjKbtFCm+oip6tNpfyAUJdV116LQLJDjZgWeWi49f1hxtOtQb7kWzTqnHJA==;NIRtNFXmUNzTwZZeD3xT8A=="
+secured: "zBkXZntEQMH5LoLFUw8OEOm5J0ZT8AL9qypVBfmmLf9LPfT01+WD6EACungJzs2N+aq+sBioyXpCkoS46NfrTiNCy2/t3BhmgFYCBvArv2BrfMmdVhJqXP6iJFOBAX90BfTlFm2OSnjgBkJvBnliO3VsfuvSuQbUZCS6LKO0/3Lc7kYdK4JaEGT0n/EEmrnXiHTISZrWYHobviMvgAatX1x6k2RXaymrCQR9mvVoD09u7IKYlcHHgVpTrCi0/sx6/zEulY8x5iFn1PDiOaxkNjtvWJZsDzfL328YO55OOXKjq5EkG4kN0xPq8PqUoI+/+fOU3GM5wYQTNj+0DWk3zq18O6YRknB2XMwucsdzF+Y=;dJPQlhHiDuUZkCZqVKuJ0g=="
 ---
 

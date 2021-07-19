@@ -2,21 +2,21 @@
 category: news
 title: "Biden: Social media platforms 'killing people' with misinfo"
 excerpt: "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines"
-publishedDateTime: 2021-07-16T21:51:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
+publishedDateTime: 2021-07-16T17:08:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
 type: article
 quality: 125
 heat: 185
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/US/WireAP_1309cc2417da42a6bf73d9ba56a2c76e_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRI5GLHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 628
         isCached: true
 
-secured: "VTBTotweFI3gDU+wU3abL2gznj0IO5IXG5yFcL5rEtV+IxHwGVb9h5c+mMLu0yqnK+xOmsyp1VW2T/W1QITIL9Znu0U8XOPCe351synqp40YWD2p/N+wJ1khuAfuR5eckxun//Fg0qsiD1jXEuamUve2f4zmf6y+t5xPItGHVc6y9DxO8MwJmVpA/0zT+YtJajyuAqpjyQa39OX5Z8TWeklgAbUNNRvrZL2+290IOAkWjrXbTJ26n03DqgioJ81OAVEQJeAQrXgPnLoNLdgAvYTzKiyBmejromHti5V7g/2At6hLZTu9DpzhyV4Kft3bPB9UdsyKWZyrg3cnqoYm9R8XhQsmfXgg18pXHvhpwM3zQY7VCMvYYFXjKa4uI1DuHa0y+e3Ef9pgOJpvKelfxxg5hhqsZNYLtnT0U/sPmPgjXJQdePamhGqGeAKdqXhYT12n/ctcvx/QBH61hpAmuDMY2N1oDS6brfIKNE9zzzQCyn2oxOSrSpGHIu/cHlO2W1FxNTwHkw3TQVSv4doDkQ==;UqY+WXT9KOMcypRrra0jog=="
+secured: "2ioXMWZMh8KrKclbLn/2cZc0EgIRPyZQAN5wXeKse+2jRhO83JH7jF1ScjqqqrHGTXAZ9KXZ7fPk/+0tKqR11qHDoheTAnzvk3OBrOGqqQuhNCw1pYaTqoC0jTa3HvKjK6uN6DzpUHlOKFH3XB5+vwX27S/3XxlGhdK6DQq9gm4KymSEM2va+8jzYKlZ1svQFhfvLFtWagX+Ku0Jl/ddYSLcyGbK8TqgDX9qox05XjJv9zlbrSP7VouesMy+aJ/x1Q5JSmtPVOZXj3PTkYqBDmPCD4SeR1SP4O79GsPccBXns/TPqOixj4fqeabjkExgpgQugJLSWf/WrMS3OWyyMrmRvXE701zs7m9CCAE3mDE=;b04FA2YBFL4A/36hJulifw=="
 ---
 

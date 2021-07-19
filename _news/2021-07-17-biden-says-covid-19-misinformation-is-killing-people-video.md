@@ -31,19 +31,19 @@ images:
 related:
   - title: "Biden: Social media platforms 'killing people' with misinfo"
     excerpt: "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines"
-    publishedDateTime: 2021-07-16T21:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-social-media-platforms-killing-people-misinfo-78892905"
+    publishedDateTime: 2021-07-16T17:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_1309cc2417da42a6bf73d9ba56a2c76e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRI5GLHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden: Virus disinformation is 'killing people'"
     excerpt: "As he left the White House for Camp David Friday afternoon, President Joe Biden warned the unchecked spread of disinformation about COVID-19 and vaccines is having deadly consequences. (July 16)"

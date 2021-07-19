@@ -3,10 +3,10 @@ category: news
 title: "The Man Behind Joe Biden's Curtain"
 excerpt: "President Biden's chief of staff worked his whole career to reach the corner office of the West Wing. He says he's just a staff person, but Republicans call him Prime Minister Klain."
 publishedDateTime: 2021-07-19T11:34:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html"
-webUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html"
+originalUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/548417_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19"
@@ -209,6 +215,6 @@ related:
         height: 500
         isCached: true
 
-secured: "k8+vHcPDAZyXewSfjYS+M8DhPg1ffU/PiFBdzqPfRis6lHfUAgOFdgSLRS9+jnzK0GL9ADnPWOrc4j5zuoAiSWyw+61pS36ySdTwSGJwVUO+SSZmLTGCh7m/qkUfCLQT5bduaUJ76odSFbMcuPfMUXkJ5sNRak8N/DjIkGQorywvtByGNWLTuShcYZmLvEKKfBYtyBGPvyHdVfuaYSaG3KOjsl9g/rtac7ipATHPJB7OfDSFfDbUnA4FMjqxstb7gLHWJCKx9kATIEmD2LvwJvae8DoFU3EB7IdblV71/vDEhsdkwx26P3Rm85q6bpK+941E71oW781Aiy0DjHBsQmy4uUPsVuKGQs/eYjSUXJ8=;HX+mXB1+7pb8tyGst9r/Hw=="
+secured: "DDqJTmwc5dJiabL6iWswgL/McYRj+rnhNzt6sYt0y9V9J5eTSX7bBFGaPRS3NUMxQ7uFlm+ql31m4mbVEpmlrl9vZ0XsksvjSNBlZGndNgR6sjaKQ8DUkVyWRlxZlSnflik5p18cBqwceTy+Pv4Kghs1eBk8mAafrWyoZkzbXEUR2JCUtIv+x/t5EZQEUGXloyVgMgpqSU8/kejkvMj9RveAZf8UizV2GqganwweTZlQTMOCJwuByOVIYZuPMyGdmWcBwcwu9mvNsrPDWt2e+nuNoZNC7jD1CKUjC5PYD3K8ZdOiVNjrmLwcibbiRbgGtOPMPxzAMkmANsULb4xAa1lfXQRnG3SmGXCxWYxPYCc=;iqKfLtiiF5Igxn1SwVjgVA=="
 ---
 

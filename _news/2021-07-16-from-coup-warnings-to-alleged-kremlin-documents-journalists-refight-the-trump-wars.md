@@ -78,6 +78,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump calls out nation’s rising crime rate after Nationals Park shooting"
+    excerpt: "Former President Donald Trump is calling out the climbing crime rate, ​following a shooting outside Nationals Park that sent players and fans scurrying for cover."
+    publishedDateTime: 2021-07-19T14:11:00Z
+    webUrl: "https://nypost.com/2021/07/19/donald-trump-calls-out-nations-rising-crime-rate/"
+    ampWebUrl: "https://nypost.com/2021/07/19/donald-trump-calls-out-nations-rising-crime-rate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/19/donald-trump-calls-out-nations-rising-crime-rate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-nationals-shooting-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KPdYjQvQRXyG4VTXVFXfQg70MyBKZCM9PfuEb8YO1ixQEj2hAVLp4uNNWRdWWi4qAErt9qXL6PgpBeXKkZogTFnahjjZUXFZoJ6QSxGo10qlrqysJ/t0nXFSc30MdROvjeDVs+Avfw3KZK6s9WcxixHRkMijOA1lcH0vth6hJ17FZsKuZk/8w/MoYA5mDIBNc/rbarnB71jsQj1fTqaQSr334MESDf7l3M/0A0fD6CZJ30W1HIbPGGkP8c7dJNsTySjtkdvuM4HV80dpFxwO8zbeTJwktj0S4XoeVD/m3+kFy7uve7gtLReV4uAIrkLG5nbtmCEb9JCsmaoeF9Y8PlbZhKqHjTSuAU+pLNQuat0=;rVhj6n1LlG7Pz+bJymbn0w=="
 ---

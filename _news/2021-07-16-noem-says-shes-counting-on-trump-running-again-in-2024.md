@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-ru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump calls out nation’s rising crime rate after Nationals Park shooting"
+    excerpt: "Former President Donald Trump is calling out the climbing crime rate, ​following a shooting outside Nationals Park that sent players and fans scurrying for cover."
+    publishedDateTime: 2021-07-19T14:11:00Z
+    webUrl: "https://nypost.com/2021/07/19/donald-trump-calls-out-nations-rising-crime-rate/"
+    ampWebUrl: "https://nypost.com/2021/07/19/donald-trump-calls-out-nations-rising-crime-rate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/19/donald-trump-calls-out-nations-rising-crime-rate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-nationals-shooting-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "From ‘coup’ warnings to alleged Kremlin documents, journalists refight the Trump wars"
     excerpt: "From the Pentagon to the Kremlin, new allegations against Donald Trump are emerging almost by the hour as a flood of books and investigative pieces hit the marketplace."

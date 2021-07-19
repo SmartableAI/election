@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump calls out nation’s rising crime rate after Nationals Park shooting"
+    excerpt: "Former President Donald Trump is calling out the climbing crime rate, ​following a shooting outside Nationals Park that sent players and fans scurrying for cover."
+    publishedDateTime: 2021-07-19T14:11:00Z
+    webUrl: "https://nypost.com/2021/07/19/donald-trump-calls-out-nations-rising-crime-rate/"
+    ampWebUrl: "https://nypost.com/2021/07/19/donald-trump-calls-out-nations-rising-crime-rate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/19/donald-trump-calls-out-nations-rising-crime-rate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-nationals-shooting-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "From ‘coup’ warnings to alleged Kremlin documents, journalists refight the Trump wars"
     excerpt: "From the Pentagon to the Kremlin, new allegations against Donald Trump are emerging almost by the hour as a flood of books and investigative pieces hit the marketplace."
     publishedDateTime: 2021-07-16T06:38:00Z

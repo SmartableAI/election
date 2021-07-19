@@ -1,14 +1,14 @@
 ---
 category: news
-title: "How Texas keeps trying to block Biden on immigration"
-excerpt: "President Joe Biden took office vowing to chart a different course on immigration than his predecessor.\n    \n"
-publishedDateTime: 2021-07-14T14:05:41Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5IVLuRD3Y1M/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5IVLuRD3Y1M/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/texas-blocking-biden-immigration-trnd/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/texas-blocking-biden-immigration-trnd/index.html"
+title: "Biden aims to directly counter inflation concerns as sweeping agenda hangs in the balance"
+excerpt: "President Joe Biden plans to use remarks on Monday to directly counter concerns that his sweeping economic agenda will serve as an accelerant to inflation amid growing concern about price hikes across the economic spectrum.\n    \n"
+publishedDateTime: 2021-07-19T14:19:34Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FoGhleEIqJc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FoGhleEIqJc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/biden-inflation-concerns/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/biden-inflation-concerns/index.html"
 type: article
-quality: 175
+quality: 166
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706131625-02-texas-block-biden-immigration-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216230759-03-biden-town-hall-selects-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Texas keeps trying to block Biden on immigration"
+    excerpt: "President Joe Biden took office vowing to chart a different course on immigration than his predecessor.\n    \n"
+    publishedDateTime: 2021-07-14T14:05:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5IVLuRD3Y1M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/texas-blocking-biden-immigration-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/texas-blocking-biden-immigration-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706131625-02-texas-block-biden-immigration-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -204,22 +220,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152606-san-ysidro-port-of-entry-0219-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden aims to directly counter inflation concerns as sweeping agenda hangs in the balance"
-    excerpt: "President Joe Biden plans to use remarks on Monday to directly counter concerns that his sweeping economic agenda will serve as an accelerant to inflation amid growing concern about price hikes across the economic spectrum.\n    \n"
-    publishedDateTime: 2021-07-19T14:19:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FoGhleEIqJc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/biden-inflation-concerns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/biden-inflation-concerns/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -412,6 +412,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "K120eMepJX05JLAOLrYK0EbixoqiLsBYAzlf1mTT1zjQhYSo+TyBBnVfwKnXHSDy81D8REuoZaPIkji4A4aaBT4n0+qq0/UTAYxOEkVsRsp3XzXk7OgXVpEF16N+QTrB1V5dmzVdD+BnttLTJTH0eTu3cEkPOEScvWHLQ0/+WF8lqdM2nRLvN336kahFddQO7uNK78TIhoxhLdxYJSDu0l4mZMn6eccKr+o6jsAtflDMbZZi8SRuaQ9wOcLcBS+2GiStmzM9ze6P/KH3qmLLeZkTIFKyRg0wdQiiGasXP1Xm1ihgLeTizJwNcSp89OKLjp+OO6wt++e/RXoVKRYNXOpSZdYKxYzQ84DJ5nuIGpQ=;3mM3caZ8o5LqiT+J5PZGsQ=="
+secured: "S3XE1OUw0A3kJHxeeUGMknOtYRqHcfBQ4zZQo5kNeQCldknd2JkDOmddoLnIGWNPqbIU4XbLQfz9sMqkLAviC1NCjpvAWzYbFgsQYh+WZe+ol5xxp3ccfP525FyV89OG2SKLbhmuyuum9Gxj8u/u3DLnaD7Fol4HnbEjeUNwOoTcyyhXd2leTgCLfMgzLJluOz+tRjazzP7KsE3OEpp3Usb7HqyhR2mylSB51/7c64WdL4jAwb/jXgrPc3okfzxffowsAUO4wbygyFQI5OMVIy40r8QMAEBD69RJ9y8hdiWeMzTqPGiL1NZC2P2YCpNbzfgKP1ujwzAb+VlCizP+rtVNh/X9VbnGXBmix/kL4zg=;Bq/Lw6T9wQR+YCpvG8fGHQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 1175
+heat: 1195
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7J4GEHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
+    excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"
+    publishedDateTime: 2021-07-19T13:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/19/trump-supporter-capitol-attack-riot-sentencing"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/0974f042b252b0614f0df153ddaf3126d9756395/0_41_4248_2549/master/4248.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=53c051ff82d916f43c32772ddc8d5fa9"
+        width: 600
+        height: 360
         isCached: true
   - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
     excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."

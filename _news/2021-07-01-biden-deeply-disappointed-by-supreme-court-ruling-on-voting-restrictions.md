@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden says DOJ to appeal DACA ruling he calls 'deeply disappointing'"
+    excerpt: "President Joe Biden said the DOJ will appeal a federal judge's ruling that the Deferred Action for Childhood Arrivals, or DACA, program is unlawful."
+    publishedDateTime: 2021-07-17T17:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/judge-rules-obama-era-daca-immigration-program-illegal/story?id=78893231&ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doj-appeal-daca-ruling-calls-deeply-disappointing/story?id=78893231"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doj-appeal-daca-ruling-calls-deeply-disappointing/story?id=78893231"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-daca-01-gty-llr-210717_1626532248217_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden vows to appeal 'disappointing' DACA ruling"
     excerpt: "Top News Biden vows to appeal 'disappointing' DACA ruling. Posted [NFA] President Joe Biden said on Saturday that the Justice Department will appeal a \"deeply disappointing\" rulin"
     publishedDateTime: 2021-07-17T21:54:00Z
