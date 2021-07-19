@@ -73,6 +73,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "What people are saying online about President Joe Biden's speech"
+    excerpt: "We shouldn’t have to protect the fundamentals of our democracy - we should make it easier for more people to vote. President Biden is 100% right we must pass the For The People Act & the John Lewis Voting Rights Act."
+    publishedDateTime: 2021-07-15T22:00:00Z
+    webUrl: "https://www.phillytrib.com/news/local_news/what-people-are-saying-online-about-president-joe-bidens-speech/article_1b1175aa-db37-5c0d-afea-419e833fbbad.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/7/4b/74bc8344-8d0b-53f5-80a1-51fcddd20a2a/60ee182436553.image.jpg?resize=450%2C630"
+        width: 450
+        height: 630
+        isCached: true
 
 secured: "yzXtXctm1e006ReFWmf5z0Rw3VI2z47xB7iSxrhnt+Tj+OCZKCWYTIQk/DDFtw5XyUHEHpu9PfWousrCkUNgo2Wxt5rtxJMARNqhyfn3EoknX/oxlzPI8RsWQI8sGLWZBIJaWSFJgdHgZAyN7+rKhQDbUAtyVGZyhlQJApa/2kjlNk4V9eHboStH9MYsjdl1WvY9fKnnsOOtbSF6pK9H/xmMdUkLAPXqeu8T6d0G6culwo0R1DYiozfhM2gDNCPFlUOe9xx6P3V5njjYFdt3J1e6EjB06DcuAJJk8ihd64tNDy4SBvP4pzm84BkFjKZmMV/MBLFbyMEYurW6T4bY5vSmWh4erUobPe3DrPefaoXkxg6I9ylZWgkVuzbM9x3yh0D3XiMtxS/5kbF3jA+A56CgvXQ2PXl9OR8mXEecGbJut/LAzDNW35kdPs4ezG2Nq4BWPULMpIbo1kOK7Zb5lTBQu/x7/v09MA4JJQ9BiuwVpCIpVy+fWs9uy/R+R+caNvtiT1R72SrDOn0hWWA1Aw==;SxVxhYsbrsOuqbpgiaaalg=="
 ---

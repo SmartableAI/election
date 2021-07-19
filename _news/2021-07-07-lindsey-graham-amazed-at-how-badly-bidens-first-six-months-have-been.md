@@ -34,7 +34,7 @@ related:
   - title: "OPEC and Big Oil's New Best Friend, Joe Biden"
     excerpt: "The price of oil surged to $75 a barrel the other day under President Joe Biden's green energy policies. The price was as low as $35 a barrel under"
     publishedDateTime: 2021-07-13T10:33:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.amp.html"
     type: article

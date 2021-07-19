@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-w
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794?amp=1"
 type: article
 quality: 136
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "What people are saying online about President Joe Biden's speech"
+    excerpt: "We shouldn’t have to protect the fundamentals of our democracy - we should make it easier for more people to vote. President Biden is 100% right we must pass the For The People Act & the John Lewis Voting Rights Act."
+    publishedDateTime: 2021-07-15T22:00:00Z
+    webUrl: "https://www.phillytrib.com/news/local_news/what-people-are-saying-online-about-president-joe-bidens-speech/article_1b1175aa-db37-5c0d-afea-419e833fbbad.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/7/4b/74bc8344-8d0b-53f5-80a1-51fcddd20a2a/60ee182436553.image.jpg?resize=450%2C630"
+        width: 450
+        height: 630
         isCached: true
 
 secured: "RDziEVlzurLCvl9Z1bIAlrTJUDRnZaatqKDCf08RxLEqhmjvHCa80A0FTu9doaf50/+M1Zc1T1BU1+ynp/Z+q5Z1OdZLvZYH4Qemlx0cd8MFXjKBXoKblFtoa6ZuE13mCGt3i0bNMw0iU5tZspwD7qOU044Pnlf0ordGKI05donTQ3A5MnrScdKiaArQ9hio5lG5Gnc7N5vlXJ9SlZMq6zo+XGWi3lE+jsEUGmUYFD9FYE+StVpZwsC2paR1z7oIlNa6PakYhPUwHIjrZK/OD3OJyQzbUeeO2mPTh8lGx61dBpHfHr6uitovE6cTLqvsqMi8oOr8cKZ+FOX+8eCllflIOreVZNOTvPaKtep1it8=;ATnuJYeBY0iLNENR5gHcLA=="
