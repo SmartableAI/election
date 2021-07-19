@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-kamala-harris-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp"
 type: article
 quality: 125
-heat: 205
+heat: 265
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Column: Kamala Harris is making history again — as Republicans' prime campaign target"
+    excerpt: "In North Carolina, Senate hopeful Pat McCrory vows to take on the “Harris-Biden administration” and thwart the vice president and Democrats “who want to radically change America for years to"
+    publishedDateTime: 2021-07-18T08:00:00Z
+    webUrl: "https://www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.html"
+    ampWebUrl: "https://www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.amp.html"
+    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.amp.html"
+    type: article
+    provider:
+      name: Yakima Herald-Republic
+      domain: yakimaherald.com
+    quality: 68
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/8/3c/83cb9b20-46a1-5484-b7e8-46ae2414ea5f/60f1564c26942.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "VP Harris Attends Roundtable Meeting on Voting Rights"
     excerpt: "Vice President Kamala Harris delivers remarks while participating in a meeting on voting rights with members of the Black Women's Roundtable, National Council of Negro Women and other women leaders on voting rights,"
     publishedDateTime: 2021-07-16T19:38:00Z
@@ -92,6 +108,36 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/ac46821644135f59e9fe9b8e22edeeca/HARRIS-VOTING-RIGHTS.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris’ ‘toxic work culture’ exposed as aides claim VP made ‘interns cry and left staffers afraid she would snap’"
+    excerpt: "KAMALA Harris’ former aides have described a “toxic work culture” in which the then-Senator reportedly made interns cry and left staffers afraid she would snap at them. Staffers"
+    publishedDateTime: 2021-07-15T18:42:00Z
+    webUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/"
+    ampWebUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 50
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/SF-kamala-harris-toxic-work-culture-exposed-UPDAte-OFF-PLTFRM-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "BRB, Framing This Pic Of Olivia Rodrigo And Kamala Harris Laughing In Matching Pink Suits"
+    excerpt: "While visiting the White House to promote youth vaccinations, Olivia Rodrigo matched with Kamala Harris. Both wore suits in the same shade of blush pink."
+    publishedDateTime: 2021-07-16T16:54:00Z
+    webUrl: "https://www.elitedaily.com/style/olivia-rodrigo-kamala-harris-matching-pink-suits-photo"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 46
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2021/7/16/1477b15a-fe5c-45a9-a99d-1b30fa10b0b2-screen-shot-2021-07-16-at-125206-pm.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "lt66ULLiDKk7RQ+cE/iFu2MZGKit8o5vLQFzSYnbM/ZqdJITZW6w9EkCsaLcBrZnxJ1Iw2Y7oCKjPGUge0EuhtASTdx64kZ9cLH6+Ix6cFu0TydCE+CUZZ+8seVz25UUVlSJ/2tN6eVWn/44l9LElt71KoTA28SuZ/Anmy4EmCd2cI8fWuGmYtNjKIxMii+N0m5HPTOv7Yy0Qn4Ks6stCBSssEPk8+DswwlCPBSQLRgR54S06O68Pl9ssxcnpBA2HrtcZhhITF90ymzbuWQ55kHfk417YOgEh7wqRT0+4BO82OTRQNHQkrzOVUnOeWYbllQ7F0rk2YvQOyzWCq1KuI5tXPiputtoov81qqoHc4O6CxExj3FXqMdkrvQkdqLM+pdXDdNSHMKTN0B+D6Ute8EomdVrpURba5Naap8Jg6gEAupme4jymC/sSgYsDEdkQR/J7QPjOiSCo4htVtrI3Q5TeBHX8lpyWWaTxIV+sT27ag7VmTkyDEIdNdv3sf/Lzv+1j565z/FH9dbUASLQGA==;+e+RY5ipFI6BsCuOyQiDlw=="

@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden pledges appeal of ‘deeply disappointing’ DACA ruling"
-    excerpt: "Biden urged Congress to move forward with legislation to permanently protect those covered by the Deferred Action for Childhood Arrivals program."
-    publishedDateTime: 2021-07-17T15:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/17/joe-biden-pledges-appeal-daca-ruling-deeply-disappointing/8001889002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/8001889002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8001889002"
+  - title: "Biden pledges appeal of 'deeply disappointing' DACA ruling"
+    excerpt: "President Joe Biden says the Justice Department intends to appeal a federal judge’s ruling deeming illegal an Obama-era program that's protected hundreds of thousands of young immigrants from deportat"
+    publishedDateTime: 2021-07-17T15:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pledges-appeal-deeply-disappointing-daca-ruling-78901322"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/12/USAT/c222758a-82e2-473d-9d80-155527a55e64-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_981e6225239b49389ae424b06540c40c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions"
     excerpt: "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot."

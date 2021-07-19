@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
-excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"
-publishedDateTime: 2021-07-07T23:59:00Z
-originalUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html"
-webUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html"
-ampWebUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
+title: "Bankole Thompson: VP Kamala Harris should have done more in Detroit"
+excerpt: "Harris should dare to be different from other Democratic politicians. A White House visit shouldn’t only be about making a play for the Black vote."
+publishedDateTime: 2021-07-19T03:00:00Z
+originalUrl: "https://www.detroitnews.com/story/opinion/columnists/bankole-thompson/2021/07/19/bankole-thompson-vp-kamala-harris-should-have-done-more-detroit/7989797002/"
+webUrl: "https://www.detroitnews.com/story/opinion/columnists/bankole-thompson/2021/07/19/bankole-thompson-vp-kamala-harris-should-have-done-more-detroit/7989797002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/7989797002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7989797002"
 type: article
-quality: 71
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: MLive
-  domain: mlive.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LISVKDLIQVFNVMSZDAWOLGMXRQ.jpg"
-    width: 5714
-    height: 3809
+  - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTN/50768567-9581-4bae-aa9d-80408b345f11-2021-0712-rb-me-kamala-harris133.jpg?auto=webp&crop=3399,1912,x0,y245&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -59,21 +59,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bankole Thompson: VP Kamala Harris should have done more in Detroit"
-    excerpt: "Harris should dare to be different from other Democratic politicians. A White House visit shouldn’t only be about making a play for the Black vote."
-    publishedDateTime: 2021-07-19T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/columnists/bankole-thompson/2021/07/19/bankole-thompson-vp-kamala-harris-should-have-done-more-detroit/7989797002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7989797002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7989797002"
+  - title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
+    excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"
+    publishedDateTime: 2021-07-07T23:59:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
+      name: MLive
+      domain: mlive.com
+    quality: 71
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTN/50768567-9581-4bae-aa9d-80408b345f11-2021-0712-rb-me-kamala-harris133.jpg?auto=webp&crop=3399,1912,x0,y245&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LISVKDLIQVFNVMSZDAWOLGMXRQ.jpg"
+        width: 5714
+        height: 3809
         isCached: true
   - title: "Kamala Harris taps California donors for Democratic fundraiser | Charlotte Observer"
     excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
@@ -189,6 +189,6 @@ related:
       domain: kansascity.com
     quality: 55
 
-secured: "7pxzElbnCuuXY+5GCjkoCKdT7pbwnZdRZ/Yx2dywytHo+l+n0OdkLJ16t8YpzdbNj6C9DyXwW5+OyJ6Yo4ai4v0mJMp0SoX5p+o9/Z9JowdGyIdq5t22Upf449+XWD1PtCijXK4Cu6QVti2TE19wBeI/wBWmFDDt3gnmWjdHIf9485oyagURMyd7wJ6fOeUfTvSgONf582MYjjohBm1eYSawWyUJojVlLj6RUEz/N+5sjOCRSCKoAaG+wJhXKEtQifenIyZkM9wjJSwDPior2MnT+u9Y+v8QPxUqIK4ZklQoSsBkByNQk6qJSEKEoIxlRdVSOAVh7CNVIT2d8X63L6Y0uvjtKaUQMY2Cl2RWV2T1OjViPR5s3BWavxBXaUvrS1Cw7G5Fn9FsDIOwLSP3K3UmdQa6KYgmcaiYLUuXLh3ILUW9ZqagLMwxJk7BwcH3w4KalbpICLSzLbhiSCI9DMVj2w6m9cdw8fFwUL+1xHCWOcOqs8Cv3fSvGo3guM3iGwDG40H9/aOLtVfDI3rMwg==;qjMd6RUgQHvEbCs0cvdMCA=="
+secured: "ExWsDi5kYLe4MP3Y1zy8Yshd3+g6nioUa/EP3Plh8hG4LfUSAbZ6cb/7DO6yj3SzF+dpD7271MULlbI2MJhp+TBzflrWZTcYbaxqIkgiiuziSnKiX4nZ7lPc1+elxomCsc3rAqMMdCE6eXNvpE9HgfjMqHER6B1oR4JcCgBOyNTWjnAoqUwUY8iZJbtbjDyutSBCSi5LO8Ta7in47MG4fGT1rTkJdwrfzU16nn6GXkTsA6eRP+SMHoJufdc8rDKMKOYHItaGQzNdMSnKIN1PJuR5shWrLBLdGtNxP+lQgsm5wXsJy8yZcqDludcLAk1TXmPr1CdVWiEsoNt2VMluDUigZMYDDMYvH7oICF2NUJg=;AqJdOod7yoeICZhbY70tBA=="
 ---
 

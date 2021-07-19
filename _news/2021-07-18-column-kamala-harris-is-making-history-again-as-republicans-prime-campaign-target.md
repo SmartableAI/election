@@ -1,29 +1,29 @@
 ---
 category: news
-title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
-excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
-publishedDateTime: 2021-07-17T12:00:00Z
-originalUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
-webUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/local/article252835123.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/local/article252835123.html"
+title: "Column: Kamala Harris is making history again — as Republicans' prime campaign target"
+excerpt: "In North Carolina, Senate hopeful Pat McCrory vows to take on the “Harris-Biden administration” and thwart the vice president and Democrats “who want to radically change America for years to"
+publishedDateTime: 2021-07-18T08:00:00Z
+originalUrl: "https://www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.html"
+webUrl: "https://www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.html"
+ampWebUrl: "https://www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.amp.html"
+cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.amp.html"
 type: article
-quality: 70
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Yakima Herald-Republic
+  domain: yakimaherald.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/8/3c/83cb9b20-46a1-5484-b7e8-46ae2414ea5f/60f1564c26942.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://i.insider.com/605c34990d155e0019ef69ef?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
+    excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
+    publishedDateTime: 2021-07-17T12:00:00Z
+    webUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/local/article252835123.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/local/article252835123.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
     excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
@@ -74,22 +90,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/6ca4f80f-c5c9-4928-ac10-4853bfbc9178-AFP_93B7QU.jpg?auto=webp&crop=2699,1519,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Column: Kamala Harris is making history again — as Republicans' prime campaign target"
-    excerpt: "In North Carolina, Senate hopeful Pat McCrory vows to take on the “Harris-Biden administration” and thwart the vice president and Democrats “who want to radically change America for years to"
-    publishedDateTime: 2021-07-18T08:00:00Z
-    webUrl: "https://www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.html"
-    ampWebUrl: "https://www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.amp.html"
-    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.amp.html"
-    type: article
-    provider:
-      name: Yakima Herald-Republic
-      domain: yakimaherald.com
-    quality: 68
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/8/3c/83cb9b20-46a1-5484-b7e8-46ae2414ea5f/60f1564c26942.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
         isCached: true
   - title: "VP Harris Attends Roundtable Meeting on Voting Rights"
     excerpt: "Vice President Kamala Harris delivers remarks while participating in a meeting on voting rights with members of the Black Women's Roundtable, National Council of Negro Women and other women leaders on voting rights,"
@@ -136,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "czQMeA+vjU1TsgNYERMrWxrXHywutSbn+NR8Qmd0QoFiQW4dFlH9kjLt79vPEu1gXJ7Sj0DX7qKIHqU6etJB0ydo9c53iBhL6mM/3X82OWqMKIvwPM0xiv2TU5QBQRqQ4xpur+1wq/NbhMGWCKnILCOGtGrtcmwSRdrUL89Eq6WmYBgyjbtmtSfRM6Yb7R5MuP8m/aG64bS6WOnM/jg80mGnAUkXygm8537fjXIfkwgBdif6dLR4YM2EwDZjDqA1n2U6COiUZv/vgx7JEMjYBAeHcbN3fb37xAExgQdCy2PuxKGfxRPS3lGKEeVFXuUlWLLpqO+skE6uh5BJPMqxg7kJWrhP7g477ol51rhOmxmNOzeWsg2FuIxr4LBKz6qr56EbXA8RC8mtv9iVgE0G8ePU/QPs4UDLkXyqMBxkFJdiUImBZx9JQb5PsultMGdxPcASUt183SnIrseT9LugHr275f9eAX6qIvH7RYAWnl3XaKbTjU72a9koS5twj1krKahPcbr9yi6neiHINNbCAw==;tHZMsj2DBFdlEOjwE97vLA=="
+secured: "FX7xTmCUPYUn7k5fJ5oc2SSZkzIXLfTJ3RsqX5y4ju2q5bCFEqaq0j5Nb+PvEeSSrfhYhJZ+ih0TRHod4oywmRp2Oiv53DmOoR6HN7Zrmp9dqwbacht+o6oBzaJqjn/vS5UFNZ/+/NDQIzi9DGtZ71XrAeUneE8ximNUdVV6M5dDDzEy3F4aWLaMfkg5NB10mKmEkpDdS+ebphUogCyJ1qHF+aDl5bgXWfxJUCkBRce0HLE2/BpYmtMX/Nl6P4ZghtJL23c9r4MPgRqLkdKPQyIi/UM4svmkxt5I0IenNvfjBTi4VwyWiRUmBJahHkxXnAGwYBexrzflbQI3vArQ/Q/4cW+Z9fK6sOgOHRTlXaQ=;+BvnZLPq7zAIP9FARS9K/g=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bankole Thompson: VP Kamala Harris should have done more in Detroit"
+    excerpt: "Harris should dare to be different from other Democratic politicians. A White House visit shouldn’t only be about making a play for the Black vote."
+    publishedDateTime: 2021-07-19T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/columnists/bankole-thompson/2021/07/19/bankole-thompson-vp-kamala-harris-should-have-done-more-detroit/7989797002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7989797002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7989797002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTN/50768567-9581-4bae-aa9d-80408b345f11-2021-0712-rb-me-kamala-harris133.jpg?auto=webp&crop=3399,1912,x0,y245&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
     excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"
     publishedDateTime: 2021-07-07T23:59:00Z
@@ -74,6 +90,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LISVKDLIQVFNVMSZDAWOLGMXRQ.jpg"
         width: 5714
         height: 3809
+        isCached: true
+  - title: "Vice President Kamala Harris At Walter Reed Hospital For “Routine” Medical Appointment"
+    excerpt: ": A day after assurances from the White House that Vice President Kamala Harris did not contract Covid-19 after exposure to two infected congressmen, she’s at Walter Reed National"
+    publishedDateTime: 2021-07-19T05:30:00Z
+    webUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/#!"
+    ampWebUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 67
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2021/07/AP21194762112096-e1626562025183.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
     excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."

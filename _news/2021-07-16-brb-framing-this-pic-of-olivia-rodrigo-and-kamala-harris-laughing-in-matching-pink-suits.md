@@ -1,29 +1,27 @@
 ---
 category: news
-title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
-excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
-publishedDateTime: 2021-07-17T12:00:00Z
-originalUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
-webUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/local/article252835123.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/local/article252835123.html"
+title: "BRB, Framing This Pic Of Olivia Rodrigo And Kamala Harris Laughing In Matching Pink Suits"
+excerpt: "While visiting the White House to promote youth vaccinations, Olivia Rodrigo matched with Kamala Harris. Both wore suits in the same shade of blush pink."
+publishedDateTime: 2021-07-16T16:54:00Z
+originalUrl: "https://www.elitedaily.com/style/olivia-rodrigo-kamala-harris-matching-pink-suits-photo"
+webUrl: "https://www.elitedaily.com/style/olivia-rodrigo-kamala-harris-matching-pink-suits-photo"
 type: article
-quality: 70
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Elite Daily
+  domain: elitedaily.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://imgix.bustle.com/uploads/image/2021/7/16/1477b15a-fe5c-45a9-a99d-1b30fa10b0b2-screen-shot-2021-07-16-at-125206-pm.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://i.insider.com/605c34990d155e0019ef69ef?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
+    excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
+    publishedDateTime: 2021-07-17T12:00:00Z
+    webUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/local/article252835123.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/local/article252835123.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
     excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
@@ -121,21 +135,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "BRB, Framing This Pic Of Olivia Rodrigo And Kamala Harris Laughing In Matching Pink Suits"
-    excerpt: "While visiting the White House to promote youth vaccinations, Olivia Rodrigo matched with Kamala Harris. Both wore suits in the same shade of blush pink."
-    publishedDateTime: 2021-07-16T16:54:00Z
-    webUrl: "https://www.elitedaily.com/style/olivia-rodrigo-kamala-harris-matching-pink-suits-photo"
-    type: article
-    provider:
-      name: Elite Daily
-      domain: elitedaily.com
-    quality: 46
-    images:
-      - url: "https://imgix.bustle.com/uploads/image/2021/7/16/1477b15a-fe5c-45a9-a99d-1b30fa10b0b2-screen-shot-2021-07-16-at-125206-pm.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "czQMeA+vjU1TsgNYERMrWxrXHywutSbn+NR8Qmd0QoFiQW4dFlH9kjLt79vPEu1gXJ7Sj0DX7qKIHqU6etJB0ydo9c53iBhL6mM/3X82OWqMKIvwPM0xiv2TU5QBQRqQ4xpur+1wq/NbhMGWCKnILCOGtGrtcmwSRdrUL89Eq6WmYBgyjbtmtSfRM6Yb7R5MuP8m/aG64bS6WOnM/jg80mGnAUkXygm8537fjXIfkwgBdif6dLR4YM2EwDZjDqA1n2U6COiUZv/vgx7JEMjYBAeHcbN3fb37xAExgQdCy2PuxKGfxRPS3lGKEeVFXuUlWLLpqO+skE6uh5BJPMqxg7kJWrhP7g477ol51rhOmxmNOzeWsg2FuIxr4LBKz6qr56EbXA8RC8mtv9iVgE0G8ePU/QPs4UDLkXyqMBxkFJdiUImBZx9JQb5PsultMGdxPcASUt183SnIrseT9LugHr275f9eAX6qIvH7RYAWnl3XaKbTjU72a9koS5twj1krKahPcbr9yi6neiHINNbCAw==;tHZMsj2DBFdlEOjwE97vLA=="
+secured: "eNE6p3iXzbKMGyOZ7UUK80EUfrOhwq6kqcnoG3lovmkUD7ZcOfM2cFyl8k37o4457q0zjWFqmkJ1wizY5Ry0jbJ+yLTgBcr8+kQZOhkiAaT/f9EK8jHmou4GHsbLQgn6NloJRCMGIfK2BtUKt8yvpW5ZyGe7SFXeZO370Wuh+xPKU/ACAi++MgjAdG+k1N7duaQ/vcDERxct9JwztNrMy1WEkeZ9FeFM0aiZHTDZhuU0hX/6aXJXKH3Kwsn2P7C9jR2BMwXcaLuhIYh9Fa9SW3Cj0fF1Q9XTmPYy6KFC9NIPiHM4hN/YLOOfh5YCfxVEbuzNV+Y8W+EASfjmNZSd7/IrKPYFPYvCQVtCKFy4YPo=;4TmrHeakHPecEKSmERAsiA=="
 ---
 

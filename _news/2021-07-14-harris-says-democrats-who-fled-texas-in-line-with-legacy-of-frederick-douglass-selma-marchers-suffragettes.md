@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "COVID hypocrisy: Media silence on Kamala Harris’ meeting with infected Texas Dems"
+    excerpt: "Three Texas lawmakers did flee the state, did come down with COVID, did meet with Vice President Kamala Harris, and she refuses to get tested. But because there are “Ds” next to their"
+    publishedDateTime: 2021-07-18T20:59:00Z
+    webUrl: "https://nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/"
+    ampWebUrl: "https://nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Vice-President-Kamala-Harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
     excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
     publishedDateTime: 2021-07-14T15:15:00Z

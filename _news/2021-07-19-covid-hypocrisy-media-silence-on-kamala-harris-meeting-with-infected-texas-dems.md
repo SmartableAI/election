@@ -1,20 +1,20 @@
 ---
 category: news
-title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
-excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
-publishedDateTime: 2021-07-14T15:15:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
-ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+title: "COVID hypocrisy: Media silence on Kamala Harris’ meeting with infected Texas Dems"
+excerpt: "Three Texas lawmakers did flee the state, did come down with COVID, did meet with Vice President Kamala Harris, and she refuses to get tested. But because there are “Ds” next to their"
+publishedDateTime: 2021-07-18T20:59:00Z
+originalUrl: "https://nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/"
+webUrl: "https://nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/"
+ampWebUrl: "https://nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/amp/"
 type: article
-quality: 84
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -22,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/548078.jpg"
-    width: 750
-    height: 562
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Vice-President-Kamala-Harris.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -76,21 +76,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "COVID hypocrisy: Media silence on Kamala Harris’ meeting with infected Texas Dems"
-    excerpt: "Three Texas lawmakers did flee the state, did come down with COVID, did meet with Vice President Kamala Harris, and she refuses to get tested. But because there are “Ds” next to their"
-    publishedDateTime: 2021-07-18T20:59:00Z
-    webUrl: "https://nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/"
-    ampWebUrl: "https://nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/amp/"
+  - title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
+    excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
+    publishedDateTime: 2021-07-14T15:15:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 130
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Vice-President-Kamala-Harris.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.realclear.com/images/54/548078.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "Kamala Harris: Texas Democrats Took Bold, Courageous Action In Line With Legacy of Frederick Douglass"
     excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
@@ -109,6 +109,6 @@ related:
         height: 692
         isCached: true
 
-secured: "agXInu2ANrleODlUd+Ewb3R7TUnO0thYhXG+TWAiobaLgqaHwRfmPnWFUyptqDVBLiXnIdaNvEEoBjPAk2zXx0BUckLcD7Rw6KdGlz4QaiP4XPtBeO/gtNrH/Bf5clgACjTjWIidN2XR25rgwLZS4UoNqh30x88CgMJtRWZxPNDVybMoEPDsMEgh9rPZltxxGvetdHoYghwF4ljZIV46nlwbTx+Cr7TiigV5lJZJvf5U/CuRgUfchMr6qZycI9i6HXckZX/WZVq0rFJHY7U78ycHOtRCwLvrfhO4mwCRIJeTE64iYjzXf7OLx1HJAF0NxJazW7LERDaNfa52ZouzoCzHpC2jb+H0A1vze5woeizAqo5Tt7F3UtiLz31y4Mw7mwGKnlJiIrxqj+kcMvqH8oDnmFOAxct1tYOsw2P5MJ9LneyC2HccuKXYUlvBu2v/DZMfg84bfLaAR+3uYQfvDzacaMbzBNRgpeJpkNQqhznN5ueKJUHzDKXZMIrJwmAzu/gNhJIKARDrS7fbT6KLzQ==;bDauEIJunIXvGyxQXhFtFQ=="
+secured: "uhg+GKRdBtmo6loIwl48q9nb01yWL0TXmXRf7zie+hmLGewkAqzL8sacfPwlGcn/7wEL/k2zbG5BRkBIDQWh2WFugO9Cywd5PWi2YhbIap8uDCsM25ndM44yPcQIQYMUYkwTbNn19GhvKu6QMUSZHa1C5t/yJCDDYkIF2S6uEp6kb42F9gj7HHLpjWbQ5aZkLxwN3dASsTCP+vx8ok4rPK8bahUS3c88Iog0BfDc/IgvbRTeeOzO66CX2T9xjZdoCicm+/3nN93Nk39/GYEJPgOAQdjgXCnWIofzvmZ+0wajoom3RCeuURpYPXFw2+gg6dFNiCsQ+X6FSA0mwHLZoROTrfY1HcMHsR5WnTHzwJ0=;TPHnm28j9A/r2bXkIX+V2Q=="
 ---
 

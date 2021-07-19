@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Biden, Harris: Protect voting rights to honor John Lewis | Charlotte Observer"
-excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
-publishedDateTime: 2021-07-17T21:40:00Z
-originalUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
-webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+title: "Vice President Kamala Harris Okay, No Covid-19 Exposure After Meeting With Texas Lawmakers, Says Spokesperson"
+excerpt: "Vice President Kamala Harris and her staff avoided Covid-19 exposure at a recent meeting with Texas lawmakers, two of whom have now tested positive, according to a White House Office of the Vice"
+publishedDateTime: 2021-07-18T06:12:00Z
+originalUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/"
+webUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/"
+ampWebUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/amp/"
+cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/amp/"
 type: article
-quality: 67
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: Deadline.com
+  domain: deadline.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://deadline.com/wp-content/uploads/2021/07/AP21194762112096-e1626562025183.jpg?w=1024"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Kamala Harris, Greg Abbott react to Texas Democrats leaving state to block GOP elections bill"
@@ -204,6 +210,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden, Harris: Protect voting rights to honor John Lewis | Charlotte Observer"
+    excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
+    publishedDateTime: 2021-07-17T21:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 67
   - title: "Kamala Harris says DNC voter-registration program needed to stop GOP from taking ‘our power’"
     excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is more than doubling its spending, to $45 million, on voter registration and education to combat new Republican-backed state election laws."
     publishedDateTime: 2021-07-08T20:15:00Z
@@ -235,22 +252,6 @@ related:
       - url: "https://thumbnails.texastribune.org/oSsSRfq_1xE0scZDN6cCl2dBQjc=/1200x630/filters:quality(95)/static.texastribune.org/media/files/5b186fa5f2539b8bf04e2819744fda8d/Texas%20Right%20to%20Vote%20SP%20TT%2086.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Vice President Kamala Harris Okay, No Covid-19 Exposure After Meeting With Texas Lawmakers, Says Spokesperson"
-    excerpt: "Vice President Kamala Harris and her staff avoided Covid-19 exposure at a recent meeting with Texas lawmakers, two of whom have now tested positive, according to a White House Office of the Vice"
-    publishedDateTime: 2021-07-18T06:12:00Z
-    webUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/"
-    ampWebUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 56
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2021/07/AP21194762112096-e1626562025183.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Harris announces $25M DNC voting rights campaign"
     excerpt: "Vice President Kamala Harris announced a $25 million dollar investment to boost Democratic turnout and counter new laws that Democrats say restrict voting. (July 8)"
@@ -409,6 +410,6 @@ related:
         height: 630
         isCached: true
 
-secured: "umF/ToN/qti0E9JG8EKqKCR0yuz26eZe+JjE6dqcHWtQGNvVWU7t2tlZRZJtkP3vqR+uaGTASKcejloBiBFgaH9ncQU1GjX2FSHAgL7SSxpSJsGmjJ6E44jIBzblboGDkiZK4QHdFAXEv0jE19fY+Rz2xv7Ur/XfM3StioeEsIkETEFsSdo0BKRdfK4r5ZaqSUCv6tcHy/xkMcX0dBFhQ9K7/5z4Rn+yT3ifb70i1sJTysI1NTW+6JEBNkKQv5nBDN5BYK89DdqORqKWlMa/QEjGVcqkF5C9xJCFgj28HaWs6WD4HSFAYdUZDhnO9zEsmDtSePnLUR6+E2WRZbZmUFW3fTyKjksaJQiVA+7WucKMLsoLGDnYO6Bqq0hRG/Nvwx2TwJbn3N0M1F0s1WzfKrVkQj1o6XuAUBbrcmzTZbrfkFIxwuu1vTh/mv8y0IFVdqFXXw2odJfF7beDZpOu3X07/9x/M+9kjX842r05mr+hg/EX8GbZdC+keFJCozVFz0cEvZUgAxfsoASMPhWH4A==;Tp2AVc5/E3jTDJQ4+pIJxQ=="
+secured: "VYlehM9azbaiB6urv1nt1otXctad0B9+9wnFJYOCGU9NEUD7Bw2yooPmT7QGaDeMZQa8Z6gtKoGfxSvsCfAvzN3N94tVLMbn/+MRIX4rKgY/cgCrN92ThDp0SJdXmtXekXQeIdpx5+W2lDt02KFUxs9L+QpmPNku3i6GKzqkqIJGWmPlv2nfHAXlJm8tpPH/AytFhGyhN+yjdUW0V3WqqB3Rn729iXgUb+rH2iHrucOYU4mnmLGxb9NMYqopkpT5GH30MmWsfk6yzkDuP8A+Qj05+H62IrQa+6QDgnnVGGsviwHt8XcQq62EsIaqAGdO+jS2PAMGWQLsThRsMbZgr6ndA1+Nmz0IqrwlxNWXvbY=;WI/T1Aa36IDgmg+0Kn3FPQ=="
 ---
 

@@ -89,6 +89,52 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Column: Kamala Harris is making history again — as Republicans' prime campaign target"
+    excerpt: "In North Carolina, Senate hopeful Pat McCrory vows to take on the “Harris-Biden administration” and thwart the vice president and Democrats “who want to radically change America for years to"
+    publishedDateTime: 2021-07-18T08:00:00Z
+    webUrl: "https://www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.html"
+    ampWebUrl: "https://www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.amp.html"
+    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/column-kamala-harris-is-making-history-again-as-republicans-prime-campaign-target/article_42645f24-a716-526c-a575-960da02e3667.amp.html"
+    type: article
+    provider:
+      name: Yakima Herald-Republic
+      domain: yakimaherald.com
+    quality: 68
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/8/3c/83cb9b20-46a1-5484-b7e8-46ae2414ea5f/60f1564c26942.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kamala Harris’ ‘toxic work culture’ exposed as aides claim VP made ‘interns cry and left staffers afraid she would snap’"
+    excerpt: "KAMALA Harris’ former aides have described a “toxic work culture” in which the then-Senator reportedly made interns cry and left staffers afraid she would snap at them. Staffers"
+    publishedDateTime: 2021-07-15T18:42:00Z
+    webUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/"
+    ampWebUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 50
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/SF-kamala-harris-toxic-work-culture-exposed-UPDAte-OFF-PLTFRM-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "BRB, Framing This Pic Of Olivia Rodrigo And Kamala Harris Laughing In Matching Pink Suits"
+    excerpt: "While visiting the White House to promote youth vaccinations, Olivia Rodrigo matched with Kamala Harris. Both wore suits in the same shade of blush pink."
+    publishedDateTime: 2021-07-16T16:54:00Z
+    webUrl: "https://www.elitedaily.com/style/olivia-rodrigo-kamala-harris-matching-pink-suits-photo"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 46
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2021/7/16/1477b15a-fe5c-45a9-a99d-1b30fa10b0b2-screen-shot-2021-07-16-at-125206-pm.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rmr8cxH+k5mXROEDxrXTGOaNOqzhRH940MuLwnKZ3TtzmOKSr1avRW4pOt1U6edWPHU4UdAwM7VnzuHSu33QBuUkRTf46YDb/eFvnxtsZzrEnyBMH2FviV3sCfiuyn4WdVp5EX6Jpkcxfg/eIKfojTe7mtuu6v6+qY0juEN/xi7E1dBbzsSikZLd/rXpSyIJvXiJR0UqZwMhGt6DQec8hhHxAofxBtK89AV15zVwjrzMlXGpTFakhB+b35QcONfuH4c6J50Wy20Ub0w3+B/ONC2AH0xoohTpOS3gp0T1lMULqwLT52WfqHuNA5hTB6l+HSdj5Hodmn3KM0saieOhu0gjTwwo9Uj88AoxNe17F58=;i5CL9YbIb3KXGpCxGMWpMQ=="
 ---

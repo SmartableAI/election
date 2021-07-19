@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
-excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"
-publishedDateTime: 2021-07-07T23:59:00Z
-originalUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html"
-webUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html"
-ampWebUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
+title: "Vice President Kamala Harris At Walter Reed Hospital For “Routine” Medical Appointment"
+excerpt: ": A day after assurances from the White House that Vice President Kamala Harris did not contract Covid-19 after exposure to two infected congressmen, she’s at Walter Reed National"
+publishedDateTime: 2021-07-19T05:30:00Z
+originalUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/#!"
+webUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/#!"
+ampWebUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/amp/"
+cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/amp/"
 type: article
-quality: 71
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: MLive
-  domain: mlive.com
+  name: Deadline.com
+  domain: deadline.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LISVKDLIQVFNVMSZDAWOLGMXRQ.jpg"
-    width: 5714
-    height: 3809
+  - url: "https://deadline.com/wp-content/uploads/2021/07/AP21194762112096-e1626562025183.jpg?w=1024"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
+    excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"
+    publishedDateTime: 2021-07-07T23:59:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/vice-president-kamala-harris-to-visit-detroit-on-july-12-after-postponing-trip.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LISVKDLIQVFNVMSZDAWOLGMXRQ.jpg"
+        width: 5714
+        height: 3809
+        isCached: true
   - title: "Kamala Harris taps California donors for Democratic fundraiser | Charlotte Observer"
     excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
     publishedDateTime: 2021-07-16T14:54:00Z
@@ -90,22 +106,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Vice President Kamala Harris At Walter Reed Hospital For “Routine” Medical Appointment"
-    excerpt: ": A day after assurances from the White House that Vice President Kamala Harris did not contract Covid-19 after exposure to two infected congressmen, she’s at Walter Reed National"
-    publishedDateTime: 2021-07-19T05:30:00Z
-    webUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/#!"
-    ampWebUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/vice-president-kamala-harris-at-walter-reed-hospital-for-routine-visit-spokesperson-assures-1234795149/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 67
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2021/07/AP21194762112096-e1626562025183.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
     excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."
@@ -189,6 +189,6 @@ related:
       domain: kansascity.com
     quality: 55
 
-secured: "7pxzElbnCuuXY+5GCjkoCKdT7pbwnZdRZ/Yx2dywytHo+l+n0OdkLJ16t8YpzdbNj6C9DyXwW5+OyJ6Yo4ai4v0mJMp0SoX5p+o9/Z9JowdGyIdq5t22Upf449+XWD1PtCijXK4Cu6QVti2TE19wBeI/wBWmFDDt3gnmWjdHIf9485oyagURMyd7wJ6fOeUfTvSgONf582MYjjohBm1eYSawWyUJojVlLj6RUEz/N+5sjOCRSCKoAaG+wJhXKEtQifenIyZkM9wjJSwDPior2MnT+u9Y+v8QPxUqIK4ZklQoSsBkByNQk6qJSEKEoIxlRdVSOAVh7CNVIT2d8X63L6Y0uvjtKaUQMY2Cl2RWV2T1OjViPR5s3BWavxBXaUvrS1Cw7G5Fn9FsDIOwLSP3K3UmdQa6KYgmcaiYLUuXLh3ILUW9ZqagLMwxJk7BwcH3w4KalbpICLSzLbhiSCI9DMVj2w6m9cdw8fFwUL+1xHCWOcOqs8Cv3fSvGo3guM3iGwDG40H9/aOLtVfDI3rMwg==;qjMd6RUgQHvEbCs0cvdMCA=="
+secured: "lIERVmrrMG4enVzWJN35s09+Gu+ensChLJPqspAkBgdbtS6RbShDAppv1bHd6Ew2s50g3uLgLkdNJT/t7p5CFJgn0Ia7LqshboREr8Ll7CCHc02OZmIYH7fpvzKIwMiOpKoxXsfCZD0FidhN2n541RRKkXWQdsL1xDGDqeTX+Mn1BTujipnRwBZqms/Lfn8cCi88DxjKX7eWKqlAnkRjIepLpGXZSgTgEO+ytkB8MSkogi3COPThzR8rzBxUVtyB+Uo53aUIV/E8++CBWB4bbPA5Snd5siiCjyKtqieDCE+UbbRgs2H/C7y6RWO0wykgprDstYd8dXbYTX8qp5kRc6xY05T41MCfRyu4ngt2jew=;h+ZRoTz9tZkKB9AUdEQFMQ=="
 ---
 

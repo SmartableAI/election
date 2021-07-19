@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Biden, Harris: Protect voting rights to honor John Lewis | Charlotte Observer"
-excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
-publishedDateTime: 2021-07-17T21:40:00Z
-originalUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
-webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+title: "Kamala Harris’s Staff Needs Therapy"
+excerpt: "Kamala Harris has had a difficult time in the White House. Joe Biden has a way of offloading particularly difficult assignments onto the former senator, something she herself has admitted may be a problem."
+publishedDateTime: 2021-07-16T18:43:00Z
+originalUrl: "https://www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/"
+webUrl: "https://www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/"
+ampWebUrl: "https://www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/amp/"
+cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/amp/"
 type: article
-quality: 67
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: National Review
+  domain: nationalreview.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/kamala-harris-el-paso-texas-2.jpg?fit=1200%2C700&ssl=1"
+    width: 1200
+    height: 700
+    isCached: true
 
 related:
   - title: "Kamala Harris, Greg Abbott react to Texas Democrats leaving state to block GOP elections bill"
@@ -108,22 +114,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kamala Harris’s Staff Needs Therapy"
-    excerpt: "Kamala Harris has had a difficult time in the White House. Joe Biden has a way of offloading particularly difficult assignments onto the former senator, something she herself has admitted may be a problem."
-    publishedDateTime: 2021-07-16T18:43:00Z
-    webUrl: "https://www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/"
-    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/kamala-harris-el-paso-texas-2.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Harris meets with Texas lawmakers who left state to block GOP voting bill"
     excerpt: "VP Kamala Harris will meet with Texas Democratic lawmakers this week. Harris last met with Texas Democratic leaders in June. WASHINGTON — Vice President Kamala Harris met Tuesday with Democratic lawmakers from Texas who left the state to avoid voting on a bill backed by a GOP-controlled Legislature that would make sweeping changes to voting in the state."
     publishedDateTime: 2021-07-13T21:33:00Z
@@ -204,6 +194,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden, Harris: Protect voting rights to honor John Lewis | Charlotte Observer"
+    excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
+    publishedDateTime: 2021-07-17T21:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 67
   - title: "Kamala Harris says DNC voter-registration program needed to stop GOP from taking ‘our power’"
     excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is more than doubling its spending, to $45 million, on voter registration and education to combat new Republican-backed state election laws."
     publishedDateTime: 2021-07-08T20:15:00Z
@@ -409,6 +410,6 @@ related:
         height: 630
         isCached: true
 
-secured: "umF/ToN/qti0E9JG8EKqKCR0yuz26eZe+JjE6dqcHWtQGNvVWU7t2tlZRZJtkP3vqR+uaGTASKcejloBiBFgaH9ncQU1GjX2FSHAgL7SSxpSJsGmjJ6E44jIBzblboGDkiZK4QHdFAXEv0jE19fY+Rz2xv7Ur/XfM3StioeEsIkETEFsSdo0BKRdfK4r5ZaqSUCv6tcHy/xkMcX0dBFhQ9K7/5z4Rn+yT3ifb70i1sJTysI1NTW+6JEBNkKQv5nBDN5BYK89DdqORqKWlMa/QEjGVcqkF5C9xJCFgj28HaWs6WD4HSFAYdUZDhnO9zEsmDtSePnLUR6+E2WRZbZmUFW3fTyKjksaJQiVA+7WucKMLsoLGDnYO6Bqq0hRG/Nvwx2TwJbn3N0M1F0s1WzfKrVkQj1o6XuAUBbrcmzTZbrfkFIxwuu1vTh/mv8y0IFVdqFXXw2odJfF7beDZpOu3X07/9x/M+9kjX842r05mr+hg/EX8GbZdC+keFJCozVFz0cEvZUgAxfsoASMPhWH4A==;Tp2AVc5/E3jTDJQ4+pIJxQ=="
+secured: "KeKnOIyia6BXydzkz5GdkZQA20svf5Op33SVBPkrogVDRmgHT/kiVJYRuhC9nn79SNBPttuk6Zh5JwwPyqeQzRhQvfOxR809fLbFjPj3VgOnHNL+je2iAt0OqDea4VfZHny6db43vCzButijQERMarLVj4SHtiRsrjBAtb+GqatyGRS4DmKiQBw9q1qX4/KC/4t6n8Uqh4v32fuTUCvFi9W1BeUszp6uOEajF1uT/Sq650W3Qsrq2SkqlCy/QREJFefYucQPpoE2UPDlHK2da7ADZ9JnSjHp7sGN9Wcc+f2Paxee2YOicz43MGUxtaVOtZjcqt4uXPwZo6TIAFtTbzzgljwiyUmA/kxaahPEPSQ=;uNZTyh4KTLeuYFjtEJEfsQ=="
 ---
 

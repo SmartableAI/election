@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris’s Staff Needs Therapy"
+    excerpt: "Kamala Harris has had a difficult time in the White House. Joe Biden has a way of offloading particularly difficult assignments onto the former senator, something she herself has admitted may be a problem."
+    publishedDateTime: 2021-07-16T18:43:00Z
+    webUrl: "https://www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/"
+    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harriss-staff-needs-therapy/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/kamala-harris-el-paso-texas-2.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Harris meets with Texas lawmakers who left state to block GOP voting bill"
     excerpt: "VP Kamala Harris will meet with Texas Democratic lawmakers this week. Harris last met with Texas Democratic leaders in June. WASHINGTON — Vice President Kamala Harris met Tuesday with Democratic lawmakers from Texas who left the state to avoid voting on a bill backed by a GOP-controlled Legislature that would make sweeping changes to voting in the state."
     publishedDateTime: 2021-07-13T21:33:00Z
@@ -235,6 +251,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris Okay, No Covid-19 Exposure After Meeting With Texas Lawmakers, Says Spokesperson"
+    excerpt: "Vice President Kamala Harris and her staff avoided Covid-19 exposure at a recent meeting with Texas lawmakers, two of whom have now tested positive, according to a White House Office of the Vice"
+    publishedDateTime: 2021-07-18T06:12:00Z
+    webUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/"
+    ampWebUrl: "https://deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/vice-president-kamala-harris-not-exposed-to-covid-19-says-spokesperson-1234795149/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 56
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2021/07/AP21194762112096-e1626562025183.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Harris announces $25M DNC voting rights campaign"
     excerpt: "Vice President Kamala Harris announced a $25 million dollar investment to boost Democratic turnout and counter new laws that Democrats say restrict voting. (July 8)"
     publishedDateTime: 2021-07-08T19:36:00Z
@@ -291,19 +323,33 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Madame Vice President Kamala Harris"
+    excerpt: "Madame Vice President Kamala Harris is a painting by Ewa Hewelt which was uploaded on July 18th, 2021. There are no comments for Madame Vice President Kamala Harris . Click here to post the first comment."
+    publishedDateTime: 2021-07-18T22:40:00Z
+    webUrl: "https://fineartamerica.com/featured/madame-vice-president-kamala-harris-ewa-hewelt.html"
+    type: article
+    provider:
+      name: Fine Art America
+      domain: fineartamerica.com
+    quality: 55
+    images:
+      - url: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/madame-vice-president-kamala-harris-ewa-hewelt.jpg"
+        width: 725
+        height: 900
+        isCached: true
   - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
-    excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
+    excerpt: "U.S. Vice President Kamala Harris arrives to meet with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
     publishedDateTime: 2021-07-13T23:12:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/f13281bffbaa8a5991b95be322a9ed2e/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/62540ac7339c6f7fa45e173c95312359/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/f13281bffbaa8a5991b95be322a9ed2e/TEXAS-DEMOCRATS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/62540ac7339c6f7fa45e173c95312359/TEXAS-DEMOCRATS.jpg"
         width: 650
-        height: 433
+        height: 975
         isCached: true
   - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
     excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"

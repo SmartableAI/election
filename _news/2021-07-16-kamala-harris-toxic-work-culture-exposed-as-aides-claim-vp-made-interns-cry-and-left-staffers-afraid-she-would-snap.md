@@ -1,29 +1,29 @@
 ---
 category: news
-title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
-excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
-publishedDateTime: 2021-07-17T12:00:00Z
-originalUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
-webUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/local/article252835123.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/local/article252835123.html"
+title: "Kamala Harris’ ‘toxic work culture’ exposed as aides claim VP made ‘interns cry and left staffers afraid she would snap’"
+excerpt: "KAMALA Harris’ former aides have described a “toxic work culture” in which the then-Senator reportedly made interns cry and left staffers afraid she would snap at them. Staffers"
+publishedDateTime: 2021-07-15T18:42:00Z
+originalUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/"
+webUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/"
+ampWebUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
+cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
 type: article
-quality: 70
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: The Sun
+  domain: the-sun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/SF-kamala-harris-toxic-work-culture-exposed-UPDAte-OFF-PLTFRM-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://i.insider.com/605c34990d155e0019ef69ef?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
+    excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
+    publishedDateTime: 2021-07-17T12:00:00Z
+    webUrl: "https://www.thenewstribune.com/news/local/article252835123.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/local/article252835123.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/local/article252835123.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
     excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
@@ -105,22 +121,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Kamala Harris’ ‘toxic work culture’ exposed as aides claim VP made ‘interns cry and left staffers afraid she would snap’"
-    excerpt: "KAMALA Harris’ former aides have described a “toxic work culture” in which the then-Senator reportedly made interns cry and left staffers afraid she would snap at them. Staffers"
-    publishedDateTime: 2021-07-15T18:42:00Z
-    webUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/"
-    ampWebUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 50
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/SF-kamala-harris-toxic-work-culture-exposed-UPDAte-OFF-PLTFRM-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "BRB, Framing This Pic Of Olivia Rodrigo And Kamala Harris Laughing In Matching Pink Suits"
     excerpt: "While visiting the White House to promote youth vaccinations, Olivia Rodrigo matched with Kamala Harris. Both wore suits in the same shade of blush pink."
     publishedDateTime: 2021-07-16T16:54:00Z
@@ -136,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "czQMeA+vjU1TsgNYERMrWxrXHywutSbn+NR8Qmd0QoFiQW4dFlH9kjLt79vPEu1gXJ7Sj0DX7qKIHqU6etJB0ydo9c53iBhL6mM/3X82OWqMKIvwPM0xiv2TU5QBQRqQ4xpur+1wq/NbhMGWCKnILCOGtGrtcmwSRdrUL89Eq6WmYBgyjbtmtSfRM6Yb7R5MuP8m/aG64bS6WOnM/jg80mGnAUkXygm8537fjXIfkwgBdif6dLR4YM2EwDZjDqA1n2U6COiUZv/vgx7JEMjYBAeHcbN3fb37xAExgQdCy2PuxKGfxRPS3lGKEeVFXuUlWLLpqO+skE6uh5BJPMqxg7kJWrhP7g477ol51rhOmxmNOzeWsg2FuIxr4LBKz6qr56EbXA8RC8mtv9iVgE0G8ePU/QPs4UDLkXyqMBxkFJdiUImBZx9JQb5PsultMGdxPcASUt183SnIrseT9LugHr275f9eAX6qIvH7RYAWnl3XaKbTjU72a9koS5twj1krKahPcbr9yi6neiHINNbCAw==;tHZMsj2DBFdlEOjwE97vLA=="
+secured: "Ba1lbBQT7Uq6ykWqgN5PKHuOd/C/3dK/snqmfqcopd0EVA5Ir/0+TWttit5fgsxFlp1BhdBnWXYeOGzxoSXrwolnhUzwZWOHEZXe8WDuEDdjpLGjvGPRi3Bp7xHS7fC9LxabfUnzF0V1CBR0GTPXOsguplW2ECw5Ak4jbylZKQcl5irgsvLy9Rj5uGPzE4OYB5QKAtR0ptmT/eGo5WNVTzF3vadqC8NFx39WBQMtfFgQbWyMewAFsg92vrlyTjzCddnFyjRdJ/tpr9ylOS//TqAsESM66lo4MQuWTBhZQNadEvuTDpTCK32I9QCTMvAzCCYlmugVc/rgvzb4fwOetliDcCu6dQOfhCUmjDLkfew=;GA0OWXT7bGEI50ENPqRXiQ=="
 ---
 

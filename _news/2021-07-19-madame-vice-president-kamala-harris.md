@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Biden, Harris: Protect voting rights to honor John Lewis | Charlotte Observer"
-excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
-publishedDateTime: 2021-07-17T21:40:00Z
-originalUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
-webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+title: "Madame Vice President Kamala Harris"
+excerpt: "Madame Vice President Kamala Harris is a painting by Ewa Hewelt which was uploaded on July 18th, 2021. There are no comments for Madame Vice President Kamala Harris . Click here to post the first comment."
+publishedDateTime: 2021-07-18T22:40:00Z
+originalUrl: "https://fineartamerica.com/featured/madame-vice-president-kamala-harris-ewa-hewelt.html"
+webUrl: "https://fineartamerica.com/featured/madame-vice-president-kamala-harris-ewa-hewelt.html"
 type: article
-quality: 67
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: Fine Art America
+  domain: fineartamerica.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/madame-vice-president-kamala-harris-ewa-hewelt.jpg"
+    width: 725
+    height: 900
+    isCached: true
 
 related:
   - title: "Kamala Harris, Greg Abbott react to Texas Democrats leaving state to block GOP elections bill"
@@ -204,6 +208,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden, Harris: Protect voting rights to honor John Lewis | Charlotte Observer"
+    excerpt: "President Joe Biden and Vice President Kamala Harris are both marking the one-year anniversary of the death U.S. Rep. John Lewis by urging Congress to enact laws to protect voting rights."
+    publishedDateTime: 2021-07-17T21:40:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252852678.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 67
   - title: "Kamala Harris says DNC voter-registration program needed to stop GOP from taking ‘our power’"
     excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is more than doubling its spending, to $45 million, on voter registration and education to combat new Republican-backed state election laws."
     publishedDateTime: 2021-07-08T20:15:00Z
@@ -322,20 +337,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Madame Vice President Kamala Harris"
-    excerpt: "Madame Vice President Kamala Harris is a painting by Ewa Hewelt which was uploaded on July 18th, 2021. There are no comments for Madame Vice President Kamala Harris . Click here to post the first comment."
-    publishedDateTime: 2021-07-18T22:40:00Z
-    webUrl: "https://fineartamerica.com/featured/madame-vice-president-kamala-harris-ewa-hewelt.html"
-    type: article
-    provider:
-      name: Fine Art America
-      domain: fineartamerica.com
-    quality: 55
-    images:
-      - url: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/madame-vice-president-kamala-harris-ewa-hewelt.jpg"
-        width: 725
-        height: 900
-        isCached: true
   - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
     excerpt: "U.S. Vice President Kamala Harris arrives to meet with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
     publishedDateTime: 2021-07-13T23:12:00Z
@@ -409,6 +410,6 @@ related:
         height: 630
         isCached: true
 
-secured: "umF/ToN/qti0E9JG8EKqKCR0yuz26eZe+JjE6dqcHWtQGNvVWU7t2tlZRZJtkP3vqR+uaGTASKcejloBiBFgaH9ncQU1GjX2FSHAgL7SSxpSJsGmjJ6E44jIBzblboGDkiZK4QHdFAXEv0jE19fY+Rz2xv7Ur/XfM3StioeEsIkETEFsSdo0BKRdfK4r5ZaqSUCv6tcHy/xkMcX0dBFhQ9K7/5z4Rn+yT3ifb70i1sJTysI1NTW+6JEBNkKQv5nBDN5BYK89DdqORqKWlMa/QEjGVcqkF5C9xJCFgj28HaWs6WD4HSFAYdUZDhnO9zEsmDtSePnLUR6+E2WRZbZmUFW3fTyKjksaJQiVA+7WucKMLsoLGDnYO6Bqq0hRG/Nvwx2TwJbn3N0M1F0s1WzfKrVkQj1o6XuAUBbrcmzTZbrfkFIxwuu1vTh/mv8y0IFVdqFXXw2odJfF7beDZpOu3X07/9x/M+9kjX842r05mr+hg/EX8GbZdC+keFJCozVFz0cEvZUgAxfsoASMPhWH4A==;Tp2AVc5/E3jTDJQ4+pIJxQ=="
+secured: "bPFU75X8dXaqHh18NRcCKUAp2q3rnL9n9zi7YGHPAHazyQWevorhBTKcxsFqIlG3UvooBzKXFGUeMNCDHCLhylxQxO42I8aEJuB+8VKJbP9HxGbaaXuUnVJe5qtigQ5GjOCcJmZKBkkLjL5Beqbt6TuoJvoooQEKv8DTYW0RqB9sy8CUShziXF2Y+8+Fzc5zt7P3LPdaKHsfk5WEPeVYmAfKzhOtKvYwr1cwvKcmDczuuHJQWTyiCkFRu/CCzqod0gixDkG8Fchmr1jQWwM426hhFf8s6UJSTXdrpWEUCTieX3CnSyx8PMo0KKncvjR47a0KNUs89M7EFgHHWyscx4AYOyKZABP2tQ8h/VqDXVs=;hPSRYUp28I1lC0W5BV3MnA=="
 ---
 
