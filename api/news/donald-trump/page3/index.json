@@ -2,54 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-06-jd-vance-walks-back-trump-criticism-after-launching-senate-bid.md",
-      "title": "J.D. Vance walks back Trump criticism after launching Senate bid",
-      "excerpt": "After officially launching his campaign, Vance told Tucker Carlson that he did not fit into the establishment or Trumpian wings of the GOP.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/",
-      "originalUrl": "https://nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/jd-vance-trump-04.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/amp/",
-      "publishedDateTime": "2021-07-06T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-06-megyn-kelly-on-switching-from-nbc-to-siriusxm-and-why-shed-rather-interview-donald-trump-jr-over-donald-trump.md",
       "title": "Megyn Kelly on switching from NBC to SiriusXM and why she'd rather interview Donald Trump Jr. over Donald Trump",
       "excerpt": "The former Fox News anchor spoke to Insider about her new radio deal with SiriusXM: \"I didn't want to work for another old guy.\"",
@@ -1542,6 +1494,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-trump-lawyer-bruce-castor-plays-a-central-role-in-bill-cosby-going-free.md",
+      "title": "Trump lawyer Bruce Castor plays a central role in Bill Cosby going free",
+      "excerpt": "Castor's representation of Trump in his impeachment trial raised questions about his past decisions about Cosby's prosecution. Now the Pennsylvania Supreme Court has set Cosby free based upon Castor's testimony.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2N2F7EWZY4I6XDEHVVXSPEMMPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

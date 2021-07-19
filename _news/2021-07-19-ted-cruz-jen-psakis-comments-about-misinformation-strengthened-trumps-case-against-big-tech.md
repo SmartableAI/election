@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Biden nomination of Richard Trumka Jr. marks another appointment with union ties"
-excerpt: "The Biden administration built on its effort to cultivate close ties to prominent figures within the labor sector this week with President Biden’s decision to nominate Richard Trumka Jr. to a seat on the Consumer Product Safety Commission."
-publishedDateTime: 2021-07-14T21:51:59Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lctSkh7s_4g/biden-nomination-richard-trumka-jr-appointment-union-ties"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lctSkh7s_4g/biden-nomination-richard-trumka-jr-appointment-union-ties"
-ampWebUrl: "https://www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
+title: "Ted Cruz: Jen Psaki's Comments About Misinformation Strengthened Trump's Case Against Big Tech"
+excerpt: "Texas Sen. Ted Cruz slams the Biden administration for working with tech companies to \"unconstitutionally\" censor COVID content during an interview with FNC's Maria Bartiromo on \"Sunday Morning Futures\": CRUZ: It was undoubtedly collusion."
+publishedDateTime: 2021-07-18T18:25:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.html"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
 type: article
-quality: 170
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/52/524239.jpg"
+    width: 904
+    height: 678
     isCached: true
 
 related:
@@ -108,6 +105,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d965c2e6-6826-4417-bbfc-0bb2df7f90f6/f4ce6119-177b-465c-9a87-706424e526fc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden nomination of Richard Trumka Jr. marks another appointment with union ties"
+    excerpt: "The Biden administration built on its effort to cultivate close ties to prominent figures within the labor sector this week with President Biden’s decision to nominate Richard Trumka Jr. to a seat on the Consumer Product Safety Commission."
+    publishedDateTime: 2021-07-14T21:51:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lctSkh7s_4g/biden-nomination-richard-trumka-jr-appointment-union-ties"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -239,23 +252,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Ted Cruz: Jen Psaki's Comments About Misinformation Strengthened Trump's Case Against Big Tech"
-    excerpt: "Texas Sen. Ted Cruz slams the Biden administration for working with tech companies to \"unconstitutionally\" censor COVID content during an interview with FNC's Maria Bartiromo on \"Sunday Morning Futures\": CRUZ: It was undoubtedly collusion."
-    publishedDateTime: 2021-07-18T18:25:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 73
-    images:
-      - url: "https://assets.realclear.com/images/52/524239.jpg"
-        width: 904
-        height: 678
-        isCached: true
 
-secured: "tL0U/ZpJV8qvVFhQOCX8rXMrhHYW7VI4UdjzQejsBWxkCZc9O9DG2lTWs0y//oOBNr6hQA9nSDWRaIYnA1/+LryFvjtR5j2DjRbhyj2HwV+LMiAlhkeIfNhdS49bj9zEwIdb5bF9nfTPuo3m3mn6ifoDcBZqOAA20YRJvV/Vc6GdXVGwNXYPW359f9F/T+uB/aYQGOxtfuF2scrFCr3dTihmh0u3qwLPp+sS9wsSWdqzuhqbhWasgfy+LVkdZO9stW0ZRWJofrU1NaR53YCdUPlfB5xxhquD6SJ5HEIfN8BR1ScIxt+ZynubWl1k4XB1/Mpt8IEuAsvHh1q9+ylvK+OA3FN8+txM18WH10IYbs0=;pwXnMo4eaV2X2h4h+7Y2bg=="
+secured: "1Ml37JTYlLsBtf2+oMvMaQuP/BQnkBktS+MAbwu2EJ7Pcspw88S4aJohuwGSab9f6V9VCiC77WQc0KkqWjLI9qdI0syncNhpKW7Q/uZYrI3YlRhm4UjrWyzbshx/EzgmMoRJj4wG+3vgpBgDTC3jmtDH2Gd8Gcik3tCSGT1kunONSod5I1BQELZC6CDYtaKcCiQjVApgob7WEgBVZCZdwrb0o4oSD7cUYLTpLeGpv4JRj4/pJGYQRkqVSm9G5xLrBwGFm9HN6UCa3RBFxzWHDgM514lDnz+56f+oNIMD/x09vDqn39+71B9YsUZXjrxkZaLTWoKDcbDd+DMWiWLvIp1xqjeBJ+cCUqDYUKkOtZ0=;uretGOyLGwqgWQ+S2nBomw=="
 ---
 

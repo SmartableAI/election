@@ -1,33 +1,29 @@
 ---
 category: news
-title: "AP: Few AZ voter fraud cases, discrediting Trump's claims"
-excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year’s presidential election that requi"
-publishedDateTime: 2021-07-16T19:46:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+title: "Trump Is a Godsend for Book Publishers. He’s Also a Nightmare."
+excerpt: "Book sales, helped along by pandemic-induced lockdowns, are up. Adult-fiction sales have risen 30 percent year over year. And most of all, Trump hasn’t been in office. “Postelection, there’s been a breath of Thank God,"
+publishedDateTime: 2021-07-19T12:00:00Z
+originalUrl: "https://nymag.com/intelligencer/2021/07/trump-books-publishing.html"
+webUrl: "https://nymag.com/intelligencer/2021/07/trump-books-publishing.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/trump-books-publishing.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/trump-books-publishing.html"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7J4GEHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://pyxis.nymag.com/v1/imgs/89f/214/ae13f73615f3dde65f35f8358388338772-column-2-trump-books.rsquare.w1200.jpg"
+    width: 1200
+    height: 1200
     isCached: true
 
 related:
@@ -222,6 +218,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/397aea32919885738f1e6d8ed8c6734ef87b3f19/0_116_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=81436f5376a92c3ed23e492cd1328ef4"
         width: 600
         height: 360
+        isCached: true
+  - title: "AP: Few AZ voter fraud cases, discrediting Trump's claims"
+    excerpt: "An Associated Press investigation has found county election officials throughout Arizona have identified fewer than 200 cases of potential voter fraud from last year’s presidential election that requi"
+    publishedDateTime: 2021-07-16T19:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-few-arizona-voter-fraud-cases-undercut-trumps-claims/2021/07/16/674c1d4a-e670-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7J4GEHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
     excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."
@@ -686,22 +698,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump Is a Godsend for Book Publishers. He’s Also a Nightmare."
-    excerpt: "Book sales, helped along by pandemic-induced lockdowns, are up. Adult-fiction sales have risen 30 percent year over year. And most of all, Trump hasn’t been in office. “Postelection, there’s been a breath of Thank God,"
-    publishedDateTime: 2021-07-19T12:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/07/trump-books-publishing.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/trump-books-publishing.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/trump-books-publishing.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/89f/214/ae13f73615f3dde65f35f8358388338772-column-2-trump-books.rsquare.w1200.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
     excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."
     publishedDateTime: 2021-07-09T19:21:00Z
@@ -806,6 +802,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "gU4bczVuftcfUrnMl8InDiivngXLzQ8n5WG/N7cVilEJCZl9JUPsbLqZ1F9NfxQpnZW0FXeNIMqKT70t24ODNR936vEWGcXz6DhzUguF6wX+q0Snz5nFlUjh4jVaw5XC/ZlRQarC7zFM/jIqGaapthLtsDEIUIy7+0L09XDBfHZ9DThI7SxQeUoVDwOd5WZHJlJmdPX/GMeqT0ifIrBRB4UT7rQIBKf03XSobRMZP+hfySdEPVjfYIHT89NhZZHG5RigxymLE8Bc6/JjCkdw+8INlS+dES5uo5451qi2acTU3rttLdPgDV6XSjr/vivfdeakrM4+Sp58vaMnGEK9aemvv24IpSWMFtGhnI7wbbc=;DvZmagsQ9raNvLoFzlDSlQ=="
+secured: "HpzVfmTzAumtbLc0dY8CfO6h+psIFmP5wFUUGL+K29re57ApTG/Uqccmv+NHtY5/D2RB6L+HGWXAoX62A7nEX18KFlWsZ/BZLj2k2+fiY5uVFKz5ubI2gVkhr+QUany04C7waCTfBgZVUcfs2c/grfdRZSmxbaJiZ/DIDTUsH2hu/I1eUNRgZKad1Yo4+CqB4fwcBU9Lhx7dW2mqITSdtMr+fjMdTAfn+Rb/kNkFRLjvDsdu0Sb1gvYbOusYtC6Xr6t5nYXf1JlYnfqUDP7PLAWbra1aB06elwiqqroC8QM2mV9QHrugL6n/Z4asqmeO5YZPjrzOlDZUc4EdXiIO9w+haYp+jHsHL6nHR6MpMds=;1D3UPqydFnGxc+hf5pSm0Q=="
 ---
 

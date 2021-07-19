@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-19-biden-administration-transfers-1st-detainee-from-guantanamo-bay-facility-to-home-country-in-break-with-trump-policy.md",
-      "title": "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy",
-      "excerpt": "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy",
+      "path": "_news/2021-07-19-who-is-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner.md",
+      "title": "Who Is Abdul Latif Nasser? Joe Biden Releases First Guantánamo Bay Prisoner",
+      "excerpt": "On Monday, the Biden administration transferred its first detainee out of Guantánamo Bay, repatriating a Moroccan man who has been held in the notorious prison for nearly two decades on no charge. The release of Abdul Latif Nasser,",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915",
+      "webUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
+      "originalUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 143,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
+          "url": "https://d.newsweek.com/en/full/1703346/gitmo2002.jpg",
+          "width": 3000,
+          "height": 1968,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915",
-      "publishedDateTime": "2021-07-19T04:04:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
+      "publishedDateTime": "2021-07-19T06:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Joe Biden"
       ]
     },
     {
@@ -877,7 +877,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 437,
+      "heat": 457,
       "tags": null,
       "images": [
         {

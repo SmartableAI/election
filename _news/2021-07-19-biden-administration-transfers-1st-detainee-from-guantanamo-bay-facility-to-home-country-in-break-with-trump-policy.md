@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915"
 type: article
 quality: 118
-heat: 118
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -30,6 +30,24 @@ images:
     height: 308
     isCached: true
 
-secured: "9gdFY/Ej1DDSFNN8L/5pt0a8AfbgXOqpPLSvZRRh03sI+Bpgdd9takvBAZm1//g15I4Mm7Sm0mNLODqDr9i6ka5mJk9jC6vMdpV2bUfjqhLYzpxZIoeHpuCyk76ilFKvVFM6CVzKygo8+9mgYUm2/aYMs3o6HQFSD+csqElkfoZcRToN9lDlk/0JrEIBZJKkO6Fe+WC//zsfSTMmOhpu9OpKtuIbZcqnxSY7MdIuoZpXingXdBIKIuiNNsKdl8lpfDbV3DMu4oILZKHJwyHiVZSBmqj0KQBbssysitM0U7PWMYwfOwYDcquw7QKiBHUaHnr7Sbw3oTgC4NTrotFA57iaMT4GEjqfBuJHqR7/wd0=;31Dtw5pTIPUHNKQfSGn/bw=="
+related:
+  - title: "Who Is Abdul Latif Nasser? Joe Biden Releases First Guantánamo Bay Prisoner"
+    excerpt: "On Monday, the Biden administration transferred its first detainee out of Guantánamo Bay, repatriating a Moroccan man who has been held in the notorious prison for nearly two decades on no charge. The release of Abdul Latif Nasser,"
+    publishedDateTime: 2021-07-19T13:46:00Z
+    webUrl: "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971"
+    ampWebUrl: "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1703346/gitmo2002.jpg"
+        width: 3000
+        height: 1968
+        isCached: true
+
+secured: "S5eDgZ2jeGZWQToKi5CmKg2n6S3vdlpvkIXsYym1ua/gx2LbE1pw/X7JDf6oBVwchsb+TJ1ZjJdbBIlcZToxVyjud2M0A0UHBl73AYiW0EIr5yFiIV4IKLSp+HZtPRUn5EgdoXpuSgGWaWiT1Ziz2UvPaBHdv9Wf6RDB4ECZr2rbbarErSuZFmmDjIus+Q1ZDT8fUlPzpsU3OehL25cAe7WbSOZZbWRb4kIeFDR1HTcLHbAvoNme+HYzXBrbxJ4PBkmXo/m9FHQtYQqtB4baRA6symdBvVAefeZMESGr9EOd2e1etINp6UCZ33+6CFwX59thZiFgmwDqIiu9BeMT192hlzXaZRdOQrhudQYI8fA=;oJSlrjnAv5ryzsWXwXj5Zw=="
 ---
 

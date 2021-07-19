@@ -696,6 +696,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Is a Godsend for Book Publishers. He’s Also a Nightmare."
+    excerpt: "Book sales, helped along by pandemic-induced lockdowns, are up. Adult-fiction sales have risen 30 percent year over year. And most of all, Trump hasn’t been in office. “Postelection, there’s been a breath of Thank God,"
+    publishedDateTime: 2021-07-19T12:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/trump-books-publishing.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/trump-books-publishing.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/trump-books-publishing.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/89f/214/ae13f73615f3dde65f35f8358388338772-column-2-trump-books.rsquare.w1200.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "PA dentist and friend of Donald Trump charged with assault for groping a patient, police say"
     excerpt: "Albert Hazzouri Jr., the self-proclaimed \"dentist and personal friend of Donald Trump,\" has been charged with assault after he allegedly groped a patient in his Scranton office."
     publishedDateTime: 2021-07-08T17:04:00Z

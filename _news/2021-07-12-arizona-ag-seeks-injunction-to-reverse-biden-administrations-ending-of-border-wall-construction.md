@@ -239,6 +239,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Ted Cruz: Jen Psaki's Comments About Misinformation Strengthened Trump's Case Against Big Tech"
+    excerpt: "Texas Sen. Ted Cruz slams the Biden administration for working with tech companies to \"unconstitutionally\" censor COVID content during an interview with FNC's Maria Bartiromo on \"Sunday Morning Futures\": CRUZ: It was undoubtedly collusion."
+    publishedDateTime: 2021-07-18T18:25:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/52/524239.jpg"
+        width: 904
+        height: 678
+        isCached: true
 
 secured: "zRNrR2Qpj9kMaMo8xTp5I5b6/2JY+wspG/rErhXLspRqldyxue2Q9mbMfb6sXT+1ZSqHjDz6I424EHeezsErn92dLxXJS4voxfNMQc5682NA817jQA/OMUPOiiR/B0361B3WRJYhM23sDzsMWn/Lx6RLWFrt0Rk87Tx1xUzMasjptV3Odgm3uVDBBbbIv/QzGzHjYLLLDyvmkH18jkhc/9q0/Un9K9nhepYJk37GyiArqHd93zzWdqKRjosr0AQ9prD/4tEAFtHi9/N/KunLxWU0vDVixXrjHDTPHBYU1exL2MohqkDORwBGimiI50k/l4JF0gI/6Ct9edox73Pf6ekhvXFQtf48khNBkIYKL4Y=;F2LXYFw6wMtTsW1ilvcpig=="
 ---

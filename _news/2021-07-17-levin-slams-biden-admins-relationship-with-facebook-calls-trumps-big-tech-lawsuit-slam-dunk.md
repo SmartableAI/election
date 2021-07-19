@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/levin-biden-administration-facebook
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
 type: article
 quality: 177
-heat: 437
+heat: 457
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da047fe0-ff00-4fee-a621-0555e366db4e/596e9fee-8a85-409c-8e26-3e7c8a995960/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Ted Cruz: Jen Psaki's Comments About Misinformation Strengthened Trump's Case Against Big Tech"
+    excerpt: "Texas Sen. Ted Cruz slams the Biden administration for working with tech companies to \"unconstitutionally\" censor COVID content during an interview with FNC's Maria Bartiromo on \"Sunday Morning Futures\": CRUZ: It was undoubtedly collusion."
+    publishedDateTime: 2021-07-18T18:25:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/52/524239.jpg"
+        width: 904
+        height: 678
         isCached: true
 
 secured: "SUzG26ltTSFHd0gbOvFSw7of6lHrSoiWZO59h4DwjrK2w8M8XvjwuY2N6xXV4CINQvsTVX4cLn880gmyiisLVi+/H3TUoJj+qwF2s3aeiybhDz3cPR3eAyfwwJ0IjarvH4Kr4pgQU7yFP/gZsHkUclfGo24TG2BNGtJVjmfe0yTmWZyf5e0+F55mG5zi3kKuYwa2VBJdIge88xvkIV0ApOI7nv9OI+pWVUMVBcfIB7HtdBwXnSqw6jXLm4JPbtlMG+RqEVvWYYwFFT8XKH2G4LHrBTb2Aj0xKRxV91RRLs2XhUFf04edHnCx64wkBiYuzgd3qBBP86OJjkDOWn3cJOujBmr03Qw+TmajcLs7OTA=;TvjNQFOISsiF8revGgXNPw=="
