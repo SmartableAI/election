@@ -2,25 +2,25 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-07-14-where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.md",
-      "title": "‘Where is Biden?’ chant breaks out at Florida protest in support of Cuba",
-      "excerpt": "A protest broke out in Tampa, Florida, on Tuesday in support of the anti-government protesters in Cuba and participants appealed to the Biden administration to take a firmer stance on the crackdown in Havana.",
+      "path": "_news/2021-07-14-ingraham-slams-bidens-philadelphia-voter-rights-speech-as-usual-liberals-are-at-war-with-the-facts.md",
+      "title": "Ingraham slams Biden's Philadelphia voter rights speech: 'As usual, liberals are at war with the facts'",
+      "excerpt": "In response to President Joe Biden's Tuesday speech on voting rights protection in Philadelphia, Fox News host Laura Ingraham ripped the president on \"The Ingraham Angle,\" claiming that \"as usual, liberals are at war with the facts\" and that Biden was \"just reading whatever script his writers handed to him.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IbvrFFW4wC0/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IbvrFFW4wC0/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba",
+      "webUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 234,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46929a4d-78fe-445f-a714-0ea8ceb5e626/8eb45b00-d0a2-4b1b-8670-7c60e17ede15/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp",
-      "publishedDateTime": "2021-07-13T21:24:58-07:00",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "publishedDateTime": "2021-07-13T21:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,6 +54,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1136,7 +1137,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 200,
+      "heat": 180,
       "tags": null,
       "images": [
         {

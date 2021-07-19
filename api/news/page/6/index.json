@@ -543,6 +543,63 @@
       ]
     },
     {
+      "path": "_news/2021-07-09-your-world-on-biden-withdrawing-troops-florida-recovery-efforts.md",
+      "title": "'Your World' on Biden withdrawing troops, Florida recovery efforts",
+      "excerpt": "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts",
+      "originalUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
+      "publishedDateTime": "2021-07-09T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-rupert-murdoch-approved-fox-news-calling-arizona-for-biden-book-claims.md",
       "title": "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims",
       "excerpt": "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’",
@@ -1296,49 +1353,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-fact-check-photo-does-not-show-biden-kneeling-before-israeli-president-pledging-support.md",
-      "title": "Fact Check-Photo does not show Biden kneeling before Israeli President ‘pledging support’",
-      "excerpt": "A picture of U.S. President Joe Biden kneeling in front of outgoing Israeli President Reuven Rivlin and his chief of staff Rivka Ravitz has been mislabeled online. Some posts and articles have wrongly said he adopted the pose to “pledge unconditional support to",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-biden-rivlin-idUSL2N2OK1CG",
-      "originalUrl": "https://www.reuters.com/article/factcheck-biden-rivlin-idUSL2N2OK1CG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2OK1CG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OK1CG",
-      "publishedDateTime": "2021-07-08T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

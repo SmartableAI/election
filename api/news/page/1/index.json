@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-19-jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.md",
+      "title": "Jeb Bush appeals to Biden to ‘tear down’ Cuba Cyberwall",
+      "excerpt": "Jeb Bush, the former GOP presidential candidate, took to Twitter on Sunday to appeal to the Bide administration to employ the needed technology to restore internet service in Cuba amid the unrest that was sparked a week ago during anti-government protests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waYe3EYbmY0/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waYe3EYbmY0/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp",
+      "publishedDateTime": "2021-07-19T00:13:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-msnbc-guest-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.md",
       "title": "MSNBC guest attacks Biden as 'hypocritical' for failing to end filibuster",
       "excerpt": "MSNBC host Tiffany Cross and her guests criticized President Joe Biden for \"failing\" to end the filibuster while fighting Republican election reform bills.",
@@ -1253,62 +1309,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-schumers-challenge-wooing-moderate-democrats-on-35-trillion-biden-plan.md",
-      "title": " Schumer's challenge: Wooing moderate Democrats on $3.5 trillion Biden plan",
-      "excerpt": "Sen. Maggie Hassan, a New Hampshire Democrat who is running for a second term next year, has been working behind the scenes to help craft a bipartisan infrastructure deal that could be popular in her swing state.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dwHtr7P_7EU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dwHtr7P_7EU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205121013-06-chuck-schumer-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/chuck-schumer-challenge-infrastructure/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/chuck-schumer-challenge-infrastructure/index.html",
-      "publishedDateTime": "2021-07-16T14:39:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

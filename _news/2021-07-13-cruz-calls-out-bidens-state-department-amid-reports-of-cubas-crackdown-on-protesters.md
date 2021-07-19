@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jeb Bush appeals to Biden to ‘tear down’ Cuba Cyberwall"
+    excerpt: "Jeb Bush, the former GOP presidential candidate, took to Twitter on Sunday to appeal to the Bide administration to employ the needed technology to restore internet service in Cuba amid the unrest that was sparked a week ago during anti-government protests."
+    publishedDateTime: 2021-07-19T07:13:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/waYe3EYbmY0/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall"
+    ampWebUrl: "https://www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "‘Where is Biden?’ chant breaks out at Florida protest in support of Cuba"
     excerpt: "A protest broke out in Tampa, Florida, on Tuesday in support of the anti-government protesters in Cuba and participants appealed to the Biden administration to take a firmer stance on the crackdown in Havana."
     publishedDateTime: 2021-07-14T04:24:58Z
@@ -63,19 +79,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "'Your World' on Biden withdrawing troops, Florida recovery efforts"
-    excerpt: "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there."
-    publishedDateTime: 2021-07-09T15:28:00Z
-    webUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts"
-    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
+  - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
+    excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."
+    publishedDateTime: 2021-07-13T10:36:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 130
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae8b4ac5-c535-402b-91f1-0f8b750827b6/9e32dacb-0ead-4a3c-8f4e-7a7c8b39e257/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
