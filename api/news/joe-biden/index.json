@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-biden-hosts-jordans-king-abdullah-at-white-house.md",
+      "title": "Biden hosts Jordan's King Abdullah at White House",
+      "excerpt": "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-joe-biden-touts-infrastructure-spending-plans-seeks-to-ease-inflation-fears.md",
       "title": "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears",
       "excerpt": "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure.",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1503,49 +1555,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-joe-biden-departs-to-chicago-washington.md",
-      "title": "Joe Biden departs to Chicago - Washington",
-      "excerpt": "U.S. President Joe Biden walks on the South Lawn f the White House in Washington as he returns from a day trip to Chicago on Wednesday, July 7, 2021. Biden is to deliver remarks on his Build Back Better agenda at McHenry County College in Crystal Lake,",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d8e40e73/Joe-Biden-departs-to-Chicago-Washington/",
-      "originalUrl": "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d8e40e73/Joe-Biden-departs-to-Chicago-Washington/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/pv/upi/136f1b640383ef6c4bb6ba33d8e40e73/BIDEN-SOUTH-LAWN.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

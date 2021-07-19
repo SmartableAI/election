@@ -2,6 +2,114 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-05-27-biden-blasts-republicans-for-touting-covid-relief-funds-they-voted-against-some-people-have-no-shame.md",
+      "title": "Biden blasts Republicans for touting Covid relief funds they voted against: 'Some people have no shame' ",
+      "excerpt": "President Joe Biden on Thursday criticized Republican lawmakers who have touted parts of the Covid-19 economic relief law that benefit their constituents despite having voted against the law, saying: \"Some people have no shame.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527155040-biden-gop-list-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
+      "publishedDateTime": "2021-05-27T14:22:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-las-cruces-man-accused-of-plotting-biden-assassination-mass-shooting.md",
+      "title": "Las Cruces man accused of plotting Biden assassination, mass shooting",
+      "excerpt": ":Lawyer: Las Cruces resident denies threatening to kill Biden. LAS CRUCES – The FBI is alleging a Las Cruces man sent text messages with plans to kill U.S. President Joe B",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
+      "originalUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/10/29/PNM2/f47728ed-1b01-4073-a3fb-e642ba2b5b7c-Federal_courthouse_Las_Cruces_3.jpg?auto=webp&crop=5216,2934,x37,y9&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7448404002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002",
+      "publishedDateTime": "2021-05-27T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-the-daily-202-biden-resurrects-the-politically-potent-wuhan-lab-leak-pandemic-theory.md",
       "title": "The Daily 202: Biden resurrects the politically potent Wuhan lab-leak pandemic theory",
       "excerpt": "President Biden breathed new life yesterday into the theory that the pandemic began when the virus escaped from a Chinese lab — an unproven but politically potent scenario Republicans have used to attack Beijing and defend former president Donald Trump.",
@@ -1255,110 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-blasts-reported-grand-jury-says-part-of-greatest-witch-hunt.md",
-      "title": "Trump blasts reported grand jury, says part of ‘greatest Witch Hunt’",
-      "excerpt": "The 45th president claimed the grand jury probe is an extension of the Russia investigation that plagued his administration for two years.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/",
-      "originalUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-legal-troubles-524.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/amp/",
-      "publishedDateTime": "2021-05-25T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-pentagon-official-leading-military-extremism-crackdown-said-trump-supporters-are-extremists.md",
-      "title": "Pentagon official leading military extremism crackdown said Trump supporters are extremists",
-      "excerpt": "The Pentagon official tasked with leading efforts to crack down on extremist views among military servicemembers once asserted that supporters of former President Donald Trump were also supporters of racism, misogyny and extremism.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6QAfOhMmtk/pentagon-official-bishop-garrison-trump-supporters-extremists",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6QAfOhMmtk/pentagon-official-bishop-garrison-trump-supporters-extremists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pentagon-official-bishop-garrison-trump-supporters-extremists.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-official-bishop-garrison-trump-supporters-extremists.amp",
-      "publishedDateTime": "2021-05-25T17:30:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

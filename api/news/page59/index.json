@@ -2,6 +2,115 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-03-31-biden-judicial-nominee-would-be-first-muslim-federal-judge-in-us-history.md",
+      "title": "Biden judicial nominee would be first Muslim federal judge in US history",
+      "excerpt": "Some Republicans, meanwhile, have broadly criticized Biden's nominees. \"It's payback time -- we know that liberal dark money organizations spent millions of dollars to put President Joe Biden in the White House in terms of contributing to his campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history",
+      "originalUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/joe-biden-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp",
+      "publishedDateTime": "2021-03-30T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.md",
+      "title": "Former Pence chief of staff says he would not be advocating for tax increases right now",
+      "excerpt": "Marc Short, former chief of staff to Vice President Mike Pence, discusses the proposed Biden tax hikes. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/03/30/former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/03/30/former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106861725-16171322901617132282-15111908872-1080pnbcnews.jpg?v=1617132289",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-donald-trump-uses-new-website-to-rewrite-history-of-his-presidency.md",
       "title": "Donald Trump uses new website to rewrite history of his presidency",
       "excerpt": "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 15.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ...",

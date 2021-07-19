@@ -60,6 +60,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "VP Kamala Harris tested negative for COVID-19 after meeting with Texas Democrats, Psaki says"
+    excerpt: "Vice President Kamala Harris tested negative for COVID-19 after meeting with several Texas House Democratic lawmakers who recently contracted the virus, White House Press Secretary Jen Psaki confirmed on Monday."
+    publishedDateTime: 2021-07-19T21:29:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FsGn5vP1-pU/vp-harris-tested-negative-covid-19-meeting-texas-democrats"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Kamala-Harris-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "COVID hypocrisy: Media silence on Kamala Harris’ meeting with infected Texas Dems"
     excerpt: "Three Texas lawmakers did flee the state, did come down with COVID, did meet with Vice President Kamala Harris, and she refuses to get tested. But because there are “Ds” next to their"
     publishedDateTime: 2021-07-18T20:59:00Z
@@ -73,6 +87,22 @@ related:
     quality: 130
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Vice-President-Kamala-Harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "White House says Harris tests negative for COVID-19 after meeting with Texas Dems"
+    excerpt: "Vice President Kamala Harris tested negative for COVID-19 after meeting with infected Democratic legislators and isn’t being isolated from Joe Biden."
+    publishedDateTime: 2021-07-19T20:58:00Z
+    webUrl: "https://nypost.com/2021/07/19/white-house-says-harris-tests-negative-for-covid-19/"
+    ampWebUrl: "https://nypost.com/2021/07/19/white-house-says-harris-tests-negative-for-covid-19/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/19/white-house-says-harris-tests-negative-for-covid-19/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/psaki-harris-comp-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

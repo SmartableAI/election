@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden stands by nominee linked to tree-spiking plot despite new revelations, Psaki says"
+    excerpt: "President Biden is standing by his decision to nominate Tracy Stone-Manning to lead the Bureau of Land Management despite contradictory accounts of her involvement in a 1989 tree-spiking plot, White House Press Secretary Jen Psaki said Monday."
+    publishedDateTime: 2021-07-19T21:12:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JcRavYzggoc/biden-blm-nominee-tree-spiking-plot-revelations-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-tree-spiking-plot-revelations-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-tree-spiking-plot-revelations-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fb69407-cb3c-41d3-aa36-e45c6513718c/b1f21a2f-29e9-4ed9-9298-7dfd9996edc8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's flip on Hyde Amendment sign of administration 'spiraling way, way to the left': McConnell"
     excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., slammed President Biden for steering the U.S. to the more to the left despite campaigning as a moderate, in light of Democrats' push to eliminate the Hyde Amendment."
     publishedDateTime: 2021-07-15T18:05:24Z

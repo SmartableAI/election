@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/federal-judge-biden-administration-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden stands by nominee linked to tree-spiking plot despite new revelations, Psaki says"
+    excerpt: "President Biden is standing by his decision to nominate Tracy Stone-Manning to lead the Bureau of Land Management despite contradictory accounts of her involvement in a 1989 tree-spiking plot, White House Press Secretary Jen Psaki said Monday."
+    publishedDateTime: 2021-07-19T21:12:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JcRavYzggoc/biden-blm-nominee-tree-spiking-plot-revelations-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-tree-spiking-plot-revelations-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-tree-spiking-plot-revelations-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fb69407-cb3c-41d3-aa36-e45c6513718c/b1f21a2f-29e9-4ed9-9298-7dfd9996edc8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden administration to relocate Afghans who aided US military effort as they await visa process"
     excerpt: "The Biden administration is launching an operation to relocate Afghan nationals who aided the U.S. military effort in Afghanistan and are in the process of applying for residency in the United States."
