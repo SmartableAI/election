@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden poses with ice cream cone on 'national ice cream day'"
+    excerpt: "President Biden on Sunday celebrated national ice cream day by posting an image of himself grabbing a large cone and posing for a selfie."
+    publishedDateTime: 2021-07-18T22:50:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/046cd26b-e2c1-4a37-8872-6fc6c299da6a/b770c5c1-c8ed-4bdd-aa68-d4eabaefbd2c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Joe Biden accuses Facebook of 'killing people' with vaccine misinformation"
     excerpt: "President Biden accused the social media platform of “killing people” by allowing what he deems as misinformation on coronavirus vaccines to be shared on the site."
     publishedDateTime: 2021-07-16T21:37:52Z

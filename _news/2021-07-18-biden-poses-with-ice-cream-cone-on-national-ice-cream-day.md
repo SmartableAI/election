@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Cruz accuses Biden of being 'in bed' with Big Tech amid vaccine misinformation controversy"
-excerpt: "Sen. Ted Cruz, R-Texas, on Sunday accused the Biden administration of being “in bed with Big Tech,” making the argument that comments made by White House Press Secretary Jen Psaki last week have only strengthened former President Trump’s lawsuit accusing Facebook and Twitter of censorship."
-publishedDateTime: 2021-07-18T18:54:22Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K05RIHUFHMY/cruz-biden-big-tech-in-bed-vaccine-controversy"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K05RIHUFHMY/cruz-biden-big-tech-in-bed-vaccine-controversy"
-ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
+title: "Biden poses with ice cream cone on 'national ice cream day'"
+excerpt: "President Biden on Sunday celebrated national ice cream day by posting an image of himself grabbing a large cone and posing for a selfie."
+publishedDateTime: 2021-07-18T22:50:20Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day"
+ampWebUrl: "https://www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp"
 type: article
-quality: 165
+quality: 175
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/046cd26b-e2c1-4a37-8872-6fc6c299da6a/b770c5c1-c8ed-4bdd-aa68-d4eabaefbd2c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -44,22 +44,6 @@ related:
     quality: 177
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden poses with ice cream cone on 'national ice cream day'"
-    excerpt: "President Biden on Sunday celebrated national ice cream day by posting an image of himself grabbing a large cone and posing for a selfie."
-    publishedDateTime: 2021-07-18T22:50:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/046cd26b-e2c1-4a37-8872-6fc6c299da6a/b770c5c1-c8ed-4bdd-aa68-d4eabaefbd2c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -126,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Cruz accuses Biden of being 'in bed' with Big Tech amid vaccine misinformation controversy"
+    excerpt: "Sen. Ted Cruz, R-Texas, on Sunday accused the Biden administration of being “in bed with Big Tech,” making the argument that comments made by White House Press Secretary Jen Psaki last week have only strengthened former President Trump’s lawsuit accusing Facebook and Twitter of censorship."
+    publishedDateTime: 2021-07-18T18:54:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K05RIHUFHMY/cruz-biden-big-tech-in-bed-vaccine-controversy"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-big-tech-in-bed-vaccine-controversy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "White House doubles down on its harsh criticism of Facebook following Biden's 'killing' remarks"
     excerpt: "The White House isn't backing down from its harsh criticism of Facebook after President Biden on Friday accused the social media giant of \"killing people\" with misinformation about coronavirus vaccinations. "
@@ -224,6 +224,6 @@ related:
         height: 405
         isCached: true
 
-secured: "4SM+2/mt2mogi/gKl7LVhlRsczuLpKXVr8PA7vgB4ugmEtkp9oNJCSh1P4umcX4TBupoeonqrVzyMyve7r3ALC3f5pFugnhCgr1l1mexnd/ar23aEHrycakpMiF8OeTPrUVEfGm8FO8VZ0LA/ayQA9E7lVV6Ez2cHZHsn3W5F/FKH7oR4ZMJuUK+igl4k2t+G9gZdzoARvXunIWHQS80qzle/RxJd3XFMc9O5qJZ0rWfPyDFkCeUy03X0w1EWPJgrsLfjre5KrwPH7Xnoxr41D2NRYMEdUEpXTOW3y+JF8m3KGd1ZG3eZpb82MoMsF8pjhNKYhqMkE2sfFFnHZsZbZFEdIFhsHa/uj4GgDnbdZE=;bLzW99ogtc351JeXgCnsmA=="
+secured: "g8JcSbP7T3kzMlQ5m7Q+UMVrIRGHVGBbyEKFfy2pq3t3t01Dn1IWRHhf9bA69a5D71mpZc+69MD39mbjJdl0/LUGmNiCkdXkbruETipU+MmdH1E+r10uY+NP42dsDtjBKIWIMx04Naa+677+4LSdNWYJZzqi36bGF5EmvaEPUw+LsIO3c5f4ImNns9SMWTMaf/goaioqU6n2rwvKCuMXILKodhuC/TkfYRPRr8a/188I4h1v5li9B1BtFz0PwtVhAwviQDyzLCExtm3nGoOOFfXQ37RM2pUCHKK5XM33y205UKO/hjeFnuHEh2PbInHjYU6JP1tIZHhl37lDidO84Eu/KsZl0/dUZo9fzIxudeg=;Hz433eYDbBtCwNECIL2Fsw=="
 ---
 
