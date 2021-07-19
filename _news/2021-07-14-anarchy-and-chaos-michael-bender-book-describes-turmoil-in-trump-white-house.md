@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/7948108002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7948108002"
 type: article
 quality: 121
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Michael Wolff: Murdoch hates Trump but loves Fox News money more"
+    excerpt: "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat"
+    publishedDateTime: 2021-07-19T10:40:00Z
+    webUrl: "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news"
+    ampWebUrl: "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a73f231d740d05f5ae6f1fcb8fc8ab138e9c8083/0_73_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c634a9013950e6eb0b24de4c9b40f10f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Landslide review: Michael Wolff’s third Trump book is his best – and most alarming"
     excerpt: "Fire and Fury infuriated a president and fueled a publishing boom. Its latest sequel is required reading for anyone who fears for American democracy"
     publishedDateTime: 2021-07-12T22:00:00Z

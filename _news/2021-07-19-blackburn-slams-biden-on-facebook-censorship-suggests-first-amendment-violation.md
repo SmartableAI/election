@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
-excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."
-publishedDateTime: 2021-07-15T15:14:44Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rpo17l9LF-Y/texas-george-p-bush-biden-border-wall"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rpo17l9LF-Y/texas-george-p-bush-biden-border-wall"
-ampWebUrl: "https://www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+title: "Blackburn slams Biden on Facebook censorship, suggests First Amendment violation"
+excerpt: "Sen. Marsha Blackburn wrote a letter to President Biden slamming his administration’s collaboration with Facebook to rid the platform of vaccine \"misinformation\" and suggesting the work could violate the First Amendment."
+publishedDateTime: 2021-07-19T11:00:49Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbh6CFY-mDg/blackburn-letter-biden-facebook-censorship-first-amendment-violation"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbh6CFY-mDg/blackburn-letter-biden-facebook-censorship-first-amendment-violation"
+ampWebUrl: "https://www.foxnews.com/politics/blackburn-letter-biden-facebook-censorship-first-amendment-violation.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-letter-biden-facebook-censorship-first-amendment-violation.amp"
 type: article
-quality: 160
+quality: 170
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -127,22 +127,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Blackburn slams Biden on Facebook censorship, suggests First Amendment violation"
-    excerpt: "Sen. Marsha Blackburn wrote a letter to President Biden slamming his administration’s collaboration with Facebook to rid the platform of vaccine \"misinformation\" and suggesting the work could violate the First Amendment."
-    publishedDateTime: 2021-07-19T11:00:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbh6CFY-mDg/blackburn-letter-biden-facebook-censorship-first-amendment-violation"
-    ampWebUrl: "https://www.foxnews.com/politics/blackburn-letter-biden-facebook-censorship-first-amendment-violation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-letter-biden-facebook-censorship-first-amendment-violation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Cruz accuses Biden of being 'in bed' with Big Tech amid vaccine misinformation controversy"
     excerpt: "Sen. Ted Cruz, R-Texas, on Sunday accused the Biden administration of being “in bed with Big Tech,” making the argument that comments made by White House Press Secretary Jen Psaki last week have only strengthened former President Trump’s lawsuit accusing Facebook and Twitter of censorship."
     publishedDateTime: 2021-07-18T18:54:22Z
@@ -188,6 +172,22 @@ related:
     quality: 162
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
+    excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."
+    publishedDateTime: 2021-07-15T15:14:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rpo17l9LF-Y/texas-george-p-bush-biden-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -240,6 +240,6 @@ related:
         height: 405
         isCached: true
 
-secured: "EQSjQ3xa8fHFRlIy0qeq0MIYYwOlr5KLi8pPtIbsal28AIpMQuRHZPhFiL2KznzJffmr7shgDZG/v632dFNxXeKfm5qOXOC52/AfZUq/A+h+rGKY6NjfkR3EYytl2oI5JUNaVTEwDtNMnRfUnLQBVLHjwM20sRGiQkyH9g3LqtYfhALrX/yxnETp4KlTQ0/3XMJY/etdCcrH1Np6UPYzytih79y32mSO7ON1PUWVLwFkV9f1OBfHgTMlgsI+Q5nXpzgkttVBCTc1WisKWik6PkY827IYWH9SYz5vaYmEzuFhyrM9lL8NsTg7kemKAsAmCS25/un5mp975DVUuZjIBIrGW3kl856Z1+P16wdUwnM=;SIf3ToMX89Ork1mCro0K5A=="
+secured: "+NiZcPhuWbTi/1aeF23G6YWoNN8IkU7LLlmIXr0Z0CRF/S5MqKlN5Fm9yVdeRjlOC1wOilW0gQJ9wUyqkx8bH1q9/XQWuREQdOxKkUnmNMs+7QNEbMLN09P+IYj602oGU+vTV6EWYe5qss9iymB5LOBAG3D6ryHbJ6xKvgL9alMXUjnxnJ8OTC0bYvmLgt9xzuOL32fOPg5mtTPLc7lsWqAoR3WoDHc34Va2Gos1KqsfjSAw8ETCAob2cToPOHYa1ORSfc6zMsdjk+zXvOfCJQKv9NtNuOA4f9+IdnbWuGkiUPQZK3EUDYD6i/CpDhmpBhAWjI8rzSmJNXFlUfi+LJOUoeDslK0PReG4XP/kTSE=;8x6ISyK2QUMIUiCemKTgNQ=="
 ---
 

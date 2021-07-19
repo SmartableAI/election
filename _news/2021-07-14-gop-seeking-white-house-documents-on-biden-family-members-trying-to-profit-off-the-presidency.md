@@ -203,6 +203,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The Man Behind Joe Biden's Curtain"
+    excerpt: "President Biden's chief of staff worked his whole career to reach the corner office of the West Wing. He says he's just a staff person, but Republicans call him Prime Minister Klain."
+    publishedDateTime: 2021-07-19T11:34:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "P8LwIudvZL6EwC8dY4jNu5MtbaAyq9uC3Pz9dt+ySrCDWzli0nghR+inr1hotPQBsXFjo6gNcv/kISUr2ER9oq7iKVQ5I10+GEJNKvOVXSgN5Qs1gg8SSkpc+c1BkEv/AcIXRFRUSKzpDxItbHSnpiY0A1/zbc6kwRqKswSnaUxY9T7y0y+RwnDVtDqlvr18yLPCAg/RtDtaJHfYY9ZBJeHh8oY8ZT1HMs9j41tvczO3JTrP+ed/B6FV2qM2Or1fvLijFbn2MtsL8WhvrbCFhIUb1ofxz3O5Eew7QvMmLXv4bqnLGLmZ/EFRGuIGECvfyQ+3j+S1cb4iuSl4Hqst0rLaNf7XfbUX/FZZlJ0B26w=;QGTwk+X8cqaSfMShWKaUbw=="
 ---

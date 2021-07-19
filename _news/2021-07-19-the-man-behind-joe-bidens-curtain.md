@@ -1,34 +1,23 @@
 ---
 category: news
-title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
-excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
-publishedDateTime: 2021-07-08T01:05:57Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
-ampWebUrl: "https://www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+title: "The Man Behind Joe Biden's Curtain"
+excerpt: "President Biden's chief of staff worked his whole career to reach the corner office of the West Wing. He says he's just a staff person, but Republicans call him Prime Minister Klain."
+publishedDateTime: 2021-07-19T11:34:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html"
+webUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html"
 type: article
-quality: 164
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
-    isCached: true
 
 related:
   - title: "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19"
@@ -94,6 +83,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
+    excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
+    publishedDateTime: 2021-07-08T01:05:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
+    ampWebUrl: "https://www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Rep. Andy Biggs provides video of illegal immigrants streaming across border, calls on Biden to act"
     excerpt: "Republican Congressman Andy Biggs has released an exclusive video from his home state of Arizona showing illegal immigrants, many of them wearing camouflage and backpacks, streaming across the border undeterred."
@@ -203,16 +208,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "The Man Behind Joe Biden's Curtain"
-    excerpt: "President Biden's chief of staff worked his whole career to reach the corner office of the West Wing. He says he's just a staff person, but Republicans call him Prime Minister Klain."
-    publishedDateTime: 2021-07-19T11:34:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "oqHCGj2PKkazynALZRv5rek2EAGFImgWvzbXN5FMwbj8BzKSLVaewOf1gLmfPtWZnXw9wfWnZiOJZMUVPxfdmFTcQ5okthnLa1HAAcyITsIBd+TETm/9/gu9nst7fKZEV7Oe9PgHVZzAAc4GYFtHM7Qmy43yzow7aLMADWypqAV/w6AqCEhy3KxvLTrp7RssSy81p0OVyFSTbA4+hCF1tGQy25L8P1ypMVuyEoH0OkbuGj91A1Iaw6ntYF9krByLcy4CgHGwyVTJ13grU3dyNLAdoRaSIBCLgMw5O68/g56cz8TpqtN03OzNJik6YYjgEVNNdoiB8ihH2JsOfWluZ4MMBHhry/aMozbifKh6YcE=;NXqUI31OsuLDHX5TEL2WQQ=="
+secured: "k8+vHcPDAZyXewSfjYS+M8DhPg1ffU/PiFBdzqPfRis6lHfUAgOFdgSLRS9+jnzK0GL9ADnPWOrc4j5zuoAiSWyw+61pS36ySdTwSGJwVUO+SSZmLTGCh7m/qkUfCLQT5bduaUJ76odSFbMcuPfMUXkJ5sNRak8N/DjIkGQorywvtByGNWLTuShcYZmLvEKKfBYtyBGPvyHdVfuaYSaG3KOjsl9g/rtac7ipATHPJB7OfDSFfDbUnA4FMjqxstb7gLHWJCKx9kATIEmD2LvwJvae8DoFU3EB7IdblV71/vDEhsdkwx26P3Rm85q6bpK+941E71oW781Aiy0DjHBsQmy4uUPsVuKGQs/eYjSUXJ8=;HX+mXB1+7pb8tyGst9r/Hw=="
 ---
 

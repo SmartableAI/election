@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden to meet with Iraqi prime minister at White House"
+    excerpt: "The White House says President Joe Biden will meet with Iraqi Prime Minister Mustafa al-Kadhimi later this month in Washington"
+    publishedDateTime: 2021-07-17T00:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-meet-iraqi-prime-minister-white-house-78895540"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-meet-iraqi-prime-minister-white-house-78895540"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meet-iraqi-prime-minister-white-house-78895540"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_db7955c453bd4de29d63efae0e606546_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden meets with 'Dreamers' in the White House to push pathway to citizenship"
     excerpt: "Biden gathered a group of DREAMers at the White House Friday for a discussion on the future of the DACA program."
     publishedDateTime: 2021-05-15T19:46:00Z
@@ -108,20 +124,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/003b5053-917b-4be5-ae87-3d82c10e236a_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Biden to meet with Iraqi prime minister at White House"
-    excerpt: "The White House says President Joe Biden will meet with Iraqi Prime Minister Mustafa al-Kadhimi later this month in Washington"
-    publishedDateTime: 2021-07-16T19:38:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-meet-with-iraqi-prime-minister-at-white-house/2021/07/16/ea4c3d08-e696-11eb-88c5-4fd6382c47cb_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U22NMPHGLYI6XCGFJ7LDQLCHZM.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Biden's defense budget seeks greater China deterrence and nuclear funding"
     excerpt: "U.S. President Joe Biden's $715 billion Department of Defense budget will shift funding from old systems to help modernize the nuclear arsenal to deter China, while also developing future warfare capabilities,"
@@ -154,16 +156,16 @@ related:
         height: 533
         isCached: true
   - title: "Democrats Meet with President Joe Biden at White House"
-    excerpt: "Illinois Governor J. B. Pritzker (D-IL) looks on as New Jersey Governor Phil Murphy (D-NJ) speaks to journalists beside Dayton, Ohio Mayor Nan Whaley, following a meeting at the White House in Washington,"
+    excerpt: "Denver, Colorado Mayor Michael B. Hancock walks out of the West Wing with New Jersey Governor Phil Murphy (D-NJ), and Oklahoma City Mayor Michael B. Hancock, following a meeting at the White House in Washington,"
     publishedDateTime: 2021-07-14T23:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8df62f8b4df97cb55835f549f1dbdc95/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c03dcb763603e1ab6b189b7cee176108/BIDEN-BUGET.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8df62f8b4df97cb55835f549f1dbdc95/BIDEN-BUGET.jpg"
         width: 650
         height: 433
         isCached: true

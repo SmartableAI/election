@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/levin-biden-administration-facebook
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
 type: article
 quality: 177
-heat: 417
+heat: 437
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Blackburn slams Biden on Facebook censorship, suggests First Amendment violation"
+    excerpt: "Sen. Marsha Blackburn wrote a letter to President Biden slamming his administration’s collaboration with Facebook to rid the platform of vaccine \"misinformation\" and suggesting the work could violate the First Amendment."
+    publishedDateTime: 2021-07-19T11:00:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbh6CFY-mDg/blackburn-letter-biden-facebook-censorship-first-amendment-violation"
+    ampWebUrl: "https://www.foxnews.com/politics/blackburn-letter-biden-facebook-censorship-first-amendment-violation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-letter-biden-facebook-censorship-first-amendment-violation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

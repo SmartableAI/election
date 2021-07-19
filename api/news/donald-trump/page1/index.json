@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-19-biden-administration-transfers-1st-detainee-from-guantanamo-bay-facility-to-home-country-in-break-with-trump-policy.md",
+      "title": "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy",
+      "excerpt": "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915",
+      "publishedDateTime": "2021-07-19T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
+      "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
+      "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "originalUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a73f231d740d05f5ae6f1fcb8fc8ab138e9c8083/0_73_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c634a9013950e6eb0b24de4c9b40f10f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "publishedDateTime": "2021-07-19T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-mullen-says-post-election-chaos-within-trump-white-house-incredibly-disturbing.md",
       "title": "Mullen says post-election chaos within Trump White House \"incredibly disturbing\"",
       "excerpt": "New reporting suggests Chairman of the Joint Chiefs of Staff Mark Milley believed former President Trump might stage a coup to try to stay in power. Admiral Mark Mullen, the former Chairman of the Joint Chiefs of Staff,",
@@ -1276,58 +1380,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-anarchy-and-chaos-michael-bender-book-describes-turmoil-in-trump-white-house.md",
-      "title": "'Anarchy and chaos': Michael Bender book describes turmoil in Trump White House",
-      "excerpt": "The final days of the Trump presidency were defined by furious debates over basic democratic norms challenged by Trump, according to a new book.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/13/michael-bender-describes-turmoil-chaos-trump-white-house-book/7948108002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/13/michael-bender-describes-turmoil-chaos-trump-white-house-book/7948108002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/27/USAT/142b3d22-d573-4f63-abfb-4d32fb451dd5-Trump-Lorain-pic.jpg?auto=webp&crop=4055,2281,x0,y142&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7948108002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7948108002",
-      "publishedDateTime": "2021-07-14T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues.md",
       "title": "Angela Merkel’s White House Visit Ends Trump-Era Hostilities, but Trans-Atlantic Drift Continues",
       "excerpt": "German Chancellor Angela Merkel’s farewell visit to Washington this week will broadcast a new, friendlier tone between the U.S. and Europe after the acrimony of the Trump era but will likely do little to reverse the long-term divergence of interests in the countries’ relationship.",
@@ -1477,63 +1529,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day.md",
-      "title": "‘Just say we won’: WaPo duo goes inside the Trump White House on Election Day",
-      "excerpt": "WaPo’s Carol Leonnig and Phil Rucker have a juicy read on what former DONALD TRUMP and his aides were saying on Election Night, excerpted from",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day-493549",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day-493549",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/50/ea/1a3afe424c078d29a72e821f4c53/210713-trump-ap-1160.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

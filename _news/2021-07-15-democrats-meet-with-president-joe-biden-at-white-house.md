@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Democrats Meet with President Joe Biden at White House"
-excerpt: "Illinois Governor J. B. Pritzker (D-IL) looks on as New Jersey Governor Phil Murphy (D-NJ) speaks to journalists beside Dayton, Ohio Mayor Nan Whaley, following a meeting at the White House in Washington,"
+excerpt: "Denver, Colorado Mayor Michael B. Hancock walks out of the West Wing with New Jersey Governor Phil Murphy (D-NJ), and Oklahoma City Mayor Michael B. Hancock, following a meeting at the White House in Washington,"
 publishedDateTime: 2021-07-14T23:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8df62f8b4df97cb55835f549f1dbdc95/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8df62f8b4df97cb55835f549f1dbdc95/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c03dcb763603e1ab6b189b7cee176108/BIDEN-BUGET.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8df62f8b4df97cb55835f549f1dbdc95/BIDEN-BUGET.jpg"
     width: 650
     height: 433
     isCached: true
@@ -89,6 +89,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to meet with Iraqi prime minister at White House"
+    excerpt: "The White House says President Joe Biden will meet with Iraqi Prime Minister Mustafa al-Kadhimi later this month in Washington"
+    publishedDateTime: 2021-07-17T00:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-meet-iraqi-prime-minister-white-house-78895540"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-meet-iraqi-prime-minister-white-house-78895540"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meet-iraqi-prime-minister-white-house-78895540"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_db7955c453bd4de29d63efae0e606546_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden meets with 'Dreamers' in the White House to push pathway to citizenship"
     excerpt: "Biden gathered a group of DREAMers at the White House Friday for a discussion on the future of the DACA program."
     publishedDateTime: 2021-05-15T19:46:00Z
@@ -118,20 +134,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/003b5053-917b-4be5-ae87-3d82c10e236a_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Biden to meet with Iraqi prime minister at White House"
-    excerpt: "The White House says President Joe Biden will meet with Iraqi Prime Minister Mustafa al-Kadhimi later this month in Washington"
-    publishedDateTime: 2021-07-16T19:38:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-meet-with-iraqi-prime-minister-at-white-house/2021/07/16/ea4c3d08-e696-11eb-88c5-4fd6382c47cb_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U22NMPHGLYI6XCGFJ7LDQLCHZM.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Biden's defense budget seeks greater China deterrence and nuclear funding"
     excerpt: "U.S. President Joe Biden's $715 billion Department of Defense budget will shift funding from old systems to help modernize the nuclear arsenal to deter China, while also developing future warfare capabilities,"
@@ -164,6 +166,6 @@ related:
         height: 533
         isCached: true
 
-secured: "yfJu5RqPJ9eHyxB/BhIUDloqVhNRDkKRjzKy4XOc8ypBBrRTXceqdq4Hz5ID2rcisvORSkXsAqQCP/d5gYDKMJx9BrcV9ak8b5iySAoP32LyOJ2MJhzEK+DEO8XQ6WjzLRchIiSQ1LhQ4kFltPjc8KOlocdN1Yhih5gwo0iRsXLpyKfoFyF3vPukN1eJAjyQIsUNJTfiJXnHXBGnomW6n7iuDG4lchR8ftH34QJYat1ec+cvceo9MoqQBcQBUEQRWaQo6oXREqOLntZby6TarAcm+w4EoZLcllAdZl899ySncAnKux5bb03zxLo1wBYemZFYo1JaJAokbTj8RwjslBM5TX7x/cfczcFpRUSqabN/3aOCmxx+KrC9oXy1YR0Lia1F0YE+u/vRW+smQKnLwA5+F5+9ItlahGEvXgeHqhBcYGFjCfPxaW07zRa9SrMKfX9DKyPsLo8D5wmH8ghmnsrNT5oN1Sj61rVCsb8mVJBxqdfe7GxyTpKD4XCWkzyVFyYZI649jveQspYruYCO2A==;H9yZNsBAdF+p92jU3Fv+iQ=="
+secured: "3QmtnEc/M2J53P+k30qUCGEL09HNWOVHX2PuMk9jYTA6BvkL833f0i1NSd/5prRUnaxAUqDEoSBCgIrbQxn3EymfOH38Tvlt2I0MLySvh5G1iMttj40gvHoQh0CJnujoP+7LIhMhvfwXG1Iaor1HpUYBNmt1rKRjuRygZ3blqklWpz7Gs5KQTG58IO8YksM30zrZ3DCABdN1AbOA5gkt8iFat+QIH0uED2NyGu/rSWlFZXDNJYjUpsuV24j+0kQS8s14q4TjgzgtyerMwYvxgrGrr/B70rynpwzDs9RGSdfzXQ3QcLy8RX42K0A9/r2cGyzUH4mt/xthyudCc6QvVUwSClFkd1Wizg6c4kP+U7k=;aXO36lCeiGcqrqWt80RkDA=="
 ---
 

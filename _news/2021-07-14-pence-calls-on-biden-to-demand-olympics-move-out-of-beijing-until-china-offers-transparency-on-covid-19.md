@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp"
 type: article
 quality: 184
-heat: 404
+heat: 424
 published: true
 
 provider:
@@ -204,6 +204,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The Man Behind Joe Biden's Curtain"
+    excerpt: "President Biden's chief of staff worked his whole career to reach the corner office of the West Wing. He says he's just a staff person, but Republicans call him Prime Minister Klain."
+    publishedDateTime: 2021-07-19T11:34:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "hixpNx+0dmkAgYzm+6gF9bRUPPeM1rk/pelaBgcHGjg+CB9JSEAfVMuO17UuWqXOO0mtVDFyRYrcIQU7z5RaH8atJAofJhfnXtADFJCrnoa/5dLYo3ePj7yiq8fPN6MnkKtCV5lJDER84Y1/EnvAGus7GjG3lrbfkkHvpGFWpA6v0TPuNSKUQS5HbOjGZGUgC97rEQxI68MVRe/ja36CrZHt9vF+7fKoGKXKQLW92X82+f6RnDeWqH0xp31QqR+tcSTquJvItrGGicPVEB6WVk/Cl0muVylDqs4fVUTznkHbgpydUHMj3Y9FXASZLLFNBdP8qRUqEB+bVMJXbOJOq9nf1P2PFZro2Ln7EURGyCo=;lAphNO3WMvH80wWKYZ9Q/w=="
 ---
