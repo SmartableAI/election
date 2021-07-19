@@ -9,7 +9,7 @@ ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_the_united_s
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
 type: article
 quality: 85
-heat: 85
+heat: 105
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 912
     height: 684
     isCached: true
+
+related:
+  - title: "Joe Biden: 6 Months On, Reality Eclipses Early Euphoria"
+    excerpt: "The president reset the tone from the Trump era and passed a huge Covid relief bill but other priorities have hit formidable political obstacles Joe Biden holds a press conference with the German chancellor,"
+    publishedDateTime: 2021-07-18T18:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/18/joe_biden_6_months_on_reality_eclipses_early_euphoria_547451.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548384_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "nMy5rP9v0G7ORRDM43eDBnfz/ebVFKgKpNWVvkaHcvIPFMoMjZ/f81Hr8ynI8qOW2D//26oiq/MVTO6u52dnqyxCCHASdSVLvTHt0dRax8y4RdELoqbotqe6AAG8HXyPPgeSq783Jg/wjKkuc6q0cfBL2wusbC6WsHPytjIceetVp9GfEmWqEUG9ew3/gmLocHNbT/GyzTiqS+gicMnA+snZrSR7MGh87nL0WCElSILc+ldzxPzVkurM0imkdHWgtB3CLnI0AR+E5ii3PFiMu6NxQ68I/R4r0Tfim6AzfI30NIxnVd2anAWs380YG4lyg+8IR92UrpKqETuhfJ+5x8RryCXU7arxo65aA6Uo33E=;fL71wSNUPDQZexOmmepkeA=="
 ---
