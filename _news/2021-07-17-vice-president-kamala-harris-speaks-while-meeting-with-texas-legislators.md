@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Harris Has Routine Doctor's Visit, Wasn't in Close Contact With Texas Democrats: White House"
+    excerpt: "The vice president reportedly visited the Walter Reed National Military Medical Center Sunday for a \"routine doctor's appointment.\""
+    publishedDateTime: 2021-07-19T00:58:00Z
+    webUrl: "https://www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845"
+    ampWebUrl: "https://www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1849057/kamala-harris-not-risk-coronavirus-democrat.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Kamala Harris: Democratic lawmakers organizing Texas walkout are 'standing for the rights of all Americans'"
     excerpt: "Texas Democrats plan to leave the state en masse to block GOP bills by preventing the needed legislative quorum."
     publishedDateTime: 2021-07-12T20:57:00Z

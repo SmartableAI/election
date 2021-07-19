@@ -1,27 +1,33 @@
 ---
 category: news
-title: "VP Harris Speaks on Voting Rights"
-excerpt: "U.S. Vice President Kamala Harris speaks at Howard University in Washington, D.C., U.S., on Thursday, July 8, 2021. Harris, who is spearheading the administration's efforts on voting rights, is helping to launch an expansion of the Democratic National Committee's \"I Will Vote\" campaign."
-publishedDateTime: 2021-07-08T19:25:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/dbe293de739353a67f2a6157f984ecae/VP-Harris-Speaks-on-Voting-Rights/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/dbe293de739353a67f2a6157f984ecae/VP-Harris-Speaks-on-Voting-Rights/"
+title: "Harris Has Routine Doctor's Visit, Wasn't in Close Contact With Texas Democrats: White House"
+excerpt: "The vice president reportedly visited the Walter Reed National Military Medical Center Sunday for a \"routine doctor's appointment.\""
+publishedDateTime: 2021-07-19T00:58:00Z
+originalUrl: "https://www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845"
+webUrl: "https://www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845"
+ampWebUrl: "https://www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845?amp=1"
 type: article
-quality: 55
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/dbe293de739353a67f2a6157f984ecae/HARRIS-RIGHTS.jpg"
-    width: 650
-    height: 433
+  - url: "https://d.newsweek.com/en/full/1849057/kamala-harris-not-risk-coronavirus-democrat.jpg"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/24/NAAS/21957ecf-c002-4467-bee5-fe39bd1df7e0-KamalaHarris.jpg?auto=webp&crop=5627,3166,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Harris Has Routine Doctor's Visit, Wasn't in Close Contact With Texas Democrats: White House"
-    excerpt: "The vice president reportedly visited the Walter Reed National Military Medical Center Sunday for a \"routine doctor's appointment.\""
-    publishedDateTime: 2021-07-19T00:58:00Z
-    webUrl: "https://www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845"
-    ampWebUrl: "https://www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-has-routine-doctors-visit-wasnt-close-contact-texas-democrats-white-house-1610845?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1849057/kamala-harris-not-risk-coronavirus-democrat.jpg"
-        width: 1500
-        height: 1000
         isCached: true
   - title: "Kamala Harris: Democratic lawmakers organizing Texas walkout are 'standing for the rights of all Americans'"
     excerpt: "Texas Democrats plan to leave the state en masse to block GOP bills by preventing the needed legislative quorum."
@@ -249,6 +239,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "VP Harris Speaks on Voting Rights"
+    excerpt: "U.S. Vice President Kamala Harris speaks at Howard University in Washington, D.C., U.S., on Thursday, July 8, 2021. Harris, who is spearheading the administration's efforts on voting rights, is helping to launch an expansion of the Democratic National Committee's \"I Will Vote\" campaign."
+    publishedDateTime: 2021-07-08T19:25:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dbe293de739353a67f2a6157f984ecae/VP-Harris-Speaks-on-Voting-Rights/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dbe293de739353a67f2a6157f984ecae/HARRIS-RIGHTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Kamala Harris exaggerates food and water laws for voters"
     excerpt: "States commonly ban bribing voters or limit electioneering within a certain distance of polling places. But laws that expressly ban giving away food or water to voters waiting in lines are rare. Voters who bring their own food and drinks remain free to consume them."
     publishedDateTime: 2021-07-15T21:32:00Z
@@ -364,6 +368,6 @@ related:
         height: 630
         isCached: true
 
-secured: "oqY2ZBSqNpnXbVE4h2zAhfM6Qo+ETPCxeOVcFmUGNEIW9N92bN9VfA1eENadUOMhi384gnxUq33JFhEYYcgCBQHCA6rkkPPvlNd6st0ILHXG+Y7JhGK4veu3+7koGODYittPs96F3YvUTKVIULs5BhyeG3PLiTppAKv20q/SicL3GxuXjewet2oBnbHMS3DhqxbGA59wrBb7Bipntu6Hf1/Yy1LNYWqy1Q/d1xOasz95+lQG070qj+wSLZhbBbZ96yGBRbRobDaYHA5eYa/eFBzkKNqTto6kolgCvpbbdf3UvQYyXAd7QiBW7Qdvrho+w4Cm8G7Rw18dg4Xtc/dO7btxikXkhsg3gcatZZ9bQ8U=;m/JWufBsooS7jyy/+nOoaw=="
+secured: "muNOeYr1dB0xq46JbkOcxNjZvUOrF0xoElC+/GVIrEb4xvyJfrJhIA5bZ36MWpYDtQX7NcCc2ctaILuxmfliRy8AgqQTvsSrvonu+o++nhsUHrvDJjAecoCzxRCnA+vRwyXHSz47Ln7zoIQzXHM3dJ/6r4cLaZtM/ki0tOOfi3hRD0IXGtfVTUXLE/ZgyAsMTSCxzGj9sx4olZH781Tv7eKavDzSW08po48YkP75dE/UaIGZYyO/E2yDJS0wDTb1yISS7MJHmRX1EbCMkmDe0FQmWolcBoRxOXytvsbCcVQaK1ljdU8NxvA8F+ykgI1d194FHWFFWKm6Q2BqaM6KjjlXuaq7AZ0bjoK3RG8BrQw=;LKGzn8YYWvbB1R+FDKDAYw=="
 ---
 
