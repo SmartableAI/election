@@ -47,6 +47,34 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden says capitalism 'is alive and very well'"
+    excerpt: "Celebrating six months of strong economic growth, President Joe Biden says his infrastructure and families agenda must be passed to sustain the economic momentum, setting the tone for a crucial week of congressional negotiations."
+    publishedDateTime: 2021-07-19T17:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-says-capitalism-alive-and-very-well/8016012002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5729000b-5bf0-4cae-a7b3-e4b5ecfbe607_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Joe Biden on Economic Recovery in Washington"
+    excerpt: "U.S. President Joe Biden delivers remarks on the economic recovery in the State Dining Room at the White House in Washington, DC on July 19, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-07-19T16:27:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c34965576de874d0ab1014e8182e7219/Joe-Biden-on-Economic-Recovery-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c34965576de874d0ab1014e8182e7219/BIDEN-ECONOMY.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "u/VjvFvkbAbLGx7sQ52+5dKNotT2y0DA2mAD/JUABczBr/2IXLarHK0F12AlM8ycVP+nwYTPO4ATI9h82rX0ZiS5QQoyuEuPxP6x9nivlCG/QBR6Y+Fn1wradTaGSBccL4G6b10QfAI1ZN2uzJHGOUcmrZHV7K8Y4dDauduDrBUS0gU/KTuBS6OpedvG5WE7geDjiF1/t8Df6uoZkTz4L6yC9qdXh/fFEQS2Yd0FBEb6EVUU5srhRWhIihvRRpcXy5/dyYa4mJkvXBNTuD00aB0VpzUxFxw7+QlbGuec4fUDZWjlGAKIid8roj9s+Pg1jCjY3SrRoMSKNH+xKAUoA4LHFnoNLSm7O3xlEgh422JRUwgOSnaqGguDqx+qK0A+zuaDvSOw+2cSzAypHJne6Hr9szVtI7GoMkYxMhO4fGNczQHPkzbcnIkOIBTYTsjMFs8nAI4Bup4Sb8gbZPilb5n9gaiVtDbteQzfEeBA4HUBqM/pucKIUVlhpNkCfuBaVLTDbi1J7nYS++hNq9Qt7Q==;lToGmxqpX5QxS5LtqfSaBw=="
 ---

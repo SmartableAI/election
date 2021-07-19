@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden says Covid-19 misinformation is 'killing people' – video"
-excerpt: "Joe Biden says social media platforms such as Facebook 'are killing people' for allowing misinformation about coronavirus vaccines to be posted."
-publishedDateTime: 2021-07-17T10:01:00Z
-originalUrl: "https://www.theguardian.com/technology/video/2021/jul/17/biden-says-covid-19-misinformation-is-killing-people-video?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/video/2021/jul/17/biden-says-covid-19-misinformation-is-killing-people-video?via=indexdotco"
+title: "Biden says 'killing people' was call to action for big tech"
+excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
+publishedDateTime: 2021-07-19T17:38:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/de7edacece93403f08d75094c0d0440e5f1f8247/0_15_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=458fed88c7b2a2eee5e48de906d4f44d"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -45,21 +47,19 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden says 'killing people' was call to action for big tech"
-    excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
-    publishedDateTime: 2021-07-19T17:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+  - title: "Biden says Covid-19 misinformation is 'killing people' – video"
+    excerpt: "Joe Biden says social media platforms such as Facebook 'are killing people' for allowing misinformation about coronavirus vaccines to be posted."
+    publishedDateTime: 2021-07-17T10:01:00Z
+    webUrl: "https://www.theguardian.com/technology/video/2021/jul/17/biden-says-covid-19-misinformation-is-killing-people-video?via=indexdotco"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/de7edacece93403f08d75094c0d0440e5f1f8247/0_15_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=458fed88c7b2a2eee5e48de906d4f44d"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden: Virus disinformation is 'killing people'"
     excerpt: "As he left the White House for Camp David Friday afternoon, President Joe Biden warned the unchecked spread of disinformation about COVID-19 and vaccines is having deadly consequences. (July 16)"
@@ -90,6 +90,6 @@ related:
         height: 628
         isCached: true
 
-secured: "mtHggUaT2F+Vuos8igspG0/Yh5e3Eg0sisczcGWdeJNFGfDpj9ccT8J1GDeC9P0IMyw7nC1N3msUsikCCJVSPhVx+4HbLJOX4MojozokuC5eM3e9RsonC2EIcrF4fsPQsiz+czhL6cUcldkI6r6jrpPY7Q8RHCytoF5wjdsArG7vXea08dUYa28KkUNX9fVKVO6VA8SbFelxN4F2ArWHmemgGN473+pkoKKIAOcvG9AevedAF/JQBTdnUjP08AyOn338lxCtYklJGizdFNgKtQjaN4obVzipAThH/lDppTx0ZQRyA/fFgZ0cRQGDpGbvyvtJR54C+A3v8oX035lZNgUV1cm5Kfzllkry9QfSkoY=;pvugiXT3IGw4+aNjpAqhpw=="
+secured: "N0bZap/NwbWlzDb3IvU4YIuP5dKOKrjNMAF7+7XLh05EOnnni9SKXrSbNBxA4OE83Nf2+pdqRNIGg2STT6fITHq15PKOVpvAc5jbncpl/9HE4TUegE+uMc0xMnh2NesBeg78xRiUvUHYzFR6HmjS2VCfwwoboPouo8+DBeD0FmMg4D6yDPxdOGd9w3PvqSURvEJmH4YvxbJKqeoYqt+ukro7mXnySAxjTkPoxc14mr23MMRqpKq/ur/1zdKJ/kMwNaWa9i/UKyQiB1P+IwkZDh4w6e5C6WKjIVGXyX/RBVDhWFkE3B5ZgmIRAkjVKro6CBEwWlK+C9xN28kNpVttOJuVfjDu4mWYl0hOgRDEGb0=;6bSaMKsXPO0o5ggS0qAOfQ=="
 ---
 

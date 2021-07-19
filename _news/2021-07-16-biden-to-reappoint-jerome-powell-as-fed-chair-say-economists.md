@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EM0Y1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EM0Y1"
 type: article
 quality: 125
-heat: 145
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,34 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/0416bff/2147483647/strip/true/crop/5472x3574+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F38%2F1c%2F9919fc5d4122bd2a1f94ad0c7ab5%2Fimmigration-deferred-action-01632.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Biden says capitalism 'is alive and very well'"
+    excerpt: "Celebrating six months of strong economic growth, President Joe Biden says his infrastructure and families agenda must be passed to sustain the economic momentum, setting the tone for a crucial week of congressional negotiations."
+    publishedDateTime: 2021-07-19T17:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-says-capitalism-alive-and-very-well/8016012002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5729000b-5bf0-4cae-a7b3-e4b5ecfbe607_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Joe Biden on Economic Recovery in Washington"
+    excerpt: "U.S. President Joe Biden delivers remarks on the economic recovery in the State Dining Room at the White House in Washington, DC on July 19, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-07-19T16:27:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c34965576de874d0ab1014e8182e7219/Joe-Biden-on-Economic-Recovery-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c34965576de874d0ab1014e8182e7219/BIDEN-ECONOMY.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "3t2yTw6tqoknc1TNp7MFpLM84kbV4T4MqpgjS0NHm29HD/FJUIZiAxU+2GWiwW3068pGmH+yyDXHVVJFsBpQHlmZ35gjD/QeKR9FNAXmEAVSSAoWM6NHVsK2HO2OJbSC0n4/2c5WcMWmLG17qnp8IBHmGCAQNR4SmIDGQaiTOTvGVjyN7j4l5E77E5oVOhF2+56oT35ntJ1F26EkdIygysguHuSzln0Qa1jPstD3prLnOCbSRuJ1ACPWCKEJ2NrK6RQErEOJvJep1Dap4Ch8PkOn43EgjB1VrT8QX8NhVryOPCVCRJFcg8ZSmaI8XluiGmRo38me5/lgnjqLOtF9feIuTY4D9BCHRCOwkDhWYFY=;aLurV4CvUT0kHNfZFCXQMQ=="

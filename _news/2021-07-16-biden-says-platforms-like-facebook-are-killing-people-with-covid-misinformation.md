@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden backs away from his claim that Facebook is 'killing people' by allowing Covid misinformation"
+    excerpt: "President Joe Biden continued to put pressure on Facebook on Monday over the online dissemination of Covid-19 vaccine information, but backed off his recent accusation that the company was directly responsible for \"killing people\" and suggested it was merely allowing misinformation to spread.\n    \n"
+    publishedDateTime: 2021-07-19T17:42:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1LIjzWo_SLA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/joe-biden-facebook/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/joe-biden-facebook/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124236-01-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'They're killing people': Biden blames Facebook, other social media for allowing Covid misinformation"
     excerpt: "The White House has warned in recent days that false claims shared on those platforms are contributing to a decline in U.S. vaccination rates."
     publishedDateTime: 2021-07-16T21:21:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden has just a few weeks left to make key decisions that will shape the future of Afghanistan "
-excerpt: "With the Taliban advancing across rural parts of Afghanistan, and criticism mounting over what some view as an overly hasty departure, the Biden administration is staring down a few short weeks to make a handful of critical decisions it's put off until the last minute.\n    \n"
-publishedDateTime: 2021-07-08T16:30:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWc54A5o9l0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWc54A5o9l0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
+title: "Biden administration planning to relocate some Afghans who worked for US to Virginia Army post"
+excerpt: "The Biden administration is planning to relocate a group of Afghans who have applied for special immigrant visas (SIV) to Fort Lee, a US army post in Virginia as early as this week, according to two sources familiar with the matter.\n    \n"
+publishedDateTime: 2021-07-19T16:28:33Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r82EF4QT4PQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r82EF4QT4PQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/afghan-special-immigrant-visas-virginia/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/afghan-special-immigrant-visas-virginia/index.html"
 type: article
-quality: 162
+quality: 163
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123633-02-bagram-air-base-0705-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419123853-us-marine-afghan-interpreter-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -239,19 +239,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration planning to relocate some Afghans who worked for US to Virginia Army post"
-    excerpt: "The Biden administration is planning to relocate a group of Afghans who have applied for special immigrant visas (SIV) to Fort Lee, a US army post in Virginia as early as this week, according to two sources familiar with the matter.\n    \n"
-    publishedDateTime: 2021-07-19T16:28:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r82EF4QT4PQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/afghan-special-immigrant-visas-virginia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/afghan-special-immigrant-visas-virginia/index.html"
+  - title: "Biden has just a few weeks left to make key decisions that will shape the future of Afghanistan "
+    excerpt: "With the Taliban advancing across rural parts of Afghanistan, and criticism mounting over what some view as an overly hasty departure, the Biden administration is staring down a few short weeks to make a handful of critical decisions it's put off until the last minute.\n    \n"
+    publishedDateTime: 2021-07-08T16:30:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWc54A5o9l0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419123853-us-marine-afghan-interpreter-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123633-02-bagram-air-base-0705-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -428,6 +428,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "FORpZk9af/N5yZ8yESJtYY7bcPkjq2gA8KaMeXWpkZIhGQcp/SRfPuZdKfAZRccJKobXAObIspPUTaaDo6jOEl6vyCt18sm5tuQcMWq81coX8ubwfKVFjYMZDfi2ypVVsdVLCL/MiHg9jEGlokCWBj7tqB8IuKxVO/jwa2Ca6DVn34lgzPx9da5BOBWSCOZ8ZfjO8l32pBUcTQs+gueo582VQjchW3ZqClgtwZVfkjCMRtQryI6rcDIvOuxHE+vpcZ7DgwVCjMIuAI61c3yEbh2VmhQzvliqzwrO4Elc+lN3UEF+gcGkSl2bJ3o2cPZjqqdDpbSoh1MR0+4uN22xUIKj9+W7INBvg6gWc1RjrOU=;N2jkXCg+3yPQrz2xc+Zcpw=="
+secured: "4xP+aFByZhqVxeikYk8k2fBaU+1HM9NoGi9gSlHf0UVjAEfxciu3uavv3exDnt0voTpBT/e8nnKoRxMVIrtlEp5OCFMDx/cOsyeu2N5sqdilWEIxzs9BBZpLahXzkD7PmeRfkiODJMT0+t40VKAp+z/4NZkW0u50sdSa3pkBWsHU8up8o5KxQMCKxVuIBbECL2lr6iBoyxhjGcWiy2WJnczPsy6+70Y9whuB9dZttkezFTngA4XTvPyeLZm0/aYNSyI+em+n4MVoHjb0Nha+apL5t5aOcHXe/xEhHBzdod5wtMcF4+Pn/SxFii5n+VZv3hv/8a1dA7apnRTkgbkyB1ip59LBqNhoVYwE6rZpgJk=;8cGAnxu3CCCLysdX2oQDbA=="
 ---
 

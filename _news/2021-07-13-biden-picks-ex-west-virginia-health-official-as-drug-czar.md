@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-west-virgini
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11311260_1626365224.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Biden discusses economic recovery ahead of infrastructure push"
+    excerpt: "President Joe Biden spoke about jobs and his plans for economic recovery Monday, including the negotiated bipartisan infrastructure framework, as the nation continues reopening from the coronavirus pandemic."
+    publishedDateTime: 2021-07-19T16:50:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-economic-recovery-jobs-infrastructure-push/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/19/06504e76-2794-4bf2-a116-0eda1c00ed83/thumbnail/1200x630/75a66b4b415c42d8cbcf46748e4f356d/cbsn-fusion-president-biden-discusses-economic-recovery-ahead-of-infrastructure-push-thumbnail-756587-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MI897tm3upz5ndr8MczTyedii9Ckhw1EyqqEJZc47i84V2oGv4n5CRx/ai1kUGkRecytvCIRcDALMIwEQakrt+Fg5JNNvM1T5lY8biVasnK1VswNXCOw+VBkugpfxnvztuHzI53F3dnpsjuykQX5AXi78M8CSRjNgRLqdJNP5rhX8QUA9wxMf9/EZmyg5zbCpoWoSLZfAbo9yZmm32c+RK7R/6vlGbL7jhbWwjcpfM+lBRO0/J46n4SmpEmlrhzZJ6rAJI4BSI3Sbf0UYmN6i+YCZVTAE+Y4tb9uxW88dYdvYS6440ybgl81allQsab2vYkbulsO3SIP2BeEVP5adVcUOGjtK6i39vxPZ8fVNqguxKdZD/QBz7ef83D3HrYPq4wiGDDb6DjM3TzxyyuGeBPcz5xwQRsW20j5M+a0TuGv0q7PHU0p/q9IwBDars6qVHF4LQYtzJdoJ7TE+Sud7Cd8ktcq9Nold4iTHKtoX3kgG2jjPWCcwXRlwHeVV4VKKhDW8Zqog2UvPUpRfPgzbQ==;C/BWPAIAJqRUgo5yZNKz9w=="

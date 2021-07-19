@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden rallies Dems to support infrastructure ..."
-excerpt: "Watch \"Biden rallies Dems to support infrastructure plan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-07-15T16:02:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210715160224-biden-rallies-dems-to-support-infrastructure-plan/"
-webUrl: "https://www.cbsnews.com/live/video/20210715160224-biden-rallies-dems-to-support-infrastructure-plan/"
+title: "President Biden discusses economic recovery ahead of infrastructure push"
+excerpt: "President Joe Biden spoke about jobs and his plans for economic recovery Monday, including the negotiated bipartisan infrastructure framework, as the nation continues reopening from the coronavirus pandemic."
+publishedDateTime: 2021-07-19T16:50:00Z
+originalUrl: "https://www.cbsnews.com/video/president-biden-economic-recovery-jobs-infrastructure-push/"
+webUrl: "https://www.cbsnews.com/video/president-biden-economic-recovery-jobs-infrastructure-push/"
 type: article
-quality: 105
+quality: 104
 heat: -1
 published: false
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11311260_1626365224.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/19/06504e76-2794-4bf2-a116-0eda1c00ed83/thumbnail/1200x630/75a66b4b415c42d8cbcf46748e4f356d/cbsn-fusion-president-biden-discusses-economic-recovery-ahead-of-infrastructure-push-thumbnail-756587-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -61,21 +61,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "President Biden discusses economic recovery ahead of infrastructure push"
-    excerpt: "President Joe Biden spoke about jobs and his plans for economic recovery Monday, including the negotiated bipartisan infrastructure framework, as the nation continues reopening from the coronavirus pandemic."
-    publishedDateTime: 2021-07-19T16:50:00Z
-    webUrl: "https://www.cbsnews.com/video/president-biden-economic-recovery-jobs-infrastructure-push/"
+  - title: "Biden rallies Dems to support infrastructure ..."
+    excerpt: "Watch \"Biden rallies Dems to support infrastructure plan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-15T16:02:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210715160224-biden-rallies-dems-to-support-infrastructure-plan/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 104
+    quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/19/06504e76-2794-4bf2-a116-0eda1c00ed83/thumbnail/1200x630/75a66b4b415c42d8cbcf46748e4f356d/cbsn-fusion-president-biden-discusses-economic-recovery-ahead-of-infrastructure-push-thumbnail-756587-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11311260_1626365224.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "s5F/6ZcS1jFMWisQp73yAz2QNfbX3zcIJ+IvNuRGbkSACnHTRDX+du184Hy5/eECP3epCrDETBwGM5u6iMy46GYbOqnFGMn/xgtLYLgxNnfPVNfVi/gmgzXAAFEjtMoMNtrvt4V6eiZr1bAE93ieGo5n5anwaXN9D9FoouLIQZdPsuyAYQkuXaGb0L8yuHcMWLXSnr2rygnZJ8HNYUFmAqA0zf79p/F1RadDPih858XOqWNLQpFZz8fq90QGsSH2o4VtiLh911yR7CS4sloSqDLubhgUopvTEoUVUU0K1t4QXxxJ/BoeJ1rJ6VsZmYAX4qaT/gJU6i3pra2SKp8PrHKgbNdeZFw/JRbZo25qapQ=;/duK/YKn2RxtY4qASfQN+w=="
+secured: "Ab/nGawANF0ZOrgBPG+sNRg+63vjH2z6aiSgaEJq9A5cNmrXiuzueL/3+BLp5+r3DBHj97uAHOeG/57YhGRhCowPXNJKeQYZj4k5kZ1vxi3z4bIGcxfXYfnuunXmIoc9u10YHUWX/2hcxcNeo+8MnHFJpjeu1wl3+jkmb8sBWuZDkf2G6ZHyU5QLQvd3HeC5AwkJOl9knH94jaFzj3R7hDBDP0JfwAU2n45eM4yju2uH26dyLUf+Pblm9QDbG2vUYjSh2L3IrYFo3i4s2+P7Ou0tQnK6Vwyxa3r8kke3tIjKBtPghQbRrJWvg8RgtDHOeSfcRT7mgFQ6xroCtcCs0qsZ+AIGBzyl5uXM4MCRWMM=;5gcPPAzZb6Kwraj7XaGgIw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says 'killing people' was call to action for big tech"
+    excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
+    publishedDateTime: 2021-07-19T17:38:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says Covid-19 misinformation is 'killing people' – video"
     excerpt: "Joe Biden says social media platforms such as Facebook 'are killing people' for allowing misinformation about coronavirus vaccines to be posted."
     publishedDateTime: 2021-07-17T10:01:00Z

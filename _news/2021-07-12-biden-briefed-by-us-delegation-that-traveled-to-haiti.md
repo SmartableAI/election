@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration planning to relocate some Afghans who worked for US to Virginia Army post"
+    excerpt: "The Biden administration is planning to relocate a group of Afghans who have applied for special immigrant visas (SIV) to Fort Lee, a US army post in Virginia as early as this week, according to two sources familiar with the matter.\n    \n"
+    publishedDateTime: 2021-07-19T16:28:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r82EF4QT4PQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/afghan-special-immigrant-visas-virginia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/afghan-special-immigrant-visas-virginia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419123853-us-marine-afghan-interpreter-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
