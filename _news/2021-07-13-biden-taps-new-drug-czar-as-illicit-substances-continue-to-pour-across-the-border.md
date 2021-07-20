@@ -63,6 +63,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Texas border town sues Biden's DHS to stop busloads of illegal immigrants"
+    excerpt: "City officials in Laredo, Texas are suing President Joe Biden’s Department of Homeland Security in order to stop the transfer of migrants from the Rio Grande Valley to their town for processing."
+    publishedDateTime: 2021-07-20T21:49:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w1cZLBIErUs/texas-border-town-sues-bidens-dhs-to-stop-busloads-of-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-town-sues-bidens-dhs-to-stop-busloads-of-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-town-sues-bidens-dhs-to-stop-busloads-of-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/648ea7a2-ab98-40ca-97b0-05818119b57f/21034ae7-5e14-413b-822e-8fcc171b2b58/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Scalise slams Biden administration for sending 'disgusting message' to Cubans"
+    excerpt: "Rep. Steve Scalise, R-La., blasted the Biden adminstration Tuesday for telling Cubans seeking freedom not to come to the United States, while allowing thousands of migrants to enter the U.S. through the southern border. "
+    publishedDateTime: 2021-07-20T20:42:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFSTbjSwhaA/scalise-slams-biden-disgusting-message-cubans"
+    ampWebUrl: "https://www.foxnews.com/politics/scalise-slams-biden-disgusting-message-cubans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-slams-biden-disgusting-message-cubans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot"
     excerpt: "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director."
     publishedDateTime: 2021-07-14T21:22:56Z
@@ -191,6 +223,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "California GOP lawmakers call on Biden admin to address aviation fuel shortage to prevent wildfire disaster"
+    excerpt: "Letter to Interior Secretary Deb Haaland and Agriculture Secretary Tom Vilsack calls on them to address a “potential fuel shortage” for airplanes tasked with fighting fires."
+    publishedDateTime: 2021-07-20T20:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CbwKjwNIoq0/california-lawmakers-biden-fuel-shortage-wildfire"
+    ampWebUrl: "https://www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7036c65d-5b29-40c2-a67b-439d0399fb6e/4ab15bfe-320e-47e0-9ff2-b52ad15f1220/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Eric Adams to visit Joe Biden, the White House"
     excerpt: "Democratic mayoral nominee Eric Adams is headed to the White House Monday to discuss ways to combat gun violence with President Biden."
     publishedDateTime: 2021-07-12T02:34:00Z
@@ -206,6 +254,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/ericadams.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Media continues to fawn over President Biden after six months in office"
+    excerpt: "Six months of Joe Biden’s presidency has been represented by six months of mainstream media largely fawning over the 46th president, despite an influx of illegal immigration, a surge in violent crime across the nation,"
+    publishedDateTime: 2021-07-20T21:42:00Z
+    webUrl: "https://www.foxnews.com/media/media-president-biden-six-months"
+    ampWebUrl: "https://www.foxnews.com/media/media-president-biden-six-months.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-president-biden-six-months.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e03f15c9-8c01-490d-bbb2-ac2f3b8b69ff/b62c30e2-556b-45d8-b2e0-52bce723796a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "'The Five' on Biden getting tough questions about Afghanistan withdrawal"
     excerpt: "Who's got the best carnival skills? We're going to find out later in a special \"Dana's Sports Corner.\" But coming up next, Joe Biden blowing up on the media over his Afghanistan withdrawal plan as the Taliban regains control. MCDOWELL: President Biden ..."

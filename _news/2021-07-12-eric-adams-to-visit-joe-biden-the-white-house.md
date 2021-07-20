@@ -60,6 +60,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Texas border town sues Biden's DHS to stop busloads of illegal immigrants"
+    excerpt: "City officials in Laredo, Texas are suing President Joe Biden’s Department of Homeland Security in order to stop the transfer of migrants from the Rio Grande Valley to their town for processing."
+    publishedDateTime: 2021-07-20T21:49:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w1cZLBIErUs/texas-border-town-sues-bidens-dhs-to-stop-busloads-of-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-town-sues-bidens-dhs-to-stop-busloads-of-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-town-sues-bidens-dhs-to-stop-busloads-of-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/648ea7a2-ab98-40ca-97b0-05818119b57f/21034ae7-5e14-413b-822e-8fcc171b2b58/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Scalise slams Biden administration for sending 'disgusting message' to Cubans"
+    excerpt: "Rep. Steve Scalise, R-La., blasted the Biden adminstration Tuesday for telling Cubans seeking freedom not to come to the United States, while allowing thousands of migrants to enter the U.S. through the southern border. "
+    publishedDateTime: 2021-07-20T20:42:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFSTbjSwhaA/scalise-slams-biden-disgusting-message-cubans"
+    ampWebUrl: "https://www.foxnews.com/politics/scalise-slams-biden-disgusting-message-cubans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-slams-biden-disgusting-message-cubans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden taps new drug czar as illicit substances continue to pour across the border"
     excerpt: "President Biden nominated former West Virginia health official, Rahul Gupta, as the nation’s new head of U.S. drug policy as overdoses and drug trafficking surge."
     publishedDateTime: 2021-07-13T22:38:39Z
@@ -201,6 +233,38 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72227c6-212e-47d8-95b9-493300340291/c8f747e6-d22e-465c-bf6e-3af40feab3a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "California GOP lawmakers call on Biden admin to address aviation fuel shortage to prevent wildfire disaster"
+    excerpt: "Letter to Interior Secretary Deb Haaland and Agriculture Secretary Tom Vilsack calls on them to address a “potential fuel shortage” for airplanes tasked with fighting fires."
+    publishedDateTime: 2021-07-20T20:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CbwKjwNIoq0/california-lawmakers-biden-fuel-shortage-wildfire"
+    ampWebUrl: "https://www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7036c65d-5b29-40c2-a67b-439d0399fb6e/4ab15bfe-320e-47e0-9ff2-b52ad15f1220/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Media continues to fawn over President Biden after six months in office"
+    excerpt: "Six months of Joe Biden’s presidency has been represented by six months of mainstream media largely fawning over the 46th president, despite an influx of illegal immigration, a surge in violent crime across the nation,"
+    publishedDateTime: 2021-07-20T21:42:00Z
+    webUrl: "https://www.foxnews.com/media/media-president-biden-six-months"
+    ampWebUrl: "https://www.foxnews.com/media/media-president-biden-six-months.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-president-biden-six-months.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e03f15c9-8c01-490d-bbb2-ac2f3b8b69ff/b62c30e2-556b-45d8-b2e0-52bce723796a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

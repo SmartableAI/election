@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-21-quarterback-tweak-tom-brady-makes-trump-election-joke-at-white-house-ceremony.md",
+      "title": "Quarterback tweak: Tom Brady makes Trump election joke at White House ceremony",
+      "excerpt": "\"I think about 40 percent of people still don't think we won,\" Brady said of his Super Bowl champion Tampa Bay Buccaneers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/quarterback-tweak-tom-brady-makes-trump-election-joke-white-house-n1274527",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/quarterback-tweak-tom-brady-makes-trump-election-joke-white-house-n1274527",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3492652/210720-tom-brady-white-house-jm-1332.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1274527",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274527",
+      "publishedDateTime": "2021-07-20T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-trump-ally-tom-barrack-charged-with-acting-as-an-agent-of-a-foreign-government.md",
       "title": "Trump ally Tom Barrack charged with acting as an agent of a foreign government",
       "excerpt": "Tom Barrack, a former adviser to former President Donald Trump, was charged Tuesday with illegal foreign lobbying on behalf of the United Arab Emirates for what federal prosecutors described as an effort to influence the foreign policy positions of both the 2016 Trump presidential campaign and the subsequent",
@@ -958,6 +1015,63 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls.md",
+      "title": "Poll: Without Trump in the race, DeSantis dominates 2024 GOP White House hopefuls",
+      "excerpt": "Donald Trump remains the king of the GOP. Florida Gov. Ron DeSantis is looking like the crown prince. For months, DeSantis’ stature has been expanding within the party, marked by growing buzz among grassroots activists and GOP consultants who admire the pugilistic style of politics he wields against progressives and the media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/aa/ab/9503fd984efb9e26be00ba54c31e/ap21148637808493-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-theyre-not-going-to-fking-succeed-top-generals-feared-trump-would-attempt-a-coup-after-election-according-to-new-book.md",
       "title": "'They're not going to f**king succeed': Top generals feared Trump would attempt a coup after election, according to new book",
       "excerpt": "The top US military officer, Chairman of the Joint Chiefs Gen. Mark Milley, was so shaken that then-President Donald Trump and his allies might attempt a coup or take other dangerous or illegal measures after the November election that Milley and other top officials informally planned for different ways",
@@ -1408,63 +1522,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-13-just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day.md",
-      "title": "‘Just say we won’: WaPo duo goes inside the Trump White House on Election Day",
-      "excerpt": "WaPo’s Carol Leonnig and Phil Rucker have a juicy read on what former DONALD TRUMP and his aides were saying on Election Night, excerpted from",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day-493549",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day-493549",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/50/ea/1a3afe424c078d29a72e821f4c53/210713-trump-ap-1160.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-michael-wolff-on-donald-trumps-last-days-for-now.md",
       "title": "Michael Wolff on Donald Trump’s Last Days (for Now)",
       "excerpt": "Landslide” tells the dramatic and unprecedented story of the weeks after the 2020 presidential election from inside the White House.",
@@ -1630,63 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-garcetti-to-india-jenner-doesnt-want-trump-nod-gaines-gets-in-heat-wave-threatens-power-grid.md",
-      "title": "GARCETTI to INDIA — JENNER doesn’t want TRUMP nod — GAINES gets in — HEAT WAVE threatens power grid",
-      "excerpt": "Eric Garcetti’s going on to his next big challenge. But is he leaving the City of Angels in the lurch? The mayor of America’s second-largest city was chosen by President Joe Biden for the high profile ambassadorship of India Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/07/12/garcetti-tapped-for-india-ambassadorship-jenner-doesnt-want-trump-endorsement-gaines-gets-in-california-to-require-school-face-masks-in-fall-heat-wave-threatens-power-grid-decision-today-on-gavins-recall-ballot-designation-493530",
-      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/07/12/garcetti-tapped-for-india-ambassadorship-jenner-doesnt-want-trump-endorsement-gaines-gets-in-california-to-require-school-face-masks-in-fall-heat-wave-threatens-power-grid-decision-today-on-gavins-recall-ballot-designation-493530",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

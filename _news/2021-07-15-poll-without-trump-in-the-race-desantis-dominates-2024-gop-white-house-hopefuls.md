@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/states/florida/story/2021/07/15/poll-with
 webUrl: "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365"
 type: article
 quality: 110
-heat: -1
-published: false
+heat: 110
+published: true
 
 provider:
   name: Politico
@@ -28,22 +28,6 @@ images:
     width: 1160
     height: 773
     isCached: true
-
-related:
-  - title: "‘Just say we won’: WaPo duo goes inside the Trump White House on Election Day"
-    excerpt: "WaPo’s Carol Leonnig and Phil Rucker have a juicy read on what former DONALD TRUMP and his aides were saying on Election Night, excerpted from"
-    publishedDateTime: 2021-07-13T10:35:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day-493549"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 127
-    images:
-      - url: "https://static.politico.com/50/ea/1a3afe424c078d29a72e821f4c53/210713-trump-ap-1160.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "3Rj6Q5dHyMNueSt9yxaPtaGsiONT1wC940EZhrqBbuoX6ROwm5DnyOk/+yWGJ/TbA08hTHfBXBsndLRrMQtHqGz1RYuKCB5kdsoyRubWW1hTzGvnEujC2XpJS1hEsTt6d2/Aqyy0M56Ix2uQTwzsHT1/FnSbwrcJ4ddOb/KVeHQb0x+JaQ3IF2p4pEYJ8EWBjHhFlS1qLmM9zQBcCHueK7BVVns8LJF49tWl259+qR2ZYykvzkqd/CWew1DmVOCc1mzXHV7/JfmFRRyWTtITM6rEmfaI7p/4zZ+50PXLCv1LAQR8cwQ9CRM11AT84G6g1GI9whvAmK4AgGX5qZVMFBZysLbwxqc2in+sWMkaP28=;MHHT8HQ13w4DrCiSx/8CDQ=="
 ---
