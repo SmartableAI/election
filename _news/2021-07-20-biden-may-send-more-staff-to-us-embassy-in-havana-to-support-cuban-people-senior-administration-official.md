@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden calls DACA ruling 'deeply disappointing,' urges Congress to pass citizenship path"
-excerpt: "President Biden on Saturday called a federal court ruling that put a halt to the Deferred Action for Childhood Arrivals (DACA) program \"deeply disappointing\" and again urged Congress to pass legislation that would grant illegal immigrants protected from deportation under the program a pathway to citizenship."
-publishedDateTime: 2021-07-17T14:38:36Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/34s7bVeGGgA/biden-daca-ruling-deeply-disappointing-congress-citizenship"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/34s7bVeGGgA/biden-daca-ruling-deeply-disappointing-congress-citizenship"
-ampWebUrl: "https://www.foxnews.com/politics/biden-daca-ruling-deeply-disappointing-congress-citizenship.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-daca-ruling-deeply-disappointing-congress-citizenship.amp"
+title: "Biden may send more staff to US embassy in Havana to support Cuban people: senior administration official"
+excerpt: "President Biden is considering augmenting staffing levels at the U.S. embassy in Havana and forming a group to get remittances to the Cuban people, a senior administration official told FOX News on Monday."
+publishedDateTime: 2021-07-20T00:14:23Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AVY-pJG_OQ/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AVY-pJG_OQ/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official"
+ampWebUrl: "https://www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp"
 type: article
-quality: 167
+quality: 158
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97362a73-be8a-4484-a58b-45241e575b5b/a22dbef5-7bf9-47e9-9ce7-cc65e772c142/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72227c6-212e-47d8-95b9-493300340291/c8f747e6-d22e-465c-bf6e-3af40feab3a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden calls DACA ruling 'deeply disappointing,' urges Congress to pass citizenship path"
+    excerpt: "President Biden on Saturday called a federal court ruling that put a halt to the Deferred Action for Childhood Arrivals (DACA) program \"deeply disappointing\" and again urged Congress to pass legislation that would grant illegal immigrants protected from deportation under the program a pathway to citizenship."
+    publishedDateTime: 2021-07-17T14:38:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/34s7bVeGGgA/biden-daca-ruling-deeply-disappointing-congress-citizenship"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-daca-ruling-deeply-disappointing-congress-citizenship.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-daca-ruling-deeply-disappointing-congress-citizenship.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97362a73-be8a-4484-a58b-45241e575b5b/a22dbef5-7bf9-47e9-9ce7-cc65e772c142/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Family of 15-year-old terrorist attack victim asks Biden to bring justice for daughter"
     excerpt: "Malki Roth, a talented young musician with a sunny and emphatic personality, was just 15 years old when she was killed by a terrorist attack while lunching at a crowded pizzeria with her teenaged friend. "
     publishedDateTime: 2021-07-17T18:17:42Z
@@ -174,22 +190,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden may send more staff to US embassy in Havana to support Cuban people: senior administration official"
-    excerpt: "President Biden is considering augmenting staffing levels at the U.S. embassy in Havana and forming a group to get remittances to the Cuban people, a senior administration official told FOX News on Monday."
-    publishedDateTime: 2021-07-20T00:14:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AVY-pJG_OQ/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72227c6-212e-47d8-95b9-493300340291/c8f747e6-d22e-465c-bf6e-3af40feab3a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "Eric Adams to visit Joe Biden, the White House"
     excerpt: "Democratic mayoral nominee Eric Adams is headed to the White House Monday to discuss ways to combat gun violence with President Biden."
@@ -265,6 +265,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "BegMe0Qz4Ih2KLbII/8Yj8ddkXoJrWBL9W8ZDD8Yzdael63RXd5LPMxdgdz5o3F2BZ9vqrlA1palzH90Had2d1HkLY7W0IB9yhyy0WopV5in//ma1ON9js/icNtvBMAsoFJ0zKbmkJz+lcQq8XuKTQDuxtRtQ6MgJA3NLnEjsv9DvHjGxOtXvxJEE57rJvUcO2IJkX03lI26qHBgC9e66qHkehvMrPsM46snBe9LVb7An8egPNYRG3T2vkfZD1l/OIQzD6ln0cG0E85SNcIhFDVNrgzuYjQcT5GRiJ7yGdgTicUbN4EZqzQM6PcKViItxhBSAveKoHbaLBIAG7Y22mAIQmhtordNUqM336FGKKk=;vWcMufGJfcFUmJbYbLk1jQ=="
+secured: "TxIt91+P+xQctta758oK75K2Jbv3w+l2NulYXkTMqi1XvFzXpmp2Wysh73N1hUm9M36WJkZfIGOSeRvxRmn8jrFhOd17lJEtiaMqEejUwfeVUmWHZdPzx9jfmVULv+TCuOoOGpJ94u8mbT5gsDIgJhZWDXiYKHFNXlSYh0a9R7Ia5Jk9sVglYs/htsPH09TTrxGkKBntQjV6EBl+zoxa2KWkosRAWLNxYDWYx0a/VQtf63WQOvYvKMR8sS4+Pf4MXcOBslWhw233EpY5qLzqURAmO6cj91+7Qy7mBaLUYqAYG9SofmWPGLIvawC8T0QjTBrkMa0uPjl84/xYMdntUpbn7dg9QG+l2lVun/84Gt8=;6uWaQdaG9cgxOTPPjZb8GQ=="
 ---
 

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden says platforms like Facebook are 'killing people' with Covid misinformation"
-excerpt: "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n"
-publishedDateTime: 2021-07-16T20:50:16Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
+title: "Hospitals could face $2 million fine for not disclosing prices under proposed Biden rule"
+excerpt: "The Biden administration is doubling down on a Trump-era rule that requires hospitals to disclose the rates they privately negotiate with insurers.\n    \n"
+publishedDateTime: 2021-07-19T23:18:43Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i8Bjq9pnXBg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i8Bjq9pnXBg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
 type: article
-quality: 170
-heat: 230
-published: true
+quality: 166
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719174749-hospital-0127-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Hospitals could face $2 million fine for not disclosing prices under proposed Biden rule"
-    excerpt: "The Biden administration is doubling down on a Trump-era rule that requires hospitals to disclose the rates they privately negotiate with insurers.\n    \n"
-    publishedDateTime: 2021-07-19T23:18:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i8Bjq9pnXBg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
+  - title: "Biden says platforms like Facebook are 'killing people' with Covid misinformation"
+    excerpt: "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n"
+    publishedDateTime: 2021-07-16T20:50:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719174749-hospital-0127-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "TScsT848DwS6BtZf9VzcSS4VQM0rxRtPfZatiZx6ymWJdfrWBjEZq/fHd7EnN5dZCe+7UAWz44Y/pjN94SlcB1M3fG/OUCR+Ng5wPc4QYZMUGMHUJqvhBsmOHlMJo2PtfqZJoTo9ewjRD8QJ0CJcMXhGTbtsaDdgwkqObXxCPevH6WKy/l9j0+68bpm5bA4hGrbXC2yzcBcHIEonuK5JB/MueZ1kgQSIJNDFXAdybFaERipukdmhN//cDYdV3ZbMLuAb0wruAmTXwJUbjMAeG4XwE98bNi9O7bY2ciduHSi2lK2Fu8UvPzkeU7y0RHuRzumGeNfdfsu8PmK3MPmFOcExNkTCdin6/+etvXm5NIg=;lOwbdv7FnpoZ+qJuSsujXQ=="
+secured: "6f5XneLc8Wfsr9fwD2xbn8J+RRpUTDsPNCISh351RK1678GGJ3VB01do3R61ifcJkgkIi/XVUSkSpFwpxQOwRfkr6NGCyXs2K8x/7H7eJPJelGPLIUUC01ZfURR7id2DT+xyedDJiOjxNEeHO9lgkIT8zQgBeUzj3iu46fSqw8zpmW2DaRX5KRF28h/iM7zVVq2kkA3OcY8x0Kar7cagWSgHgbr6AEt2rXWCjglYG2qO9o3WrzIEOE1LWlBn3oh1eu1eA672dk9yzRu9FY84JV2KQXL1Lq8BfeBmDHfGoOfAVAnZQI62TU6/Aqss5ggXBHc8H6zAAdc1qMeRB/h4NzB5QncMXVMXgh7RkpBBQ1w=;wcCRY1cdKOSD99lI8Vn/Uw=="
 ---
 

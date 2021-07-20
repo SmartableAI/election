@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Top Stories this PM: President Biden says Facebook 'isn't killing people'; Guantánamo Bay detainee released"
+    excerpt: "President Joe Biden on Monday walked back his comments about Facebook \"killing people,\" but he called on the company to work harder to remove misinformation on its platform."
+    publishedDateTime: 2021-07-19T21:12:00Z
+    webUrl: "https://www.businessinsider.com/latest-news-biden-walks-back-comments-about-facebook-killing-people-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/latest-news-biden-walks-back-comments-about-facebook-killing-people-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/latest-news-biden-walks-back-comments-about-facebook-killing-people-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/60f5e2169addaf00191eadf4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden says Covid-19 misinformation is 'killing people' – video"
     excerpt: "Joe Biden says social media platforms such as Facebook 'are killing people' for allowing misinformation about coronavirus vaccines to be posted."
     publishedDateTime: 2021-07-17T10:01:00Z
@@ -88,6 +104,22 @@ related:
       - url: "https://www.reuters.com/resizer/vdH6AigbX3vlKTHUBpdTHsGRYIc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4BXXPSHJLFJZLDJ6ITX527BNOI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Biden: 'Killing people' remark was call for big tech to act"
+    excerpt: "It comes as the U.S. sees a rise in virus cases and deaths among those who haven't gotten a shot, in what officials call an emerging “pandemic of the unvaccinated.” Speaking at Biden insisted he meant “precisely what I said” when he said Friday of the tech giants that “they're killing people."
+    publishedDateTime: 2021-07-20T00:35:00Z
+    webUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
+    ampWebUrl: "https://www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
+    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
+    type: article
+    provider:
+      name: NewsTimes Danbury
+      domain: newstimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "aWG3EWG4LDLJMDe4uaUayNvxRH6Uz2/55t4mWAPVGIIF06SlZ4rcwKUVs6eQV4Aj0oar2ljwNRcvn3bfbnej3bySEF3UQfVi/QXLP3NjExtbbKm55ZQlP7HRh7mqsac6wteBrCzu6YDA9Fgv0z1Rz3q1uttblE3Nkla6WIN4TzGvrk/6QNlr/ta74a72K+MIbXUlrtRnfUGJvWwpUM5mj2CG2ZkKQnRh8ro5BySznUCqg/wZ3zUW5P+Ql/V3pTpAAMQaHPAvEMeyUHclPZbP6Vu+lVY0dr5DJejrke6k9c/GNzzxLR0CEylP/mNE7ZvjObyTKS7t8Yrb8cxJFq/5rcb4AdYoOOwt33jxQcJpFro=;bFX2Abdml1/Jaya/RgsUCA=="

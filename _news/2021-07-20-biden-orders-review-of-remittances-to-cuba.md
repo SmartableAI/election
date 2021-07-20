@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden to participate in CNN town hall in Cincinnati next week"
-excerpt: "President Joe Biden will participate in a CNN town hall on Wednesday, July 21 in Cincinnati, Ohio -- a little more than six months after being sworn into office.\n    \n"
-publishedDateTime: 2021-07-13T16:00:49Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZvJoH-DLcY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZvJoH-DLcY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/cnn-town-hall-joe-biden/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/cnn-town-hall-joe-biden/index.html"
+title: "Biden orders review of remittances to Cuba"
+excerpt: "President Joe Biden has directed his administration to examine remittances to Cuba in the wake of protests on the island to determine ways for those residing in the US to send money to the country, a senior administration official told CNN.\n    \n"
+publishedDateTime: 2021-07-20T00:59:26Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/awD-UT3x1b4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/awD-UT3x1b4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/cuba-remittances-biden/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/cuba-remittances-biden/index.html"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216230759-03-biden-town-hall-selects-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215112630-jeff-flake-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to participate in CNN town hall in Cincinnati next week"
+    excerpt: "President Joe Biden will participate in a CNN town hall on Wednesday, July 21 in Cincinnati, Ohio -- a little more than six months after being sworn into office.\n    \n"
+    publishedDateTime: 2021-07-13T16:00:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZvJoH-DLcY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/cnn-town-hall-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/cnn-town-hall-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216230759-03-biden-town-hall-selects-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -101,22 +117,6 @@ related:
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xIbUbONBtao/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
     ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/07/19/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/07/19/biden-facebook-coronavirus-misinformation-sot-ip-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden orders review of remittances to Cuba"
-    excerpt: "President Joe Biden has directed his administration to examine remittances to Cuba in the wake of protests on the island to determine ways for those residing in the US to send money to the country, a senior administration official told CNN.\n    \n"
-    publishedDateTime: 2021-07-20T00:59:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/awD-UT3x1b4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/cuba-remittances-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/cuba-remittances-biden/index.html"
     type: article
     provider:
       name: CNN
@@ -490,6 +490,6 @@ related:
         height: 773
         isCached: true
 
-secured: "7CZSyPolDZTZcVPOIzS8IPAdDLzjdNLJ2gdc2/3cPbnp/axNYplPKNBicwXDhYF/eUEW9frmI4+gQiKXcBL8QRXtWx3D+8G996SFSRT5RFcIy7RMgnN7hC0RpGXiptJFJ4b72F+QiwwsgfNjB180/tyNVlW0P66rJbTpeZv8bpg/wsqts3p5xXSJd/5s8J6k3fKfesraWrtJ2s9ANBw4TsXHzADRGrz9D1lA/Qhcpt4FTQd/bIfH9t2zXOCPqClXneH2mrDjol3b0Q/FeyAp34oHBuzUkGxlTzljlEwX+eXg3iNr5W1L2jJ1wuO7S3qH2yXBMqGnKu4BCGp7S7DU9NDfZVu0U5QS7oQQyXQQjYo=;hSLzXnA1kXqEmOGMk51zqA=="
+secured: "m84Lu3H/mr+9lo6WH7lrRO8S/D1cpGllEhscYhakmqtvAKPw9nJHjyFW8M+PcjWjXTgOkNBgI7+ZPLCcGIzKeID60BLbMEf3LzbeSwvMwOyE+UPYcNyzCyIcbJXX0p4tqoC4PHcmBJAXFLAsVtxZIYRYmcOqyUfzIzpsecs5mczJgAAUEI9qhqoBjOwvwlyhLOIg0qHEDb0nm5G2Dj5vuPyJL2uTLhkiSnrFVL/OOq1tRLd1ycdAP2vH5QPLiS3fyZLTRlrnyvlDGmGuQ0LDOx7qU7RHo1SwZH3JIeiZNutC2rzc30WDL1KMZXD+SDmKYfhvW4OSGMz8Lzw1cvIivI3gbhqY6eF3KvdwPB0BUnU=;/1YH8beHfwr2PTmp/3odLA=="
 ---
 

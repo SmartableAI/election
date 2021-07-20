@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
 excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
 publishedDateTime: 2021-07-13T23:12:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f0343cafa05b38e92afec0b86e01bd60/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f0343cafa05b38e92afec0b86e01bd60/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/f13281bffbaa8a5991b95be322a9ed2e/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/f13281bffbaa8a5991b95be322a9ed2e/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
 type: article
 quality: 54
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f0343cafa05b38e92afec0b86e01bd60/TEXAS-DEMOCRATS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/f13281bffbaa8a5991b95be322a9ed2e/TEXAS-DEMOCRATS.jpg"
     width: 650
-    height: 974
+    height: 433
     isCached: true
 
 related:
@@ -410,6 +410,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bVj+ATvrqjqSl5+psNH/k1ltYjCs9PjCp0WvxpCjqtFFfbmKbIVSZPPEeEG/EANuFtNMTKbNEMWMG6h8U/5O9luS83jCOyD08ooWtl53ck6TEQ5G3yvxY7H7Lrqh4t6djPNw2hm+Ekc5Tj9ts2h1lbrbYUNYO6EsyqFRyDnmXyrzPrHbI28P4Qee8d1M0DF+2ZIcZ0Z3Phe9FDyiCmYk/qYvabBpUpq/K1khr08lTxT8zwCiC8Nibuqn1HimMadLpOvOgsbnFMFrpBLWipCGpRL7/sx1mkI/dYLnRT+8ixQjXN7HAflCgC9Hsr9pmFUnx+/cIS3TV8BP577NVxRIycCo5vqASXDHpBLQCAqB8Bk=;7yQOx7DU4n5ScrJ4oHV4MQ=="
+secured: "FIYzR1e6OW+44kItqZBCBd2kyqC3uWGPKKxVth+1HAWuNI887G3f1IOS1szMQP/9hBRa166UJ5Kc4LzYaHaDOg52mxi0wuzq388MoNo5CneSxaicPLcKWP0Egho/FLR7MUuEBEkQI+u7AM5udC6W9TaL6LZcI7G2VMlNRIllLEeomPfiQzow5tEf+vSDbm5C4/XVQeYQK5DNx/1amo40NY8IYiaE5EKUkEinYzk4thKldHhRxQV9AIQ6AQcm/aZXI+Q/NDYIhegEMwnCE+7oGiu7DqxVWkmFAVqvJ00yT5WdxEEwHlqehWx6JYptHfNrqpl3zzzc19RWPx0eRq17YQ8YOSwy+6LpQ1rGUl59eV4=;AexiMP+4k5c5OT8VY1lpYA=="
 ---
 

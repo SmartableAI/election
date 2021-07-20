@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hospitals could face $2 million fine for not disclosing prices under proposed Biden rule"
+    excerpt: "The Biden administration is doubling down on a Trump-era rule that requires hospitals to disclose the rates they privately negotiate with insurers.\n    \n"
+    publishedDateTime: 2021-07-19T23:18:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i8Bjq9pnXBg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719174749-hospital-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'They're killing people': Biden blames Facebook, other social media for allowing Covid misinformation"
     excerpt: "The White House has warned in recent days that false claims shared on those platforms are contributing to a decline in U.S. vaccination rates."
     publishedDateTime: 2021-07-16T21:21:00Z

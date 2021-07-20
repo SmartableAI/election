@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden orders review of remittances to Cuba"
+    excerpt: "President Joe Biden has directed his administration to examine remittances to Cuba in the wake of protests on the island to determine ways for those residing in the US to send money to the country, a senior administration official told CNN.\n    \n"
+    publishedDateTime: 2021-07-20T00:59:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/awD-UT3x1b4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/cuba-remittances-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/cuba-remittances-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden forced to pivot foreign policy focus to crises in neighboring nations"
     excerpt: "President Joe Biden has staked his presidency on America's return -- a return to normalcy amid the coronavirus pandemic, a return to the global stage following four years of Trump-era isolationism and, arguably, a return to many of the policy positions adopted by the Obama administration.\n    \n"
     publishedDateTime: 2021-07-13T11:29:56Z
@@ -220,6 +236,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152606-san-ysidro-port-of-entry-0219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration debating whether and how to sanction China for ransomware attacks"
+    excerpt: "The Biden administration has been debating internally whether and how to impose sanctions on China for its malfeasance in cyberspace, according to people familiar with the matter, as experts question why the White House has not gone further in penalizing China for its alleged hack of Microsoft's email"
+    publishedDateTime: 2021-07-20T01:34:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EhhCdEQwLQM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/china-biden-ransomware/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/china-biden-ransomware/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124236-01-biden-economy-remarks-0719-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

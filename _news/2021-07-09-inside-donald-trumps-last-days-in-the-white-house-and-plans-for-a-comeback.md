@@ -51,7 +51,7 @@ related:
   - title: "The Feverish, Post-White House Mind of Donald Trump"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-19T18:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html"
     type: article
     provider:
       name: RealClearPolitics

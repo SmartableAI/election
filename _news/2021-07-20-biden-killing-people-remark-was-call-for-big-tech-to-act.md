@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Biden: Social media platforms 'killing people' with misinfo"
-excerpt: "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines"
-publishedDateTime: 2021-07-16T17:08:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+title: "Biden: 'Killing people' remark was call for big tech to act"
+excerpt: "It comes as the U.S. sees a rise in virus cases and deaths among those who haven't gotten a shot, in what officials call an emerging “pandemic of the unvaccinated.” Speaking at Biden insisted he meant “precisely what I said” when he said Friday of the tech giants that “they're killing people."
+publishedDateTime: 2021-07-20T00:35:00Z
+originalUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
+webUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
+ampWebUrl: "https://www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
+cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
 type: article
-quality: 125
-heat: 245
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NewsTimes Danbury
+  domain: newstimes.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRI5GLHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
+  - title: "Biden: Social media platforms 'killing people' with misinfo"
+    excerpt: "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines"
+    publishedDateTime: 2021-07-16T17:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRI5GLHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says 'killing people' was call to action for big tech"
     excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
     publishedDateTime: 2021-07-19T17:38:00Z
@@ -105,23 +117,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Biden: 'Killing people' remark was call for big tech to act"
-    excerpt: "It comes as the U.S. sees a rise in virus cases and deaths among those who haven't gotten a shot, in what officials call an emerging “pandemic of the unvaccinated.” Speaking at Biden insisted he meant “precisely what I said” when he said Friday of the tech giants that “they're killing people."
-    publishedDateTime: 2021-07-20T00:35:00Z
-    webUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
-    ampWebUrl: "https://www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
-    type: article
-    provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
-secured: "2ioXMWZMh8KrKclbLn/2cZc0EgIRPyZQAN5wXeKse+2jRhO83JH7jF1ScjqqqrHGTXAZ9KXZ7fPk/+0tKqR11qHDoheTAnzvk3OBrOGqqQuhNCw1pYaTqoC0jTa3HvKjK6uN6DzpUHlOKFH3XB5+vwX27S/3XxlGhdK6DQq9gm4KymSEM2va+8jzYKlZ1svQFhfvLFtWagX+Ku0Jl/ddYSLcyGbK8TqgDX9qox05XjJv9zlbrSP7VouesMy+aJ/x1Q5JSmtPVOZXj3PTkYqBDmPCD4SeR1SP4O79GsPccBXns/TPqOixj4fqeabjkExgpgQugJLSWf/WrMS3OWyyMrmRvXE701zs7m9CCAE3mDE=;b04FA2YBFL4A/36hJulifw=="
+secured: "S+gNwZ/W4H28w1bsLEwuVyENBIskpeu34uvzUc5pNvLOEdBiwCBsT+OE8miZ4fZJX7/TflPhpALUXio6/q4gEXKpCVS3Q6tDcHqcrm3RyJdKSlAPQIZHwonuillCH2UAj5MYVz4Ke/QBa4QXFvIXkuD8ZKSBeXxH2T+Iw7W8P+4W4rEdpbN6hipDm7JUSaeVsaX01dV7mXIzM1g8xvXXsnICrE1TkX6V8HcwMR3uNwFIMYFsxDTnkqCOc87Fv+do9edJdTlgUyaaK3rXZp9bkHN+yHTq85A7P/CnJhXzHRe6gIPS/eGyjmcE2IFj1YMdlEmuobcHNobZGd8Rq7IH24eO1I5dVm9OH69a9ii9WKg=;kheEQQqPyVzHlwysxy4qzQ=="
 ---
 
