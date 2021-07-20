@@ -260,6 +260,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Why Can't Biden Stop This Invasion?"
+    excerpt: "Article IV of the Constitution addresses the obligations of the federal government to the state governments that were being asked to surrender aspects of"
+    publishedDateTime: 2021-07-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/548514_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "zzwXt5FjkhsakLAhUfSm9C0N67lAaD0giXGTjVvhHt+8QGb9T1/QHXhgPhWgc2f6xqu4sK3RQymdR+A3V4QsS1QvRcmr967rL/UpceInw4cXc2SzTYEfheaisfVE0eX0IDVmfxSAUaayPvN2/3FQColK8MtE5AqLlZNAH121i/lH/fW5ORcxKuO7c3TS1QRdLj5MrvgShWkZ2ayUOPEAbaQxSK9PUrUXTvJ4cfJNVLQEBdq5v5NtRu6eC5lAqjZu2rXbn8v391POzTqZ1fsViOE0NALaF9lCCYbLzN1DhM0p7v2kLs0dobZaY8PxD3LP/AgEqZs7wa53Et0JUVsxNEMfKUEEzyOtgFxggqGxbqQ=;sqbrBrHis1jNuS9hJlz9JA=="
 ---

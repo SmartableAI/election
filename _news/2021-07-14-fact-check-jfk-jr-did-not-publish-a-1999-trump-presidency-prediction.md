@@ -483,6 +483,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senior Democrat Proposes Cap on Trump-Era Business Deduction"
+    excerpt: "Senate Finance Committee Chairman Ron Wyden has drafted legislation that would overhaul a major part of the 2017 tax overhaul that Republicans billed as a boon to small businesses, and Democrats have criticized as benefiting wealthy business owners."
+    publishedDateTime: 2021-07-20T05:46:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/senior-democrat-proposes-cap-on-trump-era-business-deduction/2021/07/20/fb8d3592-e946-11eb-a2ba-3be31d349258_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5D4QYJXJIYI6XIV2HPRR2NESLA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
     publishedDateTime: 2021-07-08T20:17:00Z

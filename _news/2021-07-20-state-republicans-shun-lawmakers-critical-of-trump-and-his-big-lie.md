@@ -484,6 +484,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senior Democrat Proposes Cap on Trump-Era Business Deduction"
+    excerpt: "Senate Finance Committee Chairman Ron Wyden has drafted legislation that would overhaul a major part of the 2017 tax overhaul that Republicans billed as a boon to small businesses, and Democrats have criticized as benefiting wealthy business owners."
+    publishedDateTime: 2021-07-20T05:46:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/senior-democrat-proposes-cap-on-trump-era-business-deduction/2021/07/20/fb8d3592-e946-11eb-a2ba-3be31d349258_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5D4QYJXJIYI6XIV2HPRR2NESLA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
     publishedDateTime: 2021-07-08T20:17:00Z
@@ -838,6 +852,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "e1zcVphMCLKOaAAGZsMv5LELqMrNC7TuY/hILFbqHVS7oLCbcusWanKxNkmMq3itjxZ0xDRrGT3L7lYZeJKRL9xtNN0V2W7AlVSDIM/oda2o9VpRzI0vHbnqW/wMBAcNSN256LaJwfxJfPtyijUWO7EFAxw5iIOZ5vrPeO/UJorEZcoa+9uDCtQU7AZMZ31PEaQ5rnCZVeaiK6XO2tUEXym6PAJWnXPdYwnRoLOlPFwyekeH5G/t2a9GxmECYW6Q/krn9dOd6YrMvYyEJ2djqDE8x14cU1DZUCZqN2G+qxZMEYIwT9evWSDxF+VvWBa/nPkXmmUX63acBU/pXYL9YRFD0dA6DoeSNaxSpIA4HKI=;w2G4hg/MjVO3TsPrZvYiqQ=="
+secured: "+pI+D7BOYRhEPzrKEK73BkvJdgX8x27E6qiRPzm6PzdlgsI2+DvEOd+yc4zpk3TsnHAdbKzUxuYcdB7uVCM1RY0z1rf+8CQ4LUwNBl9pBfS/rOlQ3LZy5XXPIiS3yltsjabCxF9+00U1dgOYOsmF3mot5EexZ9RsW4CdPjI+kZX0uI+KnKIkyhNTQd9pqEEBZmjmhcBWCCRaEtdNeqf5nYBjuQiSc+pahrx2eICqTFsWCLPdf/aXz2fKn817XVyWHas7yXudi6zkVpFC2Ds1qxt7y5JqQw8Z8CJaquFHua5n+sZ9SvRdllscQuoQOz5hZdpKW1Ao68Rl69OD3EUVbimsH/8S4EdjjzTwkqlXn3pAqmAhY6FSASPynCqQOam2vfGDWkfQ0xdxDMpczwK/Li5J4tveCbM9yaVch2SDfPkBif4lTP2mmqllNPLzo60Z5lcV/v26VEPpWZdjsacxbymKcNH87mFXmpSpBv/41X9yjU76VR2suzOC8vnkD+fy1KP6+Icj50hZay+s4y315Q==;1g/ygW+cbUAd0eaIPw/0gw=="
 ---
 

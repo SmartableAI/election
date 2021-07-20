@@ -1120,6 +1120,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Trump Clobbers Biden, Big Tech--With the Constitution"
+    excerpt: "President Donald Trump was and is right. Period. Full stop. I know he was my boss, but I don't always agree with everything. I don't always agree with him. That was the case when I served and is still the case today."
+    publishedDateTime: 2021-07-20T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/20/trump_clobbers_biden_big_tech--with_the_constitution_547564.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
   - title: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster"
     excerpt: "Three. Trillion. Dollars. Maybe four: That's how much President Joe Biden wants for his next installment of Let's Remake America. Think of it as pumping gasoline by the shipload onto a wildfire. Fr…"
     publishedDateTime: 2021-03-31T10:54:00Z

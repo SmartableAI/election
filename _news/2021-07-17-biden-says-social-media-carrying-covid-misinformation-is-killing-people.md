@@ -61,6 +61,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "President Joe Biden will stop by a union training center while in Cincinnati"
+    excerpt: "While President Joe Biden is in Cincinnati on Wednesday, he'll swing by a local union training center. The White House announced the stop at a union training center in Cincinnati on the president's weekly schedule released Sunday night."
+    publishedDateTime: 2021-07-19T20:34:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/07/19/president-joe-bidens-cnn-town-hall-biden-visit-union-training-center-while-cincinnati/8016391002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/8016391002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8016391002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/27/PCIN/c7835a31-0f15-4b75-ab66-aeaa14a2ff83-AP21147686823317.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "EcBcNvdy4VO8xnoC9w87g/nZApJP1nigBOx24faHjiBO1wzcmIz6ngb3igQNkzEvJIwO9CThbOsab0l4rfjbQXGWxv+hkrPx6qxoxDFI+ERblxkbyzlXIZCCTgbPQ62T/0q/LnOQ0fYiCiaeaQN+qgNvN9RhfX+dtg0cTjYQwQnV56jNoFt0MPT8wJNuTW3RGbBkAaXcQ5IBS2D1vpoZU8DXzsjBm8L+GEDQMg8RfReB1oV7dV4iWoWQ2BDKHwkviMmqVgo2QSFZLLUs+C4hkpjsVHulQc413/Rtv8Rvf2/oYBzRNHreUmVJuT0SzidltFWiyKkKIHQb3i8AGZK5UtycKrE/b2cubYqX5XXSMW97JeH/H2dJMQg6nlutH5bJ/IhBAFgbVXVuNkuQRCDBtwOVCZUqXXXaoWpAEnr/u4fS+yWhWX/1APPbNKyf7aodVFuzUgpJXo+QspL21quOXmpIa9EWI0sOVWaVM/hsy8eoozf/CuX7GCkI4PW2wtemt5M15iOy+b5a00MUpfRBlg==;Vs2L2gteafZePLBe8KG2Vw=="
 ---
