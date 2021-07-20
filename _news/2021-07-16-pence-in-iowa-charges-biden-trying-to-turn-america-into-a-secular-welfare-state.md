@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp"
 type: article
 quality: 194
-heat: 294
+heat: 314
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pompeo accuses Biden admin of working to make Iran America's 'senior partner' in Middle East"
+    excerpt: "Former Secretary of State Mike Pompeo accused the Biden administration of working to make Iran America’s “senior partner” in the Middle East."
+    publishedDateTime: 2021-07-20T12:37:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FcBA0fuDVtA/pompeo-biden-admin-iran-partnership-middle-east"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-admin-iran-partnership-middle-east.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-iran-partnership-middle-east.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340

@@ -1126,7 +1126,7 @@ related:
   - title: "Trump Clobbers Biden, Big Tech--With the Constitution"
     excerpt: "President Donald Trump was and is right. Period. Full stop. I know he was my boss, but I don't always agree with everything. I don't always agree with him. That was the case when I served and is still the case today."
     publishedDateTime: 2021-07-20T11:35:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/20/trump_clobbers_biden_big_tech--with_the_constitution_547564.html"
+    webUrl: "https://www.realclearpolitics.com/2021/07/20/trump_clobbers_biden_big_tech--with_the_constitution_547564.html#!"
     type: article
     provider:
       name: RealClearPolitics

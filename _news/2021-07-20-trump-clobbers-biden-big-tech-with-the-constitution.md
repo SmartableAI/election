@@ -3,8 +3,8 @@ category: news
 title: "Trump Clobbers Biden, Big Tech--With the Constitution"
 excerpt: "President Donald Trump was and is right. Period. Full stop. I know he was my boss, but I don't always agree with everything. I don't always agree with him. That was the case when I served and is still the case today."
 publishedDateTime: 2021-07-20T11:35:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/07/20/trump_clobbers_biden_big_tech--with_the_constitution_547564.html"
-webUrl: "https://www.realclearpolitics.com/2021/07/20/trump_clobbers_biden_big_tech--with_the_constitution_547564.html"
+originalUrl: "https://www.realclearpolitics.com/2021/07/20/trump_clobbers_biden_big_tech--with_the_constitution_547564.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/07/20/trump_clobbers_biden_big_tech--with_the_constitution_547564.html#!"
 type: article
 quality: 60
 heat: -1
@@ -1138,6 +1138,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "vROGa0SfTx0IhX2dKT9k1+pdtLJH8tI+OFrbgnzKCffWgEI5IreV3PkBUiZAtbgdCUPYfo/uDdhFv3bzGmprk7w9kcYsn0LpwaGoDhQQMRz5xIl6mkp8mMUskHfRjtuBBOyL35GWbNSUsTTWStHxMhh/0Mf6+hhGDNakpiqdQ1Bto0dy4uYqWEov2iAens8+jZTPtdBPnC0Ll/KQzjlzhtllr4IHsaD3wlxbqYFewIydkfkdC2/D/wp2Ur0JDbTrBKtAlS/bim5Cw/Di5dDuHdl14AhFLqS1sLRWb5LKlN+AqD+NFcFZVZTNOxy7vTjsuHjIqCRqQIR0a4aMfFEYa9Jjh79hLea0C0C4XgrF+Co=;D0URk3h2hHuh/SYJukvO+g=="
+secured: "gvwQ0Kx5ZHH/WCJyStD6TCEd58rPl7bCV2lnO+1Hv4xlwGC6Wmlk8clDf9B8iHwIdo1ab5i3QXBU5X/kM7Dw5k3WcFo12fpt6tx/I3b6FkjR1Q6Wwc2J+TEY2/PCMv1jUwzLJZAN4B9cyOoTEEMGex6WuFIKegggvd8UBjQj14CewlPN81g0mOegvqLVXWY6dYTxISDUiu0rm2/moNz1GMYNiGlZwT6Jq01ZyXsMpWzRholBEGKdJxBDfjxbozPZQS+X75qHRhpcqhUSQtnuuIEPFoAH2AgjB+/cOebO7mfdaamjXasbk/+MBGQfFgdoBI+vjk96kAd1gcqeUTOWficEg+8CrdCNfKEetwy41yI=;+zGrsl3V9EkNNXvCzSd6eA=="
 ---
 

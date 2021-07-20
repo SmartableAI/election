@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 650
         height: 940
         isCached: true
+  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
+    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
+    publishedDateTime: 2021-07-20T13:02:00Z
+    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "dntJcCqt8kN5+66fgCE/EITZaWdmwykOMgp9T9SppDb0sTsk31JbGT+P7qpmh1cFZ+MhQEYEge54VBQdqSNojW0XlSAOHpUoulNAO4+YiPwFZ5HnlBjdTuaFkxfJLvI0yVosnurFPcJhRFjdPRdzN87vDSw3qMPCZPofnKw/a6GeR4IAC9zFaypzymqX1QnzD/qVcrQosEGj/CGM2Jwhy8tWwtQQgCmyQ6gzYpVkEo7TZFB2tSGfHztQD87jR/trPVBqdq68NJdNBbDuf/r+SjRS+FBU6z7vrOkhX+LhhgUDLx+Y7PQ6vg2Rfn0TxQXsxMu+FOaPwy4pdVHXt94ChCN7OsRCn4ehGg0fNrwCol8MAevLQKdIfrydR4oD+lRTJqDZ6PYQWRhA8Ven/XO1FwLg2LYbVAV7wsmNsN65vmJ+PQgBbzpP6bI2nWGBr9NYifbpTIsDz9QtvRgqKuXLsW53GirVzm3SjHLri/eN1AdSF+700d6jwOHtLhlkWzNYpGRMwzt5KQAnA3yYmLjV4g==;S5MYRpMyCnaxup0ZoIePZA=="
 ---

@@ -354,16 +354,16 @@ related:
   - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
     excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
     publishedDateTime: 2021-07-13T23:12:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/f0343cafa05b38e92afec0b86e01bd60/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/69ab07f1fabdf99d4b4092f566a86506/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/f0343cafa05b38e92afec0b86e01bd60/TEXAS-DEMOCRATS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/69ab07f1fabdf99d4b4092f566a86506/TEXAS-DEMOCRATS.jpg"
         width: 650
-        height: 974
+        height: 433
         isCached: true
   - title: "Live updates: Vice President Kamala Harris meets with Democratic Texas lawmakers opposing voting restrictions legislation"
     excerpt: "Here are the latest updates on the Texas Democrats leaving Texas to block the special legislative session and a GOP voting restrictions bill."

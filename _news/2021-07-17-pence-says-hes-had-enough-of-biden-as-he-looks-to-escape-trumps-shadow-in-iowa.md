@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
 type: article
 quality: 209
-heat: 429
+heat: 449
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490865/210713-joe-biden-bloomberg-ew-534p.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "To China, Trump Was Bad. Biden Seems Even Worse."
+    excerpt: "Accusations of hacking and other moves by the Biden administration have surprised and angered China’s leaders, who are pushing back with punitive actions and vitriol of their own."
+    publishedDateTime: 2021-07-20T13:39:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/world/asia/china-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/world/asia/china-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/world/asia/china-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/20/world/20china-diplo1/20china-diplo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden’s nominees to lead ICE and the Border Patrol are a sharp departure from the Trump era."
     excerpt: "If they are confirmed, Ed Gonzalez and Chris Magnus would be responsible for delivering on President Biden’s promise to return compassion to the immigration system."

@@ -144,6 +144,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "To China, Trump Was Bad. Biden Seems Even Worse."
+    excerpt: "Accusations of hacking and other moves by the Biden administration have surprised and angered China’s leaders, who are pushing back with punitive actions and vitriol of their own."
+    publishedDateTime: 2021-07-20T13:39:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/world/asia/china-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/world/asia/china-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/world/asia/china-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/20/world/20china-diplo1/20china-diplo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Garland Settles In but Trump Era Still Shadows the Justice Dept."
     excerpt: "The attorney general’s decisions in a handful of cases have shaped an early challenge for him: fortifying the department’s independence."
     publishedDateTime: 2021-07-09T16:12:00Z
