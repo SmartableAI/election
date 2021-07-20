@@ -63,6 +63,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "House GOP report hits Biden, Dems on border crisis as stats show continued migrant surge"
+    excerpt: "FIRST ON FOX: A new report by House Republicans hits the Biden administration and Democratic lawmakers for the southern border crisis just as new numbers show a continued migrant surge."
+    publishedDateTime: 2021-07-20T14:00:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/URQ0i1U7dGo/house-gop-report-biden-dems-border-crisis-stats-migrant-surge"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Z67Kpby6iawFI4WTenY11fcIH5IkBh837O0jZ+Vcsjy+cqAvN0sKLD8cDPM1TUukUyQ9YPeq2kKA527yTQ3EIx94Y61oQvSyO7MrS4Ab88uSYMxZfh2Wt+JkJR23JLh/Y9yhPuwR3odJFh3i7czPHjioauuSakWjJz2S/PHhuyOViJNIkpGjalixcj0/3awLRr2v4qupYgR52g3y3kQRmst0kzsHSAkP1w1zNu2emOtHUyKw/OO7VWVWlU0Z9CE7p/mzsdP68CgvSYNqf0o0w0y0hVGpuJeQbKtU+JBP9MKGP0xALungFqbYgdLXc3jHnsHRFCdFjvlh9y13VHO4+9p7BCVjDSKZGJK6WkthYek=;iaxZZwM4b9+9CMhfNIOA2Q=="
 ---

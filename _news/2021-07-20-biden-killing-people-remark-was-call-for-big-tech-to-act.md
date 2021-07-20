@@ -2,21 +2,19 @@
 category: news
 title: "Biden: 'Killing people' remark was call for big tech to act"
 excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
-publishedDateTime: 2021-07-19T20:58:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+publishedDateTime: 2021-07-19T21:12:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-says-killing-people-was-call-to-action-for-big-tech/2021/07/19/17fece34-e8b6-11eb-a2ba-3be31d349258_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-says-killing-people-was-call-to-action-for-big-tech/2021/07/19/17fece34-e8b6-11eb-a2ba-3be31d349258_story.html"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6KQQ5XXIVUI6XIV2HPRR2NESLA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -138,6 +136,6 @@ related:
         height: 320
         isCached: true
 
-secured: "gJ7676A+OV6DOsCTrBBjZLerpEyoNXg1f5nw298X4XaGmHrj0BTaL9NzzdSG3xLWlJsuRoiIKiQ6PhaPKYgfQlX5U+hKL0BRo0YeIkQ4VdEAUSEyVhOYnzaxNYFcJVlbTjr0ak/Mac6Z4ypaLMHOwwaxa/irRgs9u6hfVUXaEIhkXkxOZL2q/9HM9oRj71LQKasK4KldGPfnDmKziXm2QvqhhHTZ1wHYhBKYe2svHs/y3fZdW4z5Flbm+Ol6WvFwGNrtF4FkopAMZuy9vAdgaozyo3N3jY9g9TuwfLNH8g00YYmt2sJXXERCBNd1zUDLOpMS328YyRSVMfdcElS7K3TZeXdn6tO5Bc24CWaXiiI=;RKeIZnhlP40Hg2POeG2W+w=="
+secured: "fw0K6kPf3avNHT7EFQa2gjLNKqLoK3CWU4Kd+/RPvk8EkbiZ6DKEcFVgQdLr3CecPxaLc8rNIksyOeMMjBU1a09bwh1pG7xqRhReeR+dC//ncL11HcG1cvU+UPpAU/IWLK8aXKkcwv/v0QfGlGd0t9CYKMGQh4meA1oDl/wjsf/I9IQUO8gf7vXZJaOze81Jh3UFvwu3yOX3Kw9VC4sxI5i8TFLKDRY7gnJNY8Izl+b2PzVbM3T9f5Cq3QfpAOnmnjZBc6WAXMrwsTw0V1/OoPYtAqwfhEqb1nyO3LnhGVosp6BWfCKjfNvJLJlYsCsIEmUucOy3l2hc0qE83X78mR8X1JIFgE70p8oal5bpufas59Z2jaaneNtmRm4qEt8EITKMbmsEntxxJYJFZIwpk1s3QsmygzDLZdCySMfL1tHBH2hRzNS7IenPNChVAtWjvCYdYjCwcRcKf1qtzVGKfGcHoS3hQmPsbt/Fgrc+CchqSCoYQIQgo3tfeCNk3nUGV+ZvDs0+ZjaftVcB58o1yg==;4riPrIe6CMIPtQyZkKYwuA=="
 ---
 

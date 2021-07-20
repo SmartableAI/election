@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Angela Merkel doubts Joe Biden meeting will solve gas pipeline dispute"
-    excerpt: "German Chancellor Angela Merkel said Monday that she doubts the dispute between her country and the United States over a nearly completed gas pipeline from Russia will be fully resolved at a meeting with President Joe Biden this week."
-    publishedDateTime: 2021-07-13T00:57:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/?amp-content=amp"
+  - title: "Biden says inflation 'temporary'"
+    excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
+    publishedDateTime: 2021-07-19T19:13:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEMIHQ73"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://thumb.spokesman.com/pp1m8I0ZK-WdKj158Hc90_6tk-0=/480x0/media.spokesman.com/photos/2021/07/12/60ecdb5e51a63.hires.jpg"
-        width: 480
-        height: 320
+      - url: "https://static.reuters.com/resources/r/?d=20210719&i=OVEMIHQ73&r=OVEMIHQ73&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
+    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
+    publishedDateTime: 2021-07-19T19:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "xqSlsS+F4ENYwlcMDO92G1gisxTr2DwTXWhzA7ZpmdOeGwXbbEP2FKqFwLqS9ffNTg0KuzqkI0B5uQuCzYmtF/KOs1hEJGlmu/mvwNS1M7Ia921N7r9d4V2LOzGl7qrzJSFLztPNLEJsJQBzfuKtWRC0LCXHbs/ycm4c8jUzYZMUe+zwLI0Bc2QVsqMXyz5Oby+hVMxqx+ZpiqWEVBfUrF/uYT6UdYQFzs0EQYYo0SV6ouJfwYqR8TF3/z7b01EHjADt7Me/6syD53f2l+6q+VliNRI7EePYSrUwyQfPNY7VJSxyFN9caZJNVJkg517D0wDCelJrCMyd0z4NJDUfAvoHHNPHFLfI2UnZBZcFqFY=;RMYB6qlPhiKrtr77xTTHlQ=="

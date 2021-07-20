@@ -79,6 +79,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Michael Wolff's Third Strike At Trump White House Has Hits And Misses"
+    excerpt: "The author has gifts as a writer: a novelistic eye for scene and detail, an ear for realistic dialogue. His story keeps moving, free of constraints common to courtroom lawyers or newspaper reporters."
+    publishedDateTime: 2021-07-20T15:40:00Z
+    webUrl: "https://www.npr.org/2021/07/20/1018198107/michael-wolffs-third-strike-at-trump-white-house-landslide-book-review"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/07/20/wolff_wide-d719e2cfeb7bd2de93a37c8ba786fc11fc490bd9.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "2KYIv1tF89SlhmnMsnrEurAxIbaLAEpExwLhzDdNmiOZukOAfX2JcvHhMLk6lea9Zxam+75W+exQ3Ci+qjGJsF/9CAM+mVYfV3rs2s5ma7RXc0Fb2NMUo8u/qp2EknR2H8sFjg60n/UEFJJN6sILJ6y551sbsKF5A+3NbKt+ZqPDG5Q9Cn/8Prj0RdJl8btMmCJoWbbCEuLZxST1ueTfejboQ8BnKFjCCjbZBiTGGodkcJzqsr99Oxok5tqa3pSUh7dAynegjOL2yZI3TSEommUm+VIuOr1JUzxoXg4EYWiQfHOe02ZD03fqRpx11sxPEHwQTZj88sho7C8TjTQo9wzME116LTxenfXnCS4y/E95vloT15iOsXp3KtyVDT8arUsdtbcJi8eqZKLesntKGC+b8jNbPFjixkBjhRKA53egQk+jomRpuk0vboxl1bcmbtg4GsWyqgo2pM7IBmnzJFh9/YEcKrrQW78UJM/+H3w3rrqyvSqQbw2YmPCU6262YCRzujpjcQbOX5HYcgEFLQ==;CrWn2FGfDIJk2Z7WbIp2KQ=="
 ---

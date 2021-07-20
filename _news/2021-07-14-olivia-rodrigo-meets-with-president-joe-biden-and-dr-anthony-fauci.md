@@ -53,6 +53,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Joe Biden Returns to the White House from Philadelphia"
+    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
+    publishedDateTime: 2021-07-13T23:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
+        width: 650
+        height: 940
+        isCached: true
 
 secured: "GtdrK850lyXVicAw3jkgkD6bAPldGpLe6gdtJ8mMuonFX4GEGkARtpkn3/fMnFiRimrBb1RMWA17wi1GbC2MH3shcM+0bdEsi2lw408keCwzSySICl4NwidimZeqyClg/VvQsjNa035VucY39SFaxVROEwRmO1LKuD7GzJGAqxjIGX0+7Odr9imljQ0tXELBbsF548ptTtBqagizVkY8MYeIu6AifO1EzmJqK6HuBIDdU5NxIsnmSKc4oOcoNgQGfVBP88XP0jv2FlCfF51qPkJvkPq1ATvAeRpu40QmNi0+QMCV/xOKy44q+aO/lTOLaKIVVAcJEldBV2oqGV3kwiBOfxkDjFk/lupVNWXi0vui6hhfzfgSLVwmFjh0dKvIxoAnqrpq3MLuaIeEg4XTjNpUV0LJXs1jl/GA3GhmePsFjSKWA7NjUu/p8m8QtKRxbhxU0Ks93GJhkKhXYB7P4oOaYvfbLwMp0lvMwelzPXMEpICCM4f2p0KW9GDu8AtbZ174FWmX93omN9S8oWjA0A==;UMGN1huuDePN8/XMuj6amQ=="
 ---

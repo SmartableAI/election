@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-econo
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
 type: article
 quality: 72
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -27,29 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "President Joe Biden Speans at Atlantic Aviation in Philadelphia"
-    excerpt: "President Joe Biden delivers remarks on actions to protect the sacred, constitutional right to vote at the National Constitution Center in Philadelphia on Tuesday, July 13, 2021. Photo by John Angelil"
-    publishedDateTime: 2021-07-13T19:33:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e1f050c413c7fa2b6a66cce25f31c302/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
+  - title: "Biden says inflation 'temporary'"
+    excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
+    publishedDateTime: 2021-07-19T19:13:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEMIHQ73"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210719&i=OVEMIHQ73&r=OVEMIHQ73&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "MICHAEL BARONE: Joe Biden's big lie"
+    excerpt: "Did you know that Black people are not going to be allowed to vote in America anymore? At least in states controlled by Republicans. Sounds unlikely, but that's a conclusion you might have come to if you took seriously what President Joe Biden said in Philadelphia last week."
+    publishedDateTime: 2021-07-19T12:33:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/jul/19/michael-barone-joe-bidens-big-lie/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e1f050c413c7fa2b6a66cce25f31c302/BIDEN-PHILADELPHIA.jpg"
-        width: 650
-        height: 480
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
-  - title: "President Joe Biden wants to ensure 'Right to Repair' smartphones, other devices"
-    excerpt: "President Joe Biden asked regulators to crack down on companies that make it harder for people to repair smartphones and other software-driven tech."
-    publishedDateTime: 2021-07-15T10:02:00Z
-    webUrl: "https://www.oklahoman.com/story/business/2021/07/15/president-joe-biden-backs-right-to-repair-smartphone-regulations/7936627002/"
-    type: article
-    provider:
-      name: The Oklahoman
-      domain: oklahoman.com
-    quality: 30
 
 secured: "bs5rJrsWMmh8JUoFi4l/CAEYhzG5bcMJnjPI1z6WlPBAXKpYg/RATduMSyVWYh+jdR1BZ5tOPOtu7XEozgr8LKeDJWgKjYAVBuM9IMM/cp6Vh9tl3Hf81OJ2LNuYMAXHaGo5x0DGtkAIWw/nstj/4qAXq8U69jztnMRfud6guFKGCLzg8Lgbku4fEoSuwsCcouqUTUlj8+FYrrspv5OpTcPi8RHUmNJkilvqv6xnL0W9nsslRP+IvqWG3vJe9gj6djbD97iRpjTqtAGTmlM3agcXcDEZPr0Ximl3Byi0hX6GExHgnjMIBG5/sVHH5JqbhcJMlOx3dJCVknHQrzs95AI0dPq/qznYZKwWSadB9sXyNwj9ZACQHirLvjzpXCJa5nu2R3+9+uqR77kRuDQbD0uiwLz28uiIWhgadlSVEJzgNoVR52tZDN6VeBRhjuYtIvN8x9m1Ew6UOtGkv5ineIh9mcn2NkYVlfXDfvwggkGV5tafdZXeie9Xk8Lr+k2ESZh9xQDd7CF2WgqPA9O/Ew==;OcHboaUi47r0NpcnrDzuqg=="
 ---

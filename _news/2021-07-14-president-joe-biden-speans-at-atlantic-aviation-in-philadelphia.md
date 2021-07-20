@@ -25,31 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
-    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
-    publishedDateTime: 2021-07-19T19:10:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+  - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
+    excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
+    publishedDateTime: 2021-07-20T16:30:00Z
+    webUrl: "https://www.usatoday.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8027480002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8027480002"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
-        width: 800
-        height: 534
+      - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "President Joe Biden wants to ensure 'Right to Repair' smartphones, other devices"
-    excerpt: "President Joe Biden asked regulators to crack down on companies that make it harder for people to repair smartphones and other software-driven tech."
-    publishedDateTime: 2021-07-15T10:02:00Z
-    webUrl: "https://www.oklahoman.com/story/business/2021/07/15/president-joe-biden-backs-right-to-repair-smartphone-regulations/7936627002/"
+  - title: "Biden hosts Jordan's King Abdullah at White House"
+    excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
+    publishedDateTime: 2021-07-19T20:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
     type: article
     provider:
-      name: The Oklahoman
-      domain: oklahoman.com
-    quality: 30
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "GEtu4IknQqugBx/V7m1OZJJKNUG781OLFQg/88u+zxEPmUka39ieAwNHJmCXh4F4DXjZHTBa7yy+Al0a7LF7C9yCcW+7hrjlT1s2xb3ZhcY2xZFhX3VMmH7oVeZevbL63tn07d5TtyDdngHagob/U7T6xn6WFmkEVQKmTDaQWYA/MOViAG3OmoChtMoLmFx0koqoznTAvh37IF2sgydkj2pf23qEIEdn+8g7F2oiRoTlnyiF3fZ0SowBhhI9D7KZJBV4reHo6hBrd9mvg5keevnfJBRtYreuUKSmlulMBgoMFkeZPtrjYyWGUHRqTc6bc35HUasJ5xxBrXZmeXTeyaF8DCfweucUscBgkVsPea/ephoYBR1MHd0C5LaEsfyPYitsa1/tiWg5b0MTwmODwVtUbv9D5b32dWs8ntyb9DdY45ydaokA6gtVp1SEQPUpa47nmqc1MSCjgJixxfPpcLtExmrX+a8u4jgNgkvpS2ot6Nm+SvxZ9w3tm4Suh+J5CVoRRr94iYQ+mDL3A53a8Q==;h2Xy4coDPgrVai9D/Qtp2A=="
 ---

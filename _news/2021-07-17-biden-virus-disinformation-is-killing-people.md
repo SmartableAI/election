@@ -45,22 +45,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden: 'Killing people' remark was call for big tech to act"
-    excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
-    publishedDateTime: 2021-07-19T20:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden says 'killing people' was call to action for big tech"
     excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
     publishedDateTime: 2021-07-19T17:38:00Z
@@ -106,6 +90,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/de7edacece93403f08d75094c0d0440e5f1f8247/0_15_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=458fed88c7b2a2eee5e48de906d4f44d"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden: 'Killing people' remark was call for big tech to act"
+    excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
+    publishedDateTime: 2021-07-19T21:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-says-killing-people-was-call-to-action-for-big-tech/2021/07/19/17fece34-e8b6-11eb-a2ba-3be31d349258_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6KQQ5XXIVUI6XIV2HPRR2NESLA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden says Facebook, others 'killing people' by carrying COVID misinformation"
     excerpt: "U.S. President Joe Biden on Friday said social media platforms like Facebook (FB.O) \"are killing people\" for allowing misinformation about coronavirus vaccines to be posted on its platform, as the administration continued criticizing the company."

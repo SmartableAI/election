@@ -63,6 +63,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Michael Wolff's Third Strike At Trump White House Has Hits And Misses"
+    excerpt: "The author has gifts as a writer: a novelistic eye for scene and detail, an ear for realistic dialogue. His story keeps moving, free of constraints common to courtroom lawyers or newspaper reporters."
+    publishedDateTime: 2021-07-20T15:40:00Z
+    webUrl: "https://www.npr.org/2021/07/20/1018198107/michael-wolffs-third-strike-at-trump-white-house-landslide-book-review"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/07/20/wolff_wide-d719e2cfeb7bd2de93a37c8ba786fc11fc490bd9.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Donald Trump Made Explosive Comments About Justice Brett Kavanaugh, Michael Wolff Book Claims"
     excerpt: "Donald Trump said he was “very disappointed” in Supreme Court Justice Brett Kavanaugh and other officials for not voting to overturn the 2020 presidential election, Axios noted Tuesday from Michael Wolff's new book “Landslide."
     publishedDateTime: 2021-07-13T22:04:00Z

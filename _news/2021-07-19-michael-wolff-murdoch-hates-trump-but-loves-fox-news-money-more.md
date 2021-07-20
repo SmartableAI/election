@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolf
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/23ed8a672bc1757d35210ca42d9100ee24e714ef/0_0_5117_3071/master/5117.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae2f26daeaab1ee3f8c7ca35a37b8971"
         width: 600
         height: 360
+        isCached: true
+  - title: "Michael Wolff's Third Strike At Trump White House Has Hits And Misses"
+    excerpt: "The author has gifts as a writer: a novelistic eye for scene and detail, an ear for realistic dialogue. His story keeps moving, free of constraints common to courtroom lawyers or newspaper reporters."
+    publishedDateTime: 2021-07-20T15:40:00Z
+    webUrl: "https://www.npr.org/2021/07/20/1018198107/michael-wolffs-third-strike-at-trump-white-house-landslide-book-review"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/07/20/wolff_wide-d719e2cfeb7bd2de93a37c8ba786fc11fc490bd9.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Donald Trump Made Explosive Comments About Justice Brett Kavanaugh, Michael Wolff Book Claims"
     excerpt: "Donald Trump said he was “very disappointed” in Supreme Court Justice Brett Kavanaugh and other officials for not voting to overturn the 2020 presidential election, Axios noted Tuesday from Michael Wolff's new book “Landslide."

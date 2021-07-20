@@ -343,6 +343,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Aides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book"
+    excerpt: "Aides to former President Trump intentionally gave his then-personal attorney Rudy Giuliani the wrong time for a presidential debate preparation event last year, according to a new book"
+    publishedDateTime: 2021-07-20T02:25:00Z
+    webUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
+    ampWebUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/giulianirudy_111920gn6_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump aides told him over a McDonald's meal to stop bitching about losing in Iowa to Ted Cruz in 2016"
+    excerpt: "Corey Lewandowski, Trump's 2016 campaign manager, said Trump was told to stop complaining about losing Iowa or his presidential bid would be over."
+    publishedDateTime: 2021-07-20T14:34:00Z
+    webUrl: "https://www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/60f1e6b77b0ec5001800a934?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ariz. Secy. of State calls for probe of Trump..."
     excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-09T04:45:00Z
@@ -758,6 +790,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Bill Aims to Keep Trump From Becoming House Speaker"
+    excerpt: "Democrats could bar Trump and other nonmembers from serving as Speaker, but they may not want to draw attention to the zany proposal."
+    publishedDateTime: 2021-07-20T17:42:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/bill-trump-house-speaker.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/bill-trump-house-speaker.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/bill-trump-house-speaker.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/720/718/5796204969bb47ca9b0b542ae52f81e7c7-boyle.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "PA dentist and friend of Donald Trump charged with assault for groping a patient, police say"
     excerpt: "Albert Hazzouri Jr., the self-proclaimed \"dentist and personal friend of Donald Trump,\" has been charged with assault after he allegedly groped a patient in his Scranton office."
     publishedDateTime: 2021-07-08T17:04:00Z
@@ -790,6 +838,15 @@ related:
         width: 3476
         height: 2298
         isCached: true
+  - title: "Tom Brady Jokes With Biden at White House About Trump's False Election Claims"
+    excerpt: "Tom Brady, a U.S. football legend and longtime friend of Donald Trump, gently ribbed the former president and his false claims of election fraud in a White House visit Tuesday. The 43-year-old quarterback joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with President Joe Biden."
+    publishedDateTime: 2021-07-20T17:50:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-07-20/tom-brady-jokes-with-biden-at-white-house-about-trumps-false-election-claims"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
   - title: "Matt Gaetz doubles down on Donald Trump House Speaker push"
     excerpt: "Matt Gaetz claims to have better knowledge of former President Donald Trump than a Capitol Hill reporter, calling out purportedly phony reportage on “Trump World.” Gaetz, who represents Florida’s 1st Congressional District,"
     publishedDateTime: 2021-07-08T14:29:00Z

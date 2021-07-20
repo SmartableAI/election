@@ -25,29 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Biden hosts Jordan's King Abdullah at White House"
-    excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
-    publishedDateTime: 2021-07-19T20:33:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
+  - title: "Joe Biden departs to Chicago - Washington"
+    excerpt: "U.S. President Joe Biden walks on the South Lawn f the White House in Washington as he returns from a day trip to Chicago on Wednesday, July 7, 2021. Biden is to deliver remarks on his Build Back Better agenda at McHenry County College in Crystal Lake,"
+    publishedDateTime: 2021-07-07T16:43:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d8e40e73/Joe-Biden-departs-to-Chicago-Washington/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cdnph.upi.com/pv/upi/136f1b640383ef6c4bb6ba33d8e40e73/BIDEN-SOUTH-LAWN.jpg"
+        width: 650
+        height: 433
         isCached: true
-  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
-    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
-    publishedDateTime: 2021-07-20T13:02:00Z
-    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
+  - title: "Joe Biden Departs to Philadelphia From Washington"
+    excerpt: "U.S. President Joe Biden boards Marine One helicopter on the South Lawn of the White House in Washington before his departure to deliver remarks on protecting the constitutional right to vote in Philadelphia,"
+    publishedDateTime: 2021-07-13T17:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c74d6c2f5c94711b1703002f65a5f8e1/Joe-Biden-Departs-to-Philadelphia-From-Washington/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c74d6c2f5c94711b1703002f65a5f8e1/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Olivia Rodrigo meets with President Joe Biden and Dr. Anthony Fauci"
+    excerpt: "Olivia Rodrigo arrives to the White House to meet with President Joe Biden and Dr. Anthony Fauci as part of White House Covid vaccine push in Washington, D.C., U.S., on Wednesday, July 14, 2021. Photo"
+    publishedDateTime: 2021-07-14T16:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/77a6c5ed567406002c222d7a4e309259/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/77a6c5ed567406002c222d7a4e309259/WH.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "m6hj281yDVg9NmukDgbJpArltMcDh2bSUn7mDST8WH+CEymn7E+WA2KLAcXYN+8KK/iEkXxGHfcrj+WKfWj/Hx7elJ4xGxiKOxVWp94A9ddYz0sk3Crcw3wM0ju5UmEZt3ZRBPp9GAHkJavrIzyXVovhnjhXQq3JGhlTvkhQ3b111+SltJwHrwOZdeq0xYCegDz4CfAWYbCTyUTRHU2iBkku2hnQ+eXXzNKZ6/1M+kBFHFajG+tHD/CG5KEDSgo+q4Cn/6sFYZDHkCdTRfmU3hGruwpvFRQzPyu6DtI/YDEX4v8OcPy4huQtC1YLCzbeEF9oqskQS5Cr0lriVCGjgBlDjmhbnfYphR1otMrQ+bk=;2F1ah3KMCc8l/vgApo4Trw=="
 ---

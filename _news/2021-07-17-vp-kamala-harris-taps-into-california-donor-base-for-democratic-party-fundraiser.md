@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
+    excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
+    publishedDateTime: 2021-07-20T00:27:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article252835123.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252835123.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252835123.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/88555703-8622-42ef-b5f9-1344dafbdb53/c9585fae-6ecf-43ad-b698-0ff185822d92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris' stepdaughter Ella Emhoff walks Balenciaga runway at Paris Fashion Week"
     excerpt: "After Ella Emhoff's head-turning inauguration outfit, the stepdaughter to Vice President Kamala Harris is hitting fashion weeks. See her Paris debut."
     publishedDateTime: 2021-07-08T11:21:00Z
@@ -102,6 +118,20 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/ac46821644135f59e9fe9b8e22edeeca/HARRIS-VOTING-RIGHTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "VP Harris welcomes Jordan King Residence in Washington, DC"
+    excerpt: "U.S. Vice President Kamala Harris, arrives to greet King Abdullah II of Jordan at the Vice President's residence in Washington, D.C., U.S., on Tuesday, July 20, 2021. Vice President Kamala Harris hosted the King for a working breakfast."
+    publishedDateTime: 2021-07-20T14:09:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6f7673c08e1789bf249db1bb184a03af/VP-Harris-welcomes-Jordan-King-Residence-in-Washington-DC/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6f7673c08e1789bf249db1bb184a03af/WH.jpg"
         width: 650
         height: 433
         isCached: true

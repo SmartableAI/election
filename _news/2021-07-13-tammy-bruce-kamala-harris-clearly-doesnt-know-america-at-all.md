@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp"
 type: article
 quality: 135
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Gutfeld!’ on trust in media, Kamala Harris"
+    excerpt: "A new Gallup poll shows that more than 75 percent of the public has very little confidence in legacy media, like newspapers and T.V. news. So first, it's kind of interesting that people still use newspapers to get their news."
+    publishedDateTime: 2021-07-19T10:47:00Z
+    webUrl: "https://www.foxnews.com/transcript/gutfeld-on-trust-in-media-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/transcript/gutfeld-on-trust-in-media-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-trust-in-media-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c66e9e3b-dcaf-4a81-bcb5-bb47ec2f17c3/a8d9644b-bbd5-4f95-bddd-d5285aef8e13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris slammed for claiming rural Americans can't photocopy their IDs"
     excerpt: "Kamala Harris was criticized Saturday for claiming that voter ID laws were impossible because rural Americans could not photocopy their ID's."
     publishedDateTime: 2021-07-10T23:44:00Z

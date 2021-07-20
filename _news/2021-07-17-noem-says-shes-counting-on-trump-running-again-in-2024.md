@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former Trump aide bidding to unseat Dem says young people ‘brainwashed’ by Big Tech, need to step up"
+    excerpt: "A former Trump aide bidding to run for office told “Fox & Friends” Tuesday that the younger generation is “brainwashed” by Big Tech, the media, and other institutions."
+    publishedDateTime: 2021-07-20T15:45:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cIz4JqDTlfo/former-trump-aide-bidding-to-unseat-dem-says-young-people-brainwashed-by-big-tech"
+    ampWebUrl: "https://www.foxnews.com/politics/former-trump-aide-bidding-to-unseat-dem-says-young-people-brainwashed-by-big-tech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-bidding-to-unseat-dem-says-young-people-brainwashed-by-big-tech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Donald Trump slams ‘disgusting’ report on Russian interference in 2016 election"
     excerpt: "A new report alleging Russian spy agencies were told to help Donald Trump win the 2016 presidential election is “disgusting” and “fiction,” the former president said"
     publishedDateTime: 2021-07-15T19:12:00Z
