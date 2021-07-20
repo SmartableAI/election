@@ -32,51 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "'They're not going to f**king succeed': Top generals feared Trump would attempt a coup after election, according to new book"
-    excerpt: "The top US military officer, Chairman of the Joint Chiefs Gen. Mark Milley, was so shaken that then-President Donald Trump and his allies might attempt a coup or take other dangerous or illegal measures after the November election that Milley and other top officials informally planned for different ways"
-    publishedDateTime: 2021-07-15T01:03:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tBQEKGla9HM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html"
+  - title: "Rising Covid-19 concerns could slow plans to scrap Trump-era border policy "
+    excerpt: "The Biden administration may delay winding down a Trump-era border policy tied to the pandemic due to increasing concerns about Covid-19 variants, according to a source familiar with the matter.\n    \n"
+    publishedDateTime: 2021-07-20T02:13:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHu6wszfkv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714165935-trump-milley-2017-inauguration-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'He's not going to sit in silence': How the nation's top general found himself caught up in Trump's political wars"
-    excerpt: "In December 2018, then-President Donald Trump announced on Twitter that he would nominate Gen. Mark Milley as the next chairman of the Joint Chiefs. Milley was not the consensus pick, and then-Defense Secretary James Mattis objected to his selection. But Trump wanted the square jawed, barrel-chested"
-    publishedDateTime: 2021-07-15T21:35:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sGx4dQ9eVBs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
+  - title: "Attorney General Merrick Garland reverses Trump-era immigration policy"
+    excerpt: "Attorney General Merrick Garland reversed a Trump-era immigration policy that barred immigration judges from pausing cases they deem low-priority. The move is expected to help the justice department get through the backlog of 1."
+    publishedDateTime: 2021-07-16T16:00:00Z
+    webUrl: "https://www.nbcnews.com/now/video/attorney-general-merrick-garland-reverses-trump-era-immigration-policy-116887621922"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116887621922"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116887621922"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714170338-mark-milley-2020-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626451088810_ott_now_garland_immigratioon_pause_210716_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "DIEHL dials it down on TRUMP — JOCKEYING BEGINS over FED AID — UNPACKING Boston mayoral FUNDRAISING"
-    excerpt: "Geoff Diehl co-chaired Donald Trump’s campaign here in 2016 and just months ago called on GOP Gov. Charlie Baker to “retract” his support for the president’s second impeachment. But now that he’s running for governor,"
-    publishedDateTime: 2021-07-07T11:43:00Z
-    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/07/07/diehl-dials-down-on-trump-jockeying-begins-over-fed-aid-unpacking-boston-mayoral-fundraising-493489"
+  - title: "Ticket sales are moving slowly for the coming Trump-O’Reilly stadium tour"
+    excerpt: "Time remains to sell out the stadiums. But those familiar with the current sales pace say it lags behind other acts."
+    publishedDateTime: 2021-07-16T08:38:00Z
+    webUrl: "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 101
+    quality: 134
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static.politico.com/a3/98/4a7696cc4883b5ff031956fc291d/7-15-21-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Aa2CciLlL9C19rXyIexb4OBpEZ5u+HAwjutRrEZYM0KxdkQRpVY0GN0pkZN/6AQqIvJRcG1ZRHQ6PydjLxeiD/vwVUESaHbEH5bWojsjsdMwVKdSp89quFce3McNkudrAcsOA53QYceLW15xmjNqECsj/YUSQ5kBKXupTJSRttXBEopIlgNJW97no1pW+X4Ar5lUeHugMKLZNXHUE32SjV3bguBsCW5fH35HrvxdzkzU9xiHhwUFUjRDkAL9A+15FwPKh/SDtFC2mnEBCkesn8WfbAD4jWo9aSYClvLNvuSXf79UMRfktgQmSCWAeHAH1ohCNfa/zssJuJ2HWDA/KsOS7p3Zq6sNZ6qAOmo5EKGrL9914F4VNQqTZV+GlU0FdqZWEAmeQ2RcqmzSZGZ2cGLMhdIcwDaXPEa/Fwig1S4ysJb+hx6mutsAy3DsGkSIEJa6mOBEG7vE7+SFNqjU3S7HWYOYzp1P1MukfTZbWVXrO14f/OQ2W6LOzqo5S1/89KQLK/9f/oKzIaqTYEfZjQ==;bdScNQftN9eZa4RcMP3vdA=="

@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-17-biden-pledges-appeal-of-deeply-disappointing-daca-ruling.md",
+      "title": "Biden pledges appeal of ‘deeply disappointing’ DACA ruling",
+      "excerpt": "Biden urged Congress to move forward with legislation to permanently protect those covered by the Deferred Action for Childhood Arrivals program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/17/joe-biden-pledges-appeal-daca-ruling-deeply-disappointing/8001889002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/17/joe-biden-pledges-appeal-daca-ruling-deeply-disappointing/8001889002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/12/USAT/c222758a-82e2-473d-9d80-155527a55e64-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8001889002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8001889002",
+      "publishedDateTime": "2021-07-17T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.md",
+      "title": "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning",
+      "excerpt": "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
+      "publishedDateTime": "2021-07-17T06:27:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-biden-grappling-with-pandemic-of-the-unvaccinated.md",
       "title": "Biden grappling with 'pandemic of the unvaccinated'",
       "excerpt": "Two weeks after celebrating America’s near “independence” from the coronavirus, President Joe Biden is confronting the worrying reality of rising cases and deaths",
@@ -873,63 +981,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-attorney-general-merrick-garland-reverses-trump-era-immigration-policy.md",
-      "title": "Attorney General Merrick Garland reverses Trump-era immigration policy",
-      "excerpt": "Attorney General Merrick Garland reversed a Trump-era immigration policy that barred immigration judges from pausing cases they deem low-priority. The move is expected to help the justice department get through the backlog of 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/attorney-general-merrick-garland-reverses-trump-era-immigration-policy-116887621922",
-      "originalUrl": "https://www.nbcnews.com/now/video/attorney-general-merrick-garland-reverses-trump-era-immigration-policy-116887621922",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626451088810_ott_now_garland_immigratioon_pause_210716_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo116887621922",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116887621922",
-      "publishedDateTime": "2021-07-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-biden-to-reappoint-jerome-powell-as-fed-chair-say-economists.md",
       "title": "Biden to reappoint Jerome Powell as Fed chair, say economists",
       "excerpt": "U.S. President Joe Biden will reappoint current Federal Reserve Chair Jerome Powell for a second four-year term starting February next year, according to an overwhelming majority of economists polled by Reuters this week.",
@@ -1195,63 +1246,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ticket-sales-are-moving-slowly-for-the-coming-trump-oreilly-stadium-tour.md",
-      "title": "Ticket sales are moving slowly for the coming Trump-O’Reilly stadium tour",
-      "excerpt": "Time remains to sell out the stadiums. But those familiar with the current sales pace say it lags behind other acts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795",
-      "originalUrl": "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a3/98/4a7696cc4883b5ff031956fc291d/7-15-21-donaldtrump-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795",
-      "publishedDateTime": "2021-07-16T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-4
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795"
 type: article
 quality: 134
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -30,6 +30,56 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Rising Covid-19 concerns could slow plans to scrap Trump-era border policy "
+    excerpt: "The Biden administration may delay winding down a Trump-era border policy tied to the pandemic due to increasing concerns about Covid-19 variants, according to a source familiar with the matter.\n    \n"
+    publishedDateTime: 2021-07-20T02:13:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHu6wszfkv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Attorney General Merrick Garland reverses Trump-era immigration policy"
+    excerpt: "Attorney General Merrick Garland reversed a Trump-era immigration policy that barred immigration judges from pausing cases they deem low-priority. The move is expected to help the justice department get through the backlog of 1."
+    publishedDateTime: 2021-07-16T16:00:00Z
+    webUrl: "https://www.nbcnews.com/now/video/attorney-general-merrick-garland-reverses-trump-era-immigration-policy-116887621922"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116887621922"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116887621922"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626451088810_ott_now_garland_immigratioon_pause_210716_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Jordan’s king seeks to strengthen ties with the U.S. after a Trump-era thaw in relations."
+    excerpt: "King Abdullah has been seen by American presidents as a moderate, reliable ally in the Middle East, often playing the role of envoy from the Arab world in Washington."
+    publishedDateTime: 2021-07-19T18:54:00Z
+    webUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/19/multimedia/19political-briefing-abdullah2/19political-briefing-abdullah2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "qGsIYMbaVRVaV7HcVxHfhk4k2wraum6uQmgG8T83QUgM7j/VA98FxObOOGVkPv8333BAa5Tj0QqTEsA0ybIsykH3N4DlQJam0umQAdHwO5aFF4O8T14ZGYge73leH6Hi5RUrcle4e8Q6So7kOLCI4VMypG1QNFXU2oSX6rItq1Z+599RGjmDtzqWHa9gJuHfyWbk2WwpV2d6vcY1XG1LovuE8G1XRtwlCxaj5Oplo49GjFUfbe+foLlmqaRu543xrfcnE5dpWvpf1WkmLrB3g452OQ+IdYZYji3XnqJWoMaXqdAEULZEexLXbQpGnvbY++MoI18sF47C+qvjGq7HPN1dP3FCQ+puMm3GUsZuPhk=;xIdcaZ555o7wEgnnwHEmNQ=="
 ---

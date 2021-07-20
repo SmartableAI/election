@@ -108,6 +108,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Washington Post highlights Hunter Biden's ethical scandals with full-page art work"
+    excerpt: "The Washington Post, on Monday, highlighted Hunter Biden's numerous ethical scandals with a full-page of artwork in their op-ed section."
+    publishedDateTime: 2021-07-20T02:12:00Z
+    webUrl: "https://www.foxnews.com/media/glenn-kessler-slammed-funny-display-hunter-bidens-scandals"
+    ampWebUrl: "https://www.foxnews.com/media/glenn-kessler-slammed-funny-display-hunter-bidens-scandals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/glenn-kessler-slammed-funny-display-hunter-bidens-scandals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/debc2e09-1d7b-4fc3-afaa-0e45fd20cb62/e9f5e03f-c9ba-45b4-b98a-fb8263cfc496/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Newspaper declares Biden boring; Washington has never felt duller"
     excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
     publishedDateTime: 2021-07-14T07:10:00Z

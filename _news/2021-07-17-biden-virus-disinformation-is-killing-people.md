@@ -105,21 +105,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Biden: 'Killing people' remark was call for big tech to act"
-    excerpt: "It comes as the U.S. sees a rise in virus cases and deaths among those who haven't gotten a shot, in what officials call an emerging “pandemic of the unvaccinated.” Speaking at Biden insisted he meant “precisely what I said” when he said Friday of the tech giants that “they're killing people."
-    publishedDateTime: 2021-07-20T00:35:00Z
-    webUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
-    ampWebUrl: "https://www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
+  - title: "Biden: ‘Killing people’ remark was call for big tech to act"
+    excerpt: "President Joe Biden tempered his assessment that social media giants are \"killing people\" by hosting misinformation about the COVID-19"
+    publishedDateTime: 2021-07-20T03:02:00Z
+    webUrl: "https://mynorthwest.com/3044257/biden-says-killing-people-was-call-to-action-for-big-tech/"
+    ampWebUrl: "https://mynorthwest.com/3044257/biden-says-killing-people-was-call-to-action-for-big-tech/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3044257/biden-says-killing-people-was-call-to-action-for-big-tech/amp/"
     type: article
     provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
+      name: MyNorthwest.com
+      domain: mynorthwest.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://mynorthwest.com/wp-content/uploads/2021/07/ap_ae1ef9f1bada4fafadcd0384a152cc0a.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "aWG3EWG4LDLJMDe4uaUayNvxRH6Uz2/55t4mWAPVGIIF06SlZ4rcwKUVs6eQV4Aj0oar2ljwNRcvn3bfbnej3bySEF3UQfVi/QXLP3NjExtbbKm55ZQlP7HRh7mqsac6wteBrCzu6YDA9Fgv0z1Rz3q1uttblE3Nkla6WIN4TzGvrk/6QNlr/ta74a72K+MIbXUlrtRnfUGJvWwpUM5mj2CG2ZkKQnRh8ro5BySznUCqg/wZ3zUW5P+Ql/V3pTpAAMQaHPAvEMeyUHclPZbP6Vu+lVY0dr5DJejrke6k9c/GNzzxLR0CEylP/mNE7ZvjObyTKS7t8Yrb8cxJFq/5rcb4AdYoOOwt33jxQcJpFro=;bFX2Abdml1/Jaya/RgsUCA=="
