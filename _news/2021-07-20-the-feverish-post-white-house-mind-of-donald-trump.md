@@ -3,8 +3,8 @@ category: news
 title: "The Feverish, Post-White House Mind of Donald Trump"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-07-19T18:47:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html"
-webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html"
+originalUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html#!"
 type: article
 quality: 65
 heat: -1
@@ -59,6 +59,6 @@ related:
         height: 640
         isCached: true
 
-secured: "VOGH26zUmbIDn62wQ3W40XbfHqwDNYM4BBdImG3KyR0JTbytqwq8+gzBe+CZ+IQ5qnv/pvVhXLzanHtaS87x/0Zy7NT5dZ+smclniIJamrKDv6QFCkMWfGHcImN1Dws63EtOMDsJHvcuOc18jZKdG+DHTUv8hknlu97zfJwJbNw7Oo2Kaqf2mA3oIFW1TYJl6q/HvLLFIh1H505WCG0ZkO2Cez1zjB8vUqtMXpLVR9qIvZM/gfsXdJMzqR8Z7Ubla91Mmg6qxi0zCLRa0JuH1ECI6M3pT49qiOnX7foMFvzuSRxDyf2FUT2EkvNbY3so7mSFBSC/KdajqDHHFmU+UkBv7VOdr+5cK69dlZ5Y7co=;g2qqv4sMoiniprOzBoLFdA=="
+secured: "lHrzYdsy9PH+TZu48B//NWKY8Y/Hk3IYVqJhXR+qIDnrYn4J2r39VHsAuMHg6fRkJzMaL0aNtAytaCaMVhMJcoTRM7TQFoDgx7HG3UzIVAG5+4+GLulbqQdvpeYjR+xI0fhjln2LfDGIaT73C9SzgKwUCidRhaOMKc/CCQVU1PyjbiNIiFOLEzuwhDCsl/Lc83/gmL7GUuq6RMw1rAVNnTzTKGGJsMV7b6GBQnnoB3GLV/Lj7TLQBUZPZbO7pZrSQltkgT0ibE9sGAnrBxXyUTiINpEDEckGALtREIpJ3X2CaPjSsMPtPNK85lc7eU7AsROLaxSBGp231rG8tCaWef6ZISynQC+U65o1OzuOT2o=;CSZ+emmvksB4ADfBlomfaQ=="
 ---
 

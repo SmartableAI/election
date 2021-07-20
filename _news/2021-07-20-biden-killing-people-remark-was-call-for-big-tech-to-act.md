@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Biden: ‘Killing people’ remark was call for big tech to act"
-excerpt: "President Joe Biden tempered his assessment that social media giants are \"killing people\" by hosting misinformation about the COVID-19"
+title: "Biden: 'Killing people' remark was call for big tech to act"
+excerpt: "It comes as the U.S. sees a rise in virus cases and deaths among those who haven't gotten a shot, in what officials call an emerging “pandemic of the unvaccinated.” Speaking at Biden insisted he meant “precisely what I said” when he said Friday of the tech giants that “they're killing people."
 publishedDateTime: 2021-07-20T03:02:00Z
-originalUrl: "https://mynorthwest.com/3044257/biden-says-killing-people-was-call-to-action-for-big-tech/"
-webUrl: "https://mynorthwest.com/3044257/biden-says-killing-people-was-call-to-action-for-big-tech/"
-ampWebUrl: "https://mynorthwest.com/3044257/biden-says-killing-people-was-call-to-action-for-big-tech/amp/"
-cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3044257/biden-says-killing-people-was-call-to-action-for-big-tech/amp/"
+originalUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
+webUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
+ampWebUrl: "https://www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
+cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: MyNorthwest.com
-  domain: mynorthwest.com
+  name: NewsTimes Danbury
+  domain: newstimes.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://mynorthwest.com/wp-content/uploads/2021/07/ap_ae1ef9f1bada4fafadcd0384a152cc0a.jpg"
-    width: 1280
-    height: 853
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -118,6 +118,6 @@ related:
         height: 628
         isCached: true
 
-secured: "Mt07Fhrctfpq1gao42xBOAbC2cemmPmeKWM6QJKvIFUnmBC9KcAMjflWl49tisDXM9saS5iaB0UffISeFo2vhlviTdtTzN62ZpCtXkM99c6DHva+8sWnh/Iud6Jo5VdqqjVItSV8ptWl3QNA051/A+H/QQzRhmBneG/O8UWvBIr++Uwv4p10tWSCW2c4N1HtoQx11Z6W7Ig9dxmcsKRR0jvxM035admUvnbYT0dEUcXSECqyVacUaW+vyaZ7roCFKooxbvrFnCDFJBIOksZeTnuUKLbEMlx5v6eqSB3cvSGpl6DGl4tCdRF+bGo4Kg7wwykacjh9dYjKRSNrmZnxWIuVe+dtVGIHYbxzVdjaZAg=;WOcVnvOuO/keVCVcazgLxA=="
+secured: "gwZgozGzO+LLFHA+Vjft+5y5XlXXKI1PTgdvn2k4xev0ESWPA7iDt/oAYdIhH7/sZwdfKtFeo7dPrtYmzcxz8MCW80n+aJArTty6awCceVU3W68Xi88D0YSM6J4pSSpEExVJDohvUoi42bh8djQ8fcAQ1ZC2mZ92JeytRldRG4m7btij4RpN1zSCfTkIgK28xsHTj3ELw2jnVnKHEb2UIYfH/plUuvUaXnikQaz4FY0bt0SCkipGnTH9/dLzKLoP9VsSsXKz/Gr77u0WdjtWJdxloq0t+mGM24kb0E+uVgrvAZFm0aKObFQE+gHvYis7ST1ndteNXLnb8S42lcAEv+6Rjj40jJLw7u7qr4qn9OM=;s/X/PIENB8jR/kucnUzffw=="
 ---
 

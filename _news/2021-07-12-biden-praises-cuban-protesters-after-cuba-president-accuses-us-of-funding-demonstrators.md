@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Rubio: What Will Joe Biden Do When 1,000 Troops From Russia Arrive In Cuba To Help The Regime?"
+    excerpt: "Sen. Marco Rubio (R-FL) warned on FNC's 'Special Report' on Monday that Russians are already in Cuba and there is no doubt that they will send special forces if the Cuban regime requests help. \"Cuba today is basically in a state of martial law and in many of the major cities across the country,"
+    publishedDateTime: 2021-07-19T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/19/rubio_what_will_joe_biden_do_when_1000_troops_from_russia_arrive_in_cuba_to_help_the_regime.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/19/rubio_what_will_joe_biden_do_when_1000_troops_from_russia_arrive_in_cuba_to_help_the_regime.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/19/rubio_what_will_joe_biden_do_when_1000_troops_from_russia_arrive_in_cuba_to_help_the_regime.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/54/548556.jpg"
+        width: 1006
+        height: 754
+        isCached: true
 
 secured: "AxUOuxUIXC+jmuEZX0uyMbfrpaKt2LG5vJ66k3k30sZJpUky04nA2hy4JA0Za/i3HNAFdLgfnMFDpsErYv7igEhxnpN8JR0d78X5XL7HKgiX5pGswVIEp30GSUFLM2C3fv1PUx6ZLTRXgrmHwYzwUThcjgbHHNr9Y/hYSzNumFalKMrH1HZH6SdOHiv2NNcLLNAx7/Fb8wFiKjozp6ILwGNmmfELoUbrpofZ/JzdFqJIxiJuYtU0QNTEloomUJc2k0rXUB+5MqVEiYcvUQo03GqT4of4XefvEEiMIocgd0Zg1iuLBh6jgqDTaMtzYvQahFU1VNwXLip9chu86tuHAzU3l5OIpDrGIxSezCZs70E=;SHXCtxSXKeqT9Mq4H8M/rg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rubio-cuba-will-see-horrific-bloodb
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rubio: What Will Joe Biden Do When 1,000 Troops From Russia Arrive In Cuba To Help The Regime?"
+    excerpt: "Sen. Marco Rubio (R-FL) warned on FNC's 'Special Report' on Monday that Russians are already in Cuba and there is no doubt that they will send special forces if the Cuban regime requests help. \"Cuba today is basically in a state of martial law and in many of the major cities across the country,"
+    publishedDateTime: 2021-07-19T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/19/rubio_what_will_joe_biden_do_when_1000_troops_from_russia_arrive_in_cuba_to_help_the_regime.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/19/rubio_what_will_joe_biden_do_when_1000_troops_from_russia_arrive_in_cuba_to_help_the_regime.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/19/rubio_what_will_joe_biden_do_when_1000_troops_from_russia_arrive_in_cuba_to_help_the_regime.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/54/548556.jpg"
+        width: 1006
+        height: 754
         isCached: true
 
 secured: "SzhUgtmFLdKrVbws0iI9OPe06Zj/Q/TVB1bpXzzfphdRFmv7tvhL9qYBBYYD3mgNK8TTxwOtCvT1qtpAJySHTp9ppj8RK0pR39EQPGBgiMi/5vAKa6HXn3z+2hurGnSDQjjl70f3nhH3Ky3FHSBXdkyFC4KyeUgZb3yAkZo0O2y+lPNFWaCsAvkkTdMetuUjuSqIJEjdMTKXfmRHFfhKwXaOsl4Wdw+DPOZjng088kXGeS1yRkEhONPF6HFi9SIEWe0ydxDek0vwVhKtBkW4I/YCkAVOTcD8rk3CurQ4aDTtAUclDZNnv7y87NKrC893aWKW3puRtjTUPZmKxTUCnSxXcyhhpQLBqDSMuXPCQpg=;kg2lnau/uVpcjYu8Q3gDAQ=="
