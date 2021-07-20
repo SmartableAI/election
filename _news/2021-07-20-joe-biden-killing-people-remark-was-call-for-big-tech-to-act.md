@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden says 'killing people' was call to action for big tech"
-excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
-publishedDateTime: 2021-07-19T17:38:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+title: "Joe Biden: ‘Killing people’ remark was call for big tech to act"
+excerpt: "President Joe Biden tempered his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms, saying Monday that he hoped they would not take it “personally” and instead would act to save lives."
+publishedDateTime: 2021-07-20T09:18:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/"
+webUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://thumb.spokesman.com/ULObetljx1EFjqyzwmCvu8rzWIc=/480x0/media.spokesman.com/photos/2021/07/19/60f5c318e6607.hires.jpg"
+    width: 480
+    height: 320
     isCached: true
 
 related:
@@ -53,6 +49,22 @@ related:
     webUrl: "https://abcnews.go.com/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden says 'killing people' was call to action for big tech"
+    excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
+    publishedDateTime: 2021-07-19T17:38:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-killing-people-call-action-big-tech-78929380"
     type: article
     provider:
       name: ABC
@@ -121,23 +133,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Joe Biden: ‘Killing people’ remark was call for big tech to act"
-    excerpt: "President Joe Biden tempered his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms, saying Monday that he hoped they would not take it “personally” and instead would act to save lives."
-    publishedDateTime: 2021-07-20T09:18:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/ULObetljx1EFjqyzwmCvu8rzWIc=/480x0/media.spokesman.com/photos/2021/07/19/60f5c318e6607.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
 
-secured: "sjO+mvvEVJoschYMHgeAZAl2NHF5c7kutK9kSt44Se0+8S1AMeqsZx9xERg0PzVaX/GJ9fRl7uQ9VwpuTv9JmnQ3mO4+efiGmmnNRng6dY384AtOjKVd9VWs9853WEd8RaK3yasMnC/20Ukr6KpNcaL9hg+LkK/Tm6A4hjK3Ud0KMuT1WnZrel1S/Puup31Vw76GayJV8kdF2cUNyZHR0FokOdoP/r1i7934nsy4Vb3ZIsQlTMZwdG2JEsun3M+A6Xx9hDlK0nD9Z9CKcLr378h7UWH2oSAP17C0mVTYEl03VjhwUQ8cprAjBTP9Ly2qXp90DYoFFQzs6Ss6aX03ecIUC5WinTVhanPMlwJF+rirzX0uQGH3bDgSnJ6wXWFrFf0Zn5rn3L+42aoZjARkGBTvB7kmZASts+jq9hTszl6YmvFn1IT7rclDXAvazAHHtWgSYgSp0gPd3UZUqt0mVb/WrUg4uHmPxS0vlYrV0JksPnIzWMIAEI0Da+bApFaUW9npxBskQNCdsWkYkZe47Q==;EmPrD4QFKqIjRfNvX+xJOQ=="
+secured: "2XWojcYkccuxczWEUCUr4H+QjwcB6xplFkY+O79/DHSpCzQTm2OYpotVkVFuTOsVj9WfPm5xJdLmfg2UVAKlWscfZ/F3hHOg+fCdp6TR22rfL6fIsyN7E9gZ3WigJV+vjE9nxLhKtOIPyRv6tm8V6Qou5/9mQnXfbWxVhhHXs12dcul4ym8cmuFjLvKuz3+pfcPJvpp1MpbxVd2tQVkV6J5oGrEIa9F6NC/YzioDRUpuGBj//Sk4tczCRXvkRvAcU4CtBT1lI9RWF8rnyqnmcdmjsDSxnmBFY3xJXmidd+WjzfDBFxluX6sXsv3wkkhu5ZzzggM8e4Bmn9a/qsNl/C2fX9iKOnC6Etpm6f2NP6M=;Y+tXKG+qkhCT988InLYwKA=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden: 'Killing people' remark was call for big tech to act"
+    excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
+    publishedDateTime: 2021-07-19T20:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says 'killing people' was call to action for big tech"
     excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
     publishedDateTime: 2021-07-19T17:38:00Z
@@ -105,21 +121,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Biden: 'Killing people' remark was call for big tech to act"
-    excerpt: "It comes as the U.S. sees a rise in virus cases and deaths among those who haven't gotten a shot, in what officials call an emerging “pandemic of the unvaccinated.” Speaking at Biden insisted he meant “precisely what I said” when he said Friday of the tech giants that “they're killing people."
-    publishedDateTime: 2021-07-20T03:02:00Z
-    webUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
-    ampWebUrl: "https://www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
+  - title: "Joe Biden: ‘Killing people’ remark was call for big tech to act"
+    excerpt: "President Joe Biden tempered his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms, saying Monday that he hoped they would not take it “personally” and instead would act to save lives."
+    publishedDateTime: 2021-07-20T09:18:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
     type: article
     provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://thumb.spokesman.com/ULObetljx1EFjqyzwmCvu8rzWIc=/480x0/media.spokesman.com/photos/2021/07/19/60f5c318e6607.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
 
 secured: "aWG3EWG4LDLJMDe4uaUayNvxRH6Uz2/55t4mWAPVGIIF06SlZ4rcwKUVs6eQV4Aj0oar2ljwNRcvn3bfbnej3bySEF3UQfVi/QXLP3NjExtbbKm55ZQlP7HRh7mqsac6wteBrCzu6YDA9Fgv0z1Rz3q1uttblE3Nkla6WIN4TzGvrk/6QNlr/ta74a72K+MIbXUlrtRnfUGJvWwpUM5mj2CG2ZkKQnRh8ro5BySznUCqg/wZ3zUW5P+Ql/V3pTpAAMQaHPAvEMeyUHclPZbP6Vu+lVY0dr5DJejrke6k9c/GNzzxLR0CEylP/mNE7ZvjObyTKS7t8Yrb8cxJFq/5rcb4AdYoOOwt33jxQcJpFro=;bFX2Abdml1/Jaya/RgsUCA=="

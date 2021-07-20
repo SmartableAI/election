@@ -233,6 +233,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "State Republicans shun lawmakers critical of Trump and his big lie"
+    excerpt: "Internal battles may ultimately weaken the party, critics suggest"
+    publishedDateTime: 2021-07-20T07:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/fce1868a1bec15ef1336a53710bd312b9deda8a5/0_160_4828_2898/master/4828.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=880ab2dc89a9f6825e1629645fe21763"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
     excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"
     publishedDateTime: 2021-07-19T13:20:00Z

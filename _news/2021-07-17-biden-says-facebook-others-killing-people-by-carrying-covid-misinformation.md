@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden: 'Killing people' remark was call for big tech to act"
+    excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
+    publishedDateTime: 2021-07-19T20:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says 'killing people' was call to action for big tech"
     excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
     publishedDateTime: 2021-07-19T17:38:00Z
@@ -105,21 +121,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden: 'Killing people' remark was call for big tech to act"
-    excerpt: "It comes as the U.S. sees a rise in virus cases and deaths among those who haven't gotten a shot, in what officials call an emerging “pandemic of the unvaccinated.” Speaking at Biden insisted he meant “precisely what I said” when he said Friday of the tech giants that “they're killing people."
-    publishedDateTime: 2021-07-20T03:02:00Z
-    webUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
-    ampWebUrl: "https://www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
+  - title: "Joe Biden: ‘Killing people’ remark was call for big tech to act"
+    excerpt: "President Joe Biden tempered his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms, saying Monday that he hoped they would not take it “personally” and instead would act to save lives."
+    publishedDateTime: 2021-07-20T09:18:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
     type: article
     provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://thumb.spokesman.com/ULObetljx1EFjqyzwmCvu8rzWIc=/480x0/media.spokesman.com/photos/2021/07/19/60f5c318e6607.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
 
 secured: "m4NCK/8ZYhf9uEcOYefR6NnZ3g7PN/PvYr6geSvUy2Ddx5G8nVHAguXw3HPWiLedXo6IV77sExDAQP3LNc9eaG4Zxaz/61j1wgL1gyfXSvJp530E0+8/cI7N4BwLjjjzVMlxnZHRlvO/5tIDaaLDx22P7kskLAbmRzqHoCioPmgr8tZ0DUZuiYbc3QIh0V7VJd+55iFD4+nJkIBWd8pHb4n+eGyKTiNfY6njzazoKGHJi5GfZrJ4vPhHb0Qhpug/m2xH71x0kLF686I6fO9+/4g6r4pEk4GvyPKYCkO73PgrcT8pX+DcIRda/4iu8lTewtZsKEroSSjLmXPJXlh59kRt1wBUSlyrmOc7Zk/CBUtZhMbOOIDdDJTKNnN0wnlq94Dti52LUfTleHakudYqSZIssMawAB6NTLlfkSqSPrfgZ0/k5cSnCgrERNcqCqo0QcoK2Y39OTJCLeBKYMvBNcn3w8QbqgBi5+/JoadXfLXrllHZ0y5q8OCQ0x4BtKUfxpkWzARa2OFwlcZSEnCZZw==;f5eydX2bR89yERscNI67oA=="

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
-excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud and warning that he will be entitled to reject the results unless Congress overhauls the voting system."
-publishedDateTime: 2021-07-09T19:49:00Z
-originalUrl: "https://www.chron.com/news/article/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
-webUrl: "https://www.chron.com/news/article/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
-ampWebUrl: "https://www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+title: "State Republicans shun lawmakers critical of Trump and his big lie"
+excerpt: "Internal battles may ultimately weaken the party, critics suggest"
+publishedDateTime: 2021-07-20T07:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+  - url: "https://i.guim.co.uk/img/media/fce1868a1bec15ef1336a53710bd312b9deda8a5/0_160_4828_2898/master/4828.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=880ab2dc89a9f6825e1629645fe21763"
     width: 600
-    height: 336
+    height: 360
     isCached: true
 
 related:
@@ -234,22 +238,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7J4GEHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "State Republicans shun lawmakers critical of Trump and his big lie"
-    excerpt: "Internal battles may ultimately weaken the party, critics suggest"
-    publishedDateTime: 2021-07-20T07:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/fce1868a1bec15ef1336a53710bd312b9deda8a5/0_160_4828_2898/master/4828.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=880ab2dc89a9f6825e1629645fe21763"
-        width: 600
-        height: 360
         isCached: true
   - title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
     excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"
@@ -634,6 +622,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
+    excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud and warning that he will be entitled to reject the results unless Congress overhauls the voting system."
+    publishedDateTime: 2021-07-09T19:49:00Z
+    webUrl: "https://www.chron.com/news/article/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump and the Senate race, MLB Draft, weather outlook: Down in Alabama"
     excerpt: "On today’s news briefing we have Trump taking an aggressive position for and against Republicans running for U.S. Senate. We also have an Alabama high school grad taken in the first round of the baseball draft."
     publishedDateTime: 2021-07-12T10:09:00Z
@@ -834,6 +838,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "TKXCmX3W1r7mncnAYS8DWX8Tid/YQ/nhvw6ZB6gg1nHylS6zdpqgfQEfmxcC6J68SR/+X1TsoOAeE0La5mLsexJAPVGFJtz5PpTcnxpa/99ATaDW4ujHa9B6B+xr63Mg7ae0TaKS3ECSLlxIu1x7zdmzjyEgUAknm91qKsz7dA/xDDGS1xpY316G/SMwnPDh1HCVN5aq0E2hRY7PzE0SLahVKzrwYkC6KcEXW5usvGqDlm19bau8BX+v/vTrdwM/fxEJ4ZLw/d55e6DjgMpVbhvIrWF7bdOf2jXHwbMz6OVNNON3pdg5m/6hzInhxUivDXplFCL17XcW2ePSNCZg1AZXjBtAUVoWawGsi9cCVxk=;CDhs90fj7Vj2wEoChqUpmQ=="
+secured: "e1zcVphMCLKOaAAGZsMv5LELqMrNC7TuY/hILFbqHVS7oLCbcusWanKxNkmMq3itjxZ0xDRrGT3L7lYZeJKRL9xtNN0V2W7AlVSDIM/oda2o9VpRzI0vHbnqW/wMBAcNSN256LaJwfxJfPtyijUWO7EFAxw5iIOZ5vrPeO/UJorEZcoa+9uDCtQU7AZMZ31PEaQ5rnCZVeaiK6XO2tUEXym6PAJWnXPdYwnRoLOlPFwyekeH5G/t2a9GxmECYW6Q/krn9dOd6YrMvYyEJ2djqDE8x14cU1DZUCZqN2G+qxZMEYIwT9evWSDxF+VvWBa/nPkXmmUX63acBU/pXYL9YRFD0dA6DoeSNaxSpIA4HKI=;w2G4hg/MjVO3TsPrZvYiqQ=="
 ---
 

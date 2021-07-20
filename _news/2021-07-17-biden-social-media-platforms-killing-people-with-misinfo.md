@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-social-media-platforms
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden: 'Killing people' remark was call for big tech to act"
+    excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
+    publishedDateTime: 2021-07-19T20:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-killing-people-call-action-big-tech-78929140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ae1ef9f1bada4fafadcd0384a152cc0a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says 'killing people' was call to action for big tech"
     excerpt: "President Joe Biden is tempering his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms"
     publishedDateTime: 2021-07-19T17:38:00Z
@@ -105,21 +121,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Biden: 'Killing people' remark was call for big tech to act"
-    excerpt: "It comes as the U.S. sees a rise in virus cases and deaths among those who haven't gotten a shot, in what officials call an emerging “pandemic of the unvaccinated.” Speaking at Biden insisted he meant “precisely what I said” when he said Friday of the tech giants that “they're killing people."
-    publishedDateTime: 2021-07-20T03:02:00Z
-    webUrl: "https://www.newstimes.com/news/article/Biden-says-killing-people-was-call-to-action-16324460.php"
-    ampWebUrl: "https://www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-says-killing-people-was-call-to-action-16324460.php"
+  - title: "Joe Biden: ‘Killing people’ remark was call for big tech to act"
+    excerpt: "President Joe Biden tempered his assessment that social media giants are “killing people” by hosting misinformation about the COVID-19 vaccines on their platforms, saying Monday that he hoped they would not take it “personally” and instead would act to save lives."
+    publishedDateTime: 2021-07-20T09:18:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/19/biden-killing-people-remark-was-call-for-big-tech-/?amp-content=amp"
     type: article
     provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://thumb.spokesman.com/ULObetljx1EFjqyzwmCvu8rzWIc=/480x0/media.spokesman.com/photos/2021/07/19/60f5c318e6607.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
 
 secured: "2ioXMWZMh8KrKclbLn/2cZc0EgIRPyZQAN5wXeKse+2jRhO83JH7jF1ScjqqqrHGTXAZ9KXZ7fPk/+0tKqR11qHDoheTAnzvk3OBrOGqqQuhNCw1pYaTqoC0jTa3HvKjK6uN6DzpUHlOKFH3XB5+vwX27S/3XxlGhdK6DQq9gm4KymSEM2va+8jzYKlZ1svQFhfvLFtWagX+Ku0Jl/ddYSLcyGbK8TqgDX9qox05XjJv9zlbrSP7VouesMy+aJ/x1Q5JSmtPVOZXj3PTkYqBDmPCD4SeR1SP4O79GsPccBXns/TPqOixj4fqeabjkExgpgQugJLSWf/WrMS3OWyyMrmRvXE701zs7m9CCAE3mDE=;b04FA2YBFL4A/36hJulifw=="
