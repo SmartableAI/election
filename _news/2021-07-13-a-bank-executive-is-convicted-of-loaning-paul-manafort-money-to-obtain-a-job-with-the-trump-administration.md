@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Banker found guilty of bribery for Manafort bank loans in chase for Trump administration job"
-    excerpt: "A former Chicago bank executive was found guilty Tuesday of charges alleging he conspired with onetime Donald Trump campaign chairman Paul Manafort to exchange risky bank loans for a high-ranking position in the presidential administration.\n    \n"
-    publishedDateTime: 2021-07-13T15:48:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3aivAbV-XdI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html"
+  - title: "William H. Pauley III, Judge in Trump Hush Money Case, Dies at 68"
+    excerpt: "He sentenced Michael D. Cohen to three years in prison for breaking campaign finance laws by helping to buy the silence of two women who said they had affairs with Donald J. Trump."
+    publishedDateTime: 2021-07-16T23:24:00Z
+    webUrl: "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325122313-stephen-calk-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/07/18/obituaries/16Pauley1/16Pauley1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "UlNKCjbzz2UXmFB3QmyR34cV9bq3plMBn41ca15NtRfznV8+XHWFkkIcxXoaYl2fC2QfLuR/fHPx5tt7zgoOzi+6mGv81tGNTjbtzri/Uh8thoecqYzlNJpkIgzmb7infhubyXKVdfL8/jPnGX+iBRDGYpzKpx1PQd631n9Rr3hy3aBBVpD4V3VUvQeMaH5Gn/0NBpxgmqJ3P00jBA6emZR2nibAzpZd7ClxqQVG4tPgn7upn1PDU2QCe45KK3ULVOsEOqhlelnVE2qJpE2Zy2n+7qydMa8ULAlX/xpkAwN0JWQouJlugK+p12VPKckp6DJPjfuNPnZsI1p0fsgwxMXGPVeFd0BXTMTm8dLh4xcv2yqRwADh0pmRLDxGHG4tynpMbdXNWSiI2qaAg418o+tPuyww5TwokEZR40ZExoEaLQwuglU3unB9dl9bXZuSRA9OS01BSs0DFB4hcyy7FvTcVaZOqURkC7QEPzWd/wbduIUzAks3KvJw/esDhr3RqjWGmX6fl/2Pr6hRy9QfKA==;Mz249h23Dnj6vxdI5lww/A=="

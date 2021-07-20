@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/8001889002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8001889002"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210717&i=OVEM8HMN3&r=OVEM8HMN3&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Animatronic Joe Biden joining Hall of Presidents at Disney World"
+    excerpt: "The animatronic Biden will stand forefront in the presidential tableau. Next to him, a table will hold peach blossoms to represent his home state of Delaware and a pair of aviator sunglasses in a nod to his favorite eyewear."
+    publishedDateTime: 2021-07-20T18:06:00Z
+    webUrl: "https://chicago.suntimes.com/entertainment-and-culture/2021/7/20/22585583/animatronic-biden-joining-hall-of-presidents-disney-world"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/entertainment-and-culture/2021/7/20/22585583/animatronic-biden-joining-hall-of-presidents-disney-world"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/entertainment-and-culture/2021/7/20/22585583/animatronic-biden-joining-hall-of-presidents-disney-world"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "M1U/nnLkYOD+QxevzKkM3c+HWf8Kcc9/kUbo8DEb/z6Xfd/cNZIT0VvmAblZMDhlD7ZhQIYIjKnng/wwh34XdIDasosxVqCo+HQyjgFHxSIK9BD2hGhDEOsO7aPBI/dE8/62ya/0n1JZ2/fm0/O8KgpkM+uIkQTL94ZwCfTbRUZCOJwWz0fFlqKFpewGkSHEaiU68XevqvFFBOYMS26Eo62WMUhEyXMG5cVVp1lTUR5gYbmGrZNKtRBKdZPs+5+NFqG/Co0UueGhQpLDquZKr5rxaF+3Imi0CLvi+mqJFLSUc5GR2qaeW6PzpSVh2npG6zRZT8gzNKUjkWWZk7Jga/XjCs3GjTuLC8cj+RyMfv8=;7zzm064LzcmifZsvqi5tSg=="

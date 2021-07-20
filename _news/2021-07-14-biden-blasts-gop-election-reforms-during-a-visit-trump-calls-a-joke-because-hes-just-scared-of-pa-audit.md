@@ -204,6 +204,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Tom Brady riffs veiled Trump jokes with Biden at Bucs' White House visit"
+    excerpt: "During the Tampa Bay Buccaneers’ visit to the White House, the reigning Super Bowl MVP made a veiled dig at President Donald Trump over his claims of election fraud."
+    publishedDateTime: 2021-07-20T18:49:00Z
+    webUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit"
+    ampWebUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21201580647481.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Judge Jeanine slams the Biden administration: Who do you work for?"
     excerpt: "Judge Jeanine Pirro slammed the Biden administration Saturday on “Justice with Judge Jeanine” for inviting the United Nations Human Rights Council, which includes countries like China, Russia, Cuba and Venezuela,"
     publishedDateTime: 2021-07-18T02:40:00Z

@@ -204,6 +204,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Tom Brady riffs veiled Trump jokes with Biden at Bucs' White House visit"
+    excerpt: "During the Tampa Bay Buccaneers’ visit to the White House, the reigning Super Bowl MVP made a veiled dig at President Donald Trump over his claims of election fraud."
+    publishedDateTime: 2021-07-20T18:49:00Z
+    webUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit"
+    ampWebUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21201580647481.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden blasts GOP election reforms during a visit Trump calls a ‘joke’ because he’s just scared of PA audit"
     excerpt: "President Biden is traveling to Philadelphia to tout the “sacred” right to vote, but former President Donald Trump cheered an audit currently underway of Biden’s victory in the"
     publishedDateTime: 2021-07-13T17:21:00Z

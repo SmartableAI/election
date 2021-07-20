@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump inaugural committee head accused of being UAE agent"
+    excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions"
+    publishedDateTime: 2021-07-20T19:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-head-accused-uae-agent-78952653"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-head-accused-uae-agent-78952653"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-head-accused-uae-agent-78952653"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_57b2dffb6cde45fa98168a1bd3a1bcdb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump golf club charged Secret Service $10,000 for rooms in May, records show"
     excerpt: "Bedminster club charged agency for 18-day stay in May, according to newly released documents"
     publishedDateTime: 2021-07-08T14:39:00Z
@@ -60,6 +76,38 @@ related:
       - url: "https://i.guim.co.uk/img/media/66b7834205a7a2d86fe3ef30fcaba10cf26e7c7c/0_20_7450_4470/master/7450.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25303ce5e802736928491405391964d6"
         width: 600
         height: 360
+        isCached: true
+  - title: "Thomas Barrack, longtime Trump ally, indicted for lobbying activities for UAE"
+    excerpt: "Thomas Barrack, a close adviser to former President Trump and chair of his inaugural committee, was arrested Tuesday morning and charged with a violating federal lobbying law after allegedly failing to disclose his work on behalf of the United Arab Emirates,"
+    publishedDateTime: 2021-07-20T19:46:00Z
+    webUrl: "https://www.cbsnews.com/news/tom-barrack-indicted-former-trump-adviser/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/tom-barrack-indicted-former-trump-adviser/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tom-barrack-indicted-former-trump-adviser/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/20/4ee58064-a25f-4cac-b091-9f5e3337a736/thumbnail/1200x630/de0849544cf7c88ddb7663e440304770/gettyimages-1132734505.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
+    excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
+    publishedDateTime: 2021-07-20T19:17:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 118
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/20f11bb/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F11%2F825d53524b58a7c9ca2b7781e084%2Fla-photos-1staff-810473-me-0716-vaccine-leimert-park-007.IK.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump charged Secret Service nearly $10,200 in May for agents’ rooms"
     excerpt: "The bill came atop earlier charges during the former president’s stay at his Florida resort, before he moved north."

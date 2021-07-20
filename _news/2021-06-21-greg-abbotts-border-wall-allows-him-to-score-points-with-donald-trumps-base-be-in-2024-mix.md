@@ -73,6 +73,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Can Greg Abbott actually build Trump's border wall?"
+    excerpt: "Greg Abbott, a Trump supporter who has raised his rhetoric on immigration in recent years, has taken on the tall order of building a wall along the 1,200-mile Texas-Mexico border. RELATED: Abbott wants to build a border wall."
+    publishedDateTime: 2021-07-20T18:53:00Z
+    webUrl: "https://www.chron.com/news/houston-texas/article/texas-abbott-border-wall-trump-16327143.php"
+    ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-abbott-border-wall-trump-16327143.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-abbott-border-wall-trump-16327143.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "TribCast: Donald Trump and Greg Abbott visit the U.S-Mexico border"
     excerpt: "In this week's episode, Matthew speaks with Ross, Patrick and Reese about the politics surrounding Donald Trump's trip to Texas and the impact of the coronavirus pandemic on student learning."
     publishedDateTime: 2021-07-01T21:31:00Z

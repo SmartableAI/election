@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/levin-biden-administration-facebook
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
 type: article
 quality: 177
-heat: 457
+heat: 477
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 160
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Tom Brady riffs veiled Trump jokes with Biden at Bucs' White House visit"
+    excerpt: "During the Tampa Bay Buccaneers’ visit to the White House, the reigning Super Bowl MVP made a veiled dig at President Donald Trump over his claims of election fraud."
+    publishedDateTime: 2021-07-20T18:49:00Z
+    webUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit"
+    ampWebUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21201580647481.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

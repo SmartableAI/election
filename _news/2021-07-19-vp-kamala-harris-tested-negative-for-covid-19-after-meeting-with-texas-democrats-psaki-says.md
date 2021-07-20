@@ -62,6 +62,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Harris meets Jordan’s king, crown prince for working breakfast"
+    excerpt: "Kamala Harris welcomed King Abdullah II bin Al-Hussein and Crown Prince Hussein bin Abdullah of Jordan to her residence for a working breakfast."
+    publishedDateTime: 2021-07-20T18:51:00Z
+    webUrl: "https://nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/"
+    ampWebUrl: "https://nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/harris-jordan-king-prince-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris compares ‘courageous’ Texas Democrats to Frederick Douglass"
     excerpt: "Vice President Kamala Harris likened a group of Texas Democrats who flew to DC on a private jet to avoid voting on a Republican election reform bill to abolitionist Frederick Douglass."
     publishedDateTime: 2021-07-14T21:53:00Z

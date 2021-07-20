@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-trump-ally-tom-barrack-charged-with-acting-as-an-agent-of-a-foreign-government.md",
+      "title": "Trump ally Tom Barrack charged with acting as an agent of a foreign government",
+      "excerpt": "Tom Barrack, a former adviser to former President Donald Trump, was charged Tuesday with illegal foreign lobbying on behalf of the United Arab Emirates for what federal prosecutors described as an effort to influence the foreign policy positions of both the 2016 Trump presidential campaign and the subsequent",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2QZ0v4JIjeE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2QZ0v4JIjeE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/index.html",
+      "publishedDateTime": "2021-07-20T12:48:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-mccarthy-appoints-0-republicans-who-voted-to-impeach-trump-to-capitol-riot-committee.md",
       "title": "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee",
       "excerpt": "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot.",
@@ -1043,7 +1099,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 307,
+      "heat": 327,
       "tags": null,
       "images": [
         {
@@ -1284,49 +1340,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event.md",
-      "title": "Pence, Noem lament state of the union at Iowa Christian conservative event",
-      "excerpt": "The past seven months under a Democratic administration have made the America of the previous four years unrecognizable to the political speakers at a Christian conservative event",
-      "sourceUrl": null,
-      "webUrl": "https://nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.html",
-      "originalUrl": "https://nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/nonpareilonline.com/content/tncms/assets/v3/editorial/0/84/08444b2f-c303-5939-997e-5a1cd1316688/60f31ba1b3370.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.amp.html",
-      "cdnAmpWebUrl": "https://nonpareilonline-com.cdn.ampproject.org/c/s/nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.amp.html",
-      "publishedDateTime": "2021-07-17T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Nonpareil",
-        "domain": "nonpareilonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

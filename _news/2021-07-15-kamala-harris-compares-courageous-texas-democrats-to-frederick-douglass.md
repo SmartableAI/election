@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Harris meets Jordan’s king, crown prince for working breakfast"
+    excerpt: "Kamala Harris welcomed King Abdullah II bin Al-Hussein and Crown Prince Hussein bin Abdullah of Jordan to her residence for a working breakfast."
+    publishedDateTime: 2021-07-20T18:51:00Z
+    webUrl: "https://nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/"
+    ampWebUrl: "https://nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/harris-jordan-king-prince-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "COVID hypocrisy: Media silence on Kamala Harris’ meeting with infected Texas Dems"
     excerpt: "Three Texas lawmakers did flee the state, did come down with COVID, did meet with Vice President Kamala Harris, and she refuses to get tested. But because there are “Ds” next to their"
     publishedDateTime: 2021-07-18T20:59:00Z
