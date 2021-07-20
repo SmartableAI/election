@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_schumercharles_071421gn6_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Joe Biden touts infrastructure deal, seeks to ease inflation fears"
+    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
+    publishedDateTime: 2021-07-19T19:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "womCJc4P6B8wDvsRMynVv6Shgu5e86l8X2IdlgiGZx4+lI2XHGhQF1kG7Ig7SYlCp+gvC2QzUoX5qgoVYOFK8968gG/tiKVXVq3+D7eBrbawYJPvkZv/frp68nUmKpJkGsmpRXvynOIVIYYjCFsSaJBZTZRrzx5c+GOWTMs9GoxHh3eLlon9QZI8KTJkJskv3ap3/AMFsBbzDgXdQw1EXaeALI/ujCHM+bceBDISH1gcHkIiZ7JHCEhn2bsAXpaN6rmcIqVYZ4wCFwHnyod+nptU0d1ZhwKT+/1FcpbmmGEKmzufZIDFe/q67ZMK3EwrVU8t3b0UQz/u/Ne5uxftSmelDTXYJM7FGKhE+K6MD4+NNRN9Yt8DYqldVRnNi5vZ945YkbXntPrexdI9rJ5BYMdrzMH10XSL+gjW5xNybTX2SzC0IFx3cYJv9VFYrrgBPXxabNMqN8qzO12J0b10ajKg/BQLWlqXk3wyv6oGkR27uiKohnecNDWG0n1imU8N8bhdIHC/tbckxZS4tDKxmg==;rcKH5WeX4pwq86PplSNuEQ=="

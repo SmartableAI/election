@@ -127,6 +127,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden touts infrastructure deal, seeks to ease inflation fears"
+    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
+    publishedDateTime: 2021-07-19T19:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "y37aGrRvBKDeAkGhffpzxBvQNw94b3NMH9ur5bSTHpkpNT5qw+ynZ7ddlNmjdG3uTbUmycdY00AINBQf03knnTBCOgjCwOFXyghk83/AWUVbCZYK02FCp1/DJYw0Ro4EYEtTghvQoziyuTbGtmEJ7aXQJ07KMh++dcvxqzTv/vcHHRXAMkAd+alE8fXuoBC4o/45UvRHz/2YOOn3Xm3GiOslCtrBvu1j3nWDDqfBsH+GdmOO963C/Epx1UzBRugv2fXMcC21EclriyPtew+IHCtrZQZjNgn+l2ZMEZRJ677ahTv4CsTkrMEcQ2gvYojCykzLQqJPvXBKky9yQ5QYseTyY29Nnaa6Gjug3BdMOWM=;D3tl89DTzsUs9uxC2/cFJg=="
 ---

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden meets Merkel at White House: ‘Our nations understand the imperative of democracy’ – live"
-excerpt: "President thanks German chancellor for ‘strong, principled leadership’ – follow all the latest politics news"
-publishedDateTime: 2021-07-15T23:37:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0b1f48f08331a6b28860c"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0b1f48f08331a6b28860c"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+title: "Joe Biden touts infrastructure deal, seeks to ease inflation fears"
+excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
+publishedDateTime: 2021-07-19T19:10:00Z
+originalUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
 type: article
-quality: 113
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/0259455082635cfb374ca5eb6d782612ff0bfbd3/0_13_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0096c3b7acc3f0d73a979f1b6d79602"
-    width: 600
-    height: 360
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
+    width: 800
+    height: 534
     isCached: true
 
 related:
@@ -95,6 +91,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden meets Merkel at White House: ‘Our nations understand the imperative of democracy’ – live"
+    excerpt: "President thanks German chancellor for ‘strong, principled leadership’ – follow all the latest politics news"
+    publishedDateTime: 2021-07-15T23:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0b1f48f08331a6b28860c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/0259455082635cfb374ca5eb6d782612ff0bfbd3/0_13_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0096c3b7acc3f0d73a979f1b6d79602"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden meets Merkel at White House: ‘Our nations understand the imperative of democracy’ – as it happened"
     excerpt: "Biden says – follow all the latest politics news"
     publishedDateTime: 2021-07-16T00:11:00Z
@@ -127,23 +139,7 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden touts infrastructure deal, seeks to ease inflation fears"
-    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
-    publishedDateTime: 2021-07-19T19:10:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
-        width: 800
-        height: 534
-        isCached: true
 
-secured: "jTBHuhuEzPDWvLnnAGYtJDbE2v9dgDy7DbSyT4GdxjpdWLPDoMd3vH4nfEBgxFRoI+ZPsEoOMfx7rm2sIsR+Ue+3CYPS2X0OgGTAFwFjt4OsYDCyN4MkfpN070VCGOOZF4+qigWjSYbiSwQRYIqsK9Ri+eSXH3vSMVJQ+AeeJYHAMYJ144z9NsvKQ+w2iPGtyBXWYmeQBPmUSAgS9uCwyvHaqf5zgp9fCHIP06mzetzdBUe9AFCIbUTc0V3tKDp6NKiHf5kTaqE8ZWAEUYFYBdhnefSwMZcIZF7Zi2LrJRooEGyE/Ih8AiNIU1yTVBbGNCp7KS3Gnnn9NlZCDNwgbWY6K+u2TOHCMXrGbukQQ9wztEsFOhLqY0nylC7NvVOItfGxIQwVxgh3M08LHD20OeLGVukIYQvIhXuskdOOtVURdf5OFXA7oAX7Xw4oiJUk/3JlD+H7ufy7uF94CicaSS7quChhXn3ZK0nVYZHG7WpPMp6g2YYQ3x1BWL2yN6TDyFLh4L7WpBADMKlp17UoUA==;QsiW8X4Ud/Z5pZOiFkIzUQ=="
+secured: "0znb3ChDGGqrP7O5BfPGPFDJFTyOIX+XVKSwNjRsK6CGHTUE5nAVG4xAMsMxf9eC09+SjaPUhlw2Tk7jl40AYaI29xApA8q5Ei2XXWxIINotkzFCo0XX1KAkfVcGBINijQ0vADqLui9nYczAMEiO+UfEBInMUq7qL9g0Ds1c2PsSmuaC2lvHkfYonEI/mp2R/mVSrgCmTLzHu/4JGPtWL4J+46GtD5jnuT8eapSth+rt7n77w62cBxlz7fuXiJR+KuA8LHNfzELP2x9Yn6oFrZO3fUnLWs8iIgF1tw7+J515QkoYs+9FQXVNDSKKYOZyYU2e2vG21EbSlz1o06QcPCwc64usE9xh7S+IodGXPXs=;jYwB6QrtNXbBkkm+ZdtdFw=="
 ---
 
