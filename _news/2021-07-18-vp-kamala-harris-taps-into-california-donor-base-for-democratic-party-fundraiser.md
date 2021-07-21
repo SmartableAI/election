@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Essential Politics: Kamala Harris’ past comes back with a Supreme Court ruling"
+    excerpt: "Vice President Harris was hit by a blast from her past this month when the Supreme Court ruled against California in a case dating to when she was state attorney general."
+    publishedDateTime: 2021-07-21T13:46:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-07-21/kamala-harris-attorney-general-koch-brothers-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 101
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5aaad38/2147483647/strip/true/crop/4476x2350+0+340/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2Fe6%2Fe4de6a1e4860a0fe7e2280578e29%2Felementary-school-truancy.JPEG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
     excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
     publishedDateTime: 2021-07-17T12:00:00Z

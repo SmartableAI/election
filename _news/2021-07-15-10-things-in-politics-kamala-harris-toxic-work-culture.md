@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-kamala-harris-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 119
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/20/54cc6f02-a613-4c86-92e0-4dbdc17ff4d6/thumbnail/1200x630/aac21f6f4324fc5ef2e6ab8a79afc94c/gettyimages-1234012135.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Essential Politics: Kamala Harris’ past comes back with a Supreme Court ruling"
+    excerpt: "Vice President Harris was hit by a blast from her past this month when the Supreme Court ruled against California in a case dating to when she was state attorney general."
+    publishedDateTime: 2021-07-21T13:46:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-07-21/kamala-harris-attorney-general-koch-brothers-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 101
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5aaad38/2147483647/strip/true/crop/4476x2350+0+340/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2Fe6%2Fe4de6a1e4860a0fe7e2280578e29%2Felementary-school-truancy.JPEG"
         width: 1200
         height: 630
         isCached: true

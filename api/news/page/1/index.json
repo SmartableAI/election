@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-21-us-carries-out-first-airstrike-in-somalia-since-biden-took-office.md",
-      "title": "US carries out first airstrike in Somalia since Biden took office",
-      "excerpt": "The US military on Tuesday carried out an airstrike against terrorist militants in Somalia — the first such strike in the country since President Joe Biden took office in January.",
+      "path": "_news/2021-07-21-biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.md",
+      "title": "Biden marks 6 months in office on Instagram, gets shredded in comments",
+      "excerpt": "Within Biden's first six months, consumer prices rose 5.4% in June from the previous year, and gas prices are now averaging 98 cents higher than this time last year.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHtSxIOeFS4/us-airstrike-somalia-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHtSxIOeFS4/us-airstrike-somalia-biden",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 235,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50365776-1e0a-48b5-8b7c-2871dc3abbd0/e377cb70-da93-4996-bcf8-351906659466/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff65d410-0f23-4584-912e-960c5257a31c/99d3cbaa-c96e-4963-80ee-de2517a9d308/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/us-airstrike-somalia-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-airstrike-somalia-biden.amp",
-      "publishedDateTime": "2021-07-21T05:30:39-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "publishedDateTime": "2021-07-21T07:08:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -55,6 +55,49 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-visiting-walt-disney-world-soon-you-may-see-president-joe-bidens-twin-on-stage.md",
+      "title": "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage",
+      "excerpt": "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/state/florida/article252899763.html",
+      "originalUrl": "https://www.miamiherald.com/news/state/florida/article252899763.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/4150a494-c606-4f1f-a857-0ac16d3e3b23/main/1280x720/1m2s16ms/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/state/florida/article252899763.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article252899763.html",
+      "publishedDateTime": "2021-07-21T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1295,58 +1338,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-who-is-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner.md",
-      "title": "Who Is Abdul Latif Nasser? Joe Biden Releases First Guantánamo Bay Prisoner",
-      "excerpt": "On Monday, the Biden administration transferred its first detainee out of Guantánamo Bay, repatriating a Moroccan man who has been held in the notorious prison for nearly two decades on no charge. The release of Abdul Latif Nasser,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
-      "originalUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1703346/gitmo2002.jpg",
-          "width": 3000,
-          "height": 1968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
-      "publishedDateTime": "2021-07-19T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

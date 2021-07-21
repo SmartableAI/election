@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
 type: article
 quality: 209
-heat: 469
+heat: 489
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "5 things to watch during CNN's town hall with Joe Biden"
+    excerpt: "President Joe Biden is set to face key questions on how his administration will handle some of the most pressing issues facing the country when he takes part in a CNN town hall Wednesday night.\n    \n"
+    publishedDateTime: 2021-07-21T15:01:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tG7N_vIX9zU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/what-to-watch-biden-town-hall-ohio/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/what-to-watch-biden-town-hall-ohio/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720164758-02-biden-cabinet-meeting-0720-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 things to watch during CNN's town hall with Joe Biden"
+    excerpt: "President Joe Biden is set to face key questions on how his administration will handle some of the most pressing issues facing the country when he takes part in a CNN town hall Wednesday night.\n    \n"
+    publishedDateTime: 2021-07-21T15:01:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tG7N_vIX9zU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/what-to-watch-biden-town-hall-ohio/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/what-to-watch-biden-town-hall-ohio/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720164758-02-biden-cabinet-meeting-0720-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to head to Capitol Hill as pressure ramps up on infrastructure talks"
     excerpt: "President Joe Biden will travel to Capitol Hill on Wednesday to meet with Senate Democrats during their luncheon and will continue to make the case for both the bipartisan infrastructure proposal and a more sweeping package that can be pursued through reconciliation.\n    \n"
     publishedDateTime: 2021-07-14T13:19:26Z

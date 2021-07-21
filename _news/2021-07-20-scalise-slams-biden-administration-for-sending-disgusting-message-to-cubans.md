@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin walks back ties to group pushing critical race theory in schools"
+    excerpt: "The Biden administration blamed an \"error\" Wednesday after promoting a radical activist group’s handbook that pushes critical race theory in schools and calls on educators to \"disrupt Whiteness.\" "
+    publishedDateTime: 2021-07-21T15:44:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/saOuKzvrKYg/biden-admin-walks-back-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-walks-back-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-walks-back-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7a3d062-7ad6-4d20-8e3e-7cf6c2388254/39e3c841-d544-44db-967a-40f1e081cd03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden taps new drug czar as illicit substances continue to pour across the border"
     excerpt: "President Biden nominated former West Virginia health official, Rahul Gupta, as the nation’s new head of U.S. drug policy as overdoses and drug trafficking surge."
     publishedDateTime: 2021-07-13T22:38:39Z
@@ -238,6 +254,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7036c65d-5b29-40c2-a67b-439d0399fb6e/4ab15bfe-320e-47e0-9ff2-b52ad15f1220/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "24 House Republicans urge Biden to reject Dems' amnesty push in $3.5 trillion budget bill"
+    excerpt: "Two dozen House Republicans on Wednesday wrote to President Biden urging him to reject a move by Democratic lawmakers to include amnesty for some illegal immigrants in their budget reconciliation proposal, warning that Biden’s support would betray his prior promises to promote unity."
+    publishedDateTime: 2021-07-21T15:00:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BsdQsBAKcQ4/house-republicans-biden-reject-dems-amnesty-push-budget"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29156a39-02e8-4f82-ad2b-552d175586c1/0902530a-fee5-4085-bbbf-cadbf8557dfa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Eric Adams to visit Joe Biden, the White House"
     excerpt: "Democratic mayoral nominee Eric Adams is headed to the White House Monday to discuss ways to combat gun violence with President Biden."

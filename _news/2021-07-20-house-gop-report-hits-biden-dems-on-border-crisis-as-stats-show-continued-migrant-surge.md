@@ -29,53 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell condemns Biden fury over GOP voting reform as 'utter nonsense'"
-    excerpt: "Senate Minority Leader Mitch McConnell on Wednesday condemned a fiery speech by President Biden as “utter nonsense” for alleging GOP voting reform laws were comparable to the Civil War."
-    publishedDateTime: 2021-07-15T01:36:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UlAfIHWo4o/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp"
+  - title: "Biden marks 6 months in office on Instagram, gets shredded in comments"
+    excerpt: "Within Biden's first six months, consumer prices rose 5.4% in June from the previous year, and gas prices are now averaging 98 cents higher than this time last year."
+    publishedDateTime: 2021-07-21T14:08:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f38ee14-d816-4591-864f-dac261609a32/60b2a75e-81f7-4c1a-956c-dc27519da183/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff65d410-0f23-4584-912e-960c5257a31c/99d3cbaa-c96e-4963-80ee-de2517a9d308/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "McConnell doesn't want to stop 'everything' Biden proposes, just the 'worst'"
-    excerpt: "Senate Minority Leader Mitch McConnell said Thursday the goal of Senate Republicans is not to stop \"everything\" President Biden proposes – just the \"worst.\""
-    publishedDateTime: 2021-07-08T20:02:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OBQSw4Jidg/mcconnell-biden-worst-proposals"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-worst-proposals.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-worst-proposals.amp"
+  - title: "US carries out first airstrike in Somalia since Biden took office"
+    excerpt: "The US military on Tuesday carried out an airstrike against terrorist militants in Somalia — the first such strike in the country since President Joe Biden took office in January."
+    publishedDateTime: 2021-07-21T12:30:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHtSxIOeFS4/us-airstrike-somalia-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/us-airstrike-somalia-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-airstrike-somalia-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden calls on GOP to protect voting rights 'for God's sake' in fiery address"
-    excerpt: "In a fiery address Tuesday, President Biden called on Republican lawmakers to protect voting rights and counter laws that place restrictions on the ballot."
-    publishedDateTime: 2021-07-13T20:58:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2anQW0pSpME/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-gop-to-protect-voting-rights-for-gods-sake-in-fiery-address.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50365776-1e0a-48b5-8b7c-2871dc3abbd0/e377cb70-da93-4996-bcf8-351906659466/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Joe Biden: 6 Months On, Reality Eclipses Early Euphoria"
+    excerpt: "The president reset the tone from the Trump era and passed a huge Covid relief bill but other priorities have hit formidable political obstacles Joe Biden holds a press conference with the German chancellor,"
+    publishedDateTime: 2021-07-18T18:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/18/joe_biden_6_months_on_reality_eclipses_early_euphoria_547451.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548384_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "All1aPYPQy8thyEXQjoqq5mWE3ucr7yehmwkrBHBQLYakaoCfT3dyKyDJGoamPV8UKsmlHNnar5Co3DKFf2U5Lvv8zpOKG5rJ3pKTp918N9RzeTwYC3/m6i/G7Rz2Y99eJHVqiA8HFmtRLQ4G00CxYjCKR/8DjjovszfT7W+nVAWoeb+2cD3qRIT0Zg/hw8S9GNyaprN/0yLM4hLyJmd0ZH7dePGteLB6AIZyCRi10GQr4w4fxFP+YmxI835VC7JMQHc7xwLpBSKn35cAWra+GIfsM+zn7XnVhMwc060J6owSEjCkMPCOL9s7VgVLWPu8H3avcOzQ+CTEogXNtMroSZc4i3R9e4FEJ0EkoLh+H0=;ra3D1EHrFyYO3r7Lc4Ytzw=="

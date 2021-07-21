@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-21-us-carries-out-first-airstrike-in-somalia-since-biden-took-office.md",
-      "title": "US carries out first airstrike in Somalia since Biden took office",
-      "excerpt": "The US military on Tuesday carried out an airstrike against terrorist militants in Somalia — the first such strike in the country since President Joe Biden took office in January.",
+      "path": "_news/2021-07-21-biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.md",
+      "title": "Biden marks 6 months in office on Instagram, gets shredded in comments",
+      "excerpt": "Within Biden's first six months, consumer prices rose 5.4% in June from the previous year, and gas prices are now averaging 98 cents higher than this time last year.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHtSxIOeFS4/us-airstrike-somalia-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHtSxIOeFS4/us-airstrike-somalia-biden",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 235,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50365776-1e0a-48b5-8b7c-2871dc3abbd0/e377cb70-da93-4996-bcf8-351906659466/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff65d410-0f23-4584-912e-960c5257a31c/99d3cbaa-c96e-4963-80ee-de2517a9d308/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/us-airstrike-somalia-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-airstrike-somalia-biden.amp",
-      "publishedDateTime": "2021-07-21T05:30:39-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "publishedDateTime": "2021-07-21T07:08:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -896,7 +896,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1065,7 +1065,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 575,
+      "heat": 615,
       "tags": null,
       "images": [
         {
@@ -1596,7 +1596,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 234,
+      "heat": 214,
       "tags": null,
       "images": [
         {
