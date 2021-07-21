@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 1395
+heat: 1415
 published: true
 
 provider:
@@ -677,6 +677,20 @@ related:
     quality: 85
     images:
       - url: "https://i.insider.com/60f1fd2571757b0018c6a314?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump aides are getting booted from the federal payroll today. But taxpayers are still paying the ex-president."
+    excerpt: "Six months after the Trump administration ended, the government is officially cutting off funds to the ex-president's post-White House transition team."
+    publishedDateTime: 2021-07-21T08:00:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-still-getting-paid-taxpayers-stephen-miller-transition-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/60f739560729770012b8f2e1?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jan. 6 select panel Dems cast a wide net for Trump"
+    excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
+    publishedDateTime: 2021-07-21T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b6/db/e98a4d9d458ea68a85dce60360aa/7-20-21-jamieraskin-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Thomas Barrack, Trump Fund-raiser, Indicted on Lobbying Charge"
     excerpt: "Mr. Barrack, who served as chairman of Donald Trump’s inaugural committee, was accused in the Eastern District of New York of failing to register as a lobbyist for the United Arab Emirates."
     publishedDateTime: 2021-07-20T19:04:00Z

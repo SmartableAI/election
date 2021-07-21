@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's crisis presidency will only get harder as it passes the six-month mark"
+    excerpt: "President Joe Biden said Tuesday the nation's vaccine push feels like a \"constant uphill climb.\" He could have said the same of his entire crisis-tossed presidency as it grinds past the six-month mark.\n    \n"
+    publishedDateTime: 2021-07-21T04:00:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YydVduiMU-U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-six-month-crisis-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-six-month-crisis-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720202050-biden-cabinet-meeting-0720-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration says states can restart pandemic unemployment benefits as lawsuits mount"
     excerpt: "States that have terminated pandemic unemployment benefits early can restart the programs, but there may be a break in payments for some laid-off Americans, the Biden administration said Monday.\n    \n"
     publishedDateTime: 2021-07-13T01:21:58Z

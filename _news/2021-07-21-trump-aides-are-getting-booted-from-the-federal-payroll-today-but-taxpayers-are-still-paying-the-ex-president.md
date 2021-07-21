@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Aides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book"
-excerpt: "Aides to former President Trump intentionally gave his then-personal attorney Rudy Giuliani the wrong time for a presidential debate preparation event last year, according to a new book"
-publishedDateTime: 2021-07-20T02:25:00Z
-originalUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
-webUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
-ampWebUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+title: "Trump aides are getting booted from the federal payroll today. But taxpayers are still paying the ex-president."
+excerpt: "Six months after the Trump administration ended, the government is officially cutting off funds to the ex-president's post-White House transition team."
+publishedDateTime: 2021-07-21T08:00:00Z
+originalUrl: "https://www.businessinsider.com/donald-trump-still-getting-paid-taxpayers-stephen-miller-transition-2021-7"
+webUrl: "https://www.businessinsider.com/donald-trump-still-getting-paid-taxpayers-stephen-miller-transition-2021-7"
 type: article
-quality: 114
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/giulianirudy_111920gn6_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://i.insider.com/60f739560729770012b8f2e1?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -379,6 +377,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Aides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book"
+    excerpt: "Aides to former President Trump intentionally gave his then-personal attorney Rudy Giuliani the wrong time for a presidential debate preparation event last year, according to a new book"
+    publishedDateTime: 2021-07-20T02:25:00Z
+    webUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
+    ampWebUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/giulianirudy_111920gn6_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump aides told him over a McDonald's meal to stop bitching about losing in Iowa to Ted Cruz in 2016"
     excerpt: "Corey Lewandowski, Trump's 2016 campaign manager, said Trump was told to stop complaining about losing Iowa or his presidential bid would be over."
     publishedDateTime: 2021-07-20T14:34:00Z
@@ -680,20 +694,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump aides are getting booted from the federal payroll today. But taxpayers are still paying the ex-president."
-    excerpt: "Six months after the Trump administration ended, the government is officially cutting off funds to the ex-president's post-White House transition team."
-    publishedDateTime: 2021-07-21T08:00:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-still-getting-paid-taxpayers-stephen-miller-transition-2021-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/60f739560729770012b8f2e1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Eric Trump ‘Flipped Out,’ Yelled At Campaign Staffers After Shock Election Results"
     excerpt: "The former US president’s son, Eric Trump, reportedly got angry at campaign aides after electoral votes showed that now-President Joe Biden had won the 2020 election."
     publishedDateTime: 2021-07-14T03:45:00Z
@@ -983,6 +983,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UnWvQ1f54agFH+s6Lh4n67T/r0Unwb3Y8EHGzcOGqLYlHklf3d49u0lwHXvdxYZC8ZjbWqXSh4z8rmIVqCfqqQOKGLbO598Ac0nMFwU4mI6k4LwNBvVH7BLRr1VXLL0cvcEE3DZV0wKAvCnDwxnInFL5c6PPGyelUw0ra1BO68YVnK4zkmxl1/lU9WrNF7KssaM04rHhahKizs/jZ6sNv9XJSG+EJAq5We2tImEqODpyOrM6eGMSdNMSTQ8LjhujHs/c4kVRXRdAf9drboL+xd3n5WwobdarPEb/M2vhGd4Mv+OWLqacnH59O2TLEeyO6kdQydfsMtSr3kpVV4gCYDSik4xun96STR8HZDiFdsk=;iH8x0yGKHeRn8ufHcCXDTA=="
+secured: "hf6jltD6n5unk/81uS/doiCwJTGrqxwKhj/IZqVYNiMQFvkjWofJrMlFQqEEEBfI7phm1mL0nldsGtVrZ6eKEee5Js2lx5EdItmRG5HLv9ku+wbGSAeoxSvhmhta+Ji6aAJENueUcE2cvq5NrWyiX+TkrOLNfXzI655CggoEn3cOs5cnWaRZGvb6x14KN4pdg/0TOSF6ZDtPWDSYAnOnuQUQuWiP8xXuKAdP6+KKl38hThcl/DnwX6ol5y9xRbnxrT/2o1H+KdGJKI4vYteulhNhcp+Dq3W3IGZIhAWSz4kr/aeBHhs/iajt04JP5886q+3AQ12SVMSy7yPer7J27cga+HJ/zGj/fzVIuDBLmNw=;twUIApa4c/s0BkgMpALQHg=="
 ---
 

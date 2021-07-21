@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-republicans-jan-6-select
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp"
 type: article
 quality: 173
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent"
+    excerpt: "An indictment alleges that the real-estate investor acted at the direction of senior Emirati officials to influence former President Donald Trump’s policy positions and to influence public opinion in favor of U."
+    publishedDateTime: 2021-07-20T23:02:00Z
+    webUrl: "https://www.wsj.com/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-372314/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "ueP1VAN2rEfAgqY6x3YrDF9m0etOwxI1i/X3waZBn80Hk17sUSjV5KO66WUat868mC6xoK7PtxEQDLyZ+RaQQ6WRx2x0MVNvQ38naKWgYq4Jzlvh7jY1wGGI9h5TsS5xQ7iDNp+dgnYBZlVErfuBWesqADe6Vh7EOe6qR0TMUkWChkxaki4eVcGn5aY0F1SnrgaXhyNjno9VXCGOVTcoOGNA/yLfy1iKIzmSmklvMUznGkdvxI8piiviI3U5PpwT5k4mGYmqXCzLY9cfdWgCVlo05bU18/IxPrHdQQMQ27IKf6dgNF/e+sk+VWX0U4mLC7m4qio6I30BFPJbKinw+bj3bKmoWMICdIe/YWwBCGo=;Fe6gJvhuoSW2LjPaYjl9MA=="
 ---

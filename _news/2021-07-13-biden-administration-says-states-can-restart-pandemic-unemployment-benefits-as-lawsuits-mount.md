@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's crisis presidency will only get harder as it passes the six-month mark"
+    excerpt: "President Joe Biden said Tuesday the nation's vaccine push feels like a \"constant uphill climb.\" He could have said the same of his entire crisis-tossed presidency as it grinds past the six-month mark.\n    \n"
+    publishedDateTime: 2021-07-21T04:00:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YydVduiMU-U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-six-month-crisis-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-six-month-crisis-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720202050-biden-cabinet-meeting-0720-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to tout 'historic' effort to end child poverty in remarks on expanded child tax credit "
     excerpt: "President Joe Biden will deliver remarks Thursday touting the expanded child tax credit, a provision of his administration's Covid-19 relief package aimed at reducing child poverty.\n    \n"
     publishedDateTime: 2021-07-15T11:26:23Z

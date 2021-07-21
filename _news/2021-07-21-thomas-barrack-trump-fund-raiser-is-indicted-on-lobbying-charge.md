@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jan. 6 select panel Dems cast a wide net for Trump"
+    excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
+    publishedDateTime: 2021-07-21T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b6/db/e98a4d9d458ea68a85dce60360aa/7-20-21-jamieraskin-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Thomas Barrack, Trump Fund-raiser, Indicted on Lobbying Charge"
     excerpt: "Mr. Barrack, who served as chairman of Donald Trump’s inaugural committee, was accused in the Eastern District of New York of failing to register as a lobbyist for the United Arab Emirates."
     publishedDateTime: 2021-07-20T19:04:00Z
@@ -145,6 +161,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "SfYG1VLO45pubJTt/RpTp+htLs8OwGk3wquyxRsbLdylsueDW6EG1fl7A6mR4gCxy1tcS11/uvcKNbI1uKn2FtyCXKoDdUoJ36L8ejuBM2NrlSNQj4LoGr7S10a4bts7Y7Se971nyK70ZIIvQhxGw+6SH1l6FNFp8H3FUw9rHFW6i5rFM88UvONedKg/rh7cXMBK8qqUcOBTJ4tbYWDxR1uAe/pz9b8nNokBZvJgWw1d9BD8f3idfz5gKTKANnT+8U9NfNORD/QONYlPLinR9l0bxJ5ft17PKN6S5UuMIquX1HIRMEUoZF9tDNieUesjHV0tI+V3r0tJ7zohVGiteuYKKxfy+0KPJ3k6LTpziR0=;cBLlGvU6/4GdyMbsNurKxQ=="
+secured: "fIoZd0dG5NJ9tIvvcGuCykeZEklWlAqxgr0CNgo98AuBXeW1dYAHgifteJtpuFXztdFXPRgazBkOG7ROKpfYogtkTR/7d9gH9ZN9Brjet3CugrpsMIEwsF3UR+GYzSo1SKQGl/mIjb1olq/aVA3h4P7ewffzjhWI4gAbTXVtz2AKAmzg5duPAEGh+Ece2XgS6271pYmrZbo3JFYEruxZDCqdKyf6SvHAWCk6JOe6vAM/IvdwZE24OeC9XMTljCchkUzit7PqbES5nEIfkTx9FJE46lTJ5nxS0lZOvDjugBgX6g/N55OvvbHfLQLloWWvPavlj1AuVE1zwniGss5wvtPi8SlJaRIqW8OCwf2DOg55Z/3BR4+UU+mA23h4aoQwfP/aEU5zFVVrP3Rygy/kYl/sjfVZhIdxrjWnnOlwqExMR72z4JCUa2dOYQBD0oh3LuSHOflIpNtKBRULBoRF/JXSGcn60yzMUQsMQffEv4vCUNDr9+g1LBcp9T68K3CXTK6pTH8j39CG9IMRzw9OXA==;ssyFd63nHgmCrZoVoXugzg=="
 ---
 

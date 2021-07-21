@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jill Biden heads to Tokyo amid growing concern about Covid and the Olympics"
+    excerpt: "Jill Biden departs Wednesday morning for a five-day international trip to Tokyo, Japan, her first solo trip abroad as first lady of the United States.\n    \n"
+    publishedDateTime: 2021-07-21T09:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b-WbzHuk5g4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/jill-biden-tokyo-olympics-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/jill-biden-tokyo-olympics-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708134201-jill-biden-0629-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "VbFZGyfNW5d6GjMYUS/jhuRqWC+PBoszpwT8H6k6Qi+Zrg/EIttJQg1AP97c6D15YbV2FuMKtFM/8Sda5MuNYzsWMzxmWAA39DGE0QrWJc67nexZRpVNSpwoSX5bZsAoAr8fTdBeTfGVHXMmgbRIhq8VTj4wD4SsLQ284CqOOIcWos4jSTyP02Urvwu65CEbgX4xLOLNjI6YG9xjjstNb90N6tJ/zighC5Yu+VUK0ekUvo4BEAumywWjZ7wxFqUXr3B4zf1nZUor5uIZdUkDiKFDKCzFkhTcMd0QOhRLeuULX5r8RJ6X85EeTCfwHKpGiGQzH1tuKJfcDJgbJT/7qmZ00TpyIfNAL9Liux77Z+s=;2tkYpbbhKYJecBfr8z001w=="
 ---

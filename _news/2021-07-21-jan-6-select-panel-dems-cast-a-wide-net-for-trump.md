@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Two men charged in alleged scheme to attack Democratic headquarters in Sacramento inspired by Trump defeat, DOJ says"
-excerpt: "Federal authorities have arrested two men in California who allegedly wanted to start a movement to overthrow the government and discussed blowing up the Democratic headquarters in Sacramento because of the 2020 election, according to a Justice Department press release.\n    \n"
-publishedDateTime: 2021-07-16T17:02:22Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A-7nc3OKua8/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A-7nc3OKua8/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
+title: "Jan. 6 select panel Dems cast a wide net for Trump"
+excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
+publishedDateTime: 2021-07-21T08:30:00Z
+originalUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+webUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+ampWebUrl: "https://www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
 type: article
-quality: 152
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716105211-doj-complaint-ieds-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/b6/db/e98a4d9d458ea68a85dce60360aa/7-20-21-jamieraskin-ap-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -79,21 +80,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Jan. 6 select panel Dems cast a wide net for Trump"
-    excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
-    publishedDateTime: 2021-07-21T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+  - title: "Two men charged in alleged scheme to attack Democratic headquarters in Sacramento inspired by Trump defeat, DOJ says"
+    excerpt: "Federal authorities have arrested two men in California who allegedly wanted to start a movement to overthrow the government and discussed blowing up the Democratic headquarters in Sacramento because of the 2020 election, according to a Justice Department press release.\n    \n"
+    publishedDateTime: 2021-07-16T17:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A-7nc3OKua8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 152
     images:
-      - url: "https://static.politico.com/b6/db/e98a4d9d458ea68a85dce60360aa/7-20-21-jamieraskin-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716105211-doj-complaint-ieds-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Thomas Barrack, Trump Fund-raiser, Indicted on Lobbying Charge"
     excerpt: "Mr. Barrack, who served as chairman of Donald Trump’s inaugural committee, was accused in the Eastern District of New York of failing to register as a lobbyist for the United Arab Emirates."
@@ -160,6 +161,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "E5mTPUUhaDhIEoHwwjWGVv73BRLQYgDXWJJoZUhpTJJajh4F7f40kptTXih+ZB3qm1PPlWJvogoZ5wNyrhP20gDfWT1KiM+q260yx3RZX7tjx3zwjwI89D7Eu2uzvtTiNTpSCzr2x2YrqKa/cvibYA03uQF/HyY7kRLsSwECltdeIwO1+NiDmuQQtGDgIlHkH3hBtyZwuAxdif7H6iskgqdUIHxccfxh4jkzBGeNYzdJZSwQzpcmMyLJ7LgozxOuxgZhsfHhGbftiPYJeFGqNYAmCJ6SLopJZQHsOc88JFfq+OJFOAEfN1OnNu1Nc66P4uutHTViOSR4Vr7qIQ2N1hueHruzR35BrqTQvY4XAcg=;AWCtm8uQCX55O9mHjglBag=="
+secured: "C22skyqblDnUbz1h1hSEoZJHIJoSH5iDxgYagU2uMBqWxL4dW2lUXIzn/0WON7en6iNyrKPdKQuhFseA+aRZTzvsE5/clnZYSEw29OYLjjo42n4r9vADVEeIyCGAEcfkYSj5SRrGWUAzDR84Lm1yD0nvzSTM1LENI1/7/pDWq0oXjFnt2pPE4ilfsvrfqlDkg7tczsOJLRMXN2x7/RKYuTnKFeK+6cgInVAmtQVlx50uaERNhYbc/x+3uDpav1wDbArD5GLCm3wKygaPrn4qgNIV51VCIuuwj1umakbyElrpl9ZWglV3xrQblVcd9YFjSezd80Ha0/VEc3M3UkW6tP313QAFbyMQv3tVq8I5r6c=;BKXgIenFDpE47PG6/pAZ+g=="
 ---
 

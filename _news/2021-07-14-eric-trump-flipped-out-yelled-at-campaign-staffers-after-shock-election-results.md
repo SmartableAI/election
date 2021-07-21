@@ -696,6 +696,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump aides are getting booted from the federal payroll today. But taxpayers are still paying the ex-president."
+    excerpt: "Six months after the Trump administration ended, the government is officially cutting off funds to the ex-president's post-White House transition team."
+    publishedDateTime: 2021-07-21T08:00:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-still-getting-paid-taxpayers-stephen-miller-transition-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/60f739560729770012b8f2e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Melania Trump Rejected Election Night Party At The White House 4 Times, Book Claims"
     excerpt: "Melania Trump did not want the election night party to happen at the White House due to the pandemic, according to a new book."
     publishedDateTime: 2021-07-16T04:27:00Z
