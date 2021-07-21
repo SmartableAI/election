@@ -2,9 +2,9 @@
 category: news
 title: "Why Can't Biden Stop This Invasion?"
 excerpt: "Article IV of the Constitution addresses the obligations of the federal government to the state governments that were being asked to surrender aspects of"
-publishedDateTime: 2021-07-20T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.html"
+publishedDateTime: 2021-07-20T10:38:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.amp.html"
 type: article
@@ -342,6 +342,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Go4dc210+WfAqOrpmfhRb5ysAI2o8Fq+XffBTZrppsQZdF7/aXAHJ4LyEUkAfuDUY/7c3JEFKHuVc6lEqbofWlKXeg5Aae3hOXHe6eenpYGtj6oiEgPd20kpDvDrEDmbWk2tbNYQI9zRRrv9QvU0rY8DyyaDxng5Z5k9/nyZBOxHeCH5QOPhTs0JNhBrlhBFvl1tm+g+E/JTOTVBnwrBdIrWX2qpxMJ5UDdruL1iGNwMNVNYMTxqa8e2dscPOJKSPHFNBlq24PLEFt+SqXlehUk59CpYuSN5QINhOpvcYchB7dL6ycpQTzB9x7qW14gr1wJJiQ308QUxRUX2Wg0SkwLmOSwSqzohbwHlPaXdZi+jEOaa0aNBzu+OeMDz2dT7zXdEU8h67Cnj6zQTsC8MwigLlDM0gLvldljU+IfCohqUyVWfm4YsOxjHHoZZUz1Z6dRyLb36vyCeFBNigwo6hrdh4/5+HfTQbh/F7kx8cYPk6EkLVOXpeo0bqiQOARTEIZ0BzpJoOCCIgWkv0yMlXw==;3Lhg6HdgfCFEDhX1U46HsA=="
+secured: "u6i/PWiYDQdlYSMF+mjSsn9Ekh8S7yD0wcVdLBS5LbCM/JlQhNLu+KjIF1lyZ2j9VLILtLHf8jIypi8jDyXq0aLIp4JFU2ajdkZq2bUZ+KYmVKqREcWSgLlZoUNJcI5lQJ6OSL0uAC+xVHiS78JsyITuSJKn5wj4ilII/GkuYJN03k1CwAUt2T/0odWZ4X4r9Fqo9bl3wh/NSzh2L4Sv/brJpev0Yrvt0py8nB4cuI4h+Z0NwXSb6BPknDUlnT55A9tP2cFk010/j5L3cJIBlq4eJt6N6/MDnEm1QzVN5TYkIhL/GCkn4l7gcScdZVPAjrboU1HZy9W0st8gNlmSCNNduwtOV9NXq0hDNH5IOvU=;UbZNZVGNJR+iiDqsSl7/3Q=="
 ---
 

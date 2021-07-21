@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Thomas Barrack, Trump Fund-raiser, Indicted on Lobbying Charge"
-excerpt: "Mr. Barrack, who served as chairman of Donald Trump’s inaugural committee, was accused in the Eastern District of New York of failing to register as a lobbyist for the United Arab Emirates."
-publishedDateTime: 2021-07-20T19:04:00Z
-originalUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.html"
-webUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.amp.html"
+title: "California businessman indicted on lobbying charges has counted Trump among his 'closest friends'"
+excerpt: "The illegal foreign lobbying charges brought against Tom Barrack on Tuesday punctuate a winding business and political career defined by his unique staying power in former President Donald Trump's constantly shifting orbit of advisers.\n    \n"
+publishedDateTime: 2021-07-21T02:34:46Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WksEL34U5A/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WksEL34U5A/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
 type: article
-quality: 135
+quality: 162
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20dc-indict/20dc-indict-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720205639-tom-barrack-2018-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -64,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "California businessman indicted on lobbying charges has counted Trump among his 'closest friends'"
-    excerpt: "The illegal foreign lobbying charges brought against Tom Barrack on Tuesday punctuate a winding business and political career defined by his unique staying power in former President Donald Trump's constantly shifting orbit of advisers.\n    \n"
-    publishedDateTime: 2021-07-21T02:34:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WksEL34U5A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720205639-tom-barrack-2018-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Two men charged in alleged scheme to attack Democratic headquarters in Sacramento inspired by Trump defeat, DOJ says"
     excerpt: "Federal authorities have arrested two men in California who allegedly wanted to start a movement to overthrow the government and discussed blowing up the Democratic headquarters in Sacramento because of the 2020 election, according to a Justice Department press release.\n    \n"
     publishedDateTime: 2021-07-16T17:02:22Z
@@ -95,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716105211-doj-complaint-ieds-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Thomas Barrack, Trump Fund-raiser, Indicted on Lobbying Charge"
+    excerpt: "Mr. Barrack, who served as chairman of Donald Trump’s inaugural committee, was accused in the Eastern District of New York of failing to register as a lobbyist for the United Arab Emirates."
+    publishedDateTime: 2021-07-20T19:04:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20dc-indict/20dc-indict-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Thomas Barrack, Trump's inaugural committee chair, arrested on federal charges"
     excerpt: "The charges are not connected to the former president's 2017 inaugural fund, according to law enforcement officials."
@@ -113,6 +112,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "LQJToZOYAe7SC7w0FwiROKAeQV9S1GY4/L8mGzBKNkRgm386/cRB9GampoUj/pdKzzyzIJiKMbOqlX3FJ5XXWzA5XliNuf+2gkLegEX1/0UieArI6VEZx6Ucz8uAe+nb1z/HusM/NLgA8Gh/srMUP4qAuLKG5sFAejdpyHtoWt9pBsfRPZ1W3CaPQSk4MimT38XuflagoFAhoC4sCnZghbJO1pb2CAAB6a5Yn6GIUtG8wX4UVS4est9XTPMxh9Evw9MiZ2O2S3/E3wo4r4/6woz3Y8xGKrHZo3NykyvBXkx2wMDDKQpVvs5BdNX79KQAReyBB7WJxd/80KCOhv3JHrCWUBP/Lb1XO6/INMDOZhAGIEcjDS5dABvJooWsQRmoQzikwOAUqMchCjZzZdH1PtsIDk7uoBf3Yf33Hj/a3ID0UGtinhLyeETf8+VaSrlOHvF6b4rEp3VJZ+1J+ZzFAa9SSUe124ROiQehaZwKrrh2pFPzMcbbtnH4ty0DRSUWVHe/PqfzsnsmNU9i+DPnTw==;iu1kEb5Dl00ZJgJMeS+kYA=="
+secured: "mOtIQ7afKC/F3Ci81M9ZV3FbB7bdEJriQ1TQV3h1IoggcY2j1N4oGtmNyEauh+BnqISA8A7K3ktiEdDid663gRd3QRQAa6At3gckF4SVBv6WuQPzBzSrazBs7v7ceZr5zDpZkPLD5W4OKhdvwGTRTZ6V33RBFHHuOC/UsNNGD5IgzTkSNos3oShN/RBoNG1Myd3tBNCHQ4PkwFws7BIjYiHOAGWlo1v3zdul5prR58blLzK1HKrVrEFK9iKvje7wrZ6kNOOQnUxrAONV8JCxr/L9opKYfRkNIXYwszMP+hIqJSvg5bR49gKpHNwXMcpO7ENvLo6UwyYJI1zFd4GspiEZU/1AZ3MWjBcFYI4GtOA=;nwdIRrQttL9XMpclpMxyEA=="
 ---
 

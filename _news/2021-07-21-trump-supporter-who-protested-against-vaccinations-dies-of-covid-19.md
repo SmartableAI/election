@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Under Trump, Republicans touted the coronavirus vaccines. Now, under Biden, they’re questioning them."
-excerpt: "As President Biden urges Americans to get vaccinated, Republicans who previously touted the vaccines have started questioning their efficacy."
-publishedDateTime: 2021-07-14T19:41:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/"
-webUrl: "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/"
+title: "Trump Supporter Who Protested Against Vaccinations Dies of COVID-19"
+excerpt: "Last week, she protested her state's VaxBus program, a mobile vaccination unit to help inoculate rural residents against COVID-19."
+publishedDateTime: 2021-07-21T02:46:00Z
+originalUrl: "https://www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673"
+webUrl: "https://www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673"
+ampWebUrl: "https://www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673?amp=1"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2021/t_a3c3cde991714404b31a8233fe5f855f_name_20210713_GOP_VACCINE_V3.png&w=1440"
-    width: 1440
-    height: 810
+  - url: "https://d.newsweek.com/en/full/1850829/linda-zuern-trump-anti-vaxxer-anti-vaccination-dies-covid-19.jpg"
+    width: 3500
+    height: 2333
     isCached: true
 
 related:
@@ -253,22 +255,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump Supporter Who Protested Against Vaccinations Dies of COVID-19"
-    excerpt: "Last week, she protested her state's VaxBus program, a mobile vaccination unit to help inoculate rural residents against COVID-19."
-    publishedDateTime: 2021-07-21T02:46:00Z
-    webUrl: "https://www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673"
-    ampWebUrl: "https://www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1850829/linda-zuern-trump-anti-vaxxer-anti-vaccination-dies-covid-19.jpg"
-        width: 3500
-        height: 2333
-        isCached: true
   - title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
     excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"
     publishedDateTime: 2021-07-19T13:20:00Z
@@ -475,6 +461,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11310122_1626363544.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Under Trump, Republicans touted the coronavirus vaccines. Now, under Biden, they’re questioning them."
+    excerpt: "As President Biden urges Americans to get vaccinated, Republicans who previously touted the vaccines have started questioning their efficacy."
+    publishedDateTime: 2021-07-14T19:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2021/t_a3c3cde991714404b31a8233fe5f855f_name_20210713_GOP_VACCINE_V3.png&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "The striking, growing evidence of the very real Trump coup fears"
     excerpt: "We now have evidence that two defense secretaries and the chairman of the Joint Chiefs of Staff all had significant worries about this."
@@ -941,6 +941,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9Ku3CAjN/LsfW3F5tvsHRH7lo0vii4GBcOWJWMMNYh6a0pAbJ6L8YCDCI2AZextNO7K0lGSpTCyB80BD9AFik4XudC/Cx8n29c3r3HgqIh3MAFwLKXJA3fWi7gTAYuSrLElttCEc7I9rM5lk7hKA9a7Unn9dYavOqBksX+Kjqt8DwLxI62okgKFg9WE7b2Hx2E4iz4d0j+jBM/7Sjo/WiL2vvgWAPr3Xe6Wt85WXIDcRlqGyPuN/+y+8vp7Hwh5qQX7NI7YD5H8GL5wEpFFFJ/j850dOszNolS4crmC/rLyjyOctrw0npl2JpProwa4VpVZ9mCbTew/QcWva9LHma3FbgNWGPjouVXSXzeblhrOelXudoNEkeOX/klUo6tMTLgxbUWUeyFeqDldqFAmDta6pwhlL8tRGIKzslp3VoUcjDBoCQx60KovRAVYqs11wUAMYKdqpHQMjKJTsvRWI5jWAX0FHRUAWEobyb+bEgw+XYyFywhB29rruKjdybbjq/C76FM2UdnFegoXkdJ8SNw==;PYjK/lqPV4xHJKYxdU/ABw=="
+secured: "0JgIh9vt2QVCXIWWqN7r+RSggxVi092A3kYIs5W6W2WHCJaoN2/NP5RDZ6+y1KCnv6Qw4cFYMZyRwzAkNKBzobp1VMXikSbOXN2Pv6qyBYn97RL9n+ekHa4ls3giiQ+mNmpYFH333DgpFcMiAMUtl06tzwoG6rnwCWLK+fNPetZgdePxH1/9CpMoCKfy5FItk6UfhfVttGgPDbvVEpNI7KQabK3l57m5iC3jpkWNiUrVWYTjVnbZ8X4n4SzsZ3sheEsdoBpgv5wq+MNA6y3YivJuNMKXIB09j6C7x1AgtWGcITsi1+PfyZBzORibpld0sHqywXes/kSMdr7foCmIyFImSi83NqM4EmCWFUBDwac=;UNxHLdB2J9lj70QXJ4zdQQ=="
 ---
 

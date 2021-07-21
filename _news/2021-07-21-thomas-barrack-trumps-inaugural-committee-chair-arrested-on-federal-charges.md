@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "California businessman indicted on lobbying charges has counted Trump among his 'closest friends'"
+    excerpt: "The illegal foreign lobbying charges brought against Tom Barrack on Tuesday punctuate a winding business and political career defined by his unique staying power in former President Donald Trump's constantly shifting orbit of advisers.\n    \n"
+    publishedDateTime: 2021-07-21T02:34:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WksEL34U5A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720205639-tom-barrack-2018-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Two men charged in alleged scheme to attack Democratic headquarters in Sacramento inspired by Trump defeat, DOJ says"
     excerpt: "Federal authorities have arrested two men in California who allegedly wanted to start a movement to overthrow the government and discussed blowing up the Democratic headquarters in Sacramento because of the 2020 election, according to a Justice Department press release.\n    \n"
     publishedDateTime: 2021-07-16T17:02:22Z

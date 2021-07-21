@@ -251,6 +251,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Supporter Who Protested Against Vaccinations Dies of COVID-19"
+    excerpt: "Last week, she protested her state's VaxBus program, a mobile vaccination unit to help inoculate rural residents against COVID-19."
+    publishedDateTime: 2021-07-21T02:46:00Z
+    webUrl: "https://www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673"
+    ampWebUrl: "https://www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporter-who-protested-against-vaccinations-dies-covid-19-1611673?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1850829/linda-zuern-trump-anti-vaxxer-anti-vaccination-dies-covid-19.jpg"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
     excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"
     publishedDateTime: 2021-07-19T13:20:00Z
@@ -791,6 +807,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/720/718/5796204969bb47ca9b0b542ae52f81e7c7-boyle.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Agents Inside Trump's Infamous COVID-19 Limo Ride Already Had Virus: Book"
+    excerpt: "The Secret Service agents who accompanied former President Donald Trump in his infamous drive-by in 2020 had previously been diagnosed with COVID-19, a new book has revealed. The new book written by Wall Street Journal reporter Michael Bender and titled “ Frankly We Did Win This Election ” revealed that the Secret Service agents who accompanied Trump in the surprise limo ride already had some immunity after recovering from a previous coronavirus infection."
+    publishedDateTime: 2021-07-21T02:51:00Z
+    webUrl: "https://ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344"
+    ampWebUrl: "https://www.ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/president-donald-trump-waves-from-his-car-with.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
     excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."

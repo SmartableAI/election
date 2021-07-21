@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Under Trump, Republicans touted the coronavirus vaccines. Now, under Biden, they’re questioning them."
-excerpt: "As President Biden urges Americans to get vaccinated, Republicans who previously touted the vaccines have started questioning their efficacy."
-publishedDateTime: 2021-07-14T19:41:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/"
-webUrl: "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/"
+title: "Agents Inside Trump's Infamous COVID-19 Limo Ride Already Had Virus: Book"
+excerpt: "The Secret Service agents who accompanied former President Donald Trump in his infamous drive-by in 2020 had previously been diagnosed with COVID-19, a new book has revealed. The new book written by Wall Street Journal reporter Michael Bender and titled “ Frankly We Did Win This Election ” revealed that the Secret Service agents who accompanied Trump in the surprise limo ride already had some immunity after recovering from a previous coronavirus infection."
+publishedDateTime: 2021-07-21T02:51:00Z
+originalUrl: "https://ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344"
+webUrl: "https://ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344"
+ampWebUrl: "https://www.ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344?amp=1"
 type: article
-quality: 105
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2021/t_a3c3cde991714404b31a8233fe5f855f_name_20210713_GOP_VACCINE_V3.png&w=1440"
-    width: 1440
-    height: 810
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/president-donald-trump-waves-from-his-car-with.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -476,6 +478,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Under Trump, Republicans touted the coronavirus vaccines. Now, under Biden, they’re questioning them."
+    excerpt: "As President Biden urges Americans to get vaccinated, Republicans who previously touted the vaccines have started questioning their efficacy."
+    publishedDateTime: 2021-07-14T19:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2021/t_a3c3cde991714404b31a8233fe5f855f_name_20210713_GOP_VACCINE_V3.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "The striking, growing evidence of the very real Trump coup fears"
     excerpt: "We now have evidence that two defense secretaries and the chairman of the Joint Chiefs of Staff all had significant worries about this."
     publishedDateTime: 2021-07-15T17:24:00Z
@@ -812,22 +828,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Agents Inside Trump's Infamous COVID-19 Limo Ride Already Had Virus: Book"
-    excerpt: "The Secret Service agents who accompanied former President Donald Trump in his infamous drive-by in 2020 had previously been diagnosed with COVID-19, a new book has revealed. The new book written by Wall Street Journal reporter Michael Bender and titled “ Frankly We Did Win This Election ” revealed that the Secret Service agents who accompanied Trump in the surprise limo ride already had some immunity after recovering from a previous coronavirus infection."
-    publishedDateTime: 2021-07-21T02:51:00Z
-    webUrl: "https://ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344"
-    ampWebUrl: "https://www.ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/agents-inside-trumps-infamous-covid-19-limo-ride-already-had-virus-book-3256344?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/president-donald-trump-waves-from-his-car-with.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
     excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."
     publishedDateTime: 2021-07-09T19:21:00Z
@@ -941,6 +941,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9Ku3CAjN/LsfW3F5tvsHRH7lo0vii4GBcOWJWMMNYh6a0pAbJ6L8YCDCI2AZextNO7K0lGSpTCyB80BD9AFik4XudC/Cx8n29c3r3HgqIh3MAFwLKXJA3fWi7gTAYuSrLElttCEc7I9rM5lk7hKA9a7Unn9dYavOqBksX+Kjqt8DwLxI62okgKFg9WE7b2Hx2E4iz4d0j+jBM/7Sjo/WiL2vvgWAPr3Xe6Wt85WXIDcRlqGyPuN/+y+8vp7Hwh5qQX7NI7YD5H8GL5wEpFFFJ/j850dOszNolS4crmC/rLyjyOctrw0npl2JpProwa4VpVZ9mCbTew/QcWva9LHma3FbgNWGPjouVXSXzeblhrOelXudoNEkeOX/klUo6tMTLgxbUWUeyFeqDldqFAmDta6pwhlL8tRGIKzslp3VoUcjDBoCQx60KovRAVYqs11wUAMYKdqpHQMjKJTsvRWI5jWAX0FHRUAWEobyb+bEgw+XYyFywhB29rruKjdybbjq/C76FM2UdnFegoXkdJ8SNw==;PYjK/lqPV4xHJKYxdU/ABw=="
+secured: "L6OOaR/eHus6jl5X1VXm1Qv5NhZortViUbSOj/Y9mc3jJFGU8UobVb3Pn2mwZZFsfeoTlKPZNK9H4Sb57GPK/+snXwvTeXABKLrN9EV7wBHT2WxE+EeNtgqXOXtZI8+rAJuZqvOGY9ygmGKxlHe26oz0wF+89v6FyPAvEhvx3nX57EjxtR4VDuolOHrnl3kYGB+7qh9j+Gov+BNy+arkmQHZre/wcHPUG1ZBFfgIO5gE7fTETK9AdGrWWZOvStcWtyU9o8RxQIRZt+//bDJ+nLusdnreikBBjnWqMJVInAaw8ZnsWiTWkUMO1scgm4Ls3nr+Y2hA8ahYzYvs7C32dAIT9aIXEed4MHSdwGle+WE=;saBrf82q9r9SlFP8z6iObg=="
 ---
 
