@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden Might Avoid the Policy Sinkhole That Swamped His Predecessors"
+    excerpt: "By enacting big spending initiatives under the auspices of pandemic relief and infrastructure, and avoiding health care, President Biden may have found a way to skirt an ideologically divisive fight."
+    publishedDateTime: 2021-07-20T22:17:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/us/politics/biden-spending-infrastructure.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/politics/biden-spending-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/politics/biden-spending-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20biden-spending1/20biden-spending1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "lH3ML9hHL9jJdeSGgkV06NtydEA+ULGb89lqlIxHUcCnGMJRnZM09F4a8ZBQiLiCvkp+7kOtDviQjodt2D06dG11/mrBvNyT33J3cbrexrk70Xtg2vFV2VDFCpXBJvddJQAq72y54QbzpUO4fGg+ImFilcPEB7nVU3UvZZ5g5mF5oipNe4Spog1YQrZqUZgSUwzitHNmMsTrUH8A+JmeNScb43MKatoIDea9dXJyTUwRXnSlUmVRnRusDw3XKVXNoRiQQjdGk+PeJyp3S6HLb8vEHjAoxFpLmDqyTjmlncs1d8EXsQqnm0GXNDZGjc0dfLHhLQL4J+gedHGsU2bS0CJUCXinkzpSjiJfnse6G48=;1YQpn95mN79KpBkSfEXUBw=="
 ---

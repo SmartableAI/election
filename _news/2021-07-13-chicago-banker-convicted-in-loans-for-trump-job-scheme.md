@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/chicago-banker-convicted-in-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/20/4ee58064-a25f-4cac-b091-9f5e3337a736/thumbnail/1200x630/de0849544cf7c88ddb7663e440304770/gettyimages-1132734505.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump ally Barrack arrested on foreign lobbying charges -U.S. Justice Department"
+    excerpt: "Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, was arrested on Tuesday and charged with illegally lobbying the Trump administration on behalf of the United Arab Emirates."
+    publishedDateTime: 2021-07-20T20:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-barrack/trump-ally-barrack-arrested-on-foreign-lobbying-charges-us-justice-department-idUSKBN2EQ24N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EQ26T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EQ26T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210720&t=2&i=1569448206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6J164"
+        width: 766
+        height: 545
         isCached: true
   - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
     excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."

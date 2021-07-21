@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump ally Barrack arrested on foreign lobbying charges -U.S. Justice Department"
+    excerpt: "Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, was arrested on Tuesday and charged with illegally lobbying the Trump administration on behalf of the United Arab Emirates."
+    publishedDateTime: 2021-07-20T20:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-barrack/trump-ally-barrack-arrested-on-foreign-lobbying-charges-us-justice-department-idUSKBN2EQ24N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EQ26T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EQ26T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210720&t=2&i=1569448206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6J164"
+        width: 766
+        height: 545
+        isCached: true
   - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
     excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
     publishedDateTime: 2021-07-20T19:17:00Z
@@ -188,6 +204,6 @@ related:
         height: 675
         isCached: true
 
-secured: "n9hZLoEPSiW4wtsirfupFnpvHJW4FMonOCsP5cOpoyCPyCYzCvB4CWC5dOSghLUVzti3VtZhMbZoqC2ENA3FlSJKBJi6fykre5IAAQR5CaPWDOw8x/tTs7HBi7oqxtoVUUs0hwhKVxpwFPEwz55L/dLLwPMCSBPGdyDA/RtunPzymKLPIaAIdD2nEC4JPpZip09hCSpapMoGe/DHoWI2KyIvJlhciDXXDseG8M6jgWmQtv/3Y3ubcZeobIlVIPUlfl0hxeRYWrwWhwV9uoFFXmJCF18Drr6JEks8BwpGtlWQLfPMmABi8xaiAIHZH+zoPCHRNn/E1B+pEwQCGZShrI/D/TabrFrMPdGVlK082Q0=;wUZV+9HmzAe9GWB2vkog8g=="
+secured: "xj8G/mW8/8LJzehlw2D/1vmf5cl1a1YZ6XZHkyZZa8n9iwRVfRbU6977OYjBhqYFYIbN4v9l3PNr9KN+5TzNkeDZWHFdBCG3aT7eQrg392czi3hB/Jdr76MuCMTJW4kHFCl+VXa77Lxyd0vuUKmsAd02PWErZhF9zgCe6OGbj7TR/SS4KFLrNEeNqkAY+izRxQpDCVFQ6fNuUEM+w5b/0bDl1CW2x6fx4GJojJ/BTnqcOKmk4PFFxhafagQGRdQIt6+Uk3hNfcO1YsLBXFDRD01RGVQv6s1+WM92Ful7aC/X51/SyB3rvWxuplZShhPONYrTeUY0hhvmLAP7hcFUDwTWQx8BWuiFjd3OKyZfthvrtiSBBNsLUj8FEg3NfHxO2DZDA1yoIMxvXt03qM5RNhweeEOgGkSkwJl2/lsSwyMM+t6VkVNPqjMisdSgA1YJ756Nu3RWmsKiIhr99gWO+l8ysD4ICTEivrVqWL0tvSyjaeIb9xnJnX6zG4Yj44d2/y+Yxtek5YxK1f+GS3LSFQ==;aqnUu8kdW1nwIwDFQGv3Ag=="
 ---
 
