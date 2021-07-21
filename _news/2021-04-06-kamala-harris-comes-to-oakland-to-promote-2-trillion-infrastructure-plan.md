@@ -465,6 +465,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Kamala Harris says she will campaign for Gavin Newsom in recall fight"
+    excerpt: "Vice President Kamala Harris told The Chronicle Wednesday that she intends to campaign for Gov. Gavin Newsom in his recall election. The former California Senator, attorney general, San Francisco district attorney and longtime ally of Newsom answered a question from The Chronicle in the affirmative as she was leaving the Capitol,"
+    publishedDateTime: 2021-07-21T15:50:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-says-she-will-campaign-for-Gavin-16329726.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-says-she-will-campaign-for-Gavin-16329726.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-says-she-will-campaign-for-Gavin-16329726.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/06/65/21261682/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Good Luck Finding Stationary without Kamala Harris, RBG, or the ’F‘ Word"
     excerpt: "Even stationery has to be about women who celebrate sex and abortion, apparently. Call me crazy, but I prefer flowers."
     publishedDateTime: 2021-04-07T19:32:00Z

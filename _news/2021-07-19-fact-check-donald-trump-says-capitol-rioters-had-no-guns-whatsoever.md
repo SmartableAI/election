@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
+    excerpt: "Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona's electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate Republicans to oversee a partisan review of the 2020 vote count in Maricopa County,"
+    publishedDateTime: 2021-07-21T13:33:00Z
+    webUrl: "https://www.chron.com/news/article/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "B/pxpw7FX0eaV6dXfQiCTI07N7eBVvlgl/sKHqoL6mjuhG8Z+IbznZfi32FPFR2o0AeOPPzn9qOTEOMDXnFnWVki301Swj8/IAaqcQfN0CJuosTrcoC3Hl+3D7zpubsaDo6hSJUpMUt9i5KzL288E+9siy6ayG6gTE6NPN5l1e7+ss9UQQB60VI2ISmhXWUw2jSW/zvcJwCOdjhYoh4i+GlpfeZXrtvzztU+iHqx6Sx72Mcr89VslDoH27T967A7fs8IlpZIbgATcThS7HCmP+cLvVA/ApfnR/C/SpaH3pBotaNwEsPtf0nWfCEpsBkvCiw55TappopbBT7HRvIsmuM4iHXityNR+/9zGUryAdJYuGcSVdCGu5cw9YWwXTxITTcb9fGdiwbXdsi7D8uWxVmcTfSt+tvv726rNerVJT50CJLPui3MoXPOivZFl2r8xSZRP/IfxX4qrc4yer2+0IRwmMI3sm1+ns17BBauCTfq7BvXvQ/x/y3EpxQVKhJU1799AtU5cL9jClbrzsUO0g==;WdjrNnXhsh4mVpzc/DWPLQ=="
 ---

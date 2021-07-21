@@ -160,6 +160,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pelosi bars two Trump allies from the committee investigating the Jan. 6 riot."
+    excerpt: "Ms. Pelosi, who had never before rejected a Republican nominee to a committee, called her move to oust Representatives Jim Banks and Jim Jordan “unprecedented” but necessary."
+    publishedDateTime: 2021-07-21T13:31:00Z
+    webUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure"
+    ampWebUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/21/us/politics/21political-briefing-promo3/21political-briefing-promo3-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "yacLBTMDkcabG+6hv2U3uIf9oa8QWa8C44zBlWHU4g9o5uZOOS+8RH/tYAxyv4udCTq6RaYvdEwKliGl6QUAWkARC3rk9DhtsO+IHm2o0IqiEjXDxwBATj4qoeCsWoiUpD0n0SDQ7osep7UCre2hxIR5c0XuNQHStPfZAfVWGBgWZkYLk8hCc92SNhk0QL1WOIst8B3fAOSlOed36b/Ra/RnOtmesEGNbY7iPQ71R7n/P+Rj+b7Smt9DTWWAKhsjJ7uybmVq22vuMvihjv6iuhGqAYktG1LnjYZWRoairVDe+1dMXF0Zp6MG1fWJlQABioxDA1RKH04FapJ54WcwXDlSymmg1hj3vxfp+f6nmBbUNsNabk3Wy+wEEbnUUZIlaxWYw8i9U0lb6FfXOYa6D+vEfE8k6CLnPOuMLyCt2x9w5FkW0GMttmxT2Pie8JfpUXQ2C3+9wdaEbEYMn7n1wAN5tz51bPOtS6NXfaYrUZu8gxu/R+7a7qgZh8w2QyKeGmOdAc7OAb1L8Oe950d/yw==;gL9NsN1dqb3NGOVf1HHMPA=="
 ---

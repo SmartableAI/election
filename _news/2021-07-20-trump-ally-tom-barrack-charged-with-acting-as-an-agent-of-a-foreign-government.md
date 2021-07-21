@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/index.html"
 type: article
 quality: 171
-heat: 331
+heat: 351
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626808947307_nbc_spec_williams_barrack_210720_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Pelosi bars two Trump allies from the committee investigating the Jan. 6 riot."
+    excerpt: "Ms. Pelosi, who had never before rejected a Republican nominee to a committee, called her move to oust Representatives Jim Banks and Jim Jordan “unprecedented” but necessary."
+    publishedDateTime: 2021-07-21T13:31:00Z
+    webUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure"
+    ampWebUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/21/us/politics/21political-briefing-promo3/21political-briefing-promo3-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1688
         isCached: true
   - title: "Thomas Barrack, Trump's inaugural committee chair, arrested on federal charges"
     excerpt: "The charges are not connected to the former president's 2017 inaugural fund, according to law enforcement officials."

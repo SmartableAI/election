@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-ma
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/00/23/21234900/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
+    excerpt: "Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona's electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate Republicans to oversee a partisan review of the 2020 vote count in Maricopa County,"
+    publishedDateTime: 2021-07-21T13:33:00Z
+    webUrl: "https://www.chron.com/news/article/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "PWVpy6osIphtO9vARCpRmKTJvfqjHok4sLpQoQhXvxq0cLrc3dEcGazqfbPRIunyqX34NryF6IrDS4RltgBXfcrI3tG71je+ZJAgq/m/IANWDrQNMM3SUZ9KSkfNpRfrSc2xe8+4Mz9k2hLzQ6xsyNODH8xQxsUhUfutuj4EhLy+4+7wyFCWaTndCv0w3vzrFLDTnVSiYwCEHJyEM25+P4WNxMeYHSm6RiX2JucM8xjdguMt64GbD+dW8/Pur7WoD52RrIeyeNDEfvJjwfGso9PDl+yb8DUTjM3j4dlnhVOKaPFFzJGpqazLlIy7bIX8YpghFkrLt1XnU4ZpZndCQkfDqLwhNfz/mrVf6KzTgQllleL4BmvyJGqpJm0thOI4eQPPbIcUCXI68yf59eVKeHSWHL8kX6kxvNdQlG7lDBIPi4iDlVUktXSQdgR4DCadHpmm5M/CnwIUSrVLUl5Y9+NgIwPhDFPS3vS+5nEMicAsLQfmdSbL98lTWwfSSxmplGE15AuFK/ztaiKt196M4A==;eQ0oNunDmxWU9Civpx9HLA=="

@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden urged to act on outsourcing of West Virginia jobs"
+    excerpt: "Labor and advocacy groups are calling on President Joe Biden to save nearly 1,500 jobs at a pharmaceutical plant in West Virginia"
+    publishedDateTime: 2021-07-21T17:57:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-urged-act-outsourcing-west-virginia-jobs-78973098"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
 secured: "s5F/6ZcS1jFMWisQp73yAz2QNfbX3zcIJ+IvNuRGbkSACnHTRDX+du184Hy5/eECP3epCrDETBwGM5u6iMy46GYbOqnFGMn/xgtLYLgxNnfPVNfVi/gmgzXAAFEjtMoMNtrvt4V6eiZr1bAE93ieGo5n5anwaXN9D9FoouLIQZdPsuyAYQkuXaGb0L8yuHcMWLXSnr2rygnZJ8HNYUFmAqA0zf79p/F1RadDPih858XOqWNLQpFZz8fq90QGsSH2o4VtiLh911yR7CS4sloSqDLubhgUopvTEoUVUU0K1t4QXxxJ/BoeJ1rJ6VsZmYAX4qaT/gJU6i3pra2SKp8PrHKgbNdeZFw/JRbZo25qapQ=;/duK/YKn2RxtY4qASfQN+w=="
 ---

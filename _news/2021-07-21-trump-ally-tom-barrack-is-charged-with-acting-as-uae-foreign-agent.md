@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pelosi rejects Trump allies from Jan. 6 panel, casting doubt on its impartiality"
+    excerpt: "House Speaker Nancy Pelosi rejected two Republicans tapped by Minority Leader Kevin McCarthy to serve on the Jan. 6 Capitol riot select committee, likely casting doubt on the impartiality of the"
+    publishedDateTime: 2021-07-21T17:08:00Z
+    webUrl: "https://nypost.com/2021/07/21/nancy-pelosi-rejects-trump-allies-from-jan-6-capitol-riot-panel/"
+    ampWebUrl: "https://nypost.com/2021/07/21/nancy-pelosi-rejects-trump-allies-from-jan-6-capitol-riot-panel/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/nancy-pelosi-rejects-trump-allies-from-jan-6-capitol-riot-panel/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/pelosi-trump-allies-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "yHDQIkJJGnlqUczqFFnrzjQcglk5v4rKdA7SssjvdhwFTPI6fdpczE/WdnJ3aLajAwiaLnSn/GnYMtT3hgvWjYfdM+Omm06vrts3KM2zGmOuLTFjyVnONK34vX2BbnUhjnEGDaioUY4thzTkaObov5+AWWzyuvYEttujiEabImSYT0QuQWf/vdsLaxgR9rThGhBbDZsLq/3vBX+PITjK+tQBBstKB5wMGeRg1VzqrOIdBXikFxDoL0lopb4ta50Pa56D2KRvhwTP5aY27T9AqH0y35yMb7Raur3J9Szqych/z/+TlDb9r0uw0h2NWsC2al+urKnpqOZigP8Z8vDLqjjFFspileEHgbwN/2otysYP7RIKc3zOe0Xi4nz6pDhspmfkJBaabVao+C7bny6s4adR1tnPkrCXfPgQ1VlJ2GB6vGkhFcHR978kCDNVGB0uPaaTONZkfo6D8+OhkQ2J/IJ87HZ4egiTDDqLVQiY1EBjqMh5tBM64C9wC5jMiT7K3XImIhXBIvcM8ddEXg3b8w==;0aUUgiVNEVs+uibjWV33FQ=="
 ---

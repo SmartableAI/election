@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-republicans-jan-6-select
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.wsj.net/im-372314/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Pelosi rejects Trump allies from Jan. 6 panel, casting doubt on its impartiality"
+    excerpt: "House Speaker Nancy Pelosi rejected two Republicans tapped by Minority Leader Kevin McCarthy to serve on the Jan. 6 Capitol riot select committee, likely casting doubt on the impartiality of the"
+    publishedDateTime: 2021-07-21T17:08:00Z
+    webUrl: "https://nypost.com/2021/07/21/nancy-pelosi-rejects-trump-allies-from-jan-6-capitol-riot-panel/"
+    ampWebUrl: "https://nypost.com/2021/07/21/nancy-pelosi-rejects-trump-allies-from-jan-6-capitol-riot-panel/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/nancy-pelosi-rejects-trump-allies-from-jan-6-capitol-riot-panel/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/pelosi-trump-allies-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "ueP1VAN2rEfAgqY6x3YrDF9m0etOwxI1i/X3waZBn80Hk17sUSjV5KO66WUat868mC6xoK7PtxEQDLyZ+RaQQ6WRx2x0MVNvQ38naKWgYq4Jzlvh7jY1wGGI9h5TsS5xQ7iDNp+dgnYBZlVErfuBWesqADe6Vh7EOe6qR0TMUkWChkxaki4eVcGn5aY0F1SnrgaXhyNjno9VXCGOVTcoOGNA/yLfy1iKIzmSmklvMUznGkdvxI8piiviI3U5PpwT5k4mGYmqXCzLY9cfdWgCVlo05bU18/IxPrHdQQMQ27IKf6dgNF/e+sk+VWX0U4mLC7m4qio6I30BFPJbKinw+bj3bKmoWMICdIe/YWwBCGo=;Fe6gJvhuoSW2LjPaYjl9MA=="

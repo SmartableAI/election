@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 1415
+heat: 1435
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/fce1868a1bec15ef1336a53710bd312b9deda8a5/0_160_4828_2898/master/4828.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=880ab2dc89a9f6825e1629645fe21763"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump ally Tom Barrack charged with acting as foreign agent"
+    excerpt: "Tom Barrack, a wealthy investor who served as chairman of the 2016 Trump Inauguration, has been arrested on charges of allegedly acting as a foreign agent. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to explain the allegations."
+    publishedDateTime: 2021-07-21T13:50:00Z
+    webUrl: "https://www.cbsnews.com/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/21/143d547a-ad95-4d5c-9e0c-99e897736666/thumbnail/1200x630/5534e7f0ee979b8054872af41423c4a2/cbsn-fusion-trump-adviser-tom-barrack-accused-of-acting-as-foreign-agent-thumbnail-758024-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Supporter Who Protested Against Vaccinations Dies of COVID-19"
     excerpt: "Last week, she protested her state's VaxBus program, a mobile vaccination unit to help inoculate rural residents against COVID-19."
