@@ -1,33 +1,34 @@
 ---
 category: news
-title: "California businessman indicted on lobbying charges has counted Trump among his 'closest friends'"
-excerpt: "The illegal foreign lobbying charges brought against Tom Barrack on Tuesday punctuate a winding business and political career defined by his unique staying power in former President Donald Trump's constantly shifting orbit of advisers.\n    \n"
-publishedDateTime: 2021-07-21T02:34:46Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WksEL34U5A/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WksEL34U5A/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
+title: "Trump inaugural committee chairman charged with acting as agent of UAE"
+excerpt: "Tom Barrack was arrested and charged with attempting to influence the foreign policy positions of then-candidate Donald Trump to reflect positions of the United Arab Emirates. NBC's Pete Williams has details."
+publishedDateTime: 2021-07-20T19:30:00Z
+originalUrl: "https://www.nbcnews.com/video/trump-inaugural-committee-chairman-charged-with-acting-as-agent-of-uae-117083205603"
+webUrl: "https://www.nbcnews.com/video/trump-inaugural-committee-chairman-charged-with-acting-as-agent-of-uae-117083205603"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117083205603"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117083205603"
 type: article
-quality: 162
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720205639-tom-barrack-2018-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626808947307_nbc_spec_williams_barrack_210720_1920x1080.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -60,6 +61,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325122313-stephen-calk-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "California businessman indicted on lobbying charges has counted Trump among his 'closest friends'"
+    excerpt: "The illegal foreign lobbying charges brought against Tom Barrack on Tuesday punctuate a winding business and political career defined by his unique staying power in former President Donald Trump's constantly shifting orbit of advisers.\n    \n"
+    publishedDateTime: 2021-07-21T02:34:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WksEL34U5A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720205639-tom-barrack-2018-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,22 +128,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump inaugural committee chairman charged with acting as agent of UAE"
-    excerpt: "Tom Barrack was arrested and charged with attempting to influence the foreign policy positions of then-candidate Donald Trump to reflect positions of the United Arab Emirates. NBC's Pete Williams has details."
-    publishedDateTime: 2021-07-20T19:30:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-inaugural-committee-chairman-charged-with-acting-as-agent-of-uae-117083205603"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117083205603"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117083205603"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626808947307_nbc_spec_williams_barrack_210720_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Thomas Barrack, Trump's inaugural committee chair, arrested on federal charges"
     excerpt: "The charges are not connected to the former president's 2017 inaugural fund, according to law enforcement officials."
     publishedDateTime: 2021-07-20T18:47:00Z
@@ -144,6 +145,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "mOtIQ7afKC/F3Ci81M9ZV3FbB7bdEJriQ1TQV3h1IoggcY2j1N4oGtmNyEauh+BnqISA8A7K3ktiEdDid663gRd3QRQAa6At3gckF4SVBv6WuQPzBzSrazBs7v7ceZr5zDpZkPLD5W4OKhdvwGTRTZ6V33RBFHHuOC/UsNNGD5IgzTkSNos3oShN/RBoNG1Myd3tBNCHQ4PkwFws7BIjYiHOAGWlo1v3zdul5prR58blLzK1HKrVrEFK9iKvje7wrZ6kNOOQnUxrAONV8JCxr/L9opKYfRkNIXYwszMP+hIqJSvg5bR49gKpHNwXMcpO7ENvLo6UwyYJI1zFd4GspiEZU/1AZ3MWjBcFYI4GtOA=;nwdIRrQttL9XMpclpMxyEA=="
+secured: "QGg9ft4WwdXL2NODHwidESI0JHYYEPs7PIPpVfHsslzGnrMKEyhG8XFJ5M0UOkpt9uBWQWL0kAWMzZjhQnwbOwmSAhi64rxlukVIVZxdkOkDm0V6mIaj49jkbT4qhcR97/gmajBgegkwHCaG7jNwp1we1WBcYn4Jj9AUmZqiDHYdBF8DAinX+0KQ8xWlOEokTx2Fppup7oAdQjBwCeJFJ2HDO0aH+gDOaeEZqmpNfn0EPUhZnrWcHoF7DlhIe/ni0UGShG8MpkfhTR1WE+52hEvdgfHZscvuYjr0c66Z7/d3BdjX0+/vCxIV+5z5d2nTT0Mk/NaDItjSXRt/KrmseySSQ7KxtCrZ6Q67pWDD5nk=;IMU24+Y+hMZ8tOvI5/YvXg=="
 ---
 

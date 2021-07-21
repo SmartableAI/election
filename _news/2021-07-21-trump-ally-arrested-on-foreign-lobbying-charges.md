@@ -1,20 +1,20 @@
 ---
 category: news
-title: "The definitive oral history of how Trump took over the GOP, as told to us by Cruz, Rubio, and 20 more insiders"
-excerpt: "Trump became the king of the Republicans five years ago this week. We spoke to Cruz, Rubio, and many others who had front-row seats to the coronation."
-publishedDateTime: 2021-07-18T12:20:00Z
-originalUrl: "https://www.businessinsider.com/how-trump-took-over-gop-2021-7"
-webUrl: "https://www.businessinsider.com/how-trump-took-over-gop-2021-7"
+title: "Trump ally arrested on foreign lobbying charges"
+excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
+publishedDateTime: 2021-07-20T22:21:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
+webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
 type: article
-quality: 85
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60f1fd2571757b0018c6a314?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -560,20 +560,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump ally arrested on foreign lobbying charges"
-    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
-    publishedDateTime: 2021-07-20T22:21:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
     publishedDateTime: 2021-07-08T20:17:00Z
@@ -665,6 +651,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/28/virus_outbreak_trump_fact_check_43481_c0-0-3693-2154_s1200x700.jpg?3001f657d3eebe37f8930f23996b303c6df4f7a9"
         width: 1200
         height: 700
+        isCached: true
+  - title: "The definitive oral history of how Trump took over the GOP, as told to us by Cruz, Rubio, and 20 more insiders"
+    excerpt: "Trump became the king of the Republicans five years ago this week. We spoke to Cruz, Rubio, and many others who had front-row seats to the coronation."
+    publishedDateTime: 2021-07-18T12:20:00Z
+    webUrl: "https://www.businessinsider.com/how-trump-took-over-gop-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/60f1fd2571757b0018c6a314?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Eric Trump ‘Flipped Out,’ Yelled At Campaign Staffers After Shock Election Results"
     excerpt: "The former US president’s son, Eric Trump, reportedly got angry at campaign aides after electoral votes showed that now-President Joe Biden had won the 2020 election."
@@ -955,6 +955,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "vWHmUBCEkpu6ErfavKjrUYB6ZPM/YZRUiiALEi/Btec0GilDCikKocJ6UKOLYCeqO7TTmhTMLkMU5KfAHKsSbXY6wLKhaUPxOTrYLJU5ItEEoN985kLk+fBlWJMvROgcm3btf8TLQGyxdFbDmwkHCKhV2P8yRIDN1iiiyoKr6NCBL3c5KYZbLsmdlcczgMkEzjwaZBDdYq8CLQnRXEen+bi4QlEj0GvmgSJ9H9I8aIZltub0fwSHXMrHCJPnZC0f8Ja/pfaQzYqqOlBGi8DwejHzeP3yCSFO6Keq3UniflKLZLs53UPHJJNDqKAWlNr1DgPjqK/WvaItD+vnzBWLSQFgOw6A15xJQ5ihAM500qoe64ZV0gUfXysNvC4WYeNe8lzvkqMKcVJSE4uNKeHu1SAxtlHEu4/cD2g8wyZOyUbqCH9E7ncuSRWkkoUJFFeh9h1qpHKRQ4+Ju6x6ITA3NneYGt3Arq6FVWb4mTc2+BPY923uu6w8U5X1emZ9jk73h63KJXv1Ohv9Wj36D/gZSg==;KUmYHexjSEA37sxEwpHZ3A=="
+secured: "MO40oMIJHdk4P82gxN+HpptbScsbrGyPpcMj+qebNv9e9I4Tb5FO6Xp/7anYNcj9OjMakGvrgifRHGdKQUi3DaFFCU8qIg+BxflvtvSbDz1I3IJwSt2Pvx6EozPlSlpUNZd2cbcUUKYYr/izgSH5sz+a1IX2ccEe4ZCQL2efplI6p6iQTAgZJIfgBttluQrm+5FNukUaOQ94MzXiNKlDOAbfYUIWgAfPrretFjKx81AvBnswX+K5hJ+d/q0lFj+k02tNqJVDXBYQOPleRuhwCfMNdTa7rlbN2S8nanYpOeKU/KipTzUi6/mKSYqgSVSTMVL9XOn6BlBSJ0niHZRWWVraP/BeRZJYY2ZR97H1zZE=;Kne3/iy/YlbY9/7uZCsXEg=="
 ---
 

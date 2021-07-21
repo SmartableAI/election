@@ -95,6 +95,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Thomas Barrack, Trump Fund-Raiser, Is Indicted on Lobbying Charge"
+    excerpt: "Mr. Barrack, the chairman of Donald Trump’s inaugural committee, was accused of failing to register as a lobbyist for the United Arab Emirates, obstruction of justice and lying to investigators."
+    publishedDateTime: 2021-07-20T19:04:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-indicted.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-indicted.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/thomas-barrack-trump-indicted.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20dc-indict/20dc-indict-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump inaugural committee chairman charged with acting as agent of UAE"
+    excerpt: "Tom Barrack was arrested and charged with attempting to influence the foreign policy positions of then-candidate Donald Trump to reflect positions of the United Arab Emirates. NBC's Pete Williams has details."
+    publishedDateTime: 2021-07-20T19:30:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-inaugural-committee-chairman-charged-with-acting-as-agent-of-uae-117083205603"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117083205603"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117083205603"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626808947307_nbc_spec_williams_barrack_210720_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Thomas Barrack, Trump's inaugural committee chair, arrested on federal charges"
     excerpt: "The charges are not connected to the former president's 2017 inaugural fund, according to law enforcement officials."
     publishedDateTime: 2021-07-20T18:47:00Z

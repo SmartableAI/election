@@ -546,6 +546,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump ally arrested on foreign lobbying charges"
+    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
+    publishedDateTime: 2021-07-20T22:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
     publishedDateTime: 2021-07-08T20:17:00Z

@@ -562,6 +562,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump ally arrested on foreign lobbying charges"
+    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
+    publishedDateTime: 2021-07-20T22:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
     publishedDateTime: 2021-07-08T20:17:00Z
@@ -941,6 +955,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "L6OOaR/eHus6jl5X1VXm1Qv5NhZortViUbSOj/Y9mc3jJFGU8UobVb3Pn2mwZZFsfeoTlKPZNK9H4Sb57GPK/+snXwvTeXABKLrN9EV7wBHT2WxE+EeNtgqXOXtZI8+rAJuZqvOGY9ygmGKxlHe26oz0wF+89v6FyPAvEhvx3nX57EjxtR4VDuolOHrnl3kYGB+7qh9j+Gov+BNy+arkmQHZre/wcHPUG1ZBFfgIO5gE7fTETK9AdGrWWZOvStcWtyU9o8RxQIRZt+//bDJ+nLusdnreikBBjnWqMJVInAaw8ZnsWiTWkUMO1scgm4Ls3nr+Y2hA8ahYzYvs7C32dAIT9aIXEed4MHSdwGle+WE=;saBrf82q9r9SlFP8z6iObg=="
+secured: "9pIn4Cl6wWq/yjU7E8JjdAc94ZAlLuHafTEbJRExdrd8fQfR3yXkpvV3ksmIrivYwAM2Cp/3DG+7ztGDaSCOSqpBBCnwzCQBM9vJpiJDrPCpWIAtec+SymcbpsvrHk4EDwUkIsjp5tzBdpASuvpmCO4oSHuNJKFR/QVigY+/OfKTYUyrcqAv17pGlUtzGgSqkkMxwI9BXQ3zPg1QXh5FfXxJ5Z7wPEhyftjlXXV12lFgpFRhbsRzoxFk9nwyGrJNYX5Mi/jvyE/yNjYNYiJWkm0BW1FGBmCm9OPpkDsNac+7lLtDgerq393nw/pZET5YCLlnu7lysoW2OWOCUTFRkUQtBOUGiBp8VZeL8CL6M47xGh3R1hWvjLs5ZKXzufMWnbUWfgaJzTTGaonf/viPYY8YlM0cqqVubCCwVDw+bgx8KzPVoFPkCIpIT3bEIhKHl+oR5VLRPny7LocJkUVbVxgcEOc94yWVEzIEZFmQEcesdtsTjbXdyTCSS1tOon4y/TAi84ynGeed9ctlYVwJCA==;iPYVUZG+5l569xkJ1gaFjA=="
 ---
 

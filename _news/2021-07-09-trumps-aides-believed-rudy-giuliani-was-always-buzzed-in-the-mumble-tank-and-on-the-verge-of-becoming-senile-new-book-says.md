@@ -562,6 +562,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump ally arrested on foreign lobbying charges"
+    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
+    publishedDateTime: 2021-07-20T22:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump directly implicated himself in potential tax crimes at the Trump Organization with an offer to pay school fees, report says"
     excerpt: "Sources told The Daily Beast that Jennifer Weisselberg told investigators Trump personally offered perks in lieu of taxable salary at a 2012 meeting."
     publishedDateTime: 2021-07-16T16:37:00Z
