@@ -3,8 +3,8 @@ category: news
 title: "Mike Pence Remarks at Iowa Family Leader Summit"
 excerpt: "Former Vice President Mike Pence delivered remarks at the Iowa Family Leader's Annual Leadership Summit. He touched on support for law enforcement, critical race theory, and protecting religious freedom."
 publishedDateTime: 2021-07-21T16:52:00Z
-originalUrl: "https://www.c-span.org/video/?513458-3/mike-pence-remarks-iowa-family-leader-summit"
-webUrl: "https://www.c-span.org/video/?513458-3/mike-pence-remarks-iowa-family-leader-summit"
+originalUrl: "https://www.c-span.org/video/?513458-3/mike-pence-remarks-iowa-family-leader-summit#!"
+webUrl: "https://www.c-span.org/video/?513458-3/mike-pence-remarks-iowa-family-leader-summit#!"
 type: article
 quality: 35
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lzCpgqjEMH4K06QIuMq4wgWb8Y+vHtPJSyLahBM6380Ibtysaf3Rn+zuC8sI0zV2JdkXO9rfhm5lTpQJqwYCw93CpdV/a1MPiECgTKSxMY0HQsN2mkjvl93NecXr1jt8sIX4jR4a052ZE3MvAx6jLRJ8BF3PzG2Ks9wachGuf9ybySqqiCtPA1IID//+QNsBIoL2SZVA7tAcvqB/1pDrktJj8v0O6QDpUF4CpnwbOFYs2GFt7wn6+gST28sM58r1INbK9Y5R577HPpxPY+SnDCaVpnV/3vQIdPQ0AB0KMGhNFG+fqOvM7Ex6gv2AAb/NuM7teCYHivHOheZsFV2/U6uvLWleQ1Po8pP88pVSz+DN1A8O/ObfmppLaXLO3K5n8POXhvRHD193jkejE8ulyinuyFIqR0HGuW4vZVw2/+JsmApUkV9uI2L29zRuUaVRY21MwjkX4BKpva0dxBTGzDh3VZf0MVBV/cgTwmbiyUmaRKeGKGjRAfEx4WIGf5GABn/oGUgwv/5vIuaNHheM5A==;9nW7qhUfD8HcNlI4E+SgHg=="
+secured: "fbODJ9wRl+hKXObw4RDD9Wk83yBgAtO0jYXs30WTl4PA/JJUXi5jnsCJSnyIcxFOLcJdPEiNKWQcGWTG8DCMM7ry2IZ6KJeHf6JDsRUm5L1btJyJSLd2U+4OSjyWNOnA8vpyd3XGaQaCSMKj+Kvszofg5lXZE/Dh3//c8B61GqPazCRjJw1KRehqw/43SqTC/MCJDPyglRyGsBsf/K9zDzJJUaMiYl/K4XPRof3CZsDhZQlnEnQEqjnt7Z5rbvKhIw8IRHnHSwBiUllffSlgWtgtQAZw5mT5H35isdF/urg2OixgayV+8JJaLu12NLKxKcmoZanOcmAPaaRVlU2b7ZblcI/eKQBh434iUbSpJp2nrrlNg4BoyM4qG4KNuguz6FdAvtXq9prfru612WufOl+Z9nL10IqWXdXo+QVF3QiR2MmgtQQ0YPGprUnuKGGyhbuq8TOwZzTkMJblLACoUUhsGnYUqWFCRB9tROerkDwj22qRVQ4KL+pZcIU4I9QdIK7w8TezIQZyLzVlYCv3Zw==;5hzmYLNmTG8DHajtXVIx1g=="
 ---
 

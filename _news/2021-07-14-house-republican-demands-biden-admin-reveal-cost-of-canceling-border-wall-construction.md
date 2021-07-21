@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Jill Biden at Tokyo Olympics: First lady to stop in Alaska while heading to Japan"
+    excerpt: "Jill Biden embarked Wednesday on her first solo international trip as first lady, leading a U.S. delegation to the Olympic Games in Tokyo, where COVID-19 infections have climbed to a six-month high."
+    publishedDateTime: 2021-07-21T18:15:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cU2uBaJf35w/jill-biden-to-stop-in-alaska-on-her-way-to-tokyo-olympics"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-to-stop-in-alaska-on-her-way-to-tokyo-olympics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-to-stop-in-alaska-on-her-way-to-tokyo-olympics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3cdba62-38b0-4e4f-9f07-708e700f132f/aa78b4e0-94e8-49b1-90d0-8d3a71961dcf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
     excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
     publishedDateTime: 2021-07-08T01:05:57Z

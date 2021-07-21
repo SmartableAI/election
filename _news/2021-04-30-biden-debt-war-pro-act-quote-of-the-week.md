@@ -1642,6 +1642,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "6 Months In, Biden's Presidency Will Only Get Harder"
+    excerpt: "President Joe Biden said Tuesday the nation's vaccine push feels like a \"constant uphill climb.\" He could have said the same of his entire crisis-tossed presidency as it grinds past the six-month mark."
+    publishedDateTime: 2021-07-21T12:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/21/6_months_in_bidens_presidency_will_only_get_harder_547640.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548678_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Tucker Carlson: Biden Admin Using Force Of Law To Crush Political Dissent"
     excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of cliches designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything's going to be just fine,"
     publishedDateTime: 2021-05-01T00:43:00Z

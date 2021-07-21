@@ -191,6 +191,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GOP AG celebrates Biden admin's reversal on critical race theory handbook as 'big win for parents'"
+    excerpt: "The Biden administration claimed that it was an \"error\" when the Department of Education linked to a radical activist group’s handbook that pushes critical race theory in schools, distancing itself from the organization to the relief of South Carolina Attorney General Alan Wilson."
+    publishedDateTime: 2021-07-21T18:25:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3dw-csSXt9w/gop-ag-celebrates-biden-admins-reversal-on-critical-race-theory-handbook-as-big-win-for-parents"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-ag-celebrates-biden-admins-reversal-on-critical-race-theory-handbook-as-big-win-for-parents.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-ag-celebrates-biden-admins-reversal-on-critical-race-theory-handbook-as-big-win-for-parents.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Tom Brady riffs veiled Trump jokes with Biden at Bucs' White House visit"
     excerpt: "During the Tampa Bay Buccaneers’ visit to the White House, the reigning Super Bowl MVP made a veiled dig at President Donald Trump over his claims of election fraud."
     publishedDateTime: 2021-07-20T18:49:00Z

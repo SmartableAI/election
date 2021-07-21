@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/levin-biden-administration-facebook
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
 type: article
 quality: 177
-heat: 477
+heat: 497
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "GOP AG celebrates Biden admin's reversal on critical race theory handbook as 'big win for parents'"
+    excerpt: "The Biden administration claimed that it was an \"error\" when the Department of Education linked to a radical activist group’s handbook that pushes critical race theory in schools, distancing itself from the organization to the relief of South Carolina Attorney General Alan Wilson."
+    publishedDateTime: 2021-07-21T18:25:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3dw-csSXt9w/gop-ag-celebrates-biden-admins-reversal-on-critical-race-theory-handbook-as-big-win-for-parents"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-ag-celebrates-biden-admins-reversal-on-critical-race-theory-handbook-as-big-win-for-parents.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-ag-celebrates-biden-admins-reversal-on-critical-race-theory-handbook-as-big-win-for-parents.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
     excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."

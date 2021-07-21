@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bed
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/"
 type: article
 quality: 135
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump set to meet with Liz Cheney’s primary opponents"
-    excerpt: "Former President Donald Trump said Tuesday he is planning to meet with a number of Rep. Liz Cheney’s (R-Wyo.) primary opponents next week as he weighs who he will endorse in the race. Trump"
-    publishedDateTime: 2021-07-21T00:03:00Z
-    webUrl: "https://nypost.com/2021/07/20/trump-set-to-meet-with-liz-cheneys-primary-opponents/"
-    ampWebUrl: "https://nypost.com/2021/07/20/trump-set-to-meet-with-liz-cheneys-primary-opponents/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/20/trump-set-to-meet-with-liz-cheneys-primary-opponents/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-cheney.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Rep. Kevin McCarthy Grapples With Legacy of Trump"
     excerpt: "Nearly three dozen House GOP lawmakers broke with party leaders over legislation to create a Jan. 6 Capitol riot commission."
     publishedDateTime: 2021-05-20T23:49:00Z

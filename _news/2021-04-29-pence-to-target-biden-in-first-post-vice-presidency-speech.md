@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 2280
+heat: 2300
 published: true
 
 provider:
@@ -1643,6 +1643,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/54/541946_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "6 Months In, Biden's Presidency Will Only Get Harder"
+    excerpt: "President Joe Biden said Tuesday the nation's vaccine push feels like a \"constant uphill climb.\" He could have said the same of his entire crisis-tossed presidency as it grinds past the six-month mark."
+    publishedDateTime: 2021-07-21T12:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/21/6_months_in_bidens_presidency_will_only_get_harder_547640.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548678_5_.jpg"
         width: 750
         height: 500
         isCached: true

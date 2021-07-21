@@ -28,49 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kevin McCarthy set to meet with Trump at Bedminster club"
-    excerpt: "House Minority Leader Kevin McCarthy is slated to meet with former President Donald Trump in Bedminster, N.J. on Thursday, Trump said in a statement ahead of the gathering."
-    publishedDateTime: 2021-07-15T14:21:00Z
-    webUrl: "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/"
-    ampWebUrl: "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/"
+  - title: "Trump meetings with Cheney opponents don't include Anthony Bouchard, top fundraiser with complicated past"
+    excerpt: "Former President Donald Trump is meeting next week with multiple of the Republican candidates who are aiming to unseat Rep. Liz Cheney – but one of the most high-profile candidates in the race says that he wasn't invited."
+    publishedDateTime: 2021-07-21T19:32:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n4_jbiAlw5o/trump-meetings-cheney-opponents-anthony-bouchard-top-fundraiser-complicated-past"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-meetings-cheney-opponents-anthony-bouchard-top-fundraiser-complicated-past.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meetings-cheney-opponents-anthony-bouchard-top-fundraiser-complicated-past.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/mccarthy-trump-46.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Rep. Kevin McCarthy Grapples With Legacy of Trump"
-    excerpt: "Nearly three dozen House GOP lawmakers broke with party leaders over legislation to create a Jan. 6 Capitol riot commission."
-    publishedDateTime: 2021-05-20T23:49:00Z
-    webUrl: "https://www.wsj.com/articles/rep-kevin-mccarthy-struggles-to-move-republicans-past-trump-11621540163"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-341044/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Rep. Kevin McCarthy Struggles to Move Republicans Past Trump"
-    excerpt: "Nearly three dozen House GOP lawmakers broke with party leaders over legislation to create a Jan. 6 Capitol riot commission."
-    publishedDateTime: 2021-05-20T19:49:00Z
-    webUrl: "https://www.wsj.com/articles/rep-kevin-mccarthy-struggles-to-move-republicans-past-trump-11621540163"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-341044/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "HvBMKGCvi6jKX3SsLKOGDla9xVNI0iUvPEsJ66ZvEmhEGC8e8A/Ml23JVpdbA2C8E2GeTq9UV6Bwo+cSglbevSotCFmkIolX3+ynz9pFKxC9yjuWviBkWNJ6skefDiNWh9cmm9/p06D7bDgr3TFzXpU1IVvIHyDj94sGfUeQ89AdAzgFW5D0udyVVuoIM98NrFzIjSdvBp5jmtkgmfhcyMlGQBYM2fkR/v+a3xC8dGE9b43FnVys3CRwO7H6SQXGBkWt/cgbBeLFKq8vlM96eaYkZ1SqtASVb5vPqCt1NcTO9+sL6IA0IWR/mpT7UMSrbmE55HyjGiDlvp8EXNN/hHknmWH2bYqI5+UlOapRZQPlHcETVnR/nc+nbZ/isWR9cGkGNbGz2QY+939Sh2lCwof8zyMu+YdMcgMmLJyAtpO4Xf4yPBQ0gu//IpemKcsj1TxTGo9vzoN2nXuC66yctyPOsFQcbwwSyOstlWf5MqmR8fRQLaJY4dsqMqcnnh8amOpudL3pzZN11MXWFLE0dA==;PTuS4jEVQscVWWWUdkneYg=="
