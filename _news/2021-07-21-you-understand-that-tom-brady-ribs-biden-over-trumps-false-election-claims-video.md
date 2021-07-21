@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Aides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book"
-excerpt: "Aides to former President Trump intentionally gave his then-personal attorney Rudy Giuliani the wrong time for a presidential debate preparation event last year, according to a new book"
-publishedDateTime: 2021-07-20T02:25:00Z
-originalUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
-webUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
-ampWebUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+title: "'You understand that?': Tom Brady ribs Biden over Trump's false election claims – video"
+excerpt: "Brady joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with US president Joe Biden."
+publishedDateTime: 2021-07-20T20:01:00Z
+originalUrl: "https://www.theguardian.com/sport/video/2021/jul/20/you-understand-that-tom-brady-jokes-with-biden-over-trumps-false-election-claims-video"
+webUrl: "https://www.theguardian.com/sport/video/2021/jul/20/you-understand-that-tom-brady-jokes-with-biden-over-trumps-false-election-claims-video"
 type: article
-quality: 114
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/giulianirudy_111920gn6_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://i.guim.co.uk/img/media/eb4183247e69b9b29b6a3a71a1bb572461d60acb/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ead5c65e05fdefed170340c4582db42"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -78,20 +76,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AQL3UVHD6UI6XNZCRHVA3XTXOE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "'You understand that?': Tom Brady ribs Biden over Trump's false election claims – video"
-    excerpt: "Brady joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with US president Joe Biden."
-    publishedDateTime: 2021-07-20T20:01:00Z
-    webUrl: "https://www.theguardian.com/sport/video/2021/jul/20/you-understand-that-tom-brady-jokes-with-biden-over-trumps-false-election-claims-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 127
-    images:
-      - url: "https://i.guim.co.uk/img/media/eb4183247e69b9b29b6a3a71a1bb572461d60acb/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ead5c65e05fdefed170340c4582db42"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
     excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
@@ -378,6 +362,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/21/PPHX/34f3df5a-f050-4683-a06e-22a1d777c790-AP21141138603134.jpg?auto=webp&crop=3599,2024,x0,y353&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Aides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book"
+    excerpt: "Aides to former President Trump intentionally gave his then-personal attorney Rudy Giuliani the wrong time for a presidential debate preparation event last year, according to a new book"
+    publishedDateTime: 2021-07-20T02:25:00Z
+    webUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
+    ampWebUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/giulianirudy_111920gn6_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump aides told him over a McDonald's meal to stop bitching about losing in Iowa to Ted Cruz in 2016"
     excerpt: "Corey Lewandowski, Trump's 2016 campaign manager, said Trump was told to stop complaining about losing Iowa or his presidential bid would be over."
@@ -969,6 +969,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UnWvQ1f54agFH+s6Lh4n67T/r0Unwb3Y8EHGzcOGqLYlHklf3d49u0lwHXvdxYZC8ZjbWqXSh4z8rmIVqCfqqQOKGLbO598Ac0nMFwU4mI6k4LwNBvVH7BLRr1VXLL0cvcEE3DZV0wKAvCnDwxnInFL5c6PPGyelUw0ra1BO68YVnK4zkmxl1/lU9WrNF7KssaM04rHhahKizs/jZ6sNv9XJSG+EJAq5We2tImEqODpyOrM6eGMSdNMSTQ8LjhujHs/c4kVRXRdAf9drboL+xd3n5WwobdarPEb/M2vhGd4Mv+OWLqacnH59O2TLEeyO6kdQydfsMtSr3kpVV4gCYDSik4xun96STR8HZDiFdsk=;iH8x0yGKHeRn8ufHcCXDTA=="
+secured: "lSQlgj8kqYXqufBJ7kust4sNWUwEkB0od9IXp05WDefQ/wWDdZ6/V6kTM3oulLLQmMyjaGHywwdO5gsN7Ul9GPTKVx/dFjKtUNz3UIprJ6w8+zIF3WGF8vR7O0u9vgaPmpRdsYSYVOCudRQim/SYrEGLB8rq2u5+ZRxQuD9fvl1m6k2W4ykWRd6hb3wMBJy4ue02Vrde2ZRdCGxQmEKCJwcAFKBDKOZitYWz2hg6duYXzOugjetXxqH0QXSFMcdr3SMYSVAgRH4AaG/zlF09PqQSIL332hlhSRhlpq49IVsKLkBn4q2tciMVLo8+XhPqy1+ub/V1i/Mjc2/79FPq7KU7a+Kyo+pA4MbM02LjUIA=;+mZ0/8z23pJXXkf3MdTzRg=="
 ---
 

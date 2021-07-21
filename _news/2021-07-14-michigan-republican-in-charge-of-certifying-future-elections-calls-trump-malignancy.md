@@ -63,6 +63,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'You understand that?': Tom Brady ribs Biden over Trump's false election claims – video"
+    excerpt: "Brady joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with US president Joe Biden."
+    publishedDateTime: 2021-07-20T20:01:00Z
+    webUrl: "https://www.theguardian.com/sport/video/2021/jul/20/you-understand-that-tom-brady-jokes-with-biden-over-trumps-false-election-claims-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb4183247e69b9b29b6a3a71a1bb572461d60acb/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ead5c65e05fdefed170340c4582db42"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
     excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
     publishedDateTime: 2021-07-09T12:48:00Z
