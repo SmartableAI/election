@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'The clock is running': Biden and his White House sharpen their strategy to confront epic challenges  "
+    excerpt: "Joe Biden's presidency is only six months old, but the mood inside the White House can often feel like a race against time.\n    \n"
+    publishedDateTime: 2021-07-20T23:27:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PTUSrvYdN1s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/white-house-biden-six-months/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/white-house-biden-six-months/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720164756-01-biden-cabinet-meeting-0720-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration urging state and local governments to use Covid relief funding to address uptick in violent crime"
     excerpt: "The White House is encouraging state and local governments to use funding from the Covid relief package passed earlier this year to address a summer rise in violent crime as pandemic restrictions loosen nationwide.\n    \n"
     publishedDateTime: 2021-07-12T13:10:24Z

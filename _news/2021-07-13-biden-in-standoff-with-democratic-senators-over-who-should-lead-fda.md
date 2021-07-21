@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'The clock is running': Biden and his White House sharpen their strategy to confront epic challenges  "
+    excerpt: "Joe Biden's presidency is only six months old, but the mood inside the White House can often feel like a race against time.\n    \n"
+    publishedDateTime: 2021-07-20T23:27:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PTUSrvYdN1s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/white-house-biden-six-months/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/white-house-biden-six-months/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720164756-01-biden-cabinet-meeting-0720-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

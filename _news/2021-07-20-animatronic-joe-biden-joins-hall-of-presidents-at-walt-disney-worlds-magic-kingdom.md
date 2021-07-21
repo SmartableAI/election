@@ -3,22 +3,18 @@ category: news
 title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
 excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
 publishedDateTime: 2021-07-20T16:30:00Z
-originalUrl: "https://www.usatoday.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-webUrl: "https://www.usatoday.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-ampWebUrl: "https://amp.usatoday.com/amp/8027480002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8027480002"
+originalUrl: "https://www.desmoinesregister.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+webUrl: "https://www.desmoinesregister.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/8027480002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8027480002"
 type: article
-quality: 119
-heat: 159
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -45,21 +41,30 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "President Joe Biden Speans at Atlantic Aviation in Philadelphia"
-    excerpt: "President Joe Biden delivers remarks on actions to protect the sacred, constitutional right to vote at the National Constitution Center in Philadelphia on Tuesday, July 13, 2021. Photo by John Angelil"
-    publishedDateTime: 2021-07-13T19:33:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e1f050c413c7fa2b6a66cce25f31c302/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
+  - title: "Joe Biden Returns to the White House from Philadelphia"
+    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
+    publishedDateTime: 2021-07-13T23:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e1f050c413c7fa2b6a66cce25f31c302/BIDEN-PHILADELPHIA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
         width: 650
-        height: 480
+        height: 940
         isCached: true
+  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
+    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
+    publishedDateTime: 2021-07-20T13:02:00Z
+    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "5/Ukg+EAx3fqJ775aHUMxLhB/PO8QIrxkpGqQxpmqtRok2D/GvN+gLOIgO3v8TABml7W5xL5bltoViIgE7YJytzGuWsu+jbt01A0amTGsErDjVvSS6lRC/JsYX9xqc6Za1NOlNGirqqETab4KeCbmUTaD3Ulr0XQyfMJnJQlJrD0sw50nUUvOyOPUaXClXApAzUQWTSyCCoNrgeqd2EZuEdeDJOX58DQxNXymakPCvFPBSkeM6CacNOkbsoMlg8mpJL+ggvxWuk+JyPYsPZJnVnuOxpMybsvz2Fowrm/gPyJ943noYAhyx8p40IfxPU08+DC9yH/Sn/O9v968ktxbU/xW3CC9aQRuXZkxHn6AgcLaWacUJXmU1KB1uwiMz8J71j1uREmsykGsMdsm11/X20hxpteGVQw9do8MgN8fsRk0aurJACMdRL+n+mtQKqAZsfPoylfdv/GQjndsiXXIY5AMbApEfpZNYoDdVI3RH0AnZ6FGUdYfW5vJb9bhR2ah/029t1oFV/Ih7ATI0bt9Q==;5OmLQqWeZhjPzbheIiqDxQ=="
+secured: "fTTbudqFWOME2bjVr0EHKFsCNUgKNJ43UfGQiT2HtoVk9n944RtyTqfou+52X4kT9KJiCFk7dJ798BG88N8oRRHoUg0Ky4PpfJ5AzSQyf1UMUnW1VynaBS1XfHQG5RRpXWSCKyjingjl8JfBBTBPte2Ages07sDuRr4kZiCjSgSVuf9AD92XXSaXLpGZNU1zjVZRQTiF7nH9z3WijtUZ3muvD7w2M4sFRYNbw1DOGgOhreC22P0ZPcx703NImfDPLy/MclZbnz0GeYQnvuBQTKwE4nokuXUQxAqmQnz4zP80VvelEZqZL2JD5ZXUDW39Ab7IdtMziP8eIR6JFCm6/FJtX4TrWG3hvmzeXylDF+w=;07mFuqNjvr/oHKe7Zdvvmw=="
 ---
 

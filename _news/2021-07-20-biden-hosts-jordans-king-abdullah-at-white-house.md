@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 165
+published: true
 
 provider:
   name: USA Today
@@ -32,33 +32,42 @@ related:
   - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
     excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
     publishedDateTime: 2021-07-20T16:30:00Z
-    webUrl: "https://www.usatoday.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/8027480002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8027480002"
+    webUrl: "https://www.desmoinesregister.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/8027480002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8027480002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "President Joe Biden Speans at Atlantic Aviation in Philadelphia"
-    excerpt: "President Joe Biden delivers remarks on actions to protect the sacred, constitutional right to vote at the National Constitution Center in Philadelphia on Tuesday, July 13, 2021. Photo by John Angelil"
-    publishedDateTime: 2021-07-13T19:33:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e1f050c413c7fa2b6a66cce25f31c302/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
+  - title: "Joe Biden Returns to the White House from Philadelphia"
+    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
+    publishedDateTime: 2021-07-13T23:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e1f050c413c7fa2b6a66cce25f31c302/BIDEN-PHILADELPHIA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
         width: 650
-        height: 480
+        height: 940
         isCached: true
+  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
+    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
+    publishedDateTime: 2021-07-20T13:02:00Z
+    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "dntJcCqt8kN5+66fgCE/EITZaWdmwykOMgp9T9SppDb0sTsk31JbGT+P7qpmh1cFZ+MhQEYEge54VBQdqSNojW0XlSAOHpUoulNAO4+YiPwFZ5HnlBjdTuaFkxfJLvI0yVosnurFPcJhRFjdPRdzN87vDSw3qMPCZPofnKw/a6GeR4IAC9zFaypzymqX1QnzD/qVcrQosEGj/CGM2Jwhy8tWwtQQgCmyQ6gzYpVkEo7TZFB2tSGfHztQD87jR/trPVBqdq68NJdNBbDuf/r+SjRS+FBU6z7vrOkhX+LhhgUDLx+Y7PQ6vg2Rfn0TxQXsxMu+FOaPwy4pdVHXt94ChCN7OsRCn4ehGg0fNrwCol8MAevLQKdIfrydR4oD+lRTJqDZ6PYQWRhA8Ven/XO1FwLg2LYbVAV7wsmNsN65vmJ+PQgBbzpP6bI2nWGBr9NYifbpTIsDz9QtvRgqKuXLsW53GirVzm3SjHLri/eN1AdSF+700d6jwOHtLhlkWzNYpGRMwzt5KQAnA3yYmLjV4g==;S5MYRpMyCnaxup0ZoIePZA=="
 ---

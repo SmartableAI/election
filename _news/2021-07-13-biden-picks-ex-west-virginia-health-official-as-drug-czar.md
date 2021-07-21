@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-west-virgini
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_02d45db45f544ca8858e9eb447415f7b_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "At six months, Biden convenes Cabinet but roadblocks loom"
+    excerpt: "President Joe Biden marked six months in office on Tuesday with a crowded Cabinet meeting, a gathering meant to symbolize both a return to normalcy due to vaccines and a display of the federal government doing the people’s business."
+    publishedDateTime: 2021-07-20T21:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/months-biden-convenes-cabinet-roadblocks-loom-78955586"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/months-biden-convenes-cabinet-roadblocks-loom-78955586"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/months-biden-convenes-cabinet-roadblocks-loom-78955586"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Biden rallies Dems to support infrastructure ..."
     excerpt: "Watch \"Biden rallies Dems to support infrastructure plan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

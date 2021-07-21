@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris says she's speaking with GOP senators about voting rights legislation"
+    excerpt: "\"I have spoken to Republican senators — both elected Republicans and Republican leaders,\" Harris told CBS News."
+    publishedDateTime: 2021-07-21T01:23:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-republican-senators-voting-rights/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-republican-senators-voting-rights/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-republican-senators-voting-rights/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/20/54cc6f02-a613-4c86-92e0-4dbdc17ff4d6/thumbnail/1200x630/aac21f6f4324fc5ef2e6ab8a79afc94c/gettyimages-1234012135.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
     excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
     publishedDateTime: 2021-07-17T12:00:00Z

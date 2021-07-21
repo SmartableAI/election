@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "At six months, Biden convenes Cabinet but roadblocks loom"
+    excerpt: "President Joe Biden marked six months in office on Tuesday with a crowded Cabinet meeting, a gathering meant to symbolize both a return to normalcy due to vaccines and a display of the federal government doing the people’s business."
+    publishedDateTime: 2021-07-20T21:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/months-biden-convenes-cabinet-roadblocks-loom-78955586"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/months-biden-convenes-cabinet-roadblocks-loom-78955586"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/months-biden-convenes-cabinet-roadblocks-loom-78955586"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "President Biden discusses economic recovery ahead of infrastructure push"
     excerpt: "President Joe Biden spoke about jobs and his plans for economic recovery Monday, including the negotiated bipartisan infrastructure framework, as the nation continues reopening from the coronavirus pandemic."
     publishedDateTime: 2021-07-19T16:50:00Z

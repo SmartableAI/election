@@ -19,21 +19,49 @@ topics:
   - Kamala Harris
 
 related:
-  - title: "Texas Dems’ may have infected Pelosi and Harris aides, dimming prospects for Biden meeting"
-    excerpt: "The Texas Democrats who fled Austin have spent the last eight nights at a hotel a half-mile from the White House, and they’re growing a"
-    publishedDateTime: 2021-07-20T15:40:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
+  - title: "Biden hosts Jordan's King Abdullah at White House"
+    excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
+    publishedDateTime: 2021-07-19T20:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 80
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/VuNw3dJQ29DfLLcuiEK23QhNUSE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/PCSJ5JXUKANH5IEU3MZULTDK2A.jpg"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
+    excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
+    publishedDateTime: 2021-07-20T16:30:00Z
+    webUrl: "https://www.desmoinesregister.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/8027480002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8027480002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "Joe Biden Returns to the White House from Philadelphia"
+    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
+    publishedDateTime: 2021-07-13T23:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
+        width: 650
+        height: 940
         isCached: true
 
 secured: "HhqejhtdgcDAZBj5CcrClYznJ7Egkx67ZwA00pOpgoMDIhhcPJvxx6SIS1J7+D+Yun0jNAqW5mK5hlVd2/wjVguK9DgBUjJACpAzr2i5VhhHSkE+Hs4zH3h3mHWcaIGL1G+oSG7lV4uQ+7qALusO+jeyAQP//y+1Yx7m8gNJAvpxAHyiQh329etjCYZPBUGDKQZucW/PCN5tyq5y2q88DKquMokHa3oGsuDVhBgy+TTd62VQ+W/VwS80y3JgJno/SfbWsKGrloYmQhm8xswwLj7sl2UZ9t+l6uMdy6SGuEYdWKGyQ0r9GItd8h/xaqONiCHBkR/D1yLRvALEXyKIV4Wea9F2+KLJZ9GW4QVkKbd3FOy2Y8E6NieDpchLL+5FpKn6i0Nven6hWQuSwl0m8yNJhJxobiX3luxM17bU8yue4I0N2msV0Ja+QtMdKHy0r8sIJ8G5jqgQhfVIoWDGcUhEQnJsOE/PGnb804yeyDyyFl1vakyh6bvUgJ3G9UvaIa4Djs7Dhl5UyJ4+D+NuGQ==;iZyJXSMYJV1GBrJLQSTIew=="
