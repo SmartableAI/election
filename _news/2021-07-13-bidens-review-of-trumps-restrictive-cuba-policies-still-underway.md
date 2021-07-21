@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to take stage at CNN town hall as he stares down critical crossroad in presidency"
+    excerpt: "President Joe Biden is visiting Ohio for a CNN town hall on Wednesday as his six-month-old presidency reaches a critical juncture.\n    \n"
+    publishedDateTime: 2021-07-21T21:01:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3OnYnnY6bA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154356-01-biden-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden condemns 'selfishness' of stolen election lie pushed by Trump"
     excerpt: "\"Have you no shame?\" he asked Republicans in a Tuesday speech as federal voting rights legislation stalled and a wave of restrictive new laws passed in GOP states nationwide."
     publishedDateTime: 2021-07-13T23:48:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-fr
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329902.php"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Update: Pelosi bars Trump allies from Jan. 6 probe; GOP may boycott"
+    excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped to sit on a committee investigating the Jan. 6 Capitol insurrection, citing the \"integrity\" of the probe."
+    publishedDateTime: 2021-07-21T16:49:00Z
+    webUrl: "https://www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.html"
+    ampWebUrl: "https://www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.amp.html"
+    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.amp.html"
+    type: article
+    provider:
+      name: Northwest Indiana Times
+      domain: nwitimes.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/ca/1ca0d778-2aaa-52ec-81c3-98ddb7dd0e31/60f850607eeca.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott"
+    excerpt: "House Speaker Nancy Pelosi on Wednesday rejected two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection, a decision the Republican denounced as “an egregious abuse of power."
+    publishedDateTime: 2021-07-21T21:37:00Z
+    webUrl: "https://www.chron.com/news/article/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329703.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329703.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329703.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
     excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."
     publishedDateTime: 2021-07-21T18:32:00Z
@@ -37,6 +69,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "8qHUMYdc2IyxQ62J75NGvPrPlYIkI7hk3282Nkq7LoegutlZDLsi36ihV61v8BAfdDXKmbWPUvUP69Ig4OhkZmqGP23T5mhxmVd0Cd7dOdhmCDkHmDnb6y34kz+LvvyoguWXYOm+oG/vCDQukLuwaf47pftYa4FJy/7w614sq447xVPEs0H4K6P2Q/U0xE+SGjyc/SP9l1JQQq2utNn+iOlwjcNZDlBqqo391fyu0TaLDtPjTf7Pvl+xEapAz15Kt/lRm1QP5J0vjuZqLq8Vk4MVpC0DCSnVk/2oR86mOyqUnP9CBC2ypO2+3PChQ8Xb1n1Dxk++JAH/qqbzJpcSYYg9aWGTLx/IU8psWZjHhys=;R86x+90EzWBIQqqyvKq6Tg=="
+secured: "x3VJZliWqgZYaOraGjiz1IO+LINJ4JeEpVoxvLhaIbXU8VUSxJdlDM52iyZqKDePPOAV0BKfoZkwk2lftdJBkYA6qKolMP0hJx8qLuHVEZPRhjGNqWM7YDc+op1nVRCXYaCUK5qq5ug+v7ifDY+56C9C8usj8H1O/qCrrGZ8gjQT1+46Qfy8WP2j+1HYONKdEBVrhZ4rR2WLOx4LCuVu3rpscWMM8jLmMd3GU4DvCiQtzUD2I2vYK+bse4U/OaOVJ8OstfgW/dq8gYEfRDQ3MQau8aPjodepuNfnHkiMLZk688nZ5CeJ47ouZM3o4cN76705arwJBd6OT2bz2TiJn2uDqgljn8/aeCczlMaANhj7rZB6d4rhYPIMPnT9RQAGxkYAbvkw2g55BssmTg7zMNRt1IU5kstxr8hc9knwqav8lFhoE4yqTgdqCNRipOQuOE1FL9XpdSqCv2RYmmhTfPJBJiYokLRW6+KNagXsWPTWIg5Mhq3uot0dIMurFHWzH1ckje4JNVWcVTkIvGEgpA==;te9L5XeZ38QY0AKEDotJvg=="
 ---
 

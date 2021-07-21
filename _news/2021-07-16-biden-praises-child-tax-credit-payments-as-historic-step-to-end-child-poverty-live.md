@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Marine One takes off from the South Lawn with President Joe Biden"
+    excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
+    publishedDateTime: 2021-07-21T20:25:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dba3faa423dfc5e4c032a852850c27ee/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dba3faa423dfc5e4c032a852850c27ee/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "KtfwDjl/WbuS52kl/erKHl80Yr8Z9TiDQ0RR45K4N8rpyIMzsbn2Y9khZFRb7lwRDPe+pm1ezWVtaUdwoSHxsAkBSMGXEXzD7xiQfoNXQAYGcYtMCdvt8+fTTtBB4GbM36RR4vX4jVQm/tkAFbTMBBrrPg4JiH1NizKyuJNig63Tr35lrmTeploFvYvK2zecSttFsrKLDSNTs+Hns/Hu7nZbnXGXSH0fHfy1f3eOkJnXLWkdrqOTXpSSL36mezo3++N3B+pb0kcy31pKb7MKmndyLQBTuItZFZWz7rHvw19C7o1S9nfwUV3xWwbSBf6gH8N6hrRTTYR7pTm2gUE/uOAw8lEPZfop7j5IWGCDLGTH/X5SM3HUsgKhAsPL2lWtHxIkgGfxgVzQPcAUskEWXEKJJXPfJsqtm9B4oN4qi+zEEXuZQfINFsksHrwVysbUU3eHGErkEfvlynuJiUVPdGsNlVMVonpwxL/geym7Dtbg1M0xK/N/Q8PuimryRIf6IyDlqrCLK/X2ADptNAfh5w==;YJidU+AUxFIQO0KrhdV8AA=="
 ---

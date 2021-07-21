@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.reuters.com/resizer/y5He3Hpeccj9uPqCfW8BphaheVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HVLUSZ6UWZI2BDO3L33JXFQCTQ.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Marine One takes off from the South Lawn with President Joe Biden"
+    excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
+    publishedDateTime: 2021-07-21T20:25:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dba3faa423dfc5e4c032a852850c27ee/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dba3faa423dfc5e4c032a852850c27ee/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "XnmuHD28pgC9JPdjNXernCxdSp8++YyLKs7x3FES5Z7GUEkX8hcrgGQqrrN9jE12Pkal+cU6zJ/2JrueTHHxgDko4M/eYMok4Czh+Gpegw7SHbdzfpGqXUFdRsNh9jRCfQABZXQ6VVE4q24Q90c5IMzJLXOWV6T671s6VvJETvdVfQ4G9oi9rg34pQ6FCPhQ86jTxXi9qdFjCtt97q/IFmuEAVEz+PFuz43BpaSFtkUXhyXbzMZsHHt3QAIVxc4/KCS0tb1dyQTU4+XLH+2fViraW2VoouhLTMrFpZ3BpG58uxUloEOZCg4Y9mnmTBSJ0JeaC82rpS8ZvWUUFPkdbQrT2cL8loefES9YzX+2Apg=;8vPNzX6o2a2MuniUO5mS0A=="

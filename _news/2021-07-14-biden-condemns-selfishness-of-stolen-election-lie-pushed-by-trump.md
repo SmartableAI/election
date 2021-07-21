@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to take stage at CNN town hall as he stares down critical crossroad in presidency"
+    excerpt: "President Joe Biden is visiting Ohio for a CNN town hall on Wednesday as his six-month-old presidency reaches a critical juncture.\n    \n"
+    publishedDateTime: 2021-07-21T21:01:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3OnYnnY6bA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154356-01-biden-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "To China, Trump Was Bad. Biden Seems Even Worse."
     excerpt: "Accusations of hacking and other moves by the Biden administration have surprised and angered China’s leaders, who are pushing back with punitive actions and vitriol of their own."
     publishedDateTime: 2021-07-20T13:39:00Z

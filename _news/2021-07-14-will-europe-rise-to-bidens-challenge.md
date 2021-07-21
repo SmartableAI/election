@@ -7,7 +7,7 @@ originalUrl: "https://www.realclearpolitics.com/2021/07/14/will_europe_rise_to_b
 webUrl: "https://www.realclearpolitics.com/2021/07/14/will_europe_rise_to_bidens_challenge_547136.html"
 type: article
 quality: 65
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,40 @@ images:
     width: 750
     height: 500
     isCached: true
+
+related:
+  - title: "Ukrainian president Zelensky to visit Biden in August"
+    excerpt: "Ukrainian President Volodymyr Zelensky is set to meet with President Biden next month, the White House announced Wednesday."
+    publishedDateTime: 2021-07-21T20:49:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august"
+    ampWebUrl: "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/216af4a8-262c-428f-8c3c-b0753edaf990/d499b3d7-637d-4397-b5ce-8e666de59a61/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "President Biden: Communism Is A Universally Failed System"
+    excerpt: "President Biden was asked to comment on his position on protests and unrest in Cuba and critics from the right who said he is soft on communism: NEW!Powerful statement from President Donald J. Trump on Biden's refusal to stand up to the Communist regime in Cuba\"Today’s Democrat Party is so far left they can’t even take a stand against violent Communism."
+    publishedDateTime: 2021-07-15T22:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/15/biden_communism_is_a_universally_failed_system.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/15/biden_communism_is_a_universally_failed_system.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/15/biden_communism_is_a_universally_failed_system.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/548226.jpg"
+        width: 4198
+        height: 2799
+        isCached: true
 
 secured: "M0o4nqv6jL4njNc7GOu/yZPb8PQkM4z3IZzjkyu5lY9kbx5CNWbhmzJUgImQTWfFyENoDip5LUrySmF9UtDJZprEF934ipWKoZyf3oQyUnthLSnhgmAeP/GgjDN0nvOy/gYlF6o7WY5V0zvBsdHa/6g1MZJUdkSLFvPA0D/rp/NdU1RL7iAr0KnpaC+j+ynT7MzauxpD/uS1hBlB8xE3HWPuH9O9K6hY4+5WxC2z703l0d8ePm8cY66zciRzYpYsVKRIOBf4jju68h0cUXFauuG9+SEYzsBE4giFLkjChONgvipVM8T32gMR89icjdqx5cUdjQrlZATbgmdpzMIs61P3exrVUS5gwdVPcNP8zSI=;AemcMF/dRYsu9X1U123+ow=="
 ---

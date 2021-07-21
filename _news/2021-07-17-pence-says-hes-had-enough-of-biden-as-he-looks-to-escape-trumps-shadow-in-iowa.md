@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
 type: article
 quality: 209
-heat: 489
+heat: 509
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to take stage at CNN town hall as he stares down critical crossroad in presidency"
+    excerpt: "President Joe Biden is visiting Ohio for a CNN town hall on Wednesday as his six-month-old presidency reaches a critical juncture.\n    \n"
+    publishedDateTime: 2021-07-21T21:01:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3OnYnnY6bA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154356-01-biden-0721-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
