@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Vice President Harris Meeting with Jordanian King Abdullah"
-excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
-publishedDateTime: 2021-07-20T13:02:00Z
-originalUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
-webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
+title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
+excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
+publishedDateTime: 2021-07-21T12:07:00Z
+originalUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/"
+webUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/"
+ampWebUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
 type: article
-quality: 35
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - Election
-  - Kamala Harris
+  - Joe Biden
+
+images:
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Biden hosts Jordan's King Abdullah at White House"
@@ -49,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
-    excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
-    publishedDateTime: 2021-07-21T12:07:00Z
-    webUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/"
-    ampWebUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 69
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Joe Biden Returns to the White House from Philadelphia"
     excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
     publishedDateTime: 2021-07-13T23:13:00Z
@@ -79,7 +71,16 @@ related:
         width: 650
         height: 940
         isCached: true
+  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
+    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
+    publishedDateTime: 2021-07-20T13:02:00Z
+    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "HhqejhtdgcDAZBj5CcrClYznJ7Egkx67ZwA00pOpgoMDIhhcPJvxx6SIS1J7+D+Yun0jNAqW5mK5hlVd2/wjVguK9DgBUjJACpAzr2i5VhhHSkE+Hs4zH3h3mHWcaIGL1G+oSG7lV4uQ+7qALusO+jeyAQP//y+1Yx7m8gNJAvpxAHyiQh329etjCYZPBUGDKQZucW/PCN5tyq5y2q88DKquMokHa3oGsuDVhBgy+TTd62VQ+W/VwS80y3JgJno/SfbWsKGrloYmQhm8xswwLj7sl2UZ9t+l6uMdy6SGuEYdWKGyQ0r9GItd8h/xaqONiCHBkR/D1yLRvALEXyKIV4Wea9F2+KLJZ9GW4QVkKbd3FOy2Y8E6NieDpchLL+5FpKn6i0Nven6hWQuSwl0m8yNJhJxobiX3luxM17bU8yue4I0N2msV0Ja+QtMdKHy0r8sIJ8G5jqgQhfVIoWDGcUhEQnJsOE/PGnb804yeyDyyFl1vakyh6bvUgJ3G9UvaIa4Djs7Dhl5UyJ4+D+NuGQ==;iZyJXSMYJV1GBrJLQSTIew=="
+secured: "EBL/fALWMJcB/EnVKGC6VruD5Ocqg0DXb+XKtG1WY48VL2XpVcJDGImrcgUCMsxpS9kZZ+ZpEeTDn9i1i3Y+tSTlJdLxoTYHqFs04+fO55bkjDUYLgxV/JmvxaiY+gQUsZEkBKkD0IgacFDinE4qym8+vp1zyqXP+8zuMq87WpFyzXzwLRJTMuejn4m90P/ERwNZHo52wfxMeAN22KexKBGS4u7l8OcpE6i5KvS1CZVGfaC0tANysJLZdLYtpiSbgoV3BTiXD6BeNdzPeyyQSSwYBEWe0GTKWaV1bM7eUwzKqDd2u6j0A80rc2ta3njOHo2ZCwK6Kkir23h2vplgBENcHP5edXgqFMz5ETiq5cs=;il5MMMfgq0pdoaKUX9pp5w=="
 ---
 

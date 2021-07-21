@@ -1,14 +1,14 @@
 ---
 category: news
-title: "The Point: The single most revealing fact in the new Trump books"
-excerpt: "There are all sorts of explosive new revelations in the three new books detailing the final months and days of Donald Trump's car-crash presidency. But the most revealing part of all three has nothing to do with their contents. It's that, for each book, the former President sat for extended interviews"
-publishedDateTime: 2021-07-15T15:17:51Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vp9YyBlR8Fk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vp9YyBlR8Fk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
+title: "Biden and Schumer working fast to confirm judges and counter Trump's reshaping of the federal bench"
+excerpt: "President Joe Biden and the Democrat-led Senate are working quickly to appoint judges from a broad range of backgrounds to the federal bench as they counter Republican efforts to reshape the bench over the previous four years.\n    \n"
+publishedDateTime: 2021-07-21T11:38:41Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sFs7ib_GJBA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sFs7ib_GJBA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-federal-judges/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-federal-judges/index.html"
 type: article
-quality: 175
+quality: 176
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316235645-cnne-trump-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714131955-01-biden-us-capitol-schumer-0714-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,19 +79,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden and Schumer working fast to confirm judges and counter Trump's reshaping of the federal bench"
-    excerpt: "President Joe Biden and the Democrat-led Senate are working quickly to appoint judges from a broad range of backgrounds to the federal bench as they counter Republican efforts to reshape the bench over the previous four years.\n    \n"
-    publishedDateTime: 2021-07-21T11:38:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sFs7ib_GJBA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-federal-judges/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-federal-judges/index.html"
+  - title: "The Point: The single most revealing fact in the new Trump books"
+    excerpt: "There are all sorts of explosive new revelations in the three new books detailing the final months and days of Donald Trump's car-crash presidency. But the most revealing part of all three has nothing to do with their contents. It's that, for each book, the former President sat for extended interviews"
+    publishedDateTime: 2021-07-15T15:17:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vp9YyBlR8Fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-2020-election-books/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 176
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714131955-01-biden-us-capitol-schumer-0714-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316235645-cnne-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -236,6 +236,6 @@ related:
         height: 629
         isCached: true
 
-secured: "lGKgoL3/CyMLObMjk9VLgBqkSHo2PG0RJJngNn68v6xYPHtulp5zKCGjnyv/l1r9j5PzDqxN2mB2JPnmI/7dDRA29FUX23KTkOgCIjvjKnK2tZ7LnLdJ293KNnJIl9NdgZmb4h03lo0W0AaYaBQSCBRaNGssPjG9God9uYLTteJ+g7cW8p4HFAffcwGncJedw3adN/Kr2aZEhX/Zb+TA5iYh+OIfLMF8BtpUW0JFk5FTmwEIvuMrwvpXKOzXM2gF1IFxIJb/pIRg9GZbJaDT+AZcCUzKRyORiUGkVbUhnYrql9LTYhqSpLnKfQp2iiP0lpOHK1qiJUJaxSUQta4v1WFmyR7/wMqhKXdVxMRmjQo=;SK3E2U75pOjs5L7e4iUEIg=="
+secured: "MS+IvPD1fwSlS9N8vT2ivvfdFQG3pgB5RsQ6wQA+LQbnr71SAooKyqvX0wDBSM0APpb19Eqm0TTp+govL2OQ23UFpWv1zaP6CILZT9qYurXyyfGfVQPm2IiTsPu9h+q6zqAjuKj/nwdfPNuG+uR4m99BDHk2W/DfhdbYfVKj/P9Lb03mlWOOqyk04kj18EPDbeKZtZ/CDps9COtipFz0mLPBxxQMKjnbklQgtAFV7JQFKgZgCeo59LpAVa8sgjZZNzQAm5umsNw86C26KPp4rO904vSeQLO9Xju1bOkItkoeNfdeyp4HWxfpsOJfT5GQcrMjr0lp7CrIMT5WOMJjgmuzuYbKojS+313PabZXvUQ=;zK1xilXKXQovoiwUOTIakw=="
 ---
 

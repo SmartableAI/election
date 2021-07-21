@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Biden's dubious claim that 'the law doesn't allow' Afghan translators to be evacuated to US while they wait for visas"
-    excerpt: "Thousands of Afghans who worked with American troops face grave danger as a result of the ongoing US military withdrawal from Afghanistan.\n    \n"
-    publishedDateTime: 2021-07-14T20:21:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XqZcs1oBIPs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 146
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden: U.S. troops will withdraw from Afghanistan by August 31"
     excerpt: "President Joe Biden announced that U.S. troops will withdraw from  Afghanistan by August 31. Biden said, “The U.S. did what we went to do in Afghanistan. To get the terrorists who attacked us on 9/11 and to deliver justice to Osama bin Laden."
     publishedDateTime: 2021-07-08T18:36:00Z

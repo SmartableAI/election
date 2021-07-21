@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Belarus opposition leader says she gave sanctions list to Biden administration"
-excerpt: "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n"
-publishedDateTime: 2021-07-20T17:37:52Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
+title: "How to watch the Biden CNN town hall "
+excerpt: "President Joe Biden will participate in a CNN town hall on Wednesday in Cincinnati, Ohio, just over six months after taking office.\n    \n"
+publishedDateTime: 2021-07-21T10:02:14Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CDVS3oWY46A/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CDVS3oWY46A/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html"
 type: article
-quality: 171
-heat: -1
-published: false
+quality: 175
+heat: 375
+published: true
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "How to watch the Biden CNN town hall "
-    excerpt: "President Joe Biden will participate in a CNN town hall on Wednesday in Cincinnati, Ohio, just over six months after taking office.\n    \n"
-    publishedDateTime: 2021-07-21T10:02:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CDVS3oWY46A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html"
+  - title: "Belarus opposition leader says she gave sanctions list to Biden administration"
+    excerpt: "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n"
+    publishedDateTime: 2021-07-20T17:37:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -192,6 +192,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "6LD/qr8c4q2QgvaJOUaQyz4+hNpg4YsCYOK3SPuIrn8KsK69eOgZRIrYI3C4wrCSBROR+t1tGVdvyS0L9JmvLoGdXIZwEbyt9gwELhqvqbLY9U7gTQ0NgjvwleY5OFv6wDBAX5M9cw5OS3Id7z1tmjYgAYTdUxVjWYQ97E2EFVW8Iiz35eEi7+V7nxubGJuOdWEF+Y2KSXDaSXzNrFunz6UEFv6wfGLVLU9fJp3LGf+e8ysOvvbpGKg1OP4mTs5jATsNltN1coNErGw7MZ1RB8sFSXQx2b+zbnsV10H2Qs2HkL/w8qyoATyrVqba2xAXgjSOm0jBx5oZno5y+dl0+aSzAhjoh5Emh5LLTAA8KTs=;YMDY/1zw6sfRIj80QjLWzw=="
+secured: "XX9l8PuduByMgVQRIrj2XyokhEcjuj5U6/DRI8zN4719SO8auNM9Kg0Q3T+6iCO92Jgod+2jDp9imSg2f8DYnhDZoliJZwy0xniTpZWSpS6FzO1YEfrGjfbEEW0EkpCSWKXBkWcmEZgYVEcmN1M7L+okxl9IEu5P3YldEj5f2yrVJLEudhZXO+IK22EXjaGivA+0PUWo4GlE0Rl0VHQWuZAvoGlk7eXBUo/jTunELYG715mu2X+fwA7n+7P9JZHAW4sRg7pbPAENeU2v+KB71lyDjH92mlPU+7I4FLYDrh0EnntVUNXt0cvqrfxGWenY5MCrXS5/lOL1wGm2tIK6bO9kb4LwBodHndniwHz+6PI=;ZBJ08QCoix3YqZCgljnDwQ=="
 ---
 

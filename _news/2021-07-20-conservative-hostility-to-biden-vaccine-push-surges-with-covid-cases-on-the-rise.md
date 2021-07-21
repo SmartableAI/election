@@ -32,53 +32,165 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says platforms like Facebook are 'killing people' with Covid misinformation"
-    excerpt: "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n"
-    publishedDateTime: 2021-07-16T20:50:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
+  - title: "How to watch the Biden CNN town hall "
+    excerpt: "President Joe Biden will participate in a CNN town hall on Wednesday in Cincinnati, Ohio, just over six months after taking office.\n    \n"
+    publishedDateTime: 2021-07-21T10:02:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CDVS3oWY46A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden backs away from his claim that Facebook is 'killing people' by allowing Covid misinformation"
-    excerpt: "President Joe Biden continued to put pressure on Facebook on Monday over the online dissemination of Covid-19 vaccine information, but backed off his recent accusation that the company was directly responsible for \"killing people\" and suggested it was merely allowing misinformation to spread.\n    \n"
-    publishedDateTime: 2021-07-19T17:42:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1LIjzWo_SLA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/joe-biden-facebook/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/joe-biden-facebook/index.html"
+  - title: "Belarus opposition leader says she gave sanctions list to Biden administration"
+    excerpt: "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n"
+    publishedDateTime: 2021-07-20T17:37:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124236-01-biden-economy-remarks-0719-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'They're killing people': Biden blames Facebook, other social media for allowing Covid misinformation"
-    excerpt: "The White House has warned in recent days that false claims shared on those platforms are contributing to a decline in U.S. vaccination rates."
-    publishedDateTime: 2021-07-16T21:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/they-re-killing-people-biden-blames-facebook-other-social-media-n1274232"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274232"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274232"
+  - title: "Biden faces key decision on whether to reappoint Federal Reserve Chair Powell "
+    excerpt: "President Joe Biden soon faces the same decision his most recent Democratic predecessors did: whether to reappoint a Federal Reserve chair put in that job by a Republican.\n    \n"
+    publishedDateTime: 2021-07-21T00:03:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iI8VZe9rGBM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/jerome-powell-white-house-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/jerome-powell-white-house-biden/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 120
+      name: CNN
+      domain: cnn.com
+    quality: 171
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491822/210716-joe-biden-ew-318p.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714134901-01-jerome-powell-0622-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to tap former ambassador to France as his ambassador to the UK after lengthy search"
+    excerpt: "President Joe Biden will name Jane Hartley as his ambassador to the United Kingdom after a lengthy search, a person familiar with the decision told CNN.\n    \n"
+    publishedDateTime: 2021-07-16T17:11:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE06_f1H4RM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716112743-jane-hartley-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Hospitals could face $2 million fine for not disclosing prices under proposed Biden rule"
+    excerpt: "The Biden administration is doubling down on a Trump-era rule that requires hospitals to disclose the rates they privately negotiate with insurers.\n    \n"
+    publishedDateTime: 2021-07-19T23:18:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i8Bjq9pnXBg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719174749-hospital-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to focus on Covid-19, infrastructure, climate and cybersecurity at Cabinet meeting"
+    excerpt: "President Joe Biden is holding his second full Cabinet meeting on Tuesday to mark six months in office, and is expected to focus the discussion on Covid-19, infrastructure, climate and cybersecurity, a White House official tells CNN.\n    \n"
+    publishedDateTime: 2021-07-20T12:00:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbhedwxEROg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Merkel and Biden to chart a course for the future of US-German relations in White House meeting"
+    excerpt: "President Joe Biden and German Chancellor Angela Merkel are set to meet in Washington on Thursday in what is likely the European leader's final appearance at the White House before she steps down from her long-held position this fall.\n    \n"
+    publishedDateTime: 2021-07-15T11:43:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c7GkBixAWUY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714182833-joe-biden-angela-merkel-g7-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'We've come up against the brick wall': Southwest Ohio fights vaccine hesitancy ahead of Biden town hall"
+    excerpt: "Dena Cranley and Barbara Lynch have a blunt reality check for President Joe Biden: His repeated pleas for vaccinations are going largely unheeded and unheard.\n    \n"
+    publishedDateTime: 2021-07-20T13:37:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LIOXc7IZP18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/vaccine-hesitancy-cincinnati-ohio/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/vaccine-hesitancy-cincinnati-ohio/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528111827-kroger-vaccine-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Biden's dubious claim that 'the law doesn't allow' Afghan translators to be evacuated to US while they wait for visas"
+    excerpt: "Thousands of Afghans who worked with American troops face grave danger as a result of the ongoing US military withdrawal from Afghanistan.\n    \n"
+    publishedDateTime: 2021-07-14T20:21:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XqZcs1oBIPs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why Biden Might Avoid the Policy Sinkhole That Swamped His Predecessors"
+    excerpt: "By enacting big spending initiatives under the auspices of pandemic relief and infrastructure, and avoiding health care, President Biden may have found a way to skirt an ideologically divisive fight."
+    publishedDateTime: 2021-07-20T22:17:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/us/politics/biden-spending-infrastructure.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/politics/biden-spending-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/politics/biden-spending-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20biden-spending1/20biden-spending1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "LbRb19wzV1z9MLX/EONVflLG+KfyQ4252fhFhBmR53WWxPeImmkpr6i5vueTeWDo9L1a79gOcHe+Q18XBrUXJSzM0drxgrS8Clj+yPA1wAmOE1Vrt9GRYAUlMkLR0SJOmghlMRe7bgVrmAdFICFxU8dLRbYL4pvn0a5eqqUUmqXp+Pt0n+106bPKHIQdSUt5AsWaHoj1kKsNQL3SmC4mcH7sT4Hm99KMrLCjlYrr9i/WsI9PKlXQDlWNqJQX5SH94lM+dWQano4vWrgw33Q39qzTambv8POLbFZk4FSbXEvNd7rGMAOoJYKF+71Cdlc51UltD1+tRLeBz58gBHbI3jO2kOXlfOLrJ/n/GL81O0Y=;8kT8kC+vC4pt95OMXcjjwg=="

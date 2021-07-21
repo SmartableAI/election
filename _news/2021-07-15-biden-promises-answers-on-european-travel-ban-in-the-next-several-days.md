@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/european-travel-ban-bide
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/european-travel-ban-biden/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Merkel and Biden to chart a course for the future of US-German relations in White House meeting"
-    excerpt: "President Joe Biden and German Chancellor Angela Merkel are set to meet in Washington on Thursday in what is likely the European leader's final appearance at the White House before she steps down from her long-held position this fall.\n    \n"
-    publishedDateTime: 2021-07-15T11:43:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c7GkBixAWUY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714182833-joe-biden-angela-merkel-g7-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden wanted a climate alliance with Europe. He's getting a fight."
     excerpt: "The European Union’s leadership is set to unveil a proposal on Wednesday to tax imports from countries — including the U.S. — that lack aggressive carbon-reducing policies."
     publishedDateTime: 2021-07-13T23:26:00Z

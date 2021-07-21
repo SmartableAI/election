@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Schumer working fast to confirm judges and counter Trump's reshaping of the federal bench"
+    excerpt: "President Joe Biden and the Democrat-led Senate are working quickly to appoint judges from a broad range of backgrounds to the federal bench as they counter Republican efforts to reshape the bench over the previous four years.\n    \n"
+    publishedDateTime: 2021-07-21T11:38:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sFs7ib_GJBA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-federal-judges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-federal-judges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714131955-01-biden-us-capitol-schumer-0714-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: The single most revealing fact in the new Trump books"
     excerpt: "There are all sorts of explosive new revelations in the three new books detailing the final months and days of Donald Trump's car-crash presidency. But the most revealing part of all three has nothing to do with their contents. It's that, for each book, the former President sat for extended interviews"
     publishedDateTime: 2021-07-15T15:17:51Z

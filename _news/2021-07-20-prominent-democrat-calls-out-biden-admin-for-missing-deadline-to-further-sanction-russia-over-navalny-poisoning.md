@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/menendez-nalvany-sanctio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/menendez-nalvany-sanctions/index.html"
 type: article
 quality: 155
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: CNN
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Belarus opposition leader says she gave sanctions list to Biden administration"
-    excerpt: "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n"
-    publishedDateTime: 2021-07-20T17:37:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "Fa1bTM1IGFRhxDLmEwpiN3a8l8X0JDJo/NDdx/hbYfegYGNHPG8xtUkDDf6KVBymJtOy0/JkA5NB7b041ttbYjtIll9uITCOzeqQhwGnJExuZtckW+WHKEVzOHP24BM8KvJg9jfHCOTYWuYQQMJuzaDGgyxA+uSoWSzg7eae//ne8BrPRcZ0r/RIfsxRNrJzOwg+vKnoMBpOHOvKRAKyqf8gPpWcDN3RnNdMAI7bJMaD7P/VjofTUxpZ2gcBlKYZ5wS37+MKvv1qK9GtMPGljEJW91Wa77DUw/z5hVjC6kioLiuZfI87EdGgNFmz19dY/lG/OH+lS7n/fglOMscBVbTN9gUQJqmz4ET4+sUxuA8=;dTM05BeeaZfHao/WWMiqQw=="
 ---

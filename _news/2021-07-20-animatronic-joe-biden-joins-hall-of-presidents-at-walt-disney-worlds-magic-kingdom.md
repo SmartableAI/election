@@ -3,18 +3,18 @@ category: news
 title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
 excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
 publishedDateTime: 2021-07-20T16:30:00Z
-originalUrl: "https://www.desmoinesregister.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-webUrl: "https://www.desmoinesregister.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/8027480002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8027480002"
+originalUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+ampWebUrl: "https://amp.indystar.com/amp/8027480002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
+    excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
+    publishedDateTime: 2021-07-21T12:07:00Z
+    webUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/"
+    ampWebUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 69
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden Returns to the White House from Philadelphia"
     excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
     publishedDateTime: 2021-07-13T23:13:00Z
@@ -65,6 +81,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Zhp2Z9ECwUEfbull76hE3QbcjCHZtY5pme4eofWrP6JIFH5ko5W54/+ilpfz50+7p+b+mq/0DnCLgg5GOkTlTUZ0zKR3AFZg7XHq7jMLovnGDl7g6Uwh2tKDsrjSQYA3kXf8fGXOdZ/ErBAFnsSt37Gd9oZVt2VXkSn+QPWVVd3VXvzw/ypHY3ix18fkVSgHlYXzeX3AatACj/KbzcH+s5Ox/H4C9pJczGe20vuIxQ0TMIEwR5ef7AXQrt3lGltPoMHXwS/HfZhk6xIV4nG/M8eK1MfOzrKzC0iNz6G5IZ6stpDT2VjFFRUVm3zd8HFOAM58zGep9hx0XJb/r0adqceIIeuMUqG/3a9XxaI2CI1l3Gk5dWzA4hyICIm4bLTkmc1cPBbzdgSgD2/yVMXYeZsA8M8wrNjq5UR7WGlw0h1lVNCP6yIV1m4NaC8mW0a24C3opyyZv5Z5adZuY/XBpRDaPgL9zb5bwWfjqqs6ebauTwhIh9ORYlsafWOw7YduJpq+G4t/KiiFerW78vKhEQ==;yfrmiWFzeD+Dw0G/G6zwzA=="
+secured: "Gwd5Kqx3Qn+4p0eL5p3eQMeyl8HmT+xAA1SbnXMzK0qtqPaYYB+k92ukWwdK1IzgbUTUBdGdwBJd1POqL5EHOyWb3BScBfHKfK7aW8Mh60+8/0B7vhVfqawTOiKkBORpPaETBOfqdv+llyEf9JKpSGuj4J8BmU0klyKrtoMbBLd1fqy3lmsYEd2HOhMF96D6u+WggNdV9zeDs1Qi/MNgc2/3FQ1isbXGb5xw3ByzRr5qElP0ffUL3N0rCPiU+0WRBe0BeKWRUj2k65OJ6CRzZSePcdVInTEshGduyhV2zuO9e/ZKL7zpyR6ktY8iAw/lvr2csiUaN+7A/jbDZURnGvX3xSa4EOeamfIAtksl8Ac=;TGdFOulJkyF6F0NCAPd0VA=="
 ---
 

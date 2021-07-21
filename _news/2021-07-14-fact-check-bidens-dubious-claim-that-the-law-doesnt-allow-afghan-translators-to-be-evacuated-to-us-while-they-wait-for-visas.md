@@ -31,117 +31,165 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains"
-    excerpt: "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n"
-    publishedDateTime: 2021-07-08T11:34:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
+  - title: "How to watch the Biden CNN town hall "
+    excerpt: "President Joe Biden will participate in a CNN town hall on Wednesday in Cincinnati, Ohio, just over six months after taking office.\n    \n"
+    publishedDateTime: 2021-07-21T10:02:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CDVS3oWY46A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
-    excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
-    publishedDateTime: 2021-07-05T04:07:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+  - title: "Belarus opposition leader says she gave sanctions list to Biden administration"
+    excerpt: "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n"
+    publishedDateTime: 2021-07-20T17:37:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden grows visibly frustrated with questions on Afghanistan: 'This is a holiday weekend, I'm going to celebrate it'"
-    excerpt: "President Joe Biden grew visibly irritated Friday when questioned about the state of Afghanistan, where a formal withdrawal is nearly complete, and a major US air base was officially handed over even as US generals warn of a looming civil war.\n    \n"
-    publishedDateTime: 2021-07-02T15:44:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W6InbM2Kx7s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html"
+  - title: "Biden faces key decision on whether to reappoint Federal Reserve Chair Powell "
+    excerpt: "President Joe Biden soon faces the same decision his most recent Democratic predecessors did: whether to reappoint a Federal Reserve chair put in that job by a Republican.\n    \n"
+    publishedDateTime: 2021-07-21T00:03:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iI8VZe9rGBM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/jerome-powell-white-house-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/jerome-powell-white-house-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714134901-01-jerome-powell-0622-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Russian vote to keep crucial Syrian border crossing open to humanitarian aid hands Biden administration a key diplomatic win"
-    excerpt: "The Biden administration scored a key diplomatic victory Friday after Russia agreed to keep a crucial border crossing open in Syria for another year, allowing the United Nations to continue delivering crucial humanitarian aid to millions of Syrians who have been displaced by the decade-long civil war.\n"
-    publishedDateTime: 2021-07-09T21:17:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKM61oDWMN8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+  - title: "Biden to tap former ambassador to France as his ambassador to the UK after lengthy search"
+    excerpt: "President Joe Biden will name Jane Hartley as his ambassador to the United Kingdom after a lengthy search, a person familiar with the decision told CNN.\n    \n"
+    publishedDateTime: 2021-07-16T17:11:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE06_f1H4RM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 148
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216185643-02-united-nations-headquarters-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716112743-jane-hartley-file-2015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Meets With President Ashraf Ghani of Afghanistan"
-    excerpt: "President Biden tried to reassure Mr. Ghani that the U.S. would continue to support Afghanistan even after withdrawing troops. In Texas, Vice President Kamala Harris said immigration could not “be reduced to a political issue."
-    publishedDateTime: 2021-06-25T19:14:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
+  - title: "Hospitals could face $2 million fine for not disclosing prices under proposed Biden rule"
+    excerpt: "The Biden administration is doubling down on a Trump-era rule that requires hospitals to disclose the rates they privately negotiate with insurers.\n    \n"
+    publishedDateTime: 2021-07-19T23:18:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i8Bjq9pnXBg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/hospitals-prices-transparency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719174749-hospital-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to focus on Covid-19, infrastructure, climate and cybersecurity at Cabinet meeting"
+    excerpt: "President Joe Biden is holding his second full Cabinet meeting on Tuesday to mark six months in office, and is expected to focus the discussion on Covid-19, infrastructure, climate and cybersecurity, a White House official tells CNN.\n    \n"
+    publishedDateTime: 2021-07-20T12:00:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbhedwxEROg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Merkel and Biden to chart a course for the future of US-German relations in White House meeting"
+    excerpt: "President Joe Biden and German Chancellor Angela Merkel are set to meet in Washington on Thursday in what is likely the European leader's final appearance at the White House before she steps down from her long-held position this fall.\n    \n"
+    publishedDateTime: 2021-07-15T11:43:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c7GkBixAWUY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714182833-joe-biden-angela-merkel-g7-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'We've come up against the brick wall': Southwest Ohio fights vaccine hesitancy ahead of Biden town hall"
+    excerpt: "Dena Cranley and Barbara Lynch have a blunt reality check for President Joe Biden: His repeated pleas for vaccinations are going largely unheeded and unheard.\n    \n"
+    publishedDateTime: 2021-07-20T13:37:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LIOXc7IZP18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/vaccine-hesitancy-cincinnati-ohio/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/vaccine-hesitancy-cincinnati-ohio/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528111827-kroger-vaccine-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why Biden Might Avoid the Policy Sinkhole That Swamped His Predecessors"
+    excerpt: "By enacting big spending initiatives under the auspices of pandemic relief and infrastructure, and avoiding health care, President Biden may have found a way to skirt an ideologically divisive fight."
+    publishedDateTime: 2021-07-20T22:17:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/us/politics/biden-spending-infrastructure.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/politics/biden-spending-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/politics/biden-spending-infrastructure.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/25/lens/25new-washington-briefing-promo1/25new-washington-briefing-promo1-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1687
+      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20biden-spending1/20biden-spending1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Biden: U.S. troops will withdraw from Afghanistan by August 31"
-    excerpt: "President Joe Biden announced that U.S. troops will withdraw from  Afghanistan by August 31. Biden said, “The U.S. did what we went to do in Afghanistan. To get the terrorists who attacked us on 9/11 and to deliver justice to Osama bin Laden."
-    publishedDateTime: 2021-07-08T18:36:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-u-s-troops-will-withdraw-from-afghanistan-by-august-31-116420165698"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116420165698"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116420165698"
+  - title: "Conservative hostility to Biden vaccine push surges with Covid cases on the rise"
+    excerpt: "Some in the GOP have felt compelled to reiterate support for getting the shot, with McConnell saying he was \"totally perplexed\" by the ongoing resistance."
+    publishedDateTime: 2021-07-20T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/conservative-hostility-biden-vaccine-push-surges-covid-cases-rise-n1273692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273692"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 130
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625769093239_nbc_biden_withdrawafg_210708_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden put America first in exiting Afghanistan. He just can't say it."
-    excerpt: "Analysis: It's unlikely that any outcome will make Americans believe it is worth going back — or that it was wrong to leave — in the foreseeable future."
-    publishedDateTime: 2021-07-10T22:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-put-america-first-exiting-afghanistan-he-just-can-t-n1273623"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273623"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273623"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3492054/210718-lauren-boebert-cpac-jm-1138.jpg"
         width: 2500
-        height: 1668
+        height: 1667
         isCached: true
 
 secured: "nUqXJXAFQL/wTmwEdgB4tKTvLtNPo7+AN+9Q//9lRLl7TEiJ6pSvJDX1WJAhKjuAucXdPyok7UJcgFwqEzefXOJjLcyNpIXuM8qfkxSa41TxlNKMROIzqfs8wCZJj+wtQDAW6r3Z3lb6gFmG9EbR7o56wugHAHk2PdGIchaSW5q6t/Lm1F/1+RQvZJKGNwRN8AJD3FnbhHhIex0r+TJWRUNaMRCWXwwH+yEVDkC/+NfrVm2YQV+2R4l9zIP1PNZPzxg/wfk7cc3fwvPyI+Wzmc7GeTK9w3frpODyoDol65xH/NtHMxpcX/W41vzGn9XESwyRPl3M3524J+EaM7pXdt9x7oVNrqd56Oc/XDkkuKU=;l4Y3RlPmV3mvYU2TBtvz4Q=="

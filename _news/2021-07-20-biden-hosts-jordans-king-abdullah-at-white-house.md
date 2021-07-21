@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
 type: article
 quality: 105
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -32,18 +32,34 @@ related:
   - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
     excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
     publishedDateTime: 2021-07-20T16:30:00Z
-    webUrl: "https://www.desmoinesregister.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/8027480002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8027480002"
+    webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8027480002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
+    excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
+    publishedDateTime: 2021-07-21T12:07:00Z
+    webUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/"
+    ampWebUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 69
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden Returns to the White House from Philadelphia"
     excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"

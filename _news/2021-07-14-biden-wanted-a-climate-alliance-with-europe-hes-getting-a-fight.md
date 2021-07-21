@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Merkel and Biden to chart a course for the future of US-German relations in White House meeting"
-    excerpt: "President Joe Biden and German Chancellor Angela Merkel are set to meet in Washington on Thursday in what is likely the European leader's final appearance at the White House before she steps down from her long-held position this fall.\n    \n"
-    publishedDateTime: 2021-07-15T11:43:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c7GkBixAWUY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714182833-joe-biden-angela-merkel-g7-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "CTgPs2uBEBeMJbfeYV0MVKLstO0te2W7lIbDq4b7DYMufpjw/m/P+ToLXrVfqTfY6irD0Ij+K0B6q3WNw6co85i9z5XY9H1Yg1rRLAcjmV4QiGm5GEyqOFTFufn/+Hly535adgg/uKOccWBPCU7uYZg5wo54gSEa0jaEiQtwhVoZzKRD6af7RgMoMTK73zDxtO7bHPPz0kyAmg+u1rHsHjHfO4ORWcyGpx0VhxQkVaRmrqFsqwecEkb2YwraiVUNojVgOnd8aalleVuqrKlGP+Nc+qailpEi7xJ/BPYAzT68exRc0WI2CjANjR/zR+bg4yvqV7mOdJ8vKkpEu+XsMRgczw4ku9fr4RCzZdokQAVviaZBmbfpv1RhS8lz55s6UWjWSM383/eqO8teZHKZJYhsz5f8sg5wuYqk2Lz9d0TmlpiFzcMX3aLZKJ34TYGruoQCeRlXgjT2aLO2Gkh63vM3WgByq1WJtbilphWdfShOMY5gZGkrPeC8rFopxviUANssKGNbLNT8JvKDyNfpQQ==;6+fE5qomyUsuXiz29FwihQ=="
 ---

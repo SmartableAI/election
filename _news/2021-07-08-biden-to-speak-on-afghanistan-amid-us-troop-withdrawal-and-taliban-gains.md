@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
 type: article
 quality: 174
-heat: 314
+heat: 294
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
     quality: 148
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216185643-02-united-nations-headquarters-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Biden's dubious claim that 'the law doesn't allow' Afghan translators to be evacuated to US while they wait for visas"
-    excerpt: "Thousands of Afghans who worked with American troops face grave danger as a result of the ongoing US military withdrawal from Afghanistan.\n    \n"
-    publishedDateTime: 2021-07-14T20:21:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XqZcs1oBIPs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 146
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
