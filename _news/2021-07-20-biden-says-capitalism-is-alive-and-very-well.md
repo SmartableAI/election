@@ -61,6 +61,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden administration releases COVID funds to boost local economies"
+    excerpt: "The Biden administration on Thursday released $3 billion in COVID-19 rescue funds aimed at helping localities bolster their economies in the wake of the pandemic, calling on communities to seek funding for a range of revitalization projects."
+    publishedDateTime: 2021-07-22T17:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-biden/biden-administration-releases-covid-funds-to-boost-local-economies-idUSKBN2ES1LQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ES1LQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ES1LQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210722&t=2&i=1569647490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6L0UE"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe Biden on Economic Recovery in Washington"
     excerpt: "U.S. President Joe Biden delivers remarks on the economic recovery in the State Dining Room at the White House in Washington, DC on July 19, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-07-19T16:27:00Z

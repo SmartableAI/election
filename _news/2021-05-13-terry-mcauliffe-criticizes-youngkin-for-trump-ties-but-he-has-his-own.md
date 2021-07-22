@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/virginia-governor-race-mcauliffe-yo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75dd6f14-59b7-4b8d-8faf-ddd786809088/9ce1732d-00cd-452b-a561-fc52c2c98790/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Terry McAuliffe Blasts Glenn Youngkin As A \"Trump Loyalist\" In First VA Gov. Campaign Ad"
+    excerpt: "Former Democratic Virginia Gov. Terry McAuliffe characterized his Republican opponent Glenn Youngkin as unreasonable and \"a loyalist to Donald Trump\" in the first ad of his campaign for another term as governor."
+    publishedDateTime: 2021-07-22T17:30:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 76
+    images:
+      - url: "https://assets.realclear.com/images/54/548813.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "VA Gov: McAuliffe Ad Ties GOP Nominee Youngkin To \"Radical\" Trump And Cruz"
     excerpt: "This ad from Democratic Virginia gubernatorial candidate Terry McAuliffe connects GOP nominee Glenn Youngkin to \"extreme Republicans\" like Sen. Ted Cruz and former President Trump. Retweet if you voted to stop Donald Trump in 2020 and you'll vote to stop Glenn Youngkin in 2021."

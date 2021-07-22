@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 1475
+heat: 1495
 published: true
 
 provider:
@@ -392,6 +392,22 @@ related:
     quality: 117
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/05/21/PPHX/34f3df5a-f050-4683-a06e-22a1d777c790-AP21141138603134.jpg?auto=webp&crop=3599,2024,x0,y353&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "At 98 and facing cancer, Bob Dole reckons with legacy of Trump and ponders future of GOP"
+    excerpt: "\"I'm a Trumper,\" said Dole, the only former GOP presidential nominee to attend Trump's convention in 2016. But he added, \"I'm sort of Trumped out.\""
+    publishedDateTime: 2021-07-22T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/22/98-bob-dole-reckons-legacy-trump-ponders-future-gop/7995412002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7995412002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7995412002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/21/USAT/5936d2f9-3a0f-449e-ac14-704a6507b275-AP_Biden_Dole.jpg?auto=webp&crop=5118,2879,x1,y156&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

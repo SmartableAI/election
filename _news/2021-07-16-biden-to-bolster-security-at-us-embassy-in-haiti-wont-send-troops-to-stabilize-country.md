@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "CNN medical analyst 'disappointed' by Biden's COVID town hall: He 'led people astray'"
+    excerpt: "CNN medical analyst Dr. Leana Wen said she was \"disappointed\" by President Joe Biden's performance in a Wednesday town hall when it came to his answers on questions concerning the coronavirus and vaccines."
+    publishedDateTime: 2021-07-22T17:17:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd8148a-43fa-4e55-b198-1f5dc477bc4f/8be10b3c-cd8b-4a80-b210-788c1228572f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "kILvLBSR0/0G7j9NnMKyh3TgXmW5pAIo6RBsfWq6LMqhnamVeR2eCKVK786jpO9ooZhKs/I3CSMMoBs2UhpEDPljEKQvQL4vwxP37kJUftFrrkogid800GPY5/llifOcXXzuzaQpEIMkaJaKSsqlf8JKWKPuW40z/ErjQqQnUj6RKGcUR7GKyRaPfvdI8BBLHOXnPK3DTBYVHSnOo3hVSAKKk6tgohm6jJxE0SsSntikYmmZHNYtAM/z06dJ1hueSU14wcIncN6ANbgTKdCUZqtM0kW+ksnSNSlkPKoBANxV3QgirtPOU25H41l0iZmsx2Mh5B+ybkNgcnhcIrJd8papvUNbChDMB2FXF4byYp8=;XnSaBQVd1ylpvusyOWbnlg=="
 ---

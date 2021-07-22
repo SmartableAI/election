@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Terry McAuliffe Blasts Glenn Youngkin As A \"Trump Loyalist\" In First VA Gov. Campaign Ad"
+    excerpt: "Former Democratic Virginia Gov. Terry McAuliffe characterized his Republican opponent Glenn Youngkin as unreasonable and \"a loyalist to Donald Trump\" in the first ad of his campaign for another term as governor."
+    publishedDateTime: 2021-07-22T17:30:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 76
+    images:
+      - url: "https://assets.realclear.com/images/54/548813.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "VA Gov: McAuliffe Ad Ties GOP Nominee Youngkin To \"Radical\" Trump And Cruz"
     excerpt: "This ad from Democratic Virginia gubernatorial candidate Terry McAuliffe connects GOP nominee Glenn Youngkin to \"extreme Republicans\" like Sen. Ted Cruz and former President Trump. Retweet if you voted to stop Donald Trump in 2020 and you'll vote to stop Glenn Youngkin in 2021."
     publishedDateTime: 2021-05-11T19:01:00Z

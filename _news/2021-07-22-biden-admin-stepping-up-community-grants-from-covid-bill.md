@@ -2,11 +2,11 @@
 category: news
 title: "Biden admin stepping up community grants from COVID bill"
 excerpt: "President Joe Biden’s administration says it is making $3 billion in economic development grants available to communities — a tenfold increase in the program paid for by this year’s COVID-19 relief bi"
-publishedDateTime: 2021-07-22T07:00:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-admin-stepping-community-grants-covid-bill-78983138"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-admin-stepping-community-grants-covid-bill-78983138"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-admin-stepping-community-grants-covid-bill-78983138"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-admin-stepping-community-grants-covid-bill-78983138"
+publishedDateTime: 2021-07-22T04:22:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
 type: article
 quality: 125
 heat: -1
@@ -122,6 +122,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Bobmly0ziM7Q65B26/CfGYUg7Qeq2w/PFEVOS7elidczT15teogRnAp6Juc7CiBJEi9zdqnIQxym1rv0XKtg4IVaa3GowbWFCNY3HpBsr+BWX3zmOS5tFw4TqstJ+TnrB3PALSNRzzkPTrPd4voJL9rp7g0kdj5ENEVTK9BPr0criOwE1fLDRNO3vBcygLOSyIGNp4/NqglX8Jn45c3kD2u7SeIfy5ld9lmu+vLaH7LXIqcAMoeTrbPYaah8krw4Bv/jKgB0wqZyquDqF7kjgPphOh5zV3wMovdxxGpLhqeokOEe4Jar1/xZAYhEFbhwXyNbX49Z6Y6MBej7uJucPPnJUFQkWPBpyhFDf0w25Kf3fsSw0RmMJuLAYhgjawL6fN/zi0QAFGATbPE5h/sHbZMRziI3bGXjTeZ64n1+VD6lc7q/qnQrNreUhOU3l7mD/6/SfFyzQimfNDTjixNHngMft7x2F/jcRb2XNJVaUPXnmaE/R9eABotLa/+GX3BH8HzlmYR+8S3XHNiVI+vtKw==;4ZpeEL98PP7Eal9loTXpYw=="
+secured: "rvIpbwALDCSppwXtlSP2c8d6O9kInfWeqlaHec2L3Sxowi7zllzOOePXV9X9N/EZJWqV+QRB/UNyPVBLLca+XgHAKwwykwpmp9MU9p2MPu92cdUiDQ9OcRgAI1PVX4+1VtQ9yifGOEvm0gvtKUV/xXBpx0vYdj/8KrWUtvBu+cQiEI09h6oKiYgeKqmz7134BDgR7nkhBLd3o8CwDktT4KNDQead9berp+Tc5nfmZRZPHZkWUBmFu5o/6EjI6Re5yd/7MQzVMBsqx8HlI53QSSWOaUYhRIkNXcG9qR5MfchOU0sI074sWCoYuzHPldLpYgB4boGYBxcpS7+cHEZZEipX9dBbcJymn/ipqrzUQdk=;6diu/Si4hbogdJ0kO9CoNQ=="
 ---
 

@@ -32,35 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden promises answers on European travel ban 'in the next several days'"
-    excerpt: "President Joe Biden said Thursday he'll soon be able to answer persistent questions about travel to the US from Europe after German Chancellor Angela Merkel raised the matter in the Oval Office.\n    \n"
-    publishedDateTime: 2021-07-15T22:55:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kLpImWqEco/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/european-travel-ban-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/european-travel-ban-biden/index.html"
+  - title: "White House helped form ethics agreement with art gallery that's selling Hunter Biden's paintings, sources say"
+    excerpt: "Hunter Biden's artistic debut is sparking ethics concerns for the White House as some critics raise eyebrows over the high-priced pieces and whether they pose a conflict of interest.\n    \n"
+    publishedDateTime: 2021-07-09T00:47:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/251g94e9UcE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/hunter-biden-art-work-sale/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/hunter-biden-art-work-sale/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714123504-biden-vaccine-remarks-0618-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Merkel and Biden to chart a course for the future of US-German relations in White House meeting"
-    excerpt: "President Joe Biden and German Chancellor Angela Merkel are set to meet in Washington on Thursday in what is likely the European leader's final appearance at the White House before she steps down from her long-held position this fall.\n    \n"
-    publishedDateTime: 2021-07-15T11:43:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c7GkBixAWUY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/joe-biden-angela-merkel-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714182833-joe-biden-angela-merkel-g7-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708171703-hunter-biden-0522-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

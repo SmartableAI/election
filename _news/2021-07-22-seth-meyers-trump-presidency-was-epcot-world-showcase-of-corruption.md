@@ -395,6 +395,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "At 98 and facing cancer, Bob Dole reckons with legacy of Trump and ponders future of GOP"
+    excerpt: "\"I'm a Trumper,\" said Dole, the only former GOP presidential nominee to attend Trump's convention in 2016. But he added, \"I'm sort of Trumped out.\""
+    publishedDateTime: 2021-07-22T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/22/98-bob-dole-reckons-legacy-trump-ponders-future-gop/7995412002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7995412002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7995412002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/21/USAT/5936d2f9-3a0f-449e-ac14-704a6507b275-AP_Biden_Dole.jpg?auto=webp&crop=5118,2879,x1,y156&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Aides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book"
     excerpt: "Aides to former President Trump intentionally gave his then-personal attorney Rudy Giuliani the wrong time for a presidential debate preparation event last year, according to a new book"
     publishedDateTime: 2021-07-20T02:25:00Z
@@ -1029,6 +1045,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9cR73WyUwTMYLtM4r3/58D5ZD44QnpCqMsBfjvOzGPuoG10Rx/RvUGnGATq3Ns7pOwdc5UhEneohOUi7tsRNKR9dGaWfvh3ItFPVNji1Pm76XtjDQ0TkPGQuDGa11fOgW/ZcirEvkGj/EQqLgb6vlFhqf0XySlD/cpe1fI+Cq2cFWwdud+Dbo49FwGhfbE/BhHIOTear6BSIquiulqG2oeXiSWChnjxhaPcwjQxA2sxR27AL1l06pDPwqU9/hRdmCSo2Xw4m1SP+Gb0P7EHdud+qB2bjXk9oduXHno0Ul3cNA9xQTW5hOrBk62oMJwCGS/8uoj6b+EouDaGlL/KW0WK/842IHYagxJ4b1EUpmEE=;6pIZGFh7FHpshkGjLa1DpA=="
+secured: "0x9g+ZtMxotHizINS6Cr7pujRQZNNscEHpP93QMbOkoSNiy9ocQfHLu+g8HlM6HmxSIpcLbhOMlXwCtKh/GWlCAM/+ciES3SL1xyu52dvVSdhMMw0yjHLMhSCOfKfP2/KIYZy32dJwoa3/t970r7/MvWKe4Qfqj5UsOtVNMxuyxR/Q2fsTZLTHTQQrMLzD34BC9we7X9BRzSq3QMH20OtX3Bb66SCxL7LmZUYm2pY9/rrkhCEsjVRodXOlAvJgqI5yn+Egr+7YKryzUuQxWdmBDe5mQ2MASEm33Z4Zww+Sy/4wpNPxkCc+C+VuiMzNwt3G/cD4HkZmyaI0uc35TWdJw7G99RDfJh56d7yzKGXKnus7JBquX2UlkZbAfeYk54gnL/cqILqMoGE23+bz5xwUtA+BC1I2slJcc6vqHb2nhVDgsH3g+OXQeQKAIW7t9npZzRlcRI9mFIVUkAIga+Wde+Ia/9bpuUX8op1AVVsjZMLMgYJafhAL9zq5l9Ie8QJHcLexfDEZRVGeWQB9ku+A==;EgFtG1ssQ/f7KSyAaL+kQg=="
 ---
 

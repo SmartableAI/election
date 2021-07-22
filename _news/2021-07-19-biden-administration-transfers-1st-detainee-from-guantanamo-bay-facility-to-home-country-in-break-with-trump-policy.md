@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meat and tractors: Biden administration pushes farm-friendly regulations"
-    excerpt: "California growers and ranchers counted two big wins this summer that came in the form of an executive order signed by President Joe Biden. In June, Biden signed an executive order calling on the U.S. Department of Agriculture to consider issuing new ..."
-    publishedDateTime: 2021-07-21T16:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/07/21/california-farmers-cheer-biden-administrations-meat-tractor-regulations-right-to-repair/7936176002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7936176002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7936176002"
+  - title: "Who Is Abdul Latif Nasser? Joe Biden Releases First Guantánamo Bay Prisoner"
+    excerpt: "On Monday, the Biden administration transferred its first detainee out of Guantánamo Bay, repatriating a Moroccan man who has been held in the notorious prison for nearly two decades on no charge. The release of Abdul Latif Nasser,"
+    publishedDateTime: 2021-07-19T13:46:00Z
+    webUrl: "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971"
+    ampWebUrl: "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/29/PSAS/8a1995e2-caf9-4ce7-a8e4-626736af467f-20210426_SALINAS_CLOUDS_015.JPG?auto=webp&crop=3199,1800,x0,y96&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden says inflation 'temporary'"
-    excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
-    publishedDateTime: 2021-07-19T19:13:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEMIHQ73"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210719&i=OVEMIHQ73&r=OVEMIHQ73&t=2"
-        width: 960
-        height: 540
+      - url: "https://d.newsweek.com/en/full/1703346/gitmo2002.jpg"
+        width: 3000
+        height: 1968
         isCached: true
   - title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
     excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."
@@ -76,22 +62,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/4381626725230/2021/1/f9d499800ef0d789e9e0467998cc66a0/v1.5/Joe-Biden-meets-Jordans-King-Abdullah-in-sign-of-improved-relations.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
-    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
-    publishedDateTime: 2021-07-19T19:10:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
-        width: 800
-        height: 534
         isCached: true
 
 secured: "S5eDgZ2jeGZWQToKi5CmKg2n6S3vdlpvkIXsYym1ua/gx2LbE1pw/X7JDf6oBVwchsb+TJ1ZjJdbBIlcZToxVyjud2M0A0UHBl73AYiW0EIr5yFiIV4IKLSp+HZtPRUn5EgdoXpuSgGWaWiT1Ziz2UvPaBHdv9Wf6RDB4ECZr2rbbarErSuZFmmDjIus+Q1ZDT8fUlPzpsU3OehL25cAe7WbSOZZbWRb4kIeFDR1HTcLHbAvoNme+HYzXBrbxJ4PBkmXo/m9FHQtYQqtB4baRA6symdBvVAefeZMESGr9EOd2e1etINp6UCZ33+6CFwX59thZiFgmwDqIiu9BeMT192hlzXaZRdOQrhudQYI8fA=;oJSlrjnAv5ryzsWXwXj5Zw=="

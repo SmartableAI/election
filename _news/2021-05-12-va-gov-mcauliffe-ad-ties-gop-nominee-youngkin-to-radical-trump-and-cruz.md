@@ -58,6 +58,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Terry McAuliffe Blasts Glenn Youngkin As A \"Trump Loyalist\" In First VA Gov. Campaign Ad"
+    excerpt: "Former Democratic Virginia Gov. Terry McAuliffe characterized his Republican opponent Glenn Youngkin as unreasonable and \"a loyalist to Donald Trump\" in the first ad of his campaign for another term as governor."
+    publishedDateTime: 2021-07-22T17:30:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 76
+    images:
+      - url: "https://assets.realclear.com/images/54/548813.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "c+7r5tJ2YLVwB+8CNJa4LJVmohl+SFeYSTgZ4x3D4UnnXu12713dYbnpj4U26RuPDINNqWVgsnWdmXmq2cEdzq9/WSvh7Qvntc11VCB+LgIf9aqaMrGhzdvtEoa9frmIaYbHKBSpDWajxI+kWJ8C2W0PIiDz2df97DqHx7upxzJhVgjBAkaouFgMAEDklL1xoHRUEzGs4X0myOL5ufLvVFtwGl3kIMXvFaw85ScP8Oq962sAji510S4ZrOD15WaH8tgFHpNlojfK305lWM8G0YXIhJF/lQFQB1pq59oHraPrS7ydLtNMA99sUMlkLv7lmUL9Spa7az5r5OcIVG9nompznl7nr4X+q/xxRpnYGjbLMjKK1jYWI2C8ouX/Kd+Z13rtRSGipCYhcSqEeEXjXVsUAinhTWjMkCp/9o3Yv49K5aZ07d24Rk8iePPZ3mxocslfAGeT6m7iNrpdyaKPLME3L/4y2yh66BaU/+cgyyGT8/3JvFFv8oHJLZUjmRGrHQhPbTmWiOym1tOrqrZxRg==;dC1FXsE0fulRgGLSnXDsQQ=="
 ---

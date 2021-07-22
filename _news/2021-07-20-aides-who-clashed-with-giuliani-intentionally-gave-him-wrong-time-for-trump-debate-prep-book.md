@@ -411,6 +411,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "At 98 and facing cancer, Bob Dole reckons with legacy of Trump and ponders future of GOP"
+    excerpt: "\"I'm a Trumper,\" said Dole, the only former GOP presidential nominee to attend Trump's convention in 2016. But he added, \"I'm sort of Trumped out.\""
+    publishedDateTime: 2021-07-22T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/22/98-bob-dole-reckons-legacy-trump-ponders-future-gop/7995412002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7995412002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7995412002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/21/USAT/5936d2f9-3a0f-449e-ac14-704a6507b275-AP_Biden_Dole.jpg?auto=webp&crop=5118,2879,x1,y156&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump aides told him over a McDonald's meal to stop bitching about losing in Iowa to Ted Cruz in 2016"
     excerpt: "Corey Lewandowski, Trump's 2016 campaign manager, said Trump was told to stop complaining about losing Iowa or his presidential bid would be over."
     publishedDateTime: 2021-07-20T14:34:00Z

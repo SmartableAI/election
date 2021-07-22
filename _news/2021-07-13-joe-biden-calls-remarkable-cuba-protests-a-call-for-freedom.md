@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "'Cuba is a failed state': Biden"
-    excerpt: "Biden. Posted . U.S. President Joe Biden on Thursday described Cuba as a \"failed state\" and communism as a \"failed system\" as his administration"
-    publishedDateTime: 2021-07-15T23:11:00Z
-    webUrl: "https://www.reuters.com/video/watch/cuba-is-a-failed-state-biden-id732973002?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210715&i=OVELYILSV&r=OVELYILSV&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Rick Scott demands ‘loud and unequivocal’ Cuba response from Joe Biden"
     excerpt: "Biden era appeasement measures.' U.S. Sen. Rick Scott issued a statement Monday urging a “loud and unequivocal” stance by the U.S. against the communist regime in Cuba currently “shaking with fear” in the face of unprecedented protests throughout the country."
     publishedDateTime: 2021-07-12T19:34:00Z

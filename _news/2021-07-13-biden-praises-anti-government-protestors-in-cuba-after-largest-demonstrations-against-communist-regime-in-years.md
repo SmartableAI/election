@@ -63,20 +63,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "'Cuba is a failed state': Biden"
-    excerpt: "Biden. Posted . U.S. President Joe Biden on Thursday described Cuba as a \"failed state\" and communism as a \"failed system\" as his administration"
-    publishedDateTime: 2021-07-15T23:11:00Z
-    webUrl: "https://www.reuters.com/video/watch/cuba-is-a-failed-state-biden-id732973002?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210715&i=OVELYILSV&r=OVELYILSV&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Joe Biden calls ‘remarkable’ Cuba protests a ‘call for freedom’"
     excerpt: "President Joe Biden on Monday called protests in Cuba “remarkable\" and a “clarion call for freedom,” praising thousands of Cubans who took the streets to protest food shortages and high prices amid the coronavirus crisis — one of the island's biggest antigovernment demonstrations in recent memory."
     publishedDateTime: 2021-07-13T00:37:00Z

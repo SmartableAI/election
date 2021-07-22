@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
 type: article
 quality: 170
-heat: -1
-published: false
+heat: 270
+published: true
 
 provider:
   name: CNN
@@ -31,67 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden grappling with immigration and travel restrictions as pandemic worsens"
-    excerpt: "President Joe Biden is facing increasing pressure from US allies and the travel industry to lift pandemic-era restrictions barring entry to the country, leading to tense conversations among administration officials over the health and political risks of opening up too soon.\n    \n"
-    publishedDateTime: 2021-07-22T12:50:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U0Wxw6gFolQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-border-restrictions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-border-restrictions/index.html"
+  - title: "Biden says full FDA approval of a Covid-19 vaccine could come as early as the end August"
+    excerpt: "To date, more than 339 million doses of Covid-19 vaccine have been administered to give people protection from the coronavirus; several studies show that the three vaccines authorized for emergency use in the United States work and are safe; and the government continues to give them out in schools and"
+    publishedDateTime: 2021-07-22T11:25:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KBc7NPM_Gwk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/health/covid-19-vaccine-approval-when/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/health/covid-19-vaccine-approval-when/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Belarus opposition leader says she gave sanctions list to Biden administration"
-    excerpt: "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n"
-    publishedDateTime: 2021-07-20T17:37:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden health officials begin discussing mask recommendations as variants surge cases"
-    excerpt: "Top Biden health officials and some White House officials are holding preliminary conversations on revising mask recommendations for vaccinated Americans as the Delta variant spreads throughout the US, according to multiple sources familiar with discussions.\n    \n"
-    publishedDateTime: 2021-07-22T04:24:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iLlgitkZZQo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/mask-recommendations-biden-health-officials/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/mask-recommendations-biden-health-officials/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721221442-mask-recommendations-biden-health-officials-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'This is way beyond collaborative': Young leaders see their feedback reflected in Biden's plans"
-    excerpt: "When Joe Biden campaigned for the presidency, he called himself a bridge to a new generation of leaders in the Democratic Party. While some frustrations remain, young leaders are saying the President Biden's administration is making good progress on Candidate Biden's pledge.\n    \n"
-    publishedDateTime: 2021-07-22T12:58:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SpDLuA6RRNQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154356-01-biden-0721-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625204822-fda-covid-vaccine-heart-warning-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,69 +63,53 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden warns about conspiracies flourishing in the US: 'The rest of the world's wondering about us'"
-    excerpt: "President Joe Biden on Wednesday raised the alarm about conspiracy theories flourishing in the US and dividing the nation, warning that \"the rest of the world's wondering about us.\"\n    \n"
-    publishedDateTime: 2021-07-22T01:47:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye0g1f9ppkA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden officials convene meeting with homebuilding stakeholders amid inflation concerns and rising home prices"
-    excerpt: "Top White House officials are meeting Friday with stakeholders from the homebuilding industry, officials confirm, which comes amid soaring home prices and inflation concerns.\n    \n"
-    publishedDateTime: 2021-07-16T16:18:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VLyEx7u68dQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/white-house-homebuilding-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/white-house-homebuilding-meeting/index.html"
+  - title: "Biden says he believes kids under 12 will be able to get Covid-19 vaccines 'soon,' but it's up to scientists "
+    excerpt: "President Joe Biden said Wednesday that children under the age of 12 could be eligible to receive a Covid-19 vaccine \"soon,\" predicting that the government could green light the rollout for young Americans in the next few months.\n    \n"
+    publishedDateTime: 2021-07-22T01:50:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UCskee6WFFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/vaccines-children-biden-town-hall-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/vaccines-children-biden-town-hall-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616091914-us-housing-construction-1604-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720200346-children-vaccination-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Prominent Democrat calls out Biden admin for missing deadline to further sanction Russia over Navalny poisoning"
-    excerpt: "The Biden administration has missed a deadline by more than a month to impose legally required sanctions on Russia for the poisoning of opposition activist Alexey Navalny, the chairman of the Senate Foreign Relations Committee said Tuesday.\n    \n"
-    publishedDateTime: 2021-07-20T17:41:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNvNizVzoeE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/menendez-nalvany-sanctions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/menendez-nalvany-sanctions/index.html"
+  - title: "Conservative hostility to Biden vaccine push surges with Covid cases on the rise"
+    excerpt: "Some in the GOP have felt compelled to reiterate support for getting the shot, with McConnell saying he was \"totally perplexed\" by the ongoing resistance."
+    publishedDateTime: 2021-07-20T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/conservative-hostility-biden-vaccine-push-surges-covid-cases-rise-n1273692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273692"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405154420-alexey-navalny-putin-opositor-rusia-huelga-hambre-protesta-valetina-prudnikov-aristegui-mexico-00002413-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3492054/210718-lauren-boebert-cpac-jm-1138.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden's domestic terrorism strategy concerns advocates"
-    excerpt: "The White House is worried about white supremacists. But the FBI's dogged pursuit of Antifa and use of controversial tactics is troubling civil liberties advocates."
-    publishedDateTime: 2021-07-22T12:00:00Z
-    webUrl: "https://www.politico.com/news/2021/07/22/biden-domestic-terrorism-strategy-has-activists-in-the-crosshairs-500478"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/22/biden-domestic-terrorism-strategy-has-activists-in-the-crosshairs-500478"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/22/biden-domestic-terrorism-strategy-has-activists-in-the-crosshairs-500478"
+  - title: "'They're killing people': Biden blames Facebook, other social media for allowing Covid misinformation"
+    excerpt: "The White House has warned in recent days that false claims shared on those platforms are contributing to a decline in U.S. vaccination rates."
+    publishedDateTime: 2021-07-16T21:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/they-re-killing-people-biden-blames-facebook-other-social-media-n1274232"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274232"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274232"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
     images:
-      - url: "https://static.politico.com/05/5d/91a1f9cc4e34a64276681e9955fc/210721-protester-police-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491822/210716-joe-biden-ew-318p.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "TScsT848DwS6BtZf9VzcSS4VQM0rxRtPfZatiZx6ymWJdfrWBjEZq/fHd7EnN5dZCe+7UAWz44Y/pjN94SlcB1M3fG/OUCR+Ng5wPc4QYZMUGMHUJqvhBsmOHlMJo2PtfqZJoTo9ewjRD8QJ0CJcMXhGTbtsaDdgwkqObXxCPevH6WKy/l9j0+68bpm5bA4hGrbXC2yzcBcHIEonuK5JB/MueZ1kgQSIJNDFXAdybFaERipukdmhN//cDYdV3ZbMLuAb0wruAmTXwJUbjMAeG4XwE98bNi9O7bY2ciduHSi2lK2Fu8UvPzkeU7y0RHuRzumGeNfdfsu8PmK3MPmFOcExNkTCdin6/+etvXm5NIg=;lOwbdv7FnpoZ+qJuSsujXQ=="
