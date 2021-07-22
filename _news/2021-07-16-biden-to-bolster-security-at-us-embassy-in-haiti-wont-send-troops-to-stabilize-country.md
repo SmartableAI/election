@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-bolster-security-at-us-emb
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp"
 type: article
 quality: 166
-heat: 186
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden may send more staff to US embassy in Havana to support Cuban people: senior administration official"
-    excerpt: "President Biden is considering augmenting staffing levels at the U.S. embassy in Havana and forming a group to get remittances to the Cuban people, a senior administration official told FOX News on Monday."
-    publishedDateTime: 2021-07-20T00:14:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AVY-pJG_OQ/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp"
+  - title: "He’s no sell-out: Biden speaks to half-empty room at CNN town hall"
+    excerpt: "President Biden on Wednesday spoke to a half-empty auditorium while doing a live CNN “town hall” event in Ohio."
+    publishedDateTime: 2021-07-22T13:13:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y18wAQa0p30/biden-empty-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-empty-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-empty-town-hall.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72227c6-212e-47d8-95b9-493300340291/c8f747e6-d22e-465c-bf6e-3af40feab3a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ba0b602-c860-4d62-9ab2-a0c1e9f8ba6c/fab6fdab-1d14-4848-a3c2-a201e82dc689/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "McConnell calls for Biden to withdraw nominee linked to eco-terrorist plot"
+    excerpt: "EXCLUSIVE: Senate Minority Leader Mitch McConnell is calling on President Biden to \"immediately\" pull Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director over her link to an eco-terrorist plot and her apparently misleading answers to senators about it. "
+    publishedDateTime: 2021-07-16T16:41:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ftWcvMnEJHM/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "kILvLBSR0/0G7j9NnMKyh3TgXmW5pAIo6RBsfWq6LMqhnamVeR2eCKVK786jpO9ooZhKs/I3CSMMoBs2UhpEDPljEKQvQL4vwxP37kJUftFrrkogid800GPY5/llifOcXXzuzaQpEIMkaJaKSsqlf8JKWKPuW40z/ErjQqQnUj6RKGcUR7GKyRaPfvdI8BBLHOXnPK3DTBYVHSnOo3hVSAKKk6tgohm6jJxE0SsSntikYmmZHNYtAM/z06dJ1hueSU14wcIncN6ANbgTKdCUZqtM0kW+ksnSNSlkPKoBANxV3QgirtPOU25H41l0iZmsx2Mh5B+ybkNgcnhcIrJd8papvUNbChDMB2FXF4byYp8=;XnSaBQVd1ylpvusyOWbnlg=="

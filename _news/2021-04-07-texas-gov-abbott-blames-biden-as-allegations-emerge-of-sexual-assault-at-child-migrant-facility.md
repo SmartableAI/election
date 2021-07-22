@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Missouri AG 'optimistic' ahead of hearing challenging Biden reversal of 'Remain-in-Mexico' policy"
+    excerpt: "Missouri Attorney General Eric Schmitt says he is optimistic ahead of a key hearing in a case challenging the Biden administration’s reversal of the Trump-era \"Remain-in-Mexico\" policy."
+    publishedDateTime: 2021-07-22T13:44:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XsJug70mJXY/missouri-ag-challenging-biden-remain-in-mexico-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/missouri-ag-challenging-biden-remain-in-mexico-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-ag-challenging-biden-remain-in-mexico-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab8f13f0-c783-431b-91c6-20face9ec06f/892bfeaf-771f-4286-8e33-bebcdae201c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "PEvMeCx/DuUiZYZTf5hjVECTF1kY9/+rpTsSSfU5RDv9TTKSH3NoNTGChUvZ275jePHQGbp+OudTXQE2dMF1ebi9gzq1TrebQuJlyxBWcyCrspQT0ajbedhpZGPQ8MTwW80gh6LIHAtlKgGS59cOyY8sO4lNKCdnpbKVj8D2OlYiypWC1TrfCYvWGNk8Kqz1KnbdSJE4WHFUWWMNvhf8Iu8A1jC6TAb3ZO3BZjWLiyEseuSvTJshfRqVKPmhy0ZT7OqjEln46N2MWUX50k98oq7+BH9ZG0zT3QiX8Qrab2/36mj26he+eT0g6FZRFF680QKdPmOwgCpQNhtWSEN51cjOcrjKbf8O4BsKlBLvuF0=;kCz7A8swsGL1bnG1jSx89Q=="
 ---

@@ -2,6 +2,105 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-21-what-we-know-about-president-joe-bidens-wednesday-visit-to-cincinnati.md",
+      "title": "What we know about President Joe Biden’s Wednesday visit to Cincinnati",
+      "excerpt": "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/",
+      "originalUrl": "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/23/PCIN/ccbcf9e3-25be-4198-8574-13022b9fdd69-AP21082731379822.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.dispatch.com/amp/8024834002",
+      "cdnAmpWebUrl": "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/8024834002",
+      "publishedDateTime": "2021-07-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbus Dispatch",
+        "domain": "dispatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.md",
+      "title": "Biden marks 6 months in office on Instagram, gets shredded in comments",
+      "excerpt": "Within Biden's first six months, consumer prices rose 5.4% in June from the previous year, and gas prices are now averaging 98 cents higher than this time last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff65d410-0f23-4584-912e-960c5257a31c/99d3cbaa-c96e-4963-80ee-de2517a9d308/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "publishedDateTime": "2021-07-21T07:08:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-biden-faces-key-decision-on-whether-to-reappoint-federal-reserve-chair-powell.md",
       "title": "Biden faces key decision on whether to reappoint Federal Reserve Chair Powell ",
       "excerpt": "President Joe Biden soon faces the same decision his most recent Democratic predecessors did: whether to reappoint a Federal Reserve chair put in that job by a Republican.\n    \n",
@@ -659,62 +758,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-20-belarus-opposition-leader-says-she-gave-sanctions-list-to-biden-administration.md",
-      "title": "Belarus opposition leader says she gave sanctions list to Biden administration",
-      "excerpt": "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html",
-      "publishedDateTime": "2021-07-20T10:37:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-20-texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting.md",
       "title": "Texas Dems’ may have infected Pelosi and Harris aides, dimming prospects for Biden meeting",
       "excerpt": "The Texas Democrats who fled Austin have spent the last eight nights at a hotel a half-mile from the White House, and they’re growing a",
@@ -826,7 +869,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 186,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -1146,6 +1189,62 @@
       ]
     },
     {
+      "path": "_news/2021-07-20-biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.md",
+      "title": "Biden may send more staff to US embassy in Havana to support Cuban people: senior administration official",
+      "excerpt": "President Biden is considering augmenting staffing levels at the U.S. embassy in Havana and forming a group to get remittances to the Cuban people, a senior administration official told FOX News on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AVY-pJG_OQ/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AVY-pJG_OQ/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72227c6-212e-47d8-95b9-493300340291/c8f747e6-d22e-465c-bf6e-3af40feab3a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp",
+      "publishedDateTime": "2021-07-19T17:14:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-trump-ally-jim-jordan-among-republicans-tapped-for-jan-6-select-committee.md",
       "title": "Trump ally Jim Jordan among Republicans tapped for Jan. 6 select committee",
       "excerpt": "Rep. Jim Jordan, R-Ohio, a prominent ally of former President Donald Trump, is one of a handful of GOP lawmakers set to be appointed to House Speaker Nancy Pelosi’s select committee to investigate the Jan. 6 Capitol riot.",
@@ -1251,119 +1350,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-psaki-says-wh-will-welcome-covid-19-vaccine-psa-from-trump-as-cases-rise.md",
-      "title": "Psaki says WH will 'welcome' COVID-19 vaccine PSA from Trump as cases rise",
-      "excerpt": "Fox News’ Peter Doocy asked Psaki if President Biden would reach out to Trump to “cut a PSA” telling people to get vaccinated against COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8taJHKGqous/psaki-trump-covid-psa-welcome",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8taJHKGqous/psaki-trump-covid-psa-welcome",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-trump-covid-psa-welcome.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-trump-covid-psa-welcome.amp",
-      "publishedDateTime": "2021-07-19T13:18:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-harris-tests-negative-for-covid-19-following-meeting-with-texas-democrats-who-tested-positive.md",
-      "title": "Harris tests negative for Covid-19 following meeting with Texas Democrats who tested positive",
-      "excerpt": "Vice President Kamala Harris tested negative for Covid-19 following a meeting with Texas state House Democrats, several of whom later tested positive, White House press secretary Jen Psaki said Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nu_-kVYBkY8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nu_-kVYBkY8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210713172704-01-harris-texas-democrats-0713-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/19/politics/kamala-harris-negative-texas-democrats/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/kamala-harris-negative-texas-democrats/index.html",
-      "publishedDateTime": "2021-07-19T11:50:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

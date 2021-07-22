@@ -2,6 +2,119 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-17-william-h-pauley-iii-judge-in-trump-hush-money-case-dies-at-68.md",
+      "title": "William H. Pauley III, Judge in Trump Hush Money Case, Dies at 68",
+      "excerpt": "He sentenced Michael D. Cohen to three years in prison for breaking campaign finance laws by helping to buy the silence of two women who said they had affairs with Donald J. Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/18/obituaries/16Pauley1/16Pauley1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.amp.html",
+      "publishedDateTime": "2021-07-16T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-schumers-challenge-wooing-moderate-democrats-on-35-trillion-biden-plan.md",
+      "title": " Schumer's challenge: Wooing moderate Democrats on $3.5 trillion Biden plan",
+      "excerpt": "Sen. Maggie Hassan, a New Hampshire Democrat who is running for a second term next year, has been working behind the scenes to help craft a bipartisan infrastructure deal that could be popular in her swing state.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dwHtr7P_7EU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dwHtr7P_7EU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205121013-06-chuck-schumer-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/chuck-schumer-challenge-infrastructure/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/chuck-schumer-challenge-infrastructure/index.html",
+      "publishedDateTime": "2021-07-16T14:39:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.md",
       "title": "Joe Biden accuses Facebook of 'killing people' with vaccine misinformation",
       "excerpt": "President Biden accused the social media platform of “killing people” by allowing what he deems as misinformation on coronavirus vaccines to be shared on the site.",
@@ -58,25 +171,25 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-biden-says-platforms-like-facebook-are-killing-people-with-covid-misinformation.md",
-      "title": "Biden says platforms like Facebook are 'killing people' with Covid misinformation",
-      "excerpt": "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n",
+      "path": "_news/2021-07-17-theyre-killing-people-biden-blames-facebook-other-social-media-for-allowing-covid-misinformation.md",
+      "title": "'They're killing people': Biden blames Facebook, other social media for allowing Covid misinformation",
+      "excerpt": "The White House has warned in recent days that false claims shared on those platforms are contributing to a decline in U.S. vaccination rates.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
+      "webUrl": "https://www.nbcnews.com/politics/white-house/they-re-killing-people-biden-blames-facebook-other-social-media-n1274232",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/they-re-killing-people-biden-blames-facebook-other-social-media-n1274232",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 230,
+      "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491822/210716-joe-biden-ew-318p.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -84,16 +197,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
-      "publishedDateTime": "2021-07-16T13:50:16-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1274232",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274232",
+      "publishedDateTime": "2021-07-16T14:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -110,6 +223,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -750,62 +864,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.md",
-      "title": "Biden to bolster security at US Embassy in Haiti, won't send troops to stabilize country",
-      "excerpt": "President Biden plans to bolster security at the U.S. Embassy in Port-au-Prince after the assassination of Haitian President Jovenel Moïse earlier this month, he said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHGG8qKrZ9E/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHGG8qKrZ9E/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fdc43bb-25a1-4fc2-9e33-3a3b4fe3eee8/11d27d76-b787-42d5-af76-d2fb82c88562/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp",
-      "publishedDateTime": "2021-07-16T03:01:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-biden-sees-us-child-tax-credit-as-giant-step-to-counter-poverty.md",
       "title": "Biden sees U.S. child tax credit as 'giant step' to counter poverty",
       "excerpt": "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty.",
@@ -1284,58 +1342,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-new-book-goes-behind-the-scenes-of-the-trump-presidency-and-re-election-campaign.md",
-      "title": "New book goes behind the scenes of the Trump presidency and re-election campaign",
-      "excerpt": "A new book offers a collection of one-on-one interviews with friends and staffers of former President Donald Trump, and even Mr. Trump himself. Michael C. Bender, author of \"Frankly, We Did Win This Election: The Inside Story of How Trump Lost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/15/f8645179-88a4-45f6-9391-952130800b23/thumbnail/1200x630/856f7c8b5c6fadcd019330fe36e97ec7/cbsn-fusion-new-book-goes-behind-the-scenes-of-trump-presidency-thumbnail-754512-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "publishedDateTime": "2021-07-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

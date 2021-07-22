@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leade
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
 type: article
 quality: 171
-heat: 231
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden grappling with immigration and travel restrictions as pandemic worsens"
+    excerpt: "President Joe Biden is facing increasing pressure from US allies and the travel industry to lift pandemic-era restrictions barring entry to the country, leading to tense conversations among administration officials over the health and political risks of opening up too soon.\n    \n"
+    publishedDateTime: 2021-07-22T12:50:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U0Wxw6gFolQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-border-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-border-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says platforms like Facebook are 'killing people' with Covid misinformation"
+    excerpt: "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n"
+    publishedDateTime: 2021-07-16T20:50:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden health officials begin discussing mask recommendations as variants surge cases"
     excerpt: "Top Biden health officials and some White House officials are holding preliminary conversations on revising mask recommendations for vaccinated Americans as the Delta variant spreads throughout the US, according to multiple sources familiar with discussions.\n    \n"
     publishedDateTime: 2021-07-22T04:24:51Z
@@ -47,19 +79,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says he believes kids under 12 will be able to get Covid-19 vaccines 'soon,' but it's up to scientists "
-    excerpt: "President Joe Biden said Wednesday that children under the age of 12 could be eligible to receive a Covid-19 vaccine \"soon,\" predicting that the government could green light the rollout for young Americans in the next few months.\n    \n"
-    publishedDateTime: 2021-07-22T01:50:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UCskee6WFFg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/vaccines-children-biden-town-hall-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/vaccines-children-biden-town-hall-cnntv/index.html"
+  - title: "'This is way beyond collaborative': Young leaders see their feedback reflected in Biden's plans"
+    excerpt: "When Joe Biden campaigned for the presidency, he called himself a bridge to a new generation of leaders in the Democratic Party. While some frustrations remain, young leaders are saying the President Biden's administration is making good progress on Candidate Biden's pledge.\n    \n"
+    publishedDateTime: 2021-07-22T12:58:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SpDLuA6RRNQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154356-01-biden-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden backs away from his claim that Facebook is 'killing people' by allowing Covid misinformation"
+    excerpt: "President Joe Biden continued to put pressure on Facebook on Monday over the online dissemination of Covid-19 vaccine information, but backed off his recent accusation that the company was directly responsible for \"killing people\" and suggested it was merely allowing misinformation to spread.\n    \n"
+    publishedDateTime: 2021-07-19T17:42:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1LIjzWo_SLA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/joe-biden-facebook/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/joe-biden-facebook/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124236-01-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden warns about conspiracies flourishing in the US: 'The rest of the world's wondering about us'"
+    excerpt: "President Joe Biden on Wednesday raised the alarm about conspiracy theories flourishing in the US and dividing the nation, warning that \"the rest of the world's wondering about us.\"\n    \n"
+    publishedDateTime: 2021-07-22T01:47:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye0g1f9ppkA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden officials convene meeting with homebuilding stakeholders amid inflation concerns and rising home prices"
+    excerpt: "Top White House officials are meeting Friday with stakeholders from the homebuilding industry, officials confirm, which comes amid soaring home prices and inflation concerns.\n    \n"
+    publishedDateTime: 2021-07-16T16:18:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VLyEx7u68dQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/white-house-homebuilding-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/white-house-homebuilding-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720200346-children-vaccination-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616091914-us-housing-construction-1604-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -78,6 +158,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405154420-alexey-navalny-putin-opositor-rusia-huelga-hambre-protesta-valetina-prudnikov-aristegui-mexico-00002413-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden's domestic terrorism strategy concerns advocates"
+    excerpt: "The White House is worried about white supremacists. But the FBI's dogged pursuit of Antifa and use of controversial tactics is troubling civil liberties advocates."
+    publishedDateTime: 2021-07-22T12:00:00Z
+    webUrl: "https://www.politico.com/news/2021/07/22/biden-domestic-terrorism-strategy-has-activists-in-the-crosshairs-500478"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/22/biden-domestic-terrorism-strategy-has-activists-in-the-crosshairs-500478"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/22/biden-domestic-terrorism-strategy-has-activists-in-the-crosshairs-500478"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/05/5d/91a1f9cc4e34a64276681e9955fc/210721-protester-police-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "6LD/qr8c4q2QgvaJOUaQyz4+hNpg4YsCYOK3SPuIrn8KsK69eOgZRIrYI3C4wrCSBROR+t1tGVdvyS0L9JmvLoGdXIZwEbyt9gwELhqvqbLY9U7gTQ0NgjvwleY5OFv6wDBAX5M9cw5OS3Id7z1tmjYgAYTdUxVjWYQ97E2EFVW8Iiz35eEi7+V7nxubGJuOdWEF+Y2KSXDaSXzNrFunz6UEFv6wfGLVLU9fJp3LGf+e8ysOvvbpGKg1OP4mTs5jATsNltN1coNErGw7MZ1RB8sFSXQx2b+zbnsV10H2Qs2HkL/w8qyoATyrVqba2xAXgjSOm0jBx5oZno5y+dl0+aSzAhjoh5Emh5LLTAA8KTs=;YMDY/1zw6sfRIj80QjLWzw=="

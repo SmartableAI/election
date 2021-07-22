@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Belarus opposition leader says she gave sanctions list to Biden administration"
-    excerpt: "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n"
-    publishedDateTime: 2021-07-20T17:37:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
+  - title: "Biden to focus on Covid-19, infrastructure, climate and cybersecurity at Cabinet meeting"
+    excerpt: "President Joe Biden is holding his second full Cabinet meeting on Tuesday to mark six months in office, and is expected to focus the discussion on Covid-19, infrastructure, climate and cybersecurity, a White House official tells CNN.\n    \n"
+    publishedDateTime: 2021-07-20T12:00:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbhedwxEROg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden health officials begin discussing mask recommendations as variants surge cases"
-    excerpt: "Top Biden health officials and some White House officials are holding preliminary conversations on revising mask recommendations for vaccinated Americans as the Delta variant spreads throughout the US, according to multiple sources familiar with discussions.\n    \n"
-    publishedDateTime: 2021-07-22T04:24:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iLlgitkZZQo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/mask-recommendations-biden-health-officials/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/mask-recommendations-biden-health-officials/index.html"
+  - title: "Biden says full FDA approval of a Covid-19 vaccine could come as early as the end August"
+    excerpt: "To date, more than 339 million doses of Covid-19 vaccine have been administered to give people protection from the coronavirus; several studies show that the three vaccines authorized for emergency use in the United States work and are safe; and the government continues to give them out in schools and"
+    publishedDateTime: 2021-07-22T11:25:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KBc7NPM_Gwk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/health/covid-19-vaccine-approval-when/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/health/covid-19-vaccine-approval-when/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721221442-mask-recommendations-biden-health-officials-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625204822-fda-covid-vaccine-heart-warning-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Prominent Democrat calls out Biden admin for missing deadline to further sanction Russia over Navalny poisoning"
-    excerpt: "The Biden administration has missed a deadline by more than a month to impose legally required sanctions on Russia for the poisoning of opposition activist Alexey Navalny, the chairman of the Senate Foreign Relations Committee said Tuesday.\n    \n"
-    publishedDateTime: 2021-07-20T17:41:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNvNizVzoeE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/menendez-nalvany-sanctions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/menendez-nalvany-sanctions/index.html"
+  - title: "Conservative hostility to Biden vaccine push surges with Covid cases on the rise"
+    excerpt: "Some in the GOP have felt compelled to reiterate support for getting the shot, with McConnell saying he was \"totally perplexed\" by the ongoing resistance."
+    publishedDateTime: 2021-07-20T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/conservative-hostility-biden-vaccine-push-surges-covid-cases-rise-n1273692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273692"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405154420-alexey-navalny-putin-opositor-rusia-huelga-hambre-protesta-valetina-prudnikov-aristegui-mexico-00002413-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3492054/210718-lauren-boebert-cpac-jm-1138.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "yiakUA0r+RHNHXCH5pIG6g1A1pjMeTbr4rAJIcI3eM7FcjgQwpP02vkH70/jN688iyHTe3/hmLd0RAD+dMg8O4ZiKaa0riDeV/RbWO8tGsuiCWtrVWsR1Asr3xgmNs7FTgQg8iNfsrTgwuiF52HKpuA2AedIftMMA2UoDufMzX0TciixMv86pWf3d6lBp3XpH9TZuqETBnD4pzMO6ux4FqNHjvWLfG32h3+8d4aJ+WjkjuyHcog8eJ+g4o/CQrFikPH60q1vJD3GsoWt+7WleVG9HxIyrBPvIivJRtgIL7Nt4DVPeTgx5WBYAvphrktKIVJaytXmgC4y2ocqzP+EDPXCOVibFEmrI84fGTv6V3k=;AEerxJTCEEnmkg5ou5XRPg=="

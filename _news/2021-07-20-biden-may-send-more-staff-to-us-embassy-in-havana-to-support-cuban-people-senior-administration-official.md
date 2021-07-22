@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-may-send-more-staff-to-us-emb
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp"
 type: article
 quality: 158
-heat: -1
-published: false
+heat: 178
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to bolster security at US Embassy in Haiti, won't send troops to stabilize country"
-    excerpt: "President Biden plans to bolster security at the U.S. Embassy in Port-au-Prince after the assassination of Haitian President Jovenel Moïse earlier this month, he said Thursday."
-    publishedDateTime: 2021-07-16T10:01:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHGG8qKrZ9E/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp"
+  - title: "Biden: \"The United States Stands Firmly With The People Of Cuba\""
+    excerpt: "President Joe Biden addressed civil unrest in Cuba before delivering remarks on gun crime at a press availability on Monday. \"The United States stands firmly with the people of Cuba as they assert their universal rights,"
+    publishedDateTime: 2021-07-12T21:54:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fdc43bb-25a1-4fc2-9e33-3a3b4fe3eee8/11d27d76-b787-42d5-af76-d2fb82c88562/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://assets.realclear.com/images/54/547926.jpg"
+        width: 912
+        height: 684
         isCached: true
 
 secured: "TxIt91+P+xQctta758oK75K2Jbv3w+l2NulYXkTMqi1XvFzXpmp2Wysh73N1hUm9M36WJkZfIGOSeRvxRmn8jrFhOd17lJEtiaMqEejUwfeVUmWHZdPzx9jfmVULv+TCuOoOGpJ94u8mbT5gsDIgJhZWDXiYKHFNXlSYh0a9R7Ia5Jk9sVglYs/htsPH09TTrxGkKBntQjV6EBl+zoxa2KWkosRAWLNxYDWYx0a/VQtf63WQOvYvKMR8sS4+Pf4MXcOBslWhw233EpY5qLzqURAmO6cj91+7Qy7mBaLUYqAYG9SofmWPGLIvawC8T0QjTBrkMa0uPjl84/xYMdntUpbn7dg9QG+l2lVun/84Gt8=;6uWaQdaG9cgxOTPPjZb8GQ=="

@@ -173,6 +173,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden’s China Policy Borrows From Trump and Adds Allies to Raise Pressure"
+    excerpt: "The president’s policy will get a test when U.S. Deputy Secretary of State Wendy Sherman travels to China for the first face-to-face meeting of senior officials in more than three months."
+    publishedDateTime: 2021-07-22T12:01:00Z
+    webUrl: "https://www.wsj.com/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-373162/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Media continues to fawn over President Biden after six months in office"
     excerpt: "Six months of Joe Biden’s presidency has been represented by six months of mainstream media largely fawning over the 46th president, despite an influx of illegal immigration, a surge in violent crime across the nation,"
     publishedDateTime: 2021-07-20T21:42:00Z

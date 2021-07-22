@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-22-audio-trump-says-he-spoke-to-a-loving-crowd-at-jan-6-rally.md",
+      "title": "Audio: Trump says he spoke to a ‘loving crowd’ at Jan. 6 rally",
+      "excerpt": "In an exclusive interview for the new book \"I Alone Can Fix It,\" the former president described the atmosphere on Jan. 6 before the storming of the Capitol as largely friendly and peaceful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/21/trump-interview-i-alone-can-fix-it/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/21/trump-interview-i-alone-can-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NWR5U4SQJMI6XIPV7WXSRT6KSA.jpg&w=1440",
+          "width": 1440,
+          "height": 936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up.md",
       "title": "Magacoin: pro-Trump cryptocurrency attracts over 1,000 people to sign up",
       "excerpt": "Magacoin bills itself as the ‘digital currency for the MAGA community’ but data from the site shows most of the cryptocurrency is allocated to its self-style creator",
@@ -1490,54 +1542,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-david-gergen-trump-more-dangerous-than-nixon-could-bring-the-whole-system-down.md",
-      "title": "David Gergen: Trump More Dangerous Than Nixon, Could \"Bring The Whole System Down\"",
-      "excerpt": "Former Nixon advisor David Gergen told CNN on Tuesday that he fears President Trump was \"more dangerous\" than Richard Nixon because he was \"crazy.\" \"what we worried about with Trump was that he was crazy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/41/414210.jpg",
-          "width": 568,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
-      "publishedDateTime": "2021-07-14T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],
