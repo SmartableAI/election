@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-09-rupert-murdoch-approved-fox-news-calling-arizona-for-biden-book-claims.md",
+      "title": "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims",
+      "excerpt": "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
+      "originalUrl": "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ce605a7b8f34ae08a973d02474c80f693186c85c/0_0_3280_1968/master/3280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f16e06960bae0821364feece0851061f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
+      "publishedDateTime": "2021-07-09T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-biden-says-i-will-not-send-another-generation-of-americans-to-war-in-afghanistan-live.md",
       "title": "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live",
       "excerpt": "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news",
@@ -1488,58 +1541,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-joe-biden-and-justin-trudeau-bet-on-stanley-cup-final-outcome-youre-on-pal.md",
-      "title": "Joe Biden and Justin Trudeau Bet on Stanley Cup Final Outcome: 'You're on Pal'",
-      "excerpt": "President Joe Biden and Canadian Prime Minister Justin Trudeau have agreed to bet on the outcome of the Stanley Cup Final, which feature a Canadian franchise for the first time in a decade. Much to delight of NHL fans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037",
-      "originalUrl": "https://www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1832638/joe-biden-justin-trudeau.jpg",
-          "width": 2276,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037?amp=1",
-      "publishedDateTime": "2021-06-29T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

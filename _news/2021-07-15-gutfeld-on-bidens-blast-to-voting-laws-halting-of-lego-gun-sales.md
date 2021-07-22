@@ -208,6 +208,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Anti-critical race theory parent blasts Biden administration for promoting Abolitionist Teaching Network"
+    excerpt: ""
+    publishedDateTime: 2021-07-22T14:31:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRF-hY0zAWw/anti-critical-race-theory-parent-blasts-biden-administration-for-promoting-abolitionist-teaching-network"
+    ampWebUrl: "https://www.foxnews.com/politics/anti-critical-race-theory-parent-blasts-biden-administration-for-promoting-abolitionist-teaching-network.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-critical-race-theory-parent-blasts-biden-administration-for-promoting-abolitionist-teaching-network.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2416de8-d327-45cc-b4d7-f492054b68c2/5e1e32b0-4720-4e86-b103-e719ff782587/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Conservative leaders say Biden admin is ‘ripping the U.S. Constitution to shreds’ in scathing open letter"
+    excerpt: "A group of conservative leaders declared President Joe Biden’s administration is \"ripping the U.S. Constitution to shreds\" in a scathing open letter that demands the White House and federal government be fully transparent about all actions to restrict speech."
+    publishedDateTime: 2021-07-22T13:52:00Z
+    webUrl: "https://www.foxnews.com/media/conservative-leaders-say-biden-admin-constitution-shreds-letter"
+    ampWebUrl: "https://www.foxnews.com/media/conservative-leaders-say-biden-admin-constitution-shreds-letter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/conservative-leaders-say-biden-admin-constitution-shreds-letter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Greg Abbott On Voting Laws: Biden Is Losing Control Of His Own Narrative"
     excerpt: "Texas governor Greg Abbott defends Texas election laws on 'Kudlow:' GREG ABBOTT: It shows increasingly that Biden is losing control of his own narrative and losing control of what is trying to convey to the American people."
     publishedDateTime: 2021-07-15T14:52:00Z

@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-26-biden-says-afghans-must-decide-their-future-as-us-troops-withdraw.md",
+      "title": "Biden Says Afghans Must ‘Decide Their Future’ as U.S. Troops Withdraw",
+      "excerpt": "Mr. Biden told President Ashraf Ghani that the United States would still offer security assistance, as well as diplomatic and humanitarian aid.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-biden-afghan-1-SWAP/25dc-biden-afghan-1-SWAP-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.amp.html",
+      "publishedDateTime": "2021-06-25T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-whistleblowers-urge-biden-administration-to-do-more-to-vaccinate-detained-immigrant-population.md",
       "title": "Whistleblowers urge Biden administration to do more to vaccinate detained immigrant population",
       "excerpt": "Three whistleblowers are urging the Biden administration to do more to vaccinate immigrants in Immigration and Customs Enforcement detention amid mounting criticism over the agency's response to the pandemic within its facilities, according to a letter obtained by CNN.\n    \n",
@@ -1608,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/biden-michael-smith-americorps/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-michael-smith-americorps/index.html",
       "publishedDateTime": "2021-06-15T03:40:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-biden-says-nato-must-protect-against-phony-populism.md",
-      "title": "Biden says NATO must protect against 'phony populism'",
-      "excerpt": "President Joe Biden on Monday called on foreign leaders to protect against those who prey on division and push \"phony populism,\" asserting that it's up to democratic nations to prove to the world that democracy can prevail and autocracies cannot \"deliver for the needs of our people.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kJslJsxjsoo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kJslJsxjsoo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614181318-13-nato-summit-biden-0614-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/14/politics/joe-biden-phony-populism-nato/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/joe-biden-phony-populism-nato/index.html",
-      "publishedDateTime": "2021-06-14T16:09:37-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

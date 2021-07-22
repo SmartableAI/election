@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibus
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibuster/"
 type: article
 quality: 121
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
-    excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
-    publishedDateTime: 2021-07-22T01:33:00Z
-    webUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 52
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WNUXM57P7NCJDI2KZNIRYSBABI.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "1ahmBGowcShVzG+ixsSRJKHwKEm/fnXqc/yQJxUAUIbNzbienYU9xBwAmrTgRbnlvRtpWRsv98l62XKA5U0EvqTln0qNRsRAcs6hgnTYzmMnh89XQRjzST4zlfnM9Ku70I7zRbBBjNbTSDeLnbFf1TAEvov1bsSXoFE5SjWiH/Otjm0MmJBnCwI3rxPu2GIlopdWtcgKaFOCT6X9tFIQwwtzRdrHSQBIN/oqvuQgFPqkRNhD8Utjh0kMlEY02g++KgfsXxBGpPfp3qelvvpIIcGb+uNHFSbtzchuFOZl/krKbO/ZG6G1142Yb1uBLoIMTFXE8J38WYrU0dZ2ra0LEtWUaTgli6Y/ocdhB1/num7g7pV+DE8T/EmgxYnxb7rUu3oethWRs7auKGQrbGL/2Uz5Q2tHudnvHpLITC3VTNSCQRH+wQ8i36psDI8BWW0yuqoi/K+TOSxKGkGXri5AqX6Xqf1yBz9gjGAHt1NLOntqqu/t68Sr9SgLrz21/xhV8sGXNE2iM2ziQ3u2TCVroQ==;EHD1EJexc+WLdFtNey0Jcg=="
 ---

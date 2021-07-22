@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 1455
+heat: 1475
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1850829/linda-zuern-trump-anti-vaxxer-anti-vaccination-dies-covid-19.jpg"
         width: 3500
         height: 2333
+        isCached: true
+  - title: "Seth Meyers: Trump presidency was ‘Epcot world showcase of corruption’"
+    excerpt: "Late-night hosts discuss the arrest of ex-Trump inaugural chair Tom Barrack and the GOP’s late change of heart on vaccines"
+    publishedDateTime: 2021-07-22T14:32:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/jul/22/seth-meyers-trump-tom-barrack-stephen-colbert"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/jul/22/seth-meyers-trump-tom-barrack-stephen-colbert"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/jul/22/seth-meyers-trump-tom-barrack-stephen-colbert"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7bcf3de017da1872f9a377f9ea917f1c4333121e/116_120_2558_1535/master/2558.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e3f93935cc6f2da650bbac65064d1dc6"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump supporter who took part in Capitol riot to be sentenced for felony"
     excerpt: "Lawyers for Paul Hodgkins, who pleaded guilty to one count of obstructing an official proceeding, ask for leniency"

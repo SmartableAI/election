@@ -204,6 +204,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Anti-critical race theory parent blasts Biden administration for promoting Abolitionist Teaching Network"
+    excerpt: ""
+    publishedDateTime: 2021-07-22T14:31:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRF-hY0zAWw/anti-critical-race-theory-parent-blasts-biden-administration-for-promoting-abolitionist-teaching-network"
+    ampWebUrl: "https://www.foxnews.com/politics/anti-critical-race-theory-parent-blasts-biden-administration-for-promoting-abolitionist-teaching-network.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-critical-race-theory-parent-blasts-biden-administration-for-promoting-abolitionist-teaching-network.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2416de8-d327-45cc-b4d7-f492054b68c2/5e1e32b0-4720-4e86-b103-e719ff782587/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'Gutfeld!' on Biden's blast to voting laws, halting of Lego gun sales"
     excerpt: "In some of his strongest language yet, President Biden today blasting Republican efforts to restrict voting access as un-American and a test of our democracy. UNIDENTIFIED MALE: President Biden late today in Philadelphia,"
     publishedDateTime: 2021-07-15T11:15:00Z
@@ -219,6 +235,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Conservative leaders say Biden admin is ‘ripping the U.S. Constitution to shreds’ in scathing open letter"
+    excerpt: "A group of conservative leaders declared President Joe Biden’s administration is \"ripping the U.S. Constitution to shreds\" in a scathing open letter that demands the White House and federal government be fully transparent about all actions to restrict speech."
+    publishedDateTime: 2021-07-22T13:52:00Z
+    webUrl: "https://www.foxnews.com/media/conservative-leaders-say-biden-admin-constitution-shreds-letter"
+    ampWebUrl: "https://www.foxnews.com/media/conservative-leaders-say-biden-admin-constitution-shreds-letter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/conservative-leaders-say-biden-admin-constitution-shreds-letter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "pq5MBHabTnyAp3mKX2MP4OVpYyJ/aJm/QrkAI/IQN7fWqdied5Ed2ppp5IydDKJbNkrKyl5CuHm5H8VP6ae2ei4v2mhWAMZ8ng5ZAa2GB9FGmRjnZRdFxX3SF27+7rktu8yYiCwjnj7jChyRpKZ8uKVL0SY/LVjrFT2DDhPUkmJGk7fBGefEMIRTJphDcT5qfCiN+DB/OWtGsT9/0vmiV8RdLCPrmsBdgr1fONhFovf54p5UyOb+LnhOefHCaIZuHqQDuEZSaWx8Gu7w70A3gJavdqOtBg/hTpoMiA9wts/6NMzRJkzQDGzJ5dMDns1wToFIqs+w1j/ZM6h+MPnF/OnZg9Q6xGLs1RaRrvrGwYY=;uzheendF2zPJyfa6qRq/1Q=="

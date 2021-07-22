@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-22-lara-trump-says-she-is-not-masking-up-her-children-for-school-calls-mandate-ludicrous.md",
+      "title": "Lara Trump says she is ‘not masking up her children’ for school, calls mandate 'ludicrous'",
+      "excerpt": "Fox News contributor Lara Trump told “Fox & Friends” Thursday that she is “not masking up her children” for school after President Biden said during a CNN Townhall that children under 12 and all unvaccinated students will have to comply.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school.amp",
+      "publishedDateTime": "2021-07-22T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-audio-trump-says-he-spoke-to-a-loving-crowd-at-jan-6-rally.md",
       "title": "Audio: Trump says he spoke to a ‘loving crowd’ at Jan. 6 rally",
       "excerpt": "In an exclusive interview for the new book \"I Alone Can Fix It,\" the former president described the atmosphere on Jan. 6 before the storming of the Capitol as largely friendly and peaceful.",
@@ -1296,7 +1353,7 @@
       "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1455,
+      "heat": 1475,
       "tags": null,
       "images": [
         {
@@ -1485,63 +1542,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-it-will-be-remembered-trump-allies-cross-him-in-special-election.md",
-      "title": "‘It will be remembered’: Trump allies cross him in special election",
-      "excerpt": "Debbie Meadows, the wife of former Trump chief of staff Mark Meadows, and Sen. Rand Paul have endorsed candidates opposing a Trump pick in Ohio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/07/14/trump-allies-special-election-499655",
-      "originalUrl": "https://www.politico.com/news/2021/07/14/trump-allies-special-election-499655",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/9d/1e/2ad6c0b84fab96f53e386dd0de1c/210714-trump-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/14/trump-allies-special-election-499655",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/14/trump-allies-special-election-499655",
-      "publishedDateTime": "2021-07-14T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],
