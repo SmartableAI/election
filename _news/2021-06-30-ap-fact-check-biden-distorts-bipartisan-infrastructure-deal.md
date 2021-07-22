@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Biden inflates jobs impact from his policies"
+    excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office WASHINGTON -- President Joe Biden on Wednesday inflated the impact of his ..."
+    publishedDateTime: 2021-07-22T01:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_855cbb11eae14c3da7ec975e08a8eae7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact check: Post detailing COVID deaths under Biden ignores improving trend"
     excerpt: "A Facebook post claims more than 176,000 people died from COVID-19 in the United States since President Joe Biden took office on Jan. 20. The image of Biden masked up with his thumbs up, shared April 28,"
     publishedDateTime: 2021-05-01T01:56:00Z

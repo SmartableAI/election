@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstat
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_f71a61e9ab964f06825e29a4f7294c08_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP FACT CHECK: Biden inflates jobs impact from his policies"
+    excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office WASHINGTON -- President Joe Biden on Wednesday inflated the impact of his ..."
+    publishedDateTime: 2021-07-22T01:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_855cbb11eae14c3da7ec975e08a8eae7_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

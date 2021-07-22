@@ -811,6 +811,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Allen Weisselberg resigned from the top of the Trump Organization. So who’s running the company now?"
+    excerpt: "When Allen Weisselberg resigned his position on the trust that controls the Trump Organization, Donald Trump Jr. officially became the company's most powerful officer."
+    publishedDateTime: 2021-07-21T22:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/21/weisselberg-trump-organization-eric-donald-ivanka/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 90
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IFS5RW2U4I6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump Organization, CFO Indicted By Manhattan Grand Jury: What Does This Mean?"
     excerpt: "The criminal indictments against the Trump Organization and Allen Weisselberg are expected to be unsealed Thursday afternoon."
     publishedDateTime: 2021-07-01T02:49:00Z

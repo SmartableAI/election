@@ -63,6 +63,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 takeaways from President Joe Biden's CNN town hall "
+    excerpt: "President Joe Biden arrived in Ohio on Wednesday mindful the days for actual bipartisan governing in Washington are quickly waning.\n    \n"
+    publishedDateTime: 2021-07-22T03:28:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3vNieprBhPY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-town-hall-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-town-hall-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721201527-05-biden-town-hall-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Watch the entire CNN town hall with President Joe Biden"
+    excerpt: "CNN's Don Lemon moderates as President Joe Biden answers questions in a CNN town hall in Cincinnati on Wednesday. Watch the full event below.\n    \n"
+    publishedDateTime: 2021-07-22T02:50:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7FFYH9Z3mZ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/full-president-joe-biden-cnn-town-hall-july-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/full-president-joe-biden-cnn-town-hall-july-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721215545-09-biden-town-hall-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden Might Avoid the Policy Sinkhole That Swamped His Predecessors"
     excerpt: "By enacting big spending initiatives under the auspices of pandemic relief and infrastructure, and avoiding health care, President Biden may have found a way to skirt an ideologically divisive fight."
     publishedDateTime: 2021-07-20T22:17:00Z

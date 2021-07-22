@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-20-california-gop-lawmakers-call-on-biden-admin-to-address-aviation-fuel-shortage-to-prevent-wildfire-disaster.md",
+      "title": "California GOP lawmakers call on Biden admin to address aviation fuel shortage to prevent wildfire disaster",
+      "excerpt": "Letter to Interior Secretary Deb Haaland and Agriculture Secretary Tom Vilsack calls on them to address a “potential fuel shortage” for airplanes tasked with fighting fires.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CbwKjwNIoq0/california-lawmakers-biden-fuel-shortage-wildfire",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CbwKjwNIoq0/california-lawmakers-biden-fuel-shortage-wildfire",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7036c65d-5b29-40c2-a67b-439d0399fb6e/4ab15bfe-320e-47e0-9ff2-b52ad15f1220/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp",
+      "publishedDateTime": "2021-07-20T13:53:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-quarterback-tweak-tom-brady-makes-trump-election-joke-at-white-house-ceremony.md",
       "title": "Quarterback tweak: Tom Brady makes Trump election joke at White House ceremony",
       "excerpt": "\"I think about 40 percent of people still don't think we won,\" Brady said of his Super Bowl champion Tampa Bay Buccaneers.",
@@ -1297,49 +1353,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday.md",
-      "title": "Former SF Giants star Hunter Pence debuting as TV color commentator on Sunday",
-      "excerpt": "Pence has kept himself busy with various projects and adventures since the day he hung up his spikes last season and on Sunday, the former Giants star announced his latest pursuit. Pence will serve as the color commentator alongside play-by-play broadcaster Dave Flemming for the Giants’ series finale in St.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday",
-      "originalUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/02/BNG-L-GIANTSFEST-0209-1.jpg?w=1024&h=669",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday/amp/",
-      "publishedDateTime": "2021-07-18T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],
