@@ -1,0 +1,83 @@
+---
+category: news
+title: "Biden alleges worker shortages are due to low wages"
+excerpt: "President Biden alleged some working-class industries are facing hiring shortages because of insufficient wages during a town hall Wednesday night."
+publishedDateTime: 2021-07-22T01:48:04Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QV1ciHZUwQQ/biden-alleges-higher-us-unemployment-rates-are-due-to-low-wages"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QV1ciHZUwQQ/biden-alleges-higher-us-unemployment-rates-are-due-to-low-wages"
+ampWebUrl: "https://www.foxnews.com/politics/biden-alleges-higher-us-unemployment-rates-are-due-to-low-wages.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-alleges-higher-us-unemployment-rates-are-due-to-low-wages.amp"
+type: article
+quality: 175
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5957d778-d5a2-40ab-bac6-a88f93c1d217/435dc9c7-aecb-44d3-a66b-8f0237da643a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "Ukrainian president Zelensky to visit Biden in August"
+    excerpt: "Ukrainian President Volodymyr Zelensky is set to meet with President Biden next month, the White House announced Wednesday."
+    publishedDateTime: 2021-07-21T20:49:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august"
+    ampWebUrl: "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/216af4a8-262c-428f-8c3c-b0753edaf990/d499b3d7-637d-4397-b5ce-8e666de59a61/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "President Biden: Communism Is A Universally Failed System"
+    excerpt: "President Biden was asked to comment on his position on protests and unrest in Cuba and critics from the right who said he is soft on communism: NEW!Powerful statement from President Donald J. Trump on Biden's refusal to stand up to the Communist regime in Cuba\"Today’s Democrat Party is so far left they can’t even take a stand against violent Communism."
+    publishedDateTime: 2021-07-15T22:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/15/biden_communism_is_a_universally_failed_system.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/15/biden_communism_is_a_universally_failed_system.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/15/biden_communism_is_a_universally_failed_system.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/548226.jpg"
+        width: 4198
+        height: 2799
+        isCached: true
+  - title: "Will Europe Rise to Biden's Challenge?"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-14T11:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/14/will_europe_rise_to_bidens_challenge_547136.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548052_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+
+secured: "LrfUqqGclKzAObcm8ykyvPFqiFo42SPSr0pv44AVmS5aiIqhJj4mlCrVfAVmOsr5Xiv68k5MJ1KUCa5cl0EFnc1k7YKrQ+DGFzO0dZzaNH5pFtr5xrpGVatyxBcSd73u5JsNWcUKTpUUAmxX/0CUtp7yqw6pKaOql7ZaUNUsMKr6CK4dqtp2XoJhnztVV0ctKnQP+ywwbkFtDY1vHKAeXF+Ot4gfqKAhJv0/CR3K+h8UBnMf0GXJ5yP0EcCz18W5GIGAPnQImJTQQyYDNMLmRceYwXDCC+Bi8x+rkoiq698WYEOWbtzUhU2fOUobsAlCWilMVb2C706a7zTDoAM9mDwfPXVA1cY7kyOZ5UtxPh8=;ERud0RPfdtICiDzkK7CU/g=="
+---
+

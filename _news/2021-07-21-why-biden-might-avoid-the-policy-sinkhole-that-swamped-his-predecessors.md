@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden predicts restaurants and businesses will be 'in a bind' for some time due to labor shortages"
+    excerpt: "President Joe Biden is visiting Ohio for a CNN town hall on Wednesday as his six-month-old presidency reaches a critical juncture.\n    \n"
+    publishedDateTime: 2021-07-22T01:17:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3OnYnnY6bA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721201153-04-biden-town-hall-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "iFuahXhSYa6fZiHX3iLikgXWIZdH490UL0MtOr5bU3tNdG8oapqd88XXQtUz9IBdSJLQpGG12USLDGr6nOJnp6tPAx5gRCTIYjfpzFH7TNef+RfUj4BJQtk+mlw6VXI9iVzTTMnV8lgpMmH6LPXRHfWvTcO5qFKn2EMpVNiaPbukSIR7BD6ZN0Uyvpc7LXkJJSiS0TrUJgcik2AGSKuspdl+VJfI5ApC3xaqhQXymSqxw6w5c+K1OG/oQRi6q2SPIun0XGmnI2I1JV5QsZxcqtqtrLIuSl7yTaGR44s1ota3WtiDkwf7rLRKOsxIk03auQX1Tlvep/UWa6QCGTht8VjSTJlL8SG/VaYQK0Ns0eDqt4P4wOyfASuhhjAbYNdgoAtGHYba2sn1pIUB8Of3IMUOHWQ/49Ii770sSzz2odURxcwzYh+TEZ+wi+vHofnaDrSnOVeDS4eDsUsae++IqlC+LLlcb+16X0XJxx8S2o/1ysIe9v+3o55GhmD9V5cqAglVVIa6XxoSG/4OBJ0nMA==;pxo5MpXS4RIpVUbKD1xXTw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden alleges worker shortages are due to low wages"
+    excerpt: "President Biden alleged some working-class industries are facing hiring shortages because of insufficient wages during a town hall Wednesday night."
+    publishedDateTime: 2021-07-22T01:48:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QV1ciHZUwQQ/biden-alleges-higher-us-unemployment-rates-are-due-to-low-wages"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-alleges-higher-us-unemployment-rates-are-due-to-low-wages.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-alleges-higher-us-unemployment-rates-are-due-to-low-wages.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5957d778-d5a2-40ab-bac6-a88f93c1d217/435dc9c7-aecb-44d3-a66b-8f0237da643a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "President Biden: Communism Is A Universally Failed System"
     excerpt: "President Biden was asked to comment on his position on protests and unrest in Cuba and critics from the right who said he is soft on communism: NEW!Powerful statement from President Donald J. Trump on Biden's refusal to stand up to the Communist regime in Cuba\"Today’s Democrat Party is so far left they can’t even take a stand against violent Communism."
     publishedDateTime: 2021-07-15T22:22:00Z

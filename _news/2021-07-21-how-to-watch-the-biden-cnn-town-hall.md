@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden predicts restaurants and businesses will be 'in a bind' for some time due to labor shortages"
+    excerpt: "President Joe Biden is visiting Ohio for a CNN town hall on Wednesday as his six-month-old presidency reaches a critical juncture.\n    \n"
+    publishedDateTime: 2021-07-22T01:17:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3OnYnnY6bA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721201153-04-biden-town-hall-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden Might Avoid the Policy Sinkhole That Swamped His Predecessors"
     excerpt: "By enacting big spending initiatives under the auspices of pandemic relief and infrastructure, and avoiding health care, President Biden may have found a way to skirt an ideologically divisive fight."
     publishedDateTime: 2021-07-20T22:17:00Z

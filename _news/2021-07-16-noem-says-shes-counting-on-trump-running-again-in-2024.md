@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-ru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp"
 type: article
 quality: 175
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ap18082762096951.jpg"
         width: 1920
         height: 1243
-        isCached: true
-  - title: "The Real Reason Trump Keeps Telling the Big Lie"
-    excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
-    publishedDateTime: 2021-07-20T19:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/548617_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "BFLrvojpyo+b+nSIAEPIxe1up+bilotUZTlPpCkqtQVt4B0AG8UvcOFVbA+cayJ9QakU57pXA4t0g2xZ2iVqcZYO0T6cEPU9lKYzu6k0hgjVfJSZuaQV1xbPa6QyKLIg6EzympJz6IiFWLdTknC7HkHSkGLIB1m4L9W2u1wZJGMADjCIHvokPoa3ZW+TQ9BV4a46LnckO/WqmCecpGRuASpZlP1Fg70bnOSVGH02y91O2eJoY1whaHN4D13UCmCGJr6VatK3xUZMgCVpW2nQ6BnYqEZ1gYne/VJ6QaEYg/EZ4XS83boTjnC7aV/gVEGIlwHVHnkPI5vt95dTpKYSzJyDNk7NyryFM2MRKkzQymI=;GUlkZJaH/LZO7Q4pqNWzHQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-age
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-agenda-what-matters/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden predicts restaurants and businesses will be 'in a bind' for some time due to labor shortages"
+    excerpt: "President Joe Biden is visiting Ohio for a CNN town hall on Wednesday as his six-month-old presidency reaches a critical juncture.\n    \n"
+    publishedDateTime: 2021-07-22T01:17:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3OnYnnY6bA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/joe-biden-cnn-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721201153-04-biden-town-hall-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden Might Avoid the Policy Sinkhole That Swamped His Predecessors"
     excerpt: "By enacting big spending initiatives under the auspices of pandemic relief and infrastructure, and avoiding health care, President Biden may have found a way to skirt an ideologically divisive fight."
     publishedDateTime: 2021-07-20T22:17:00Z
@@ -64,6 +80,6 @@ related:
         height: 550
         isCached: true
 
-secured: "OEoux5qVu/zanfsEIgGuDFnvysE90iEzeL3nToBLsYMJp087VXgV5p095BqRxRMsOFhRuVhE+w3uZXDG2x5xhNjtgRteLXL9iG0LQTJFK6oTObf2fW2hzFNOg0dkFPkjl4VHMrimMKAGVHkSTOIF7sKJtE0/oKnVcuS5VeFpk5aGQbypheEn31UtuuxMmqFflhATXdpRZc4qqhdBlfhrBHjK6IbPAZzkZ6WeXg+jJRB/n/S7LnhT3nXtYEaxHRorJdNw/ZLPyBAVjQDlrvFl8EfL2sQYNPSkM3RNorZ5WGwycrGjh1jBjy0BI+CZ8XAOPL93U5TbeyzN8NuNvNXrbNTurZ5gmMOuAT/IIol87Lg=;X3uVbvmbbyoqMEbUiuOEiQ=="
+secured: "iCvwWclnQFVADTc4tlY8LVCty8Tk64MYyzA12WmR0SNxkA5Gk04+oFCUFw6aWCW0rgs8uYu++Lcy0y/OxH+bpOaqiCQYM4rvyYDkzXHb/RFWtk9UaUWfQcTEB7kPpZp96EmJSMwCRYy5Nuol6CGvg8WEqObLL2Lp8NP9+GB21A++6vudwvU66f+sHirXa4y06BQ4hjbzCA2UtgzQEMc8SGkA92ij+j1jp50BJNBe4DZ/UYbOjTPdVPvhrdqoEI2tTP00EUMFQDfahWigYu70nCgmdBGLMInHPWX0bhKlUGeqpL3YE568S5mQmNf/kMm3ScHeTMsaM2kDm7MCjTkzihGRmv4pCOcbazcdyu5JJKE=;/FiMlZKVbY1CMHY/mBKxKQ=="
 ---
 

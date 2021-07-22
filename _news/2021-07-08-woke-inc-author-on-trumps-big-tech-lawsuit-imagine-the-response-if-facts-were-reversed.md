@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "'Sunday Morning Futures' on Trump's Big Tech lawsuit, US-China relations"
+    excerpt: "Welcome to \"Sunday Morning Futures.\" I'm Maria Bartiromo. Today, breaking news, with President Trump still fightin"
+    publishedDateTime: 2021-07-12T12:44:00Z
+    webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations"
+    ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da047fe0-ff00-4fee-a621-0555e366db4e/596e9fee-8a85-409c-8e26-3e7c8a995960/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'Media Buzz' on Trump's lawsuit against media giants, ESPN benching top host"
     excerpt: "Donald Trump may or may not have legal success in going after Twitter and Facebook but I'll tell you this. His continued banishment by the social media giants is an absolute outrage and hurts them far more than the former president."
     publishedDateTime: 2021-07-12T12:45:00Z

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he believes kids under 12 will be able to get Covid-19 vaccines 'soon,' but it's up to scientists "
+    excerpt: "President Joe Biden said Wednesday that children under the age of 12 could be eligible to receive a Covid-19 vaccine \"soon,\" predicting that the government could green light the rollout for young Americans in the next few months.\n    \n"
+    publishedDateTime: 2021-07-22T01:50:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UCskee6WFFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/vaccines-children-biden-town-hall-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/vaccines-children-biden-town-hall-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720200346-children-vaccination-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Fa1bTM1IGFRhxDLmEwpiN3a8l8X0JDJo/NDdx/hbYfegYGNHPG8xtUkDDf6KVBymJtOy0/JkA5NB7b041ttbYjtIll9uITCOzeqQhwGnJExuZtckW+WHKEVzOHP24BM8KvJg9jfHCOTYWuYQQMJuzaDGgyxA+uSoWSzg7eae//ne8BrPRcZ0r/RIfsxRNrJzOwg+vKnoMBpOHOvKRAKyqf8gPpWcDN3RnNdMAI7bJMaD7P/VjofTUxpZ2gcBlKYZ5wS37+MKvv1qK9GtMPGljEJW91Wa77DUw/z5hVjC6kioLiuZfI87EdGgNFmz19dY/lG/OH+lS7n/fglOMscBVbTN9gUQJqmz4ET4+sUxuA8=;dTM05BeeaZfHao/WWMiqQw=="
 ---
