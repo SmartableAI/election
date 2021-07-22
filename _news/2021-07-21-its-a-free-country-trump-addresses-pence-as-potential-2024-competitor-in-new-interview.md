@@ -3,18 +3,22 @@ category: news
 title: "'It’s a free country': Trump addresses Pence as potential 2024 competitor in new interview"
 excerpt: "In a newly-released book excerpt, Donald Trump upholds his false election claims, knocks Mike Pence and says he's a potential 2024 presidential rival."
 publishedDateTime: 2021-07-20T18:24:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/"
-webUrl: "https://www.cincinnati.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/"
-ampWebUrl: "https://amp.cincinnati.com/amp/8023849002"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8023849002"
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/"
+ampWebUrl: "https://amp.usatoday.com/amp/8023849002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8023849002"
 type: article
-quality: 80
-heat: 80
+quality: 130
+heat: 130
 published: true
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -26,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "46x53X2PNLdq+iJiENrgWUyJelf6zbgY2AcfefDRAsAowRNUe1ROktGGDG+D1LoKwhcP5843rPz6WbzgaibQYhBRBWe9nrkmBCYaT2IGNNujtwIeBwOna8oCTTXqN64+290TsWcDzO3ZwT1dHee7yZN1SpKoMxJ0qLGso7j7ZmgNFM0ooji8ZTIN5M8AKd/ShQlD4tH5F7/Pgxd6OMJ2+GY/Dxh9AVvcRTgP9pYnm4/OpGG7YS1iNvLEId8OecqyTGwcJ+JrA9da7BRsgg/HOX2u6dwmt6aCOkjhqQ22Xs4i7cnBxGnKXImnfE1GV9n8mb5M2exToC12qAicXLOrH3Aq83aOP8kmpuPbRlUdbegyj4tXhC9gbbN95X4/dS5IrlQyfQ+ROjr2YE5OFXNKz/3MrCBa5b8HcU77IEQxxa1xo9+Ec82qxbPpHIVsDKyxVI4GMQJQ9GYeMXvgRL6R56Bn7kG8AJaL0tlINP9sV0+x/hScPnXiiXq+J7wan65dY662CmldQiel/J6TXJDONw==;6riTQ+eWCYjqnaz4Xtsx6A=="
+secured: "4GUCCP5iDhQv7oteY5I2eG1ef7k9JKBzpdDAyv/b1t+m6OmDCEsM6KwSs/Z8SXfvhDOOfOhXNnr0gSELkG18U72c3UR6cP7Wi95KTMhIdLphXyzwCPM267vfQQD4kRQNvH+jPVvVq+6x+eAqFT/Dmrc/ygSkWDlWiiXMs8dBqPFBO3uZFGmu9E4vwF7yB8zTB+yw8jk0B1Wc5dRuTSn/90osIjb2UrTinxS3h2m7wX+msSgr+Z2h2sMkJdNFtLrveHwDAjv8DZNlxK0eDEBWAZeYmfeYuMy+0RZuYjRodr7lSYporeRSZ5VpkuPl8S6+goeEJmAq9E28vq+Q8MiMbQs5onk5YN1Vq2CsaGMQetw=;HbsHMpFro9WoiYAZDfd8+w=="
 ---
 

@@ -6,11 +6,11 @@
       "title": "'It’s a free country': Trump addresses Pence as potential 2024 competitor in new interview",
       "excerpt": "In a newly-released book excerpt, Donald Trump upholds his false election claims, knocks Mike Pence and says he's a potential 2024 presidential rival.",
       "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
-      "originalUrl": "https://www.cincinnati.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cincinnati.com/amp/8023849002",
-      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8023849002",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8023849002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8023849002",
       "publishedDateTime": "2021-07-20T11:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -43,6 +43,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Biden defends US House Jan 6th investigation"
+    excerpt: "President Joe Biden says he isn't worried that the Jan. 6th commission will be seen as partisan after House speaker Nancy Pelosi rejected two strongly pro-Trump Republicans. House Minority Leader Kevin McCarthy said Pelosi is abusing her power."
+    publishedDateTime: 2021-07-22T09:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-defends-us-house-jan-6th-investigation/8052290002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8c618704-49bc-4967-afc3-7db39eb16b0b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Gl2bmRY+/XxMp/RHvhlRS80BpALBuQF7LHYvOU6sbZ9/Tuj+Bxwh7EsBmy6Q+ewF6knzGdqcfu11G3Gpba+y8V++vgiDtcfmkGeZm4AhXiYFDjTCYLGwAaKewofzhtb89xrcC4LbuPCp9oI9335NK7CDvUYDaIHTl2KUQc0WIXOZDdwN8U9/sFVO2UAysLOXyXYn5MLzD/bOqVuSfhhWguCkLmdEVDbmvcFNHvHKT4GjV6WIhFqzaDAAIV0bN7JtHN0Jnpqk/0dmGgVMEmCwM3tZrUkT8T/wDefY9m4S3SPEEijdKOFwPMhpR88Igu1jcMnT5GzHAW8OnS46bwUD077Cootsu5xwJhvyf+vAmLc=;ohIfY/Q6R0/+Cb9lQCGiIg=="
 ---

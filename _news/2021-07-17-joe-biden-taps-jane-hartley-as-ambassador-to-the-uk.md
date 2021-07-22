@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden defends US House Jan 6th investigation"
+    excerpt: "President Joe Biden says he isn't worried that the Jan. 6th commission will be seen as partisan after House speaker Nancy Pelosi rejected two strongly pro-Trump Republicans. House Minority Leader Kevin McCarthy said Pelosi is abusing her power."
+    publishedDateTime: 2021-07-22T09:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-defends-us-house-jan-6th-investigation/8052290002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8c618704-49bc-4967-afc3-7db39eb16b0b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Animatronic Joe Biden to join Hall of Presidents at Disney World"
     excerpt: "Forget an inauguration ceremony. The true indicator of having made it as president is being added to the Hall of Presidents at Walt Disney World in Florida, an honor President Joe Biden will soon receive."
     publishedDateTime: 2021-07-20T20:29:00Z

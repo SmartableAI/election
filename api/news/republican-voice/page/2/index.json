@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-16-oklahoma-suing-biden-admin-claiming-federal-overreach-of-mining-lands.md",
+      "title": "Oklahoma suing Biden admin, claiming federal overreach of mining lands",
+      "excerpt": "Oklahoma Gov. Kevin Stitt is suing the Biden administration over the Department of Interior's decision to strip the state's ability to regulate mines, arguing it is an unlawful act of federal overreach.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQ0PvFN6vSo/oklahoma-suing-biden-federal-overreach-mining-lands",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQ0PvFN6vSo/oklahoma-suing-biden-federal-overreach-mining-lands",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3c835d-7194-43b9-add2-96f492548d04/8dbab13c-c061-4e73-8b0b-802e30fcb680/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp",
+      "publishedDateTime": "2021-07-16T12:13:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-addison-rae-slammed-for-greeting-ex-president-trump-at-event.md",
       "title": "Addison Rae slammed for greeting ex-President Trump at event",
       "excerpt": "Once the TikToker got his attention, the two shook hands and she mentioned that she just “had to say hi” and that it was “so nice to meet you.” Social media users were not",
@@ -1551,62 +1607,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/missouri-ag-schmitt-pushback-against-biden-2022-senate-gop-primary.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-ag-schmitt-pushback-against-biden-2022-senate-gop-primary.amp",
       "publishedDateTime": "2021-07-11T02:50:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-pro-biden-super-pac-warns-voters-cant-name-his-accomplishments-as-midterms-loom.md",
-      "title": "Pro-Biden super PAC warns voters can't name his accomplishments as midterms loom",
-      "excerpt": "A super PAC supporting President Biden warns that Democrats could face defeat in the 2022 midterm elections if they don't campaign more \"aggressively\" on Biden's policies. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ld-iqgW9OHA/biden-super-pac-voters-accomplishments-midterms",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ld-iqgW9OHA/biden-super-pac-voters-accomplishments-midterms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-super-pac-voters-accomplishments-midterms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-super-pac-voters-accomplishments-midterms.amp",
-      "publishedDateTime": "2021-07-10T16:15:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

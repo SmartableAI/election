@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-20-larry-elder-says-california-law-disqualifying-him-from-recall-ballot-was-designed-to-get-trumps-tax-returns.md",
+      "title": "Larry Elder says California law disqualifying him from recall ballot was designed to get Trump's tax returns",
+      "excerpt": "Conservative talk radio host Larry Elder says the California law used to disqualify him from being on the ballot for the recall election against Gov. Gavin Newsom was originally passed by state lawmakers to force President Donald Trump to turn over his tax returns if he wanted to qualify for the 2020",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hhUffR9mR8w/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hhUffR9mR8w/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9294d03c-d956-497a-9843-9db364346e9c/2fc26e77-ec70-4ee5-a589-f538e0a60416/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
+      "publishedDateTime": "2021-07-20T15:16:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-trump-liz-cheney-opponents-to-meet-with-him-pre-endorsement.md",
       "title": "Trump: Liz Cheney opponents to meet with him pre-endorsement",
       "excerpt": "Donald Trump says he will meet next week with Republicans running against Rep. Liz Cheney and endorse one in the next few months",
@@ -335,11 +391,11 @@
       "title": "'It’s a free country': Trump addresses Pence as potential 2024 competitor in new interview",
       "excerpt": "In a newly-released book excerpt, Donald Trump upholds his false election claims, knocks Mike Pence and says he's a potential 2024 presidential rival.",
       "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
-      "originalUrl": "https://www.cincinnati.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -353,14 +409,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cincinnati.com/amp/8023849002",
-      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8023849002",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8023849002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8023849002",
       "publishedDateTime": "2021-07-20T11:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1267,62 +1332,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp",
       "publishedDateTime": "2021-07-19T00:13:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-biden-poses-with-ice-cream-cone-on-national-ice-cream-day.md",
-      "title": "Biden poses with ice cream cone on 'national ice cream day'",
-      "excerpt": "President Biden on Sunday celebrated national ice cream day by posting an image of himself grabbing a large cone and posing for a selfie.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/046cd26b-e2c1-4a37-8872-6fc6c299da6a/b770c5c1-c8ed-4bdd-aa68-d4eabaefbd2c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp",
-      "publishedDateTime": "2021-07-18T15:50:20-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
