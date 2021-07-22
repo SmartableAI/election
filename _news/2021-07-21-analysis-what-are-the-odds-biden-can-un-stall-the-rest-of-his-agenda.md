@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-age
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-agenda-what-matters/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721201153-04-biden-town-hall-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Biden makes false claims about Covid-19, auto prices and other subjects at CNN town hall"
+    excerpt: "President Joe Biden participated Wednesday in the second CNN town hall of his presidency, taking questions from anchor Don Lemon and local residents in Cincinnati.\n    \n"
+    publishedDateTime: 2021-07-22T19:40:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HnMJ2Khm5g4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/fact-check-biden-cnn-town-hall-july/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/fact-check-biden-cnn-town-hall-july/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721215849-10-biden-town-hall-0721-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

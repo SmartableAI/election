@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-claims-gop-is-lying-about-dem
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claims-gop-is-lying-about-democrats-wanting-to-defund-police-says-hes-never-supported-it.amp"
 type: article
 quality: 161
-heat: 181
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Chaffetz claims 'direct evidence' Joe Biden was privy to Hunter's business deals, as House GOP seeks documents"
-    excerpt: "Government Accountability Institute fellow Jason Chaffetz claimed Wednesday on “Hannity” that there is direct evidence being laid out by one of his GAI colleagues that shows President Joe Biden was privy to Hunter Biden's foreign business dealings."
-    publishedDateTime: 2021-07-15T04:05:00Z
-    webUrl: "https://www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals"
-    ampWebUrl: "https://www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals.amp"
+  - title: "Democrats rally for Biden public lands pick despite scrutiny from Republicans"
+    excerpt: "A bitterly divided U.S. Senate panel deadlocked Thursday on President Joe Biden’s pick to oversee vast government-owned lands in the West."
+    publishedDateTime: 2021-07-22T18:05:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P0LbJcZzo6U/tracy-stone-manning-confirmation-status-latest"
+    ampWebUrl: "https://www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 115
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b08bc2fd-79b2-4cc1-aa64-1c5784d1fc24/9c40225e-d388-4b71-8ee5-5d800a33c276/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac88bcf-166c-49da-8022-ab4f08f8adad/aadffa86-f4d3-43c0-a951-262b029df08c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Prosecutor investigating Hunter Biden stalled to avoid alerting public about probe ahead of election: Report"
+    excerpt: "The federal prosecutor investigating Hunter Biden’s taxes reportedly waited until after the election to seek search warrants, which stalled the public from finding out about the probe."
+    publishedDateTime: 2021-07-16T16:16:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/69UGnmSa_Xo/federal-proscutor-investigating-hunter-biden-stalled"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-proscutor-investigating-hunter-biden-stalled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-proscutor-investigating-hunter-biden-stalled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Cotton calls on Biden to 'publicly condemn critical race theory' after admin promotes radical group"
+    excerpt: "Sen. Tom Cotton called on President Biden to publicly denounce critical race theory after administration blamed an \"error\" for promoting a handbook that calls on educators to \"disrupt Whiteness.\""
+    publishedDateTime: 2021-07-21T18:20:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4fCPg9Rbi1o/sen-cotton-biden-publicly-condemn-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-publicly-condemn-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-publicly-condemn-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfdc2a75-9484-4588-bf7f-7537f00a6fc5/cbb41883-4195-4dc4-9da9-aaeb82531782/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "24 House Republicans urge Biden to reject Dems' amnesty push in $3.5 trillion budget bill"
+    excerpt: "Two dozen House Republicans on Wednesday wrote to President Biden urging him to reject a move by Democratic lawmakers to include amnesty for some illegal immigrants in their budget reconciliation proposal, warning that Biden’s support would betray his prior promises to promote unity."
+    publishedDateTime: 2021-07-21T15:00:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BsdQsBAKcQ4/house-republicans-biden-reject-dems-amnesty-push-budget"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29156a39-02e8-4f82-ad2b-552d175586c1/0902530a-fee5-4085-bbbf-cadbf8557dfa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "W1VTHMBHlfnmVe89go4fJUPNechblBxUWCaIyg4EDKf6029OwXaooPYn2t6xhqXnwzaaAHXfXF1LdvEllUq6fpsO+5iSPbtdSLtLfaLanDyD8dmsjfNzEpwtG5PcLWPBF5buhIIovrZFumxOk0w/fco1XzY3GteJTXnWVwPp6CwT2icCvH6Uy9XWo7R48+pwsF/yeUI4P37G7+KX8CXucme86/hXqaZ/c1c/3cAgBzdp5IGvWmvRkkKOtRrIIX/ueTnGr5OeF2N3pJUwVbUJuZpLlNxouTo0xUMJfgizBV0haV2x/p0JTKkg0zmY0Kc+l7GclfAoiDuFJcbi65DXQmhfKOhVsPmol9pM0kSTcNM=;zFsovC2YMfAGkYX4KxNP0A=="

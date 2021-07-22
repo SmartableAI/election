@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.reuters.com/resizer/y5He3Hpeccj9uPqCfW8BphaheVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HVLUSZ6UWZI2BDO3L33JXFQCTQ.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Biden admin stepping up community grants from COVID bill"
+    excerpt: "President Joe Biden’s administration says it is making $3 billion in economic development grants available to communities — a tenfold increase in the program paid for by this year’s COVID-19 relief bi"
+    publishedDateTime: 2021-07-22T17:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-admin-stepping-up-community-grants-from-covid-bill/2021/07/22/c93c8172-eaa1-11eb-a2ba-3be31d349258_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFJXVNXLCII6XIV2HPRR2NESLA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "3 takeaways from President Joe Biden's CNN town hall"
     excerpt: "President Joe Biden took questions from Ohioans on Wednesday at a CNN town hall, touching on his administration response to Covid-19, his work with Congress and many other issues."

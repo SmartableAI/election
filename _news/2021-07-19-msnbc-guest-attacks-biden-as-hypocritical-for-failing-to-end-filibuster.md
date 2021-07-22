@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-fo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.amp"
 type: article
 quality: 134
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,40 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Psaki insists Biden not pushing critical race theory, says curriculum left to local schools"
+    excerpt: "White House press secretary Jen Psaki insisted Thursday that the Biden administration is not pushing critical race theory in schools after it promoted a radical activist group’s handbook in its official reopening guidance, which she said was in \"error.\""
+    publishedDateTime: 2021-07-22T18:58:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4gRIE1qhK4/psaki-biden-critical-race-theory-curriculum-local-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-critical-race-theory-curriculum-local-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-critical-race-theory-curriculum-local-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99373ae6-ea57-4fd2-a674-4e4db41aa345/cecf2f3a-1d7a-4aed-bd32-64d84797edad/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory"
+    excerpt: "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration."
+    publishedDateTime: 2021-07-22T18:56:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties"
+    ampWebUrl: "https://www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c860925-7840-4d17-a210-b9bc26114022/a06fe2da-965b-416f-aab6-e55e1b160199/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "eRmijg5cyPu6dT8wgtKaTpislqVlQ2rzUW0PQpMOvE8VxoSwwBJH9/qvZjNRaxeAuSJyIF7ArOicpe+Ni1UJr3mDZuh/WgL5/4KX2ut4y93m0HLC+q3Q3C4+r3n1bFzfDOPLIiwWlyuoEgeAuZknPN9gMd2PWGIsgix3foroYRdQN2emw/6n91fSFM8Wc1QAmmoX8cLUk+xt2NYynNH1bTndJG1EfHEtjKcwBnexUfaw4Uz+ZXRqQ4ecraszd/CdyeGO1dGsklP+4qk8oU+wvVTOZLdlu/GWVvbOMviyP2PUhvPFdVkB2WtrkIhlUXAA3C0E95rvVHyhl9L4LrLCFR7zhlbx7G+LKmcQRwZSj0M=;ciDmnFQR7n9IWnEWOsq+NA=="
 ---

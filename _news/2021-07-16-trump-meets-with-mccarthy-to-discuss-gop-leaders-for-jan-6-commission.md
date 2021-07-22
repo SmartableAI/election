@@ -91,6 +91,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott"
+    excerpt: "House Speaker Nancy Pelosi rejected two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection, a decision the Republican denounced as “an egregious abuse of power."
+    publishedDateTime: 2021-07-22T17:33:00Z
+    webUrl: "https://www.chron.com/news/article/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Asian Markets Extend Global Rally As Earnings Trump Virus Worries"
     excerpt: "Asian markets rallied Thursday as worries about the Delta variant were overshadowed by more strong earnings reports that indicated companies were faring well as the global economy emerges from last year's pandemic-induced collapse."
     publishedDateTime: 2021-07-22T07:32:00Z

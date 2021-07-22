@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-republicans-jan-6-select
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp"
 type: article
 quality: 173
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent"
-    excerpt: "An indictment alleges that the real-estate investor acted at the direction of senior Emirati officials to influence former President Donald Trump’s policy positions and to influence public opinion in favor of U."
-    publishedDateTime: 2021-07-20T23:02:00Z
-    webUrl: "https://www.wsj.com/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-372314/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Pelosi rejects Trump allies from Jan. 6 panel, casting doubt on its impartiality"
     excerpt: "House Speaker Nancy Pelosi rejected two Republicans tapped by Minority Leader Kevin McCarthy to serve on the Jan. 6 Capitol riot select committee, likely casting doubt on the impartiality of the"
     publishedDateTime: 2021-07-21T17:08:00Z

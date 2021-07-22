@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -67,6 +67,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329902.php"
     ampWebUrl: "https://www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329902.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329902.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott"
+    excerpt: "House Speaker Nancy Pelosi rejected two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection, a decision the Republican denounced as “an egregious abuse of power."
+    publishedDateTime: 2021-07-22T17:33:00Z
+    webUrl: "https://www.chron.com/news/article/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
     type: article
     provider:
       name: Houston Chronicle

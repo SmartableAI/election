@@ -44,22 +44,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent"
-    excerpt: "An indictment alleges that the real-estate investor acted at the direction of senior Emirati officials to influence former President Donald Trump’s policy positions and to influence public opinion in favor of U."
-    publishedDateTime: 2021-07-20T23:02:00Z
-    webUrl: "https://www.wsj.com/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-372314/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "wia/wsVVfa2B3KTYzUoZoeUS11E59SYkdQtJu2HVun9X421oO9WOAsSO2J4Id+QVQNGPN9HkMpPwnUR08V4wyDC/uNFw5Oww825L5uSfRA/jqik1Sma71egrJsPuEeglYaSepexZLDF8O3EHIFLv/S1oHp2xUxNl22sqhKMzOspHr4pCzMbT0YiEMy3I/HvEKgYlfv3Pks4wmfQ3n4x9S0qk+hVkgxTxtoOcDukdzd3oGOL073SSk6VHApmU5SOLrQgvQcrlCN6Mk3ALdgL39PTo7sthRci4MPysbX4Rw0fSMH0JWW0z3kU66TY2j9n5mSdSC7ghAAN4BRtRDvxBcIupCYHW+fHma12nM0CvINvtBcHw1ooRR/yCPzwro7H9AILPKsUKMUrPiekE79HsEHp+2LgR/zqxfEHSL03hOIXuJJQqBw13cULdXnN5om9/avTM4Biy/tIxI5IaTArT3eb8Y3QlSNNYopKIsMut6fJIEquyy1tBDSRRmnrBAX5OiHdioU6Ai9yA5e/HzIOZ3w==;OcTOwbwXl3MIUfZxVIdTRg=="
 ---

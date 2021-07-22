@@ -312,7 +312,21 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Republicans Have Already Given Biden What He Needs"
+    excerpt: "We have a deal,” the beaming president proclaimed outside the White House, flanked by 10 beaming senators—all the negotiators had agreed to was an outline, a three-page sketch of how to spend $1.2 trillion on roads,"
+    publishedDateTime: 2021-07-22T18:21:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/22/republicans_have_already_given_biden_what_he_needs_547726.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548782_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "6yVRvoUphx0zvRYsQF7FsQqnapRIoYkozSLFqxszv6R5+GF6NNLyqQDWbdQzYd4NJ4mNPccdhgy9qxzvmi04jOeB8YKTH8+drtLYEUFGGSCY2IiE7nBnbzW/oXh6OTqwz5wxZWBWG3x42HiAWhEdbIjS3zuszQr26KC1do0G7aAmh3YysBVsSa2jwU3l8KXx64RbW1XAgALp5VudaK99x3QnDucdH9MBevgx2dxCUAu6JEtY/fJRJX+tQpUJkAFirHHxnPB/JBcUhj0Pj+FNF0Jbwot3BTL1kY3frBNnnX9jMlsLUBF/V+4KftEIrtmldEXOaXA+D1bQAaK6ZbQhzN0AeXOipHZ47WDm8u9DCDs=;hRs5wZRBWhprELHHUSGkcQ=="
+secured: "TObrPhGtwiYxTFJLhu402T9bWXG5+KcoGVv8l4/6P9EbwBXdHVj/t/nlcXWMXvf2rdp+tWM2rj9jfi4YmOi7AJUUGVye54ZZSqNwI4kh67pKgd1nLWqa9S2dsElnS01cN4FZUUozIfUmsSwR4h3Md1QO4/84PFqcMjbRhaSwDLQpBArxzekBVmVJkx1X+ibzKoc0hyHEJ6OrqcIq+UiKEbT7yywq3iWk1PjUedA8zCNwRq/5yxv2FaqkAaDU2N7n6zLYA1H/+/wP2vZ09g2Zjx2abh/rvUfxGDTts2C/OB9vG9P4J73IJP5cI6281JGJvsUOlKY7NapvS6OpTuV9j1YcMD4TFzO8eJT9Wf5pnkwjfbP5sJAfCObJX+TNAyJwanDJPrYauTh+MpKZKMPk1zWBp1BerpgiGLA0eRR3y0+y81OSTdTE3HC5N2Rxy6+qwDKjKbObaLb2ZV/2MuTydzgxmnZVNw8K9duz7CrhADJPJSiP4xrTZMK63X2cb2l73jW0S0KiogwOrFAyveDeEQ==;TfsnXyPwskpZaWltewyYaw=="
 ---
 

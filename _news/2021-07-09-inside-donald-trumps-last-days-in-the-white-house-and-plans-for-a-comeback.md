@@ -48,20 +48,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "The Feverish, Post-White House Mind of Donald Trump"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-07-19T18:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
-        width: 750
-        height: 495
-        isCached: true
 
 secured: "4m8kKOq5g4GEPOeJonlGJ4SJid3VKDxCps/jBy9aaKlAxEWqXYLMVhVK7eXhe/SDiFxKEvyOqS3vngWDMIvfXAoe267L0z7VFx//Ifxj1iFo55LG9Q8tzIDgTOLHsN4gZqftnpylC7PsCIKfoqSgunI66i8kxz2tqSmscjUOATzISkncmmDddLda5s/Uwh5p5LF5DoRzPvqFJlJRBaN2q53N2FVmJkYgsUhepReKuy+JCo25gdIBYaObQ5/Edmw6lzEqHdt0R2q5ROrWC+6kz/0uCxBhle1Rak1XCSxKaV7G4Gyv1RnuGMUBQ1fihKnxZmQpYlqpsOscs80vzyELhazlek/jP2jOzS+yuoPO6iaeNHunPmX5FDl8TedN6M8dFZEi5BijZ5wIbARhdl2/E7pZ+Lua8FSs26D0qC86TSvFuytaTjAtDA8ovvekOxEe6O9SuGb1P0H33/A8ZptJN/6pi7bi9aPgrGDbPur8BDyWXlRS4GVb7ZwROTeoItu3FoJ/jwUDrOt94To4jwShDA==;KqPTSYPmQixL62MnhcsTWA=="
 ---

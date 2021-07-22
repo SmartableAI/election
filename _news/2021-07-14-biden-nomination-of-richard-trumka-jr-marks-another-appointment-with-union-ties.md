@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration ties $3B in community grants to 'equity' push"
+    excerpt: "The Biden administration announced $3 billion in community grants as part of the American Rescue Plan, saying anyone who applies for a grant must demonstrate that “equity” is part of the proposal."
+    publishedDateTime: 2021-07-22T19:19:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CP3SRVBhZu4/biden-administration-community-grants-tied-to-equity-push"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-community-grants-tied-to-equity-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-community-grants-tied-to-equity-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cruz accuses Biden of being 'in bed' with Big Tech amid vaccine misinformation controversy"
     excerpt: "Sen. Ted Cruz, R-Texas, on Sunday accused the Biden administration of being “in bed with Big Tech,” making the argument that comments made by White House Press Secretary Jen Psaki last week have only strengthened former President Trump’s lawsuit accusing Facebook and Twitter of censorship."
     publishedDateTime: 2021-07-18T18:54:22Z

@@ -32,37 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ally Jim Jordan among Republicans tapped for Jan. 6 select committee"
-    excerpt: "Rep. Jim Jordan, R-Ohio, a prominent ally of former President Donald Trump, is one of a handful of GOP lawmakers set to be appointed to House Speaker Nancy Pelosi’s select committee to investigate the Jan. 6 Capitol riot."
-    publishedDateTime: 2021-07-19T23:51:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow7Mg7dj-rQ/jim-jordan-republicans-jan-6-select-committee"
-    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp"
+  - title: "TikTok, White House agree to drop Trump-era lawsuit"
+    excerpt: "The Chinese owned social media platform TikTok has reached an agreement with the White House to drop a lawsuit challenging former President Donald Trump’s attempt to ban the video app from app stores in the United States."
+    publishedDateTime: 2021-07-22T19:00:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/650ffed3-b78a-4a9e-a434-ddb20b5cb605/612d639b-0184-4120-bd4d-609c5af00b5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1117589-3186-4490-925d-1d089e42a626/11be2235-525a-4bf7-9a63-f81e6034e16d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Pelosi rejects Trump allies from Jan. 6 panel, casting doubt on its impartiality"
-    excerpt: "House Speaker Nancy Pelosi rejected two Republicans tapped by Minority Leader Kevin McCarthy to serve on the Jan. 6 Capitol riot select committee, likely casting doubt on the impartiality of the"
-    publishedDateTime: 2021-07-21T17:08:00Z
-    webUrl: "https://nypost.com/2021/07/21/nancy-pelosi-rejects-trump-allies-from-jan-6-capitol-riot-panel/"
-    ampWebUrl: "https://nypost.com/2021/07/21/nancy-pelosi-rejects-trump-allies-from-jan-6-capitol-riot-panel/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/nancy-pelosi-rejects-trump-allies-from-jan-6-capitol-riot-panel/amp/"
+  - title: "The Feverish, Post-White House Mind of Donald Trump"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-19T18:47:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 130
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/pelosi-trump-allies-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
+        width: 750
+        height: 495
         isCached: true
 
 secured: "yHDQIkJJGnlqUczqFFnrzjQcglk5v4rKdA7SssjvdhwFTPI6fdpczE/WdnJ3aLajAwiaLnSn/GnYMtT3hgvWjYfdM+Omm06vrts3KM2zGmOuLTFjyVnONK34vX2BbnUhjnEGDaioUY4thzTkaObov5+AWWzyuvYEttujiEabImSYT0QuQWf/vdsLaxgR9rThGhBbDZsLq/3vBX+PITjK+tQBBstKB5wMGeRg1VzqrOIdBXikFxDoL0lopb4ta50Pa56D2KRvhwTP5aY27T9AqH0y35yMb7Raur3J9Szqych/z/+TlDb9r0uw0h2NWsC2al+urKnpqOZigP8Z8vDLqjjFFspileEHgbwN/2otysYP7RIKc3zOe0Xi4nz6pDhspmfkJBaabVao+C7bny6s4adR1tnPkrCXfPgQ1VlJ2GB6vGkhFcHR978kCDNVGB0uPaaTONZkfo6D8+OhkQ2J/IJ87HZ4egiTDDqLVQiY1EBjqMh5tBM64C9wC5jMiT7K3XImIhXBIvcM8ddEXg3b8w==;0aUUgiVNEVs+uibjWV33FQ=="

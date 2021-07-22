@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/house-dems-visas-available-immigran
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-visas-available-immigrants-trump-travel-bans.amp"
 type: article
 quality: 170
-heat: 210
+heat: 190
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.wsj.net/im-365475/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "The Feverish, Post-White House Mind of Donald Trump"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-07-19T18:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
-        width: 750
-        height: 495
         isCached: true
 
 secured: "K0VS6Q68Yg2Nb7BMN+q1I8LWS1QAk1Kmq3ZTiuEcqtqb2D70z7qy4N407GuyPNtkJ0Ta7srSHPaclPW0lE/pyupggVx+E3EcO5B6ZtI5rA3mjso4enTZncwQ1cN88SJvTxLPANsVqQc/n/v9WHgwwI/KKVhVaH5T6GJjJRIgWAhIvu4/0266IXOBCVwHGj3Ts0XucS3q9Gm/EMpC6fBOVg2aONVlMp32DTcOMFt8Eez7vamOadc0kPVyVSMXQrKWpMz//PU2Xds0dP045g30X3mrwWVDE7U/kVWkOkxxoZz/0pEf2NH2Vzc2XmRnrwEC3VS92vZ2I2RhuGGB8z3y6m9X4ZIb+eXKc/wdmGDWd2w=;a6VJS6CAzFt3CwJPy16e0A=="

@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration ties $3B in community grants to 'equity' push"
+    excerpt: "The Biden administration announced $3 billion in community grants as part of the American Rescue Plan, saying anyone who applies for a grant must demonstrate that “equity” is part of the proposal."
+    publishedDateTime: 2021-07-22T19:19:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CP3SRVBhZu4/biden-administration-community-grants-tied-to-equity-push"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-community-grants-tied-to-equity-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-community-grants-tied-to-equity-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden nomination of Richard Trumka Jr. marks another appointment with union ties"
     excerpt: "The Biden administration built on its effort to cultivate close ties to prominent figures within the labor sector this week with President Biden’s decision to nominate Richard Trumka Jr. to a seat on the Consumer Product Safety Commission."
     publishedDateTime: 2021-07-14T21:51:59Z

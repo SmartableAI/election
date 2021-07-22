@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris meets with DACA recipients"
+    excerpt: "Vice President Kamala Harris met with DACA recipients and immigration advocates Thursday, nine years after the \"Deferred Action for Childhood Arrivals\" program was created for people who had been brought to the U."
+    publishedDateTime: 2021-07-22T18:28:00Z
+    webUrl: "https://www.cbsnews.com/video/vp-harris-meets-with-daca-recipients/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/22/4d66447d-2870-4686-9427-0313502c89b0/thumbnail/1200x630/c6466fa1a93440c0e3cd6220af5efe87/cbsn-fusion-vp-harris-meets-with-daca-recipients-thumbnail-758958-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Essential Politics: Kamala Harris’ past comes back with a Supreme Court ruling"
     excerpt: "Vice President Harris was hit by a blast from her past this month when the Supreme Court ruled against California in a case dating to when she was state attorney general."
     publishedDateTime: 2021-07-21T13:46:00Z
@@ -180,6 +194,34 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/6f7673c08e1789bf249db1bb184a03af/WH.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
+    excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
+    publishedDateTime: 2021-07-22T18:06:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e9ffccd320080ced527d8e65bcdf6290/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/e9ffccd320080ced527d8e65bcdf6290/USA-HARRIS-DACA.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "US VP Kamala Harris Holds a Ceremonial Conversation with DACA Recipients"
+    excerpt: "US Vice President Kamala Harris holds a ceremonial conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., USA, 21 July, 2021. Among those in the meeting were Dreamers without DACA,"
+    publishedDateTime: 2021-07-22T18:09:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d98e698a8f56bcc0d395bec075b74242/US-VP-Kamala-Harris-Holds-a-Ceremonial-Conversation-with-DACA-Recipients/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d98e698a8f56bcc0d395bec075b74242/USA-HARRIS-DACA.jpg"
+        width: 650
+        height: 434
         isCached: true
   - title: "BRB, Framing This Pic Of Olivia Rodrigo And Kamala Harris Laughing In Matching Pink Suits"
     excerpt: "While visiting the White House to promote youth vaccinations, Olivia Rodrigo matched with Kamala Harris. Both wore suits in the same shade of blush pink."

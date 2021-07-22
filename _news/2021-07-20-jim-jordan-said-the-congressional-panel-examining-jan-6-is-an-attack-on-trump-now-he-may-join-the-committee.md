@@ -77,6 +77,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott"
+    excerpt: "House Speaker Nancy Pelosi rejected two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection, a decision the Republican denounced as “an egregious abuse of power."
+    publishedDateTime: 2021-07-22T17:33:00Z
+    webUrl: "https://www.chron.com/news/article/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump Meets With McCarthy To Discuss GOP Leaders for Jan. 6 Commission"
     excerpt: "House Minority leader Kevin McCarthy met with former President Donald Trump on Thursday to discuss potential Republican appointees to join a special congressional committee tasked with investigating the deadly Jan."
     publishedDateTime: 2021-07-15T22:56:00Z
