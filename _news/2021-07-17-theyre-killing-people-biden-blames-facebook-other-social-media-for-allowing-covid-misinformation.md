@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Conservative hostility to Biden vaccine push surges with Covid cases on the rise"
+    excerpt: "Some in the GOP have felt compelled to reiterate support for getting the shot, with McConnell saying he was \"totally perplexed\" by the ongoing resistance."
+    publishedDateTime: 2021-07-20T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/conservative-hostility-biden-vaccine-push-surges-covid-cases-rise-n1273692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273692"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3492054/210718-lauren-boebert-cpac-jm-1138.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "qW4Ht7p85yjpdRM4/Uap8xd7/aGsh5TUkqmSDnmslf8KATNwQgb8fJwnFq1H0hQxv3Eyja00x4HRbyK8rTvCrCSsac6lEr8I4h/h+E7rjkDBTI8a/YrLZs2h1FjDjMaW6PdgdX73uoNVWkQb805ssvoSZ7m+280NxCA1796EpFcCeVIThDc6xxbmZGrxZeVG5z+IwvdRNiYK5EeOWAKqw3udXDhC2742Njp/cjMV+1+5SEr5ReJ0idFao98cUuhMCpHK1EFThpBwxigFCtGT1eptWb/GApBbl1ItcYErWoJw0Rpne8VscvFThgxHlxCjbtaTI8QdeLh5VhZpAZzJc3Mv1Q9VbxuqaGblqAr/h92ouU01R1TbxyG4ivbCpc6O0m+scvtoZlgOaWBzbbiu+y3nAVCVRmE7zDTIyAcc7+iQX7W8ZhnYW70/6RV6z1HOr/jrXVwEij3k3fUeDue8LXnfQP2pgtsbkEc22JktmoQNWLb4W46J9ntY24dp7WO0/OpMcFbxXHq9MxtNkug9CA==;YaorF3f08OsKxi22RRfZ+w=="
 ---

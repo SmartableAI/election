@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Live Updates: Biden town hall"
+    excerpt: "This is the president's second town hall since taking office, coming as his administration is fighting to pass an infrastructure deal and a COVID-19 spike."
+    publishedDateTime: 2021-07-21T23:30:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/21/6727c0ba-787c-4134-beaf-f3d840de1c37/thumbnail/1200x630/7be714d032137bb7527f1f12139cb429/gettyimages-1234097536.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden heads to Capitol Hill to boost Democrats’ ‘human infrastructure’ plan"
     excerpt: "President joins Senate Democrats for lunch a day after Schumer announces agreement on spending proposal"
     publishedDateTime: 2021-07-14T20:54:00Z

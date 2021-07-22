@@ -47,19 +47,17 @@ related:
         isCached: true
   - title: "US carries out first airstrike in Somalia since Biden took office"
     excerpt: "The US military on Tuesday carried out an airstrike against terrorist militants in Somalia — the first such strike in the country since President Joe Biden took office in January."
-    publishedDateTime: 2021-07-21T12:30:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHtSxIOeFS4/us-airstrike-somalia-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/us-airstrike-somalia-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-airstrike-somalia-biden.amp"
+    publishedDateTime: 2021-07-21T12:30:00Z
+    webUrl: "https://www.foxnews.com/politics/us-airstrike-somalia-biden"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 115
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50365776-1e0a-48b5-8b7c-2871dc3abbd0/e377cb70-da93-4996-bcf8-351906659466/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/al-nusra-front-REUTERS.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden: 6 Months On, Reality Eclipses Early Euphoria"
     excerpt: "The president reset the tone from the Trump era and passed a huge Covid relief bill but other priorities have hit formidable political obstacles Joe Biden holds a press conference with the German chancellor,"

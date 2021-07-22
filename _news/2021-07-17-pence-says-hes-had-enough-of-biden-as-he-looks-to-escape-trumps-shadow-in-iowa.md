@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
 type: article
 quality: 209
-heat: 509
+heat: 529
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Prosecutors had evidence last year to charge prominent Trump ally Tom Barrack "
+    excerpt: "Federal prosecutors in Brooklyn investigating Tom Barrack, a prominent ally to former President Donald Trump, for allegedly violating foreign lobbying laws had enough evidence to bring charges last year, but held off doing so until the arrival of the new presidential administration, according to people"
+    publishedDateTime: 2021-07-21T23:31:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/142FBPdKJDQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/barrack-federal-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/barrack-federal-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721143701-thomas-barrack-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

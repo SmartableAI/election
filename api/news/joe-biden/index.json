@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-21-meat-and-tractors-biden-administration-pushes-farm-friendly-regulations.md",
+      "title": "Meat and tractors: Biden administration pushes farm-friendly regulations",
+      "excerpt": "California growers and ranchers counted two big wins this summer that came in the form of an executive order signed by President Joe Biden. In June, Biden signed an executive order calling on the U.S. Department of Agriculture to consider issuing new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/07/21/california-farmers-cheer-biden-administrations-meat-tractor-regulations-right-to-repair/7936176002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/07/21/california-farmers-cheer-biden-administrations-meat-tractor-regulations-right-to-repair/7936176002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/29/PSAS/8a1995e2-caf9-4ce7-a8e4-626736af467f-20210426_SALINAS_CLOUDS_015.JPG?auto=webp&crop=3199,1800,x0,y96&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7936176002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7936176002",
+      "publishedDateTime": "2021-07-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-what-we-know-about-president-joe-bidens-wednesday-visit-to-cincinnati.md",
       "title": "What we know about President Joe Biden’s Wednesday visit to Cincinnati",
       "excerpt": "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon.",
@@ -149,58 +201,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-20-biden-says-inflation-temporary.md",
-      "title": "Biden says inflation 'temporary'",
-      "excerpt": "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVEMIHQ73",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVEMIHQ73",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210719&i=OVEMIHQ73&r=OVEMIHQ73&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-07-19-who-is-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner.md",
       "title": "Who Is Abdul Latif Nasser? Joe Biden Releases First Guantánamo Bay Prisoner",
       "excerpt": "On Monday, the Biden administration transferred its first detainee out of Guantánamo Bay, repatriating a Moroccan man who has been held in the notorious prison for nearly two decades on no charge. The release of Abdul Latif Nasser,",
@@ -209,7 +209,7 @@
       "originalUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -853,7 +853,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1171,7 +1171,7 @@
       "originalUrl": "https://www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {

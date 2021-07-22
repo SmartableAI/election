@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
-excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."
-publishedDateTime: 2021-07-19T21:10:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
-webUrl: "https://www.upi.com/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
+title: "Meat and tractors: Biden administration pushes farm-friendly regulations"
+excerpt: "California growers and ranchers counted two big wins this summer that came in the form of an executive order signed by President Joe Biden. In June, Biden signed an executive order calling on the U.S. Department of Agriculture to consider issuing new ..."
+publishedDateTime: 2021-07-21T16:00:00Z
+originalUrl: "https://www.usatoday.com/story/news/2021/07/21/california-farmers-cheer-biden-administrations-meat-tractor-regulations-right-to-repair/7936176002/"
+webUrl: "https://www.usatoday.com/story/news/2021/07/21/california-farmers-cheer-biden-administrations-meat-tractor-regulations-right-to-repair/7936176002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7936176002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7936176002"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 124
+heat: 204
+published: true
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/4381626725230/2021/1/f9d499800ef0d789e9e0467998cc66a0/v1.5/Joe-Biden-meets-Jordans-King-Abdullah-in-sign-of-improved-relations.jpg"
-    width: 800
-    height: 532
+  - url: "https://www.gannett-cdn.com/presto/2021/04/29/PSAS/8a1995e2-caf9-4ce7-a8e4-626736af467f-20210426_SALINAS_CLOUDS_015.JPG?auto=webp&crop=3199,1800,x0,y96&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Meat and tractors: Biden administration pushes farm-friendly regulations"
-    excerpt: "California growers and ranchers counted two big wins this summer that came in the form of an executive order signed by President Joe Biden. In June, Biden signed an executive order calling on the U.S. Department of Agriculture to consider issuing new ..."
-    publishedDateTime: 2021-07-21T16:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/07/21/california-farmers-cheer-biden-administrations-meat-tractor-regulations-right-to-repair/7936176002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7936176002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7936176002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/29/PSAS/8a1995e2-caf9-4ce7-a8e4-626736af467f-20210426_SALINAS_CLOUDS_015.JPG?auto=webp&crop=3199,1800,x0,y96&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy"
     excerpt: "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy"
     publishedDateTime: 2021-07-19T11:04:00Z
@@ -73,6 +61,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
+    excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."
+    publishedDateTime: 2021-07-19T21:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4381626725230/2021/1/f9d499800ef0d789e9e0467998cc66a0/v1.5/Joe-Biden-meets-Jordans-King-Abdullah-in-sign-of-improved-relations.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z
@@ -90,6 +94,6 @@ related:
         height: 534
         isCached: true
 
-secured: "DUVke4hX30BjO5UopzsTvlh/A1e+3huG0yak1JpSsKEFI3o/v/zfETByQ6eOL7nv+/+4PjZbKDgHn0xHIVJ5kMsqk2kBU3bHEhZHhDxj2BVnmIKbC682KyjX2JWdt/v4ZKJWaq+BGWjTvuws3231Kx9xGXn3qcDQcRzqFRfE7hwuu1cx8kxCiCPho/0u8ogcGpJZb1/7rtvQXBAB4yR7oCjD1GWBOqIZUykQtxWbjyRHCsBYEpqcqN3p4M7Ix2U/k7Lggq9H7owFn6pZSawaGkykBkfJ3L2SurNWTnLPBWs9xbmsQLOkb16K74OsPeMdGnQHgTUkpInNzIaUU8u32Oe3wpGmsdDyjhYKV5ZhacwPPHFqErihd0UGy/uOuyFp1+r+HU00pQOSHV5G8hMDoexjzAajcc607ez6xLwUpBqFPfqCQINH2NkBjaup/biZ4kwouQY05eqOd0kVBPbAyF9w9OrSHumIv9CCZLxyHn1SZBuzkPIIT6g+8TCbCnRC2yqtd5g93Wwhyddr1pdDcg==;T5zWEm1Vg/Z6tbq4nRPLRg=="
+secured: "pOSPZKQOENznzZLA1y1qhVVA86RL5d0BtUoTpZn9wBCj6ABaE7Llz9udF9bLjDotGVbM+yTbMSnX5fW7+eRMhDB82yrJDfscM2u9rC8AoC6R6GCZYgPGf3+wAQypdPf4e0GkiBUFepBMrWtvqbwJAk7xp2yl0TLvqsU4Z2uZyeFzu60/oeT1bglxUZV9apgMf0BtZItNJFxKIRuij0v9UCt/aCS2HIppPxXHFPLXU4zkJ783qFjXV3qDX6Ip5lr8S1g3dSzasDIIsc/O0il1cZPwpVkZjXXGM+zdJBwbZ3E5Ou8qnFIEsGpd/W4TFCXvURcSTeLTGzM3gudsld49EFR2MGwfCcgFbTZLyIDXF80=;Af8X2eNDWMHJnV5uF2oYtg=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-21-analysis-what-are-the-odds-biden-can-un-stall-the-rest-of-his-agenda.md",
+      "title": "Analysis: What are the odds Biden can un-stall the rest of his agenda?",
+      "excerpt": "We're sIx months into the Joe Biden presidency. The President is set to take part in a CNN Town Hall to be broadcast live at 8 p.m. ET Wednesday night in Cincinnati, Ohio.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTxGsqn9E-I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTxGsqn9E-I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-agenda-what-matters/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-agenda-what-matters/index.html",
+      "publishedDateTime": "2021-07-21T16:45:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-us-and-germany-reach-deal-on-controversial-pipeline-that-biden-sees-as-a-russian-geopolitical-project.md",
       "title": "US and Germany reach deal on controversial pipeline that Biden sees as a Russian 'geopolitical project'",
       "excerpt": "The US announced Wednesday that it has reached a deal with Germany that would allow completion of the controversial Nord Stream 2 pipeline opposed by the Biden administration as a \"malign influence project\" that Russia could use to gain leverage over European allies.\n    \n",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -114,23 +170,23 @@
       ]
     },
     {
-      "path": "_news/2021-07-21-how-to-watch-the-biden-cnn-town-hall.md",
-      "title": "How to watch the Biden CNN town hall ",
-      "excerpt": "President Joe Biden will participate in a CNN town hall on Wednesday in Cincinnati, Ohio, just over six months after taking office.\n    \n",
+      "path": "_news/2021-07-21-biden-faces-key-decision-on-whether-to-reappoint-federal-reserve-chair-powell.md",
+      "title": "Biden faces key decision on whether to reappoint Federal Reserve Chair Powell ",
+      "excerpt": "President Joe Biden soon faces the same decision his most recent Democratic predecessors did: whether to reappoint a Federal Reserve chair put in that job by a Republican.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CDVS3oWY46A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CDVS3oWY46A/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iI8VZe9rGBM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iI8VZe9rGBM/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 191,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210714134901-01-jerome-powell-0622-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -140,9 +196,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/how-to-watch-biden-town-hall/index.html",
-      "publishedDateTime": "2021-07-21T03:02:14-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/jerome-powell-white-house-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/jerome-powell-white-house-biden/index.html",
+      "publishedDateTime": "2021-07-20T17:03:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -312,6 +368,174 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/index.html",
       "publishedDateTime": "2021-07-20T12:48:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-belarus-opposition-leader-says-she-gave-sanctions-list-to-biden-administration.md",
+      "title": "Belarus opposition leader says she gave sanctions list to Biden administration",
+      "excerpt": "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html",
+      "publishedDateTime": "2021-07-20T10:37:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-weve-come-up-against-the-brick-wall-southwest-ohio-fights-vaccine-hesitancy-ahead-of-biden-town-hall.md",
+      "title": "'We've come up against the brick wall': Southwest Ohio fights vaccine hesitancy ahead of Biden town hall",
+      "excerpt": "Dena Cranley and Barbara Lynch have a blunt reality check for President Joe Biden: His repeated pleas for vaccinations are going largely unheeded and unheard.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LIOXc7IZP18/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LIOXc7IZP18/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210528111827-kroger-vaccine-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/vaccine-hesitancy-cincinnati-ohio/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/vaccine-hesitancy-cincinnati-ohio/index.html",
+      "publishedDateTime": "2021-07-20T06:37:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-biden-to-focus-on-covid-19-infrastructure-climate-and-cybersecurity-at-cabinet-meeting.md",
+      "title": "Biden to focus on Covid-19, infrastructure, climate and cybersecurity at Cabinet meeting",
+      "excerpt": "President Joe Biden is holding his second full Cabinet meeting on Tuesday to mark six months in office, and is expected to focus the discussion on Covid-19, infrastructure, climate and cybersecurity, a White House official tells CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbhedwxEROg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbhedwxEROg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html",
+      "publishedDateTime": "2021-07-20T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -521,7 +745,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 509,
+      "heat": 529,
       "tags": null,
       "images": [
         {
@@ -691,7 +915,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -735,23 +959,23 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-biden-officials-convene-meeting-with-homebuilding-stakeholders-amid-inflation-concerns-and-rising-home-prices.md",
-      "title": "Biden officials convene meeting with homebuilding stakeholders amid inflation concerns and rising home prices",
-      "excerpt": "Top White House officials are meeting Friday with stakeholders from the homebuilding industry, officials confirm, which comes amid soaring home prices and inflation concerns.\n    \n",
+      "path": "_news/2021-07-16-biden-to-tap-former-ambassador-to-france-as-his-ambassador-to-the-uk-after-lengthy-search.md",
+      "title": "Biden to tap former ambassador to France as his ambassador to the UK after lengthy search",
+      "excerpt": "President Joe Biden will name Jane Hartley as his ambassador to the United Kingdom after a lengthy search, a person familiar with the decision told CNN.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VLyEx7u68dQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VLyEx7u68dQ/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE06_f1H4RM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE06_f1H4RM/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 156,
+      "heat": 186,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210616091914-us-housing-construction-1604-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716112743-jane-hartley-file-2015-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -761,9 +985,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/white-house-homebuilding-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/white-house-homebuilding-meeting/index.html",
-      "publishedDateTime": "2021-07-16T09:18:33-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html",
+      "publishedDateTime": "2021-07-16T10:11:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -859,7 +1083,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1297,62 +1521,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-13-justice-clarence-thomas-rejects-longshot-bid-to-disrupt-bidens-mask-mandate-for-public-transport.md",
-      "title": "Justice Clarence Thomas rejects longshot bid to disrupt Biden's mask mandate for public transport",
-      "excerpt": "Justice Clarence Thomas on Tuesday rejected an emergency request to block Biden administration's Covid-19 mask requirement for public travel.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210713183958-airline-passenger-masks-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
-      "publishedDateTime": "2021-07-13T16:37:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-mitch-mcconnell-responds-to-trumps-old-crow-insult-its-quite-an-honor.md",
       "title": "Mitch McConnell responds to Trump's 'Old Crow' insult: 'It's quite an honor'",
       "excerpt": "Former President Donald Trump took a whack at Senate GOP leader Mitch McConnell last weekend, calling him an \"Old Crow\" as he railed against the Kentucky Republican.\n    \n",
@@ -1517,176 +1685,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-trump-said-whoever-leaked-info-on-his-white-house-bunker-stay-should-be-executed-new-book-claims.md",
-      "title": "Trump said whoever 'leaked' info on his White House bunker stay should be 'executed,' new book claims",
-      "excerpt": "Then-President Donald Trump told a number of his advisers in 2020 that whoever leaked information about his stay in the White House bunker during protests last June had committed treason and should be executed for sharing details about the episode with members of the press, according to excerpts of a",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1GunlAHA_OA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1GunlAHA_OA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/trump-white-house-bunker-leak-executed-treason-book-claims/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/trump-white-house-bunker-leak-executed-treason-book-claims/index.html",
-      "publishedDateTime": "2021-07-13T06:55:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money.md",
-      "title": "What will President Biden do about Cuba? — $20M pumped into sports betting push — Florida GOP dominates again in raising money",
-      "excerpt": "Next steps — What will President Joe Biden do about Cuba? That mystery really wasn’t solved on Monday at the White House. Cautious — As reports of a second day of protests took place on the island nation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-michael-wolff-on-donald-trumps-last-days-for-now.md",
-      "title": "Michael Wolff on Donald Trump’s Last Days (for Now)",
-      "excerpt": "Landslide” tells the dramatic and unprecedented story of the weeks after the 2020 presidential election from inside the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/06/books/review/Lemann1/Lemann1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.amp.html",
-      "publishedDateTime": "2021-07-12T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

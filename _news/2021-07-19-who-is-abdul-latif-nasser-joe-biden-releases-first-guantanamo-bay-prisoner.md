@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-f
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1"
 type: article
 quality: 123
-heat: 163
+heat: 123
 published: true
 
 provider:
@@ -29,40 +29,6 @@ images:
     width: 3000
     height: 1968
     isCached: true
-
-related:
-  - title: "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy"
-    excerpt: "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy"
-    publishedDateTime: 2021-07-19T11:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
-    excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."
-    publishedDateTime: 2021-07-19T21:10:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/4381626725230/2021/1/f9d499800ef0d789e9e0467998cc66a0/v1.5/Joe-Biden-meets-Jordans-King-Abdullah-in-sign-of-improved-relations.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "TMGuXSIZJi1ArjZqEVJwcifW9CODAhipQ1EWzSWgMldJJUelWXpDdGMKXwXwb521nRKQkSx6ODwzJ/iSPUDaqFLOosOiMyypkNvJUfKLJS9E46t4eUpUm6jjCqQEPZGfE4y4dKZ3oOh6zPpzF35X3FctYX6/trxlCCXXAHqA9BHogFL9NDHO+Wb0VWjWKg9R9YDtQuONOfc84VQGgHgPcJKgjeyWqgy6FqhEx9vKXxgeXAFV4TFslhXPmeJUjHez/zTXxfny9Q8f84cJ1uYsDyGrSGvZcAwGJUhgvsg17mVS9TIVkoMlAWGnL2VAkov1JSH4X9gZqc9IpM74C1lKbYMRKD3wt1QNkkSfVikQAGo=;YVkOsAIxhVaLM8yvaBf3ZA=="
 ---

@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "US and Germany reach deal on controversial pipeline that Biden sees as a Russian 'geopolitical project'"
-    excerpt: "The US announced Wednesday that it has reached a deal with Germany that would allow completion of the controversial Nord Stream 2 pipeline opposed by the Biden administration as a \"malign influence project\" that Russia could use to gain leverage over European allies.\n    \n"
-    publishedDateTime: 2021-07-21T20:47:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kxD2kBjUb_8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/us-german-nord-stream-2-deal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/us-german-nord-stream-2-deal/index.html"
+  - title: "Belarus opposition leader says she gave sanctions list to Biden administration"
+    excerpt: "Belarusian opposition leader Sviatlana Tsikhanouskaya said she gave the Biden administration a specific list of targets she would like to see sanctioned as she pushed for the United States and international community to ratchet up pressure on the Lukashenko regime.\n    \n"
+    publishedDateTime: 2021-07-20T17:37:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_AN8vB_VtMw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/belarus-opposition-leader-sanctions-list/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210715101113-merkel-biden-cnn-primera-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810065321-svetlana-tikhanovskaya-0810-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

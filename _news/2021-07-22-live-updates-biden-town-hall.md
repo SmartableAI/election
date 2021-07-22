@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden meets Merkel at White House: ‘Our nations understand the imperative of democracy’ – as it happened"
-excerpt: "Biden says – follow all the latest politics news"
-publishedDateTime: 2021-07-16T00:11:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0493f8f0827c8ef6d1ac3"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0493f8f0827c8ef6d1ac3"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+title: "Live Updates: Biden town hall"
+excerpt: "This is the president's second town hall since taking office, coming as his administration is fighting to pass an infrastructure deal and a COVID-19 spike."
+publishedDateTime: 2021-07-21T23:30:00Z
+originalUrl: "https://www.cbsnews.com/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
+webUrl: "https://www.cbsnews.com/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
+ampWebUrl: "https://www.cbsnews.com/amp/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
 type: article
-quality: 108
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/0259455082635cfb374ca5eb6d782612ff0bfbd3/0_13_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0096c3b7acc3f0d73a979f1b6d79602"
-    width: 600
-    height: 360
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/21/6727c0ba-787c-4134-beaf-f3d840de1c37/thumbnail/1200x630/7be714d032137bb7527f1f12139cb429/gettyimages-1234097536.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_a3a9647e0cfb4623a9dfd26a47bd0289_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Live Updates: Biden town hall"
-    excerpt: "This is the president's second town hall since taking office, coming as his administration is fighting to pass an infrastructure deal and a COVID-19 spike."
-    publishedDateTime: 2021-07-21T23:30:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/joe-biden-town-hall-live-updates-2021-07-21/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/21/6727c0ba-787c-4134-beaf-f3d840de1c37/thumbnail/1200x630/7be714d032137bb7527f1f12139cb429/gettyimages-1234097536.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden heads to Capitol Hill to boost Democrats’ ‘human infrastructure’ plan"
     excerpt: "President joins Senate Democrats for lunch a day after Schumer announces agreement on spending proposal"
@@ -127,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden meets Merkel at White House: ‘Our nations understand the imperative of democracy’ – as it happened"
+    excerpt: "Biden says – follow all the latest politics news"
+    publishedDateTime: 2021-07-16T00:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f0493f8f0827c8ef6d1ac3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 108
+    images:
+      - url: "https://i.guim.co.uk/img/media/0259455082635cfb374ca5eb6d782612ff0bfbd3/0_13_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0096c3b7acc3f0d73a979f1b6d79602"
+        width: 600
+        height: 360
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Goldman Sachs - Biden rallies Senate Dems behind mammoth spending plan"
     excerpt: "President Biden on Wednesday appeared on Capitol Hill in an attempt to rally Senate Democrats behind his push to pass a multi-trillion-dollar spending plan aimed at infrastructure, climate change and health care that requires unanimous support from all 50 members."
     publishedDateTime: 2021-07-15T10:22:00Z
@@ -160,6 +160,6 @@ related:
         height: 534
         isCached: true
 
-secured: "y37aGrRvBKDeAkGhffpzxBvQNw94b3NMH9ur5bSTHpkpNT5qw+ynZ7ddlNmjdG3uTbUmycdY00AINBQf03knnTBCOgjCwOFXyghk83/AWUVbCZYK02FCp1/DJYw0Ro4EYEtTghvQoziyuTbGtmEJ7aXQJ07KMh++dcvxqzTv/vcHHRXAMkAd+alE8fXuoBC4o/45UvRHz/2YOOn3Xm3GiOslCtrBvu1j3nWDDqfBsH+GdmOO963C/Epx1UzBRugv2fXMcC21EclriyPtew+IHCtrZQZjNgn+l2ZMEZRJ677ahTv4CsTkrMEcQ2gvYojCykzLQqJPvXBKky9yQ5QYseTyY29Nnaa6Gjug3BdMOWM=;D3tl89DTzsUs9uxC2/cFJg=="
+secured: "8Pj3z8BMgG4u0DwKrFtYrBW+q2EjYPhwVGwEIffWaUT3tBXBSoJShJojDwxBFCjIsIf3WrmplhlVBJfncnZZjzFM54mWT20ftvBDEe+ov5YuWu8yL9wp/pMPR2J++iFzCPzZbSVodN4THLPAlGgkibvrLmAF3309NILidMZnj2Wm+MAOfICdO2DJ7vSREVMwG1tzcT7b5le6AVcib4wjy3KFOM0YvrPiDSWphixM25VZaOSDm5o56eBsKnSwNBPeCKcsx9QwLP7ackQPbdOwY7lgxGslHWSnApNXafRz00CAYNx9xeYkpryOvBfYKvx/b49i7SAuj/AZsWppcNUX7qVXwKAWnxj7G4YhyWvO4ms=;Vev8OyOkqBgyUzbixR5xJw=="
 ---
 

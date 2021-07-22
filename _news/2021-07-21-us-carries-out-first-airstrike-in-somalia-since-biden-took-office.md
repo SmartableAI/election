@@ -2,13 +2,11 @@
 category: news
 title: "US carries out first airstrike in Somalia since Biden took office"
 excerpt: "The US military on Tuesday carried out an airstrike against terrorist militants in Somalia — the first such strike in the country since President Joe Biden took office in January."
-publishedDateTime: 2021-07-21T12:30:39Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHtSxIOeFS4/us-airstrike-somalia-biden"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHtSxIOeFS4/us-airstrike-somalia-biden"
-ampWebUrl: "https://www.foxnews.com/politics/us-airstrike-somalia-biden.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-airstrike-somalia-biden.amp"
+publishedDateTime: 2021-07-21T12:30:00Z
+originalUrl: "https://www.foxnews.com/politics/us-airstrike-somalia-biden"
+webUrl: "https://www.foxnews.com/politics/us-airstrike-somalia-biden"
 type: article
-quality: 175
+quality: 115
 heat: -1
 published: false
 
@@ -22,12 +20,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50365776-1e0a-48b5-8b7c-2871dc3abbd0/e377cb70-da93-4996-bcf8-351906659466/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/al-nusra-front-REUTERS.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -76,6 +75,6 @@ related:
         height: 500
         isCached: true
 
-secured: "8dY06tOEdpzhf4Met4wzmO21TSpwWqOp4UUa+t0+/7wRJSBlh0Gh0flcPQe2sF7w86BpWHJvQipeQ53IcoUwbqJGNE7Ngij2RMVAkVpdpCQ15QHPk1VhKZwqSu4EjkQKxqT6wGLojAGVYDpEOSwqc2OG+/5N9rGC3mz4L4xURGgXtI1yM5+oFrrEsjV5YksX1g85z6P8a8SyB5BJLKZO7YZXtb+h0NBwVLYp7MhN7ZgHEdPpnzUflkMe+gzFuwuAg26UPd828MmkRtnJ52NXsCDlX762v9MYyLQXTSaY4xTCkPgNSmbLBbM/GK4SBm4LoZJ790gV8lv7dw+7BoEsZ8vnfoWR0CYSdEVlidLCXK8=;3LXjEi3PuujXl4kAA/aCGA=="
+secured: "UzS8AbPE2796I5wcoLdquK+cZoAZsr4IS2My/HoiMaUaa+UXMtXCrKYPTZDBdb2Pgeas9LgKQuExERp+45foszIQq5J/oJuoz28CW3eCmlKC1QW5zW3A1ZLkXzfqc4fCmoF39O53AYjmdgjJivjQh1Z40VcZVIQcjHIjT3WmZfhYjfh95im8c3gnPfpt8+vTfitUTefSFyKlTkfNKQEdtKbiM0nydEIPA34FpdrWyU/XfqqLSlkNZ3zEzUeNBFFH7pUetYtN24ilLyP5rQ7/HU/HOIT+gkjg+4eDbV6d9bNd18CQvqInMctTM3dNI9InurqvL0MaWr8S+CfVmHt3wmyHsWp7v2ZU2Xyna8oUEjw=;huzDOsujJzuywciUyFa9gg=="
 ---
 

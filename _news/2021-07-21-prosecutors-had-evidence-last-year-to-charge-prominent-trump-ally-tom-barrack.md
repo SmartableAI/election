@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's migration adviser leaves White House role"
-excerpt: "President Joe Biden's senior adviser for migration, Amy Pope, is leaving her position, according to the White House.\n    \n"
-publishedDateTime: 2021-07-16T22:01:49Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0MIaaHhrmI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0MIaaHhrmI/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
+title: "Prosecutors had evidence last year to charge prominent Trump ally Tom Barrack "
+excerpt: "Federal prosecutors in Brooklyn investigating Tom Barrack, a prominent ally to former President Donald Trump, for allegedly violating foreign lobbying laws had enough evidence to bring charges last year, but held off doing so until the arrival of the new presidential administration, according to people"
+publishedDateTime: 2021-07-21T23:31:28Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/142FBPdKJDQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/142FBPdKJDQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/barrack-federal-investigation/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/barrack-federal-investigation/index.html"
 type: article
-quality: 175
+quality: 171
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721143701-thomas-barrack-file-2019-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's migration adviser leaves White House role"
+    excerpt: "President Joe Biden's senior adviser for migration, Amy Pope, is leaving her position, according to the White House.\n    \n"
+    publishedDateTime: 2021-07-16T22:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0MIaaHhrmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/amy-pope-tyler-moran-white-house-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "5 things to watch during CNN's town hall with Joe Biden"
     excerpt: "President Joe Biden is set to face key questions on how his administration will handle some of the most pressing issues facing the country when he takes part in a CNN town hall Wednesday night.\n    \n"
     publishedDateTime: 2021-07-21T15:01:07Z
@@ -140,22 +156,6 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Prosecutors had evidence last year to charge prominent Trump ally Tom Barrack "
-    excerpt: "Federal prosecutors in Brooklyn investigating Tom Barrack, a prominent ally to former President Donald Trump, for allegedly violating foreign lobbying laws had enough evidence to bring charges last year, but held off doing so until the arrival of the new presidential administration, according to people"
-    publishedDateTime: 2021-07-21T23:31:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/142FBPdKJDQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/barrack-federal-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/barrack-federal-investigation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721143701-thomas-barrack-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -284,6 +284,6 @@ related:
         height: 629
         isCached: true
 
-secured: "uRklfspfFUx8x46VmZ4hDWXdQeWIKSCakSfE0Hr2yUmXmGB8uDMS9XtRWn0G6+gUbCF+7w1RQfkc0xv58xMTBYiXOKbATfNZDGsC0F4twxi6Ua3Sf6K6+yNZYDm1NNFoC5BmVu1EkayCtYHYYhS6pDtBWJms1E/tYxP9Q1TgeyvasCYCk+mkVWmGk72aqLQLkfn9M2jr2uZ0B13Hja0qmEqtZgBeZdaDmdBya2psMNF5tv26iEQg2VGgJKlGJtDSBVyzPQoNORxhOiaZ/dOhzd9WJYCl+VVdx++iWbL9aXityrOGRmE6V+OUy0dF6bWERmJzmSxfzurhfBlRc9yEi18d2jyBV6m3kje6Q/VIMtM=;PYDDQnNscKHna179ho8buA=="
+secured: "ASv4vUkUn5stx8sShU/ZNKr+UyC7teycWri40FddPvdQGpHv9epeQyPZZGNUuX9h55rKKFaJ1+l0P0bDpeOVUFinBdTEczYpchP857nRShRoBSkNwkPrJMmtrqRwVlc4wA3QvNH8OiaoZ9MlxNPZ1OTBvctfpNXGJp9XUb1mn+pRHBYy78Q4ULvvHpZw8c0tu1y4i/sRJKVDsxuTv1bXhMYKBWKmYt/B/YTOCofZtceIMZetAM8gvb8aIaEdqwZP9yrWeWo3Fz+QAJ/2GOBkZq3T6OYLcqNDyA02BuI18bE7+yExd2/3BX/WYqFKmUof9CRWWhOqSqjHrr9MfmY8Io7gWg+R1sSJUei6MYPNXAc=;gD4kRIR66o3BPYn8mIQuNA=="
 ---
 

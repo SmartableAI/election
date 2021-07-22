@@ -3,8 +3,8 @@ category: news
 title: "Marine One takes off from the South Lawn with President Joe Biden"
 excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
 publishedDateTime: 2021-07-21T20:25:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/dba3faa423dfc5e4c032a852850c27ee/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/dba3faa423dfc5e4c032a852850c27ee/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/f984f8f16d2301b490be7a309f345b1a/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/f984f8f16d2301b490be7a309f345b1a/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/dba3faa423dfc5e4c032a852850c27ee/BIDEN-DEPARTS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/f984f8f16d2301b490be7a309f345b1a/BIDEN-DEPARTS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 628
         isCached: true
 
-secured: "BVMWyDiOh/eGQuyuUlh6YnOKj0Z7l3MBWFxLX8+S2/ncO/r8KVc5o2s+aPJC1PKh+UU7QWVX00jWEwt/OZ6BWJsYTAeTUq/lZ3F6TlJLJvjFjlQ8EkvaCqKqOTJbDdpozI32CVeemKzM3GBXNoeis7qKIdzTlW7ZcbyOZWtQc91MuTIglgqTBXJaQw6yzdyodMWrpI9m5P4u6RtUeh+Cck2wA3QLZyzNrdE908qelT4zFEarhW/1jL2p008Btd4RZ2iQoVeVtB4ntmvcJ7+868zWQ8LX+2ro4apC28jsN7Q54h8ZB64YSjYR0HO3FLdbLH52wmYUuN6FKrp85si1WKfaGWpq3yVKZBPzvHI5dcc=;jo5NlvlZpo7GRhlgIH/feA=="
+secured: "8kqQLTWXo26l7KvpW2X8lmIgJ8pn6z2xzCTmrEdSdpcnd8HfXw+JlhgMxdDV6iQ/KfUXuoUSt2JfDjlRE9E/e4kxlYnjnsVtFIvl3CBeFqKzsiWaG/K2BdxXjOq1on9Ko0ixPHM//GogyGGxwKvu0AChylGw5LL5ZRXdGU3OphpJXOm8YOArxhm+kWETV+OWCbOsxqFplxDt40RfN8us/hIrMP6ZMpoH2Gy4hM/dnnXhPsCgcVRtzLYj1kS6J04/oVumftHE420uwLpA9BUKkMIAapE/1hnrJ7fm94hO586IZlZb2Ln3uBv7FdgcSBZn+zVONGgFsHw1IfiV4L18tW/nHwxp7VCeS7O8DUdIdRQ=;yCuSV8YPtmiiOJU7OD9/EA=="
 ---
 

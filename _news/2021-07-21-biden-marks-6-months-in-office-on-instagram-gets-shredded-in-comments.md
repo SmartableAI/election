@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "US carries out first airstrike in Somalia since Biden took office"
-    excerpt: "The US military on Tuesday carried out an airstrike against terrorist militants in Somalia — the first such strike in the country since President Joe Biden took office in January."
-    publishedDateTime: 2021-07-21T12:30:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHtSxIOeFS4/us-airstrike-somalia-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/us-airstrike-somalia-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-airstrike-somalia-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50365776-1e0a-48b5-8b7c-2871dc3abbd0/e377cb70-da93-4996-bcf8-351906659466/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "House GOP report hits Biden, Dems on border crisis as stats show continued migrant surge"
     excerpt: "FIRST ON FOX: A new report by House Republicans hits the Biden administration and Democratic lawmakers for the southern border crisis just as new numbers show a continued migrant surge."
     publishedDateTime: 2021-07-20T14:00:06Z
@@ -58,6 +42,20 @@ related:
     quality: 146
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "US carries out first airstrike in Somalia since Biden took office"
+    excerpt: "The US military on Tuesday carried out an airstrike against terrorist militants in Somalia — the first such strike in the country since President Joe Biden took office in January."
+    publishedDateTime: 2021-07-21T12:30:00Z
+    webUrl: "https://www.foxnews.com/politics/us-airstrike-somalia-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/al-nusra-front-REUTERS.jpg"
         width: 1280
         height: 720
         isCached: true

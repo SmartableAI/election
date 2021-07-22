@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden's dubious claim that 'the law doesn't allow' Afghan translators to be evacuated to US while they wait for visas"
+    excerpt: "Thousands of Afghans who worked with American troops face grave danger as a result of the ongoing US military withdrawal from Afghanistan.\n    \n"
+    publishedDateTime: 2021-07-14T20:21:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XqZcs1oBIPs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/fact-check-biden-law-afghanistan-siv-visas-law-parole-guam/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Meets With President Ashraf Ghani of Afghanistan"
     excerpt: "President Biden tried to reassure Mr. Ghani that the U.S. would continue to support Afghanistan even after withdrawing troops. In Texas, Vice President Kamala Harris said immigration could not “be reduced to a political issue."
     publishedDateTime: 2021-06-25T19:14:00Z
