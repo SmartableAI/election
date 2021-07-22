@@ -93,6 +93,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Melania Trump didn't think Donald Trump would win in 2016, Michael Cohen told Insider"
+    excerpt: "Inside Trumpworld, the former first lady is viewed as one of Donald Trump's most influential advisors, rivaled only by the influence of his daughter Ivanka Trump and son-in-law Jared Kushner."
+    publishedDateTime: 2021-07-22T20:12:00Z
+    webUrl: "https://www.businessinsider.com/melania-trump-didnt-think-donald-trump-would-win-in-2016-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/60f9c7d7fc253600181feac2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "2KYIv1tF89SlhmnMsnrEurAxIbaLAEpExwLhzDdNmiOZukOAfX2JcvHhMLk6lea9Zxam+75W+exQ3Ci+qjGJsF/9CAM+mVYfV3rs2s5ma7RXc0Fb2NMUo8u/qp2EknR2H8sFjg60n/UEFJJN6sILJ6y551sbsKF5A+3NbKt+ZqPDG5Q9Cn/8Prj0RdJl8btMmCJoWbbCEuLZxST1ueTfejboQ8BnKFjCCjbZBiTGGodkcJzqsr99Oxok5tqa3pSUh7dAynegjOL2yZI3TSEommUm+VIuOr1JUzxoXg4EYWiQfHOe02ZD03fqRpx11sxPEHwQTZj88sho7C8TjTQo9wzME116LTxenfXnCS4y/E95vloT15iOsXp3KtyVDT8arUsdtbcJi8eqZKLesntKGC+b8jNbPFjixkBjhRKA53egQk+jomRpuk0vboxl1bcmbtg4GsWyqgo2pM7IBmnzJFh9/YEcKrrQW78UJM/+H3w3rrqyvSqQbw2YmPCU6262YCRzujpjcQbOX5HYcgEFLQ==;CrWn2FGfDIJk2Z7WbIp2KQ=="
 ---

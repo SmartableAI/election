@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tiktok-white-house-agree-to-drop-tr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DOJ won’t pursue death penalty in seven Trump-era cases in shift under Garland"
+    excerpt: "The Justice Department has moved to withdraw death penalty requests made during the Trump administration in seven cases, according to a report."
+    publishedDateTime: 2021-07-22T21:15:00Z
+    webUrl: "https://nypost.com/2021/07/22/doj-to-withdraw-death-penalty-requests-from-trump-era-cases/"
+    ampWebUrl: "https://nypost.com/2021/07/22/doj-to-withdraw-death-penalty-requests-from-trump-era-cases/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/22/doj-to-withdraw-death-penalty-requests-from-trump-era-cases/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Biden-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Feverish, Post-White House Mind of Donald Trump"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-19T18:47:00Z
@@ -62,6 +78,6 @@ related:
         height: 495
         isCached: true
 
-secured: "NQ7THF3dZKlqiXLOxUzkCGnNr3qNej5BbV32jGBew2t9AyRpUfuwU/HLxeVbWVasgU1eRAsqTJJiAVZAdkrmmRSTuGfhSvuHBTSrGHJ0B05G5+Qtyfey98OymFAeLkTaZvPFT87GHUL3idlCIi7JTeETAuTEwZ6zsFfW/UFHa14herlcB7DSOeFbgScy4DrNhkNDDf8rey5hQZM5lTDu70ODilMi0txamgEVanWO9FepziUwr/2jyfiDchKocwyE3yqkkz8LAMTNGn1M8PeSwUDnUMevYKUa9MSbHHzIE/8tl0AZKG8OIJbOTW+KPxJjJ2L//i9T+0kWpZbYBRjXvzbLcMrREztppO2JewwJ1Wc=;ABjNvYvgNjbKOZnrsUxAVA=="
+secured: "rs1d3glCkatXnkSCvf/MU2m6lXsAFdgmmgkyjnu3GthgUpsiEsM+NQCdo1778T3zTgzdspk6ibJggkcWC8rBz9+xuYpAwhkFcMoPuFIBs2L+cHG/RE7i+ijjdagzu/womB5u0ltdZheCp0GZME1SV4UZOR6b7ia5HgHBVwQbxr+jgTbKSAZZ7u5TIAYnENJtMjXJCKrwvIBrgiwC0uxB7fR+kI0/Tyl8dhBHbV5avBdbntkHEHj0oEAkCe7jE8Ru3Ws7UH5GOxjLJKf/t/GfqJQMEWhDLTzGngxVBzTO0nSbqvpuj1xjgPeBbeoMsvPk2X8VC8qxZ5Es8KasnWemykeWGSWC9Lwf9APllfcoonA=;muhdBv7obxwRjAt55ipj2Q=="
 ---
 

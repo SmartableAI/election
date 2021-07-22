@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris meets with DACA recipients"
+    excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-22T21:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210722213322-vp-kamala-harris-meets-with-daca-recipients/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/22/story_11430733_1626989764.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Essential Politics: Kamala Harris’ past comes back with a Supreme Court ruling"
     excerpt: "Vice President Harris was hit by a blast from her past this month when the Supreme Court ruled against California in a case dating to when she was state attorney general."
     publishedDateTime: 2021-07-21T13:46:00Z
@@ -182,14 +196,14 @@ related:
   - title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
     excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
     publishedDateTime: 2021-07-22T18:06:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e9ffccd320080ced527d8e65bcdf6290/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e9ffccd320080ced527d8e65bcdf6290/USA-HARRIS-DACA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4a5dfef316966dadca5017f97c4c75a6/USA-HARRIS-DACA.jpg"
         width: 650
         height: 433
         isCached: true

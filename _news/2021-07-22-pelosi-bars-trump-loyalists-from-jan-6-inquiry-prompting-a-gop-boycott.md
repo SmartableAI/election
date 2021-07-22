@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boy
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.amp.html"
 type: article
 quality: 133
-heat: 153
+heat: 173
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pelosi weighs adding Kinzinger, a second anti-Trump Republican, to the Jan. 6 inquiry."
+    excerpt: "The speaker has already given one of the eight Democratic seats on the panel to Representative Liz Cheney, Republican of Wyoming."
+    publishedDateTime: 2021-07-22T12:55:00Z
+    webUrl: "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/22/us/politics/22political-briefing-kinzinger/22political-briefing-kinzinger-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump loyalists top McCarthy’s list of picks for the Jan. 6 inquiry, signaling a partisan brawl."
     excerpt: "The 13-member select committee, created on a party-line vote of the House, will have seven Democrats and six Republican members."
     publishedDateTime: 2021-07-20T16:27:00Z

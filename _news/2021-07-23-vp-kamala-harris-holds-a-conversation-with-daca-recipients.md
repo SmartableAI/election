@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
 excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
 publishedDateTime: 2021-07-22T18:06:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/e9ffccd320080ced527d8e65bcdf6290/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/e9ffccd320080ced527d8e65bcdf6290/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/e9ffccd320080ced527d8e65bcdf6290/USA-HARRIS-DACA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4a5dfef316966dadca5017f97c4c75a6/USA-HARRIS-DACA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -70,6 +70,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/22/4d66447d-2870-4686-9427-0313502c89b0/thumbnail/1200x630/c6466fa1a93440c0e3cd6220af5efe87/cbsn-fusion-vp-harris-meets-with-daca-recipients-thumbnail-758958-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "VP Kamala Harris meets with DACA recipients"
+    excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-22T21:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210722213322-vp-kamala-harris-meets-with-daca-recipients/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/22/story_11430733_1626989764.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Essential Politics: Kamala Harris’ past comes back with a Supreme Court ruling"
     excerpt: "Vice President Harris was hit by a blast from her past this month when the Supreme Court ruled against California in a case dating to when she was state attorney general."
@@ -238,6 +252,6 @@ related:
         height: 630
         isCached: true
 
-secured: "HHaK3/ysgz4ZemrQhLh5Tl7KoGAZMdz/dO8Yb7Wj1LJxczzINWQ2CwHMMVP348qVGagqlXLyhZewCjLCGlRF3mHUt6XKSrSBKsQKPohWHtTD+fxtj5A6D3asFCd7UHtXe+oSTHgX4U7vlQYp8kiEqeRD271KPDa8jWgH48+4wlrM/mUTmhDXStL/M0CrsYEjdn2wY3cbgpMHnGvwKBws/mreUCCaRK3lECi8/oY5UEKf+VZsTjprPpAW1F7vF498Ska/gVtLq6ZfoUY9ZC9VX5OS84J24ASUzzwg1jpMVQ6CVEAOLuNxBGHJ/mMLM32FLjPw8RUm135Fl8T8i8PlVf22wp79UW4JauolcJCRJk8=;voWvi30ToGJxFqH4I1s5+Q=="
+secured: "yail08VlO/c/IcHcBKaUnnXRr6FuOpidiL9lSLEiY+5AqwbtHcnmPACjiFIkzFrouwDHNus9Ex90J1ZaDeQmM4Qc8nEWKupyXY4sktSVf+S4+mBVYYUCREB8Fk0ced3VGPbk3YUvU7qrMLzrRdPsyDd8yrRWIt5TcM++Ya/9jPnyQ3qsxcjMquY+pwLMGHmFKDWiKpiZTXuUNq26d0un//4qYr8xQQUnN2fGMTtxEzy6knap+014V2WyVOcIR+J/TUVgJ5GfppmTqMv5S7lNejTVQYNxj/ZyqzdCAY5smvR1h8PKzrwtm2autrZRVfGB/aCMGqRb0rAgT7PqpPGfrZMoRPmhs+uRkyCaTzHwHTc=;dRqDRj3UE6dElt7CM9wpmw=="
 ---
 

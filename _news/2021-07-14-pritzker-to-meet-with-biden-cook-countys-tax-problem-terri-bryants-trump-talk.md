@@ -270,6 +270,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "U.S. withdraws Trump-era requests to seek the death penalty in 7 cases, signaling a shift under Biden."
+    excerpt: "Trump directed federal prosecutors to seek the death penalty if they won convictions. But now, under a new administration, the Justice Department has moved to withdraw the capital punishment requests in each of the seven cases."
+    publishedDateTime: 2021-07-22T12:26:00Z
+    webUrl: "https://www.nytimes.com/2021/07/22/us/politics/us-withdraws-trump-era-requests-to-seek-the-death-penalty-in-7-cases-signaling-a-shift-under-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/22/us/politics/us-withdraws-trump-era-requests-to-seek-the-death-penalty-in-7-cases-signaling-a-shift-under-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/us/politics/us-withdraws-trump-era-requests-to-seek-the-death-penalty-in-7-cases-signaling-a-shift-under-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/22/us/22political-briefing-death-penalty/merlin_182276457_32b33e71-ec28-4ca6-a1b2-8f4125ffbdf8-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden is not boring"
     excerpt: "The White House loves leaning into the notion that the JOE BIDEN presidency is a deliberate bore. Taking the drama out of politics is a good thing, they argue, if not for their own electoral prospects then for society writ large."
     publishedDateTime: 2021-07-09T21:10:00Z

@@ -32,69 +32,83 @@ images:
     isCached: true
 
 related:
-  - title: "Tammy Bruce: Kamala Harris clearly doesn't know America at all"
-    excerpt: "Fox News contributor Tammy Bruce joined “Tucker Carlson Tonight” to react to Vice President Kamala Harris' comments on rural voters not being able to photocopy an ID."
-    publishedDateTime: 2021-07-13T02:37:00Z
-    webUrl: "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america"
-    ampWebUrl: "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp"
+  - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
+    excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
+    publishedDateTime: 2021-07-22T21:15:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW_aom0BKrs/harris-daca-recipients-administration-action-program-ruled-unlawful"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aed3fb8-f75b-402e-999e-50a80149916a/543856b3-355a-4b2a-836b-d49bc1330f04/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris slammed for claiming rural Americans can't photocopy their IDs"
-    excerpt: "Kamala Harris was criticized Saturday for claiming that voter ID laws were impossible because rural Americans could not photocopy their ID's."
-    publishedDateTime: 2021-07-10T23:44:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-rural-americans-photocopy-ids-voter-id-laws"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-rural-americans-photocopy-ids-voter-id-laws.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-rural-americans-photocopy-ids-voter-id-laws.amp"
+  - title: "Harris visits Walter Reed for 'routine' doctor appointment days after meeting with infected Texas Democrats"
+    excerpt: "Vice President Kamala Harris is going for what a White House official told Fox News is a \"routine doctor's appointment\" at Walter Reed Medical Center on Sunday."
+    publishedDateTime: 2021-07-18T18:27:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e2d229-3060-40e0-9d98-fafbc767418d/52419ec5-9047-4b23-95a1-5c09832815af/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Gingrich slams Kamala Harris for suggesting rural Americans can't get voter ID: 'A dead loser'"
-    excerpt: "Former House Speaker Newt Gingrich told \"Fox & Friends\" on Monday that the Democrats' push against voter ID requirements has been a \"dead loser\" politically, reacting to Vice President Kamala Harris claiming rural Americans would not be able to prove their identity in some cases."
-    publishedDateTime: 2021-07-12T14:19:00Z
-    webUrl: "https://www.foxnews.com/media/newt-gingrich-kamala-harris-rural-america-voter-id-xerox"
-    ampWebUrl: "https://www.foxnews.com/media/newt-gingrich-kamala-harris-rural-america-voter-id-xerox.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/newt-gingrich-kamala-harris-rural-america-voter-id-xerox.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3744b611-0deb-4da0-bea2-af26cab20b6f/180c1e9d-6b85-4fde-81d3-41e4144ab97c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "J.D. Vance mocks Kamala Harris' 'ridiculous' take on rural America: 'Leave condescension to your staffers'"
-    excerpt: "Republican Senate candidate J.D. Vance hit back at Vice President Kamala Harris' latest argument against voter ID laws, Monday, reacting on \"Fox & Friends\" to the VP's claim that rural voters don't have the ability to make photocopies of their IDs."
-    publishedDateTime: 2021-07-12T13:45:00Z
-    webUrl: "https://www.foxnews.com/media/jd-vance-kamala-harris-rural-america-photocopies-voter-id-laws"
-    ampWebUrl: "https://www.foxnews.com/media/jd-vance-kamala-harris-rural-america-photocopies-voter-id-laws.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jd-vance-kamala-harris-rural-america-photocopies-voter-id-laws.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "VP Kamala Harris tested negative for COVID-19 after meeting with Texas Democrats, Psaki says"
+    excerpt: "Vice President Kamala Harris tested negative for COVID-19 after meeting with several Texas House Democratic lawmakers who recently contracted the virus, White House Press Secretary Jen Psaki confirmed on Monday."
+    publishedDateTime: 2021-07-19T21:29:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FsGn5vP1-pU/vp-harris-tested-negative-covid-19-meeting-texas-democrats"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Kamala-Harris-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "White House says Harris tests negative for COVID-19 after meeting with Texas Dems"
+    excerpt: "Vice President Kamala Harris tested negative for COVID-19 after meeting with infected Democratic legislators and isn’t being isolated from Joe Biden."
+    publishedDateTime: 2021-07-19T20:58:00Z
+    webUrl: "https://nypost.com/2021/07/19/white-house-says-harris-tests-negative-for-covid-19/"
+    ampWebUrl: "https://nypost.com/2021/07/19/white-house-says-harris-tests-negative-for-covid-19/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/19/white-house-says-harris-tests-negative-for-covid-19/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/psaki-harris-comp-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
+    excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
+    publishedDateTime: 2021-07-22T21:15:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "agEYKP0onrVfjiHD2VipIH9DBdBII0qKcfc/Iqq+56QUtuCYrvndVgFNFfb/xSQAbo3HRGDuvBdlecjwJQeL6Rws3MPeYCqK61PLSv9W6hpWVUCQqgQTQgej24TaySxnQaawJfJqWym10QeXE1QrvoBqiayZwlx1Uqs6DC2UDhzzZExCdsZjRpT6RD2sf6pxDFbQZ68C6xiEBzhc6WP3ESsSzhfREJNpSI1wmO1ryBreMbUUQGjdwJC/jVoA3AQHkgLCqV8EfjBtY50lmzXe6yEQIpXIVm12ecXGrNljIOknBxARFRM9zaX6yaCvc2Hgo5ENcw7pZ4lAqAEEPKcxebgiD9wEstldm7TdcOOGYIc=;fMhI0XaCPAhS34YHNeWsEQ=="

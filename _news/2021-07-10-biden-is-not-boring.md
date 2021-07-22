@@ -270,6 +270,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "U.S. withdraws Trump-era requests to seek the death penalty in 7 cases, signaling a shift under Biden."
+    excerpt: "Trump directed federal prosecutors to seek the death penalty if they won convictions. But now, under a new administration, the Justice Department has moved to withdraw the capital punishment requests in each of the seven cases."
+    publishedDateTime: 2021-07-22T12:26:00Z
+    webUrl: "https://www.nytimes.com/2021/07/22/us/politics/us-withdraws-trump-era-requests-to-seek-the-death-penalty-in-7-cases-signaling-a-shift-under-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/22/us/politics/us-withdraws-trump-era-requests-to-seek-the-death-penalty-in-7-cases-signaling-a-shift-under-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/us/politics/us-withdraws-trump-era-requests-to-seek-the-death-penalty-in-7-cases-signaling-a-shift-under-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/22/us/22political-briefing-death-penalty/merlin_182276457_32b33e71-ec28-4ca6-a1b2-8f4125ffbdf8-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "PRITZKER TO MEET WITH BIDEN — COOK COUNTY’s TAX PROBLEM — TERRI BRYANT’s TRUMP TALK"
     excerpt: "Pritzker headed to White House for meeting with Biden on bipartisan infrastructure plan: “Gov. J.B. Pritzker is one of three governors and five mayors who will join President Joe Biden at the White House on Wednesday for a bipartisan meeting on infrastructure,"
     publishedDateTime: 2021-07-14T12:19:00Z

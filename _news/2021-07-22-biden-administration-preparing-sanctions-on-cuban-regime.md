@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden signs crime victims fund replenishment bill"
+    excerpt: "President Joe Biden celebrated what he called \"a day of hope\" Thursday before signing the VOCA Fix to Sustain the Crime Victims Fund Act of 2021, a bipartisan bill that aims to provide assistance for crime victims, including counseling expenses, medical bills and lost wages.\n    \n"
+    publishedDateTime: 2021-07-22T20:48:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lJ3qCfu2CsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722162107-01-biden-signs-hr-1652-0722-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden promises answers on European travel ban 'in the next several days'"
     excerpt: "President Joe Biden said Thursday he'll soon be able to answer persistent questions about travel to the US from Europe after German Chancellor Angela Merkel raised the matter in the Oval Office.\n    \n"
     publishedDateTime: 2021-07-15T22:55:02Z

@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DOJ won’t pursue death penalty in seven Trump-era cases in shift under Garland"
+    excerpt: "The Justice Department has moved to withdraw death penalty requests made during the Trump administration in seven cases, according to a report."
+    publishedDateTime: 2021-07-22T21:15:00Z
+    webUrl: "https://nypost.com/2021/07/22/doj-to-withdraw-death-penalty-requests-from-trump-era-cases/"
+    ampWebUrl: "https://nypost.com/2021/07/22/doj-to-withdraw-death-penalty-requests-from-trump-era-cases/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/22/doj-to-withdraw-death-penalty-requests-from-trump-era-cases/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Biden-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "EsqNhaOxrLZPRs3LtjZMTkhNi8pUabeeZwleaZz4MT+XV5TLw7k8Nx7FdNlf/UWQkJ2S8/GUJ6HKyH40YDMb+p1mWDoHcKPj6Dkh5kQ/WyTulxOUMKm6jjkMmFkb8E8fdaQANBc/e7YkaVJYi2La3wNdH5VKFAwEhEol1ZjOG9cQOhk90Op+7Q+MUQnHSemqKC48RHlIEJ8dJRKR90Z/1mX9UsdlDcsfZu77CGUsekDxuN2eB4JZWLwgGRvRynNdao/k1IOhSqqbwc2PuhylGbpoR3e+1dDK/NyL0TQFfHzX2rLrfzrANEAmqUiCEWXNLhiqy0ysqLTkG4W1Yd0lnvkP92vN9956w3BNghjeyWE=;82DGovSbXoDzFFl9h6u+Mw=="
 ---

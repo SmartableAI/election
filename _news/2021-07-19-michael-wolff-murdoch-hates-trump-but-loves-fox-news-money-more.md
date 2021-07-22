@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolf
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://media.npr.org/assets/img/2021/07/20/wolff_wide-d719e2cfeb7bd2de93a37c8ba786fc11fc490bd9.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Melania Trump didn't think Donald Trump would win in 2016, Michael Cohen told Insider"
+    excerpt: "Inside Trumpworld, the former first lady is viewed as one of Donald Trump's most influential advisors, rivaled only by the influence of his daughter Ivanka Trump and son-in-law Jared Kushner."
+    publishedDateTime: 2021-07-22T20:12:00Z
+    webUrl: "https://www.businessinsider.com/melania-trump-didnt-think-donald-trump-would-win-in-2016-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/60f9c7d7fc253600181feac2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump Made Explosive Comments About Justice Brett Kavanaugh, Michael Wolff Book Claims"
     excerpt: "Donald Trump said he was “very disappointed” in Supreme Court Justice Brett Kavanaugh and other officials for not voting to overturn the 2020 presidential election, Axios noted Tuesday from Michael Wolff's new book “Landslide."

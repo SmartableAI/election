@@ -77,6 +77,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden pick to lead public lands bureau poised for full Senate vote"
+    excerpt: "A U.S. Senate committee on Thursday voted 10-10 along party lines on President Joe Biden's nomination of Montana conservationist Tracy Stone-Manning to lead the Bureau of Land Management, setting the stage for a vote by the full Senate."
+    publishedDateTime: 2021-07-22T19:17:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-usa-biden-interior-idUSKBN2ES2E2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ES2E2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ES2E2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210722&t=2&i=1569681026&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6L17H"
+        width: 861
+        height: 545
+        isCached: true
   - title: "Joe Biden on Economic Recovery in Washington"
     excerpt: "U.S. President Joe Biden delivers remarks on the economic recovery in the State Dining Room at the White House in Washington, DC on July 19, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-07-19T16:27:00Z

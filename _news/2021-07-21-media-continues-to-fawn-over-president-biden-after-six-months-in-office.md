@@ -96,6 +96,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden signs bipartisan bill to bolster federal support for victims of abuse"
+    excerpt: "President Biden signed a bipartisan bill Thursday to redirect funding for the existing Victims of Crime Act so that more money is allocated to programs for victim support. "
+    publishedDateTime: 2021-07-22T21:21:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XZKiq81RleU/biden-signs-bipartisan-bill-to-bolster-federal-support-for-victims-of-abuse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-bipartisan-bill-to-bolster-federal-support-for-victims-of-abuse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-bipartisan-bill-to-bolster-federal-support-for-victims-of-abuse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6b6890c-2805-4f7b-b37a-b7ea49b67d11/19ea49ac-d465-4ac0-a37f-210fe6e1c62f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'"
     excerpt: "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\""
     publishedDateTime: 2021-07-14T16:58:50Z

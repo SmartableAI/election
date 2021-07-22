@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris meets with DACA recipients"
+    excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-22T21:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210722213322-vp-kamala-harris-meets-with-daca-recipients/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/22/story_11430733_1626989764.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Essential Politics: Kamala Harris’ past comes back with a Supreme Court ruling"
     excerpt: "Vice President Harris was hit by a blast from her past this month when the Supreme Court ruled against California in a case dating to when she was state attorney general."
     publishedDateTime: 2021-07-21T13:46:00Z
@@ -196,14 +210,14 @@ related:
   - title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
     excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
     publishedDateTime: 2021-07-22T18:06:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e9ffccd320080ced527d8e65bcdf6290/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e9ffccd320080ced527d8e65bcdf6290/USA-HARRIS-DACA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4a5dfef316966dadca5017f97c4c75a6/USA-HARRIS-DACA.jpg"
         width: 650
         height: 433
         isCached: true
@@ -238,6 +252,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ypJ0aSMraUtrNi7nfvkdgNMfUHfm/FCxoggYDp6V1RP10xzoE68yhWR3k5QDV2yE8eYfPobHyagG502BGGithiM4PVpnHLDvEsZgoJRq9kSq9d/5+ZEqzWNnfhdLlvGVmYy5OGRJtS0CxZUetFtPVWc2kKsohT1Cpe1f231ZTxPWgKrR8u6j4bWoONqWJtV4ksjSa4AnvMKvuJo/0QiyLHrwaKo1VAD22AheYhNhN1EB4PXi1UogoLwWbkvsu53o4JLUdt7ONMCspLx9ohL1Qu8HgmPt5JRW8eVmOVBwGXgvH6I8lMiJsOPNmPmdFAJWALVFLi8QooTq61eoHOuVsJ6e1PEbWPMST/dblbjRXt0=;V3lCgmRAzjAk3PKWVHR4sw=="
+secured: "tNqsgx2QMVAhDOjrDC0IDefAZnsJpZFu+ErZZ/+U4lNjtp8Qw5KNzXdWOxZ36TePtKo3iOYjKr/MbdxlUTaZj6B2LyTDI0Lbmm1gcEtgJCeHlGhIZuql0MP/p65jNCjiUw4FwRH0CQgobwoo0wb3X5ZFosdNbt9iTyvjMZs4xxf6NCyPFqWUuje6WYixjSagHjUFGABkBDCPMTCjuf9Oz+XJwA4gkVr53PKCHB8LDUKmkYqp4bwOObNzx2kOh0JHfMf14QDs7PCZcEAZtePJOxjeBQWFnfZkswbqg47lJkZISheZZeuCgzUzhzj5+Ys80AIHyoJ0Qw7hSxn11Mkf/v1HPBpnMIl92umOvE3anuN9NxWMYPVVQacuX384qy7z3BGoR3wogIJqJkB/DdNOgwfxwPxD0S7cSLV+IGXL1QdeYv0DntPnJhCsBVDfK+x33y3C5uWUeYBp+sNaNGKVMil/2LRC0MmbtTL7Xy8Xn18mE1wgOvwJRVkwCiFNZ0/MI/fjiPVXunm1Qi9xgku+OQ==;wkMiLZmfRtFr38p8YzRBVw=="
 ---
 

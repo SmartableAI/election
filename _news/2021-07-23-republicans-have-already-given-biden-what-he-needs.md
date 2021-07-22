@@ -90,6 +90,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden signs bipartisan bill to bolster federal support for victims of abuse"
+    excerpt: "President Biden signed a bipartisan bill Thursday to redirect funding for the existing Victims of Crime Act so that more money is allocated to programs for victim support. "
+    publishedDateTime: 2021-07-22T21:21:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XZKiq81RleU/biden-signs-bipartisan-bill-to-bolster-federal-support-for-victims-of-abuse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-bipartisan-bill-to-bolster-federal-support-for-victims-of-abuse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-bipartisan-bill-to-bolster-federal-support-for-victims-of-abuse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6b6890c-2805-4f7b-b37a-b7ea49b67d11/19ea49ac-d465-4ac0-a37f-210fe6e1c62f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'"
     excerpt: "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\""
     publishedDateTime: 2021-07-14T16:58:50Z
@@ -323,6 +339,6 @@ related:
         height: 500
         isCached: true
 
-secured: "nSNLkqEsvLdnY2pq0XDEFmUd1QD9ubEmEls3y5MUfSe/7Ab/h+y1qdKgKtMFg/+mwfmlaCddDL8YWqa1Ca3zWRK05LKluOL3J5yl+HDJBecxlpOUeS/adz7PYrjt5ha9mscjj0lHMDMiIr7kvrvipkAYlgNBUynzUVkHSOknB3VjftszksMC39uoPp4Ns+m1ULZG62Cuoo0TKKuEwwj9Kor79ExiSj6cfmb+U/Emid0b8gZPNfiTtXWjIdEvXcEhljibdOSP9zI1aRU/I8xOU7mrRYNTLZEaUOnFtbhJRd1ITsi6fhW5BGll8Y9JYsrpgWyikClLU2GPileyN3Z7tHM2EzNxSvYhsKlM1mQLk7A=;amW5lUgypQ43v+9uELCsIQ=="
+secured: "TUsYo9QUA0Ri7oP6ebIrDX1vXfY/Npt+8duaXEilkJBejT7m6ycKm8Jx4F+6a7kSX6Tmb0kWTPJU4bYLWPq2xdVehJyDaJA1C8V2F8J32u8FT/Bm/J/L+37B5LY23zIGT5W57AqZ7I6uXxL7LY2ai4/ElhpNSXwXP5Lg5XCc9nh0DaAmrR0p47g/F15yBhoL8U7LG0sqeEWA+XIXeGZj5MZU8ZEL+/c9k7RTnO3jabOEhZrKf8L+ubum+TADAkuIhXYC94kNAUmweZPlFwMCv8hQ1pGQ3qeTcVinZ9/jqqVHoeO2ZS748QbRWTjjsVgqjrAUUadHhZrP9ctdmuNhmO3qTm1xLpI7QLq4QFL8yW6TFmjG3D3cecLzWS4iQAq+6sL3fEhIQxEMMA0bNUwmN7BGX/if/8waVD5AseYa6b7n4rS0I4qTM2LSacjF1XdZEnfZ00mKuJ4PHsV4ed2+PWutc77JashX+YT7oiFZSXG9L31PaK3rbLQmU6GsAeh+LgzWedXjq43q31uRWkrI8g==;ruc2+8pJbIotDNRBhZhIpg=="
 ---
 
