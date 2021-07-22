@@ -984,6 +984,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Melania Trump's Residence Remains Unknown, Ex-FLOTUS Not Around Husband Donald ‘A Lot Of Times’: Report"
+    excerpt: "Melania Trump is not around her husband, Donald Trump, most of the time, a report has claimed. Michael Wolff, New York's Bestselling author of \"Landslide: The Final Days of the Trump Presidency,\" spoke about his close encounter with the former president and his wife."
+    publishedDateTime: 2021-07-22T10:31:00Z
+    webUrl: "https://ibtimes.com/melania-trumps-residence-remains-unknown-ex-flotus-not-around-husband-donald-lot-3257203"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg"
+        width: 1024
+        height: 668
+        isCached: true
   - title: "Ex-Federal Prosecutor Seeks Trump Backing in Governor's Race"
     excerpt: "The top federal prosecutor in Philadelphia appointed by Donald Trump has written to the former president to seek his endorsement in a Republican primary race to run for governor in next year’s election."
     publishedDateTime: 2021-07-13T14:00:00Z

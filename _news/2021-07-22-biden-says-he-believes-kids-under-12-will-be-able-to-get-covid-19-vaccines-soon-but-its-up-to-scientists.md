@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden health officials begin discussing mask recommendations as variants surge cases"
+    excerpt: "Top Biden health officials and some White House officials are holding preliminary conversations on revising mask recommendations for vaccinated Americans as the Delta variant spreads throughout the US, according to multiple sources familiar with discussions.\n    \n"
+    publishedDateTime: 2021-07-22T04:24:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iLlgitkZZQo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/mask-recommendations-biden-health-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/mask-recommendations-biden-health-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721221442-mask-recommendations-biden-health-officials-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Prominent Democrat calls out Biden admin for missing deadline to further sanction Russia over Navalny poisoning"
     excerpt: "The Biden administration has missed a deadline by more than a month to impose legally required sanctions on Russia for the poisoning of opposition activist Alexey Navalny, the chairman of the Senate Foreign Relations Committee said Tuesday.\n    \n"
     publishedDateTime: 2021-07-20T17:41:56Z

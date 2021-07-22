@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
-    excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
-    publishedDateTime: 2021-07-22T01:33:00Z
-    webUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 52
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WNUXM57P7NCJDI2KZNIRYSBABI.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "President Joe Biden wants to ensure 'Right to Repair' smartphones, other devices"
     excerpt: "President Joe Biden asked regulators to crack down on companies that make it harder for people to repair smartphones and other software-driven tech."
     publishedDateTime: 2021-07-15T10:02:00Z

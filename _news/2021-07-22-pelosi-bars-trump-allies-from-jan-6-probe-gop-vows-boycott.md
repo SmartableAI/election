@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
     quality: 55
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/15/239161261733cf24c2ddab.jpeg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Asian Markets Extend Global Rally As Earnings Trump Virus Worries"
+    excerpt: "Asian markets rallied Thursday as worries about the Delta variant were overshadowed by more strong earnings reports that indicated companies were faring well as the global economy emerges from last year's pandemic-induced collapse."
+    publishedDateTime: 2021-07-22T07:32:00Z
+    webUrl: "https://www.ibtimes.com/asian-markets-extend-global-rally-earnings-trump-virus-worries-3257141"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/21/joe-biden-said-that-while-the-united-states.jpg"
         width: 1024
         height: 682
         isCached: true

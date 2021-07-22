@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boy
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.amp.html"
 type: article
 quality: 133
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 549
     isCached: true
+
+related:
+  - title: "Trump loyalists top McCarthy’s list of picks for the Jan. 6 inquiry, signaling a partisan brawl."
+    excerpt: "The 13-member select committee, created on a party-line vote of the House, will have seven Democrats and six Republican members."
+    publishedDateTime: 2021-07-20T16:27:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/us/politics/republicans-jan-6-committee.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/politics/republicans-jan-6-committee.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/politics/republicans-jan-6-committee.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 122
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20political-briefing-jan6-republicans/20political-briefing-jan6-republicans-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "IsFKQZD7wkouqFZciIeUFEBRBjCYSQIMnvlWQaEvWzRThWmbfxUuxWgg3HIYiEPB2qBbCIdhhfRJAutlesQOlywK+CVNjQCD3C87Np6rfhQGBhdUXUQkOp5jkzgRdZzCrmPGCOPLeIDH/xaorfJRScEtlx3VOPNqsol1EL28BAQUkm4/rGwc96JtqtQlauon2GWHuRS2PrhKz3lJMOu6zJd8lO7mpGEYwm3FRgSWyTPW1jlZ06prqqBKGKTN7EXh7BIS5MCQ5aroqFqq6Zv41fCJpJ62xE7IUlKIHGxbsynBGNUsMfSoFKxKMG139tN2UnNRI8cLogzcrqMHCSd2JFfvraaRfP08PdWtM9bsh2dBmHxpu9QTUdGZWRvCks+MB3KVAwJDRHCDoCz4q+D5gx+uVXkGBOmqFAqik/ANPQb5WQISmtQeMarNdAO7zOjgPAGcymGbY+U1AUJs8TeWUI7Hy3S8JA4hxHIvRAKyVFuhfzp09/dPIqnNf6Pwcul/2ASBNKjXLS9lmXaFthOzTA==;g4EmAanQqU5tagcLvjW9lw=="
 ---

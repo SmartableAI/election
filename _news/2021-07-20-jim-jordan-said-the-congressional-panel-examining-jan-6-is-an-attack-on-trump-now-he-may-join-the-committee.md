@@ -91,6 +91,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Asian Markets Extend Global Rally As Earnings Trump Virus Worries"
+    excerpt: "Asian markets rallied Thursday as worries about the Delta variant were overshadowed by more strong earnings reports that indicated companies were faring well as the global economy emerges from last year's pandemic-induced collapse."
+    publishedDateTime: 2021-07-22T07:32:00Z
+    webUrl: "https://www.ibtimes.com/asian-markets-extend-global-rally-earnings-trump-virus-worries-3257141"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/21/joe-biden-said-that-while-the-united-states.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
     excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."
     publishedDateTime: 2021-07-21T18:32:00Z

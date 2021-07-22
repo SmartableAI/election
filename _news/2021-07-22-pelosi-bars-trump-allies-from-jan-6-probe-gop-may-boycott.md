@@ -99,6 +99,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Asian Markets Extend Global Rally As Earnings Trump Virus Worries"
+    excerpt: "Asian markets rallied Thursday as worries about the Delta variant were overshadowed by more strong earnings reports that indicated companies were faring well as the global economy emerges from last year's pandemic-induced collapse."
+    publishedDateTime: 2021-07-22T07:32:00Z
+    webUrl: "https://www.ibtimes.com/asian-markets-extend-global-rally-earnings-trump-virus-worries-3257141"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/21/joe-biden-said-that-while-the-united-states.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "XNq3u8h6A9tpTYwwrWf0I+ePCJm6/xmjZJzPOGujvJw4d4CZZ4f3pLWEwz4JumRSd8asvnq3HHC4b9sE3QHi8nZj1QYubwnwnP6cGqzncej+yUQAOSRitBlJwPDrD5CYvmzOwIJaQhz5LTVctFL2xvaDPabQx3OYRottzRoJYx+92BjlMiJZBg8zi1lli4dws1j4Ty3IYqFSwd23eduXYIYs3UtNruvt/DnSOFPLWrUES52m0L3rmz4l0Cd3pGtOSom/MPeCsPoCl0cs0IqF/0qY8qHsRkvwJQzuOhVLcD1mRt9+dOLxCHDq8ptiDi3IfCnWWSop+8UYLhtUthtod7z9pglzbuDu1JvmKWpG1NfOECDmdxbS1Q6hZZgieu4ylN9GVlJI7LdbwWwg2073E5VvSG5c7KBUXveMnJbvI38lurTDLmFkBogbiSx8QMbe98Xe10gS3Q24ClO2keA8wHSRNeprAhNNy5um15NWsu6fP9aGCJ8zwmrvghl6aBdC5A7vv7Da7qxxQWjrCQsa0Q==;iCvVohe1pu6gnE2rFfa9iw=="
 ---

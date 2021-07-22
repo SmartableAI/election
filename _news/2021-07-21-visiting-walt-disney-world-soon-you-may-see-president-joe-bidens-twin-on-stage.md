@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
-    excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
-    publishedDateTime: 2021-07-22T01:33:00Z
-    webUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 52
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WNUXM57P7NCJDI2KZNIRYSBABI.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Visiting the Walt Disney World soon? You may see President Joe Biden’s twin on stage"
     excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
     publishedDateTime: 2021-07-21T10:31:00Z

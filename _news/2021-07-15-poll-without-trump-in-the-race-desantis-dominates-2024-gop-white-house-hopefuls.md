@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/states/florida/story/2021/07/15/poll-with
 webUrl: "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365"
 type: article
 quality: 110
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -28,6 +28,56 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Trump and the GOP spin fantasies to hide his crimes against the Constitution"
+    excerpt: "It's gone beyond whitewashing history. Ex-President Donald Trump and his House Republican enablers are now spinning fantastical inversions to hide his crimes against the Constitution on January 6.\n    \n"
+    publishedDateTime: 2021-07-22T11:31:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bp-ashvxzmU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154544-02-mccarthy-presser-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Donald Trump and Kevin McCarthy to meet on Thursday as 1/6 committee hearing looms"
+    excerpt: "House GOP Leader Kevin McCarthy is expected to meet with former President Donald Trump on Thursday, Trump announced in a statement, coming as the California Republican is considering which members of his conference to appoint to a special committee tasked with investigating the deadly January 6 riot"
+    publishedDateTime: 2021-07-15T13:36:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512104940-kevin-mccarthy-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'He's not going to sit in silence': How the nation's top general found himself caught up in Trump's political wars"
+    excerpt: "In December 2018, then-President Donald Trump announced on Twitter that he would nominate Gen. Mark Milley as the next chairman of the Joint Chiefs. Milley was not the consensus pick, and then-Defense Secretary James Mattis objected to his selection. But Trump wanted the square jawed, barrel-chested"
+    publishedDateTime: 2021-07-15T21:35:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sGx4dQ9eVBs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/milley-trump-politics-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714170338-mark-milley-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "3Rj6Q5dHyMNueSt9yxaPtaGsiONT1wC940EZhrqBbuoX6ROwm5DnyOk/+yWGJ/TbA08hTHfBXBsndLRrMQtHqGz1RYuKCB5kdsoyRubWW1hTzGvnEujC2XpJS1hEsTt6d2/Aqyy0M56Ix2uQTwzsHT1/FnSbwrcJ4ddOb/KVeHQb0x+JaQ3IF2p4pEYJ8EWBjHhFlS1qLmM9zQBcCHueK7BVVns8LJF49tWl259+qR2ZYykvzkqd/CWew1DmVOCc1mzXHV7/JfmFRRyWTtITM6rEmfaI7p/4zZ+50PXLCv1LAQR8cwQ9CRM11AT84G6g1GI9whvAmK4AgGX5qZVMFBZysLbwxqc2in+sWMkaP28=;MHHT8HQ13w4DrCiSx/8CDQ=="
 ---

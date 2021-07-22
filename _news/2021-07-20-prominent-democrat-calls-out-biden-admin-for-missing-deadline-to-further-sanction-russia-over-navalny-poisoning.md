@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden health officials begin discussing mask recommendations as variants surge cases"
+    excerpt: "Top Biden health officials and some White House officials are holding preliminary conversations on revising mask recommendations for vaccinated Americans as the Delta variant spreads throughout the US, according to multiple sources familiar with discussions.\n    \n"
+    publishedDateTime: 2021-07-22T04:24:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iLlgitkZZQo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/mask-recommendations-biden-health-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/mask-recommendations-biden-health-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721221442-mask-recommendations-biden-health-officials-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he believes kids under 12 will be able to get Covid-19 vaccines 'soon,' but it's up to scientists "
     excerpt: "President Joe Biden said Wednesday that children under the age of 12 could be eligible to receive a Covid-19 vaccine \"soon,\" predicting that the government could green light the rollout for young Americans in the next few months.\n    \n"
     publishedDateTime: 2021-07-22T01:50:53Z
