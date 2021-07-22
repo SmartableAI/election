@@ -3,8 +3,8 @@ category: news
 title: "6 Months In, Biden's Presidency Will Only Get Harder"
 excerpt: "President Joe Biden said Tuesday the nation's vaccine push feels like a \"constant uphill climb.\" He could have said the same of his entire crisis-tossed presidency as it grinds past the six-month mark."
 publishedDateTime: 2021-07-21T12:25:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/07/21/6_months_in_bidens_presidency_will_only_get_harder_547640.html"
-webUrl: "https://www.realclearpolitics.com/2021/07/21/6_months_in_bidens_presidency_will_only_get_harder_547640.html"
+originalUrl: "https://www.realclearpolitics.com/2021/07/21/6_months_in_bidens_presidency_will_only_get_harder_547640.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/07/21/6_months_in_bidens_presidency_will_only_get_harder_547640.html#!"
 type: article
 quality: 65
 heat: -1
@@ -1685,6 +1685,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "9v+TfmyWOEPyNBqt7cQ2MOC6sYT3txv9etRfSton9Abtlg3NCAO9C6azcv1rrAv3Yd6OIJmpcjG1AXxrItbQMOb+hrgbIi0sdAFLkyeF1zFznj8P2EHz5BYUfU+dbwrymaS6dZ0QsbYPCrMIx2P6dH8LY9GRyN9vL8yPnpjzjiuVHXANyFA/hV/wnR8aXVG8RirC0/chtfEanIvkaA4WMAKSkb3vvaSskARLPPcnCHczoY2fZ2O956p0U/pulSovY3sDH9n7uWseAqqkzAooLWtiwYrIjlUL6iyM3RkgpRKRRSDjLsUbuflGT3mlEi8FroblAOEUcZ5OMrbFcpc5xBQL4Q4Lu3/1UO/6KIeYqALIr3XlXMIHBELwY+S2fL40m4LArvSpyRG/2qrw3b8nxAMQ1vzUjrZpJKbK/69vBYz++tzXlAfkrvd5uqtNOXgI7bwqYA3cJTyT5EGW9tMMZ+2p7box0WvvSdgsh4SZ1NfHLl6wqlDMMjNtwvGYd/8fdcMtmJ4JNkdECi+uq0goWQ==;+23WzhzAPHYHLLVMKyM/Rg=="
+secured: "vTCGIACsoHd6KdUm1cUPLdr1gvs+5fM0RUEWH/6+8rWAu9Swd5n1WaAQrdcABhjcXNwBDQiFpLssr9e06tvUDIXgrNcqvW/hdmwuQlexBOfsQYobma8hxMU1lagsPJXL9xWXy2r+YlLolPZfw2NL+QLGo2aqgM7i8J7YQ1bvVmaG7wXNMEbwqjQ7Ny/jMWHy5Dg1bjkAzkXZWAes7qskhhKzr/T7FGVYXQrvxPP7MQiz2D4/Jt4ziN0VHJKrNC+7lu4PBG22uKQD3fxKZMBpdcvYTTE/TYfiTscDnD6VKuCDKEc6cqazi2g9rtyozDwBOCba4E+Kcj2QCjG2egUtFuu1MgUB+TA9k1d97SeYI0A=;vC/d+kYwcRFitR+uA4adKw=="
 ---
 

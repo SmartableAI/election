@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-06-09-youre-already-changing-the-world-biden-tapes-remarks-for-marjory-stoneman-douglas-graduation.md",
+      "title": "'You're already changing the world': Biden tapes remarks for Marjory Stoneman Douglas graduation",
+      "excerpt": "President Joe Biden delivered a taped graduation message at Marjory Stoneman Douglas High School in Parkland, Florida, where students who were freshmen during a mass shooting three years ago graduated on Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eJsfQucokdU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eJsfQucokdU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210402113121-01-biden-jobs-0402-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
+      "publishedDateTime": "2021-06-09T05:07:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-joe-biden-clone-conspiracy-theory-spreads-on-facebook.md",
       "title": "Joe Biden 'Clone' Conspiracy Theory Spreads on Facebook",
       "excerpt": "An outlandish theory suggesting the president is \"a lookalike, double or clone\" is starting to spread across social media platforms.",
@@ -1308,58 +1364,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-coach-v-the-white-house-inside-steve-kerrs-extraordinary-feud-with-donald-trump.md",
-      "title": "Coach v the White House: inside Steve Kerr’s extraordinary feud with Donald Trump",
-      "excerpt": "In a new book about the Golden State Warriors coach, Scott Howard-Cooper explores how the NBA, China and the US president combined for an explosive mix",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
-      "originalUrl": "https://www.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1735f509f0395827016f8415c722605bb44d6c08/0_213_4976_2985/master/4976.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acbddd681f2212415f387e57e12a0af3",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
-      "publishedDateTime": "2021-06-07T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

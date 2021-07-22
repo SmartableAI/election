@@ -1659,7 +1659,7 @@ related:
   - title: "6 Months In, Biden's Presidency Will Only Get Harder"
     excerpt: "President Joe Biden said Tuesday the nation's vaccine push feels like a \"constant uphill climb.\" He could have said the same of his entire crisis-tossed presidency as it grinds past the six-month mark."
     publishedDateTime: 2021-07-21T12:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/21/6_months_in_bidens_presidency_will_only_get_harder_547640.html"
+    webUrl: "https://www.realclearpolitics.com/2021/07/21/6_months_in_bidens_presidency_will_only_get_harder_547640.html#!"
     type: article
     provider:
       name: RealClearPolitics

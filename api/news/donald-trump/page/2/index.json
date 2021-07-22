@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-14-david-gergen-trump-more-dangerous-than-nixon-could-bring-the-whole-system-down.md",
+      "title": "David Gergen: Trump More Dangerous Than Nixon, Could \"Bring The Whole System Down\"",
+      "excerpt": "Former Nixon advisor David Gergen told CNN on Tuesday that he fears President Trump was \"more dangerous\" than Richard Nixon because he was \"crazy.\" \"what we worried about with Trump was that he was crazy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/41/414210.jpg",
+          "width": 568,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
+      "publishedDateTime": "2021-07-14T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-trump-economist-steve-moore-hired-to-ruin-yet-another-state.md",
       "title": "Trump Economist Steve Moore Hired to Ruin Yet Another State",
       "excerpt": "I have the best senior economic adviser on the planet in Stephen Moore working with me,” boasts Virginia governor candidate Glenn Youngkin.",
@@ -1474,58 +1522,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-trump-told-chief-of-staff-hitler-did-a-lot-of-good-things-book-says.md",
-      "title": "Trump told chief of staff Hitler ‘did a lot of good things’, book says",
-      "excerpt": "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/32d9b4b7b6aa0703e0a39545dc45fb0535a661b9/54_0_1905_1143/master/1905.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=abc0f3c3e0e837a7f56c6c1a89f887ca",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "publishedDateTime": "2021-07-07T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

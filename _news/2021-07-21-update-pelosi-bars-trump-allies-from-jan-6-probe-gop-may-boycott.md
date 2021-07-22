@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nwitimes.com/news/national/update-pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.amp.html"
 type: article
 quality: 75
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Northwest Indiana Times
@@ -28,20 +28,34 @@ images:
 
 related:
   - title: "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott"
-    excerpt: "House Speaker Nancy Pelosi on Wednesday rejected two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection, a decision the Republican denounced as “an egregious abuse of power."
-    publishedDateTime: 2021-07-21T21:37:00Z
-    webUrl: "https://www.chron.com/news/article/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329703.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329703.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329703.php"
+    excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection"
+    publishedDateTime: 2021-07-22T04:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s.abcnews.com/images/Politics/WireAP_08c0f3dbff9944a7a4a9f9fb80897461_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Jim Jordan said the congressional panel examining Jan. 6 is an attack on Trump. Now he may join the committee."
+    excerpt: "Rep. Jim Jordan of Ohio is one of five House Republicans selected by Minority Leader Kevin McCarthy to serve on a committee to investigate the Capitol riot."
+    publishedDateTime: 2021-07-20T13:31:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/07/20/jim-jordan-capitol-riot-committee/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 85
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YSVBYGSCBYI6VGOHDX6UEQNC7Y.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Pelosi blocks Trump allies from riot panel, GOP may boycott"
     excerpt: "McCarthy said the GOP won't participate the investigation if Democrats won't accept the members he appointed. IN TEXAS: Pelosi senior staffer gets 'breakthrough' COVID after meeting with Texas Dems Pelosi cited the “integrity” of the probe in refusing to accept the appointments of Indiana Rep."
@@ -58,6 +72,20 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Trump Meets With McCarthy To Discuss GOP Leaders for Jan. 6 Commission"
+    excerpt: "House Minority leader Kevin McCarthy met with former President Donald Trump on Thursday to discuss potential Republican appointees to join a special congressional committee tasked with investigating the deadly Jan."
+    publishedDateTime: 2021-07-15T22:56:00Z
+    webUrl: "https://www.ibtimes.com/trump-meets-mccarthy-discuss-gop-leaders-jan-6-commission-3252788"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/15/239161261733cf24c2ddab.jpeg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
     excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."

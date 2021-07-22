@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-22-magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up.md",
+      "title": "Magacoin: pro-Trump cryptocurrency attracts over 1,000 people to sign up",
+      "excerpt": "Magacoin bills itself as the ‘digital currency for the MAGA community’ but data from the site shows most of the cryptocurrency is allocated to its self-style creator",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
+      "originalUrl": "https://www.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0e46fed6da68413c5f7caaac609651387515cc28/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=836d8c1b4ba05e075136a734df1aafc2",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
+      "publishedDateTime": "2021-07-21T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-pelosi-bars-trump-allies-from-jan-6-probe-gop-vows-boycott.md",
+      "title": "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott",
+      "excerpt": "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_08c0f3dbff9944a7a4a9f9fb80897461_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
+      "publishedDateTime": "2021-07-21T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-biden-the-first-time-they-played-hail-to-the-chief-i-asked-where-is-he.md",
       "title": "Biden: The first time they played 'Hail to the Chief' I asked, 'Where is he?'",
       "excerpt": "Joe Biden quipped Wednesday evening that the first time he heard \"Hail to the Chief\" as President he asked, \"Where is he?\"\n    \n",
@@ -887,49 +991,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-21-update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott.md",
-      "title": "Update: Pelosi bars Trump allies from Jan. 6 probe; GOP may boycott",
-      "excerpt": "House Speaker Nancy Pelosi is rejecting two Republicans tapped to sit on a committee investigating the Jan. 6 Capitol insurrection, citing the \"integrity\" of the probe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.html",
-      "originalUrl": "https://www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/ca/1ca0d778-2aaa-52ec-81c3-98ddb7dd0e31/60f850607eeca.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.amp.html",
-      "cdnAmpWebUrl": "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.amp.html",
-      "publishedDateTime": "2021-07-21T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northwest Indiana Times",
-        "domain": "nwitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-21-meat-and-tractors-biden-administration-pushes-farm-friendly-regulations.md",
       "title": "Meat and tractors: Biden administration pushes farm-friendly regulations",
       "excerpt": "California growers and ranchers counted two big wins this summer that came in the form of an executive order signed by President Joe Biden. In June, Biden signed an executive order calling on the U.S. Department of Agriculture to consider issuing new ...",
@@ -990,7 +1051,7 @@
       "originalUrl": "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1302,58 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-trump-liz-cheney-opponents-to-meet-with-him-pre-endorsement.md",
-      "title": "Trump: Liz Cheney opponents to meet with him pre-endorsement",
-      "excerpt": "Donald Trump says he will meet next week with Republicans running against Rep. Liz Cheney and endorse one in the next few months",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_b37d921d72d742fd9d217beb767a21bb_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "publishedDateTime": "2021-07-20T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

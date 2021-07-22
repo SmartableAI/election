@@ -1,32 +1,48 @@
 ---
 category: news
-title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
-excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
-publishedDateTime: 2021-07-21T14:30:00Z
-originalUrl: "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
-webUrl: "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
-ampWebUrl: "https://amp.dispatch.com/amp/8024834002"
-cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/8024834002"
+title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
+excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
+publishedDateTime: 2021-07-22T01:33:00Z
+originalUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html"
+webUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html"
+ampWebUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
+cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
 type: article
-quality: 75
-heat: 195
-published: true
+quality: 52
+heat: -1
+published: false
 
 provider:
-  name: Columbus Dispatch
-  domain: dispatch.com
+  name: Cleveland.com
+  domain: cleveland.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/03/23/PCIN/ccbcf9e3-25be-4198-8574-13022b9fdd69-AP21082731379822.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
-    width: 1200
-    height: 676
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WNUXM57P7NCJDI2KZNIRYSBABI.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
+  - title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
+    excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
+    publishedDateTime: 2021-07-21T14:30:00Z
+    webUrl: "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
+    ampWebUrl: "https://amp.dispatch.com/amp/8024834002"
+    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/8024834002"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/23/PCIN/ccbcf9e3-25be-4198-8574-13022b9fdd69-AP21082731379822.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage"
     excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
     publishedDateTime: 2021-07-21T10:31:00Z
@@ -70,22 +86,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
-    excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
-    publishedDateTime: 2021-07-22T01:33:00Z
-    webUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 52
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WNUXM57P7NCJDI2KZNIRYSBABI.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Visiting the Walt Disney World soon? You may see President Joe Biden’s twin on stage"
     excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
     publishedDateTime: 2021-07-21T10:31:00Z
@@ -107,6 +107,6 @@ related:
       domain: oklahoman.com
     quality: 30
 
-secured: "MpRLJRWA5mn8ZDmqA8PoWIZICP0+sX1hGmlWZrXXqOKeC+6YS2A5LUb4LgSOEaxz2ES1iVnyWWfGw5ms0aM2wAuemYuX3UyhY4cePzSAQbo/51c71p7DaKBldD2CaUYbCJtA1R++7cH2eCw12S/6oFHQ3j8jvbTXs1O7PQGpr9mxUjl6mQUeTxwM4wF79H/eBrozsvKnjtmloTdUNGBWWbBILZXv7I/QRUq+sJWf4dvHGAYHVHfc8irT+0LqoZJpuro+I2ZlVftj3gU2MevPEtrlTzPm8ctrpgRd2g/EcHc76SXmSaxkXKu62XYr+bQLLc31HrxzeYVTMuDb6wgps3tB+Tf3iKEI2IewxrAad/0JykFYftIpxStP9G6dZ8EmYCgbKgGoB3+YH4r8yXnaMy5BVvAIv5QpO5H5RyrMIRmTQ6gMr4uu03i1vBRKJDtRw7LAvQU3dUWX5x5tu3CTZAsHYbdmWrqIKMwa9D+LcXBdHMkO5rUgdc9nFdaYQR+rzLoMwv0j8PWhq23K+PNYQA==;HQesGOahjHBsa2yMMVHppQ=="
+secured: "U0EV49bJs+EMzU/1du15zEoZ/Ownyx5IkQyZ4BL5GgJrse3fAatP9AkS5ps4VAUfFW7ulAEu2MUcyqwD06S9urZWxpGEn3h5hL3BqtprHDml5YlsdTdj8qdbFzl4595jtPi/qq5LvgCzvG8Afp/6iFDP719kCox539GvKEuApWzp4JW3ZdAQLJzdRsT5THzOJ/2j+oReL6QpDHMTN1Wpl06xU2tg/syOxHElpQBM3rFVu0N02bM6Lqpw5aeCYLuVcFCC+x9wvUomrfAX6eSmeotGVMGC29bfzxmLiaQ62YrbPAS5NlGXHlGBWfzWPKwc0NOEKjTyOpveLVz0cQNLxG86Hg8LGgRmgm9JSRRFchQ=;3/ovXbV7yblx7pWUcbg1yA=="
 ---
 

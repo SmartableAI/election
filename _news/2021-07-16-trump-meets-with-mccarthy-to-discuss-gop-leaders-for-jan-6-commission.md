@@ -29,35 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee"
-    excerpt: "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot."
-    publishedDateTime: 2021-07-20T17:45:00Z
-    webUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920"
-    ampWebUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
+  - title: "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott"
+    excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection"
+    publishedDateTime: 2021-07-22T04:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Minority leader McCarthy meets with Trump"
-    excerpt: "Watch \"Minority leader McCarthy meets with former President Trump ahead of Capitol riot hearing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-15T23:35:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11319195_1626392404.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s.abcnews.com/images/Politics/WireAP_08c0f3dbff9944a7a4a9f9fb80897461_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Jim Jordan said the congressional panel examining Jan. 6 is an attack on Trump. Now he may join the committee."
     excerpt: "Rep. Jim Jordan of Ohio is one of five House Republicans selected by Minority Leader Kevin McCarthy to serve on a committee to investigate the Capitol riot."
@@ -73,6 +59,47 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Update: Pelosi bars Trump allies from Jan. 6 probe; GOP may boycott"
+    excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped to sit on a committee investigating the Jan. 6 Capitol insurrection, citing the \"integrity\" of the probe."
+    publishedDateTime: 2021-07-21T16:49:00Z
+    webUrl: "https://www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.html"
+    ampWebUrl: "https://www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.amp.html"
+    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/national/update-pelosi-bars-trump-allies-from-jan-6-probe-gop-may-boycott/article_bdfc7391-1343-5a2c-8ca7-c8d05407ba54.amp.html"
+    type: article
+    provider:
+      name: Northwest Indiana Times
+      domain: nwitimes.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/ca/1ca0d778-2aaa-52ec-81c3-98ddb7dd0e31/60f850607eeca.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Pelosi blocks Trump allies from riot panel, GOP may boycott"
+    excerpt: "McCarthy said the GOP won't participate the investigation if Democrats won't accept the members he appointed. IN TEXAS: Pelosi senior staffer gets 'breakthrough' COVID after meeting with Texas Dems Pelosi cited the “integrity” of the probe in refusing to accept the appointments of Indiana Rep."
+    publishedDateTime: 2021-07-21T18:15:00Z
+    webUrl: "https://www.chron.com/news/article/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329902.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329902.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-moves-to-block-Trump-allies-from-Jan-6-16329902.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
+    excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."
+    publishedDateTime: 2021-07-21T18:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-21/pelosi-moves-to-block-trump-allies-from-jan-6-committee"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "iNIvS4fZgJL3H9YcoZmz5sGGNt0JQbuiyLGXxLc/0ISZnSWvhHsJnU0Wd9x90+/nS/fKzoHtvMbrivRW4+sMizKWAHopXDlq491/pBeIsbawW4BuyVs9+T3rxzuvpwQ0vvHnsPqyX3NzzRqQJxC47kGQiAAiMlZuL6dPfTqYBqt6lB5ZVKBcyJQQFay+RIMWIctnTyO914iYG7TyErNgxC73q2vrVHvDh7pyie3Ae6gFSkf/40jxYXClJzDGPUd2BNb09go85ivJuLXgNc6bxxXsfM8T23U1ic2Ah/JrvoZH8jL/GkZth5oBR7/iEWOekPjRICA1V2MgGJX/mKJUCy0Zh1zSvVeQNrAqW+Fk/vHQyzurw6OEjLJPXUUf7vEWuP3kZEInoWHir3ynxjLZ2GeqkZsRds2vxD0yjuG9IxJ1Li3TuecVYaZZemzIhr9DQc7DZeKlnP+qXhuNqa4KbAYPk2SvkkZzuOvl8lIaPdZ6OXCYFOxiRaK5DW5belr9mYy7pX44GgT/xJ0Za8XJvA==;J3vhKHb+b1GJ2ACmS0sh4Q=="
 ---

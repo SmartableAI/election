@@ -2,6 +2,62 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-05-27-fired-conservative-radio-host-ive-lost-everything-for-being-anti-trump.md",
+      "title": "Fired conservative radio host: I've lost everything for being anti-Trump",
+      "excerpt": "Joe Walsh, a former Republican congressman who primaried Donald Trump in the 2020 election, says he was fired from Conservative radio group GAB Radio Network because he is an outspoken critic of the former President. CNN has reached out to GAB Radio Network for comment and has not heard back.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL7psR7DjaQ/joe-walsh-radio-show-canceled-anti-trump-sot-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL7psR7DjaQ/joe-walsh-radio-show-canceled-anti-trump-sot-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527101248-joe-walsh-screengrab-from-tv-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2021/05/27/joe-walsh-radio-show-canceled-anti-trump-sot-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/05/27/joe-walsh-radio-show-canceled-anti-trump-sot-newday-vpx.cnn",
+      "publishedDateTime": "2021-05-27T07:14:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-paul-ryan-to-enter-gops-civil-war-by-criticizing-trumps-hold-on-party.md",
       "title": "Paul Ryan to enter GOP's civil war by criticizing Trump's hold on party",
       "excerpt": "Former House Speaker Paul Ryan is set to criticize former President Donald Trump and his hold on the Republican Party during a speech Thursday night, according to excerpts obtained by CNN.\n    \n",
@@ -1298,62 +1354,6 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ethiopias-amhara-ethnic-group-accuses-biden-of-ignoring-atrocities.md",
-      "title": "Ethiopia’s Amhara ethnic group accuses Biden of ignoring atrocities",
-      "excerpt": "Eskedar Getaneh stepped out of his house on April 12 to screams from surrounding neighbors in the village of Arkumbi Kebele in the Oromo region of ethnically divided Ethiopia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/04/05/720/405/694940094001_6022932602001_6022923598001-vs.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
-      "publishedDateTime": "2021-05-25T10:58:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

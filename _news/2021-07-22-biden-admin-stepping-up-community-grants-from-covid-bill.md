@@ -2,11 +2,11 @@
 category: news
 title: "Biden admin stepping up community grants from COVID bill"
 excerpt: "President Joe Biden’s administration says it is making $3 billion in economic development grants available to communities — a tenfold increase in the program paid for by this year’s COVID-19 relief bi"
-publishedDateTime: 2021-07-22T04:22:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+publishedDateTime: 2021-07-22T07:00:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-admin-stepping-community-grants-covid-bill-78983138"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-admin-stepping-community-grants-covid-bill-78983138"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-admin-stepping-community-grants-covid-bill-78983138"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-admin-stepping-community-grants-covid-bill-78983138"
 type: article
 quality: 125
 heat: -1
@@ -122,6 +122,6 @@ related:
         height: 433
         isCached: true
 
-secured: "pjYY7LwluIOo9sJhUuuKIvZ0qqRu/2OHykUxXkDFbHHpWOeMO42WJcyAR/R63fZ5kJkanAUhis+K+QbSNMePjXZ5xG/XWHbns0I/F+VdiCu3sVCMOGtfEPJFHCafoq4X0a8j+f3flzN3wHPaVvdvE+5U8SOaUMnmwrk0vDjRpHfRWRg8UAmKd3wfC91SfGZB3QT/UarwkN7aG6I5F9WBJK3TK+ucPdtKnJopGdpcSIo+zkjZDcQ26LdIs7vx4a+B8ObhQrwxMfPc0+JKtBWmG/L0gVhNfiLePAY08/5oGlP8YsZeOjuOMt7jJDpocLQcd8BulnngbwiCYjVz7dlyfq71O7A7yG/XgLek9LU5bNI=;6XhUP6jTDNRKrO2dcgq5PQ=="
+secured: "DJmabkviG8C88S7zBaCQElvVAf+y2V4pKlS+I96po/4g0LSNxL5HlUdDqFdWf5GGPe6f9WCb2aJILVztlYUCIwMQHJIMOpxKgiXyroGVPpfp9hm8dfJhOOAe+xiRN3s9BgBCnJpe/cxRpnnpqgmx7b/2L+o0x5KmNUiEDw5Kkop1bK6DPDGLr+b4fvp/07ddwcYYESfdCPQ4Ig7IWt7Qm5bveGCpJsdfFKagmUz9h9mviw+36b5QaLlOcsjnDcMYptxP7cmj2Gt5IqsOk5JOAGLOeMLDSnFtYO/tFl2436b7ZW1gigFDrMWH4LLIZ7xys2ijCX94HYH9KLXA4V9rn4Bo0tixlWT8Fgz7IAoKxwA=;TcojMbdlrdR0rVJQmhD1Aw=="
 ---
 
