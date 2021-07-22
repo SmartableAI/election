@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
@@ -264,6 +264,20 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?d=20210614&i=OVEHDPA73&r=OVEHDPA73&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "GOP nixes debate on Biden's infrastructure plans"
+    excerpt: "Politics GOP nixes debate on Biden's infrastructure plans. Posted . U.S. Senate Republicans blocked a move to open debate on Wednesday on a $1.2 trillion bipartisan infrastructure"
+    publishedDateTime: 2021-07-22T00:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/gop-nixes-debate-on-bidens-infrastructur-idOVEMSHH3Z?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210722&i=OVEMSHH3Z&r=OVEMSHH3Z&t=2"
         width: 960
         height: 540
         isCached: true

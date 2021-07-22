@@ -73,22 +73,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "AP FACT CHECK: Biden inflates jobs impact from his policies"
-    excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office WASHINGTON -- President Joe Biden on Wednesday inflated the impact of his ..."
-    publishedDateTime: 2021-07-22T01:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_855cbb11eae14c3da7ec975e08a8eae7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Fact check: Post detailing COVID deaths under Biden ignores improving trend"
     excerpt: "A Facebook post claims more than 176,000 people died from COVID-19 in the United States since President Joe Biden took office on Jan. 20. The image of Biden masked up with his thumbs up, shared April 28,"
     publishedDateTime: 2021-05-01T01:56:00Z
@@ -150,6 +134,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6014770-4aa7-49ad-9479-12453c56a5cf_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AP FACT CHECK: Biden inflates jobs impact from his policies"
+    excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office"
+    publishedDateTime: 2021-07-22T01:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-inflates-jobs-impact-from-his-policies/2021/07/21/d734cf4e-ea8a-11eb-a2ba-3be31d349258_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MV7L4LXKREI6XIV2HPRR2NESLA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Joe Biden: time for corporations and richest Americans to 'start paying their fair share' – video"
     excerpt: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes"

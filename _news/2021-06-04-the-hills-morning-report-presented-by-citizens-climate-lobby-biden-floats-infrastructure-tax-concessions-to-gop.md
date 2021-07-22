@@ -283,6 +283,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "GOP nixes debate on Biden's infrastructure plans"
+    excerpt: "Politics GOP nixes debate on Biden's infrastructure plans. Posted . U.S. Senate Republicans blocked a move to open debate on Wednesday on a $1.2 trillion bipartisan infrastructure"
+    publishedDateTime: 2021-07-22T00:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/gop-nixes-debate-on-bidens-infrastructur-idOVEMSHH3Z?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210722&i=OVEMSHH3Z&r=OVEMSHH3Z&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Will Joe Biden Stand Up for a Free Press?"
     excerpt: "As Russia tries to expel Radio Free Europe/Radio Liberty, the president must show that he’ll protect media rights in ways his predecessor didn’t."
     publishedDateTime: 2021-06-15T11:24:00Z

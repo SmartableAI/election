@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden admin stepping up community grants from COVID bill"
+    excerpt: "President Joe Biden’s administration says it is making $3 billion in economic development grants available to communities — a tenfold increase in the program paid for by this year’s COVID-19 relief bi"
+    publishedDateTime: 2021-07-22T04:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_04484eac6e6c45f8b6675e1937c8fada_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden praises child tax credit payments as ‘historic’ step to end child poverty – live"
     excerpt: "Biden says – follow all the latest politics news"
     publishedDateTime: 2021-07-15T19:21:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://www.reuters.com/resizer/y5He3Hpeccj9uPqCfW8BphaheVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HVLUSZ6UWZI2BDO3L33JXFQCTQ.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "3 takeaways from President Joe Biden's CNN town hall"
+    excerpt: "President Joe Biden took questions from Ohioans on Wednesday at a CNN town hall, touching on his administration response to Covid-19, his work with Congress and many other issues."
+    publishedDateTime: 2021-07-22T01:23:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/3-takeaways-from-president-joe-bidens-cnn-town-hall/article_24dfe05e-ba7e-5b1e-87f1-285fcfaed4ae.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/be1cb458-881b-11eb-872f-4f6e66986b9a.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Marine One takes off from the South Lawn with President Joe Biden"
     excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"

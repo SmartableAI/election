@@ -1,22 +1,20 @@
 ---
 category: news
 title: "AP FACT CHECK: Biden inflates jobs impact from his policies"
-excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office WASHINGTON -- President Joe Biden on Wednesday inflated the impact of his ..."
-publishedDateTime: 2021-07-22T01:57:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-inflates-jobs-impact-policies-78981037"
+excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office"
+publishedDateTime: 2021-07-22T01:19:00Z
+originalUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-inflates-jobs-impact-from-his-policies/2021/07/21/d734cf4e-ea8a-11eb-a2ba-3be31d349258_story.html"
+webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-inflates-jobs-impact-from-his-policies/2021/07/21/d734cf4e-ea8a-11eb-a2ba-3be31d349258_story.html"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_855cbb11eae14c3da7ec975e08a8eae7_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MV7L4LXKREI6XIV2HPRR2NESLA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -206,6 +204,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "m+Ge61d8lrfV02NvPvuxupTvg2NNBDxBDAw9sJeo/MPk0IBo3vat2UIky8wrwTOQ/KOKGy6lNpusIYbqD18K+221AUTktGBPaRBuU92kYXSR6nw1X/gQJsVmzM3bmMr/Ud+0gqfjSqlBC6fBGA4lKRY0MKoL7SXoZroHLCk7sWttAsZsj7/coz+bJU6EwxjrWWZMzfOG6YDI+UUMMMHyWPrr/dWBtjVnbhei0/Jr4evtlDoensiZJLdF1KMMzEhcOfN5//p0r0GFl8c/dDJA5mUslAwo6q0U1LfphMT8IzLJpAuhlCyjST80zZSee7JGiSdCVJwZkkAeo3HJ+SRFMlPgLHIsoRlfWlj3U6fNDCk=;l9B5MSYS7bHJfuWDFXDgWw=="
+secured: "Yoqt0PVktc5ZeLDg74+ctOyjuxYiQfLW1S7Bvtq6pZBoriOH79E40U8azLcLtYWJm5/WbKCBBT+6JH4Ftv/nTJGs1MFl2uwl045IKpdmkAAPcSPR7ULW6EerHgiYNRwnLudAvvIZBZsFTfYsXJlniw3HdmRu4+zJ4ISJ8iUE2gTv1Ln6v7fPVJEcLHxqQud7ZB7x1NdJVZpA9uf56WlTAe1/c0o5PpQyhsiH1y0XXiVVTflX6xfGcOZZ4wR9aAvMP+umDuPJFs50abbwSZtp2BVERGzTLbmwZcMvA7eKZP5JiC8eg5DR9SnYsYDnEaD/ATz1nSVQNJ6OW7FfAajtmdmC/JQUROzQTNr+klCvdEM=;kVhco0kPSm8nbU5JISZs8A=="
 ---
 

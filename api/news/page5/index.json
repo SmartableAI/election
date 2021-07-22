@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-15-poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls.md",
+      "title": "Poll: Without Trump in the race, DeSantis dominates 2024 GOP White House hopefuls",
+      "excerpt": "Donald Trump remains the king of the GOP. Florida Gov. Ron DeSantis is looking like the crown prince. For months, DeSantis’ stature has been expanding within the party, marked by growing buzz among grassroots activists and GOP consultants who admire the pugilistic style of politics he wields against progressives and the media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/aa/ab/9503fd984efb9e26be00ba54c31e/ap21148637808493-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-10-things-in-politics-kamala-harris-toxic-work-culture.md",
       "title": "10 Things in Politics: Kamala Harris' toxic work culture",
       "excerpt": "And Republicans are getting antsy about infrastructure.",
@@ -1298,49 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-donald-trump-lawyer-jenna-ellis-leaves-gop-official-called-her-election-claims-a-joke.md",
-      "title": "Donald Trump lawyer Jenna Ellis leaves GOP; official called her election claims 'a joke'",
-      "excerpt": "In a November email, a GOP attorney said Ellis and fellow Trump attorney Rudy Giuliani were pushing conspiracy theories about the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/09/USAT/fd3632b9-16e8-4d9a-aa74-eb98e1801514-AFP_AFP_8WQ7WV.jpg?auto=webp&crop=5328,2997,x0,y303&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/7948904002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7948904002",
-      "publishedDateTime": "2021-07-13T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

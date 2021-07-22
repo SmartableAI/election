@@ -54,6 +54,22 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 55
+  - title: "How did people get invited to Joe Biden's town hall? 'It wasn't a whole lot of the usual political insider crowd.'"
+    excerpt: "If you didn't get an invite from CNN, you had to watch President Joe Biden's town hall on television. Students, teachers, business owners and a few local politicians were among the few hundred allowed into the auditorium at Mount St. Joseph University in ..."
+    publishedDateTime: 2021-07-22T03:32:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/07/21/joe-biden-town-hall-who-got-invited-cnn/8049999002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/8049999002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8049999002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/22/PCIN/ab2b9d63-c338-4b14-85c5-f83a53752a04-AP21203035418509.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Visiting the Walt Disney World soon? You may see President Joe Biden’s twin on stage"
     excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
     publishedDateTime: 2021-07-21T10:31:00Z

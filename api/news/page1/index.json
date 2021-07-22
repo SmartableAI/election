@@ -338,6 +338,63 @@
       ]
     },
     {
+      "path": "_news/2021-07-22-pelosi-bars-trump-loyalists-from-jan-6-inquiry-prompting-a-gop-boycott.md",
+      "title": "Pelosi Bars Trump Loyalists From Jan. 6 Inquiry, Prompting a G.O.P. Boycott",
+      "excerpt": "Democrats said Representatives Jim Banks and Jim Jordan, who amplified Donald J. Trump’s lies of a stolen election and opposed investigating the assault, could not be trusted to scrutinize it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/21/us/politics/21dc-riot-republicans1/21dc-riot-republicans1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.amp.html",
+      "publishedDateTime": "2021-07-21T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-biden-to-nominate-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.md",
       "title": "Biden to nominate widow of late Sen. Ted Kennedy as ambassador to Austria",
       "excerpt": "President Joe Biden is nominating the widow of late Democratic Sen. Edward M. Kennedy to serve as the United States Ambassador to Austria.",
@@ -933,7 +990,7 @@
       "originalUrl": "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1297,62 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-george-p-bush-warns-border-crisis-is-not-sustainable-as-he-sues-biden-over-wall-hits-dems-for-fleeing.md",
-      "title": "George P. Bush warns border crisis is 'not sustainable' as he sues Biden over wall, hits Dems for fleeing",
-      "excerpt": "Texas Land Commissioner George P. Bush on Tuesday warned that the border crisis is \"not sustainable\" as he explained how his office came to sue the Biden administration over its ending of wall construction, while also tearing into Texas Democrats for fleeing the state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PAMR0dX7NQo/george-p-bush-border-crisis-not-sustainable-sues-biden-wall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PAMR0dX7NQo/george-p-bush-border-crisis-not-sustainable-sues-biden-wall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b6c4848-495d-4483-990a-c911a7ba2df5/5f4e50f7-43e0-43d0-9d4c-aaacca14b9c9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp",
-      "publishedDateTime": "2021-07-20T14:10:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
