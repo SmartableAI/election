@@ -916,6 +916,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
+    excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
+    publishedDateTime: 2021-07-23T02:15:00Z
+    webUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790"
+    ampWebUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Agents Inside Trump's Infamous COVID-19 Limo Ride Already Had Virus: Book"
     excerpt: "The Secret Service agents who accompanied former President Donald Trump in his infamous drive-by in 2020 had previously been diagnosed with COVID-19, a new book has revealed. The new book written by Wall Street Journal reporter Michael Bender and titled “ Frankly We Did Win This Election ” revealed that the Secret Service agents who accompanied Trump in the surprise limo ride already had some immunity after recovering from a previous coronavirus infection."
     publishedDateTime: 2021-07-21T02:51:00Z

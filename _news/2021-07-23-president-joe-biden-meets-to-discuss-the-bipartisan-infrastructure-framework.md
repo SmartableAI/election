@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
 excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
 publishedDateTime: 2021-07-22T23:00:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c67fa916d38f3281b273e8b3793730ac/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c67fa916d38f3281b273e8b3793730ac/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c67fa916d38f3281b273e8b3793730ac/BIDEN-INFRUSTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -160,6 +160,6 @@ related:
         height: 433
         isCached: true
 
-secured: "9uQDL+kmhZn3ZaVNw7rxaLwWFrCBCjSmJGZViUdlXqIWBICc2E4memwEBqb9um6UAavkjFv+GWluN/jiihlI/OJjZ+Yuh8CwfCMRmw7u1TVXTv80QaBmse154iIjcus4elhzpjq4MkZCLxzROX+RqbbdShdPVFfhcqb4z6Ve/66JxZGzItEBJpXb8UMQ+oNZi9awXSO6ZpEldoTUF2ozbNEdkt6D6NQZGTxbLY0IIQI53hXA7e5PHLpHS72Azs/SlVgodQC48WW+PT1tXhFwOQZYiDAjo9GgGI84qey+O6xH8qGuejNdVSt7i61hIyCskVGgIgS8jYPa2EV1ATMx4Qy6bQODdUoBOWlvCEcw3N4=;MpeT4KOmbKxlOlyWB7iZgg=="
+secured: "ke8QIzplRa1zmwTvr1zCqr5PoQOLe7SjcbGKpqfEdiI8fpbP6aeT+xdTvdp+I3ZzSGavV3Kx1KUPZFdLoMA6m7C901Z7P4oTdnCjZPiYS2J/zpLqR2X5G5Cd26SUaa5gq4HwY/Uhzg6azlVWTdKzha/6h/5CnS5O9DlRljFYGigkRnvKnbqLbrtqdz2RbF5m2BDolllzCK/6flWg3NWsPU7KvC01CXZY8ZLsTnPuZw6HB9vKIPpQ7diQzLsVwJ0J8Kl7MabZ5whHbxyGYxqFmBpVn/xdPIYZmQaKIjdb5rGtoIIhpQ9QAiq5vsm+s99kzMj1KNBB7r54GcUVPt/QTjno74QxUMsRud4Fsk8yeNw=;00q/ZhZikO9mKSTcliVrMA=="
 ---
 

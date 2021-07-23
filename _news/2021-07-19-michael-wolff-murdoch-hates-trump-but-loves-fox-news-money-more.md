@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolf
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 98
+    images:
+      - url: "https://i.insider.com/60f9c7d7fc253600181feac2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Melania Trump didn't think Donald Trump would win in 2016, former lawyer Michael Cohen told Insider"
+    excerpt: "The former first lady is viewed as one of Donald Trump's most influential advisors, rivaled only by the influence of Ivanka and son-in-law Jared Kushner."
+    publishedDateTime: 2021-07-22T14:35:00Z
+    webUrl: "https://www.businessinsider.com/melania-trump-didnt-think-donald-trump-would-win-in-2016-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
     images:
       - url: "https://i.insider.com/60f9c7d7fc253600181feac2?width=1200&format=jpeg"
         width: 1200

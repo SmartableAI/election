@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Melania Trump didn't think Donald Trump would win in 2016, Michael Cohen told Insider"
-excerpt: "Inside Trumpworld, the former first lady is viewed as one of Donald Trump's most influential advisors, rivaled only by the influence of his daughter Ivanka Trump and son-in-law Jared Kushner."
-publishedDateTime: 2021-07-22T20:12:00Z
+title: "Melania Trump didn't think Donald Trump would win in 2016, former lawyer Michael Cohen told Insider"
+excerpt: "The former first lady is viewed as one of Donald Trump's most influential advisors, rivaled only by the influence of Ivanka and son-in-law Jared Kushner."
+publishedDateTime: 2021-07-22T14:35:00Z
 originalUrl: "https://www.businessinsider.com/melania-trump-didnt-think-donald-trump-would-win-in-2016-2021-7"
 webUrl: "https://www.businessinsider.com/melania-trump-didnt-think-donald-trump-would-win-in-2016-2021-7"
 type: article
-quality: 98
+quality: 91
 heat: -1
 published: false
 
@@ -91,15 +91,15 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Melania Trump didn't think Donald Trump would win in 2016, former lawyer Michael Cohen told Insider"
-    excerpt: "The former first lady is viewed as one of Donald Trump's most influential advisors, rivaled only by the influence of Ivanka and son-in-law Jared Kushner."
-    publishedDateTime: 2021-07-22T14:35:00Z
+  - title: "Melania Trump didn't think Donald Trump would win in 2016, Michael Cohen told Insider"
+    excerpt: "Inside Trumpworld, the former first lady is viewed as one of Donald Trump's most influential advisors, rivaled only by the influence of his daughter Ivanka Trump and son-in-law Jared Kushner."
+    publishedDateTime: 2021-07-22T20:12:00Z
     webUrl: "https://www.businessinsider.com/melania-trump-didnt-think-donald-trump-would-win-in-2016-2021-7"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 91
+    quality: 98
     images:
       - url: "https://i.insider.com/60f9c7d7fc253600181feac2?width=1200&format=jpeg"
         width: 1200
@@ -122,6 +122,6 @@ related:
         height: 396
         isCached: true
 
-secured: "T8Oj4pwKzpVJy7egeOvzaARjAHlht3R+7Z471eNPOSqrVrZwqlX6xVOilCTElKj7nGLvajlnykSNFNmTZ3cqM5rPIvabVw7b4+ZfWW4Qooyv38UUi/mehQlQS01DLDD353bya3KTZzIgy34j+O2t6/dZnxx8rOrmGYCyEibtFhjvwjMdGyBTZT3nFgniG1xTa927ic2TCCJAapgOSX3dTCP4XsvT54rTMMClpRQm3nu6TD6XlIdRFQ1Fj25wtae8CZ9MPWDTUjtgWT2BrzcDRvWGBcHJwJCenXFBOtrHoZ8DN+lDhOCDsJGfEGLeg+I/+RaTaA4Eb1NJrDUBwy2zeY5570iH2vD1lzwrifteeJ//rjnA85R4Ae4KayoJrJ0QlbjEabXDcVKH9lWfcoIOB6EYJfsfrln1waXxrkRAvcZ07/UIiWsX4jFC7EM5oQpbQZDMTRHFoNbP6Y52DDBoSs586+6DUx3Madc60nMkHsWoEIFmJcUuTrV8G8ZkSaMbhv3tU4AiIGlRvF33zcOqBw==;LZnvAnAv1TKbwQidEMoDvA=="
+secured: "JzxPl4l+0DrosZ43dH6PpgBcPjKHKvbXeo93Tq/dXSDMVwbWkUImP7CXuZCxLSSVs9TAmcQaZi/uVClj/URnN6dCH/BwXQIcu+30Qwr1qmeP2KL/lFj3lOQu3AancKYo/EQRAFa+vnmGjo16AnJwQzSTKwfVGMsiyvkUGaTRSlcdZxPYSpyooU2pQaapnZmaqXvX0rsWLm8Sd8nu7R+09yfEZJ26/HgrPLmLoKkxEWVOdKwqFD8VnRZBFVcjm+FUx5W+4PEky7sgQR2Q6XN/ky1VzWsr3q2tpfirlkGZ7v+MKtfw1SRnDjN6Nu8Ctor5Gr8qvvu5ZRDEN71mXYQSVNXyY3v4aSzx7xykHzk1ADg=;/sxgsxAkCceX02R1UsA3rg=="
 ---
 

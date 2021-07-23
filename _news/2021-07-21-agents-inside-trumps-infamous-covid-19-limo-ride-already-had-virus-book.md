@@ -918,6 +918,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
+    excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
+    publishedDateTime: 2021-07-23T02:15:00Z
+    webUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790"
+    ampWebUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
     excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."
     publishedDateTime: 2021-07-09T19:21:00Z

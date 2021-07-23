@@ -75,15 +75,15 @@ related:
         isCached: true
   - title: "VP Kamala Harris meets with DACA recipients"
     excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-22T21:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210722213322-vp-kamala-harris-meets-with-daca-recipients/"
+    publishedDateTime: 2021-07-23T04:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210723043215-vp-kamala-harris-meets-with-daca-recipients/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/22/story_11430733_1626989764.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11434562_1627014904.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -268,6 +268,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UtCR6OPoqGcNYJ+9FFYXHzYjA0SgNy4dq0hJxvPoUa0VJ6iwv45XkXGav6e0rk9kZmAXCGfCpraVYQU/uDxLoSb/d8G3g+XSBdkY9v41NYZ1xZbXP/VjJWbW3Bl9tbDxOBMpMQOZoD3GrhVQE2gCzKXm5/iCMSQ9mIg9ddcvyIMZsc1ZcS//CASBYIIdSgkHvPdbGWY7dXM62LdCzItjFg5/DbXGfM3gp1fS6VhMAUdb2w4U8hmgY3ekjy2pQ5kLUmGk2C2jBkGN8rVFlRvqWddcXnN6b7VqLXObpzJwT2OAk3zJ6TUF5NjWVXZ5zMtffPPYz0/TRlvZxscMvQV5J12A4Advq5M1WDO5nfLtR/E=;QRmr/bcNQfjJJp29BzZMUA=="
+secured: "U+AKJp8zXK8ZGDVvLPke50Wt1GsWEoR3U2ocaHFNOwbu/E3eWsazC82/A9uCrTgjPjG9CotcpEuHALg+H+plDt6W24MCIxHD7IkYCTeWcmbw7yJLvHdXRhtY9DLs8Sore3uygRZNrErl7IcsIsUcOsr/UcagG72igTzTq6JgewxZbOwFDgyaxeADmpJm3ddidIGbHtrEGVWFEdtez9BSndga3fyUwBRrVd4jbKR2lYVdm8MIiTLH9fgYQm8UCXqTOTjB7B0vu9OmqyBVAE0HY8L3KvEBsKE1b9/aS6P8lwe6xBNMH7iIqOsDjtBispVVHrN4S/q9Yt3qxJiEb/JROEc05NOG0n/ofrkOL7Et/gjQh/H9hWZe7QEGDjd7Bjx/IhcUYY4Uql0ZfC667Vp8m3PMuZObbZShwj0pbNMxr53BfCxyP0LLjLQs9lqpzCzPaEuZkdn8Y1JjwWG0CPnsXsz27TXNGJODmaRyPgEr3lNrP15AC5DeBIv3MJ+JR2fFv5s6BJmOoen4Dbwh40ew+w==;T0Avl21aNUtMojO9HOilog=="
 ---
 

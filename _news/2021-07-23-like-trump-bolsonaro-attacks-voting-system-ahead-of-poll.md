@@ -916,6 +916,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
+    excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
+    publishedDateTime: 2021-07-23T02:15:00Z
+    webUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790"
+    ampWebUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Agents Inside Trump's Infamous COVID-19 Limo Ride Already Had Virus: Book"
     excerpt: "The Secret Service agents who accompanied former President Donald Trump in his infamous drive-by in 2020 had previously been diagnosed with COVID-19, a new book has revealed. The new book written by Wall Street Journal reporter Michael Bender and titled “ Frankly We Did Win This Election ” revealed that the Secret Service agents who accompanied Trump in the surprise limo ride already had some immunity after recovering from a previous coronavirus infection."
     publishedDateTime: 2021-07-21T02:51:00Z
@@ -1059,6 +1075,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Xxxb80WLNOEr2kYo7R7MnZ6ov6nBrBIbtq1pQshVJ1dR60SPMhV8UKYV0SZUEsGFQHc02hz1+fqxxI6nIf8b5LHChr3p9T5bdBBiKYbgvz4Di2eugNFBXq4ty988RiPnPaK1ogOgaeaOkHk8WNnz2OzBvzUMqaAbmh1EmvSHBhZIyuuNznoAG2wFg9JzzipX3lr0Me97TIuIR8Y8kPd7bdegW6lmINYPRclMxmBziR1LUAz1PIFQ4qqfZw0YOPQ9zQCWaDE3V6uOiUgwD0WWknmi3h5gZQpwH02Eb9M4vDVfq2Yi7BSc6jAWiOVba56WvpPqrS95ZjWOz3Z72DTX7qV8OMJI7DznCFz6f90g78U=;U/3xGaCnp7tTRq3WJ8u4/w=="
+secured: "GhOOwH8NLdaK6XnjWBeZTqTMmZyUmSeqzQFzLe7kx0GN437iYyxg6aHJgwGjkEsJkO8AxG7LyNQfK03sY6YtZF2Fy6VQdklTNK1cWBLI5DSY743KC/8AVwentqcvbhT/QwkUNTwduHudndR6TdENrMj2/9iI+/t27YRK2s8HDTUxZXGog05DLjn6fE13rtuE9sQYeitio+ThaN43xCuHi2OADHaOSRLVyif3iHHuick16o0znmm7VPE4g7FQ2LhyD+yh34AC8VGiEZso6je8Uo5YUgs9qDu8iBYcsckfcaf4nqDVUpgo+4nhJ5W4CtmRMliJdMFwIu0gFu0g5E4M28DChvSGYSATbtMxVDncBEmzlqD7lfOncfAmSbBX9fReYgWRRV0CHQ3oBeBzOARX6o7F4vsDx5rCPTn2qCNYPTG0TFDX3eKzt6mGmMxcAgZSyYr14Ru+x+aH+QzBxSZavsxS3aftgJUjPskVgio9CfHdl+82+BFpzhu3A1fLYdOOCHNblHCk3O0Yq/aP/ATrDQ==;GB69fbpZWxHW26ElvEXUNg=="
 ---
 

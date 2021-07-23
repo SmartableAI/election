@@ -1,22 +1,22 @@
 ---
 category: news
-title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
-excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
-publishedDateTime: 2021-07-16T02:28:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2EL2LS"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2EL2LS"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL2LS"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL2LS"
+title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
+excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
+publishedDateTime: 2021-07-23T02:15:00Z
+originalUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790"
+webUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790"
+ampWebUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1569007152&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E17W"
-    width: 678
-    height: 545
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -172,6 +172,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_trumpcovidrisk_090220getty_3.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "I wouldn't 'do a coup' with Milley, Trump says of top U.S. general"
+    excerpt: "Former President Donald Trump on Thursday slammed the top U.S. general he had appointed after allegations in a new book that senior uniformed military leaders were deeply concerned about the potential for a coup after the November election and had discussed a plan to resign."
+    publishedDateTime: 2021-07-16T02:28:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2EL2LS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL2LS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL2LS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1569007152&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E17W"
+        width: 678
+        height: 545
         isCached: true
   - title: "'If I was going to do a coup' becomes viral Trump punchline"
     excerpt: "Former President Trump’s line in a press statement about how if he was going to do a coup it would not be with Gen. Mark Milley has quickly become a viral punchline."
@@ -902,22 +918,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
-    excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
-    publishedDateTime: 2021-07-23T02:15:00Z
-    webUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790"
-    ampWebUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Agents Inside Trump's Infamous COVID-19 Limo Ride Already Had Virus: Book"
     excerpt: "The Secret Service agents who accompanied former President Donald Trump in his infamous drive-by in 2020 had previously been diagnosed with COVID-19, a new book has revealed. The new book written by Wall Street Journal reporter Michael Bender and titled “ Frankly We Did Win This Election ” revealed that the Secret Service agents who accompanied Trump in the surprise limo ride already had some immunity after recovering from a previous coronavirus infection."
     publishedDateTime: 2021-07-21T02:51:00Z
@@ -1075,6 +1075,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "a/yMBMUxaPY41p8PV9JdScvfpAX4InkvlR0ndidOrG0mco1D8fU3EWsIovqaPXs7CrmDu8jhz3pKgOQrSLn9ljLNWXl9/acKwOb/adjilcfyYeD53oplt0GK8+uPu7mboklI9hbs/NZ3McYzMiL9wAfvpgGtmycF51/lxDOscnIesSWX44bAWaR/f7H4hytisJLlA8rmamuOiqf4iTRVoXvDHxK5+kWWUBDRikf1FdebhV9keM6OFzjL2ppaCrW9OpmT9+e7LAu/7ac6kxhjO9WmTOacls90GmKJa8i36eMhyFCnBNUVnmpnbCb5xLQh/KhQGtk6j4DdfY2QjJK5pzHe0ULpMBisqYou8fw9ZqU=;biCtm8MMMBMyKSj+zwTxNQ=="
+secured: "xYhug7zvn6VrsexyM8aZYYnEB+eJLvbbuMUts75L1qWkY58KKVQwCHTksoL+XdH6eavUsa1vt34cIEQy8no3r9/9PHWBUVjhMxDuezFN480FqJkb/RNs7aq4rEZBNTvgKGHKyQDX3FTi1J/TH4AV5NWfIiOU2pf7vrgPz6ZvbEVwWxhYqyDM/R67qEG9WMrAryDs3bqpbnv+OgEHHemL7bFiGA4YitOIcXOVLxK3aWfXT2uO3ARIyYd4kGewYbnNCKl04A1DPMSSlyoW5hgaFOHrma0ME/d7tJHUnNXzgWA4Vi4FDWApSUj1VpCyRCEDH69zqoNaTYPM4ShlhqpYi2WGVVmEhGdRq6UaYGzeBwo=;qxIMKde4O3Grjzs8UelKgg=="
 ---
 
