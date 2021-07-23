@@ -240,6 +240,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'We need our kids to breathe' — Biden sanctions Cuban regime. Is it enough? — Lawson backs Crist in governor's race"
+    excerpt: "While Florida stopped its daily reports on Covid-19 weeks ago, data maintained by federal health authorities show there were 12,647 new coronavirus cases on just Wednesday of this week. Surge — That’s the highest daily count since late January and,"
+    publishedDateTime: 2021-07-23T10:58:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/07/23/we-need-our-kids-to-breathe-biden-sanctions-cuban-regime-is-it-enough-lawson-backs-crist-in-governors-race-493704"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 93
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
+        isCached: true
 
 secured: "eIKFnk/3RxDi2+KQ5u9pRENM6SDigVhX7dfKovqlITnGUt9PswWYVy3ktYZIkr9pqXYCZQ9cSzIgFvEoIlHqJ0Rh1t7fDRnDL8s7VOts5ijITLzwTLtjM7ik3X24HaMDIzJpJr63R75IhFCKhvBqy6TKwkI8gxlSZoBISGiq99RybyiotgXoc0S/7KJ5bfjj/j1q18DmrL23Lz5wUF4o154GFN4ECsBA1BSGPeFyvbS8eFoxs1VF3n0+DGgnpL8CtBu63bhhoAHXLQt7aTjVghZo02AMauemgV7PUuMW4RFIQyOFGEVOAT3l6B6rS8oZ54BKAgN8oxBcKEX5Zp3rggM30C/pfonhNHHgC0kSF9E=;QY+w1ySmXaZV3j83/X9wDA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.dispatch.com/amp/8024834002"
 cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/8024834002"
 type: article
 quality: 75
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/4150a494-c606-4f1f-a857-0ac16d3e3b23/main/1280x720/1m2s16ms/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden town hall: Cincinnati surprise? Ice cream-loving president doesn't stop at Graeter's"
+    excerpt: "Other politicians and celebrities have stopped for a scoop while visiting the Queen City, including former President Bill Clinton and Ivanka Trump."
+    publishedDateTime: 2021-07-21T23:57:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/2021/07/21/president-joe-biden-graeters-ice-cream-cincinnati-visit/8049617002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/8049617002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8049617002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/21/PCIN/d53249a8-f496-4a2a-8701-055a28f5a2f8-MicrosoftTeams-image_3.png?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden to host Super Bowl champ Tampa Bay Buccaneers Tuesday"
     excerpt: "President Joe Biden will celebrate the Tampa Bay Buccaneers’ Super Bowl title when the team visits the White House on Tuesday."

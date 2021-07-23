@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -238,6 +238,20 @@ related:
       - url: "https://static.politico.com/05/5d/91a1f9cc4e34a64276681e9955fc/210721-protester-police-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "'We need our kids to breathe' — Biden sanctions Cuban regime. Is it enough? — Lawson backs Crist in governor's race"
+    excerpt: "While Florida stopped its daily reports on Covid-19 weeks ago, data maintained by federal health authorities show there were 12,647 new coronavirus cases on just Wednesday of this week. Surge — That’s the highest daily count since late January and,"
+    publishedDateTime: 2021-07-23T10:58:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/07/23/we-need-our-kids-to-breathe-biden-sanctions-cuban-regime-is-it-enough-lawson-backs-crist-in-governors-race-493704"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 93
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
         isCached: true
 
 secured: "dopeQLu5Tj5/OI7BvXCLtFQxWsVvs05fXz0CbOjRXYxa3iWB1Yfv0ItDU0kKcoGrHAjmx899ri+yJ0idNhK1myoX78SvOai0bnQVLOkNMswCWcDnTCPPGd3LNfsV0+PaqGYpxuPHGGkF8PN0q/XqH+8tp3A5cpIvusAcPc4M7IhqrcmhOCq2YmYoFw+jHQqoqMWl6ZXlD8jIHpk36zFIwaUX1eHGSsShDXRfZ4t1jqKKsSsf9XVGG5fpo5pWNwvogr2hsysDsXfc6gqk0v32LsDnrct1XSf993doFVGYmBhxoeNPKEO16S6b0jAyCqeRvqDmr6XF3W5deH9AvdziaIUuEZ1EqNxJbwX8HkTv4dI=;Rjv1rmtZoYjYacdBU8nmrw=="

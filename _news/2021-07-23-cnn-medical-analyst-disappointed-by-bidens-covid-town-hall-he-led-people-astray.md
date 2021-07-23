@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Tucker: Biden has lost control of the southern border"
+    excerpt: "There's been a dramatic escalation recently, we need to tell you about in the Biden administration's longest and hardest fought war. That would be the war against what they're calling misinformation."
+    publishedDateTime: 2021-07-23T11:08:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b44540e-e2c4-4593-87db-56c3e9abcb73/c383023a-cafe-4988-9f9b-9457482e182f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "/J20gYrm1SLrcv7UXnNWQ4jkMpTkahFDlqAaXlAdwHeBt87TEMWQEU0C4QAthW4GtZtzBMYs9WqnOm/GwCZIFT0XBjcDQ77DVpd6kPcU+Kg8DQ7PNRQEw3xvryInBMBRTWxHionFcb+ZapdBxnkJ2Cbrf+CIdqu1jauWZqkUjiwfQCBvqtcnWr6AGBud80wvtHHf0itm2pLUKP/AsQfmC6X+ofFPs9QIVRKk76v8SWwvMaQqFDbKmEJtjI5tqIVTsh2SF6kUk1lZpOsuSonqeB0sPxB98vX6fCIgYHI6g/J0FrpuIfcyYgFCOLIhn8b7zxc8zXUQWBntcdN/6h/KjZjZ+XdeWlqHRcpXh2xfAX0=;84eLW01xl99Nvchqc12IZw=="
 ---

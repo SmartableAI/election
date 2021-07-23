@@ -3,22 +3,18 @@ category: news
 title: "'Fight hard Bobby, fight hard!' Former President Donald Trump extends well wishes to Bobby Bowden"
 excerpt: "The former president's statement was brief but supportive in the wake of Bobby Bowden's announcement of a terminal medical condition."
 publishedDateTime: 2021-07-22T16:10:00Z
-originalUrl: "https://www.usatoday.com/story/sports/college/fsu/football/2021/07/22/donald-trump-tells-bobby-bowden-fight-hard-supportive-statement/8055898002/"
-webUrl: "https://www.usatoday.com/story/sports/college/fsu/football/2021/07/22/donald-trump-tells-bobby-bowden-fight-hard-supportive-statement/8055898002/"
-ampWebUrl: "https://amp.usatoday.com/amp/8055898002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8055898002"
+originalUrl: "https://www.palmbeachpost.com/story/sports/college/fsu/football/2021/07/22/donald-trump-tells-bobby-bowden-fight-hard-supportive-statement/8055898002/"
+webUrl: "https://www.palmbeachpost.com/story/sports/college/fsu/football/2021/07/22/donald-trump-tells-bobby-bowden-fight-hard-supportive-statement/8055898002/"
+ampWebUrl: "https://amp.palmbeachpost.com/amp/8055898002"
+cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/8055898002"
 type: article
-quality: 112
-heat: 112
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Palm Beach Post
+  domain: palmbeachpost.com
 
 topics:
   - Election
@@ -30,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "nEmApZP05BmlgpBo4RV3JYvqBOiUHdrIXbdEPLK/YUgMS8wmYL2zbicYyPNcmwjnMGpzFmBHf4CtDswI8upUPNOd94TKOBjmCW/zUGo5rzGUXWJ/io/M0MOk3WcKr2zDdoPxMv35xZLmW8sVfeBNkRrjpXCqYl9NH9ehjnBuevhqA5bigyG6bfxp/6NLxfySxtZQup8IrjSh7BTPWpyraHsPvJnkyJMU7iWfnSXs7/qVyfj0TPn+btcl3WS+trYqLRuC/Nuutf1gH/PCv5Ey+To9KHfisrfvmxtERwrkp+DDepkScAQIXwPEax2aycRjnIZNKjhGHSfDYuMlg9fVnZaQYfysc3C2dphIMoBlKuLxE9tsCST+iusKRCRcO4UhsJUnHzgrZx0HkC6L2bWr8/3j6xr/XKkgGwUxygt8VduPkg38fsA/38lPP580Q5N0M5ZNITHekL8JurTYD/Nq3CT/xHxL/ocgdEiH72pYi4wp+y0dGP96ftJwOvUgOa+MjUZGe7HNwnWBgk8pFw7gCA==;NhO1qDbcjczE4zAZq+RMIQ=="
+secured: "EERYWzVECuwemqKg9jDJ0m2wbq7UFHDjxJm5sg9LIF5G63ENjJHbj8xCQKdU60Uw6VizmQ9FE6tbjAZ1VI2kclPHomxOCr7eCaIcmIO/rBRhgXJ/nJ37WJFfUKgnr15wb/XB+9ozMyWS1bvAsVjYu8Ej/EAnkeEKiBvYB+LJl3/nKmVgB1vj3f+Y992toCUe/a8fLn70AzaXIM194UZgtmMqgMQ7pCom/ljImI/xshtBIl/OkvVyeQN1c9E1V98TD/1P8ZoechfUq+Qo9lAk3v0f/IQfVr4AqZDDdvdLm6iPJcf9uX2vAjUM+9kFNZfRh9BeQVnOc1ZUfD6Lk5XtV+TYGamacKOS/PgBJUw6jNM=;VcWaxCjldsL//diNhInZOw=="
 ---
 

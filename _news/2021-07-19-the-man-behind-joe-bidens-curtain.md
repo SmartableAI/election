@@ -310,6 +310,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Baleful Border Betrayal"
+    excerpt: "Is there anything the left won't blame on their fantastical scapegoat, climate change? Don't bet on it. Their latest dodge is blaming the border crisis,"
+    publishedDateTime: 2021-07-23T10:56:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/23/bidens_baleful_border_betrayal_146134.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/23/bidens_baleful_border_betrayal_146134.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/23/bidens_baleful_border_betrayal_146134.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/531554_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "The Real Reason Trump Keeps Telling the Big Lie"
     excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
     publishedDateTime: 2021-07-20T19:47:00Z

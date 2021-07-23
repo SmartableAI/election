@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-ignoring-judges-ord
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
 type: article
 quality: 188
-heat: 588
+heat: 608
 published: true
 
 provider:
@@ -296,6 +296,22 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/51/518687_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's Baleful Border Betrayal"
+    excerpt: "Is there anything the left won't blame on their fantastical scapegoat, climate change? Don't bet on it. Their latest dodge is blaming the border crisis,"
+    publishedDateTime: 2021-07-23T10:56:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/23/bidens_baleful_border_betrayal_146134.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/23/bidens_baleful_border_betrayal_146134.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/23/bidens_baleful_border_betrayal_146134.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/531554_5_.jpg"
         width: 750
         height: 500
         isCached: true

@@ -191,6 +191,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Universal masking calls reach Biden admin as delta fear, push for virus restrictions reach fever pitch"
+    excerpt: "Momentum appears to be building behind calls to bring back universal mask-wearing – even for those who are vaccinated – including reported discussions in the White House and at the CDC."
+    publishedDateTime: 2021-07-23T10:17:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QMHgls8Wvc/universal-masking-white-house-pandemic-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/universal-masking-white-house-pandemic-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/universal-masking-white-house-pandemic-restrictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Anti-critical race theory parent blasts Biden administration for promoting Abolitionist Teaching Network"
     excerpt: ""
     publishedDateTime: 2021-07-22T14:31:10Z

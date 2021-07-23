@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump loyalists echo false Arizona election fraud claims in hopes of winning midterms"
+    excerpt: "Oklahoma pastor Jackson Lahmeyer's quest to win a seat in the US Senate in his home state recently led him to the Phoenix coliseum that has become a beacon for the Trump faithful seeking to overturn the 2020 election.\n    \n"
+    publishedDateTime: 2021-07-23T11:25:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-cbXV21vhuc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/arizona-audit-politicians-invs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/arizona-audit-politicians-invs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507131521-maricopa-county-ballot-recount-0501-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "After embracing Trump's effort to overturn vote, GOP congressman wants to run Georgia's elections "
     excerpt: "Rep. Jody Hice says former President Donald Trump would've won the 2020 election in Georgia if it were \"fair.\" He says that Georgia Secretary of State Brad Raffensperger sent out 700,000 ballot applications to \"illegal voters,\" and that there's going to be \"some fraud mixed up in there.\"\n    \n"
     publishedDateTime: 2021-05-26T17:34:51Z

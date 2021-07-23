@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump loyalists echo false Arizona election fraud claims in hopes of winning midterms"
+    excerpt: "Oklahoma pastor Jackson Lahmeyer's quest to win a seat in the US Senate in his home state recently led him to the Phoenix coliseum that has become a beacon for the Trump faithful seeking to overturn the 2020 election.\n    \n"
+    publishedDateTime: 2021-07-23T11:25:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-cbXV21vhuc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/arizona-audit-politicians-invs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/arizona-audit-politicians-invs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507131521-maricopa-county-ballot-recount-0501-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Why GOP leaders are playing it smart when it comes to Trump"
     excerpt: "The House GOP's move to remove Rep. Liz Cheney from her leadership position is widely seen as the latest move to placate the base at the risk of alienating the center of the electorate. Cheney had voted to impeach former President Donald Trump and has continued her critiques of him while most other Republicans"
     publishedDateTime: 2021-05-15T16:24:24Z
