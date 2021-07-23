@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Biden sees U.S. child tax credit as 'giant step' to counter poverty"
-excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
-publishedDateTime: 2021-07-16T01:58:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV"
-webUrl: "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
+title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
+excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
+publishedDateTime: 2021-07-22T23:00:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c67fa916d38f3281b273e8b3793730ac/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c67fa916d38f3281b273e8b3793730ac/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
 type: article
-quality: 125
-heat: 305
-published: true
+quality: 52
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568977952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0XV"
-    width: 817
-    height: 545
+  - url: "https://cdnph.upi.com/pv/upi/c67fa916d38f3281b273e8b3793730ac/BIDEN-INFRUSTRUCTURE.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
+  - title: "Biden sees U.S. child tax credit as 'giant step' to counter poverty"
+    excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
+    publishedDateTime: 2021-07-16T01:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568977952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0XV"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden admin stepping up community grants from COVID bill"
     excerpt: "President Joe Biden’s administration says it is making $3 billion in economic development grants available to communities — a tenfold increase in the program paid for by this year’s COVID-19 relief bi"
     publishedDateTime: 2021-07-22T04:22:00Z
@@ -149,21 +159,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
-    excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
-    publishedDateTime: 2021-07-22T23:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c67fa916d38f3281b273e8b3793730ac/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 52
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/c67fa916d38f3281b273e8b3793730ac/BIDEN-INFRUSTRUCTURE.jpg"
-        width: 650
-        height: 433
-        isCached: true
 
-secured: "XnmuHD28pgC9JPdjNXernCxdSp8++YyLKs7x3FES5Z7GUEkX8hcrgGQqrrN9jE12Pkal+cU6zJ/2JrueTHHxgDko4M/eYMok4Czh+Gpegw7SHbdzfpGqXUFdRsNh9jRCfQABZXQ6VVE4q24Q90c5IMzJLXOWV6T671s6VvJETvdVfQ4G9oi9rg34pQ6FCPhQ86jTxXi9qdFjCtt97q/IFmuEAVEz+PFuz43BpaSFtkUXhyXbzMZsHHt3QAIVxc4/KCS0tb1dyQTU4+XLH+2fViraW2VoouhLTMrFpZ3BpG58uxUloEOZCg4Y9mnmTBSJ0JeaC82rpS8ZvWUUFPkdbQrT2cL8loefES9YzX+2Apg=;8vPNzX6o2a2MuniUO5mS0A=="
+secured: "9uQDL+kmhZn3ZaVNw7rxaLwWFrCBCjSmJGZViUdlXqIWBICc2E4memwEBqb9um6UAavkjFv+GWluN/jiihlI/OJjZ+Yuh8CwfCMRmw7u1TVXTv80QaBmse154iIjcus4elhzpjq4MkZCLxzROX+RqbbdShdPVFfhcqb4z6Ve/66JxZGzItEBJpXb8UMQ+oNZi9awXSO6ZpEldoTUF2ozbNEdkt6D6NQZGTxbLY0IIQI53hXA7e5PHLpHS72Azs/SlVgodQC48WW+PT1tXhFwOQZYiDAjo9GgGI84qey+O6xH8qGuejNdVSt7i61hIyCskVGgIgS8jYPa2EV1ATMx4Qy6bQODdUoBOWlvCEcw3N4=;MpeT4KOmbKxlOlyWB7iZgg=="
 ---
 

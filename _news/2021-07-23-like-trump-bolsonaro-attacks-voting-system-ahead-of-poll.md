@@ -1,20 +1,20 @@
 ---
 category: news
-title: "What McCarthy and Trump have said about their Jan. 6 call"
-excerpt: "Since the Capitol attack, House Minority Leader Kevin McCarthy (R-Calif.) and former president Donald Trump have expanded on what they said during their Jan. 6 phone call."
-publishedDateTime: 2021-07-12T20:27:00Z
-originalUrl: "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html"
-webUrl: "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html"
+title: "Like Trump, Bolsonaro Attacks Voting System Ahead Of Poll"
+excerpt: "President Jair Bolsonaro has ramped up his attacks on Brazil's long-established electronic voting system, suggesting he is bracing for defeat in elections next year -- and to fight back, analysts say."
+publishedDateTime: 2021-07-23T01:53:00Z
+originalUrl: "https://www.ibtimes.com/trump-bolsonaro-attacks-voting-system-ahead-poll-3257831"
+webUrl: "https://www.ibtimes.com/trump-bolsonaro-attacks-voting-system-ahead-poll-3257831"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-12-2021/t_8a57ad4063bf4b42b220e521c9d80fec_name_20210712_JAN6_CALL_V3.png&w=1080"
-    width: 1080
-    height: 608
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/22/people-in-brazil-cast-their-ballots-electronically-at.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -498,6 +498,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244632_1626079324.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "What McCarthy and Trump have said about their Jan. 6 call"
+    excerpt: "Since the Capitol attack, House Minority Leader Kevin McCarthy (R-Calif.) and former president Donald Trump have expanded on what they said during their Jan. 6 phone call."
+    publishedDateTime: 2021-07-12T20:27:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-12-2021/t_8a57ad4063bf4b42b220e521c9d80fec_name_20210712_JAN6_CALL_V3.png&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Fact Check-JFK Jr did not publish a 1999 Trump presidency prediction"
     excerpt: "Claims that John Fitzgerald Kennedy Jr. published a statement supporting a future Donald Trump presidency in a 1999 issue of George magazine are false. George was the now-defunct magazine published by the son of the 35th president of the United States,"
@@ -1012,20 +1026,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Like Trump, Bolsonaro Attacks Voting System Ahead Of Poll"
-    excerpt: "President Jair Bolsonaro has ramped up his attacks on Brazil's long-established electronic voting system, suggesting he is bracing for defeat in elections next year -- and to fight back, analysts say."
-    publishedDateTime: 2021-07-23T01:53:00Z
-    webUrl: "https://www.ibtimes.com/trump-bolsonaro-attacks-voting-system-ahead-poll-3257831"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/22/people-in-brazil-cast-their-ballots-electronically-at.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Melania Trump's Residence Remains Unknown, Ex-FLOTUS Not Around Husband Donald ‘A Lot Of Times’: Report"
     excerpt: "Melania Trump is not around her husband, Donald Trump, most of the time, a report has claimed. Michael Wolff, New York's Bestselling author of \"Landslide: The Final Days of the Trump Presidency,\" spoke about his close encounter with the former president and his wife."
     publishedDateTime: 2021-07-22T10:31:00Z
@@ -1059,6 +1059,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "nyIevOYblEEA6/RR9BjBLn+WJnB6aucszdbooDZRFLfvi9qRdEJv+6KFmPa2fUK3voAQPdmn1jVRB1T8Dch+Uon5GZksmfNFTrM6gLL/c04LuJdTsye2JcVvlTdWRe3ThBFbFaJa8Cyz3MeGgfCaxdXNWT/iSFjRoUzWBrO8qnmcWA8yISj6/OK/QNFaxiCrlUeRd90KC1anPadGZw7NenXvIGa9xUhG6HjL8VpJuKTWLyQRnRPg8ZzqPznFfXamr4zhAOjFcQz8RZWW/9QGBimWk5ZFeQq+HNYJ6UoTX/oy5zoD91E9SjFwWdyyA7demGqI3rFdpU+nGCzzvi6m13ubcYidT4yd5tETWp6ExUQ=;Hte6aU0WlzF82uH/N158XA=="
+secured: "Xxxb80WLNOEr2kYo7R7MnZ6ov6nBrBIbtq1pQshVJ1dR60SPMhV8UKYV0SZUEsGFQHc02hz1+fqxxI6nIf8b5LHChr3p9T5bdBBiKYbgvz4Di2eugNFBXq4ty988RiPnPaK1ogOgaeaOkHk8WNnz2OzBvzUMqaAbmh1EmvSHBhZIyuuNznoAG2wFg9JzzipX3lr0Me97TIuIR8Y8kPd7bdegW6lmINYPRclMxmBziR1LUAz1PIFQ4qqfZw0YOPQ9zQCWaDE3V6uOiUgwD0WWknmi3h5gZQpwH02Eb9M4vDVfq2Yi7BSc6jAWiOVba56WvpPqrS95ZjWOz3Z72DTX7qV8OMJI7DznCFz6f90g78U=;U/3xGaCnp7tTRq3WJ8u4/w=="
 ---
 

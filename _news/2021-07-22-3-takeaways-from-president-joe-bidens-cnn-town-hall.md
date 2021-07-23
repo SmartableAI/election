@@ -145,6 +145,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
+    excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
+    publishedDateTime: 2021-07-22T23:00:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c67fa916d38f3281b273e8b3793730ac/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c67fa916d38f3281b273e8b3793730ac/BIDEN-INFRUSTRUCTURE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "vgxMP77tedbJLRCMEW983xmuVq3nAs05a7/A3z26KrutSObd11FhmYpNFLLWsoKauHryD7dV2QgO0J/uTvwT2dGwVYodcSN9ci9ECzP2t7iqLMoIC50CNYuups3jB853uUUSI8M+Ay/yEPv5xRwWJqr0VANNJPGG73pc2l2rvktvRyNuGQsvBrQO/hoN8dyqGY/ltfoEtGtV5bO2z7RxcYgxMJlzWwN2HDsyEfUMpD3SQW+Xbn5cC36vVEeiJafmmN2Wg00nVIkBjPQzaODPCTL2LzOSrnG6i5PHslBjAnhNOaszdex9u9+57gGpqHAZLfO5mz7AKxVuge3ftZNaV0+5YkBunkzgz7Deje84elU=;CTdyoVhwaOnUBTEtvhnaXA=="
 ---

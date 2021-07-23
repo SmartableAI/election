@@ -1020,6 +1020,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Like Trump, Bolsonaro Attacks Voting System Ahead Of Poll"
+    excerpt: "President Jair Bolsonaro has ramped up his attacks on Brazil's long-established electronic voting system, suggesting he is bracing for defeat in elections next year -- and to fight back, analysts say."
+    publishedDateTime: 2021-07-23T01:53:00Z
+    webUrl: "https://www.ibtimes.com/trump-bolsonaro-attacks-voting-system-ahead-poll-3257831"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/22/people-in-brazil-cast-their-ballots-electronically-at.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Melania Trump's Residence Remains Unknown, Ex-FLOTUS Not Around Husband Donald ‘A Lot Of Times’: Report"
     excerpt: "Melania Trump is not around her husband, Donald Trump, most of the time, a report has claimed. Michael Wolff, New York's Bestselling author of \"Landslide: The Final Days of the Trump Presidency,\" spoke about his close encounter with the former president and his wife."
     publishedDateTime: 2021-07-22T10:31:00Z
