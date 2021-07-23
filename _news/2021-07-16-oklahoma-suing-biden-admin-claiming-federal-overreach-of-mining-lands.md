@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/oklahoma-suing-biden-federal-overre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7a3d062-7ad6-4d20-8e3e-7cf6c2388254/39e3c841-d544-44db-967a-40f1e081cd03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Critics slam Biden for 'sucking the blood out of kids' comment after town hall"
+    excerpt: "Conservatives were left puzzled after President Joe Biden quipped about Republicans allegedly believing Democrats are “sucking blood out of kids” during an exchange with a reporter."
+    publishedDateTime: 2021-07-23T13:26:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5tEYCwavT0/biden-blood-sucking-children"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blood-sucking-children.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
   - title: "Biden stands by nominee linked to tree-spiking plot despite new revelations, Psaki says"
     excerpt: "President Biden is standing by his decision to nominate Tracy Stone-Manning to lead the Bureau of Land Management despite contradictory accounts of her involvement in a 1989 tree-spiking plot, White House Press Secretary Jen Psaki said Monday."

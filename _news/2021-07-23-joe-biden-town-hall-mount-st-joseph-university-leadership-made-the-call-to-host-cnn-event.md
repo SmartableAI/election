@@ -3,18 +3,18 @@ category: news
 title: "Joe Biden town hall: Mount St. Joseph University 'leadership' made the call to host CNN event"
 excerpt: "Credit for the CNN town hall with Joe Biden at Mount St. Joseph has become a hot potato in the local Catholic community."
 publishedDateTime: 2021-07-22T17:35:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-mount-st-joseph-university-vague-who-approved-town-hall/8048501002/"
-webUrl: "https://www.freep.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-mount-st-joseph-university-vague-who-approved-town-hall/8048501002/"
-ampWebUrl: "https://amp.freep.com/amp/8048501002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8048501002"
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-mount-st-joseph-university-vague-who-approved-town-hall/8048501002/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-mount-st-joseph-university-vague-who-approved-town-hall/8048501002/"
+ampWebUrl: "https://amp.azcentral.com/amp/8048501002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8048501002"
 type: article
 quality: 64
 heat: 64
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "U6g8A3vOnP+5b9FrPLWre4nJE+algIqzSlLpa+7O2bs6VEkbXrO6xJNwDgOnuGKFCqKrWB8jOgM02ddDtmirFP4XxV+9FSmnY+9vdbI2ivXqvF+leJIyLYnTiEWbHUq96et9/EiUtMh2yiePnpMhFHBiRA7SLX/4MYjvrX7u01WAH92efpLcaRPjxQdYOM82F2leBsFLzwOOBuAESPibS6QQYBIE8fxh2ysEjxkiAdNF86ySumjjmTSUgY34oKvdu5dGtB2b/L/jpZzxrprQFKXI6luYYm+vJpJSm3stfINlQCMFagjQBKUEwvnP0lrtVq6fd+t0xxpIC72MrkgjAp9d6nusm/ha/s9HkEW/NL8=;EwN7p1UE/kYlrIoYypM6qA=="
+secured: "me1jxbYr6SxLQeDVE6SzkR0aUR/YVa2ZPGuLLnsLlr+HYOxIAZGKce1XsQIbbigmudmmehlweLRa4oCh6BjNDIvJ3zdSOUbwSCyaerM93v+SxJU6e9FBlhCOoNrzhLBgL4YVp6JL2MQkijdv4xEV+9HxjodfvYMoEKVJaz0yrJu8320+uG3g597fCtrYFaS0cTOWYsaL9wz377k7tnk4ssPZH9Huck0v4SdNuGzsKvpt+TQ6gymYIb8xT3nORMSpHuijT4+diekGlEvonZW7PBSxtHQbIa/1UdYE1eIftRFQeMlP/2DzLJzKGH2WI+wDIomT9IWIosK7Y/0atBm/28ot5Vc2uYlYJ6jv8UlZX6A=;Q5GKKvwuVEdOlJhVwUkFSA=="
 ---
 

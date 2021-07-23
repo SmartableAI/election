@@ -3,18 +3,18 @@ category: news
 title: "'Fight hard Bobby, fight hard!' Former President Donald Trump extends well wishes to Bobby Bowden"
 excerpt: "The former president's statement was brief but supportive in the wake of Bobby Bowden's announcement of a terminal medical condition."
 publishedDateTime: 2021-07-22T16:10:00Z
-originalUrl: "https://www.palmbeachpost.com/story/sports/college/fsu/football/2021/07/22/donald-trump-tells-bobby-bowden-fight-hard-supportive-statement/8055898002/"
-webUrl: "https://www.palmbeachpost.com/story/sports/college/fsu/football/2021/07/22/donald-trump-tells-bobby-bowden-fight-hard-supportive-statement/8055898002/"
-ampWebUrl: "https://amp.palmbeachpost.com/amp/8055898002"
-cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/8055898002"
+originalUrl: "https://www.freep.com/story/sports/college/fsu/football/2021/07/22/donald-trump-tells-bobby-bowden-fight-hard-supportive-statement/8055898002/"
+webUrl: "https://www.freep.com/story/sports/college/fsu/football/2021/07/22/donald-trump-tells-bobby-bowden-fight-hard-supportive-statement/8055898002/"
+ampWebUrl: "https://amp.freep.com/amp/8055898002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8055898002"
 type: article
 quality: 62
 heat: 62
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "EERYWzVECuwemqKg9jDJ0m2wbq7UFHDjxJm5sg9LIF5G63ENjJHbj8xCQKdU60Uw6VizmQ9FE6tbjAZ1VI2kclPHomxOCr7eCaIcmIO/rBRhgXJ/nJ37WJFfUKgnr15wb/XB+9ozMyWS1bvAsVjYu8Ej/EAnkeEKiBvYB+LJl3/nKmVgB1vj3f+Y992toCUe/a8fLn70AzaXIM194UZgtmMqgMQ7pCom/ljImI/xshtBIl/OkvVyeQN1c9E1V98TD/1P8ZoechfUq+Qo9lAk3v0f/IQfVr4AqZDDdvdLm6iPJcf9uX2vAjUM+9kFNZfRh9BeQVnOc1ZUfD6Lk5XtV+TYGamacKOS/PgBJUw6jNM=;VcWaxCjldsL//diNhInZOw=="
+secured: "+c2cAg1HzuD6p0OHH+aEs5c2TbFtCb5lm7BFrATkOhL1XKJmc47+SP5to5Hce/hVHbMV8y7zLwkELv7vCQUqpRtJfvNetp/qHXx355dR+Q7l2/2KQmUpIVEqOP2zEwJSRkjr3UsUAviVJ5HoixfaWVO8vbb1l6HMpz0n9CkhYoc14IFVlHmFTAin5oMrSAT8Lu7QC/Su7S8XMTmR1xgBOjkx7FCP7JbJkaldeD3DMCvF/u8lBrMJShwpUnP+025GoeHKhZPyiXI3mTsc1GDKVjb2RaZx34vHxs8d7aaWpI06MkiUjpgggX7dKpJm9kR4ytKvEo5Uudu/pRyL5lsWzxQYIM7CHjTReaa9oj7RkF4=;KdpiBexkEDXzRhyYeYjuBQ=="
 ---
 

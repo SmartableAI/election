@@ -61,7 +61,7 @@ related:
   - title: "Terry McAuliffe Blasts Glenn Youngkin As A \"Trump Loyalist\" In First VA Gov. Campaign Ad"
     excerpt: "Former Democratic Virginia Gov. Terry McAuliffe characterized his Republican opponent Glenn Youngkin as unreasonable and \"a loyalist to Donald Trump\" in the first ad of his campaign for another term as governor."
     publishedDateTime: 2021-07-22T17:30:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
     type: article

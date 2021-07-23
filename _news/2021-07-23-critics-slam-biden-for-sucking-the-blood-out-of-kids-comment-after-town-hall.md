@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Universal masking calls reach Biden admin as delta fear, push for virus restrictions reach fever pitch"
-excerpt: "Momentum appears to be building behind calls to bring back universal mask-wearing – even for those who are vaccinated – including reported discussions in the White House and at the CDC."
-publishedDateTime: 2021-07-23T10:17:49Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QMHgls8Wvc/universal-masking-white-house-pandemic-restrictions"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QMHgls8Wvc/universal-masking-white-house-pandemic-restrictions"
-ampWebUrl: "https://www.foxnews.com/politics/universal-masking-white-house-pandemic-restrictions.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/universal-masking-white-house-pandemic-restrictions.amp"
+title: "Critics slam Biden for 'sucking the blood out of kids' comment after town hall"
+excerpt: "Conservatives were left puzzled after President Joe Biden quipped about Republicans allegedly believing Democrats are “sucking blood out of kids” during an exchange with a reporter."
+publishedDateTime: 2021-07-23T13:26:10Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5tEYCwavT0/biden-blood-sucking-children"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5tEYCwavT0/biden-blood-sucking-children"
+ampWebUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blood-sucking-children.amp"
 type: article
-quality: 159
+quality: 171
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://amp.spot.im/loader.png"
+    width: 375
+    height: 815
     isCached: true
 
 related:
@@ -94,22 +94,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7a3d062-7ad6-4d20-8e3e-7cf6c2388254/39e3c841-d544-44db-967a-40f1e081cd03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Critics slam Biden for 'sucking the blood out of kids' comment after town hall"
-    excerpt: "Conservatives were left puzzled after President Joe Biden quipped about Republicans allegedly believing Democrats are “sucking blood out of kids” during an exchange with a reporter."
-    publishedDateTime: 2021-07-23T13:26:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5tEYCwavT0/biden-blood-sucking-children"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blood-sucking-children.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
         isCached: true
   - title: "Biden stands by nominee linked to tree-spiking plot despite new revelations, Psaki says"
     excerpt: "President Biden is standing by his decision to nominate Tracy Stone-Manning to lead the Bureau of Land Management despite contradictory accounts of her involvement in a 1989 tree-spiking plot, White House Press Secretary Jen Psaki said Monday."
@@ -223,6 +207,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Universal masking calls reach Biden admin as delta fear, push for virus restrictions reach fever pitch"
+    excerpt: "Momentum appears to be building behind calls to bring back universal mask-wearing – even for those who are vaccinated – including reported discussions in the White House and at the CDC."
+    publishedDateTime: 2021-07-23T10:17:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QMHgls8Wvc/universal-masking-white-house-pandemic-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/universal-masking-white-house-pandemic-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/universal-masking-white-house-pandemic-restrictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Anti-critical race theory parent blasts Biden administration for promoting Abolitionist Teaching Network"
     excerpt: ""
     publishedDateTime: 2021-07-22T14:31:10Z
@@ -288,6 +288,6 @@ related:
         height: 375
         isCached: true
 
-secured: "zseCW7zjMopipTTzqfMOjg7ylTcQ29CdQMbcgpFrQ+yoze43sCkCYyYUNzwdCN17xWnN48opg+S9e4Edw4Me+52F0RnFdFdRzKGi1I5IHIQKZftDNLJOgHlSQOnsIR/HaH4vM6xZYHZbN0zUqfyobSIGcyevWVYQXeBkJ5pTPsMezSLJfAnETto1nQ01Lqz9a/B6GMyGBorcYajJu9Ip3vCS7F1E9FoSnO9RsT4wSvoH155Abx2pyKkVlYbCZp8aCS+0iBBQT26Vlz27wVg5lVMbioqKzbIyXUnZfIXk9KSkcTvOcukz+csw7c6JA8yNaQy1wU78st19LEjHrlOBMcTDXsv1IzhN+fPsXI4EqmI=;nRRZlCXUwhW7cnDeV05MjA=="
+secured: "99aBn4Bl5Rpbe+u6dXo2YebTmJiRgixcSEY0SmiUHHIhgEvelEuOBt15Qq/vCQ4he2JYcQRdkTlnoSlUHjJ6W3Ao6qJGHe3DpfKXFDXXv+QnOQnwI64DRwsmhlkXt/HvGJgt7kF/5Ch35xbhX5wHaE9WSysz/fYiles7MgzuaTugYp3fVR2p27wYOgiVLSUzz1I7IjWXXxK/ieMWov92A2wmw7Hid7DTQjL+4bOcfnCnQkRI1JL2eVdDx6uswWYudhez1aW0hU2qQA23UjzAwdBUKouqMTJNZE/m3aumJVHA3tLyPmtkcGrZyPFU79miwsf1uLrtlftb/EC5HROEK9XLA5VLHJ9ePX8/N5rKsxg=;8iQnpq7EjWlqfxYSqXfXPQ=="
 ---
 

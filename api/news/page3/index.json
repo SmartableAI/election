@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-20-george-p-bush-warns-border-crisis-is-not-sustainable-as-he-sues-biden-over-wall-hits-dems-for-fleeing.md",
+      "title": "George P. Bush warns border crisis is 'not sustainable' as he sues Biden over wall, hits Dems for fleeing",
+      "excerpt": "Texas Land Commissioner George P. Bush on Tuesday warned that the border crisis is \"not sustainable\" as he explained how his office came to sue the Biden administration over its ending of wall construction, while also tearing into Texas Democrats for fleeing the state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PAMR0dX7NQo/george-p-bush-border-crisis-not-sustainable-sues-biden-wall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PAMR0dX7NQo/george-p-bush-border-crisis-not-sustainable-sues-biden-wall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b6c4848-495d-4483-990a-c911a7ba2df5/5f4e50f7-43e0-43d0-9d4c-aaacca14b9c9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp",
+      "publishedDateTime": "2021-07-20T14:10:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-california-gop-lawmakers-call-on-biden-admin-to-address-aviation-fuel-shortage-to-prevent-wildfire-disaster.md",
       "title": "California GOP lawmakers call on Biden admin to address aviation fuel shortage to prevent wildfire disaster",
       "excerpt": "Letter to Interior Secretary Deb Haaland and Agriculture Secretary Tom Vilsack calls on them to address a “potential fuel shortage” for airplanes tasked with fighting fires.",
@@ -1282,58 +1338,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-joe-biden-six-months-on-cold-hard-reality-eclipses-early-euphoria.md",
-      "title": "Joe Biden: six months on, cold, hard reality eclipses early euphoria",
-      "excerpt": "The president reset the tone from the Trump era and passed a huge Covid relief bill but other priorities have hit formidable political obstacles",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4c9bbca37ce50ea8ab6a6bb1c9b19dc3b40b962b/0_37_5120_3071/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=408decbf4eb708f0ca8186ac8d164d10",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
-      "publishedDateTime": "2021-07-18T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
