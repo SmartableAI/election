@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to campaign for McAuliffe, who received $650K from teachers' unions promoting critical race theory"
+    excerpt: "President Biden is traveling to northern Virginia on Friday to stump for Democratic candidate for governor Terry McAuliffe, as the Biden administration faces backlash this week for promoting critical race theory"
+    publishedDateTime: 2021-07-23T16:20:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WrmZ5ta78kU/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba5a1ade-d64f-4ded-8189-01031a30594b/ba764be1-9956-4fb1-933e-36f09c2c3b05/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "eRmijg5cyPu6dT8wgtKaTpislqVlQ2rzUW0PQpMOvE8VxoSwwBJH9/qvZjNRaxeAuSJyIF7ArOicpe+Ni1UJr3mDZuh/WgL5/4KX2ut4y93m0HLC+q3Q3C4+r3n1bFzfDOPLIiwWlyuoEgeAuZknPN9gMd2PWGIsgix3foroYRdQN2emw/6n91fSFM8Wc1QAmmoX8cLUk+xt2NYynNH1bTndJG1EfHEtjKcwBnexUfaw4Uz+ZXRqQ4ecraszd/CdyeGO1dGsklP+4qk8oU+wvVTOZLdlu/GWVvbOMviyP2PUhvPFdVkB2WtrkIhlUXAA3C0E95rvVHyhl9L4LrLCFR7zhlbx7G+LKmcQRwZSj0M=;ciDmnFQR7n9IWnEWOsq+NA=="
 ---

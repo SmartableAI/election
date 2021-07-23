@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory"
-excerpt: "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration."
-publishedDateTime: 2021-07-22T18:56:38Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties"
-ampWebUrl: "https://www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp"
+title: "Biden to campaign for McAuliffe, who received $650K from teachers' unions promoting critical race theory"
+excerpt: "President Biden is traveling to northern Virginia on Friday to stump for Democratic candidate for governor Terry McAuliffe, as the Biden administration faces backlash this week for promoting critical race theory"
+publishedDateTime: 2021-07-23T16:20:16Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WrmZ5ta78kU/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WrmZ5ta78kU/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions"
+ampWebUrl: "https://www.foxnews.com/politics/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions.amp"
 type: article
 quality: 158
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c860925-7840-4d17-a210-b9bc26114022/a06fe2da-965b-416f-aab6-e55e1b160199/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba5a1ade-d64f-4ded-8189-01031a30594b/ba764be1-9956-4fb1-933e-36f09c2c3b05/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden to campaign for McAuliffe, who received $650K from teachers' unions promoting critical race theory"
-    excerpt: "President Biden is traveling to northern Virginia on Friday to stump for Democratic candidate for governor Terry McAuliffe, as the Biden administration faces backlash this week for promoting critical race theory"
-    publishedDateTime: 2021-07-23T16:20:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WrmZ5ta78kU/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mcauliffe-campaign-northern-virginia-critical-race-theory-teachers-unions.amp"
+  - title: "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory"
+    excerpt: "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration."
+    publishedDateTime: 2021-07-22T18:56:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties"
+    ampWebUrl: "https://www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 158
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba5a1ade-d64f-4ded-8189-01031a30594b/ba764be1-9956-4fb1-933e-36f09c2c3b05/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c860925-7840-4d17-a210-b9bc26114022/a06fe2da-965b-416f-aab6-e55e1b160199/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 405
         isCached: true
 
-secured: "D8lk58qkNJwwCeeR6BKc3Eq+5I0igHp0Lqzels/3gPArM26wGhE6QA6i5GVFRvlcMS8G6RgxXTEi5zyEo7H+rpPNjONRkFJRQh6UY2Xh7kUrANMng5DhB/pPWNwL6VAOlSXMAv4rGNi02w43Ed0eShuxcDHZ2jACNsschW4gBzNA0cTFyWhkgDyjL8cbSeUEG9m5/GZ3PGMUwub/mv61NrozVHxqA6KfOyp6caRvPtBrtZFyORBZ+42ANxIpAn5K+G5FKqwuVWzTjgk6+zKx/J0hw4D6BKBfdckqa5dmTCoSKWE3fluCF1VX6Ku0KuQw9ogRS+ojisZNXCgvSTH4j3q0qlRpkJDjUJxmWyLDjFA=;cQUbS0ADgHoMJZ+Hm4Z70g=="
+secured: "wXQunl2EkL8lP6q5kadLU5tv0M7KyYPVjVFfu+GqNgWLB3LrL6rzzU4E2iEa3CpPm0pXM21rBDA2fVBigw6JZhXFelh342eYmVMYFgwceNydu2Df1IjW4qNyGvVuyFyeKI2VonQcmWWip7j4GORmxFOibalu77IPJj5NIOk30vGQVBfEOEDdkYyI0s9SsskIgiJhyBKhCZOnNyggwb1FA1MwlEUml3GlrGC4Cw7EVXoUESR+nj9mkmOl+5veT5NuDdQ8R1vs1QgCGxkdN/UHhyWOJjINQuM2yztbZp6/qOQcgZ+nK1Ufd+BYOX27f83tynTi/n9F6YiyE6PUx5lAsJGmNOiMYcEcsgWLMC7ogY4=;8OrmD08EdFo85vixZGxJFg=="
 ---
 

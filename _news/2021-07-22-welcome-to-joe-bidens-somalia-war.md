@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden poised to nominate Caroline Kennedy as US ambassador to Australia"
+    excerpt: "President Joe Biden is poised to nominate Caroline Kennedy to serve as ambassador to Australia, three people familiar with the search process told CNN, in one of the highest-profile envoy selections yet by the White House.\n    \n"
+    publishedDateTime: 2021-07-23T17:39:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/elmT4EC1e6o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/biden-caroline-kennedy-australia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/biden-caroline-kennedy-australia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210723123804-caroline-kennedy-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "v8cb83cUHluIm+sQxWhhvtyiusMAYTQr+Ow4dCsM7f9LZs8OYlq9G+oxjQg5HsXv6FMvCpZtzJRRbTEdzOxslyzOzeuf9lxjjPFrU9BNABmQKD7yv9yECVXymWiTnm/NsgJ+Br6Q+go8hiWLHjcqIEuWkTKALW8tVfs99F2IOC403tsq6LEgNk94oVBlV0qZ0ixY0vqUudtlVhQNU9WW2HcDdsOsoEuDlMMo88EY6M2XgvSz0JCDiauFxdNDTeFyeIEH3reQHRw9dfGDDqM3S/9t60kikWpWDz1qbaq1B/YewmG3WeoYUWw6LACWBETdblIEaPi26oOl2DGAJifyQ8EY46RZsgpUBhBXVxbZGME=;Vp/3mFI8CscqsLeVdauVcw=="
 ---

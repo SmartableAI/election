@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/caitlyn-jenner-will-support-donald-trump-ru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/caitlyn-jenner-will-support-donald-trump-runs-2024-republican-1610779?amp=1"
 type: article
 quality: 125
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Caitlyn Jenner says she doesn't want Trump's endorsement for her California gubernatorial campaign"
-    excerpt: "Caitlyn Jenner, who is running in California's recall election against Gov. Gavin Newsom, publicly supported former President Donald Trump in 2016."
-    publishedDateTime: 2021-07-10T09:37:00Z
-    webUrl: "https://www.businessinsider.com/caitlyn-jenner-doesnt-want-trumps-endorsement-for-her-california-bid-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/caitlyn-jenner-doesnt-want-trumps-endorsement-for-her-california-bid-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/caitlyn-jenner-doesnt-want-trumps-endorsement-for-her-california-bid-2021-7?amp"
+  - title: "Trump advisor says there is 'zero' chance the former president will pick Pence as his running mate if he runs in 2024"
+    excerpt: "Pence decided to certify the 2020 election results on January 6, instead of unlawfully overturning the results in Trump's favor."
+    publishedDateTime: 2021-07-23T17:01:00Z
+    webUrl: "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 127
     images:
-      - url: "https://i.insider.com/60e9642f61b8600019f16772?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60fae6e50729770012b99435?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Caitlyn Jenner could be the next Donald Trump. How her appearance on 'The View' proved it"
-    excerpt: "On ABC's 'The View' with Meghan McCain and Joy Behar, Caitlyn Jenner seemed a lot like the former president, a reality TV veteran seeking office."
-    publishedDateTime: 2021-06-11T14:06:00Z
-    webUrl: "https://www.indystar.com/story/entertainment/media/2021/06/11/caitlyn-jenner-donald-trump-the-view/7643374002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7643374002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7643374002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/10/PPHX/b1e1a37d-5169-4a43-859b-4004aeb59ba2-Jenner.jpg?auto=webp&crop=1275,718,x2,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "TfAO9ALr8MOYxXpwW0Zm3Ofa0q4Tmn5ddY2u1Rrsl4++ZKXbupK1vcWdOHue02jBTu4VHMti26nsiKzZotog1SZNqutiXEmKyyqgXOqPBNCShyA4oq6v2KOjpr7B7ggysrW/q7zJiu+dRnvwMlDUZ4/6t6HulDmK0l9CgQW3y7/jn49hAh/1qMOKedXFIRazD8nd5gdXggOXovH3lJs/437+MXg6BxLpEOfUztQx6C0PzSdux6skzvtvOnnhgFEwj/8jfrX6Eoj92IhDx8/uIoaoxP12gmiCp3+c5VnQDy9dgsvMdjNTkTRmb8YXHLqbq5XQnGLSua+G4HHPXnPIPO1dCaPoWlqpv/5L0LL+vVI=;eQpGZXQ7bghhMBmHA2RaIA=="

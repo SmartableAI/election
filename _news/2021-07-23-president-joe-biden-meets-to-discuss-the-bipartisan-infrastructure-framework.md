@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
 excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
 publishedDateTime: 2021-07-22T23:00:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/60c318c0fb843ebc8e887a850bec455a/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/60c318c0fb843ebc8e887a850bec455a/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/60c318c0fb843ebc8e887a850bec455a/BIDEN-INFRUSTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -160,6 +160,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Lch+GUCwyV3mnMu6D2ePXLva8LKauH1Cgfn6dHxJrsdHrCyAq+39VggLlXgxhaxIYK08dPED78BE3mWQgAYdD4vD4h590eVi9laLUnRDchVFvB0Da32qDIKT3/AM7lqRZYMhF2ZZPW5PsGOVYP81a7FaaMIXL5qpLpThFWd1Q1wrOyDypzMINR6PtXdj9KtVKQITDArKzH2h7xs7hD3kMlNgjMRiUSO0nHr6TiVXV3oI8kH+KikG7eRmPrNb4MLeWN8pLf4JWwc0BrOY7AEowNrYgE6F82k6zkA6VmpioOfD/Iy5djKr5snHi2MU5IjJOJph3u3vnCeS3gUvYLHN7xcTl/de6TodVBNKzt2bVvHPkGdFIDynchz4ykKvZ8l6GSY5IyxlSVEdV9jgY6Kt/mQ+YGWfNsnnSqwwJgE1r08ej6vzaVjGDXxXufVUxxuPWqmnmHME67CCQ4Zdr0SqcyXDFM74z6k6/EUMOzoqTB4T7z6/8MJBn1ibHxKeSPbx4ule0Bt/xgI+y50R3JJkPA==;AUiUMbFZZFQR0thIV39DQw=="
+secured: "UMXtgRLRcf8UF5dsnsGBrrelAzre8RsRovF9b0yUUcwWnLQQAgXpLOlENhO4O9o94wiaOTD+h6mXuOx3cSjB1CgJOLwSShhx9DCnKaZxTpwfnITvpAIGuFeJaMrTKctMNq0U5/UIwFsVnNEIwPeMNv42ROcT2llR/He7tf4/32173WeTeC0zQ3JsVngP0pB6Ev0KyoyqnXlqDktV762QrCPrO92CQmuCPfvjoPCVmhV5385KZ1DSkpsykojGo2Xq7l7enV07S+r+JpSEeUDLVdwWe/1qs5x/dsm7S8n9WU4UEfFFUVtuuUzPu83VjFzNBr6lAWRgG9QjqM49RH7065OWSPxtYPcPYjZgBsSfzuE=;lK3UIBa6LifH44s9PTBJ2w=="
 ---
 
