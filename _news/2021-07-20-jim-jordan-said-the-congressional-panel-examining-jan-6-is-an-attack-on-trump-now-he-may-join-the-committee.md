@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump ally Barrack allowed to remain free ahead of lobbying trial"
+    excerpt: "A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's billionaire ally Thomas Barrack to be released from custody while he awaits trial on charges of illegal lobbying on behalf of the United Arab Emirates."
+    publishedDateTime: 2021-07-23T19:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-barrack/trump-ally-barrack-allowed-to-remain-free-ahead-of-lobbying-trial-idUSKBN2ET20A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET20A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET20A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569786377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M12N"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Update: Pelosi bars Trump allies from Jan. 6 probe; GOP may boycott"
     excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped to sit on a committee investigating the Jan. 6 Capitol insurrection, citing the \"integrity\" of the probe."
     publishedDateTime: 2021-07-21T16:49:00Z

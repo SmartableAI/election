@@ -7,7 +7,7 @@ originalUrl: "https://floridapolitics.com/archives/441793-florida-disabled-advoc
 webUrl: "https://floridapolitics.com/archives/441793-florida-disabled-advocate-part-of-kamala-harris-voting-rights-roundtable/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 828
     height: 676
     isCached: true
+
+related:
+  - title: "Audit finds Border Patrol did not mistreat pregnant migrant, undercutting Kamala Harris’s claims"
+    excerpt: "Border Patrol agents did not mistreat a pregnant migrant who began to give birth immediately after being caught, the agency’s inspector general said Friday, shooting down a story that then-Sen. Kamala Harris seized on during the presidential campaign."
+    publishedDateTime: 2021-07-23T21:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 62
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/02/migrant_children_shelter_14413_c0-218-5243-3276_s1200x700.jpg?24fcb387a333be866f4da9ac9280956ea8a31e67"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "gJ7JeSZ2vbWQestuHfplDXZZ8GL/xqmkyibTpeq1QggOzmLAw5GpoBjc/CYwLf1PhM/j/RRUlJdZAIcsQMZkxqupwNXkLyd62DSBtfsMnOjYC16++i22PdwnSbSHQSkk8iraCHiuVrWTWcOy/fFkfJ5zoVwSa5/ke8cFUZkof4Y3FaOP5p2SKZFmXHlULJXojqdRJGa9jL07pPQDgWVt/wyLwLXMjx7fr6FokSUEyTPcSTJyNpC/hyVKXj8/nRHJXO78d/mjr0W2OAEj3LYSsReeIrw3Rz+/CNZ+Vh0RSsMWXA+Nyz4idKX95EldfztZrdFboj3q5mla3tY+r0/uLdAOb5jxBKmzvCO7zVn3YSQCtgbi21WfNKcTa6IqpJODh63JzZL3dvSIAHTU+fQY5PWmV29WebbUtAdR57QxO618FEev75Iw0zDcH9aNx0yoZ1bQIH/rPlUUz7iHtTdBeL2JmiMP7A2yf1HbqBtpCFBOc1a7E2tQ1tgEMlx6+5zQSp/DKicnJdNEKIqn/BMf2A==;YPSb/6vYD9UBT8RPUXAySA=="
 ---

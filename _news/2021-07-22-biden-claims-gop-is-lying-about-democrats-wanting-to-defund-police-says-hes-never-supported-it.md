@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin ripped by foreign policy think tank for inviting UN envoy on racism to assess US"
+    excerpt: "Secretary of State Anthony Blinken’s decision to invite United Nations envoys on racism and minority issues to assess the U.S. continued to draw backlash Thursday, more than a week after the announcement."
+    publishedDateTime: 2021-07-23T21:49:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2KS92vmL-8/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/usrussia-cropped-416a.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cotton calls on Biden to 'publicly condemn critical race theory' after admin promotes radical group"
     excerpt: "Sen. Tom Cotton called on President Biden to publicly denounce critical race theory after administration blamed an \"error\" for promoting a handbook that calls on educators to \"disrupt Whiteness.\""
     publishedDateTime: 2021-07-21T18:20:01Z

@@ -95,22 +95,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Critics slam Biden for 'sucking the blood out of kids' comment after town hall"
-    excerpt: "Conservatives were left puzzled after President Joe Biden quipped about Republicans allegedly believing Democrats are “sucking blood out of kids” during an exchange with a reporter."
-    publishedDateTime: 2021-07-23T13:26:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5tEYCwavT0/biden-blood-sucking-children"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blood-sucking-children.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
-        isCached: true
   - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
     excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
     publishedDateTime: 2021-07-12T16:29:21Z
@@ -254,6 +238,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Critics slam Biden for 'sucking the blood out of kids' comment after town hall"
+    excerpt: "Conservatives were left puzzled after President Joe Biden quipped about Republicans allegedly believing Democrats are “sucking blood out of kids” during an exchange with a reporter."
+    publishedDateTime: 2021-07-23T13:26:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blood-sucking-children.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
   - title: "Conservative leaders say Biden admin is ‘ripping the U.S. Constitution to shreds’ in scathing open letter"
     excerpt: "A group of conservative leaders declared President Joe Biden’s administration is \"ripping the U.S. Constitution to shreds\" in a scathing open letter that demands the White House and federal government be fully transparent about all actions to restrict speech."

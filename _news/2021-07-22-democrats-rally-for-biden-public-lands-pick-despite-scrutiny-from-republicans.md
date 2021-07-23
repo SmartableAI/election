@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tracy-stone-manning-confirmation-st
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp"
 type: article
 quality: 172
-heat: 252
+heat: 272
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin ripped by foreign policy think tank for inviting UN envoy on racism to assess US"
+    excerpt: "Secretary of State Anthony Blinken’s decision to invite United Nations envoys on racism and minority issues to assess the U.S. continued to draw backlash Thursday, more than a week after the announcement."
+    publishedDateTime: 2021-07-23T21:49:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2KS92vmL-8/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/usrussia-cropped-416a.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

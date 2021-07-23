@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Joe Biden is wrong when he says car prices are back to pre-pandemic levels"
+    excerpt: "For new and used cars, prices began to increase in the summer of 2020, federal data shows. By June 2021, prices were almost 21% above their level right before the pandemic hit. • Private-sector data shows the same pattern,"
+    publishedDateTime: 2021-07-23T20:54:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/23/joe-biden/joe-biden-wrong-when-he-says-prices-new-used-cars-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 33
 
 secured: "EcBcNvdy4VO8xnoC9w87g/nZApJP1nigBOx24faHjiBO1wzcmIz6ngb3igQNkzEvJIwO9CThbOsab0l4rfjbQXGWxv+hkrPx6qxoxDFI+ERblxkbyzlXIZCCTgbPQ62T/0q/LnOQ0fYiCiaeaQN+qgNvN9RhfX+dtg0cTjYQwQnV56jNoFt0MPT8wJNuTW3RGbBkAaXcQ5IBS2D1vpoZU8DXzsjBm8L+GEDQMg8RfReB1oV7dV4iWoWQ2BDKHwkviMmqVgo2QSFZLLUs+C4hkpjsVHulQc413/Rtv8Rvf2/oYBzRNHreUmVJuT0SzidltFWiyKkKIHQb3i8AGZK5UtycKrE/b2cubYqX5XXSMW97JeH/H2dJMQg6nlutH5bJ/IhBAFgbVXVuNkuQRCDBtwOVCZUqXXXaoWpAEnr/u4fS+yWhWX/1APPbNKyf7aodVFuzUgpJXo+QspL21quOXmpIa9EWI0sOVWaVM/hsy8eoozf/CuX7GCkI4PW2wtemt5M15iOy+b5a00MUpfRBlg==;Vs2L2gteafZePLBe8KG2Vw=="
 ---

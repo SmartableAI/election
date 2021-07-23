@@ -2,6 +2,114 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
+      "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
+      "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "originalUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a73f231d740d05f5ae6f1fcb8fc8ab138e9c8083/0_73_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c634a9013950e6eb0b24de4c9b40f10f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "publishedDateTime": "2021-07-19T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.md",
+      "title": "Jeb Bush appeals to Biden to ‘tear down’ Cuba Cyberwall",
+      "excerpt": "Jeb Bush, the former GOP presidential candidate, took to Twitter on Sunday to appeal to the Bide administration to employ the needed technology to restore internet service in Cuba amid the unrest that was sparked a week ago during anti-government protests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waYe3EYbmY0/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waYe3EYbmY0/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp",
+      "publishedDateTime": "2021-07-19T00:13:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-18-biden-poses-with-ice-cream-cone-on-national-ice-cream-day.md",
       "title": "Biden poses with ice cream cone on 'national ice cream day'",
       "excerpt": "President Biden on Sunday celebrated national ice cream day by posting an image of himself grabbing a large cone and posing for a selfie.",
@@ -655,7 +763,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1191,110 +1299,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-joe-biden-taps-jane-hartley-as-ambassador-to-the-uk.md",
-      "title": "Joe Biden taps Jane Hartley as ambassador to the UK",
-      "excerpt": "Joe Biden has tapped Jane Hartley, a Democratic fundraiser and former ambassador to France, as the US envoy to the UK, according to people familiar with the matter. Hartley’s selection comes after weeks of uncertainty over Biden’s intentions with regard to the post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "originalUrl": "https://www.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d02cc86-f021-4ab3-8310-1aa3e19cddb6.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "publishedDateTime": "2021-07-16T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-bad-hair-days-return-biden-drops-showerhead-rule-trump-demanded-for-more-water-perfect-coiffure.md",
-      "title": "Bad hair days return? Biden drops showerhead rule Trump demanded for more water, 'perfect' coiffure",
-      "excerpt": "President Joe Biden's administration is reversing a Trump-era rule that allowed more water to flow through showerheads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/24/USAT/f0dfce74-db67-49bb-8c0e-2000322cef95-showerhead.png?auto=webp&crop=1044,587,x5,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7992908002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7992908002",
-      "publishedDateTime": "2021-07-16T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

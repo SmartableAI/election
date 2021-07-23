@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8c618704-49bc-4967-afc3-7db39eb16b0b_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Pressure on Big Tech builds as Biden picks another critic for key Justice post"
+    excerpt: "U.S. President Joe Biden nominated lawyer and Google critic Jonathan Kanter as the Justice Department's antitrust chief on Tuesday in the latest sign the White House is determined to rein in the world's biggest corporations,"
+    publishedDateTime: 2021-07-23T20:50:00Z
+    webUrl: "https://www.reuters.com/article/brief-biden-to-name-jonathan-kanter-as-d/brief-biden-to-name-jonathan-kanter-as-doj-antitrust-chief-bloomberg-reporter-tweet-idUSFWN2OW0VK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/9FsKgkfkQtgdOupi_yyAOrxfxk4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D6G5W7V2PJNLRNL3I3DQAC3WF4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Animatronic Joe Biden to join Hall of Presidents at Disney World"
     excerpt: "Forget an inauguration ceremony. The true indicator of having made it as president is being added to the Hall of Presidents at Walt Disney World in Florida, an honor President Joe Biden will soon receive."

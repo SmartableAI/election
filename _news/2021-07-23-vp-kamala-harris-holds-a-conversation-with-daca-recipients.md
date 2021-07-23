@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
 excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
 publishedDateTime: 2021-07-22T18:06:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/1033edbfe02ed59e10639c7007195f82/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/1033edbfe02ed59e10639c7007195f82/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/1033edbfe02ed59e10639c7007195f82/USA-HARRIS-DACA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/082e1781249502ed0d00e9b582d9ff2b/USA-HARRIS-DACA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -268,6 +268,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cTF1b1DX2YgI7uS4GBJk5+u2X7Lbi+so2zZj+gq08U1JaswtEqVNdk/ApKImGMDS7GiCECyxJFyRGNyYhOVg0Mpx5s6vG0Rhf72H8OCatuiBq6TK/UbeDY66nJHHSMTm1EBtni1jyqB0dtEXy0O+iHYH68/GREi+Z+mkLh+PGa7EGQSOxqua3LRXehK8kVKCgJ88c0VPAlu+7MM+qFH4MSDMbyszipdY4gGmO6jos5dic7fB911zQLF0ikWUe36d4UsElRZ+RbmgOvXFsNpex5KcNulkeSmGOyVOUadfpR3JD5/JwoRM958FL1pfls4aRHJG63vMde6ZfX1JmkQMz3gyU0re1/aIEVz7dRGYkBI=;nEkxV6HK2hWcKJ+8C0d06A=="
+secured: "pNXLkKi574TXni2+UEBMDL4jyIrmkbTTViuz3MiXRTCJcS8VLHmvfoH+CzGe0z+vIBG5+JCazuzNWjgVVuCSxmTvQXXmTOR/TLpcNcPp7PtTHZkIXulEMG+9lhmPbAJgzSq7drpTgq5XRyxNLe8X+Xt+bAm0k58jFZSHgAec7lkM6s6pFPg4upCuTb8Tel49oYkN+dqTCAbpYW23EqPVQ9SzfBCa9eJSkLHxC2C7JwjAbjYLod3G4yjftq6uL7dSYrUOjoox4af84eKxFLFEcrw8uu8wwtH3i4vTJtSwmK+IWA64MDfwxUh0iPsE7lZ+dGW6jZCAQwu8F3S8GIt8YIY+4CCO+uOTnh2jMBlhYew=;NFDMA251EUUwZBiO+vahQA=="
 ---
 

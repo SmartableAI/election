@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Joe Biden is wrong when he says car prices are back to pre-pandemic levels"
+    excerpt: "For new and used cars, prices began to increase in the summer of 2020, federal data shows. By June 2021, prices were almost 21% above their level right before the pandemic hit. • Private-sector data shows the same pattern,"
+    publishedDateTime: 2021-07-23T20:54:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/23/joe-biden/joe-biden-wrong-when-he-says-prices-new-used-cars-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 33
 
 secured: "nJzGJm2/igzp5mtxv3tw7zM7mTG5QjjAhzUPSj60ObL4QrF7jWRfuZBqyN/iD3phsz8z/lbr+quKeGjeed4PaECZj7VugX9gwnyuqSY15giZHfeC4VKC2PpyvlJbmA6/A4sVFGXR7fRgY0/7HLgLq0cSI6ODCUt1Yq7epDVRBPZofh1PIirwmsncm570Ng+67GHDOvAL5gNBrpAj/9bc6Hq6DSmKqyO6w2ASZGP+e4WoX4IeHeS2x2X0CW8WlSdwVgq18EPFZJ8O8KvgCgmVGQDjChqdoMq3Z4nA2ycMXQAoBkHkFmxgwrjMjXvoPxHmtZmEOpU30TjLy4wcZiuHxyQJWiVMr7+IxExG+wUbQjF9N/rEqRwu5FdWT0L3zyk3F9x7Dt/wqeduNiPKFVI6CL1o3dHq9cWaQqOJz680s1UGyd1ZfZhwhnxr7uSEzPbv5TISHeCw+VOeqKpI1DhNLgzBdznEDm+i/41SXGWAicp9MNZMIzRGE1wA4r0yUqgtC0d9GgyWBFA5tgrRtrJAWQ==;YKRnkVIfCKkeJybvcTsWEw=="
 ---

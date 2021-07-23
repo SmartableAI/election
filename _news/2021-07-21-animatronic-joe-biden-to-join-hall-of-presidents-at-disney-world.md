@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pressure on Big Tech builds as Biden picks another critic for key Justice post"
+    excerpt: "U.S. President Joe Biden nominated lawyer and Google critic Jonathan Kanter as the Justice Department's antitrust chief on Tuesday in the latest sign the White House is determined to rein in the world's biggest corporations,"
+    publishedDateTime: 2021-07-23T20:50:00Z
+    webUrl: "https://www.reuters.com/article/brief-biden-to-name-jonathan-kanter-as-d/brief-biden-to-name-jonathan-kanter-as-doj-antitrust-chief-bloomberg-reporter-tweet-idUSFWN2OW0VK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/9FsKgkfkQtgdOupi_yyAOrxfxk4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D6G5W7V2PJNLRNL3I3DQAC3WF4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "Gl2bmRY+/XxMp/RHvhlRS80BpALBuQF7LHYvOU6sbZ9/Tuj+Bxwh7EsBmy6Q+ewF6knzGdqcfu11G3Gpba+y8V++vgiDtcfmkGeZm4AhXiYFDjTCYLGwAaKewofzhtb89xrcC4LbuPCp9oI9335NK7CDvUYDaIHTl2KUQc0WIXOZDdwN8U9/sFVO2UAysLOXyXYn5MLzD/bOqVuSfhhWguCkLmdEVDbmvcFNHvHKT4GjV6WIhFqzaDAAIV0bN7JtHN0Jnpqk/0dmGgVMEmCwM3tZrUkT8T/wDefY9m4S3SPEEijdKOFwPMhpR88Igu1jcMnT5GzHAW8OnS46bwUD077Cootsu5xwJhvyf+vAmLc=;ohIfY/Q6R0/+Cb9lQCGiIg=="
 ---

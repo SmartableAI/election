@@ -2,13 +2,13 @@
 category: news
 title: "Critics slam Biden for 'sucking the blood out of kids' comment after town hall"
 excerpt: "Conservatives were left puzzled after President Joe Biden quipped about Republicans allegedly believing Democrats are “sucking blood out of kids” during an exchange with a reporter."
-publishedDateTime: 2021-07-23T13:26:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5tEYCwavT0/biden-blood-sucking-children"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5tEYCwavT0/biden-blood-sucking-children"
+publishedDateTime: 2021-07-23T13:26:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children"
+webUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children"
 ampWebUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blood-sucking-children.amp"
 type: article
-quality: 171
+quality: 131
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -304,6 +305,6 @@ related:
         height: 562
         isCached: true
 
-secured: "FzvdTFXGgVC3tmJuKdQ+2rcN2W2d19SnazXRCdMhZAtbl0gp/JA7KDitVbkAtLUmc1Fay92B7v/Q/0/jRQydTSukUo3cQm0IXXTtiPkOeHGmXwNmah3ViiZDRa4wzddF3oZXjB1zste+1qx7fgqltdp+K0Dx6qphDj+6eQcP9suTkFHcQvga+E0X3xmGVXhrdPJ09c0hcTp+67S/ldijZW+1zox0wpTo65uH+ZP50/Cx24vw98Kyj9nP+mH2oN64rzzvMRk0bJXOQLDIUc/QUUQdxvDTAF6CuLFJCdT1o6YFVTqAZVCw1hrf6U0MooTUwY8fg9GqL9zCKBg7LZyHksJ94J6CjbQHqYfsX4NDAJo=;p4uyYAdKivN1hwGtLVwCNA=="
+secured: "2uwtZieRHAtD4xWrGDSNcVnBEssX/burc324Oj8SkttQ42GZcdH01xy0r921OVfa3xQyHIxdm7cBMDAYKVIxoVrOKlk3TsEr2fNh3faz/mkGCBJsRgTE7a2xEtqHVI+sN0P0DhU1DhdbNAUobExL2zK7TilRt/aPF/cG/6Yoo1YWX/egPILxtBmRI3248jMQL6Dsj/Pj8DuAy74CEoxZ8GYZuYs7zgkzhwLr4MrerQpRYmaJH5rPEASRQb4GVdnfw4D0cu02w3ZLpo8heJp7njLH1aCWMNwdkJCpnYAc9e14U6vWpVYuXULCvBgVMUmE/4aVYa1bHAJCaIFsblmFLxbRnIHEfO2+E/vbZAdpG60=;7NsWcmrMCESUWH9GS7hwdw=="
 ---
 

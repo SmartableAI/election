@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration sanctions Cuban regime in wake of protests"
+    excerpt: "The Biden administration is preparing to sanction individual members of the Cuban regime and a government special forces unit known as the Boinas Negras for human rights abuses, according to a source familiar with the plans.\n    \n"
+    publishedDateTime: 2021-07-23T20:12:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-gXQHaXKWQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711210014-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden promises answers on European travel ban 'in the next several days'"
     excerpt: "President Joe Biden said Thursday he'll soon be able to answer persistent questions about travel to the US from Europe after German Chancellor Angela Merkel raised the matter in the Oval Office.\n    \n"
     publishedDateTime: 2021-07-15T22:55:02Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-24-trump-inaugural-committee-chair-to-be-released-on-250m-bail.md",
+      "title": "Trump inaugural committee chair to be released on $250M bail",
+      "excerpt": "The chair of former President Donald Trump’s 2017 inaugural committee has been ordered released on $250 million bail to face charges he secretly worked as an agent for the United Arab Emirates to infl",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_57b2dffb6cde45fa98168a1bd3a1bcdb_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078",
+      "publishedDateTime": "2021-07-23T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
       "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
       "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
@@ -135,6 +187,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-a-scandal-scarred-senate-candidate-wants-donald-trumps-endorsement-other-republicans-worry-hell-give-it.md",
+      "title": "A scandal-scarred Senate candidate wants Donald Trump’s endorsement. Other Republicans worry he’ll give it.",
+      "excerpt": "Former Missouri governor Eric Greitens, forced from office in 2018, has hired several Trump associates for his campaign and has falsely suggested Trump could replace Biden before the next presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-eric-greitens-endorsement/2021/07/22/9e9998a2-e8c0-11eb-97a0-a09d10181e36_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-eric-greitens-endorsement/2021/07/22/9e9998a2-e8c0-11eb-97a0-a09d10181e36_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PU73ALXLEII6XIV2HPRR2NESLA.jpg&w=1440",
+          "width": 1440,
+          "height": 983,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -480,7 +584,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -735,58 +839,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-mccarthy-appoints-0-republicans-who-voted-to-impeach-trump-to-capitol-riot-committee.md",
-      "title": "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee",
-      "excerpt": "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
-      "originalUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
-      "publishedDateTime": "2021-07-20T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1499,54 +1551,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-megan-fox-rips-burn-a-witch-at-the-stake-cancel-culture-over-her-trump-comments.md",
-      "title": "Megan Fox rips ‘burn-a-witch-at-the-stake’ cancel culture over her Trump comments",
-      "excerpt": "Uhmmm … I do not align myself with any political party or individual politicians,” the Megan Fox wrote in an all-caps message on her Instagram stories addressing her attackers.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
-      "originalUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/machine-gun-kelly-megan-fox-003.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
-      "publishedDateTime": "2021-07-15T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],
