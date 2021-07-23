@@ -216,14 +216,14 @@ related:
   - title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
     excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
     publishedDateTime: 2021-07-22T18:06:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/1033edbfe02ed59e10639c7007195f82/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/1033edbfe02ed59e10639c7007195f82/USA-HARRIS-DACA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/082e1781249502ed0d00e9b582d9ff2b/USA-HARRIS-DACA.jpg"
         width: 650
         height: 433
         isCached: true
@@ -272,6 +272,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZfAG4kWoqe16g0q8hRAo+LWWydEPHZVw0ks4EifNWf3YnW8Fmn/pNtJsbQn2lcNeqbcN9o1Qw+3jfb6p18b9r7nJ4s9T3sk619gBpVwTU1z7TeM7KDnqtp1mHpY2Mtslwkcxqys2DFaykr6s24K1mUv1OIyjlYFDWPmf6J+3fsXwVzXn8TPIo/UYr4Mqeb3fqMXF7k4BvgADVlL1ObY2/r1eY+DTjylEwNkZ/UQI/uaeamKyCY8XT0T9UWwQdbz4z1FDeHwEHO+rfaXH6PGwLCI1wzW+xE6eDLjwai3laeWKK0jhchUltu23dP90Vkta2Cw1wgJyfws51wBoy+qyMUga1pw+Q4w7s/29/ks59KU=;/0l3mRjclRr5X1VrC7sDig=="
+secured: "Ep2xvgMYduRvnfXt3EW1bPsOm+aaqVXfIxTDGpXo/yQO/iRQfeEg3L/wzVBj6IoBMbMQ0coiobNgu/3HnSOfwklZAC8eBhsnTn73i942KvFynkLTerz9hT9EA6MSd6YVS/yAfuc4PHn0wIY19vJ3CkEehXUSzgaLKVXM+btgEhXuLCnaIz1smE+OmOObludYNQTunOSY9P5RkdIkzUEXObBkdlSHFezu0jCLekWoj2u4ah3hK1CESjQOdwLDhAHmTh2gwC5MCr5CksU0i5W33v0/Yt2j6qo8e072nrZ8/f14A2qu+rPQgrnJrfwLRjF3OSDveIPsmPcWP/xetSoeL89aaEq4VVsjTyyTzaKAnIw2Uia28YfFcN4oUFoeNIexE/Qr8muPIQY3y7dWxHvRIPT58MKwmjoKxI6q40kA+kN/WShsJUqdsGjNNpmM336Lvcc3PZIQXxfLs45PLkw7Tii6gz7RAkvUfTzVBw2DmZkplx4W/ay5/dsC93V6H/pvcBSrpHRRmFKAda9OeK4v1A==;ohJfIf3bD5A80SI/LOaO+w=="
 ---
 
