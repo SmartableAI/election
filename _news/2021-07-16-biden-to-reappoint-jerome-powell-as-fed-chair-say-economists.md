@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EM0Y1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EM0Y1"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210722&t=2&i=1569681026&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6L17H"
         width: 861
         height: 545
+        isCached: true
+  - title: "Senate panel adds $25B to Biden's defense budget"
+    excerpt: "The Senate Armed Services Committee has approved a $778 billion defense policy bill, adding nearly $25 billion more to the defense budget than the Biden administration requested."
+    publishedDateTime: 2021-07-22T21:47:00Z
+    webUrl: "https://thehill.com/policy/defense/564442-senate-panel-adds-25b-to-bidens-defense-budget"
+    ampWebUrl: "https://thehill.com/policy/defense/564442-senate-panel-adds-25b-to-bidens-defense-budget?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/564442-senate-panel-adds-25b-to-bidens-defense-budget?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pentagon_12082019_1.jpg"
+        width: 980
+        height: 552
         isCached: true
   - title: "Biden says capitalism 'is alive and very well'"
     excerpt: "Celebrating six months of strong economic growth, President Joe Biden says his infrastructure and families agenda must be passed to sustain the economic momentum, setting the tone for a crucial week of congressional negotiations."

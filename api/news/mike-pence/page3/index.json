@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-30-mike-pence-is-returning-to-the-public-eye-today-and-insiders-say-it-could-foreshadow-a-2024-presidential-run.md",
+      "title": "Mike Pence is returning to the public eye today — and insiders say it could foreshadow a 2024 presidential run",
+      "excerpt": "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg",
+          "width": 847,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-pence-reemerges-in-south-carolina-as-he-weighs-2024-bid-and-navigates-relationship-with-trump.md",
       "title": "Pence reemerges in South Carolina as he weighs 2024 bid and navigates relationship with Trump",
       "excerpt": "When Mike Pence underwent heart surgery earlier this month, he had alerted only a few family members and aides beforehand. Several onetime Pence aides were caught off guard when he released a statement that after experiencing \"symptoms associated with a slow heart rate\" for two weeks, the former vice",

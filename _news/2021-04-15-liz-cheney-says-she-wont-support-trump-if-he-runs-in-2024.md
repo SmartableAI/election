@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510165219-liz-cheney-2019-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Inside Trump's intense search for a Cheney challenger"
+    excerpt: "The ex-president's team has been interviewing Republicans running against Rep. Liz Cheney. Two of them have interviews with Trump up next."
+    publishedDateTime: 2021-07-23T08:39:00Z
+    webUrl: "https://www.politico.com/news/2021/07/23/trump-cheney-challenger-500599"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/23/trump-cheney-challenger-500599"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/23/trump-cheney-challenger-500599"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fa/62/ca1651c642d9a404cdd1b25a7ddb/cheney-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Republicans say Cheney needs to stop talking about the past. But Trump won't."
     excerpt: "Trump has posted more than 20 statements about last fall's election in the past six weeks compared to just one directly criticizing the Biden administration."

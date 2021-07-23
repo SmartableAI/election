@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
 excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
 publishedDateTime: 2021-07-22T23:00:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/56015369d2dcfb8995f765ead100493e/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/56015369d2dcfb8995f765ead100493e/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/56015369d2dcfb8995f765ead100493e/BIDEN-INFRUSTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -146,20 +146,20 @@ related:
         height: 1080
         isCached: true
   - title: "Marine One takes off from the South Lawn with President Joe Biden"
-    excerpt: "Marine One takes off from the South Lawn with President Joe Biden who is making a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
+    excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
     publishedDateTime: 2021-07-21T20:25:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/49868b56d8d0f9566cb9d741d5c61c6a/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dba3faa423dfc5e4c032a852850c27ee/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/49868b56d8d0f9566cb9d741d5c61c6a/BIDEN-DEPARTS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/dba3faa423dfc5e4c032a852850c27ee/BIDEN-DEPARTS.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "AGJ0j2DkQ3aEciCmvAQC3ztkLGojYJoymKqZWaYB1d+0F6a4mK0h0B6764/C3R7hPkFf++5f9RYN9Q1k4MBAsch8QygQ/4VBLW8L3fl0AZ6hInl8sWGeyq/0OXVh11SbsgdymLggihHcNFwYZ2WjMSUaUbcMRZ5EFfz26on+V2RFPUM4fAcYbFrSt2JB5woqfOmJeX5EBeTDR6ybZ1ihGQwrOMDl9j/5oGCbhkXgWa3sNGn+fKijvzxUMUX+p+KCH5/E27hyDr2KDxCu4yuKPjemETsPdOYR1E8OyCBJyh3ykMGcK+W/b9sVvumD9oB8/Tm5wooBCnjkrApNJtYsZwCCd4unzD4n19YBVC3Whzg=;Tqu44wSK+I6KiSWJAKrzEQ=="
+secured: "QzHlSo/4bUo0BWsVAUJOG1j666NqyveurjESnqQRl0hG7GvCDeHjytDDoIoIriTLrLmBDUVYTWJqKq3pEGvovSM6n0N9rnnPhzGqB+QKFcRtZ94t/SuWDkDq9dKC+xfIzrp5Ia9apdCUM729o9j2SnwCEFTDWCVydkfep+FVELvXcPkPMD5UvaajJeW9Rv/WMxGvaaixCz1rpeAz7dwMKVvU3L9Dlqs7a6Lx0Eqa8sZSpPdH2XgRvLFVc4+xXtcLVwb+GEjk2ZOt6H5gcJJh4k3TyQmNwJtW0nVVoR7YsYai9hVE2QPvRQyBWgyvCQ5u5HD69yYz1pEV4PxTruUmQjiRwSFoHPATYKho2MtQIgw=;yPmtf5EbvucjmuIqAvdtjw=="
 ---
 

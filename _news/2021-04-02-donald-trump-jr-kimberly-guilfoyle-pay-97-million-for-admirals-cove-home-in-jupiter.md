@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump Jr. Responds to Kimberly Guilfoyle 'The View' Rumor"
+    excerpt: "Speculation is growing over the conservative figure who will be chosen to replace Meghan McCain on the ABC show."
+    publishedDateTime: 2021-07-23T08:30:00Z
+    webUrl: "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422"
+    ampWebUrl: "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1853059/don-trump-jr-kimberly-guilfoyle.jpg"
+        width: 3000
+        height: 2237
+        isCached: true
   - title: "Donald Trump Jr. and Kimberly Guilfoyle buy South Florida mansion for $9.7M"
     excerpt: "Donald Trump Jr. and his partner, the TV personality Kimberly Guilfoyle, have reportedly picked up a waterfront mansion in Jupiter, FL."
     publishedDateTime: 2021-04-09T18:58:00Z
@@ -46,54 +62,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/eY5MetWHg1EM4BGDFmOEQ8BBUUU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSTH2KLA2VC2VOE5P64ONHJS4A.jpeg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
-    excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
-    publishedDateTime: 2021-04-07T15:30:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "The Great GOP Migration: How South Florida became a shadow capital for Trump conservatives"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Brittney Reed needed to get in front of Donald Trump and it had to happen fast. It was the eve of two special elections in Louisiana, and Reed--the head of the Louisiana GOP--knew an endorsement from Trump could ..."
-    publishedDateTime: 2021-04-10T13:28:00Z
-    webUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/6071a7c54943790018bb1c96?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard"
-    excerpt: "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool."
-    publishedDateTime: 2021-07-16T05:11:00Z
-    webUrl: "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012"
-    ampWebUrl: "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/04/donald-trump-jr-kimberly-guilfoyle.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "CHQqwk7s3m6A8nqEkD+dSpBgOhYxh80GQ5j7j+z+DzCT3o+QCwut4zFSw4S2ATKMuQLqLGTRQEEX5fOnhKuuojSU95C+ZGRZTqul3MMYiFyjGYt16O0mEU6HYUpGp5iI+hz5WTFP2ObPUg4Jp1o435DpQjpQ2c+JyOLszByYdopLj6toDQrtfnU0Mji7OzT9fkTSt/DjMbn0STCAM8pHBnCZyi4rG4jeDwpfes6qgYFknhsYlRZZL90Hx23W9VSiQQjj4w18YUmvlwhNcup6q2NgU/wELdBrt0hCBIkfj1GXcgEFHmJQiTA1UQdQLWSAJIm6iq+FbsFaPDoyPc4Kq1BzCp11mETj440unaByYok=;FHC7AW0/lamUJpiGq2hlvQ=="

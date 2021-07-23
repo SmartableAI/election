@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
+    excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
+    publishedDateTime: 2021-04-07T15:30:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club"
     excerpt: "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer."
     publishedDateTime: 2021-04-10T11:09:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/da0361692602303bd56482725aff0035c926bd36/0_88_5166_3100/master/5166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6086a62db396c12b20bdfa14f23aabbf"
         width: 600
         height: 360
+        isCached: true
+  - title: "The Great GOP Migration: How South Florida became a shadow capital for Trump conservatives"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Brittney Reed needed to get in front of Donald Trump and it had to happen fast. It was the eve of two special elections in Louisiana, and Reed--the head of the Louisiana GOP--knew an endorsement from Trump could ..."
+    publishedDateTime: 2021-04-10T13:28:00Z
+    webUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/6071a7c54943790018bb1c96?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Marine One takes off from the South Lawn with President Joe Biden"
-excerpt: "Marine One takes off from the South Lawn with President Joe Biden who is making a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
+excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
 publishedDateTime: 2021-07-21T20:25:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/49868b56d8d0f9566cb9d741d5c61c6a/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/49868b56d8d0f9566cb9d741d5c61c6a/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/dba3faa423dfc5e4c032a852850c27ee/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/dba3faa423dfc5e4c032a852850c27ee/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/49868b56d8d0f9566cb9d741d5c61c6a/BIDEN-DEPARTS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/dba3faa423dfc5e4c032a852850c27ee/BIDEN-DEPARTS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -148,18 +148,18 @@ related:
   - title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
     excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
     publishedDateTime: 2021-07-22T23:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/56015369d2dcfb8995f765ead100493e/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/56015369d2dcfb8995f765ead100493e/BIDEN-INFRUSTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "Epsg/I/SkFHiXmvAWdQIBhhZA6iiDi0UMLOfWrlzAYXkc+vPWl0iCO3HhzeIKlB8/ECYYyFHMIzENT6HbGB8Z0QoI9cJnKKgxxubjFUD/R5LmUpU0Sto1G0gvVilXRSaBGy8hOqZWKQfFl7nBVSLtQ80CNQIo8zoADibfto4arlisY7tx6PhQ9Gk7bPssme/WlQR9zoWoplN/H+iWHfRAT0QO8uz4lIz68nCY+abS8jpaVQajkn6NHmA19S9WPx2iff3KDt4xL3R/BAUwxPS6V1zjceNq0vK/Zv77WM2/DGgE+EeCwAlCeF3qCXDoQUsEsw2vEKdCzHZeKxakXuYWgFLGeiMHb00ucNwEfEEzVQ=;V1WeTH3lA655Bt9v0IXEkA=="
+secured: "hTgontz218NSONpJE3aPtXwN/fHhHWk0+TqJkCzIu3S8qej05VvU2ZcVEzF0up2wUOr0L1XGOUhGOpsY8IYldONbSUYew7k/t3qXwa5iK1UErWJy9ZS1TwQzFftjm0w5t5hp5ctc9SFNoRFsex24rifDzSJP1hhDHVFQHZyhL1wJqfXjRPpODAg7cAF88i546UzSW32XufzVw4g7mrhQr0yzYw8HYTZ6QZnvOP8wyQ1zOKfFtzez+XbulCz0bUBBLBpeSCniE9VrPWbDFkWJcZ6Ie2Z2fbNfjU8OE1G8Sf8VeQCScfW7MdWDtuJeej1rsEHAWmAyKQvshksxQVnLSjUv67JZJtyfrC2vRtVxI5U=;2d44TCDMYo/7639ZE0parw=="
 ---
 

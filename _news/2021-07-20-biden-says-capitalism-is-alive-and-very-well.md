@@ -93,6 +93,22 @@ related:
         width: 861
         height: 545
         isCached: true
+  - title: "Senate panel adds $25B to Biden's defense budget"
+    excerpt: "The Senate Armed Services Committee has approved a $778 billion defense policy bill, adding nearly $25 billion more to the defense budget than the Biden administration requested."
+    publishedDateTime: 2021-07-22T21:47:00Z
+    webUrl: "https://thehill.com/policy/defense/564442-senate-panel-adds-25b-to-bidens-defense-budget"
+    ampWebUrl: "https://thehill.com/policy/defense/564442-senate-panel-adds-25b-to-bidens-defense-budget?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/564442-senate-panel-adds-25b-to-bidens-defense-budget?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pentagon_12082019_1.jpg"
+        width: 980
+        height: 552
+        isCached: true
   - title: "Joe Biden on Economic Recovery in Washington"
     excerpt: "U.S. President Joe Biden delivers remarks on the economic recovery in the State Dining Room at the White House in Washington, DC on July 19, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-07-19T16:27:00Z

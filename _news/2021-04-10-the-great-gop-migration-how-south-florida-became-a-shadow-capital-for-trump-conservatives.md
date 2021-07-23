@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Jr. and Kimberly Guilfoyle buy South Florida mansion for $9.7M"
-    excerpt: "Donald Trump Jr. and his partner, the TV personality Kimberly Guilfoyle, have reportedly picked up a waterfront mansion in Jupiter, FL."
-    publishedDateTime: 2021-04-09T18:58:00Z
-    webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 123
-    images:
-      - url: "https://www.chicagotribune.com/resizer/eY5MetWHg1EM4BGDFmOEQ8BBUUU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSTH2KLA2VC2VOE5P64ONHJS4A.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
     excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
     publishedDateTime: 2021-04-07T15:30:00Z
@@ -63,37 +47,99 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Donald Trump Jr., Kimberly Guilfoyle pay $9.7 million for Admirals Cove home in Jupiter"
-    excerpt: "After months of house hunting, Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are Palm Beach County homeowners. On Wednesday, the high-profile couple paid $9.7 million for a waterfront home in Admirals Cove, an exclusive gated community in Jupiter."
-    publishedDateTime: 2021-04-01T21:03:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/03/31/donald-trump-jr-and-kimberly-guilfoyle-buy-9-7-million-jupiter-home/4818798001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4818798001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4818798001"
+  - title: "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club"
+    excerpt: "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer."
+    publishedDateTime: 2021-04-10T11:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NPPP/83afa231-2893-4dbb-a3ab-781026601a69-IMG-6435.JPG?auto=webp&crop=827,466,x0,y157&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://i.guim.co.uk/img/media/da0361692602303bd56482725aff0035c926bd36/0_88_5166_3100/master/5166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6086a62db396c12b20bdfa14f23aabbf"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard"
-    excerpt: "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool."
-    publishedDateTime: 2021-07-16T05:11:00Z
-    webUrl: "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012"
-    ampWebUrl: "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1"
+  - title: "Donald Trump Calls CNN Report of Refusing Meeting With Matt Gaetz 'Completely False'"
+    excerpt: "Former President Donald Trump has said that a CNN news report claiming that he had refused to meet with Republican Florida Representative Matt Gaetz was \"completely false.\" \"Fake News CNN, relying on all anonymous sources, meaning they probably made the ..."
+    publishedDateTime: 2021-04-13T02:02:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1776700/donald-trump-cnn-gaetz-meeting-fake-news.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."
+    publishedDateTime: 2021-04-09T11:10:00Z
+    webUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."
+    publishedDateTime: 2021-04-03T10:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/60681af2a7d803001963e9f8?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Matt Gaetz is employing Trump-style fundraising pitches — including automatic recurring contributions that could dupe donors"
+    excerpt: "An envelope. It indicates the ability to send an email. Embattled Rep. Matt Gaetz on Thursday asked his supporters for a little cash, Donald Trump style. Gaetz's re-election campaign committee is employing a controversial fundraising strategy similar to ..."
+    publishedDateTime: 2021-04-09T20:21:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-trump-fundraising-federal-investigation-2021-04"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
+    excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."
+    publishedDateTime: 2021-04-07T19:35:00Z
+    webUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534"
+    ampWebUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 71
+    quality: 70
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/04/donald-trump-jr-kimberly-guilfoyle.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
         width: 1024
-        height: 683
+        height: 534
         isCached: true
 
 secured: "tgKGWd0z5yqNuqsXXOdMEIkvlYhskpbpxlFb1OaeNCMkgEYHCCLwHge2F8KJUE337a/3hDjupcfMoyhn6BXyP8REudq38ckK9qGMn6cqmql9mgEUpa97bwitDH3cbOKsN4nhsZPv17mXA2PCZ60TR4BWzhEuAll+G4wH36106bVu9VQ3uZqQICvm5S76523C1Q+xcIPC9DeN22TlCdJ4Gzp1m4pzLsiHY+8hFLsBGP8/AU/T+yZ0CH/sgodv15sdWFC5lMp9pTNIX7nXE1M7TJcgBAIRCeIvFiywljmFg67M8SQY6pqMNLpbkYDfU5PKwf+feLDJVopH9sjv9Jf5sEN7EsybVQylja6/+3cPbPLkRD3Re/t/2KMezjEXU6haZUkfvsMs/p3HRo2at+qJP5JHZpKB0VcvfH2Lm9mwHD7vIh7UomxPc5n+srKXGexd2DHY1TgmcrnoRAGn/fIZ+0ddCGJauXbOX/Dcb0tpgqNWIJKj7K+uq4EOio6daRR2ZGhWdELHOyLkzY43ymBqAA==;l7jadPdED3C0JhRphOXWBw=="

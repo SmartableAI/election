@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Inside Trump's intense search for a Cheney challenger"
+    excerpt: "The ex-president's team has been interviewing Republicans running against Rep. Liz Cheney. Two of them have interviews with Trump up next."
+    publishedDateTime: 2021-07-23T08:39:00Z
+    webUrl: "https://www.politico.com/news/2021/07/23/trump-cheney-challenger-500599"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/23/trump-cheney-challenger-500599"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/23/trump-cheney-challenger-500599"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fa/62/ca1651c642d9a404cdd1b25a7ddb/cheney-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "House Republicans to vote on Liz Cheney's future in leadership for rebuking Trump"
     excerpt: "Cheney has consistently criticized the former president's false claims about the election after his supporters waged a deadly attack on the U.S. Capitol."
     publishedDateTime: 2021-05-12T08:30:00Z
