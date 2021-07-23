@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/bob-dole-donald-trump/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/bob-dole-donald-trump/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump ally Tom Barrack strikes a $250 million bail deal to get out of jail"
+    excerpt: "A federal magistrate judge on Friday ordered Tom Barrack, a longtime associate of former President Donald Trump who was indicted earlier this week on charges of illegal foreign lobbying, released from jail pending trial, freeing him on a bail package that includes a $250 million bond secured by $5 million"
+    publishedDateTime: 2021-07-23T19:30:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KELCgQsTFfY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/tom-barrack-bail-hearing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/tom-barrack-bail-hearing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "9UreU1I4PBeHNabwsXDYWHsX4xpf775RNIRqrk64uZIE/8DZkwJNg+GFqyto8LV7dqMrGzaH+81rXaEmaWF0r4vIHN+oFMzItWeVuezCBfM/hPo0eHihHAqHM8wXDosEaf2mplhW4n/Jes2PCJNQxMm9xluEKphyUrEor4S9R9Q5MAGIddFRm8g9ty8RFBqh0flUboYr5cwRXO1RUKnrToIxPM4UBvUzxcgctlN2oURvuC13ADPmSJJvtnSBdKuAFEWFdnGPLatfDm8OE2BHWZUFXQaYHIj0lfvgSfhqqw7smGBjmVOeZD5tDmFDPOE3n/tqs73S6VG/8tvP35jNa+scaQZUldndSa6B9lXxnTM=;cUp6LeW0DvDAyX0bjL9N8w=="
 ---

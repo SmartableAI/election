@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-18-biden-poses-with-ice-cream-cone-on-national-ice-cream-day.md",
+      "title": "Biden poses with ice cream cone on 'national ice cream day'",
+      "excerpt": "President Biden on Sunday celebrated national ice cream day by posting an image of himself grabbing a large cone and posing for a selfie.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/046cd26b-e2c1-4a37-8872-6fc6c299da6a/b770c5c1-c8ed-4bdd-aa68-d4eabaefbd2c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp",
+      "publishedDateTime": "2021-07-18T15:50:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-18-bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings.md",
       "title": "Bill Burr savages CNN as ‘un-American pieces of s–t’ who want Trump for ratings",
       "excerpt": "Bill Burr savaged CNN anchors this week as moronic, America-hating blowhards who secretly covet a second Trump presidency because he’s good for ratings.",
@@ -1575,63 +1631,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-tucker-biden-administration-deems-censorship-applicable-to-private-speech.md",
-      "title": "Tucker: Biden administration deems censorship 'applicable to private speech'",
-      "excerpt": "Today, we learned the Biden administration considers censorship applicable to private speech as well. What you say in private, when you're alone with your phone, you won't be able to say or read what you want because the D.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech",
-      "originalUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4079e924-d89c-4b34-8ba8-f093c8b58cbb/2afceed1-004a-4a78-b7f2-cf2c2eeb2dc1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp",
-      "publishedDateTime": "2021-07-13T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

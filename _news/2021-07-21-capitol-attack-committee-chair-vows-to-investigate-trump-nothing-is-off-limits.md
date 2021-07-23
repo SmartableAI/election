@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump ally Barrack reaches bail package deal with prosecutors"
+    excerpt: "Former U.S. President Donald Trump's billionaire ally Thomas Barrack has reached a deal with prosecutors that will allow for his release from custody while he awaits trial on federal charges including illegal foreign lobbying,"
+    publishedDateTime: 2021-07-23T17:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-barrack-idUSKBN2ET20A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET20A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET20A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569790308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M12B"
+        width: 747
+        height: 545
+        isCached: true
 
 secured: "dyEhS1okY8v37mf1GHLVZFARbc4Bh38HkhEkqpUm7xGkC69RJ527xCnF3/yWz584DsuIwohkRZbWX/zlbOopIy/XFoe7BUiDsLyoFQFYpUqCUxNXjROrTDLAcr+7b4FV56Fs8ptwk8cbXu46C11yg+lmQyLvspO+wpsK7DLL4xAjz80JwtIHtIHqM/MEBAIt11bXKYuiXsvOpqs0hY1UKzs7et22bj0r1CH+QjC6Od+8xW6HXq9Qy1bwlRchz0UnoR5zedaC7jXlpVyBLrKg1E2/u/CKARiQYJgFmjy5qTbYnCQ2WgEP2mokjlrLxrM/Dlqo183vFpQ+mciaTbRCAZdaKxLQrY4fTAbWL5ki9pJQo5WoTCJPG9ehg0mXL+XCes6gA5i0baNU657Qq3ScLhA9ZLEqhTOupaZvv2287nvCgK95I1d31DMhsUAJ0t2RmsIbQ3StWrWMe7oFkH7ijPCBe8zhhNUHPbdpoPpjRJ3VCCdT6SXfbtZo5cHDUIvdyEjqGjgDzl69IqaRXIWfmw==;BXWRvkyTb6ycCOCPESM2UQ=="
 ---

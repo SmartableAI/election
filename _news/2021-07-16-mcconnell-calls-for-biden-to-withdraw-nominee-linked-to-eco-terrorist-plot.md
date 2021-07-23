@@ -98,7 +98,7 @@ related:
   - title: "Tucker Carlson: Joe Biden's Town Hall With CNN Showed Us What \"Misinformation\" Looks Like"
     excerpt: "TUCKER CARLSON: There’s been a dramatic escalation recently we need to tell you about in the Biden administration’s longest and hardest-fought war. That would be the war against what they’re calling misinformation."
     publishedDateTime: 2021-07-23T14:30:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/23/tucker_carlson_joe_bidens_town_hall_with_cnn_showed_us_what_misinformation_looks_like.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/23/tucker_carlson_joe_bidens_town_hall_with_cnn_showed_us_what_misinformation_looks_like.html"
     type: article
     provider:
       name: RealClearPolitics

@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-22-trump-hotel-raised-prices-to-deter-qanon-conspiracists-police-files-show.md",
+      "title": "Trump Hotel raised prices to deter QAnon conspiracists, police files show",
+      "excerpt": "Price increase was ‘security tactic to prevent protesters booking rooms’ in case people travelled to Washington in early March",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f4b64c9df7a74a6fe71222d931a74d717a0edcd4/0_0_4573_2744/master/4573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4a263deb2c3aa23504541f76afdebc",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "publishedDateTime": "2021-05-22T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-biden-worries-the-world-thinks-america-cant-lead-after-trump-and-that-its-beginning-to-look-to-china.md",
       "title": "Biden worries the world thinks America can't lead after Trump, and that it's 'beginning to look to China'",
       "excerpt": "Biden told The New York Times about the Irish prime minister commenting, \"Well, America can't lead. They can't even get their arms around Covid.\"",
@@ -1536,49 +1588,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-back-to-square-one-trump-decision-still-weighs-on-facebook.md",
-      "title": "Back to square one? Trump decision still weighs on Facebook",
-      "excerpt": "Suppose you were Mark Zuckerberg, recently ordered by an advisory board to decide how long former President Donald Trump should stay banned from Facebook. How do you make that decision without alienating key constituencies — advertisers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Back-to-square-one-Trump-decision-still-weighs-16173960.php",
-      "originalUrl": "https://www.chron.com/news/article/Back-to-square-one-Trump-decision-still-weighs-16173960.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Back-to-square-one-Trump-decision-still-weighs-16173960.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Back-to-square-one-Trump-decision-still-weighs-16173960.php",
-      "publishedDateTime": "2021-05-13T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

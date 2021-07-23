@@ -2,6 +2,58 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-05-18-supreme-court-could-cut-into-biden-agenda-the-note.md",
+      "title": "Supreme Court could cut into Biden agenda: The Note",
+      "excerpt": "The full meaning of the 6-3 conservative edge on the Supreme Court is only beginning to be felt. That matters for President Joe Biden and his agenda.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
+      "originalUrl": "https://abcnews.go.com/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/supreme-court-gty-jef-210517_1621286530595_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
+      "publishedDateTime": "2021-05-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-harris-county-to-lower-covid-threat-level-khou-11-confirms.md",
       "title": "Harris County to lower COVID threat level, KHOU 11 confirms",
       "excerpt": "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday.",
@@ -1303,58 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-biden-sets-a-tuesday-deadline-for-the-gop-to-bring-him-an-infrastructure-counterproposal.md",
-      "title": "Biden sets a Tuesday deadline for the GOP to bring him an infrastructure counterproposal",
-      "excerpt": "After a week of bipartisan meetings, Biden wants the GOP to expand on their $568 billion infrastructure counterproposal, and he wants to see it soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5",
-      "originalUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6085739e0da8f40018033533?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5?amp",
-      "publishedDateTime": "2021-05-14T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

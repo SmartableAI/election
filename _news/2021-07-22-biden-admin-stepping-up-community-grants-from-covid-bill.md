@@ -152,17 +152,26 @@ related:
   - title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
     excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
     publishedDateTime: 2021-07-22T23:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/60c318c0fb843ebc8e887a850bec455a/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/60c318c0fb843ebc8e887a850bec455a/BIDEN-INFRUSTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
+  - title: "No, Joe Biden doesn’t want to ban handguns"
+    excerpt: "When President Joe Biden was asked in his Ohio town hall what he plans to do about rising homicides, House Republicans were quick to fire off a tweet to their followers. \"President Biden says he wants to ban handguns,"
+    publishedDateTime: 2021-07-22T20:31:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/22/national-house-republicans/no-joe-biden-doesnt-want-ban-handguns/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 35
 
 secured: "rvIpbwALDCSppwXtlSP2c8d6O9kInfWeqlaHec2L3Sxowi7zllzOOePXV9X9N/EZJWqV+QRB/UNyPVBLLca+XgHAKwwykwpmp9MU9p2MPu92cdUiDQ9OcRgAI1PVX4+1VtQ9yifGOEvm0gvtKUV/xXBpx0vYdj/8KrWUtvBu+cQiEI09h6oKiYgeKqmz7134BDgR7nkhBLd3o8CwDktT4KNDQead9berp+Tc5nfmZRZPHZkWUBmFu5o/6EjI6Re5yd/7MQzVMBsqx8HlI53QSSWOaUYhRIkNXcG9qR5MfchOU0sI074sWCoYuzHPldLpYgB4boGYBxcpS7+cHEZZEipX9dBbcJymn/ipqrzUQdk=;6diu/Si4hbogdJ0kO9CoNQ=="
 ---

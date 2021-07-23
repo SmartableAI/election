@@ -2,6 +2,58 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-04-09-melania-trump-tough-smart-and-knows-what-she-wants-out-of-marriage-biographers-say.md",
+      "title": "Melania Trump 'Tough,' Smart And Knows What She Wants Out Of Marriage, Biographers Say",
+      "excerpt": "Four of Melania Trump's biographers have some conflicting views about the former first lady, but they all agreed that she is \"tough\" and smart, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648?amp=1",
+      "publishedDateTime": "2021-04-09T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-trumps-quieter-hold-on-gop-stays-strong-the-note.md",
       "title": "Trump's quieter hold on GOP stays strong: The Note",
       "excerpt": "But they share a focal point: former President Donald Trump. The gatherings, organized by the Republican National Committee and two different Trump-friendly outside groups, will take place at and ...",
@@ -1292,62 +1344,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp",
       "publishedDateTime": "2021-04-08T07:10:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-doj-slow-to-act-on-opioid-crisis-despite-ag-garland-saying-it-should-be-high-priority.md",
-      "title": "Biden DOJ slow to act on opioid crisis despite AG Garland saying it should be 'high priority'",
-      "excerpt": "Attorney General Merrick Garland pledged to make the opioid crisis still plaguing America a \"high priority\" for the Department of Justice (DOJ), but it seems as though the Biden administration has put the situation on the backburner.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9791ea4e-28cf-44ee-8e5e-eaf4871bac13/6e5b12ba-498f-4f5a-8725-881901e745e5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
-      "publishedDateTime": "2021-04-08T07:06:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

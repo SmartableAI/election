@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-trump-covid-psa-welcome.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-trump-covid-psa-welcome.amp"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration not mandating COVID vaccines for White House staff, Psaki says"
+    excerpt: "The Biden Administration is not mandating COVID-19 vaccines for White House staff, press secretary Jen Psaki said Friday."
+    publishedDateTime: 2021-07-23T18:17:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7OC6gFzCYA/biden-mandating-covid-vaccines-for-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mandating-covid-vaccines-for-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mandating-covid-vaccines-for-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki says WH will 'welcome' COVID-19 vaccine PSA from Trump as cases rise"
     excerpt: "Fox News’ Peter Doocy asked Psaki if President Biden would reach out to Trump to “cut a PSA” telling people to get vaccinated against COVID-19."
     publishedDateTime: 2021-07-19T20:18:00Z

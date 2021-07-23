@@ -3,8 +3,8 @@ category: news
 title: "Tucker Carlson: Joe Biden's Town Hall With CNN Showed Us What \"Misinformation\" Looks Like"
 excerpt: "TUCKER CARLSON: There’s been a dramatic escalation recently we need to tell you about in the Biden administration’s longest and hardest-fought war. That would be the war against what they’re calling misinformation."
 publishedDateTime: 2021-07-23T14:30:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/23/tucker_carlson_joe_bidens_town_hall_with_cnn_showed_us_what_misinformation_looks_like.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/23/tucker_carlson_joe_bidens_town_hall_with_cnn_showed_us_what_misinformation_looks_like.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/23/tucker_carlson_joe_bidens_town_hall_with_cnn_showed_us_what_misinformation_looks_like.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/23/tucker_carlson_joe_bidens_town_hall_with_cnn_showed_us_what_misinformation_looks_like.html"
 type: article
 quality: 56
 heat: -1
@@ -107,6 +107,6 @@ related:
         height: 405
         isCached: true
 
-secured: "8iWu9DWeUJI5tudB51NHT/faWfBArOS1/nMnY/MMG7eu74DwZ1j7nnQqRGk4ljQfxrwGzbXGgEImweEzNhBDyrV6k/b3wmpQfRx6lgE7C3jQdeQ46r75LhR37BtixrbrZM783rn0uhUbR2+KEtcSBgnoDeQlOtQNdXsrGsYMp9WeIcI+dxgF2buKUj1//C6bZBu6odli/qC3fIVIXK4vOK6YDyX1IKnjdcTX2Hn0aahvhYk3xM3/mgUGW8Bs5sB9z+2+nqx9/RkPlM2wkUI9i8E0o5LfXBNV2oO7frA8amtw45uGmi6Y0lNfGtJVgqQBFqmEXcRv+wNTwM52PkwtieCGk5NuIfKrvzKdxe7A15TjJFvoHb8di1kkuYutCSrKw5m4iAyS1T5/reSXUdQhprTKWXHC5Zr7Yq/H6DjjFyPFAp8wBg4bpvEp9fnKZdlHB8ndIuEyCoIjun14ry/h6YY3cGrbANVz+bbQvohgWPNikgSXfSn20AtWKVStlhqbaBuSiMQwZdQd9zlY0GEZIw==;NrDu4dj4BfKbiFWuMblw0w=="
+secured: "Kkf6xRyeD2w7Q84uVsQud5eIJANw6ukU/iaBh4MozAtpQs9huMcq3owl6mcUDx6W9yHtcHcemRZ4vYOWfNg2t/77QE5zJ0GcYd9B+XPq0cgJPzhi+0H53883ER+Oi0kV3oUDgjXWZkLFsGiut2shhzB91atGV+KdxtUje4q4spzSLkb3BLpLNrcVUeq8rSBgW/nLV7pUnKtMRiPy/9pd0/pBvkxYMCVySeFnXxgAnVVBhsfu8t9r0lcJw3bXgRt3MuFuuss1ASAIdDqiDGYwewjrUUaOZj05KtyGzQ+60WSSnADztTh4+AhcMk1RzCILMA/rVPoTvHy4HvPSrMKhKeo3Pi8Xu1ABcEZngPA+yFU=;Mkg7zS+YgCXQnZm0fyucLw=="
 ---
 

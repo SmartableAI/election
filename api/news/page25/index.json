@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-06-09-biden-says-us-not-seeking-conflict-with-russia-as-putin-meeting-looms.md",
+      "title": "Biden says US 'not seeking conflict' with Russia as Putin meeting looms",
+      "excerpt": "President Biden said Wednesday he will reiterate to Russian President Vladimir Putin at an upcoming summit that there will be “consequences” if Russia takes harmful action toward democratic governments.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
+      "publishedDateTime": "2021-06-09T16:15:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-analysis-europe-is-opening-to-tourists-when-will-biden-make-the-move.md",
       "title": "Analysis: Europe is opening to tourists. When will Biden make the move?",
       "excerpt": "Two completely different takes on whether travelers should have to prove vaccine or Covid test.\n    \n",
@@ -1289,62 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-gop-reps-say-biden-admin-downplaying-border-crisis-only-empowers-bad-actors.md",
-      "title": "GOP reps say Biden admin downplaying border crisis only 'empowers bad actors'",
-      "excerpt": "Republican members of the House of Representatives blasted the Biden administration for downplaying the crisis at the southern border, saying the decision \"empowers bad actors.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alL88IQEJm4/gop-biden-border-crisis-empowers-bad-actors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alL88IQEJm4/gop-biden-border-crisis-empowers-bad-actors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a4c2abd-87f5-4752-be3f-94e17533012e/8087ecda-dc5d-4e4e-8af2-933f901d4dc5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-biden-border-crisis-empowers-bad-actors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-biden-border-crisis-empowers-bad-actors.amp",
-      "publishedDateTime": "2021-06-08T14:58:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

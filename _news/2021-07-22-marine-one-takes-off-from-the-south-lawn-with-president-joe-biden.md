@@ -148,17 +148,26 @@ related:
   - title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
     excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
     publishedDateTime: 2021-07-22T23:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/60c318c0fb843ebc8e887a850bec455a/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/60c318c0fb843ebc8e887a850bec455a/BIDEN-INFRUSTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
+  - title: "No, Joe Biden doesn’t want to ban handguns"
+    excerpt: "When President Joe Biden was asked in his Ohio town hall what he plans to do about rising homicides, House Republicans were quick to fire off a tweet to their followers. \"President Biden says he wants to ban handguns,"
+    publishedDateTime: 2021-07-22T20:31:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/22/national-house-republicans/no-joe-biden-doesnt-want-ban-handguns/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 35
 
 secured: "Sxi6TIh0CrH/p3oy5lHJ5KoM7/5zSIN04gpjj3vM1gUf5nWJhPZayUsdu38LgHwxy+LmrwdAax+idGHmUKeBUvLq5judSXhAsG5BFJOU6V1RhBqaKPodXDdi3Y0k0Xcs4HfHSpB2gyWQrnU5ndOfsV8nk9aObvAUZWvIFzC3yt455eCiqzGjWFqTITImb8xbJHeNL9XWbSbGjfQBkvOGTQ8FXyIw7YbA/9W3q2Y3mOyxAe0FQ/Xv3TPtRkkWGuNGbDaWv/l3ZTRuSNawHwbYGDXf0i4CBLMAIzM3OSoyhErNOGlXoU+zM9wIndTxceORJBbNubwGmpLNcwBPTb/Vz0ZyyCHw1wbw2OfyuWK6/WtRtrHd0hrND6QqSTQiwuy/ZDrXvX5f68KfptqoyJTeIV3LGxpwftAfXPXveklaNVkTdSWPS17a2JIIc5Wt/4mbvCuQjjByVMqtyYeWVDaeA5shTFgFdNLMJfsR3ckH9PKkyOmVHXYj+mLuAl+vWGzAdfXhdkhL6Y/XV69Wq1VYYQ==;QiWZVczQoPvBVpBDsVU5KQ=="
 ---

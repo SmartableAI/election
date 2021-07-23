@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration not mandating COVID vaccines for White House staff, Psaki says"
+    excerpt: "The Biden Administration is not mandating COVID-19 vaccines for White House staff, press secretary Jen Psaki said Friday."
+    publishedDateTime: 2021-07-23T18:17:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7OC6gFzCYA/biden-mandating-covid-vaccines-for-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mandating-covid-vaccines-for-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mandating-covid-vaccines-for-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ted Cruz: Jen Psaki's Comments About Misinformation Strengthened Trump's Case Against Big Tech"
     excerpt: "Texas Sen. Ted Cruz slams the Biden administration for working with tech companies to \"unconstitutionally\" censor COVID content during an interview with FNC's Maria Bartiromo on \"Sunday Morning Futures\": CRUZ: It was undoubtedly collusion."
     publishedDateTime: 2021-07-18T18:25:00Z

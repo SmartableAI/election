@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-oppon
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump ally Barrack reaches bail package deal with prosecutors"
+    excerpt: "Former U.S. President Donald Trump's billionaire ally Thomas Barrack has reached a deal with prosecutors that will allow for his release from custody while he awaits trial on federal charges including illegal foreign lobbying,"
+    publishedDateTime: 2021-07-23T17:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-barrack-idUSKBN2ET20A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET20A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET20A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569790308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M12B"
+        width: 747
+        height: 545
+        isCached: true
   - title: "Capitol attack committee chair vows to investigate Trump: ‘Nothing is off limits’"
     excerpt: "Bennie Thompson tells Guardian he will pursue wide-ranging inquiry to uncover root causes of January 6 attack"
     publishedDateTime: 2021-07-21T05:52:00Z

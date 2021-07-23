@@ -152,17 +152,26 @@ related:
   - title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
     excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
     publishedDateTime: 2021-07-22T23:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/60c318c0fb843ebc8e887a850bec455a/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/60c318c0fb843ebc8e887a850bec455a/BIDEN-INFRUSTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
+  - title: "No, Joe Biden doesn’t want to ban handguns"
+    excerpt: "When President Joe Biden was asked in his Ohio town hall what he plans to do about rising homicides, House Republicans were quick to fire off a tweet to their followers. \"President Biden says he wants to ban handguns,"
+    publishedDateTime: 2021-07-22T20:31:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/22/national-house-republicans/no-joe-biden-doesnt-want-ban-handguns/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 35
 
 secured: "KtfwDjl/WbuS52kl/erKHl80Yr8Z9TiDQ0RR45K4N8rpyIMzsbn2Y9khZFRb7lwRDPe+pm1ezWVtaUdwoSHxsAkBSMGXEXzD7xiQfoNXQAYGcYtMCdvt8+fTTtBB4GbM36RR4vX4jVQm/tkAFbTMBBrrPg4JiH1NizKyuJNig63Tr35lrmTeploFvYvK2zecSttFsrKLDSNTs+Hns/Hu7nZbnXGXSH0fHfy1f3eOkJnXLWkdrqOTXpSSL36mezo3++N3B+pb0kcy31pKb7MKmndyLQBTuItZFZWz7rHvw19C7o1S9nfwUV3xWwbSBf6gH8N6hrRTTYR7pTm2gUE/uOAw8lEPZfop7j5IWGCDLGTH/X5SM3HUsgKhAsPL2lWtHxIkgGfxgVzQPcAUskEWXEKJJXPfJsqtm9B4oN4qi+zEEXuZQfINFsksHrwVysbUU3eHGErkEfvlynuJiUVPdGsNlVMVonpwxL/geym7Dtbg1M0xK/N/Q8PuimryRIf6IyDlqrCLK/X2ADptNAfh5w==;YJidU+AUxFIQO0KrhdV8AA=="
 ---

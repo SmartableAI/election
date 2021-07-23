@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-10-pro-biden-super-pac-warns-voters-cant-name-his-accomplishments-as-midterms-loom.md",
+      "title": "Pro-Biden super PAC warns voters can't name his accomplishments as midterms loom",
+      "excerpt": "A super PAC supporting President Biden warns that Democrats could face defeat in the 2022 midterm elections if they don't campaign more \"aggressively\" on Biden's policies. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ld-iqgW9OHA/biden-super-pac-voters-accomplishments-midterms",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ld-iqgW9OHA/biden-super-pac-voters-accomplishments-midterms",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-super-pac-voters-accomplishments-midterms.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-super-pac-voters-accomplishments-midterms.amp",
+      "publishedDateTime": "2021-07-10T16:15:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-trump-ally-matt-schlapp-complains-hes-not-welcome-on-cnnwhile-on-cnns-cuomo-prime-time.md",
       "title": "Trump Ally Matt Schlapp Complains He's 'Not Welcome' on CNN—While on CNN's 'Cuomo Prime Time'",
       "excerpt": "A visibly annoyed Chris Cuomo appeared to challenge Schlapp's reason for coming on the show if all he wanted to discuss was whether President Joe Biden defeated Trump last year.",
@@ -1309,59 +1365,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-rupert-murdoch-approved-fox-news-calling-arizona-for-biden-book-claims.md",
-      "title": "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims",
-      "excerpt": "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
-      "originalUrl": "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ce605a7b8f34ae08a973d02474c80f693186c85c/0_0_3280_1968/master/3280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f16e06960bae0821364feece0851061f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
-      "publishedDateTime": "2021-07-09T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
       ]
     }
   ],

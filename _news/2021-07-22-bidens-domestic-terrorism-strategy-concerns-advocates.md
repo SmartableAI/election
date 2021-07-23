@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration terminates two border wall contracts in Texas"
+    excerpt: "US Customs and Border Protection is terminating two border wall contracts in the Laredo sector that cover approximately 31 miles, the Department of Homeland Security announced Friday.\n    \n"
+    publishedDateTime: 2021-07-23T18:40:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/djEsXAAwwyI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180407131305-laredo-texas-national-guard-troops-mexico-border-lavandera-pkg-00004805-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden promises answers on European travel ban 'in the next several days'"
     excerpt: "President Joe Biden said Thursday he'll soon be able to answer persistent questions about travel to the US from Europe after German Chancellor Angela Merkel raised the matter in the Oval Office.\n    \n"
     publishedDateTime: 2021-07-15T22:55:02Z

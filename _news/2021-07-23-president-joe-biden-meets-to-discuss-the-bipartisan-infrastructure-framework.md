@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
 excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
 publishedDateTime: 2021-07-22T23:00:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/60c318c0fb843ebc8e887a850bec455a/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/60c318c0fb843ebc8e887a850bec455a/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/60c318c0fb843ebc8e887a850bec455a/BIDEN-INFRUSTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -159,7 +159,16 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "No, Joe Biden doesn’t want to ban handguns"
+    excerpt: "When President Joe Biden was asked in his Ohio town hall what he plans to do about rising homicides, House Republicans were quick to fire off a tweet to their followers. \"President Biden says he wants to ban handguns,"
+    publishedDateTime: 2021-07-22T20:31:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/22/national-house-republicans/no-joe-biden-doesnt-want-ban-handguns/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 35
 
-secured: "UMXtgRLRcf8UF5dsnsGBrrelAzre8RsRovF9b0yUUcwWnLQQAgXpLOlENhO4O9o94wiaOTD+h6mXuOx3cSjB1CgJOLwSShhx9DCnKaZxTpwfnITvpAIGuFeJaMrTKctMNq0U5/UIwFsVnNEIwPeMNv42ROcT2llR/He7tf4/32173WeTeC0zQ3JsVngP0pB6Ev0KyoyqnXlqDktV762QrCPrO92CQmuCPfvjoPCVmhV5385KZ1DSkpsykojGo2Xq7l7enV07S+r+JpSEeUDLVdwWe/1qs5x/dsm7S8n9WU4UEfFFUVtuuUzPu83VjFzNBr6lAWRgG9QjqM49RH7065OWSPxtYPcPYjZgBsSfzuE=;lK3UIBa6LifH44s9PTBJ2w=="
+secured: "laZLwPZPxbpNJyx3gBnZYNjAzTWcPJidLIQtfk3fdoEJHO6cbcVontBs7gAWH2Y5RHIFOfd9/JklgUCLYEJ17RT739z9u+bgZWxfl0IEqqB+u/oXLEQpopmw/0Dt4kMW4g+33j9B0bxQ5qOX+yCuTDrUfXjI+9VP6adHUrmi+zQVjrqxjmZjVKavc9EqMKJxE/5lTsvjL29KglMN90JWigxMEtHCU0amw9VWVqrqtqxFNh+YxCh9dMWUznjG5x+Sj+lwnIRydVinhkZ/6qhBM28ZxXA/uKupsHhXRVV4qAgs06v095HAP9/ISAodKnggAYAk0/it9M1U3qmB5Xfzn3/mg1aSDDel56W5G+oj690=;aYo/bcN4tYTsvWoRROh2uA=="
 ---
 

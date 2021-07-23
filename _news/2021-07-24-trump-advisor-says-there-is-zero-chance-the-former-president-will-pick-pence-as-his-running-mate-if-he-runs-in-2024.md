@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -48,7 +48,23 @@ related:
         width: 2500
         height: 1664
         isCached: true
+  - title: "The chair of former President Donald Trump’s inaugural committee to be released on $250 million bail"
+    excerpt: "The chair of former President Donald Trump’s inaugural committee who faces charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy was ordered released from jail Friday on $250 million bail."
+    publishedDateTime: 2021-07-23T19:45:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 60
+    images:
+      - url: "https://www.baltimoresun.com/resizer/O2x20Ct3l2CEiOK9Po_o0rOWwtM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSL6K3AQQTTDR4IZIYSGHTOPNY.aspx"
+        width: 1200
+        height: 704
+        isCached: true
 
-secured: "QAaJRVvFKQq06i3p+4xjqvSBeeMcFJWV3Ix41ktCq1xJgzvJ5zwHC3AskBVCpdh7kf3jO0OmW3feF+Es0f2a17UhHvdnlSA9wlhlioe3+GkP7NDRlRaQPzq4jfyBy9A+a6ym4tJeM+8HL6Gz9X0+gPRGYSbZxTZp1huUyz9WsLCMjPZUqrhPhdyhVkQK0yvJ082vt5Y3a9SV+eUjUXTXAnUtyJ6AsA7b98UIlF4D0FCNzhH7ejm2lR4SnuKpGbuM0kmBvFZkliZw3jkseeX5R54F4XEZPtPpDk5jN0Boud+dxDcdyQYyb6uyslRVkaI2MAyRsAy8JpAtfDxHVh+TQ40wEYx6jZRh4KETJ6kuNcM=;pH+F3/oG+g8+B5EWFH6vcg=="
+secured: "Ga2dp0oOmPeqmXk+3sJpIomU2CwrH+CO+A0LQ4y7Q5iIjyIfU+GM1C+cC2KjQag/Lm/x0yduiQVhbfc/xilCFX6BCrZLEJqaGuoH3i+DCVo1URuT1Ed97R5K3O0pXBNpEaGv3utJdl8/ePG8/BIZfh4mX0E0AY0iXYps29bQBsPuDVGAT98yBNzGqlWEALJl4fGUG89o9E5FbFBuVQILUOh0EEKOI9WX15VfXW/OPULf1OLyp9rM1o3YpwOmocGKwRpNY94elocVKpnwlKGMbvojj43JnoAo20tfkTmPCYL4AKIDXHurJpS+pkC3x+hqkBM8CNCA04mUsdHYMQ6w5XHOd6hG8X+vtAfLzAfY1Y9xqJQdMtkgvLX86v0WIAsvQzeutrP0Nsqj1Gm25c56MWXF1FjBMk9f5mDjXXyr4qTobmSWRQSwolv7He7I0tr72BSMO2DHNJJTs9ehONpZQ9QaI8eoI8iFxBPPNgaBW6NzgN3CzmqVqTS7zWJqSXl2HG48DMPF/ZInhkrcOeNlxg==;ipQZ0Sl1ingtt21hcEp6gQ=="
 ---
 
