@@ -2,11 +2,13 @@
 category: news
 title: "Vice President Kamala Harris meets with DACA recipients"
 excerpt: "Vice President Kamala Harris met with DACA recipients and immigration advocates Thursday, nine years after the \"Deferred Action for Childhood Arrivals\" program was created for people who had been brought to the U."
-publishedDateTime: 2021-07-22T18:28:00Z
-originalUrl: "https://www.cbsnews.com/video/vp-harris-meets-with-daca-recipients/"
-webUrl: "https://www.cbsnews.com/video/vp-harris-meets-with-daca-recipients/"
+publishedDateTime: 2021-07-22T21:09:00Z
+originalUrl: "https://www.cbsnews.com/video/kamala-harris-meets-with-daca-recipients/"
+webUrl: "https://www.cbsnews.com/video/kamala-harris-meets-with-daca-recipients/"
+ampWebUrl: "https://www.cbsnews.com/amp/video/kamala-harris-meets-with-daca-recipients/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/kamala-harris-meets-with-daca-recipients/"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -197,6 +199,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Harris meets DACA recipients after federal ruling"
+    excerpt: "U.S. Vice President Kamala Harris on Thursday told immigrant rights leaders that the Biden administration \"will be tireless in fighting for a pathway to citizenship,\" as the White House pushes for Congress to move on immigration reform."
+    publishedDateTime: 2021-07-22T22:57:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/nation/2021/07/22/harris-meets-daca-recipients-after-federal-ruling/8064011002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0fa611c0-7731-4f33-b698-61e222fff9bf_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
     excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
     publishedDateTime: 2021-07-22T18:06:00Z
@@ -256,6 +272,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+ZSLXvtf+wifvdtm/Y9CwDfoykjsNSX6H/QC9TYVtLnGF26mnb0UupFfJSVnAxzmnJOxH442MRB/umx0wGyYRJ1zYjTaXLGZotIOxe33D25H4sZ1hGeYcFtMCW2l5JDqcy1xHxueB7aoYCMM9T3940HewSj0iqHilweuSWaz7HZ+oEbxRIT4pUaJFtj14e6Qv4Lwpc6jQ/VJGQWSVWkbAGQEfW+YB5VNhgCBdNFPRvBTiFtjifUL1iTQY+B+ws1M9zMfVpyjTa6KPnCgN3scvWuz9jBmxVodp8k/3BNujVSYsrCT53e1hmUzVWpTwc1vx9OIOoNS68uK1/oyNCPqH2ppDIfDoh8CRoELha+MpbM=;HhvN/CJ4jKlJTp/eQaJM1A=="
+secured: "zLftiGnwkOog+JgxtdPV9dZ0Z0lOoIlHGLZX0mGnaarU5WlBm+yoQP4DoPB1vnmHJVmxiLYVw4K3A4PFXbngzTja91EvW5Ao0LEpye2mMHrYVb6UgSlRYPeuhCXEQ/ocA4RINfeOfx242B6zL2gZ2M52IIf4h1/IBI5slsR7LKWAWVuw1+lal91hrx3+XTohncinfl66brYPlNVuObP0kH6oEAlwRlL7Y0g4/eo3gvPRFINcSKn7yYmhbgSUpggtEmc1W7qd7ibRPfco53kFA1zwM9E9p0+tufJvxhfW6SGnsnBEpOxyn6MTWO2pWqLeowOg92PMibO5Ohq4bpsK4+LYP6TOJ72TUuwG5exAjYo=;V6qC320V8ZSsJ0nIpAB7BQ=="
 ---
 

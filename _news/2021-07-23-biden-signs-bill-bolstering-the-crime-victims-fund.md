@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden admin stepping up community grants from COVID bill"
-excerpt: "President Joe Biden’s administration says it is making $3 billion in economic development grants available to communities — a tenfold increase in the program paid for by this year’s COVID-19 relief bi"
-publishedDateTime: 2021-07-22T04:22:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+title: "Biden signs bill bolstering the Crime Victims Fund"
+excerpt: "President Joe Biden signed a bipartisan bill Thursday to strengthen the Crime Victims Fund, which helps to support victims of domestic violence, sexual assault and other crimes. The bill passed unanimously in the Senate Tuesday,"
+publishedDateTime: 2021-07-22T22:29:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-signs-bill-bolstering-crime-victims-fund/8063939002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-signs-bill-bolstering-crime-victims-fund/8063939002/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_04484eac6e6c45f8b6675e1937c8fada_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1d5e379-0e26-4c8e-a073-e983227456ef_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568977952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0XV"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden admin stepping up community grants from COVID bill"
+    excerpt: "President Joe Biden’s administration says it is making $3 billion in economic development grants available to communities — a tenfold increase in the program paid for by this year’s COVID-19 relief bi"
+    publishedDateTime: 2021-07-22T04:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_04484eac6e6c45f8b6675e1937c8fada_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden praises child tax credit payments as ‘historic step’ to end child poverty – live"
     excerpt: "Biden says – follow all the latest politics news"
@@ -107,20 +121,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden signs bill bolstering the Crime Victims Fund"
-    excerpt: "President Joe Biden signed a bipartisan bill Thursday to strengthen the Crime Victims Fund, which helps to support victims of domestic violence, sexual assault and other crimes. The bill passed unanimously in the Senate Tuesday,"
-    publishedDateTime: 2021-07-22T22:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-signs-bill-bolstering-crime-victims-fund/8063939002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1d5e379-0e26-4c8e-a073-e983227456ef_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "3 takeaways from President Joe Biden's CNN town hall"
     excerpt: "President Joe Biden took questions from Ohioans on Wednesday at a CNN town hall, touching on his administration response to Covid-19, his work with Congress and many other issues."
     publishedDateTime: 2021-07-22T01:23:00Z
@@ -150,6 +150,6 @@ related:
         height: 433
         isCached: true
 
-secured: "rvIpbwALDCSppwXtlSP2c8d6O9kInfWeqlaHec2L3Sxowi7zllzOOePXV9X9N/EZJWqV+QRB/UNyPVBLLca+XgHAKwwykwpmp9MU9p2MPu92cdUiDQ9OcRgAI1PVX4+1VtQ9yifGOEvm0gvtKUV/xXBpx0vYdj/8KrWUtvBu+cQiEI09h6oKiYgeKqmz7134BDgR7nkhBLd3o8CwDktT4KNDQead9berp+Tc5nfmZRZPHZkWUBmFu5o/6EjI6Re5yd/7MQzVMBsqx8HlI53QSSWOaUYhRIkNXcG9qR5MfchOU0sI074sWCoYuzHPldLpYgB4boGYBxcpS7+cHEZZEipX9dBbcJymn/ipqrzUQdk=;6diu/Si4hbogdJ0kO9CoNQ=="
+secured: "YZxuF4f37e54GS4lvM1qL9BvXPOJIYNKTYeXRYJ2hmi2cZz5Ep0Jupp4Y67Z2FE5EVCfdVVU3GDvXYd/rjxF1S99QKSmPMOlkenqmE5Wri3uvy3ELrxq+SC8JVPrgkdzoRswY2Gbmn8grWoC57fbAmpkY7y5yrQBxgMjDC5eLeFqY59lxHg7Nn0V19Y2hcAZ17B8VvhXETm296KxVoEnTU+sWZk1+v3wueRFgVOlJwiGDF9TvjFnbWumR6N8rm6FkkxNFWYomtafn4nA8qb8vtW7y0HneZCgkUkKuK4NCd9B/2YwPkBngfJsIrVr51GsMHUbZUwpM15lE7u+FUl3kAVVLuBiaKNzJbMek+EP5fA=;3WTV/oGC8hij3caiJnw+Rg=="
 ---
 

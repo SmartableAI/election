@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden officials shift to an urgent tone as Covid-19 fight enters troubling new phase"
+    excerpt: "Biden administration officials acknowledged Thursday the pandemic that appeared to be waning a month ago has entered a new, troubling phase.\n    \n"
+    publishedDateTime: 2021-07-22T23:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yrPutT3E-HU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/covid-19-urgent-tone-form-biden-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/covid-19-urgent-tone-form-biden-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623003752-us-coronavirus-wednesday-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden backs away from his claim that Facebook is 'killing people' by allowing Covid misinformation"
     excerpt: "President Joe Biden continued to put pressure on Facebook on Monday over the online dissemination of Covid-19 vaccine information, but backed off his recent accusation that the company was directly responsible for \"killing people\" and suggested it was merely allowing misinformation to spread.\n    \n"
     publishedDateTime: 2021-07-19T17:42:42Z

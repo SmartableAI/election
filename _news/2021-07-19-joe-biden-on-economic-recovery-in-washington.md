@@ -76,7 +76,7 @@ related:
   - title: "Biden pick to lead public lands bureau poised for full Senate vote"
     excerpt: "A U.S. Senate committee on Thursday voted 10-10 along party lines on President Joe Biden's nomination of Montana conservationist Tracy Stone-Manning to lead the Bureau of Land Management, setting the stage for a vote by the full Senate."
     publishedDateTime: 2021-07-22T19:17:00Z
-    webUrl: "https://www.reuters.com/article/legal-us-usa-biden-interior-idUSKBN2ES2E2"
+    webUrl: "https://www.reuters.com/article/legal-us-usa-biden-interior/biden-pick-to-lead-public-lands-bureau-poised-for-full-senate-vote-idUSKBN2ES2E2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ES2E2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ES2E2"
     type: article

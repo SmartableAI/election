@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Kamala Harris’ ‘toxic work culture’ exposed as aides claim VP made ‘interns cry and left staffers afraid she would snap’"
-excerpt: "KAMALA Harris’ former aides have described a “toxic work culture” in which the then-Senator reportedly made interns cry and left staffers afraid she would snap at them. Staffers"
-publishedDateTime: 2021-07-15T18:42:00Z
-originalUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/"
-webUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/"
-ampWebUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
-cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
+title: "Harris meets DACA recipients after federal ruling"
+excerpt: "U.S. Vice President Kamala Harris on Thursday told immigrant rights leaders that the Biden administration \"will be tireless in fighting for a pathway to citizenship,\" as the White House pushes for Congress to move on immigration reform."
+publishedDateTime: 2021-07-22T22:57:00Z
+originalUrl: "https://www.cincinnati.com/videos/news/nation/2021/07/22/harris-meets-daca-recipients-after-federal-ruling/8064011002/"
+webUrl: "https://www.cincinnati.com/videos/news/nation/2021/07/22/harris-meets-daca-recipients-after-federal-ruling/8064011002/"
 type: article
-quality: 50
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: the-sun.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/SF-kamala-harris-toxic-work-culture-exposed-UPDAte-OFF-PLTFRM-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1200
-    height: 800
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0fa611c0-7731-4f33-b698-61e222fff9bf_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -211,20 +209,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Harris meets DACA recipients after federal ruling"
-    excerpt: "U.S. Vice President Kamala Harris on Thursday told immigrant rights leaders that the Biden administration \"will be tireless in fighting for a pathway to citizenship,\" as the White House pushes for Congress to move on immigration reform."
-    publishedDateTime: 2021-07-22T22:57:00Z
-    webUrl: "https://www.cincinnati.com/videos/news/nation/2021/07/22/harris-meets-daca-recipients-after-federal-ruling/8064011002/"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0fa611c0-7731-4f33-b698-61e222fff9bf_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
     excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
     publishedDateTime: 2021-07-22T18:06:00Z
@@ -253,6 +237,22 @@ related:
         width: 650
         height: 434
         isCached: true
+  - title: "Kamala Harris’ ‘toxic work culture’ exposed as aides claim VP made ‘interns cry and left staffers afraid she would snap’"
+    excerpt: "KAMALA Harris’ former aides have described a “toxic work culture” in which the then-Senator reportedly made interns cry and left staffers afraid she would snap at them. Staffers"
+    publishedDateTime: 2021-07-15T18:42:00Z
+    webUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/"
+    ampWebUrl: "https://www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3289141/kamala-harris-toxic-work-culture-aides/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 50
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/SF-kamala-harris-toxic-work-culture-exposed-UPDAte-OFF-PLTFRM-COMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "BRB, Framing This Pic Of Olivia Rodrigo And Kamala Harris Laughing In Matching Pink Suits"
     excerpt: "While visiting the White House to promote youth vaccinations, Olivia Rodrigo matched with Kamala Harris. Both wore suits in the same shade of blush pink."
     publishedDateTime: 2021-07-16T16:54:00Z
@@ -268,6 +268,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Ba1lbBQT7Uq6ykWqgN5PKHuOd/C/3dK/snqmfqcopd0EVA5Ir/0+TWttit5fgsxFlp1BhdBnWXYeOGzxoSXrwolnhUzwZWOHEZXe8WDuEDdjpLGjvGPRi3Bp7xHS7fC9LxabfUnzF0V1CBR0GTPXOsguplW2ECw5Ak4jbylZKQcl5irgsvLy9Rj5uGPzE4OYB5QKAtR0ptmT/eGo5WNVTzF3vadqC8NFx39WBQMtfFgQbWyMewAFsg92vrlyTjzCddnFyjRdJ/tpr9ylOS//TqAsESM66lo4MQuWTBhZQNadEvuTDpTCK32I9QCTMvAzCCYlmugVc/rgvzb4fwOetliDcCu6dQOfhCUmjDLkfew=;GA0OWXT7bGEI50ENPqRXiQ=="
+secured: "SKyQFzQJE8S9pyQQVLqyoRWqR3hXyPq6lSEGYrwlNireOoqCJdGTjz5SyTpLe/+NvLJt34WoYLPq4AT6RO6VhSmSPF7idvzv5DzQIYdpgVAXflN6ynVTbbhlG0nJgI+EvJECKEm1BqxwhZZejmv1GCgYlVq5MRoD/vdlykb5thG3iUvhoGDzeD0fsHm58zRCp481gb8cFKYxw/xvg+IHDRb+tH5jkAg48FhZg2TvgrMLGBTGF0kHj7DJ3QbKuQDMTk97nNdgIA80eZFZem866cRRy2buNUjzREuuJHOmoWXQJ3j51WBwSbjWXGhCpU6XSxdAuyFNA/r4279AZjGNrj9OqliIYI404IFe6/meEXY=;AvCSZasekoEdh/swtRURdA=="
 ---
 

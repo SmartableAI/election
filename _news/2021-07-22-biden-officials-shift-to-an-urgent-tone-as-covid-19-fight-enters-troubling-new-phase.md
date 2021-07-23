@@ -1,34 +1,33 @@
 ---
 category: news
-title: "'They're killing people': Biden blames Facebook, other social media for allowing Covid misinformation"
-excerpt: "The White House has warned in recent days that false claims shared on those platforms are contributing to a decline in U.S. vaccination rates."
-publishedDateTime: 2021-07-16T21:21:00Z
-originalUrl: "https://www.nbcnews.com/politics/white-house/they-re-killing-people-biden-blames-facebook-other-social-media-n1274232"
-webUrl: "https://www.nbcnews.com/politics/white-house/they-re-killing-people-biden-blames-facebook-other-social-media-n1274232"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274232"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274232"
+title: "Biden officials shift to an urgent tone as Covid-19 fight enters troubling new phase"
+excerpt: "Biden administration officials acknowledged Thursday the pandemic that appeared to be waning a month ago has entered a new, troubling phase.\n    \n"
+publishedDateTime: 2021-07-22T23:00:54Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yrPutT3E-HU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yrPutT3E-HU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/covid-19-urgent-tone-form-biden-officials/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/covid-19-urgent-tone-form-biden-officials/index.html"
 type: article
-quality: 120
+quality: 168
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491822/210716-joe-biden-ew-318p.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623003752-us-coronavirus-wednesday-0623-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -45,22 +44,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden officials shift to an urgent tone as Covid-19 fight enters troubling new phase"
-    excerpt: "Biden administration officials acknowledged Thursday the pandemic that appeared to be waning a month ago has entered a new, troubling phase.\n    \n"
-    publishedDateTime: 2021-07-22T23:00:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yrPutT3E-HU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/covid-19-urgent-tone-form-biden-officials/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/covid-19-urgent-tone-form-biden-officials/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623003752-us-coronavirus-wednesday-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,7 +111,23 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'They're killing people': Biden blames Facebook, other social media for allowing Covid misinformation"
+    excerpt: "The White House has warned in recent days that false claims shared on those platforms are contributing to a decline in U.S. vaccination rates."
+    publishedDateTime: 2021-07-16T21:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/they-re-killing-people-biden-blames-facebook-other-social-media-n1274232"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274232"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274232"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491822/210716-joe-biden-ew-318p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
-secured: "qW4Ht7p85yjpdRM4/Uap8xd7/aGsh5TUkqmSDnmslf8KATNwQgb8fJwnFq1H0hQxv3Eyja00x4HRbyK8rTvCrCSsac6lEr8I4h/h+E7rjkDBTI8a/YrLZs2h1FjDjMaW6PdgdX73uoNVWkQb805ssvoSZ7m+280NxCA1796EpFcCeVIThDc6xxbmZGrxZeVG5z+IwvdRNiYK5EeOWAKqw3udXDhC2742Njp/cjMV+1+5SEr5ReJ0idFao98cUuhMCpHK1EFThpBwxigFCtGT1eptWb/GApBbl1ItcYErWoJw0Rpne8VscvFThgxHlxCjbtaTI8QdeLh5VhZpAZzJc3Mv1Q9VbxuqaGblqAr/h92ouU01R1TbxyG4ivbCpc6O0m+scvtoZlgOaWBzbbiu+y3nAVCVRmE7zDTIyAcc7+iQX7W8ZhnYW70/6RV6z1HOr/jrXVwEij3k3fUeDue8LXnfQP2pgtsbkEc22JktmoQNWLb4W46J9ntY24dp7WO0/OpMcFbxXHq9MxtNkug9CA==;YaorF3f08OsKxi22RRfZ+w=="
+secured: "l3t5jWZf/NKmNWUS8mD476/ZVksr0RRssHbC99g8c3qzUx71SaAg135JadVU3IuL2WfGdBA1/AM7Fjjn+tlIw3KGWsEupwYs8DUSlbpYneB5aANgOfB+OLJfbrpKu364zCz0mrvMiBAfPEx34IG/Moa/fcGqSCnyt++prSQdLEUukjVyc6nBA1131W6/R5A6IU02mfycgpVzfALz3U8Hx8gV+bTjv2fo2z39ATImlRevNhqcqeF/ix8aXwycKhNXzlLY75oIvcZRZ9uyrrNX+wFoKDyP9UU1ZSfLwRl0kPnGMfxwVU6iMgsdUEVMWM7FWtoHk5JN/Zz3oPm5ts12Lkb/qPE1N2g0jQUPRmCcKZs=;F8fA15AerndjhndDclQqtQ=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden officials shift to an urgent tone as Covid-19 fight enters troubling new phase"
+    excerpt: "Biden administration officials acknowledged Thursday the pandemic that appeared to be waning a month ago has entered a new, troubling phase.\n    \n"
+    publishedDateTime: 2021-07-22T23:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yrPutT3E-HU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/covid-19-urgent-tone-form-biden-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/covid-19-urgent-tone-form-biden-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623003752-us-coronavirus-wednesday-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says full FDA approval of a Covid-19 vaccine could come as early as the end August"
     excerpt: "To date, more than 339 million doses of Covid-19 vaccine have been administered to give people protection from the coronavirus; several studies show that the three vaccines authorized for emergency use in the United States work and are safe; and the government continues to give them out in schools and"
     publishedDateTime: 2021-07-22T11:25:57Z

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Vice President Kamala Harris meets with DACA recipients"
+    excerpt: "Vice President Kamala Harris met with DACA recipients and immigration advocates Thursday, nine years after the \"Deferred Action for Childhood Arrivals\" program was created for people who had been brought to the U."
+    publishedDateTime: 2021-07-22T21:09:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-meets-with-daca-recipients/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/kamala-harris-meets-with-daca-recipients/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/kamala-harris-meets-with-daca-recipients/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/22/4d66447d-2870-4686-9427-0313502c89b0/thumbnail/1200x630/c6466fa1a93440c0e3cd6220af5efe87/cbsn-fusion-vp-harris-meets-with-daca-recipients-thumbnail-758958-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris says she's speaking with GOP senators about voting rights legislation"
     excerpt: "\"I have spoken to Republican senators — both elected Republicans and Republican leaders,\" Harris told CBS News."
     publishedDateTime: 2021-07-21T01:23:00Z
@@ -54,20 +70,6 @@ related:
     quality: 119
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/20/54cc6f02-a613-4c86-92e0-4dbdc17ff4d6/thumbnail/1200x630/aac21f6f4324fc5ef2e6ab8a79afc94c/gettyimages-1234012135.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vice President Kamala Harris meets with DACA recipients"
-    excerpt: "Vice President Kamala Harris met with DACA recipients and immigration advocates Thursday, nine years after the \"Deferred Action for Childhood Arrivals\" program was created for people who had been brought to the U."
-    publishedDateTime: 2021-07-22T18:28:00Z
-    webUrl: "https://www.cbsnews.com/video/vp-harris-meets-with-daca-recipients/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/22/4d66447d-2870-4686-9427-0313502c89b0/thumbnail/1200x630/c6466fa1a93440c0e3cd6220af5efe87/cbsn-fusion-vp-harris-meets-with-daca-recipients-thumbnail-758958-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -206,6 +208,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/6f7673c08e1789bf249db1bb184a03af/WH.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Harris meets DACA recipients after federal ruling"
+    excerpt: "U.S. Vice President Kamala Harris on Thursday told immigrant rights leaders that the Biden administration \"will be tireless in fighting for a pathway to citizenship,\" as the White House pushes for Congress to move on immigration reform."
+    publishedDateTime: 2021-07-22T22:57:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/nation/2021/07/22/harris-meets-daca-recipients-after-federal-ruling/8064011002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0fa611c0-7731-4f33-b698-61e222fff9bf_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
     excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"

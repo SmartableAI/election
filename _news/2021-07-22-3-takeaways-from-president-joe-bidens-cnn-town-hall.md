@@ -117,6 +117,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden signs bill bolstering the Crime Victims Fund"
+    excerpt: "President Joe Biden signed a bipartisan bill Thursday to strengthen the Crime Victims Fund, which helps to support victims of domestic violence, sexual assault and other crimes. The bill passed unanimously in the Senate Tuesday,"
+    publishedDateTime: 2021-07-22T22:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-signs-bill-bolstering-crime-victims-fund/8063939002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1d5e379-0e26-4c8e-a073-e983227456ef_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Marine One takes off from the South Lawn with President Joe Biden"
     excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
     publishedDateTime: 2021-07-21T20:25:00Z

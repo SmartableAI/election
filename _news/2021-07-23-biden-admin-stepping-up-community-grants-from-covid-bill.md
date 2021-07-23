@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden signs bill bolstering the Crime Victims Fund"
+    excerpt: "President Joe Biden signed a bipartisan bill Thursday to strengthen the Crime Victims Fund, which helps to support victims of domestic violence, sexual assault and other crimes. The bill passed unanimously in the Senate Tuesday,"
+    publishedDateTime: 2021-07-22T22:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-signs-bill-bolstering-crime-victims-fund/8063939002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1d5e379-0e26-4c8e-a073-e983227456ef_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "3 takeaways from President Joe Biden's CNN town hall"
     excerpt: "President Joe Biden took questions from Ohioans on Wednesday at a CNN town hall, touching on his administration response to Covid-19, his work with Congress and many other issues."
     publishedDateTime: 2021-07-22T01:23:00Z
