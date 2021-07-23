@@ -216,14 +216,14 @@ related:
   - title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
     excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
     publishedDateTime: 2021-07-22T18:06:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e65816df3d57392ef204cfd3b7c797ab/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4a5dfef316966dadca5017f97c4c75a6/USA-HARRIS-DACA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/e65816df3d57392ef204cfd3b7c797ab/USA-HARRIS-DACA.jpg"
         width: 650
         height: 433
         isCached: true
@@ -272,6 +272,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zLftiGnwkOog+JgxtdPV9dZ0Z0lOoIlHGLZX0mGnaarU5WlBm+yoQP4DoPB1vnmHJVmxiLYVw4K3A4PFXbngzTja91EvW5Ao0LEpye2mMHrYVb6UgSlRYPeuhCXEQ/ocA4RINfeOfx242B6zL2gZ2M52IIf4h1/IBI5slsR7LKWAWVuw1+lal91hrx3+XTohncinfl66brYPlNVuObP0kH6oEAlwRlL7Y0g4/eo3gvPRFINcSKn7yYmhbgSUpggtEmc1W7qd7ibRPfco53kFA1zwM9E9p0+tufJvxhfW6SGnsnBEpOxyn6MTWO2pWqLeowOg92PMibO5Ohq4bpsK4+LYP6TOJ72TUuwG5exAjYo=;V6qC320V8ZSsJ0nIpAB7BQ=="
+secured: "yZgNDUxNX+2scZdPa2lkHenZzP7H3nPVN0Ax6qeCIP/GG0pnsZWsW8lPpYspeDs7zIYq4ijGZ5W6oKFh+MP1fmPE0dDmpPOfb9UQ1OPs8xCo23abJ+dbCKqOexOdgPg+mzxqiuSz6Fp2wb4U2xTgtW46MgyPkZqVbJlA43ZyXiOg0apUFmK5wWZiuP/xrAguOdZNFBBw1RVOmPkQh0/QQ6j4/4iI9Tns1CwpMR2B7CxUEF2w8WPU1gHM3Hur/rYgdyoXspdsqxFscUPD268qxWvRs6UkLE/PgLTP0pMS9su7Geql9spHyJH4mRPcQzJTQX8eOU6HJJgCxuPD0HvGvbHiPuKBxPVvLdf1Xjd+gLGJHG1+n+Sg82ysBc/wc8z6GTUR7E/sCGaW71LTFy1Z1kQ7iqWpXgnD8K04fW0WCyyBYTGvpTpTxeEnnDlYuw7Kc5bq2azP1pXfrIIaa+4FHk3eRYq35sBe+QjyvJDoHb5Du1WRDFBsYfqH2squ1gK9nP9QjcAmYXlm6akuyCi0pw==;3jUFc8P6yo5V5PVg0gVdxA=="
 ---
 

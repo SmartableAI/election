@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-pot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716112743-jane-hartley-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's drug czar nominee consulted for cannabis company last year, ethics disclosure shows"
+    excerpt: "President Joe Biden's drug czar pick, Dr. Rahul Gupta, spent nine months last year working as an adviser to a Maryland-based cannabis company, recently released government ethics documents show.\n    \n"
+    publishedDateTime: 2021-07-23T00:52:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tJN_YRWEIA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713125239-dr-rahul-gupta-2016-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

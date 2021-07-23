@@ -3,8 +3,8 @@ category: news
 title: "Terry McAuliffe Blasts Glenn Youngkin As A \"Trump Loyalist\" In First VA Gov. Campaign Ad"
 excerpt: "Former Democratic Virginia Gov. Terry McAuliffe characterized his Republican opponent Glenn Youngkin as unreasonable and \"a loyalist to Donald Trump\" in the first ad of his campaign for another term as governor."
 publishedDateTime: 2021-07-22T17:30:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/22/terry_mcauliffe_blasts_glenn_youngkin_as_trump_loyalist_in_first_va_gov_campaign_ad.amp.html"
 type: article
@@ -75,6 +75,6 @@ related:
         height: 562
         isCached: true
 
-secured: "efv5cmZMb4ZHKgDmlbYByqo7V1FhmsRxhuduq7sk+CFkIpoC7dHez6HRbp1+Rcy920VUBmGSWawZwlRkGnOqG+RHSRVFHEqsVdIyDzfWUnrJ2bOl2D9Fat3YsQuuIxF6o4WTEgcrEUidcyIbmfWsLHcmK4XkQoShA+6RWtZCmLSsK6sKZvRehwZenrwmQ71/CL3p1BylKRNe9pC3E0BkmWGm0SVG37/5mvwQ0+1dOzB1Chcd8V9vtMPFlDcegj/v58oGFNZ0YKqrt8Dp3trnFEvo+THFQv1HPzqnpgMBEP3jFRte5xZvOx0AAEFhJYv03FfG0mQ3M8TnYGz49bVUZdLJwSgoPltZo8oBbTpNI44kqBA+Gv4lHxN63v7/faRLT3eeVbbELUPplTe3KhJyti6FDJC1xH6r3Y1KrnvATsTADyTlaP5pxo3es+006TsZCDVcyvRMv4scyvtXQERI561qpDefFQGcCVfCL7KNMtvYzCGNT96BKlIRkfgH4ZkuZA8WRA5tpv8rLdLpy+EViw==;DUww44olsBFzoTjWISkDgw=="
+secured: "ewq2UYXsCFHkmtNRkhsY66uMXkcCv+6fP4LG4tW7hlp8ieVAFJmMJUkfAZqf4VjiKxPYoJ+7iAb9ddoHqovxrvkkzb42mcAFwqfSjLsRETYb/N4TkGulNXLOoTOEaPiFYX4tj7y72+7r8I9TPT25dAjsKMkw9tdAxBCVaQQYRLnxCph2iPvhZ2nAgsIiTnSiXvQ4LBEu4m8mcSYKYY/JFHRwa5x/vCjhoiN6kBZVo3LGip40r98f0eZHxsTRGdjEU/bjJRsFLeRVwwciyBT0nUUuNBh0GOGlzst/dQjO0zE/CWFRNx7XkrUEam2n89ZmzM3+Q3/fZRxL5Yo0nGvN6pS5SMEprehTFlnigQny3nw=;9YhoJu6tUR4Q0GtxdoTsdA=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's drug czar nominee consulted for cannabis company last year, ethics disclosure shows"
+    excerpt: "President Joe Biden's drug czar pick, Dr. Rahul Gupta, spent nine months last year working as an adviser to a Maryland-based cannabis company, recently released government ethics documents show.\n    \n"
+    publishedDateTime: 2021-07-23T00:52:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tJN_YRWEIA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713125239-dr-rahul-gupta-2016-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "UQxWzhIM9SsEqIfuCCb76WI3l5LBiFR5SFzqUVibORVCRTtvy/wgFhir4h8bM6dABjuVBmDiwmNL6pRlo4mi0m9k3w0cy+yvL2HyXSfAkDQoPRRtX+EXCBXSOk/3hhQrS7ut6ed6tlb+mjfsU/1IVX3feYI4QdeHRe+MT7vgSml4w7d+p0lRzxUChPy8OGx/EFdkIIUCfSW6dPxWl9okzCK8ZNi1rgJpbxyvtPJuItEfNuKR0xWtBc3gpeU7kU9OUzsvIcBe6NLhyL7pjgfYY+rw38DFRjuvQHz2xIUp/MxfKP4iUynhMjM4fsPoRVmgnVftR1SmR9c+7ub6RZouCP9nnTYlYbBBQz6H/tMlWlE=;bw949OqK7wnivYXpn1o6LA=="
 ---

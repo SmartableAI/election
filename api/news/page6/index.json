@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-14-did-donald-trump-lose-a-revealing-fox-news-interview-leads-to-a-challenging-question-for-its-host.md",
+      "title": "'Did Donald Trump lose?’: A revealing Fox News interview leads to a challenging question for its host",
+      "excerpt": "Fox News host Pete Hegseth declined to answer the question in a fiery interview with Texas state Rep. James Talarico (D).",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/14/did-donald-trump-lose-revealing-fox-news-interview-leads-challenging-question-its-host/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/14/did-donald-trump-lose-revealing-fox-news-interview-leads-challenging-question-its-host/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WW36VWVWPEI6NJTXWYEPXM5K6Y.jpg&w=1440",
+          "width": 1440,
+          "height": 948,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-ernst-gop-senators-blast-bidenomics-for-spinning-out-of-control-that-price-it-just-isnt-right.md",
       "title": "Ernst, GOP senators blast 'Bidenomics' for spinning out of control: 'that price ... it just isn't right'",
       "excerpt": "FIRST ON FOX: A group of GOP senators led by Sen. Joni Ernst, R-Iowa, plans to blast \"Bidenomics\" during a speech on the Senate floor Wednesday afternoon focused on how Biden's proposed $3.5 trillion spending bill will harm hardworking Americans and contribute to \"nationwide sticker shock.\"",
@@ -1298,63 +1350,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-michael-wolff-on-donald-trumps-last-days-for-now.md",
-      "title": "Michael Wolff on Donald Trump’s Last Days (for Now)",
-      "excerpt": "Landslide” tells the dramatic and unprecedented story of the weeks after the 2020 presidential election from inside the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/06/books/review/Lemann1/Lemann1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.amp.html",
-      "publishedDateTime": "2021-07-12T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],
