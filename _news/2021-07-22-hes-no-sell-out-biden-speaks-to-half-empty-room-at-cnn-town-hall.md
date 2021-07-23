@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-empty-town-hall.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-empty-town-hall.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd8148a-43fa-4e55-b198-1f5dc477bc4f/8be10b3c-cd8b-4a80-b210-788c1228572f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Tucker Carlson: Joe Biden's Town Hall With CNN Showed Us What \"Misinformation\" Looks Like"
+    excerpt: "TUCKER CARLSON: There’s been a dramatic escalation recently we need to tell you about in the Biden administration’s longest and hardest-fought war. That would be the war against what they’re calling misinformation."
+    publishedDateTime: 2021-07-23T14:30:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/23/tucker_carlson_joe_bidens_town_hall_with_cnn_showed_us_what_misinformation_looks_like.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 56
+    images:
+      - url: "https://assets.realclear.com/images/54/548888.png"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "96L3umnVsmdkw1V+HOsCPeulHl7K2HoHX3axBUYD9ygN6VxDD9hXLT8VufCWOo+e7OlerYXl/DRNYJRXvIZLzQOu4pA+bdicA7DTsYv9guDHB6sDfl4xCAtHApS5tlJZMvI9muGvpg+uFDdj47KR8rT6B0DGD9fsbGMif40Mui9bhddpxTU5+lzP2z3ooTdnsNHPGs8cWlZnXLieVLrUN+vCJbZpsEzQ4lfSOgx61kYGyCe0MlaXztQ0qDJp1wXLqCxZmPxJJODl0Hp8TJhOd5ISP6u/r220FPwgOu50iPTtrJJUVOUAAUhtwv2J5H8rdih/InYJX8k8nMgr2Va3qr7ZicElpzyzBW509qaIpVk=;soodevy3zjXK9bs/qeR9VA=="

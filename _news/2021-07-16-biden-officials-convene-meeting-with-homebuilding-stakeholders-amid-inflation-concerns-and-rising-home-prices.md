@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden admin buys extra Pfizer doses to prepare for possibility of children vaccine needs and booster shots"
+    excerpt: "The Biden administration purchased an additional 200 million doses of Pfizer-BioNTech's Covid-19 vaccine to prepare for potential additional vaccine needs in the US, an administration official familiar with the contract tells CNN.\n    \n"
+    publishedDateTime: 2021-07-23T14:38:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DxUs2KWWs8U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/pfizer-vaccine-doses-children-vaccinations-and-boosters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/pfizer-vaccine-doses-children-vaccinations-and-boosters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625161640-01-pfizer-vaccine-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Prominent Democrat calls out Biden admin for missing deadline to further sanction Russia over Navalny poisoning"
     excerpt: "The Biden administration has missed a deadline by more than a month to impose legally required sanctions on Russia for the poisoning of opposition activist Alexey Navalny, the chairman of the Senate Foreign Relations Committee said Tuesday.\n    \n"
     publishedDateTime: 2021-07-20T17:41:56Z

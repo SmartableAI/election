@@ -57,6 +57,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "'We follow the science:' Biden on mask guidance"
+    excerpt: "Biden on mask guidance. Posted . U.S. President Joe Biden, asked whether vaccinated Americans would be asked to wear masks again as COVID cases"
+    publishedDateTime: 2021-07-23T14:48:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN2G5B3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2G5B3&r=OVEN2G5B3&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "bs5rJrsWMmh8JUoFi4l/CAEYhzG5bcMJnjPI1z6WlPBAXKpYg/RATduMSyVWYh+jdR1BZ5tOPOtu7XEozgr8LKeDJWgKjYAVBuM9IMM/cp6Vh9tl3Hf81OJ2LNuYMAXHaGo5x0DGtkAIWw/nstj/4qAXq8U69jztnMRfud6guFKGCLzg8Lgbku4fEoSuwsCcouqUTUlj8+FYrrspv5OpTcPi8RHUmNJkilvqv6xnL0W9nsslRP+IvqWG3vJe9gj6djbD97iRpjTqtAGTmlM3agcXcDEZPr0Ximl3Byi0hX6GExHgnjMIBG5/sVHH5JqbhcJMlOx3dJCVknHQrzs95AI0dPq/qznYZKwWSadB9sXyNwj9ZACQHirLvjzpXCJa5nu2R3+9+uqR77kRuDQbD0uiwLz28uiIWhgadlSVEJzgNoVR52tZDN6VeBRhjuYtIvN8x9m1Ew6UOtGkv5ineIh9mcn2NkYVlfXDfvwggkGV5tafdZXeie9Xk8Lr+k2ESZh9xQDd7CF2WgqPA9O/Ew==;OcHboaUi47r0NpcnrDzuqg=="
 ---

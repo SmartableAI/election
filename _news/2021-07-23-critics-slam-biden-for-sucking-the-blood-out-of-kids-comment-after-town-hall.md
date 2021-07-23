@@ -287,7 +287,23 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Biden Gives Odd Response About \"Sucking Blood Out Of Kids\" To Question About Defunding Police"
+    excerpt: "President Biden caused confusion and concern with a bizarre answer to a question about progressive Democrats who campaigned to \"defund the police\" on Thursday evening. \"Are there people in the Democratic Party who want to defund the police?"
+    publishedDateTime: 2021-07-23T15:38:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
+    images:
+      - url: "https://assets.realclear.com/images/54/548899.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
-secured: "99aBn4Bl5Rpbe+u6dXo2YebTmJiRgixcSEY0SmiUHHIhgEvelEuOBt15Qq/vCQ4he2JYcQRdkTlnoSlUHjJ6W3Ao6qJGHe3DpfKXFDXXv+QnOQnwI64DRwsmhlkXt/HvGJgt7kF/5Ch35xbhX5wHaE9WSysz/fYiles7MgzuaTugYp3fVR2p27wYOgiVLSUzz1I7IjWXXxK/ieMWov92A2wmw7Hid7DTQjL+4bOcfnCnQkRI1JL2eVdDx6uswWYudhez1aW0hU2qQA23UjzAwdBUKouqMTJNZE/m3aumJVHA3tLyPmtkcGrZyPFU79miwsf1uLrtlftb/EC5HROEK9XLA5VLHJ9ePX8/N5rKsxg=;8iQnpq7EjWlqfxYSqXfXPQ=="
+secured: "VgTRAF29vr+cPcLh3oU7PNIr6BuiSgokPCoBT6vuXHjk7RRBCfjqw2DEDz/zRj1lcXgkPsq980qR/YNwjFyHGEn5Ht7t7CvD5dwtA35bykkmfkBoerp7RWkPBYqrezENq9gkME+LuRqP+o4G2a5FWeuegkPa42bvcIczB0WHxrKH88yOgaTF9H2lsM+ORVlfMPxJHZ/fc0vuETAS/GtH9odgdALSkKQ0AG1SdyOoxEZP/AgdylXk82pxrwlzFxZUzqGLR2wFv1UTZAvlr8VwN9yMv+YruGhODewL88kcz8v4Bpvp9g2FEJn6jwgQNSQzYjJ6BaEVCoTx3OaCWZZJDoryz/+rLNcjoxA35YyonQU=;rz+HpvtzQ+4yczQHUvNZrA=="
 ---
 

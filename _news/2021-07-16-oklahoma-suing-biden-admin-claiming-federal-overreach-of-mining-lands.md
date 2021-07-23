@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/oklahoma-suing-biden-federal-overre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://assets.realclear.com/images/54/548173.png"
         width: 500
         height: 375
+        isCached: true
+  - title: "Biden Gives Odd Response About \"Sucking Blood Out Of Kids\" To Question About Defunding Police"
+    excerpt: "President Biden caused confusion and concern with a bizarre answer to a question about progressive Democrats who campaigned to \"defund the police\" on Thursday evening. \"Are there people in the Democratic Party who want to defund the police?"
+    publishedDateTime: 2021-07-23T15:38:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
+    images:
+      - url: "https://assets.realclear.com/images/54/548899.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "ZyFEswVYvncPBILjhj4fJASHJvIXhJrokEkTcPlUH9YPBvhqd6I6jltN0LEEFZUjBxTdEgN8IEdnxfLVfMfIO5olkgBpcW8cPnAV6sqE2mbXfB02h/Pu9obrLO0ZxESF3YG5qyUc3IA1QQ4hJ64bBy52xVmI/Xu6PRegnhwZbxWQqlhjZ9qs57T3m3jyYY8kZbnF8OIOGhWtY1XmBFomsMZnME93hjeCxOVEoF4Mbq4jPNZ9leuwHNxsuMW38cG1Q9A+Ur85cT/ZkpAGruUDEESIlZi2b2DbmKaNbW0U9jWLIFdzyki/atQlc0G+xnkltyOYlCr4axFOMPMPcMYawq7iItf294LKlS7p0gJVwCI=;WwFqkrEs26Yv6J0p+cSitw=="

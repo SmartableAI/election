@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-13-trump-said-whoever-leaked-info-on-his-white-house-bunker-stay-should-be-executed-new-book-claims.md",
+      "title": "Trump said whoever 'leaked' info on his White House bunker stay should be 'executed,' new book claims",
+      "excerpt": "Then-President Donald Trump told a number of his advisers in 2020 that whoever leaked information about his stay in the White House bunker during protests last June had committed treason and should be executed for sharing details about the episode with members of the press, according to excerpts of a",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1GunlAHA_OA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1GunlAHA_OA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/trump-white-house-bunker-leak-executed-treason-book-claims/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/trump-white-house-bunker-leak-executed-treason-book-claims/index.html",
+      "publishedDateTime": "2021-07-13T06:55:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-tucker-biden-administration-deems-censorship-applicable-to-private-speech.md",
       "title": "Tucker: Biden administration deems censorship 'applicable to private speech'",
       "excerpt": "Today, we learned the Biden administration considers censorship applicable to private speech as well. What you say in private, when you're alone with your phone, you won't be able to say or read what you want because the D.",
@@ -1279,58 +1335,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-trump-ally-matt-schlapp-complains-hes-not-welcome-on-cnnwhile-on-cnns-cuomo-prime-time.md",
-      "title": "Trump Ally Matt Schlapp Complains He's 'Not Welcome' on CNN—While on CNN's 'Cuomo Prime Time'",
-      "excerpt": "A visibly annoyed Chris Cuomo appeared to challenge Schlapp's reason for coming on the show if all he wanted to discuss was whether President Joe Biden defeated Trump last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567",
-      "originalUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1842671/matt-schlapp-cnn-chris-cuomo.jpg",
-          "width": 683,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567?amp=1",
-      "publishedDateTime": "2021-07-10T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'We follow the science:' Biden on mask guidance"
+    excerpt: "Biden on mask guidance. Posted . U.S. President Joe Biden, asked whether vaccinated Americans would be asked to wear masks again as COVID cases"
+    publishedDateTime: 2021-07-23T14:48:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN2G5B3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2G5B3&r=OVEN2G5B3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z

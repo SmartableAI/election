@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/8054487002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8054487002"
 type: article
 quality: 121
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?d=20210719&i=OVEMIHQ73&r=OVEMIHQ73&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "'We follow the science:' Biden on mask guidance"
+    excerpt: "Biden on mask guidance. Posted . U.S. President Joe Biden, asked whether vaccinated Americans would be asked to wear masks again as COVID cases"
+    publishedDateTime: 2021-07-23T14:48:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN2G5B3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2G5B3&r=OVEN2G5B3&t=2"
         width: 960
         height: 540
         isCached: true

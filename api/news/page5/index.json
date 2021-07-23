@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-16-biden-to-reappoint-jerome-powell-as-fed-chair-say-economists.md",
+      "title": "Biden to reappoint Jerome Powell as Fed chair, say economists",
+      "excerpt": "U.S. President Joe Biden will reappoint current Federal Reserve Chair Jerome Powell for a second four-year term starting February next year, according to an overwhelming majority of economists polled by Reuters this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-economy-fed-poll-idUSKBN2EM0Y1",
+      "originalUrl": "https://www.reuters.com/article/us-usa-economy-fed-poll-idUSKBN2EM0Y1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210716&t=2&i=1569058150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6F0FQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2EM0Y1",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EM0Y1",
+      "publishedDateTime": "2021-07-16T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-brianna-keilar-asks-john-bolton-if-trump-is-a-fascist.md",
       "title": "Brianna Keilar asks John Bolton if Trump is a fascist",
       "excerpt": "Former national security adviser John Bolton questions whether former President Donald Trump was capable of orchestrating a violent coup.\n    \n",
@@ -1270,63 +1322,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-pence-calls-on-biden-to-demand-olympics-move-out-of-beijing-until-china-offers-transparency-on-covid-19.md",
-      "title": "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19",
-      "excerpt": "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3da8478d-1e2c-4b7a-9da3-315d44adb9c3/a1fc8b66-1770-40f0-8564-e8c23e587ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
-      "publishedDateTime": "2021-07-14T13:10:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

@@ -96,6 +96,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Tucker Carlson: Joe Biden's Town Hall With CNN Showed Us What \"Misinformation\" Looks Like"
+    excerpt: "TUCKER CARLSON: There’s been a dramatic escalation recently we need to tell you about in the Biden administration’s longest and hardest-fought war. That would be the war against what they’re calling misinformation."
+    publishedDateTime: 2021-07-23T14:30:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/23/tucker_carlson_joe_bidens_town_hall_with_cnn_showed_us_what_misinformation_looks_like.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 56
+    images:
+      - url: "https://assets.realclear.com/images/54/548888.png"
+        width: 500
+        height: 375
+        isCached: true
 
 secured: "2DpInUfbbKXsziUY8Qwfzv4heyGXec/7sTTha8TCl5l5ax930QntcxooZjV45j5DMtbx/VTtPbxFsNqSRbTVsioY1bEW9UcQTXktlKXbA0hbmXVD461c0Tqnw6/6wWjGLZ62MEcGQ/AYFigc699c2VEcnwHHpSdDEwvFz8wKklk5oQiUK5MdJfKY7k6NlIMNFwnfSsyX+x8ngxTbCqg6NkKYZwh99u7go79i5np+FNyIXC9HUwdmp9X8PrxoXrFHUzlYIozqfsjKbYrrDOyrkg+4diQ0l170rtvgYOG3hzNHgjaLRa9vMtgDuhxA7J5kb9kBvMpYmwH6+sv7vlHHaC59hKzEU/4tT25vyppAozIe8iFQyLDWrp0mCXxbJJr7BnC2OR+qLYoHziBu3Q/S1pz6TZJL3sSLr7Zww9tn2ZeUHU6c8+EBSt0sdXyiGcL/t86YlaxWlzMNXZGsDn+qPTA0FZEpXv/V8X+99zOxiWmCV4odNNkU1JyhiQbMBXqg5cPGI7NuryTc95VTrZQi1A==;R5f5DJ6QX5kF19jzFYEg1A=="
 ---

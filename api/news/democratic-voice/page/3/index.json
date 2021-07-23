@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-07-marjorie-taylor-greene-compares-biden-vaccine-push-to-nazi-era-brown-shirts-weeks-after-apologizing-for-holocaust-comments.md",
+      "title": "Marjorie Taylor Greene compares Biden vaccine push to Nazi-era 'brown shirts' weeks after apologizing for Holocaust comments",
+      "excerpt": "Rep. Marjorie Taylor Greene on Tuesday compared officials carrying out President Joe Biden's latest Covid-19 vaccination push to Nazi-era \"brown shirts,\" just weeks after apologizing for her comments comparing Capitol Hill mask-wearing rules to the Holocaust.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5RUZaYkdUyQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5RUZaYkdUyQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210513184212-marjorie-taylor-greene-01-03-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/politics/marjorie-taylor-greene-brown-shirts-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/marjorie-taylor-greene-brown-shirts-vaccine/index.html",
+      "publishedDateTime": "2021-07-07T08:23:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-biden-and-harris-to-focus-on-voting-rights-thursday-expand-dnc-program.md",
       "title": "Biden and Harris to focus on voting rights Thursday, expand DNC program ",
       "excerpt": "President Joe Biden and Vice President Kamala Harris will hold separate events Thursday to focus attention on Democratic efforts to combat voter suppression and protect voting rights nationwide, Democratic officials tell CNN.\n    \n",
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html",
       "publishedDateTime": "2021-06-27T18:42:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-trumps-big-lie-about-2020-results-suffers-legal-and-political-blows-in-key-swing-states.md",
-      "title": "Trump's big lie about 2020 results suffers legal and political blows in key swing states",
-      "excerpt": "It was a bad week for the Big Lie -- former President Donald Trump and his allies' false claims that widespread fraud is to blame for his 2020 election loss.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iaRaD9VpYPM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iaRaD9VpYPM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624131053-rudy-giuliani-gallery38-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/27/politics/2020-election-falsehoods-voting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/2020-election-falsehoods-voting/index.html",
-      "publishedDateTime": "2021-06-27T08:24:45-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
