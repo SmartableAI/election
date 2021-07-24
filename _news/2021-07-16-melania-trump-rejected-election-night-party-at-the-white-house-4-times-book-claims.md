@@ -253,38 +253,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "State Republicans shun lawmakers critical of Trump and his big lie"
-    excerpt: "Internal battles may ultimately weaken the party, critics suggest"
-    publishedDateTime: 2021-07-20T07:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/fce1868a1bec15ef1336a53710bd312b9deda8a5/0_160_4828_2898/master/4828.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=880ab2dc89a9f6825e1629645fe21763"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump ally Tom Barrack charged with acting as foreign agent"
-    excerpt: "Tom Barrack, a wealthy investor who served as chairman of the 2016 Trump Inauguration, has been arrested on charges of allegedly acting as a foreign agent. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to explain the allegations."
-    publishedDateTime: 2021-07-21T13:50:00Z
-    webUrl: "https://www.cbsnews.com/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/21/143d547a-ad95-4d5c-9e0c-99e897736666/thumbnail/1200x630/5534e7f0ee979b8054872af41423c4a2/cbsn-fusion-trump-adviser-tom-barrack-accused-of-acting-as-foreign-agent-thumbnail-758024-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump Supporter Who Protested Against Vaccinations Dies of COVID-19"
     excerpt: "Last week, she protested her state's VaxBus program, a mobile vaccination unit to help inoculate rural residents against COVID-19."
     publishedDateTime: 2021-07-21T02:46:00Z
@@ -443,36 +411,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump aides told him over a McDonald's meal to stop bitching about losing in Iowa to Ted Cruz in 2016"
-    excerpt: "Corey Lewandowski, Trump's 2016 campaign manager, said Trump was told to stop complaining about losing Iowa or his presidential bid would be over."
-    publishedDateTime: 2021-07-20T14:34:00Z
-    webUrl: "https://www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/60f1e6b77b0ec5001800a934?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ariz. Secy. of State calls for probe of Trump..."
-    excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-09T04:45:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump makes closing speech at CPAC"
     excerpt: "Watch \"Trump makes closing speech at CPAC\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-12T11:05:00Z
@@ -568,20 +506,6 @@ related:
         width: 1106
         height: 622
         isCached: true
-  - title: "The media scramble at the heart of Trump Book Summer"
-    excerpt: "As multiple books about the last president race to the shelves, juicy revelations have journalists chasing advance copies and looking for the best parts. It’s not bad for sales."
-    publishedDateTime: 2021-07-17T09:47:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/media/trump-books-journalist-scoops/2021/07/16/99241cc0-e574-11eb-b722-89ea0dde7771_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WGMCKWXGLUI6XJA6ZBCCYIJ7VA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Top Generals under Trump feared a coup"
     excerpt: "Watch \"Top Generals under Trump feared a coup accoring to a new tell-all book\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-16T22:12:00Z
@@ -609,34 +533,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_4b78c14f27aa48ec9dbc1c5049e8c6f0_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Senior Democrat Proposes Cap on Trump-Era Business Deduction"
-    excerpt: "Senate Finance Committee Chairman Ron Wyden has drafted legislation that would overhaul a major part of the 2017 tax overhaul that Republicans billed as a boon to small businesses, and Democrats have criticized as benefiting wealthy business owners."
-    publishedDateTime: 2021-07-20T05:46:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/senior-democrat-proposes-cap-on-trump-era-business-deduction/2021/07/20/fb8d3592-e946-11eb-a2ba-3be31d349258_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5D4QYJXJIYI6XIV2HPRR2NESLA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump ally arrested on foreign lobbying charges"
-    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
-    publishedDateTime: 2021-07-20T22:21:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "What Donald Trump has said about the Capitol rioters"
     excerpt: "For the last two weeks of his presidency, he offered prepared remarks of condemnation. Everything since has been sympathetic."

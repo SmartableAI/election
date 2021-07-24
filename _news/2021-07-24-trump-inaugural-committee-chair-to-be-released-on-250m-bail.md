@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Trump inaugural committee chair to be released on $250M bail"
-excerpt: "The chair of former President Donald Trump’s inaugural committee was ordered freed Friday on $250 million bail to face charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy."
-publishedDateTime: 2021-07-23T20:58:00Z
-originalUrl: "https://www.chron.com/politics/article/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
-webUrl: "https://www.chron.com/politics/article/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
-ampWebUrl: "https://www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
+excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee has been ordered released on $250 million bail to face charges he secretly worked as an agent for the United Arab Emirates to infl"
+publishedDateTime: 2021-07-23T20:43:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 125
+heat: 185
+published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Politics/WireAP_57b2dffb6cde45fa98168a1bd3a1bcdb_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -43,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee"
+    excerpt: "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot."
+    publishedDateTime: 2021-07-20T17:45:00Z
+    webUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920"
+    ampWebUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
     excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
     publishedDateTime: 2021-07-24T00:21:00Z
@@ -58,6 +78,6 @@ related:
         height: 1051
         isCached: true
 
-secured: "e+y0cKTNVpSZ6PTSt0PE7pXL1GK9xTRSc++e/DQ5d2QXXwZFhH1DB56R2D2Pz8P1XCeKtXc5IR2F+6nfhGWP2E22oGj2NrUyxnIW3vPCKEv46LYsJdOB62kkzS4a1qMF/Z7WOGEbcPhHoRM5pbXOIreDGByuc6kFImGqIouuzi6/HVxT/pxuwyQpHRuNZHIoPAd1E8xXr6Nc0CP1L8kSzTte2GEEFAARTPKENNtagOSoYdbs2r6s+vDK0/StbHprk1hfB6IeKBbxzqLypC5o5Si+Va7UUlcxjkB3kt0oges9qdxs+rHlF10KVQU1HkZdf6NjiEbmH55tdi5/xbXI9SlqRK7KhKzcXegkF3CWMsmq1srVJ0xHuF+oBVfQm1eL1UeIA72K7He0x9Bp9rrDwbW9410yL9LFx/kB588x0RgGVjfA3mzPdr4Z5Jup4xoohSE7FTkj7jPtJGr31swbgTZrIqWAL7OmymJdhxWxgTog2/lkuoUEkm31l8odTHl3+kOXnefh7CPAiwxByCaeaQ==;N6jRsrU/8letMTK3RLNneg=="
+secured: "JvhnLdYwQM+AFOY/RNzdo0vmBuxQ79ZJFJBcVIGBu1qftAG4mfEsUabMMZaiYkiiXwQVaqVBK8xwOZnZEh0raSQ+RnIvk3XxkR37bkDbM+ernZa2Ya+BP5/BY7nVIdGIJBwObCUCz2gzmtaDP5AR4botHTrRi+XeNzsYWWuw3HusZXKyTN7qmAy8i3no0kmWnLca//71LndRj9449P8PngbhU/ZsnSY4d2Dx+5nDoM/8X/c+admqQI4SPtwzih9zkfxEalXzZir23fS08ExObdTsyDHZJFRc4USmfAptkndFZ85pPEzuNDbCYFPBKaGgvbQpaWxkhYDaQ/XAuD75299EoQCJrDAuGZXEfaovtBg=;2+o/Exjhqgy+wiD0mKLnUw=="
 ---
 

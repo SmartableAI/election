@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-i
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
 type: article
 quality: 118
-heat: 158
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,33 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Minority leader McCarthy meets with Trump"
-    excerpt: "Watch \"Minority leader McCarthy meets with former President Trump ahead of Capitol riot hearing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-15T23:35:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/"
+  - title: "Trump inaugural committee chair to be released on $250M bail"
+    excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee has been ordered released on $250 million bail to face charges he secretly worked as an agent for the United Arab Emirates to infl"
+    publishedDateTime: 2021-07-23T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11319195_1626392404.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s.abcnews.com/images/Politics/WireAP_57b2dffb6cde45fa98168a1bd3a1bcdb_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "A scandal-scarred Senate candidate wants Donald Trump’s endorsement. Other Republicans worry he’ll give it."
-    excerpt: "Former Missouri governor Eric Greitens, forced from office in 2018, has hired several Trump associates for his campaign and has falsely suggested Trump could replace Biden before the next presidential election."
-    publishedDateTime: 2021-07-23T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-eric-greitens-endorsement/2021/07/22/9e9998a2-e8c0-11eb-97a0-a09d10181e36_story.html"
+  - title: "Trump ally Tom Barrack posts $250m bail on charge of illegally boosting UAE"
+    excerpt: "Head of Trump’s 2017 inaugural committee must answer charge of acting as unregistered foreign agent in New York court on Monday"
+    publishedDateTime: 2021-07-24T14:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/4522e975c672037d45450872fbde3828e23cfb4c/0_221_5386_3232/master/5386.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33e78c7e1f03f78b55fe1a0fe10399d0"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
+    excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
+    publishedDateTime: 2021-07-24T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 87
+    quality: 88
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PU73ALXLEII6XIV2HPRR2NESLA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNWSFTHL5EI6XOS5KXJ3L76K6E.jpg&w=1440"
         width: 1440
-        height: 983
+        height: 1051
         isCached: true
 
 secured: "zlh/WSFCuuVXFd1GM5rFAnzi1IGTyln9GVk2JcyJgsOfrNwTfqhhXy6DrCs1lrTnBqWv+xlJFgfSgalW3IxIBDR7Uh09mA8XyzF4O5mSPkE+Zbr0LM07/Ozz37lMQAhs+MV0EPk+QiFIA4h8/lDYumhrkXZPkQZ90HtZpfssOmO5Vn/wCf3oCZD9A/M93FwsVVUnL0s1fAhgwzGwFYwLpJri4O5V+yxhE0FyN+zfJR0GupEj75IqQ95V+3/c0/qCop8NHNhghaK93PvJvfrmbFEyI1Kgo3jntZwlm13V+2lTLzFb6d4xYak+xOSM0M6cgPg2aW9KElhES1dt4f4rCBUtXjP5WcOfyxa2+O04Sgg=;My1KOUEWfGlxw/d1Ff4U7w=="

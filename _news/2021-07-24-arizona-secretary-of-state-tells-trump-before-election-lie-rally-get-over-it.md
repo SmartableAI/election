@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump ally Barrack to be freed on bond ahead of trial"
-excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
-publishedDateTime: 2021-07-23T21:50:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
-webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
+title: "Arizona secretary of state tells Trump before election lie rally: get over it"
+excerpt: "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event"
+publishedDateTime: 2021-07-24T16:22:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
 type: article
-quality: 105
-heat: -1
-published: false
+quality: 137
+heat: 397
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
-    width: 960
-    height: 540
+  - url: "https://i.guim.co.uk/img/media/274b71ffa728f51467d86bfb18529a226c27cbf3/0_180_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f8b06ce6f4b954493ef7f27f5896593"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "Arizona secretary of state tells Trump before election lie rally: get over it"
-    excerpt: "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event"
-    publishedDateTime: 2021-07-24T16:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 137
-    images:
-      - url: "https://i.guim.co.uk/img/media/274b71ffa728f51467d86bfb18529a226c27cbf3/0_180_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f8b06ce6f4b954493ef7f27f5896593"
-        width: 600
-        height: 360
-        isCached: true
   - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
     excerpt: "Former President Donald Trump issued three statements in two days claiming that voting fraud and irregularities cost him Arizona’s electoral votes"
     publishedDateTime: 2021-07-17T22:52:00Z
@@ -197,6 +183,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Trump ally Barrack to be freed on bond ahead of trial"
+    excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
+    publishedDateTime: 2021-07-23T21:50:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
     excerpt: "Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona's electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate Republicans to oversee a partisan review of the 2020 vote count in Maricopa County,"
     publishedDateTime: 2021-07-21T13:33:00Z
@@ -223,6 +223,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "w92bnteEohxQ91j5CLlU47+afL8dEvrlhc4FkNyTi1uq7CQQlXmIxmBnUpWp21mcHTlvYZQhVL5kuciWAmIoU5LpY9fLxHSEGo53QjDxpnyz07RXvVqKwwri3wBA1x9qNmy0pBNvjXpnbrl2E6C5UNwBz13RXdessUzPuw1HEQx1486wuFf1SYwIc7Z8F4qpsAp84R6e7SKjZHXGocZ6F7+7sy7yRCXKxLGmEG6JKP2zveLQu1iNLuC+IIINi2Mr0m+JKkW2TBYZS6Gt3Lz66So5cKeeTu7OmO2p+QMmeyLgSJTTkNBOkCrFLyio5JsrkWAMyPRr8baIM97aNuRu7CSd75m13xk0dCRgTForrRO/yvHXLRNQ/P7swASSNY5ir4nCiF5O/IVARZWt8AoNs0Z9apL8Vp8S0hBZuER1pdZeNRHC3bpBfsQ3Yt/fhDclBGY2kdfZ578nrsToYijWndh9QMMNTEyZb5NEKvL7hKXZ6fg9PyEgdwaL5gQNtIXdNOPtFpocefM5UurOMg8cgQ==;wHMLpjFGcxh9TwaN+seBHw=="
+secured: "EFTtIr9rstG0G+7QfU7Dx6SzAB06zOhyGZ7b9SZHcYUUxI7BraOYcy+pgDNQ7Ql+H89OgBWXjinaCILjfzG2eq58YJK7fenRWhTpfVurq8r9Oop695TggA4Zyx3P4D8+aRJDpcZN65aBNDQ6Ykf0mj4H+9Gx1RRPBgDck77L5Ahcov5dlEhVTgQdIbJP7DCyq4U+t+oRBsUh7v8ZAHV+iT4j3+siwXr1VHQxlyNcFDEJIJAhj9soz4m0I0UI6kvrt9T8ypD9Y2fsXudTWiJXZyDmLk9I0Ug2VlQ0JFRoz9cuZF/x67CjpPP/ZGAUKL/jArltpX4QETdHzKxTbhr4iOlN02ugksZiSOIyz/r6DHU=;eQ+T0Wn3QDJ6uHSUyHjDVg=="
 ---
 

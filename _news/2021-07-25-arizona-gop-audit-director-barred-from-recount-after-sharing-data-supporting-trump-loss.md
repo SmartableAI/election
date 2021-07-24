@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump ally Barrack to be freed on bond ahead of trial"
-excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
-publishedDateTime: 2021-07-23T21:50:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
-webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
+title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
+excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
+publishedDateTime: 2021-07-24T17:31:00Z
+originalUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791"
+webUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791"
+ampWebUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
 type: article
-quality: 105
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
-    width: 960
-    height: 540
+  - url: "https://d.newsweek.com/en/full/1854322/arizona-audit.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -109,22 +111,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
-    excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
-    publishedDateTime: 2021-07-24T17:31:00Z
-    webUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791"
-    ampWebUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1854322/arizona-audit.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Trump aides told him over a McDonald's meal to stop bitching about losing in Iowa to Ted Cruz in 2016"
     excerpt: "Corey Lewandowski, Trump's 2016 campaign manager, said Trump was told to stop complaining about losing Iowa or his presidential bid would be over."
     publishedDateTime: 2021-07-20T14:34:00Z
@@ -197,6 +183,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Trump ally Barrack to be freed on bond ahead of trial"
+    excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
+    publishedDateTime: 2021-07-23T21:50:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
     excerpt: "Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona's electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate Republicans to oversee a partisan review of the 2020 vote count in Maricopa County,"
     publishedDateTime: 2021-07-21T13:33:00Z
@@ -223,6 +223,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "w92bnteEohxQ91j5CLlU47+afL8dEvrlhc4FkNyTi1uq7CQQlXmIxmBnUpWp21mcHTlvYZQhVL5kuciWAmIoU5LpY9fLxHSEGo53QjDxpnyz07RXvVqKwwri3wBA1x9qNmy0pBNvjXpnbrl2E6C5UNwBz13RXdessUzPuw1HEQx1486wuFf1SYwIc7Z8F4qpsAp84R6e7SKjZHXGocZ6F7+7sy7yRCXKxLGmEG6JKP2zveLQu1iNLuC+IIINi2Mr0m+JKkW2TBYZS6Gt3Lz66So5cKeeTu7OmO2p+QMmeyLgSJTTkNBOkCrFLyio5JsrkWAMyPRr8baIM97aNuRu7CSd75m13xk0dCRgTForrRO/yvHXLRNQ/P7swASSNY5ir4nCiF5O/IVARZWt8AoNs0Z9apL8Vp8S0hBZuER1pdZeNRHC3bpBfsQ3Yt/fhDclBGY2kdfZ578nrsToYijWndh9QMMNTEyZb5NEKvL7hKXZ6fg9PyEgdwaL5gQNtIXdNOPtFpocefM5UurOMg8cgQ==;wHMLpjFGcxh9TwaN+seBHw=="
+secured: "96YZ8e3r9wCpC07qBCMQEPdo8EN3XZlvCt7MJFFmBOIvfN2QZCzhcmB9DDximWT/gMiAbzuMKDtcCq0DmlZEO7iOuDTHvJcsVC+1zR1PTup290jj4pRYpgyv5OFVP7XfvvfUpWF7P9/AoWWyUeDgFaFEYiCtpdPEXORT1gsMdsAvmCPEemhtfQA3MbTybbIStXTOUtrCrnkscYd0psGZ8XHMp4SZU4ZN7QWwVQWaLjff3X1cKNS90ewCDWJ0K1FwxaN9FtiwztVvU8iXIM99InU1y4kTesj/iYAttJoQLrkn0UEi06AcCgzbU6HKODdLCF8+raEFeG4pEotuHlUDIvsSaba8yP031HPWuDwKj1E=;b6Y73C59sesQFjQMLUgRGQ=="
 ---
 

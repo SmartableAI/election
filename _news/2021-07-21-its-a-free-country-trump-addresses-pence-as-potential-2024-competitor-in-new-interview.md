@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/8023849002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8023849002"
 type: article
 quality: 130
-heat: 150
+heat: 130
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Prosecutors Agree to Allow Trump Ally Barrack Free Pending Trial"
-    excerpt: "Former U.S. President Donald Trump's billionaire ally Thomas Barrack has reached a deal with prosecutors that will allow for his release from custody while he awaits trial on charges of illegal lobbying,"
-    publishedDateTime: 2021-07-23T18:18:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-07-23/trump-ally-barrack-reaches-bail-package-deal-with-prosecutors"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "USNdL/xQl/n22PRlk+5EDh7v0xZsoclypAUT2WUqirYLgQp2NCi3scmH+Hha9Ag4hEEDDHD5E3eDFNvb9VqQ7xVarP1sZUET4GmQ4mDslHqFUk55S0CgnpK7Gh6F48hDVAD3/Ic4wulqieZ/WvteoGeo355z5o9vZCGbLgDvknkeqWJxC4KWT/l4Rhv3ErX7YQ20kQepc2b16OvOc8S0EzXxUcmAZ43gSEcvZkUkdetjBQDhtEKd8o7E4ZpH5dMqKUaJ+ioc3JT1rD87mwQqXar+vFgC7wjtRMmjRNQgpr804ivLz9Me6IE5kIFwU+ScSfXXrhcHTptpSmmVnbhnWrL8Fz+PGc3HDqm3j/RmIaX3rptwFO4cQiV4JUZs53YLpYDjx6pWkf5J+XRkyrh3CU/NDjIz6FIJpbdJYIo4q8O6zwnmepTkOjQcYeJj27zyjDL3P6iTplUsVRrFBCynyTBg6jHV/+vIeGE6fAl9T0vHfaOiQ1tgccCJ/QsBoV5dBeweRQIhWRCB9wtsmrVjhQ==;Ju4y9fx9AmqORaiTdIhUpQ=="
 ---
