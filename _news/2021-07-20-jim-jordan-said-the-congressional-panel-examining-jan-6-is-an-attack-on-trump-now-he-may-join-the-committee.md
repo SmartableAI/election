@@ -61,6 +61,34 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Trump ally Barrack to be freed on bond ahead of trial"
+    excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
+    publishedDateTime: 2021-07-23T21:50:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Trump ally Tom Barrack leaving jail on $250M ..."
+    excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-23T22:43:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210723224307-trump-ally-tom-barrack-leaving-jail-on-250m-bond/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11453416_1627080304.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Update: Pelosi bars Trump allies from Jan. 6 probe; GOP may boycott"
     excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped to sit on a committee investigating the Jan. 6 Capitol insurrection, citing the \"integrity\" of the probe."
     publishedDateTime: 2021-07-21T16:49:00Z

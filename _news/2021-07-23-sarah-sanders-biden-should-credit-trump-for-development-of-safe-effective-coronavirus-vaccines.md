@@ -1,18 +1,24 @@
 ---
 category: news
-title: "The Real Reason Trump Keeps Telling the Big Lie"
-excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
-publishedDateTime: 2021-07-20T19:47:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
+title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
+excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
+publishedDateTime: 2021-07-23T13:17:00Z
+originalUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines"
+webUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines"
+ampWebUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
 type: article
-quality: 65
+quality: 137
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -20,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/548617_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -232,22 +238,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
-    excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
-    publishedDateTime: 2021-07-23T13:17:00Z
-    webUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines"
-    ampWebUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Media continues to fawn over President Biden after six months in office"
     excerpt: "Six months of Joe Biden’s presidency has been represented by six months of mainstream media largely fawning over the 46th president, despite an influx of illegal immigration, a surge in violent crime across the nation,"
     publishedDateTime: 2021-07-20T21:42:00Z
@@ -356,6 +346,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The Real Reason Trump Keeps Telling the Big Lie"
+    excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
+    publishedDateTime: 2021-07-20T19:47:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548617_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Republicans Have Already Given Biden What He Needs"
     excerpt: "We have a deal,” the beaming president proclaimed outside the White House, flanked by 10 beaming senators—all the negotiators had agreed to was an outline, a three-page sketch of how to spend $1.2 trillion on roads,"
     publishedDateTime: 2021-07-22T18:21:00Z
@@ -371,6 +375,6 @@ related:
         height: 500
         isCached: true
 
-secured: "+lJH4RhNcaBRphH18XcLzkhUwTDysOBowkAx+Cf0GXnVvTwr0R+81f8DwVT4MpUOGvNDaZybHAp4rf857hnYYQ7ONmZjCCvrYIw6wctvJJQucOvTOZR3k2iTnyjekhrg2BLPm6IXkvPStNqqxiTxDqXn44EJP1Mvu/l4J1T/X1bXvKa+BvKGE+XRrlUWu5ukzGUdOGcF+x4hEHagNUnQwLE3rHvlwREq+uom5lCCXKS8xlD9ExvsOPxc9kvXJR8tbDbElNnTunFvWJdpBG7Bu7wN6pA0tfe60kLWfltUcI20HOBP3yCrAesxRbSA01sL6C5dYPkYpKyjUb/hji+btN7z2sbykMLZkfb1kYCp4Hc=;zfYnod0MmeTNG6nV0TR3Xg=="
+secured: "31rOK09zEkZf/q+YS//zGqFLjUTSLw0w3y29V4hF+HWRyQ33vq9hdSxDlxsRnuMYvBA1jPIWe93Utt+K0bHXK0jmlXPicMHjt3wjdrwoBRVUjp6kFzERTdWPLcr1UBB6VZaAVpQ3iTTtNn7LbA7Us8mZkh7uTA7qgZvo0vhnC4WC+k0s0LVbeYccuCmC1kpY+EdLeAMpNO9xh7MvDs8Mfq5J7EB2sadqItnqqZEeCJCOQC+7QxO7sJkDiTYteAfdQy9P5hA+PWK0WeQN5d/ihWIQ6XCgKZ0XuYuY2iZCRPWxd6DiZM1ABl6W0XBmNwjNmJQX2VTfoNSlddnr96U7dpveDfCPM3Npz0ZNgjGQdXQ=;q6C0B+jfo72Qq64lGq3y+Q=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Asian Markets Extend Global Rally As Earnings Trump Virus Worries"
-excerpt: "Asian markets rallied Thursday as worries about the Delta variant were overshadowed by more strong earnings reports that indicated companies were faring well as the global economy emerges from last year's pandemic-induced collapse."
-publishedDateTime: 2021-07-22T07:32:00Z
-originalUrl: "https://www.ibtimes.com/asian-markets-extend-global-rally-earnings-trump-virus-worries-3257141"
-webUrl: "https://www.ibtimes.com/asian-markets-extend-global-rally-earnings-trump-virus-worries-3257141"
+title: "Trump ally Tom Barrack leaving jail on $250M ..."
+excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+publishedDateTime: 2021-07-23T22:43:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210723224307-trump-ally-tom-barrack-leaving-jail-on-250m-bond/"
+webUrl: "https://www.cbsnews.com/live/video/20210723224307-trump-ally-tom-barrack-leaving-jail-on-250m-bond/"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/21/joe-biden-said-that-while-the-united-states.jpg"
-    width: 1024
-    height: 682
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11453416_1627080304.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -74,20 +74,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Trump ally Tom Barrack leaving jail on $250M ..."
-    excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-23T22:43:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210723224307-trump-ally-tom-barrack-leaving-jail-on-250m-bond/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11453416_1627080304.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Jim Jordan said the congressional panel examining Jan. 6 is an attack on Trump. Now he may join the committee."
     excerpt: "Rep. Jim Jordan of Ohio is one of five House Republicans selected by Minority Leader Kevin McCarthy to serve on a committee to investigate the Capitol riot."
@@ -165,6 +151,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Asian Markets Extend Global Rally As Earnings Trump Virus Worries"
+    excerpt: "Asian markets rallied Thursday as worries about the Delta variant were overshadowed by more strong earnings reports that indicated companies were faring well as the global economy emerges from last year's pandemic-induced collapse."
+    publishedDateTime: 2021-07-22T07:32:00Z
+    webUrl: "https://www.ibtimes.com/asian-markets-extend-global-rally-earnings-trump-virus-worries-3257141"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/21/joe-biden-said-that-while-the-united-states.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
     excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."
     publishedDateTime: 2021-07-21T18:32:00Z
@@ -175,6 +175,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "maO1hSPxf8S1m7GTkd/UL+obim2GQUaIVGj+IFzKZ2Kn0/5lKEibar9kdEVT7kOY2mPe/7Er9ubQSAa8jcWw/M4I4XFwdE7glto+IeyS9g1FmtDcdPY43dI1LfBOxd8cKL0XBStSd6Er7/0LNJjtbRB5FIBJiF80MXDWbNWStMOOZBWvYvuJOvbuUUGztKOBYroimdVwdUolbObetqV703K1MKRbuwvf0pQLVVIcLqFq0kk7vI7hMkMmnPJI2ZBmpn4vb/G3jPxEhndW8IQWMMP5oa49X1Kj/9gLyUBsYwgbd2EbffX56PWbjkNZ6fN8i4CYH2C/JsnXFqcF3UvVcTNATjYZO0p84uMTjLYX5PEhhP4tAql1AljZjuj4wx87Co7PCTJKoCiDz8BpJZxSF1646zuzJMM8dpb9W6obW4Vg5z6S26LuZ3YVPraeBGpPgELF0BFtWa5XhhoU8VYWWOBwA3V2ywWZBzpUuk5fldCt3LJjtixIdPThebRjRFQ9zktC24h3+5ueyADIGdr4gQ==;4PYLd8bEwfideb5vEZhfpQ=="
+secured: "vIrNxFFFqHbRocwiQFhGbHdBkE3nnxYjhrpB2lQsDQaEyWNhHl/UX8/Ba4Wq+vdcY4szeOJpLB5SlZ5DSzVHMtqJlSOjQa1qC/z3ND5ABc6hgiAbfNeFwomEjAKfwHxQk4LCfbKgfhEmCbY9KFhE8bA+jJndWmP21ChdA5IJ8y3KOeK7aVEgFCC2UJfiSnj8Rfgnj+KRt3x85/H0sChFT3ODHfLdyUtOdLoGf2FSPn/4ZNTM8WkglArp+Jpmz5J4U3d7ZYT2+qiyctGf4B9tD01BWTwemDxMjilAdaEEP4hYDkRX/0oNwtfwFtRNKur051ClPOB+QGqZgX3jpeCncjudR4OUX7oz5u2fV4fQuMo=;6fz9jYJLlAYpkIdzKQJrog=="
 ---
 

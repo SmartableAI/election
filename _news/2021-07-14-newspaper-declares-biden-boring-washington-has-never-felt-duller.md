@@ -236,6 +236,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
+    excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
+    publishedDateTime: 2021-07-23T13:17:00Z
+    webUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines"
+    ampWebUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Media continues to fawn over President Biden after six months in office"
     excerpt: "Six months of Joe Biden’s presidency has been represented by six months of mainstream media largely fawning over the 46th president, despite an influx of illegal immigration, a surge in violent crime across the nation,"
     publishedDateTime: 2021-07-20T21:42:00Z

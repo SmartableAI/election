@@ -262,15 +262,15 @@
       ]
     },
     {
-      "path": "_news/2021-07-21-what-we-know-about-president-joe-bidens-wednesday-visit-to-cincinnati.md",
+      "path": "_news/2021-07-20-what-we-know-about-president-joe-bidens-wednesday-visit-to-cincinnati.md",
       "title": "What we know about President Joe Biden’s Wednesday visit to Cincinnati",
       "excerpt": "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon.",
       "sourceUrl": null,
-      "webUrl": "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/",
-      "originalUrl": "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/",
+      "webUrl": "https://www.azcentral.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/",
+      "originalUrl": "https://www.azcentral.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -284,13 +284,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.dispatch.com/amp/8024834002",
-      "cdnAmpWebUrl": "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/8024834002",
-      "publishedDateTime": "2021-07-21T07:30:00-07:00",
+      "ampWebUrl": "https://amp.azcentral.com/amp/8024834002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8024834002",
+      "publishedDateTime": "2021-07-20T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Columbus Dispatch",
-        "domain": "dispatch.com",
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
         "images": null,
         "publishers": null,
         "authors": null

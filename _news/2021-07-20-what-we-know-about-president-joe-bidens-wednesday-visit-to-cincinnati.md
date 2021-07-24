@@ -1,48 +1,32 @@
 ---
 category: news
-title: "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage"
-excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
-publishedDateTime: 2021-07-21T10:31:00Z
-originalUrl: "https://www.miamiherald.com/news/state/florida/article252899763.html"
-webUrl: "https://www.miamiherald.com/news/state/florida/article252899763.html"
-ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article252899763.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article252899763.html"
+title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
+excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
+publishedDateTime: 2021-07-20T07:00:00Z
+originalUrl: "https://www.azcentral.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
+webUrl: "https://www.azcentral.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
+ampWebUrl: "https://amp.azcentral.com/amp/8024834002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8024834002"
 type: article
-quality: 70
-heat: -1
-published: false
+quality: 75
+heat: 235
+published: true
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/4150a494-c606-4f1f-a857-0ac16d3e3b23/main/1280x720/1m2s16ms/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.gannett-cdn.com/presto/2021/03/23/PCIN/ccbcf9e3-25be-4198-8574-13022b9fdd69-AP21082731379822.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
-  - title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
-    excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
-    publishedDateTime: 2021-07-20T07:00:00Z
-    webUrl: "https://www.azcentral.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/8024834002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8024834002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/23/PCIN/ccbcf9e3-25be-4198-8574-13022b9fdd69-AP21082731379822.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
     excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
     publishedDateTime: 2021-07-21T14:30:00Z
@@ -74,6 +58,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/23/PCIN/ccbcf9e3-25be-4198-8574-13022b9fdd69-AP21082731379822.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage"
+    excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
+    publishedDateTime: 2021-07-21T10:31:00Z
+    webUrl: "https://www.miamiherald.com/news/state/florida/article252899763.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article252899763.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article252899763.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/4150a494-c606-4f1f-a857-0ac16d3e3b23/main/1280x720/1m2s16ms/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden town hall: Cincinnati surprise? Ice cream-loving president doesn't stop at Graeter's"
     excerpt: "Other politicians and celebrities have stopped for a scoop while visiting the Queen City, including former President Bill Clinton and Ivanka Trump."
@@ -139,6 +139,6 @@ related:
       domain: oklahoman.com
     quality: 30
 
-secured: "PlJOlTj7/8jqJ8m6ZVCDxamAdNgUU2NLOdqsfmtvbw4W0cmJzlL5YRzpfjIPvICYEFwxGfJoD1k5xd2BvGlZoXh+05ljY3KGuKbQmedP5DCLh/fnccPmGEhUQfiMpzwEliQ8gdve5+TkYCxDy44mIPYL8S11cdUKf5dgFuAZ82T0tIizSYxEN7OUoLDEYgssAAMcXBkS8ZpaHmGkwbSTQ2B2ks5kRmiWnQA1ZCmHxNa98dFhFttrLe5M/WbGXjtsC4eBccnl8dVrWiUkszZVavmMZBE/8GJr6H9e9UaaGXWQ/h+elc5J3XrRExR23a3pzrt2oi5whEgswzQkRPtKhQL3pBjX0j5tOqJ4E0s+yHcBtqDjolGVpXaypg7sCaR781D4I0POqmRj0KepoLPAGeM9mhKIcSmK4caJ0H8C6TmWT9cOqutT/xpGs6kvM+ubSq2boGeD51Ez46JGeJeytF4W4fUF2aOfhdTfn8/sTyVyj35HtenApzYyQNND0tp35fYKIA3sbYi952eW4HMLkg==;Kfx8TK78bJyGsa7Jgh5qKA=="
+secured: "R1W0U+N8SddcbxWF96BAxuIeQfHciJ9e7Y9m2IiHVtdzQgqa4WS7m+CKBl/8lWLHJqUK2djm2hYW793q80NOhS1pjUWfCKIAWFTJObiKE3l/Zf4poIKz8AkjhsTYVbXjdEikLeMSU6mfSFnh7FRaMrRQwllBosIXb1At79OVAkiQbNmZ57GWH4JNuF6rx7jFOc8Q4F8KhnyqyJ9hXAv9WiN9szEmLz7goQYgzGCiRamYbsRAIIdYpZoafneCCTZ0MEikI25pntE6B8bnbLQXTvxVXHQjXhv8F04zj8MFoFqk+NDZlB//0EA3eRPd6zQS7yupgIK+TIQR/0pbyzRzVyHh8t0aezoaEAN2w5H7Csc=;zGUUCsrSlTrH3OVGon6Wjg=="
 ---
 

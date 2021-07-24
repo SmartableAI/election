@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
 type: article
 quality: 125
-heat: 285
+heat: 325
 published: true
 
 provider:
@@ -46,6 +46,34 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569786377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M12N"
         width: 818
         height: 545
+        isCached: true
+  - title: "Trump ally Barrack to be freed on bond ahead of trial"
+    excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
+    publishedDateTime: 2021-07-23T21:50:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Trump ally Tom Barrack leaving jail on $250M ..."
+    excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-23T22:43:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210723224307-trump-ally-tom-barrack-leaving-jail-on-250m-bond/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11453416_1627080304.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Jim Jordan said the congressional panel examining Jan. 6 is an attack on Trump. Now he may join the committee."
     excerpt: "Rep. Jim Jordan of Ohio is one of five House Republicans selected by Minority Leader Kevin McCarthy to serve on a committee to investigate the Capitol riot."

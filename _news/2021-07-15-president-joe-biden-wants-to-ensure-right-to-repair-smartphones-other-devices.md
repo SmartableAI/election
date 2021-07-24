@@ -21,6 +21,22 @@ topics:
 related:
   - title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
     excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
+    publishedDateTime: 2021-07-20T07:00:00Z
+    webUrl: "https://www.azcentral.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8024834002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8024834002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/23/PCIN/ccbcf9e3-25be-4198-8574-13022b9fdd69-AP21082731379822.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
+    excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
     publishedDateTime: 2021-07-21T14:30:00Z
     webUrl: "https://www.dispatch.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
     ampWebUrl: "https://amp.dispatch.com/amp/8024834002"

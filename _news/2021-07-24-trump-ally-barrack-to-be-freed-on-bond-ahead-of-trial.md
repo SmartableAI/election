@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Asian Markets Extend Global Rally As Earnings Trump Virus Worries"
-excerpt: "Asian markets rallied Thursday as worries about the Delta variant were overshadowed by more strong earnings reports that indicated companies were faring well as the global economy emerges from last year's pandemic-induced collapse."
-publishedDateTime: 2021-07-22T07:32:00Z
-originalUrl: "https://www.ibtimes.com/asian-markets-extend-global-rally-earnings-trump-virus-worries-3257141"
-webUrl: "https://www.ibtimes.com/asian-markets-extend-global-rally-earnings-trump-virus-worries-3257141"
+title: "Trump ally Barrack to be freed on bond ahead of trial"
+excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
+publishedDateTime: 2021-07-23T21:50:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
+webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/21/joe-biden-said-that-while-the-united-states.jpg"
-    width: 1024
-    height: 682
+  - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -60,20 +60,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569786377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M12N"
         width: 818
         height: 545
-        isCached: true
-  - title: "Trump ally Barrack to be freed on bond ahead of trial"
-    excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
-    publishedDateTime: 2021-07-23T21:50:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Trump ally Tom Barrack leaving jail on $250M ..."
     excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -165,6 +151,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Asian Markets Extend Global Rally As Earnings Trump Virus Worries"
+    excerpt: "Asian markets rallied Thursday as worries about the Delta variant were overshadowed by more strong earnings reports that indicated companies were faring well as the global economy emerges from last year's pandemic-induced collapse."
+    publishedDateTime: 2021-07-22T07:32:00Z
+    webUrl: "https://www.ibtimes.com/asian-markets-extend-global-rally-earnings-trump-virus-worries-3257141"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/21/joe-biden-said-that-while-the-united-states.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
     excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."
     publishedDateTime: 2021-07-21T18:32:00Z
@@ -175,6 +175,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "maO1hSPxf8S1m7GTkd/UL+obim2GQUaIVGj+IFzKZ2Kn0/5lKEibar9kdEVT7kOY2mPe/7Er9ubQSAa8jcWw/M4I4XFwdE7glto+IeyS9g1FmtDcdPY43dI1LfBOxd8cKL0XBStSd6Er7/0LNJjtbRB5FIBJiF80MXDWbNWStMOOZBWvYvuJOvbuUUGztKOBYroimdVwdUolbObetqV703K1MKRbuwvf0pQLVVIcLqFq0kk7vI7hMkMmnPJI2ZBmpn4vb/G3jPxEhndW8IQWMMP5oa49X1Kj/9gLyUBsYwgbd2EbffX56PWbjkNZ6fN8i4CYH2C/JsnXFqcF3UvVcTNATjYZO0p84uMTjLYX5PEhhP4tAql1AljZjuj4wx87Co7PCTJKoCiDz8BpJZxSF1646zuzJMM8dpb9W6obW4Vg5z6S26LuZ3YVPraeBGpPgELF0BFtWa5XhhoU8VYWWOBwA3V2ywWZBzpUuk5fldCt3LJjtixIdPThebRjRFQ9zktC24h3+5ueyADIGdr4gQ==;4PYLd8bEwfideb5vEZhfpQ=="
+secured: "T0NEW2F3efWj+DG0yR9x2mse0gmH2/fU5zD2WakGQdHN+rEO9aBkT2AC6teMYiI3C3l7lnV0XGjBCn08zEJxZ7clE/gcoz/yOKRMtpDMG2X4CCmCuwDRiC7NbWk0TkWBqszoVYtOkSo2tRAHt+51E8I/V7p5nxCTJjr39MOi2jzMCAit/Bh37qz8SjisUAYi9nuuu2TycEPNjclcRqkGD5Gc5hVVVv5EKRvT6dvEiUpcaeOT+3Af4rsBThwY30cgFUOe++JqgTBt0//jik4bj1RhNQbmExnhnWzhTrufvyMT6/kYvzS3+f/cuxPo/7jw00bPk5DBoY4Y+mbpXHfEF6lvP3V27zfgmGJ+Sz5jlGU=;G8HuWTcqZn3aQwMOwJRpag=="
 ---
 
