@@ -59,22 +59,6 @@ related:
         width: 1440
         height: 983
         isCached: true
-  - title: "Trump inaugural committee chair to be released on $250M bail"
-    excerpt: "The chair of former President Donald Trump’s inaugural committee was ordered freed Friday on $250 million bail to face charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy."
-    publishedDateTime: 2021-07-23T20:58:00Z
-    webUrl: "https://www.chron.com/politics/article/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
-    ampWebUrl: "https://www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "hBAQYvPzY9YdTG0zI6WPX8vuj/JGyI5PutOAst78vWbs0NUzCMWpBqKIgxIo/k3kBVCDNozk7s3CbjpIofxX0LAKEPgUALEcz6VmTWdOo1GWLsrgRUfhGMVjjUy0z5gLkMZjlK6G7zsk2igtbjOFkdjRdCOQiGh9rhAyA00mc+BP6qDonw5C+p7ESXxVzPz98sqI6+azd4Sdn7gIGTQzp85RkwVpLq4333PVmuyr8bxC3oLdp4J1m9nntZA3hLvU4R2aiFXQ/nbPFrDwVD9/emXasZUZsdMNqCXUy+BWOEUKLC/1jfz6OLtlMqiG2fHyD6VogGoNJhWUbc0muqXT5vPBwAqSAb4jdZUJkuPF5W2i8H64zRE22p05ksA7B4TAQ16aoNPciLGh7SnavkTfI1X05PgXspMtyWsNh5v+wkvRsVandTZMYGGOXz7NFPzi95S1xqz8lRF3hi/Im5AxpHaDwKzXQeabtGFzHWZf3d0Dg3C2MgCpBSBFiPqYKEO6FY9i/gemYeqAJ6m/vV0vtw==;tqkkGSw4qcRm3+zAFr6mmg=="
 ---

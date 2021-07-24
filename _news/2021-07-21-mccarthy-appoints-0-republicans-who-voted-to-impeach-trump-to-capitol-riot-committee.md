@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-i
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
 type: article
 quality: 118
-heat: 178
+heat: 158
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PU73ALXLEII6XIV2HPRR2NESLA.jpg&w=1440"
         width: 1440
         height: 983
-        isCached: true
-  - title: "Trump inaugural committee chair to be released on $250M bail"
-    excerpt: "The chair of former President Donald Trump’s inaugural committee was ordered freed Friday on $250 million bail to face charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy."
-    publishedDateTime: 2021-07-23T20:58:00Z
-    webUrl: "https://www.chron.com/politics/article/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
-    ampWebUrl: "https://www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "zlh/WSFCuuVXFd1GM5rFAnzi1IGTyln9GVk2JcyJgsOfrNwTfqhhXy6DrCs1lrTnBqWv+xlJFgfSgalW3IxIBDR7Uh09mA8XyzF4O5mSPkE+Zbr0LM07/Ozz37lMQAhs+MV0EPk+QiFIA4h8/lDYumhrkXZPkQZ90HtZpfssOmO5Vn/wCf3oCZD9A/M93FwsVVUnL0s1fAhgwzGwFYwLpJri4O5V+yxhE0FyN+zfJR0GupEj75IqQ95V+3/c0/qCop8NHNhghaK93PvJvfrmbFEyI1Kgo3jntZwlm13V+2lTLzFb6d4xYak+xOSM0M6cgPg2aW9KElhES1dt4f4rCBUtXjP5WcOfyxa2+O04Sgg=;My1KOUEWfGlxw/d1Ff4U7w=="

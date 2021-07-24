@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
 excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
 publishedDateTime: 2021-07-22T23:00:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/36314f6f7fd3addad0c8b919ee63c379/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/36314f6f7fd3addad0c8b919ee63c379/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/36314f6f7fd3addad0c8b919ee63c379/BIDEN-INFRUSTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -185,6 +185,6 @@ related:
       domain: politifact.com
     quality: 35
 
-secured: "qfgzlFdM9WuyOs2FIzPoJO4prREKKKx9IoVgnYfcFd+j+vRyAirD3nO79sht3IW3SPLH5KJKLD3hTFZJzoXXSLRYYqVmGcz39okL+gPLEr9jvWMWDjDr3jMzupdnxnKY2R868RoPPU6Q0RBJc5GCmErAbh1iD/fnznONy5fuXYaXhI89oiP7UCIHWxfBq4TZpH6Z5g1U2dF3h5udTXWL1ZlTlVk1uitWJGCtLDTCK2LVyqKZ67GXlFTJuB393xEl014KPmCw7x6i6JYXYB3wCepDCTT8adsUr3OH66ZCZXsohF6ebeSqkBelQ0omTSSQ5j87EyJ9MAFWM8rjQ5vZTvGFJbgsG+Yf++AEsfAxux4=;4WHRGES18BRS2gxn8iDG3g=="
+secured: "laPpZj0Tt7RRrzFIBik9/madNvHp+IFALAv0oIvss12znpDEn5nKvkj3TJ+ZXQLUbcs/xBWUFwB8a7wY7ePSdLKKYcOYbpRLtPC2Hidj8lOtxV0uh2gPbsmdmPcevEO44boeJV5uud8vWTwAX8dMrnfJReUNCHsOVUSzEP8hrhuAJJxhmMt6WwlQsZ+YbR3rKuXEvpCJHO4FKkncMdBBSOF9aEjfzg8Io3NK/+eah4WtZ3YqWbXfTChIwHFzKUvbaJm56W0PvXf4T4wkc4JZ+kEd2+ghv7jX1+t+884emA9FXCfPZniI07wK3yn0mR7MxdLwgOsxkxZtoefidg2G/SUwt64EO4zKWM555ogpC5w=;3W7knhS3k7P8BuFvVDVshA=="
 ---
 

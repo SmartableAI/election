@@ -27,51 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee"
-    excerpt: "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot."
-    publishedDateTime: 2021-07-20T17:45:00Z
-    webUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920"
-    ampWebUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
+  - title: "Trump ally Tom Barrack posts $250m bail on charge of illegally boosting UAE"
+    excerpt: "Head of Trump’s 2017 inaugural committee must answer charge of acting as unregistered foreign agent in New York court on Monday"
+    publishedDateTime: 2021-07-24T14:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://i.guim.co.uk/img/media/4522e975c672037d45450872fbde3828e23cfb4c/0_221_5386_3232/master/5386.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33e78c7e1f03f78b55fe1a0fe10399d0"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Minority leader McCarthy meets with Trump"
-    excerpt: "Watch \"Minority leader McCarthy meets with former President Trump ahead of Capitol riot hearing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-15T23:35:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11319195_1626392404.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "A scandal-scarred Senate candidate wants Donald Trump’s endorsement. Other Republicans worry he’ll give it."
-    excerpt: "Former Missouri governor Eric Greitens, forced from office in 2018, has hired several Trump associates for his campaign and has falsely suggested Trump could replace Biden before the next presidential election."
-    publishedDateTime: 2021-07-23T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-eric-greitens-endorsement/2021/07/22/9e9998a2-e8c0-11eb-97a0-a09d10181e36_story.html"
+  - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
+    excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
+    publishedDateTime: 2021-07-24T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 87
+    quality: 88
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PU73ALXLEII6XIV2HPRR2NESLA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNWSFTHL5EI6XOS5KXJ3L76K6E.jpg&w=1440"
         width: 1440
-        height: 983
+        height: 1051
         isCached: true
 
-secured: "de7KByBSVFM/nuetLtE0AZ2rq6AfMbi0mDY7iac20VEWjZqYULUqy/n6lVv01Im9ciPddTKPbTFdJauisNjWD9giaYNH3mI/WACy5qYObMoPXPm2INZTz18Y4v3whCBKsPXzeSeCLKtwrZhUNQAXmrucIx6SIf2T9wiXcmmyN7+ss11ayOL9k/Pl4MTi2AmUrYt/aE51a6EEmaBihxGmo0V8y6tSVIda3LulEVZBG4sZMN9BGjUiGb7cmXtML6fYt5RfzglfeoJ2baf6YTUNKoMo/v6SItM0hQMmligELcJZegSh1/RrvsxV7yUmvW+oH0wSgdiX53psTERwaJa+jSLSqmfcGDruL+iKObjJwp0=;0VbubvtuR1PuJIOdpHYQzA=="
+secured: "e+y0cKTNVpSZ6PTSt0PE7pXL1GK9xTRSc++e/DQ5d2QXXwZFhH1DB56R2D2Pz8P1XCeKtXc5IR2F+6nfhGWP2E22oGj2NrUyxnIW3vPCKEv46LYsJdOB62kkzS4a1qMF/Z7WOGEbcPhHoRM5pbXOIreDGByuc6kFImGqIouuzi6/HVxT/pxuwyQpHRuNZHIoPAd1E8xXr6Nc0CP1L8kSzTte2GEEFAARTPKENNtagOSoYdbs2r6s+vDK0/StbHprk1hfB6IeKBbxzqLypC5o5Si+Va7UUlcxjkB3kt0oges9qdxs+rHlF10KVQU1HkZdf6NjiEbmH55tdi5/xbXI9SlqRK7KhKzcXegkF3CWMsmq1srVJ0xHuF+oBVfQm1eL1UeIA72K7He0x9Bp9rrDwbW9410yL9LFx/kB588x0RgGVjfA3mzPdr4Z5Jup4xoohSE7FTkj7jPtJGr31swbgTZrIqWAL7OmymJdhxWxgTog2/lkuoUEkm31l8odTHl3+kOXnefh7CPAiwxByCaeaQ==;N6jRsrU/8letMTK3RLNneg=="
 ---
 

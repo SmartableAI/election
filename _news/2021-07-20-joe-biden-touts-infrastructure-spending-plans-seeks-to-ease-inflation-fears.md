@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden authorizes up to $100M for Afghan refugees"
-    excerpt: "President Biden has authorized up to $100 million in additional aid for Afghan refugees and those impacted by ongoing violence between the Taliban and Afghan forces as the U.S. nears completion of its goal to remove all its troops from the country."
-    publishedDateTime: 2021-07-24T02:49:00Z
-    webUrl: "https://thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees"
-    ampWebUrl: "https://thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_071921getty_misinfo.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden to sanction Cuban officials following attacks on protesters, reports say"
     excerpt: "Thousands of Cubans took to the streets earlier this month to protest food and medicine shortages, power outages and spiraling prices."
     publishedDateTime: 2021-07-22T15:51:00Z
@@ -59,19 +43,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "MICHAEL BARONE: Joe Biden's big lie"
-    excerpt: "Did you know that Black people are not going to be allowed to vote in America anymore? At least in states controlled by Republicans. Sounds unlikely, but that's a conclusion you might have come to if you took seriously what President Joe Biden said in Philadelphia last week."
-    publishedDateTime: 2021-07-19T12:33:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/jul/19/michael-barone-joe-bidens-big-lie/"
+  - title: "'We follow the science:' Biden on mask guidance"
+    excerpt: "Biden on mask guidance. Posted . U.S. President Joe Biden, asked whether vaccinated Americans would be asked to wear masks again as COVID cases"
+    publishedDateTime: 2021-07-23T14:48:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN2G5B3"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2G5B3&r=OVEN2G5B3&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "bs5rJrsWMmh8JUoFi4l/CAEYhzG5bcMJnjPI1z6WlPBAXKpYg/RATduMSyVWYh+jdR1BZ5tOPOtu7XEozgr8LKeDJWgKjYAVBuM9IMM/cp6Vh9tl3Hf81OJ2LNuYMAXHaGo5x0DGtkAIWw/nstj/4qAXq8U69jztnMRfud6guFKGCLzg8Lgbku4fEoSuwsCcouqUTUlj8+FYrrspv5OpTcPi8RHUmNJkilvqv6xnL0W9nsslRP+IvqWG3vJe9gj6djbD97iRpjTqtAGTmlM3agcXcDEZPr0Ximl3Byi0hX6GExHgnjMIBG5/sVHH5JqbhcJMlOx3dJCVknHQrzs95AI0dPq/qznYZKwWSadB9sXyNwj9ZACQHirLvjzpXCJa5nu2R3+9+uqR77kRuDQbD0uiwLz28uiIWhgadlSVEJzgNoVR52tZDN6VeBRhjuYtIvN8x9m1Ew6UOtGkv5ineIh9mcn2NkYVlfXDfvwggkGV5tafdZXeie9Xk8Lr+k2ESZh9xQDd7CF2WgqPA9O/Ew==;OcHboaUi47r0NpcnrDzuqg=="

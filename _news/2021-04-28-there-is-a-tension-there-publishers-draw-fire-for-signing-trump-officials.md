@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump supporters are a big reason why Canada and the UK are beating the US on vaccinations "
+    excerpt: "Poll of the week: A new Angus Reid poll from Canada finds that 86% of Canadians 18 and older have gotten or want a Covid-19 vaccine as soon as possible. The same poll shows that just 8% of Canadian adults do not want a Covid-19 vaccination.\n    \n"
+    publishedDateTime: 2021-07-24T14:06:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f55dwmnm7Hs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/24/politics/canada-uk-us-vaccinations-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/24/politics/canada-uk-us-vaccinations-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210630143159-trump-rally-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Takeaways from a day of congressional Republicans embracing Trump and downplaying the US Capitol riot"
     excerpt: "The ongoing battle between truth and lies, and the continued fallout from the January 6 insurrection, played out Wednesday on Capitol Hill with critical oversight hearings and a landmark vote among the House Republicans to oust Liz Cheney from their leadership ranks.\n    \n"
     publishedDateTime: 2021-05-12T21:12:16Z
