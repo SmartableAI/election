@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/07/12/USAT/c222758a-82e2-473d-9d80-155527a55e64-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'They've seen the Lord:' Biden on conservatives and vaccines"
+    excerpt: "Biden on conservatives and vaccines. Posted . President Joe Biden tested his political muscle in the state of Virginia on Friday in a campaign"
+    publishedDateTime: 2021-07-24T18:28:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN7FXZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210724&i=OVEN7FXZZ&r=OVEN7FXZZ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."

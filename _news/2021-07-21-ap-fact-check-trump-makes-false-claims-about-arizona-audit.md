@@ -209,6 +209,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Donald Trump returning to Arizona for first post-presidency rally in state"
+    excerpt: "Former President Donald Trump's 2020 loss, the Jan. 6 riot and the ballot review have helped upend Arizona's political climate."
+    publishedDateTime: 2021-07-24T14:09:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Prosecutors Agree to Allow Trump Ally Barrack Free Pending Trial"
     excerpt: "Former U.S. President Donald Trump's billionaire ally Thomas Barrack has reached a deal with prosecutors that will allow for his release from custody while he awaits trial on charges of illegal lobbying,"
     publishedDateTime: 2021-07-23T18:18:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to bolster security at US Embassy in Haiti, won't send troops to stabilize country"
-excerpt: "President Biden plans to bolster security at the U.S. Embassy in Port-au-Prince after the assassination of Haitian President Jovenel Moïse earlier this month, he said Thursday."
-publishedDateTime: 2021-07-16T10:01:03Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHGG8qKrZ9E/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHGG8qKrZ9E/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country"
-ampWebUrl: "https://www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp"
+title: "Veep Joe Biden skirted ‘no see’ mail law with private accounts"
+excerpt: "As vice president, Joe Biden kept a variety of private e-mail addresses from which he would sometimes forward and receive government correspondence, Hunter Biden’s laptop shows."
+publishedDateTime: 2021-07-24T17:56:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gI_bZLxdhKU/joe-biden-mail-law-private-accounts"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gI_bZLxdhKU/joe-biden-mail-law-private-accounts"
+ampWebUrl: "https://www.foxnews.com/politics/joe-biden-mail-law-private-accounts.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-mail-law-private-accounts.amp"
 type: article
-quality: 166
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fdc43bb-25a1-4fc2-9e33-3a3b4fe3eee8/11d27d76-b787-42d5-af76-d2fb82c88562/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/47197486-af04-4d47-9cfa-dddd4cb698f1/75c617fe-8238-4efa-a235-10bf08decb3d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -47,22 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Veep Joe Biden skirted ‘no see’ mail law with private accounts"
-    excerpt: "As vice president, Joe Biden kept a variety of private e-mail addresses from which he would sometimes forward and receive government correspondence, Hunter Biden’s laptop shows."
-    publishedDateTime: 2021-07-24T17:56:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gI_bZLxdhKU/joe-biden-mail-law-private-accounts"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-mail-law-private-accounts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-mail-law-private-accounts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/47197486-af04-4d47-9cfa-dddd4cb698f1/75c617fe-8238-4efa-a235-10bf08decb3d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "McConnell calls for Biden to withdraw nominee linked to eco-terrorist plot"
     excerpt: "EXCLUSIVE: Senate Minority Leader Mitch McConnell is calling on President Biden to \"immediately\" pull Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director over her link to an eco-terrorist plot and her apparently misleading answers to senators about it. "
     publishedDateTime: 2021-07-16T16:41:44Z
@@ -78,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden to bolster security at US Embassy in Haiti, won't send troops to stabilize country"
+    excerpt: "President Biden plans to bolster security at the U.S. Embassy in Port-au-Prince after the assassination of Haitian President Jovenel Moïse earlier this month, he said Thursday."
+    publishedDateTime: 2021-07-16T10:01:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHGG8qKrZ9E/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fdc43bb-25a1-4fc2-9e33-3a3b4fe3eee8/11d27d76-b787-42d5-af76-d2fb82c88562/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Tucker: Biden has lost control of the southern border"
     excerpt: "There's been a dramatic escalation recently, we need to tell you about in the Biden administration's longest and hardest fought war. That would be the war against what they're calling misinformation."
@@ -126,6 +126,6 @@ related:
         height: 375
         isCached: true
 
-secured: "kILvLBSR0/0G7j9NnMKyh3TgXmW5pAIo6RBsfWq6LMqhnamVeR2eCKVK786jpO9ooZhKs/I3CSMMoBs2UhpEDPljEKQvQL4vwxP37kJUftFrrkogid800GPY5/llifOcXXzuzaQpEIMkaJaKSsqlf8JKWKPuW40z/ErjQqQnUj6RKGcUR7GKyRaPfvdI8BBLHOXnPK3DTBYVHSnOo3hVSAKKk6tgohm6jJxE0SsSntikYmmZHNYtAM/z06dJ1hueSU14wcIncN6ANbgTKdCUZqtM0kW+ksnSNSlkPKoBANxV3QgirtPOU25H41l0iZmsx2Mh5B+ybkNgcnhcIrJd8papvUNbChDMB2FXF4byYp8=;XnSaBQVd1ylpvusyOWbnlg=="
+secured: "tm/JfxY286PzvGaZ3f9wnbqLVK3P2oP0v0FseC3t0Fn0eUhtEodvDCwySgCAQQOXBdUTfpmlvCieVos9wcqaTmmtcnwIclleYUQiJtQoIjeS2KuK5qSAktZRgtaCe6lRYrOfSOH+fmAe/ctvzNtmnhjONHVn3m0MUyszqg+wsv1v+5nvVrUX2ofqu9rd+RKu22SEAK6VAwp0TW6alLnOC7WDihMGHLp3Z4FjxCRY2MoFTYVbQ1SPjMvi6dNe/ecZHS0sMqLJbXNbvHwoeM+5bxy9418dTPZXTjTiFxKwGRvi8jjVffEeCLWhtkEBajrolcAjDU77Tai76dE8mG6Fm90de+ZPi2sKv03SZB04gqY=;mwZ+JQ57IcEMUyqfXDL50A=="
 ---
 

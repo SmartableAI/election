@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'They've seen the Lord:' Biden on conservatives and vaccines"
+    excerpt: "Biden on conservatives and vaccines. Posted . President Joe Biden tested his political muscle in the state of Virginia on Friday in a campaign"
+    publishedDateTime: 2021-07-24T18:28:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN7FXZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210724&i=OVEN7FXZZ&r=OVEN7FXZZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "U0EV49bJs+EMzU/1du15zEoZ/Ownyx5IkQyZ4BL5GgJrse3fAatP9AkS5ps4VAUfFW7ulAEu2MUcyqwD06S9urZWxpGEn3h5hL3BqtprHDml5YlsdTdj8qdbFzl4595jtPi/qq5LvgCzvG8Afp/6iFDP719kCox539GvKEuApWzp4JW3ZdAQLJzdRsT5THzOJ/2j+oReL6QpDHMTN1Wpl06xU2tg/syOxHElpQBM3rFVu0N02bM6Lqpw5aeCYLuVcFCC+x9wvUomrfAX6eSmeotGVMGC29bfzxmLiaQ62YrbPAS5NlGXHlGBWfzWPKwc0NOEKjTyOpveLVz0cQNLxG86Hg8LGgRmgm9JSRRFchQ=;3/ovXbV7yblx7pWUcbg1yA=="
 ---

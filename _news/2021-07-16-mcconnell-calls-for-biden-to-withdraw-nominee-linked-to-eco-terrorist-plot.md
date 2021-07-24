@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Veep Joe Biden skirted ‘no see’ mail law with private accounts"
+    excerpt: "As vice president, Joe Biden kept a variety of private e-mail addresses from which he would sometimes forward and receive government correspondence, Hunter Biden’s laptop shows."
+    publishedDateTime: 2021-07-24T17:56:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gI_bZLxdhKU/joe-biden-mail-law-private-accounts"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-mail-law-private-accounts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-mail-law-private-accounts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/47197486-af04-4d47-9cfa-dddd4cb698f1/75c617fe-8238-4efa-a235-10bf08decb3d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to bolster security at US Embassy in Haiti, won't send troops to stabilize country"
     excerpt: "President Biden plans to bolster security at the U.S. Embassy in Port-au-Prince after the assassination of Haitian President Jovenel Moïse earlier this month, he said Thursday."
     publishedDateTime: 2021-07-16T10:01:03Z

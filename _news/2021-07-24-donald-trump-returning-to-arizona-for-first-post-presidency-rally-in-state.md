@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
-excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
-publishedDateTime: 2021-07-24T17:31:00Z
-originalUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791"
-webUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791"
-ampWebUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
+title: "Donald Trump returning to Arizona for first post-presidency rally in state"
+excerpt: "Former President Donald Trump's 2020 loss, the Jan. 6 riot and the ballot review have helped upend Arizona's political climate."
+publishedDateTime: 2021-07-24T14:09:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
+webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
+ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
 type: article
-quality: 117
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1854322/arizona-audit.jpg"
-    width: 1024
-    height: 683
+  - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -110,6 +106,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569786377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M12N"
         width: 818
         height: 545
+        isCached: true
+  - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
+    excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
+    publishedDateTime: 2021-07-24T17:31:00Z
+    webUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791"
+    ampWebUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1854322/arizona-audit.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump aides told him over a McDonald's meal to stop bitching about losing in Iowa to Ted Cruz in 2016"
     excerpt: "Corey Lewandowski, Trump's 2016 campaign manager, said Trump was told to stop complaining about losing Iowa or his presidential bid would be over."
@@ -213,22 +225,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Donald Trump returning to Arizona for first post-presidency rally in state"
-    excerpt: "Former President Donald Trump's 2020 loss, the Jan. 6 riot and the ballot review have helped upend Arizona's political climate."
-    publishedDateTime: 2021-07-24T14:09:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 73
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Prosecutors Agree to Allow Trump Ally Barrack Free Pending Trial"
     excerpt: "Former U.S. President Donald Trump's billionaire ally Thomas Barrack has reached a deal with prosecutors that will allow for his release from custody while he awaits trial on charges of illegal lobbying,"
     publishedDateTime: 2021-07-23T18:18:00Z
@@ -239,6 +235,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "96YZ8e3r9wCpC07qBCMQEPdo8EN3XZlvCt7MJFFmBOIvfN2QZCzhcmB9DDximWT/gMiAbzuMKDtcCq0DmlZEO7iOuDTHvJcsVC+1zR1PTup290jj4pRYpgyv5OFVP7XfvvfUpWF7P9/AoWWyUeDgFaFEYiCtpdPEXORT1gsMdsAvmCPEemhtfQA3MbTybbIStXTOUtrCrnkscYd0psGZ8XHMp4SZU4ZN7QWwVQWaLjff3X1cKNS90ewCDWJ0K1FwxaN9FtiwztVvU8iXIM99InU1y4kTesj/iYAttJoQLrkn0UEi06AcCgzbU6HKODdLCF8+raEFeG4pEotuHlUDIvsSaba8yP031HPWuDwKj1E=;b6Y73C59sesQFjQMLUgRGQ=="
+secured: "uoKXEolVRyZYI7sCVF5Z6h/z0smMkZIToQEUIsMefbKeEQQUAiUzWNzuF0/xwdrxG+s5IqGUIgFZweGeb8mIse8qWt3Q0uUBVRaMudcHlujWUmP1rNdFZbfdBM6LZZBVM3pbS9uvAALq+c5Gtpf2rbhASMEXPzdthnebhyZ4j8IPHwhqj7mEPTaLGXnT2GK9tyZT876pZakAJm7UeUWl2L3guXiRq+up05FdvvlHzrwDhcKu24TcetsVwQ+01V7+XL6AUqW6qbOQecxzvMFwMbQ6LYclIjopEYspgP84saafGWnp69UUch6y7ifP/dP1+F3Q/4ntIjqHXILiVdHgWZopgQUf663uHDc9RfeWrls=;ZuJrXhV8GUpbmq55GkStHg=="
 ---
 

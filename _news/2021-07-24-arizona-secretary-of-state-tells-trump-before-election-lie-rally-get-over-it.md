@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
 type: article
 quality: 137
-heat: 397
+heat: 417
 published: true
 
 provider:
@@ -213,6 +213,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Donald Trump returning to Arizona for first post-presidency rally in state"
+    excerpt: "Former President Donald Trump's 2020 loss, the Jan. 6 riot and the ballot review have helped upend Arizona's political climate."
+    publishedDateTime: 2021-07-24T14:09:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Prosecutors Agree to Allow Trump Ally Barrack Free Pending Trial"
     excerpt: "Former U.S. President Donald Trump's billionaire ally Thomas Barrack has reached a deal with prosecutors that will allow for his release from custody while he awaits trial on charges of illegal lobbying,"
     publishedDateTime: 2021-07-23T18:18:00Z
@@ -223,6 +239,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "EFTtIr9rstG0G+7QfU7Dx6SzAB06zOhyGZ7b9SZHcYUUxI7BraOYcy+pgDNQ7Ql+H89OgBWXjinaCILjfzG2eq58YJK7fenRWhTpfVurq8r9Oop695TggA4Zyx3P4D8+aRJDpcZN65aBNDQ6Ykf0mj4H+9Gx1RRPBgDck77L5Ahcov5dlEhVTgQdIbJP7DCyq4U+t+oRBsUh7v8ZAHV+iT4j3+siwXr1VHQxlyNcFDEJIJAhj9soz4m0I0UI6kvrt9T8ypD9Y2fsXudTWiJXZyDmLk9I0Ug2VlQ0JFRoz9cuZF/x67CjpPP/ZGAUKL/jArltpX4QETdHzKxTbhr4iOlN02ugksZiSOIyz/r6DHU=;eQ+T0Wn3QDJ6uHSUyHjDVg=="
+secured: "QiZq9xJ3isZA9MGXLlUeXyAck4itv1wC1h+8MGYDjlBktI3ediejjIibRZipBQxK3F+JUAEkOBEuB9Uli60iqSwLKkoQ1iVAz9KAks1SDPcBq+Y03yjjWcwDtVo70h1jtc5bYN5cEDodOfauvB+zj5+0TIazus5msIes05S2F4mGOqo4O+eGVe3JLCg1mbOIyGT99s/PKsNnwVb6alzFgwsT1yJvHGAN5iMudJL9/HpfZjrQc6Og98MGxbwny9SYzNeW6DkTnNT6hy+3otm2OJOOimWv+9rzeFViqB8M1N/BR/w6F45vDUITpw10GH0ybeDYd1XAjk6fi1KUBMGg08C51qjnrs6e++n3nKmwiBOlvulUoDnRqMMerjJ5Fje08uvy+3GMQe8A7c3fLX4b79Cp/C2MFwQSZj7+Z3qkoek6KxkF6DCxHS+GCC4rumdx96XgkYDZaDOaoNsjrif1oVzlwuFNZ+qD3Rz5r0wZZPDoT9XI5aDnuwt3yMmjv17Dx0HKqVrPinAfbicRJkbAOw==;xL7xUEFnY5ErRlmqDRqOaA=="
 ---
 

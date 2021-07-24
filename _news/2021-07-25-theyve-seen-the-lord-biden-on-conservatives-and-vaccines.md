@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden administration offers new aid for mortgage borrowers at risk of foreclosure due to COVID-19 pandemic"
-excerpt: "The new assistance will reduce monthly principal and interest payments by about 25% for homeowners with certain federally-backed loans."
-publishedDateTime: 2021-07-23T15:20:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/23/covid-19-joe-biden-offers-new-aid-mortgage-borrowers-risk-foreclosure/8068436002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/07/23/covid-19-joe-biden-offers-new-aid-mortgage-borrowers-risk-foreclosure/8068436002/"
-ampWebUrl: "https://amp.usatoday.com/amp/8068436002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8068436002"
+title: "'They've seen the Lord:' Biden on conservatives and vaccines"
+excerpt: "Biden on conservatives and vaccines. Posted . President Joe Biden tested his political muscle in the state of Virginia on Friday in a campaign"
+publishedDateTime: 2021-07-24T18:28:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVEN7FXZZ"
+webUrl: "https://www.reuters.com/video/watch/idOVEN7FXZZ"
 type: article
-quality: 107
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/12/USAT/c222758a-82e2-473d-9d80-155527a55e64-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://static.reuters.com/resources/r/?d=20210724&i=OVEN7FXZZ&r=OVEN7FXZZ&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -47,19 +45,21 @@ related:
         width: 2500
         height: 1670
         isCached: true
-  - title: "'They've seen the Lord:' Biden on conservatives and vaccines"
-    excerpt: "Biden on conservatives and vaccines. Posted . President Joe Biden tested his political muscle in the state of Virginia on Friday in a campaign"
-    publishedDateTime: 2021-07-24T18:28:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEN7FXZZ"
+  - title: "Biden administration offers new aid for mortgage borrowers at risk of foreclosure due to COVID-19 pandemic"
+    excerpt: "The new assistance will reduce monthly principal and interest payments by about 25% for homeowners with certain federally-backed loans."
+    publishedDateTime: 2021-07-23T15:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/23/covid-19-joe-biden-offers-new-aid-mortgage-borrowers-risk-foreclosure/8068436002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8068436002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8068436002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210724&i=OVEN7FXZZ&r=OVEN7FXZZ&t=2"
-        width: 960
-        height: 540
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/USAT/c222758a-82e2-473d-9d80-155527a55e64-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
@@ -78,6 +78,6 @@ related:
         height: 683
         isCached: true
 
-secured: "LYzPhD177eiUuHfbOMi01txNo2NRE4Q9NPkCMEPR9STxvoynCTxCDlIDo37GPFzk9smQDjtNt3IqMDUc9P49y5SLfvgrxj+21znTf578UaYrAAqPGOSv7iEN3KmLBxkGiI2Deg21xQSo8LjwyTyseI7e5e0wmsmdCvsWwCle59uRyAn4yIvBVivvkkRmI8LBqpAa0W1Rs7HYNSsW3L1Qp7yZe55oHGPUU5hbHWj82LkogXe5mszdy8wle/afrsxROcvJiNdl8t1j+2zEePF93h0YjN1FBPhZ//fkN0bBuw4y90mLCQm4VFrEjy45Lv/yXZV4JqOhSODPuqVBn2y3pjj5f2Dsq+2lvi1Mcv8L+qwwsRVrb6i1rAVFKK9IvNuHMniFTAyOQ+sUoBgGK5CeN0+204FQgvdCTGnq9b19Xn+3eyMX517lOa5GX6DilBTGB/Ig2aYsYRD10j+3PaWBJzRB36BbrxMC6ILOcJNCZH7aaY/h5T3o0oN/Sx9znKfpMAOdoPB6MRwvTwyX1lfFrw==;V9H+k0YKE7gdlJRcCyCSig=="
+secured: "cq2QFTcVto9w1NPMG5Qo8NktmNSfB5D+512xKZcNBQEVZUpcUSd30wd0aawBUd/Qp7W16oBm/wsecRnl9E1kWLkhTxEfxoCmHAPkstzk5J3UGq/vgEBgi2yNJF29YemelcG7XGgSBJ2QCpQlnqwjpb0n2UHnakBTuwFiIRT9YPrywB18cJjOfCpJPKsYtAYqafQNMAAgS96Toy3Yall9jm3j43Q8pNWOG+RiuzO9Me+63YxVli4m0vVgV0vHHfFVkluARwo5PemBCkRloi3mNiMPgGzJj8nDaQan7VXnG7HXGu7NDmWZ+stl5S2IYTzhX8sS8PSArrGWINi82vGp3EkSg/tF6X+Xw9DkB17UtmA=;6ToYbPg2NlEttISqXHInOg=="
 ---
 
