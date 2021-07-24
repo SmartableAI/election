@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Trump inaugural committee chair to be released on $250M bail"
-excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee has been ordered released on $250 million bail to face charges he secretly worked as an agent for the United Arab Emirates to infl"
-publishedDateTime: 2021-07-23T20:43:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+excerpt: "The chair of former President Donald Trump’s inaugural committee was ordered freed Friday on $250 million bail to face charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy."
+publishedDateTime: 2021-07-23T20:58:00Z
+originalUrl: "https://www.chron.com/politics/article/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
+webUrl: "https://www.chron.com/politics/article/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
+ampWebUrl: "https://www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
 type: article
-quality: 125
-heat: 165
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_57b2dffb6cde45fa98168a1bd3a1bcdb_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -47,21 +43,35 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
-    excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
-    publishedDateTime: 2021-07-24T00:21:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
+  - title: "Minority leader McCarthy meets with Trump"
+    excerpt: "Watch \"Minority leader McCarthy meets with former President Trump ahead of Capitol riot hearing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-15T23:35:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11319195_1626392404.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "A scandal-scarred Senate candidate wants Donald Trump’s endorsement. Other Republicans worry he’ll give it."
+    excerpt: "Former Missouri governor Eric Greitens, forced from office in 2018, has hired several Trump associates for his campaign and has falsely suggested Trump could replace Biden before the next presidential election."
+    publishedDateTime: 2021-07-23T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-eric-greitens-endorsement/2021/07/22/9e9998a2-e8c0-11eb-97a0-a09d10181e36_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 88
+    quality: 87
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNWSFTHL5EI6XOS5KXJ3L76K6E.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PU73ALXLEII6XIV2HPRR2NESLA.jpg&w=1440"
         width: 1440
-        height: 1051
+        height: 983
         isCached: true
 
-secured: "pwFZ3fZTySm4UnRUaXXB772cE1cZ16d11B3lwnlm1vrcgBEtMeis6/rEfwPB7lDly2NEFS0UOMLRygzCnXsxeYRamZfG8ATM5QzB3FglDS+p0VRGlrMWE2/0qNFlRyZgMO1nFktYsH/orbiCrUyHiMDNjAKv3f/GpOMF7ARXJ9ho7BKA/tR1N60owd66P0vkKT+oNZA5O6Hz3au7TB/IhvMtqXf+ke7wwoDrhAmJe8EdPsNOJMIY2FuK+WBE38WMARgH9tmaD6tzg/sRSnYMh04mYsNgQDjpTQowXXcIFHdmWeqMETm0vBoHQgAi+4Bd+pR/qpb9jrbk56TfL+UyyPAsfr8ZliGqD4S1teclLTg=;m0oRycaRn64cqLsBAZeoTw=="
+secured: "ivaoU94RY/B+IJp4wqBDVwUj59Z7lPU9V96QoFIY4sU21cq2+Kes8mpjLwjmEEalmvi3FM9UqzqKM08oKGZkc4XisKpb3ciqr7z5uCs/Sucz/PdnDvLIKmIeKErGI/sVyTK/P+6Bl+I69ryg0Vc2OY+WeQyI9inKVttsZqL9NxYlo8qlWiwIJoStGfZ8ISwQ2/0oobZTxNKziu4zhZi4UKPu1WtMxtGyQD3ecxf6P8ZGJTUw74l0CwZeJIES7lV1deQi9PJd+rWz31Lb+lFhlZxcZicRTBPyBV4LKgWyDoYaPZeVSDBQ8gYDEbyQzhYbJGAJXyMRUZgyt2wmqKUpsYYiX+sHmiU52snRVUo7P0U=;ASCm2ldbFXKRjUfubR8V6A=="
 ---
 
