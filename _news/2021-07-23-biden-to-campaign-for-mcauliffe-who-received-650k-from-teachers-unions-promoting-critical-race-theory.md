@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki insists Biden not pushing critical race theory, says curriculum left to local schools"
-    excerpt: "White House press secretary Jen Psaki insisted Thursday that the Biden administration is not pushing critical race theory in schools after it promoted a radical activist group’s handbook in its official reopening guidance, which she said was in \"error.\""
-    publishedDateTime: 2021-07-22T18:58:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4gRIE1qhK4/psaki-biden-critical-race-theory-curriculum-local-schools"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-critical-race-theory-curriculum-local-schools.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-critical-race-theory-curriculum-local-schools.amp"
+  - title: "Biden heckled at Terry McAuliffe rally, plagued by another small crowd"
+    excerpt: "President Biden was heckled by an audience member during an appearance in Virginia on Friday and stopped his speech to address the individual."
+    publishedDateTime: 2021-07-24T00:40:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rlc-o-UYTto/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99373ae6-ea57-4fd2-a674-4e4db41aa345/cecf2f3a-1d7a-4aed-bd32-64d84797edad/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory"
-    excerpt: "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration."
-    publishedDateTime: 2021-07-22T18:56:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties"
-    ampWebUrl: "https://www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c860925-7840-4d17-a210-b9bc26114022/a06fe2da-965b-416f-aab6-e55e1b160199/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "MSNBC guest attacks Biden as 'hypocritical' for failing to end filibuster"
-    excerpt: "MSNBC host Tiffany Cross and her guests criticized President Joe Biden for \"failing\" to end the filibuster while fighting Republican election reform bills."
-    publishedDateTime: 2021-07-18T20:14:00Z
-    webUrl: "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster"
-    ampWebUrl: "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92f4cc0c-cb4d-4f07-9c3a-50c1dc6bdafe/53331b72-c653-4a88-9b8b-ff321e9b3112/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fbf889c-b70b-48da-8ae6-495e8e02a8ee/840bcc45-5e37-4994-9e60-a1f39dd62771/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

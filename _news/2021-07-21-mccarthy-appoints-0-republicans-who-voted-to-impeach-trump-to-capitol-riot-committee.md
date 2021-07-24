@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
+    excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
+    publishedDateTime: 2021-07-24T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 88
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNWSFTHL5EI6XOS5KXJ3L76K6E.jpg&w=1440"
+        width: 1440
+        height: 1051
+        isCached: true
 
 secured: "zlh/WSFCuuVXFd1GM5rFAnzi1IGTyln9GVk2JcyJgsOfrNwTfqhhXy6DrCs1lrTnBqWv+xlJFgfSgalW3IxIBDR7Uh09mA8XyzF4O5mSPkE+Zbr0LM07/Ozz37lMQAhs+MV0EPk+QiFIA4h8/lDYumhrkXZPkQZ90HtZpfssOmO5Vn/wCf3oCZD9A/M93FwsVVUnL0s1fAhgwzGwFYwLpJri4O5V+yxhE0FyN+zfJR0GupEj75IqQ95V+3/c0/qCop8NHNhghaK93PvJvfrmbFEyI1Kgo3jntZwlm13V+2lTLzFb6d4xYak+xOSM0M6cgPg2aW9KElhES1dt4f4rCBUtXjP5WcOfyxa2+O04Sgg=;My1KOUEWfGlxw/d1Ff4U7w=="
 ---

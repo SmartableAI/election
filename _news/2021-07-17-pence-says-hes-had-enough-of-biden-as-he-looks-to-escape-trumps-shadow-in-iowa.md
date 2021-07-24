@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html"
 type: article
 quality: 209
-heat: 549
+heat: 569
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716104141-shower-head-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden back on the campaign trail: 'I whipped Donald Trump in Virginia and so will Terry'"
+    excerpt: "President Joe Biden made a forceful return to the campaign trail on Friday night in Virginia, stumping for gubernatorial candidate Terry McAuliffe by linking the Democrat's opponent to the man Biden had defeated several months ago -- former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-07-24T01:42:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yg-TSkIIoDs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210723213718-01-terry-mcauliffe-joe-biden-0723-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

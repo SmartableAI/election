@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-22-lara-trump-says-she-is-not-masking-up-her-children-for-school-calls-mandate-ludicrous.md",
+      "title": "Lara Trump says she is ‘not masking up her children’ for school, calls mandate 'ludicrous'",
+      "excerpt": "Fox News contributor Lara Trump told “Fox & Friends” Thursday that she is “not masking up her children” for school after President Biden said during a CNN Townhall that children under 12 and all unvaccinated students will have to comply.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school.amp",
+      "publishedDateTime": "2021-07-22T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-hes-no-sell-out-biden-speaks-to-half-empty-room-at-cnn-town-hall.md",
       "title": "He’s no sell-out: Biden speaks to half-empty room at CNN town hall",
       "excerpt": "President Biden on Wednesday spoke to a half-empty auditorium while doing a live CNN “town hall” event in Ohio.",
@@ -995,7 +1052,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1316,49 +1373,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-waldman-the-sad-dilemma-of-mike-pence.md",
-      "title": "Waldman: The sad dilemma of Mike Pence",
-      "excerpt": "Mike Pence probably believes it would be crazy for Republicans to nominate anyone other than him for president in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/waldman-the-sad-dilemma-of-mike-pence/article_ed9fcd30-ea38-11eb-b753-f74b213e0939.html",
-      "originalUrl": "https://www.news-journal.com/waldman-the-sad-dilemma-of-mike-pence/article_ed9fcd30-ea38-11eb-b753-f74b213e0939.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/6/14/6147eb80-f1ee-11ea-b25d-5b317f2cacac/5f57adf7c7261.image.jpg?resize=630%2C630",
-          "width": 630,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

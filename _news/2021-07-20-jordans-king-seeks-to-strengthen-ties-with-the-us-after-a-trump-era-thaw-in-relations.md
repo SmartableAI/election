@@ -80,6 +80,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "What a Senate infrastructure deal means for the Trump-era rebate rule"
+    excerpt: "The Senate's infrastructure package will likely delay a Trump-era drug pricing regulation. — Democrats aren't all that excited about the forthcoming infrastructure deal, but they're preparing to vote for it anyway."
+    publishedDateTime: 2021-07-23T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/07/23/what-a-senate-infrastructure-deal-means-for-the-trump-era-rebate-rule-796689"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "Aa2CciLlL9C19rXyIexb4OBpEZ5u+HAwjutRrEZYM0KxdkQRpVY0GN0pkZN/6AQqIvJRcG1ZRHQ6PydjLxeiD/vwVUESaHbEH5bWojsjsdMwVKdSp89quFce3McNkudrAcsOA53QYceLW15xmjNqECsj/YUSQ5kBKXupTJSRttXBEopIlgNJW97no1pW+X4Ar5lUeHugMKLZNXHUE32SjV3bguBsCW5fH35HrvxdzkzU9xiHhwUFUjRDkAL9A+15FwPKh/SDtFC2mnEBCkesn8WfbAD4jWo9aSYClvLNvuSXf79UMRfktgQmSCWAeHAH1ohCNfa/zssJuJ2HWDA/KsOS7p3Zq6sNZ6qAOmo5EKGrL9914F4VNQqTZV+GlU0FdqZWEAmeQ2RcqmzSZGZ2cGLMhdIcwDaXPEa/Fwig1S4ysJb+hx6mutsAy3DsGkSIEJa6mOBEG7vE7+SFNqjU3S7HWYOYzp1P1MukfTZbWVXrO14f/OQ2W6LOzqo5S1/89KQLK/9f/oKzIaqTYEfZjQ==;bdScNQftN9eZa4RcMP3vdA=="
 ---

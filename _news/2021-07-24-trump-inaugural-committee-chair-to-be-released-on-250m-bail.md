@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-commit
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
+    excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
+    publishedDateTime: 2021-07-24T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 88
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNWSFTHL5EI6XOS5KXJ3L76K6E.jpg&w=1440"
+        width: 1440
+        height: 1051
         isCached: true
 
 secured: "3Rg7SFuD2+PHK/pLktJq1V868hevhf+TdgLLjN9kANF2ntc4JsBk+2Y/OdVcbD/dxwclHeP4leLQR1YVi6ifAYMFx88b2Cjl7RIHUeBe7Lqr8LeC267rx3L4YIH+CgPXMcjN3gg1sHCQtNuuFi9rHh6l+ZFg6QGVlYhJJewkmGmeXzgaHdWOAGnSZNuu1laZcQ4BeCkaeXRNcPEy6yuIfwDQ3vOLNZWdFnWVvBkMfZbFiaSDCSamVl5JMPZPY8rKlvzxpp6eCW8Roc1qsvqoKdxl/5thyxKcUyMt0AfqWvInZ9LvMLghxjZiW/sX1JDVjwcycWg6OQisR7RJGK2H01mzp0S4iub6gccKTuANx2O6arfQ+wzCghvmqIR9IoP/MPtLipXUAec/XdpDjfhOY8dX6liKWWT/pKKpYeec2sVqUanWQzFrkAaB3r/r580w3xq/gkmhMPabYzoyQL5jZb0JlhZotG8nFPk9a5D4GqFP+Xscem6OKUBmxnQPraW2k3vRDFiZEjpgW/gzP0oV0A==;2O6qhubJG/zzZ7bd/LejZw=="

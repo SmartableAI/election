@@ -2,6 +2,62 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-06-13-biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.md",
+      "title": "Biden congratulates Israel’s incoming PM Naftali Bennett, vows support for 'Israelis, Palestinians'",
+      "excerpt": "President Joe Biden on Sunday congratulated Israel’s incoming Prime Minister Naftali Bennett after Israel’s parliament voted to approve a new government, effectively ending Benjamin Netanyahu’s historic 12 years in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VuCLqcy-Gok/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VuCLqcy-Gok/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ba207a5-e5c3-44d7-ac5a-5bb6e1c12fb7/13469762-5405-4e01-b991-9d0ec4c05076/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp",
+      "publishedDateTime": "2021-06-13T13:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-media-fawning-over-joe-biden-for-return-to-normalcy-are-missing-destabilizing-effects-ben-domenech.md",
       "title": "Media fawning over Joe Biden for ‘return to normalcy’ are missing 'destabilizing effects': Ben Domenech",
       "excerpt": "The mainstream media has spotlighted President Biden for replacing Trump, The Federalist founder Ben Domenech argued on \"Media Buzz.\"",
@@ -1276,49 +1332,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center.md",
-      "title": "Mike Pence to appear at 'Feenstra Family Picnic' event July 16 in Sioux Center",
-      "excerpt": "Former Vice President Mike Pence is headlining Rep. Randy Feenstra's inaugural \"Feenstra Family Picnic\" next month in Sioux Center.",
-      "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
-      "originalUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/d2/cd22d76c-4c7a-5009-b490-301bdb2a3e7b/609d95791b0c9.image.jpg?resize=1024%2C476",
-          "width": 1024,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
-      "cdnAmpWebUrl": "https://siouxcityjournal-com.cdn.ampproject.org/c/s/siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
-      "publishedDateTime": "2021-06-11T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

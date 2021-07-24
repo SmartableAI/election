@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden back on the campaign trail: 'I whipped Donald Trump in Virginia and so will Terry'"
+    excerpt: "President Joe Biden made a forceful return to the campaign trail on Friday night in Virginia, stumping for gubernatorial candidate Terry McAuliffe by linking the Democrat's opponent to the man Biden had defeated several months ago -- former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-07-24T01:42:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yg-TSkIIoDs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210723213718-01-terry-mcauliffe-joe-biden-0723-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Schumer working fast to confirm judges and counter Trump's reshaping of the federal bench"
     excerpt: "President Joe Biden and the Democrat-led Senate are working quickly to appoint judges from a broad range of backgrounds to the federal bench as they counter Republican efforts to reshape the bench over the previous four years.\n    \n"
     publishedDateTime: 2021-07-21T11:38:41Z

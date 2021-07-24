@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronav
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/19/multimedia/19political-briefing-abdullah2/19political-briefing-abdullah2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "What a Senate infrastructure deal means for the Trump-era rebate rule"
+    excerpt: "The Senate's infrastructure package will likely delay a Trump-era drug pricing regulation. — Democrats aren't all that excited about the forthcoming infrastructure deal, but they're preparing to vote for it anyway."
+    publishedDateTime: 2021-07-23T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/07/23/what-a-senate-infrastructure-deal-means-for-the-trump-era-rebate-rule-796689"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "58g9cUT+Zu2NvVLRPMLtsVRilw+usWHX43aFR3mz63mJOfzxKVfesuxHqnfeQRTWV1Yk18hrouEUCtZdFfHGtHGrrqu0pTc6aB2zX26tE/xeDMzA8umSjZeLNbTPpxGJ77C6NkkRd8Kprl41B9Z/H9JjyZeXptf5tcLRGEP8xj5UfcTatI5QNBWttc0XESyivujIy4jP5tcUA7YfVXYdePm31qgokNZihBSR3uZ4jdHp0JpCkIm/pm1UNFh/hUPpPIT2AgUMxeQdfg2d0lHsd8/8e4n5ddxjC07X3UC3H5gxQtWTxgFADtTZF8IxHYoMG731WSyNhG8TA/f133hEJ3/1YnzrMFIbpCjNpQanAww=;hkM5sMxt1a/w0kOlPmlJ4w=="

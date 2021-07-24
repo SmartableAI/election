@@ -219,6 +219,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden assures Afghan President Ghani of continued U.S. support -White House"
+    excerpt: "U.S. President Joe Biden told Afghan President Ashraf Ghani in a telephone call on Friday that the United States will continue to support Afghanistan, including with development and humanitarian aid,"
+    publishedDateTime: 2021-07-23T22:33:00Z
+    webUrl: "https://www.reuters.com/article/us-afghanistan-conflict-biden-ghani/biden-assures-afghan-president-ghani-of-continued-us-support-white-house-idUSKBN2ET2ED"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://www.reuters.com/resizer/CCsh8H6MuOc5M1utDuxEfYp2bnk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OEJJIXLTBNOETGUGT65K7ETX5Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden pledges better pay for firefighters as he hosts virtual meeting of Western governors"
     excerpt: "On Capitol Hill, the House is expected to vote on a measure to establish a select committee to probe the Jan. 6 attack on the Capitol by supporters of President Donald Trump."
     publishedDateTime: 2021-06-30T21:04:00Z
