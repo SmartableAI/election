@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Donald Trump Jr. intrigued by Kimberly Guilfoyle replacing Meghan McCain on 'The View'"
+    excerpt: "Meghan McCain is departing imminently from \"The View,\" and the Daily Mail is reporting that ABC is looking for a \"Trump Republican\" to replace the conservative co-host who was often critical of the former president."
+    publishedDateTime: 2021-07-23T19:58:00Z
+    webUrl: "https://www.chron.com/national-politics/article/Kimberly-Guilfoyle-The-View-Trump-Jr-Joy-Behar-ABC-16335089.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 47
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/71/32/19633823/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "yYQJD4Ky/lPD2lifIaAC2VO9tRLhSHH4tLKDfdBSEOx3ECCECatbJHPnhmFpSABymcbZzjvHJSZCxe5chDhmV5qWozUqIrQqG4C9wZRLFqt7gwd74nILexhQRZuqKVzZTkxZyd2r1RkYMORdL4mPfTI3BupK6lRR3CqVqYVAQvdtD+LSlNhYFQRwpDNwJLsfAPT4UaB59mrB6yPW4ESSA9PwnMtvc3o6pzBY0bkpGv7jaGfPLvWspHAEUnKE/D+Euh+jFQnxlUMQ52+xWP/bjOif0d8swewwkxfwXaQj3ZnCVpT4UGh8PebXbzVzC6mOkBk1ynJwZyNKrwXj3Vr3nxONHJ6AtKuoarigpO+2hmWvCOoMKNur+FmHkcjki7u3EYTgmL2FpJ9T2SEeX+z3nnOd/eFZRsrkLYQKanvmzDiI7iuBvltP9ZpNnXuAyUavc//0OWVTNUA8pLUyxhiuNPLk21dvcaLckDa/S8XZ4vZ9qSvVAbsxp34U80e/krI4zHJqjZ6t4gbEE7pGUUNpTw==;eVxmpOKtbNtGImpDelBSWQ=="
 ---

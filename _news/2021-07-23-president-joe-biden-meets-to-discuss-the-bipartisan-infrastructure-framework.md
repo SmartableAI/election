@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
 excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
 publishedDateTime: 2021-07-22T23:00:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8b1f479860447ba631a56d6a155e7d93/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8b1f479860447ba631a56d6a155e7d93/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8b1f479860447ba631a56d6a155e7d93/BIDEN-INFRUSTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -169,6 +169,6 @@ related:
       domain: politifact.com
     quality: 35
 
-secured: "edrR8i3OJJ4MNOi04kC1Tq4neBVJvi2t/jtpx8JmReqXuEg5MNreDpxoN5PBeSR9ongvKSiBZip36TxlqG7kXEGg0CzJA+I+QeOspRMpHX+Nk1m7pFV1UbYOgeNH1GYrZjpRurhy5kmAMcJ50BSI62n8DLq5DVgnUOxA+P+cxZW2rzCoZDgRCMMokB7NdpOaATer7ESIv5j+ZV4W7cwp+dsk3/07r0ehT8nSw/6+ZMOwpl7f0n4f8tT9LGh1CkSbu2ePRfoCPDR0Jz09ynvCzKWgFXczVZdJYrOJZvCBKtsnAyKoMjT9OO39NFyJPL2iGVwvDG0OU+UYxQRS2ic/bFpwD/dNCQpoZbvngVY0nw0=;IwyRaIpbsgOWXG4dFgbcoA=="
+secured: "rqdwpfHjcDMQ6u0pEq5lGb9VD45Vg6b64xsyzNHlcknx4qgC03nS4tFnDUqC+6LBgJXxsjS/bUyGOBlFVyxTPcEhRr0h1mtZLO/zhNX3CwLplsV1DspFaspswTUs7FJwZhH/yx9ch68fOa/kPzmgqvLwC7zI++U3Imarg7YSq+CGRCni27/Sbv+10fG51SOm0noqkUru92YVyVp1v1Yq7w5kFRZZImIlusmEFl2XvkIBMdqnHB9jpFcuLzsOX9i+TJr9TmL1OWFtgDgwfOzv4MCU8IB5FpHbTVisHGEIPGxEOlT/v+SAB2pel6QM6v/Mu7QPQkotoCJ1xcXGVM8EvTWk8DlKUnjXfcUwmEi5h/M=;2yUaUjt3rcIpvWm0wuQp6w=="
 ---
 

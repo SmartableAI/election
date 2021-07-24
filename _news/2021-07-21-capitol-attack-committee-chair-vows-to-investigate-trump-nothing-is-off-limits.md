@@ -63,6 +63,22 @@ related:
         width: 747
         height: 545
         isCached: true
+  - title: "Donald Trump Jr Reacts To Prince Harry Memoir Announcement, Gets Slammed On Twitter"
+    excerpt: "Donald Trump Jr. seemingly threw shade at Prince Harry on Twitter following the announcement that the Duke of Sussex is publishing a memoir."
+    publishedDateTime: 2021-07-24T10:35:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-jr-reacts-prince-harry-memoir-announcement-gets-slammed-twitter-3258766"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-jr-reacts-prince-harry-memoir-announcement-gets-slammed-twitter-3258766?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-jr-reacts-prince-harry-memoir-announcement-gets-slammed-twitter-3258766?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/donald-trump-jr-addressed-the-first-night-of.jpg"
+        width: 1024
+        height: 701
+        isCached: true
 
 secured: "dyEhS1okY8v37mf1GHLVZFARbc4Bh38HkhEkqpUm7xGkC69RJ527xCnF3/yWz584DsuIwohkRZbWX/zlbOopIy/XFoe7BUiDsLyoFQFYpUqCUxNXjROrTDLAcr+7b4FV56Fs8ptwk8cbXu46C11yg+lmQyLvspO+wpsK7DLL4xAjz80JwtIHtIHqM/MEBAIt11bXKYuiXsvOpqs0hY1UKzs7et22bj0r1CH+QjC6Od+8xW6HXq9Qy1bwlRchz0UnoR5zedaC7jXlpVyBLrKg1E2/u/CKARiQYJgFmjy5qTbYnCQ2WgEP2mokjlrLxrM/Dlqo183vFpQ+mciaTbRCAZdaKxLQrY4fTAbWL5ki9pJQo5WoTCJPG9ehg0mXL+XCes6gA5i0baNU657Qq3ScLhA9ZLEqhTOupaZvv2287nvCgK95I1d31DMhsUAJ0t2RmsIbQ3StWrWMe7oFkH7ijPCBe8zhhNUHPbdpoPpjRJ3VCCdT6SXfbtZo5cHDUIvdyEjqGjgDzl69IqaRXIWfmw==;BXWRvkyTb6ycCOCPESM2UQ=="
 ---

@@ -607,6 +607,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden Mocking Donald Trump by Drinking Water With One Hand in Viral Video"
+    excerpt: "A video of President Biden making a point of drinking with one hand has been viewed more than 576,000 times on Twitter."
+    publishedDateTime: 2021-07-24T11:39:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-mocks-donald-trump-drinking-water-one-hand-viral-video-1612757"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-mocks-donald-trump-drinking-water-one-hand-viral-video-1612757?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-mocks-donald-trump-drinking-water-one-hand-viral-video-1612757?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 137
+    images:
+      - url: "https://d.newsweek.com/en/full/1854271/president-joe-biden-mocks-donald-trump.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
   - title: "Former Vice President Mike Pence praises Trump policies in first public speech"
     excerpt: "Former Vice President Mike Pence made his first public speech since leaving the White House at a conservative gala in South Carolina. Pence criticized President Biden for what he called \"an avalanche of liberal policies."
     publishedDateTime: 2021-04-30T13:36:00Z

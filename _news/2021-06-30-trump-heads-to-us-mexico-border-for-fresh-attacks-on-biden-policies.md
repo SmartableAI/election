@@ -606,6 +606,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden Mocking Donald Trump by Drinking Water With One Hand in Viral Video"
+    excerpt: "A video of President Biden making a point of drinking with one hand has been viewed more than 576,000 times on Twitter."
+    publishedDateTime: 2021-07-24T11:39:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-mocks-donald-trump-drinking-water-one-hand-viral-video-1612757"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-mocks-donald-trump-drinking-water-one-hand-viral-video-1612757?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-mocks-donald-trump-drinking-water-one-hand-viral-video-1612757?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 137
+    images:
+      - url: "https://d.newsweek.com/en/full/1854271/president-joe-biden-mocks-donald-trump.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
   - title: "Biden budget seeks to flip script on Trump administration’s spending priorities"
     excerpt: "President Biden’s first budget request to Congress includes $1.5 trillion in federal spending that turbocharges funding for education, health and environmental protections — flipping the script on the very programs the Trump administration long ..."
     publishedDateTime: 2021-04-09T15:01:00Z

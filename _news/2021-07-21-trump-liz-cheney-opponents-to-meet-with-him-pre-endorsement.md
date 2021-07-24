@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-oppon
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7f36ff5a311da4632e8863ef0fdc85fa162284ef/0_217_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=09fdd6c7dcbed93b2a2bab5a95923954"
         width: 600
         height: 360
+        isCached: true
+  - title: "Donald Trump Jr Reacts To Prince Harry Memoir Announcement, Gets Slammed On Twitter"
+    excerpt: "Donald Trump Jr. seemingly threw shade at Prince Harry on Twitter following the announcement that the Duke of Sussex is publishing a memoir."
+    publishedDateTime: 2021-07-24T10:35:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-jr-reacts-prince-harry-memoir-announcement-gets-slammed-twitter-3258766"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-jr-reacts-prince-harry-memoir-announcement-gets-slammed-twitter-3258766?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-jr-reacts-prince-harry-memoir-announcement-gets-slammed-twitter-3258766?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/donald-trump-jr-addressed-the-first-night-of.jpg"
+        width: 1024
+        height: 701
         isCached: true
 
 secured: "tTsjS0VdQwyxEf7q917rg3vhA8QrLNLBDmfBLL7P17AtlxSA2qpvVXb2XtQ8LE4j7MXz+yecapIvrnavsI9UNnatxp5lRIgBnb2Xt/4AkLqDyFEeogPXbKmjtOzhK1AeCw2SZ/lWJ1BqjjOa1k96VXdqFiJ9MooIHU6EHTKVRxRi/ZCu+DU3sOfZuh/cW9d+0BppV415AOXMorhPgAL79AqZq9YwwZq1DepwZyODHD4eUVi2pj1Cb3UISMgSS/z9xtynxm9p0zkyAyMfdtwI7IuZIYR/KOAzDjFa6J5CQzc0qdcW1g2VOnF9Jb+MIxbL9dILOKNIbpNeFZiADBkT+h9JiGE3NFuitSjGi7aDxmnd3WI7K6dxUq/Cp99gen0iNUnzpANHBxanMNLyCkYn0v/6WtSXet1Lbm0SNOuSlLb4l0nycSE4ZjnzTsQCwljzojlI42biwMG/Vxw9RgDC+KOsZLz0d52uGYz+kA0L0olaiAxl8Pz3gNlVfo/200kLf9+rYgo8lzqynqo8RrXSHA==;Oi2Am776Ldkb1VOF11i5rA=="

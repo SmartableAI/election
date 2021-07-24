@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/NPPP/83afa231-2893-4dbb-a3ab-781026601a69-IMG-6435.JPG?auto=webp&crop=827,466,x0,y157&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Donald Trump Jr. intrigued by Kimberly Guilfoyle replacing Meghan McCain on 'The View'"
+    excerpt: "Meghan McCain is departing imminently from \"The View,\" and the Daily Mail is reporting that ABC is looking for a \"Trump Republican\" to replace the conservative co-host who was often critical of the former president."
+    publishedDateTime: 2021-07-23T19:58:00Z
+    webUrl: "https://www.chron.com/national-politics/article/Kimberly-Guilfoyle-The-View-Trump-Jr-Joy-Behar-ABC-16335089.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 47
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/71/32/19633823/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "Wx21G7nS1QJoCLbXeoH3AS/vgxrs58vZr/OalgwYvLJuYYzSCvQLoymAoyKj6x2vceji/X+SycogGK0wxynI4KuaJZJgP/yDPbSTfsvW0np1cAHUBfFKJBAYEISeqy2LhDvAOabe9jv8sNzXtDI0jx7Ztn7E/jpo/8sYqd4FkmLdelXjeLyt9lI8N3xMcuP4eFas3Ua7i0S0YPumlheE09+ganKdlRofj+fsVioNZ8saPIdDQ84mn+8JX0Oq+kIcQoo1hXaUVXPvRm1GLIpjgxqdFljgKtW6GU/tN6jA8y7iJxgm72hoXZzhgtlJ7KH4k45zyLFhzhHhljgt9PQ0RAx1xDLVI024WddzalV29F13J5FsAZMogaFSyM71KlfUoMjPsXyUV3F8VVddaoohVG2HPwf4BSel3D/DwKT0HAbCYxNtPCUysxLWYdrxuylk5G7wU6sPNePj3RieFrf4kMmmffydNCLdBRUyh0b+vYRimTHv5CyKFFBdZFar8TgL5jOenfS0VKul2awdCj6PNw==;WJziN+MFJewCqMjFrb6daA=="
