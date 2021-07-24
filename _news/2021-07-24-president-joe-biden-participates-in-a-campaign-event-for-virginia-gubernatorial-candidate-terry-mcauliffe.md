@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden participates in a campaign event for Virginia gubernatorial candidate Terry McAuliffe."
-excerpt: "Virginia Gov. Ralph Northam speaks during a campaign event for Virginia gubernatorial candidate Terry McAuliffe at Lubber Run Park, Arlington, Virginia on Friday, July 23, 2021. Photo by Oliver Contre"
+excerpt: "U.S. President Joe Biden speaks during a campaign event for Virginia gubernatorial candidate Terry McAuliffe at Lubber Run Park, Arlington, Virginia on Friday, July 23, 2021. Photo by Oliver Contreras"
 publishedDateTime: 2021-07-24T00:33:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/a7a9941c96fd67421a5051937f6a1c1b/President-Joe-Biden-participates-in-a-campaign-event-for-Virginia-gubernatorial-candidate-Terry-McAuliffe/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/a7a9941c96fd67421a5051937f6a1c1b/President-Joe-Biden-participates-in-a-campaign-event-for-Virginia-gubernatorial-candidate-Terry-McAuliffe/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/e7aa0da70723f6e5a6fd0c49f5caeb6e/President-Joe-Biden-participates-in-a-campaign-event-for-Virginia-gubernatorial-candidate-Terry-McAuliffe/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/e7aa0da70723f6e5a6fd0c49f5caeb6e/President-Joe-Biden-participates-in-a-campaign-event-for-Virginia-gubernatorial-candidate-Terry-McAuliffe/"
 type: article
 quality: 37
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/a7a9941c96fd67421a5051937f6a1c1b/VIRGINIA-GUBERNATORIAL.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/e7aa0da70723f6e5a6fd0c49f5caeb6e/VIRGINIA-GUBERNATORIAL.jpg"
     width: 650
     height: 433
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 558
         isCached: true
 
-secured: "R/zuOBVg3TQav7fACrIIPNUOXegIQ5Dyifp9gWPqgpEW/dR2Nx+4cKAtmjhudkNXvVGFHxFcYcAM/X0j/pDlBBX0eJ5V+bylsgRtjIdsxN/7wU7LcycHLJwZfI2LDukz19EF2Tdowz/rriBSMI+UCUFLwBjsL094R4PRNXv+ZvNzm8Lsdyjesw2Dzvnp+L/W3Ohl0PDyycg4D23VJNE8jAOB9IV5tT2sFpxxcRStR8WIU9CssaQSXd6hXJf743tgvTplIGFow98f9IEerUVc26PofHsPKP/4vtCsZ9TAS4CAI4Ywvej/ngx7WBRm8a6QrzWd6XXQFzc1nxVqHX+0J72u6EGPLEVC73Fs9iyRi4M=;4KrHytDc0VriB9ihqye1hA=="
+secured: "So8ybqZtozkLfUgq+qfd/UhHlZanO8qBmnA+3tzzPJ1iB3m6n56A6uSTiU9LVR4yqC+vfhPbK1Wih6t3f7C9uR6va9GDEaPfFZFfLpXXEPxH7w46XidEd1i1tHRhDIyrEFN49ZqYXv/wcgF+p0Q458Gnzgb/BX4lBCn9kE5+vSx1eMM04Y5BHivJNz065KL9VJbzaT7McYSQY/MRAzGbzq6D0F/pdDc8Tn7Bih5AmgjaH+/XQMxFkJcdhkyatYsERXfYK6ql8yRIvwYekzd/6QXr/I3TpDlRbuDMfDS8KlzTBBvghSd/HZPBDRH1os+3eolojU/h802q0zct1ljq8RapLqZnlnYpnD0+af4Aj6Y=;MNIxFjBty0HGk0Z1kV+8mQ=="
 ---
 

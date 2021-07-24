@@ -1,67 +1,49 @@
 ---
 category: news
 title: "Trump inaugural committee chair to be released on $250M bail"
-excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee has been ordered released on $250 million bail to face charges he secretly worked as an agent for the United Arab Emirates to infl"
-publishedDateTime: 2021-07-23T20:43:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+excerpt: "The chair of former President Donald Trump’s inaugural committee was ordered freed Friday on $250 million bail to face charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy."
+publishedDateTime: 2021-07-23T20:58:00Z
+originalUrl: "https://www.chron.com/politics/article/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
+webUrl: "https://www.chron.com/politics/article/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
+ampWebUrl: "https://www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Tom-Barrack-released-on-bail-Trump-committee-16336196.php"
 type: article
-quality: 125
-heat: 165
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_57b2dffb6cde45fa98168a1bd3a1bcdb_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
-  - title: "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee"
-    excerpt: "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot."
-    publishedDateTime: 2021-07-20T17:45:00Z
-    webUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920"
-    ampWebUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
+  - title: "Trump's sway tested in race for open mid-Ohio US House seat"
+    excerpt: "The crowded Republican primary for an open U.S. House seat in central Ohio is testing the ongoing political sway of former President Donald Trump"
+    publishedDateTime: 2021-07-23T11:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-sway-tested-race-open-mid-ohio-us-79010793"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-sway-tested-race-open-mid-ohio-us-79010793"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-sway-tested-race-open-mid-ohio-us-79010793"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
-    excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
-    publishedDateTime: 2021-07-24T00:21:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 88
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNWSFTHL5EI6XOS5KXJ3L76K6E.jpg&w=1440"
-        width: 1440
-        height: 1051
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2bda7d9c8587434d85cc406942dd2ab6_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
-secured: "3Rg7SFuD2+PHK/pLktJq1V868hevhf+TdgLLjN9kANF2ntc4JsBk+2Y/OdVcbD/dxwclHeP4leLQR1YVi6ifAYMFx88b2Cjl7RIHUeBe7Lqr8LeC267rx3L4YIH+CgPXMcjN3gg1sHCQtNuuFi9rHh6l+ZFg6QGVlYhJJewkmGmeXzgaHdWOAGnSZNuu1laZcQ4BeCkaeXRNcPEy6yuIfwDQ3vOLNZWdFnWVvBkMfZbFiaSDCSamVl5JMPZPY8rKlvzxpp6eCW8Roc1qsvqoKdxl/5thyxKcUyMt0AfqWvInZ9LvMLghxjZiW/sX1JDVjwcycWg6OQisR7RJGK2H01mzp0S4iub6gccKTuANx2O6arfQ+wzCghvmqIR9IoP/MPtLipXUAec/XdpDjfhOY8dX6liKWWT/pKKpYeec2sVqUanWQzFrkAaB3r/r580w3xq/gkmhMPabYzoyQL5jZb0JlhZotG8nFPk9a5D4GqFP+Xscem6OKUBmxnQPraW2k3vRDFiZEjpgW/gzP0oV0A==;2O6qhubJG/zzZ7bd/LejZw=="
+secured: "d55ji17u1LeE0TwKwgOSJKuXcf3B+Rm8dGtBQfJ3LQAGn0SYorQi61EuGu5RiLaAHGzwPRQXW3ZcEBPRn2oidgCsy4axR3WIk6j71vqgctShBrgpAiZl/sDYUkFdyKxZ0G2LLtDfFdWOSQDU00yHEep/UfBIH4mPZckS6rMPyu3GB5F8wpws/EpqEUxwcLXRy3M16pLAaIkrVqAPzXEJ2Z4CxFFlWVilyFSAwE6U55aq+R7ORvFbIRzxzhKFFTbwkthBqBg9UdAuXKYYOC10ZPCzFdcpqChM2zUASpWWGfOilcz7OC5IDrbvnz+6PjaJK3R5LMBWO3UA8F7qsTD46RpQUISmrU4xMabPPI5WbW4=;/475QnfON8vVrRGrsJcXGQ=="
 ---
 

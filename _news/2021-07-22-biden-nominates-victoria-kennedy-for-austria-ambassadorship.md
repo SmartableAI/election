@@ -32,16 +32,16 @@ images:
 
 related:
   - title: "President Joe Biden participates in a campaign event for Virginia gubernatorial candidate Terry McAuliffe."
-    excerpt: "Virginia Gov. Ralph Northam speaks during a campaign event for Virginia gubernatorial candidate Terry McAuliffe at Lubber Run Park, Arlington, Virginia on Friday, July 23, 2021. Photo by Oliver Contre"
+    excerpt: "U.S. President Joe Biden speaks during a campaign event for Virginia gubernatorial candidate Terry McAuliffe at Lubber Run Park, Arlington, Virginia on Friday, July 23, 2021. Photo by Oliver Contreras"
     publishedDateTime: 2021-07-24T00:33:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/a7a9941c96fd67421a5051937f6a1c1b/President-Joe-Biden-participates-in-a-campaign-event-for-Virginia-gubernatorial-candidate-Terry-McAuliffe/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e7aa0da70723f6e5a6fd0c49f5caeb6e/President-Joe-Biden-participates-in-a-campaign-event-for-Virginia-gubernatorial-candidate-Terry-McAuliffe/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 37
     images:
-      - url: "https://cdnph.upi.com/pv/upi/a7a9941c96fd67421a5051937f6a1c1b/VIRGINIA-GUBERNATORIAL.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/e7aa0da70723f6e5a6fd0c49f5caeb6e/VIRGINIA-GUBERNATORIAL.jpg"
         width: 650
         height: 433
         isCached: true

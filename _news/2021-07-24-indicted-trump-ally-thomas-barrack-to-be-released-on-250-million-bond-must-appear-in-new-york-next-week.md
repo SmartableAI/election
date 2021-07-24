@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bo
 webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 108
+published: true
 
 provider:
   name: Washington Post
@@ -29,39 +29,23 @@ images:
     isCached: true
 
 related:
-  - title: "Trump inaugural committee chair to be released on $250M bail"
-    excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee has been ordered released on $250 million bail to face charges he secretly worked as an agent for the United Arab Emirates to infl"
-    publishedDateTime: 2021-07-23T20:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+  - title: "To Be Honest With You, No Influencer Has Been Treated More Unfairly Than Donald Trump Jr."
+    excerpt: "The most furious and oddly compelling of the Trumps is developing a personal brand as a victim of the platform he loves."
+    publishedDateTime: 2021-07-22T19:52:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2021/07/donald-trump-jr-aggrieved-instagram-influencer/619530/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/619530/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619530/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 66
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_57b2dffb6cde45fa98168a1bd3a1bcdb_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee"
-    excerpt: "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot."
-    publishedDateTime: 2021-07-20T17:45:00Z
-    webUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920"
-    ampWebUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.theatlantic.com/thumbor/qdSp8zTAtq7GkXPDV5_5qfW9BY4=/570x321/media/img/mt/2021/07/TrumpJrInfluencer_3/original.jpg"
+        width: 570
+        height: 321
         isCached: true
 
-secured: "JgUDVuwF2A09Q5NYGovgip1op8kQoogcrVQJTDsO8jeO3OkdCXRngEj3ikJTC/EVO1lPLCkL4Ks1/OdXFmWRAPGms6wk3hO2lj0baSbgphMwtMzszpeygx24ISl+S3XGfBDqzMRbkY6OEf547UrGl0Cy5Ian67opP4FBBM/dTIPIjhbVThUp9fEfTBn/eUR6T1MFNXw53rkxsnxXNKKrbvwOllg9V+qzjEJkUJV/jY497EonLk3z81Rl8kQlSnIILw5ExXXdNkYFUyWeaaI6LMNicIgXHFrSSZ9qTxYRCqQl09n5WS2UzoxzKwECjT/M1Apeab+37eN0qnc1+mEKU1odwI7EKFzv6mnpcpxbftw=;+d4gSW63rCQVWY0FJH4zGg=="
+secured: "IBeCGmOr9BH5b2whuSogKypbgjsex/o+JjcY/WT6GnI1FO9wSdXm3HAqJYSoQtbjoIVEmWfww2LCZa5+wqFm7A4WdbT/6hbOjvq2mkxDg9094sQTp3Vr/kLPTj4E3pX5EQnA9u2VCK8XKarxU3e7R2CRtFVMh6GRRWhHI4tve/qzkaze5rrD14fuX61vLW7wYRvUduEMkV1C4anS7fKUbRggXkgfChLACLp/3RarDYo/TRxKw2fBt/XX+BolY2mQofSNwq29Tl7JTU7RaE6KKL1lKNPVtNAICz80MmxPnjkkeq883rV7wcLa8J70wzCTGvMRpWehtyBRpOM0DdaxGxvCqKtkGBp/nQvvFRmRr9ODznxDmepS+2hCgXheGowSjXmp35Xm3ZYyIP7qCl1BM4UdC92GX823pOF05X6SnFEnJVxfJJwfPdwsKRFhQgfgpaKjsEzrq1ISE9WO7Aa7kqvUp/E8e14sGA1513bBX6boTUwAA1s/vy6Ov14UiQogcWZUblbR71UNUfrMUiCmtQ==;oo/OurqOAOz9HOYIMe20mQ=="
 ---
 
