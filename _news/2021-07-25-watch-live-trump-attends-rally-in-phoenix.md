@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump ally arrested on foreign lobbying charges"
-excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
-publishedDateTime: 2021-07-20T22:21:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
-webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
+title: "Watch live: Trump attends rally in Phoenix"
+excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
+publishedDateTime: 2021-07-24T21:01:00Z
+originalUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
+webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
+ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
-    width: 960
-    height: 540
+  - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -109,22 +111,6 @@ related:
         width: 905
         height: 545
         isCached: true
-  - title: "Watch live: Trump attends rally in Phoenix"
-    excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
-    publishedDateTime: 2021-07-24T21:01:00Z
-    webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
-    ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
     excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
     publishedDateTime: 2021-07-24T17:31:00Z
@@ -199,6 +185,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump ally arrested on foreign lobbying charges"
+    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
+    publishedDateTime: 2021-07-20T22:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump ally Barrack to be freed on bond ahead of trial"
     excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
     publishedDateTime: 2021-07-23T21:50:00Z
@@ -255,6 +255,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "MO40oMIJHdk4P82gxN+HpptbScsbrGyPpcMj+qebNv9e9I4Tb5FO6Xp/7anYNcj9OjMakGvrgifRHGdKQUi3DaFFCU8qIg+BxflvtvSbDz1I3IJwSt2Pvx6EozPlSlpUNZd2cbcUUKYYr/izgSH5sz+a1IX2ccEe4ZCQL2efplI6p6iQTAgZJIfgBttluQrm+5FNukUaOQ94MzXiNKlDOAbfYUIWgAfPrretFjKx81AvBnswX+K5hJ+d/q0lFj+k02tNqJVDXBYQOPleRuhwCfMNdTa7rlbN2S8nanYpOeKU/KipTzUi6/mKSYqgSVSTMVL9XOn6BlBSJ0niHZRWWVraP/BeRZJYY2ZR97H1zZE=;Kne3/iy/YlbY9/7uZCsXEg=="
+secured: "L7+OnxI0sHlDtJ9Gk9TxddsmXg8w7NZpw3yZdDvpMd3oLBCR3jQOP4pzf48gGiOj1RuwCtE8JLmTUC+1mIou9WxbqC+UVYIWZi51xUm/4+f5jg4Iz+gQgITBQ6vBHWTvjJ79fSwFMr5MMJdy12dyPSa7G4nZUUhKvlCU1AXCOmpSy4GF9PvDb7aFhkqCmmR/7fxoDMMZUq/bYRXBAux5M+p+BJmcWfJYqKjNlJeMkTQzEYp0ozaur99hb3s7JkNZFq4Dtd5gYrGn7fxVPkleUdRvsp4Zhc30Ho92CSFWvRkPCr6Ut4EtvxvvfrEUTTh28YDClkx9pDJB0eWuj/lGBlYhJGYVOax555gUZRs7sU0=;tA5hh1t+H4k2jhCji1+ktA=="
 ---
 

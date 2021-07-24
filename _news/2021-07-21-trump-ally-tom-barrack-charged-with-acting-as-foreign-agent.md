@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Trump ally Barrack allowed to remain free ahead of lobbying trial"
     excerpt: "A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's billionaire ally Thomas Barrack to be released from custody while he awaits trial on charges of illegal lobbying on behalf of the United Arab Emirates."
-    publishedDateTime: 2021-07-23T19:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-barrack/trump-ally-barrack-allowed-to-remain-free-ahead-of-lobbying-trial-idUSKBN2ET20A"
+    publishedDateTime: 2021-07-23T22:06:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-barrack/update-3-trump-ally-barrack-allowed-to-remain-free-ahead-of-lobbying-trial-idUSL1N2OZ1JV"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET20A"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET20A"
     type: article
@@ -91,9 +91,25 @@ related:
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569786377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M12N"
-        width: 818
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569801814&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M18F"
+        width: 905
         height: 545
+        isCached: true
+  - title: "Watch live: Trump attends rally in Phoenix"
+    excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
+    publishedDateTime: 2021-07-24T21:01:00Z
+    webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
+    ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
     excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."

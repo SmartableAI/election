@@ -2,9 +2,9 @@
 category: news
 title: "Trump ally Barrack allowed to remain free ahead of lobbying trial"
 excerpt: "A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's billionaire ally Thomas Barrack to be released from custody while he awaits trial on charges of illegal lobbying on behalf of the United Arab Emirates."
-publishedDateTime: 2021-07-23T19:33:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-barrack/trump-ally-barrack-allowed-to-remain-free-ahead-of-lobbying-trial-idUSKBN2ET20A"
-webUrl: "https://www.reuters.com/article/us-usa-trump-barrack/trump-ally-barrack-allowed-to-remain-free-ahead-of-lobbying-trial-idUSKBN2ET20A"
+publishedDateTime: 2021-07-23T22:06:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-barrack/update-3-trump-ally-barrack-allowed-to-remain-free-ahead-of-lobbying-trial-idUSL1N2OZ1JV"
+webUrl: "https://www.reuters.com/article/usa-trump-barrack/update-3-trump-ally-barrack-allowed-to-remain-free-ahead-of-lobbying-trial-idUSL1N2OZ1JV"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET20A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET20A"
 type: article
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569786377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M12N"
-    width: 818
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569801814&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M18F"
+    width: 905
     height: 545
     isCached: true
 
@@ -94,6 +94,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/21/143d547a-ad95-4d5c-9e0c-99e897736666/thumbnail/1200x630/5534e7f0ee979b8054872af41423c4a2/cbsn-fusion-trump-adviser-tom-barrack-accused-of-acting-as-foreign-agent-thumbnail-758024-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Watch live: Trump attends rally in Phoenix"
+    excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
+    publishedDateTime: 2021-07-24T21:01:00Z
+    webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
+    ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
     excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
@@ -239,6 +255,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9EhFFv1YgV+yoLoQWWCuRVj/TIOEeobTyy4uiETnPglavZ4xVynS0bjSbpcxVdDesFTUE5ePABMDndj/IWjZ0CoUELWjKRBFliS1FLmrP5oIlhvXD6Vhmf248hSB+jGy7mW94wL3IYOydERT6kgsSQjkZsnMNFJ3k0tNg29r8FpcdRhL+i4q8bcq4F7tbpH88y5KQruf3ctMZS7qj3b0t/63ZjagoGRmzj19hleI3J3mV0PeFFsjhm5Luo2O8etTZJMxIxmlD4XOLwpeCq76m4DcZLOqW243BGsZ8I0tT6AdS8hcho2QTsrdHzFB7i4LDe7UEOyIAJHVKXAROk2UXF5rw07RAH77qHGB4zNsCmI=;7usgsv2DIHKXlFwA1/KgdQ=="
+secured: "9DoSiJaaebFhVA1RevlT76ak4zoAmDCP3Yv/6lv+FzY40O1X27zUuXkfAiwQij7zfLObswH9JJympY9LZGfFam8wJt4ehszlqTLKzaOxV473jwnBWnea9vGU7PCs+rbQBIT2oUctAZVy6R3ZEJjg8MR0jrsGWta/c8V2LjAa3jGHbT09EXuuISilr7bBpMsPJOgojIbsviChipPOks1pxghE2/vs8E8BRD0IukKefalXz3RwPx+kUb7zHHVOXI/hxmxQ0f+keoiGOVJ89f9du++K1xfHhFmVlu6GdodGvpVQjpsyT1GGgbE880kVsDVDtCUHJuwc/yVyNoaSHwAAmJtydtakHfMtcqF81IAtH80=;52pTbUQRhtAadUV5cnaLsg=="
 ---
 
