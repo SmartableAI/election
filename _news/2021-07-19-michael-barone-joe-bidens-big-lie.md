@@ -25,21 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Angela Merkel doubts Joe Biden meeting will solve gas pipeline dispute"
-    excerpt: "German Chancellor Angela Merkel said Monday that she doubts the dispute between her country and the United States over a nearly completed gas pipeline from Russia will be fully resolved at a meeting with President Joe Biden this week."
-    publishedDateTime: 2021-07-13T00:57:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/?amp-content=amp"
+  - title: "Biden authorizes up to $100M for Afghan refugees"
+    excerpt: "President Biden has authorized up to $100 million in additional aid for Afghan refugees and those impacted by ongoing violence between the Taliban and Afghan forces as the U.S. nears completion of its goal to remove all its troops from the country."
+    publishedDateTime: 2021-07-24T02:49:00Z
+    webUrl: "https://thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees"
+    ampWebUrl: "https://thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees?amp"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://thumb.spokesman.com/pp1m8I0ZK-WdKj158Hc90_6tk-0=/480x0/media.spokesman.com/photos/2021/07/12/60ecdb5e51a63.hires.jpg"
-        width: 480
-        height: 320
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_071921getty_misinfo.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to sanction Cuban officials following attacks on protesters, reports say"
+    excerpt: "Thousands of Cubans took to the streets earlier this month to protest food and medicine shortages, power outages and spiraling prices."
+    publishedDateTime: 2021-07-22T15:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/22/biden-sanction-cuban-officials-following-attacks-protesters/8054487002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/8054487002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8054487002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/21/USAT/b90af9e8-2d69-4fee-aa08-4c54ed75b125-American_Rescue_Plan.jpg?auto=webp&crop=5181,2915,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
+    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
+    publishedDateTime: 2021-07-19T19:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "xqSlsS+F4ENYwlcMDO92G1gisxTr2DwTXWhzA7ZpmdOeGwXbbEP2FKqFwLqS9ffNTg0KuzqkI0B5uQuCzYmtF/KOs1hEJGlmu/mvwNS1M7Ia921N7r9d4V2LOzGl7qrzJSFLztPNLEJsJQBzfuKtWRC0LCXHbs/ycm4c8jUzYZMUe+zwLI0Bc2QVsqMXyz5Oby+hVMxqx+ZpiqWEVBfUrF/uYT6UdYQFzs0EQYYo0SV6ouJfwYqR8TF3/z7b01EHjADt7Me/6syD53f2l+6q+VliNRI7EePYSrUwyQfPNY7VJSxyFN9caZJNVJkg517D0wDCelJrCMyd0z4NJDUfAvoHHNPHFLfI2UnZBZcFqFY=;RMYB6qlPhiKrtr77xTTHlQ=="

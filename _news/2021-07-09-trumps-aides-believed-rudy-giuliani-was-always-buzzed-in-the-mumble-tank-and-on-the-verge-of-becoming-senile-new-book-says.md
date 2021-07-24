@@ -638,6 +638,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "What Donald Trump has said about the Capitol rioters"
+    excerpt: "For the last two weeks of his presidency, he offered prepared remarks of condemnation. Everything since has been sympathetic."
+    publishedDateTime: 2021-07-22T16:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/22/what-donald-trump-has-said-about-capitol-rioters/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DX4GC5SQK4I6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
   - title: "Trump directly implicated himself in potential tax crimes at the Trump Organization with an offer to pay school fees, report says"
     excerpt: "Sources told The Daily Beast that Jennifer Weisselberg told investigators Trump personally offered perks in lieu of taxable salary at a 2012 meeting."
     publishedDateTime: 2021-07-16T16:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/"
 type: article
 quality: 135
-heat: 1535
+heat: 1555
 published: true
 
 provider:
@@ -621,6 +621,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "What Donald Trump has said about the Capitol rioters"
+    excerpt: "For the last two weeks of his presidency, he offered prepared remarks of condemnation. Everything since has been sympathetic."
+    publishedDateTime: 2021-07-22T16:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/22/what-donald-trump-has-said-about-capitol-rioters/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DX4GC5SQK4I6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says"
     excerpt: "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book."
