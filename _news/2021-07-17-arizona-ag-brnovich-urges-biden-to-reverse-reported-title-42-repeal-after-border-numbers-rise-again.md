@@ -221,6 +221,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "‘Not a Trump rally’: Biden tells crowd to ignore hecklers at Virginia speech"
+    excerpt: "Biden was about two minutes into his remarks at an Arlington rally for Virginia Democratic gubernatorial candidate Terry McAuliffe when a group began yelling “Stop Line 3!”"
+    publishedDateTime: 2021-07-24T04:49:00Z
+    webUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/"
+    ampWebUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/biden-speech-interrupted-185.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
     excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
     publishedDateTime: 2021-07-23T13:17:00Z

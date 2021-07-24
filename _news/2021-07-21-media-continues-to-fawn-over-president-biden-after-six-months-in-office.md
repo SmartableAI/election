@@ -224,6 +224,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "‘Not a Trump rally’: Biden tells crowd to ignore hecklers at Virginia speech"
+    excerpt: "Biden was about two minutes into his remarks at an Arlington rally for Virginia Democratic gubernatorial candidate Terry McAuliffe when a group began yelling “Stop Line 3!”"
+    publishedDateTime: 2021-07-24T04:49:00Z
+    webUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/"
+    ampWebUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/biden-speech-interrupted-185.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Arizona AG Brnovich urges Biden to reverse reported Title 42 repeal after border numbers rise again"
     excerpt: "FIRST ON FOX: Arizona Attorney General Mark Brnovich on Friday wrote to President Biden urging him to reverse a reported plan to rollback Title 42 public health protections that allow for the rapid expulsion of migrants at the southern border after figures show there were nearly 190,000 attempted crossings"
     publishedDateTime: 2021-07-17T17:31:43Z

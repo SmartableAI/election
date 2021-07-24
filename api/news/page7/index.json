@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-14-donald-trump-lawyer-jenna-ellis-leaves-gop-official-called-her-election-claims-a-joke.md",
+      "title": "Donald Trump lawyer Jenna Ellis leaves GOP; official called her election claims 'a joke'",
+      "excerpt": "In a November email, a GOP attorney said Ellis and fellow Trump attorney Rudy Giuliani were pushing conspiracy theories about the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/07/13/trump-lawyer-jenna-ellis-leaves-gop-official-calls-work-joke/7948904002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/09/USAT/fd3632b9-16e8-4d9a-aa74-eb98e1801514-AFP_AFP_8WQ7WV.jpg?auto=webp&crop=5328,2997,x0,y303&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/7948904002",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7948904002",
+      "publishedDateTime": "2021-07-13T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-biden-to-nominate-dr-rahul-gupta-to-be-next-drug-czar.md",
       "title": "Biden to nominate Dr. Rahul Gupta to be next drug czar",
       "excerpt": "President Joe Biden will nominate Dr. Rahul Gupta to be his administration's drug czar, a White House spokesperson confirmed on Tuesday.\n    \n",
@@ -1288,62 +1331,6 @@
         "Donald Trump",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-trumps-false-election-claims-persist-at-conservative-gathering-in-texas.md",
-      "title": "Trump's false election claims persist at conservative gathering in Texas",
-      "excerpt": "As Texas' battle over voting rights continues to unfold during the special session in Austin, the outrage stoked by former President Donald Trump's false 2020 election claims was still on full display Saturday a few hours north at the major gathering of conservative activists where Trump will be welcomed",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gx5S_UfqJcs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gx5S_UfqJcs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 449,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210710190016-01-cpac-2021-0709-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html",
-      "publishedDateTime": "2021-07-11T06:45:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

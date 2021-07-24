@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
-excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
-publishedDateTime: 2021-07-23T13:17:00Z
-originalUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines"
-webUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines"
-ampWebUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
+title: "‘Not a Trump rally’: Biden tells crowd to ignore hecklers at Virginia speech"
+excerpt: "Biden was about two minutes into his remarks at an Arlington rally for Virginia Democratic gubernatorial candidate Terry McAuliffe when a group began yelling “Stop Line 3!”"
+publishedDateTime: 2021-07-24T04:49:00Z
+originalUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/"
+webUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/"
+ampWebUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
 type: article
-quality: 137
+quality: 147
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/biden-speech-interrupted-185.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -224,22 +220,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "‘Not a Trump rally’: Biden tells crowd to ignore hecklers at Virginia speech"
-    excerpt: "Biden was about two minutes into his remarks at an Arlington rally for Virginia Democratic gubernatorial candidate Terry McAuliffe when a group began yelling “Stop Line 3!”"
-    publishedDateTime: 2021-07-24T04:49:00Z
-    webUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/"
-    ampWebUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 147
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/biden-speech-interrupted-185.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Arizona AG Brnovich urges Biden to reverse reported Title 42 repeal after border numbers rise again"
     excerpt: "FIRST ON FOX: Arizona Attorney General Mark Brnovich on Friday wrote to President Biden urging him to reverse a reported plan to rollback Title 42 public health protections that allow for the rapid expulsion of migrants at the southern border after figures show there were nearly 190,000 attempted crossings"
     publishedDateTime: 2021-07-17T17:31:43Z
@@ -253,6 +233,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdcc19ec-b13e-4192-bb0b-d93532f1b904/111142cd-63a4-4ea6-834e-5dc83240884b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
+    excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
+    publishedDateTime: 2021-07-23T13:17:00Z
+    webUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines"
+    ampWebUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Media continues to fawn over President Biden after six months in office"
     excerpt: "Six months of Joe Biden’s presidency has been represented by six months of mainstream media largely fawning over the 46th president, despite an influx of illegal immigration, a surge in violent crime across the nation,"
@@ -391,6 +387,6 @@ related:
         height: 500
         isCached: true
 
-secured: "31rOK09zEkZf/q+YS//zGqFLjUTSLw0w3y29V4hF+HWRyQ33vq9hdSxDlxsRnuMYvBA1jPIWe93Utt+K0bHXK0jmlXPicMHjt3wjdrwoBRVUjp6kFzERTdWPLcr1UBB6VZaAVpQ3iTTtNn7LbA7Us8mZkh7uTA7qgZvo0vhnC4WC+k0s0LVbeYccuCmC1kpY+EdLeAMpNO9xh7MvDs8Mfq5J7EB2sadqItnqqZEeCJCOQC+7QxO7sJkDiTYteAfdQy9P5hA+PWK0WeQN5d/ihWIQ6XCgKZ0XuYuY2iZCRPWxd6DiZM1ABl6W0XBmNwjNmJQX2VTfoNSlddnr96U7dpveDfCPM3Npz0ZNgjGQdXQ=;q6C0B+jfo72Qq64lGq3y+Q=="
+secured: "BU5IRxZu8VxVQP7PviPyj06vBQ8d5mM+/A8VZoppoauGtPLuWunOKOSJxOTaltZXwcl+iXlG73qR0aQlKpb43z4Xzp7ln3nY4iCZ5PDcAcq4U6/Nf06HQ4828zmGh2pnNbCbWt4I3kAT+TuTL/6cftABo2sxnAW3K44ihXrlDvLevkX5siYdgWBCrLL4c4Hc2RcvlkielGZjsSTlLd86VUaQd7/rbIUbRy/wDlXt6kngVVnlWkajuI+1wckxxcPENZTELKQxRXBuXRESFAUxz+EQpBodqWvkm7MIGTbxE1k2D1vtHcvWoO63UWqmIZd33rOINE2pAMu+XfjvFxk95qenGuNHY0hXXPIMd86JdIA=;ugkFzFChogOcF1zcn25ZkA=="
 ---
 
