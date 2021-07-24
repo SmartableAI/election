@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden says he's self-conscious as president"
+    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
+    publishedDateTime: 2021-07-22T13:48:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden praises child tax credit payments as ‘historic step’ to end child poverty – live"
     excerpt: "Biden says – follow all the latest politics news"
     publishedDateTime: 2021-07-15T16:58:00Z
@@ -148,14 +164,14 @@ related:
   - title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
     excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
     publishedDateTime: 2021-07-22T23:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8b1f479860447ba631a56d6a155e7d93/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cac87955597d0953327d7838607353b9/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8b1f479860447ba631a56d6a155e7d93/BIDEN-INFRUSTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cac87955597d0953327d7838607353b9/BIDEN-INFRUSTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true

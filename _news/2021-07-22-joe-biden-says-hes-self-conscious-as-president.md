@@ -1,27 +1,33 @@
 ---
 category: news
-title: "3 takeaways from President Joe Biden's CNN town hall"
-excerpt: "President Joe Biden took questions from Ohioans on Wednesday at a CNN town hall, touching on his administration response to Covid-19, his work with Congress and many other issues."
-publishedDateTime: 2021-07-22T01:23:00Z
-originalUrl: "https://www.newspressnow.com/news/national_news/election2020/3-takeaways-from-president-joe-bidens-cnn-town-hall/article_24dfe05e-ba7e-5b1e-87f1-285fcfaed4ae.html"
-webUrl: "https://www.newspressnow.com/news/national_news/election2020/3-takeaways-from-president-joe-bidens-cnn-town-hall/article_24dfe05e-ba7e-5b1e-87f1-285fcfaed4ae.html"
+title: "Joe Biden says he's self-conscious as president"
+excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
+publishedDateTime: 2021-07-22T13:48:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
+webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
+ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: News-Press NOW
-  domain: newspressnow.com
+  name: BBC
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/be1cb458-881b-11eb-872f-4f6e66986b9a.png"
-    width: 1920
-    height: 1080
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -56,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_04484eac6e6c45f8b6675e1937c8fada_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Joe Biden says he's self-conscious as president"
-    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
-    publishedDateTime: 2021-07-22T13:48:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Biden praises child tax credit payments as ‘historic step’ to end child poverty – live"
     excerpt: "Biden says – follow all the latest politics news"
@@ -147,6 +137,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "3 takeaways from President Joe Biden's CNN town hall"
+    excerpt: "President Joe Biden took questions from Ohioans on Wednesday at a CNN town hall, touching on his administration response to Covid-19, his work with Congress and many other issues."
+    publishedDateTime: 2021-07-22T01:23:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/3-takeaways-from-president-joe-bidens-cnn-town-hall/article_24dfe05e-ba7e-5b1e-87f1-285fcfaed4ae.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/be1cb458-881b-11eb-872f-4f6e66986b9a.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Marine One takes off from the South Lawn with President Joe Biden"
     excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
     publishedDateTime: 2021-07-21T20:25:00Z
@@ -185,6 +189,6 @@ related:
       domain: politifact.com
     quality: 35
 
-secured: "vgxMP77tedbJLRCMEW983xmuVq3nAs05a7/A3z26KrutSObd11FhmYpNFLLWsoKauHryD7dV2QgO0J/uTvwT2dGwVYodcSN9ci9ECzP2t7iqLMoIC50CNYuups3jB853uUUSI8M+Ay/yEPv5xRwWJqr0VANNJPGG73pc2l2rvktvRyNuGQsvBrQO/hoN8dyqGY/ltfoEtGtV5bO2z7RxcYgxMJlzWwN2HDsyEfUMpD3SQW+Xbn5cC36vVEeiJafmmN2Wg00nVIkBjPQzaODPCTL2LzOSrnG6i5PHslBjAnhNOaszdex9u9+57gGpqHAZLfO5mz7AKxVuge3ftZNaV0+5YkBunkzgz7Deje84elU=;CTdyoVhwaOnUBTEtvhnaXA=="
+secured: "Qo0Dli7HDMSc/fcD7Pdk4LzBrdg0L6vSysrr6WrusmyPa96ElxON1xt488qX0dTUuB6XUpsS3lUzTnuDNeHKR0xsvVqYPKF+jW27KNnX47vE1GX2s2VcZc108pXRPjEexSI2CIb1CVSMGGYUN2OzjFYJKki/AfvTNEX9b/HRDlutAJC7/a0QTFypvwVt7B+ruSIgA/tkGLAi9NJNfx7UvpX1Sd4KqKaNqGqLr175nssh8n0mN5Re7dhTe+PIUDRqS8kiA/j3uxuhGedIphKGJcFSO3hqZ/RmQsNBgb3zKtnUBCdTugRYryoVDJoqVVjF6N7tLdo3zqQNrFrRHLy6A++7GzMV5Nyr5QzlID7eLkI=;EHzNSVUXCCzADqE1DwB9ww=="
 ---
 
