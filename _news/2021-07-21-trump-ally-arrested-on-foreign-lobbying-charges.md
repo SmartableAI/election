@@ -39,7 +39,7 @@ related:
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 147
+    quality: 157
     images:
       - url: "https://d.newsweek.com/en/full/1854447/donald-trump-speaks-phoenix.jpg"
         width: 2500

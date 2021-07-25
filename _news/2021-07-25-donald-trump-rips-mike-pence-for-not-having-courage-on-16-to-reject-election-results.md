@@ -8,8 +8,8 @@ webUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courag
 ampWebUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
 type: article
-quality: 147
-heat: 207
+quality: 157
+heat: 217
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://d.newsweek.com/en/full/1854447/donald-trump-speaks-phoenix.jpg"
@@ -78,6 +79,6 @@ related:
         height: 683
         isCached: true
 
-secured: "QzkyETbANBheIytQumRpQlFVU/OGEZq2n8w2fk7ncd9vTDndR6e+n6nLxkfDVm6QT4SNJwzfQkveZNGw5QRUd0jhFzQTDs23cSLeCwbzuNZcciHCn/fJgDXKT4IyXfGOVjf7WEDHbD9M55Ie9qndVeqXbQFeQOdkOJI8i8f/EspajEZOfW7i7x12WDE5XfSgo6Y53cEY5BND7mjlq/9BsJ38JBq5w0SDKiVLBdo6549CZLAI1RhwIfyHgyw3Rtpcu6TCHm2reTWrAw+v4enOG8RSJS/W72c6U7CvBI2VkjynC6/pTY8wSOPjhVhIlXWQfN9yFRfGjX25iiovQBpgxlJjrHrkRbVIAnB5n0/fLMM=;x671EwaFCBBI1MoJMX1XDA=="
+secured: "2XOm0UM6zd/aLuxi8ARMrd/lna11uNnPaaKwvlsmLmmm/nrBzGVS+wuPMTNn4luXPouwmInIJUE5yX6n+gkjhyrnyaO9ug/TZz+rXvO8dXBTYmaTOC14qo97b4s2plHbpzTVY2lRzwvketLRXpjgbs+t0yioCa4Pq4EZgok5nZEa6BC/DCLvgOTB02IKX/lR8MFpUFu3DiWGYJ4o9P0lM+8X1aiCFnW3nYBZzkRms+WpN+U5XYRwpG2yID0r+fsYlnVhUvXUuszQ+g0H5rm0nHwetJjCrbJirxyuZ+3JiT85SowlsgDUl/JXhpf/ra89Fl6Q1S30HI3w5ToZ9OkKIk4ibTwabEragT+eryEj4xdcTRJ4UFn8+AIxeBoaXS56/YFe2H7T8z8xz4n67CGQ7cAUIC4BpP94glHvN09rBI18LLFU3/zJGZTXA+qXGR5WfGzx7UTuOkGfyM3EsV3qIMEhSfPVZSpOjMCuWtfMeeLFmeh6+snbpGoZzjAVxGF4eD5QP21RyLhaKZTItJGusw==;GwdYnXGIUiIvAsIaPRjt5w=="
 ---
 

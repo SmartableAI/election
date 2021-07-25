@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://static.politico.com/05/5d/91a1f9cc4e34a64276681e9955fc/210721-protester-police-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
+    excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."
+    publishedDateTime: 2021-07-25T09:51:00Z
+    webUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274950"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274950"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3493898/210725-mustafa-al-kadhimi-ha.JPG"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "'We need our kids to breathe' — Biden sanctions Cuban regime. Is it enough? — Lawson backs Crist in governor's race"
     excerpt: "While Florida stopped its daily reports on Covid-19 weeks ago, data maintained by federal health authorities show there were 12,647 new coronavirus cases on just Wednesday of this week. Surge — That’s the highest daily count since late January and,"

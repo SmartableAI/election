@@ -302,6 +302,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
+    excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."
+    publishedDateTime: 2021-07-25T09:51:00Z
+    webUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274950"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274950"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3493898/210725-mustafa-al-kadhimi-ha.JPG"
+        width: 5472
+        height: 3648
+        isCached: true
 
 secured: "O/n16b0wnnwWANeWWEypTGlQGPUQzSoi75tpSa5r75EKvbU9K+ix6xEee510IFdcwHY6YKoqrJWNSINXHw1X8DLI5yZquOxVLM1RyXi38eWd6Fg3hVQkffB1OE30Y9dvnLqwb3xK22VUkL+OJuWo0N3wGUqjQ14y2Lh/Mnc2Me0Nh02Vbr76v1Gvfa6D/DE+Iy+9S4ufbKTSxKmhA0sDryxkzVPYGI7QLMkRlPE/3mJld/HUvrhFAvycl99syukMCFdFZV6HygdNNfQX+bK//nte/kMuuf4G1M1sIEud4zXCxgYcTGvGQA12iT43oUZvvHkxMIIea11x/1Ldrp1eDIyTck7NhZzy/IgECOKUUZ0U/c54mkMCaTKlgz5jEWcUGbhjbDLC+qLdhqZaAsrcB7bXKqJ9kVrXuyI3wr/ngDfpY5v0TqK+e5QWWdqsMCrKVPtq7F22b8sYi78bYrkdrwomkKwz6Ej+eZjHyLs7PLLlZsy/slBaR/l0GDv4qVb7CJNaL3Z4biamMEFrtC0opw==;zL9deTg7jISAExwwIi96kw=="
 ---

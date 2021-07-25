@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden signs crime victims fund replenishment bill"
-excerpt: "President Joe Biden celebrated what he called \"a day of hope\" Thursday before signing the VOCA Fix to Sustain the Crime Victims Fund Act of 2021, a bipartisan bill that aims to provide assistance for crime victims, including counseling expenses, medical bills and lost wages.\n    \n"
-publishedDateTime: 2021-07-22T20:48:58Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lJ3qCfu2CsA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lJ3qCfu2CsA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
+title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
+excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."
+publishedDateTime: 2021-07-25T09:51:00Z
+originalUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
+webUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274950"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274950"
 type: article
-quality: 175
+quality: 129
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722162107-01-biden-signs-hr-1652-0722-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3493898/210725-mustafa-al-kadhimi-ha.JPG"
+    width: 5472
+    height: 3648
     isCached: true
 
 related:
@@ -44,6 +45,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711210014-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden signs crime victims fund replenishment bill"
+    excerpt: "President Joe Biden celebrated what he called \"a day of hope\" Thursday before signing the VOCA Fix to Sustain the Crime Victims Fund Act of 2021, a bipartisan bill that aims to provide assistance for crime victims, including counseling expenses, medical bills and lost wages.\n    \n"
+    publishedDateTime: 2021-07-22T20:48:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lJ3qCfu2CsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722162107-01-biden-signs-hr-1652-0722-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -287,22 +304,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
-    excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."
-    publishedDateTime: 2021-07-25T09:51:00Z
-    webUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274950"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274950"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3493898/210725-mustafa-al-kadhimi-ha.JPG"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "'We need our kids to breathe' — Biden sanctions Cuban regime. Is it enough? — Lawson backs Crist in governor's race"
     excerpt: "While Florida stopped its daily reports on Covid-19 weeks ago, data maintained by federal health authorities show there were 12,647 new coronavirus cases on just Wednesday of this week. Surge — That’s the highest daily count since late January and,"
     publishedDateTime: 2021-07-23T10:58:00Z
@@ -318,6 +319,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "3psjB/hhgOjwrz/bsEWPfXKOgt9z6UmWv1gIf6PCu7ZjgoVy9pSdUSrXqb2rCKSY+XE+GrJNTJTBmH3I11PqRPcd4yIyi6AdKCSfZArT3pcbkKwYxx1NSvKrp4+6LIslmbFVbj0Xsg5/jwi2yaFOjpSBMShzeX3w/EPm15YO5uKjYzKsuH6m/gkeFu5ZntffQlWUHAv7i3ZrELXN4v/A5goE6rWvrE+2kkKWbxnj3K2KdUkhxX4GlysJ9SG21qjmp9XsmAx7cKmkRuSIyY2rtN4reuYPiAoP+4asvhbT+vgtExwf3/5OHE4Bz/Pr4VrEkLQD6W8JyHcI9dPVJziykFkOgkJNpToimjlS7iTYQkQ=;UXwAZJCwtur4FoVeG9TMeQ=="
+secured: "qGIsOBHQhQZFFNB088vZHp7beI18m4CB5pECv9K2qncTRxM93jhkASx/FGhCDwc/QSV1ASBdnEYmmHaArBKcKdQ1idBR3ZNqxLWM1Y7NZc1ZFYzF8+6+oRZE97wZBZfb9vOaUCFJebOezCGG6Y5EOb3NEjsI/2G42E79QKQUGH+F2DXhrI95C35aZMFXcQ7gMAu9ODMwIJouBT7LLGSjawniOdkP8EogRca52LNjyLbbMFZkEq5ttwpw0y1EkVCAnHLR0+VZiyUfrQ8kNA9G4ZltygtrqCtSSH6LvnlJBO920MfVsicUhyJm5Sz1mn8xQmaQ09dIg7ML/nIb6eLdxZ7UmM7cvLRjOi/ZjNVB9ak=;os3nF+Vckz59w/38qWRCuw=="
 ---
 
