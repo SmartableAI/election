@@ -107,6 +107,22 @@ related:
         width: 766
         height: 545
         isCached: true
+  - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
+    excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
+    publishedDateTime: 2021-07-20T19:17:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 118
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/20f11bb/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F11%2F825d53524b58a7c9ca2b7781e084%2Fla-photos-1staff-810473-me-0716-vaccine-leimert-park-007.IK.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump charged Secret Service nearly $10,200 in May for agents’ rooms"
     excerpt: "The bill came atop earlier charges during the former president’s stay at his Florida resort, before he moved north."
     publishedDateTime: 2021-07-08T09:34:00Z

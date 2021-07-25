@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why I'm Sure Trump Will Run for President in 2024"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-24T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/24/why_im_sure_trump_will_run_for_president_in_2024_547896.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
+        width: 750
+        height: 495
+        isCached: true
 
 secured: "EsqNhaOxrLZPRs3LtjZMTkhNi8pUabeeZwleaZz4MT+XV5TLw7k8Nx7FdNlf/UWQkJ2S8/GUJ6HKyH40YDMb+p1mWDoHcKPj6Dkh5kQ/WyTulxOUMKm6jjkMmFkb8E8fdaQANBc/e7YkaVJYi2La3wNdH5VKFAwEhEol1ZjOG9cQOhk90Op+7Q+MUQnHSemqKC48RHlIEJ8dJRKR90Z/1mX9UsdlDcsfZu77CGUsekDxuN2eB4JZWLwgGRvRynNdao/k1IOhSqqbwc2PuhylGbpoR3e+1dDK/NyL0TQFfHzX2rLrfzrANEAmqUiCEWXNLhiqy0ysqLTkG4W1Yd0lnvkP92vN9956w3BNghjeyWE=;82DGovSbXoDzFFl9h6u+Mw=="
 ---

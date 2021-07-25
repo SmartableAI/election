@@ -29,17 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "Inside the push to get Trump back on social media now that his favorite sites have banned him"
-    excerpt: "\"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while',\" the CEO of a new conservative social media platform told Insider after he showed Trump how to use its app."
-    publishedDateTime: 2021-07-24T13:44:00Z
-    webUrl: "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7"
+  - title: "Trouble is brewing for a Georgia county's investigation into Donald Trump"
+    excerpt: "The Fulton County district attorney is committed to investigating Trump. But a criminal case backlog and a spike in Atlanta-area crimes is complicating matters."
+    publishedDateTime: 2021-07-23T08:00:00Z
+    webUrl: "https://www.businessinsider.com/georgia-election-donald-trump-fulton-county-investigation-fani-willis-2021-7"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 94
+    quality: 104
     images:
-      - url: "https://i.insider.com/60f9d289fc253600181fefe5?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60f9e08efc253600181ff47f?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

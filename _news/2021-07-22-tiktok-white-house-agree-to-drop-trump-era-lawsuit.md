@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tiktok-white-house-agree-to-drop-tr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-19T18:47:00Z
     webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
+        width: 750
+        height: 495
+        isCached: true
+  - title: "Why I'm Sure Trump Will Run for President in 2024"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-24T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/24/why_im_sure_trump_will_run_for_president_in_2024_547896.html"
     type: article
     provider:
       name: RealClearPolitics

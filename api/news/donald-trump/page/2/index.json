@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-16-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f-king-war.md",
+      "title": "Gen. Milley warned Trump on possible Iran strikes: 'You're gonna have a f--king war'",
+      "excerpt": "Chairman of the Joint Chiefs Gen. Mark Milley Mark Milley Overnight Defense: Milley feared Trump coup, book says \\| Gillibrand expects fall vote on sweeping military justice bill \\|",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
+      "originalUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/milleymark_062321upi_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
+      "publishedDateTime": "2021-07-16T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-inside-donald-trump-jrs-97-million-florida-mansion-with-a-12-acre-backyard.md",
       "title": "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard",
       "excerpt": "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool.",
@@ -34,6 +86,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-minority-leader-mccarthy-meets-with-trump.md",
+      "title": "Minority leader McCarthy meets with Trump",
+      "excerpt": "Watch \"Minority leader McCarthy meets with former President Trump ahead of Capitol riot hearing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11319195_1626392404.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -162,7 +266,7 @@
       "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1315,
+      "heat": 1415,
       "tags": null,
       "images": [
         {
@@ -662,7 +766,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1427,110 +1531,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-trump-says-global-warming-efforts-dont-work-because-rest-of-the-world-is-filthy.md",
-      "title": "Trump Says Global Warming Efforts Don't Work Because 'Rest of the World' is 'Filthy'",
-      "excerpt": "Trump blamed China and India for creating massive air pollution from coal plants while the U.S. focuses on \"stupid\" windmills that provide renewable energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
-      "originalUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1841386/oreilly-trump-global-warming-climate-change-filthy.jpg",
-          "width": 2500,
-          "height": 1554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
-      "publishedDateTime": "2021-07-08T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums.md",
-      "title": "Trump CIA chief joins King & Spalding's bench of U.S. agency alums",
-      "excerpt": "King & Spalding continues to build up its ranks of former federal government officials, announcing Thursday that it has added former U.S. Central Intelligence Agency director Gina Haspel to its national security team in Washington,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
-      "originalUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/VPveDUxvYcx87z4iq_A_5QXttt8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CGYQRWMDVBKW3IBFDGO2AUOBZI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

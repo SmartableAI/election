@@ -1,24 +1,18 @@
 ---
 category: news
-title: "Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent"
-excerpt: "An indictment alleges that the real-estate investor acted at the direction of senior Emirati officials to influence former President Donald Trump’s policy positions and to influence public opinion in favor of U."
-publishedDateTime: 2021-07-20T23:02:00Z
-originalUrl: "https://www.wsj.com/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-webUrl: "https://www.wsj.com/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-ampWebUrl: "https://www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+title: "Why I'm Sure Trump Will Run for President in 2024"
+excerpt: "RealClearPolitics"
+publishedDateTime: 2021-07-24T12:37:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/07/24/why_im_sure_trump_will_run_for_president_in_2024_547896.html"
+webUrl: "https://www.realclearpolitics.com/2021/07/24/why_im_sure_trump_will_run_for_president_in_2024_547896.html"
 type: article
-quality: 135
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,9 +20,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-372314/social"
-    width: 1280
-    height: 640
+  - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
+    width: 750
+    height: 495
     isCached: true
 
 related:
@@ -47,6 +41,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1117589-3186-4490-925d-1d089e42a626/11be2235-525a-4bf7-9a63-f81e6034e16d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent"
+    excerpt: "An indictment alleges that the real-estate investor acted at the direction of senior Emirati officials to influence former President Donald Trump’s policy positions and to influence public opinion in favor of U."
+    publishedDateTime: 2021-07-20T23:02:00Z
+    webUrl: "https://www.wsj.com/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-372314/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "DOJ won’t pursue death penalty in seven Trump-era cases in shift under Garland"
     excerpt: "The Justice Department has moved to withdraw death penalty requests made during the Trump administration in seven cases, according to a report."
@@ -78,21 +88,7 @@ related:
         width: 750
         height: 495
         isCached: true
-  - title: "Why I'm Sure Trump Will Run for President in 2024"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-07-24T12:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/24/why_im_sure_trump_will_run_for_president_in_2024_547896.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
-        width: 750
-        height: 495
-        isCached: true
 
-secured: "yHDQIkJJGnlqUczqFFnrzjQcglk5v4rKdA7SssjvdhwFTPI6fdpczE/WdnJ3aLajAwiaLnSn/GnYMtT3hgvWjYfdM+Omm06vrts3KM2zGmOuLTFjyVnONK34vX2BbnUhjnEGDaioUY4thzTkaObov5+AWWzyuvYEttujiEabImSYT0QuQWf/vdsLaxgR9rThGhBbDZsLq/3vBX+PITjK+tQBBstKB5wMGeRg1VzqrOIdBXikFxDoL0lopb4ta50Pa56D2KRvhwTP5aY27T9AqH0y35yMb7Raur3J9Szqych/z/+TlDb9r0uw0h2NWsC2al+urKnpqOZigP8Z8vDLqjjFFspileEHgbwN/2otysYP7RIKc3zOe0Xi4nz6pDhspmfkJBaabVao+C7bny6s4adR1tnPkrCXfPgQ1VlJ2GB6vGkhFcHR978kCDNVGB0uPaaTONZkfo6D8+OhkQ2J/IJ87HZ4egiTDDqLVQiY1EBjqMh5tBM64C9wC5jMiT7K3XImIhXBIvcM8ddEXg3b8w==;0aUUgiVNEVs+uibjWV33FQ=="
+secured: "WnxpZEx3axBZxvLZwmqIHAgyk6EBb4VlRoWvk3KKeovjFUdwyhRcpCIdi6GsmLfrTJDdLwTDuY5EL9f4DDY/qp15QuBeoCq4Xj+LAobTDDk2t5I3e/u17OADwrBj1HVWV91EVfOwyqUeaz43MIu3Zx8GychVG7XmozLDKoWA3Cd9b1JGbx/9rECSREJp8wHRciyZXt3w5JNGYJdqenS12wG1iwF5nLeRQPq1loAA6qEUX3I2GfCPX5bfsIxFcNFLGa+1NukIgB+KF7giNVcn8YILSWzlv4PX7JHQeDFWWnVmSWIw9L47ieYz3ZC+6faErQA8Ju9aILBByRkAI08v9LHNmZekFqOq2e3bDQVEWsA=;upIA9IE/Su3+GwdQl7pAFQ=="
 ---
 

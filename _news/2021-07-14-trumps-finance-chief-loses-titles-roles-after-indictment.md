@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
+    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
+    publishedDateTime: 2021-07-14T16:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Michigan GOP executive director quits under pressure from Trump allies"
     excerpt: "The executive director of the Michigan Republican Party has quit his post just a few months after taking over the top job amid pressure from supporters of former President Trump."
     publishedDateTime: 2021-07-14T19:29:00Z
@@ -358,6 +374,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/21/PPHX/34f3df5a-f050-4683-a06e-22a1d777c790-AP21141138603134.jpg?auto=webp&crop=3599,2024,x0,y353&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "At 98 and facing cancer, Bob Dole reckons with legacy of Trump and ponders future of GOP"
+    excerpt: "\"I'm a Trumper,\" said Dole, the only former GOP presidential nominee to attend Trump's convention in 2016. But he added, \"I'm sort of Trumped out.\""
+    publishedDateTime: 2021-07-22T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/22/98-bob-dole-reckons-legacy-trump-ponders-future-gop/7995412002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7995412002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7995412002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/21/USAT/5936d2f9-3a0f-449e-ac14-704a6507b275-AP_Biden_Dole.jpg?auto=webp&crop=5118,2879,x1,y156&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Aides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book"
+    excerpt: "Aides to former President Trump intentionally gave his then-personal attorney Rudy Giuliani the wrong time for a presidential debate preparation event last year, according to a new book"
+    publishedDateTime: 2021-07-20T02:25:00Z
+    webUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
+    ampWebUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/giulianirudy_111920gn6_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump makes closing speech at CPAC"
     excerpt: "Watch \"Trump makes closing speech at CPAC\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -680,6 +728,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
+    excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."
+    publishedDateTime: 2021-07-14T17:57:00Z
+    webUrl: "https://www.chron.com/news/article/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Top U.S. General Said Trump Preached ‘Gospel of the Führer’"
     excerpt: "What the chairman of the Joint Chiefs of Staff thought of his boss, according to a new book by two Washington Post reporters."
     publishedDateTime: 2021-07-14T19:16:00Z
@@ -822,6 +886,15 @@ related:
         width: 3476
         height: 2298
         isCached: true
+  - title: "Tom Brady Jokes With Biden at White House About Trump's False Election Claims"
+    excerpt: "Tom Brady, a U.S. football legend and longtime friend of Donald Trump, gently ribbed the former president and his false claims of election fraud in a White House visit Tuesday. The 43-year-old quarterback joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with President Joe Biden."
+    publishedDateTime: 2021-07-20T17:50:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-07-20/tom-brady-jokes-with-biden-at-white-house-about-trumps-false-election-claims"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
   - title: "Matt Gaetz doubles down on Donald Trump House Speaker push"
     excerpt: "Matt Gaetz claims to have better knowledge of former President Donald Trump than a Capitol Hill reporter, calling out purportedly phony reportage on “Trump World.” Gaetz, who represents Florida’s 1st Congressional District,"
     publishedDateTime: 2021-07-08T14:29:00Z

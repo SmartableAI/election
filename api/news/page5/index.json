@@ -2,6 +2,119 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-16-pence-in-iowa-charges-biden-trying-to-turn-america-into-a-secular-welfare-state.md",
+      "title": "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’",
+      "excerpt": "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 314,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "publishedDateTime": "2021-07-16T16:50:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-noem-says-shes-counting-on-trump-running-again-in-2024.md",
+      "title": "Noem says she’s ‘counting’ on Trump running again in 2024",
+      "excerpt": "Republican Gov. Kristi Noem of South Dakota - speaking with Fox News during a trip to Iowa - says she’s “counting” on former President Trump to run again for the White House in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
+      "publishedDateTime": "2021-07-16T16:25:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-william-h-pauley-iii-judge-in-trump-hush-money-case-dies-at-68.md",
       "title": "William H. Pauley III, Judge in Trump Hush Money Case, Dies at 68",
       "excerpt": "He sentenced Michael D. Cohen to three years in prison for breaking campaign finance laws by helping to buy the silence of two women who said they had affairs with Donald J. Trump.",
@@ -908,6 +1021,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-16-minority-leader-mccarthy-meets-with-trump.md",
+      "title": "Minority leader McCarthy meets with Trump",
+      "excerpt": "Watch \"Minority leader McCarthy meets with former President Trump ahead of Capitol riot hearing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20210715233531-minority-leader-mccarthy-meets-with-former-president-trump-ahead-of-capitol-riot-hearing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2021/07/15/story_11319195_1626392404.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-biden-says-cuba-is-a-failed-state-and-calls-communism-a-universally-failed-system.md",
       "title": "Biden says Cuba is a 'failed state' and calls communism 'a universally failed system'",
       "excerpt": "President Joe Biden said on Thursday that Cuba is a \"failed state\" and called communism a \"failed system\" as protests play out against the Caribbean nation's repressive regime.\n    \n",
@@ -1169,158 +1334,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-new-book-goes-behind-the-scenes-of-the-trump-presidency-and-re-election-campaign.md",
-      "title": "New book goes behind the scenes of the Trump presidency and re-election campaign",
-      "excerpt": "A new book offers a collection of one-on-one interviews with friends and staffers of former President Donald Trump, and even Mr. Trump himself. Michael C. Bender, author of \"Frankly, We Did Win This Election: The Inside Story of How Trump Lost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/15/f8645179-88a4-45f6-9391-952130800b23/thumbnail/1200x630/856f7c8b5c6fadcd019330fe36e97ec7/cbsn-fusion-new-book-goes-behind-the-scenes-of-trump-presidency-thumbnail-754512-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "publishedDateTime": "2021-07-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house.md",
-      "title": "Kremlin papers appear to show Putin’s plot to put Trump in White House",
-      "excerpt": "Exclusive: Documents suggest Russia launched secret multi-agency effort to interfere in US democracy",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
-      "originalUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6beb860dc56746ba31173ffa9f3db48025fcf176/0_40_3725_2236/master/3725.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=994273b7350ce6d004a26dcdd89ff063",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
-      "publishedDateTime": "2021-07-15T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-cnbc-host-vs-mnuchin-do-you-believe-it-is-a-lie-that-the-election-was-stolen-from-donald-trump.md",
-      "title": "CNBC Host vs. Mnuchin: Do You Believe It Is A Lie That The Election Was Stolen From Donald Trump?",
-      "excerpt": "Former Treasury Secretary Steve Mnunchin responds to a question from CNBC host Eamon Javers about the results of the 2020 election: \"In 2020, I wasn’t able to participate in the campaign. So I’m really just watching this from the outside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/51/513732.jpg",
-          "width": 1130,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.amp.html",
-      "publishedDateTime": "2021-07-15T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],
