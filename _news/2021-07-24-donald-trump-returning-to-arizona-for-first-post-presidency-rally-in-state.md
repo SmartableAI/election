@@ -59,6 +59,22 @@ related:
         width: 905
         height: 545
         isCached: true
+  - title: "Trump rally updates: Trump supporters say they’re not what people say they are"
+    excerpt: "The event, dubbed the “Rally to Protect Our Elections,” marks Trump’s first trip back to Arizona since the presidential election."
+    publishedDateTime: 2021-07-25T14:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/24/trump-rally-phoenix-former-president-senate-governor-candidates-expected/8059090002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8059090002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8059090002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/24/PPHX/f8458760-9fc7-4e4f-8662-cbf55c331072-DW1_0652.JPG?auto=webp&crop=2799,1574,x0,y135&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
     excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
     publishedDateTime: 2021-07-24T17:31:00Z
@@ -133,6 +149,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "5 things we learned from Trump's 1st post-presidential visit to Arizona"
+    excerpt: "Former President Donald Trump returned Saturday to Arizona, a state that has been central to his political rise and fall."
+    publishedDateTime: 2021-07-25T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/25/5-things-we-learned-trump-1st-post-presidential-visit-arizona/8072602002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
   - title: "Donald Trump returns to Arizona, attacks Doug Ducey and praises GOP state senators"
     excerpt: "Former President Donald Trump praised his Arizona GOP allies, attacked Republicans he sees as enemies and continued to falsely claim election fraud."
     publishedDateTime: 2021-07-25T00:22:00Z

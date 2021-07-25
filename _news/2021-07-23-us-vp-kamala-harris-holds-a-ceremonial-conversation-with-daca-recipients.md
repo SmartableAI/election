@@ -237,6 +237,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
+    excerpt: "\"You're writing a story in the Los Angeles Times about the vice president's laugh? I think that's laughable.\" — Bakari Sellers, Democratic lawyer and CNN commentator"
+    publishedDateTime: 2021-07-22T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/more-than-a-laugh-kamala-harris-is-a-sound-check-for-a-divided-country/article_ffb08201-298c-5dca-8b5c-35230c08cd7a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris’ ‘toxic work culture’ exposed as aides claim VP made ‘interns cry and left staffers afraid she would snap’"
     excerpt: "KAMALA Harris’ former aides have described a “toxic work culture” in which the then-Senator reportedly made interns cry and left staffers afraid she would snap at them. Staffers"
     publishedDateTime: 2021-07-15T18:42:00Z

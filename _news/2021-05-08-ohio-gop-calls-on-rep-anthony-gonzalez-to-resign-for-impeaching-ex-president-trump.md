@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pelosi will ask anti-Trump Republican Kinzinger to join 6 January panel"
+    excerpt: "Speaker wants Illinois representative to join Liz Cheney after minority leader withdrew support over rejection of Trump allies"
+    publishedDateTime: 2021-07-25T13:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/5742b86ad079489f97f58daf6ea526f82f267bbf/0_32_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25c280df0671048234799c80ced50e7b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race"
     excerpt: "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said."
     publishedDateTime: 2021-05-03T19:50:00Z

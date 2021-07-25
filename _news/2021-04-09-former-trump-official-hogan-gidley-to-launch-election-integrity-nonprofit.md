@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, Trump trade shots in potential 2024 preview"
+    excerpt: "The next race for the White House remains far down the road. But with President Biden and former President Trump taking a few jabs at each other while they were both headlining campaign style events this weekend, Americans were witness to a what could be considered a little preview of a potential 2024"
+    publishedDateTime: 2021-07-25T14:23:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pVPm3r4_WTw/biden-trump-trade-shots-in-potential-2024-preview"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-trade-shots-in-potential-2024-preview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-trade-shots-in-potential-2024-preview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration announces sky-high border numbers, looks to blame Trump"
     excerpt: "Border officials encountered 172,000 migrants at the border in March, a 71% increase from February and the latest indicator of the extent of the crisis at the southern border -- but one that Biden officials are trying to blame on the Trump administration."
     publishedDateTime: 2021-04-08T14:17:10Z

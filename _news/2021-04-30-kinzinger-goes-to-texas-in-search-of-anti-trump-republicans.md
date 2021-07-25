@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_31c3a5f964704f5eb205a7f35a3c5fb8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Pelosi will ask anti-Trump Republican Kinzinger to join 6 January panel"
+    excerpt: "Speaker wants Illinois representative to join Liz Cheney after minority leader withdrew support over rejection of Trump allies"
+    publishedDateTime: 2021-07-25T13:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/5742b86ad079489f97f58daf6ea526f82f267bbf/0_32_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25c280df0671048234799c80ced50e7b"
+        width: 600
+        height: 360
         isCached: true
   - title: "Ohio GOP calls on Rep. Anthony Gonzalez to resign for impeaching ex-President Trump"
     excerpt: "Rep. Anthony Gonzalez was one of 10 Republicans who voted to impeach Trump for inciting the Jan. 6 attack on the U.S. Capitol."

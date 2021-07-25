@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-kamala-harris-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -226,6 +226,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/082e1781249502ed0d00e9b582d9ff2b/USA-HARRIS-DACA.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
+    excerpt: "\"You're writing a story in the Los Angeles Times about the vice president's laugh? I think that's laughable.\" — Bakari Sellers, Democratic lawyer and CNN commentator"
+    publishedDateTime: 2021-07-22T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/more-than-a-laugh-kamala-harris-is-a-sound-check-for-a-divided-country/article_ffb08201-298c-5dca-8b5c-35230c08cd7a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "US VP Kamala Harris Holds a Ceremonial Conversation with DACA Recipients"
     excerpt: "US Vice President Kamala Harris holds a ceremonial conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., USA, 21 July, 2021. Among those in the meeting were Dreamers without DACA,"
