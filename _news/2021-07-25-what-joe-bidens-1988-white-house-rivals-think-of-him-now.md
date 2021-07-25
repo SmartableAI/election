@@ -1,31 +1,29 @@
 ---
 category: news
-title: "'Cuba is a failed state': Biden"
-excerpt: "Biden. Posted . U.S. President Joe Biden on Thursday described Cuba as a \"failed state\" and communism as a \"failed system\" as his administration"
-publishedDateTime: 2021-07-15T23:11:00Z
-originalUrl: "https://www.reuters.com/video/watch/cuba-is-a-failed-state-biden-id732973002?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/cuba-is-a-failed-state-biden-id732973002?chan=6g5ka85"
+title: "What Joe Biden’s 1988 White House Rivals Think of Him Now"
+excerpt: "The summer treated Joe Biden well. He wasn’t quite the center of attention, but bouncing among D.C., Delaware, and whatever states would have him, he was making progress with weary Americans. The year was 1987,"
+publishedDateTime: 2021-07-25T13:00:00Z
+originalUrl: "https://nymag.com/intelligencer/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+webUrl: "https://nymag.com/intelligencer/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210715&i=OVELYILSV&r=OVELYILSV&t=2"
-    width: 960
-    height: 540
+  - url: "https://pyxis.nymag.com/v1/imgs/d6c/699/47ddd7cd6f49debe5200d862d837462a76-joe-biden-1988.1x.rsocial.w1200.jpg"
+    width: 1200
+    height: 632
     isCached: true
 
 related:
@@ -61,21 +59,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What Joe Biden’s 1988 White House Rivals Think of Him Now"
-    excerpt: "The summer treated Joe Biden well. He wasn’t quite the center of attention, but bouncing among D.C., Delaware, and whatever states would have him, he was making progress with weary Americans. The year was 1987,"
-    publishedDateTime: 2021-07-25T13:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+  - title: "'Cuba is a failed state': Biden"
+    excerpt: "Biden. Posted . U.S. President Joe Biden on Thursday described Cuba as a \"failed state\" and communism as a \"failed system\" as his administration"
+    publishedDateTime: 2021-07-15T23:11:00Z
+    webUrl: "https://www.reuters.com/video/watch/cuba-is-a-failed-state-biden-id732973002?chan=6g5ka85"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/d6c/699/47ddd7cd6f49debe5200d862d837462a76-joe-biden-1988.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
+      - url: "https://static.reuters.com/resources/r/?d=20210715&i=OVELYILSV&r=OVELYILSV&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Democrats back Biden US lands pick assailed by Republicans"
     excerpt: "A U.S. Senate panel has deadlocked on President Joe Biden’s pick to oversee vast government-owned lands in the West amid bitter opposition from Republicans."
@@ -89,6 +85,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "mZu6cOic9g6Fd8zkEsV7ZgmDBZFyBnPrEMzsF78CTB/+3UST460H1x7sSewOq08ArYfQar2nwFxMXHagpp5T2GjHMbZWCRG9HyV7WqfOLKKnH06dU0nT1cOQwXvQd/h67Toq9poUdzcJXAcxFT9SjjrigE0/sYo7+x1NYx+tMnuVfDl5GmdnbXhepa6szQVHI64qEi8/I8gvIS0lwEYzjnU51dL/9DQmcHNlyjBikG8IrFAkaLhWCsLfaM4RNrcHBbubGqtb8YBUPgRdlaBlWCxAjpJh9n7WPywEDcbj6xc/k7sfm+2JaCe73ZM4UVCiA2xzJr1Xc2DtNEYHcRRLtMENfGhGNRwD1Xl7O1+mqqc=;mQOj6+ohwBvutSnpgUPkyA=="
+secured: "S8bmpPcZjfC50WKdtEdGyGyQFcoX49V0XoS8cyQzbw+yTQbcI0ARGELpIkommzrgv29nUf/muMdIUlL8KOeIQmGZAN4zYaavPR5joeechMgD2tDhLOrFJaqpO6/TuZE3emu5Cae28JWEpvqxlMNQYjrIWVDlOEohHW5b8JN1gRRUNP8UUbwW408uolYmgINpe/tgrDjLHkNzLZGCCz9S8XiM7+GwyaCLtYX1iIBtidkQ/rluwh20z/cHF2f2JjPqW+jvIRV2lDSbq96UeUituVkoU5R/sPiEAXXBE4TP0oPr+WHBPa769KsLw/JG4kJ/xUz12l/0hBEKjden7OjiO3ZSWE9Up8W1RdWMcoRzB4Y=;s6rWFFJH+tXu0zpD1B30zw=="
 ---
 

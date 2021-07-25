@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Trump Is Said to Have Called Arizona Official After Election Loss"
-excerpt: "Donald Trump tried to reach the top Republican in metropolitan Phoenix as his allies were trying to overturn the state’s 2020 results, according to the official, who said he did not pick up the calls."
-publishedDateTime: 2021-07-02T23:54:00Z
-originalUrl: "https://www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.html"
-webUrl: "https://www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.amp.html"
+title: "'Sore loser' Trump reaps fruits of election lies in Arizona "
+excerpt: "Ex-President Donald Trump's big lie came full circle on Saturday as he traveled to Arizona to dangerously seize on the false fruits of a sham election \"audit\" precipitated by his own discredited claims the 2020 election was stolen.\n    \n"
+publishedDateTime: 2021-07-25T10:21:02Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbTb3z5qXLo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbTb3z5qXLo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/donald-trump-arizona-audit-fraud-lies-election/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/donald-trump-arizona-audit-fraud-lies-election/index.html"
 type: article
-quality: 150
+quality: 190
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/07/02/lens/02trump-arizona-photo/02trump-arizona-photo-facebookJumbo.jpg"
-    width: 1050
-    height: 549
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -45,22 +44,6 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Sore loser' Trump reaps fruits of election lies in Arizona "
-    excerpt: "Ex-President Donald Trump's big lie came full circle on Saturday as he traveled to Arizona to dangerously seize on the false fruits of a sham election \"audit\" precipitated by his own discredited claims the 2020 election was stolen.\n    \n"
-    publishedDateTime: 2021-07-25T10:21:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbTb3z5qXLo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/donald-trump-arizona-audit-fraud-lies-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/donald-trump-arizona-audit-fraud-lies-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -272,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Is Said to Have Called Arizona Official After Election Loss"
+    excerpt: "Donald Trump tried to reach the top Republican in metropolitan Phoenix as his allies were trying to overturn the state’s 2020 results, according to the official, who said he did not pick up the calls."
+    publishedDateTime: 2021-07-02T23:54:00Z
+    webUrl: "https://www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/lens/02trump-arizona-photo/02trump-arizona-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Records show pressure by Trump, allies on Arizona officials not to certify election results"
     excerpt: "Maricopa supervisors have aggressively defended their county's vote count and say fraud or irregularities did not affect the outcome."
     publishedDateTime: 2021-07-03T01:35:00Z
@@ -349,6 +348,6 @@ related:
         height: 773
         isCached: true
 
-secured: "V0y6v0CEVMq6vLISSlHbyWCugm79efOGGEMCwzPjF2e6AG03savLZ2Wrf/mlXnOwdwdyW9LnmsCop00D0edp+iZNKrpR8FeB2nb+QPGFUktDp2YAFGmdACGoPO8SBaId6oVFCutmAsFVFbC8azPwK5sCb0T0RqlU3hyG0xZfftX9I1EF+VoVqbejjwIUL4feOLnimdEqwd4uaWVaqreNzBEp9ree+cmVFSXEREFXMjTx8DBUGrrqeOexPpV5YoQHWd1sGS564isa1+5WuIzkTu2D2jz+nVil481WVrWFANMAaKIAmXCJ/ODttbaHv2QzRUAf5aa3HvshElCgZRiSa/E2eeLAAPk5YH+wlkWjxDqIPhTrW4Rk/TKma0RCJQMrThWy3ks4RLjhnQ6fyv+DBJbByrSSAggxbETl0Z7MV41zJKUVHluDQVknCX4M0kJwliNQaYKd1GPvGRTpk9OQVanLu9Zw6R7i4hVnMiuI1Ox2qyho4bKunqrkvVfPd5b8k+F7hM3Hugjkx5Fqqua58g==;7wRG/o10xkHcKp71e+Gyng=="
+secured: "TE4JbYRyjxpxWzm/1SnQAUU4Qg1h65IRwkyuQ5KCvfV8bTlt87Og/MbVXCDblyI67WRZ314vX6i3vFFaw/AqFkGJQPljY5+bAgV+W+tV/q8Z46jUwOXsC+QEfDiZd1mAjpYiw3ocv1WktT/Q4QrUjH5lukc9SoRQoJ5526YjoQWWMUHr9d6RGl5LjslivfV+FKORXii4tbuyyPhnd1ZvXQP1BcSmglMA/GlWORNKHUgp44lFem7L0dIBRVooNhWV/tDvRzgSbPvBdvPFjqJ+LUsH/JXwC4Ih7R4XcEDIuCxAHxnmaTkbblRoMH6kL4HmNN8ZuXX0Yn3oiLQyLsThM/r5Gci5f3gxnjiN4v9T9dU=;2ZjfX/x44yyif1YrbWtIew=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Sore loser' Trump reaps fruits of election lies in Arizona "
+    excerpt: "Ex-President Donald Trump's big lie came full circle on Saturday as he traveled to Arizona to dangerously seize on the false fruits of a sham election \"audit\" precipitated by his own discredited claims the 2020 election was stolen.\n    \n"
+    publishedDateTime: 2021-07-25T10:21:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbTb3z5qXLo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/donald-trump-arizona-audit-fraud-lies-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/donald-trump-arizona-audit-fraud-lies-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "After embracing Trump's effort to overturn vote, GOP congressman wants to run Georgia's elections "
     excerpt: "Rep. Jody Hice says former President Donald Trump would've won the 2020 election in Georgia if it were \"fair.\" He says that Georgia Secretary of State Brad Raffensperger sent out 700,000 ballot applications to \"illegal voters,\" and that there's going to be \"some fraud mixed up in there.\"\n    \n"
     publishedDateTime: 2021-05-26T17:34:51Z

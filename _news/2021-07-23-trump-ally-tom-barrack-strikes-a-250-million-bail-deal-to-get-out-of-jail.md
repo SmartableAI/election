@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tom Barrack and the influence he had in Trump's world"
+    excerpt: "When Donald Trump accepted the Republican nomination for president in 2016, a little-known businessperson received a prime convention speaking slot just minutes before the nominee: Tom Barrack.\n    \n"
+    publishedDateTime: 2021-07-25T12:05:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HGg7ZOrrhY8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/barrack-trump-lobbying-charges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/barrack-trump-lobbying-charges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "atfs6O1SJhowa4Q2EE+yIcMuY11d62bG8ITrj48AW85JssATcr9JzPHqIT3TKV26Wv4svP0jLbMv6HMWjnJjojBQ2QaWfNyk1RyPEB+IEmW5MV6StCdIaIPiYC06AYN6RrlQ5pxOwpZLW9XYYvECpOFVhxM3j3EgE9fCoF2+N9Gl/bCiuyfIE83OEvlq6VmGAazUmM5LuPvvWWztgkRf8kKPzTzsHvVCMj5gpArsv8pRg+3dvuy1tbhSopwI2SWkYXYlgAfj5S1LoMJIBbrLG0mwRM78U90v9BZh2lyky+A6f8E3XoeFlwV26redwPUtK0HeJAgalChQpf47MiYbX7jZtrRTaUmrlXXn75SB6ZA=;PPMnE9pAt+q0iGknzJaUTg=="
 ---

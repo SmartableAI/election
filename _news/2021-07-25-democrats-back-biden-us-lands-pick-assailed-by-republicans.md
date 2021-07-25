@@ -67,6 +67,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "What Joe Biden’s 1988 White House Rivals Think of Him Now"
+    excerpt: "The summer treated Joe Biden well. He wasn’t quite the center of attention, but bouncing among D.C., Delaware, and whatever states would have him, he was making progress with weary Americans. The year was 1987,"
+    publishedDateTime: 2021-07-25T13:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/d6c/699/47ddd7cd6f49debe5200d862d837462a76-joe-biden-1988.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
 secured: "+Ga5i22Rf6gCcvp3gwIdpBRTp1BkgitFZUSzTgugyhrACkbUiVjcuY75oyfRkk1zTPT+N7OW0wo6mg7WxTy/Bm0YCSIO1LoKfDFNmO0FmfIwQQvIs2Ei5hhHNPM0w0d8CAgC+bMz1nWkQ44DMI4LKkz1puUWOmD3Jh1YzLx41muP97h/ZT9Mqey3WFDyTzvM23yfjCKhuImEyqMXIlJgnAkZHbE5PPGcARElzZWlHDChqUkFwVQrE7lwU0E5E3Nu8LKPj8yziJExmt6brJqXziHyYECLDaBCO8Th+liXowZj6eySpXGtWUWkJrJs6c0O49E4jNP1aqpBj/IwRBXtxEeepYUd2YZs8m2Z4NhymAcKCQPDalANKPxIutYrcEHDpK1DEhX7u5VOfBBt33xcZuaoCYqKwAwA5A90E4rPDH+bzH8ftqULNp8QfEHROC28vHauWlywusqg9hMmS1EKbTpfsRUJjkSzExgALsJFfSLAGn3tkz7M2R3We3fdmFA2/6Rbuoz5BFm1CjHFoqiiEw==;ANu+fuAsUax/vhOBletMXQ=="
 ---

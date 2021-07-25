@@ -61,6 +61,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "What Joe Biden’s 1988 White House Rivals Think of Him Now"
+    excerpt: "The summer treated Joe Biden well. He wasn’t quite the center of attention, but bouncing among D.C., Delaware, and whatever states would have him, he was making progress with weary Americans. The year was 1987,"
+    publishedDateTime: 2021-07-25T13:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/what-joe-bidens-1988-white-house-rivals-think-of-him-now.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/d6c/699/47ddd7cd6f49debe5200d862d837462a76-joe-biden-1988.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Democrats back Biden US lands pick assailed by Republicans"
     excerpt: "A U.S. Senate panel has deadlocked on President Joe Biden’s pick to oversee vast government-owned lands in the West amid bitter opposition from Republicans."
     publishedDateTime: 2021-07-25T09:56:00Z

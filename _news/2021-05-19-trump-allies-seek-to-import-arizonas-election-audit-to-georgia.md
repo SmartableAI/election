@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
 type: article
 quality: 190
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Sore loser' Trump reaps fruits of election lies in Arizona "
+    excerpt: "Ex-President Donald Trump's big lie came full circle on Saturday as he traveled to Arizona to dangerously seize on the false fruits of a sham election \"audit\" precipitated by his own discredited claims the 2020 election was stolen.\n    \n"
+    publishedDateTime: 2021-07-25T10:21:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbTb3z5qXLo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/donald-trump-arizona-audit-fraud-lies-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/donald-trump-arizona-audit-fraud-lies-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump loyalists echo false Arizona election fraud claims in hopes of winning midterms"
     excerpt: "Oklahoma pastor Jackson Lahmeyer's quest to win a seat in the US Senate in his home state recently led him to the Phoenix coliseum that has become a beacon for the Trump faithful seeking to overturn the 2020 election.\n    \n"
     publishedDateTime: 2021-07-23T11:25:25Z
