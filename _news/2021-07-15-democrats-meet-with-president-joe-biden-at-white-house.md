@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Democrats Meet with President Joe Biden at White House"
-excerpt: "Denver, Colorado Mayor Michael B. Hancock walks out of the West Wing with New Jersey Governor Phil Murphy (D-NJ), and Oklahoma City Mayor Michael B. Hancock, following a meeting at the White House in Washington,"
+excerpt: "Illinois Governor J. B. Pritzker (D-IL) looks on as New Jersey Governor Phil Murphy (D-NJ) speaks to journalists beside Dayton, Ohio Mayor Nan Whaley, following a meeting at the White House in Washington,"
 publishedDateTime: 2021-07-14T23:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8df62f8b4df97cb55835f549f1dbdc95/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8df62f8b4df97cb55835f549f1dbdc95/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8df62f8b4df97cb55835f549f1dbdc95/BIDEN-BUGET.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c03dcb763603e1ab6b189b7cee176108/BIDEN-BUGET.jpg"
     width: 650
     height: 433
     isCached: true
@@ -166,6 +166,6 @@ related:
         height: 533
         isCached: true
 
-secured: "QFMwkM5FF1/EkRdaqjFkMgh9y0/WFBRTNbiNVY5sQ0bX/N6bQvxSvL9ODIdjdR8GliXdLZqMdyipfhnGozbBmCe6U5TYP8NywK5P/H/mPcQxkc2Tzl0CabNwTK0l5V5SQpV1pqg07xLdIvp09v2udJDLzXDBY0U3hy5p5/MSPCpFLHlHbsM41aF0GXTxr6CX1yz/lzwLQkORrkEKl0pfBtUO0+1ULpKQAxjFywC7Fq7VVFdECwVluX67FgIzOGtGhroE+4rzvn44G9TgvTPB1T1bApr4UAZHgZdeJq1AqmhlyLJ6gvULGNkHXfw0YykRlHRYjapN+n1ZPG9RClcnStQiTuhhKcoUlXMbDBQwn6o=;Hu2qsA372ApYYjIBEvc0hw=="
+secured: "oJq3ukMfTzv+pAdC350so4s+5WLp1+NoCUp2S1QXgGMcULMetb+crvHCt3REazFnj8ay9Ii0ZX8GaWOrxTYj1mE+F99NCgz6aXl0bI1+k45x0VHp1SooU7ih8HLtP7ArClEChIEBQV77kI8yr5eNMqA7xU2BCfzbRcL85vuJAUsW5iQeqqWOLqqCvtYnXHGRw6EnxsczB8J7atqNF8Ue/x3rS6wBy1iwMbcAQpLwq2ee2RVds0hBnkkSnIkwYlQe5YEAcPJye2IyW0RPb7ObLzzGVZ9LZmgkG3CtMjODsng6ECICQX6MWKjwHghYnaSgFWAxv78w4uEX5UidZOQh1c4BfSXIet+B24tieGvR5lw=;FJYuGworzOZ2CrYF4yuEFQ=="
 ---
 

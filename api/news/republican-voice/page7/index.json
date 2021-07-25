@@ -2,6 +2,118 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-18-bidens-off-limits-list-for-russian-cyberattacks-criticized-as-green-light-to-target-everything-else.md",
+      "title": "Biden's 'off-limits' list for Russian cyberattacks criticized as 'green light' to target everything else",
+      "excerpt": "President Biden's list of 16 key infrastructure entities that are “off-limits” to Russian cyberattacks has effectively given the Russians a green light to target everything not on that list without facing serious repercussions, national security experts and senior Republicans tell Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gkq_Sasp9aA/biden-putin-russian-cyberattacks-list-16-off-limits-criticism",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gkq_Sasp9aA/biden-putin-russian-cyberattacks-list-16-off-limits-criticism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf75fe2-acef-4232-bc08-96f69f09825d/b1e65fb9-b0fd-4fcf-a7c0-a670d79fb577/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-russian-cyberattacks-list-16-off-limits-criticism.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-russian-cyberattacks-list-16-off-limits-criticism.amp",
+      "publishedDateTime": "2021-06-18T02:39:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-dr-ronny-jackson-calls-on-biden-to-immediately-undergo-cognitive-test-to-assess-mental-impairment.md",
+      "title": "Dr. Ronny Jackson calls on Biden to immediately undergo cognitive test to assess 'mental impairment'",
+      "excerpt": "Dr. Ronny Jackson, the former White House physician, called on President Biden to immediately undergo a cognitive test so the commander-in-chief can prove to the American public sound mental capabilities. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/puSuFoizBUs/dr-ronny-jackson-calls-on-biden-to-immediately-undergo-cognitive-test-to-assess-mental-impairment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/puSuFoizBUs/dr-ronny-jackson-calls-on-biden-to-immediately-undergo-cognitive-test-to-assess-mental-impairment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/ronny-jackson.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T20:01:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-kushner-snags-book-deal-with-harper-collins-no-deal-yet-for-trump.md",
       "title": "Kushner snags book deal with Harper Collins; no deal yet for Trump",
       "excerpt": "The Broadside Books imprint of Harper Collins said it signed Donald Trump’s son-in-law and former trusted adviser to a book that’s still untitled but apparently well underway and",
@@ -1516,118 +1628,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp",
       "publishedDateTime": "2021-06-13T06:24:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-judge-halts-bidens-race-based-aid-for-farmers-says-challenge-is-likely-to-succeed.md",
-      "title": "Judge halts Biden's race-based aid for farmers, says challenge is 'likely to succeed'",
-      "excerpt": "A Wisconsin federal judge ordered a temporary halt to a $4 billion race-based federal relief program for farmers on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/720/405/Food-and-Farm-Robots-_Garc.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
-      "publishedDateTime": "2021-06-12T12:44:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-biden-pick-for-navy-secretary-is-cuban-born-carlos-del-toro-a-22-year-navy-veteran.md",
-      "title": "Biden pick for Navy secretary is Cuban-born Carlos Del Toro, a 22-year Navy veteran",
-      "excerpt": "President Biden said Friday he plans to nominate Carlos Del Toro for secretary of the Navy. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/535d031e-e499-41ed-984b-bf132bd69c5b/7a7138b9-bda4-45c9-94ec-9d533682eec7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
-      "publishedDateTime": "2021-06-12T01:14:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

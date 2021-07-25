@@ -2,6 +2,210 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her.md",
+      "title": "Video Shows Man 'Harassing' Michelle Ugenti-Rita Backstage After Trump Supporters Booed Her",
+      "excerpt": "Rita, a Republican running for Arizona secretary of state, why she \"killed Senator Kelly Townsend's election integrity bills in the Senate\" in the video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
+      "originalUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1854525/rally-protect-our-elections.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
+      "publishedDateTime": "2021-07-25T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-mark-warner-inflation-today-is-result-of-35-trillion-in-covid-spending-in-2020-under-trump.md",
+      "title": "Mark Warner: Inflation Today Is Result Of $3.5 Trillion In COVID Spending In 2020 Under Trump",
+      "excerpt": "Democratic Sen. Mark Warner told \"FOX News Sunday\" that the expanding \"human infrastructure\" bill will not contribute as much to inflation as did $5 Trillion in COVID spending since last year, \"$3.5 trillion of that under President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/548989.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
+      "publishedDateTime": "2021-07-25T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-trump-rally-updates-trump-supporters-say-theyre-not-what-people-say-they-are.md",
+      "title": "Trump rally updates: Trump supporters say they’re not what people say they are",
+      "excerpt": "The event, dubbed the “Rally to Protect Our Elections,” marks Trump’s first trip back to Arizona since the presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/07/24/trump-rally-phoenix-former-president-senate-governor-candidates-expected/8059090002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/07/24/trump-rally-phoenix-former-president-senate-governor-candidates-expected/8059090002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/24/PPHX/f8458760-9fc7-4e4f-8662-cbf55c331072-DW1_0652.JPG?auto=webp&crop=2799,1574,x0,y135&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8059090002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8059090002",
+      "publishedDateTime": "2021-07-25T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-ap-fact-check-trump-is-relentless-in-election-fabrications.md",
+      "title": "AP fact check: Trump is relentless in election fabrications",
+      "excerpt": "Ex-President Trump is telling some thoroughly debunked stories as he presses to undermine the legitimacy of his election defeat to President Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/4226aa3/2147483647/strip/true/crop/6616x4321+0+45/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff8%2Ff9%2F728efb701d9832c9862b57707ba0%2F54355c86dfa44e29b7d434fbb6110d3a",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications?_amp=true",
+      "publishedDateTime": "2021-07-25T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-donald-trump-rips-mike-pence-for-not-having-courage-on-16-to-reject-election-results.md",
       "title": "Donald Trump Rips Mike Pence for Not Having 'Courage' on 1/6 to Reject Election Results",
       "excerpt": "\"I only wish that my friend, Mike Pence, had that additional courage to send the results back to the legislatures,\" Trump said.",
@@ -107,110 +311,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-25-ap-fact-check-trump-is-relentless-in-election-fabrications.md",
-      "title": "AP FACT CHECK: Trump is relentless in election fabrications",
-      "excerpt": "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 480,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_ed96847b6f054e7392989f75fa9f50f7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801",
-      "publishedDateTime": "2021-07-24T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-arizona-secretary-of-state-tells-trump-before-election-lie-rally-get-over-it.md",
-      "title": "Arizona secretary of state tells Trump before election lie rally: get over it",
-      "excerpt": "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 357,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/274b71ffa728f51467d86bfb18529a226c27cbf3/0_180_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f8b06ce6f4b954493ef7f27f5896593",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "publishedDateTime": "2021-07-24T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-24-trump-ally-tom-barrack-posts-250m-bail-on-charge-of-illegally-boosting-uae.md",
       "title": "Trump ally Tom Barrack posts $250m bail on charge of illegally boosting UAE",
       "excerpt": "Head of Trump’s 2017 inaugural committee must answer charge of acting as unregistered foreign agent in New York court on Monday",
@@ -271,7 +371,7 @@
       "originalUrl": "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -423,7 +523,7 @@
       "originalUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -741,7 +841,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1435,106 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-addison-rae-slammed-for-greeting-ex-president-trump-at-event.md",
-      "title": "Addison Rae slammed for greeting ex-President Trump at event",
-      "excerpt": "Once the TikToker got his attention, the two shook hands and she mentioned that she just “had to say hi” and that it was “so nice to meet you.” Social media users were not",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/",
-      "originalUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/addison-ray-trump-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/",
-      "publishedDateTime": "2021-07-16T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-bad-hair-days-return-biden-drops-showerhead-rule-trump-demanded-for-more-water-perfect-coiffure.md",
-      "title": "Bad hair days return? Biden drops showerhead rule Trump demanded for more water, 'perfect' coiffure",
-      "excerpt": "President Joe Biden's administration is reversing a Trump-era rule that allowed more water to flow through showerheads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/24/USAT/f0dfce74-db67-49bb-8c0e-2000322cef95-showerhead.png?auto=webp&crop=1044,587,x5,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7992908002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7992908002",
-      "publishedDateTime": "2021-07-16T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

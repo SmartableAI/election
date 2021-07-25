@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "5 things we learned from Trump's 1st post-presidential visit to Arizona"
+    excerpt: "Former President Donald Trump returned Saturday to Arizona, a state that has been central to his political rise and fall."
+    publishedDateTime: 2021-07-25T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/25/5-things-we-learned-trump-1st-post-presidential-visit-arizona/8072602002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
 
 secured: "ez2s3r7UNIroiolmERDGE8bbBigwEl6Mpnq9XzZAAx5Mg0VZ2o5NcVVh0epj+nkfav96SCmmAz9ybUFuGt5NjGFWCATg8+PAkBtnWqfvV2i0tnTm/jx8Bnx8hWgSJkilYDcBBzWIgepBdDw77LasvzJy3juSMIhwseKAMN+mm647FzVzCMuaXrnaMCKjeIHuBbzoEGKnovJJ9hVgvPJwp8qDVr5IMSFQXZV1NrOMUWiG8owf7FJ8bwtWRG3riS4uyoHvOvSwEsuVFB4mAlal3XNz0KRvO8UnWCpMhJVfdIqm8GIAqPlUp1KuWlWYiCgym7wkm+ZSg1Rl2NoIPa4b17n/nCQ93pZZPnc1qT2IZFgZ0P4A6tR5I1Btl/iP514duYgJNicYyoeBSjVmlujansXNDjRIL48ay3csrxBUxt/KvVZIoGCx7Vl9XcOLLj6uUYMp0EpmABL1IKhm8U6G+VmUKSBs+bGvsNSN1bwqgh+yQWC7yk+d4rMZowN4ZqW5qABscpmswsMZfhvKuJkQpw==;2QTTRjfRxLcNorJCF180ag=="
 ---
