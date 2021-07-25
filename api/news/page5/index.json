@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-18-joe-biden-six-months-on-cold-hard-reality-eclipses-early-euphoria.md",
+      "title": "Joe Biden: six months on, cold, hard reality eclipses early euphoria",
+      "excerpt": "The president reset the tone from the Trump era and passed a huge Covid relief bill but other priorities have hit formidable political obstacles",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4c9bbca37ce50ea8ab6a6bb1c9b19dc3b40b962b/0_37_5120_3071/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=408decbf4eb708f0ca8186ac8d164d10",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
+      "publishedDateTime": "2021-07-18T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event.md",
+      "title": "Pence, Noem lament state of the union at Iowa Christian conservative event",
+      "excerpt": "The past seven months under a Democratic administration have made the America of the previous four years unrecognizable to the political speakers at a Christian conservative event",
+      "sourceUrl": null,
+      "webUrl": "https://nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.html",
+      "originalUrl": "https://nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/nonpareilonline.com/content/tncms/assets/v3/editorial/0/84/08444b2f-c303-5939-997e-5a1cd1316688/60f31ba1b3370.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.amp.html",
+      "cdnAmpWebUrl": "https://nonpareilonline-com.cdn.ampproject.org/c/s/nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.amp.html",
+      "publishedDateTime": "2021-07-17T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Nonpareil",
+        "domain": "nonpareilonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-donald-trump-kim-jong-un-to-meet-to-discuss-denuclearization.md",
+      "title": "Donald Trump, Kim Jong-un to meet to discuss denuclearization",
+      "excerpt": "North Korea has informed the U.S. in talks that it is willing to discuss denuclearization at an upcoming summit, a senior administration official confirmed Sunday. \"The United States and North Korea have been holding talks in preparation for a summit,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/donald-trump-kim-jong-un-a287357b8abcc4e12452652424451138",
+      "originalUrl": "https://apnews.com/article/donald-trump-kim-jong-un-a287357b8abcc4e12452652424451138",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-17T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-18-bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings.md",
       "title": "Bill Burr savages CNN as ‘un-American pieces of s–t’ who want Trump for ratings",
       "excerpt": "Bill Burr savaged CNN anchors this week as moronic, America-hating blowhards who secretly covet a second Trump presidency because he’s good for ratings.",
@@ -1166,162 +1304,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f-king-war.md",
-      "title": "Gen. Milley warned Trump on possible Iran strikes: 'You're gonna have a f--king war'",
-      "excerpt": "Chairman of the Joint Chiefs Gen. Mark Milley Mark Milley Overnight Defense: Milley feared Trump coup, book says \\| Gillibrand expects fall vote on sweeping military justice bill \\|",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
-      "originalUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/milleymark_062321upi_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
-      "publishedDateTime": "2021-07-16T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-inside-donald-trump-jrs-97-million-florida-mansion-with-a-12-acre-backyard.md",
-      "title": "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard",
-      "excerpt": "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
-      "originalUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/04/donald-trump-jr-kimberly-guilfoyle.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
-      "publishedDateTime": "2021-07-15T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-biden-sees-us-child-tax-credit-as-giant-step-to-counter-poverty.md",
-      "title": "Biden sees U.S. child tax credit as 'giant step' to counter poverty",
-      "excerpt": "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV",
-      "originalUrl": "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568977952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0XV",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV",
-      "publishedDateTime": "2021-07-15T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

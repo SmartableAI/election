@@ -47,21 +47,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The chair of former President Donald Trump’s inaugural committee to be released on $250 million bail"
-    excerpt: "The chair of former President Donald Trump’s inaugural committee who faces charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy was ordered released from jail Friday on $250 million bail."
-    publishedDateTime: 2021-07-23T21:45:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
+  - title: "Donald Trump returning to Arizona for first post-presidency rally in state"
+    excerpt: "Former President Donald Trump's 2020 loss, the Jan. 6 riot and the ballot review have helped upend Arizona's political climate."
+    publishedDateTime: 2021-07-24T14:09:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 110
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 73
     images:
-      - url: "https://www.chicagotribune.com/resizer/O2x20Ct3l2CEiOK9Po_o0rOWwtM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSL6K3AQQTTDR4IZIYSGHTOPNY.aspx"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 704
+        height: 675
         isCached: true
 
 secured: "TfAO9ALr8MOYxXpwW0Zm3Ofa0q4Tmn5ddY2u1Rrsl4++ZKXbupK1vcWdOHue02jBTu4VHMti26nsiKzZotog1SZNqutiXEmKyyqgXOqPBNCShyA4oq6v2KOjpr7B7ggysrW/q7zJiu+dRnvwMlDUZ4/6t6HulDmK0l9CgQW3y7/jn49hAh/1qMOKedXFIRazD8nd5gdXggOXovH3lJs/437+MXg6BxLpEOfUztQx6C0PzSdux6skzvtvOnnhgFEwj/8jfrX6Eoj92IhDx8/uIoaoxP12gmiCp3+c5VnQDy9dgsvMdjNTkTRmb8YXHLqbq5XQnGLSua+G4HHPXnPIPO1dCaPoWlqpv/5L0LL+vVI=;eQpGZXQ7bghhMBmHA2RaIA=="
