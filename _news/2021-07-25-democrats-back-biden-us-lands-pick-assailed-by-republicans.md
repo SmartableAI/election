@@ -1,32 +1,24 @@
 ---
 category: news
-title: "'Cuba is a failed state': Biden"
-excerpt: "Biden. Posted . U.S. President Joe Biden on Thursday described Cuba as a \"failed state\" and communism as a \"failed system\" as his administration"
-publishedDateTime: 2021-07-15T23:11:00Z
-originalUrl: "https://www.reuters.com/video/watch/cuba-is-a-failed-state-biden-id732973002?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/cuba-is-a-failed-state-biden-id732973002?chan=6g5ka85"
+title: "Democrats back Biden US lands pick assailed by Republicans"
+excerpt: "A U.S. Senate panel has deadlocked on President Joe Biden’s pick to oversee vast government-owned lands in the West amid bitter opposition from Republicans."
+publishedDateTime: 2021-07-25T07:53:00Z
+originalUrl: "https://www.ledger-enquirer.com/news/business/article252947168.html"
+webUrl: "https://www.ledger-enquirer.com/news/business/article252947168.html"
+ampWebUrl: "https://amp.ledger-enquirer.com/news/business/article252947168.html"
+cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/business/article252947168.html"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Ledger-Enquirer
+  domain: ledger-enquirer.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://static.reuters.com/resources/r/?d=20210715&i=OVELYILSV&r=OVELYILSV&t=2"
-    width: 960
-    height: 540
-    isCached: true
 
 related:
   - title: "Democrats stand behind Biden public lands pick amid pushback"
@@ -61,18 +53,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Democrats back Biden US lands pick assailed by Republicans"
-    excerpt: "A U.S. Senate panel has deadlocked on President Joe Biden’s pick to oversee vast government-owned lands in the West amid bitter opposition from Republicans."
-    publishedDateTime: 2021-07-25T07:53:00Z
-    webUrl: "https://www.ledger-enquirer.com/news/business/article252947168.html"
-    ampWebUrl: "https://amp.ledger-enquirer.com/news/business/article252947168.html"
-    cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/business/article252947168.html"
+  - title: "'Cuba is a failed state': Biden"
+    excerpt: "Biden. Posted . U.S. President Joe Biden on Thursday described Cuba as a \"failed state\" and communism as a \"failed system\" as his administration"
+    publishedDateTime: 2021-07-15T23:11:00Z
+    webUrl: "https://www.reuters.com/video/watch/cuba-is-a-failed-state-biden-id732973002?chan=6g5ka85"
     type: article
     provider:
-      name: Ledger-Enquirer
-      domain: ledger-enquirer.com
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210715&i=OVELYILSV&r=OVELYILSV&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
-secured: "mZu6cOic9g6Fd8zkEsV7ZgmDBZFyBnPrEMzsF78CTB/+3UST460H1x7sSewOq08ArYfQar2nwFxMXHagpp5T2GjHMbZWCRG9HyV7WqfOLKKnH06dU0nT1cOQwXvQd/h67Toq9poUdzcJXAcxFT9SjjrigE0/sYo7+x1NYx+tMnuVfDl5GmdnbXhepa6szQVHI64qEi8/I8gvIS0lwEYzjnU51dL/9DQmcHNlyjBikG8IrFAkaLhWCsLfaM4RNrcHBbubGqtb8YBUPgRdlaBlWCxAjpJh9n7WPywEDcbj6xc/k7sfm+2JaCe73ZM4UVCiA2xzJr1Xc2DtNEYHcRRLtMENfGhGNRwD1Xl7O1+mqqc=;mQOj6+ohwBvutSnpgUPkyA=="
+secured: "QRcxcUdnc64jIdP4arZX4Iynuumym0oamvb+eaYMFIVVWfL3Xr+84oIGdrbpukMoOgHtviWB1UyGmOjGTcwPWX0EMtAFtYs4YN8D3U6Etw3keLhjNxCdxscEuHqZCeOFShII+nd/pyXLsDUJIz8aJ/9tSR0DcuraJ2EhnMlYINVcHG9JcvToRnc2ByQE08X66GAj3tpK7taarr+FrBaeuWJNOI5sdjUvguR46+6gf4PkLTGSKT9TXj90RYOpJpJAvItzeWTNdhQrnjrfnMpA7+6dIGrrPDFI2IagvIMiNdUU9Y266wFCnRjy761AacxkVX1Ycb8EEn/mKzOE8Tuyk8QfHT1tz9yrcgHFLLn6pDbUm2CZvTRi3nA0wS7XFUpJBNCxzl1V29LjdGgGZ+Kz+RW9EXZ+uyQv/7gw+pnUETZ+kE8ccQ0td60kIAUzkl0jdm/0zQQjcv4ZJCGQg4D20Gsc/8db61hFreJUGhJBsvF6HZWeth7QNtIxjLkY1CeJ2fSlpmrRX28WhKvbe9ETYA==;IUyNoZQ7rtHA3m6haKhOKA=="
 ---
 

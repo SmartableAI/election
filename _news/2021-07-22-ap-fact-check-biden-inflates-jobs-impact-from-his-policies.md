@@ -29,180 +29,281 @@ images:
     isCached: true
 
 related:
-  - title: "AP FACT CHECK: Biden overstates how many Americans immunized"
-    excerpt: "An AP Fact Check finds that President Joe Biden was off on his vaccination numbers when he addressed the subject Monday"
-    publishedDateTime: 2021-05-03T21:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+  - title: "AP FACT CHECK: Trump is relentless in election fabrications"
+    excerpt: "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden"
+    publishedDateTime: 2021-07-25T04:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3S2LJFMHII6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "AP FACT CHECK: Biden is off on his vaccine claims"
-    excerpt: "President Joe Biden isn't getting the U.S. vaccine record quite right WASHINGTON -- President Joe Biden misstated the record Thursday when he asserted that half of his country has been fully ..."
-    publishedDateTime: 2021-05-27T20:48:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
-    type: article
-    provider:
-      name: ABCNews
+      name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dca68b7cd21b4ea8b0ccb25dace58a46_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ed96847b6f054e7392989f75fa9f50f7_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "AP FACT CHECK: Biden distorts bipartisan infrastructure deal"
-    excerpt: "As he makes his pitch for a bipartisan infrastructure proposal, President Joe Biden is overstating the expected job benefits"
-    publishedDateTime: 2021-06-29T21:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
+  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
+    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
+    publishedDateTime: 2021-07-14T16:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f71a61e9ab964f06825e29a4f7294c08_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Fact check: Post detailing COVID deaths under Biden ignores improving trend"
-    excerpt: "A Facebook post claims more than 176,000 people died from COVID-19 in the United States since President Joe Biden took office on Jan. 20. The image of Biden masked up with his thumbs up, shared April 28,"
-    publishedDateTime: 2021-05-01T01:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/04/30/fact-check-post-detailing-covid-deaths-under-biden-ignores-trend/4889416001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4889416001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4889416001"
+  - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
+    excerpt: "Former President Donald Trump issued three statements in two days claiming that voting fraud and irregularities cost him Arizona’s electoral votes"
+    publishedDateTime: 2021-07-17T22:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/04/26/USATODAY/usatsports/247WallSt.com-247WS-869589-imageForEntry9-W69.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d41fc5cd7794411798da8de37cc52341_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes – live"
-    excerpt: "Biden makes case for increasing taxes on corporations and the wealthy – follow all the day’s politics news live"
-    publishedDateTime: 2021-05-03T16:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
+  - title: "Fact check: Donald Trump says Capitol rioters had 'no guns whatsoever'"
+    excerpt: "There were no guns whatsoever” in the riot at the U.S. Capitol on Jan. 6 — former President Donald Trump In a Fox News interview, Trump went on to describe the events of Jan. 6 by saying that “people with no guns walked down” to the Capitol,"
+    publishedDateTime: 2021-07-19T09:00:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Donald-Trump-says-Capitol-rioters-16314194.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Donald-Trump-says-Capitol-rioters-16314194.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Donald-Trump-says-Capitol-rioters-16314194.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/00/23/21234900/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "State Republicans shun lawmakers critical of Trump and his big lie"
+    excerpt: "Internal battles may ultimately weaken the party, critics suggest"
+    publishedDateTime: 2021-07-20T07:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/7796954293d26e28cbc625f5d2e035977b76ed54/0_16_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a469056c8b5fbc6d83f62203dce37fd6"
+      - url: "https://i.guim.co.uk/img/media/fce1868a1bec15ef1336a53710bd312b9deda8a5/0_160_4828_2898/master/4828.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=880ab2dc89a9f6825e1629645fe21763"
         width: 600
         height: 360
         isCached: true
-  - title: "Biden's American Families Plan will cost $900 billion more than White House predicts, study says"
-    excerpt: "Analysts from Wharton School say plan will spend $700 billion more, and tax $200 billion less, than Biden estimates."
-    publishedDateTime: 2021-05-05T15:41:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-american-families-plan-900-billion-cost/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-american-families-plan-900-billion-cost/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-american-families-plan-900-billion-cost/"
+  - title: "Trump ally Tom Barrack charged with acting as foreign agent"
+    excerpt: "Tom Barrack, a wealthy investor who served as chairman of the 2016 Trump Inauguration, has been arrested on charges of allegedly acting as a foreign agent. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to explain the allegations."
+    publishedDateTime: 2021-07-21T13:50:00Z
+    webUrl: "https://www.cbsnews.com/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 112
+    quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/03/768485d6-1fd6-43d7-96f8-9ee401ade551/thumbnail/1200x630/354ae3beb9f5b26b9ec2f9ff7afa36c0/cbsn-fusion-president-biden-visiting-virginia-to-promote-american-families-and-jobs-plans-thumbnail-706923-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/21/143d547a-ad95-4d5c-9e0c-99e897736666/thumbnail/1200x630/5534e7f0ee979b8054872af41423c4a2/cbsn-fusion-trump-adviser-tom-barrack-accused-of-acting-as-foreign-agent-thumbnail-758024-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden continues push to get Americans vaccinated"
-    excerpt: "President Joe Biden continued his push to get Americans vaccinated against COVID-19, flying to Raleigh, North Carolina Thursday to urge people to roll up their sleeves as part of a nationwide month of action campaign before the July 4th holiday."
-    publishedDateTime: 2021-06-25T00:15:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/24/biden-continues-push-get-americans-vaccinated/5339412001/"
+  - title: "Trump inaugural committee chair to be released on $250M bail"
+    excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee has been ordered released on $250 million bail to face charges he secretly worked as an agent for the United Arab Emirates to infl"
+    publishedDateTime: 2021-07-23T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_57b2dffb6cde45fa98168a1bd3a1bcdb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Watch live: Trump attends rally in Phoenix"
+    excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
+    publishedDateTime: 2021-07-24T21:01:00Z
+    webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
+    ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
+    excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
+    publishedDateTime: 2021-07-20T19:17:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 118
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/20f11bb/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F11%2F825d53524b58a7c9ca2b7781e084%2Fla-photos-1staff-810473-me-0716-vaccine-leimert-park-007.IK.JPG"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "At 98 and facing cancer, Bob Dole reckons with legacy of Trump and ponders future of GOP"
+    excerpt: "\"I'm a Trumper,\" said Dole, the only former GOP presidential nominee to attend Trump's convention in 2016. But he added, \"I'm sort of Trumped out.\""
+    publishedDateTime: 2021-07-22T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/22/98-bob-dole-reckons-legacy-trump-ponders-future-gop/7995412002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7995412002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7995412002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/21/USAT/5936d2f9-3a0f-449e-ac14-704a6507b275-AP_Biden_Dole.jpg?auto=webp&crop=5118,2879,x1,y156&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Aides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book"
+    excerpt: "Aides to former President Trump intentionally gave his then-personal attorney Rudy Giuliani the wrong time for a presidential debate preparation event last year, according to a new book"
+    publishedDateTime: 2021-07-20T02:25:00Z
+    webUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
+    ampWebUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/giulianirudy_111920gn6_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "The chair of former President Donald Trump’s inaugural committee to be released on $250 million bail"
+    excerpt: "The chair of former President Donald Trump’s inaugural committee who faces charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy was ordered released from jail Friday on $250 million bail."
+    publishedDateTime: 2021-07-23T21:45:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
+    images:
+      - url: "https://www.chicagotribune.com/resizer/O2x20Ct3l2CEiOK9Po_o0rOWwtM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSL6K3AQQTTDR4IZIYSGHTOPNY.aspx"
+        width: 1200
+        height: 704
+        isCached: true
+  - title: "Senior Democrat Proposes Cap on Trump-Era Business Deduction"
+    excerpt: "Senate Finance Committee Chairman Ron Wyden has drafted legislation that would overhaul a major part of the 2017 tax overhaul that Republicans billed as a boon to small businesses, and Democrats have criticized as benefiting wealthy business owners."
+    publishedDateTime: 2021-07-20T05:46:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/senior-democrat-proposes-cap-on-trump-era-business-deduction/2021/07/20/fb8d3592-e946-11eb-a2ba-3be31d349258_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6014770-4aa7-49ad-9479-12453c56a5cf_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5D4QYJXJIYI6XIV2HPRR2NESLA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Joe Biden: time for corporations and richest Americans to 'start paying their fair share' – video"
-    excerpt: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes"
-    publishedDateTime: 2021-05-03T17:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/may/03/joe-biden-time-for-corporations-and-richest-americans-to-start-paying-their-fair-share-video"
+  - title: "Trump ally arrested on foreign lobbying charges"
+    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
+    publishedDateTime: 2021-07-20T22:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 92
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/d8fc0edb1ea5b3e9df888937a204a01cbd43e980/0_0_5732_3441/master/5732.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eab2c30986f1bf406c31fff078494f81"
+      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Trouble is brewing for a Georgia county's investigation into Donald Trump"
+    excerpt: "The Fulton County district attorney is committed to investigating Trump. But a criminal case backlog and a spike in Atlanta-area crimes is complicating matters."
+    publishedDateTime: 2021-07-23T08:00:00Z
+    webUrl: "https://www.businessinsider.com/georgia-election-donald-trump-fulton-county-investigation-fani-willis-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/60f9e08efc253600181ff47f?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Biden hails ‘stunning progress’ on Covid but warns Americans: ‘Do not let up now’ – as it happened"
-    excerpt: "President lauds vaccination effort to reduce cases and deaths as CDC relaxes mask guidelines – follow all the day’s politics news"
-    publishedDateTime: 2021-04-27T23:29:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest?page=with:block-60889b3e8f08080a7ae6dfd9"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest"
+  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
+    excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."
+    publishedDateTime: 2021-07-14T17:57:00Z
+    webUrl: "https://www.chron.com/news/article/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 91
-  - title: "Joe Biden the perfect fit for today's Americans"
-    excerpt: "To many Red-Blooded Americans, America does not feel right, right now. Does our president represent the people he leads?Our media opened our eyes,"
-    publishedDateTime: 2021-06-09T22:04:00Z
-    webUrl: "https://www.theday.com/article/20210609/OP02/210609363"
-    type: article
-    provider:
-      name: The Day
-      domain: theday.com
-    quality: 55
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
-        width: 360
-        height: 360
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Joe Biden laid out his ambitious vision for a post-pandemic America. Now it is up to Sen. Chuck Schumer to make it a reality."
-    excerpt: "The Senate majority leader, marking his own 100 days in charge, is responsible for turning sweeping Democratic plans into law. It’s a tall order."
-    publishedDateTime: 2021-04-29T21:06:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-joe-biden-chuck-schumer-agenda-20210429-s56w36binzacxftkcjbq53aqma-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-joe-biden-chuck-schumer-agenda-20210429-s56w36binzacxftkcjbq53aqma-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-joe-biden-chuck-schumer-agenda-20210429-s56w36binzacxftkcjbq53aqma-story.html?outputType=amp"
+  - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
+    excerpt: "Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona's electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate Republicans to oversee a partisan review of the 2020 vote count in Maricopa County,"
+    publishedDateTime: 2021-07-21T13:33:00Z
+    webUrl: "https://www.chron.com/news/article/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 48
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://www.dailypress.com/resizer/RbByVRgG6rfP7ffQLizaPjwPjvc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CVJFKYYJ6PQNMAAY4NUYQEIMT4.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Joe Biden's support of labor unions is historic. Here's what it means"
-    excerpt: "No recent president of either party has come close to expressing the overt support for the labor movement that Biden has during his first three months."
-    publishedDateTime: 2021-05-10T18:29:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/10/joe-biden-labor-unions/5024518001/"
+  - title: "Tom Brady Jokes With Biden at White House About Trump's False Election Claims"
+    excerpt: "Tom Brady, a U.S. football legend and longtime friend of Donald Trump, gently ribbed the former president and his false claims of election fraud in a White House visit Tuesday. The 43-year-old quarterback joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with President Joe Biden."
+    publishedDateTime: 2021-07-20T17:50:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-07-20/tom-brady-jokes-with-biden-at-white-house-about-trumps-false-election-claims"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 35
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
 
 secured: "/DlKYYNXs2EVFaNesExvnWZJp5J+xvlkMiGwqT/JZzW4hh27lGvBDnIBLeIrbnJXSgEhifzCef1GEkfVgeHQoWKCTIjwet0Roe1iXkGnbRiUykxwBdVLMoLtLLsp7FD5z/whQ+rk4OSbM3FwSTU9Bn4XE2jd7FSnfMRXsxzR1oosr290ABX3wKLT5mYdROWWHCROZ/3POY1ejbt0VLdz4Rah4GCsiX1HHEbb7cop77IcESS2XePqftp4rYn6AsMPZkfaZnGfnSjnihTDgfi9dx/NSrErkw80fjtvxmIiDsiqv1L7Kt7Say3sQPoX1tupEPMmC96laDxB9c48sew4/kluHs2/6I+LKCY7tZBQSAe1PC6DHuCy1Mj32nARKGd7fuuFe8gHHXHonGQWvxITKfdqGd/YdR1jGgBHg0NtwJlcw9Enq9fT2sstXCrCh8lwVbcISXWhnqM54oEOOTUgdP8HiSO8FWZzKmdU2DQpxgJC/4rQyUwjDMFicy+EXHQqZdkl6rjqlDnfOXK2kURAiA==;hv9hnEKDujWhL8/09Tjh/g=="
 ---

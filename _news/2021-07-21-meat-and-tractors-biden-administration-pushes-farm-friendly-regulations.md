@@ -61,6 +61,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Democrats back Biden US lands pick assailed by Republicans"
+    excerpt: "A U.S. Senate panel has deadlocked on President Joe Biden’s pick to oversee vast government-owned lands in the West amid bitter opposition from Republicans."
+    publishedDateTime: 2021-07-25T07:53:00Z
+    webUrl: "https://www.ledger-enquirer.com/news/business/article252947168.html"
+    ampWebUrl: "https://amp.ledger-enquirer.com/news/business/article252947168.html"
+    cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/business/article252947168.html"
+    type: article
+    provider:
+      name: Ledger-Enquirer
+      domain: ledger-enquirer.com
+    quality: 55
 
 secured: "BH2ohWBNbLWsVd5QQ39Q3Wom1fun6fd2pdV1fq4ABifxssakjEP5aqaQmHXgb6wG39/IGzYhhTSDus+GwEF0XsrLXKPhZmKTTSFV7AwxXYS5v2HtNrJaNcroKXkDWkLRrutZrDWy/AqfqXz2RKqNDY8oNO4xxKgUS4ThKjQD/s7RMEiYH8+AEjqNd950m2cVPKuNyPgnL/7DFLEG0XDuEKbOCcmx3lAqTi8uCSwQyizfMeHfsLakFLHFhQ43l9th2ANBqIaTUkJxjpS5upd+vZjFDrucPKEIoA8rVxu54POc2InTXEIYsjRo071eMcjqpvUVVyBCo5APDwqV9Bz+G3ZU4OisIEK/VA6YjTO9omi2klU21N4Ubxvnvnq+WXIUG35jxI3GRi4M4fEqQLaiP3M6uHe9j4/J9JmCHqiCdZpa/lv8MUTf7/3UdBPUHHFWbSupZC05HBlMyoPw3TOk4AO+WFFwjR8d1Wv9sUpTkfcPo0+Ba09Qu6Z9H7lQmMv4K6EARv/Kxed5fDcGNKROwg==;CrTcCFJHc61ylqQOlszazg=="
 ---
