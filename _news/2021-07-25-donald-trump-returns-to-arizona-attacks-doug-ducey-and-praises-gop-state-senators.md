@@ -1,33 +1,29 @@
 ---
 category: news
-title: "State Republicans shun lawmakers critical of Trump and his big lie"
-excerpt: "Internal battles may ultimately weaken the party, critics suggest"
-publishedDateTime: 2021-07-20T07:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-webUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+title: "Donald Trump returns to Arizona, attacks Doug Ducey and praises GOP state senators"
+excerpt: "Former President Donald Trump praised his Arizona GOP allies, attacked Republicans he sees as enemies and continued to falsely claim election fraud."
+publishedDateTime: 2021-07-25T00:22:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
+webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
+ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
 type: article
-quality: 125
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/fce1868a1bec15ef1336a53710bd312b9deda8a5/0_160_4828_2898/master/4828.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=880ab2dc89a9f6825e1629645fe21763"
-    width: 600
-    height: 360
+  - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -62,6 +58,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d41fc5cd7794411798da8de37cc52341_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "State Republicans shun lawmakers critical of Trump and his big lie"
+    excerpt: "Internal battles may ultimately weaken the party, critics suggest"
+    publishedDateTime: 2021-07-20T07:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/fce1868a1bec15ef1336a53710bd312b9deda8a5/0_160_4828_2898/master/4828.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=880ab2dc89a9f6825e1629645fe21763"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump ally Tom Barrack charged with acting as foreign agent"
     excerpt: "Tom Barrack, a wealthy investor who served as chairman of the 2016 Trump Inauguration, has been arrested on charges of allegedly acting as a foreign agent. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to explain the allegations."
@@ -245,22 +257,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump returns to Arizona, attacks Doug Ducey and praises GOP state senators"
-    excerpt: "Former President Donald Trump praised his Arizona GOP allies, attacked Republicans he sees as enemies and continued to falsely claim election fraud."
-    publishedDateTime: 2021-07-25T00:22:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Prosecutors Agree to Allow Trump Ally Barrack Free Pending Trial"
     excerpt: "Former U.S. President Donald Trump's billionaire ally Thomas Barrack has reached a deal with prosecutors that will allow for his release from custody while he awaits trial on charges of illegal lobbying,"
     publishedDateTime: 2021-07-23T18:18:00Z
@@ -271,6 +267,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "+pI+D7BOYRhEPzrKEK73BkvJdgX8x27E6qiRPzm6PzdlgsI2+DvEOd+yc4zpk3TsnHAdbKzUxuYcdB7uVCM1RY0z1rf+8CQ4LUwNBl9pBfS/rOlQ3LZy5XXPIiS3yltsjabCxF9+00U1dgOYOsmF3mot5EexZ9RsW4CdPjI+kZX0uI+KnKIkyhNTQd9pqEEBZmjmhcBWCCRaEtdNeqf5nYBjuQiSc+pahrx2eICqTFsWCLPdf/aXz2fKn817XVyWHas7yXudi6zkVpFC2Ds1qxt7y5JqQw8Z8CJaquFHua5n+sZ9SvRdllscQuoQOz5hZdpKW1Ao68Rl69OD3EUVbimsH/8S4EdjjzTwkqlXn3pAqmAhY6FSASPynCqQOam2vfGDWkfQ0xdxDMpczwK/Li5J4tveCbM9yaVch2SDfPkBif4lTP2mmqllNPLzo60Z5lcV/v26VEPpWZdjsacxbymKcNH87mFXmpSpBv/41X9yjU76VR2suzOC8vnkD+fy1KP6+Icj50hZay+s4y315Q==;1g/ygW+cbUAd0eaIPw/0gw=="
+secured: "+G9xmlPeeNBc0ucOadIjW8TKECE2FvlN5/Ldu4zGG5xQ0ilqgv+tqDwkhiBQtGEKFCqqqdwT8N8PW0n701MljDEcNBkVarb6LbbvHuxHr8BIvoFpisDV9M3dZnlL1wnVXck4V8lJCS0xGH7qwCNGPhuSSUbW32i85A37b+op5GyP/RiKPJsZ25moUO2jgr0wdtYnWa8Sn9Nt8Lyj3FhVCTOauDo1KvkibUmImjxNJDIHR4QWUZGP16wVlLRwp3rawx1d9y1MGYaVHD9VTTXFDMqviEkA+WxESXZtwNRWJQTicqqsdN6myrCtXkV5aZP9NFsZfSUkQiXcuQLuYzci03QzF/YDBEZU1BNfiRPnJ8Q=;UUMbB5zPtEqLrjTw2w6lDA=="
 ---
 

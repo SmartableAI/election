@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Joe Biden town hall: Mount St. Joseph University 'leadership' made the call to host CNN event"
-excerpt: "Credit for the CNN town hall with Joe Biden at Mount St. Joseph has become a hot potato in the local Catholic community."
-publishedDateTime: 2021-07-22T17:35:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-mount-st-joseph-university-vague-who-approved-town-hall/8048501002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-mount-st-joseph-university-vague-who-approved-town-hall/8048501002/"
-ampWebUrl: "https://amp.azcentral.com/amp/8048501002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8048501002"
+title: "Joe Biden town hall in Cincinnati: Here's the full CNN transcript"
+excerpt: "Transcript of the July 21, 2021 CNN town hall with President Joe Biden at Mount St. Joseph University in Delhi Township, Ohio DON LEMON, CNN HOST: Good evening, everyone. We are live in Cincinnati, Ohio,"
+publishedDateTime: 2021-07-22T02:57:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/"
+ampWebUrl: "https://amp.usatoday.com/amp/8051311002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8051311002"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 125
+heat: 265
+published: true
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/21/PCIN/48f13a05-e916-4556-a1a4-fcb781ea9fb0-MicrosoftTeams-image_17.png?auto=webp&crop=1247,701,x0,y131&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/07/22/PCIN/5d848fd6-8ebf-4f8c-b9b8-e8bdafae7a84-AP21203038237183.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
     width: 1200
-    height: 675
+    height: 676
     isCached: true
 
 related:
-  - title: "Joe Biden town hall in Cincinnati: Here's the full CNN transcript"
-    excerpt: "Transcript of the July 21, 2021 CNN town hall with President Joe Biden at Mount St. Joseph University in Delhi Township, Ohio DON LEMON, CNN HOST: Good evening, everyone. We are live in Cincinnati, Ohio,"
-    publishedDateTime: 2021-07-22T02:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/8051311002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8051311002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/22/PCIN/5d848fd6-8ebf-4f8c-b9b8-e8bdafae7a84-AP21203038237183.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
     excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
     publishedDateTime: 2021-07-20T07:00:00Z
@@ -107,6 +95,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Joe Biden town hall: Mount St. Joseph University 'leadership' made the call to host CNN event"
+    excerpt: "Credit for the CNN town hall with Joe Biden at Mount St. Joseph has become a hot potato in the local Catholic community."
+    publishedDateTime: 2021-07-22T17:35:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-mount-st-joseph-university-vague-who-approved-town-hall/8048501002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8048501002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8048501002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/21/PCIN/48f13a05-e916-4556-a1a4-fcb781ea9fb0-MicrosoftTeams-image_17.png?auto=webp&crop=1247,701,x0,y131&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden town hall: Cincinnati surprise? Ice cream-loving president doesn't stop at Graeter's"
     excerpt: "Other politicians and celebrities have stopped for a scoop while visiting the Queen City, including former President Bill Clinton and Ivanka Trump."
     publishedDateTime: 2021-07-21T23:57:00Z
@@ -140,6 +144,6 @@ related:
         height: 676
         isCached: true
 
-secured: "akiyMEDrK6phIt0rOe/mBW17do8iKc+3Y0sXd9hgsZiBuZfRR861bmENANqgWEiWSsMhOw4uQmCBIXGMRU/eCF5/QQenXPBKaTcd/OFgSKx9pOJWVgSFcPXc4wHD4Dms1N3/MIMFEXr5bScyIvxbXj1S8AdGjb4M73T2q3NX5WkiHhDUIPxRrgKXs4kOP+kpyRha9jye4a67Z25qNDEwYKaPYPu3Nu050T6UZF6+GZfYl9S1dp34lVfxnEFD5+BYSWqPNsFoRrs36KGY8tIKFYCImnjEcoI/dsmq5/aBWaq4sF+QkkCPFS3XthjrQ7iYKXSTQjadZC4RftsD5DHLsocrj3sEoERRHIBqC03JuuowgeW6DhWm6c2R2FshzhXJL5gNBbEIqhp2ZcVJ/Zq9RJsE6t6PwXf0jhyzc04l1c7QObSvC3n1upK9ALEWnmLPPAxHAe9ozkLqCFrBXEOPON8FvataWdk1U5M8SNiyggpzB6Qnhyr4f7zipiVGw8jADm3IAj84FGNfd9fa/12S5g==;1rJ0c6N0Gw18S4buer2iUw=="
+secured: "ijuuNSPxtMD0tSRi7dkxCpvhFIYYY8njZLkLALGk78GgIDICiSLGMuV2aLbmuKrl/X9FP5aiul4+AaGbOn5NeZkm1MQGxQ2qOx2iAdGYGlmUT0AfnD3c4eSFc7aRyJaRxcVywZ25xwCZ1HabodnJAqtcjbE5ZIovYTCPFPZPJ3Xcs/r/hLlbTrMvFNTvsQkZXsRHuv5RZAb8ADjstCdPixP6MANyVfW/v3UUNTfR+J4gMncxnOdka+GCMujBujCKyqw8d0XBd+ZkPeqsrexgAs0KOYvD4hKFco9IpkxTW0SQ2OKnWLTjB+hh856fShcvuEBDO23+JYBQApCON0elTj8mQbln04DKpv8uxQHgyg0=;w+V2CeQnEIn4oglgLHpO7w=="
 ---
 

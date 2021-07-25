@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden town hall in Cincinnati: Here's the full CNN transcript"
+    excerpt: "Transcript of the July 21, 2021 CNN town hall with President Joe Biden at Mount St. Joseph University in Delhi Township, Ohio DON LEMON, CNN HOST: Good evening, everyone. We are live in Cincinnati, Ohio,"
+    publishedDateTime: 2021-07-22T02:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8051311002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8051311002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/22/PCIN/5d848fd6-8ebf-4f8c-b9b8-e8bdafae7a84-AP21203038237183.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
     excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
     publishedDateTime: 2021-07-20T07:00:00Z
@@ -59,21 +75,37 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage"
-    excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
-    publishedDateTime: 2021-07-21T10:31:00Z
-    webUrl: "https://www.miamiherald.com/news/state/florida/article252899763.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article252899763.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article252899763.html"
+  - title: "In Cincinnati, President Joe Biden touts infrastructure deal to 'fix that damn bridge'"
+    excerpt: "In his third visit to Ohio this year, Biden toured the IBEW/NECA Electrical Training Center and participated in a town hall with CNN's Don Lemon."
+    publishedDateTime: 2021-07-22T02:22:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/07/21/president-joe-biden-cincinnati-ohio-town-hall-president-touts-infrastructure-covid-vaccines/8030794002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/8030794002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/8030794002"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 70
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 67
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/4150a494-c606-4f1f-a857-0ac16d3e3b23/main/1280x720/1m2s16ms/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2021/07/22/PCIN/1edd673b-c938-4089-85ad-f3cab9cd3106-AP21203035363990.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Joe Biden town hall: Mount St. Joseph University 'leadership' made the call to host CNN event"
+    excerpt: "Credit for the CNN town hall with Joe Biden at Mount St. Joseph has become a hot potato in the local Catholic community."
+    publishedDateTime: 2021-07-22T17:35:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-mount-st-joseph-university-vague-who-approved-town-hall/8048501002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8048501002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8048501002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/21/PCIN/48f13a05-e916-4556-a1a4-fcb781ea9fb0-MicrosoftTeams-image_17.png?auto=webp&crop=1247,701,x0,y131&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden town hall: Cincinnati surprise? Ice cream-loving president doesn't stop at Graeter's"
     excerpt: "Other politicians and celebrities have stopped for a scoop while visiting the Queen City, including former President Bill Clinton and Ivanka Trump."
@@ -91,17 +123,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden to host Super Bowl champ Tampa Bay Buccaneers Tuesday"
-    excerpt: "President Joe Biden will celebrate the Tampa Bay Buccaneers’ Super Bowl title when the team visits the White House on Tuesday."
-    publishedDateTime: 2021-07-17T14:55:00Z
-    webUrl: "https://www.newsobserver.com/sports/article252852568.html"
-    ampWebUrl: "https://amp.newsobserver.com/sports/article252852568.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/sports/article252852568.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 55
   - title: "How did people get invited to Joe Biden's town hall? 'It wasn't a whole lot of the usual political insider crowd.'"
     excerpt: "If you didn't get an invite from CNN, you had to watch President Joe Biden's town hall on television. Students, teachers, business owners and a few local politicians were among the few hundred allowed into the auditorium at Mount St. Joseph University in ..."
     publishedDateTime: 2021-07-22T03:32:00Z
@@ -118,26 +139,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Visiting the Walt Disney World soon? You may see President Joe Biden’s twin on stage"
-    excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
-    publishedDateTime: 2021-07-21T10:31:00Z
-    webUrl: "https://www.miamiherald.com/news/local/community/miami-dade/article252899763.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/local/community/miami-dade/article252899763.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/community/miami-dade/article252899763.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 48
-  - title: "President Joe Biden wants to ensure 'Right to Repair' smartphones, other devices"
-    excerpt: "President Joe Biden asked regulators to crack down on companies that make it harder for people to repair smartphones and other software-driven tech."
-    publishedDateTime: 2021-07-15T10:02:00Z
-    webUrl: "https://www.oklahoman.com/story/business/2021/07/15/president-joe-biden-backs-right-to-repair-smartphone-regulations/7936627002/"
-    type: article
-    provider:
-      name: The Oklahoman
-      domain: oklahoman.com
-    quality: 30
 
 secured: "MpRLJRWA5mn8ZDmqA8PoWIZICP0+sX1hGmlWZrXXqOKeC+6YS2A5LUb4LgSOEaxz2ES1iVnyWWfGw5ms0aM2wAuemYuX3UyhY4cePzSAQbo/51c71p7DaKBldD2CaUYbCJtA1R++7cH2eCw12S/6oFHQ3j8jvbTXs1O7PQGpr9mxUjl6mQUeTxwM4wF79H/eBrozsvKnjtmloTdUNGBWWbBILZXv7I/QRUq+sJWf4dvHGAYHVHfc8irT+0LqoZJpuro+I2ZlVftj3gU2MevPEtrlTzPm8ctrpgRd2g/EcHc76SXmSaxkXKu62XYr+bQLLc31HrxzeYVTMuDb6wgps3tB+Tf3iKEI2IewxrAad/0JykFYftIpxStP9G6dZ8EmYCgbKgGoB3+YH4r8yXnaMy5BVvAIv5QpO5H5RyrMIRmTQ6gMr4uu03i1vBRKJDtRw7LAvQU3dUWX5x5tu3CTZAsHYbdmWrqIKMwa9D+LcXBdHMkO5rUgdc9nFdaYQR+rzLoMwv0j8PWhq23K+PNYQA==;HQesGOahjHBsa2yMMVHppQ=="
 ---
