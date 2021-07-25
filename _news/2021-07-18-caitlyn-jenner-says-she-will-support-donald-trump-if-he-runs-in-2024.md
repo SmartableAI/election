@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The chair of former President Donald Trump’s inaugural committee to be released on $250 million bail"
-    excerpt: "The chair of former President Donald Trump’s inaugural committee who faces charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy was ordered released from jail Friday on $250 million bail."
-    publishedDateTime: 2021-07-23T19:45:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 60
-    images:
-      - url: "https://www.baltimoresun.com/resizer/O2x20Ct3l2CEiOK9Po_o0rOWwtM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSL6K3AQQTTDR4IZIYSGHTOPNY.aspx"
-        width: 1200
-        height: 704
-        isCached: true
 
 secured: "TfAO9ALr8MOYxXpwW0Zm3Ofa0q4Tmn5ddY2u1Rrsl4++ZKXbupK1vcWdOHue02jBTu4VHMti26nsiKzZotog1SZNqutiXEmKyyqgXOqPBNCShyA4oq6v2KOjpr7B7ggysrW/q7zJiu+dRnvwMlDUZ4/6t6HulDmK0l9CgQW3y7/jn49hAh/1qMOKedXFIRazD8nd5gdXggOXovH3lJs/437+MXg6BxLpEOfUztQx6C0PzSdux6skzvtvOnnhgFEwj/8jfrX6Eoj92IhDx8/uIoaoxP12gmiCp3+c5VnQDy9dgsvMdjNTkTRmb8YXHLqbq5XQnGLSua+G4HHPXnPIPO1dCaPoWlqpv/5L0LL+vVI=;eQpGZXQ7bghhMBmHA2RaIA=="
 ---

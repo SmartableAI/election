@@ -593,6 +593,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump spreads more election lies at Arizona rally"
+    excerpt: "He spoke of untold thousands of dead people voting — no such phenomenon surfaced in postelection audits. He alleged 168,000 Arizona ballots were fraudulent — there is no support for that."
+    publishedDateTime: 2021-07-25T03:16:00Z
+    webUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TW4LUNON7RG4DBGBX26AKV5AUI.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump claims Arizona election database deleted, Republican calls him ‘unhinged’"
     excerpt: "The Republican who now leads the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their continued falsehoods about how the election was run."
     publishedDateTime: 2021-05-16T14:32:00Z

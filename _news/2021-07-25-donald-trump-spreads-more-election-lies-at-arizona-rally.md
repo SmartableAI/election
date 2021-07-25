@@ -1,31 +1,29 @@
 ---
 category: news
-title: "House Republicans oust Cheney from leadership as she vows to stop Trump"
-excerpt: "House Republicans voted Wednesday to remove Wyoming Rep. Liz Cheney from her House GOP leadership position following her criticism of former President Donald Trump and his continu"
-publishedDateTime: 2021-05-12T20:52:00Z
-originalUrl: "https://abcnews.go.com/Politics/live-updates/liz-cheney-live-updates/?id=77642191"
-webUrl: "https://abcnews.go.com/Politics/live-updates/liz-cheney-live-updates/?id=77642191"
+title: "Donald Trump spreads more election lies at Arizona rally"
+excerpt: "He spoke of untold thousands of dead people voting — no such phenomenon surfaced in postelection audits. He alleged 168,000 Arizona ballots were fraudulent — there is no support for that."
+publishedDateTime: 2021-07-25T03:16:00Z
+originalUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html"
+webUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html"
+ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
 type: article
-quality: 105
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_1600.jpg"
-    width: 1600
-    height: 899
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TW4LUNON7RG4DBGBX26AKV5AUI.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -491,6 +489,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "House Republicans oust Cheney from leadership as she vows to stop Trump"
+    excerpt: "House Republicans voted Wednesday to remove Wyoming Rep. Liz Cheney from her House GOP leadership position following her criticism of former President Donald Trump and his continu"
+    publishedDateTime: 2021-05-12T20:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/liz-cheney-live-updates/?id=77642191"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "New York opens criminal investigation into Trump"
     excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family."
     publishedDateTime: 2021-05-19T07:46:00Z
@@ -576,22 +588,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/11844b46-833f-4260-9a70-254cffb0f236-cent02-7ctxpjqlqly1h9t6zhle_original.jpg?auto=webp&crop=3476,1956,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Donald Trump spreads more election lies at Arizona rally"
-    excerpt: "He spoke of untold thousands of dead people voting — no such phenomenon surfaced in postelection audits. He alleged 168,000 Arizona ballots were fraudulent — there is no support for that."
-    publishedDateTime: 2021-07-25T03:16:00Z
-    webUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html"
-    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TW4LUNON7RG4DBGBX26AKV5AUI.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "White House Won't 'Underestimate' Trump's Chances Of Winning 2024 Election"
     excerpt: "President Joe Biden in March said he plans to run for re-election in 2024 with Vice President Kamala Harris as his running mate."
@@ -819,6 +815,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "UBO8vQ8g9vtlltLxgAXlqjDotWUXDsui30w7LWCPvnaSResDH/MQobnOWjOjDycRyHTbhLgqjz6zw/Hrb0u4g/M0iNhYJZfzMSzo1GZjjwdd3BiuUCZQ/6a+lzUC4O2WfhY6u4yaTWR167V0C+91mg07QU8ckVcTQbjdQTXZLB4n5S9u+YngM/v2QMUJBaKC+7OdhwK3YffqqxPHfLzq1Ng2OfMhOIXJn5MtpASfYxXcllLylDWAw3Dhj9Rr2U1AYX5xBt340KfKHIXfy3x36IWrnE3UfvzgQD4rMEzj7nXGapCPC8adQreTO3hOWbnvrRaAdzPNDsr/RkhJxbZ54ABZm7ZgBF3geYfC4eobIcRxLwloNGuQK0Fs64gYfuSaMnqQnS0YuWwj6/qDpLc23wIi7rm9bkhuxnK9LiNZNvJIha/uN9yopuEgruHxnlX7JZzkNc7NA0HI5DBKUM7dmHbSdbk701T9SSrGL1CN2x6kXlEVDWhrsK+GRbO1Q5tIepn0Pl16bngzqgPhRWwl6g==;O7d2cYskWVzEYTkdjiO16w=="
+secured: "+2OYPewHVCDGD5TzpTQI8mwg65s8R8BGu3dHPdQnOSYzVnbJKrpr2a5eIevFOfU5ooNsSSn2eAa47fVI30UHB56ew2Zxq0w6FoNkdYXDOKTXVh+xNXfIU+HDN7PU61fW/c61oNN6T90GWdyxIonsWFi+P8A3znTo4D8BgBryt0ITprQ4Sqm0h6lkvi9zfegHWNS4X5ZBQVvLjYxJ7RADGCgsSojXmv/YrnNGstEfJooQGDZU0yzDgSTL7CM2bulQxaty/GQ/65DsOnLfbw0QhwouOgnMmjKFdo7qT2lwzF0cotKahfkl3PcN0DEB7pk0th1p2Od6EkTVjbBarQpQeuiojujq7rh0BwacxHxdpjI=;xZyEhus+/dCT4YbROBdWPA=="
 ---
 

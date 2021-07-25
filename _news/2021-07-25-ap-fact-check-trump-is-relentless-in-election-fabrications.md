@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Tom Brady Jokes With Biden at White House About Trump's False Election Claims"
-excerpt: "Tom Brady, a U.S. football legend and longtime friend of Donald Trump, gently ribbed the former president and his false claims of election fraud in a White House visit Tuesday. The 43-year-old quarterback joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with President Joe Biden."
-publishedDateTime: 2021-07-20T17:50:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-07-20/tom-brady-jokes-with-biden-at-white-house-about-trumps-false-election-claims"
-webUrl: "https://www.usnews.com/news/us/articles/2021-07-20/tom-brady-jokes-with-biden-at-white-house-about-trumps-false-election-claims"
+title: "AP FACT CHECK: Trump is relentless in election fabrications"
+excerpt: "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden"
+publishedDateTime: 2021-07-25T02:23:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
 type: article
-quality: 62
-heat: -1
-published: false
+quality: 140
+heat: 500
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,23 +24,13 @@ topics:
   - Election
   - Donald Trump
 
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_ed96847b6f054e7392989f75fa9f50f7_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
 related:
-  - title: "AP FACT CHECK: Trump is relentless in election fabrications"
-    excerpt: "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden"
-    publishedDateTime: 2021-07-25T02:23:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ed96847b6f054e7392989f75fa9f50f7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
     publishedDateTime: 2021-07-14T16:45:00Z
@@ -303,7 +295,16 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Tom Brady Jokes With Biden at White House About Trump's False Election Claims"
+    excerpt: "Tom Brady, a U.S. football legend and longtime friend of Donald Trump, gently ribbed the former president and his false claims of election fraud in a White House visit Tuesday. The 43-year-old quarterback joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with President Joe Biden."
+    publishedDateTime: 2021-07-20T17:50:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-07-20/tom-brady-jokes-with-biden-at-white-house-about-trumps-false-election-claims"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
 
-secured: "oL4WsfnvqQo1qHi16ce6ah3ekcgNnZ5vz3NWaBm4NIh5l8sXNNDxD/WrK8ZOBCxCIBDktXyH9iQ8W77RJfcB7dGUuOBNapC9ls9vMVJVPS49tpb7TDbOp0MWimw9FRlC7w+pf59PA3/fjm/x0kxp2fNTxWzRTDknnKwuXE+va1E5BwIXLzrU+8JFcuYfTERanSAt9RXEFIdARESt/Y7yl7APL2CGW9XoB7oR6pYs99VonQtK6NPKhaKXOLgt+RvjJm4apxFggQIdRr63Vz/u2QL7+RIUem/p3M/0Qd+E8ZeSff89yP+KgC34F1LQCMAHQeGmtVzxbPQGwHiTwF2OH5A3Cnn9mTobwj94NXzf6UfvySc3GO9VVTJpNkDJuRpQN/xsirMPsb8KQ3+fD8D5yw3pfJQqbKO1IL0Ltorl5MWPvPG9LakQqkOk1+jUY0VGUHYJrjXobeV+LldL5DKElxleH0RPoDHO6+2C7ssK9SW8JlGtxva7imCA4HiJxWm/m+WCE22b5SQmTCNKK0oDjQ==;Lh2rHHsksFNpZDB/t/I0JA=="
+secured: "iBG0uq5v4mCDUjVvtoAW2wzjkoLHyN3PWrZkOACvpE2YbIMlg88XC+e7VFKrzmu8kxo9pt0xu4NvXRmbktZpOZtWk1mDweb6jmsN4mkaSAE1l8dwBUr28oW+366aq7xtyYMBAbD9bSDf+QxQHJF1mJnqx2jAiIKM7r6V40K9vfeX3nNs+FzUXwxqkaJwmHLUEIZQn+ELlCyG25bRjUeSrqwn9QKWH1nSVWWW15qUFsNyTeBu4kD/xpmeD1QLnAPzzXtpJnIZ0SVi9O0e+Ibn2nZrudKXDu7FHqc/GGXoatOVKInEJ8WJuwpGqHDm+bKz84icXx/5ePJ6FBt/OtQ1izAxTFnXnnyn4Mm92rcFG/4=;79aePprOUdOUi0WE2g5+/w=="
 ---
 
