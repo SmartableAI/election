@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-25-who-is-adam-kinzinger-conservative-congressman-turned-anti-trump-leader.md",
+      "title": "Who is Adam Kinzinger? Conservative congressman turned anti-Trump leader",
+      "excerpt": "The news on Sunday that House Speaker Nancy Pelosi will appoint Rep. Adam Kinzinger as the second Republican representative on the special House committee investigating the Jan. 6 insurrection at the U.S. Capitol is once again putting the Illinois congressman in the national spotlight.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3ekYR9QqI/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3ekYR9QqI/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader.amp",
+      "publishedDateTime": "2021-07-25T12:03:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-mark-warner-inflation-today-is-result-of-35-trillion-in-covid-spending-in-2020-under-trump.md",
       "title": "Mark Warner: Inflation Today Is Result Of $3.5 Trillion In COVID Spending In 2020 Under Trump",
       "excerpt": "Democratic Sen. Mark Warner told \"FOX News Sunday\" that the expanding \"human infrastructure\" bill will not contribute as much to inflation as did $5 Trillion in COVID spending since last year, \"$3.5 trillion of that under President Trump.",
@@ -1112,7 +1168,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1592,62 +1648,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-karoline-leavitt-former-trump-stefanik-spokeswoman-running-for-congress-in-new-hampshire.md",
-      "title": "Karoline Leavitt, former Trump, Stefanik spokeswoman, running for Congress in New Hampshire",
-      "excerpt": "Karoline Leavitt, the 23-year-old former assistant press secretary for former President Trump, is running for Congress in the First Congressional District of New Hampshire.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNFrBO0m91s/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNFrBO0m91s/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire.amp",
-      "publishedDateTime": "2021-07-20T04:58:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

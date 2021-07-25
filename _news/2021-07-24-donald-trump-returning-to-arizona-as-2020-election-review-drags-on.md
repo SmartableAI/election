@@ -3,18 +3,18 @@ category: news
 title: "Donald Trump returning to Arizona as 2020 election review drags on"
 excerpt: "Donald Trump is expected to hold his first post-presidency rally in Phoenix at an event ostensibly about GOP fortunes in 2022."
 publishedDateTime: 2021-07-23T20:12:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/07/23/donald-trump-arizona-turning-point-usa-gop-2020-election-audit/8062287002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/07/23/donald-trump-arizona-turning-point-usa-gop-2020-election-audit/8062287002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/8062287002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8062287002"
+originalUrl: "https://www.statesman.com/story/news/politics/arizona/2021/07/23/donald-trump-arizona-turning-point-usa-gop-2020-election-audit/8062287002/"
+webUrl: "https://www.statesman.com/story/news/politics/arizona/2021/07/23/donald-trump-arizona-turning-point-usa-gop-2020-election-audit/8062287002/"
+ampWebUrl: "https://amp.statesman.com/amp/8062287002"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8062287002"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -74,6 +74,6 @@ related:
         height: 683
         isCached: true
 
-secured: "1K6jWAy+MVbhEO+mrRibJmEP3vqM2bNk0HzyZLzbhfbbMGAqjLOG8PHjn2ackYBCvu/+ZLlvr9H7e6A9WKcrPTmPkgzAEvNdsQ0Mc/m3S+o5JuIKU9ZC01NpTkXu0R/HVujYUiA5tazhqUeiD7n0xkfHuBRpvXFm2WX9amXg5ayGZYGcVDjaFZDT0HKGy3pzGEbnnuRXwAp+7yIaVZ/BwqCO5l+DVI4mU5doDPsY4IE4Ud7o3CxZEyv4ckMeG/w6hoYKiztVFRUnUpyQ/a48gLEPYov4ILpqCk5m5p6udQbHSlBmJW34F9d2L9vGCugBU6EDqqLqcKSdy1ToLNk5BpXmp70KcGHHbLUJDhxj6IWZcQhRxc8M/7Cl8RgaMGiDMsstJVdT+Kzv2dFwwH7v0YJBZOx8BcWjeUfnMapRfHPSfFsaiips8867NFwG4bG43/oyn3Qz53F+khbp0meDLBkBT18fsLvNfhOrPj+1S5sO8kFw0u9Z4GzuQbyB2AOZLGOplw1cnFneASCWv2uRqw==;6odGb6qzbtKvaC5H6Ow1Gw=="
+secured: "Fj2m1pyAmzqoVrCi9fEg1/1TD9lgI4sbHn8COhqvKlkEZso8MT18X0CFzXqCie/QrRHw8IviwmhoGi9yExSGNItAhh54cSK25gnMbbSxq0Wu/F43dBwAE4zC9F4pbujmYi0Tf6K8I0TnsBppMdmuxsa0SS4uhHul3DFRIA15okor3LQLlswcAyevbasxwZMHiKfXalT1Qo30DPxqtyr+Zv/FPJPl3AN3oWiRO3p+sIhjiTCKm3BhztJKpRBc/jtCOYLVXxtbxhQRAKKHkvMamZ9R8NiL4tW1ZtVWy/SF8Dpwr6Mjk4WhjiUJyQmwiuh3YxJhT/KpqlhhA43yI4/ZuV6q1F/4Rpd42ReVn7v7hOo=;Ga0VsDDLPNjzaAyqmSg8qw=="
 ---
 

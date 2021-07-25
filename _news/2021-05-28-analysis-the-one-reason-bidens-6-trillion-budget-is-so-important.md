@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budget/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Joe Biden's approval rating simply hasn't moved in six months "
+    excerpt: "President Joe Biden's presidency is now six months old. You'd be forgiven if you didn't realize how long Biden has been in office because Biden doesn't generate anywhere near the same news interest (see Google searches) as his predecessor, former President Donald Trump, did.\n    \n"
+    publishedDateTime: 2021-07-25T18:01:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L5RxneTBeDc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/biden-approval-rating-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/biden-approval-rating-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721223125-biden-covid-vacunas-foro-cnn-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

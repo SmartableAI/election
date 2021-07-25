@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Joe Biden's approval rating simply hasn't moved in six months "
+    excerpt: "President Joe Biden's presidency is now six months old. You'd be forgiven if you didn't realize how long Biden has been in office because Biden doesn't generate anywhere near the same news interest (see Google searches) as his predecessor, former President Donald Trump, did.\n    \n"
+    publishedDateTime: 2021-07-25T18:01:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L5RxneTBeDc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/biden-approval-rating-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/biden-approval-rating-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721223125-biden-covid-vacunas-foro-cnn-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Most blue states will make Biden's July 4 vaccine goal. The red ones won't."
     excerpt: "The United States looks increasingly unlikely to reach President Joe Biden's July 4 vaccine goal. We need at least 70% of all adults to have one dose of the Covid-19 vaccine, and we're on pace to have somewhere between 67% and 68%.\n    \n"
     publishedDateTime: 2021-06-12T13:01:23Z

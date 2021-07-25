@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstat
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6014770-4aa7-49ad-9479-12453c56a5cf_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AP FACT CHECK: Biden inflates jobs impact from his policies"
+    excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office"
+    publishedDateTime: 2021-07-22T01:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-inflates-jobs-impact-from-his-policies/2021/07/21/d734cf4e-ea8a-11eb-a2ba-3be31d349258_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MV7L4LXKREI6XIV2HPRR2NESLA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Joe Biden: time for corporations and richest Americans to 'start paying their fair share' – video"
     excerpt: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes"

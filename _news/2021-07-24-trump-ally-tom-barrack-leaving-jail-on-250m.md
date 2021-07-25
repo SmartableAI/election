@@ -45,52 +45,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump ally Barrack allowed to remain free ahead of lobbying trial"
-    excerpt: "A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's billionaire ally Thomas Barrack to be released from custody while he awaits trial on charges of illegal lobbying on behalf of the United Arab Emirates."
-    publishedDateTime: 2021-07-23T22:06:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-barrack/update-3-trump-ally-barrack-allowed-to-remain-free-ahead-of-lobbying-trial-idUSL1N2OZ1JV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET20A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET20A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569801814&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M18F"
-        width: 905
-        height: 545
-        isCached: true
-  - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
-    excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
-    publishedDateTime: 2021-07-24T17:31:00Z
-    webUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791"
-    ampWebUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1854322/arizona-audit.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump ally Barrack to be freed on bond ahead of trial"
-    excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
-    publishedDateTime: 2021-07-23T21:50:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-ally-barrack-to-be-freed-on-bond-a-idOVEN2H78F?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Jim Jordan said the congressional panel examining Jan. 6 is an attack on Trump. Now he may join the committee."
     excerpt: "Rep. Jim Jordan of Ohio is one of five House Republicans selected by Minority Leader Kevin McCarthy to serve on a committee to investigate the Capitol riot."
     publishedDateTime: 2021-07-20T13:31:00Z
@@ -152,22 +106,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Donald Trump returns to Arizona, attacks Doug Ducey and praises GOP state senators"
-    excerpt: "Former President Donald Trump praised his Arizona GOP allies, attacked Republicans he sees as enemies and continued to falsely claim election fraud."
-    publishedDateTime: 2021-07-25T00:22:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump Meets With McCarthy To Discuss GOP Leaders for Jan. 6 Commission"
     excerpt: "House Minority leader Kevin McCarthy met with former President Donald Trump on Thursday to discuss potential Republican appointees to join a special congressional committee tasked with investigating the deadly Jan."
