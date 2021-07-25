@@ -1,49 +1,49 @@
 ---
 category: news
-title: "Trump ally arrested on foreign lobbying charges"
-excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
-publishedDateTime: 2021-07-20T22:21:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
-webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
+title: "Donald Trump Rips Mike Pence for Not Having 'Courage' on 1/6 to Reject Election Results"
+excerpt: "\"I only wish that my friend, Mike Pence, had that additional courage to send the results back to the legislatures,\" Trump said."
+publishedDateTime: 2021-07-25T09:06:00Z
+originalUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836"
+webUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836"
+ampWebUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
 type: article
-quality: 105
-heat: -1
-published: false
+quality: 147
+heat: 207
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Mike Pence
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
-    width: 960
-    height: 540
+  - url: "https://d.newsweek.com/en/full/1854447/donald-trump-speaks-phoenix.jpg"
+    width: 2500
+    height: 1665
     isCached: true
 
 related:
-  - title: "Donald Trump Rips Mike Pence for Not Having 'Courage' on 1/6 to Reject Election Results"
-    excerpt: "\"I only wish that my friend, Mike Pence, had that additional courage to send the results back to the legislatures,\" Trump said."
-    publishedDateTime: 2021-07-25T09:06:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
+  - title: "Trump ally arrested on foreign lobbying charges"
+    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
+    publishedDateTime: 2021-07-20T22:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 147
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://d.newsweek.com/en/full/1854447/donald-trump-speaks-phoenix.jpg"
-        width: 2500
-        height: 1665
+      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Donald Trump returning to Arizona as 2020 election review drags on"
     excerpt: "Donald Trump is expected to hold his first post-presidency rally in Phoenix at an event ostensibly about GOP fortunes in 2022."
@@ -78,6 +78,6 @@ related:
         height: 683
         isCached: true
 
-secured: "MO40oMIJHdk4P82gxN+HpptbScsbrGyPpcMj+qebNv9e9I4Tb5FO6Xp/7anYNcj9OjMakGvrgifRHGdKQUi3DaFFCU8qIg+BxflvtvSbDz1I3IJwSt2Pvx6EozPlSlpUNZd2cbcUUKYYr/izgSH5sz+a1IX2ccEe4ZCQL2efplI6p6iQTAgZJIfgBttluQrm+5FNukUaOQ94MzXiNKlDOAbfYUIWgAfPrretFjKx81AvBnswX+K5hJ+d/q0lFj+k02tNqJVDXBYQOPleRuhwCfMNdTa7rlbN2S8nanYpOeKU/KipTzUi6/mKSYqgSVSTMVL9XOn6BlBSJ0niHZRWWVraP/BeRZJYY2ZR97H1zZE=;Kne3/iy/YlbY9/7uZCsXEg=="
+secured: "QzkyETbANBheIytQumRpQlFVU/OGEZq2n8w2fk7ncd9vTDndR6e+n6nLxkfDVm6QT4SNJwzfQkveZNGw5QRUd0jhFzQTDs23cSLeCwbzuNZcciHCn/fJgDXKT4IyXfGOVjf7WEDHbD9M55Ie9qndVeqXbQFeQOdkOJI8i8f/EspajEZOfW7i7x12WDE5XfSgo6Y53cEY5BND7mjlq/9BsJ38JBq5w0SDKiVLBdo6549CZLAI1RhwIfyHgyw3Rtpcu6TCHm2reTWrAw+v4enOG8RSJS/W72c6U7CvBI2VkjynC6/pTY8wSOPjhVhIlXWQfN9yFRfGjX25iiovQBpgxlJjrHrkRbVIAnB5n0/fLMM=;x671EwaFCBBI1MoJMX1XDA=="
 ---
 

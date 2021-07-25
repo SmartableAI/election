@@ -2,19 +2,19 @@
 category: news
 title: "Democrats back Biden US lands pick assailed by Republicans"
 excerpt: "A U.S. Senate panel has deadlocked on President Joe Biden’s pick to oversee vast government-owned lands in the West amid bitter opposition from Republicans."
-publishedDateTime: 2021-07-25T07:53:00Z
-originalUrl: "https://www.ledger-enquirer.com/news/business/article252947168.html"
-webUrl: "https://www.ledger-enquirer.com/news/business/article252947168.html"
-ampWebUrl: "https://amp.ledger-enquirer.com/news/business/article252947168.html"
-cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/business/article252947168.html"
+publishedDateTime: 2021-07-25T09:56:00Z
+originalUrl: "https://www.newsobserver.com/news/business/article252947168.html"
+webUrl: "https://www.newsobserver.com/news/business/article252947168.html"
+ampWebUrl: "https://amp.newsobserver.com/news/business/article252947168.html"
+cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article252947168.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Ledger-Enquirer
-  domain: ledger-enquirer.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - Election
@@ -68,6 +68,6 @@ related:
         height: 540
         isCached: true
 
-secured: "QRcxcUdnc64jIdP4arZX4Iynuumym0oamvb+eaYMFIVVWfL3Xr+84oIGdrbpukMoOgHtviWB1UyGmOjGTcwPWX0EMtAFtYs4YN8D3U6Etw3keLhjNxCdxscEuHqZCeOFShII+nd/pyXLsDUJIz8aJ/9tSR0DcuraJ2EhnMlYINVcHG9JcvToRnc2ByQE08X66GAj3tpK7taarr+FrBaeuWJNOI5sdjUvguR46+6gf4PkLTGSKT9TXj90RYOpJpJAvItzeWTNdhQrnjrfnMpA7+6dIGrrPDFI2IagvIMiNdUU9Y266wFCnRjy761AacxkVX1Ycb8EEn/mKzOE8Tuyk8QfHT1tz9yrcgHFLLn6pDbUm2CZvTRi3nA0wS7XFUpJBNCxzl1V29LjdGgGZ+Kz+RW9EXZ+uyQv/7gw+pnUETZ+kE8ccQ0td60kIAUzkl0jdm/0zQQjcv4ZJCGQg4D20Gsc/8db61hFreJUGhJBsvF6HZWeth7QNtIxjLkY1CeJ2fSlpmrRX28WhKvbe9ETYA==;IUyNoZQ7rtHA3m6haKhOKA=="
+secured: "+Ga5i22Rf6gCcvp3gwIdpBRTp1BkgitFZUSzTgugyhrACkbUiVjcuY75oyfRkk1zTPT+N7OW0wo6mg7WxTy/Bm0YCSIO1LoKfDFNmO0FmfIwQQvIs2Ei5hhHNPM0w0d8CAgC+bMz1nWkQ44DMI4LKkz1puUWOmD3Jh1YzLx41muP97h/ZT9Mqey3WFDyTzvM23yfjCKhuImEyqMXIlJgnAkZHbE5PPGcARElzZWlHDChqUkFwVQrE7lwU0E5E3Nu8LKPj8yziJExmt6brJqXziHyYECLDaBCO8Th+liXowZj6eySpXGtWUWkJrJs6c0O49E4jNP1aqpBj/IwRBXtxEeepYUd2YZs8m2Z4NhymAcKCQPDalANKPxIutYrcEHDpK1DEhX7u5VOfBBt33xcZuaoCYqKwAwA5A90E4rPDH+bzH8ftqULNp8QfEHROC28vHauWlywusqg9hMmS1EKbTpfsRUJjkSzExgALsJFfSLAGn3tkz7M2R3We3fdmFA2/6Rbuoz5BFm1CjHFoqiiEw==;ANu+fuAsUax/vhOBletMXQ=="
 ---
 

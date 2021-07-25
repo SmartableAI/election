@@ -63,14 +63,14 @@ related:
         isCached: true
   - title: "Democrats back Biden US lands pick assailed by Republicans"
     excerpt: "A U.S. Senate panel has deadlocked on President Joe Biden’s pick to oversee vast government-owned lands in the West amid bitter opposition from Republicans."
-    publishedDateTime: 2021-07-25T07:53:00Z
-    webUrl: "https://www.ledger-enquirer.com/news/business/article252947168.html"
-    ampWebUrl: "https://amp.ledger-enquirer.com/news/business/article252947168.html"
-    cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/business/article252947168.html"
+    publishedDateTime: 2021-07-25T09:56:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article252947168.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article252947168.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article252947168.html"
     type: article
     provider:
-      name: Ledger-Enquirer
-      domain: ledger-enquirer.com
+      name: Raleigh News & Observer
+      domain: newsobserver.com
     quality: 55
 
 secured: "BysOl0whRO+hsNhVM5VjGAzmkrglZp97VY3EZ8J8PYCdhRtt4v9x3Z251XUmu4kpNcsGhgKHzMFLS7aigFI//XNJ4RJ7HmgBgILGUhdipGmnLCCyuLKCgFjWkhBsbwiFaxNa7IsCruGXIA1vhMbYz7RAnHdkZgoWMjzsTq4UWzEmsK4ka3KcshCdhD5fGxBJNWMxCYx86KwYo5PK0Ul5ex1/HwnOkfPJ7ESILOFQVuezaxrbVhhO+xdaOv1V3EM9WBeVJBhqyhoZLI6fVcU/EINlOU4mSKU1DQefvddb/N4AJHiZH4ZJb0b2K9rQSzwN0T+Nvif09eOK2fgR17OL3tb1tFXMU5DqgRXfn9qBG9jluXW9x1R+PFHswb2Z3yYBpMjhRetKuoBPymZeF0bGzXA9/He/jCtSjdkUWOqsTEFH9o0IfiQUgGiN4/6/dVcz5a3Mj3AZoNxUVAoNdZ33KrbUGjqq+W+bAMKKJseLod6glmgp+4F6LHjhAlhegMts5PYmB8yGJDkrRvgutUQKXw==;Swnf8ezbFOxG01791U0Sqg=="

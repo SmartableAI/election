@@ -25,10 +25,10 @@ topics:
 related:
   - title: "AP FACT CHECK: Trump is relentless in election fabrications"
     excerpt: "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden"
-    publishedDateTime: 2021-07-25T04:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
+    publishedDateTime: 2021-07-25T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79038801"
     type: article
     provider:
       name: ABC
@@ -228,20 +228,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5D4QYJXJIYI6XIV2HPRR2NESLA.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump ally arrested on foreign lobbying charges"
-    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
-    publishedDateTime: 2021-07-20T22:21:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "AP FACT CHECK: Biden inflates jobs impact from his policies"
     excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office"

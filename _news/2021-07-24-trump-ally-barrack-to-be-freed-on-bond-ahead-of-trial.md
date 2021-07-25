@@ -3,8 +3,8 @@ category: news
 title: "Trump ally Barrack to be freed on bond ahead of trial"
 excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
 publishedDateTime: 2021-07-23T21:50:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
-webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
+originalUrl: "https://www.reuters.com/video/watch/trump-ally-barrack-to-be-freed-on-bond-a-idOVEN2H78F?chan=6g5ka85"
+webUrl: "https://www.reuters.com/video/watch/trump-ally-barrack-to-be-freed-on-bond-a-idOVEN2H78F?chan=6g5ka85"
 type: article
 quality: 105
 heat: -1
@@ -163,6 +163,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "w92bnteEohxQ91j5CLlU47+afL8dEvrlhc4FkNyTi1uq7CQQlXmIxmBnUpWp21mcHTlvYZQhVL5kuciWAmIoU5LpY9fLxHSEGo53QjDxpnyz07RXvVqKwwri3wBA1x9qNmy0pBNvjXpnbrl2E6C5UNwBz13RXdessUzPuw1HEQx1486wuFf1SYwIc7Z8F4qpsAp84R6e7SKjZHXGocZ6F7+7sy7yRCXKxLGmEG6JKP2zveLQu1iNLuC+IIINi2Mr0m+JKkW2TBYZS6Gt3Lz66So5cKeeTu7OmO2p+QMmeyLgSJTTkNBOkCrFLyio5JsrkWAMyPRr8baIM97aNuRu7CSd75m13xk0dCRgTForrRO/yvHXLRNQ/P7swASSNY5ir4nCiF5O/IVARZWt8AoNs0Z9apL8Vp8S0hBZuER1pdZeNRHC3bpBfsQ3Yt/fhDclBGY2kdfZ578nrsToYijWndh9QMMNTEyZb5NEKvL7hKXZ6fg9PyEgdwaL5gQNtIXdNOPtFpocefM5UurOMg8cgQ==;wHMLpjFGcxh9TwaN+seBHw=="
+secured: "HXizYLYf3MJ9bOnyhtMK3OFhOElCEXBbAeDYgB72G8fZOACIdlDCLftMXbhY3Cgy5UMpZ/9JOWdZOzEd++5uV1C6JhPKO88u2QGCid6NFxxZuV+AJSNfsTY7clUZideBJVq+4DS8P9KALuLB//XPIvZHpw1qDuoGx/V4YRbXy8tg7HR4Pu4GZDZriQ9A6YIKSkiZcEqgf+PLe1cR31DiN7nYvOQWL657CWGY1d/m8bi+RzYIGOJjfHN/63zo4I4DGQgix8kitX1Q9eA1BGUTeZhGTlrznXaHpxSACt3C8dwBmtThmtaJlpccRBdSDhOP0GnE18HAq+OdLFTwxP4jycvzi+GgP03DoM+vVG247ww=;irxZK9L6HYu3ilmfA0HVfg=="
 ---
 

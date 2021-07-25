@@ -122,7 +122,7 @@ related:
   - title: "Trump ally Barrack to be freed on bond ahead of trial"
     excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
     publishedDateTime: 2021-07-23T21:50:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEN2H78F"
+    webUrl: "https://www.reuters.com/video/watch/trump-ally-barrack-to-be-freed-on-bond-a-idOVEN2H78F?chan=6g5ka85"
     type: article
     provider:
       name: Reuters

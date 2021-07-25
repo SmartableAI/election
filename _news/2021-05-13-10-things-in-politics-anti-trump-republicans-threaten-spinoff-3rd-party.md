@@ -561,38 +561,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump returning to Arizona as 2020 election review drags on"
-    excerpt: "Donald Trump is expected to hold his first post-presidency rally in Phoenix at an event ostensibly about GOP fortunes in 2022."
-    publishedDateTime: 2021-07-23T20:12:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/07/23/donald-trump-arizona-turning-point-usa-gop-2020-election-audit/8062287002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/8062287002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8062287002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 90
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/11844b46-833f-4260-9a70-254cffb0f236-cent02-7ctxpjqlqly1h9t6zhle_original.jpg?auto=webp&crop=3476,1956,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump spreads more election lies at Arizona rally"
-    excerpt: "He spoke of untold thousands of dead people voting — no such phenomenon surfaced in postelection audits. He alleged 168,000 Arizona ballots were fraudulent — there is no support for that."
-    publishedDateTime: 2021-07-25T03:16:00Z
-    webUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html"
-    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TW4LUNON7RG4DBGBX26AKV5AUI.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "White House Won't 'Underestimate' Trump's Chances Of Winning 2024 Election"
     excerpt: "President Joe Biden in March said he plans to run for re-election in 2024 with Vice President Kamala Harris as his running mate."
     publishedDateTime: 2021-05-10T05:09:00Z
