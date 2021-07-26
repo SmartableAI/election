@@ -61,22 +61,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Pelosi appoints 2nd GOP critic of Trump to Jan. 6 committee"
-    excerpt: "House Speaker Nancy Pelosi has named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a special committee investigating the Capitol riot"
-    publishedDateTime: 2021-07-25T18:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_54355c86dfa44e29b7d434fbb6110d3a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump ally Tom Barrack leaving jail on $250M ..."
     excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-23T22:43:00Z
@@ -143,6 +127,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
     ampWebUrl: "https://www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Pelosi appoints 2nd GOP critic of Trump to Jan. 6 committee"
+    excerpt: "House Speaker Nancy Pelosi on Sunday named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a speci Capitol riot and pledged that the Democratic-majority panel will “get to the truth."
+    publishedDateTime: 2021-07-25T17:25:00Z
+    webUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
     type: article
     provider:
       name: Houston Chronicle

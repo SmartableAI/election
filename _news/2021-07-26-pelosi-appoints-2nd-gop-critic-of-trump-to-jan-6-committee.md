@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Pelosi appoints 2nd GOP critic of Trump to Jan. 6 committee"
-excerpt: "House Speaker Nancy Pelosi has named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a special committee investigating the Capitol riot"
-publishedDateTime: 2021-07-25T18:04:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
-webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
+excerpt: "House Speaker Nancy Pelosi on Sunday named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a speci Capitol riot and pledged that the Democratic-majority panel will “get to the truth."
+publishedDateTime: 2021-07-25T17:25:00Z
+originalUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+webUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+ampWebUrl: "https://www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_54355c86dfa44e29b7d434fbb6110d3a_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -177,6 +173,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "yQuAtt/COL8kQBgTO29REnpaMnxQKLCRYqUa8pvQ/Rixiy8pXic4CaKLY/tCKEsfjkqY2FD0GbovNrLwcapFACrJqB68K1apZO6qLyNIns31NWG83bxG7m+ArDLTwipO0CNKRB6ZhPI6wzaRzj5Pl5BYbWimcHBfo+nF8w/IrhTBoG39PKP/qyj6vHGT7ftGGKoHwwH1zKEJ7QovvEyR0l7s8rTetBQ9ZkjyJgfqykzGjQY/SGgzL79/KGzH6BnBlTJWF1FAoobEwVObzpIzWDaR7//XyOn4ZCh9eRKN1hKjgzkGcUhZxfIe/1oYpr9fTko8TlWp6iRRabEgm9uexZnN0ySAiLwQs9cPN3C/1Vuyu9PduZq2zFHCkf0VdANipB55Zp4LaXF0ISm4ZqK3Vqwlef9q5Qt1CQSBV2UESRS0AzspKMlfccoA+F+/AfLx5aixMzRql0vp7Jrez6/bMgZK3Msu+ooIuU4rHMmuS79GngzMDOI/CuB4X8+WxVgDdWkobKCPN5tpb8UUIxZ+7w==;7zg5+6hfnfCEO1hW33VDZQ=="
+secured: "CFBgMtKzoHR25K0Rh29Q8hiAw1bbVB5WWeeVa45MwFdLcpcjMRZUTRrkEjz+H1AYnw58DQ1YS3vllg5Tp3vTqe41BhG8nZE2T2P9KbKK0t8sGCoTtzDv3d5A8c9YFQjP52xZiChiTojzPNJOHT15Yf+9byKM+n6wmKwLWW1idnu9axaL17OX1dJX3JZuekbLLTBrEFZLOav3/leXHXHfFbiUkKj0Ll1uMcMoGyukfG2TZhwCMSYX2BODufnLAn/BgU4yaiOObKCkkLhkbV7ZMrd6fulxQPxWXbm3WbQJLnhac2hJY+JXokMlmTsgcspyhi2fuK9XdSM9zSCaMYfvWd5hzyKDgRdGP/V396YAoxk=;eS3VmAnf/WgqfmlZbfgORw=="
 ---
 

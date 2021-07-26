@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
 excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
 publishedDateTime: 2021-07-22T18:06:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/082e1781249502ed0d00e9b582d9ff2b/USA-HARRIS-DACA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4a5dfef316966dadca5017f97c4c75a6/USA-HARRIS-DACA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -282,6 +282,6 @@ related:
         height: 630
         isCached: true
 
-secured: "G8hM1kzVktAlSL4EL2KgWfoN4kvtN2m16h35VynCmMzZ9veTVqwqSXop6NmL5YEB4Wvovl4oFiWRrBbjyD6hB+FbOUzYhRUIalwtyeryw6x24Lf/DkK8RkPzZONjbaP2YqrlWK6uHS37YWcVX/FrS84tbg5ol/hCFFBONLRHfPVYrQVp7akAPHkCYFT2gxt+C3IKsJAvuCUC2Q3/X9tMXlcSvOK/gAaQFD4n5CDoB5Ad/1vN/bWgnP9OLBG6vQyjm3d9jP3tc3ewjK0I2/p321AehSDD7+D+XElQHtqjSqrLW46VzKB7nEBu+3/A8PUSpEldGcuWhCBl2Aczg0MZ+UG7CkoXPAXh3KH1dBrOQL0=;c96O6OBltW/RujtkRVMNNg=="
+secured: "9fiXByb4NgOsLbnVneBQaBJxD4GwvrQxCA9vbZHUO4Y9WWKMuj+eu8A5N2V+wxQxk22hhbe9+pQ34D9pa/p9cPJUfD3qJLz4WQjutm4uI6H0EwuNzDcx9SQEGtYt9ITNgK9X1zb/Q+PqgRSZH1SrRiZSoBD9BF1z50P3t7u2+Z/kEQU31zFrBBZiPDMx/Sj1uuOndRr3yfXPeYq8cXj7tCOMoTw163+EU7JJGtzgB8wSiXoPosto+IivehhgzHfKEAyn2SmuAz0aRMqAOCrpdi9U7UWqC40JJHcxsECMtloKrT8AGp0ZgJ5eZJ4wwiYRc11x4WWApnBp7QXEpcE544G4/fGUjgm6W7f59Xqm3VY=;IuMOyATWWD2PhEHqquv/aQ=="
 ---
 

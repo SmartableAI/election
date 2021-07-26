@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-i
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
 type: article
 quality: 118
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump Jr. Vastly More Popular With Republicans Than Mitch McConnell, Poll Shows"
+    excerpt: "Donald Trump Jr., who has been a vocal force in the Republican party, was also significantly more popular than House Minority Leader Kevin McCarthy."
+    publishedDateTime: 2021-07-26T15:52:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1855069/donald-trump-jr-poll-mitch-mcconnell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Minority leader McCarthy meets with Trump"
     excerpt: "Watch \"Minority leader McCarthy meets with former President Trump ahead of Capitol riot hearing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-15T23:35:00Z

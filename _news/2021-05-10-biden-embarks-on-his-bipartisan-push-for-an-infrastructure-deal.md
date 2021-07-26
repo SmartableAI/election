@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 1095
+heat: 1115
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601163222-03-biden-tulsa-speech-0601-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's infrastructure deal on shaky ground as blame game begins"
+    excerpt: "The much-deliberated bipartisan infrastructure bill is entering a critical week on Capitol Hill with lawmakers projecting optimism ahead of a possible procedural vote this week, potentially on Monday.\n    \n"
+    publishedDateTime: 2021-07-26T15:39:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iTuAcQELSew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/infrastructure-congress-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/infrastructure-congress-week-ahead/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722083010-u-s-capitol-building-0704-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

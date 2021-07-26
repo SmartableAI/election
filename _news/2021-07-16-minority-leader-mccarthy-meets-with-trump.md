@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Donald Trump Jr. Vastly More Popular With Republicans Than Mitch McConnell, Poll Shows"
+    excerpt: "Donald Trump Jr., who has been a vocal force in the Republican party, was also significantly more popular than House Minority Leader Kevin McCarthy."
+    publishedDateTime: 2021-07-26T15:52:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1855069/donald-trump-jr-poll-mitch-mcconnell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "A scandal-scarred Senate candidate wants Donald Trump’s endorsement. Other Republicans worry he’ll give it."
     excerpt: "Former Missouri governor Eric Greitens, forced from office in 2018, has hired several Trump associates for his campaign and has falsely suggested Trump could replace Biden before the next presidential election."
     publishedDateTime: 2021-07-23T09:04:00Z

@@ -63,6 +63,22 @@ related:
         width: 905
         height: 545
         isCached: true
+  - title: "Trump Escalates Voter Fraud Claims After Arizona SOS Urges Him to 'Accept' Loss"
+    excerpt: "The former president opened his speech at a rally in Phoenix by claiming there's \"no way Democrats win elections without cheating.\""
+    publishedDateTime: 2021-07-25T01:07:00Z
+    webUrl: "https://www.newsweek.com/trump-escalates-voter-fraud-claims-after-arizona-sos-urges-him-accept-loss-1612829"
+    ampWebUrl: "https://www.newsweek.com/trump-escalates-voter-fraud-claims-after-arizona-sos-urges-him-accept-loss-1612829?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-escalates-voter-fraud-claims-after-arizona-sos-urges-him-accept-loss-1612829?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1854356/trump-election-fraud-2020-democrats-phoenix-arizona.jpg"
+        width: 3373
+        height: 2192
+        isCached: true
   - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
     excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
     publishedDateTime: 2021-07-24T17:31:00Z

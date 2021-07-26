@@ -37,6 +37,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "8 US attorney picks by Biden would include historic firsts"
+    excerpt: "President Joe Biden is nominating eight new leaders for U.S. attorney positions, including in the office overseeing the prosecutions of defendants in the Capitol insurrection"
+    publishedDateTime: 2021-07-26T14:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-attorney-picks-biden-include-historic-firsts-79063674"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-attorney-picks-biden-include-historic-firsts-79063674"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-attorney-picks-biden-include-historic-firsts-79063674"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d69a3917f55c4aca9968fd54bf57e968_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Meat and tractors: Biden administration pushes farm-friendly regulations"
     excerpt: "California growers and ranchers counted two big wins this summer that came in the form of an executive order signed by President Joe Biden. In June, Biden signed an executive order calling on the U.S. Department of Agriculture to consider issuing new ..."
     publishedDateTime: 2021-07-21T16:00:00Z
