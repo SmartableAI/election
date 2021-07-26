@@ -39,6 +39,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Pelosi names GOP Trump critic Adam Kinzinger to insurrection investigation committee"
+    excerpt: "Kinzinger, an Illinois Republican, will bring “great patriotism to the committee’s mission: to find the facts and protect our Democracy,” she said in a statement."
+    publishedDateTime: 2021-07-25T18:59:00Z
+    webUrl: "https://www.al.com/news/2021/07/pelosi-names-gop-trump-critic-adam-kinzinger-to-insurrection-investigation-committee.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/pelosi-names-gop-trump-critic-adam-kinzinger-to-insurrection-investigation-committee.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/pelosi-names-gop-trump-critic-adam-kinzinger-to-insurrection-investigation-committee.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RT7YQRNUENFF3OZOG5LMGWXNRI.jpg"
+        width: 4000
+        height: 2689
+        isCached: true
 
 secured: "EFeA5r/6byfBjqRkXc10dXRfqZAw1sqXKyiouh6F+eWtyhZLJ8xKNnPPJxyZMmwcBbCHeMZf2mQmkBuRDZ7RgD6YFW/AdYC9YgsnrmMBsYw+bA5xFJtwoCg+qYbdAU53ODg2d5T4HZ+0MuOPhsGO2x660ca5kVsLE09kQapkyNgVytFzUPt+3dlByCuJaKqN7Cvt2FxIZjMaKo6k0M3QlRWgBpiAlZexkwosfG+8SJDYqS+vdoLjcaZPUmZzYehDf/pi7KC56nB48g842c2VD0XpkD1jN+8GtVPlBuNmkEg/gDXQh0BQisBNJtyGU/eoCgRcxtvq6mbiBZtCnoh80bv0VsD5qlefE78x3NmfR4c=;5+kDKbOkMNqLWqHiv6RwbA=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
+    excerpt: "While many people just hear levity in her laugh, those on the right react with heckles and attacks, a difference that says as much about the divisive state of politics as any debate."
+    publishedDateTime: 2021-07-26T00:00:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/07/26/more-than-laugh-kamala-harris-sound-check-divided-country/8083137002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 34
 
 secured: "gJ7JeSZ2vbWQestuHfplDXZZ8GL/xqmkyibTpeq1QggOzmLAw5GpoBjc/CYwLf1PhM/j/RRUlJdZAIcsQMZkxqupwNXkLyd62DSBtfsMnOjYC16++i22PdwnSbSHQSkk8iraCHiuVrWTWcOy/fFkfJ5zoVwSa5/ke8cFUZkof4Y3FaOP5p2SKZFmXHlULJXojqdRJGa9jL07pPQDgWVt/wyLwLXMjx7fr6FokSUEyTPcSTJyNpC/hyVKXj8/nRHJXO78d/mjr0W2OAEj3LYSsReeIrw3Rz+/CNZ+Vh0RSsMWXA+Nyz4idKX95EldfztZrdFboj3q5mla3tY+r0/uLdAOb5jxBKmzvCO7zVn3YSQCtgbi21WfNKcTa6IqpJODh63JzZL3dvSIAHTU+fQY5PWmV29WebbUtAdR57QxO618FEev75Iw0zDcH9aNx0yoZ1bQIH/rPlUUz7iHtTdBeL2JmiMP7A2yf1HbqBtpCFBOc1a7E2tQ1tgEMlx6+5zQSp/DKicnJdNEKIqn/BMf2A==;YPSb/6vYD9UBT8RPUXAySA=="
 ---

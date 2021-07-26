@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1"
 type: article
 quality: 138
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pelosi names GOP Trump critic Adam Kinzinger to insurrection investigation committee"
+    excerpt: "Kinzinger, an Illinois Republican, will bring “great patriotism to the committee’s mission: to find the facts and protect our Democracy,” she said in a statement."
+    publishedDateTime: 2021-07-25T18:59:00Z
+    webUrl: "https://www.al.com/news/2021/07/pelosi-names-gop-trump-critic-adam-kinzinger-to-insurrection-investigation-committee.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/pelosi-names-gop-trump-critic-adam-kinzinger-to-insurrection-investigation-committee.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/pelosi-names-gop-trump-critic-adam-kinzinger-to-insurrection-investigation-committee.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RT7YQRNUENFF3OZOG5LMGWXNRI.jpg"
+        width: 4000
+        height: 2689
+        isCached: true
   - title: "Rural County in Nevada Moving to Rename Road After Trump"
     excerpt: "A rural Nevada county which Republican Donald Trump won solidly in the 2020 presidential election is moving to rename a road after the ex-president."
     publishedDateTime: 2021-07-03T18:54:00Z
