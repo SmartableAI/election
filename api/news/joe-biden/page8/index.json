@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-29-president-biden-nominates-texas-sheriff-ed-gonzalez-to-head-ice.md",
+      "title": "President Biden nominates Texas Sheriff Ed Gonzalez to head ICE",
+      "excerpt": "President Joe Biden has announced Sheriff Ed Gonzalez of Harris County, Texas, as his nominee for director of Immigration and Customs Enforcement. He was included on a list of 11 nominations for key national security positions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/27/biden-names-harris-county-sheriff-ed-gonzalez-head-ice/4864492001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/27/biden-names-harris-county-sheriff-ed-gonzalez-head-ice/4864492001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/81d9cce7b7d1a0276ff2f5a1f631b49764f09684/c=0-229-3061-1958/local/-/media/2017/01/31/USATODAY/USATODAY/636214873441033287-USP-NFL-SUPER-BOWL-LI-SECURITY-PRESS-CONFERENCE-88450154.JPG?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4864492001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001",
+      "publishedDateTime": "2021-04-28T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.md",
       "title": "Tulane University invites Hunter Biden as guest speaker for course on 'Media Polarization'",
       "excerpt": "Hunter Biden is set to appear as a guest speaker at Tulane University as part of a 10-week course that is being offered to students in the fall.",
@@ -1534,63 +1586,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-tara-reade-rips-new-york-times-columnists-for-classifying-biden-assault-claim-as-sex-scandal.md",
-      "title": "Tara Reade rips New York Times columnists for classifying Biden assault claim as 'sex scandal'",
-      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, scolded The New York Times Tuesday for putting her claims in the same category as the controversy surrounding Rep.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
-      "originalUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-10.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
-      "publishedDateTime": "2021-04-13T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

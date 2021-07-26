@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Suffolk District Attorney Rachael Rollins nominated by President Joe Biden to become US Attorney"
-    excerpt: "Rollins, if confirmed by the U.S. Senate, would be the first Black woman to serve as U.S. attorney in Massachusetts. Rollins’ nomination was eight announced by the White House on Monday, that would serve in District of Columbia,"
-    publishedDateTime: 2021-07-26T14:30:00Z
-    webUrl: "https://www.masslive.com/boston/2021/07/suffolk-district-attorney-rachael-rollins-nominated-by-president-joe-biden-to-become-us-attorney.html"
-    ampWebUrl: "https://www.masslive.com/boston/2021/07/suffolk-district-attorney-rachael-rollins-nominated-by-president-joe-biden-to-become-us-attorney.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/boston/2021/07/suffolk-district-attorney-rachael-rollins-nominated-by-president-joe-biden-to-become-us-attorney.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 62
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U36SWXYXBRAPLER4GZJNPH4OCE.jpg"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "Visiting the Walt Disney World soon? You may see President Joe Biden’s twin on stage"
     excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
     publishedDateTime: 2021-07-21T10:31:00Z

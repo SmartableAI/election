@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Suffolk District Attorney Rachael Rollins nominated by President Joe Biden to become US Attorney"
-    excerpt: "Rollins, if confirmed by the U.S. Senate, would be the first Black woman to serve as U.S. attorney in Massachusetts. Rollins’ nomination was eight announced by the White House on Monday, that would serve in District of Columbia,"
-    publishedDateTime: 2021-07-26T14:30:00Z
-    webUrl: "https://www.masslive.com/boston/2021/07/suffolk-district-attorney-rachael-rollins-nominated-by-president-joe-biden-to-become-us-attorney.html"
-    ampWebUrl: "https://www.masslive.com/boston/2021/07/suffolk-district-attorney-rachael-rollins-nominated-by-president-joe-biden-to-become-us-attorney.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/boston/2021/07/suffolk-district-attorney-rachael-rollins-nominated-by-president-joe-biden-to-become-us-attorney.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 62
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U36SWXYXBRAPLER4GZJNPH4OCE.jpg"
-        width: 4000
-        height: 2667
-        isCached: true
 
 secured: "3K6gYwhyyzEnHKkX4RZ6pbuZm1RAsBCEfJB09m3CkJgiqtRl/n6Y4dQMVELoJzVcpRjmi3Z+sLBd+p0jp4pd7t1kr8oSPEPeXNLiNW3gzQpHTIPXL8JmWDTGyHlU9X+4LNMkYI88z3TZSxGj/CNiiizw24/H15PqSGbdenHs4U9VfUemO8+17AAs5k9wOjsc9JoRiJZmlgpVUHFYsc2AdMQ5V317oa55hu2ZKsNz/H9mOOf+6ORfFAXN3HeBe0ceJOzLA0F8TkZrjqX41MtRAn3/eHuQSIpfAhXPIBjGhtL0femcG7I9O/zqOy+gS9Lj60hPj8rVKzyJCVlipfn65jhdfIE5+KmUU2pVF1KwLpYQIg0kEh4qU+1oaG2q+C4wx4nkUVcQdb6AwD0wYQh+9TIDc62EdIGxujKjqR/tZk386cCeFK2vI0DK/4hvTxxeScz+pNC7YAKpLXrXNHZRl62FfHvcUZjooGSKwOIxa9m590Zt7Nm0sMpKgx0trtTIQCRXLLRAm6p3Au5I80REwA==;9GibXEUZvcs5uSylsHPMEA=="
 ---

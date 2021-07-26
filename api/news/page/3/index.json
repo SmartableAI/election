@@ -2,6 +2,174 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-hes-no-sell-out-biden-speaks-to-half-empty-room-at-cnn-town-hall.md",
+      "title": "He’s no sell-out: Biden speaks to half-empty room at CNN town hall",
+      "excerpt": "President Biden on Wednesday spoke to a half-empty auditorium while doing a live CNN “town hall” event in Ohio.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y18wAQa0p30/biden-empty-town-hall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y18wAQa0p30/biden-empty-town-hall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ba0b602-c860-4d62-9ab2-a0c1e9f8ba6c/fab6fdab-1d14-4848-a3c2-a201e82dc689/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-empty-town-hall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-empty-town-hall.amp",
+      "publishedDateTime": "2021-07-22T06:13:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-this-is-way-beyond-collaborative-young-leaders-see-their-feedback-reflected-in-bidens-plans.md",
+      "title": "'This is way beyond collaborative': Young leaders see their feedback reflected in Biden's plans",
+      "excerpt": "When Joe Biden campaigned for the presidency, he called himself a bridge to a new generation of leaders in the Democratic Party. While some frustrations remain, young leaders are saying the President Biden's administration is making good progress on Candidate Biden's pledge.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SpDLuA6RRNQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SpDLuA6RRNQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721154356-01-biden-0721-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html",
+      "publishedDateTime": "2021-07-22T05:58:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-trump-and-the-gop-spin-fantasies-to-hide-his-crimes-against-the-constitution.md",
+      "title": "Trump and the GOP spin fantasies to hide his crimes against the Constitution",
+      "excerpt": "It's gone beyond whitewashing history. Ex-President Donald Trump and his House Republican enablers are now spinning fantastical inversions to hide his crimes against the Constitution on January 6.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bp-ashvxzmU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bp-ashvxzmU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721154544-02-mccarthy-presser-0721-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html",
+      "publishedDateTime": "2021-07-22T04:31:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-biden-says-eliminating-filibuster-would-throw-the-entire-congress-into-chaos.md",
       "title": "Biden says eliminating filibuster would \"throw the entire Congress into chaos\"",
       "excerpt": "President Biden essentially rejected the idea of eliminating the filibuster, asserting, that doing so would \"throw the entire Congress into chaos, and nothing would get done.\" He was in Cincinnati at a town hall Wednesday night,",
@@ -498,7 +666,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 181,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1200,148 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-waldman-the-sad-dilemma-of-mike-pence.md",
-      "title": "Waldman: The sad dilemma of Mike Pence",
-      "excerpt": "Mike Pence probably believes it would be crazy for Republicans to nominate anyone other than him for president in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/waldman-the-sad-dilemma-of-mike-pence/article_ed9fcd30-ea38-11eb-b753-f74b213e0939.html",
-      "originalUrl": "https://www.news-journal.com/waldman-the-sad-dilemma-of-mike-pence/article_ed9fcd30-ea38-11eb-b753-f74b213e0939.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/6/14/6147eb80-f1ee-11ea-b25d-5b317f2cacac/5f57adf7c7261.image.jpg?resize=630%2C630",
-          "width": 630,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.md",
-      "title": "Biden marks 6 months in office on Instagram, gets shredded in comments",
-      "excerpt": "Within Biden's first six months, consumer prices rose 5.4% in June from the previous year, and gas prices are now averaging 98 cents higher than this time last year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff65d410-0f23-4584-912e-960c5257a31c/99d3cbaa-c96e-4963-80ee-de2517a9d308/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
-      "publishedDateTime": "2021-07-21T07:08:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-visiting-walt-disney-world-soon-you-may-see-president-joe-bidens-twin-on-stage.md",
-      "title": "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage",
-      "excerpt": "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/state/florida/article252899763.html",
-      "originalUrl": "https://www.miamiherald.com/news/state/florida/article252899763.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/4150a494-c606-4f1f-a857-0ac16d3e3b23/main/1280x720/1m2s16ms/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/state/florida/article252899763.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article252899763.html",
-      "publishedDateTime": "2021-07-21T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

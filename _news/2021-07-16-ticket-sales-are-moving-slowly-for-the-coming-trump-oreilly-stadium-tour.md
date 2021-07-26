@@ -64,6 +64,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
+    excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
+    publishedDateTime: 2021-07-26T17:46:00Z
+    webUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-toxic-wastewater-coal-plants.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-toxic-wastewater-coal-plants.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/26/us/politics/epa-toxic-wastewater-coal-plants.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/26/us/politics/26political-briefing-coal/26political-briefing-coal-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Jordan’s king seeks to strengthen ties with the U.S. after a Trump-era thaw in relations."
     excerpt: "King Abdullah has been seen by American presidents as a moderate, reliable ally in the Middle East, often playing the role of envoy from the Arab world in Washington."
     publishedDateTime: 2021-07-19T18:54:00Z

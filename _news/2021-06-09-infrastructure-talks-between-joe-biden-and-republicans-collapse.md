@@ -344,16 +344,16 @@ related:
         height: 433
         isCached: true
   - title: "Joe Biden Returns from Delaware"
-    excerpt: "U.S. President Joe Biden smiles as he walks on the South Lawn of the White House upon his return to Washington, DC from Delaware on Sunday,m July 25, 2021. Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Delaware on Sunday,m July 25, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-07-26T00:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/06126f1b1b3722663bf1b0b8dce5858e/Joe-Biden-Returns-from-Delaware/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/59ff59c9f4ddada377b67c3d6a922c15/Joe-Biden-Returns-from-Delaware/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/06126f1b1b3722663bf1b0b8dce5858e/BIDEN-RETURN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/59ff59c9f4ddada377b67c3d6a922c15/BIDEN-RETURN.jpg"
         width: 650
         height: 433
         isCached: true

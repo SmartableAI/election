@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 1115
+heat: 1135
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722083010-u-s-capitol-building-0704-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "See what Biden said about today's infrastructure vote "
+    excerpt: "During a CNN town hall, President Joe Biden said he is confident the Senate will vote to move forward with a bipartisan infrastructure deal.\n    \n"
+    publishedDateTime: 2021-07-26T14:33:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQlDpFYHysI/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721223132-biden-inflacion-pasajera-economia-eeuu-foro-cnn-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

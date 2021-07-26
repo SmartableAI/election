@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Inflation fears and politics shape views of Biden economy"
+    excerpt: "President Joe Biden is banking on the idea of making life more affordable for middle-class families — and that's where the recent bout of inflation poses both a political and an economic risk. The U.S."
+    publishedDateTime: 2021-07-26T17:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/inflation-fears-politics-shape-views-biden-economy-79068305"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/inflation-fears-politics-shape-views-biden-economy-79068305"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/inflation-fears-politics-shape-views-biden-economy-79068305"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_790de10ae0ef47fc899b076b0c1202d1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Meat and tractors: Biden administration pushes farm-friendly regulations"
     excerpt: "California growers and ranchers counted two big wins this summer that came in the form of an executive order signed by President Joe Biden. In June, Biden signed an executive order calling on the U.S. Department of Agriculture to consider issuing new ..."
     publishedDateTime: 2021-07-21T16:00:00Z
@@ -105,6 +121,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "Fo33R5RrDRfzeylxx3vYmbeOU0jXdSTqFpQpUawnWna6ilae+5YnbldxSpEoK5K4ak00fXtiQV579eosA/k+HHAbmITenU0w42eLDamXdja4GiY09HmCtGqx0tIBEe/9515nzgrOcbjTTQLQnWECvD+ZcxUTcRROJRY9rUndNuvL6pogl0jjYm7Z3FW4EizMSDoLvhbiEJbTMqPDLzQlnEpQYLxj7nuYjYQlF4VSpcBt6o0pNnSqKd2IkMJSW+4FovfKOx+bTdTkA2BLJb6hcGcIckXNagF4KdV87u0iR0v9Qw4RDe3s8kYt3c5z2O9Qw2lz3iad2H5zlFgSi6EuDahmVp9hjQ+Qw9RGmtplR+M=;R2QofJXxrU4+7uZ71O5rOQ=="
+secured: "LWeQWXOWz/y18IYqp0G9L/RwVD3nYLYY0I+5OT/5cKUXf3CAIUPMAiTH1nzBSu6TCzrIm6skLx9A7TN6Ps/pHlXGaiBR/tQvoZax6JodVqFaC5wY8Fc3wHJ+MBKFnfR+N8fpYIDnikknjOQg1+IuFtDubUyPkzAxNutkXbr1OGjn7ewJ+r2kQLSFBbqalcVmjAffXuoUP/bIw1XrkNMBNzRNuzdwroqohzSgWXfWHLEZpAcbx2ifEQiU5yyeqY1bUYcgcu0bJS1pek6er3YE1wB56Luyd/9mpxEva+2OWA7sdlLGhuVeWW8y4ip/h7va5gr2uNI9/tcTjfWfzVrOB2g1EVGGHTUcCc0PkFIJ+rty18naCK7n1IfO66AKTg/iuXX37T2Y6vidQTDitZmpvdoMOZghLb0tQtndxUp3kdjwKena3MHBx6FiT6MJr+l994cXFEZEICKOwK/IOSS7eHjE+yu/UFMTHiKuqqeLh3rsXdQnTPgNunL8OvE4nWByB99+D9PHTFVlioj/qgqHLw==;QME2dn+m81XJzdA86lO/eQ=="
 ---
 

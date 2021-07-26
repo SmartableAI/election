@@ -65,15 +65,15 @@ related:
         isCached: true
   - title: "VP Kamala Harris meets with DACA recipients"
     excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-23T04:32:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210723043215-vp-kamala-harris-meets-with-daca-recipients/"
+    publishedDateTime: 2021-07-22T21:41:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210723013215-vp-kamala-harris-meets-with-daca-recipients/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11434562_1627014904.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11431309_1627004104.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -216,14 +216,14 @@ related:
   - title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
     excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
     publishedDateTime: 2021-07-22T18:06:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4a5dfef316966dadca5017f97c4c75a6/USA-HARRIS-DACA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/082e1781249502ed0d00e9b582d9ff2b/USA-HARRIS-DACA.jpg"
         width: 650
         height: 433
         isCached: true

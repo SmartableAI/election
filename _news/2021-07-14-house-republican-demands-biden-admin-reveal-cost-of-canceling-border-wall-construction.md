@@ -127,22 +127,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections"
-    excerpt: "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration. "
-    publishedDateTime: 2021-07-26T12:33:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vc4QEHqz7EY/education-nonprofit-title-ix-biden-lhamon"
-    ampWebUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Family of 15-year-old terrorist attack victim asks Biden to bring justice for daughter"
     excerpt: "Malki Roth, a talented young musician with a sunny and emphatic personality, was just 15 years old when she was killed by a terrorist attack while lunching at a crowded pizzeria with her teenaged friend. "
     publishedDateTime: 2021-07-17T18:17:42Z
@@ -312,6 +296,22 @@ related:
     quality: 135
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e03f15c9-8c01-490d-bbb2-ac2f3b8b69ff/b62c30e2-556b-45d8-b2e0-52bce723796a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections"
+    excerpt: "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration."
+    publishedDateTime: 2021-07-26T12:34:00Z
+    webUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon"
+    ampWebUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

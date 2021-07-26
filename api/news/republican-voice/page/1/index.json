@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-hunter-bidens-art-dealer-said-he-wanted-to-be-the-lead-guy-in-china-in-2015.md",
+      "title": "Hunter Biden's art dealer said he wanted to be the 'lead guy in China' in 2015",
+      "excerpt": "Georges Berges, who is representing Hunter Biden as he ventures into the art world, has talked about his business dealings in China in the past, but his reported ties could pose an ethics issue as he sells Biden's art to anonymous buyers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwTb8_ZYRpU/hunter-biden-art-georges-berges-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwTb8_ZYRpU/hunter-biden-art-georges-berges-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/229112bc-59cf-4d79-95a1-744d8ef54cf7/01aa0773-3630-4ae6-9a8e-1bde53d65d9e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-art-georges-berges-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-art-georges-berges-china.amp",
+      "publishedDateTime": "2021-07-26T09:57:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine.md",
       "title": "Sarah Huckabee Sanders urges people to get the ‘Trump vaccine’",
       "excerpt": "Former White House press secretary Sarah Huckabee Sanders acknowledged Sunday that she was inoculated against COVID-19 “months ago” — with the “Trump vaccine.”",
@@ -1561,62 +1617,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
       "publishedDateTime": "2021-07-20T15:16:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-george-p-bush-warns-border-crisis-is-not-sustainable-as-he-sues-biden-over-wall-hits-dems-for-fleeing.md",
-      "title": "George P. Bush warns border crisis is 'not sustainable' as he sues Biden over wall, hits Dems for fleeing",
-      "excerpt": "Texas Land Commissioner George P. Bush on Tuesday warned that the border crisis is \"not sustainable\" as he explained how his office came to sue the Biden administration over its ending of wall construction, while also tearing into Texas Democrats for fleeing the state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PAMR0dX7NQo/george-p-bush-border-crisis-not-sustainable-sues-biden-wall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PAMR0dX7NQo/george-p-bush-border-crisis-not-sustainable-sues-biden-wall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b6c4848-495d-4483-990a-c911a7ba2df5/5f4e50f7-43e0-43d0-9d4c-aaacca14b9c9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp",
-      "publishedDateTime": "2021-07-20T14:10:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -27,50 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage"
-    excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
-    publishedDateTime: 2021-07-21T10:31:00Z
-    webUrl: "https://www.miamiherald.com/news/state/florida/article252899763.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article252899763.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article252899763.html"
+  - title: "President Joe biden picks Suffolk DA Rachael Rollins as next US attorney"
+    excerpt: "President Joe Biden on Monday announced Suffolk County District Attorney Rachael Rollins as his nominee to be the next top federal prosecutor in Massachusetts, a historic move that"
+    publishedDateTime: 2021-07-26T16:34:00Z
+    webUrl: "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/"
+    ampWebUrl: "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/amp/"
+    cdnAmpWebUrl: "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/amp/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 70
+      name: Sentinel & Enterprise
+      domain: sentinelandenterprise.com
+    quality: 74
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/4150a494-c606-4f1f-a857-0ac16d3e3b23/main/1280x720/1m2s16ms/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.sentinelandenterprise.com/wp-content/uploads/2021/07/112219Youfn06.jpg?w=1024&#038;h=684"
+        width: 1024
+        height: 684
         isCached: true
-  - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
-    excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
-    publishedDateTime: 2021-07-20T16:30:00Z
-    webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-    ampWebUrl: "https://amp.indystar.com/amp/8027480002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Visiting the Walt Disney World soon? You may see President Joe Biden’s twin on stage"
-    excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
-    publishedDateTime: 2021-07-21T10:31:00Z
-    webUrl: "https://www.miamiherald.com/news/local/community/miami-dade/article252899763.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/local/community/miami-dade/article252899763.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/community/miami-dade/article252899763.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 48
 
-secured: "bzJqghCfMDeht3RveM+67B0sFzH+e0rKomUqyUEYU/TAYgSWxMbsnojIvnXup8rWGSRF6HU6l5lDshHv7R6CWQ80B4sA5rPjUm/XsjGdZ1Fme03DJkZBS/ONeDc3PGjEwxBgmyl82R8WdCOVjcIqK5H2vnlBzCGMhIrJQXPGiLbeDZyPC0jCfaNuCUCKphbE74+PMsH7DJZc0dXWvj4wDluo7CuYBg3wAjWHRASrHf4N1r+Bdk1wLIaRqFILmOWlSP5jcAxgsRoHVHSYJGGRW/fg+0KWvVsJ5AGKI7Er0fjQGp0dC039kE3VG/dEru5WyMrBezSb71BTJz/e86YKr0r2Cyit/VrdQwlZDenDrPM=;ShVDV8+8Yo30NX4f1Ya7bQ=="
+secured: "lA1K0e+pEIiXypDb7rHh8eZ4stix8SgpA57g62D8IlnKk/HohO8ynIhu5CWwvlwcNqn3y7XYcuDanvPM2rpkuZh1hncdXUdbxsTx4tWfOE+gXzFXtchHfsXnNuDZGFUNA1lUD/0JSRrNHaP1eiTKsbf0lEj+qJFuRDecqKk6bph3HgSi9tl1pQstfpVzqw9Nn/bzOVLsaQ+jjzx2QwTl7j2P8E5unylaEuHfkkJnQp/MQghduLJ+s4oSa/z3IA/CG21XQ4ld+KQxheL9/quJjJ18Kt3j6tf5RYNDWvOg85VXSGEmH0f476cdFcH2qlGPOYW7mONqLtYlREWE4Acwn3BD7rYjY1ffk8Dg9sjuAm6s3Pd/moJusI2sf1QwkcjtG6os7T/Qw+5ouSOYu+/6cyVohIKVkMxAdEdmS54NrLsEAfb1fztKcr3836xxKwVEq4GWmMvxtQcfDvit4vrYwjfdXINvmFnYkeeXRYDkpkZfnd03Dwpbr4Qyx5J0MO1HxjtiBJctEgjMGDu0Q3U8KA==;dkMk9lNyHIPgOOIPPDid6A=="
 ---
 

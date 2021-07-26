@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See what Biden said about today's infrastructure vote "
+    excerpt: "During a CNN town hall, President Joe Biden said he is confident the Senate will vote to move forward with a bipartisan infrastructure deal.\n    \n"
+    publishedDateTime: 2021-07-26T14:33:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQlDpFYHysI/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721223132-biden-inflacion-pasajera-economia-eeuu-foro-cnn-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden: 'We have a deal' on infrastructure with bipartisan group of senators"
     excerpt: "President Joe Biden and Vice President Kamala Harris will meet with a bipartisan group of senators on Thursday in the Oval Office after White House officials and the senators had a massive breakthrough the night before in their infrastructure negotiations.\n    \n"
     publishedDateTime: 2021-06-25T01:01:49Z

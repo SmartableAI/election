@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections"
-excerpt: "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration. "
-publishedDateTime: 2021-07-26T12:33:33Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vc4QEHqz7EY/education-nonprofit-title-ix-biden-lhamon"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vc4QEHqz7EY/education-nonprofit-title-ix-biden-lhamon"
+excerpt: "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration."
+publishedDateTime: 2021-07-26T12:34:00Z
+originalUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon"
+webUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon"
 ampWebUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
 type: article
-quality: 172
+quality: 132
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -436,6 +437,6 @@ related:
         height: 500
         isCached: true
 
-secured: "/x6L46X1CKYCVucbcGW/5qnN02WEZt3+wLPXLitJ/DP8rU+Vt7P9CFIwD7vYgqznxelihlHXbbIUW3dlv5KqebZNf943j8GD0VX6hSjnJdYcQKXHIMMfaZadEX6By/Sco2MQMMRLo5+fXkjiBxpeAE07FoXphS0WZtMt2ukUs51Lw1Ns3PHEr4wDx2cxFshYVV2aLrRAWGUYqaL/OSdzBzyVGy1sHFAMaBf1qCfKbYVisUgLxIktvqt2kQhYos/Ps2V1wcxjvvqwRH1KGdKpqs3yoThekNnZGjEHGe7M83AcFSvCGc6C+8xVpBqdT3OfiF2gFhffAmaCbNflZTR+TVRxRoCCwCxkekFhSiiJLpE=;si2jIUtis5CqlfiK6hOHEw=="
+secured: "xr8b6MLIcPc0wlXmbtvdv5npsXDmOo8C2tndylSnakQfiE+kAQnXd8wO/c5o4oqu93LFCVzOGIlbhYTkhv74PRWKg5G+s9cxjYiEyFfZswshSe3SdOpS+1Vwxdd0Ra6rkLJxKTidL7O+abrXzKIWf2opMdo+QxcspomuhqHaEhalE3Lzh5kLg4Av0vD/Hb5jDlITFkgKVWCtSX84pcYlnbJyXxEPkHzC8SXMrE878TIpTmVdDjKsWmoAn9T7lOAxOq/LEJMqdJ+na8zds4kPUULq784RcoaISRE1QoIRxksce5+sFQWEUJuGwaFry41isuywA96U0RVWwe1SNOiVZ9NjmXXp/1C8BQ9HgvMcA2k=;f6JASXVb+SgxhDXikdxCIA=="
 ---
 

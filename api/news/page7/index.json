@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-15-it-will-be-remembered-trump-allies-cross-him-in-special-election.md",
+      "title": "‘It will be remembered’: Trump allies cross him in special election",
+      "excerpt": "Debbie Meadows, the wife of former Trump chief of staff Mark Meadows, and Sen. Rand Paul have endorsed candidates opposing a Trump pick in Ohio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/07/14/trump-allies-special-election-499655",
+      "originalUrl": "https://www.politico.com/news/2021/07/14/trump-allies-special-election-499655",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/9d/1e/2ad6c0b84fab96f53e386dd0de1c/210714-trump-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/14/trump-allies-special-election-499655",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/14/trump-allies-special-election-499655",
+      "publishedDateTime": "2021-07-14T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-mike-pence-evidence-strongly-suggests-covid-19-came-from-a-chinese-lab.md",
+      "title": "Mike Pence: Evidence 'strongly suggests' COVID-19 came from a Chinese lab",
+      "excerpt": "Ex-VP Mike Pence points to a Chinese lab as COVID's source, but doesn't elaborate on the evidence he's citing. In a new paper, virologists disagree.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/14/USAT/a2df8c41-e316-433a-a049-afa1df9aa141-Pence.jpg?auto=webp&crop=1999,1125,x0,y390&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/7968126002",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7968126002",
+      "publishedDateTime": "2021-07-14T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-republicans-ramp-up-pressure-on-biden-to-pull-nominee-linked-to-eco-terrorist-plot.md",
+      "title": "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot",
+      "excerpt": "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
+      "publishedDateTime": "2021-07-14T14:22:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-pence-calls-on-biden-to-demand-olympics-move-out-of-beijing-until-china-offers-transparency-on-covid-19.md",
       "title": "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19",
       "excerpt": "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang.",
@@ -1190,166 +1346,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-dem-candidate-harley-rouda-calls-gop-voters-morons-for-supporting-trump.md",
-      "title": "Dem candidate Harley Rouda calls GOP voters 'morons' for supporting Trump",
-      "excerpt": "Former Rep. Harley Rouda, D-Calif., singled out supporters of former President Trump by calling them \"morons\" during a campaign event last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GL4EnuXf5PA/harley-rouda-republicans-morons-supporting-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GL4EnuXf5PA/harley-rouda-republicans-morons-supporting-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harley-rouda-republicans-morons-supporting-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harley-rouda-republicans-morons-supporting-trump.amp",
-      "publishedDateTime": "2021-07-13T09:47:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-biden-picks-ex-west-virginia-health-official-as-drug-czar.md",
-      "title": "Biden picks ex-West Virginia health official as drug czar",
-      "excerpt": "President Joe Biden is nominating West Virginia’s former health commissioner as the nation’s top anti-drug official, tapping a doctor who served on the front lines of the nation’s opioid epidemic",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_ab2635fea2e7416f85855677db0fc6c4_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
-      "publishedDateTime": "2021-07-13T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-chicago-banker-convicted-in-loans-for-trump-job-scheme.md",
-      "title": "Chicago banker convicted in loans-for-Trump job scheme",
-      "excerpt": "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OBHSMSXD7EI6XCGFJ7LDQLCHZM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-13T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

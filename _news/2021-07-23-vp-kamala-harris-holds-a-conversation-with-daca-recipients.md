@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
 excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
 publishedDateTime: 2021-07-22T18:06:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4a5dfef316966dadca5017f97c4c75a6/USA-HARRIS-DACA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/082e1781249502ed0d00e9b582d9ff2b/USA-HARRIS-DACA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -75,15 +75,15 @@ related:
         isCached: true
   - title: "VP Kamala Harris meets with DACA recipients"
     excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-23T04:32:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210723043215-vp-kamala-harris-meets-with-daca-recipients/"
+    publishedDateTime: 2021-07-22T21:41:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210723013215-vp-kamala-harris-meets-with-daca-recipients/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11434562_1627014904.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11431309_1627004104.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -282,6 +282,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9fiXByb4NgOsLbnVneBQaBJxD4GwvrQxCA9vbZHUO4Y9WWKMuj+eu8A5N2V+wxQxk22hhbe9+pQ34D9pa/p9cPJUfD3qJLz4WQjutm4uI6H0EwuNzDcx9SQEGtYt9ITNgK9X1zb/Q+PqgRSZH1SrRiZSoBD9BF1z50P3t7u2+Z/kEQU31zFrBBZiPDMx/Sj1uuOndRr3yfXPeYq8cXj7tCOMoTw163+EU7JJGtzgB8wSiXoPosto+IivehhgzHfKEAyn2SmuAz0aRMqAOCrpdi9U7UWqC40JJHcxsECMtloKrT8AGp0ZgJ5eZJ4wwiYRc11x4WWApnBp7QXEpcE544G4/fGUjgm6W7f59Xqm3VY=;IuMOyATWWD2PhEHqquv/aQ=="
+secured: "+eFiIgUkq6sZAH6JvFEYKEkuGmprvmZcaZCII4xCJHY7554uApv+bExa73EQPwd4npbNCwTwgyw4nQODotG26KBZRflolBaTQ3SqXTGtLi4N/QU7vCEfmMKJ6IE2vvNc3FgOwhpG9NHM2fluT+8PIfMrnt2+U6KKTx1HvvnbakxagjEo1kE5q7CahdutYz9G6znOAuIA5d2ve+osTucOKNUJyHF6XNjX1VKEW11aGZMHwlVgAA8QTI1HKPZwZvH8UQC5fnyZy83OEs1SnzlZNIhv/m7ruYB7EireNTS1pB0eHgsuEVFKZDY9sknSzgQfuGYo3DskG0xZwJB1ZrYWp5FQmYfCBjlZsA+zLZTlxH0=;+b5qFb0pO7JkbCTFAxZ2jw=="
 ---
 
