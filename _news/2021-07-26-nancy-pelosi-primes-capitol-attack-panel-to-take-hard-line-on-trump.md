@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
-excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."
-publishedDateTime: 2021-07-21T18:32:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-21/pelosi-moves-to-block-trump-allies-from-jan-6-committee"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-21/pelosi-moves-to-block-trump-allies-from-jan-6-committee"
+title: "Nancy Pelosi primes Capitol attack panel to take hard line on Trump"
+excerpt: "The Republican leadership’s decision to boycott the inquiry leaves the ex-president without defenders on the committee"
+publishedDateTime: 2021-07-26T05:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.guim.co.uk/img/media/0dfa5b9028ecfb382ba3017605ddb350d0f69ab4/0_149_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1f86a5665a0c6bc3eba04a9c9f37aa4"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott"
@@ -54,22 +62,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569801814&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M18F"
         width: 905
         height: 545
-        isCached: true
-  - title: "Nancy Pelosi primes Capitol attack panel to take hard line on Trump"
-    excerpt: "The Republican leadership’s decision to boycott the inquiry leaves the ex-president without defenders on the committee"
-    publishedDateTime: 2021-07-26T05:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/0dfa5b9028ecfb382ba3017605ddb350d0f69ab4/0_149_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1f86a5665a0c6bc3eba04a9c9f37aa4"
-        width: 600
-        height: 360
         isCached: true
   - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
     excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
@@ -237,7 +229,16 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
+    excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."
+    publishedDateTime: 2021-07-21T18:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-21/pelosi-moves-to-block-trump-allies-from-jan-6-committee"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "XNq3u8h6A9tpTYwwrWf0I+ePCJm6/xmjZJzPOGujvJw4d4CZZ4f3pLWEwz4JumRSd8asvnq3HHC4b9sE3QHi8nZj1QYubwnwnP6cGqzncej+yUQAOSRitBlJwPDrD5CYvmzOwIJaQhz5LTVctFL2xvaDPabQx3OYRottzRoJYx+92BjlMiJZBg8zi1lli4dws1j4Ty3IYqFSwd23eduXYIYs3UtNruvt/DnSOFPLWrUES52m0L3rmz4l0Cd3pGtOSom/MPeCsPoCl0cs0IqF/0qY8qHsRkvwJQzuOhVLcD1mRt9+dOLxCHDq8ptiDi3IfCnWWSop+8UYLhtUthtod7z9pglzbuDu1JvmKWpG1NfOECDmdxbS1Q6hZZgieu4ylN9GVlJI7LdbwWwg2073E5VvSG5c7KBUXveMnJbvI38lurTDLmFkBogbiSx8QMbe98Xe10gS3Q24ClO2keA8wHSRNeprAhNNy5um15NWsu6fP9aGCJ8zwmrvghl6aBdC5A7vv7Da7qxxQWjrCQsa0Q==;iCvVohe1pu6gnE2rFfa9iw=="
+secured: "fIepjZ/arem31J4A4OCzLm3gCnf69GdOkuiT+Jp1NTV6FEYqq5rWt7YwjjKEnH1maWgAveWnIQLC95af1ZKUrIUfdljQ0nOvTfWaLvvsV+5mxQKjE69Vkzfj0Py5PKyWYpwQjuwbUvoY8U8IDzrepOAQWRtzWFf9vMRSWaVJcTb/88YQuuJlkLMM071ABAcgVkjkbuQug0HwS7ygewtAnZRx0S14KQxTA0AyKEvthD40T3F6ATpAf1NWOz3EzFPLyECmNFrjW9XCGzgPFDjZPiei3WJGembsdCntMOReEu17CxiSzMwr2ZWbv8P1SVLzkgFNr2Ds16tVH5YOQl5S18Duuupy1xii1l2/8iFZNgY=;ZE1Y3CwgVZDy7bGWeM9vpw=="
 ---
 

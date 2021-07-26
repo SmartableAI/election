@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
-excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."
-publishedDateTime: 2021-07-21T18:32:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-21/pelosi-moves-to-block-trump-allies-from-jan-6-committee"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-21/pelosi-moves-to-block-trump-allies-from-jan-6-committee"
+title: "Pelosi appoints 2nd GOP critic of Trump to Jan. 6 committee"
+excerpt: "House Speaker Nancy Pelosi on Sunday named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a speci Capitol riot and pledged that the Democratic-majority panel will “get to the truth."
+publishedDateTime: 2021-07-25T17:25:00Z
+originalUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+webUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+ampWebUrl: "https://www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott"
@@ -177,22 +181,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Pelosi appoints 2nd GOP critic of Trump to Jan. 6 committee"
-    excerpt: "House Speaker Nancy Pelosi on Sunday named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a speci Capitol riot and pledged that the Democratic-majority panel will “get to the truth."
-    publishedDateTime: 2021-07-25T17:25:00Z
-    webUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Donald Trump returns to Arizona, attacks Doug Ducey and praises GOP state senators"
     excerpt: "Former President Donald Trump praised his Arizona GOP allies, attacked Republicans he sees as enemies and continued to falsely claim election fraud."
     publishedDateTime: 2021-07-25T00:22:00Z
@@ -237,7 +225,16 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Pelosi Bars Trump Allies From Jan. 6 Probe, GOP May Boycott"
+    excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP Leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection."
+    publishedDateTime: 2021-07-21T18:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-21/pelosi-moves-to-block-trump-allies-from-jan-6-committee"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "XNq3u8h6A9tpTYwwrWf0I+ePCJm6/xmjZJzPOGujvJw4d4CZZ4f3pLWEwz4JumRSd8asvnq3HHC4b9sE3QHi8nZj1QYubwnwnP6cGqzncej+yUQAOSRitBlJwPDrD5CYvmzOwIJaQhz5LTVctFL2xvaDPabQx3OYRottzRoJYx+92BjlMiJZBg8zi1lli4dws1j4Ty3IYqFSwd23eduXYIYs3UtNruvt/DnSOFPLWrUES52m0L3rmz4l0Cd3pGtOSom/MPeCsPoCl0cs0IqF/0qY8qHsRkvwJQzuOhVLcD1mRt9+dOLxCHDq8ptiDi3IfCnWWSop+8UYLhtUthtod7z9pglzbuDu1JvmKWpG1NfOECDmdxbS1Q6hZZgieu4ylN9GVlJI7LdbwWwg2073E5VvSG5c7KBUXveMnJbvI38lurTDLmFkBogbiSx8QMbe98Xe10gS3Q24ClO2keA8wHSRNeprAhNNy5um15NWsu6fP9aGCJ8zwmrvghl6aBdC5A7vv7Da7qxxQWjrCQsa0Q==;iCvVohe1pu6gnE2rFfa9iw=="
+secured: "Qi4NLZkeu7SbbsaWFe3vKwtotH91Tm4iN5XCtWyqrJOjUstZCHr9SylhodCxwcFHDAuqbueByDeS3l1x2m0jAqEuejfHe4LpZlWbgISblSNLYPJjqIqFy59rZnD3QoLKA3eYGhttyM//mg/4duDiNHIYSSkJlyGPsizceFUYCuQIc9CECb2uF5NOK6QNU93UDu+7ilYiqT6VM7JdSqSHVa7KjBQY2WDB3r5LQeYBkJFro77fO3gZ5W/5DbJGZcU+A3iYBTU+dnfuekfo19RCDc43pFZXCxS2f7Uynl4Dk1n9Q0p15WjINKB/6+faj9ji0tOqEsCXry9R6LOpyGLjaMvxItowcViBuN73UoJOuFU=;E4N10mcHMNcay/nItABHBQ=="
 ---
 

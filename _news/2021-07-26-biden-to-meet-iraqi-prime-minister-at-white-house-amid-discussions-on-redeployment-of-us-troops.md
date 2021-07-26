@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
-excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
-publishedDateTime: 2021-07-20T16:30:00Z
-originalUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-ampWebUrl: "https://amp.indystar.com/amp/8027480002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
+title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
+excerpt: "President Joe Biden welcomes Iraqi Prime Minister Mustafa al-Kadhimi to the White House on Monday. The two governments are reportedly close to striking a deal to withdraw U.S. combat troops from Iraq. The U.S. still has about 2,500 troops in Iraq."
+publishedDateTime: 2021-07-26T07:47:00Z
+originalUrl: "https://www.coloradoan.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
+webUrl: "https://www.coloradoan.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
+ampWebUrl: "https://amp.coloradoan.com/amp/8075835002"
+cdnAmpWebUrl: "https://amp-coloradoan-com.cdn.ampproject.org/c/s/amp.coloradoan.com/amp/8075835002"
 type: article
-quality: 69
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Fort Collins Coloradoan
+  domain: coloradoan.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/07/23/USAT/f4a5def4-b4b3-4e48-9a8e-858b797dc3eb-Iraq_suicide_bomb.jpg?auto=webp&crop=4499,2531,x1,y291&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
+    excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
+    publishedDateTime: 2021-07-20T16:30:00Z
+    webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8027480002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
     excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
     publishedDateTime: 2021-07-21T12:07:00Z
@@ -56,22 +72,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
-    excerpt: "President Joe Biden welcomes Iraqi Prime Minister Mustafa al-Kadhimi to the White House on Monday. The two governments are reportedly close to striking a deal to withdraw U.S. combat troops from Iraq. The U.S. still has about 2,500 troops in Iraq."
-    publishedDateTime: 2021-07-26T07:47:00Z
-    webUrl: "https://www.coloradoan.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
-    ampWebUrl: "https://amp.coloradoan.com/amp/8075835002"
-    cdnAmpWebUrl: "https://amp-coloradoan-com.cdn.ampproject.org/c/s/amp.coloradoan.com/amp/8075835002"
-    type: article
-    provider:
-      name: Fort Collins Coloradoan
-      domain: coloradoan.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/23/USAT/f4a5def4-b4b3-4e48-9a8e-858b797dc3eb-Iraq_suicide_bomb.jpg?auto=webp&crop=4499,2531,x1,y291&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Joe Biden Returns to the White House from Philadelphia"
     excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
@@ -97,6 +97,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "xpfDf7A/siQ3/XOMe+ZXoZZ7bGD0Y2SEmRnK8gGYRDh22I5SqYXLdDmEkaoiRmIQvIBwJSfii6sZBUH7z+nLPR69ebyUef37oYapauYrRcJyS93Pn/0pZRRgVLIAxxwljtmDXhd8PDTFh73TGD7csXBoIUtok2ktGWydXarQZcOYYGedUTVeuirasmOF4LLptVCz4vUZnsyniQtuxqw0XRgSBezEf/Bv8jDrsdbKx9mHckcFXaOuHHrBiO4RUBE0mupB5wjta1pfv60p3xdKxIc6elveoqRpU0P4pb57l22XsJ5LKt0+f+sGRxiJH8bhqO8TQA+NSbVgRh/1me0ODRbHVyM8AxYvl6Zq22MWxiLd53CgLLy3NPJ6/7cBUIi4fYWid+6G6Ziw1Sm7+h+/8aTwkCkDCCw8eK1HbIOMQ9neBzZotDU4CzddVtyyOeK7F/PQOkRXKvXGcYkyqi8zTXnrT/PzHK8vM9dbLhkSiIVjkSbEIvHn+a1YRg4rBC95LYr0eIYxgM5jnGJnesQmJA==;NbvebxAiQX77PwRPuAHNqg=="
+secured: "bvanPhCV9jMI+y6BmDavydUOXG2LmuSVwPqO0uXfjLQdK6pROzot2u0w0eLnTLVo7hOOIuS2M/aBtnAlOsHhktKS/VJtd4hnNZcST3yQr9lTYJdBnUpoGILb045S4GRJZ/ZhXZAZa8EIIa4D6PEzfh7nJyO4nnL5SiUJalNOhvX6qIVcPlNeE2z6XEZ7EAsowzTCZkCiIwyzoH61SwMy4NKCHHuQbI+Xp77od/8VEY28DLQIrC9qVSb9zcukfwKpR7JruOoMZNbEnGnzgzauFgkInLmBYyHa74pD7WDKofyQqWQ/ZYxXJee8YrPi8IBKSmR53DabUTEOmaspveJ0T01pKJiOCbfGREehhaP1xec=;GyfHvC4Nm1S5iIj4ltrbdA=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Mark Warner: Inflation Today Is Result Of $3.5 Trillion In COVID Spending In 2020 Under Trump"
 excerpt: "Democratic Sen. Mark Warner told \"FOX News Sunday\" that the expanding \"human infrastructure\" bill will not contribute as much to inflation as did $5 Trillion in COVID spending since last year, \"$3.5 trillion of that under President Trump."
 publishedDateTime: 2021-07-25T17:26:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 562
     isCached: true
 
-secured: "Byztc3/qD8ACoyegYaWKsFFBeC1GFrklIGkGmH/Msb7+bbr17tgeSoIV5Oue4upcw7Jxw+mUBwAZqTC8UyLfwbxr6PMpQ6fb7y3dUzE8K2qCWGvo/TzB0h/+zpCtcEbFowXptnALHjgfFBQF7M3nrvAs6Xvj+oVaGO5UZ0WT7uyBE7xnf2hvPcYVR3iPR2j7GDtKNzr0YgybOXU+DtZSjm5am2oN9juXvqaMDS5PnLErU4h2KQCIcOlzyK4erajP8BpjhB0qKVAyVZRuGdzsQ1bzAPI/CMzXQgWRIzbRGbDmZz3s+Yn9aHnDodUGyYfji2B1F/zknoCHWeVVT7bnGB0s/AGpubiJ+iqEBElXSWZkSCnH71bvIl3RGy5bTQnW3jy5CsaQiQCp86FB8A81mBv990KQ8K577OBwGme6XfL9K+nQahsi480GRnCTPGmbjpKCXu38RFvvcrJo0jCG/bUNxG2TXOztzaaJWiAX4Xg37bGvOHBEaI+AYRzBhYFHgml99Wc+3XjNy4BadwUs2A==;Lyg57RJNfz1JgZ74HBZl+A=="
+secured: "GAcfuDBkp9ePVmKOFZ+Yke0Atoa/80EP6q2/3btRBBhKPpvXza8GyLB/0y5rqzS1JDVh+ujO9ekc7+QvbGgj0xynFs7/PJF5ToJgZhllBnPob4wxlW5Tqo58vVsG1K/DB63rebwG1U9sbL979tgetADBvzjYqeyTGHrP7a1ofz2nTYD7cJC3b42KfZ8W+XkoqtMfqZnt0RsJB9lQ9F5HVum6esH8qhdrrTYKVZbs8ti+a3vLeYfOHieRDADDG6ZVkGSzj1wY8QZ9TTN1krI2LtOMnIuDHlXtgCfasZGIoxIaMw/mpebSgZU84dSOlcbdEQn37kGDFed/7E8GR3lhzb7SLEeUyPuanCi1mllTfgg=;Jo8EgY85KyeUZrxGrsI0SQ=="
 ---
 

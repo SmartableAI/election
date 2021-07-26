@@ -61,6 +61,22 @@ related:
         width: 905
         height: 545
         isCached: true
+  - title: "Nancy Pelosi primes Capitol attack panel to take hard line on Trump"
+    excerpt: "The Republican leadership’s decision to boycott the inquiry leaves the ex-president without defenders on the committee"
+    publishedDateTime: 2021-07-26T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/26/nancy-pelosi-capitol-attack-panel-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/0dfa5b9028ecfb382ba3017605ddb350d0f69ab4/0_149_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1f86a5665a0c6bc3eba04a9c9f37aa4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
     excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
     publishedDateTime: 2021-07-24T17:31:00Z
@@ -157,6 +173,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
     ampWebUrl: "https://www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-bars-Trump-allies-from-Jan-6-probe-GOP-16331367.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Pelosi appoints 2nd GOP critic of Trump to Jan. 6 committee"
+    excerpt: "House Speaker Nancy Pelosi on Sunday named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a speci Capitol riot and pledged that the Democratic-majority panel will “get to the truth."
+    publishedDateTime: 2021-07-25T17:25:00Z
+    webUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
     type: article
     provider:
       name: Houston Chronicle

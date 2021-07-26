@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
 type: article
 quality: 105
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
+    excerpt: "President Joe Biden welcomes Iraqi Prime Minister Mustafa al-Kadhimi to the White House on Monday. The two governments are reportedly close to striking a deal to withdraw U.S. combat troops from Iraq. The U.S. still has about 2,500 troops in Iraq."
+    publishedDateTime: 2021-07-26T07:47:00Z
+    webUrl: "https://www.coloradoan.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
+    ampWebUrl: "https://amp.coloradoan.com/amp/8075835002"
+    cdnAmpWebUrl: "https://amp-coloradoan-com.cdn.ampproject.org/c/s/amp.coloradoan.com/amp/8075835002"
+    type: article
+    provider:
+      name: Fort Collins Coloradoan
+      domain: coloradoan.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/23/USAT/f4a5def4-b4b3-4e48-9a8e-858b797dc3eb-Iraq_suicide_bomb.jpg?auto=webp&crop=4499,2531,x1,y291&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden Returns to the White House from Philadelphia"
     excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
