@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
 type: article
 quality: 134
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Biden confirms: Veterans Affairs to mandate vaccine"
+    excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"
+    publishedDateTime: 2021-07-26T21:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/26/biden-confirms-veterans-affairs-mandate-vaccine/5380006001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d5427fa-e76f-4d57-ad5a-c419ce110318_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden in Trump-Supporting Ohio to Tout Vaccines, Infrastructure Spending"
     excerpt: "The fate of a $1.2 trillion bipartisan infrastructure deal, one of the president's top priorities, is also uncertain in Congress where Democrats hold slim majorities. The Cincinnati event gives Biden,"

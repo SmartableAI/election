@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden and Kadhimi seal agreement to end US combat mission in Iraq"
+    excerpt: "President and PM meet at Oval Office and announce schedule to shift mission entirely to training and advisory role by end of this year"
+    publishedDateTime: 2021-07-26T15:00:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/128af502e617b1e5bf969afb2545849df37b1c60/0_0_4385_2630/master/4385.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef0434ac01738e54ec3dca6dd172c5dc"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
     excerpt: "Meeting between Joe Biden and Iraqi prime minister comes amid reports the two countries are nearing agreement on redeployment of U.S. combat troops."
     publishedDateTime: 2021-07-26T07:00:00Z
@@ -45,35 +61,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden hosts Jordan's King Abdullah at White House"
-    excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
-    publishedDateTime: 2021-07-19T20:33:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
+  - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
+    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
+    publishedDateTime: 2021-07-19T19:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: UPI.com
+      domain: upi.com
+    quality: 72
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
-    excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
-    publishedDateTime: 2021-07-21T12:07:00Z
-    webUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/"
-    ampWebUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 69
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Biden to announce end of US mission in Iraq; typhoon headed for Olympics; Jan. 6 committee to start work"
     excerpt: "President Biden set to announce end of U.S. mission in Iraq; typhoon headed for Olympics; and Jan. 6 committee begins work. Get caught up."

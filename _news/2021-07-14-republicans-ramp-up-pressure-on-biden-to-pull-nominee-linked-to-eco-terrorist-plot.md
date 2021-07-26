@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-pressure-biden-tracy-st
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Another Obama official raises concerns about Biden nominee linked to eco-terrorism"
+    excerpt: "Steve Ellis, who was deputy director of BLM under former President Obama, expressed his concern of what the confirmation of Biden’s nominee to lead the agency, Tracy Stone-Manning, could do to the agency and the U.S. Forest Service."
+    publishedDateTime: 2021-07-26T21:43:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EZ2BXUa9DB4/tracy-stone-manning-obama-official-concerned"
+    ampWebUrl: "https://www.foxnews.com/politics/tracy-stone-manning-obama-official-concerned.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-obama-official-concerned.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/345bd750-f595-4b27-94c7-a3e55f0b3d44/b8dd0d8b-c53a-45f3-ab9d-4ef7f5d16684/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Lead investigator of ecoterrorist plot involving Biden nominee says she was the 'nastiest of the suspects'"
     excerpt: "The lead Forest Service investigator of the ecoterrorist plot involving President Biden's Bureau of Land Management (BLM) director nominee is pushing back against Tracy Stone-Manning's testimony."
     publishedDateTime: 2021-07-15T13:54:49Z

@@ -224,7 +224,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump Ally Pleads Not Guilty to Illegal Lobbying"
+    excerpt: "Thomas J. Barrack Jr., a billionaire private equity investor and close ally to former President Donald J. Trump, pleaded not guilty to charges of illegal lobbying for the United Arab Emirates."
+    publishedDateTime: 2021-07-26T19:58:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007887030/barrack-court-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/26/us/politics/26political-briefing-barrack/26political-briefing-barrack-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
-secured: "dqRWiNd011jkXMdgXVVuRGTCtFcX02Xq7Q4vxdIk/yEqIMRx881r+piNx83D6XMF/vTnpBR6BjoGZpaJu8HxHxMrzrXvdCc6/mWX1+7ogJOr1VuuK8ci6DlXGIgkYC0rUWI+pq1KklGPorsWgOGWGTRUCqywc6/C+3CuXk8fkAV6vKmpSYxbP3+I7e8OsVRMFILay/rGReZnYuOXAgau2df5b+cmh+YeQVqgipwxfRLSxR1AElBdBoUhapzQTDJUqa5ZY16lWtKXS2TppwYNARYQ155H0jk46YdZmwRj3KkJPdGmqXEs7WMy94oxsk21rp0/RZUYGl7U18PTkhZ9g0IoMlMGENr/IjPCINJJLro=;99nR/ZUUXFlT/gRO3rDNAg=="
+secured: "BcLCU27DNs/1kx9ShOSQTZ2p44Wv5ZQqU2LlPrX9fPQflL93IMGlhj9369tgH50/JnVogF6uh+t+4byBO7LBoPZ+2sZKINslermxhaxQaKN1SmEPl98oOF+ZRtCPgFL/Oy6SuzTkfZNWBtfnU0MZtGqY2ZP2liTqtuYBG//iqjBx8/IIMsByZHgV2PNksA7wC5N/DqV6TQ4jiFu/gktCtzqupSRyO/SGa3gXM1xENJ4eVeMYqOk//gMPJHwt21yyjrVGLVE6CXou7Dhy97ArFcF+UR7u+kf9TxDyDClBnfAfOI8AaTileKT3JJiweRRHuKaprrsmU2G7dgvdgH0KKtS6InWfbA50KkL/b+pbceRlXCw5e31pQDLuqj/8Dr+lcwjWfuYGqzReixGR3cJXYRD/qBtwhSPSwtMM5dGIVq2qLTdN9gBeIzD+kwKJlNzSnnpMIHYpVxFB/r5YZaAw3+TUsMmBY+F/v3pFb05nDUYLfQtxnOorN4bLa/c3TfLEecVpu0HT6dSOKY3wDue6tA==;wcM+jHSpLXFEQjQhU8t4Ww=="
 ---
 

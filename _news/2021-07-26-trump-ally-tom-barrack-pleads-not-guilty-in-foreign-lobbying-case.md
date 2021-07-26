@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-gui
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -222,6 +222,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494173/210716-tom-barrack-se-216p.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump Ally Pleads Not Guilty to Illegal Lobbying"
+    excerpt: "Thomas J. Barrack Jr., a billionaire private equity investor and close ally to former President Donald J. Trump, pleaded not guilty to charges of illegal lobbying for the United Arab Emirates."
+    publishedDateTime: 2021-07-26T19:58:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007887030/barrack-court-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/26/us/politics/26political-briefing-barrack/26political-briefing-barrack-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "9IDC0pgcsWRjmw6J0mHfI4dKvCOOwyWUcvu5DWRInfWaQKRzQxyyxrlgtrGlaDxOZ8QgnrHaBOBSlwGriG00V0tA9QVgH0cygXdp99W3qZbewux/YoXo/+TGFl6o7C53sEOlN7U+S0600gbyNCBxqTY3F9mWFOPi8hEdfl2Bu7dG5AJ09AiQw6S13q04JqibReMx88zLwEKcWUnCMMnf93iQJ6SPwrK2EKx6sxSrJei1hn8tJK1AXaqOD6oqTTez+ai5LPiEqn1lHT/K+s9heWPNGI75MMv6GnG+8ppFtu5aQ0Yv4Mq3rzxKNShYLtnK0dYQoTv3Y7OkrDcM3LHoHMayp2DSQwVtpD1Lij5lOvA=;ikJkNWH3uG/A/FoxC9fIhg=="

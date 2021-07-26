@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden confirms: Veterans Affairs to mandate vaccine"
+    excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"
+    publishedDateTime: 2021-07-26T21:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/26/biden-confirms-veterans-affairs-mandate-vaccine/5380006001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d5427fa-e76f-4d57-ad5a-c419ce110318_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "eotIZ1AHQm9EffLnLL6lPYljvAd3F3bWRgARaVKL+9tMV2I2ZwGAgIEigQ6srPZOfQY1DPJ7tuKHUKPsmqEzg/7KYQj24yutVLHjB3CKlMmZg0E2Z3JGkC5Pa/Pu1suG9Rb83OverWR2kesPvMwFfaXHjbxR3NVGuSCZd4EF3/HlMr4JaQoQdq88JxOra+a1wM//1OXegjb6/tNSWscqgx7oxMcmvUZdEcIpkvnqtKyt5VfUn2Soo9FeL5CZj9QoBsCS33j1CRufQ5euGkYy/UF4zsn6illU3rhecVcFGqxZ0vcc84k9KjY/e6db/yn2KT4yONqHe3w8TAqfNFSs0D9sLrAYy4kSr62x5I88PSNipodJQXJzQDWLttlGv4pHtIumCvzpxx+UTruWOJhoHKcsCAY5JMIXIulvzFHDfVmNYVbYyvlzXeKOMazAXnrPkMspynoBjVDpUUyGTIdQL9BPoY1WoedIhGBamm/oFcUo+RdNG81x6kTOxPF07FSFRA43yxvyr3/8l3lpJlkgNg==;q63nLFxzJWffrHBRM5bpWA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/564754-biden-pathway-to-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp"
 type: article
 quality: 122
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 980
     height: 551
     isCached: true
-
-related:
-  - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
-    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
-    publishedDateTime: 2021-07-19T19:10:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "YxKbgaxx53pXF77qtP0/24AuA9f1wS5vyzyQ7LWAG4CTA+SCLgR9PxCUqvzfJ0BwU2tLSDjtIVJ9jCza06Y9luVXUo/cS6hLsk+J9eEc+ZkXYUobK376VHdzuOt9qrv5PE5cO3ukbESO3dpugwZS/Bim8hkEcPw9SoqSH4ua7JckQ5PUfF6c+BFcAZBm8FpgyuwF3q2xfX4/Iw2AF4RXhGgFejbCvoWaaKORElp1cQSCJQhFzcBdAgeCZ0MakINZGMkgxmCgAf4QDF1TTsnKkCXEWXWCQPM/W5C4gWtMPiW9ftrDVLQqg2lWJJxmEuvW5YIlKrhESXLKp97i1agPuuDp6Fi/pFVc1GBADdIWwAkx0t6eIQs4vg5YQowV/HTbOFI6QcmLZE6bMaQePGCuhGrGZc7jkRqbSR9WA2Bg21ucjtH6/U+jYDI5Qbj5kA0wVNVKoyLnm/WNG9QwPuLhyflQqWPmYnRGjdY2SPYFhuUA3xqKqmO70DamyO87bS4fVvjXHhYt1h/x1uK8Y192DQ==;KHfkLk4lEppxBco1zUbPpw=="
 ---

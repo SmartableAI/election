@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-chair-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-chair-100-innocent-lobbying-case-79069883"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 558
     isCached: true
 
-secured: "E30oaoqYWArUP6tpRsV+GBhSVBLeLyhU/FntfgbIPbVYE6boMic76/xkE8Z87yANEtMbXEuSEergIX5thbOVnei+zCbHNAKDtxb7sc3ehJq0z4OHxTBYxlQ8Izrh0zNSLqoRsBWqyHSYIOThAiRUzhuYB/ngQwKvN7qcJcXUHhMow/NMbO4dg+uuyKtURb4bYfOOFv39CmMOjd0Ouoh0qYykCoRpzXT9c9D0mw91u7lP9Vt5SNXoHfCQVZZL81FHcc+fVcBQP3YoAonHBzXAfi8grbjTw1ByaezC6iudpTjky2fNBx/6Pfy28KcXgnbckpEHosG4nH9Jjx9mgiH5VBgM8PJVCJA2mhxmr5EcLjk=;S6MbhciDvNZaVQ/N4U1LRQ=="
+related:
+  - title: "Trump ally Barrack pleads not guilty in UAE case"
+    excerpt: "Top News Trump ally Barrack pleads not guilty in UAE case. Posted . Former U.S. President Donald Trump's billionaire ally Thomas Barrack pleaded not guilty in a federal court in B"
+    publishedDateTime: 2021-07-26T21:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVENHG6ZV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210726&i=OVENHG6ZV&r=OVENHG6ZV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+
+secured: "3azyyAFNIPKKm2caoZoDu4eIE66AzhW0Mmwx9cEzu8/yQGDevp4ch9K7BPkor210DOU4jso3QjkX2TMgec84b0dtsRkL0pSmCCf6DBjvbi5YTDfD/JoOv7/sUUNSV8u3u09lHgsqv5y2LUnObE+Ud3BztIM2ht8dqB1D6m2dtcTkr6t3is54sNBKPLU5AfM34gOh+8yWRrvdYl6uP1xhfgkoQTHAOOXX+pvfvcpxYWhpB3oCsDW/JabLpbl4KkF3ll51+tIaAv9ZmSBVGLJpwZ13kv/IDU+cfWgV2FQCUzZqC9gtFxoel6FasnsPUiGdVIoM+C0Dorv4SKsKx2olJW3Gpo30DaFP55ZJc9crBGhi/mOecpJZxyjEa3jFJWqfxuDJ6iTvtFiLtMfKBFAJNiJ9OeejGiRlKZFZbOcdVPLwOyLBPY1MhTr/TIDMB5mr+PAUSbWcXBb/2Dnt52a67/00F0T0/4P94gGUKlIPds2JLJ56a6TDVIRIiEBBvQ7iIPK0uFsaF/tsTeXR/G1svA==;1CaXnpbsBQyPS1TPviK7hw=="
 ---
 

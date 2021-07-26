@@ -61,6 +61,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Joe Biden says U.S. combat mission in Iraq will end later this year"
+    excerpt: "The United States' combat mission in Iraq will be over by the end of the year, President Joe Biden said at the White House on Monday alongside Iraqi Prime Minister Mustafa al-Kadhimi."
+    publishedDateTime: 2021-07-26T11:26:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/8491627296955/2021/1/e67278113a3ef5e9f42f7fba3e03d494/v1.5/Joe-Biden-says-US-combat-mission-in-Iraq-will-end-later-this-year.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "c5ln4mF5ZVweNgfzMw3IjGETCwm98CNrPENsEK6Tka1agUCq7vGHCzauFkIF2wve8znn1m3+bPhXHNlAUPLkGxPBAH7W7YahNob6rvqFq65D6Zq61203VAwd59Qbg1TaG8THDS/z9VtrwXGU9Sh1833kU+ah2a3FMgUpJoXQIYiRjNP9qFGd2KNCrsJ51W61WN9tXCCq+Ft/tRQL4ejO2VAdzS4JuzaZqdcx9KTsocf5jlFHTlaTwHwifoqTXfAZP0Z5/xXxZiLlTawlw+F3AS9eIrcBYOWjPLzv1pprxCcJo7GCmrgQ7Ef9hsdsGDAfAilz3rhXCLPKws8pOC2laf+PdlxDI6cGmOvcJxpMfQrEqF9d4UQIY0cDMGB2XmJDx7BPe4nuGoanvLqtWLPtz5ujZrlBTt4Zo/lhdOuflt2jQW9zBOPcUp3SHWOoShlS8KGP6QdSuyVfKMYiwXfUBYQJQN/KQXsB4X5bRGxEo52tsPAWbiUCrjJWQMXmMRurZzHUbZTScikgQFDmWlaK/Q==;eHvwo1JDUIiAzjxLSvrcwQ=="
 ---

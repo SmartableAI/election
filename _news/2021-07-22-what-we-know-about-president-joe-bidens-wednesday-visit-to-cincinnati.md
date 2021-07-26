@@ -3,18 +3,18 @@ category: news
 title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
 excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
 publishedDateTime: 2021-07-21T23:50:00Z
-originalUrl: "https://www.freep.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
-webUrl: "https://www.freep.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
-ampWebUrl: "https://amp.freep.com/amp/8024834002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8024834002"
+originalUrl: "https://www.desmoinesregister.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
+webUrl: "https://www.desmoinesregister.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/8024834002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8024834002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -140,6 +140,6 @@ related:
         height: 676
         isCached: true
 
-secured: "1ANSyKBLe8WrDfEzdVl2OHUTwLROWUyg+Gl+m35Qj0osyLSCIkIVzjGnC9R057NAHWQlO29wE3oPQwLOoZBAp3zmWF5JC7XIkjv4gOvRITycEQoBUxfg1tvFcQIOGYjeOKfpXMKHzn4+ja2qxkhCuOhae8mCGNz0XexCScbsq9kM3yNkVmmdc99AaOPhT83/+nRMTK2X//r+lzQi140GszCi4LfRNNjsoNPMOErPDl4ZTi6N5MM/ovHswF1fdTNS7kAFabnqew/nkpAhzOF7MpoxZJRwES9kCsvWhmrTVElSLherzYxmg5J47GNEAt7A0FeV7Zt6X5uaTBs7neex9eOD2VNWGs4Fhg34r6k0rTAgjyScSg7kMQstqCl0ZeUG+/z4u318b1s9fzzCFK3eIi8bZZ8INn3Cn6+Y5wxVvbhprMBYmfpl90pMEOuiO/TuRTBEiy/ysPla8o++ygCXZfPssAKiAv85aXGA2/y1+LqKroUcCEOCNKuSzKM7gNqkGCiIlLA1HCkeXTrOiM7r6w==;tWF588Cm4QLXI6/fD0WemA=="
+secured: "o/O5J2UUD45pu/A82Nl1mTck1nQL4DPAGqZERK1+cvBfTV2uz2NOaFcAR4wYys75unwW1J/cqXBGP18M2Dl8W8sfpfAYK/inb7m8I4HZc+6G6CbntA8G5KMvgzemzGFfKAEa4R5k/ePHIOmLwqZyEfe5wpnOZszMaN6auWh+IJLgrWN08LgqilCYtmauZg2iibPzST5941ab1wNASW9AzoqPbiOT1DqAYtxJ4Wju1VrNP/lTXXf0wklggEiFGInqyKSSTWKHOZjnTSo4OTVz8GexAWaGszButOMUYmf5rI1MdS9ebHY5X1g+JmKRdbjDwb/2/GQ4/MUXpm/N6hcVpzY8iJwnN3fgPAfS3pk2oDM=;sEu1ZJ2YQ27wPs0w60eD6A=="
 ---
 

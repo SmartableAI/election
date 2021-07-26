@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-h
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
 type: article
 quality: 80
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
-    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
-    publishedDateTime: 2021-07-20T13:02:00Z
-    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "mQyGi43gNYZhMTMRGHETr7YUyCiDZAvKlG9xspj9/j6vBoNBGVhimzo9nYWEYDw4WYefYTC5gSKZBMFx2foz1Kv1Ah6QLL7JL2C4PsBmImBapDHvpedaeVxQq5d2rr+gz3gcBpQaMNdG+KFKTyVpzEe0tHVaq6BuLUW8XI1gau8qjQsPsv2qbNBEeV39r6IHFcXySirYIAIJY0yB68ZsDCi2YmNCQ1VijetdxG2jjRlShkCC9XT1Ra9HjHACMIHOEMmPqcQ9XUMnpi8lax7G5QJjO8Kvc4PUnFmnuAHjb4OXGfC6gfDIMK8DFEbRAV3jiNPdxdckbW5tUKALpaPvtcWkNBYnUS1EvyIGqiNAjmQ=;pqU6qDCO1MRKOUypclvpYw=="
 ---

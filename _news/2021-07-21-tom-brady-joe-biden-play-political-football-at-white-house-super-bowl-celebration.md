@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
-    excerpt: "Meeting between Joe Biden and Iraqi prime minister comes amid reports the two countries are nearing agreement on redeployment of U.S. combat troops."
-    publishedDateTime: 2021-07-26T07:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/8075835002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8075835002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/23/USAT/f4a5def4-b4b3-4e48-9a8e-858b797dc3eb-Iraq_suicide_bomb.jpg?auto=webp&crop=4499,2531,x1,y291&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden hosts Jordan's King Abdullah at White House"
     excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
     publishedDateTime: 2021-07-19T20:33:00Z
@@ -57,36 +41,45 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Joe Biden, Iraqi PM to Announce End of U.S. Combat Mission in Iraq"
-    excerpt: "President Joe Biden and Iraqi Prime Minister Mustafa al-Kadhimi are expected to announce on Monday that they’ve come to an agreement to end the U.S. military’s combat mission in Iraq by the end of the year,"
-    publishedDateTime: 2021-07-26T09:25:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-26/biden-iraqi-pm-to-announce-end-of-us-combat-mission-in-iraq"
+  - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
+    excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
+    publishedDateTime: 2021-07-20T16:30:00Z
+    webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8027480002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLbPzoiVnUcc/v0/1200x660.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 660
+        height: 675
         isCached: true
-  - title: "Biden to announce end of US mission in Iraq; typhoon headed for Olympics; Jan. 6 committee to start work"
-    excerpt: "President Biden set to announce end of U.S. mission in Iraq; typhoon headed for Olympics; and Jan. 6 committee begins work. Get caught up."
-    publishedDateTime: 2021-07-26T11:30:00Z
-    webUrl: "https://omaha.com/news/national/biden-to-announce-end-of-us-mission-in-iraq-typhoon-headed-for-olympics-jan-6/article_45e153c0-df38-5d53-b1aa-2d7d6bcb7669.html"
-    ampWebUrl: "https://omaha.com/news/national/biden-to-announce-end-of-us-mission-in-iraq-typhoon-headed-for-olympics-jan-6/article_45e153c0-df38-5d53-b1aa-2d7d6bcb7669.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/biden-to-announce-end-of-us-mission-in-iraq-typhoon-headed-for-olympics-jan-6/article_45e153c0-df38-5d53-b1aa-2d7d6bcb7669.amp.html"
+  - title: "Joe Biden Returns to the White House from Philadelphia"
+    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
+    publishedDateTime: 2021-07-13T23:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 58
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/45/f45e5382-973d-5a9a-9b98-e1ae66d7ae45/60fe98480cfa2.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
+        width: 650
+        height: 940
         isCached: true
+  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
+    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
+    publishedDateTime: 2021-07-20T13:02:00Z
+    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "wUYaFvtby8k4AAJZQmU3RUllFpZY11hMjUdsY5Dkuxb2O7Qjs+rP29ivAZYUc0/ge8eAK80jjUz7yZQQsK1pgh15CEcEtiLabb3AwrpMgOfwBryPXyG0cBCicbqOvAViYttZi0S3dlPDaddIdtisxeW8CLgax9/IxvOfjmZw0rkU44Li5Au4WhrkiFIKcRlz0d4PkYG2bLaH2+Eid/mxwFCjyY6nEua/XFbdO4fStEwkUaDZwrV0p/cLWoNmeq6uPcDu+yGAx4ycj6xDl175kvZKT27gpmLBP/2rZGFcDCMObcBw2n9Taos/uDyg7vRDLJeTXn3BjlePwxnym6ZVaINKEDrlwU10m0nK9XuLOjO/Rl9EPIwHCEBTYpQT05D1LGrSsKXREmllfs/OVWul5740EGHImUhY88Q+dtJBKnHJP8jBb+eCahef5z+3CLEer+StXvJvkkqW3KG9OY1JoRNbfWRA0Rv9zpmyuY+sGXz4EZd+asXpJ/ZEbt8YNzDzHYEBOnNteA+M2UIoHv+OUw==;d36LoFlSEGS1SUx2E9GxXQ=="
 ---
