@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications?_amp=true"
 type: article
 quality: 140
-heat: 500
+heat: 520
 published: true
 
 provider:
@@ -289,6 +289,22 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "AP FACT CHECK: Biden goes too far in assurances on vaccines"
+    excerpt: "President Joe Biden offered an absolute guarantee Wednesday that people who get their COVID-19 vaccines are completely protected from infection, sickness and death from the coronavirus. The reality is not that cut and dried."
+    publishedDateTime: 2021-07-26T03:38:00Z
+    webUrl: "https://www.westport-news.com/business/article/AP-FACT-CHECK-Biden-inflates-jobs-impact-from-16330995.php"
+    ampWebUrl: "https://www.westport-news.com/business/amp/AP-FACT-CHECK-Biden-inflates-jobs-impact-from-16330995.php"
+    cdnAmpWebUrl: "https://www-westport--news-com.cdn.ampproject.org/c/s/www.westport-news.com/business/amp/AP-FACT-CHECK-Biden-inflates-jobs-impact-from-16330995.php"
+    type: article
+    provider:
+      name: Westport News
+      domain: westport-news.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

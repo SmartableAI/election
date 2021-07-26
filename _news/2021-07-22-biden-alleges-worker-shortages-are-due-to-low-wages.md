@@ -80,12 +80,17 @@ related:
   - title: "Joe Biden's Unity Vow 'Left' Behind"
     excerpt: "Joe Biden's inaugural speech was pedestrian at best, but he pledged, repeatedly, that his presidency, would be devoted to healing a fractured nation. Too bad he hasn't practiced what he preached."
     publishedDateTime: 2021-07-25T18:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/25/joe_bidens_unity_vow_left_behind_547910.html"
+    webUrl: "https://www.realclearpolitics.com/2021/07/25/joe_bidens_unity_vow_left_behind_547910.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/549014_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "LrfUqqGclKzAObcm8ykyvPFqiFo42SPSr0pv44AVmS5aiIqhJj4mlCrVfAVmOsr5Xiv68k5MJ1KUCa5cl0EFnc1k7YKrQ+DGFzO0dZzaNH5pFtr5xrpGVatyxBcSd73u5JsNWcUKTpUUAmxX/0CUtp7yqw6pKaOql7ZaUNUsMKr6CK4dqtp2XoJhnztVV0ctKnQP+ywwbkFtDY1vHKAeXF+Ot4gfqKAhJv0/CR3K+h8UBnMf0GXJ5yP0EcCz18W5GIGAPnQImJTQQyYDNMLmRceYwXDCC+Bi8x+rkoiq698WYEOWbtzUhU2fOUobsAlCWilMVb2C706a7zTDoAM9mDwfPXVA1cY7kyOZ5UtxPh8=;ERud0RPfdtICiDzkK7CU/g=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Joe Biden's Unity Vow 'Left' Behind"
 excerpt: "Joe Biden's inaugural speech was pedestrian at best, but he pledged, repeatedly, that his presidency, would be devoted to healing a fractured nation. Too bad he hasn't practiced what he preached."
 publishedDateTime: 2021-07-25T18:39:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/07/25/joe_bidens_unity_vow_left_behind_547910.html"
-webUrl: "https://www.realclearpolitics.com/2021/07/25/joe_bidens_unity_vow_left_behind_547910.html"
+originalUrl: "https://www.realclearpolitics.com/2021/07/25/joe_bidens_unity_vow_left_behind_547910.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/07/25/joe_bidens_unity_vow_left_behind_547910.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/549014_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Ukrainian president Zelensky to visit Biden in August"
@@ -83,6 +89,6 @@ related:
         height: 500
         isCached: true
 
-secured: "WU23Q29duZ8RR6VjDOz1yGwpdXE2knn9QLDJ26nMTdGdpzL30QsauCDK/SOmCBj/TRQL1JagDkNB2VP2ISmIGVHVTgnRKEuuY+cd1Sdq86WZA2WQNB8I3wBbsuAM6FDLvSdf9U7wlxtT9Bzo85s+cIFUFWei1h366mP4f1WUg+eWzfM9JMc2p21WAgMDTsIK+pE704+8n31qjljhdu1ZxyqGceS/kUJAJAaIhCI5JvJVm+rJLafaqXPydbjKOeH7DARRMEMVSyQFL1fuiBPbeTV/5QNjIRvCSD5qIAswjTGQD6teauRhuL7nDtM442N0iSShIriqHcn/MpkWQ+oBp+oOeYjuW5FO2qS3UXZr+yw=;zvB+4iCxxrXDnoa0QkhliQ=="
+secured: "p7B0UO8ATFebKqRqCP+T8gZ16GdfZuLOpVb8+EkYAc39UHMCFGCJ6qa0sKJtE7xS3Ro6MTGCtQ460HKexp3FuMmyizIlM33nXwzpZyCOK1NajjcSOMSzZ3iopIgByDZz2YyMF/lbZvNlM3/7g6K/d5jLlHUeQR8gd9BOIoiWunsKceehO5Q57Qe5WOzlRcF4zavek8LjQcvAuBxHYj9kX71IV3KTrVUUbmpEgokM+tlXQP/LOknfJ+uT3+DJtFnd5X+QTgvUcryMYQg3lh4ND4AxO0YiM1r5JSG31Um4MGzMLSiD7rqDhaFwp/XJ6QOgtzXcSltuV0aP12eTeaxe9eRu24zs5+VQYE+G21jGyGc=;7+H2Y3Bcda77LwTuhOCaHg=="
 ---
 

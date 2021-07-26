@@ -303,6 +303,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "AP FACT CHECK: Biden goes too far in assurances on vaccines"
+    excerpt: "President Joe Biden offered an absolute guarantee Wednesday that people who get their COVID-19 vaccines are completely protected from infection, sickness and death from the coronavirus. The reality is not that cut and dried."
+    publishedDateTime: 2021-07-26T03:38:00Z
+    webUrl: "https://www.westport-news.com/business/article/AP-FACT-CHECK-Biden-inflates-jobs-impact-from-16330995.php"
+    ampWebUrl: "https://www.westport-news.com/business/amp/AP-FACT-CHECK-Biden-inflates-jobs-impact-from-16330995.php"
+    cdnAmpWebUrl: "https://www-westport--news-com.cdn.ampproject.org/c/s/www.westport-news.com/business/amp/AP-FACT-CHECK-Biden-inflates-jobs-impact-from-16330995.php"
+    type: article
+    provider:
+      name: Westport News
+      domain: westport-news.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "oL4WsfnvqQo1qHi16ce6ah3ekcgNnZ5vz3NWaBm4NIh5l8sXNNDxD/WrK8ZOBCxCIBDktXyH9iQ8W77RJfcB7dGUuOBNapC9ls9vMVJVPS49tpb7TDbOp0MWimw9FRlC7w+pf59PA3/fjm/x0kxp2fNTxWzRTDknnKwuXE+va1E5BwIXLzrU+8JFcuYfTERanSAt9RXEFIdARESt/Y7yl7APL2CGW9XoB7oR6pYs99VonQtK6NPKhaKXOLgt+RvjJm4apxFggQIdRr63Vz/u2QL7+RIUem/p3M/0Qd+E8ZeSff89yP+KgC34F1LQCMAHQeGmtVzxbPQGwHiTwF2OH5A3Cnn9mTobwj94NXzf6UfvySc3GO9VVTJpNkDJuRpQN/xsirMPsb8KQ3+fD8D5yw3pfJQqbKO1IL0Ltorl5MWPvPG9LakQqkOk1+jUY0VGUHYJrjXobeV+LldL5DKElxleH0RPoDHO6+2C7ssK9SW8JlGtxva7imCA4HiJxWm/m+WCE22b5SQmTCNKK0oDjQ==;Lh2rHHsksFNpZDB/t/I0JA=="
 ---

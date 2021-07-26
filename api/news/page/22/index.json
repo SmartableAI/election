@@ -2,6 +2,62 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-06-17-biden-administration-to-invest-3-billion-for-covid-19-antiviral-medicines.md",
+      "title": "Biden administration to invest $3 billion for Covid-19 antiviral medicines",
+      "excerpt": "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 453,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html",
+      "publishedDateTime": "2021-06-17T13:39:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-arizona-sheriff-says-no-distinct-border-changes-from-biden-administration-despite-sec-mayorkas-meetings.md",
       "title": "Arizona sheriff says 'no distinct' border changes from Biden administration despite Sec. Mayorkas meetings",
       "excerpt": "An Arizona sheriff says there have been no changes in policy, messaging or results from the Biden administration on the crisis at the southern border -- despite multiple meetings between sheriffs and Homeland Security Secretary Alejandro Mayorkas.",
@@ -1297,58 +1353,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-chrissy-teigen-apology-all-the-celebs-shes-upset-from-avril-lavigne-to-donald-trump.md",
-      "title": "Chrissy Teigen Apology: All the Celebs She's Upset, From Avril Lavigne to Donald Trump",
-      "excerpt": "After owning up to the Twitter comments she made about Courtney Stodden, Teigen issued a lengthy apology on her blog",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731",
-      "originalUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1821297/chrissy-teigen-oscars.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731?amp=1",
-      "publishedDateTime": "2021-06-15T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
