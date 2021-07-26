@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7992908002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7992908002"
 type: article
 quality: 126
-heat: 186
+heat: 166
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Biden in Trump-Supporting Ohio to Tout Vaccines, Infrastructure Spending"
-    excerpt: "The fate of a $1.2 trillion bipartisan infrastructure deal, one of the president's top priorities, is also uncertain in Congress where Democrats hold slim majorities. The Cincinnati event gives Biden,"
-    publishedDateTime: 2021-07-22T00:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-21/biden-in-trump-supporting-ohio-to-tout-vaccines-infrastructure-spending"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "nGvQk5/CK85gwLiue/NWm5m8sYFGNdJVY6AMfRJZEgT7Qe72N42/GS/8KHsyX03cIC0JOqWfsWhmKVgJbbCdNq51BJWK5bI9/VRbtcrtG63ai8k+sxd/cnGTwrxXXHsO2yWywo9J6LJT3nIUYC+HhcAluORLoKFxEsvuI+fxtpzeMEFW+Bn9IBpyYDVmZPhIOD2WyJXayfFkWT0gDWvt7Cq10fwtfZU7GqJoEfLgWz6p7GEX5Pxiv4t83yg3QOyLDuuE87ClJW5AEUcPL5xbx+7qN0FFKWpO2wUBRRg6YIujWISR8EHAFsc2yp0aCtbVVdk3lEdx0E13dFHBZZnn5P/Nf0LlQGCKRQKx7uXMWjk=;Zwk+7U8CUeQOaSKBnh8CXA=="
 ---

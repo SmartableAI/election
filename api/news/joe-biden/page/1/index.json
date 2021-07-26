@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-poll-shows-bidens-gun-violence-approval-rating-falling-to-37-amid-rise-in-shootings.md",
+      "title": "Poll Shows Biden's Gun Violence Approval Rating Falling to 37% Amid Rise in Shootings",
+      "excerpt": "Attorney General Merrick Garland has pledged to address the surge in gun violence in Chicago, New York, Washington, Los Angeles and San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/poll-shows-bidens-gun-violence-approval-rating-falling-37-amid-rise-shootings-1612928",
+      "originalUrl": "https://www.newsweek.com/poll-shows-bidens-gun-violence-approval-rating-falling-37-amid-rise-shootings-1612928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1854613/joe-biden-merrick-garland-gun-violence-rise.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/poll-shows-bidens-gun-violence-approval-rating-falling-37-amid-rise-shootings-1612928?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/poll-shows-bidens-gun-violence-approval-rating-falling-37-amid-rise-shootings-1612928?amp=1",
+      "publishedDateTime": "2021-07-25T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be-seen.md",
       "title": "Biden: Pathway to citizenship in reconciliation package 'remains to be seen'",
       "excerpt": "President Biden on Sunday said it “remains to be seen” if a pathway to citizenship will be included in the Democrats’ forthcoming reconciliation package.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -102,7 +154,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Joe Biden",
+        "Donald Trump"
       ]
     },
     {
@@ -1037,7 +1090,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1524,49 +1577,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-joe-biden-styles-himself-as-a-21st-century-trust-buster.md",
-      "title": "Joe Biden styles himself as a 21st century ‘trust buster’",
-      "excerpt": "Joe Biden’s biggest supporters insist he is the most progressive US president since his reforming predecessor Franklin Delano. Now Biden is trying to place himself in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
-      "originalUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

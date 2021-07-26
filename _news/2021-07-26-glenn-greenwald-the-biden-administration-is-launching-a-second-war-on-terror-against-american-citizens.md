@@ -3,8 +3,8 @@ category: news
 title: "Glenn Greenwald: The Biden Administration Is Launching A \"Second War On Terror\" Against American Citizens"
 excerpt: "Glenn Greenwald discusses reporting that FBI agents were involved more closely in an alleged 2020 plot to kidnap the governor of Michigan than they previously admmitted. JESSE WATTERS: \"BuzzFeed\" is reporting there are twice as many FBI agents involved in this plot than there were plotters."
 publishedDateTime: 2021-07-25T18:13:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.amp.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 606
     isCached: true
 
-secured: "Hbx2nTb9j86+jdmoFX5l02D7xXVR/QUKqdeORR1AZRbI4XJLRVSvg0kMpaow17mFHEKKC1Wsw3qOz0CrwdyEXYA4DFe7WFfYU7oMkx1/bcb8zJZ15Z7t9TTtfcIZRayL1QIQOcLfc4TmJ3QHzDSSNJs8vLFTLJhvnUAvRzCbFrzyNFT0rcCskqtIkQdznR/l5tLUzWSAsluqkdt4MRXZy6xWTRjDo9usWzWImPwjka8WqvqDOCJBk4EoK1AAiwYnEHwgc3955nNaiS2D6mpMjZP7NtiAHxy9q9vKG9Vn3QiLMa/FjBuIic6iBOkU5L2ZtbTi65FQKT61nN9+5AdJJ3Hc895On0AhytbIXtKkhBbjVuRnYtswjqvgVfH/C5TWXCLhhGBX8WsJqtygl75rWoe+o0iTT34qhUeSwrlwYI0Tn811TtJYZLKcuIuFVuwxYmaSiaQ/k8bmeDH9lOcMns8sRgp8Ly6332GHax/dL9926YugziIbDEDuwTY5Ig7BYtzh2C1z0oadbN/balr2Hg==;KNEmF9Aivt07+gJm5PUivA=="
+secured: "ubC56mDyf3U0r6K9Mb7DO3qcQKs58EJ6kztoyvebvRgl/DiDW/YMK6wZYYuwE50CgwRhXoyVYfUCxgxSsIcihlW1CHNd0X8MF+c0i3lT4c+4tC9vGt0plfHuAtvsTHmGr13p6FkkuHkGzaVa6Q+F8JITzkKvxl7FiXiRfm2o1n6+P6AcM//JxsqboVrdb9TWpPjIB2CkTqnNAWY4YfQydmVrZgEWjJu80g6H6UYYgnYbQXt9UPJibtilsOP3PWkksgI+Jbwm5w2+nAsmCXZDXF+Mt8ti48pJVbQhKz/5MVhOAzM1Wmf6gSU/ZJvOY9elRzzU5V2UgojvXGEBwxd95ujyKU7oRZXUYXOyZwH1FAE=;9Ahzlaxns9QvKCCNqJGLdQ=="
 ---
 

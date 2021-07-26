@@ -340,6 +340,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Joe Biden Returns from Delaware"
+    excerpt: "U.S. President Joe Biden smiles as he walks on the South Lawn of the White House upon his return to Washington, DC from Delaware on Sunday,m July 25, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-07-26T00:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/06126f1b1b3722663bf1b0b8dce5858e/Joe-Biden-Returns-from-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/06126f1b1b3722663bf1b0b8dce5858e/BIDEN-RETURN.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden and First Lady Dr. Jill Biden Depart the White House"
     excerpt: "United States President Joe Biden and first lady Dr. Jill Biden depart the White House from the Ellipse in Washington, DC, on Wednesday, June 9, 2021. Biden will be in Europe for a week. Photo by Chri"
     publishedDateTime: 2021-06-09T15:01:00Z

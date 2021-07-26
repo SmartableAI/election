@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Republican negotiator expects no infrastructure deal with Biden on Tuesday"
-excerpt: "The Republican U.S. senator leading her party's talks with President Joe Biden on his sweeping infrastructure proposal said she hopes the two will talk on Tuesday but does not expect a deal to emerge."
-publishedDateTime: 2021-06-08T14:59:00Z
-originalUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
-webUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
+title: "Joe Biden Returns from Delaware"
+excerpt: "U.S. President Joe Biden smiles as he walks on the South Lawn of the White House upon his return to Washington, DC from Delaware on Sunday,m July 25, 2021. Photo by Yuri Gripas/UPI"
+publishedDateTime: 2021-07-26T00:13:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/06126f1b1b3722663bf1b0b8dce5858e/Joe-Biden-Returns-from-Delaware/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/06126f1b1b3722663bf1b0b8dce5858e/Joe-Biden-Returns-from-Delaware/"
 type: article
-quality: 103
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/N3dUQVC_oZaZI0fUo_wNN0xTY84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ILMZFREJEZLYHDL2VLZJXKJAKU.jpg"
-    width: 1200
-    height: 628
+  - url: "https://cdnph.upi.com/pv/upi/06126f1b1b3722663bf1b0b8dce5858e/BIDEN-RETURN.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -245,6 +241,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republican negotiator expects no infrastructure deal with Biden on Tuesday"
+    excerpt: "The Republican U.S. senator leading her party's talks with President Joe Biden on his sweeping infrastructure proposal said she hopes the two will talk on Tuesday but does not expect a deal to emerge."
+    publishedDateTime: 2021-06-08T14:59:00Z
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://www.reuters.com/resizer/N3dUQVC_oZaZI0fUo_wNN0xTY84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ILMZFREJEZLYHDL2VLZJXKJAKU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Infrastructure talks between Joe Biden and Republicans collapse"
     excerpt: "Joe Biden’s bid to strike a deal with Senate Republicans on a sweeping infrastructure spending package collapsed on Tuesday, narrowing the US president’s options as he tries to move his economic agenda through Congress."
     publishedDateTime: 2021-06-08T21:45:00Z
@@ -344,20 +354,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Joe Biden Returns from Delaware"
-    excerpt: "U.S. President Joe Biden smiles as he walks on the South Lawn of the White House upon his return to Washington, DC from Delaware on Sunday,m July 25, 2021. Photo by Yuri Gripas/UPI"
-    publishedDateTime: 2021-07-26T00:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/06126f1b1b3722663bf1b0b8dce5858e/Joe-Biden-Returns-from-Delaware/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/06126f1b1b3722663bf1b0b8dce5858e/BIDEN-RETURN.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "President Joe Biden and First Lady Dr. Jill Biden Depart the White House"
     excerpt: "United States President Joe Biden and first lady Dr. Jill Biden depart the White House from the Ellipse in Washington, DC, on Wednesday, June 9, 2021. Biden will be in Europe for a week. Photo by Chri"
     publishedDateTime: 2021-06-09T15:01:00Z
@@ -387,6 +383,6 @@ related:
         height: 433
         isCached: true
 
-secured: "70ULYvGGWyauDSMd5KbZ2PxHpyMhTn+tcT8TmyyuwAqsaS3em3t+Dkr4PA7OboJpgFzUmL05Vvfp5Soiv/BHrR7hGB59BDbuSA6w6ChbE6kjU5NySwn7InPZF6IAOm+RMFX3sCw78ngOXtmaAmfyBlJTAkJAIB3JOeyrU1/XcKnYBB+zlknUcLvkEcn/L4qzA4Y/q4k308bgoa1DlMzJSbMxreNos+hRM8pHyX4OnUYlgWoCTXxay5L3K+b4581cQxjgpphK2gB/DmPzQLAv/sZe1ezOWqHtp6/Kx6MPOleBu1x0wKdt4ApbsPQ+JLHaI955yQAvr2wDoHomfErmG3EWpaiCTVE8pzE72lm5SlIsV2wWtUueD4zc8FDOtxwGEqE1O26tUmmi0b5DpW9E5WQF1o/pCi0jODISkKk7k7SEtgqUiYUditAF4DgW8BjQnWsYj9ldSos7Yt0xQXU0ae0AEd+MsO6Xen4xGlOi4beljFgy/7kPdgKC9dIpuQ+D0cs5dQItSG4Gl+OrfaGu0g==;Ms/EjEM7meg10fVgXYjJLA=="
+secured: "/RuVkC/M/FpVTX1fbdDvnxuU7qmnt+e9wwRHPw5VwNWF6xCtzNKwaYrCpzQW1zr9Gvewm/lDEznJWv9l8AQjnyt5Kr6tMRG7CCSTVViy81/STSqVAjj7pW4YJ4n/DU2DKtXN/BXJDXuWXb/1X1vBpFRC7iFJKNarMvWD4LytEqw2l3dBYmUfjn2YZzv+mRwNXo8OeaME0XhV5VIe6fD4K3Viba3YmuBo+ZlTzctwqTMCBd1SWSOAZb5YGMD6HxXzgzpHIZ/CYRaXzLG1eBEdAr3Yqt2N1V7GO3MQTQ+7gFvhnVQXPDzVP/M9Wn9Ok6D9yEUd1x27nFj5Y8J4xZxvRYawKJx3THHGrarlyYGENo0=;WA9yE7UJpqdJhqrrXSaVFg=="
 ---
 

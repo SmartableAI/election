@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
 type: article
 quality: 125
-heat: 345
+heat: 325
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_04484eac6e6c45f8b6675e1937c8fada_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Joe Biden says he's self-conscious as president"
-    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
-    publishedDateTime: 2021-07-22T13:48:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Biden praises child tax credit payments as ‘historic step’ to end child poverty – live"
     excerpt: "Biden says – follow all the latest politics news"
