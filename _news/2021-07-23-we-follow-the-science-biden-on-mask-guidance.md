@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Florida Republicans slam President Joe Biden on Cuba during GOP townhall in Versailles"
+    excerpt: "A Miami crowd of dozens who had shown up in support of the anti-government protests in Cuba served as the backdrop of a GOP town hall broadcast live from Versailles Cafe on SW 8th Street — hosted by FOX News’ Sean Hannity."
+    publishedDateTime: 2021-07-23T23:01:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/609519e9-8ebe-4e89-898a-047ab6d8d66d/3b9e608e-4fee-4a64-a8a8-bb03c72f37ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "QyQQsQc8qvsRnPZkk0hEvhaaB0flHnBQLHTmOZxC4PKGawOjMEsl1sE+RPQK/wOfM+S+ZmzxbOXIicT/FK/XxwR2ybO2x2D/y1hVNIGbcN6lo6ekuRWjeUabavvw+VSD2PUz8rfUv4tMFV6Ju2Gv9I/THLnD3C93CBZ5o7NlLleI2LmuT0qS6Zos59+bCQOWMakhLaKG9cNl+2vVtCLWVYe3cyX0SXVz0Dw2WZTKGzfsF8PPp3KlmipFZ3cgHSnSIcxd3AqIJ/jn97GlBDu6vqHDboI3gIIwn7RbhY0SAUfPf1VUqRJHs2QmFgqXxDMHyEABZGGfq63cGIgPgDxtwmZWphMGCPvdrbsOMm5mqEI=;DARHOz+ZDy3eKVteA/eNSw=="
 ---

@@ -2,13 +2,13 @@
 category: news
 title: "Sarah Sanders encourages vaccinations, praises Trump's Operation Warp Speed in new op-ed"
 excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders on Sunday hailed former President Donald Trump for Operation Warp Speed and gave her own reasons for getting vaccinated against COVID-19 in an effort to reach the conservative holdouts who may remain skeptical."
-publishedDateTime: 2021-07-25T19:32:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kw99qP6_SfM/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kw99qP6_SfM/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed"
+publishedDateTime: 2021-07-25T20:05:00Z
+originalUrl: "https://www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed"
+webUrl: "https://www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed"
 ampWebUrl: "https://www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed.amp"
 type: article
-quality: 166
+quality: 126
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -49,21 +50,21 @@ related:
         isCached: true
   - title: "Sarah Sanders encourages vaccinations, praises Trump's Operation Warp Speed in new op-ed"
     excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders on Sunday hailed former President Donald Trump for Operation Warp Speed and gave her own reasons for getting vaccinated against COVID-19 in an effort to reach the conservative holdouts who may remain skeptical."
-    publishedDateTime: 2021-07-25T20:05:00Z
-    webUrl: "https://www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed"
+    publishedDateTime: 2021-07-25T19:32:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kw99qP6_SfM/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed"
     ampWebUrl: "https://www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 166
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3101b4e-939c-4748-b0fc-d719b82ad184/cd60b583-8bd4-4c85-8abe-77c4dce68e27/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
 
-secured: "sg/MIKfzFOEEpHuQmUoIvup0pNnj087+S9qjCNnYB8B6KpLGmQm2tFDWx2DiX/sx1a5KI+mc1alsVSabr+DFVabW8TEtMVfnOq6KBCpW0Dwvxkp4FEKYebL55YGg9T0OaY7aFR2MV38hh0cU8omIRcvTGD9XUimSipbPmXMVt1ZY8VXONVIQ//GJsrZ3tnSrcykH0+NKLOe/hZJ8T6MYPmBZDjDwRCEp+hxevfQqJz41Amo/qDjuT8L6RLl2JgSE2sxRw/sT+3wV5fwJZVYHEx1yYhd4VjwUDn6U1yf0gmJZBKy9AUvQby0gzPfWX03rm6yRiVhk/82y1kPx9XRnZuFWRA6wSaXLpMuD8Ge6bVw=;uJfMXk/hxQgTRQfNRqO2wA=="
+secured: "wXPW3ncEfno0zsniisehr8Mi9Mh4ZXq7QvMZpsL68c86jnPefboBm0eNZE8uhRieE3wzyqrqrmqAmkYqDm3xooMDEDKp/uOniplpXgcgGl6XnAgE93JFg28bp6eku8TzAz/wd2CKX3y4c17EUhJtRefPieUVBDTm/3eHfQy2NBoXLdhBuOl4UGiQ9WubQX5D8L6i0DVUpBsqjLfsKUdcgM3bfNk/KEJJbAdOznOCr0qE1wjerAVri2ZbbjDhO9AkVT7mIM4pUUbHgJibDW7eBy4LNVsvO/U3lCOpKPUrY5cnV/n8C8G5ES2/YQv9xq9IhxSd7OtoTK8vRWe6FiojhAjIJfJ6AcUIbPHAIXa0kMU=;6KqMbOWegKTHmm5joAon0A=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Pelosi will ask anti-Trump Republican Kinzinger to join 6 January panel"
 excerpt: "Speaker wants Illinois representative to join Liz Cheney after minority leader withdrew support over rejection of Trump allies"
-publishedDateTime: 2021-07-25T13:32:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
-webUrl: "https://www.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
+publishedDateTime: 2021-07-25T14:10:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan?ut"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan?ut"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
 type: article
@@ -185,6 +185,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "C5rIw4KBEdoDKMww0QzegV/yH/KIQTD0nU8N6BVrKHwVBNkcPPKEsuRAWAnD32p+FoHh61gejvtib0X2nvH0BgtG6dlA2y5eYim+aMgFEznaVBFxArB3Gq8RXF2+0t0NqIv5qDoKZMVuv1haY4F+KtBizbNyvVbKsLoWlqKvJSuFWw5pY4o+O8Q8EcpTuE6wtFyUEPFL5A2Z2Jyczqgeau6YLlPLH2oBkJbQTQxXMs8Et7KLOSnPzDnI7TrvMYDOB70WhXC6dAbFbzs8ZtO+IkTD7nYd0W5ZFvKRmNX2af+SEYC6eqht0vt3kZMR7I0eIiKb413rZoPt8YpLkskK+SpgROifIoqkQW4wTG+/1lBiNwMazvk9a7S5Qd8FzNA/O9v6qmNnLrzlYw2fCt8J0jKocRmk32KWzgdCtFnUCGqTPaGzQQdnGWCyGK/Th5LJc9Jgxi0yex4nLfRKSLJE5ASJ9h5M/XhcMgSyKP0fq7WWgTvlySsKECdOS3PAUmx2ZtvPevb1nBpcgt9p/qWfmg==;Xmq0ZEUerPtqEuL+HWroKg=="
+secured: "9z1b0WSMiwVfl3P8PE1zUpKNf1gvQ0+v3wllYNSUTEy+jISnhhakVOyLJqfduCszcOAvw7vd4LF/jObcU3F3bSP5DZoUTC0FXJtaJ8po683eIVt5sp1g+gjuU7i+TJiVzw249pO9w3kocYJOP9Ix8/+L3TbUZofkVZ9VqscXhGiw3Coa5VzQyTpvx257zwl2JzgXExWnZJQlGha3Cf03IbS14kLE2kNrdKD+JyXUreI7d7nHp4e1aONj6hupERtzdYYeoqmu5kVzkI/r9bjx/UaEBmbvWUoYS4rOYGwX9QkHuKkeRycUDAgo39QH4y034PVnSh8ZjW1y91JGThsEYBOZ+9g28MeFu0JQtlxpQL0=;Iy5LuTe5FJstnWId1qArJg=="
 ---
 

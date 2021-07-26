@@ -57,8 +57,8 @@ related:
         isCached: true
   - title: "Pelosi will ask anti-Trump Republican Kinzinger to join 6 January panel"
     excerpt: "Speaker wants Illinois representative to join Liz Cheney after minority leader withdrew support over rejection of Trump allies"
-    publishedDateTime: 2021-07-25T13:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
+    publishedDateTime: 2021-07-25T14:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan?ut"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/25/donald-trump-republicans-6-january-capitol-attack-house-committee-pelosi-kinzinger-banks-jordan"
     type: article

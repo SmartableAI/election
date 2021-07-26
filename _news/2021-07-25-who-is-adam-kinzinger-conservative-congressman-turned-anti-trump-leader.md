@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/who-is-adam-kinzinge-conservative-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3101b4e-939c-4748-b0fc-d719b82ad184/cd60b583-8bd4-4c85-8abe-77c4dce68e27/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Sarah Sanders encourages vaccinations, praises Trump's Operation Warp Speed in new op-ed"
+    excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders on Sunday hailed former President Donald Trump for Operation Warp Speed and gave her own reasons for getting vaccinated against COVID-19 in an effort to reach the conservative holdouts who may remain skeptical."
+    publishedDateTime: 2021-07-25T20:05:00Z
+    webUrl: "https://www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed"
+    ampWebUrl: "https://www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-encourages-vaccinations-praises-trumps-operation-warp-speed-in-new-op-ed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3101b4e-939c-4748-b0fc-d719b82ad184/cd60b583-8bd4-4c85-8abe-77c4dce68e27/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
