@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp"
 type: article
 quality: 127
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1848951/caitlyn-jenner-attends-oscar-party.jpg"
         width: 2500
         height: 1664
-        isCached: true
-  - title: "Donald Trump returning to Arizona for first post-presidency rally in state"
-    excerpt: "Former President Donald Trump's 2020 loss, the Jan. 6 riot and the ballot review have helped upend Arizona's political climate."
-    publishedDateTime: 2021-07-24T14:09:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 73
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "Ga2dp0oOmPeqmXk+3sJpIomU2CwrH+CO+A0LQ4y7Q5iIjyIfU+GM1C+cC2KjQag/Lm/x0yduiQVhbfc/xilCFX6BCrZLEJqaGuoH3i+DCVo1URuT1Ed97R5K3O0pXBNpEaGv3utJdl8/ePG8/BIZfh4mX0E0AY0iXYps29bQBsPuDVGAT98yBNzGqlWEALJl4fGUG89o9E5FbFBuVQILUOh0EEKOI9WX15VfXW/OPULf1OLyp9rM1o3YpwOmocGKwRpNY94elocVKpnwlKGMbvojj43JnoAo20tfkTmPCYL4AKIDXHurJpS+pkC3x+hqkBM8CNCA04mUsdHYMQ6w5XHOd6hG8X+vtAfLzAfY1Y9xqJQdMtkgvLX86v0WIAsvQzeutrP0Nsqj1Gm25c56MWXF1FjBMk9f5mDjXXyr4qTobmSWRQSwolv7He7I0tr72BSMO2DHNJJTs9ehONpZQ9QaI8eoI8iFxBPPNgaBW6NzgN3CzmqVqTS7zWJqSXl2HG48DMPF/ZInhkrcOeNlxg==;ipQZ0Sl1ingtt21hcEp6gQ=="

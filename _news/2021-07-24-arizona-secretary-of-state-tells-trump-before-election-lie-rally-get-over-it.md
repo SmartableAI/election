@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
 type: article
 quality: 137
-heat: -1
-published: false
+heat: 377
+published: true
 
 provider:
   name: The Guardian
@@ -31,295 +31,178 @@ images:
     isCached: true
 
 related:
-  - title: "AP fact check: Trump is relentless in election fabrications"
-    excerpt: "Ex-President Trump is telling some thoroughly debunked stories as he presses to undermine the legitimacy of his election defeat to President Biden."
-    publishedDateTime: 2021-07-25T09:42:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications?_amp=true"
+  - title: "Trump ally Barrack allowed to remain free ahead of lobbying trial"
+    excerpt: "A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's billionaire ally Thomas Barrack to be released from custody while he awaits trial on charges of illegal lobbying on behalf of the United Arab Emirates."
+    publishedDateTime: 2021-07-23T22:06:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-barrack/update-3-trump-ally-barrack-allowed-to-remain-free-ahead-of-lobbying-trial-idUSL1N2OZ1JV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET20A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET20A"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 140
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/4226aa3/2147483647/strip/true/crop/6616x4321+0+45/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff8%2Ff9%2F728efb701d9832c9862b57707ba0%2F54355c86dfa44e29b7d434fbb6110d3a"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "'You understand that?': Tom Brady ribs Biden over Trump's false election claims – video"
-    excerpt: "Brady joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with US president Joe Biden."
-    publishedDateTime: 2021-07-20T20:01:00Z
-    webUrl: "https://www.theguardian.com/sport/video/2021/jul/20/you-understand-that-tom-brady-jokes-with-biden-over-trumps-false-election-claims-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 127
-    images:
-      - url: "https://i.guim.co.uk/img/media/eb4183247e69b9b29b6a3a71a1bb572461d60acb/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ead5c65e05fdefed170340c4582db42"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
-    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
-    publishedDateTime: 2021-07-14T16:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569801814&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M18F"
+        width: 905
+        height: 545
         isCached: true
-  - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
-    excerpt: "Former President Donald Trump issued three statements in two days claiming that voting fraud and irregularities cost him Arizona’s electoral votes"
-    publishedDateTime: 2021-07-17T22:52:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-makes-false-claims-arizona-78905932"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d41fc5cd7794411798da8de37cc52341_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Fact check: Donald Trump says Capitol rioters had 'no guns whatsoever'"
-    excerpt: "There were no guns whatsoever” in the riot at the U.S. Capitol on Jan. 6 — former President Donald Trump In a Fox News interview, Trump went on to describe the events of Jan. 6 by saying that “people with no guns walked down” to the Capitol,"
-    publishedDateTime: 2021-07-19T09:00:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Donald-Trump-says-Capitol-rioters-16314194.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Donald-Trump-says-Capitol-rioters-16314194.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Donald-Trump-says-Capitol-rioters-16314194.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/00/23/21234900/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "State Republicans shun lawmakers critical of Trump and his big lie"
-    excerpt: "Internal battles may ultimately weaken the party, critics suggest"
-    publishedDateTime: 2021-07-20T07:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/20/state-republicans-shun-lawmakers-critical-trump-big-lie"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/fce1868a1bec15ef1336a53710bd312b9deda8a5/0_160_4828_2898/master/4828.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=880ab2dc89a9f6825e1629645fe21763"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump ally Tom Barrack charged with acting as foreign agent"
-    excerpt: "Tom Barrack, a wealthy investor who served as chairman of the 2016 Trump Inauguration, has been arrested on charges of allegedly acting as a foreign agent. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to explain the allegations."
-    publishedDateTime: 2021-07-21T13:50:00Z
-    webUrl: "https://www.cbsnews.com/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/tom-barrack-trump-fundraiser-charged-acting-as-foreign-agent-uae/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/21/143d547a-ad95-4d5c-9e0c-99e897736666/thumbnail/1200x630/5534e7f0ee979b8054872af41423c4a2/cbsn-fusion-trump-adviser-tom-barrack-accused-of-acting-as-foreign-agent-thumbnail-758024-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump inaugural committee chair to be released on $250M bail"
-    excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee has been ordered released on $250 million bail to face charges he secretly worked as an agent for the United Arab Emirates to infl"
-    publishedDateTime: 2021-07-23T20:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-committee-chair-released-250m-bail-79021078"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_57b2dffb6cde45fa98168a1bd3a1bcdb_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Watch live: Trump attends rally in Phoenix"
-    excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
-    publishedDateTime: 2021-07-24T21:01:00Z
-    webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
-    ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "At 98 and facing cancer, Bob Dole reckons with legacy of Trump and ponders future of GOP"
-    excerpt: "\"I'm a Trumper,\" said Dole, the only former GOP presidential nominee to attend Trump's convention in 2016. But he added, \"I'm sort of Trumped out.\""
-    publishedDateTime: 2021-07-22T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/22/98-bob-dole-reckons-legacy-trump-ponders-future-gop/7995412002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7995412002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7995412002"
+  - title: "Trump rally updates: Trump supporters say they’re not what people say they are"
+    excerpt: "The event, dubbed the “Rally to Protect Our Elections,” marks Trump’s first trip back to Arizona since the presidential election."
+    publishedDateTime: 2021-07-25T14:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/24/trump-rally-phoenix-former-president-senate-governor-candidates-expected/8059090002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8059090002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8059090002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 116
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/21/USAT/5936d2f9-3a0f-449e-ac14-704a6507b275-AP_Biden_Dole.jpg?auto=webp&crop=5118,2879,x1,y156&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/07/24/PPHX/f8458760-9fc7-4e4f-8662-cbf55c331072-DW1_0652.JPG?auto=webp&crop=2799,1574,x0,y135&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Aides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book"
-    excerpt: "Aides to former President Trump intentionally gave his then-personal attorney Rudy Giuliani the wrong time for a presidential debate preparation event last year, according to a new book"
-    publishedDateTime: 2021-07-20T02:25:00Z
-    webUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump"
-    ampWebUrl: "https://thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/563805-aides-who-clashed-with-giuliani-intentionally-gave-him-wrong-time-for-trump?amp"
+  - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
+    excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
+    publishedDateTime: 2021-07-24T17:31:00Z
+    webUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791"
+    ampWebUrl: "https://www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-gop-audit-director-barred-recount-after-sharing-data-supporting-trump-loss-1612791?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 114
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://thehill.com/sites/default/files/giulianirudy_111920gn6_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://d.newsweek.com/en/full/1854322/arizona-audit.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "The chair of former President Donald Trump’s inaugural committee to be released on $250 million bail"
-    excerpt: "The chair of former President Donald Trump’s inaugural committee who faces charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy was ordered released from jail Friday on $250 million bail."
-    publishedDateTime: 2021-07-23T21:45:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 110
-    images:
-      - url: "https://www.chicagotribune.com/resizer/O2x20Ct3l2CEiOK9Po_o0rOWwtM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSL6K3AQQTTDR4IZIYSGHTOPNY.aspx"
-        width: 1200
-        height: 704
-        isCached: true
-  - title: "Senior Democrat Proposes Cap on Trump-Era Business Deduction"
-    excerpt: "Senate Finance Committee Chairman Ron Wyden has drafted legislation that would overhaul a major part of the 2017 tax overhaul that Republicans billed as a boon to small businesses, and Democrats have criticized as benefiting wealthy business owners."
-    publishedDateTime: 2021-07-20T05:46:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/senior-democrat-proposes-cap-on-trump-era-business-deduction/2021/07/20/fb8d3592-e946-11eb-a2ba-3be31d349258_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5D4QYJXJIYI6XIV2HPRR2NESLA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "AP FACT CHECK: Biden inflates jobs impact from his policies"
-    excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office"
-    publishedDateTime: 2021-07-22T01:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-inflates-jobs-impact-from-his-policies/2021/07/21/d734cf4e-ea8a-11eb-a2ba-3be31d349258_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MV7L4LXKREI6XIV2HPRR2NESLA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trouble is brewing for a Georgia county's investigation into Donald Trump"
-    excerpt: "The Fulton County district attorney is committed to investigating Trump. But a criminal case backlog and a spike in Atlanta-area crimes is complicating matters."
-    publishedDateTime: 2021-07-23T08:00:00Z
-    webUrl: "https://www.businessinsider.com/georgia-election-donald-trump-fulton-county-investigation-fani-willis-2021-7"
+  - title: "Trump aides told him over a McDonald's meal to stop bitching about losing in Iowa to Ted Cruz in 2016"
+    excerpt: "Corey Lewandowski, Trump's 2016 campaign manager, said Trump was told to stop complaining about losing Iowa or his presidential bid would be over."
+    publishedDateTime: 2021-07-20T14:34:00Z
+    webUrl: "https://www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 104
+    quality: 110
     images:
-      - url: "https://i.insider.com/60f9e08efc253600181ff47f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60f1e6b77b0ec5001800a934?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
-    excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."
-    publishedDateTime: 2021-07-14T17:57:00Z
-    webUrl: "https://www.chron.com/news/article/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
-    ampWebUrl: "https://www.chron.com/news/amp/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
+  - title: "Ariz. Secy. of State calls for probe of Trump..."
+    excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-09T04:45:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
-    excerpt: "Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona's electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate Republicans to oversee a partisan review of the 2020 vote count in Maricopa County,"
-    publishedDateTime: 2021-07-21T13:33:00Z
-    webUrl: "https://www.chron.com/news/article/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
-    ampWebUrl: "https://www.chron.com/news/amp/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-FACT-CHECK-Trump-makes-false-claims-about-16321831.php"
+  - title: "The media scramble at the heart of Trump Book Summer"
+    excerpt: "As multiple books about the last president race to the shelves, juicy revelations have journalists chasing advance copies and looking for the best parts. It’s not bad for sales."
+    publishedDateTime: 2021-07-17T09:47:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/trump-books-journalist-scoops/2021/07/16/99241cc0-e574-11eb-b722-89ea0dde7771_story.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WGMCKWXGLUI6XJA6ZBCCYIJ7VA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "AP FACT CHECK: Biden goes too far in assurances on vaccines"
-    excerpt: "President Joe Biden offered an absolute guarantee Wednesday that people who get their COVID-19 vaccines are completely protected from infection, sickness and death from the coronavirus. The reality is not that cut and dried."
-    publishedDateTime: 2021-07-26T03:38:00Z
-    webUrl: "https://www.westport-news.com/business/article/AP-FACT-CHECK-Biden-inflates-jobs-impact-from-16330995.php"
-    ampWebUrl: "https://www.westport-news.com/business/amp/AP-FACT-CHECK-Biden-inflates-jobs-impact-from-16330995.php"
-    cdnAmpWebUrl: "https://www-westport--news-com.cdn.ampproject.org/c/s/www.westport-news.com/business/amp/AP-FACT-CHECK-Biden-inflates-jobs-impact-from-16330995.php"
+  - title: "Trump ally Barrack to be freed on bond ahead of trial"
+    excerpt: "Politics Trump ally Barrack to be freed on bond ahead of trial. Posted . A judge in Los Angeles on Friday signed off on a deal that allows former U.S. President Donald Trump's bil"
+    publishedDateTime: 2021-07-23T21:50:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-ally-barrack-to-be-freed-on-bond-a-idOVEN2H78F?chan=6g5ka85"
     type: article
     provider:
-      name: Westport News
-      domain: westport-news.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2H78F&r=OVEN2H78F&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Tom Brady Jokes With Biden at White House About Trump's False Election Claims"
-    excerpt: "Tom Brady, a U.S. football legend and longtime friend of Donald Trump, gently ribbed the former president and his false claims of election fraud in a White House visit Tuesday. The 43-year-old quarterback joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with President Joe Biden."
-    publishedDateTime: 2021-07-20T17:50:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-07-20/tom-brady-jokes-with-biden-at-white-house-about-trumps-false-election-claims"
+  - title: "5 things we learned from Trump's 1st post-presidential visit to Arizona"
+    excerpt: "Former President Donald Trump returned Saturday to Arizona, a state that has been central to his political rise and fall."
+    publishedDateTime: 2021-07-25T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/25/5-things-we-learned-trump-1st-post-presidential-visit-arizona/8072602002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
+  - title: "Donald Trump returning to Arizona for first post-presidency rally in state"
+    excerpt: "Former President Donald Trump's 2020 loss, the Jan. 6 riot and the ballot review have helped upend Arizona's political climate."
+    publishedDateTime: 2021-07-24T14:09:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump returns to Arizona, attacks Doug Ducey and praises GOP state senators"
+    excerpt: "Former President Donald Trump praised his Arizona GOP allies, attacked Republicans he sees as enemies and continued to falsely claim election fraud."
+    publishedDateTime: 2021-07-25T00:22:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/24/trump-rally-phoenix-turning-point-action-gop-candidates/8072162002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8072162002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8072162002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/PPHX/1a772ace-5af1-4055-bc74-8993c6de5a47-cent02-7ctzszl6fv71glfrohle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'So there's that': Arizona senator fires back after Donald Trump rips him for opposing audit"
+    excerpt: "Former President Donald Trump assails state Sen. Paul Boyer and accuses him of holding up the ongoing audit. The Glendale Republican fires back."
+    publishedDateTime: 2021-07-24T00:49:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/07/23/donald-trump-assails-arizona-senator-paul-boyer-for-not-backing-election-audit/8077152002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8077152002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8077152002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/23/PPHX/9bddd6ca-c6ed-429c-8228-cc6360570e33-cent02-7gcdwft4u0l1l07fs837_original.jpg?auto=webp&crop=3533,1988,x0,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Prosecutors Agree to Allow Trump Ally Barrack Free Pending Trial"
+    excerpt: "Former U.S. President Donald Trump's billionaire ally Thomas Barrack has reached a deal with prosecutors that will allow for his release from custody while he awaits trial on charges of illegal lobbying,"
+    publishedDateTime: 2021-07-23T18:18:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-07-23/trump-ally-barrack-reaches-bail-package-deal-with-prosecutors"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 62
+    quality: 35
 
 secured: "ViIVqQWirmoVUFHd5OM7pTM1Q3+NT8+lDXZkq+TMT83Fv6fNB3pKrdtVyGQMnfETVHjAUh+SsWS2xb7GzSCCj64cQtjQUgfeWXOaNefJZmSA/ZdPGo5KHoLYv6RYNAJeeiiUVhWon3dULQzjI8rDWNjEEvOwWrBRbdRB2Oari6tJa2/7LY+Rfqed1mmhB3oKc1b66HbKql7Eid7uHCfqJ25tdH0ARL8MosZqSf367CG43ALmsytauLywXcnT6ErpZLrrENpc+sTOoybZ4JONnUXu32YNsujjtiQIgkCUlrbK8IbZEWH2pwQQ8dSnqu7pXeCNY4xc7bKIMnuhOY1eMhQT/K/eu9x4GOkKioRQ96Mb2eyfCHXnnp+5GAx7tvl1F5NJIwINmtqDFne7OTapm+4gZTMTUd575Q0/1BAJJQXCGggSwMf7PGurIS4fdt2ds5OKDIgY6o+9Frn3nIG6C7bL3Rp2brLxOJ8Q+CmZxJH01ttb08VNQVP53dbthbxrff4oARNnrBo3XYwreqqcyg==;XgH+nd/uOx9mz8r2hyfvDA=="
 ---

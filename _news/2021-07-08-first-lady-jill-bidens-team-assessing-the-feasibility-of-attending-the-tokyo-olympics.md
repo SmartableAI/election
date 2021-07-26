@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jill Biden brings a dose of normalcy to Olympic Games amid a pandemic "
+    excerpt: "At a very not-normal Olympic Games kick-off, first lady Jill Biden was, outside of the athletes themselves, perhaps the only normal part.\n    \n"
+    publishedDateTime: 2021-07-25T20:30:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u3by67kxfX4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/jill-biden-olympic-games-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/jill-biden-olympic-games-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725140717-02-olympics-jill-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Jill Biden heads to Tokyo amid growing concern about Covid and the Olympics"
     excerpt: "Jill Biden departs Wednesday morning for a five-day international trip to Tokyo, Japan, her first solo trip abroad as first lady of the United States.\n    \n"
     publishedDateTime: 2021-07-21T09:00:13Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/8075835002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8075835002"
 type: article
 quality: 112
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Biden to announce end of US mission in Iraq; typhoon headed for Olympics; Jan. 6 committee to start work"
+    excerpt: "President Biden set to announce end of U.S. mission in Iraq; typhoon headed for Olympics; and Jan. 6 committee begins work. Get caught up."
+    publishedDateTime: 2021-07-26T11:30:00Z
+    webUrl: "https://omaha.com/news/national/biden-to-announce-end-of-us-mission-in-iraq-typhoon-headed-for-olympics-jan-6/article_45e153c0-df38-5d53-b1aa-2d7d6bcb7669.html"
+    ampWebUrl: "https://omaha.com/news/national/biden-to-announce-end-of-us-mission-in-iraq-typhoon-headed-for-olympics-jan-6/article_45e153c0-df38-5d53-b1aa-2d7d6bcb7669.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/biden-to-announce-end-of-us-mission-in-iraq-typhoon-headed-for-olympics-jan-6/article_45e153c0-df38-5d53-b1aa-2d7d6bcb7669.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 58
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/45/f45e5382-973d-5a9a-9b98-e1ae66d7ae45/60fe98480cfa2.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "Uly8soUsh5uBXFriUy9A5hpc+ijqgDlE+f/wL95HjvJYafkWtKah+HSSpz6dGLNirrXZxJwHtF1+6NXV6NpoXsVj8cR4pdSEXRLBJIO5OF2hfShzhYAFHbQXEuVk+OakPOPbmIyY8t8NLQcyYyD378ao2sZ9YxlcpFEV2c4GuJfffhqnC7IiWRYOtEjI67pwJJPqDpM0uxuNdariIcxuwZQ/wOuYbUSjs7PoBnx5TeSnNjaGW8z7yDkooFu6ZQqiVmlCpySER8VVC8A25hai2kAjhqPuZ9t3KDVb128gJcFCK6uwNS8O7kvSRYBZzBTGrqdocCwTvUj0RfZi9fkeVG5OBJchDWsrX4BKbbPHC64=;eeWvzcndCgTsWaz2d/7PAg=="

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "AP fact check: Trump is relentless in election fabrications"
-excerpt: "Ex-President Trump is telling some thoroughly debunked stories as he presses to undermine the legitimacy of his election defeat to President Biden."
-publishedDateTime: 2021-07-25T09:42:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications"
-webUrl: "https://www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-25/ap-fact-check-trump-election-fabrications?_amp=true"
+title: "AP FACT CHECK: Trump is relentless in election fabrications"
+excerpt: "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden"
+publishedDateTime: 2021-07-25T04:09:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
 type: article
 quality: 140
-heat: 520
+heat: 500
 published: true
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,42 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/4226aa3/2147483647/strip/true/crop/6616x4321+0+45/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff8%2Ff9%2F728efb701d9832c9862b57707ba0%2F54355c86dfa44e29b7d434fbb6110d3a"
-    width: 320
-    height: 209
+  - url: "https://s.abcnews.com/images/Politics/WireAP_ed96847b6f054e7392989f75fa9f50f7_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Arizona secretary of state tells Trump before election lie rally: get over it"
-    excerpt: "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event"
-    publishedDateTime: 2021-07-24T16:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 137
-    images:
-      - url: "https://i.guim.co.uk/img/media/274b71ffa728f51467d86bfb18529a226c27cbf3/0_180_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f8b06ce6f4b954493ef7f27f5896593"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "'You understand that?': Tom Brady ribs Biden over Trump's false election claims – video"
-    excerpt: "Brady joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with US president Joe Biden."
-    publishedDateTime: 2021-07-20T20:01:00Z
-    webUrl: "https://www.theguardian.com/sport/video/2021/jul/20/you-understand-that-tom-brady-jokes-with-biden-over-trumps-false-election-claims-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 127
-    images:
-      - url: "https://i.guim.co.uk/img/media/eb4183247e69b9b29b6a3a71a1bb572461d60acb/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ead5c65e05fdefed170340c4582db42"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
     publishedDateTime: 2021-07-14T16:45:00Z
@@ -172,6 +142,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
+    excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
+    publishedDateTime: 2021-07-20T19:17:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-20/tom-barrack-trump-inaugural-committee-arrested-uae?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 118
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/20f11bb/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F11%2F825d53524b58a7c9ca2b7781e084%2Fla-photos-1staff-810473-me-0716-vaccine-leimert-park-007.IK.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "At 98 and facing cancer, Bob Dole reckons with legacy of Trump and ponders future of GOP"
     excerpt: "\"I'm a Trumper,\" said Dole, the only former GOP presidential nominee to attend Trump's convention in 2016. But he added, \"I'm sort of Trumped out.\""
@@ -321,6 +307,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "9K3r7nconoAC8u4oOjQBQu/1mWoQiI8zwFC4mTd3CI4WGLJ3gXbDhvfdT5fdGqAlvyDfUA559XONVPoLzSPW7BDrWbs1NxHJLI+68gDdS3/BE+q/QFUAIpiCxOVUqblDYDhTptv0bXtgp2MGEn5nxUyG3GTJ/0nQxLzHFg6FuhrgmNHxu70R3Zd2wKqGAH3JuNeBID2H1b+7pikLSW/wsPi1o8S9yxBusvyWC804ZOBQR/Blu95aAaafX2R+VBiG8fhzGThNTwjySQVVaGzIQ06TQmg4x0wlxsJex1X6MAq7C6LyfbHqSMYhvZk+D1kIz8WlXDm4ueGbOQrPMxD/Z4kOZbJ7G6Dkqbs9lUz4zMS5BUqDPiXrBaXWGeMln411jtsTxd+OrUzRUUZJJM5FrDWR4Q255v7XfnHn6gUqVFowgBeU97OheSLol+dxstoFF2z+qU0kuCsdYgN+cn+qIQ5/zNm4stvdDyb3AC1Y2i4o+C+qga8+r5JwriMYljOABeBc2V5KVnbnwj02Dzi7Kw==;0+RLkpIxil0jiJsUJcqHOg=="
+secured: "ly7MOeMyZQzBywaku6egyPV5GTHJ97qtn8NUfJPpt+OfJPngvNSTrrxKCDlUB1bVptcGJ0azvNt+jRN3ngZOfsYBp9ggljSdynYSg1+0WBi2LsYNY6elk3uEt12vpg0SBgn5Pyc6FhErbZWx/TUwe3yuJmzxvBO7GUVngeia6qMXcA6YNgtwci6thnpVxaR7AV8VJCrWkf4YDUOAIRkPt/bjkZ0I2BioBRmB1BjdgqMyWM+lZ1cMT8JSGQkQgnsofe036r87bql2+YagqvXoR1wDUQCs19s545x6zpDGlQwwp4wavDKbUlWwH0aSi27xvhZ7Iz2IlypWDtePqcFyM2xq1yCUhys8H0dB5NNJ4BI=;1vr+APKg+Gpt+VEkJ1L3eA=="
 ---
 

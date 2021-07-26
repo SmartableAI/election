@@ -192,6 +192,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Protests break out in front of WH urging Biden to take firmer stance on Cuba"
+    excerpt: "Protesters from across the U.S. converged in front of the White House Sunday night in an effort to get the Biden administration to take a firmer stance in its effort to support anti-government demonstrators in Cuba."
+    publishedDateTime: 2021-07-26T10:12:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRw4FAueiyA/protests-break-out-in-front-of-wh-urging-biden-to-take-firmer-stance"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/WHITEHOUSE-CUBA-PROTEST.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s China Policy Borrows From Trump and Adds Allies to Raise Pressure"
     excerpt: "The president’s policy will get a test when U.S. Deputy Secretary of State Wendy Sherman travels to China for the first face-to-face meeting of senior officials in more than three months."
     publishedDateTime: 2021-07-22T13:34:00Z

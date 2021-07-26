@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-pri
 webUrl: "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7"
 type: article
 quality: 94
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "5 things we learned from Trump's 1st post-presidential visit to Arizona"
-    excerpt: "Former President Donald Trump returned Saturday to Arizona, a state that has been central to his political rise and fall."
-    publishedDateTime: 2021-07-25T13:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/25/5-things-we-learned-trump-1st-post-presidential-visit-arizona/8072602002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 85
 
 secured: "Bw7ncIgQ82e7MB8n1MtkHP8M3y6jk6kCc09GJ20A+xstiuTixf0m2Zagm/kXcRYKPLggZ7fXluSjbsXjTblzmY5mCEFC3leJI0e48pTFrK8A3BxSR29vjdoStkqrMnYXp7P4rxi9c27TunIMqHsI5PCCBOdl714LrInUITgzgcSuM0bkYoJ8V8RFXJ30dETJ21yTJ+Ty5ftOvbv2FvJozCyIl2WZ5pQYIQ5J4QsKYmPZei9qu2CWdmlRO0mjhry9rdqWR3GiOR6Ihfk+yBPUL9T8KpyRFR/3gwK1P3LJ2IEZ9N6bwgtzlei/VW90pF3fp01Z8kl1LwhC0wFuJmx5v10SjQg5hqTkfrgC9xietYw2ENIkXfAbh9Zh/jeUYAYB1E3Nk5fa+ktM4+GPV2I7LwiOB1Fn23MRe9Sr9W9gDE8ujuHrRNwAljxNL6EH4J1O3XdxloPfUP/N8rbsJz7DkHKrbTQHN3Te7DFOCfMpjwWm4MddkAjBDy3mk9uUqXeZOasm1Fimr8wF9juZ2PiKOQ==;X+wsgemiRHhn25ZEmHZ5yg=="
 ---

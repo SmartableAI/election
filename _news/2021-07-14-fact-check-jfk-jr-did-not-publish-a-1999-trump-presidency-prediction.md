@@ -73,6 +73,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'You understand that?': Tom Brady ribs Biden over Trump's false election claims – video"
+    excerpt: "Brady joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with US president Joe Biden."
+    publishedDateTime: 2021-07-20T20:01:00Z
+    webUrl: "https://www.theguardian.com/sport/video/2021/jul/20/you-understand-that-tom-brady-jokes-with-biden-over-trumps-false-election-claims-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb4183247e69b9b29b6a3a71a1bb572461d60acb/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ead5c65e05fdefed170340c4582db42"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
     excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
     publishedDateTime: 2021-07-09T12:48:00Z
@@ -343,36 +357,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump aides told him over a McDonald's meal to stop bitching about losing in Iowa to Ted Cruz in 2016"
-    excerpt: "Corey Lewandowski, Trump's 2016 campaign manager, said Trump was told to stop complaining about losing Iowa or his presidential bid would be over."
-    publishedDateTime: 2021-07-20T14:34:00Z
-    webUrl: "https://www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mcdonalds-complaining-iowa-caucus-corey-lewandowski-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/60f1e6b77b0ec5001800a934?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ariz. Secy. of State calls for probe of Trump..."
-    excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-09T04:45:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump makes closing speech at CPAC"
     excerpt: "Watch \"Trump makes closing speech at CPAC\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-12T11:05:00Z
@@ -456,20 +440,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQWXJBLQAVD7RE7BGU6FWUNQ2Q.jpg&w=1440"
         width: 1106
         height: 622
-        isCached: true
-  - title: "The media scramble at the heart of Trump Book Summer"
-    excerpt: "As multiple books about the last president race to the shelves, juicy revelations have journalists chasing advance copies and looking for the best parts. It’s not bad for sales."
-    publishedDateTime: 2021-07-17T09:47:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/media/trump-books-journalist-scoops/2021/07/16/99241cc0-e574-11eb-b722-89ea0dde7771_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WGMCKWXGLUI6XJA6ZBCCYIJ7VA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Top Generals under Trump feared a coup"
     excerpt: "Watch \"Top Generals under Trump feared a coup accoring to a new tell-all book\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

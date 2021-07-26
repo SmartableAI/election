@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/jill-biden-tokyo-olympic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/jill-biden-tokyo-olympics/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708134201-jill-biden-0629-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Jill Biden brings a dose of normalcy to Olympic Games amid a pandemic "
+    excerpt: "At a very not-normal Olympic Games kick-off, first lady Jill Biden was, outside of the athletes themselves, perhaps the only normal part.\n    \n"
+    publishedDateTime: 2021-07-25T20:30:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u3by67kxfX4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/jill-biden-olympic-games-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/jill-biden-olympic-games-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725140717-02-olympics-jill-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

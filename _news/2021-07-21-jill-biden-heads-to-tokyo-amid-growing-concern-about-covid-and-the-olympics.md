@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jill Biden brings a dose of normalcy to Olympic Games amid a pandemic "
+    excerpt: "At a very not-normal Olympic Games kick-off, first lady Jill Biden was, outside of the athletes themselves, perhaps the only normal part.\n    \n"
+    publishedDateTime: 2021-07-25T20:30:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u3by67kxfX4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/jill-biden-olympic-games-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/jill-biden-olympic-games-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725140717-02-olympics-jill-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady Jill Biden's team 'assessing the feasibility' of attending the Tokyo Olympics"
     excerpt: "First lady Jill Biden's team is still assessing whether it's feasible for her to attend the Olympics in Tokyo after Japan's Olympics Committee announced all spectators will be banned from the venues of the Games in the host city and the nation declared a state of emergency in the city due to Covid-19.\n"
     publishedDateTime: 2021-07-08T17:51:28Z
