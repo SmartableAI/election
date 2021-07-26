@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris Holds a Conversation with DACA Recipients"
 excerpt: "US Vice President Kamala Harris holds a conversation with DACA recipients in the Eisenhower Executive Office Building in Washington, D.C., on Thursday, July 21, 2021. Among those in the meeting were Dreamers without DACA,"
 publishedDateTime: 2021-07-22T18:06:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4a5dfef316966dadca5017f97c4c75a6/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/082e1781249502ed0d00e9b582d9ff2b/VP-Kamala-Harris-Holds-a-Conversation-with-DACA-Recipients/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4a5dfef316966dadca5017f97c4c75a6/USA-HARRIS-DACA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/082e1781249502ed0d00e9b582d9ff2b/USA-HARRIS-DACA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -282,6 +282,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Sx7w/13RixcT6+JWntBsW9E16zIZbcOFbNkCfl0EfVa7W294Il3t8cyteEA28sd8sq1d9cXGyw8jGkuzluYMhvkYc/jdO6LL467UunYlDZ/bV/cruPizZ9C5QP8pGZDmEU9p0TyDXPZq8R3udY3dN9hpxd3pYChVo/v55LgJTH90WPr+GHYVZGm/H3m5q3W2TS6tG4C/LXhdlEl30lFbd/OH6TRx9XYVjxRetoqA51nP2swOXIHk4hvszmUB9pM2MrpUXYuGv1GqqOh5Fg3cmMsLLRaLeuhWrHPOElsi4OV2tfNLj7n6gQJSPyygu5k06svK7BsxrcQ5X3i2Z69je5aFLfy+l47fmdzk2xtO01mCW7qXNA4LavjXAO992eabD+YQdzXiONfvSJ+5h/UQL9Fl5XwL8L6rEnt3JPYCRRrbaRq1nfe2JEhh03pY+UDkqmnuf7//14zOdI1/Sbmtvq5XS4G6YyXF02DJnUNlj2uRyVVl/wQhD0n0PeD2O9IgNycA8zVEgR4U/qQOLY50xg==;amMvbh3isPrunKJTabB6CQ=="
+secured: "G8hM1kzVktAlSL4EL2KgWfoN4kvtN2m16h35VynCmMzZ9veTVqwqSXop6NmL5YEB4Wvovl4oFiWRrBbjyD6hB+FbOUzYhRUIalwtyeryw6x24Lf/DkK8RkPzZONjbaP2YqrlWK6uHS37YWcVX/FrS84tbg5ol/hCFFBONLRHfPVYrQVp7akAPHkCYFT2gxt+C3IKsJAvuCUC2Q3/X9tMXlcSvOK/gAaQFD4n5CDoB5Ad/1vN/bWgnP9OLBG6vQyjm3d9jP3tc3ewjK0I2/p321AehSDD7+D+XElQHtqjSqrLW46VzKB7nEBu+3/A8PUSpEldGcuWhCBl2Aczg0MZ+UG7CkoXPAXh3KH1dBrOQL0=;c96O6OBltW/RujtkRVMNNg=="
 ---
 

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump supporter ignoring judge's order to remove anti-Biden signs from yard"
-excerpt: "A supporter of former President Donald Trump is refusing to take down signs at her mother’s home critical of President Biden despite a judge’s order to do so."
-publishedDateTime: 2021-07-22T01:54:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GgGXx45wEFM/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GgGXx45wEFM/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard"
-ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
+title: "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections"
+excerpt: "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration. "
+publishedDateTime: 2021-07-26T12:33:33Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vc4QEHqz7EY/education-nonprofit-title-ix-biden-lhamon"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vc4QEHqz7EY/education-nonprofit-title-ix-biden-lhamon"
+ampWebUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
 type: article
-quality: 188
-heat: 708
-published: true
+quality: 172
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4dc33272-52f5-43de-bbfb-7c9d4e6f4b8a/793ff61b-cf71-4f20-8755-b56fd1afeb9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
+  - title: "Trump supporter ignoring judge's order to remove anti-Biden signs from yard"
+    excerpt: "A supporter of former President Donald Trump is refusing to take down signs at her mother’s home critical of President Biden despite a judge’s order to do so."
+    publishedDateTime: 2021-07-22T01:54:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GgGXx45wEFM/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4dc33272-52f5-43de-bbfb-7c9d4e6f4b8a/793ff61b-cf71-4f20-8755-b56fd1afeb9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Levin slams Biden admin's relationship with Facebook, calls Trump's Big Tech lawsuit 'slam dunk'"
     excerpt: "Conservative commentator and author Mark Levin slammed the Biden administration for its relationship with Silicon Valley in its bid to halt the spread of misinformation concerning vaccines."
     publishedDateTime: 2021-07-17T15:31:45Z
@@ -108,22 +124,6 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8296388-755b-456e-894f-0499391e5eea/8503e4fd-ecf0-42a3-aabb-fea38e2cccf9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections"
-    excerpt: "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration. "
-    publishedDateTime: 2021-07-26T12:33:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vc4QEHqz7EY/education-nonprofit-title-ix-biden-lhamon"
-    ampWebUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -436,6 +436,6 @@ related:
         height: 500
         isCached: true
 
-secured: "uJoWcpRznpu3KMYelOPzFO2OyY616O2ps4Ne8NXJ5Tp/ehOwDCuUAgykQXhQTsjGUbcy6n6UsaTWSSGIYYd7eIS8oYYxc4EEGv04jE/pqVGf6bugtxKdVUBxzwC362sdOzuUoWzr7u2NbZ71rSeVJgVNaQBoZLQ5lN9K6XLazf7cpEKVStfEszENCvKc0GdvlWC96eYPrnWNVoJKSiZtPzekcFUJe3NJjqgd0JYkUQd7D2FirBetAZagOoggKqLZDimOTBMaasOitXZro2pYcbiAruFBgbYcfaMwrq9gyo6Lneua5gH1MyozwAodvEGNsK5Z65RhSYz1YI8FRkSWhusPhzgAKIABnWju40VZaDc=;FbF5dVy2CmTn69QbifcCqg=="
+secured: "/x6L46X1CKYCVucbcGW/5qnN02WEZt3+wLPXLitJ/DP8rU+Vt7P9CFIwD7vYgqznxelihlHXbbIUW3dlv5KqebZNf943j8GD0VX6hSjnJdYcQKXHIMMfaZadEX6By/Sco2MQMMRLo5+fXkjiBxpeAE07FoXphS0WZtMt2ukUs51Lw1Ns3PHEr4wDx2cxFshYVV2aLrRAWGUYqaL/OSdzBzyVGy1sHFAMaBf1qCfKbYVisUgLxIktvqt2kQhYos/Ps2V1wcxjvvqwRH1KGdKpqs3yoThekNnZGjEHGe7M83AcFSvCGc6C+8xVpBqdT3OfiF2gFhffAmaCbNflZTR+TVRxRoCCwCxkekFhSiiJLpE=;si2jIUtis5CqlfiK6hOHEw=="
 ---
 
