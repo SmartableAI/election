@@ -3,18 +3,18 @@ category: news
 title: "'So there's that': Arizona senator fires back after Donald Trump rips him for opposing audit"
 excerpt: "Former President Donald Trump assails state Sen. Paul Boyer and accuses him of holding up the ongoing audit. The Glendale Republican fires back."
 publishedDateTime: 2021-07-24T00:49:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/arizona/2021/07/23/donald-trump-assails-arizona-senator-paul-boyer-for-not-backing-election-audit/8077152002/"
-webUrl: "https://www.statesman.com/story/news/politics/arizona/2021/07/23/donald-trump-assails-arizona-senator-paul-boyer-for-not-backing-election-audit/8077152002/"
-ampWebUrl: "https://amp.statesman.com/amp/8077152002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8077152002"
+originalUrl: "https://www.indystar.com/story/news/politics/arizona/2021/07/23/donald-trump-assails-arizona-senator-paul-boyer-for-not-backing-election-audit/8077152002/"
+webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/07/23/donald-trump-assails-arizona-senator-paul-boyer-for-not-backing-election-audit/8077152002/"
+ampWebUrl: "https://amp.indystar.com/amp/8077152002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8077152002"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "WZLD8vCiY+ceFfe4zhoJ5mC9F3cGbIY8I7zoNXyUJ/gpBgJrJMoj+hFELI0ycafsDqrQUHQNyRcuU0hhLSy+T6p6DuYzUJXTnwVJ8NnwbchekFzL7rsJR+jZW/KV97Eb3T+Bj91vPlmxfZ2MaJDR4SENTMmy/oxnNDiVq4N9i76mf5bXKz730AXfV4EMQURbmtRhjYQGBDNRzP2IohVCvWLC3lbeTT/6De7Nz+97OpJe86LzTHrnxyiMlwf262jpSxIMuNCVgQhiNowm21SA9+PTH0LI3U5zXzkSNJyVdeZEg12k2kt/igOR7BN8xFXJgBXvFwtl8DkHF3wfGAQb0PRpFmL42KrxS+4HsA+BQmE=;IseEpFvqT3ggHu9P1+3VOw=="
+secured: "k3rEqAS++2iYjs64Hecy3UIwCoTEho9ISKiAh97l7LVgTefpLzk3A/qubJ/SzEUaNcAt8euyCnmYNnBLxX99w00xSu+1RN7jYWDsqfcWx9HbVicDnKKj7wp1a5OzZA7eKaMH4W0Mam73ateUScwD+uFe3D1RM+VUT0poza4B84jeVd+1YUpoK0JVEHMe1YNwuQ/83fNiovmaUXkfzQHcHurOszFQeRCQCOcfysvMCUnCKwy/W2qHz6BS+mi/hb/WlaRxBhwwvxCmL8PoUiqKc9bMQv5BvTuZCaXg7N1m4JQcKJZ4ff51UucDZYiDA2exkq5ctwxkTqIzUAtewzHifX7dZSI+0qGQP43OYUFBrcc=;ENIP4SoDJIdkP5X7lk1eOw=="
 ---
 

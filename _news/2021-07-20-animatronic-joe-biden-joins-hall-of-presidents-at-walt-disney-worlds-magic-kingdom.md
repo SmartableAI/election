@@ -27,75 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Biden hosts Jordan's King Abdullah at White House"
-    excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
-    publishedDateTime: 2021-07-19T20:33:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
+  - title: "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage"
+    excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
+    publishedDateTime: 2021-07-21T10:31:00Z
+    webUrl: "https://www.miamiherald.com/news/state/florida/article252899763.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article252899763.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article252899763.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/4150a494-c606-4f1f-a857-0ac16d3e3b23/main/1280x720/1m2s16ms/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
-    excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
-    publishedDateTime: 2021-07-21T12:07:00Z
-    webUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/"
-    ampWebUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
+  - title: "Visiting the Walt Disney World soon? You may see President Joe Biden’s twin on stage"
+    excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
+    publishedDateTime: 2021-07-21T10:31:00Z
+    webUrl: "https://www.miamiherald.com/news/local/community/miami-dade/article252899763.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/local/community/miami-dade/article252899763.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/community/miami-dade/article252899763.html"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 69
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
-    excerpt: "President Joe Biden welcomes Iraqi Prime Minister Mustafa al-Kadhimi to the White House on Monday. The two governments are reportedly close to striking a deal to withdraw U.S. combat troops from Iraq. The U.S. still has about 2,500 troops in Iraq."
-    publishedDateTime: 2021-07-26T07:47:00Z
-    webUrl: "https://www.coloradoan.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
-    ampWebUrl: "https://amp.coloradoan.com/amp/8075835002"
-    cdnAmpWebUrl: "https://amp-coloradoan-com.cdn.ampproject.org/c/s/amp.coloradoan.com/amp/8075835002"
-    type: article
-    provider:
-      name: Fort Collins Coloradoan
-      domain: coloradoan.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/23/USAT/f4a5def4-b4b3-4e48-9a8e-858b797dc3eb-Iraq_suicide_bomb.jpg?auto=webp&crop=4499,2531,x1,y291&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden Returns to the White House from Philadelphia"
-    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
-    publishedDateTime: 2021-07-13T23:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
-        width: 650
-        height: 940
-        isCached: true
-  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
-    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
-    publishedDateTime: 2021-07-20T13:02:00Z
-    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 48
 
 secured: "xpfDf7A/siQ3/XOMe+ZXoZZ7bGD0Y2SEmRnK8gGYRDh22I5SqYXLdDmEkaoiRmIQvIBwJSfii6sZBUH7z+nLPR69ebyUef37oYapauYrRcJyS93Pn/0pZRRgVLIAxxwljtmDXhd8PDTFh73TGD7csXBoIUtok2ktGWydXarQZcOYYGedUTVeuirasmOF4LLptVCz4vUZnsyniQtuxqw0XRgSBezEf/Bv8jDrsdbKx9mHckcFXaOuHHrBiO4RUBE0mupB5wjta1pfv60p3xdKxIc6elveoqRpU0P4pb57l22XsJ5LKt0+f+sGRxiJH8bhqO8TQA+NSbVgRh/1me0ODRbHVyM8AxYvl6Zq22MWxiLd53CgLLy3NPJ6/7cBUIi4fYWid+6G6Ziw1Sm7+h+/8aTwkCkDCCw8eK1HbIOMQ9neBzZotDU4CzddVtyyOeK7F/PQOkRXKvXGcYkyqi8zTXnrT/PzHK8vM9dbLhkSiIVjkSbEIvHn+a1YRg4rBC95LYr0eIYxgM5jnGJnesQmJA==;NbvebxAiQX77PwRPuAHNqg=="
 ---

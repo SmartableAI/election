@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
+    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
+    publishedDateTime: 2021-07-20T13:02:00Z
+    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "P/9pl6QCZHrKDhc6GhWa0cfRya0pXIY9XJYxl8sZ9CWse/25Le5Sw5a5rxEVnRQSO+7Fe5gxjRIc4G6r1ukBOp0NJpPEqHdRGGQ06XqiQrwIIGydmpcKleFZY2f9nY/ppPlhx6zPLMfin64UqyjHkK0thyIMg11nYn9iVwJYXGktGDF4MFv7JlJj03YLy3pLoWqDCltQkBvG0Bu0y++anP8q1zPWcWgPljkNRk7zBExi0IOaJuPl+N9UQjKNCccblJ8u6TOJg6xDBPS06u2nqGpbHNyBym8zdIhQMkRXDwqdMubUQN/Qw1zUhHD7nyJ9WZsgvUoQfg0CQAM0O74rz5VsGq9zX87cNi3m27iMXvCt7ne39Ge7Cwl6URtWfcqb+Sqxy+Raf20wzx++F+keY3/z3D0x7hf8ybUZGiKxKBwVVBrCCq84a9pNtktQDRBnqVTVU1lk7gwfR95C5pxwmR/Oq8KRKokXpiCCdA0c6D23rv1DA1l6qAUhvIrdHS1Q+wZTllppq/3qS0S+gCZWRw==;FWpLXTFUp5sKEQ0PnCv9Ew=="
 ---

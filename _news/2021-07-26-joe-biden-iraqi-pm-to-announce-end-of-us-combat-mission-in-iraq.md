@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Biden hosts Jordan's King Abdullah at White House"
-excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
-publishedDateTime: 2021-07-19T20:33:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
+title: "Joe Biden, Iraqi PM to Announce End of U.S. Combat Mission in Iraq"
+excerpt: "President Joe Biden and Iraqi Prime Minister Mustafa al-Kadhimi are expected to announce on Monday that they’ve come to an agreement to end the U.S. military’s combat mission in Iraq by the end of the year,"
+publishedDateTime: 2021-07-26T09:25:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-07-26/biden-iraqi-pm-to-announce-end-of-us-combat-mission-in-iraq"
+webUrl: "https://www.bloomberg.com/news/articles/2021-07-26/biden-iraqi-pm-to-announce-end-of-us-combat-mission-in-iraq"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLbPzoiVnUcc/v0/1200x660.jpg"
+    width: 1200
+    height: 660
     isCached: true
 
 related:
@@ -45,19 +45,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden, Iraqi PM to Announce End of U.S. Combat Mission in Iraq"
-    excerpt: "President Joe Biden and Iraqi Prime Minister Mustafa al-Kadhimi are expected to announce on Monday that they’ve come to an agreement to end the U.S. military’s combat mission in Iraq by the end of the year,"
-    publishedDateTime: 2021-07-26T09:25:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-26/biden-iraqi-pm-to-announce-end-of-us-combat-mission-in-iraq"
+  - title: "Biden hosts Jordan's King Abdullah at White House"
+    excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
+    publishedDateTime: 2021-07-19T20:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLbPzoiVnUcc/v0/1200x660.jpg"
-        width: 1200
-        height: 660
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
     excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
@@ -76,6 +76,6 @@ related:
         height: 683
         isCached: true
 
-secured: "dntJcCqt8kN5+66fgCE/EITZaWdmwykOMgp9T9SppDb0sTsk31JbGT+P7qpmh1cFZ+MhQEYEge54VBQdqSNojW0XlSAOHpUoulNAO4+YiPwFZ5HnlBjdTuaFkxfJLvI0yVosnurFPcJhRFjdPRdzN87vDSw3qMPCZPofnKw/a6GeR4IAC9zFaypzymqX1QnzD/qVcrQosEGj/CGM2Jwhy8tWwtQQgCmyQ6gzYpVkEo7TZFB2tSGfHztQD87jR/trPVBqdq68NJdNBbDuf/r+SjRS+FBU6z7vrOkhX+LhhgUDLx+Y7PQ6vg2Rfn0TxQXsxMu+FOaPwy4pdVHXt94ChCN7OsRCn4ehGg0fNrwCol8MAevLQKdIfrydR4oD+lRTJqDZ6PYQWRhA8Ven/XO1FwLg2LYbVAV7wsmNsN65vmJ+PQgBbzpP6bI2nWGBr9NYifbpTIsDz9QtvRgqKuXLsW53GirVzm3SjHLri/eN1AdSF+700d6jwOHtLhlkWzNYpGRMwzt5KQAnA3yYmLjV4g==;S5MYRpMyCnaxup0ZoIePZA=="
+secured: "d45VcWeG7xXpQMJ+MlI3L0ucjB7UTDq3GCb9zN+d+Q7j/eQnIJ/D+Omz4dJNtjq6e+5xrIbAa5KZR5he06Br7nwrY7rlL6oiy/prKKV7bVf8MWFhxLbl8LHR0wDAie9pbiOR7XkjtkFYqS38mNxCeBPWNHWSBvZpgHvo0cpXmqr3FEJMTQbmbtVMNFbAZu9qU9ZnY0AujR8HpqBmDAm3is2zeVi8f35D+mgDciS0Wm0IcmCftjdSe+sBV2JlQZQzwH78Og6fQqiHYeyWj0yykNAFnZq3HsTMzbAnMua1jFxpn765Tg7VbYY7Ab1XHDqtFca1E2AZB2xkF59jPnl3anUI3vebnVeJGUHXQNSBIa4=;3p+MnuU+AK9dlivPteP5Xg=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Pelosi appoints 2nd GOP critic of Trump to Jan. 6 committee"
-excerpt: "House Speaker Nancy Pelosi on Sunday named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a speci Capitol riot and pledged that the Democratic-majority panel will “get to the truth."
-publishedDateTime: 2021-07-25T17:25:00Z
-originalUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
-webUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
-ampWebUrl: "https://www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
+excerpt: "House Speaker Nancy Pelosi has named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a special committee investigating the Capitol riot"
+publishedDateTime: 2021-07-25T18:04:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
+webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Politics/WireAP_54355c86dfa44e29b7d434fbb6110d3a_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -235,6 +239,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Qi4NLZkeu7SbbsaWFe3vKwtotH91Tm4iN5XCtWyqrJOjUstZCHr9SylhodCxwcFHDAuqbueByDeS3l1x2m0jAqEuejfHe4LpZlWbgISblSNLYPJjqIqFy59rZnD3QoLKA3eYGhttyM//mg/4duDiNHIYSSkJlyGPsizceFUYCuQIc9CECb2uF5NOK6QNU93UDu+7ilYiqT6VM7JdSqSHVa7KjBQY2WDB3r5LQeYBkJFro77fO3gZ5W/5DbJGZcU+A3iYBTU+dnfuekfo19RCDc43pFZXCxS2f7Uynl4Dk1n9Q0p15WjINKB/6+faj9ji0tOqEsCXry9R6LOpyGLjaMvxItowcViBuN73UoJOuFU=;E4N10mcHMNcay/nItABHBQ=="
+secured: "Qtx025nlO/t4+kst0nmbVb+4axRpXOpYYNx2qW0/z4Hx98wAROlF2HAhU7SEBOpkoggbyORlt1oUlsJCijWtMUVk5UiuifzF06VDpyZRCmlb/kyEpNCMIvFuxqKrX4DqNWTkJsBlawyA0KgftK7NUznJ9Zb5RyoWP9/1dHOQRqH1TWYFF5P0lWQdJ27lPSEUFoKm/qoYuZIM5RFDGOVbsWIcypomyxRahJTW387vdLuE4T48LZZgmqwvVcWmSyJXEBjc8PhygeiEHkeUvX2XwjMHXXbl2bBy+LXOLYRwStF5LfW+ET0RpPRBarAKtDXqu3W0wlsdVG83PEI7v2OBdowcJI7aiGCgfb6BZon7Du8=;dvKR5kGUzmTAhay+oouaTg=="
 ---
 

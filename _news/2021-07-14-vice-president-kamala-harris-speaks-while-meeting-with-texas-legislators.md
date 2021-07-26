@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
 excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
 publishedDateTime: 2021-07-13T23:12:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f0343cafa05b38e92afec0b86e01bd60/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f0343cafa05b38e92afec0b86e01bd60/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/f13281bffbaa8a5991b95be322a9ed2e/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/f13281bffbaa8a5991b95be322a9ed2e/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
 type: article
 quality: 54
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f0343cafa05b38e92afec0b86e01bd60/TEXAS-DEMOCRATS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/f13281bffbaa8a5991b95be322a9ed2e/TEXAS-DEMOCRATS.jpg"
     width: 650
-    height: 974
+    height: 433
     isCached: true
 
 related:
@@ -410,6 +410,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MlpoLB1UiED8uYjFYfsxhts71BatQ3Q/FZtsyzKp7U0AYl7EthKmsVI9fl0mL0J52B7IROLwU0VYzNEtCyvBUlpVJPFlfaaHTU/h5aOYFM0HF7b9jlJuEDQ5NuB5pJprgT2Zi4M6JqYc3BJGBuLaNVFILtGJGIJ47IMPQ9WfGCVz9RDiuqY/BR4aBMX71iX4F1xnphXcwKc0GfMRi+uhzYmrnxqVeI7XiUcU+GHmQtYW3xRJAj8CVuhF0TV+qfNQu55UwLeGZCmVtW29zZpua4cqzPsTxrwREFGZFHxXcfF/Djy5F9WWsb+94UUMujBaARef2AaQUklL8N0rvo3jqTwgre2Npz3+Eclp+mH/1HbWJ25KhPadxAZEy4CwVoSRQXK4RsZyzWo8eNGwSyO4XcG8ZxdxYjuCXIUyb7Q/aT6WVr61I/HPgxWTxg13E8CriP3uHsn4iAFWHJsnEaieV28q+uvW9tGD6k3nD+MliHfxzcaarpOsCT09P6GaBn+gYUz1KMun9Wh2q1Ulf7HqkA==;NgQCWN8+uXkmgMAMbxbXCg=="
+secured: "acihqh9O7WOiCfHM8AiZC6PzG1hC5LjGcAMb86Wx6dohmjUDK2m1U6oVYfTE+aA/wHsWQsn+yojppCbdZhSxCZwp/xCySxvMpotc8oqh7IDb9REl5UfX/nycCqGo1xCCp1QqX+PULpM6/QYILWNBPH0PwcVOUkzB1KQK1v+Wnvt/LaK0fuVuDdkh5gOaIDQqu1XhcPdamrENNq4lKxnRRqOHnWvkmJBO5JKH1Yxb4YZrifC7QMDm1Dm8Memd68uRL9JANLtJqstH8foLb357RYJ4GqdckdD4HjVptgEVR2sHF3OEgS2/qqC7b7TSzi1W6NtEHi+WmIoVVz7Erb7MawfoYFiRMMGGWIkb1I3IEuY=;xk/HbMks6tspKSgeYLfePA=="
 ---
 

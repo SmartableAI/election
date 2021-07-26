@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
-excerpt: "President Joe Biden welcomes Iraqi Prime Minister Mustafa al-Kadhimi to the White House on Monday. The two governments are reportedly close to striking a deal to withdraw U.S. combat troops from Iraq. The U.S. still has about 2,500 troops in Iraq."
-publishedDateTime: 2021-07-26T07:47:00Z
-originalUrl: "https://www.coloradoan.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
-webUrl: "https://www.coloradoan.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
-ampWebUrl: "https://amp.coloradoan.com/amp/8075835002"
-cdnAmpWebUrl: "https://amp-coloradoan-com.cdn.ampproject.org/c/s/amp.coloradoan.com/amp/8075835002"
+excerpt: "Meeting between Joe Biden and Iraqi prime minister comes amid reports the two countries are nearing agreement on redeployment of U.S. combat troops."
+publishedDateTime: 2021-07-26T07:00:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
+ampWebUrl: "https://amp.usatoday.com/amp/8075835002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8075835002"
 type: article
-quality: 62
-heat: -1
-published: false
+quality: 112
+heat: 172
+published: true
 
 provider:
-  name: Fort Collins Coloradoan
-  domain: coloradoan.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -41,21 +45,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
-    excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
-    publishedDateTime: 2021-07-20T16:30:00Z
-    webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-    ampWebUrl: "https://amp.indystar.com/amp/8027480002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
+  - title: "Joe Biden, Iraqi PM to Announce End of U.S. Combat Mission in Iraq"
+    excerpt: "President Joe Biden and Iraqi Prime Minister Mustafa al-Kadhimi are expected to announce on Monday that they’ve come to an agreement to end the U.S. military’s combat mission in Iraq by the end of the year,"
+    publishedDateTime: 2021-07-26T09:25:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-26/biden-iraqi-pm-to-announce-end-of-us-combat-mission-in-iraq"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 69
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLbPzoiVnUcc/v0/1200x660.jpg"
         width: 1200
-        height: 675
+        height: 660
         isCached: true
   - title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
     excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
@@ -73,30 +75,7 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Joe Biden Returns to the White House from Philadelphia"
-    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
-    publishedDateTime: 2021-07-13T23:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
-        width: 650
-        height: 940
-        isCached: true
-  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
-    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
-    publishedDateTime: 2021-07-20T13:02:00Z
-    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
-secured: "bvanPhCV9jMI+y6BmDavydUOXG2LmuSVwPqO0uXfjLQdK6pROzot2u0w0eLnTLVo7hOOIuS2M/aBtnAlOsHhktKS/VJtd4hnNZcST3yQr9lTYJdBnUpoGILb045S4GRJZ/ZhXZAZa8EIIa4D6PEzfh7nJyO4nnL5SiUJalNOhvX6qIVcPlNeE2z6XEZ7EAsowzTCZkCiIwyzoH61SwMy4NKCHHuQbI+Xp77od/8VEY28DLQIrC9qVSb9zcukfwKpR7JruOoMZNbEnGnzgzauFgkInLmBYyHa74pD7WDKofyQqWQ/ZYxXJee8YrPi8IBKSmR53DabUTEOmaspveJ0T01pKJiOCbfGREehhaP1xec=;GyfHvC4Nm1S5iIj4ltrbdA=="
+secured: "Uly8soUsh5uBXFriUy9A5hpc+ijqgDlE+f/wL95HjvJYafkWtKah+HSSpz6dGLNirrXZxJwHtF1+6NXV6NpoXsVj8cR4pdSEXRLBJIO5OF2hfShzhYAFHbQXEuVk+OakPOPbmIyY8t8NLQcyYyD378ao2sZ9YxlcpFEV2c4GuJfffhqnC7IiWRYOtEjI67pwJJPqDpM0uxuNdariIcxuwZQ/wOuYbUSjs7PoBnx5TeSnNjaGW8z7yDkooFu6ZQqiVmlCpySER8VVC8A25hai2kAjhqPuZ9t3KDVb128gJcFCK6uwNS8O7kvSRYBZzBTGrqdocCwTvUj0RfZi9fkeVG5OBJchDWsrX4BKbbPHC64=;eeWvzcndCgTsWaz2d/7PAg=="
 ---
 

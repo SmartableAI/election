@@ -63,6 +63,22 @@ related:
         width: 905
         height: 545
         isCached: true
+  - title: "Pelosi appoints 2nd GOP critic of Trump to Jan. 6 committee"
+    excerpt: "House Speaker Nancy Pelosi has named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a special committee investigating the Capitol riot"
+    publishedDateTime: 2021-07-25T18:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-intends-appoint-2nd-republican-jan-committee-79047713"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_54355c86dfa44e29b7d434fbb6110d3a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Arizona GOP Audit Director Barred From Recount After Sharing Data Supporting Trump Loss"
     excerpt: "The Republican overseeing the controversial GOP-backed election audit in Arizona has reportedly been banned from entering the building where the recount process is ongoing, after he shared some data with experts that showed the results match the officially certified numbers in Maricopa County."
     publishedDateTime: 2021-07-24T17:31:00Z
@@ -169,22 +185,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Pelosi appoints 2nd GOP critic of Trump to Jan. 6 committee"
-    excerpt: "House Speaker Nancy Pelosi on Sunday named a second Republican critic of Donald Trump, Rep. Adam Kinzinger, to a speci Capitol riot and pledged that the Democratic-majority panel will “get to the truth."
-    publishedDateTime: 2021-07-25T17:25:00Z
-    webUrl: "https://www.chron.com/news/article/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pelosi-intends-to-appoint-2nd-Republican-to-Jan-16338435.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Donald Trump returns to Arizona, attacks Doug Ducey and praises GOP state senators"
     excerpt: "Former President Donald Trump praised his Arizona GOP allies, attacked Republicans he sees as enemies and continued to falsely claim election fraud."
     publishedDateTime: 2021-07-25T00:22:00Z
@@ -239,6 +239,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "fIepjZ/arem31J4A4OCzLm3gCnf69GdOkuiT+Jp1NTV6FEYqq5rWt7YwjjKEnH1maWgAveWnIQLC95af1ZKUrIUfdljQ0nOvTfWaLvvsV+5mxQKjE69Vkzfj0Py5PKyWYpwQjuwbUvoY8U8IDzrepOAQWRtzWFf9vMRSWaVJcTb/88YQuuJlkLMM071ABAcgVkjkbuQug0HwS7ygewtAnZRx0S14KQxTA0AyKEvthD40T3F6ATpAf1NWOz3EzFPLyECmNFrjW9XCGzgPFDjZPiei3WJGembsdCntMOReEu17CxiSzMwr2ZWbv8P1SVLzkgFNr2Ds16tVH5YOQl5S18Duuupy1xii1l2/8iFZNgY=;ZE1Y3CwgVZDy7bGWeM9vpw=="
+secured: "0Q4YxX5jBWubC7Wr+gXu+ccM73MWt/y6tBmMf8yP8s5d4BwSFbL2Ijswnpu6tJQkvP8p6uSh/37WOmmCyvni5Cr2T/08lQP6oqVZmVqLflwHEDit/d4vqucH+X2NBL1rtQiKgDyCdehxu/3NyLoobMHeOL6Cq0H/6iovbJKwR5vvlojFZR/7OTCaPpZA+qoH7lofJmk45IT8aKDK7kAZfMGczJ351PStai0JIP9dY18mSM88O333BtTudfz+z0nHjbScHPFCrR7cXZEZC/vWjPrmLrr8gztq5BsghtRpOi7ezoYnUCzynai8xc1C8YJEYgUm3dl8/27DQUINyioo+JAgZI2Mm5/BYiFlLm91feAFU8s89tkG4v6vnOR/OrdHMgQMSo7QZpGTfC2BkKmH2+0g8fCDNFwV2pZsl7O5vDP1RlFgHI6rUw4HlcZ3r9JcUjvHSaRRHDDcHilgCIQCsWFamY2x5LYb2nxPbHqUR/I5v+BvjowbLLtaqSvLcgZI5mskmmOERHXNdv0Lv5LTYA==;an+x/n91ro6vRXDQoTQZ8g=="
 ---
 

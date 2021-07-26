@@ -37,6 +37,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
+    excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
+    publishedDateTime: 2021-07-20T16:30:00Z
+    webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8027480002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3K6gYwhyyzEnHKkX4RZ6pbuZm1RAsBCEfJB09m3CkJgiqtRl/n6Y4dQMVELoJzVcpRjmi3Z+sLBd+p0jp4pd7t1kr8oSPEPeXNLiNW3gzQpHTIPXL8JmWDTGyHlU9X+4LNMkYI88z3TZSxGj/CNiiizw24/H15PqSGbdenHs4U9VfUemO8+17AAs5k9wOjsc9JoRiJZmlgpVUHFYsc2AdMQ5V317oa55hu2ZKsNz/H9mOOf+6ORfFAXN3HeBe0ceJOzLA0F8TkZrjqX41MtRAn3/eHuQSIpfAhXPIBjGhtL0femcG7I9O/zqOy+gS9Lj60hPj8rVKzyJCVlipfn65jhdfIE5+KmUU2pVF1KwLpYQIg0kEh4qU+1oaG2q+C4wx4nkUVcQdb6AwD0wYQh+9TIDc62EdIGxujKjqR/tZk386cCeFK2vI0DK/4hvTxxeScz+pNC7YAKpLXrXNHZRl62FfHvcUZjooGSKwOIxa9m590Zt7Nm0sMpKgx0trtTIQCRXLLRAm6p3Au5I80REwA==;9GibXEUZvcs5uSylsHPMEA=="
 ---

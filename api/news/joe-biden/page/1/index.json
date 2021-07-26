@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-biden-to-meet-iraqi-prime-minister-at-white-house-amid-discussions-on-redeployment-of-us-troops.md",
+      "title": "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops",
+      "excerpt": "Meeting between Joe Biden and Iraqi prime minister comes amid reports the two countries are nearing agreement on redeployment of U.S. combat troops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/23/USAT/f4a5def4-b4b3-4e48-9a8e-858b797dc3eb-Iraq_suicide_bomb.jpg?auto=webp&crop=4499,2531,x1,y291&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8075835002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8075835002",
+      "publishedDateTime": "2021-07-26T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-poll-shows-bidens-gun-violence-approval-rating-falling-to-37-amid-rise-in-shootings.md",
       "title": "Poll Shows Biden's Gun Violence Approval Rating Falling to 37% Amid Rise in Shootings",
       "excerpt": "Attorney General Merrick Garland has pledged to address the surge in gun violence in Chicago, New York, Washington, Los Angeles and San Francisco.",
@@ -574,7 +626,7 @@
       "originalUrl": "https://www.miamiherald.com/news/state/florida/article252899763.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -596,58 +648,6 @@
         "name": "Miami Herald",
         "domain": "miamiherald.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-biden-hosts-jordans-king-abdullah-at-white-house.md",
-      "title": "Biden hosts Jordan's King Abdullah at White House",
-      "excerpt": "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

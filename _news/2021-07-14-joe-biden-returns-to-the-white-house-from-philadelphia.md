@@ -25,77 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Biden hosts Jordan's King Abdullah at White House"
-    excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
-    publishedDateTime: 2021-07-19T20:33:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
+  - title: "Joe Biden departs to Chicago - Washington"
+    excerpt: "U.S. President Joe Biden walks on the South Lawn f the White House in Washington as he returns from a day trip to Chicago on Wednesday, July 7, 2021. Biden is to deliver remarks on his Build Back Better agenda at McHenry County College in Crystal Lake,"
+    publishedDateTime: 2021-07-07T16:43:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d8e40e73/Joe-Biden-departs-to-Chicago-Washington/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cdnph.upi.com/pv/upi/136f1b640383ef6c4bb6ba33d8e40e73/BIDEN-SOUTH-LAWN.jpg"
+        width: 650
+        height: 433
         isCached: true
-  - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
-    excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
-    publishedDateTime: 2021-07-20T16:30:00Z
-    webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-    ampWebUrl: "https://amp.indystar.com/amp/8027480002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
+  - title: "Joe Biden Departs to Philadelphia From Washington"
+    excerpt: "U.S. President Joe Biden boards Marine One helicopter on the South Lawn of the White House in Washington before his departure to deliver remarks on protecting the constitutional right to vote in Philadelphia,"
+    publishedDateTime: 2021-07-13T17:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c74d6c2f5c94711b1703002f65a5f8e1/Joe-Biden-Departs-to-Philadelphia-From-Washington/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 69
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdnph.upi.com/pv/upi/c74d6c2f5c94711b1703002f65a5f8e1/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
         isCached: true
-  - title: "Tom Brady, Joe Biden play political football at White House Super Bowl celebration"
-    excerpt: "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,"
-    publishedDateTime: 2021-07-21T12:07:00Z
-    webUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/"
-    ampWebUrl: "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/"
+  - title: "Olivia Rodrigo meets with President Joe Biden and Dr. Anthony Fauci"
+    excerpt: "Olivia Rodrigo arrives to the White House to meet with President Joe Biden and Dr. Anthony Fauci as part of White House Covid vaccine push in Washington, D.C., U.S., on Wednesday, July 14, 2021. Photo"
+    publishedDateTime: 2021-07-14T16:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/77a6c5ed567406002c222d7a4e309259/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 69
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://cdnph.upi.com/pv/upi/77a6c5ed567406002c222d7a4e309259/WH.jpg"
+        width: 650
+        height: 433
         isCached: true
-  - title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
-    excerpt: "President Joe Biden welcomes Iraqi Prime Minister Mustafa al-Kadhimi to the White House on Monday. The two governments are reportedly close to striking a deal to withdraw U.S. combat troops from Iraq. The U.S. still has about 2,500 troops in Iraq."
-    publishedDateTime: 2021-07-26T07:47:00Z
-    webUrl: "https://www.coloradoan.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
-    ampWebUrl: "https://amp.coloradoan.com/amp/8075835002"
-    cdnAmpWebUrl: "https://amp-coloradoan-com.cdn.ampproject.org/c/s/amp.coloradoan.com/amp/8075835002"
-    type: article
-    provider:
-      name: Fort Collins Coloradoan
-      domain: coloradoan.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/23/USAT/f4a5def4-b4b3-4e48-9a8e-858b797dc3eb-Iraq_suicide_bomb.jpg?auto=webp&crop=4499,2531,x1,y291&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Harris Meeting with Jordanian King Abdullah"
-    excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
-    publishedDateTime: 2021-07-20T13:02:00Z
-    webUrl: "https://www.c-span.org/video/?513528-1/vice-president-harris-meeting-jordanian-king-abdullah"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "m6hj281yDVg9NmukDgbJpArltMcDh2bSUn7mDST8WH+CEymn7E+WA2KLAcXYN+8KK/iEkXxGHfcrj+WKfWj/Hx7elJ4xGxiKOxVWp94A9ddYz0sk3Crcw3wM0ju5UmEZt3ZRBPp9GAHkJavrIzyXVovhnjhXQq3JGhlTvkhQ3b111+SltJwHrwOZdeq0xYCegDz4CfAWYbCTyUTRHU2iBkku2hnQ+eXXzNKZ6/1M+kBFHFajG+tHD/CG5KEDSgo+q4Cn/6sFYZDHkCdTRfmU3hGruwpvFRQzPyu6DtI/YDEX4v8OcPy4huQtC1YLCzbeEF9oqskQS5Cr0lriVCGjgBlDjmhbnfYphR1otMrQ+bk=;2F1ah3KMCc8l/vgApo4Trw=="
 ---

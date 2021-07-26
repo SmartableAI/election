@@ -34,13 +34,13 @@ related:
   - title: "'So there's that': Arizona senator fires back after Donald Trump rips him for opposing audit"
     excerpt: "Former President Donald Trump assails state Sen. Paul Boyer and accuses him of holding up the ongoing audit. The Glendale Republican fires back."
     publishedDateTime: 2021-07-24T00:49:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/arizona/2021/07/23/donald-trump-assails-arizona-senator-paul-boyer-for-not-backing-election-audit/8077152002/"
-    ampWebUrl: "https://amp.statesman.com/amp/8077152002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8077152002"
+    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/07/23/donald-trump-assails-arizona-senator-paul-boyer-for-not-backing-election-audit/8077152002/"
+    ampWebUrl: "https://amp.indystar.com/amp/8077152002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8077152002"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 64
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/23/PPHX/9bddd6ca-c6ed-429c-8228-cc6360570e33-cent02-7gcdwft4u0l1l07fs837_original.jpg?auto=webp&crop=3533,1988,x0,y212&format=pjpg&width=1200"
