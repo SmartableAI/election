@@ -139,6 +139,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden celebrates Americans with Disabilities Act"
+    excerpt: "President Joe Biden celebrated the 31st anniversary of the Americans with Disabilities Act Monday and announced new guidance suggesting long-term COVID-19 could be considered a disability in some cases under federal civil rights laws."
+    publishedDateTime: 2021-07-26T18:35:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/26/biden-celebrates-americans-disabilities-act/5376082001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2b0eba7a-c3ad-4927-beb8-ba72ccd68cdc_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden hails ‘stunning progress’ on Covid but warns Americans: ‘Do not let up now’ – as it happened"
     excerpt: "President lauds vaccination effort to reduce cases and deaths as CDC relaxes mask guidelines – follow all the day’s politics news"
     publishedDateTime: 2021-04-27T23:29:00Z

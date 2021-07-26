@@ -58,6 +58,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki dodges question about whether Biden's gun violence plan is working"
+    excerpt: "During her daily press briefing, Psaki was asked by Fox News’ Peter Doocy whether Biden’s \"comprehensive strategy\" to combat gun crime, first announced June 23, was effective in cities like Chicago."
+    publishedDateTime: 2021-07-26T18:28:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zikCGffjICo/psaki-dodges-question-bidens-gun-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-question-bidens-gun-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-question-bidens-gun-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ede4e79c-9545-4bed-a538-31fd1f806a23/4729bb20-8368-406d-bda0-577fe1b40608/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "President Biden: Communism Is A Universally Failed System"
     excerpt: "President Biden was asked to comment on his position on protests and unrest in Cuba and critics from the right who said he is soft on communism: NEW!Powerful statement from President Donald J. Trump on Biden's refusal to stand up to the Communist regime in Cuba\"Today’s Democrat Party is so far left they can’t even take a stand against violent Communism."
     publishedDateTime: 2021-07-15T22:22:00Z

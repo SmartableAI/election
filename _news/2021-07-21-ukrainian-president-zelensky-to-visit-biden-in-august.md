@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5957d778-d5a2-40ab-bac6-a88f93c1d217/435dc9c7-aecb-44d3-a66b-8f0237da643a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Psaki dodges question about whether Biden's gun violence plan is working"
+    excerpt: "During her daily press briefing, Psaki was asked by Fox News’ Peter Doocy whether Biden’s \"comprehensive strategy\" to combat gun crime, first announced June 23, was effective in cities like Chicago."
+    publishedDateTime: 2021-07-26T18:28:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zikCGffjICo/psaki-dodges-question-bidens-gun-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-question-bidens-gun-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-question-bidens-gun-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ede4e79c-9545-4bed-a538-31fd1f806a23/4729bb20-8368-406d-bda0-577fe1b40608/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Two men charged in alleged scheme to attack Democratic headquarters in Sacramento inspired by Trump defeat, DOJ says"
+    excerpt: "Federal authorities have arrested two men in California who allegedly wanted to start a movement to overthrow the government and discussed blowing up the Democratic headquarters in Sacramento because of the 2020 election, according to a Justice Department press release.\n    \n"
+    publishedDateTime: 2021-07-16T17:02:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A-7nc3OKua8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 152
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716105211-doj-complaint-ieds-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "MCSAO2VnN/6BU01s4eWqQjlI4qZhuxld1cp8C5j97Lgu3N/xThlEYLLC9HaKOvmfaASglq2rq/KFQtfeMqKXiSc/QBYJOHpa+MF2+1IVX/DM+ItLkd9G7HcVmBaK/ah/3wRwU0twWxCLeonYdpgnrbJtVXiLpNouzy0w/MjxWXrQgG3vT2L0mWrsqARNutp+lkEYn0KZegn1k2k+9wFX/LlcpeVmM+4BMx7fe50lGhQQ2a51hLzjTy840gdan9f+zOCzBFZEYHw08e0fDee3Sc345qSvjnQaK1vI5FgCI9wXaU34MIGpvd/P2zSIFbQTWcwYREVh9WxTV0hfJz4ihOfw5JcEw/i+tfmfVS/LjGO+vXLUG/HwfHmLAHsPSxrmfOoOZrQI5wGzRpZBPsuw9O/KWlR8dPHHcIlaw4blcUaO5aAsBIAJmv2KeQ6Wv6JZz81q8GNJCUP57FpOvNnEtVry2LFg+dRoXM3/icfSnl7ojdlJeWfns0gf2V4WUtXBlbPpuDeW+D5c4gQEsiU6yg==;B6Rt1jqur9Pw0FWWknRCWA=="
 ---

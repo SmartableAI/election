@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstat
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6014770-4aa7-49ad-9479-12453c56a5cf_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden celebrates Americans with Disabilities Act"
+    excerpt: "President Joe Biden celebrated the 31st anniversary of the Americans with Disabilities Act Monday and announced new guidance suggesting long-term COVID-19 could be considered a disability in some cases under federal civil rights laws."
+    publishedDateTime: 2021-07-26T18:35:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/26/biden-celebrates-americans-disabilities-act/5376082001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2b0eba7a-c3ad-4927-beb8-ba72ccd68cdc_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

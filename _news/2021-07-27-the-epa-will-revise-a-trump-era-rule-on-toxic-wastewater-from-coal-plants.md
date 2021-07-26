@@ -2,11 +2,11 @@
 category: news
 title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
 excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
-publishedDateTime: 2021-07-26T17:46:00Z
-originalUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-toxic-wastewater-coal-plants.html"
-webUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-toxic-wastewater-coal-plants.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-toxic-wastewater-coal-plants.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/26/us/politics/epa-toxic-wastewater-coal-plants.amp.html"
+publishedDateTime: 2021-07-26T18:14:00Z
+originalUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.html"
+webUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.amp.html"
 type: article
 quality: 132
 heat: -1
@@ -32,85 +32,199 @@ images:
     isCached: true
 
 related:
-  - title: "Rising Covid-19 concerns could slow plans to scrap Trump-era border policy "
-    excerpt: "The Biden administration may delay winding down a Trump-era border policy tied to the pandemic due to increasing concerns about Covid-19 variants, according to a source familiar with the matter.\n    \n"
-    publishedDateTime: 2021-07-20T02:13:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHu6wszfkv8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
+  - title: "Trump ally Tom Barrack pleads not guilty in foreign lobbying case "
+    excerpt: "Tom Barrack, a longtime ally of former President Donald Trump and chairman of the Trump 2016 Inaugural Committee, pleaded not guilty through his attorney on Monday to illegal foreign lobbying charges unveiled by the Justice Department last week.\n    \n"
+    publishedDateTime: 2021-07-26T18:41:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmU4oL47-EQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726113600-tom-barrack-criminal-court-new-york-0726-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Attorney General Merrick Garland reverses Trump-era immigration policy"
-    excerpt: "Attorney General Merrick Garland reversed a Trump-era immigration policy that barred immigration judges from pausing cases they deem low-priority. The move is expected to help the justice department get through the backlog of 1."
-    publishedDateTime: 2021-07-16T16:00:00Z
-    webUrl: "https://www.nbcnews.com/now/video/attorney-general-merrick-garland-reverses-trump-era-immigration-policy-116887621922"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116887621922"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116887621922"
+  - title: "Trump ally Tom Barrack charged with acting as an agent of a foreign government"
+    excerpt: "Tom Barrack, a former adviser to former President Donald Trump, was charged Tuesday with illegal foreign lobbying on behalf of the United Arab Emirates for what federal prosecutors described as an effort to influence the foreign policy positions of both the 2016 Trump presidential campaign and the subsequent"
+    publishedDateTime: 2021-07-20T19:48:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2QZ0v4JIjeE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "California businessman indicted on lobbying charges has counted Trump among his 'closest friends'"
+    excerpt: "The illegal foreign lobbying charges brought against Tom Barrack on Tuesday punctuate a winding business and political career defined by his unique staying power in former President Donald Trump's constantly shifting orbit of advisers.\n    \n"
+    publishedDateTime: 2021-07-21T02:34:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WksEL34U5A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720205639-tom-barrack-2018-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump called crowd gathered for his speech before Capitol riot 'loving' in March audio recording"
+    excerpt: "Former President Donald Trump in March called the crowd that had gathered for his speech before the deadly US Capitol insurrection \"loving\" in an exclusive audio recording obtained by CNN.\n    \n"
+    publishedDateTime: 2021-07-22T03:51:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JscgVGlIHek/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/trump-january-6-loving-crowd-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/trump-january-6-loving-crowd-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump World is already weighing veeps for 2024. Hint: It ain’t Pence."
+    excerpt: "The former president is keeping tabs on the field and he’s all but decided to ditch the guy he ran with last time."
+    publishedDateTime: 2021-07-23T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/23/trump-vp-2024-500632"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/a0/73/a6a1fd864ace8b88b2b2d5322ea9/7-22-21-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Jan. 6 select panel Dems cast a wide net for Trump"
+    excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
+    publishedDateTime: 2021-07-21T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b6/db/e98a4d9d458ea68a85dce60360aa/7-20-21-jamieraskin-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Thomas Barrack, Trump Fund-raiser, Indicted on Lobbying Charge"
+    excerpt: "Mr. Barrack, who served as chairman of Donald Trump’s inaugural committee, was accused in the Eastern District of New York of failing to register as a lobbyist for the United Arab Emirates."
+    publishedDateTime: 2021-07-20T19:04:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20dc-indict/20dc-indict-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Thomas Barrack, Trump Fund-Raiser, Is Indicted on Lobbying Charge"
+    excerpt: "Mr. Barrack, the chairman of Donald Trump’s inaugural committee, was accused of failing to register as a lobbyist for the United Arab Emirates, obstruction of justice and lying to investigators."
+    publishedDateTime: 2021-07-20T19:04:00Z
+    webUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-indicted.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-indicted.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/thomas-barrack-trump-indicted.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20dc-indict/20dc-indict-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump inaugural committee chairman charged with acting as agent of UAE"
+    excerpt: "Tom Barrack was arrested and charged with attempting to influence the foreign policy positions of then-candidate Donald Trump to reflect positions of the United Arab Emirates. NBC's Pete Williams has details."
+    publishedDateTime: 2021-07-20T19:30:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-inaugural-committee-chairman-charged-with-acting-as-agent-of-uae-117083205603"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117083205603"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117083205603"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626451088810_ott_now_garland_immigratioon_pause_210716_1920x1080.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626808947307_nbc_spec_williams_barrack_210720_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Ticket sales are moving slowly for the coming Trump-O’Reilly stadium tour"
-    excerpt: "Time remains to sell out the stadiums. But those familiar with the current sales pace say it lags behind other acts."
-    publishedDateTime: 2021-07-16T08:38:00Z
-    webUrl: "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
-    images:
-      - url: "https://static.politico.com/a3/98/4a7696cc4883b5ff031956fc291d/7-15-21-donaldtrump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Jordan’s king seeks to strengthen ties with the U.S. after a Trump-era thaw in relations."
-    excerpt: "King Abdullah has been seen by American presidents as a moderate, reliable ally in the Middle East, often playing the role of envoy from the Arab world in Washington."
-    publishedDateTime: 2021-07-19T18:54:00Z
-    webUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
+  - title: "Pelosi bars two Trump allies from the committee investigating the Jan. 6 riot."
+    excerpt: "Ms. Pelosi, who had never before rejected a Republican nominee to a committee, called her move to oust Representatives Jim Banks and Jim Jordan “unprecedented” but necessary."
+    publishedDateTime: 2021-07-21T13:31:00Z
+    webUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure"
+    ampWebUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 126
+    quality: 131
     images:
-      - url: "https://static01.nyt.com/images/2021/07/19/multimedia/19political-briefing-abdullah2/19political-briefing-abdullah2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/images/2021/07/21/us/politics/21political-briefing-promo3/21political-briefing-promo3-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "What a Senate infrastructure deal means for the Trump-era rebate rule"
-    excerpt: "The Senate's infrastructure package will likely delay a Trump-era drug pricing regulation. — Democrats aren't all that excited about the forthcoming infrastructure deal, but they're preparing to vote for it anyway."
-    publishedDateTime: 2021-07-23T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/07/23/what-a-senate-infrastructure-deal-means-for-the-trump-era-rebate-rule-796689"
+  - title: "Thomas Barrack, Trump's inaugural committee chair, arrested on federal charges"
+    excerpt: "The charges are not connected to the former president's 2017 inaugural fund, according to law enforcement officials."
+    publishedDateTime: 2021-07-20T18:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/thomas-barrack-trump-s-inaugural-committee-chair-arrested-federal-charges-n1274533"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274533"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274533"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3492687/210720-thomas-barrack-cs-230p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump inaugural chair Tom Barrack says he's '100 percent innocent' in lobbying case"
+    excerpt: "Prosecutors say Barrack used his longtime friendship with Trump to influence the Republican's policy while secretly lobbying for the United Arab Emirates."
+    publishedDateTime: 2021-07-26T18:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-inaugural-chair-tom-barrack-says-he-s-100-percent-n1275063"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275063"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275063"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494173/210716-tom-barrack-se-216p.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
-secured: "y3GYvbB1Dtt2BLqmpEzwxQx+EOYotreH5Mt0FQqChA1XaeXjfIr4yxGxUTgJB3IB+RfMKYB2wPiSpvlvNb7Dbd1FMDAuxdkxQY24Z2NYo9rNRFxbp45wlTjVP/8e2ZR2s7rxGllImvPWhchA4/lEe6Xi4OgPcvO3lKsE/Vqb1jsvMQuZjC/KljpN+m8HK9yYNF6igxqK3R6zTKMgWgPFm9/MNLpK0d6GZEtCLZaj7NJOsF2EW+W6mMO1GLRGl9eELhdG9c2sbLqR7irzvhn3Fk/4pkD2ooLB7Qa4CEXk+3//LhZps6JG/2Wu5pBc8n3teQ/lLFKNUlaBu0K9segjJTZSrH8q4R5FtQ0fjDlkzDc=;w++ViFd3Mb7zOkmAfKd/zQ=="
+secured: "YL4Y0l2IgV9FpsQObuhL4h6GmhSZjHc+x7uVdTFy83wEgvz+OJ+OAjfa244FXP53aatAxh66J7GhiEnNhJfcTeL97MW2rXM73OvWSEHEndNfSjEO3LPHKr+0MnqNXlheU0R4YaX5hB4slaspdfpVRBJQx7tl5ENSwkrp/U816vTQo11H3Yuog+PaGptjOovmclucrSWJu26eeiTgWOnXAnf7tr0mr29pxkCrslhJvBK2Nw0RMRuY7n3E9Asa8l+OMds+g4XYH2ywxZwjv/ZH1jzwEjnCLJVwuLToSL/ocmmFN9e9kRAwXZDobJlT0yVJOOW+lqT9j7+EFh58TiqlDA6BNaAF0prBQs6ATvQyGRM=;6qtyqfwyJY0V3Uv6GTdGtg=="
 ---
 

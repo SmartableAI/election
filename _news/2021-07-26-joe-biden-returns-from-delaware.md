@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden Returns from Delaware"
-excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Delaware on Sunday,m July 25, 2021. Photo by Yuri Gripas/UPI"
+excerpt: "U.S. President Joe Biden smiles as he walks on the South Lawn of the White House upon his return to Washington, DC from Delaware on Sunday,m July 25, 2021. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-07-26T00:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/59ff59c9f4ddada377b67c3d6a922c15/Joe-Biden-Returns-from-Delaware/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/59ff59c9f4ddada377b67c3d6a922c15/Joe-Biden-Returns-from-Delaware/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/06126f1b1b3722663bf1b0b8dce5858e/Joe-Biden-Returns-from-Delaware/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/06126f1b1b3722663bf1b0b8dce5858e/Joe-Biden-Returns-from-Delaware/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/59ff59c9f4ddada377b67c3d6a922c15/BIDEN-RETURN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/06126f1b1b3722663bf1b0b8dce5858e/BIDEN-RETURN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -383,6 +383,6 @@ related:
         height: 433
         isCached: true
 
-secured: "rcWyFa74uHAmh9ZAYnaMV0m7PQ7kx13ayu0aqgWpPHHyhN2X8gqIbVgXIs+2C4cV3DHj4S40HS/G0947xSTYgs8OLEIgHD9duc4EIPNclA/azwuAD4kjzkbKeTI5XdtMhohF3KUopUi9EF9TR0UmCjTEb0E+hARQSuWY+ZwZH+pLMrOuPtfjXa2kpbUUHMiEjTFdXlBjkFMkRTGNAWBU0LzR6p8UgKnDPjpF9gOR3Q2qsk82hqCuTFE+ZJa5+S531qCO2l5DRnHBNpynEZ89bU9jNzCeLQrKdCZ7sEckPwvE5/BY8Hr2SYBy09iALwoWvo+NhXIxKBskH66T7Ntc/FZAw8H1nnBMABaaa86UQoc=;5VIqvdVtCdSQR8DOpUyezA=="
+secured: "tgAFGM21wiLrJVi5+gfmeyaW119Uto9f9ysBjbH/0kVeNaNeT4sNVgBgSyMTMfiVIQ/44CqfZQ4em9w/N0/wz9VpuRwFjUhAbEU8JtU5Vt2plz+YD9IpFIP2844gPxRxUwEmYY+TtkLixgsuijTSMBbrq8u5l0IN2H/cQyWT4xxGwQaAm1aa8G3aYbiPxArel+HFnogHLaH3ad8Kz8NjNIEZLhrO2IQQ0qE5vjBpQVrxhTsTbMrpVVMtX7VNxyq77XxvRTv672Y3a1/MkxP0UB7lZcgYbNsPAfC3nYd1iR9D/H/yuxK6pIfga+plVm9erXA61e3Q8mQNTgJ8vY/ITqYE1oY5Ui2e6YKzCv1Skj0=;bH0VvJv9gVKUa/k2t6AFAA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-25
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trump ally Barrack jeered outside Brooklyn court"
+    excerpt: "Politics Trump ally Barrack jeered outside Brooklyn court. Posted . Former U.S. President Donald Trump's billionaire ally Thomas Barrack arrived at a federal court in Brooklyn on"
+    publishedDateTime: 2021-07-26T18:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-ally-barrack-jeered-outside-brookl-id733402124?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210726&i=OVENHG6AN&r=OVENHG6AN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
     excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
     publishedDateTime: 2021-07-24T00:21:00Z

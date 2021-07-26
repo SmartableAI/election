@@ -320,6 +320,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden to national Latino group: 'My administration will always have your back'"
+    excerpt: "President Joe Biden addressed the nation's Latinos during a conference by UnidosUS, the nation's largest Latino advocacy group."
+    publishedDateTime: 2021-07-26T19:53:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/biden-national-latino-group-administration-will-always-back-rcna1510"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1510"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1510"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210726-joe-biden-al-1111-f3ade0.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "'We need our kids to breathe' — Biden sanctions Cuban regime. Is it enough? — Lawson backs Crist in governor's race"
     excerpt: "While Florida stopped its daily reports on Covid-19 weeks ago, data maintained by federal health authorities show there were 12,647 new coronavirus cases on just Wednesday of this week. Surge — That’s the highest daily count since late January and,"
     publishedDateTime: 2021-07-23T10:58:00Z

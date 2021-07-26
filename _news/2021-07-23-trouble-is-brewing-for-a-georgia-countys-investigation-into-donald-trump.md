@@ -249,6 +249,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump inaugural committee chair appears in court"
+    excerpt: "The chair of former President Donald Trump's 2017 inaugural committee has pleaded not guilty to criminal charges in a New York courtroom days after he was freed on $250 million bail. (July 26)"
+    publishedDateTime: 2021-07-26T19:05:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/26/trump-inaugural-committee-chair-appears-court/5376638001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9f47d4e8-eead-42d5-b813-7955e4b7e671_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."
     publishedDateTime: 2021-07-14T17:57:00Z

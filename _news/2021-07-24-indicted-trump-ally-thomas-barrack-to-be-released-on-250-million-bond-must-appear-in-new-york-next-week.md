@@ -45,6 +45,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump ally Barrack jeered outside Brooklyn court"
+    excerpt: "Politics Trump ally Barrack jeered outside Brooklyn court. Posted . Former U.S. President Donald Trump's billionaire ally Thomas Barrack arrived at a federal court in Brooklyn on"
+    publishedDateTime: 2021-07-26T18:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-ally-barrack-jeered-outside-brookl-id733402124?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210726&i=OVENHG6AN&r=OVENHG6AN&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "kV9HIIfDQt4QhckwaEmHXP5ZVYQEuaj/edWqbH6hsP1aCMh0H3xvpbb+epOOWSKRB+M6r1mqI7a8OYJ9dOoqQp8DzmxA5avIY0tpji5o/SmfTW8eH47ypf2nebb/ilRRKesJLBEhcckGDcE/1eNYt/z7S1KuznCFxfQ/hEdTXbkrVTnagR1X2Lx3Farl4Kg843609B3FFev6FSb/Mznq0R2BhRyg+JIdsZyGLGX6AUs/4q39z5rvwSo1+rd4g5BYibgYMczlmG3fQNiymVAjSBigypIW3eaEpuA0EyySaQJv+IVZAUQKlX+uWKbewpUI64XtdOaLxHr7yXgdebwjhBVzyZMKrugn2ot3O2Zdi4cO6Zc33oa2XqJAecvg0i72aNGcFgDFCcee6rRwZNrkT75AJY7icHBfczhImPwMJrfrK/TzZSkN5S48kzbj97nXHdUAi26BL6nF5nbS9KrvCEPHlo82mM2soCzErMnJIt8D2MOm08dQWq3fvZrm1zNbjqaZLiIXGERaj5oMK/goVA==;pFGRl//Aq8CfMArEkn8R6Q=="
 ---

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump ally Tom Barrack pleads not guilty in foreign lobbying case "
+    excerpt: "Tom Barrack, a longtime ally of former President Donald Trump and chairman of the Trump 2016 Inaugural Committee, pleaded not guilty through his attorney on Monday to illegal foreign lobbying charges unveiled by the Justice Department last week.\n    \n"
+    publishedDateTime: 2021-07-26T18:41:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmU4oL47-EQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726113600-tom-barrack-criminal-court-new-york-0726-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump ally Tom Barrack charged with acting as an agent of a foreign government"
     excerpt: "Tom Barrack, a former adviser to former President Donald Trump, was charged Tuesday with illegal foreign lobbying on behalf of the United Arab Emirates for what federal prosecutors described as an effort to influence the foreign policy positions of both the 2016 Trump presidential campaign and the subsequent"
     publishedDateTime: 2021-07-20T19:48:59Z
@@ -47,37 +63,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Banker found guilty of bribery for Manafort bank loans in chase for Trump administration job"
-    excerpt: "A former Chicago bank executive was found guilty Tuesday of charges alleging he conspired with onetime Donald Trump campaign chairman Paul Manafort to exchange risky bank loans for a high-ranking position in the presidential administration.\n    \n"
-    publishedDateTime: 2021-07-13T15:48:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3aivAbV-XdI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html"
+  - title: "Trump called crowd gathered for his speech before Capitol riot 'loving' in March audio recording"
+    excerpt: "Former President Donald Trump in March called the crowd that had gathered for his speech before the deadly US Capitol insurrection \"loving\" in an exclusive audio recording obtained by CNN.\n    \n"
+    publishedDateTime: 2021-07-22T03:51:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JscgVGlIHek/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/trump-january-6-loving-crowd-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/trump-january-6-loving-crowd-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325122313-stephen-calk-file-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Two men charged in alleged scheme to attack Democratic headquarters in Sacramento inspired by Trump defeat, DOJ says"
-    excerpt: "Federal authorities have arrested two men in California who allegedly wanted to start a movement to overthrow the government and discussed blowing up the Democratic headquarters in Sacramento because of the 2020 election, according to a Justice Department press release.\n    \n"
-    publishedDateTime: 2021-07-16T17:02:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A-7nc3OKua8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html"
+  - title: "Trump World is already weighing veeps for 2024. Hint: It ain’t Pence."
+    excerpt: "The former president is keeping tabs on the field and he’s all but decided to ditch the guy he ran with last time."
+    publishedDateTime: 2021-07-23T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/23/trump-vp-2024-500632"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 152
+      name: Politico
+      domain: politico.com
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716105211-doj-complaint-ieds-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/a0/73/a6a1fd864ace8b88b2b2d5322ea9/7-22-21-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Jan. 6 select panel Dems cast a wide net for Trump"
     excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
@@ -143,6 +159,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
+    excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
+    publishedDateTime: 2021-07-26T18:14:00Z
+    webUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/26/us/politics/26political-briefing-coal/26political-briefing-coal-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Pelosi bars two Trump allies from the committee investigating the Jan. 6 riot."
     excerpt: "Ms. Pelosi, who had never before rejected a Republican nominee to a committee, called her move to oust Representatives Jim Banks and Jim Jordan “unprecedented” but necessary."
     publishedDateTime: 2021-07-21T13:31:00Z
@@ -172,6 +204,22 @@ related:
     quality: 131
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3492687/210720-thomas-barrack-cs-230p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump inaugural chair Tom Barrack says he's '100 percent innocent' in lobbying case"
+    excerpt: "Prosecutors say Barrack used his longtime friendship with Trump to influence the Republican's policy while secretly lobbying for the United Arab Emirates."
+    publishedDateTime: 2021-07-26T18:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-inaugural-chair-tom-barrack-says-he-s-100-percent-n1275063"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275063"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275063"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494173/210716-tom-barrack-se-216p.jpg"
         width: 2500
         height: 1667
         isCached: true
