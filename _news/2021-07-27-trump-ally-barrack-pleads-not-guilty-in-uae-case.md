@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Thomas Barrack: Top Trump aide pleads not guilty to working as foreign agent"
+    excerpt: "Billionaire investor and former Donald Trump adviser Thomas Barrack has pleaded not guilty to charges of acting as an agent of a foreign government. Mr Barrack, 74, was a key aide to Mr Trump during his 2016 campaign."
+    publishedDateTime: 2021-07-26T23:34:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57979356"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57979356.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57979356.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 122
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A7CF/production/_119595924_gettyimages-1330734792.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "O3z5lfg63DkUhgdYcE3a/D+a5lJPY8lR6LDJPJl8NMjZiR2tF+lzY6kFEIWzDzibAix6WIvBo6kryrgl86yDAdCas+oKO2wZTbrIG2mXc/leHsvjliLYyN63eFj+hwcjPvyIi1AsVqQ2fhJtGK3j92H781421vVAy3bNxb72ODD84B89RDYiLaFRuDtju9a7VWJO+GIIoXyARJ333LUzOyJyMqzqqImUe/11EvJ8U39jturlu2fTVBz/g+ncbSNT85kcf/cSlP0ZXAynhZoFiA++zMKEMETLgECOlZYk6CBpJNmrVpN2aioDrNQbtAL8U84xc7025oZ7vpj+vRRluM4aOEABGNy2OzjR2u/BD8I=;PXzdsfgUHabxKB0Jx9YkVg=="
 ---

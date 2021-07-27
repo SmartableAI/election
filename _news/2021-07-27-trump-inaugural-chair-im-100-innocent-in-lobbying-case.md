@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-inaugural-chair-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-inaugural-chair-100-innocent-lobbying-case-79069883"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Thomas Barrack: Top Trump aide pleads not guilty to working as foreign agent"
+    excerpt: "Billionaire investor and former Donald Trump adviser Thomas Barrack has pleaded not guilty to charges of acting as an agent of a foreign government. Mr Barrack, 74, was a key aide to Mr Trump during his 2016 campaign."
+    publishedDateTime: 2021-07-26T23:34:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57979356"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57979356.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57979356.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 122
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A7CF/production/_119595924_gettyimages-1330734792.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump ally Barrack pleads not guilty in UAE case"
     excerpt: "Top News Trump ally Barrack pleads not guilty in UAE case. Posted . Former U.S. President Donald Trump's billionaire ally Thomas Barrack pleaded not guilty in a federal court in B"
     publishedDateTime: 2021-07-26T21:33:00Z

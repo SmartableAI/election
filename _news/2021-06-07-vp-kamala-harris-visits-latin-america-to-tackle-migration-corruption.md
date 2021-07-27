@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -235,6 +235,22 @@ related:
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
         width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Kamala Harris set to meet with Native American leaders on voting rights"
+    excerpt: "Native Americans faced a long history of discrimination at the voting booth. There continue to be numerous challenges to ballot access."
+    publishedDateTime: 2021-07-26T22:20:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article253041233.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article253041233.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article253041233.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/0f2d6ed7-005c-4209-81a0-9868193667b5/02167b99-8aa8-4d9d-9269-b2cceef8c6e4/1280x720/match/image.jpg"
+        width: 1082
         height: 720
         isCached: true
   - title: "Harris’ staff to shift to in-person work in July as White House eases COVID restrictions"

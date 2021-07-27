@@ -1,18 +1,22 @@
 ---
 category: news
-title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
-excerpt: "While many people just hear levity in her laugh, those on the right react with heckles and attacks, a difference that says as much about the divisive state of politics as any debate."
-publishedDateTime: 2021-07-26T00:00:00Z
-originalUrl: "https://www.detroitnews.com/story/news/politics/2021/07/26/more-than-laugh-kamala-harris-sound-check-divided-country/8083137002/"
-webUrl: "https://www.detroitnews.com/story/news/politics/2021/07/26/more-than-laugh-kamala-harris-sound-check-divided-country/8083137002/"
+title: "Vice President Harris Could Visit Vietnam, Singapore in August"
+excerpt: "Vice President Kamala Harris could travel to Vietnam and Singapore in August, even as details of such a trip are not final yet, a source familiar with the matter said on Monday. The coronavirus pandemic is likely to be on Harris' agenda,"
+publishedDateTime: 2021-07-26T22:28:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2021-07-26/vice-president-harris-could-visit-vietnam-singapore-in-august"
+webUrl: "https://www.usnews.com/news/world/articles/2021-07-26/vice-president-harris-could-visit-vietnam-singapore-in-august"
 type: article
-quality: 34
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -49,16 +53,16 @@ related:
         width: 828
         height: 676
         isCached: true
-  - title: "Vice President Harris Could Visit Vietnam, Singapore in August"
-    excerpt: "Vice President Kamala Harris could travel to Vietnam and Singapore in August, even as details of such a trip are not final yet, a source familiar with the matter said on Monday. The coronavirus pandemic is likely to be on Harris' agenda,"
-    publishedDateTime: 2021-07-26T22:28:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-07-26/vice-president-harris-could-visit-vietnam-singapore-in-august"
+  - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
+    excerpt: "While many people just hear levity in her laugh, those on the right react with heckles and attacks, a difference that says as much about the divisive state of politics as any debate."
+    publishedDateTime: 2021-07-26T00:00:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/07/26/more-than-laugh-kamala-harris-sound-check-divided-country/8083137002/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 34
 
-secured: "uG0ELIrGNDiSYq8VYLETbK1W9OTKzRVOhhm6mCmZIV+mmwSp8OAvFkbGeTc1SL7qdWQyFTQm87nWpMxyn16CiXpzm7n4aR6PAUxP/7gCsBYrdkb9Mst3ut6RJQMHZyWDL9z2E9gMVqvLaYAio1A3OVXADsn4iOTSULloUM9UG6PT+ZJ9CrWZvkevMZcz1lFmnYLCSKGB8CdGpBGbux5n5cGDdrfB+n8fVecjro6b2lt3kvAcceeqK3DGawUwIjCCrZ7a+/0jUHqUZK3gwiT+1L617+ONxfFemSgipOMDTG2H+m0GO2E+0zjQDP+YeecoZBMahja4RnJ54N5cHY3cETvCREi+uAGGJeoE44i4xzQ=;NYD0qzo4OE+7xuNeeQZFiw=="
+secured: "gGjQzS+Jn/0CnJKA1BzN9fvowHbHdRTgVFI45rvYjFjqgX7do32JGDymUhx15rFVr0Gbp+Y0sQMX8LGn4hFKyG8kagLdnYS1RqFRlXWlDtzDvh705v6utD5f1oNzeSyPWrOHidHw9u2eUqD3d7Lo9J60ugp2PzR9ypnAD7I+a0Kj7ywIsrCeUya18qJl8H8sebMqHowooqZDz5gkLMWdDGrVTx7NC28X5ICvffVwklrh36ZAqt/1oak5XItBQTdGsBF856NZd030H+waWIXRvgiAozsodBgqWQ/QHjTV135y+yW2SIQBUHbXJ++OFnw+G3Jbx0bRDjEFXHtyJUqclsOx0dUuEa+QF3U/zupXSdwaqs8RwRLKxZI0fq3gq0hITDhTmRZnPDCEBoLJ0mz2hJrCtTpM0zIyeeX+8ue2jOZCuv0wyV30hAXc4NEtn38UaWo1t2EAqkWM9dSiK7KfEtust/iT+cOMi/nbV/bCD6hjhzobhPBEYKhdRHunq5BZMwRXxzufPGkNz44SmDm85Q==;lx4VnNCYKqB0aV9NlqQy1Q=="
 ---
 

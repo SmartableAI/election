@@ -1,27 +1,29 @@
 ---
 category: news
-title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
-excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
-publishedDateTime: 2021-06-02T17:02:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+title: "Vice President Kamala Harris set to meet with Native American leaders on voting rights"
+excerpt: "Native Americans faced a long history of discrimination at the voting booth. There continue to be numerous challenges to ballot access."
+publishedDateTime: 2021-07-26T22:20:00Z
+originalUrl: "https://www.sacbee.com/news/politics-government/article253041233.html"
+webUrl: "https://www.sacbee.com/news/politics-government/article253041233.html"
+ampWebUrl: "https://amp.sacbee.com/news/politics-government/article253041233.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article253041233.html"
 type: article
-quality: 55
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
-    width: 650
-    height: 433
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/0f2d6ed7-005c-4209-81a0-9868193667b5/02167b99-8aa8-4d9d-9269-b2cceef8c6e4/1280x720/match/image.jpg"
+    width: 1082
+    height: 720
     isCached: true
 
 related:
@@ -247,22 +249,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Vice President Kamala Harris set to meet with Native American leaders on voting rights"
-    excerpt: "Native Americans faced a long history of discrimination at the voting booth. There continue to be numerous challenges to ballot access."
-    publishedDateTime: 2021-07-26T22:20:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/article253041233.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article253041233.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article253041233.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 67
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/0f2d6ed7-005c-4209-81a0-9868193667b5/02167b99-8aa8-4d9d-9269-b2cceef8c6e4/1280x720/match/image.jpg"
-        width: 1082
-        height: 720
-        isCached: true
   - title: "Harris’ staff to shift to in-person work in July as White House eases COVID restrictions"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
     publishedDateTime: 2021-06-01T16:27:00Z
@@ -355,6 +341,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
+    excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
+    publishedDateTime: 2021-06-02T17:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
     excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI"
     publishedDateTime: 2021-06-03T18:46:00Z
@@ -433,6 +433,6 @@ related:
       domain: indystar.com
     quality: 15
 
-secured: "ICX9CgtdBJguC6o8K+2As+j55/RDrmMOgp/YV4/9DISfmTltBP4MEQeVV1p8SHiWdzSI3KHgrNnmQlGj3iZkqtsi6sRTFeHWEKNqsjxwPXC8mVvqPTG94LNYgmA6+5mqXqyim/lGx37VURHrHJrNxGa3FGyyLugHtvUiO7Ma9AQ0HB9GBIuGrZjUjmta/9mM0qXW45T90dtAmYwdRjgEU75ZPw1tkLlGLQnGnJDpwGeOAPmNON9D+iOhaG4fOfOMpf2D9IanWNj3w57aSRiJIVGSokLV5YmHzXzu+D6Q3r5qOtS92pa/eUj4u3FeulriT6V7G5PaJHhfpkeC2MWnqk07KVGcaPBfWDkL+CkyPR+ixRoFzZ6QFd5dmWE9MdskPXkSTIYiCgj+eLz02j/ANrNUAORIsRuXumigbm+bE0YEgPCEpHB6j56nlECv4pn8/KNJZn8C2HvVozF+haNRHKmRCugUtwzcMX+IsyxDLK7FEDaufpmdnkCOPguZuZhHORo9mlpKaHofSc3FTfCcbQ==;A1l9q33UEQ+s1yqI8+nYTA=="
+secured: "na54S2603kN3Nl4OeQKeKOhYorX4GUHE2lVpziMvUqzRmMnrI/d1olehjM744kEmLfv1NVn9kiJNgX6+SyJX5Leznxn/O8OzA0aLB9+sZH/k9ESpie/3BySlJTonQ45xMFRSgKYiYf1MNTdHMmIiTKpSN47QmZvsqDXFLmmwDte+J+DwE1/WzT2RZIGKXsvcqKpoRp3U0xRKi4G0ihv/7uig6v2UD/mCuLNuP6KpqQ2rTWPIWedsMROZkUR0oToiyIt8uJHuvwvk5fggVPYe8G1P131ttw1ZDBkKwTuqBQ8xG3zjKm5v9yC0IVH09hOoCV66afyhtOL7ZUqbONmDYG1Q5/5sUMWJwflpf1svEHg=;wg4kdoPoknOkaRRQDgC83w=="
 ---
 

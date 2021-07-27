@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Harris Could Visit Vietnam, Singapore in August"
+    excerpt: "Vice President Kamala Harris could travel to Vietnam and Singapore in August, even as details of such a trip are not final yet, a source familiar with the matter said on Monday. The coronavirus pandemic is likely to be on Harris' agenda,"
+    publishedDateTime: 2021-07-26T22:28:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-07-26/vice-president-harris-could-visit-vietnam-singapore-in-august"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
     excerpt: "While many people just hear levity in her laugh, those on the right react with heckles and attacks, a difference that says as much about the divisive state of politics as any debate."
     publishedDateTime: 2021-07-26T00:00:00Z
