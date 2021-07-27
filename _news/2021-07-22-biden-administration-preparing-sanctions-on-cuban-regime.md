@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721221442-mask-recommendations-biden-health-officials-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to resume fast-track deportation procedure for migrant families"
+    excerpt: "The Biden administration is planning to speed up deportations for some migrant families who cross the US-Mexico border, the Department of Homeland Security said Monday.\n    \n"
+    publishedDateTime: 2021-07-27T02:44:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KV_M6TmytNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

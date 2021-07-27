@@ -192,6 +192,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
+    excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
+    publishedDateTime: 2021-07-27T01:41:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/trump-endorses-ken-paxton-over-george-p-bush-texas-attorney-n1275099"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275099"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275099"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494268/210726-ken-paxton-donald-trump-2020-ac-912p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Thomas Barrack, Trump's inaugural committee chair, arrested on federal charges"
     excerpt: "The charges are not connected to the former president's 2017 inaugural fund, according to law enforcement officials."
     publishedDateTime: 2021-07-20T18:47:00Z

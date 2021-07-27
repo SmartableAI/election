@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-09-trumps-praise-complicates-youngkins-attempted-pivot-to-the-political-middle-in-virginia.md",
+      "title": "Trump's praise complicates Youngkin's attempted pivot to the political middle in Virginia",
+      "excerpt": "Glenn Youngkin is doing everything he can to run as a Republican outsider in Virginia's gubernatorial election. But former President Donald Trump is muddling that strategy.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dzFA6UjKoUs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dzFA6UjKoUs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709133243-glenn-youngkin-0630-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/glenn-youngkin-donald-trump-va-governor-race/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/glenn-youngkin-donald-trump-va-governor-race/index.html",
+      "publishedDateTime": "2021-07-09T13:13:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-biden-warns-putin-during-call-we-expect-him-to-act-on-russian-ransomware-attacks.md",
       "title": "Biden warns Putin during call: 'We expect him to act' on Russian ransomware attacks",
       "excerpt": "President Joe Biden urged Russian President Vladimir Putin to take action to disrupt criminal ransomware groups in Russia on a call Friday morning -- their first publicized discussion since a summit in Geneva last month.\n    \n",
@@ -1301,62 +1357,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-biden-misquotes-reagans-morning-in-america-ad-while-plugging-infrastructure-package.md",
-      "title": "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package",
-      "excerpt": "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQZbjitww3w/biden-reagan-morning-america-ad-infrastructure-packages",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQZbjitww3w/biden-reagan-morning-america-ad-infrastructure-packages",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp",
-      "publishedDateTime": "2021-07-07T15:24:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

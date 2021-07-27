@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to resume fast-track deportation procedure for migrant families"
+    excerpt: "The Biden administration is planning to speed up deportations for some migrant families who cross the US-Mexico border, the Department of Homeland Security said Monday.\n    \n"
+    publishedDateTime: 2021-07-27T02:44:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KV_M6TmytNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Hospitals could face $2 million fine for not disclosing prices under proposed Biden rule"
     excerpt: "The Biden administration is doubling down on a Trump-era rule that requires hospitals to disclose the rates they privately negotiate with insurers.\n    \n"
     publishedDateTime: 2021-07-19T23:18:43Z

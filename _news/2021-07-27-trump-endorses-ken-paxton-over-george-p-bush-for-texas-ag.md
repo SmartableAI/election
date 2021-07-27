@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ken-paxton-over-geor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ken-paxton-over-george-p-bush-texas-ag.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 405
     isCached: true
 
-secured: "KP2bfbN310VfrqZbD7Ua77yADWxdJHkX4oHrVpWg7D3W0a8euVh8EOWMczdLjKXuK2FgrXNm89yOu7ymdG0TbrEQr5k3DqmN3re+R6xXpaARrzvVpnTKweS6vfNnpA0xIQU0CtfTWptPdQlVScQfSJ61/MWnC13Fp/fHIRo2FKNcFrnwAzvNhS7EthgyUgUQ7+yJOesd/qZ0wExkQZhfqZLa5qI2qsAmkHPAZT9UjVm9AgmBGA6+Qp/6x2kDogRD5j1WiaWkglCykDLR7rtojVB8jRLyGn/JiipelbEuy6AVEnpB75GGQC7jM8v5TUUm1Ud6jym06kfJKB8LvEjE566nar15aDFYhb+TYKaa43g=;72O59/Op5e9mdcFBPGHuwQ=="
+related:
+  - title: "Trump backs embattled ‘patriot’ Texas AG Paxton over George P. Bush"
+    excerpt: "Former President Donald Trump endorsed Texas Attorney General Ken Paxton Monday, rebuffing the incumbent’s primary challenger and Bush family scion George P. Bush."
+    publishedDateTime: 2021-07-27T02:19:00Z
+    webUrl: "https://nypost.com/2021/07/26/trump-backs-embattled-texas-ag-paxton-over-george-p-bush/"
+    ampWebUrl: "https://nypost.com/2021/07/26/trump-backs-embattled-texas-ag-paxton-over-george-p-bush/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/trump-backs-embattled-texas-ag-paxton-over-george-p-bush/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-paxton-support-256.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "7h1/ff2BcH3UCZwdSXf/Rd0Edi6C2hiyJSY2fMGfTBHP4TpkYB08L/9bGqIp5XC4Pj8brFVzov5cfXed+NPFXtg8wQLCzjJ2aHt1rBhXsTYiZtdY51nHe3PA3IYDaVXZTA6X+6O6XbBw81PCSBrwWKSWFodIxC6Cgg2HqsS+kSObZfyxkoruHMm03SaYKpJR7LH8VNBqEgsGpAIPgFW9IBhVrLs0FKe49eHJ8XXRg14bAeoxUH2DIhNBvrL0ApUgOrbJbXmwUHycK/i+mZhf8QvK5kiPEv/zQ/RmNNlKszmmgIKjxrPlD1CrlT9WGWQnn40NPXS5tK00EFd/X9RAUItIA0SRALW5dnScxFMKccc=;PnMEhb9WXzHlR7I5k5461Q=="
 ---
 

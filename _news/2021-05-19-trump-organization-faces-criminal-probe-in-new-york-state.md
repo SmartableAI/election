@@ -91,6 +91,15 @@ related:
         width: 2000
         height: 1502
         isCached: true
+  - title: "Trump Endorses Paxton for 3rd Term as Texas Attorney General"
+    excerpt: "Texas Attorney General Ken Paxton has drawn the endorsement of former President Donald Trump for election to a third term, calling the legally beleaguered incumbent “a true Texan who will keep Texas safe — and will never let you down."
+    publishedDateTime: 2021-07-27T02:23:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-26/trump-endorses-paxton-for-3rd-term-as-texas-attorney-general"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Ds12MJEguCWsu5Wqd1FtoWWb4umkt7o3ynUjuyCO+RU7WnOgPhQV7Nb6BT4nCu9Snwg+z6ia4a0KccrQ9BDk1Mlf/lYs02IX26qbkGKETLB7mfIpw1biyvpx/LYd0U3fycyvv40QA5XcHkUALKUNdgI/mwDZf2LK7ZD669FA9R94lVHtblEpRl0BlwHjUaMI/kCcQpIktQLFfh+TjgbIXVWuVMccxzl2MTqzYqEuTFk9Q6b2cpRBejRUj23a4uS3lNpqTZ1LixiZf8JFKMG6+h7szAbX0/unYBhDJ7fx7zLVs5b+yaQMd9zGv2nfISp5mvIwO9/0Un226jdX3jUtLSf7Jw5/LidVMpoVnj7Vbdwe5ISH7FDGR3/fgnsIePVExA6J6ehlTevr/bN2OdmUSamNlkV+ZkKcO9iZSjv6Nt2D3KyUDMyZ1nmyShYZEIAAfRKNtL9jOtcxMqUOc0ulBnB9+fZ9mvVvUUT6enfBwOLl5rnBLpBewHJjwg78J2UHP/6KzHjhmz2s4aZqlj5WwQ==;jbMJGHFSzjXeR/aDKVM6YQ=="
 ---

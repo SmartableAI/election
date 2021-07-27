@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-27-will-donald-trump-jr-run-for-office-trumps-son-leads-gop-favorability-poll.md",
+      "title": "Will Donald Trump Jr. Run For Office? Trump's Son Leads GOP Favorability Poll",
+      "excerpt": "Donald Trump Jr., son of former President Donald Trump, topped a GOP favorability poll that pitted him against six other Republican figures. In a poll conducted by Tony Fabrizio of Fabrizio Lee & Associates between July 6 to 8,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088",
+      "originalUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/donald-trump-jr-speaking-during-the-first-day.jpg",
+          "width": 1024,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1",
+      "publishedDateTime": "2021-07-26T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-trump-endorses-ken-paxton-over-george-p-bush-for-texas-ag.md",
       "title": "Trump endorses Ken Paxton over George P. Bush for Texas AG",
       "excerpt": "President Donald Trump on Monday night announced that he would endorse Ken Paxton in the race for Texas Attorney General over George P. Bush, the son of former presidential candidate and Florida Gov. Jeb Bush.",
@@ -14,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -178,7 +230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 435,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1264,62 +1316,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase.md",
-      "title": "Army combat veteran who owns steel company asks Biden to bring back 'Made in America' showcase",
-      "excerpt": "An Alabama Army combat veteran whose business had taken a hit because of rising steel prices is calling on President Joe Biden to reinstate a Trump Administration tradition to honor American-made products at a time, he says, when businesses could really use the morale boost. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Colin-Wayne-Redline-Steel.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-24T17:49:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

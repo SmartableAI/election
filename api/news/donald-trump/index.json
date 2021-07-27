@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-27-will-donald-trump-jr-run-for-office-trumps-son-leads-gop-favorability-poll.md",
+      "title": "Will Donald Trump Jr. Run For Office? Trump's Son Leads GOP Favorability Poll",
+      "excerpt": "Donald Trump Jr., son of former President Donald Trump, topped a GOP favorability poll that pitted him against six other Republican figures. In a poll conducted by Tony Fabrizio of Fabrizio Lee & Associates between July 6 to 8,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088",
+      "originalUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/donald-trump-jr-speaking-during-the-first-day.jpg",
+          "width": 1024,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1",
+      "publishedDateTime": "2021-07-26T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-trump-inaugural-chair-im-100-innocent-in-lobbying-case.md",
       "title": "Trump inaugural chair: I'm '100% innocent' in lobbying case",
       "excerpt": "The chair of former President Donald Trump's 2017 inaugural committee has pleaded not guilty to charges of secretly working as an agent for the United Arab Emirates to influence Trump’s foreign policy",
@@ -1488,58 +1540,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
-      "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
-      "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "originalUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a73f231d740d05f5ae6f1fcb8fc8ab138e9c8083/0_73_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c634a9013950e6eb0b24de4c9b40f10f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "publishedDateTime": "2021-07-19T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

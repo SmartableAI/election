@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-25-army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase.md",
+      "title": "Army combat veteran who owns steel company asks Biden to bring back 'Made in America' showcase",
+      "excerpt": "An Alabama Army combat veteran whose business had taken a hit because of rising steel prices is calling on President Joe Biden to reinstate a Trump Administration tradition to honor American-made products at a time, he says, when businesses could really use the morale boost. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Colin-Wayne-Redline-Steel.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-24T17:49:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-biden-attacks-trump-at-virginia-rally-tying-mcauliffes-opponent-to-ex-president.md",
       "title": "Biden attacks Trump at Virginia rally, tying McAuliffe’s opponent to ex-president",
       "excerpt": "After mostly avoiding direct attacks on Trump, Biden says Friday he “whipped Donald Trump in Virginia” and so will McAuliffe, highlighting a key strategy for Democratic candidates: linking opponents to Trump.",
@@ -1123,7 +1179,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 575,
+      "heat": 595,
       "tags": null,
       "images": [
         {
@@ -1255,58 +1311,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-to-sanction-cuban-officials-following-attacks-on-protesters-reports-say.md",
-      "title": "Biden to sanction Cuban officials following attacks on protesters, reports say",
-      "excerpt": "Thousands of Cubans took to the streets earlier this month to protest food and medicine shortages, power outages and spiraling prices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/22/biden-sanction-cuban-officials-following-attacks-protesters/8054487002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/22/biden-sanction-cuban-officials-following-attacks-protesters/8054487002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/21/USAT/b90af9e8-2d69-4fee-aa08-4c54ed75b125-American_Rescue_Plan.jpg?auto=webp&crop=5181,2915,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/8054487002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8054487002",
-      "publishedDateTime": "2021-07-22T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
