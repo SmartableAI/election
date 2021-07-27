@@ -192,6 +192,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump officials can testify in Jan. 6 inquiries, Justice Dept. says."
+    excerpt: "The decision runs counter to the views of the former president, who has argued that his decisions and deliberations are protected by executive privilege, and sets up a potential court battle."
+    publishedDateTime: 2021-07-27T12:49:00Z
+    webUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-officials-jan-6-testify.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-officials-jan-6-testify.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/trump-officials-jan-6-testify.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/27/us/politics/27political-briefing-doj-testimony/27political-briefing-doj-testimony-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
     excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
     publishedDateTime: 2021-07-27T01:41:00Z

@@ -45,6 +45,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to visit intelligence community as investigation into COVID-19 origin continues"
+    excerpt: "President Biden is set to visit the Office of the Director of National Intelligence Tuesday afternoon amid the intelligence community's ongoing investigation into the origins of COVID-19."
+    publishedDateTime: 2021-07-27T13:57:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C46xkpcXryg/biden-intelligence-community-visit-covid-19-origin-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-intelligence-community-visit-covid-19-origin-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intelligence-community-visit-covid-19-origin-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "US carries out first airstrike in Somalia since Biden took office"
     excerpt: "The US military on Tuesday carried out an airstrike against terrorist militants in Somalia — the first such strike in the country since President Joe Biden took office in January."
     publishedDateTime: 2021-07-21T12:30:00Z

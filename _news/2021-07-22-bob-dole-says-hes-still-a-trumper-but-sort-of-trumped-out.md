@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/bob-dole-donald-trump/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/bob-dole-donald-trump/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "As Jan. 6 hearings begin, GOP still can't quit Trump"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-07-27T13:56:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/jan-6-hearings-begin-gop-still-can-t-quit-trump-n1275126"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275126"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275126"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494377/210725-donald-trump-arizona-jm-1622.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "9UreU1I4PBeHNabwsXDYWHsX4xpf775RNIRqrk64uZIE/8DZkwJNg+GFqyto8LV7dqMrGzaH+81rXaEmaWF0r4vIHN+oFMzItWeVuezCBfM/hPo0eHihHAqHM8wXDosEaf2mplhW4n/Jes2PCJNQxMm9xluEKphyUrEor4S9R9Q5MAGIddFRm8g9ty8RFBqh0flUboYr5cwRXO1RUKnrToIxPM4UBvUzxcgctlN2oURvuC13ADPmSJJvtnSBdKuAFEWFdnGPLatfDm8OE2BHWZUFXQaYHIj0lfvgSfhqqw7smGBjmVOeZD5tDmFDPOE3n/tqs73S6VG/8tvP35jNa+scaQZUldndSa6B9lXxnTM=;cUp6LeW0DvDAyX0bjL9N8w=="

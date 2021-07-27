@@ -93,6 +93,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democrats broaden probe of Trump-era meddling at CDC"
+    excerpt: "House investigators are seeking interviews with former CDC professional staff, including Anne Schuchat and Nancy Messonnier."
+    publishedDateTime: 2021-07-26T18:30:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/07/26/house-oversight-democrats-probe-trump-interference-cdc/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/463II5UFL4I6THLT4K5GXPY3TM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Jim Jordan said the congressional panel examining Jan. 6 is an attack on Trump. Now he may join the committee."
     excerpt: "Rep. Jim Jordan of Ohio is one of five House Republicans selected by Minority Leader Kevin McCarthy to serve on a committee to investigate the Capitol riot."
     publishedDateTime: 2021-07-20T13:31:00Z

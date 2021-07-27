@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Jan. 6 hearings begin, GOP still can't quit Trump"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-07-27T13:56:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/jan-6-hearings-begin-gop-still-can-t-quit-trump-n1275126"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275126"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275126"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494377/210725-donald-trump-arizona-jm-1622.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "egSzUAY5atgb6YV7c4TN/dkp9KPnLFyy4tHOD3GkvQrJVGE8rnhWe0p8SHPCFIMM/+WixTtDtaIxyN3n8RnUxPp+a5ZoD1NPwOKKPfg+PeozVQxEYdbyvvcKyHjrtbs4Hr/GcKDr57PK1WMyBYpuLRMUSlauv58Lpa1OVLWYRkQV8k10S09/9gJGW538E4SmRn8lymX85cAW9PL5T//fp4Gq7z47OAdMss92Hwj5EjbVTvhuwjI0hXTBf7qiLQQOt4TTIm6FhhVrVeh7fTuVZmRIRJJ0TGMQ3plzb83e/CtvMdvJZgmc2rbrq+TjJt8fsSF6dzAHK3CvWVmElJOF+7brtFei0mG8m6ZL/YeDsxo=;9FQSL6Xv8F4n+Z80iiozkQ=="
 ---

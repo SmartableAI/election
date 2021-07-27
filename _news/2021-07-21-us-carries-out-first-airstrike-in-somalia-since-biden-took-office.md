@@ -46,6 +46,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to visit intelligence community as investigation into COVID-19 origin continues"
+    excerpt: "President Biden is set to visit the Office of the Director of National Intelligence Tuesday afternoon amid the intelligence community's ongoing investigation into the origins of COVID-19."
+    publishedDateTime: 2021-07-27T13:57:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C46xkpcXryg/biden-intelligence-community-visit-covid-19-origin-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-intelligence-community-visit-covid-19-origin-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intelligence-community-visit-covid-19-origin-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "House GOP report hits Biden, Dems on border crisis as stats show continued migrant surge"
     excerpt: "FIRST ON FOX: A new report by House Republicans hits the Biden administration and Democratic lawmakers for the southern border crisis just as new numbers show a continued migrant surge."
     publishedDateTime: 2021-07-20T14:00:06Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11453416_1627080304.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Democrats broaden probe of Trump-era meddling at CDC"
+    excerpt: "House investigators are seeking interviews with former CDC professional staff, including Anne Schuchat and Nancy Messonnier."
+    publishedDateTime: 2021-07-26T18:30:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/07/26/house-oversight-democrats-probe-trump-interference-cdc/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/463II5UFL4I6THLT4K5GXPY3TM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Jim Jordan said the congressional panel examining Jan. 6 is an attack on Trump. Now he may join the committee."
     excerpt: "Rep. Jim Jordan of Ohio is one of five House Republicans selected by Minority Leader Kevin McCarthy to serve on a committee to investigate the Capitol riot."
