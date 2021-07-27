@@ -2365,6 +2365,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden's 1st Visit to Intel Agency to Contrast With Trump's"
+    excerpt: "President Joe Biden will make his first visit to an agency of the U.S. intelligence community under sharply different circumstances than his predecessor."
+    publishedDateTime: 2021-07-27T05:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
     excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
     publishedDateTime: 2021-04-16T21:45:00Z

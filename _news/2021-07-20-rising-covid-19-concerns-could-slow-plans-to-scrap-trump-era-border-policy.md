@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronav
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
 type: article
 quality: 173
-heat: 253
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,67 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Attorney General Merrick Garland reverses Trump-era immigration policy"
-    excerpt: "Attorney General Merrick Garland reversed a Trump-era immigration policy that barred immigration judges from pausing cases they deem low-priority. The move is expected to help the justice department get through the backlog of 1."
-    publishedDateTime: 2021-07-16T16:00:00Z
-    webUrl: "https://www.nbcnews.com/now/video/attorney-general-merrick-garland-reverses-trump-era-immigration-policy-116887621922"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116887621922"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116887621922"
+  - title: "January 6 committee opening is crucial chance to correct Trump's lies"
+    excerpt: "The tasks before the Democratic-led House Select Committee examining the January 6 insurrection that opens on Tuesday, after bitter partisan feuding over its make-up, could hardly be more critical.\n    \n"
+    publishedDateTime: 2021-07-27T04:01:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7huMFv6nEg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626451088810_ott_now_garland_immigratioon_pause_210716_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702051004-02-capitol-riot-file-0106-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Ticket sales are moving slowly for the coming Trump-O’Reilly stadium tour"
-    excerpt: "Time remains to sell out the stadiums. But those familiar with the current sales pace say it lags behind other acts."
-    publishedDateTime: 2021-07-16T08:38:00Z
-    webUrl: "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795"
+  - title: "Trump and the GOP spin fantasies to hide his crimes against the Constitution"
+    excerpt: "It's gone beyond whitewashing history. Ex-President Donald Trump and his House Republican enablers are now spinning fantastical inversions to hide his crimes against the Constitution on January 6.\n    \n"
+    publishedDateTime: 2021-07-22T11:31:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bp-ashvxzmU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
+      name: CNN
+      domain: cnn.com
+    quality: 172
     images:
-      - url: "https://static.politico.com/a3/98/4a7696cc4883b5ff031956fc291d/7-15-21-donaldtrump-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154544-02-mccarthy-presser-0721-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Jordan’s king seeks to strengthen ties with the U.S. after a Trump-era thaw in relations."
-    excerpt: "King Abdullah has been seen by American presidents as a moderate, reliable ally in the Middle East, often playing the role of envoy from the Arab world in Washington."
-    publishedDateTime: 2021-07-19T18:54:00Z
-    webUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
+  - title: "Trump's appointees are turning the Supreme Court to the right with different tactics"
+    excerpt: "The three appointees of former President Donald Trump have together sealed the Supreme Court's conservatism for a generation, but they have revealed strikingly different methods. They diverge in their regard for practical consequences, their desire to lay down markers for future disputes and their show"
+    publishedDateTime: 2021-07-26T09:02:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5H9MbaIqXqw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108201852-barrett-kavanaugh-gorsuch-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pelosi Bars Trump Loyalists From Jan. 6 Inquiry, Prompting a G.O.P. Boycott"
+    excerpt: "Democrats said Representatives Jim Banks and Jim Jordan, who amplified Donald J. Trump’s lies of a stolen election and opposed investigating the assault, could not be trusted to scrutinize it."
+    publishedDateTime: 2021-07-22T00:15:00Z
+    webUrl: "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 126
+    quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2021/07/19/multimedia/19political-briefing-abdullah2/19political-briefing-abdullah2-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/07/21/us/politics/21dc-riot-republicans1/21dc-riot-republicans1-facebookJumbo.jpg"
         width: 1050
-        height: 550
-        isCached: true
-  - title: "What a Senate infrastructure deal means for the Trump-era rebate rule"
-    excerpt: "The Senate's infrastructure package will likely delay a Trump-era drug pricing regulation. — Democrats aren't all that excited about the forthcoming infrastructure deal, but they're preparing to vote for it anyway."
-    publishedDateTime: 2021-07-23T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/07/23/what-a-senate-infrastructure-deal-means-for-the-trump-era-rebate-rule-796689"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+        height: 549
         isCached: true
 
 secured: "58g9cUT+Zu2NvVLRPMLtsVRilw+usWHX43aFR3mz63mJOfzxKVfesuxHqnfeQRTWV1Yk18hrouEUCtZdFfHGtHGrrqu0pTc6aB2zX26tE/xeDMzA8umSjZeLNbTPpxGJ77C6NkkRd8Kprl41B9Z/H9JjyZeXptf5tcLRGEP8xj5UfcTatI5QNBWttc0XESyivujIy4jP5tcUA7YfVXYdePm31qgokNZihBSR3uZ4jdHp0JpCkIm/pm1UNFh/hUPpPIT2AgUMxeQdfg2d0lHsd8/8e4n5ddxjC07X3UC3H5gxQtWTxgFADtTZF8IxHYoMG731WSyNhG8TA/f133hEJ3/1YnzrMFIbpCjNpQanAww=;hkM5sMxt1a/w0kOlPmlJ4w=="

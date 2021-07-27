@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3510
+heat: 3530
 published: true
 
 provider:
@@ -2351,6 +2351,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Biden's 1st Visit to Intel Agency to Contrast With Trump's"
+    excerpt: "President Joe Biden will make his first visit to an agency of the U.S. intelligence community under sharply different circumstances than his predecessor."
+    publishedDateTime: 2021-07-27T05:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

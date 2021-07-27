@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's sway faces test in Texas runoff"
+    excerpt: "Former President Donald Trump's influence with Texas Republicans faces a stern test on Tuesday as voters in the state's 6th Congressional District choose between a pair of GOP candidates in a runoff to fill the late Rep. Ron Wright's seat.\n    \n"
+    publishedDateTime: 2021-07-27T10:00:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/swqxVDzqcuA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/texas-6th-district-runoff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/texas-6th-district-runoff/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726152050-voter-stickers-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "AZ secretary of state asks for probe into whether Trump and allies tried to interfere in election results"
     excerpt: "Arizona Secretary of State Katie Hobbs wants the state attorney general to investigate whether allies of former President Donald Trump violated state laws by conducting a pressure campaign against county officials in the wake of the November 2020 election.\n    \n"
     publishedDateTime: 2021-07-08T20:46:26Z

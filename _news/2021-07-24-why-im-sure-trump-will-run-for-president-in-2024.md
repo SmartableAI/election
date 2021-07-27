@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "TikTok, White House agree to drop Trump-era lawsuit"
-    excerpt: "The Chinese owned social media platform TikTok has reached an agreement with the White House to drop a lawsuit challenging former President Donald Trump’s attempt to ban the video app from app stores in the United States."
-    publishedDateTime: 2021-07-22T19:00:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp"
+  - title: "Trump goes all in on Texas all-GOP special election runoff for Congress"
+    excerpt: "From robocalls to TV ads, statements to an election eve tele-rally, former President Trump is throwing his considerable political clout around in Tuesday’s special election runoff between two Republican candidates in the race to fill a vacant House seat in Texas."
+    publishedDateTime: 2021-07-27T11:15:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gYWMzFh28E8/trump-texas-house-special-election-runoff"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump endorses Ken Paxton over George P. Bush for Texas AG"
+    excerpt: "President Donald Trump on Monday night announced that he would endorse Ken Paxton in the race for Texas Attorney General over George P. Bush, the son of former presidential candidate and Florida Gov. Jeb Bush."
+    publishedDateTime: 2021-07-27T01:27:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yLYfumLuN2Q/trump-endorses-ken-paxton-over-george-p-bush-texas-ag"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ken-paxton-over-george-p-bush-texas-ag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ken-paxton-over-george-p-bush-texas-ag.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1117589-3186-4490-925d-1d089e42a626/11be2235-525a-4bf7-9a63-f81e6034e16d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36a382a3-6bbb-48fa-b22c-e78464479950/e8045d7e-f7ee-4dd8-a985-818fc3cf5e2b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -58,35 +74,51 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "DOJ won’t pursue death penalty in seven Trump-era cases in shift under Garland"
-    excerpt: "The Justice Department has moved to withdraw death penalty requests made during the Trump administration in seven cases, according to a report."
-    publishedDateTime: 2021-07-22T21:15:00Z
-    webUrl: "https://nypost.com/2021/07/22/doj-to-withdraw-death-penalty-requests-from-trump-era-cases/"
-    ampWebUrl: "https://nypost.com/2021/07/22/doj-to-withdraw-death-penalty-requests-from-trump-era-cases/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/22/doj-to-withdraw-death-penalty-requests-from-trump-era-cases/amp/"
+  - title: "Trump backs embattled ‘patriot’ Texas AG Paxton over George P. Bush"
+    excerpt: "Former President Donald Trump endorsed Texas Attorney General Ken Paxton Monday, rebuffing the incumbent’s primary challenger and Bush family scion George P. Bush."
+    publishedDateTime: 2021-07-27T02:19:00Z
+    webUrl: "https://nypost.com/2021/07/26/trump-backs-embattled-texas-ag-paxton-over-george-p-bush/"
+    ampWebUrl: "https://nypost.com/2021/07/26/trump-backs-embattled-texas-ag-paxton-over-george-p-bush/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/trump-backs-embattled-texas-ag-paxton-over-george-p-bush/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 131
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Biden-2.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-paxton-support-256.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "The Feverish, Post-White House Mind of Donald Trump"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-07-19T18:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html"
+  - title: "Trump warns GOP on infrastructure deal: ‘Don’t let Radical Left play you’"
+    excerpt: "Former President Donald Trump warned Republicans about being played as “losers” by Democrats during the bipartisan infrastructure negotiations."
+    publishedDateTime: 2021-07-26T15:49:00Z
+    webUrl: "https://nypost.com/2021/07/26/trump-warns-republicans-dont-let-radical-left-play-you/"
+    ampWebUrl: "https://nypost.com/2021/07/26/trump-warns-republicans-dont-let-radical-left-play-you/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/trump-warns-republicans-dont-let-radical-left-play-you/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-001-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Real Reason Trump Keeps Telling the Big Lie"
+    excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
+    publishedDateTime: 2021-07-20T19:47:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/548617_5_.jpg"
         width: 750
-        height: 495
+        height: 500
         isCached: true
 
 secured: "WnxpZEx3axBZxvLZwmqIHAgyk6EBb4VlRoWvk3KKeovjFUdwyhRcpCIdi6GsmLfrTJDdLwTDuY5EL9f4DDY/qp15QuBeoCq4Xj+LAobTDDk2t5I3e/u17OADwrBj1HVWV91EVfOwyqUeaz43MIu3Zx8GychVG7XmozLDKoWA3Cd9b1JGbx/9rECSREJp8wHRciyZXt3w5JNGYJdqenS12wG1iwF5nLeRQPq1loAA6qEUX3I2GfCPX5bfsIxFcNFLGa+1NukIgB+KF7giNVcn8YILSWzlv4PX7JHQeDFWWnVmSWIw9L47ieYz3ZC+6faErQA8Ju9aILBByRkAI08v9LHNmZekFqOq2e3bDQVEWsA=;upIA9IE/Su3+GwdQl7pAFQ=="

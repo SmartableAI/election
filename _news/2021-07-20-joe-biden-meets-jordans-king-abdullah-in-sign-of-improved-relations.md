@@ -27,37 +27,113 @@ images:
     isCached: true
 
 related:
-  - title: "Who Is Abdul Latif Nasser? Joe Biden Releases First Guantánamo Bay Prisoner"
-    excerpt: "On Monday, the Biden administration transferred its first detainee out of Guantánamo Bay, repatriating a Moroccan man who has been held in the notorious prison for nearly two decades on no charge. The release of Abdul Latif Nasser,"
-    publishedDateTime: 2021-07-19T13:46:00Z
-    webUrl: "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971"
-    ampWebUrl: "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1"
+  - title: "GOP lawmakers request Cuba meeting with Biden"
+    excerpt: "A group of 19 Republican lawmakers penned a letter to President Biden on Monday requesting a meeting to discuss the ongoing situation in Cuba, which has escalated in recent weeks following protests ag"
+    publishedDateTime: 2021-07-27T00:48:00Z
+    webUrl: "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden"
+    ampWebUrl: "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/cuba-protest_miami_071121getty_cuba.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to sanction Cuban officials following attacks on protesters, reports say"
+    excerpt: "Thousands of Cubans took to the streets earlier this month to protest food and medicine shortages, power outages and spiraling prices."
+    publishedDateTime: 2021-07-22T15:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/22/biden-sanction-cuban-officials-following-attacks-protesters/8054487002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/8054487002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8054487002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/21/USAT/b90af9e8-2d69-4fee-aa08-4c54ed75b125-American_Rescue_Plan.jpg?auto=webp&crop=5181,2915,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Poll Shows Biden's Gun Violence Approval Rating Falling to 37% Amid Rise in Shootings"
+    excerpt: "Attorney General Merrick Garland has pledged to address the surge in gun violence in Chicago, New York, Washington, Los Angeles and San Francisco."
+    publishedDateTime: 2021-07-26T01:43:00Z
+    webUrl: "https://www.newsweek.com/poll-shows-bidens-gun-violence-approval-rating-falling-37-amid-rise-shootings-1612928"
+    ampWebUrl: "https://www.newsweek.com/poll-shows-bidens-gun-violence-approval-rating-falling-37-amid-rise-shootings-1612928?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/poll-shows-bidens-gun-violence-approval-rating-falling-37-amid-rise-shootings-1612928?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1703346/gitmo2002.jpg"
-        width: 3000
-        height: 1968
-        isCached: true
-  - title: "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy"
-    excerpt: "Biden administration transfers 1st detainee from Guantanamo Bay facility to home country in break with Trump policy"
-    publishedDateTime: 2021-07-19T11:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-transfers-1st-detainee-guantanamo-bay-facility-78921915"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
     quality: 118
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://d.newsweek.com/en/full/1854613/joe-biden-merrick-garland-gun-violence-rise.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
+  - title: "Biden Administration Weighing Increasing Staff at Cuban Embassy Following Mass Protests"
+    excerpt: "\"We've made clear over the last week that addressing this moment was a priority for the administration and for President Biden,\" Press Secretary Jen Psaki said."
+    publishedDateTime: 2021-07-22T19:31:00Z
+    webUrl: "https://www.newsweek.com/biden-administration-weighing-increasing-staff-cuban-embassy-following-mass-protests-1612330"
+    ampWebUrl: "https://www.newsweek.com/biden-administration-weighing-increasing-staff-cuban-embassy-following-mass-protests-1612330?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-weighing-increasing-staff-cuban-embassy-following-mass-protests-1612330?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1852849/cuba-embassy-protestors.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden hosts Jordan's King Abdullah at White House"
+    excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
+    publishedDateTime: 2021-07-19T20:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/19/biden-hosts-jordans-king-abdullah-white-house/8019511002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Florida Republicans slam President Joe Biden on Cuba during GOP townhall in Versailles"
+    excerpt: "A Miami crowd of dozens who had shown up in support of the anti-government protests in Cuba served as the backdrop of a GOP town hall broadcast live from Versailles Cafe on SW 8th Street — hosted by FOX News’ Sean Hannity."
+    publishedDateTime: 2021-07-23T23:01:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/609519e9-8ebe-4e89-898a-047ab6d8d66d/3b9e608e-4fee-4a64-a8a8-bb03c72f37ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "MICHAEL BARONE: Joe Biden's big lie"
+    excerpt: "Did you know that Black people are not going to be allowed to vote in America anymore? At least in states controlled by Republicans. Sounds unlikely, but that's a conclusion you might have come to if you took seriously what President Joe Biden said in Philadelphia last week."
+    publishedDateTime: 2021-07-19T12:33:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/jul/19/michael-barone-joe-bidens-big-lie/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "DUVke4hX30BjO5UopzsTvlh/A1e+3huG0yak1JpSsKEFI3o/v/zfETByQ6eOL7nv+/+4PjZbKDgHn0xHIVJ5kMsqk2kBU3bHEhZHhDxj2BVnmIKbC682KyjX2JWdt/v4ZKJWaq+BGWjTvuws3231Kx9xGXn3qcDQcRzqFRfE7hwuu1cx8kxCiCPho/0u8ogcGpJZb1/7rtvQXBAB4yR7oCjD1GWBOqIZUykQtxWbjyRHCsBYEpqcqN3p4M7Ix2U/k7Lggq9H7owFn6pZSawaGkykBkfJ3L2SurNWTnLPBWs9xbmsQLOkb16K74OsPeMdGnQHgTUkpInNzIaUU8u32Oe3wpGmsdDyjhYKV5ZhacwPPHFqErihd0UGy/uOuyFp1+r+HU00pQOSHV5G8hMDoexjzAajcc607ez6xLwUpBqFPfqCQINH2NkBjaup/biZ4kwouQY05eqOd0kVBPbAyF9w9OrSHumIv9CCZLxyHn1SZBuzkPIIT6g+8TCbCnRC2yqtd5g93Wwhyddr1pdDcg==;T5zWEm1Vg/Z6tbq4nRPLRg=="

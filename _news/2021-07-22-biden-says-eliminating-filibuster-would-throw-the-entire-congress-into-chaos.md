@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibus
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibuster/"
 type: article
 quality: 121
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Biden Administration Weighing Increasing Staff at Cuban Embassy Following Mass Protests"
-    excerpt: "\"We've made clear over the last week that addressing this moment was a priority for the administration and for President Biden,\" Press Secretary Jen Psaki said."
-    publishedDateTime: 2021-07-22T19:31:00Z
-    webUrl: "https://www.newsweek.com/biden-administration-weighing-increasing-staff-cuban-embassy-following-mass-protests-1612330"
-    ampWebUrl: "https://www.newsweek.com/biden-administration-weighing-increasing-staff-cuban-embassy-following-mass-protests-1612330?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-weighing-increasing-staff-cuban-embassy-following-mass-protests-1612330?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1852849/cuba-embassy-protestors.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "1ahmBGowcShVzG+ixsSRJKHwKEm/fnXqc/yQJxUAUIbNzbienYU9xBwAmrTgRbnlvRtpWRsv98l62XKA5U0EvqTln0qNRsRAcs6hgnTYzmMnh89XQRjzST4zlfnM9Ku70I7zRbBBjNbTSDeLnbFf1TAEvov1bsSXoFE5SjWiH/Otjm0MmJBnCwI3rxPu2GIlopdWtcgKaFOCT6X9tFIQwwtzRdrHSQBIN/oqvuQgFPqkRNhD8Utjh0kMlEY02g++KgfsXxBGpPfp3qelvvpIIcGb+uNHFSbtzchuFOZl/krKbO/ZG6G1142Yb1uBLoIMTFXE8J38WYrU0dZ2ra0LEtWUaTgli6Y/ocdhB1/num7g7pV+DE8T/EmgxYnxb7rUu3oethWRs7auKGQrbGL/2Uz5Q2tHudnvHpLITC3VTNSCQRH+wQ8i36psDI8BWW0yuqoi/K+TOSxKGkGXri5AqX6Xqf1yBz9gjGAHt1NLOntqqu/t68Sr9SgLrz21/xhV8sGXNE2iM2ziQ3u2TCVroQ==;EHD1EJexc+WLdFtNey0Jcg=="
 ---

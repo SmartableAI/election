@@ -439,20 +439,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "The Real Reason Trump Keeps Telling the Big Lie"
-    excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
-    publishedDateTime: 2021-07-20T19:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/548617_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Republicans Have Already Given Biden What He Needs"
     excerpt: "We have a deal,” the beaming president proclaimed outside the White House, flanked by 10 beaming senators—all the negotiators had agreed to was an outline, a three-page sketch of how to spend $1.2 trillion on roads,"
     publishedDateTime: 2021-07-22T18:21:00Z

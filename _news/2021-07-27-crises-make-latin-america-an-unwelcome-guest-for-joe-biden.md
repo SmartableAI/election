@@ -77,6 +77,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "President Biden says the U.S. combat mission in Iraq will be over by end of 2021"
+    excerpt: "President Joe Biden tells Iraqi Prime Minister Mustafa al-Kadhimi that the U.S. military's combat mission in Iraq will be over by the end of the year."
+    publishedDateTime: 2021-07-27T11:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/07/27/biden-tells-iraqi-pm-us-combat-mission-iraq-end-2022/5383209001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/27/USAT/bac20740-a496-4f92-a3b3-05a5364e11de-VPC_BIDEN_IRAQI_PM_SOT_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden says U.S. combat mission in Iraq will end later this year"
     excerpt: "The United States' combat mission in Iraq will be over by the end of the year, President Joe Biden said at the White House on Monday alongside Iraqi Prime Minister Mustafa al-Kadhimi."
     publishedDateTime: 2021-07-26T11:26:00Z
@@ -94,6 +108,6 @@ related:
         height: 534
         isCached: true
 
-secured: "9+ieidk6zU2+We65LHTm1U7VEq3tf5h/oT2AxOWCWurqyzykvXWJFOtc+XfVUnp/f/qroyt3zdQwmHVVFRFZFlB9W13XCEbRfVhdhCBdaWqCOfz4mW1uUqlskSHHR4XIXDakqY5WSj55/lAvUsXgq3JWkot9phArdAw29G44dJwKnqxXi0vLh29r+b/iCLOCHVETNYR06ixmj1Ggg+bzFThd0MtsCFYzlmW4/R6zUBi0lGUsjWL47BCpiZeG7MdWp65LReH5taZgtLq125oMhQFpuPgV2oWgY57B27rNMZfaXp6DEJpRs9ytNFR6HThkQHJzr2LRXQDUxK+f4kZYoTbFNoBmlgB6POic2AXZefc=;8xY69vMzNOiQYlfcQog0xA=="
+secured: "UPT6vbxP0dQ+l7ynMqKicXvx+u6lkqNgQ4Ixte2Vfm1xe8RPA9O4959sM/Swq92X3LITWUPM3sV6tIIVsAi96y+HfGyH1PTZOtmIRfCqsPRu4+gSoIZy5z9/Rbzi3ijJ51QtRqPjCFKm1A5pqOcDDeExJABSy9yx8oOg6sc1xUFTGcnaI5CDIPXQLxe43sMyvtcluEvQxy2GU1+izX9IHrK4LrTU8//8aqwMkCHs4cB+thrQdGfB7iEpkqZSYDDfi/aNAN9Mt6t8QxzsZhwjW8ANy9OYJGkznLU+jiOFj1OIEprme8A4I3UicVsem2V96pkG8dfiEEoSzjplqVRfz5wtmOffAA9L4+u9JaaGg6FEkzTtivrRTHmzlt8+8LTYv+UULououoFm0WAk7xAbq4zeQKimHi42jranZWuvOU6pYwr83JQaNO9jfmfbGJABXKMq4BWvyLaY6cS+zoSjqPmcwrmoCXepd6+zUAtYaFShp0IMtnEu8r4sXTFpn0mu29Dq26307tY9J00YegIU8A==;jT4thUcP73GHSQJIjXy6Yg=="
 ---
 

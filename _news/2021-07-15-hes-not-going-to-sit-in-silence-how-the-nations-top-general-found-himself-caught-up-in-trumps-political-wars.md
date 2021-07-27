@@ -31,83 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump and the GOP spin fantasies to hide his crimes against the Constitution"
-    excerpt: "It's gone beyond whitewashing history. Ex-President Donald Trump and his House Republican enablers are now spinning fantastical inversions to hide his crimes against the Constitution on January 6.\n    \n"
-    publishedDateTime: 2021-07-22T11:31:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bp-ashvxzmU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
+  - title: "'They're not going to f**king succeed': Top generals feared Trump would attempt a coup after election, according to new book"
+    excerpt: "The top US military officer, Chairman of the Joint Chiefs Gen. Mark Milley, was so shaken that then-President Donald Trump and his allies might attempt a coup or take other dangerous or illegal measures after the November election that Milley and other top officials informally planned for different ways"
+    publishedDateTime: 2021-07-15T01:03:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tBQEKGla9HM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154544-02-mccarthy-presser-0721-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714165935-trump-milley-2017-inauguration-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Donald Trump and Kevin McCarthy to meet on Thursday as 1/6 committee hearing looms"
-    excerpt: "House GOP Leader Kevin McCarthy is expected to meet with former President Donald Trump on Thursday, Trump announced in a statement, coming as the California Republican is considering which members of his conference to appoint to a special committee tasked with investigating the deadly January 6 riot"
-    publishedDateTime: 2021-07-15T13:36:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+  - title: "Jordan’s king seeks to strengthen ties with the U.S. after a Trump-era thaw in relations."
+    excerpt: "King Abdullah has been seen by American presidents as a moderate, reliable ally in the Middle East, often playing the role of envoy from the Arab world in Washington."
+    publishedDateTime: 2021-07-19T18:54:00Z
+    webUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/19/us/politics/king-abdullah-jordan-biden.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512104940-kevin-mccarthy-2020-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/07/19/multimedia/19political-briefing-abdullah2/19political-briefing-abdullah2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump's appointees are turning the Supreme Court to the right with different tactics"
-    excerpt: "The three appointees of former President Donald Trump have together sealed the Supreme Court's conservatism for a generation, but they have revealed strikingly different methods. They diverge in their regard for practical consequences, their desire to lay down markers for future disputes and their show"
-    publishedDateTime: 2021-07-26T09:02:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5H9MbaIqXqw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108201852-barrett-kavanaugh-gorsuch-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trade groups wrestle with supporting GOP lawmakers who embrace Trump's election lie"
-    excerpt: "For dentists, the rupture over Rep. Paul Gosar of Arizona played out in a series of spirited public letters, culminating in a decision to suspend donations."
-    publishedDateTime: 2021-07-26T17:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/trade-groups-wrestle-supporting-gop-lawmakers-who-embrace-trump-s-n1273148"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273148"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273148"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 144
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491181/210714-capitol-riot-jm-1855.jpg"
-        width: 2434
-        height: 1623
-        isCached: true
-  - title: "Poll: Without Trump in the race, DeSantis dominates 2024 GOP White House hopefuls"
-    excerpt: "Donald Trump remains the king of the GOP. Florida Gov. Ron DeSantis is looking like the crown prince. For months, DeSantis’ stature has been expanding within the party, marked by growing buzz among grassroots activists and GOP consultants who admire the pugilistic style of politics he wields against progressives and the media."
-    publishedDateTime: 2021-07-15T09:42:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365"
+  - title: "DIEHL dials it down on TRUMP — JOCKEYING BEGINS over FED AID — UNPACKING Boston mayoral FUNDRAISING"
+    excerpt: "Geoff Diehl co-chaired Donald Trump’s campaign here in 2016 and just months ago called on GOP Gov. Charlie Baker to “retract” his support for the president’s second impeachment. But now that he’s running for governor,"
+    publishedDateTime: 2021-07-07T11:43:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/07/07/diehl-dials-down-on-trump-jockeying-begins-over-fed-aid-unpacking-boston-mayoral-fundraising-493489"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 110
+    quality: 101
     images:
-      - url: "https://static.politico.com/aa/ab/9503fd984efb9e26be00ba54c31e/ap21148637808493-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "3QaWuhxtQt+9R7SHh+dPOJKTz2NsZvLoYdsxB2jg6QaMbTYKiGmKJ8ApC3j2D9vUEacSrj3thMA5u/jApiLzaDO3pJIcfSuVRYW52j33FJIgaZDj4S1q6zfsLjFxcarwVqew+0W6xjzShqiB4oYhyrUPtOy9V/Vc/qNn8L5Bzi2ZqOtzE0gZv3ZBz5tLHJIt+kEX4ceShV9IZxYAuTUCVCsj9TiRsAwGCT2s8wmxme11fbSrVIXdQIwxx4ZpcOHcKhvGHzG0cTdu8dHDHn0qrRehQIcnZ5PoJQYaarKgDG8eUWBFtyv49Ec0SbolepIg0iitXTq3HyQrKJO9d+dBEEmQZaGmm4UQOjluH6FMuU8=;RNdDCXPjt+KLzRsGayJpqA=="

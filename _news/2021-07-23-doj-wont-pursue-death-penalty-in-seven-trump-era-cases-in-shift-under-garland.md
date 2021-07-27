@@ -44,40 +44,10 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent"
-    excerpt: "An indictment alleges that the real-estate investor acted at the direction of senior Emirati officials to influence former President Donald Trump’s policy positions and to influence public opinion in favor of U."
-    publishedDateTime: 2021-07-20T23:02:00Z
-    webUrl: "https://www.wsj.com/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-372314/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The Feverish, Post-White House Mind of Donald Trump"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-19T18:47:00Z
     webUrl: "https://www.realclearpolitics.com/2021/07/19/the_feverish_post-white_house_mind_of_donald_trump_547529.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
-        width: 750
-        height: 495
-        isCached: true
-  - title: "Why I'm Sure Trump Will Run for President in 2024"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-07-24T12:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/24/why_im_sure_trump_will_run_for_president_in_2024_547896.html"
     type: article
     provider:
       name: RealClearPolitics

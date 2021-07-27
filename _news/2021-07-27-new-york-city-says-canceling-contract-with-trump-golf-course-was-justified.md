@@ -1,8 +1,8 @@
 ---
 category: news
 title: "New York City Says Canceling Contract With Trump Golf Course Was Justified"
-excerpt: "Lawyers for the city argued Monday that the decision to end the Trump Organization’s contract to operate Trump Golf Links at Ferry Point was lawful because attracting top tournaments wasn’t possible after the U."
-publishedDateTime: 2021-07-27T00:11:00Z
+excerpt: "Lawyers for the city argued that the decision to end the Trump Organization’s contract to operate Trump Golf Links at Ferry Point was lawful because attracting top tournaments wasn’t possible after the U."
+publishedDateTime: 2021-07-27T00:15:00Z
 originalUrl: "https://www.wsj.com/articles/new-york-city-says-canceling-contract-with-trump-golf-course-was-justified-11627348283"
 webUrl: "https://www.wsj.com/articles/new-york-city-says-canceling-contract-with-trump-golf-course-was-justified-11627348283"
 ampWebUrl: "https://www.wsj.com/amp/articles/new-york-city-says-canceling-contract-with-trump-golf-course-was-justified-11627348283"
@@ -49,6 +49,6 @@ related:
         height: 340
         isCached: true
 
-secured: "3xA9NipwHY91Rk5j363mPIG+vRBFe+k2v6lkU+c95TcqyYYP/7wEoVmgg7B354jxt843UpdYnvvA/pC8LYtLigQByCtqIFKpGqSESwNoJbxd6Z54ASDJX+VGefKseydnv7B92juB3Hs1q8ruEPCVfC49oUtA21+11FbXBQj7smtP5lvCQSroax6L354bGdrxnVYBGiJvwowobeEVMxDhb8VeWKKModGtk+Z29xtIZIkaz2Kaa/RR0i/ypqmbLGgkE+/Ju372Lk4F09MJ3Lj5zIQ0egh4MI02tzVZBtMxXsWh4yFg8nKt3b/zlpoKxsgisaw8aVDLz4Pi6bGsIW98Ql7IuGEDsKD2cXZIKuSo+bCdbCPR7mtQo6DbT7rTeYcchRc8ZdhRUkEryjikVyLDZmcgnQ8LLL04Z7sYnIsTT5eKlRAmlN/o4X7GNKTBJG7qWdwFLItDTEzuqDRaccNo58XhTsP1eO1B3sh7NHQXm2qygQNk6e3dL0Wq/6CWL2p2D+EBTlxjxqtrCW7Uhw0TbA==;DFFGcVcpTMIUvzW8V5Uupg=="
+secured: "x+e8LALOzzTGSIxPvmgzSe2NaJAX88IQaKNz94ehUA3Mohoqx6CcZnmdw4FRQsztKhnRm4iL2Y0VSGYj+UJdRZSEHak4aaWv37CDFcDiGso9r6JBuiDyfdRMTsXD/wLlWIs3xbBXUTAv5aOaUg8Kxb8cyVAEGA/AIbiOBgACMq9QMt1Y227SBCpsNBjSQXKH7eXeTx4Hk7RmHtl1DKirQ4GfSVgrh+OZlIa2AflVXWMIuQbvqPSrZ6hKuEpC9hGXCFVV9W9+UUu7ssfkSnIjB6u++xx5LfP0tPc31YQsR+O5BiTanaXF5NhwLH1xGuA1Lo4gnZMzVpBZdZPa7IoUrZLDLvxnH3jQ+imZch6Fffw=;DVWGn0MHWhvENnNlRWS3PQ=="
 ---
 

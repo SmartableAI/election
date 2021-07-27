@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boy
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.amp.html"
 type: article
 quality: 133
-heat: 173
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -32,37 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Pelosi weighs adding Kinzinger, a second anti-Trump Republican, to the Jan. 6 inquiry."
-    excerpt: "The speaker has already given one of the eight Democratic seats on the panel to Representative Liz Cheney, Republican of Wyoming."
-    publishedDateTime: 2021-07-22T12:55:00Z
-    webUrl: "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html"
+  - title: "January 6 committee opening is crucial chance to correct Trump's lies"
+    excerpt: "The tasks before the Democratic-led House Select Committee examining the January 6 insurrection that opens on Tuesday, after bitter partisan feuding over its make-up, could hardly be more critical.\n    \n"
+    publishedDateTime: 2021-07-27T04:01:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7huMFv6nEg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 127
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static01.nyt.com/images/2021/07/22/us/politics/22political-briefing-kinzinger/22political-briefing-kinzinger-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702051004-02-capitol-riot-file-0106-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump loyalists top McCarthy’s list of picks for the Jan. 6 inquiry, signaling a partisan brawl."
-    excerpt: "The 13-member select committee, created on a party-line vote of the House, will have seven Democrats and six Republican members."
-    publishedDateTime: 2021-07-20T16:27:00Z
-    webUrl: "https://www.nytimes.com/2021/07/20/us/politics/republicans-jan-6-committee.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/politics/republicans-jan-6-committee.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/politics/republicans-jan-6-committee.amp.html"
+  - title: "Rising Covid-19 concerns could slow plans to scrap Trump-era border policy "
+    excerpt: "The Biden administration may delay winding down a Trump-era border policy tied to the pandemic due to increasing concerns about Covid-19 variants, according to a source familiar with the matter.\n    \n"
+    publishedDateTime: 2021-07-20T02:13:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHu6wszfkv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 122
+      name: CNN
+      domain: cnn.com
+    quality: 173
     images:
-      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20political-briefing-jan6-republicans/20political-briefing-jan6-republicans-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and the GOP spin fantasies to hide his crimes against the Constitution"
+    excerpt: "It's gone beyond whitewashing history. Ex-President Donald Trump and his House Republican enablers are now spinning fantastical inversions to hide his crimes against the Constitution on January 6.\n    \n"
+    publishedDateTime: 2021-07-22T11:31:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bp-ashvxzmU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154544-02-mccarthy-presser-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's appointees are turning the Supreme Court to the right with different tactics"
+    excerpt: "The three appointees of former President Donald Trump have together sealed the Supreme Court's conservatism for a generation, but they have revealed strikingly different methods. They diverge in their regard for practical consequences, their desire to lay down markers for future disputes and their show"
+    publishedDateTime: 2021-07-26T09:02:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5H9MbaIqXqw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108201852-barrett-kavanaugh-gorsuch-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "IsFKQZD7wkouqFZciIeUFEBRBjCYSQIMnvlWQaEvWzRThWmbfxUuxWgg3HIYiEPB2qBbCIdhhfRJAutlesQOlywK+CVNjQCD3C87Np6rfhQGBhdUXUQkOp5jkzgRdZzCrmPGCOPLeIDH/xaorfJRScEtlx3VOPNqsol1EL28BAQUkm4/rGwc96JtqtQlauon2GWHuRS2PrhKz3lJMOu6zJd8lO7mpGEYwm3FRgSWyTPW1jlZ06prqqBKGKTN7EXh7BIS5MCQ5aroqFqq6Zv41fCJpJ62xE7IUlKIHGxbsynBGNUsMfSoFKxKMG139tN2UnNRI8cLogzcrqMHCSd2JFfvraaRfP08PdWtM9bsh2dBmHxpu9QTUdGZWRvCks+MB3KVAwJDRHCDoCz4q+D5gx+uVXkGBOmqFAqik/ANPQb5WQISmtQeMarNdAO7zOjgPAGcymGbY+U1AUJs8TeWUI7Hy3S8JA4hxHIvRAKyVFuhfzp09/dPIqnNf6Pwcul/2ASBNKjXLS9lmXaFthOzTA==;g4EmAanQqU5tagcLvjW9lw=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ken-paxton-over-geor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ken-paxton-over-george-p-bush-texas-ag.amp"
 type: article
 quality: 175
-heat: 195
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump goes all in on Texas all-GOP special election runoff for Congress"
+    excerpt: "From robocalls to TV ads, statements to an election eve tele-rally, former President Trump is throwing his considerable political clout around in Tuesday’s special election runoff between two Republican candidates in the race to fill a vacant House seat in Texas."
+    publishedDateTime: 2021-07-27T11:15:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gYWMzFh28E8/trump-texas-house-special-election-runoff"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent"
+    excerpt: "An indictment alleges that the real-estate investor acted at the direction of senior Emirati officials to influence former President Donald Trump’s policy positions and to influence public opinion in favor of U."
+    publishedDateTime: 2021-07-20T23:02:00Z
+    webUrl: "https://www.wsj.com/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-372314/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump backs embattled ‘patriot’ Texas AG Paxton over George P. Bush"
     excerpt: "Former President Donald Trump endorsed Texas Attorney General Ken Paxton Monday, rebuffing the incumbent’s primary challenger and Bush family scion George P. Bush."
     publishedDateTime: 2021-07-27T02:19:00Z
@@ -46,6 +78,50 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-paxton-support-256.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump warns GOP on infrastructure deal: ‘Don’t let Radical Left play you’"
+    excerpt: "Former President Donald Trump warned Republicans about being played as “losers” by Democrats during the bipartisan infrastructure negotiations."
+    publishedDateTime: 2021-07-26T15:49:00Z
+    webUrl: "https://nypost.com/2021/07/26/trump-warns-republicans-dont-let-radical-left-play-you/"
+    ampWebUrl: "https://nypost.com/2021/07/26/trump-warns-republicans-dont-let-radical-left-play-you/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/trump-warns-republicans-dont-let-radical-left-play-you/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-001-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Real Reason Trump Keeps Telling the Big Lie"
+    excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
+    publishedDateTime: 2021-07-20T19:47:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548617_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Why I'm Sure Trump Will Run for President in 2024"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-24T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/24/why_im_sure_trump_will_run_for_president_in_2024_547896.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
+        width: 750
+        height: 495
         isCached: true
 
 secured: "7h1/ff2BcH3UCZwdSXf/Rd0Edi6C2hiyJSY2fMGfTBHP4TpkYB08L/9bGqIp5XC4Pj8brFVzov5cfXed+NPFXtg8wQLCzjJ2aHt1rBhXsTYiZtdY51nHe3PA3IYDaVXZTA6X+6O6XbBw81PCSBrwWKSWFodIxC6Cgg2HqsS+kSObZfyxkoruHMm03SaYKpJR7LH8VNBqEgsGpAIPgFW9IBhVrLs0FKe49eHJ8XXRg14bAeoxUH2DIhNBvrL0ApUgOrbJbXmwUHycK/i+mZhf8QvK5kiPEv/zQ/RmNNlKszmmgIKjxrPlD1CrlT9WGWQnn40NPXS5tK00EFd/X9RAUItIA0SRALW5dnScxFMKccc=;PnMEhb9WXzHlR7I5k5461Q=="

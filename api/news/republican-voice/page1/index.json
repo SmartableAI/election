@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-27-trump-endorses-ken-paxton-over-george-p-bush-for-texas-ag.md",
-      "title": "Trump endorses Ken Paxton over George P. Bush for Texas AG",
-      "excerpt": "President Donald Trump on Monday night announced that he would endorse Ken Paxton in the race for Texas Attorney General over George P. Bush, the son of former presidential candidate and Florida Gov. Jeb Bush.",
+      "path": "_news/2021-07-27-trump-goes-all-in-on-texas-all-gop-special-election-runoff-for-congress.md",
+      "title": "Trump goes all in on Texas all-GOP special election runoff for Congress",
+      "excerpt": "From robocalls to TV ads, statements to an election eve tele-rally, former President Trump is throwing his considerable political clout around in Tuesday’s special election runoff between two Republican candidates in the race to fill a vacant House seat in Texas.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yLYfumLuN2Q/trump-endorses-ken-paxton-over-george-p-bush-texas-ag",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yLYfumLuN2Q/trump-endorses-ken-paxton-over-george-p-bush-texas-ag",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gYWMzFh28E8/trump-texas-house-special-election-runoff",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gYWMzFh28E8/trump-texas-house-special-election-runoff",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 310,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36a382a3-6bbb-48fa-b22c-e78464479950/e8045d7e-f7ee-4dd8-a985-818fc3cf5e2b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-ken-paxton-over-george-p-bush-texas-ag.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ken-paxton-over-george-p-bush-texas-ag.amp",
-      "publishedDateTime": "2021-07-26T18:27:05-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp",
+      "publishedDateTime": "2021-07-27T04:15:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -767,7 +767,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1104,7 +1104,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 748,
+      "heat": 728,
       "tags": null,
       "images": [
         {
@@ -1328,7 +1328,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {

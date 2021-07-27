@@ -32,8 +32,8 @@ images:
 
 related:
   - title: "New York City Says Canceling Contract With Trump Golf Course Was Justified"
-    excerpt: "Lawyers for the city argued Monday that the decision to end the Trump Organization’s contract to operate Trump Golf Links at Ferry Point was lawful because attracting top tournaments wasn’t possible after the U."
-    publishedDateTime: 2021-07-27T00:11:00Z
+    excerpt: "Lawyers for the city argued that the decision to end the Trump Organization’s contract to operate Trump Golf Links at Ferry Point was lawful because attracting top tournaments wasn’t possible after the U."
+    publishedDateTime: 2021-07-27T00:15:00Z
     webUrl: "https://www.wsj.com/articles/new-york-city-says-canceling-contract-with-trump-golf-course-was-justified-11627348283"
     ampWebUrl: "https://www.wsj.com/amp/articles/new-york-city-says-canceling-contract-with-trump-golf-course-was-justified-11627348283"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-city-says-canceling-contract-with-trump-golf-course-was-justified-11627348283"

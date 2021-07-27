@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274527"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274527"
 type: article
 quality: 146
-heat: 166
+heat: 186
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trade groups wrestle with supporting GOP lawmakers who embrace Trump's election lie"
+    excerpt: "For dentists, the rupture over Rep. Paul Gosar of Arizona played out in a series of spirited public letters, culminating in a decision to suspend donations."
+    publishedDateTime: 2021-07-26T17:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trade-groups-wrestle-supporting-gop-lawmakers-who-embrace-trump-s-n1273148"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273148"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273148"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491181/210714-capitol-riot-jm-1855.jpg"
+        width: 2434
+        height: 1623
+        isCached: true
   - title: "‘Just say we won’: WaPo duo goes inside the Trump White House on Election Day"
     excerpt: "WaPo’s Carol Leonnig and Phil Rucker have a juicy read on what former DONALD TRUMP and his aides were saying on Election Night, excerpted from"
     publishedDateTime: 2021-07-13T10:35:00Z

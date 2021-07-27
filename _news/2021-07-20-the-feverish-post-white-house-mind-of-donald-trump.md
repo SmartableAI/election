@@ -42,22 +42,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent"
-    excerpt: "An indictment alleges that the real-estate investor acted at the direction of senior Emirati officials to influence former President Donald Trump’s policy positions and to influence public opinion in favor of U."
-    publishedDateTime: 2021-07-20T23:02:00Z
-    webUrl: "https://www.wsj.com/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tom-barrack-charged-with-acting-as-a-foreign-agent-for-the-uae-11626807733"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-372314/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "DOJ won’t pursue death penalty in seven Trump-era cases in shift under Garland"
     excerpt: "The Justice Department has moved to withdraw death penalty requests made during the Trump administration in seven cases, according to a report."
     publishedDateTime: 2021-07-22T21:15:00Z
@@ -73,20 +57,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Biden-2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Why I'm Sure Trump Will Run for President in 2024"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-07-24T12:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/24/why_im_sure_trump_will_run_for_president_in_2024_547896.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
-        width: 750
-        height: 495
         isCached: true
 
 secured: "EsqNhaOxrLZPRs3LtjZMTkhNi8pUabeeZwleaZz4MT+XV5TLw7k8Nx7FdNlf/UWQkJ2S8/GUJ6HKyH40YDMb+p1mWDoHcKPj6Dkh5kQ/WyTulxOUMKm6jjkMmFkb8E8fdaQANBc/e7YkaVJYi2La3wNdH5VKFAwEhEol1ZjOG9cQOhk90Op+7Q+MUQnHSemqKC48RHlIEJ8dJRKR90Z/1mX9UsdlDcsfZu77CGUsekDxuN2eB4JZWLwgGRvRynNdao/k1IOhSqqbwc2PuhylGbpoR3e+1dDK/NyL0TQFfHzX2rLrfzrANEAmqUiCEWXNLhiqy0ysqLTkG4W1Yd0lnvkP92vN9956w3BNghjeyWE=;82DGovSbXoDzFFl9h6u+Mw=="

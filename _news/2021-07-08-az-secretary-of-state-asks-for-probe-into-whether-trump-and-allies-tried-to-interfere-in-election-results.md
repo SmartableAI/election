@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's sway faces test in Texas runoff"
+    excerpt: "Former President Donald Trump's influence with Texas Republicans faces a stern test on Tuesday as voters in the state's 6th Congressional District choose between a pair of GOP candidates in a runoff to fill the late Rep. Ron Wright's seat.\n    \n"
+    publishedDateTime: 2021-07-27T10:00:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/swqxVDzqcuA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/texas-6th-district-runoff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/texas-6th-district-runoff/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726152050-voter-stickers-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump allegedly praised Hitler as doing 'a lot of good things' new book claims"
     excerpt: "Then-President Donald Trump allegedly praised Adolf Hitler during a discussion with his White House chief of staff John Kelly in 2018 while on a trip to Paris to commemorate the armistice after World War I, according to excerpts of an upcoming book, obtained by CNN, from Wall Street Journal reporter"
     publishedDateTime: 2021-07-07T19:09:53Z

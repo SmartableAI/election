@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0dfa5b9028ecfb382ba3017605ddb350d0f69ab4/0_149_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1f86a5665a0c6bc3eba04a9c9f37aa4"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump loyalists missing but not forgotten as Jan. 6 hearings begin: The Note"
+    excerpt: "Jordan and McCarthy -- both of whom have said they spoke with former President Donald Trump as events unfolded Jan. 6 -- are two potential witnesses in an investigation that could extend deep into the former president's inner circle of formal and informal advisers."
+    publishedDateTime: 2021-07-27T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-wh-ge_hpMain_20210726-205630_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump ally Tom Barrack leaving jail on $250M ..."
     excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

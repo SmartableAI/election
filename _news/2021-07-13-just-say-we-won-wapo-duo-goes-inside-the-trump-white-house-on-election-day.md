@@ -46,6 +46,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trade groups wrestle with supporting GOP lawmakers who embrace Trump's election lie"
+    excerpt: "For dentists, the rupture over Rep. Paul Gosar of Arizona played out in a series of spirited public letters, culminating in a decision to suspend donations."
+    publishedDateTime: 2021-07-26T17:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trade-groups-wrestle-supporting-gop-lawmakers-who-embrace-trump-s-n1273148"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273148"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273148"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3491181/210714-capitol-riot-jm-1855.jpg"
+        width: 2434
+        height: 1623
+        isCached: true
 
 secured: "xmzmkWQMPCwUbfgVyQkxdvv4/JM6DUInppq21WOrPlJPN9LgflDzsjJe1D5+xQ/0d1hlcvfvscWe0YN6lwDhW4zylihhHjoYPbggQRp3k2+NWGAzsdZcr0wnteU10jQyRu4/ENylvo9AQ1MuY3iIvNPcacHnOJPw2vViwViz4pMjEbAkU9S6Pex/shyDMxKH2RmMQwXPddLxz7OBwDyLrBib0KXaFwfNgVkdIFgBd+3crpKFkufhSZojzCcdkUeJAfCd/QViG5Xjhxik1hCK3+V8yH7uB+cOoBmZ7WZUJStWqjI6NLCI00qt/Pql2qfgSmFBF1NqSS9qAB5wT1/Ob+ql9Le3VYdqXFC7QDv96Pkp3jALdN/2jZ+YWizrpYxQ48ZahFnlPXedPhHG++7x4+HUZDmu+yi6nfh++4MBa2C1HnmLe6WmT/HzbrQndA/tAy7WYcBFD6VhAbVHoXI1MQ8SYf2fxyTsHhZreWjfhlhdgobqN49St2Kcg17HzezzegPiokUHkNqSKYUWMIt0zA==;5mxz3cwIaw/P0u36Hbuz6w=="
 ---

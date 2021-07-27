@@ -450,20 +450,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "The Real Reason Trump Keeps Telling the Big Lie"
-    excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
-    publishedDateTime: 2021-07-20T19:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/548617_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "TUsYo9QUA0Ri7oP6ebIrDX1vXfY/Npt+8duaXEilkJBejT7m6ycKm8Jx4F+6a7kSX6Tmb0kWTPJU4bYLWPq2xdVehJyDaJA1C8V2F8J32u8FT/Bm/J/L+37B5LY23zIGT5W57AqZ7I6uXxL7LY2ai4/ElhpNSXwXP5Lg5XCc9nh0DaAmrR0p47g/F15yBhoL8U7LG0sqeEWA+XIXeGZj5MZU8ZEL+/c9k7RTnO3jabOEhZrKf8L+ubum+TADAkuIhXYC94kNAUmweZPlFwMCv8hQ1pGQ3qeTcVinZ9/jqqVHoeO2ZS748QbRWTjjsVgqjrAUUadHhZrP9ctdmuNhmO3qTm1xLpI7QLq4QFL8yW6TFmjG3D3cecLzWS4iQAq+6sL3fEhIQxEMMA0bNUwmN7BGX/if/8waVD5AseYa6b7n4rS0I4qTM2LSacjF1XdZEnfZ00mKuJ4PHsV4ed2+PWutc77JashX+YT7oiFZSXG9L31PaK3rbLQmU6GsAeh+LgzWedXjq43q31uRWkrI8g==;ruc2+8pJbIotDNRBhZhIpg=="
 ---

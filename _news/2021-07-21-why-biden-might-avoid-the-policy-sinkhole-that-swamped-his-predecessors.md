@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to address intelligence community for first time as President"
+    excerpt: "Six months into Joe Biden's presidency, the intelligence community still can't quite escape politics.\n    \n"
+    publishedDateTime: 2021-07-27T11:54:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oAo9cUeS9AE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/biden-intelligence-community/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/biden-intelligence-community/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden predicts restaurants and businesses will be 'in a bind' for some time due to labor shortages"
     excerpt: "President Joe Biden is visiting Ohio for a CNN town hall on Wednesday as his six-month-old presidency reaches a critical juncture.\n    \n"
     publishedDateTime: 2021-07-22T01:17:59Z

@@ -89,6 +89,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "President Biden says the U.S. combat mission in Iraq will be over by end of 2021"
+    excerpt: "President Joe Biden tells Iraqi Prime Minister Mustafa al-Kadhimi that the U.S. military's combat mission in Iraq will be over by the end of the year."
+    publishedDateTime: 2021-07-27T11:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/07/27/biden-tells-iraqi-pm-us-combat-mission-iraq-end-2022/5383209001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/27/USAT/bac20740-a496-4f92-a3b3-05a5364e11de-VPC_BIDEN_IRAQI_PM_SOT_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "+CATC+cmxnK57/KtMFF0jXC6cjhrohH07NpvFI7Dpdw4Zsg2uegO4GLdnLhLRbCsqQTuOmzmItGEqkweo7HAsXa3kNDO2vSpZDqMLQWdcesH8rGNY9nXu2UCPXLtPUVJE5cHTNfpIkJ2B5LbpFVzkiV+V3F8YqWTuhkQPm9t4qY2RQ5AAL4UzO84Udf8Hx2OSg+oUEjC77mOzL3rDnSPGAbmUooGNyDdwg8GGimdy4BcuosfkhcnRM6gbxWOZugbUuXL6hwq0He2o19AeUsnjRmECQFIaOQ3l+oktI9GikrPaIft/blFz4yhIcyoEgiUmHkKmF9iPZsa1A8kvjyVW1mhAw2icWHO1aKK7UDKkBGIUHp9SU5OVsx7ufwdZROjjFOCrjmtqnIEu7JgxKzkvlt4Y5OY9xEJDxLiQ0dpgPA1+aynh9dC22zWImCBGZ6MLnoY7LArPzKXMHrsDA1J0XbnFADyx01PhBC5jyG0P0hF9Ff1UJ9CwvWPaJ7Oor07oRanUK8mEy2tZWgUcpQHWg==;ksu7KeDBg8rLja4ZNQ1fIg=="
 ---
