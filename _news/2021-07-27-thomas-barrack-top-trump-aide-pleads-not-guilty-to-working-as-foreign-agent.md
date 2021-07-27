@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump ally Thomas Barrack pleads not guilty in foreign lobbying case"
+    excerpt: "Thomas Barrack, a longtime ally of former President Donald Trump who headed up his presidential inaugural committee, pleaded not guilty on Monday to federal charges stemming from his work unlawfully lobbying the Trump administration on behalf of the United Arab Emirates."
+    publishedDateTime: 2021-07-26T23:11:00Z
+    webUrl: "https://www.cbsnews.com/news/thomas-barrack-trump-associate-not-guilty-plea/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-guilty-plea/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-guilty-plea/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/26/23ed4d1d-98b8-4b58-b9c0-52ce045acdd3/thumbnail/1200x630/854f368ac9ccf4a65ad0e4cf49206396/gettyimages-1234213061.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump inaugural chair: I'm '100% innocent' in lobbying case"
     excerpt: "The chair of former President Donald Trump's 2017 inaugural committee has pleaded not guilty to charges of secretly working as an agent for the United Arab Emirates to influence Trump’s foreign policy"
     publishedDateTime: 2021-07-26T18:36:00Z
@@ -47,6 +63,36 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump ally Tom Barrack posts $250m bail on charge of illegally boosting UAE"
+    excerpt: "Head of Trump’s 2017 inaugural committee must answer charge of acting as unregistered foreign agent in New York court on Monday"
+    publishedDateTime: 2021-07-24T14:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/4522e975c672037d45450872fbde3828e23cfb4c/0_221_5386_3232/master/5386.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33e78c7e1f03f78b55fe1a0fe10399d0"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump ally Barrack jeered outside Brooklyn court"
+    excerpt: "Politics Trump ally Barrack jeered outside Brooklyn court. Posted . Former U.S. President Donald Trump's billionaire ally Thomas Barrack arrived at a federal court in Brooklyn on"
+    publishedDateTime: 2021-07-26T18:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-ally-barrack-jeered-outside-brookl-id733402124?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210726&i=OVENHG6AN&r=OVENHG6AN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump ally Barrack pleads not guilty in UAE case"
     excerpt: "Top News Trump ally Barrack pleads not guilty in UAE case. Posted . Former U.S. President Donald Trump's billionaire ally Thomas Barrack pleaded not guilty in a federal court in B"
     publishedDateTime: 2021-07-26T21:33:00Z
@@ -61,6 +107,31 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
+    excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
+    publishedDateTime: 2021-07-24T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 88
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNWSFTHL5EI6XOS5KXJ3L76K6E.jpg&w=1440"
+        width: 1440
+        height: 1051
+        isCached: true
+  - title: "Trump's Sway Tested in Race for Open Mid-Ohio US House Seat"
+    excerpt: "The crowded Republican primary for an open U.S. House seat in central Ohio is testing the ongoing political sway of former President Donald Trump."
+    publishedDateTime: 2021-07-23T11:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "zuaC9WijwVKI2DDclXbV4rSpmDG8BlNzMsTREpemnj0Zthoh51xcabLyfRPg7HYIJpHgovtJh5mBvFeSXIbhGWzf+2kdGIUl2gV0OYm9DJ5zu517ewpjVAERldBTsjCqkF2XyWy14SgeCuF5Jsqo7YKNJG0UqRrKayHlmru5ZpRNRs1/O3T8FStZGbaaVJD3aerGCrSFmcDFXjQRH1eLFL12Cx95QpUUxsLIRMVXGhDB/bzF71dmBoGUy0yBTgXrsEVbmbAgsSuoI1PxIkLCMy3YYC48i6UtDbuoBIRCDOEFpb8wHUYuup6iTYHtIYgI22Qn6XyiE7Xghi6eBdS5vdnJLWD6O5ht73S+Bd7DS7g=;y7Q9tdyVcMD4XLZzd2WDXA=="
 ---

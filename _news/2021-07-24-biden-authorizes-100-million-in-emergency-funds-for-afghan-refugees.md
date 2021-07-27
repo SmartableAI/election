@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET29T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET29T"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_071921getty_misinfo.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Crises make Latin America an unwelcome guest for Joe Biden"
+    excerpt: "Like Banquo’s ghost in Macbeth, Latin America has made an unwelcome appearance before Joe Biden’s administration at an inopportune moment. Crises this month in Cuba and Haiti, unpredictable populist presidents,"
+    publishedDateTime: 2021-07-27T04:00:00Z
+    webUrl: "https://www.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
+    ampWebUrl: "https://amp.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6c124b4f-a06c-4baf-b68d-450311d97c81.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Biden says inflation 'temporary'"
     excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"

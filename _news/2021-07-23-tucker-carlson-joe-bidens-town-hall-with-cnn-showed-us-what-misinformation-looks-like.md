@@ -122,6 +122,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Sky News Australia Anchor: Biden \"Incoherent\" at CNN Town Hall, He's \"Embarrassing The Free World\""
+    excerpt: "A Sky News host Alan Jones blasts U.S. President Joe Biden for his incoherence at a CNN town hall last week. Jones said someone should have told Biden he is \"embarrassing the free world and obscuring the coronavirus."
+    publishedDateTime: 2021-07-26T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 71
+    images:
+      - url: "https://assets.realclear.com/images/54/549116.jpg"
+        width: 1012
+        height: 758
+        isCached: true
 
 secured: "VW20ozAMZe4I7cp+ac3GARloaWhMJ5DZwmLimXLsb6U8uYUeog8QbDDjpC+2F5xXHlyR+Pp4ZdVaK6Ol/l56I7WDXfgYO6cYCo0XFKMWkubyPXj1xKnJuYay7tVTgpIZekkjSghY4aYTACJH2ZUIfJLtiFznHMPKeJJcfkLt7c2tlEIwjuwvPHEf5+yYUMv0p1gV6dAopqbFKSwaiVGVVW8QaDjXp9lRss52C7YPWm2G3fGCD2spfv3ywQzaKQYj8pCHM5qeTTp1NhNq4VZhVFpEccjO1N9DI9zljkSqAv8eO0HmQW1OW4foe7InNHcE0ZigUOM7fo7SeAzVcgFjzdOrSgzuEhk5wS4YHNxeQtLQNBpdJObC88SH6rHxpgTI8ZJp+jzQZCg2BVBT+KLPJAgtJSp6+0znBV21E3MHEaBijG5uOXxBt4MTMXGHo5fmTLV4x+ViwzgvIytf2lVjbbkW9MGtzXWRCvbVx0iWOcwMB89+1zwq/AeDmg2LRoHXZKDe2HMO0qh0P/yOqTbJXQ==;cty3lxm6wJQrfzK/B0pFtA=="
 ---

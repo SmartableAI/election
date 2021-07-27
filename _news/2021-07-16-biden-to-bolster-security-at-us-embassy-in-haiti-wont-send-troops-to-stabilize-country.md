@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Sky News Australia Anchor: Biden \"Incoherent\" at CNN Town Hall, He's \"Embarrassing The Free World\""
+    excerpt: "A Sky News host Alan Jones blasts U.S. President Joe Biden for his incoherence at a CNN town hall last week. Jones said someone should have told Biden he is \"embarrassing the free world and obscuring the coronavirus."
+    publishedDateTime: 2021-07-26T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 71
+    images:
+      - url: "https://assets.realclear.com/images/54/549116.jpg"
+        width: 1012
+        height: 758
+        isCached: true
   - title: "Tucker Carlson: Joe Biden's Town Hall With CNN Showed Us What \"Misinformation\" Looks Like"
     excerpt: "TUCKER CARLSON: There’s been a dramatic escalation recently we need to tell you about in the Biden administration’s longest and hardest-fought war. That would be the war against what they’re calling misinformation."
     publishedDateTime: 2021-07-23T14:30:00Z

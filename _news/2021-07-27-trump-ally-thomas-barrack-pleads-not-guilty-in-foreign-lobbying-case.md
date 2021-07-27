@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump ally Tom Barrack posts $250m bail on charge of illegally boosting UAE"
-excerpt: "Head of Trump’s 2017 inaugural committee must answer charge of acting as unregistered foreign agent in New York court on Monday"
-publishedDateTime: 2021-07-24T14:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
-webUrl: "https://www.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+title: "Trump ally Thomas Barrack pleads not guilty in foreign lobbying case"
+excerpt: "Thomas Barrack, a longtime ally of former President Donald Trump who headed up his presidential inaugural committee, pleaded not guilty on Monday to federal charges stemming from his work unlawfully lobbying the Trump administration on behalf of the United Arab Emirates."
+publishedDateTime: 2021-07-26T23:11:00Z
+originalUrl: "https://www.cbsnews.com/news/thomas-barrack-trump-associate-not-guilty-plea/"
+webUrl: "https://www.cbsnews.com/news/thomas-barrack-trump-associate-not-guilty-plea/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-guilty-plea/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-guilty-plea/"
 type: article
-quality: 123
-heat: -1
-published: false
+quality: 125
+heat: 265
+published: true
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/4522e975c672037d45450872fbde3828e23cfb4c/0_221_5386_3232/master/5386.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33e78c7e1f03f78b55fe1a0fe10399d0"
-    width: 600
-    height: 360
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/26/23ed4d1d-98b8-4b58-b9c0-52ce045acdd3/thumbnail/1200x630/854f368ac9ccf4a65ad0e4cf49206396/gettyimages-1234213061.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Trump ally Thomas Barrack pleads not guilty in foreign lobbying case"
-    excerpt: "Thomas Barrack, a longtime ally of former President Donald Trump who headed up his presidential inaugural committee, pleaded not guilty on Monday to federal charges stemming from his work unlawfully lobbying the Trump administration on behalf of the United Arab Emirates."
-    publishedDateTime: 2021-07-26T23:11:00Z
-    webUrl: "https://www.cbsnews.com/news/thomas-barrack-trump-associate-not-guilty-plea/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-guilty-plea/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-guilty-plea/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/26/23ed4d1d-98b8-4b58-b9c0-52ce045acdd3/thumbnail/1200x630/854f368ac9ccf4a65ad0e4cf49206396/gettyimages-1234213061.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump inaugural chair: I'm '100% innocent' in lobbying case"
     excerpt: "The chair of former President Donald Trump's 2017 inaugural committee has pleaded not guilty to charges of secretly working as an agent for the United Arab Emirates to influence Trump’s foreign policy"
     publishedDateTime: 2021-07-26T18:36:00Z
@@ -62,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_87f297dc6a2b4a019fa16c64df631bb9_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump ally Tom Barrack posts $250m bail on charge of illegally boosting UAE"
+    excerpt: "Head of Trump’s 2017 inaugural committee must answer charge of acting as unregistered foreign agent in New York court on Monday"
+    publishedDateTime: 2021-07-24T14:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/4522e975c672037d45450872fbde3828e23cfb4c/0_221_5386_3232/master/5386.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33e78c7e1f03f78b55fe1a0fe10399d0"
+        width: 600
+        height: 360
         isCached: true
   - title: "Thomas Barrack: Top Trump aide pleads not guilty to working as foreign agent"
     excerpt: "Billionaire investor and former Donald Trump adviser Thomas Barrack has pleaded not guilty to charges of acting as an agent of a foreign government. Mr Barrack, 74, was a key aide to Mr Trump during his 2016 campaign."
@@ -133,6 +133,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "YImZ/epXVI8Xmnk+tWY1bm3oVzZrfDmqX8e/UtcGl3S4e6LIcKiYX96IAtNttSn8ZvcPltBq91ihS3KUpEyZnw+5p8W6dcRCQfT7Yg44m53hxA94+bvFl9IpxBySYcdetL+tY7xIZ8QMLAfnAdjYMSZQ5mn35Zjpc1YOhb6jVKtOBOze4kgBRE5yy5ckbMOEcAsmtp+P5PVA6M0sfbuCdsS3sjQh2qAzvjYz9tFwMK0mm0DboY4eQ9If33MNyx+gRK504/UjULuF6DXB3T3TCHe1WPDfivwnvMdpJHDrHOVQcMmw1ZfBccr1r9xBYZs9W0VYwdUkNM7sZtCsJIIpal6QbRuSo4sVJuBMGnGLF9cQbDPjyI0L9TDuwy1bul/PxPP2mjFXmAW9J591FBazr3eLVsDfEgv34o4Jlc1lZvv6xgp4//CFJixvvRPzpqqY1oJ9GnUBf99Q1mkGkkT4SMvtSUKHP9Y+BouQeuu4TRQNzZx0QTaGHr1CW8CPUoqzm12+tg5i/IUpVnnzycmFdg==;N1VUDKNy/fGdQKggu3YsyQ=="
+secured: "Bp6EHsJReltrRJhzxLt85SHj9imknO4K/upXiiJWOPTOAD1P1fAnfhZ1FqzaFbFw/DyHmRgZzt0t2w4ZDVRUlgpnbahZpKTJM7+PrvDKAa6K16tdkDe4654ZfZwhqbjmLK01XjK3VruhAPE5X72bQKANq958XfbR6XtzKPRggVhAO8iPjGpoXHs3VxiiC6NuSHmgAtBvT79rek9wZxFL//jgij0YebiVXRalWvF1d7Zk2ZYCJhs4hWESlGEXvL8iLJFa1A+S2Mn17GQWycVD1QeBxiDFPYjITkEibLED6nJ9rsrwYbh0TC8pYK+kX4/cZpFW7h25PJ17Ebe4TGsTIgOX6cJoBiTL9GuiQftoZM0=;9HqY0bari+tWUFmtHQSc3Q=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden authorizes up to $100M for Afghan refugees"
-excerpt: "President Biden has authorized up to $100 million in additional aid for Afghan refugees and those impacted by ongoing violence between the Taliban and Afghan forces as the U.S. nears completion of its goal to remove all its troops from the country."
-publishedDateTime: 2021-07-24T02:49:00Z
-originalUrl: "https://thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees"
-webUrl: "https://thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees"
-ampWebUrl: "https://thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees?amp"
+title: "Crises make Latin America an unwelcome guest for Joe Biden"
+excerpt: "Like Banquo’s ghost in Macbeth, Latin America has made an unwelcome appearance before Joe Biden’s administration at an inopportune moment. Crises this month in Cuba and Haiti, unpredictable populist presidents,"
+publishedDateTime: 2021-07-27T04:00:00Z
+originalUrl: "https://www.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
+webUrl: "https://www.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
+ampWebUrl: "https://amp.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: The Financial Times
+  domain: ft.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_071921getty_misinfo.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6c124b4f-a06c-4baf-b68d-450311d97c81.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Crises make Latin America an unwelcome guest for Joe Biden"
-    excerpt: "Like Banquo’s ghost in Macbeth, Latin America has made an unwelcome appearance before Joe Biden’s administration at an inopportune moment. Crises this month in Cuba and Haiti, unpredictable populist presidents,"
-    publishedDateTime: 2021-07-27T04:00:00Z
-    webUrl: "https://www.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
-    ampWebUrl: "https://amp.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b5b1e045-3ba1-46df-ae71-41a3973aa289"
+  - title: "Biden authorizes up to $100M for Afghan refugees"
+    excerpt: "President Biden has authorized up to $100 million in additional aid for Afghan refugees and those impacted by ongoing violence between the Taliban and Afghan forces as the U.S. nears completion of its goal to remove all its troops from the country."
+    publishedDateTime: 2021-07-24T02:49:00Z
+    webUrl: "https://thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees"
+    ampWebUrl: "https://thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564647-biden-authorizes-up-to-100m-for-afghan-refugees?amp"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6c124b4f-a06c-4baf-b68d-450311d97c81.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_071921getty_misinfo.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden says inflation 'temporary'"
     excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
@@ -94,6 +94,6 @@ related:
         height: 534
         isCached: true
 
-secured: "c5ln4mF5ZVweNgfzMw3IjGETCwm98CNrPENsEK6Tka1agUCq7vGHCzauFkIF2wve8znn1m3+bPhXHNlAUPLkGxPBAH7W7YahNob6rvqFq65D6Zq61203VAwd59Qbg1TaG8THDS/z9VtrwXGU9Sh1833kU+ah2a3FMgUpJoXQIYiRjNP9qFGd2KNCrsJ51W61WN9tXCCq+Ft/tRQL4ejO2VAdzS4JuzaZqdcx9KTsocf5jlFHTlaTwHwifoqTXfAZP0Z5/xXxZiLlTawlw+F3AS9eIrcBYOWjPLzv1pprxCcJo7GCmrgQ7Ef9hsdsGDAfAilz3rhXCLPKws8pOC2laf+PdlxDI6cGmOvcJxpMfQrEqF9d4UQIY0cDMGB2XmJDx7BPe4nuGoanvLqtWLPtz5ujZrlBTt4Zo/lhdOuflt2jQW9zBOPcUp3SHWOoShlS8KGP6QdSuyVfKMYiwXfUBYQJQN/KQXsB4X5bRGxEo52tsPAWbiUCrjJWQMXmMRurZzHUbZTScikgQFDmWlaK/Q==;eHvwo1JDUIiAzjxLSvrcwQ=="
+secured: "9+ieidk6zU2+We65LHTm1U7VEq3tf5h/oT2AxOWCWurqyzykvXWJFOtc+XfVUnp/f/qroyt3zdQwmHVVFRFZFlB9W13XCEbRfVhdhCBdaWqCOfz4mW1uUqlskSHHR4XIXDakqY5WSj55/lAvUsXgq3JWkot9phArdAw29G44dJwKnqxXi0vLh29r+b/iCLOCHVETNYR06ixmj1Ggg+bzFThd0MtsCFYzlmW4/R6zUBi0lGUsjWL47BCpiZeG7MdWp65LReH5taZgtLq125oMhQFpuPgV2oWgY57B27rNMZfaXp6DEJpRs9ytNFR6HThkQHJzr2LRXQDUxK+f4kZYoTbFNoBmlgB6POic2AXZefc=;8xY69vMzNOiQYlfcQog0xA=="
 ---
 

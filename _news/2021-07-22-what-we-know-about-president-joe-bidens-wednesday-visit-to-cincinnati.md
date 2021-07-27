@@ -3,18 +3,18 @@ category: news
 title: "What we know about President Joe Biden’s Wednesday visit to Cincinnati"
 excerpt: "President Joe Biden will land at CVG Wednesday and will hold a town hall at Mount St. Joseph University, moderated by CNN anchor Don Lemon."
 publishedDateTime: 2021-07-21T23:50:00Z
-originalUrl: "https://www.freep.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
-webUrl: "https://www.freep.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
-ampWebUrl: "https://amp.freep.com/amp/8024834002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8024834002"
+originalUrl: "https://www.desmoinesregister.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
+webUrl: "https://www.desmoinesregister.com/story/news/2021/07/20/what-we-know-president-joe-biden-visit-cincinnati-cnn-town-hall/8024834002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/8024834002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8024834002"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -140,6 +140,6 @@ related:
         height: 676
         isCached: true
 
-secured: "1OE9Bo4E3k+5jQA7+hr1BB1Kq/6voyORHIwTFEvi2RCwitLa754EwWMIM77ol2kFil8Qg+cEs0Nd70qYK+EKNXL2Nu8TMGtSNSCIFkmPNW/EPzEZ64VRbdhPi2SJnNsdE1B76KQf8dU/xme9OWwrI6bZuDMhpR5LPT+zvwI2Rd6p7OXkFs/30D7nNtxNwhqCArgliJOMpMMi34k4KPzNHuaQ5a0JOkdtBJXek53M4Zs0mI7lUjzKxkgmlxuTktIBfLr1CSjw8VuSm9DgUqEjyW+IHlSDl0DNtsTLiCN/pdvHLXdhgTdaedI42/bWOuQeedav2Ut60aaRo6W7syuN/Rpv2nfvDlETLU3NWoNCm48=;63FNSoky0eDkF2Tg60mLjA=="
+secured: "pPPO6a5NYdufJdkSZLzPY96mW1Knlse+5kPZ9FUXxKKDIDi032n1ULIRECJbxYmOoDlNzYvqmdycv9HHoURM3bXkEoO8nQ1C+MnyTzRvOTu5A0pXesUUXuD+gHkuEPvXreDKcCe2l1705NVBDhb61rzfqoHwBjv9y2uvqAdOjpLCMS9j3WYWSvuFsaNGQityRyjFOJ0c4IcOv8f+3H7Rwru0NWptbkf+S1u2F7YcVRC5yQ8cYloAsORFC2i0y+OPydAKmkY5NicE1jeTQcL31M/7LH7Mu8Jqp71lpjuzrWlQkBVbd6Uiq968526Nl0tbJDs+0mv+zWabVw0JqbRo5pJgAQ4kNoRm4xEnQY6+Jt0=;Ezw20MWVKP5r5bqTNCPL8A=="
 ---
 

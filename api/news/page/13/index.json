@@ -2,58 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-07-04-team-trumps-conservative-gettr-app-looks-suspiciously-like-twitter.md",
-      "title": "Team Trump's conservative GETTR app looks suspiciously like Twitter",
-      "excerpt": "GETTR's home screen, posts, and user profiles look similar to Twitter's, whose exile of Trump fueled the right's belief that tech is targeting them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7",
-      "originalUrl": "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60df488d7cd04c001a227b28?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp",
-      "publishedDateTime": "2021-07-04T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-04-what-joe-biden-can-learn-from-richard-nixons-playbook.md",
       "title": "What Joe Biden can learn from Richard Nixon’s playbook",
       "excerpt": "But a deeper analysis shows that the challenges faced by the Nixon administration — from changing views about America’s place in the world, through the pressures of globalisation, to the difficulties in balancing economic and foreign policy — are exactly those facing President Joe Biden today.",
@@ -1348,6 +1296,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-biden-taps-lawyer-mallory-stewart-for-us-arms-control-post.md",
+      "title": "Biden taps lawyer Mallory Stewart for U.S. arms control post",
+      "excerpt": "President Joe Biden said on Friday he planned to nominate Mallory Stewart to be assistant secretary of state for arms control, a key job as Washington and Moscow contemplate a successor to the New START arms control treaty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/politicsNews/idUSKCN2E828N?edition-redirect=uk",
+      "originalUrl": "https://www.reuters.com/article/politicsNews/idUSKCN2E828N?edition-redirect=uk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/FpiYgCM5N_RbUn_hpep1zy3rRJc=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34M7YKTA2RDUFGPRTWF7VQF7KI.jpg",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-02T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

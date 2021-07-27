@@ -162,58 +162,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-24-trump-ally-tom-barrack-posts-250m-bail-on-charge-of-illegally-boosting-uae.md",
-      "title": "Trump ally Tom Barrack posts $250m bail on charge of illegally boosting UAE",
-      "excerpt": "Head of Trump’s 2017 inaugural committee must answer charge of acting as unregistered foreign agent in New York court on Monday",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4522e975c672037d45450872fbde3828e23cfb4c/0_221_5386_3232/master/5386.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33e78c7e1f03f78b55fe1a0fe10399d0",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/tom-barrack-posts-250m-bail-trump-foreign-agent-charge",
-      "publishedDateTime": "2021-07-24T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-24-inside-the-push-to-get-trump-back-on-social-media-now-that-his-favorite-sites-have-banned-him.md",
       "title": "Inside the push to get Trump back on social media now that his favorite sites have banned him",
       "excerpt": "\"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while',\" the CEO of a new conservative social media platform told Insider after he showed Trump how to use its app.",
@@ -274,7 +222,7 @@
       "originalUrl": "https://www.reuters.com/article/us-afghanistan-conflict-refugees-idUSKBN2ET29T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1311,6 +1259,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-biden-to-sanction-cuban-officials-following-attacks-on-protesters-reports-say.md",
+      "title": "Biden to sanction Cuban officials following attacks on protesters, reports say",
+      "excerpt": "Thousands of Cubans took to the streets earlier this month to protest food and medicine shortages, power outages and spiraling prices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/22/biden-sanction-cuban-officials-following-attacks-protesters/8054487002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/22/biden-sanction-cuban-officials-following-attacks-protesters/8054487002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/21/USAT/b90af9e8-2d69-4fee-aa08-4c54ed75b125-American_Rescue_Plan.jpg?auto=webp&crop=5181,2915,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8054487002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8054487002",
+      "publishedDateTime": "2021-07-22T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

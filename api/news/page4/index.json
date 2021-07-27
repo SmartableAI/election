@@ -2,62 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-07-21-outraged-pro-life-catholics-call-for-protests-over-biden-appearance-at-a-catholic-university.md",
-      "title": "Outraged pro-life Catholics call for protests over Biden appearance at a Catholic university",
-      "excerpt": "Catholics and pro-life advocates are speaking out against President Biden’s Wednesday night appearance at a Catholic university in Cincinnati, Ohio and urging protesters to show up at the event.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uXZUV5NewLM/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uXZUV5NewLM/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86ae3c04-708c-4604-af91-a66a48c0b01e/ac37f069-d35a-429e-b439-c6e33a5c9bac/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests.amp",
-      "publishedDateTime": "2021-07-21T13:40:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-21-biden-names-ambassadors-to-canada-slovenia-and-austria.md",
       "title": "Biden names ambassadors to Canada, Slovenia and Austria",
       "excerpt": "President Joe Biden has selected another round of ambassadors, including choices for posts in Canada, Slovenia and Austria.\n    \n",
@@ -1313,6 +1257,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp",
       "publishedDateTime": "2021-07-19T17:14:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-trump-ally-jim-jordan-among-republicans-tapped-for-jan-6-select-committee.md",
+      "title": "Trump ally Jim Jordan among Republicans tapped for Jan. 6 select committee",
+      "excerpt": "Rep. Jim Jordan, R-Ohio, a prominent ally of former President Donald Trump, is one of a handful of GOP lawmakers set to be appointed to House Speaker Nancy Pelosi’s select committee to investigate the Jan. 6 Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow7Mg7dj-rQ/jim-jordan-republicans-jan-6-select-committee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow7Mg7dj-rQ/jim-jordan-republicans-jan-6-select-committee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/650ffed3-b78a-4a9e-a434-ddb20b5cb605/612d639b-0184-4120-bd4d-609c5af00b5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp",
+      "publishedDateTime": "2021-07-19T16:51:38-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

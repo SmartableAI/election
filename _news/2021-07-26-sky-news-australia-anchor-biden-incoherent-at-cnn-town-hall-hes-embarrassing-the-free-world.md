@@ -1,24 +1,20 @@
 ---
 category: news
-title: "CNN medical analyst 'disappointed' by Biden's COVID town hall: He 'led people astray'"
-excerpt: "CNN medical analyst Dr. Leana Wen said she was \"disappointed\" by President Joe Biden's performance in a Wednesday town hall when it came to his answers on questions concerning the coronavirus and vaccines."
-publishedDateTime: 2021-07-22T17:17:00Z
-originalUrl: "https://www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray"
-webUrl: "https://www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray"
-ampWebUrl: "https://www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray.amp"
+title: "Sky News Australia Anchor: Biden \"Incoherent\" at CNN Town Hall, He's \"Embarrassing The Free World\""
+excerpt: "A Sky News host Alan Jones blasts U.S. President Joe Biden for his incoherence at a CNN town hall last week. Jones said someone should have told Biden he is \"embarrassing the free world and obscuring the coronavirus."
+publishedDateTime: 2021-07-26T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
 type: article
-quality: 128
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd8148a-43fa-4e55-b198-1f5dc477bc4f/8be10b3c-cd8b-4a80-b210-788c1228572f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/549116.jpg"
+    width: 1012
+    height: 758
     isCached: true
 
 related:
@@ -112,21 +108,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Sky News Australia Anchor: Biden \"Incoherent\" at CNN Town Hall, He's \"Embarrassing The Free World\""
-    excerpt: "A Sky News host Alan Jones blasts U.S. President Joe Biden for his incoherence at a CNN town hall last week. Jones said someone should have told Biden he is \"embarrassing the free world and obscuring the coronavirus."
-    publishedDateTime: 2021-07-26T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
+  - title: "CNN medical analyst 'disappointed' by Biden's COVID town hall: He 'led people astray'"
+    excerpt: "CNN medical analyst Dr. Leana Wen said she was \"disappointed\" by President Joe Biden's performance in a Wednesday town hall when it came to his answers on questions concerning the coronavirus and vaccines."
+    publishedDateTime: 2021-07-22T17:17:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 71
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
     images:
-      - url: "https://assets.realclear.com/images/54/549116.jpg"
-        width: 1012
-        height: 758
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd8148a-43fa-4e55-b198-1f5dc477bc4f/8be10b3c-cd8b-4a80-b210-788c1228572f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Tucker Carlson: Joe Biden's Town Hall With CNN Showed Us What \"Misinformation\" Looks Like"
     excerpt: "TUCKER CARLSON: There’s been a dramatic escalation recently we need to tell you about in the Biden administration’s longest and hardest-fought war. That would be the war against what they’re calling misinformation."
@@ -143,6 +139,6 @@ related:
         height: 375
         isCached: true
 
-secured: "/J20gYrm1SLrcv7UXnNWQ4jkMpTkahFDlqAaXlAdwHeBt87TEMWQEU0C4QAthW4GtZtzBMYs9WqnOm/GwCZIFT0XBjcDQ77DVpd6kPcU+Kg8DQ7PNRQEw3xvryInBMBRTWxHionFcb+ZapdBxnkJ2Cbrf+CIdqu1jauWZqkUjiwfQCBvqtcnWr6AGBud80wvtHHf0itm2pLUKP/AsQfmC6X+ofFPs9QIVRKk76v8SWwvMaQqFDbKmEJtjI5tqIVTsh2SF6kUk1lZpOsuSonqeB0sPxB98vX6fCIgYHI6g/J0FrpuIfcyYgFCOLIhn8b7zxc8zXUQWBntcdN/6h/KjZjZ+XdeWlqHRcpXh2xfAX0=;84eLW01xl99Nvchqc12IZw=="
+secured: "k/kcPRoAAAfiy3hEtFIbMYZMZQXmvEMyTQHpdSJ3LC6TcvcZd2zAt6tmCnv/4TE+yi2te4UAV0LqJh6PmSytj6udeGpITuKYTD574yD1GOxdHbVzhIVLk2cAXstSPguBiPEw2rN9ICxZEaJZjZ8zL948pJoJUJ2YCPLcidtGAsaIPztE35AtzZnzjgsQzcTFvCoKLzYvTgGeAdH3Ry4X6JsVczIxmTHQuwst5Q9valmgRavZqGd4pRhbqUItNZ50UOIFm8LvbikDSU/FNgR0ls2Cev9akqGK1Y872bGTuYAEjwhTU9PANpbSvOMDEIBeJHtrxZ/IIPbBNSOOh91Qo3Vtyr5oW73fWxDNWqZzUCs=;cRkZbc1NruDU3evMYAHYPQ=="
 ---
 
