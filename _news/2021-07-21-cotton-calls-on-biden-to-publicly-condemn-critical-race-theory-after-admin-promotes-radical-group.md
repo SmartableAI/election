@@ -109,6 +109,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "What Does a Declining Approval Rating Mean for Biden?"
+    excerpt: "For his first six months in office, President Joe Biden's job approval has stayed pretty steady. As you saw last week, it was based largely on the public's approval of his handling of the COVID-19 pandemic."
+    publishedDateTime: 2021-07-27T13:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/27/what_does_a_declining_approval_rating_mean_for_biden_548027.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/549071_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "Sub7j2ZKhB/KE4eh3zxLJyFius3sr7tmkk4S2xJDVrrdYwiiH+1aBNoe8Pia8ERmHFBvkHEaqqxnLNBn5OJ/Ji5ZVkTFwLA/ErinINbyutNtsTPKY2+oird/HZeed+65XXBNx3K5AlENAV7XltoYQVg+30/feoqpWPJOArej8A6foTMSNqVwRfUl2fy104Nrr1mrSB8ty/bR2LdNYdGH4ykwru8k1aj3KV4ZYogEGazvBZ9nSTEIkekAxjpN4td9pYBq6mdIBWJgpsMSPuLI/aOG4Y05OKeSAkBSGUEBxHHyhzKacE3M7zQINBWJy25pfWJvkxKpdHhxFy6bsNTRtZW4OuIuqUxrbh+gSj8v7UU=;6Rp1+z9Ei0m5eO6jnG9Hbw=="
 ---

@@ -2376,6 +2376,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Joe Biden’s 1st visit to intelligence agency to contrast with Trump’s"
+    excerpt: "Biden wants to emphasize his confidence in national security leaders after his predecessor's incendiary battles against what he often derided as the \"deep state.\""
+    publishedDateTime: 2021-07-27T09:41:00Z
+    webUrl: "https://bangordailynews.com/2021/07/27/national-politics/joe-bidens-1st-visit-to-intelligence-agency-to-contrast-with-trumps/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 70
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-Intelligence.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
     excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
     publishedDateTime: 2021-04-16T21:45:00Z

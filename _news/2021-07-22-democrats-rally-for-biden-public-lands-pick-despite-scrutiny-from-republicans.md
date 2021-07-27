@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tracy-stone-manning-confirmation-st
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp"
 type: article
 quality: 172
-heat: 272
+heat: 292
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29156a39-02e8-4f82-ad2b-552d175586c1/0902530a-fee5-4085-bbbf-cadbf8557dfa/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "What Does a Declining Approval Rating Mean for Biden?"
+    excerpt: "For his first six months in office, President Joe Biden's job approval has stayed pretty steady. As you saw last week, it was based largely on the public's approval of his handling of the COVID-19 pandemic."
+    publishedDateTime: 2021-07-27T13:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/27/what_does_a_declining_approval_rating_mean_for_biden_548027.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/549071_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "PxsrK/PN+GoU/z3+94QR9ZUMjYdDUv7yN/+HZ7BFE4m6tgy44mlYm8bEvWMouwFMW6bcQ3l+lE2s5rmPlon2H7iEFYKK+qvqkcQxu2fUqT9lwk15B/4/0DM/2Kbn4A7liXT5Dr8ROt5FGlBmfkeFtSuy6xLiNK5zzbLRlAsjFL3IBSZbZBZT17Nfmlhm52CkwSWnuwC8IlHlD051W9Eys/i2KHvPaAnzYKYSH7ERHhHD6/o/LlVJF2uzz1B55nVvk/Kx4F4qpg69j00mKrxrb1awuNp71S6HEtCSDKf2n/6BEf069JS4tdhZ2vfiGdKBjXJ4++9bRtzqPgv5MXO8td+khtZ8NhE3F/WEV/khmQw=;Jw8ims+vG6EBIHSaaR3GKA=="

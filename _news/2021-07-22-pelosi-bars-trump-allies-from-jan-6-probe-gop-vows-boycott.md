@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0dfa5b9028ecfb382ba3017605ddb350d0f69ab4/0_149_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1f86a5665a0c6bc3eba04a9c9f37aa4"
         width: 600
         height: 360
+        isCached: true
+  - title: "House GOP blames Pelosi — not Trump — for Jan. 6"
+    excerpt: "House GOP leaders teed off on Rep. Nancy Pelosi Nancy Pelosi House rejects GOP effort to seat McCarthy's picks for Jan. 6 panel GOP brawls over Trump on eve of first Jan. 6 hearing Five things to watch as Jan."
+    publishedDateTime: 2021-07-27T13:51:00Z
+    webUrl: "https://thehill.com/homenews/house/564988-house-gop-blames-pelosi-not-trump-for-jan-6"
+    ampWebUrl: "https://thehill.com/homenews/house/564988-house-gop-blames-pelosi-not-trump-for-jan-6?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/564988-house-gop-blames-pelosi-not-trump-for-jan-6?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mccarthykevin_072221gn6_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump loyalists missing but not forgotten as Jan. 6 hearings begin: The Note"
     excerpt: "Jordan and McCarthy -- both of whom have said they spoke with former President Donald Trump as events unfolded Jan. 6 -- are two potential witnesses in an investigation that could extend deep into the former president's inner circle of formal and informal advisers."

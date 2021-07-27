@@ -2,6 +2,106 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-04-trump-rails-against-terrible-ny-prosecutors-criminal-charges-at-rally.md",
+      "title": "Trump rails against ‘terrible’ NY prosecutors, criminal charges at rally",
+      "excerpt": "Former President Trump came out swinging against the New York prosecutors who brought criminal charges against his organization.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/",
+      "originalUrl": "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-rally-014.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/amp/",
+      "publishedDateTime": "2021-07-04T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-walmart-att-and-pfizer-back-lawmakers-who-supported-trump-election-fraud-lies-6-months-after-capitol-attack.md",
+      "title": "Walmart, AT&T and Pfizer back lawmakers who supported Trump election fraud lies 6 months after Capitol attack",
+      "excerpt": "Dozens of companies said they'd stop donating to lawmakers who objected to Biden's election victory. Six months later, they are funneling cash to PACs",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/2021/07/04/trump-fraud-election-capitol-attack-biden-walmart-pfizer/7858271002/",
+      "originalUrl": "https://www.usatoday.com/story/money/2021/07/04/trump-fraud-election-capitol-attack-biden-walmart-pfizer/7858271002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/02/USAT/e829446f-398e-49ca-8ab4-afc2b09756bd-AP_Capitol_Breach_Extremist_Plots.jpg?auto=webp&crop=4948,2783,x236,y414&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7858271002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7858271002",
+      "publishedDateTime": "2021-07-04T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-trump-makes-no-mention-of-desantis-at-florida-rally.md",
       "title": "Trump makes no mention of DeSantis at Florida rally",
       "excerpt": "Former President Trump hit plenty of high notes at his rally Saturday night in Sarasota, Florida. But he glaringly didn't mention the name of his strong ally in the Sunshine State - GOP Gov. Ron DeSantis.",
@@ -1233,115 +1333,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-white-house-goes-into-damage-control-mode-after-reports-of-dysfunction-in-kamala-harris-office.md",
-      "title": "White House goes into damage control mode after reports of dysfunction in Kamala Harris' office",
-      "excerpt": "The White House dove into damage control this week after reports of dysfunction and infighting in Vice President Kamala Harris' office, with the administration trying to stop a drama-filled narrative from taking hold, according to five people who spoke to CNN about the dynamics within Harris' office.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210702133753-01-kamala-harris-0623-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
-      "publishedDateTime": "2021-07-02T12:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-a-top-senate-republican-credits-the-trump-tax-cuts-for-junes-huge-jobs-gains-and-the-economy-roaring-back-after-a-virus-interlude.md",
-      "title": "A top Senate Republican credits the Trump tax cuts for June's huge jobs gains and the economy 'roaring back after a virus interlude'",
-      "excerpt": "A nonpartisan government scorekeeper partly attributed the fast economic rebound to Biden's stimulus. Chuck Grassley says it's four-year-old tax cuts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7",
-      "originalUrl": "https://www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5a7b87bdec1ade15c67d7b4f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7?amp",
-      "publishedDateTime": "2021-07-02T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

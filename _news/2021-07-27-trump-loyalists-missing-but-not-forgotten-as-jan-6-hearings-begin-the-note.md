@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "House GOP blames Pelosi — not Trump — for Jan. 6"
+    excerpt: "House GOP leaders teed off on Rep. Nancy Pelosi Nancy Pelosi House rejects GOP effort to seat McCarthy's picks for Jan. 6 panel GOP brawls over Trump on eve of first Jan. 6 hearing Five things to watch as Jan."
+    publishedDateTime: 2021-07-27T13:51:00Z
+    webUrl: "https://thehill.com/homenews/house/564988-house-gop-blames-pelosi-not-trump-for-jan-6"
+    ampWebUrl: "https://thehill.com/homenews/house/564988-house-gop-blames-pelosi-not-trump-for-jan-6?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/564988-house-gop-blames-pelosi-not-trump-for-jan-6?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mccarthykevin_072221gn6_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump ally Tom Barrack leaving jail on $250M ..."
     excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-23T22:43:00Z
@@ -193,6 +209,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Xl3BvPXq30OsKwcVRcUPAdyM7XSbkLZP4p2tyT5aI8WI6KP1Q4u6ta9mjszuREwhPkK9MBsEVjr/oIJQkuwy0HLtv8QdXBgt/e9Eq7/35um3L1xhHqxnjHjgiMYVln8c6qd+QMeGNNfSt+skTuDyEqvGgb1Jem9yC6K2QB+W7H0M92E8rTdbGgCd5o0lZ+07yeDgo5ii70gjfvgco5LTdAk3uYyNDpHPJ1psOzmApJwPDuhfTiGn55Szzj0TpSq8jBXtTgAxrqakPf2YIzQUjEdXyY6py3DAD2/wLRQ8PaAtHFt6Ge7Tctx0vRsuGPRiceUiKjQZo/XI1c8xbmzBRsdUMjB5o8uOn7dIYeFfe5c=;B1zn01XZBH6cM7UIdQdGsA=="
+secured: "BGj/6iEqvmIXcTquXTygcO3MdIVv6isp/Dyr98AdQY91/eUc//kgOZ79eiGPn0tQqxjxdocro7B3ARVusW79SHma4d6ZY/RVzv3DXqRO4D0Z2xzqcSyOMB/+AjfrwRXBSl++++5LF+e9Vs1d8XlT6Nx3S43J5LVu/6nKKo0Lnh3vaOJjvnwlrPJLWYEWG6PQuOxjXU8gKU+u1U/luF7MJzcPaqCTjNVBasHJ4gbgEDVQXVKMHrOQoIYYgpt1de7OrbU/1DDrUQ6P162/HYx63OYv6E4TQpFz3eU+w2hGjBVj/joxbzWHKrVplE/gZu6g91IvoG8ZaztnBPzXpp1BVopYU2VTbp+MOocaF1+zsu1UDqHn7+pbyL4BlWPYLMwPgVnRXVYOegNH8AbO+HaxfyT9k+PumN4vSrAstd9PIisZ8sn+rMFLU3S0C9/+vOqUBS0sXo849RGYgD9HK+g/Kcal6qjwP1yq/KeKehKlLmldk974cviX3u1WJ8lKxFlJNBCx04QTaxrWw3LS0nllog==;vUz750hp6D5z+qJYSUlkJQ=="
 ---
 

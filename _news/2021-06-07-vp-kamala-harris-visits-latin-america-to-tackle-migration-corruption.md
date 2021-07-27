@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -418,6 +418,15 @@ related:
       name: Detroit Free Press
       domain: freep.com
     quality: 40
+  - title: "Vice President Harris Native American Voting Rights Conversation"
+    excerpt: "T16:15:00-04:00  Vice President Harris hosts a conversation about voting rights with Tribal and Native leaders from Ala"
+    publishedDateTime: 2021-07-27T12:30:00Z
+    webUrl: "https://www.c-span.org/video/?513737-1/vice-president-hosts-native-american-voting-rights-conversation"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
     excerpt: "Arizona immigration advocacy groups and Republican elected officials from Arizona denounced her comments for different reasons."
     publishedDateTime: 2021-06-09T18:56:00Z

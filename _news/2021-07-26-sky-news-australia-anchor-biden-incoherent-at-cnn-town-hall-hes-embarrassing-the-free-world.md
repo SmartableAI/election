@@ -3,8 +3,8 @@ category: news
 title: "Sky News Australia Anchor: Biden \"Incoherent\" at CNN Town Hall, He's \"Embarrassing The Free World\""
 excerpt: "A Sky News host Alan Jones blasts U.S. President Joe Biden for his incoherence at a CNN town hall last week. Jones said someone should have told Biden he is \"embarrassing the free world and obscuring the coronavirus."
 publishedDateTime: 2021-07-26T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
 type: article
@@ -139,6 +139,6 @@ related:
         height: 375
         isCached: true
 
-secured: "Ynod1hTR6AFVlgLhLoo8VD+iLhOFdXvBexxcD9oiqgn9CysQ8qJDhhhyPRqeNEXFBn5pZSws7sfcroO7rR7aeK0Ezd1qalCqIj+WnOiKrVaarxfbvb+gMm4Y81P6TmdvrLjWiqpL91VZSvxaIpZfpBQNFfgCOGJ7vx0g3pDFGVa0vpYksSK6A8efhgN2aEYEHrjD6V4p5phQcvvhJCh6G97K1o52yI56V5tW4/aG1AZa4s8IJtuZWZ19lP0RXMb3H6H6YVsREPSwNI9gn4D1n4Op8I4TdOk78LFXIczIu6d+NlzG8q7StRvDYqIhqKVsbTtfmqSMK8wyfMewYVFfwI3sCVz+aM1CJLbAe2MnaZc=;bXvLXTXQ95d2p2/4H/zBlw=="
+secured: "D3sfdsErplI8QyVl1sxf0L9AZ3ZQiHKvNRk530Sdi1BhluC6F9EcTHjuW8GIbV/gXeZHbH6H/U6xoifXaznwhM/uamBXDM7lG3J3WEZeZBKdAsq39Dgw0WWYWKujSAsSuhnKOtZ1i0Uki02ceGE17TXtCBtamiDidKlPSGvg/AR1vYlR2XolqBjFnNzeSWIDJ9xWKWHaxhmSMDt1KeuUwK+bEjB9vEITGr+c1LafudHoGHsepIPqEpn7sYE18jgbwMopDukYTA+Wc1ShlGcQADIbnQP448wB2BSw0faVZ7utGPLl5k7/x2hVFep1FGLq40l0gMzQxts59gJkjm+HSpZquW3+WAuJlGqFM/e30uU=;1hmTNG5LMWH5/oi0f9K2ow=="
 ---
 

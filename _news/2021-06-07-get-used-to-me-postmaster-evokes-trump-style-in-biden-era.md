@@ -2365,6 +2365,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Joe Biden’s 1st visit to intelligence agency to contrast with Trump’s"
+    excerpt: "Biden wants to emphasize his confidence in national security leaders after his predecessor's incendiary battles against what he often derided as the \"deep state.\""
+    publishedDateTime: 2021-07-27T09:41:00Z
+    webUrl: "https://bangordailynews.com/2021/07/27/national-politics/joe-bidens-1st-visit-to-intelligence-agency-to-contrast-with-trumps/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 70
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-Intelligence.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z
