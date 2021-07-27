@@ -1438,6 +1438,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 70
+  - title: "Maryland man sentenced for threats against Biden, Harris"
+    excerpt: "A Maryland man was sentenced Tuesday to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when"
+    publishedDateTime: 2021-07-27T21:56:00Z
+    webUrl: "https://www.bgdailynews.com/news/national/maryland-man-sentenced-for-threats-against-biden-harris/article_4f29afb3-766f-5ace-8787-88b8d1302b18.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
     excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
     publishedDateTime: 2021-04-20T14:07:00Z

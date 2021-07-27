@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-attorney-general-
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
 type: article
 quality: 64
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Point of Order: George P. Bush supports Donald Trump in 2024, teases primary challenge to Ken Paxton"
-    excerpt: "In the latest episode of our podcast about the Texas Legislature, Evan Smith talks to Land Commissioner George P. Bush about the state of the state and the issues in play as the 2021 session winds down — and about his rumored plans to challenge Ken Paxton in the GOP primary for Texas attorney general."
-    publishedDateTime: 2021-05-18T11:46:00Z
-    webUrl: "https://www.texastribune.org/2021/05/18/george-p-bush-texas-tribune-podcast/"
-    ampWebUrl: "https://www.texastribune.org/2021/05/18/george-p-bush-texas-tribune-podcast/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/05/18/george-p-bush-texas-tribune-podcast/amp/"
+  - title: "A scandal-scarred Senate candidate wants Donald Trump’s endorsement. Other Republicans worry he’ll give it."
+    excerpt: "Former Missouri governor Eric Greitens, forced from office in 2018, has hired several Trump associates for his campaign and has falsely suggested Trump could replace Biden before the next presidential election."
+    publishedDateTime: 2021-07-23T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-eric-greitens-endorsement/2021/07/22/9e9998a2-e8c0-11eb-97a0-a09d10181e36_story.html"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 60
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 87
     images:
-      - url: "https://thumbnails.texastribune.org/-WZyIy5chI8EFetu7rgV3te8xdg=/1200x630/filters:quality(95)/static.texastribune.org/media/files/ee3b23c67609fb74b29eb60f2b7d02d0/TT-PointofOrder-podcast-launch-art.png"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PU73ALXLEII6XIV2HPRR2NESLA.jpg&w=1440"
+        width: 1440
+        height: 983
         isCached: true
 
 secured: "uV8ECb2CoX/xkAQI6bFWu0oM595bsq8zYb313dmfX5mzdQ1cAxY8nSNU0kJXx6TQtgxRu5JHR7F3I8t2gZ3G+kjYD9CW2cQSyOxQhph6ZgC02+sH8Fqw42Oo/QKe4G9ft3V8/FVwTOLyyuV/0kWHrmQALNLUcV03fnLgec4FqFOfnBZB2JFEkcbE51wbun5JftJt9FTFGcP5RZKtUcboAsam02yxUcYLOov/w9Ky2nvCyuamk+KtMas+XgYTjfKjk2c3kPDjdityJSMfhhbUVhpJS3g7So8D/ZbrqmRElCeVPdXmGHvOC/YCDgpegPHUzKGObeU5GRxv00vymv17Uk0MYqWM2krG++4pKLf/SQvfJbyR9Ba25zH79Jn2e65UCJ3eO4m/9iCt25JOHaT7RVAeGIOWpgqZhEIYNM5ll0Ich//COG7QjtOJfc70Kv7ITeBKy3w7hmsjyc9MIReQV/iCnqCk57/zJv+BoyLfOsWYqCYHV8rK9TDUy8L57tAceQtDRfwcp9Lz5VFozaSm4Q==;NALb6+EJOJdGA6vPHwDDdA=="

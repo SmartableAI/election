@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden will announce vaccination requirement across federal government on Thursday"
+    excerpt: "President Joe Biden said Tuesday that requiring Covid vaccinations for all federal employees is \"under consideration,\" a day after the Department of Veterans Affairs announced that health care workers at the agency must get their shots.\n    \n"
+    publishedDateTime: 2021-07-27T21:32:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9ia0uMzCLLs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/vaccine-mandate-for-federal-employees-under-consideration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/vaccine-mandate-for-federal-employees-under-consideration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725204652-01-joe-biden-0725-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden health officials begin discussing mask recommendations as variants surge cases"
     excerpt: "Top Biden health officials and some White House officials are holding preliminary conversations on revising mask recommendations for vaccinated Americans as the Delta variant spreads throughout the US, according to multiple sources familiar with discussions.\n    \n"
     publishedDateTime: 2021-07-22T04:24:51Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-vaccination-honesty-schools-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp"
 type: article
 quality: 156
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden considering vaccine mandate for federal workers, says unvaccinated not as 'smart' as he thought"
+    excerpt: "President Biden said Tuesday he is considering requiring all federal employees to be vaccinated and questioned the intelligence of those that have yet to do so."
+    publishedDateTime: 2021-07-27T20:49:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnlHCmuLiOQ/biden-federal-vaccine-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ea5077-c2bf-418d-aa26-66f4b2f1dea9/188ffa1c-573c-47cd-a16d-bb08437ce582/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "z2+Ig5joeLQ0vr3LKIT+EpvrNz5KzjxdONA3qENQPRYmWiXkmK6wSWjxGjejC3c7QaUPhuKza4O7j8H1r1P+b64naQ7OTr8kID1IbZ8ts/jAjzqlBaUjOKv7P6N/6SsaTP0MMnvQHcxO9J+rCyaYRPfxK5IfVJsEJuflSqW5mHhDNm4ajSnQeCFaDS9pZ+f2QsOUpjmhQ/oxZ//F3uzHhE3NuCXN+HfEos/RFOUuKJy3YjhjXkN/owjqLquQK2lqGsNZ8/AHvNm25HOqy45M97tE0bD1R7EJlZFJlznymPcNMobnhZi7eDu5oX3vdPDi8Yrbnx4dGsfEYNtgZg9VgHgA7y61LogaorNEN1/JiR8=;9lCE2QW/gq/9KwhAGZ0ZMQ=="
 ---

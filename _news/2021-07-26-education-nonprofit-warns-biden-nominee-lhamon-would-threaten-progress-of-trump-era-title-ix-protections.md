@@ -348,6 +348,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump, lawmakers honor Sen. Mike Enzi after sudden death from bike accident"
+    excerpt: "From former President Donald Trump to Rep. Liz Cheney to Sen. Tim Kaine, many on both sides of the aisle remembered the life and accomplishments of Senator Mike Enzi."
+    publishedDateTime: 2021-07-27T19:59:00Z
+    webUrl: "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/"
+    ampWebUrl: "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Sen.-Mike-Enzi.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Newspaper declares Biden boring; Washington has never felt duller"
     excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
     publishedDateTime: 2021-07-14T07:10:00Z

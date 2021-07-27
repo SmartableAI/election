@@ -73,6 +73,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden will require federal employees be vaccinated or tested -CNN"
+    excerpt: "U.S. President Joe Biden will announce on Thursday a requirement that all federal employees and contractors be vaccinated against COVID-19 or be required to submit to regular testing, CNN reported on Tuesday,"
+    publishedDateTime: 2021-07-27T20:12:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-will-require-federal-employees-be-vaccinated-or-tested-cnn-2021-07-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/n2ZGxf3q3rDwlPNlCLlhi4OV6i8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VTU4Z7K4ZNXZCCBEXPE4DLLZA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "U0EV49bJs+EMzU/1du15zEoZ/Ownyx5IkQyZ4BL5GgJrse3fAatP9AkS5ps4VAUfFW7ulAEu2MUcyqwD06S9urZWxpGEn3h5hL3BqtprHDml5YlsdTdj8qdbFzl4595jtPi/qq5LvgCzvG8Afp/6iFDP719kCox539GvKEuApWzp4JW3ZdAQLJzdRsT5THzOJ/2j+oReL6QpDHMTN1Wpl06xU2tg/syOxHElpQBM3rFVu0N02bM6Lqpw5aeCYLuVcFCC+x9wvUomrfAX6eSmeotGVMGC29bfzxmLiaQ62YrbPAS5NlGXHlGBWfzWPKwc0NOEKjTyOpveLVz0cQNLxG86Hg8LGgRmgm9JSRRFchQ=;3/ovXbV7yblx7pWUcbg1yA=="
 ---

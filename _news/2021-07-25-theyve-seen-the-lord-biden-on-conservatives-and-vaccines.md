@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden will require federal employees be vaccinated or tested -CNN"
+    excerpt: "U.S. President Joe Biden will announce on Thursday a requirement that all federal employees and contractors be vaccinated against COVID-19 or be required to submit to regular testing, CNN reported on Tuesday,"
+    publishedDateTime: 2021-07-27T20:12:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-will-require-federal-employees-be-vaccinated-or-tested-cnn-2021-07-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/n2ZGxf3q3rDwlPNlCLlhi4OV6i8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VTU4Z7K4ZNXZCCBEXPE4DLLZA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
     publishedDateTime: 2021-07-22T01:33:00Z

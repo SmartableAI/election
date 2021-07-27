@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump-less Wollman Rink raises rates for next skating season"
-    excerpt: "The new operator selected to manage Central Park’s Wollman Rink is jacking up rates for families to skate there this fall — after Mayor Bill de Blasio booted the Trump Organization."
-    publishedDateTime: 2021-07-26T20:18:00Z
-    webUrl: "https://nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/"
-    ampWebUrl: "https://nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/wollman-rink-2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "oVR1ueWM1hBSbAaCpGH+W7AGIVDqL2pdjTIbE6XxUYSrcjrWfFYQSXzo/hwC4QITpyeSInTNiQb3+GYBLjY3wijA8BKfYWehBLPGSL/tO0Hj7IT0DKfmbCNIFruZ8eYJ1uwJzXJrCMOleRh7nmy4cbk6Za8j7R7aTow/FNBdFpcvzwIG1dmBYMy/f89V3rj3Fkln3/6XxFrQlOZaZXmUROQDdlLDs++8ekq7zbc4UpM/kw3HcMM4i/kuTZxJVQ4HLOakxgVoDt3MUUmMX5aEuO8JkyWjE5LNQGHChLsfsZPtnmbn0kDPaab8nYarMokP0QlyA8Kmqe39JAweAVXdB47WTOaNjviad1r/TqPHru0=;hknNzbjxTJdvaXl0XU+spg=="
 ---

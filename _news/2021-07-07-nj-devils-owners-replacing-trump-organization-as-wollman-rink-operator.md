@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rin
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/amp/"
 type: article
 quality: 135
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://images.wsj.net/im-368037/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Trump-less Wollman Rink raises rates for next skating season"
-    excerpt: "The new operator selected to manage Central Park’s Wollman Rink is jacking up rates for families to skate there this fall — after Mayor Bill de Blasio booted the Trump Organization."
-    publishedDateTime: 2021-07-26T20:18:00Z
-    webUrl: "https://nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/"
-    ampWebUrl: "https://nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/wollman-rink-2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "p3YDAI+WEihaDHtlGz0ly8AAT50Kf5ApEzm7ETsGWKGcxMTbTBQSBiX5rrehgt16JUtKAvRkkp4aoTcJXOguH83yvvnHodMx6SP4Wut/Df9/Uj2o5HU0u1LkG8L/fEpDIZOd1igd79NeuZxyq1SxdJdg7gKKk5mECUYTgaPFAKi5RQ3RvSlbXu5a6G8j/6KresefRnvAlxdMkwBqrhpp3/F8ZNUvW6qHB6O4+Fjqz5+qFmd42VZ/7kg9guSVLj/zv7B8KoSdOByhbJNvPZOtaQA1mGiae14PIKlC1S5bMMk1NyzIk+N+QZdKKqVkY2OdcYaiKnREIUOTqn7izsdCRQ7Oaq4aHSeNATaPViO695/Cz3nPyAOugRLSfUavDV7sG7rkeUFQWmKfrGH2gDOdA71a4NXgEchxzPIPmTvo8bz0yXNFKr+Iutcdss/fSg/07YtpGee66CaKrLNyNV2ZW71l+LS7Z15TGkMiUKOocfbhsD6SxPNusfWBwRFuQb7VQ1R5Od265yBlEspiY7sFgA==;Gtc8nz7EEiMu6S74snsehw=="

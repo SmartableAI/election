@@ -1434,6 +1434,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 70
+  - title: "Maryland man sentenced for threats against Biden, Harris"
+    excerpt: "A Maryland man was sentenced Tuesday to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when"
+    publishedDateTime: 2021-07-27T21:56:00Z
+    webUrl: "https://www.bgdailynews.com/news/national/maryland-man-sentenced-for-threats-against-biden-harris/article_4f29afb3-766f-5ace-8787-88b8d1302b18.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z

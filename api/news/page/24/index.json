@@ -2,6 +2,110 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-06-15-vp-kamala-harris-announces-small-business-program-we-must-re-imagine-our-economy.md",
+      "title": "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\"",
+      "excerpt": "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/545821.jpg",
+          "width": 990,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
+      "publishedDateTime": "2021-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.md",
+      "title": "Biden gives awkward fist-bump to Turkey’s Erdogan at NATO summit",
+      "excerpt": "President Biden on Monday offered an awkward fist-bump to Turkish President Recep Tayyip Erdogan in Belgium at the annual NATO summit Monday — as the Islamist strongman prepared to blast the U.S. leader for his recent recognition of the Armenian genocide.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QqVib7QZRDA/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QqVib7QZRDA/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd6a145e-66e9-499f-af6f-6e679e86637f/ce50cd7b-ad82-41a8-827b-0a4d21342769/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
+      "publishedDateTime": "2021-06-14T16:38:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-biden-says-nato-must-protect-against-phony-populism.md",
       "title": "Biden says NATO must protect against 'phony populism'",
       "excerpt": "President Joe Biden on Monday called on foreign leaders to protect against those who prey on division and push \"phony populism,\" asserting that it's up to democratic nations to prove to the world that democracy can prevail and autocracies cannot \"deliver for the needs of our people.\"\n    \n",
@@ -1219,105 +1323,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-judge-halts-bidens-race-based-aid-for-farmers-says-challenge-is-likely-to-succeed.md",
-      "title": "Judge halts Biden's race-based aid for farmers, says challenge is 'likely to succeed'",
-      "excerpt": "A Wisconsin federal judge ordered a temporary halt to a $4 billion race-based federal relief program for farmers on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/720/405/Food-and-Farm-Robots-_Garc.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
-      "publishedDateTime": "2021-06-12T12:44:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-mike-pence-has-sold-out-pennlive-letters.md",
-      "title": "Mike Pence has sold out | PennLive letters",
-      "excerpt": "Pence is willing to forgive and forget despite Trump’s stunning disloyalty because he has designs on being elected president in 2024 or 2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html",
-      "originalUrl": "https://www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SSHVGALTSVC4BHXHMXUPFZ37RM.jpg",
-          "width": 2751,
-          "height": 1786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html?outputType=amp",
-      "publishedDateTime": "2021-06-12T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Delivers Remarks to the National Bar Association"
 excerpt: "Vice President Kamala Harris delivers live virtual remarks to the National Bar Association in South Court Auditorium of the Eisenhower Executive Office Building of the White House in Washington, DC on July 27,"
 publishedDateTime: 2021-07-27T18:24:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/5bbb47643d82a974b9d1c566402bb9be/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/5bbb47643d82a974b9d1c566402bb9be/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/43a721c073e5f2f32b1cca7ea5c8a209/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/43a721c073e5f2f32b1cca7ea5c8a209/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
 type: article
 quality: 52
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/5bbb47643d82a974b9d1c566402bb9be/HARRIS-BAR-ASSOC.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/43a721c073e5f2f32b1cca7ea5c8a209/HARRIS-BAR-ASSOC.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -992,6 +992,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "Poylzj09Dd93rZ2tefSxjWipbpOg7uStm+FpB1/M0x2oybqEg2YT8xXdPyxuWZbry4PV76E2QFja+hpSOo2lTFSbo5qmu2MGwkUcTTF9JAsGpnDCnvpwwL0vOG4EAvD9EPc3Vbx+cHlyqGgR/XJNFcLCS31e1ac7wRe/hfGUE4UFXYklpZVpWs2PvIIzhmO/XeYNbeDR0UghlgnFTz7KUYA/XT01heDgpyX0XW4xNyZM2IrwV0e0dh0w54oE9s8SCwyfIwaw48vhC4HrYZgIQ+ExCb8uQ17DSA1FTJ9BOqrDzAAVhlrhLlcgGgmiilG5lM6bpig5mCAKA2x449p3w2iOJCiUpAfiZIww+qCTr7I=;K50pE3fJt2OQQuPaS9j2qg=="
+secured: "bsRuN8+rIXxRs0RdGdSMUS+EXH/4B3+KFesf5aEeimLXsM8ZOp9k4jw53u11qS2WrHaiK+d/yq/LJFeJcnC3zloITCreeCTAP/b8IUtq50ziedHSd7KlFpispzZZeETAbBM60MumndaPzV7Uyo6d625xf+DxoDIwBz24/0H8qhoJ+F3WYCeVpjpmOePG1WUErVBYjwCN5Lu+XkkVO7Q9q7p39D12OVEPZ8r/gefYl49uW0yuVh2HmSAsSR53hqafO2HSR3ztszwrG7Wu9jAkViSGjpxtOJCj0ia75Smae9piXME4b2QhWl/P0Q+VlshUzebjqeu2xY1UKDse28VvQBvhm2hqE3oGiusuvC9/MnE=;ESUGo9ldLwcIv29/rGkSvA=="
 ---
 

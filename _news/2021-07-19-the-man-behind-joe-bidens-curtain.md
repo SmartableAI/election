@@ -342,6 +342,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump, lawmakers honor Sen. Mike Enzi after sudden death from bike accident"
+    excerpt: "From former President Donald Trump to Rep. Liz Cheney to Sen. Tim Kaine, many on both sides of the aisle remembered the life and accomplishments of Senator Mike Enzi."
+    publishedDateTime: 2021-07-27T19:59:00Z
+    webUrl: "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/"
+    ampWebUrl: "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Sen.-Mike-Enzi.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections"
     excerpt: "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration."
     publishedDateTime: 2021-07-26T12:34:00Z
