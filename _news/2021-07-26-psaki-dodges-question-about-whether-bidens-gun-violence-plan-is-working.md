@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden US Attorney nominee has lengthy do-not-prosecute list"
+    excerpt: "President Biden's nominee to lead the U.S. attorney's office in Massachusetts is a soft-on-crime progressive who has declined to prosecute low-level offenses such as shoplifting, trespassing, and drug possession."
+    publishedDateTime: 2021-07-27T19:00:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvF2tVDG_yw/biden-us-attorney-nominee-do-not-prosecute-list"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-us-attorney-nominee-do-not-prosecute-list.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-attorney-nominee-do-not-prosecute-list.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de600808-c68f-48db-9167-e0c22ad718b2/52be57d7-8b3b-4761-b865-284c709e0389/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "President Biden: Communism Is A Universally Failed System"
     excerpt: "President Biden was asked to comment on his position on protests and unrest in Cuba and critics from the right who said he is soft on communism: NEW!Powerful statement from President Donald J. Trump on Biden's refusal to stand up to the Communist regime in Cuba\"Today’s Democrat Party is so far left they can’t even take a stand against violent Communism."
     publishedDateTime: 2021-07-15T22:22:00Z

@@ -107,6 +107,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
+    excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean, Virginia. Photo by Alex Edelman/UPI Back to top"
+    publishedDateTime: 2021-07-27T19:50:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/462aba6c08b49bbf1265315dd60e6dff/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/462aba6c08b49bbf1265315dd60e6dff/BIDEN-WORKFORCE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "c5ln4mF5ZVweNgfzMw3IjGETCwm98CNrPENsEK6Tka1agUCq7vGHCzauFkIF2wve8znn1m3+bPhXHNlAUPLkGxPBAH7W7YahNob6rvqFq65D6Zq61203VAwd59Qbg1TaG8THDS/z9VtrwXGU9Sh1833kU+ah2a3FMgUpJoXQIYiRjNP9qFGd2KNCrsJ51W61WN9tXCCq+Ft/tRQL4ejO2VAdzS4JuzaZqdcx9KTsocf5jlFHTlaTwHwifoqTXfAZP0Z5/xXxZiLlTawlw+F3AS9eIrcBYOWjPLzv1pprxCcJo7GCmrgQ7Ef9hsdsGDAfAilz3rhXCLPKws8pOC2laf+PdlxDI6cGmOvcJxpMfQrEqF9d4UQIY0cDMGB2XmJDx7BPe4nuGoanvLqtWLPtz5ujZrlBTt4Zo/lhdOuflt2jQW9zBOPcUp3SHWOoShlS8KGP6QdSuyVfKMYiwXfUBYQJQN/KQXsB4X5bRGxEo52tsPAWbiUCrjJWQMXmMRurZzHUbZTScikgQFDmWlaK/Q==;eHvwo1JDUIiAzjxLSvrcwQ=="
 ---

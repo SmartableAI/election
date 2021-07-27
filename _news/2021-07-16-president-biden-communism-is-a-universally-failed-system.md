@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden US Attorney nominee has lengthy do-not-prosecute list"
+    excerpt: "President Biden's nominee to lead the U.S. attorney's office in Massachusetts is a soft-on-crime progressive who has declined to prosecute low-level offenses such as shoplifting, trespassing, and drug possession."
+    publishedDateTime: 2021-07-27T19:00:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvF2tVDG_yw/biden-us-attorney-nominee-do-not-prosecute-list"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-us-attorney-nominee-do-not-prosecute-list.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-attorney-nominee-do-not-prosecute-list.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de600808-c68f-48db-9167-e0c22ad718b2/52be57d7-8b3b-4761-b865-284c709e0389/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Psaki dodges question about whether Biden's gun violence plan is working"
     excerpt: "During her daily press briefing, Psaki was asked by Fox News’ Peter Doocy whether Biden’s \"comprehensive strategy\" to combat gun crime, first announced June 23, was effective in cities like Chicago."
     publishedDateTime: 2021-07-26T18:28:16Z

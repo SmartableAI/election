@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/564956-gop-lawmakers-req
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/01b428cd-2cad-483b-b62c-8e6397765b94_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden working to get 'long haulers' covered by ADA"
+    excerpt: "Top News Biden working to get 'long haulers' covered by ADA. Posted . President Joe Biden said on Monday he is working to make sure that Americans with lingering effects of their"
+    publishedDateTime: 2021-07-26T18:16:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVENHG8NZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210726&i=OVENHG8NZ&r=OVENHG8NZ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
     excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."

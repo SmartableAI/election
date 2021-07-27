@@ -65,19 +65,35 @@ related:
         isCached: true
   - title: "Inflation fears and politics shape views of Biden economy"
     excerpt: "President Joe Biden is banking on the idea of making life more affordable for middle-class families — and that's where the recent bout of inflation poses both a political and an economic risk. The U.S."
-    publishedDateTime: 2021-07-26T18:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/inflation-fears-politics-shape-views-biden-economy-79064815"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/inflation-fears-politics-shape-views-biden-economy-79064815"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/inflation-fears-politics-shape-views-biden-economy-79064815"
+    publishedDateTime: 2021-07-26T17:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/inflation-fears-politics-shape-views-biden-economy-79068305"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/inflation-fears-politics-shape-views-biden-economy-79068305"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/inflation-fears-politics-shape-views-biden-economy-79068305"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_32c57e635d944066bf583ff6adaf7253_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_790de10ae0ef47fc899b076b0c1202d1_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Top Democrats Urge Joe Biden to Cancel $50,000 in Student Loans Per Person"
+    excerpt: "\"With the stroke of a pen, he can follow through on his promise and bring life-changing relief for tens of millions of Americans,\" Senantor Chuck Schumer wrote in an op-ed."
+    publishedDateTime: 2021-07-27T19:54:00Z
+    webUrl: "https://www.newsweek.com/top-democrats-urge-joe-biden-cancel-50000-student-loans-per-person-1613679"
+    ampWebUrl: "https://www.newsweek.com/top-democrats-urge-joe-biden-cancel-50000-student-loans-per-person-1613679?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/top-democrats-urge-joe-biden-cancel-50000-student-loans-per-person-1613679?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1851886/gop-leaders-deny-raising-debt-ceiling.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "'Cuba is a failed state': Biden"
     excerpt: "Biden. Posted . U.S. President Joe Biden on Thursday described Cuba as a \"failed state\" and communism as a \"failed system\" as his administration"

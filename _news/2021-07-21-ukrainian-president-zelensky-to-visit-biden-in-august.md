@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5957d778-d5a2-40ab-bac6-a88f93c1d217/435dc9c7-aecb-44d3-a66b-8f0237da643a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden US Attorney nominee has lengthy do-not-prosecute list"
+    excerpt: "President Biden's nominee to lead the U.S. attorney's office in Massachusetts is a soft-on-crime progressive who has declined to prosecute low-level offenses such as shoplifting, trespassing, and drug possession."
+    publishedDateTime: 2021-07-27T19:00:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvF2tVDG_yw/biden-us-attorney-nominee-do-not-prosecute-list"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-us-attorney-nominee-do-not-prosecute-list.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-attorney-nominee-do-not-prosecute-list.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de600808-c68f-48db-9167-e0c22ad718b2/52be57d7-8b3b-4761-b865-284c709e0389/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

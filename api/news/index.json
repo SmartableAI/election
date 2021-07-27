@@ -2,6 +2,200 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-28-buttigieg-to-visit-port-of-baltimore-to-tout-bidens-infrastructure-deal-thursday.md",
+      "title": "Buttigieg to visit Port of Baltimore to tout Biden’s infrastructure deal Thursday",
+      "excerpt": "U.S. Transportation Secretary Pete Buttigieg will visit the Port of Baltimore Thursday to tout the benefits of President Biden’s bipartisan infrastructure deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html",
+      "originalUrl": "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/h6Rm5NBj7Ozf4K1WOjI2vNjcCiU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJD6BCIZURG63GMQBACHLFPMHY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html?outputType=amp",
+      "publishedDateTime": "2021-07-27T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-harris-calls-on-black-lawyers-to-fight-states-voter-integrity-laws.md",
+      "title": "Harris calls on Black lawyers to fight states’ voter-integrity laws",
+      "excerpt": "Vice President Kamala Harris urged Black lawyers Tuesday to challenge new election laws in mostly Republican-led states that she said are intended to restrict minority voting and shift vote-counting to partisan entities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/07/26/Biden_08119.jpg-d9ffb_c0-458-5495-3663_s1200x700.jpg?ac76d24151b5fdfcbb22158c02a6cc96c26d6cd4",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
+      "publishedDateTime": "2021-07-27T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-barrasso-grills-haaland-on-bidens-blm-nominee-tree-spiking-during-hearing.md",
+      "title": "Barrasso grills Haaland on Biden's BLM nominee, tree-spiking during hearing",
+      "excerpt": "Barrasso pursued his line of questioning during a Tuesday committee hearing on the president’s Department of Interior budget request.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7pQ3ffQQLc/barrasso-grills-haaland-stone-manning",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7pQ3ffQQLc/barrasso-grills-haaland-stone-manning",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/345bd750-f595-4b27-94c7-a3e55f0b3d44/b8dd0d8b-c53a-45f3-ab9d-4ef7f5d16684/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrasso-grills-haaland-stone-manning.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrasso-grills-haaland-stone-manning.amp",
+      "publishedDateTime": "2021-07-27T11:43:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-officer-trump-helped-create-this-monstrosity.md",
+      "title": "Officer: Trump 'helped create this monstrosity'",
+      "excerpt": "In testimony before the panel probing the attack on the U.S. Capitol, a police sergeant blasted former President Donald Trump's description of the scene as \"a loving crowd\". (July 27)",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/24e97548-973a-41c4-a28a-d6a8d389859d_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-doj-tells-former-trump-officials-they-can-testify-about-efforts-to-overturn-election.md",
       "title": "DOJ tells former Trump officials they can testify about efforts to overturn election",
       "excerpt": "Jeffrey Rosen, who was acting attorney general after William Barr stepped down, is among the officials being allowed to testify.",
@@ -335,7 +529,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -379,58 +573,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-27-will-donald-trump-jr-run-for-office-trumps-son-leads-gop-favorability-poll.md",
-      "title": "Will Donald Trump Jr. Run For Office? Trump's Son Leads GOP Favorability Poll",
-      "excerpt": "Donald Trump Jr., son of former President Donald Trump, topped a GOP favorability poll that pitted him against six other Republican figures. In a poll conducted by Tony Fabrizio of Fabrizio Lee & Associates between July 6 to 8,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088",
-      "originalUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/donald-trump-jr-speaking-during-the-first-day.jpg",
-          "width": 1024,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1",
-      "publishedDateTime": "2021-07-26T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-27-gop-lawmakers-request-cuba-meeting-with-biden.md",
       "title": "GOP lawmakers request Cuba meeting with Biden",
       "excerpt": "A group of 19 Republican lawmakers penned a letter to President Biden on Monday requesting a meeting to discuss the ongoing situation in Cuba, which has escalated in recent weeks following protests ag",
@@ -439,7 +581,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1164,149 +1306,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-trump-says-woke-politics-contributed-to-us-womens-soccer-upset-at-olympics.md",
-      "title": "Trump says ‘woke politics’ contributed to US women’s soccer upset at Olympics",
-      "excerpt": "Former President Donald Trump says “woke politics” contributed to the US Women’s soccer team’s dismal opening performance in the Tokyo 2020 Olympics.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
-      "originalUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
-      "publishedDateTime": "2021-07-25T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-audit-finds-border-patrol-did-not-mistreat-pregnant-migrant-undercutting-kamala-harris-claims.md",
-      "title": "Audit finds Border Patrol did not mistreat pregnant migrant, undercutting Kamala Harris’ claims",
-      "excerpt": "Border Patrol agents did not mistreat a pregnant migrant who began to give birth immediately after being caught, the agency’s inspector general said Friday, shooting down a story that then-Sen. Kamala Harris seized on during the presidential campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/07/02/migrant_children_shelter_14413_c0-218-5243-3276_s1200x700.jpg?24fcb387a333be866f4da9ac9280956ea8a31e67",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/",
-      "publishedDateTime": "2021-07-25T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her.md",
-      "title": "Video Shows Man 'Harassing' Michelle Ugenti-Rita Backstage After Trump Supporters Booed Her",
-      "excerpt": "Rita, a Republican running for Arizona secretary of state, why she \"killed Senator Kelly Townsend's election integrity bills in the Senate\" in the video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
-      "originalUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1854525/rally-protect-our-elections.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
-      "publishedDateTime": "2021-07-25T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

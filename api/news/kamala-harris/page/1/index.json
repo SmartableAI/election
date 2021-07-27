@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-28-harris-calls-on-black-lawyers-to-fight-states-voter-integrity-laws.md",
+      "title": "Harris calls on Black lawyers to fight states’ voter-integrity laws",
+      "excerpt": "Vice President Kamala Harris urged Black lawyers Tuesday to challenge new election laws in mostly Republican-led states that she said are intended to restrict minority voting and shift vote-counting to partisan entities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/07/26/Biden_08119.jpg-d9ffb_c0-458-5495-3663_s1200x700.jpg?ac76d24151b5fdfcbb22158c02a6cc96c26d6cd4",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
+      "publishedDateTime": "2021-07-27T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-biden-harris-awol-leaving-texans-to-fight-border-crisis-on-their-own-rep-gonzales.md",
       "title": "Biden, Harris 'AWOL,' leaving Texans to fight border crisis on their own: Rep. Gonzales",
       "excerpt": "The Biden administration quietly resumed a Trump-era policy to accelerate the removal of family units that don't qualify for asylum in the U.S. While the decision is an attempt to lessen the crisis at the southern border,",
@@ -56,49 +99,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-audit-finds-border-patrol-did-not-mistreat-pregnant-migrant-undercutting-kamala-harris-claims.md",
-      "title": "Audit finds Border Patrol did not mistreat pregnant migrant, undercutting Kamala Harris’ claims",
-      "excerpt": "Border Patrol agents did not mistreat a pregnant migrant who began to give birth immediately after being caught, the agency’s inspector general said Friday, shooting down a story that then-Sen. Kamala Harris seized on during the presidential campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/07/02/migrant_children_shelter_14413_c0-218-5243-3276_s1200x700.jpg?24fcb387a333be866f4da9ac9280956ea8a31e67",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/23/audit-finds-border-patrol-did-not-mistreat-pregnan/",
-      "publishedDateTime": "2021-07-25T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {

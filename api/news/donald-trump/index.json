@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-28-officer-trump-helped-create-this-monstrosity.md",
+      "title": "Officer: Trump 'helped create this monstrosity'",
+      "excerpt": "In testimony before the panel probing the attack on the U.S. Capitol, a police sergeant blasted former President Donald Trump's description of the scene as \"a loving crowd\". (July 27)",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/24e97548-973a-41c4-a28a-d6a8d389859d_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-doj-tells-former-trump-officials-they-can-testify-about-efforts-to-overturn-election.md",
       "title": "DOJ tells former Trump officials they can testify about efforts to overturn election",
       "excerpt": "Jeffrey Rosen, who was acting attorney general after William Barr stepped down, is among the officials being allowed to testify.",
@@ -89,58 +141,6 @@
         "name": "Houston Chronicle",
         "domain": "chron.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-will-donald-trump-jr-run-for-office-trumps-son-leads-gop-favorability-poll.md",
-      "title": "Will Donald Trump Jr. Run For Office? Trump's Son Leads GOP Favorability Poll",
-      "excerpt": "Donald Trump Jr., son of former President Donald Trump, topped a GOP favorability poll that pitted him against six other Republican figures. In a poll conducted by Tony Fabrizio of Fabrizio Lee & Associates between July 6 to 8,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088",
-      "originalUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/donald-trump-jr-speaking-during-the-first-day.jpg",
-          "width": 1024,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1",
-      "publishedDateTime": "2021-07-26T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

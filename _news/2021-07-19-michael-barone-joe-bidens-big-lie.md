@@ -103,6 +103,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden working to get 'long haulers' covered by ADA"
+    excerpt: "Top News Biden working to get 'long haulers' covered by ADA. Posted . President Joe Biden said on Monday he is working to make sure that Americans with lingering effects of their"
+    publishedDateTime: 2021-07-26T18:16:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVENHG8NZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210726&i=OVENHG8NZ&r=OVENHG8NZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
     excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."
     publishedDateTime: 2021-07-19T21:10:00Z

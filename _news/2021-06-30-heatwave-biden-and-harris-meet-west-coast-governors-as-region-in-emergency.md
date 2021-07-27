@@ -949,6 +949,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Lindell predicts Biden, Harris may resign after he discloses new evidence of election tampering"
+    excerpt: "MyPillow CEO Michael J. Lindell said Monday that he thinks President Biden might resign next month when the pro-Trump bedding magnate reveals his latest purported evidence of alleged election interference."
+    publishedDateTime: 2021-07-27T19:35:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/27/mike-lindell-mypillow-ceo-predicts-biden-and-harri/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/27/mike-lindell-mypillow-ceo-predicts-biden-and-harri/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/27/mike-lindell-mypillow-ceo-predicts-biden-and-harri/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/22/Voting_Company_Lawsuit_Lindell_62658.jpg-99a40_c0-0-2381-1388_s1200x700.jpg?a8347bf4de2696881e7cfa6584dbf192c9855552"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
     publishedDateTime: 2021-04-21T22:37:00Z

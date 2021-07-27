@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Biden's 1st Visit to Intel Agency to Contrast With Trump's"
-excerpt: "President Joe Biden will make his first visit to an agency of the U.S. intelligence community under sharply different circumstances than his predecessor."
-publishedDateTime: 2021-07-27T05:09:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps?context=amp"
+title: "Biden's 1st visit to intel agency to contrast with Trump's"
+excerpt: "President Joe Biden will make his first visit to an agency of the U.S. intelligence community under sharply different circumstances than his predecessor"
+publishedDateTime: 2021-07-27T05:17:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-1st-visit-intel-agency-contrast-trumps-79078887"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-1st-visit-intel-agency-contrast-trumps-79078887"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-1st-visit-intel-agency-contrast-trumps-79078887"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-1st-visit-intel-agency-contrast-trumps-79078887"
 type: article
-quality: 70
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -2557,6 +2563,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "ZCnxsPuii2iQE8mFDxrsYrTQxwK7UQnQ8CaPXl1j8OKZK+Vt9o9OCTykdK/KWYpU9a6a3gLIfPIm8EQE45ZmErvFfzV+BBbtcwCSpZylBWXsB2xMKplGYMvMMeMmExjGOmqUhM0wWyZgmzt+AYm8z1piSYgqJUWUgg7AvQMBegraSzF4xFM4qGXhnqKLJJZc8RLzk82lIguEYEyduSzGsl6G/kbawNqthwtT96nSBUEEJALdrsrVLFKd2MlgHWm5r0eECANIS+J2ScIM+Y4WqcssNpbilFotpz8sLzvjUvWJFX6YWjRWdvAMZ4qxVuzY3Yc91wpzhe14CUoEKo36jiqjiSyH8JywnFIqTKemRMLHXil6Y1QqMD1Lb2DETXPxA4+n2cigpC9H8JT9WBJVtUC70qVqghJJqghWm9ls9FX9QOMKLQkMFC/psUPEoUTk/tzid5qi7260T22h2USH9OeEC/ooYeEsVtwHO4LPE1pT+nqnb3QXqcc/aEowd+X68Co0yARV2UbtLnP/Q+qrvQ==;pTmziqa0zDO5jfSMk7Weeg=="
+secured: "2afsQR4gb5tbxjnXcJM9Lk0McAJ9VFN+mIDDycdLJHI6WJI+rSljE2p/ft/kgAtC3L0sllMM04ykhTk864ZBT751WvYSOWaFUtEPvjcJD5vLGGAw0O7nhpjmoTzozuuNOwnhpV5K39ZSwCm1ZCEVZTqCQF4uQ6ObdfBS4kR1AaE5dM41/nE06q22Y8D3W5hKQ8cEWF5TBNS48JbGSw1EnL8HKuT0raHfso2LZnEX32o+LFslOZtuvYbuPzUDFGVye/pPv6xpEkJQk4uKQNd65Ua5dBy5jXXdeeMxL4RB8O3DuW72vZtpSosqFwdwnosbNs2TEUUAOBcIGbvziJKqsCpW4y2t+LklIRs4ZB9KmTk=;nYfDW6kjnQCmjTHwV0D3kg=="
 ---
 

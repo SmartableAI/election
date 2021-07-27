@@ -860,6 +860,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Vice President Kamala Harris Delivers Remarks to the National Bar Association"
+    excerpt: "Vice President Kamala Harris delivers live virtual remarks to the National Bar Association in South Court Auditorium of the Eisenhower Executive Office Building of the White House in Washington, DC on July 27,"
+    publishedDateTime: 2021-07-27T18:24:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5bbb47643d82a974b9d1c566402bb9be/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5bbb47643d82a974b9d1c566402bb9be/HARRIS-BAR-ASSOC.jpg"
+        width: 650
+        height: 434
+        isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
     publishedDateTime: 2021-05-04T10:10:00Z

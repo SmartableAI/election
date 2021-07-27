@@ -105,6 +105,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden working to get 'long haulers' covered by ADA"
+    excerpt: "Top News Biden working to get 'long haulers' covered by ADA. Posted . President Joe Biden said on Monday he is working to make sure that Americans with lingering effects of their"
+    publishedDateTime: 2021-07-26T18:16:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVENHG8NZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210726&i=OVENHG8NZ&r=OVENHG8NZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Florida Republicans slam President Joe Biden on Cuba during GOP townhall in Versailles"
     excerpt: "A Miami crowd of dozens who had shown up in support of the anti-government protests in Cuba served as the backdrop of a GOP town hall broadcast live from Versailles Cafe on SW 8th Street — hosted by FOX News’ Sean Hannity."
     publishedDateTime: 2021-07-23T23:01:00Z

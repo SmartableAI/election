@@ -437,6 +437,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden's 1st visit to intel agency to contrast with Trump's"
+    excerpt: "President Joe Biden will make his first visit to an agency of the U.S. intelligence community under sharply different circumstances than his predecessor"
+    publishedDateTime: 2021-07-27T05:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-1st-visit-intel-agency-contrast-trumps-79078887"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-1st-visit-intel-agency-contrast-trumps-79078887"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-1st-visit-intel-agency-contrast-trumps-79078887"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -2356,17 +2372,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Biden's 1st Visit to Intel Agency to Contrast With Trump's"
-    excerpt: "President Joe Biden will make his first visit to an agency of the U.S. intelligence community under sharply different circumstances than his predecessor."
-    publishedDateTime: 2021-07-27T05:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-27/bidens-1st-visit-to-intel-agency-to-contrast-with-trumps?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

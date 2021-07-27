@@ -96,6 +96,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New evidence shows Trump appointees' political interference with CDC weekly Covid data reports, House subcommittee says"
+    excerpt: "A Democratic-led House select committee says it has uncovered evidence of political interference by the Trump administration into the federal government's coronavirus response last year, including attempts to alter or block data reports from the US Centers for Disease Control and Prevention detailing"
+    publishedDateTime: 2021-07-27T18:50:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OFBEq2s0cyU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/house-covid-committee-trump-administration-cdc-data-reports/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/house-covid-committee-trump-administration-cdc-data-reports/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727112632-restricted-james-clyburn-06-22-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "DOJ: Former Trump officials can testify about Jan. 6 Capitol attack"
+    excerpt: "The move greenlights potentially damning testimony from aides close to Trump, coming as the House select committee on the riot holds its first hearing."
+    publishedDateTime: 2021-07-27T15:33:00Z
+    webUrl: "https://www.politico.com/news/2021/07/27/doj-trump-officials-testify-jan-6-capitol-attack-500819"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/27/doj-trump-officials-testify-jan-6-capitol-attack-500819"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/27/doj-trump-officials-testify-jan-6-capitol-attack-500819"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/52/72/483a89ee41049c9f2645b1d5f7fe/210727-captiol-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "IsFKQZD7wkouqFZciIeUFEBRBjCYSQIMnvlWQaEvWzRThWmbfxUuxWgg3HIYiEPB2qBbCIdhhfRJAutlesQOlywK+CVNjQCD3C87Np6rfhQGBhdUXUQkOp5jkzgRdZzCrmPGCOPLeIDH/xaorfJRScEtlx3VOPNqsol1EL28BAQUkm4/rGwc96JtqtQlauon2GWHuRS2PrhKz3lJMOu6zJd8lO7mpGEYwm3FRgSWyTPW1jlZ06prqqBKGKTN7EXh7BIS5MCQ5aroqFqq6Zv41fCJpJ62xE7IUlKIHGxbsynBGNUsMfSoFKxKMG139tN2UnNRI8cLogzcrqMHCSd2JFfvraaRfP08PdWtM9bsh2dBmHxpu9QTUdGZWRvCks+MB3KVAwJDRHCDoCz4q+D5gx+uVXkGBOmqFAqik/ANPQb5WQISmtQeMarNdAO7zOjgPAGcymGbY+U1AUJs8TeWUI7Hy3S8JA4hxHIvRAKyVFuhfzp09/dPIqnNf6Pwcul/2ASBNKjXLS9lmXaFthOzTA==;g4EmAanQqU5tagcLvjW9lw=="
 ---
