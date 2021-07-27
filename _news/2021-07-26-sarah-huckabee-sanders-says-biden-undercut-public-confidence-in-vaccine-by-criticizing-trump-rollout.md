@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
 type: article
 quality: 134
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Joe Biden’s Afghan pullout could end in tragedy"
+    excerpt: "On his recent trip to Europe, Joe Biden lost no opportunity to proclaim “America is back”. But actions speak louder than words. In Afghanistan, America is out. The consequences could be tragic for the country and dangerous for the US and the wider world."
+    publishedDateTime: 2021-07-26T13:18:00Z
+    webUrl: "https://www.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
+    ampWebUrl: "https://amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4615aa1e-6309-43f8-ae8d-3f008989acb3.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Biden confirms: Veterans Affairs to mandate vaccine"
     excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"

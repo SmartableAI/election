@@ -178,6 +178,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Voices from the Phoenix Trump rally: Here's what people in the audience said"
+    excerpt: "That was an amazing event. Very energetic,” rally participant Bonnie Ebstyne said. “People are really scared about what's happening to our country.”"
+    publishedDateTime: 2021-07-26T23:56:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/07/26/phoenix-trump-rally-attendees-election-audit-immigration-reform/8086428002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/8086428002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/8086428002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/25/PPHX/bf4dbad1-eb6d-40a1-9379-31f52186cb42-cent02-7gsumjhjl87ppt0a837_original.jpg?auto=webp&crop=2799,1575,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump returns to Arizona, attacks Doug Ducey and praises GOP state senators"
     excerpt: "Former President Donald Trump praised his Arizona GOP allies, attacked Republicans he sees as enemies and continued to falsely claim election fraud."
     publishedDateTime: 2021-07-25T00:22:00Z

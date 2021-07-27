@@ -128,6 +128,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden’s head of personnel is eyeing the exits"
+    excerpt: "There’s always a bit of gallows humor at the presidential personnel office (PPO). The president appoints and PPO disappoints, the saying goes. They are responsible for who the administration hires and telling all the other applicants that they did not get the job."
+    publishedDateTime: 2021-07-26T22:56:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/07/26/cathy-russell-eyes-exit-493717"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "iFuahXhSYa6fZiHX3iLikgXWIZdH490UL0MtOr5bU3tNdG8oapqd88XXQtUz9IBdSJLQpGG12USLDGr6nOJnp6tPAx5gRCTIYjfpzFH7TNef+RfUj4BJQtk+mlw6VXI9iVzTTMnV8lgpMmH6LPXRHfWvTcO5qFKn2EMpVNiaPbukSIR7BD6ZN0Uyvpc7LXkJJSiS0TrUJgcik2AGSKuspdl+VJfI5ApC3xaqhQXymSqxw6w5c+K1OG/oQRi6q2SPIun0XGmnI2I1JV5QsZxcqtqtrLIuSl7yTaGR44s1ota3WtiDkwf7rLRKOsxIk03auQX1Tlvep/UWa6QCGTht8VjSTJlL8SG/VaYQK0Ns0eDqt4P4wOyfASuhhjAbYNdgoAtGHYba2sn1pIUB8Of3IMUOHWQ/49Ii770sSzz2odURxcwzYh+TEZ+wi+vHofnaDrSnOVeDS4eDsUsae++IqlC+LLlcb+16X0XJxx8S2o/1ysIe9v+3o55GhmD9V5cqAglVVIa6XxoSG/4OBJ0nMA==;pxo5MpXS4RIpVUbKD1xXTw=="
 ---

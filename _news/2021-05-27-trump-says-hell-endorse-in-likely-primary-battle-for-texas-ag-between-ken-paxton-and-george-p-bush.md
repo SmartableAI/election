@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Texas AG Ken Paxton gets all-important endorsement from Donald Trump"
+    excerpt: "\"Texas Attorney General Ken Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy,"
+    publishedDateTime: 2021-07-27T00:38:00Z
+    webUrl: "https://www.chron.com/news/local/article/Texas-AG-Ken-Paxton-trump-16341504.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/13/45/21281144/3/rawImage.jpg"
+        width: 2000
+        height: 1502
+        isCached: true
 
 secured: "nfxlGqJtsVzkKFrJUng8ceJgYtlN0Vk85j6PXl67HKVkDDTIAJnwHFZ08D8PsfkRHNcDmgVlgqCDJ2xct9p0fj2W4k+txDbs4agJv78DfkYGxfbxt1SU7wFXyTIk9xNGgIk7PDQKxu6b+4VpUBBBjNnXpGwyUpZmCk9WNZ2xRRmphq6ZIeSQSkaGdYffqM4VPxJnaX67oAaivs9PX50QAaUlqbWSO7ucW5KSHy8aG78dgLrBR+mFkZGc0rSE8PMLNN4q9NljMzo26e43G2Ry9LvqfCr06udgW9zuHB0fDuo33MwJeLXmOPIzBAUUjjrT3GzkiINr6hN1uRfsfDcusOO74DoYinzaZRRP9gJ9Lpc=;EAErzwkLEtnlfg4XxOyLvw=="
 ---

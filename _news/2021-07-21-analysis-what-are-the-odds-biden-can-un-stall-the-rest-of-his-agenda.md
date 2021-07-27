@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-age
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-agenda-what-matters/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20biden-spending1/20biden-spending1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Joe Biden’s head of personnel is eyeing the exits"
+    excerpt: "There’s always a bit of gallows humor at the presidential personnel office (PPO). The president appoints and PPO disappoints, the saying goes. They are responsible for who the administration hires and telling all the other applicants that they did not get the job."
+    publishedDateTime: 2021-07-26T22:56:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/07/26/cathy-russell-eyes-exit-493717"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "iCvwWclnQFVADTc4tlY8LVCty8Tk64MYyzA12WmR0SNxkA5Gk04+oFCUFw6aWCW0rgs8uYu++Lcy0y/OxH+bpOaqiCQYM4rvyYDkzXHb/RFWtk9UaUWfQcTEB7kPpZp96EmJSMwCRYy5Nuol6CGvg8WEqObLL2Lp8NP9+GB21A++6vudwvU66f+sHirXa4y06BQ4hjbzCA2UtgzQEMc8SGkA92ij+j1jp50BJNBe4DZ/UYbOjTPdVPvhrdqoEI2tTP00EUMFQDfahWigYu70nCgmdBGLMInHPWX0bhKlUGeqpL3YE568S5mQmNf/kMm3ScHeTMsaM2kDm7MCjTkzihGRmv4pCOcbazcdyu5JJKE=;/FiMlZKVbY1CMHY/mBKxKQ=="

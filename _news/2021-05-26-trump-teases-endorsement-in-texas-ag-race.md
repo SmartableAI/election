@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/555405-trump-teases-endorse
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/555405-trump-teases-endorsement-in-texas-ag-race?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/a-sign-for-the-trump-international-hotel-in.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Texas AG Ken Paxton gets all-important endorsement from Donald Trump"
+    excerpt: "\"Texas Attorney General Ken Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy,"
+    publishedDateTime: 2021-07-27T00:38:00Z
+    webUrl: "https://www.chron.com/news/local/article/Texas-AG-Ken-Paxton-trump-16341504.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/13/45/21281144/3/rawImage.jpg"
+        width: 2000
+        height: 1502
         isCached: true
 
 secured: "wT36tQM7sK2gnEh/2BYKAQvYTt+m0R+MZRUVzydoPxJRsByLa8nFgd/RucvY7Z+f2ax9b9Klh01+Q79SwJz+QuP+fpyA1PyCWyvd2ye3lFqQj8rw9caKfjNNka+0GAA6yzp8cGF4Q4dnGhDA3gbt0pUtZY/uZmEJ2lhcJQri6DLQWCF4M87GqVNzQuE7WEGDQcPDOniO7dTX4k8g4T1CufcE85WioyIXALuZBerliduE34YchcREZKtjxsU9xRT2CrXdvhWe/VenxDkPJbKuZLpqkXeUPhs7sC29DG5tW+CoDyT38sw7Cw2vfEtqOdbBs5w0u/S9EXyk2EOUQ1eeHYJGiVqepF8A1iDKDqiOxWg=;BQCnnRoGMXl6KkzETao9GA=="
