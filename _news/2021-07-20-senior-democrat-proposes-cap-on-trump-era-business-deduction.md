@@ -221,6 +221,20 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "Texas voters decide between two Republicans — one Trump-endorsed — in House special election"
+    excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
+    publishedDateTime: 2021-07-27T11:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "AP FACT CHECK: Biden inflates jobs impact from his policies"
     excerpt: "President Joe Biden is inflating the impact of his economic policies on jobs created in his first half-year in office"
     publishedDateTime: 2021-07-22T01:19:00Z
@@ -234,6 +248,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MV7L4LXKREI6XIV2HPRR2NESLA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "The Daily 202: Here's what could happen to the Trump Organization now"
+    excerpt: "Welcome to The Daily 202. I'm David Fahrenthold and I'm in for Olivier Knox, who will be back tomorrow. On this day, in 1974, the House Judiciary Committee approved the first of three articles of impeachment against President Richard Nixon."
+    publishedDateTime: 2021-07-27T15:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/27/daily-202-here-what-could-happen-trump-organization-now/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUNQVBXBCAI6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
   - title: "Trump inaugural committee chair appears in court"
     excerpt: "The chair of former President Donald Trump's 2017 inaugural committee has pleaded not guilty to criminal charges in a New York courtroom days after he was freed on $250 million bail. (July 26)"

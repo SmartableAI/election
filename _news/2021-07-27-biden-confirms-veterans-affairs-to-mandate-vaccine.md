@@ -77,6 +77,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’"
+    excerpt: "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks"
+    publishedDateTime: 2021-07-27T13:00:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/699629989a3abb0f158a0982c38aa36cdc03c78b/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0b46b53cdbfcb6db94a57599466617b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden in Trump-Supporting Ohio to Tout Vaccines, Infrastructure Spending"
     excerpt: "The fate of a $1.2 trillion bipartisan infrastructure deal, one of the president's top priorities, is also uncertain in Congress where Democrats hold slim majorities. The Cincinnati event gives Biden,"
     publishedDateTime: 2021-07-22T00:02:00Z

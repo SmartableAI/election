@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tracy-stone-manning-confirmation-st
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp"
 type: article
 quality: 172
-heat: 292
+heat: 312
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 161
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/013d7f19-7631-4dd8-8fa0-e0d3c3bde0c8/b9447782-73e3-4b7e-9c53-f0a0669f503e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
+    excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
+    publishedDateTime: 2021-07-27T17:23:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
+    ampWebUrl: "https://www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53f033bb-8692-4708-9f6c-d8982d1428e3/29053f5d-da13-42bc-867f-a6996ea7f4e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

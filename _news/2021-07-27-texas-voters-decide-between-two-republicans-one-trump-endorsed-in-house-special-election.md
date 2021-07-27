@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Watch live: Trump attends rally in Phoenix"
-excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
-publishedDateTime: 2021-07-24T21:01:00Z
-originalUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
-webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
-ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+title: "Texas voters decide between two Republicans — one Trump-endorsed — in House special election"
+excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
+publishedDateTime: 2021-07-27T11:04:00Z
+originalUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
+webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
 type: article
-quality: 125
+quality: 109
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -143,6 +141,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Watch live: Trump attends rally in Phoenix"
+    excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
+    publishedDateTime: 2021-07-24T21:01:00Z
+    webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
+    ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
     excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
     publishedDateTime: 2021-07-20T19:17:00Z
@@ -206,20 +220,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/O2x20Ct3l2CEiOK9Po_o0rOWwtM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSL6K3AQQTTDR4IZIYSGHTOPNY.aspx"
         width: 1200
         height: 704
-        isCached: true
-  - title: "Texas voters decide between two Republicans — one Trump-endorsed — in House special election"
-    excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
-    publishedDateTime: 2021-07-27T11:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Senior Democrat Proposes Cap on Trump-Era Business Deduction"
     excerpt: "Senate Finance Committee Chairman Ron Wyden has drafted legislation that would overhaul a major part of the 2017 tax overhaul that Republicans billed as a boon to small businesses, and Democrats have criticized as benefiting wealthy business owners."
@@ -349,6 +349,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "sLpDEjyGr8dlG6Pu7PpTsZnHsrU/I6t8BBbNHk8g2qm70Ji5bJAO15hmm8MMK14oVmj6+zSHqCdMcyM9LMBdVjcuWsdCzr4UJIpKLGmsrOAv2W8EeCbXT+TnZ6LDyRBOMkK+m3opCm4rFyd2ZwqdKdSlUkp4Y6l8JXJnOBSVBchEbRFiSxbzEiPjIp+FbCsVFQNvVBwZWEM/pmtcXK1iROHgyBxmA5rGqpiD7xNLQb1DWXLHlCt6GjlIT+ecGmrRqpBmyL0BugzRhqQbFYz9uyL9uz7rkWseEz3vF2kVPgYFvBRsyO+hen4cSjqOpeC7mk6O1I+9khKOdFAwWpaM6+3VgINnOw5B3we1Vfzkf8a8OnQF90J/kB8F82F39MOFv1Lbm4WHqlwRTCG//dsccTsU5V86gCEsMCuRVktgdrYWkSpgfSx1nBJ6kC+JDiIjl7SiLCjGI2t5FDRazL6+6Gq0wFG04e5cnjlrl7lSrSnoKQGCvj9idtbkC6X2gGxGbJORHh50W3i5Q2AlHjjF0A==;UKbl4PAi+eZzKpDb9fqY9g=="
+secured: "6zyqT1Vt44fHI5xmHRLaJrXt9ag34jdEym6fWcbKE5HT344tZSULXoMnEUoqJ7v58457jPQAf8DBGebxxBtwEL4y1dc4d50DVO54z2wmKaNKHYSTwYZIHXGIWTnKPaRJphfcIxGSkt0BjpHkeeoonDnHSCeOJy1vC7475TbiFn1rjKc1rwZyspmkXy3BZqYL3/nccroI3iyNhs8oijmVEqage8LJJ9y6AQFqd4WX3ck3Zo4Qiu404BVGd3AeEbx4ufJ2PKffBJBk/eBuAwd9j5noHAHeXPJx1N3v+/+Jyu/5oL1UMN/Ws7Ce54adNJyiLPh8M5XRIN37/R6ez2Og9jhb9+lTtaZFLfGq5fI1wM8=;EXi/I2ZNpSOwxy+BDXTHJA=="
 ---
 

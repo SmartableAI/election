@@ -1,36 +1,41 @@
 ---
 category: news
-title: "Trump supporter ignoring judge's order to remove anti-Biden signs from yard"
-excerpt: "A supporter of former President Donald Trump is refusing to take down signs at her mother’s home critical of President Biden despite a judge’s order to do so."
-publishedDateTime: 2021-07-22T01:54:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GgGXx45wEFM/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GgGXx45wEFM/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard"
-ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
+title: "Biden's Toothless Response to China's War on U.S."
+excerpt: "These acts of war destabilize our nation, weaken our economy, and kill our citizens. Instead of countering these attacks and holding China accountable, President Joe Biden whispers diplomacy and blames past administrations."
+publishedDateTime: 2021-07-26T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/07/26/bidens_toothless_response_to_chinas_war_on_us_547971.html"
+webUrl: "https://www.realclearpolitics.com/2021/07/26/bidens_toothless_response_to_chinas_war_on_us_547971.html"
 type: article
-quality: 188
-heat: 748
-published: true
+quality: 45
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
-images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4dc33272-52f5-43de-bbfb-7c9d4e6f4b8a/793ff61b-cf71-4f20-8755-b56fd1afeb9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
-    isCached: true
-
 related:
+  - title: "Trump supporter ignoring judge's order to remove anti-Biden signs from yard"
+    excerpt: "A supporter of former President Donald Trump is refusing to take down signs at her mother’s home critical of President Biden despite a judge’s order to do so."
+    publishedDateTime: 2021-07-22T01:54:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GgGXx45wEFM/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4dc33272-52f5-43de-bbfb-7c9d4e6f4b8a/793ff61b-cf71-4f20-8755-b56fd1afeb9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Levin slams Biden admin's relationship with Facebook, calls Trump's Big Tech lawsuit 'slam dunk'"
     excerpt: "Conservative commentator and author Mark Levin slammed the Biden administration for its relationship with Silicon Valley in its bid to halt the spread of misinformation concerning vaccines."
     publishedDateTime: 2021-07-17T15:31:45Z
@@ -453,16 +458,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden's Toothless Response to China's War on U.S."
-    excerpt: "These acts of war destabilize our nation, weaken our economy, and kill our citizens. Instead of countering these attacks and holding China accountable, President Joe Biden whispers diplomacy and blames past administrations."
-    publishedDateTime: 2021-07-26T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/26/bidens_toothless_response_to_chinas_war_on_us_547971.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "uJoWcpRznpu3KMYelOPzFO2OyY616O2ps4Ne8NXJ5Tp/ehOwDCuUAgykQXhQTsjGUbcy6n6UsaTWSSGIYYd7eIS8oYYxc4EEGv04jE/pqVGf6bugtxKdVUBxzwC362sdOzuUoWzr7u2NbZ71rSeVJgVNaQBoZLQ5lN9K6XLazf7cpEKVStfEszENCvKc0GdvlWC96eYPrnWNVoJKSiZtPzekcFUJe3NJjqgd0JYkUQd7D2FirBetAZagOoggKqLZDimOTBMaasOitXZro2pYcbiAruFBgbYcfaMwrq9gyo6Lneua5gH1MyozwAodvEGNsK5Z65RhSYz1YI8FRkSWhusPhzgAKIABnWju40VZaDc=;FbF5dVy2CmTn69QbifcCqg=="
+secured: "JuLMewr4IfpvuK7jJyD9zuDIUGVQz1vfmmpNodU1vG5g9eXFfyUetUz6agiyn4taOaehKZ/5F+yqscEq+maDKkhZmrIi7w0zcRXYjEZ0lg8jR2nq0GqoP2Q96Iqa+w2tP7PaSfbiMMoBEZ7X02S3sVGGaoaXYP/QP5CCnHJHHGZigPd13WbO8IwgfnRh4kRPBKNkDeBYs+W+B7jVwcn7Y2v5Hb2TKk8xxMNXi7SMWnCpxrcc/H1iUxVo1tERrnw0FLfO7VyNB6sZLn126f6GjLrBpBvH9AtfoMWjgQH64bR503DCoKP/Ue0GsF5YPtLUgqKMzMQcGvlDk8dDZ2gY4jZ9GES3Wuby2x1w0z1c7Fw=;hMexm1cPgPLm+hG2YOkRsw=="
 ---
 

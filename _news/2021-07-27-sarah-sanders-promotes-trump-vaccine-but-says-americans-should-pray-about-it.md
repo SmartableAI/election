@@ -1,37 +1,52 @@
 ---
 category: news
-title: "Sarah Huckabee Sanders Says Biden 'Undercut Public Confidence' in Vaccine by Criticizing Trump Rollout"
-excerpt: "\"Because of what they heard from politicians and TV 'experts,' many Americans were scared the vaccines were not safe,\" she said in an op-ed."
-publishedDateTime: 2021-07-25T20:47:00Z
-originalUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909"
-webUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909"
-ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
+title: "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’"
+excerpt: "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks"
+publishedDateTime: 2021-07-27T13:00:00Z
+originalUrl: "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+webUrl: "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+ampWebUrl: "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
 type: article
-quality: 134
-heat: 234
-published: true
+quality: 120
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1854592/sarah-huckabee-sanders-writes-op-ed.jpg"
-    width: 1024
-    height: 682
+  - url: "https://i.guim.co.uk/img/media/699629989a3abb0f158a0982c38aa36cdc03c78b/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0b46b53cdbfcb6db94a57599466617b"
+    width: 600
+    height: 360
     isCached: true
 
 related:
+  - title: "Sarah Huckabee Sanders Says Biden 'Undercut Public Confidence' in Vaccine by Criticizing Trump Rollout"
+    excerpt: "\"Because of what they heard from politicians and TV 'experts,' many Americans were scared the vaccines were not safe,\" she said in an op-ed."
+    publishedDateTime: 2021-07-25T20:47:00Z
+    webUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909"
+    ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
+    images:
+      - url: "https://d.newsweek.com/en/full/1854592/sarah-huckabee-sanders-writes-op-ed.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden says he's self-conscious as president"
     excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
     publishedDateTime: 2021-07-22T13:48:00Z
@@ -64,22 +79,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’"
-    excerpt: "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks"
-    publishedDateTime: 2021-07-27T13:00:00Z
-    webUrl: "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/699629989a3abb0f158a0982c38aa36cdc03c78b/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0b46b53cdbfcb6db94a57599466617b"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden confirms: Veterans Affairs to mandate vaccine"
     excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"
     publishedDateTime: 2021-07-26T21:53:00Z
@@ -104,6 +103,6 @@ related:
       domain: usnews.com
     quality: 49
 
-secured: "S4yqTro4ZFg4+8YeP/PM+X8NvFA0CRUGhxTKdYOtnhNObvj06MFRaPM4dcckRs7SlYhZpnnhCsw10i6Lb73tpfOxLQKoI+6sdEloWu4P1TCbYUV59ulgMOlw5HlgtmHjd6YDFDnyBIj6aozG+vyepsMeoRkZ37w4WFxk6fxw+BFZFdzKdK24yWS/aoEAKey8AidpbC8WgyVvrK+fZLGNrCZSGB2N6jGvHzyaoksQf/mzzeRx9bf+sGhE7FJMa1q1XU/G0SrUM7rQAypWkCFjFTjK8ONi8BBfb67pj7uUWd109sT0XxNyQnJlCJ8k3WrA1zKy2N5ZEnwhwJ0mVimf5cYPwRUortp7k310T360F/Zzi0Z8GH3qc5uuxPZzHv/Qc2vP9OXknSekOD96Vf1TEcKx688luvGEaaM7mMfTQjWxbnePFt9kBrVtCQWF3II+La0gNb7/FwmE7qYiI5mq0PtSHcf80ee3ug41mIAghMevTQb8TGv3bIQD2CoKl+xzkjZRyhedMJriGlEno2S9yA==;J1lh0u7dTvbQhXHrtW0J4A=="
+secured: "2+86RA5yldU1L0kCUebjEBVXD6AIE7CsYunctp/sqXrgJy84Yqx4OOaVmFsZ6hxV3Gr1fibKzUtkFKu+tTvVG7q5AbpHz8dGfplh+X3VEP8Ig6DXTNw2Kiz2UpxXNrqbthUayjLCuiiuvp7BsZZh/C1N0o68gknFJOkLc+Ycj2wmuOUs08uhx2y3fqbf6jqvBEYeuox7dcT0Ht3X4iQ9pGfXAm5dVOpViqAoz0cj+buJmRJMijtdJS0aCA6myNDmr3U+Yv5fZ9OFiAELj5hHvi8Gn/s/rWDy3RAzR9aIszsMQCz71+g0wJEqFK60l/IQxi3VZpXN7oqxLjKYOr1Q0Xy4+amPPMp7WhMThibqqFc=;EX1FDPqPGSiM9X8q1x/LUA=="
 ---
 

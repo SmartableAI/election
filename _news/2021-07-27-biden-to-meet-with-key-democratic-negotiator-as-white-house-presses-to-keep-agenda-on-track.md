@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden signs crime victims fund replenishment bill"
-excerpt: "President Joe Biden celebrated what he called \"a day of hope\" Thursday before signing the VOCA Fix to Sustain the Crime Victims Fund Act of 2021, a bipartisan bill that aims to provide assistance for crime victims, including counseling expenses, medical bills and lost wages.\n    \n"
-publishedDateTime: 2021-07-22T20:48:58Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lJ3qCfu2CsA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lJ3qCfu2CsA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
+title: "Biden to meet with key Democratic negotiator as White House presses to keep agenda on track"
+excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
+publishedDateTime: 2021-07-27T16:34:50Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
 type: article
-quality: 175
+quality: 165
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722162107-01-biden-signs-hr-1652-0722-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711210014-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden signs crime victims fund replenishment bill"
+    excerpt: "President Joe Biden celebrated what he called \"a day of hope\" Thursday before signing the VOCA Fix to Sustain the Crime Victims Fund Act of 2021, a bipartisan bill that aims to provide assistance for crime victims, including counseling expenses, medical bills and lost wages.\n    \n"
+    publishedDateTime: 2021-07-22T20:48:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lJ3qCfu2CsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/crime-victims-fund-bill-signed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722162107-01-biden-signs-hr-1652-0722-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -223,22 +239,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to meet with key Democratic negotiator as White House presses to keep agenda on track"
-    excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
-    publishedDateTime: 2021-07-27T16:34:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Merkel and Biden to chart a course for the future of US-German relations in White House meeting"
     excerpt: "President Joe Biden and German Chancellor Angela Merkel are set to meet in Washington on Thursday in what is likely the European leader's final appearance at the White House before she steps down from her long-held position this fall.\n    \n"
     publishedDateTime: 2021-07-15T11:43:39Z
@@ -382,6 +382,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "3psjB/hhgOjwrz/bsEWPfXKOgt9z6UmWv1gIf6PCu7ZjgoVy9pSdUSrXqb2rCKSY+XE+GrJNTJTBmH3I11PqRPcd4yIyi6AdKCSfZArT3pcbkKwYxx1NSvKrp4+6LIslmbFVbj0Xsg5/jwi2yaFOjpSBMShzeX3w/EPm15YO5uKjYzKsuH6m/gkeFu5ZntffQlWUHAv7i3ZrELXN4v/A5goE6rWvrE+2kkKWbxnj3K2KdUkhxX4GlysJ9SG21qjmp9XsmAx7cKmkRuSIyY2rtN4reuYPiAoP+4asvhbT+vgtExwf3/5OHE4Bz/Pr4VrEkLQD6W8JyHcI9dPVJziykFkOgkJNpToimjlS7iTYQkQ=;UXwAZJCwtur4FoVeG9TMeQ=="
+secured: "7/3uQQRU4R/XLiTqOP62PkRsPQp41+pbxHs/DNDnYlZJoo/CisNI9fXvTdYkCow6+HXJS5n1vzEe6IfZ94pzpsiTvTgMMVbwP+qa+Ejh1KuXAAVVU1Cn5i203ly18B2NRxXjvdG126/X9V9xnBYJ/B3udg+zYLZF+LJWHoSCQehKB5y3u0qFOvUqvL8KZ38SVMP9A9whEwPBsbx6AHdmFNFi7UQ/z2upG5mCjG4aXU/qeoGclSmpGdutfWkLrsy8POT226x/QFN98A0c82IqdHbmUoKrml4mc8CMdCBRNaTFm9czQvT/j67Vhk7xnJ/qCH3DUsH9XYBZFPrvmQc8G4pFvupOvmc+tp5ItvcRNHo=;4A4NB7VBCmVig5Ln7qYLAA=="
 ---
 

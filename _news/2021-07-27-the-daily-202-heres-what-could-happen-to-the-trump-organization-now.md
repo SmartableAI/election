@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Watch live: Trump attends rally in Phoenix"
-excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
-publishedDateTime: 2021-07-24T21:01:00Z
-originalUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
-webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
-ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+title: "The Daily 202: Here's what could happen to the Trump Organization now"
+excerpt: "Welcome to The Daily 202. I'm David Fahrenthold and I'm in for Olivier Knox, who will be back tomorrow. On this day, in 1974, the House Judiciary Committee approved the first of three articles of impeachment against President Richard Nixon."
+publishedDateTime: 2021-07-27T15:01:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/07/27/daily-202-here-what-could-happen-trump-organization-now/"
+webUrl: "https://www.washingtonpost.com/politics/2021/07/27/daily-202-here-what-could-happen-trump-organization-now/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUNQVBXBCAI6XIT7RMUUSMHJLM.jpg&w=1440"
+    width: 1440
+    height: 959
     isCached: true
 
 related:
@@ -143,6 +141,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Watch live: Trump attends rally in Phoenix"
+    excerpt: "Former President Trump is scheduled to attend a rally in Phoenix on Saturday afternoon.The event, a \"Rally to Save Our Elections,\" is hosted by the conservative group Turning Point Action. It is the first rally appearance for Trump in Arizona since he left the White House."
+    publishedDateTime: 2021-07-24T21:01:00Z
+    webUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix"
+    ampWebUrl: "https://thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/564669-watch-live-trump-holds-rally-in-phoenix?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
     excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
     publishedDateTime: 2021-07-20T19:17:00Z
@@ -249,20 +263,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "The Daily 202: Here's what could happen to the Trump Organization now"
-    excerpt: "Welcome to The Daily 202. I'm David Fahrenthold and I'm in for Olivier Knox, who will be back tomorrow. On this day, in 1974, the House Judiciary Committee approved the first of three articles of impeachment against President Richard Nixon."
-    publishedDateTime: 2021-07-27T15:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/27/daily-202-here-what-could-happen-trump-organization-now/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUNQVBXBCAI6XIT7RMUUSMHJLM.jpg&w=1440"
-        width: 1440
-        height: 959
-        isCached: true
   - title: "Trump inaugural committee chair appears in court"
     excerpt: "The chair of former President Donald Trump's 2017 inaugural committee has pleaded not guilty to criminal charges in a New York courtroom days after he was freed on $250 million bail. (July 26)"
     publishedDateTime: 2021-07-26T19:05:00Z
@@ -349,6 +349,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "sLpDEjyGr8dlG6Pu7PpTsZnHsrU/I6t8BBbNHk8g2qm70Ji5bJAO15hmm8MMK14oVmj6+zSHqCdMcyM9LMBdVjcuWsdCzr4UJIpKLGmsrOAv2W8EeCbXT+TnZ6LDyRBOMkK+m3opCm4rFyd2ZwqdKdSlUkp4Y6l8JXJnOBSVBchEbRFiSxbzEiPjIp+FbCsVFQNvVBwZWEM/pmtcXK1iROHgyBxmA5rGqpiD7xNLQb1DWXLHlCt6GjlIT+ecGmrRqpBmyL0BugzRhqQbFYz9uyL9uz7rkWseEz3vF2kVPgYFvBRsyO+hen4cSjqOpeC7mk6O1I+9khKOdFAwWpaM6+3VgINnOw5B3we1Vfzkf8a8OnQF90J/kB8F82F39MOFv1Lbm4WHqlwRTCG//dsccTsU5V86gCEsMCuRVktgdrYWkSpgfSx1nBJ6kC+JDiIjl7SiLCjGI2t5FDRazL6+6Gq0wFG04e5cnjlrl7lSrSnoKQGCvj9idtbkC6X2gGxGbJORHh50W3i5Q2AlHjjF0A==;UKbl4PAi+eZzKpDb9fqY9g=="
+secured: "DFuAN/y5SyBYBhy0lcx0Qxrc8fYUEPArY9w4eN7OYr6FvPOTAUtJXwLFRMW6RBjeSlutTJxaY0wD0iuJ9+A1f2vctwRO0rmFvWw90tNQYRZRrfo9EhZUW74Hhaob7c9InG6TzHa97ZmgrvFtxirx986UNEIkeqZRmyGN/54SZOBw6LjrArofyrvhK8brjmk+fqKv4uEF5UPnsEvlQFump6L8qcr7uxaMWDNEh4SezHncD2ZLgzSHeMq6qb9qlmJWg0c7U92HO2+euRD8Cg22pO7mRlTB1GgxnvhZs5NJPa722r7sp7RAZoKUZjReA2vovksCyfA5Zt950ED3iUyufGSlzK+H+6AMpqa7pbieVYE=;6a2fWuiTTw7NehvidaFzrA=="
 ---
 

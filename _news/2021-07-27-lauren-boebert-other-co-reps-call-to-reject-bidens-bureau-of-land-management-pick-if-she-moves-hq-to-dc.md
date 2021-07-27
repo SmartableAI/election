@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Cotton calls on Biden to 'publicly condemn critical race theory' after admin promotes radical group"
-excerpt: "Sen. Tom Cotton called on President Biden to publicly denounce critical race theory after administration blamed an \"error\" for promoting a handbook that calls on educators to \"disrupt Whiteness.\""
-publishedDateTime: 2021-07-21T18:20:01Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4fCPg9Rbi1o/sen-cotton-biden-publicly-condemn-critical-race-theory"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4fCPg9Rbi1o/sen-cotton-biden-publicly-condemn-critical-race-theory"
-ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-publicly-condemn-critical-race-theory.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-publicly-condemn-critical-race-theory.amp"
+title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
+excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
+publishedDateTime: 2021-07-27T17:23:14Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
+ampWebUrl: "https://www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
 type: article
-quality: 161
+quality: 158
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfdc2a75-9484-4588-bf7f-7537f00a6fc5/cbb41883-4195-4dc4-9da9-aaeb82531782/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53f033bb-8692-4708-9f6c-d8982d1428e3/29053f5d-da13-42bc-867f-a6996ea7f4e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Cotton calls on Biden to 'publicly condemn critical race theory' after admin promotes radical group"
+    excerpt: "Sen. Tom Cotton called on President Biden to publicly denounce critical race theory after administration blamed an \"error\" for promoting a handbook that calls on educators to \"disrupt Whiteness.\""
+    publishedDateTime: 2021-07-21T18:20:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4fCPg9Rbi1o/sen-cotton-biden-publicly-condemn-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-publicly-condemn-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-publicly-condemn-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfdc2a75-9484-4588-bf7f-7537f00a6fc5/cbb41883-4195-4dc4-9da9-aaeb82531782/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden claims GOP is 'lying' about Democrats wanting to defund police, says he's never supported it"
     excerpt: "President Biden said during a town hall event on Wednesday that Republicans are ‘lying’ when they say Democrats want to defund the police."
     publishedDateTime: 2021-07-22T01:37:16Z
@@ -92,22 +108,6 @@ related:
     quality: 161
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/013d7f19-7631-4dd8-8fa0-e0d3c3bde0c8/b9447782-73e3-4b7e-9c53-f0a0669f503e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
-    excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
-    publishedDateTime: 2021-07-27T17:23:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
-    ampWebUrl: "https://www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53f033bb-8692-4708-9f6c-d8982d1428e3/29053f5d-da13-42bc-867f-a6996ea7f4e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -140,6 +140,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Sub7j2ZKhB/KE4eh3zxLJyFius3sr7tmkk4S2xJDVrrdYwiiH+1aBNoe8Pia8ERmHFBvkHEaqqxnLNBn5OJ/Ji5ZVkTFwLA/ErinINbyutNtsTPKY2+oird/HZeed+65XXBNx3K5AlENAV7XltoYQVg+30/feoqpWPJOArej8A6foTMSNqVwRfUl2fy104Nrr1mrSB8ty/bR2LdNYdGH4ykwru8k1aj3KV4ZYogEGazvBZ9nSTEIkekAxjpN4td9pYBq6mdIBWJgpsMSPuLI/aOG4Y05OKeSAkBSGUEBxHHyhzKacE3M7zQINBWJy25pfWJvkxKpdHhxFy6bsNTRtZW4OuIuqUxrbh+gSj8v7UU=;6Rp1+z9Ei0m5eO6jnG9Hbw=="
+secured: "STE/av2eUu325XqLtk7zVqr5jI55/wrjZ+hrry4X+4HBmWb8gv4NIbCjoiaLzKfbYsFlUZJTniE/4GPgO+Vd4qqd6lLX0dg1Ha+LeORUhPN0me7WMIQbUwbprYcgFiFucLCYIJRGvkmUtMvZfVpRQgEUc/dc12ARAgOq3S487fbMTOw+gtMEXmN46UoVucxbhQpKv77sw7pT1YQ41chg2lug2Nrc0GcgWOqDCx7UGiA9tqCiUqakqMKZgSQpJDDoTuXM2s9jhjbrjQ+C6YgRsNDIIuex06tRFwhr+n4MIj6VJkdIxU1v8f5FHU1d+2xgUC+WH+3EuM3Q7o79Bw5n4ETt4HX9K5yCItWfZ3osUUk=;M0w6ELuBDh9a2nML/lAx/Q=="
 ---
 
