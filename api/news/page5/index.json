@@ -2,6 +2,273 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-21-biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.md",
+      "title": "Biden marks 6 months in office on Instagram, gets shredded in comments",
+      "excerpt": "Within Biden's first six months, consumer prices rose 5.4% in June from the previous year, and gas prices are now averaging 98 cents higher than this time last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff65d410-0f23-4584-912e-960c5257a31c/99d3cbaa-c96e-4963-80ee-de2517a9d308/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "publishedDateTime": "2021-07-21T07:08:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-tom-brady-joe-biden-play-political-football-at-white-house-super-bowl-celebration.md",
+      "title": "Tom Brady, Joe Biden play political football at White House Super Bowl celebration",
+      "excerpt": "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/",
+      "originalUrl": "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/",
+      "publishedDateTime": "2021-07-21T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-former-trump-adviser-tom-barrack-pleading-not-guilty-to-acting-as-uae-agent-attorney.md",
+      "title": "Former Trump adviser Tom Barrack pleading 'not guilty' to acting as UAE agent: attorney",
+      "excerpt": "Barrack, who served as Trump’s 2017 inaugural committee chair, was arrested and charged on Tuesday with being an agent of the United Arab Emirates between April 2016 and April 2018.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSjFd7H-Q_A/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSjFd7H-Q_A/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/340/340/marta.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent.amp",
+      "publishedDateTime": "2021-07-20T16:08:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-donald-trumps-favorite-athlete-just-mocked-the-big-lie-to-the-man-who-beat-him.md",
+      "title": "Donald Trump's favorite athlete just mocked the 'Big Lie' to the man who beat him",
+      "excerpt": "Tuesday was not a good day for Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210720124442-brady-buccaneers-white-hous-0720-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
+      "publishedDateTime": "2021-07-20T15:32:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-larry-elder-says-california-law-disqualifying-him-from-recall-ballot-was-designed-to-get-trumps-tax-returns.md",
+      "title": "Larry Elder says California law disqualifying him from recall ballot was designed to get Trump's tax returns",
+      "excerpt": "Conservative talk radio host Larry Elder says the California law used to disqualify him from being on the ballot for the recall election against Gov. Gavin Newsom was originally passed by state lawmakers to force President Donald Trump to turn over his tax returns if he wanted to qualify for the 2020",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hhUffR9mR8w/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hhUffR9mR8w/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9294d03c-d956-497a-9843-9db364346e9c/2fc26e77-ec70-4ee5-a589-f538e0a60416/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
+      "publishedDateTime": "2021-07-20T15:16:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-trump-liz-cheney-opponents-to-meet-with-him-pre-endorsement.md",
       "title": "Trump: Liz Cheney opponents to meet with him pre-endorsement",
       "excerpt": "Donald Trump says he will meet next week with Republicans running against Rep. Liz Cheney and endorse one in the next few months",
@@ -54,118 +321,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-20-george-p-bush-warns-border-crisis-is-not-sustainable-as-he-sues-biden-over-wall-hits-dems-for-fleeing.md",
-      "title": "George P. Bush warns border crisis is 'not sustainable' as he sues Biden over wall, hits Dems for fleeing",
-      "excerpt": "Texas Land Commissioner George P. Bush on Tuesday warned that the border crisis is \"not sustainable\" as he explained how his office came to sue the Biden administration over its ending of wall construction, while also tearing into Texas Democrats for fleeing the state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PAMR0dX7NQo/george-p-bush-border-crisis-not-sustainable-sues-biden-wall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PAMR0dX7NQo/george-p-bush-border-crisis-not-sustainable-sues-biden-wall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b6c4848-495d-4483-990a-c911a7ba2df5/5f4e50f7-43e0-43d0-9d4c-aaacca14b9c9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp",
-      "publishedDateTime": "2021-07-20T14:10:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-california-gop-lawmakers-call-on-biden-admin-to-address-aviation-fuel-shortage-to-prevent-wildfire-disaster.md",
-      "title": "California GOP lawmakers call on Biden admin to address aviation fuel shortage to prevent wildfire disaster",
-      "excerpt": "Letter to Interior Secretary Deb Haaland and Agriculture Secretary Tom Vilsack calls on them to address a “potential fuel shortage” for airplanes tasked with fighting fires.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CbwKjwNIoq0/california-lawmakers-biden-fuel-shortage-wildfire",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CbwKjwNIoq0/california-lawmakers-biden-fuel-shortage-wildfire",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7036c65d-5b29-40c2-a67b-439d0399fb6e/4ab15bfe-320e-47e0-9ff2-b52ad15f1220/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp",
-      "publishedDateTime": "2021-07-20T13:53:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-21-quarterback-tweak-tom-brady-makes-trump-election-joke-at-white-house-ceremony.md",
       "title": "Quarterback tweak: Tom Brady makes Trump election joke at White House ceremony",
       "excerpt": "\"I think about 40 percent of people still don't think we won,\" Brady said of his Super Bowl champion Tampa Bay Buccaneers.",
@@ -178,7 +333,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 186,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -641,62 +796,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-20-biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.md",
-      "title": "Biden may send more staff to US embassy in Havana to support Cuban people: senior administration official",
-      "excerpt": "President Biden is considering augmenting staffing levels at the U.S. embassy in Havana and forming a group to get remittances to the Cuban people, a senior administration official told FOX News on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AVY-pJG_OQ/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AVY-pJG_OQ/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72227c6-212e-47d8-95b9-493300340291/c8f747e6-d22e-465c-bf6e-3af40feab3a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp",
-      "publishedDateTime": "2021-07-19T17:14:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-19-trump-ally-jim-jordan-among-republicans-tapped-for-jan-6-select-committee.md",
       "title": "Trump ally Jim Jordan among Republicans tapped for Jan. 6 select committee",
       "excerpt": "Rep. Jim Jordan, R-Ohio, a prominent ally of former President Donald Trump, is one of a handful of GOP lawmakers set to be appointed to House Speaker Nancy Pelosi’s select committee to investigate the Jan. 6 Capitol riot.",
@@ -765,7 +864,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -969,25 +1068,25 @@
       ]
     },
     {
-      "path": "_news/2021-07-18-biden-poses-with-ice-cream-cone-on-national-ice-cream-day.md",
-      "title": "Biden poses with ice cream cone on 'national ice cream day'",
-      "excerpt": "President Biden on Sunday celebrated national ice cream day by posting an image of himself grabbing a large cone and posing for a selfie.",
+      "path": "_news/2021-07-18-harris-visits-walter-reed-for-routine-doctor-appointment-days-after-meeting-with-infected-texas-democrats.md",
+      "title": "Harris visits Walter Reed for 'routine' doctor appointment days after meeting with infected Texas Democrats",
+      "excerpt": "Vice President Kamala Harris is going for what a White House official told Fox News is a \"routine doctor's appointment\" at Walter Reed Medical Center on Sunday.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_TywG2JZuA/biden-ice-cream-on-natonal-ice-cream-day",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 327,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/046cd26b-e2c1-4a37-8872-6fc6c299da6a/b770c5c1-c8ed-4bdd-aa68-d4eabaefbd2c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -995,9 +1094,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ice-cream-on-natonal-ice-cream-day.amp",
-      "publishedDateTime": "2021-07-18T15:50:20-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp",
+      "publishedDateTime": "2021-07-18T11:27:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1021,7 +1120,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -1212,97 +1312,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-donald-trump-kim-jong-un-to-meet-to-discuss-denuclearization.md",
-      "title": "Donald Trump, Kim Jong-un to meet to discuss denuclearization",
-      "excerpt": "North Korea has informed the U.S. in talks that it is willing to discuss denuclearization at an upcoming summit, a senior administration official confirmed Sunday. \"The United States and North Korea have been holding talks in preparation for a summit,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/donald-trump-kim-jong-un-a287357b8abcc4e12452652424451138",
-      "originalUrl": "https://apnews.com/article/donald-trump-kim-jong-un-a287357b8abcc4e12452652424451138",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-17T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings.md",
-      "title": "Bill Burr savages CNN as ‘un-American pieces of s–t’ who want Trump for ratings",
-      "excerpt": "Bill Burr savaged CNN anchors this week as moronic, America-hating blowhards who secretly covet a second Trump presidency because he’s good for ratings.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/17/bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings/",
-      "originalUrl": "https://nypost.com/2021/07/17/bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/bill-burr-donald-trump-main-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/17/bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/17/bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings/amp/",
-      "publishedDateTime": "2021-07-17T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

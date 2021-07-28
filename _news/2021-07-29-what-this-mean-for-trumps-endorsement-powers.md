@@ -307,6 +307,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fact Check-Alec Baldwin’s T-shirt altered to include anti-Trump message"
+    excerpt: "A photo of actor Alec Baldwin has been edited to include a message against former U.S. president Donald Trump."
+    publishedDateTime: 2021-07-28T16:16:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-alecbaldwin-altered/fact-check-alec-baldwins-t-shirt-altered-to-include-anti-trump-message-idUSL1N2P4231"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2P4231"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2P4231"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trouble is brewing for a Georgia county's investigation into Donald Trump"
     excerpt: "The Fulton County district attorney is committed to investigating Trump. But a criminal case backlog and a spike in Atlanta-area crimes is complicating matters."
     publishedDateTime: 2021-07-23T08:00:00Z

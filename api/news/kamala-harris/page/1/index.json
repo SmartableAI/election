@@ -102,6 +102,64 @@
       ]
     },
     {
+      "path": "_news/2021-07-27-politifact-declare-claims-biden-harris-distrusted-covid-vaccine-under-trump-are-false-despite-past-rhetoric.md",
+      "title": "PolitiFact declare claims Biden, Harris distrusted COVID vaccine under Trump are 'false' despite past rhetoric",
+      "excerpt": "PolitiFact appears to be shielding President Biden and Vice President Harris from criticism over their past rhetoric expressing distrust in the coronavirus vaccine during the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine",
+      "originalUrl": "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24b8824-1075-40f2-8530-1fae4fdb6a5f/afb16ed1-2995-4fa4-ac0e-42fcf4707036/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politifact-biden-harris-covid-vaccine.amp",
+      "publishedDateTime": "2021-07-26T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-kamala-harris-looks-to-turn-the-page-as-she-zeroes-in-on-voting-rights.md",
       "title": "Kamala Harris looks to turn the page as she zeroes-in on voting rights",
       "excerpt": "Vice President Kamala Harris is making voting rights her top public focus, elevating a long-shot battle as she seeks to more clearly define her role and stake out high-value territory within the Biden administration.\n    \n",
@@ -159,63 +217,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-22-harris-tells-daca-recipients-that-administration-will-take-action-after-program-is-ruled-unlawful.md",
-      "title": "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful",
-      "excerpt": "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW_aom0BKrs/harris-daca-recipients-administration-action-program-ruled-unlawful",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW_aom0BKrs/harris-daca-recipients-administration-action-program-ruled-unlawful",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp",
-      "publishedDateTime": "2021-07-22T14:15:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-07-20-texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting.md",
       "title": "Texas Dems’ may have infected Pelosi and Harris aides, dimming prospects for Biden meeting",
       "excerpt": "The Texas Democrats who fled Austin have spent the last eight nights at a hotel a half-mile from the White House, and they’re growing a",
@@ -255,6 +256,63 @@
       ],
       "topics": [
         "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-harris-visits-walter-reed-for-routine-doctor-appointment-days-after-meeting-with-infected-texas-democrats.md",
+      "title": "Harris visits Walter Reed for 'routine' doctor appointment days after meeting with infected Texas Democrats",
+      "excerpt": "Vice President Kamala Harris is going for what a White House official told Fox News is a \"routine doctor's appointment\" at Walter Reed Medical Center on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 327,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp",
+      "publishedDateTime": "2021-07-18T11:27:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
         "Kamala Harris"
       ]
     },
@@ -368,63 +426,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-harris-says-democrats-who-fled-texas-in-line-with-legacy-of-frederick-douglass-selma-marchers-suffragettes.md",
-      "title": "Harris says Democrats who fled Texas 'in line' with legacy of Frederick Douglass, Selma marchers, suffragettes",
-      "excerpt": "Vice President Kamala Harris said Democratic lawmakers who fled Texas in an effort to block the state’s new election legislation from passing are \"in line\" with the legacy of civil rights and voting rights leaders and activists, while praising them for their \"bold, courageous action.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GkzQJvXUM5Y/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GkzQJvXUM5Y/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes.amp",
-      "publishedDateTime": "2021-07-14T11:15:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-tammy-bruce-kamala-harris-clearly-doesnt-know-america-at-all.md",
       "title": "Tammy Bruce: Kamala Harris clearly doesn't know America at all",
       "excerpt": "Fox News contributor Tammy Bruce joined “Tucker Carlson Tonight” to react to Vice President Kamala Harris' comments on rural voters not being able to photocopy an ID.",
@@ -437,7 +438,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {

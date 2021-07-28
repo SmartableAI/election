@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Levin slams Biden admin's relationship with Facebook, calls Trump's Big Tech lawsuit 'slam dunk'"
+    excerpt: "Conservative commentator and author Mark Levin slammed the Biden administration for its relationship with Silicon Valley in its bid to halt the spread of misinformation concerning vaccines."
+    publishedDateTime: 2021-07-17T15:31:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ag7t6vogZ1A/levin-biden-administration-facebook-not-independent"
+    ampWebUrl: "https://www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden poses with ice cream cone on 'national ice cream day'"
     excerpt: "President Biden on Sunday celebrated national ice cream day by posting an image of himself grabbing a large cone and posing for a selfie."
     publishedDateTime: 2021-07-18T22:50:20Z
@@ -47,21 +63,53 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden administration ties $3B in community grants to 'equity' push"
-    excerpt: "The Biden administration announced $3 billion in community grants as part of the American Rescue Plan, saying anyone who applies for a grant must demonstrate that “equity” is part of the proposal."
-    publishedDateTime: 2021-07-22T19:19:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CP3SRVBhZu4/biden-administration-community-grants-tied-to-equity-push"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-community-grants-tied-to-equity-push.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-community-grants-tied-to-equity-push.amp"
+  - title: "Joe Biden accuses Facebook of 'killing people' with vaccine misinformation"
+    excerpt: "President Biden accused the social media platform of “killing people” by allowing what he deems as misinformation on coronavirus vaccines to be shared on the site."
+    publishedDateTime: 2021-07-16T21:37:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SyJEAaXRdqw/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-accuses-facebook-of-killing-people-with-vaccine-misinformation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'"
+    excerpt: "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\""
+    publishedDateTime: 2021-07-14T16:58:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVnYXaBPA5o/biden-catherine-lhamon-title-ix-rape-impunity"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8296388-755b-456e-894f-0499391e5eea/8503e4fd-ecf0-42a3-aabb-fea38e2cccf9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump-era DHS officials warn of ‘catastrophic’ results if Biden administration ends Title 42 border expulsions"
+    excerpt: "FIRST ON FOX: Former Homeland Security officials who served during the Trump administration are warning of dire consequences if the Biden administration ends a Trump-era public health rule that allows the rapid expulsion of migrants at the border due to the COVID-19 pandemic."
+    publishedDateTime: 2021-07-10T18:40:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qq0vx9Ga6Cw/trump-dhs-officials-biden-administration-title-42-migrant-expulsions"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d965c2e6-6826-4417-bbfc-0bb2df7f90f6/f4ce6119-177b-465c-9a87-706424e526fc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden nomination of Richard Trumka Jr. marks another appointment with union ties"
     excerpt: "The Biden administration built on its effort to cultivate close ties to prominent figures within the labor sector this week with President Biden’s decision to nominate Richard Trumka Jr. to a seat on the Consumer Product Safety Commission."
@@ -79,37 +127,181 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Washington Post highlights Hunter Biden's ethical scandals with full-page art work"
-    excerpt: "The Washington Post, on Monday, highlighted Hunter Biden's numerous ethical scandals with a full-page of artwork in their op-ed section."
-    publishedDateTime: 2021-07-20T02:12:00Z
-    webUrl: "https://www.foxnews.com/media/glenn-kessler-slammed-funny-display-hunter-bidens-scandals"
-    ampWebUrl: "https://www.foxnews.com/media/glenn-kessler-slammed-funny-display-hunter-bidens-scandals.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/glenn-kessler-slammed-funny-display-hunter-bidens-scandals.amp"
+  - title: "Blackburn slams Biden on Facebook censorship, suggests First Amendment violation"
+    excerpt: "Sen. Marsha Blackburn wrote a letter to President Biden slamming his administration’s collaboration with Facebook to rid the platform of vaccine \"misinformation\" and suggesting the work could violate the First Amendment."
+    publishedDateTime: 2021-07-19T11:00:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbh6CFY-mDg/blackburn-letter-biden-facebook-censorship-first-amendment-violation"
+    ampWebUrl: "https://www.foxnews.com/politics/blackburn-letter-biden-facebook-censorship-first-amendment-violation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-letter-biden-facebook-censorship-first-amendment-violation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 129
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/debc2e09-1d7b-4fc3-afaa-0e45fd20cb62/e9f5e03f-c9ba-45b4-b98a-fb8263cfc496/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Why Can't Biden Stop This Invasion?"
-    excerpt: "Article IV of the Constitution addresses the obligations of the federal government to the state governments that were being asked to surrender aspects of"
-    publishedDateTime: 2021-07-20T10:38:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.amp.html"
+  - title: "White House doubles down on its harsh criticism of Facebook following Biden's 'killing' remarks"
+    excerpt: "The White House isn't backing down from its harsh criticism of Facebook after President Biden on Friday accused the social media giant of \"killing people\" with misinformation about coronavirus vaccinations. "
+    publishedDateTime: 2021-07-17T21:42:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U0amfo7RRuM/white-house-criticism-facebook-biden-killing-remarks"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-criticism-facebook-biden-killing-remarks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
+    excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
+    publishedDateTime: 2021-07-12T16:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUTXxIkXtXc/arizona-ag-injunction-reverse-biden-border-wall-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP AG celebrates Biden admin's reversal on critical race theory handbook as 'big win for parents'"
+    excerpt: "The Biden administration claimed that it was an \"error\" when the Department of Education linked to a radical activist group’s handbook that pushes critical race theory in schools, distancing itself from the organization to the relief of South Carolina Attorney General Alan Wilson."
+    publishedDateTime: 2021-07-21T18:25:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3dw-csSXt9w/gop-ag-celebrates-biden-admins-reversal-on-critical-race-theory-handbook-as-big-win-for-parents"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-ag-celebrates-biden-admins-reversal-on-critical-race-theory-handbook-as-big-win-for-parents.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-ag-celebrates-biden-admins-reversal-on-critical-race-theory-handbook-as-big-win-for-parents.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
+    excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."
+    publishedDateTime: 2021-07-15T15:14:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rpo17l9LF-Y/texas-george-p-bush-biden-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Universal masking calls reach Biden admin as delta fear, push for virus restrictions reach fever pitch"
+    excerpt: "Momentum appears to be building behind calls to bring back universal mask-wearing – even for those who are vaccinated – including reported discussions in the White House and at the CDC."
+    publishedDateTime: 2021-07-23T10:17:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QMHgls8Wvc/universal-masking-white-house-pandemic-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/universal-masking-white-house-pandemic-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/universal-masking-white-house-pandemic-restrictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Tom Brady riffs veiled Trump jokes with Biden at Bucs' White House visit"
+    excerpt: "During the Tampa Bay Buccaneers’ visit to the White House, the reigning Super Bowl MVP made a veiled dig at President Donald Trump over his claims of election fraud."
+    publishedDateTime: 2021-07-20T18:49:00Z
+    webUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit"
+    ampWebUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21201580647481.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden blasts GOP election reforms during a visit Trump calls a ‘joke’ because he’s just scared of PA audit"
+    excerpt: "President Biden is traveling to Philadelphia to tout the “sacred” right to vote, but former President Donald Trump cheered an audit currently underway of Biden’s victory in the"
+    publishedDateTime: 2021-07-13T17:21:00Z
+    webUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/"
+    ampWebUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joe-biden-philly-trump-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Judge Jeanine slams the Biden administration: Who do you work for?"
+    excerpt: "Judge Jeanine Pirro slammed the Biden administration Saturday on “Justice with Judge Jeanine” for inviting the United Nations Human Rights Council, which includes countries like China, Russia, Cuba and Venezuela,"
+    publishedDateTime: 2021-07-18T02:40:00Z
+    webUrl: "https://www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for"
+    ampWebUrl: "https://www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-slams-the-biden-administration-who-do-you-work-for.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "'Sunday Morning Futures' on Trump's Big Tech lawsuit, US-China relations"
+    excerpt: "Welcome to \"Sunday Morning Futures.\" I'm Maria Bartiromo. Today, breaking news, with President Trump still fightin"
+    publishedDateTime: 2021-07-12T12:44:00Z
+    webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations"
+    ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da047fe0-ff00-4fee-a621-0555e366db4e/596e9fee-8a85-409c-8e26-3e7c8a995960/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Ted Cruz: Jen Psaki's Comments About Misinformation Strengthened Trump's Case Against Big Tech"
+    excerpt: "Texas Sen. Ted Cruz slams the Biden administration for working with tech companies to \"unconstitutionally\" censor COVID content during an interview with FNC's Maria Bartiromo on \"Sunday Morning Futures\": CRUZ: It was undoubtedly collusion."
+    publishedDateTime: 2021-07-18T18:25:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/18/ted_cruz_jen_psakis_comments_about_misinformation_strengthened_trumps_case_against_big_tech.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
+    quality: 73
     images:
-      - url: "https://assets.realclear.com/images/54/548514_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://assets.realclear.com/images/52/524239.jpg"
+        width: 904
+        height: 678
         isCached: true
 
 secured: "4SM+2/mt2mogi/gKl7LVhlRsczuLpKXVr8PA7vgB4ugmEtkp9oNJCSh1P4umcX4TBupoeonqrVzyMyve7r3ALC3f5pFugnhCgr1l1mexnd/ar23aEHrycakpMiF8OeTPrUVEfGm8FO8VZ0LA/ayQA9E7lVV6Ez2cHZHsn3W5F/FKH7oR4ZMJuUK+igl4k2t+G9gZdzoARvXunIWHQS80qzle/RxJd3XFMc9O5qJZ0rWfPyDFkCeUy03X0w1EWPJgrsLfjre5KrwPH7Xnoxr41D2NRYMEdUEpXTOW3y+JF8m3KGd1ZG3eZpb82MoMsF8pjhNKYhqMkE2sfFFnHZsZbZFEdIFhsHa/uj4GgDnbdZE=;bLzW99ogtc351JeXgCnsmA=="

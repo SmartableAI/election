@@ -3,18 +3,22 @@ category: news
 title: "Sen. Kyrsten Sinema meets with President Joe Biden on infrastructure plan, is optimistic deal will be reached"
 excerpt: "Sen. Kyrsten Sinema, who is co-leading negotiations on a bipartisan infrastructure plan, met with President Joe Biden Tuesday for a one-one-one meeting as lawmakers seek to overcome disagreements on the $1."
 publishedDateTime: 2021-07-27T21:20:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
-webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
-ampWebUrl: "https://amp.indystar.com/amp/5386080001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5386080001"
+originalUrl: "https://www.usatoday.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
+webUrl: "https://www.usatoday.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5386080001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5386080001"
 type: article
-quality: 56
+quality: 106
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -175,6 +179,6 @@ related:
         height: 400
         isCached: true
 
-secured: "cO1iXq46DPQWgi3M1K7ftZbVzKidlPtJgLwpJ0+mWgenzKPcrMj/uge/pZCY0ZVNUfRFdY2TuRLIlMAfhvTkA0h5NyJItmdjnsm8lOmgsJSkaBPqfM7cP/0JvGgTX3Ld5WK5bdJEEe0C98fKnhqJhjbgCccsILbdeNmPhc5wyiYlG80ennPmio5eX3h1egODWZaDjyXSOPXxPtnCA6zBak2bw2GeWntyqgTGQxN4ELuERDcvHRAylaPfK2kRi5f1woRHTJJMbI/p9nmVeH7mJdxjAG99suPmeeXxfbMhqURsUeACFB0uwsVeoH3JuRc2rDT3NynYKgxBkWlYx6IoLLFCmE3RyES2gFevG3/DPfc=;g8Q45TgXrpssoRXomwZTaw=="
+secured: "oOGdOz6/A4yk3jUheVYBA+jvXdho5p+s560Bmd/wqCX2j+Gdg7pdHziPsOT+sZzLR/1QhZxgLFbP+MVi7CgQ4bPdvNiOS5MVpcrisLqgfWIs64qQiw1nt0A1QwRb5NH7LhDZm35Qkw6GGtYouS/RwAw7GwHY1PC+MZi4Lxmm++GhbT7NM6ojQowa/FMOTubX+yEk4iWhiw0iW2poq5LU/aBSKzKxzBiLNYx7D28+wkyzgZBFx+YrhPOU05qEpYgLaeB1I3RqIy/JSKx3+zmRXZnrEj/K3vqakkIUtafu/wRxAY273CfodVzsFeBevHiMlcnkXEWEPwEN4jLG9dcU9wU66k0XZ8Ca52/OuB7HgqQ=;lW/Sc2GjBBuCHz9PBN2w0w=="
 ---
 

@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Boozman, fellow GOP senators hit Biden, Democrats for failing farmers in fiery floor speech"
-    excerpt: "Senate Agriculture Committee ranking member John Boozman, R-Ark., will be leading a handful of his colleagues on the floor Wednesday to hammer the Democrats an President Biden over the effects of their \"reckless\" spending and taxing plan on farmers and ranchers."
-    publishedDateTime: 2021-07-21T15:41:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KYTwpYrs-fg/boozman-gop-senators-biden-dems-farmers"
-    ampWebUrl: "https://www.foxnews.com/politics/boozman-gop-senators-biden-dems-farmers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boozman-gop-senators-biden-dems-farmers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae09b637-a748-41ec-bf67-792da2ad91b6/08956b62-6a0a-4125-aec0-64cf5c3ab7fe/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "owKzrsEXoE7ZclsGfIbebb/347hlmyxI5+c/4hqoxIbB5txT/zeLn2FilgenSl0Wozy22kvonaK1MUS0RYnJTDdnJomlijaRsI6xu7iZL8O3NhIVc/2QuwyoCHS+K1GYHEd3Knvv3OJUzGJbZmVakhsCywJHUyoMD9RWZCbdffqEQIc4OT5lZ4Mjj88/O8PXEuKJhcIioEFWVMN+F649Jm9nOJDq15x2RwAVezWM0X/Fko3yAf4dZHyEUkLqP5Bsg2Ql95dux9h7gObcJd/wBSKJq9grG5DmInEb2wbWj8C6IKutec3dcbOq+efmG8+hYQ31Q16QTJ9vSFXvT7gzRfofCkMRtxDFNDBtFKqPPE0=;rMJ9N7e8ysDBOuJZuvoUww=="
 ---

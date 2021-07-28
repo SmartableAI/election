@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/politics/texas-special-election/202
 webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
 type: article
 quality: 100
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright"
+    excerpt: "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T13:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "The Trailer: Trump, texts and Texas: Inside an all-Republican primary that didn't go as planned"
     excerpt: "Instead, Democrats spent little, turned out few voters, and set up an all-Republican race between Wright and Ellzey, who'd previously sought the seat in 2018. Instead of a red-on-blue suburban battle,"
     publishedDateTime: 2021-07-27T21:21:00Z

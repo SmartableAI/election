@@ -293,6 +293,17 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "Fact Check-Alec Baldwin’s T-shirt altered to include anti-Trump message"
+    excerpt: "A photo of actor Alec Baldwin has been edited to include a message against former U.S. president Donald Trump."
+    publishedDateTime: 2021-07-28T16:16:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-alecbaldwin-altered/fact-check-alec-baldwins-t-shirt-altered-to-include-anti-trump-message-idUSL1N2P4231"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2P4231"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2P4231"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "What this mean for Trump's endorsement powers..."
     excerpt: "Watch \"What this mean for Trump's endorsement powers\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-28T17:18:00Z

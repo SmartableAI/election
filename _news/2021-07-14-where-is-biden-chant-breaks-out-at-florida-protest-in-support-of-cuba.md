@@ -63,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden calls Cuba a 'failed' state, considers US tech option to send internet services"
-    excerpt: "President Biden said Thursday that he is considering the possibility of establishing an internet source for the Cuban people after the government shut off access amid mass protests."
-    publishedDateTime: 2021-07-16T00:02:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neC-mF_Vtkg/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e3ccdd0-02cb-431c-b1f4-3cd65e1cbf23/bbc7e75a-2359-4191-94b8-1da714252a15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Cruz calls out Biden's State Department amid reports of Cuba’s crackdown on protesters"
     excerpt: "Sen. Ted Cruz, R-Texas, on Monday questioned an early tweet from the U.S. State Department that seemed to assure Americans that the right to peaceful assembly is observed in Cuba amid new reports of a punishing crackdown by the government and an emerging “list of missing persons.”"
     publishedDateTime: 2021-07-13T05:13:57Z
@@ -94,6 +78,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Protests break out in front of WH urging Biden to take firmer stance on Cuba"
+    excerpt: "Protesters from across the U.S. converged in front of the White House Sunday night in an effort to get the Biden administration to take a firmer stance in its effort to support anti-government demonstrators in Cuba."
+    publishedDateTime: 2021-07-26T10:12:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRw4FAueiyA/protests-break-out-in-front-of-wh-urging-biden-to-take-firmer-stance"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/WHITEHOUSE-CUBA-PROTEST.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
     excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."

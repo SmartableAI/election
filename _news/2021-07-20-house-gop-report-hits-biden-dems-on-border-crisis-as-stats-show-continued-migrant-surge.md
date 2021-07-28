@@ -89,6 +89,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Toothless Response to China's War on U.S."
+    excerpt: "These acts of war destabilize our nation, weaken our economy, and kill our citizens. Instead of countering these attacks and holding China accountable, President Joe Biden whispers diplomacy and blames past administrations."
+    publishedDateTime: 2021-07-26T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/26/bidens_toothless_response_to_chinas_war_on_us_547971.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "All1aPYPQy8thyEXQjoqq5mWE3ucr7yehmwkrBHBQLYakaoCfT3dyKyDJGoamPV8UKsmlHNnar5Co3DKFf2U5Lvv8zpOKG5rJ3pKTp918N9RzeTwYC3/m6i/G7Rz2Y99eJHVqiA8HFmtRLQ4G00CxYjCKR/8DjjovszfT7W+nVAWoeb+2cD3qRIT0Zg/hw8S9GNyaprN/0yLM4hLyJmd0ZH7dePGteLB6AIZyCRi10GQr4w4fxFP+YmxI835VC7JMQHc7xwLpBSKn35cAWra+GIfsM+zn7XnVhMwc060J6owSEjCkMPCOL9s7VgVLWPu8H3avcOzQ+CTEogXNtMroSZc4i3R9e4FEJ0EkoLh+H0=;ra3D1EHrFyYO3r7Lc4Ytzw=="
 ---

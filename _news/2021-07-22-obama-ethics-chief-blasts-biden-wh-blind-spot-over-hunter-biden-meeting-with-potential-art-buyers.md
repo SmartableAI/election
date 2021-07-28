@@ -79,38 +79,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Eric Adams to visit Joe Biden, the White House"
-    excerpt: "Democratic mayoral nominee Eric Adams is headed to the White House Monday to discuss ways to combat gun violence with President Biden."
-    publishedDateTime: 2021-07-12T02:34:00Z
-    webUrl: "https://nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/"
-    ampWebUrl: "https://nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/ericadams.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Are the Good Times Over for Biden?"
-    excerpt: "Are the Democrats headed for their Little Bighorn, with President Joe Biden as Col. Custer? The wish, you suggest, is father to the thought. Yet, consider."
-    publishedDateTime: 2021-07-13T10:33:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/547933_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "7OAkyLBEYpqcuBrNkfvpcLYBZQyLcAIA0lJJjsHEGkr0QB3taTW6kPSnkBdl3BT204Tuimg/kFqkSlLovkwnXSgd9p33reDS/hegYk1Gna8aV/wAd3pGMGAHM/fHXEv8UFdKxTUVia3SXMLhglKLvtHLuN6I1hKjJuqu1YP537TJm3vYgouDH1CFA25HtVwi0QC2my5EGszmjyBV3viuEozg/uNqbAHYZj9sG3bxVCLqIEslwwSs9+hldE3OQgWuyhX+OiYpVh2gWoiykuIt7k8RnfKYH70620/FRO1mok+LLNS1TsdD+pJ1jvAKhDue/NXe9um5fRg1hxV4V1tKS6/aLFjsGXodYxpDFyY6Rfw=;GxejHXTp7OuZwfI856wnMQ=="
 ---

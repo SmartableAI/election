@@ -64,22 +64,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "McConnell calls for Biden to withdraw nominee linked to eco-terrorist plot"
-    excerpt: "EXCLUSIVE: Senate Minority Leader Mitch McConnell is calling on President Biden to \"immediately\" pull Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director over her link to an eco-terrorist plot and her apparently misleading answers to senators about it. "
-    publishedDateTime: 2021-07-16T16:41:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ftWcvMnEJHM/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-withdraw-nominee-linked-eco-terrorist-plot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden to bolster security at US Embassy in Haiti, won't send troops to stabilize country"
     excerpt: "President Biden plans to bolster security at the U.S. Embassy in Port-au-Prince after the assassination of Haitian President Jovenel Moïse earlier this month, he said Thursday."
     publishedDateTime: 2021-07-16T10:01:03Z
@@ -93,22 +77,6 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fdc43bb-25a1-4fc2-9e33-3a3b4fe3eee8/11d27d76-b787-42d5-af76-d2fb82c88562/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Tucker: Biden has lost control of the southern border"
-    excerpt: "There's been a dramatic escalation recently, we need to tell you about in the Biden administration's longest and hardest fought war. That would be the war against what they're calling misinformation."
-    publishedDateTime: 2021-07-23T11:08:00Z
-    webUrl: "https://www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border"
-    ampWebUrl: "https://www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b44540e-e2c4-4593-87db-56c3e9abcb73/c383023a-cafe-4988-9f9b-9457482e182f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

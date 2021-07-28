@@ -43,6 +43,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright"
+    excerpt: "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T13:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
 
 secured: "QgreMxQbJvVNDjw0LiNhLEJKGFVU5ZGXW6rOmnR9oBg9W8jG/veb8wR+moGepZtGFSIoGWPucuuij+H707MyCQl3KkyVb3027BVYjW8yDQIvU/LHNXN7BcvvQBgX0wF9Xj3yjkmOpVNd/ABUIezzep3BxMXQK4jeRCOAoEVLK1dsCr7NdJyEzHRYK+kw7o5gVCBDqVYm/IK+y+hADr4snHM/v7lDiIkleyHJDa8oCCYehAHlr4s92t2GClWYDMsRjqjJCcrbRnWxc22tOLEiQgHx0Ns1cLmn5zxl1RsAMWZfmSuqtDWz5Gm6BZs9nCqqcq/McphEYJv0qQvFYp2CIPt2KnksNNI6ltL+A8a4fTR7Y+KPVYwBEuiuwxPjrwvxY3wUKSAuAy/q6NtZRXgGUCGdBmp3+GMQzmtAFc/zuDvS+mHP+eZBrOjr9YDbvRKJI0TD8Jb7T2sSzMuimzJxrDG62dZBTOV8XXXFeiGkdhZGH0ar52Zplw/EH20AaxPZwMIx7NWIHSh9LuzM9mRouA==;nxYSDIb6iEtilSyd7wlYSw=="
 ---

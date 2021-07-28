@@ -2,14 +2,14 @@
 category: news
 title: "New Jersey town drops case against ‘F--- Biden’ sign lady after ACLU intervenes: report"
 excerpt: "A town in New Jersey has decided to end its effort to have a resident remove various anti-Biden signs from her property, including several that contain profanity."
-publishedDateTime: 2021-07-28T02:37:50Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Gyr06r06B0/new-jersey-f-biden-sign-aclu-roselle-park"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Gyr06r06B0/new-jersey-f-biden-sign-aclu-roselle-park"
+publishedDateTime: 2021-07-28T02:40:00Z
+originalUrl: "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park"
+webUrl: "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park"
 ampWebUrl: "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp"
 type: article
-quality: 167
-heat: 167
+quality: 127
+heat: 127
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 405
     isCached: true
 
-secured: "kOL1DeKP6WNDn3jTVR5NgbgCsm49ky3gkChyv0j26/63Kqim3rfQxQ+GWz9hnlQiO9tU5UGQCZXe/DIjJJx5jI5/g48DH2WsJSogM8+BF/EjceFU8AFyzwZHyjuhfBYnyXo9tUMiQwPu8tki6FWElkALkQ1fi+jed4ch3rqJVmmmy2Jyj1r9T2gm6FjGPoJvLRDOYl56ITmcR47HJ+f5Nbb1dLsrNPcWxQoZU2SUK2tl4i7ZTwBv+uj8Gpoqaml7Cw2cey4hs2Jil1dwur5ZlcnbozlI0MzTVrede6Daw4i94KgZ/331q84bia+3ew6d1c8YXN8kLzztw8VIxtQOkf3srTknlKdXxjvJp0drxnM=;l6Eana/4Q+UmAAbWawRxnQ=="
+secured: "lXVJa4ksCqJbm5fvNGHJf/3Pademc3EY7BNgwdSrnbFhVGRfrGnEQhKBne6lF7xoubR7YQt6BsjBd7I4A03Xr3HSFlP9cvrhPdZCZLE05wEbAm+sYz16/kiAxhaqoOIG5oPLhocqJ2PPMtdnsHLyL4hvdWtyT/XMJytlt734Jg1bcp4JvvTz4/P/zhHkuc/r2fHbc1hfunf+Z9/URgw7EsIRXio58Yp995iDbrtzpQ0xDmYA1Tqlf2Uv6eqBST7UllO9nkkmAIDEkod08zzVE7H2Jt/28HOUpHXx9gd4E3bj8rldT6E8KUfZEiSe3yUTuwAX75/cmcM0pqnSfn86XdEhmOHeE2JX3MoRRX6O9Tg=;SfAq4+APv4kQQfONe7xvFw=="
 ---
 

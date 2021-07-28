@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-art-gop-bill-transpare
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-art-gop-bill-transparency.amp"
 type: article
 quality: 161
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Senate GOP report finds Biden administration spending $2B to suspend border wall construction"
+    excerpt: "A new report by Republicans on a Senate subcommittee has concluded that the Biden administration is spending a minimum of approximately $2 billion to suspend construction of the wall at the southern border, even amid a continuing migrant crisis."
+    publishedDateTime: 2021-07-24T15:45:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xy786WosRJI/senate-gop-report-biden-administration-2b-suspend-wall-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "George P. Bush warns border crisis is 'not sustainable' as he sues Biden over wall, hits Dems for fleeing"
+    excerpt: "Texas Land Commissioner George P. Bush on Tuesday warned that the border crisis is \"not sustainable\" as he explained how his office came to sue the Biden administration over its ending of wall construction, while also tearing into Texas Democrats for fleeing the state."
+    publishedDateTime: 2021-07-20T21:10:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PAMR0dX7NQo/george-p-bush-border-crisis-not-sustainable-sues-biden-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-p-bush-border-crisis-not-sustainable-sues-biden-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b6c4848-495d-4483-990a-c911a7ba2df5/5f4e50f7-43e0-43d0-9d4c-aaacca14b9c9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "8n6Ft9N3KG0/GxioGwLCE6lF9kuNZQ1mmnRw5mmJE+KRslaNq/cbcJ7QtVsFDXl831cd9740TPTfh4jrfJoQe3gbs9EvWwDA+jPXm3ZVXFMsN+IXvjlyE3HbbEb2vx2zheYL3ZizawJljXoCGvpe4Vh7BM9gZywRN/8GboPGVIT2MMJlTM0gXpfuUleWgdUKJtFYiHmzEwblI7xiEygJGZt6SZSJKhw8MXBOU+vCLFcbMxBmF+bZ3a6UeK0LVAqbOF+WGU4khMKDCndf16Jh0Hr2ybxzP/DzgBtb+bY3DujtNBPeyImQm7KJ9KH1wy1ocq19esHIGctY69NEvv1WHxyWNGkizQIZhW1vPTXvEaU=;a1nLXpW7dzak8ZllfPSOIg=="
 ---

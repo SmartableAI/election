@@ -31,115 +31,163 @@ images:
     isCached: true
 
 related:
-  - title: "He’s no sell-out: Biden speaks to half-empty room at CNN town hall"
-    excerpt: "President Biden on Wednesday spoke to a half-empty auditorium while doing a live CNN “town hall” event in Ohio."
-    publishedDateTime: 2021-07-22T13:13:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y18wAQa0p30/biden-empty-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-empty-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-empty-town-hall.amp"
+  - title: "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning"
+    excerpt: "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management."
+    publishedDateTime: 2021-07-17T13:27:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning"
+    ampWebUrl: "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ba0b602-c860-4d62-9ab2-a0c1e9f8ba6c/fab6fdab-1d14-4848-a3c2-a201e82dc689/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Veep Joe Biden skirted ‘no see’ mail law with private accounts"
-    excerpt: "As vice president, Joe Biden kept a variety of private e-mail addresses from which he would sometimes forward and receive government correspondence, Hunter Biden’s laptop shows."
-    publishedDateTime: 2021-07-24T17:56:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gI_bZLxdhKU/joe-biden-mail-law-private-accounts"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-mail-law-private-accounts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-mail-law-private-accounts.amp"
+  - title: "Boozman, fellow GOP senators hit Biden, Democrats for failing farmers in fiery floor speech"
+    excerpt: "Senate Agriculture Committee ranking member John Boozman, R-Ark., will be leading a handful of his colleagues on the floor Wednesday to hammer the Democrats an President Biden over the effects of their \"reckless\" spending and taxing plan on farmers and ranchers."
+    publishedDateTime: 2021-07-21T15:41:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KYTwpYrs-fg/boozman-gop-senators-biden-dems-farmers"
+    ampWebUrl: "https://www.foxnews.com/politics/boozman-gop-senators-biden-dems-farmers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boozman-gop-senators-biden-dems-farmers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/47197486-af04-4d47-9cfa-dddd4cb698f1/75c617fe-8238-4efa-a235-10bf08decb3d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae09b637-a748-41ec-bf67-792da2ad91b6/08956b62-6a0a-4125-aec0-64cf5c3ab7fe/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden to bolster security at US Embassy in Haiti, won't send troops to stabilize country"
-    excerpt: "President Biden plans to bolster security at the U.S. Embassy in Port-au-Prince after the assassination of Haitian President Jovenel Moïse earlier this month, he said Thursday."
-    publishedDateTime: 2021-07-16T10:01:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHGG8qKrZ9E/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-bolster-security-at-us-embassy-in-haiti-wont-send-troops-to-stabilize-country.amp"
+  - title: "Biden's ICE nominee angers all sides, says drop in illegal immigrant arrests is 'concerning'"
+    excerpt: "President Joe Biden’s pick to lead Immigration and Customs Enforcement (ICE) said Thursday the drop in arrests by the agency in recent months is \"concerning\" -- while saying he wanted to move \"aggressively\" against illegal immigrants who pose a threat to communities in the U.S."
+    publishedDateTime: 2021-07-15T23:22:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I84uBTq3Dgo/bidens-ice-nominee-angers-all-sides-says-drop-in-illegal-immigrant-arrests-concerning"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-ice-nominee-angers-all-sides-says-drop-in-illegal-immigrant-arrests-concerning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-ice-nominee-angers-all-sides-says-drop-in-illegal-immigrant-arrests-concerning.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fdc43bb-25a1-4fc2-9e33-3a3b4fe3eee8/11d27d76-b787-42d5-af76-d2fb82c88562/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5455c37c-da8b-4fec-add5-17be85ed9048/9481676c-fd58-416d-9cc0-c3cf4e791cb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Tucker: Biden has lost control of the southern border"
-    excerpt: "There's been a dramatic escalation recently, we need to tell you about in the Biden administration's longest and hardest fought war. That would be the war against what they're calling misinformation."
-    publishedDateTime: 2021-07-23T11:08:00Z
-    webUrl: "https://www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border"
-    ampWebUrl: "https://www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border.amp"
+  - title: "Biden admin ripped by foreign policy think tank for inviting UN envoy on racism to assess US"
+    excerpt: "Secretary of State Anthony Blinken’s decision to invite United Nations envoys on racism and minority issues to assess the U.S. continued to draw backlash Thursday, more than a week after the announcement."
+    publishedDateTime: 2021-07-23T21:49:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2KS92vmL-8/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/usrussia-cropped-416a.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Lead investigator of ecoterrorist plot involving Biden nominee says she was the 'nastiest of the suspects'"
+    excerpt: "The lead Forest Service investigator of the ecoterrorist plot involving President Biden's Bureau of Land Management (BLM) director nominee is pushing back against Tracy Stone-Manning's testimony."
+    publishedDateTime: 2021-07-15T13:54:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kqj1uqVZux0/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect"
+    ampWebUrl: "https://www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lead-investigator-eco-terroroist-plot-biden-nominee-nastiest-suspect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e271dbb-447d-4ecc-a8e2-135035d09617/2d5ba43a-074d-4c89-9aef-ccd4937540c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Gutfeld!' on Biden's blast to voting laws, halting of Lego gun sales"
+    excerpt: "In some of his strongest language yet, President Biden today blasting Republican efforts to restrict voting access as un-American and a test of our democracy. UNIDENTIFIED MALE: President Biden late today in Philadelphia,"
+    publishedDateTime: 2021-07-15T11:15:00Z
+    webUrl: "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales"
+    ampWebUrl: "https://www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-bidens-blasts-to-voting-laws-halting-of-lego-gun-sales.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b44540e-e2c4-4593-87db-56c3e9abcb73/c383023a-cafe-4988-9f9b-9457482e182f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfa99b32-be75-4a8a-8dc5-9b0564573701/cdbbfdb4-94a9-4c0e-b0f8-963670b0382c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "CNN medical analyst 'disappointed' by Biden's COVID town hall: He 'led people astray'"
-    excerpt: "CNN medical analyst Dr. Leana Wen said she was \"disappointed\" by President Joe Biden's performance in a Wednesday town hall when it came to his answers on questions concerning the coronavirus and vaccines."
-    publishedDateTime: 2021-07-22T17:17:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-medical-analyst-disappointed-biden-irresponsible-covid-town-hall-answers-led-people-astray.amp"
+  - title: "Critics slam Biden for 'sucking the blood out of kids' comment after town hall"
+    excerpt: "Conservatives were left puzzled after President Joe Biden quipped about Republicans allegedly believing Democrats are “sucking blood out of kids” during an exchange with a reporter."
+    publishedDateTime: 2021-07-23T13:26:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blood-sucking-children.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blood-sucking-children.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 131
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd8148a-43fa-4e55-b198-1f5dc477bc4f/8be10b3c-cd8b-4a80-b210-788c1228572f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
+  - title: "Washington Post highlights Hunter Biden's ethical scandals with full-page art work"
+    excerpt: "The Washington Post, on Monday, highlighted Hunter Biden's numerous ethical scandals with a full-page of artwork in their op-ed section."
+    publishedDateTime: 2021-07-20T02:12:00Z
+    webUrl: "https://www.foxnews.com/media/glenn-kessler-slammed-funny-display-hunter-bidens-scandals"
+    ampWebUrl: "https://www.foxnews.com/media/glenn-kessler-slammed-funny-display-hunter-bidens-scandals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/glenn-kessler-slammed-funny-display-hunter-bidens-scandals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/debc2e09-1d7b-4fc3-afaa-0e45fd20cb62/e9f5e03f-c9ba-45b4-b98a-fb8263cfc496/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Sky News Australia Anchor: Biden \"Incoherent\" at CNN Town Hall, He's \"Embarrassing The Free World\""
-    excerpt: "A Sky News host Alan Jones blasts U.S. President Joe Biden for his incoherence at a CNN town hall last week. Jones said someone should have told Biden he is \"embarrassing the free world and obscuring the coronavirus."
-    publishedDateTime: 2021-07-26T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/26/sky_news_australia_anchor_biden_incoherent_at_cnn_town_hall_hes_embarrassing_the_free_world.amp.html"
+  - title: "Newspaper declares Biden boring; Washington has never felt duller"
+    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
+    publishedDateTime: 2021-07-14T07:10:00Z
+    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 71
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
     images:
-      - url: "https://assets.realclear.com/images/54/549116.jpg"
-        width: 1012
-        height: 758
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Tucker Carlson: Joe Biden's Town Hall With CNN Showed Us What \"Misinformation\" Looks Like"
-    excerpt: "TUCKER CARLSON: There’s been a dramatic escalation recently we need to tell you about in the Biden administration’s longest and hardest-fought war. That would be the war against what they’re calling misinformation."
-    publishedDateTime: 2021-07-23T14:30:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/23/tucker_carlson_joe_bidens_town_hall_with_cnn_showed_us_what_misinformation_looks_like.html"
+  - title: "Are the Good Times Over for Biden?"
+    excerpt: "Are the Democrats headed for their Little Bighorn, with President Joe Biden as Col. Custer? The wish, you suggest, is father to the thought. Yet, consider."
+    publishedDateTime: 2021-07-13T10:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 56
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/548888.png"
-        width: 500
-        height: 375
+      - url: "https://assets.realclear.com/images/54/547933_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "X2tCVgx5IWFzipWMS5TejiBge/V1vFQuqv0FYeOldbM59a+RexXBH4zWekGLWM7H06UuP2OQSPNAjexNat9TNOF3ATDkc6Man+omt17hth0GJDUbh/RX5BD7PbSoQsrFXWq6cywqsP6jVbT5GT0r6EZx8sYTyLRR1b3QNObdVzbsMqD+URTs7a6BemmlbAt/rVPkWW7xilKr57RcAmlYxuP47TR/0BKgk2WHnpUSRwqsl7kxHEIOULvlk0FF1HkFXuH+qp724ehVsiFU04DoKnHbge9iHzWmG1ZhJmqnN1KUQpnR8rpt0wdO1GkSGtygoSMDhf9Jl2Gj8imrna00TTi2mwZy9uQjjYwMUHwaW5A=;M3QiEvOIt08sRvXOC2dGig=="

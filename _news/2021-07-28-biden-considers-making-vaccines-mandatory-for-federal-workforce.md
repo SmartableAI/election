@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden meets with Belarusian opposition leader at the White House"
+    excerpt: "President Joe Biden met with Belarusian opposition leader Svetlana Tikhanovskaya Wednesday morning, as part of her larger campaign to ratchet up international pressure on the Lukashenko regime.\n    \n"
+    publishedDateTime: 2021-07-28T18:41:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fyMyLfLuYo0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/joe-biden-belarus-svetlana-tikhanovskaya/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/joe-biden-belarus-svetlana-tikhanovskaya/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728140245-biden-tsikhanouskaya-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden promises answers on European travel ban 'in the next several days'"
     excerpt: "President Joe Biden said Thursday he'll soon be able to answer persistent questions about travel to the US from Europe after German Chancellor Angela Merkel raised the matter in the Oval Office.\n    \n"
     publishedDateTime: 2021-07-15T22:55:02Z
@@ -157,6 +173,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden stays close to home as he plots blue-collar focused presidential travel"
+    excerpt: "Want to see President Joe Biden in person? Consider a move to Pennsylvania.\n    \n"
+    publishedDateTime: 2021-07-28T19:36:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150625-01-biden-pa-0728-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

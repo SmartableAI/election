@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tom Barrack and the influence he had in Trump's world"
-    excerpt: "When Donald Trump accepted the Republican nomination for president in 2016, a little-known businessperson received a prime convention speaking slot just minutes before the nominee: Tom Barrack.\n    \n"
-    publishedDateTime: 2021-07-25T12:05:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HGg7ZOrrhY8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/barrack-trump-lobbying-charges/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/barrack-trump-lobbying-charges/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "As Jan. 6 hearings begin, GOP still can't quit Trump"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2021-07-27T13:56:00Z

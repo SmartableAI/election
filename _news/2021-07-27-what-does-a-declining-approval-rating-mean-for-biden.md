@@ -58,19 +58,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden admin ripped by foreign policy think tank for inviting UN envoy on racism to assess US"
-    excerpt: "Secretary of State Anthony Blinken’s decision to invite United Nations envoys on racism and minority issues to assess the U.S. continued to draw backlash Thursday, more than a week after the announcement."
-    publishedDateTime: 2021-07-23T21:49:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2KS92vmL-8/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-ripped-foreign-policy-think-tank-inviting-un-envoy-racism.amp"
+  - title: "Republicans march with protesters for Cuban freedom as they pushed Biden for more support"
+    excerpt: "Several Republican lawmakers rallied with Cuban Americans who marched in D.C. on Monday to encourage the Biden administration to support the Cuban people in their fight for freedom."
+    publishedDateTime: 2021-07-27T00:12:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOwX-vSdLAg/republicans-march-protesters-cuban-freedom-pushed-biden-support"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/usrussia-cropped-416a.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41f98b46-b6e0-4bc1-a4db-0c366d2f7fc4/8b3bf80f-9244-47d8-8101-d6274752306d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -122,19 +122,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "24 House Republicans urge Biden to reject Dems' amnesty push in $3.5 trillion budget bill"
-    excerpt: "Two dozen House Republicans on Wednesday wrote to President Biden urging him to reject a move by Democratic lawmakers to include amnesty for some illegal immigrants in their budget reconciliation proposal, warning that Biden’s support would betray his prior promises to promote unity."
-    publishedDateTime: 2021-07-21T15:00:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BsdQsBAKcQ4/house-republicans-biden-reject-dems-amnesty-push-budget"
+  - title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
+    excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
+    publishedDateTime: 2021-07-27T22:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 146
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29156a39-02e8-4f82-ad2b-552d175586c1/0902530a-fee5-4085-bbbf-cadbf8557dfa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "LGBtUPTLw2gOVPgL6VTbq4QaOV3EYVubFsKbeTGU+82CCVzAQXfriXAxs4wG6t0LHWR81QX3Kfedn0e7UZsouARXdR5nKnMoEMTbbIKG4mt+kEg9vcbRLqm1fkYoJ2pD1xmjzMKm5HKzFyphB6RTqduHTKTFPNi6BINsqBv+NNTD/tjzmhpQ/2oJhVJZpDKKMsOxGTjBPMtkH/TYhjQajLlhqOdEa4Ghgtnkk3bCGz0nM3qe3m6DgTwyfW0IkpflW5yCOsR2f7Ly7io4yKLTq1QnDwIujrSO/jguBpO1+E3HeZpiM2jVbtv40vC7EwxcfZcJ+yfrcoYwUjMjzsa6uRUaGf9W6KLXif+/mObDthn5zq9wj01RGPOaPUBtwXYPg700aPBB4AL1NSvufmCBJGCzQlSCAcwYducvxd8WEU7mC3AGsPr44U6ID5ov9jKnZd0CKg63TSy+x5IygIPPttmajJHuv/4eNNQ+e4VHPekVbZQ2HP8AR8WGk5ClajEi7AMpUaSsHZo1Tfs+kSbCGA==;cPLJf/+zXq3t8Sa4gFA5HQ=="

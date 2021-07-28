@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
-    excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
-    publishedDateTime: 2021-07-22T21:15:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW_aom0BKrs/harris-daca-recipients-administration-action-program-ruled-unlawful"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Harris visits Walter Reed for 'routine' doctor appointment days after meeting with infected Texas Democrats"
     excerpt: "Vice President Kamala Harris is going for what a White House official told Fox News is a \"routine doctor's appointment\" at Walter Reed Medical Center on Sunday."
     publishedDateTime: 2021-07-18T18:27:53Z
@@ -57,6 +41,22 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Harris says Democrats who fled Texas 'in line' with legacy of Frederick Douglass, Selma marchers, suffragettes"
+    excerpt: "Vice President Kamala Harris said Democratic lawmakers who fled Texas in an effort to block the state’s new election legislation from passing are \"in line\" with the legacy of civil rights and voting rights leaders and activists, while praising them for their \"bold, courageous action.\" "
+    publishedDateTime: 2021-07-14T18:15:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GkzQJvXUM5Y/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -74,53 +74,85 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘Gutfeld!’ on trust in media, Kamala Harris"
-    excerpt: "A new Gallup poll shows that more than 75 percent of the public has very little confidence in legacy media, like newspapers and T.V. news. So first, it's kind of interesting that people still use newspapers to get their news."
-    publishedDateTime: 2021-07-19T10:47:00Z
-    webUrl: "https://www.foxnews.com/transcript/gutfeld-on-trust-in-media-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/transcript/gutfeld-on-trust-in-media-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-trust-in-media-kamala-harris.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c66e9e3b-dcaf-4a81-bcb5-bb47ec2f17c3/a8d9644b-bbd5-4f95-bddd-d5285aef8e13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris immediately puts on mask, forces reporters to as CDC pivot spurs confusion"
-    excerpt: "Vice President Kamala Harris on Tuesday went beyond new CDC mask guidelines by putting on a face covering and forcing reporters and guests to do so as well — even though Washington did not"
-    publishedDateTime: 2021-07-27T22:26:00Z
-    webUrl: "https://nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/"
-    ampWebUrl: "https://nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/amp/"
+  - title: "Harris meets Jordan’s king, crown prince for working breakfast"
+    excerpt: "Kamala Harris welcomed King Abdullah II bin Al-Hussein and Crown Prince Hussein bin Abdullah of Jordan to her residence for a working breakfast."
+    publishedDateTime: 2021-07-20T18:51:00Z
+    webUrl: "https://nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/"
+    ampWebUrl: "https://nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 126
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-cdc-mask-19.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/harris-jordan-king-prince-hp.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
-    excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
-    publishedDateTime: 2021-07-22T21:15:00Z
-    webUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
+  - title: "Kamala Harris compares ‘courageous’ Texas Democrats to Frederick Douglass"
+    excerpt: "Vice President Kamala Harris likened a group of Texas Democrats who flew to DC on a private jet to avoid voting on a Republican election reform bill to abolitionist Frederick Douglass."
+    publishedDateTime: 2021-07-14T21:53:00Z
+    webUrl: "https://nypost.com/2021/07/14/kamala-harris-compares-courageous-texas-dems-to-frederick-douglass/"
+    ampWebUrl: "https://nypost.com/2021/07/14/kamala-harris-compares-courageous-texas-dems-to-frederick-douglass/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/14/kamala-harris-compares-courageous-texas-dems-to-frederick-douglass/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
+      name: New York Post
+      domain: nypost.com
+    quality: 134
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/harris-texas-dems-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "COVID hypocrisy: Media silence on Kamala Harris’ meeting with infected Texas Dems"
+    excerpt: "Three Texas lawmakers did flee the state, did come down with COVID, did meet with Vice President Kamala Harris, and she refuses to get tested. But because there are “Ds” next to their"
+    publishedDateTime: 2021-07-18T20:59:00Z
+    webUrl: "https://nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/"
+    ampWebUrl: "https://nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/18/media-silence-on-kamala-harris-meeting-with-infected-texas-dems/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Vice-President-Kamala-Harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
+    excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
+    publishedDateTime: 2021-07-14T15:15:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/54/548078.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "Kamala Harris: Texas Democrats Took Bold, Courageous Action In Line With Legacy of Frederick Douglass"
+    excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
+    publishedDateTime: 2021-07-15T03:33:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
+    images:
+      - url: "https://assets.realclear.com/images/54/548146.jpg"
+        width: 924
+        height: 692
         isCached: true
 
 secured: "52ahr/MomxTc5z06uk/ly3ENs14pkTd0bX3A5xBKdF+wbpDubO/CXhOkcS7yVCfZE5Zfov7BAHZ/OGfSeYZ7mkJ6sdynSJ37nZaGH0CP2imBwNHz3G83lK7ZwQ8tfPTGB3oVZOzwd6feWtz87MV1xageLgvrSWHliu6Xw9d0S2SEhgE6/sEozYlSMP6TDmY+3P6OAtAtAvH4fyin+mAoJ+zL4+FN2TI1+9Td4CGPKqBeJ1DHEgbw+eg4KmRVJFQ5/gXVgQKQZKiOciQL8wSuKt0lw6llLV0d8g7oeWpXNXR1hI5YB29O2x9bgmeLkGHywRpvfYjEt0vywfjJ3JI5eVdjsDr+BSE8myRjaPHRpRA=;LVUcwtV58Kvm72f5rfqM9w=="

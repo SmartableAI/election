@@ -28,38 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporter ignoring judge's order to remove anti-Biden signs from yard"
-    excerpt: "A supporter of former President Donald Trump is refusing to take down signs at her mother’s home critical of President Biden despite a judge’s order to do so."
-    publishedDateTime: 2021-07-22T01:54:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GgGXx45wEFM/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-ignoring-judges-order-to-remove-anti-biden-signs-from-yard.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4dc33272-52f5-43de-bbfb-7c9d4e6f4b8a/793ff61b-cf71-4f20-8755-b56fd1afeb9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Levin slams Biden admin's relationship with Facebook, calls Trump's Big Tech lawsuit 'slam dunk'"
-    excerpt: "Conservative commentator and author Mark Levin slammed the Biden administration for its relationship with Silicon Valley in its bid to halt the spread of misinformation concerning vaccines."
-    publishedDateTime: 2021-07-17T15:31:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ag7t6vogZ1A/levin-biden-administration-facebook-not-independent"
-    ampWebUrl: "https://www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Federal judge orders Biden administration to end new DACA applications"
     excerpt: "A federal judge on Friday ordered the Biden administration to stop all applications for the Deferred Action for Childhood Arrivals (DACA) program, after a coalition of states sued and claimed that the Obama-era program was illegal."
     publishedDateTime: 2021-07-16T21:45:09Z
@@ -75,6 +43,38 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Oklahoma suing Biden admin, claiming federal overreach of mining lands"
+    excerpt: "Oklahoma Gov. Kevin Stitt is suing the Biden administration over the Department of Interior's decision to strip the state's ability to regulate mines, arguing it is an unlawful act of federal overreach."
+    publishedDateTime: 2021-07-16T19:13:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQ0PvFN6vSo/oklahoma-suing-biden-federal-overreach-mining-lands"
+    ampWebUrl: "https://www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oklahoma-suing-biden-federal-overreach-mining-lands.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3c835d-7194-43b9-add2-96f492548d04/8dbab13c-c061-4e73-8b0b-802e30fcb680/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration ties $3B in community grants to 'equity' push"
+    excerpt: "The Biden administration announced $3 billion in community grants as part of the American Rescue Plan, saying anyone who applies for a grant must demonstrate that “equity” is part of the proposal."
+    publishedDateTime: 2021-07-22T19:19:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CP3SRVBhZu4/biden-administration-community-grants-tied-to-equity-push"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-community-grants-tied-to-equity-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-community-grants-tied-to-equity-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Texas border town sues Biden's DHS to stop busloads of illegal immigrants"
     excerpt: "City officials in Laredo, Texas are suing President Joe Biden’s Department of Homeland Security in order to stop the transfer of migrants from the Rio Grande Valley to their town for processing."
@@ -108,37 +108,133 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'"
-    excerpt: "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\""
-    publishedDateTime: 2021-07-14T16:58:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVnYXaBPA5o/biden-catherine-lhamon-title-ix-rape-impunity"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
+  - title: "Scalise slams Biden administration for sending 'disgusting message' to Cubans"
+    excerpt: "Rep. Steve Scalise, R-La., blasted the Biden adminstration Tuesday for telling Cubans seeking freedom not to come to the United States, while allowing thousands of migrants to enter the U.S. through the southern border. "
+    publishedDateTime: 2021-07-20T20:42:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CFSTbjSwhaA/scalise-slams-biden-disgusting-message-cubans"
+    ampWebUrl: "https://www.foxnews.com/politics/scalise-slams-biden-disgusting-message-cubans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-slams-biden-disgusting-message-cubans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8296388-755b-456e-894f-0499391e5eea/8503e4fd-ecf0-42a3-aabb-fea38e2cccf9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin walks back ties to group pushing critical race theory in schools"
+    excerpt: "The Biden administration blamed an \"error\" Wednesday after promoting a radical activist group’s handbook that pushes critical race theory in schools and calls on educators to \"disrupt Whiteness.\" "
+    publishedDateTime: 2021-07-21T15:44:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/saOuKzvrKYg/biden-admin-walks-back-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-walks-back-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-walks-back-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7a3d062-7ad6-4d20-8e3e-7cf6c2388254/39e3c841-d544-44db-967a-40f1e081cd03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "House Republican demands Biden admin reveal cost of canceling border wall construction"
-    excerpt: "The ranking Republican on the House Budget Committee is pressing the Biden administration to account for how much money it is costing taxpayers in litigation and settlement costs after President Biden halted construction on the wall at the U.S.-Mexico border, canceling government contracts in the process."
-    publishedDateTime: 2021-07-14T14:00:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6T6JsNsoAn4/canceling-border-wall-construction-cost-house-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/canceling-border-wall-construction-cost-house-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/canceling-border-wall-construction-cost-house-republicans.amp"
+  - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
+    excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
+    publishedDateTime: 2021-07-22T21:15:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW_aom0BKrs/harris-daca-recipients-administration-action-program-ruled-unlawful"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden taps new drug czar as illicit substances continue to pour across the border"
+    excerpt: "President Biden nominated former West Virginia health official, Rahul Gupta, as the nation’s new head of U.S. drug policy as overdoses and drug trafficking surge."
+    publishedDateTime: 2021-07-13T22:38:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n6IB-El_G2E/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot"
+    excerpt: "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director."
+    publishedDateTime: 2021-07-14T21:22:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration not mandating COVID vaccines for White House staff, Psaki says"
+    excerpt: "The Biden Administration is not mandating COVID-19 vaccines for White House staff, press secretary Jen Psaki said Friday."
+    publishedDateTime: 2021-07-23T18:17:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7OC6gFzCYA/biden-mandating-covid-vaccines-for-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mandating-covid-vaccines-for-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mandating-covid-vaccines-for-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden calls Cuba a 'failed' state, considers US tech option to send internet services"
+    excerpt: "President Biden said Thursday that he is considering the possibility of establishing an internet source for the Cuban people after the government shut off access amid mass protests."
+    publishedDateTime: 2021-07-16T00:02:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neC-mF_Vtkg/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-cuba-a-failed-state-considers-us-tech-option-to-send-internet-services.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e3ccdd0-02cb-431c-b1f4-3cd65e1cbf23/bbc7e75a-2359-4191-94b8-1da714252a15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden calls DACA ruling 'deeply disappointing,' urges Congress to pass citizenship path"
+    excerpt: "President Biden on Saturday called a federal court ruling that put a halt to the Deferred Action for Childhood Arrivals (DACA) program \"deeply disappointing\" and again urged Congress to pass legislation that would grant illegal immigrants protected from deportation under the program a pathway to citizenship."
+    publishedDateTime: 2021-07-17T14:38:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/34s7bVeGGgA/biden-daca-ruling-deeply-disappointing-congress-citizenship"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-daca-ruling-deeply-disappointing-congress-citizenship.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-daca-ruling-deeply-disappointing-congress-citizenship.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97362a73-be8a-4484-a58b-45241e575b5b/a22dbef5-7bf9-47e9-9ce7-cc65e772c142/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Family of 15-year-old terrorist attack victim asks Biden to bring justice for daughter"
     excerpt: "Malki Roth, a talented young musician with a sunny and emphatic personality, was just 15 years old when she was killed by a terrorist attack while lunching at a crowded pizzeria with her teenaged friend. "
@@ -156,193 +252,131 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Republicans march with protesters for Cuban freedom as they pushed Biden for more support"
-    excerpt: "Several Republican lawmakers rallied with Cuban Americans who marched in D.C. on Monday to encourage the Biden administration to support the Cuban people in their fight for freedom."
-    publishedDateTime: 2021-07-27T00:12:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOwX-vSdLAg/republicans-march-protesters-cuban-freedom-pushed-biden-support"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
+  - title: "Biden stands by nominee linked to tree-spiking plot despite new revelations, Psaki says"
+    excerpt: "President Biden is standing by his decision to nominate Tracy Stone-Manning to lead the Bureau of Land Management despite contradictory accounts of her involvement in a 1989 tree-spiking plot, White House Press Secretary Jen Psaki said Monday."
+    publishedDateTime: 2021-07-19T21:12:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JcRavYzggoc/biden-blm-nominee-tree-spiking-plot-revelations-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-tree-spiking-plot-revelations-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-tree-spiking-plot-revelations-psaki.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41f98b46-b6e0-4bc1-a4db-0c366d2f7fc4/8b3bf80f-9244-47d8-8101-d6274752306d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fb69407-cb3c-41d3-aa36-e45c6513718c/b1f21a2f-29e9-4ed9-9298-7dfd9996edc8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Senate GOP report finds Biden administration spending $2B to suspend border wall construction"
-    excerpt: "A new report by Republicans on a Senate subcommittee has concluded that the Biden administration is spending a minimum of approximately $2 billion to suspend construction of the wall at the southern border, even amid a continuing migrant crisis."
-    publishedDateTime: 2021-07-24T15:45:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xy786WosRJI/senate-gop-report-biden-administration-2b-suspend-wall-construction"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp"
+  - title: "Biden administration to relocate Afghans who aided US military effort as they await visa process"
+    excerpt: "The Biden administration is launching an operation to relocate Afghan nationals who aided the U.S. military effort in Afghanistan and are in the process of applying for residency in the United States."
+    publishedDateTime: 2021-07-14T16:15:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYw0SSdEQss/biden-relocate-afghans-us-military-effort-visa-process"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f166eaac-f705-4390-965d-d445c57b7af3/52664491-8d61-4399-950d-8ac93cd5d5c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Rep. Andy Biggs provides video of illegal immigrants streaming across border, calls on Biden to act"
-    excerpt: "Republican Congressman Andy Biggs has released an exclusive video from his home state of Arizona showing illegal immigrants, many of them wearing camouflage and backpacks, streaming across the border undeterred."
-    publishedDateTime: 2021-07-16T23:32:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2hqRWu3oBto/exclusive-rep-biggs-provides-video-of-illegal-immigrants-streaming-across-border-calls-on-biden-to-act"
-    ampWebUrl: "https://www.foxnews.com/politics/exclusive-rep-biggs-provides-video-of-illegal-immigrants-streaming-across-border-calls-on-biden-to-act.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-rep-biggs-provides-video-of-illegal-immigrants-streaming-across-border-calls-on-biden-to-act.amp"
+  - title: "Biden's flip on Hyde Amendment sign of administration 'spiraling way, way to the left': McConnell"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., slammed President Biden for steering the U.S. to the more to the left despite campaigning as a moderate, in light of Democrats' push to eliminate the Hyde Amendment."
+    publishedDateTime: 2021-07-15T18:05:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Btr0FGq8BSM/mcconnell-biden-flip-anti-abortion-hyde-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-flip-anti-abortion-hyde-amendment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6cf398f-cb4c-47fe-a67f-16e550836ae5/d5a3e5bc-a9e8-4b08-90fb-500aecf85f05/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden may send more staff to US embassy in Havana to support Cuban people: senior administration official"
+    excerpt: "President Biden is considering augmenting staffing levels at the U.S. embassy in Havana and forming a group to get remittances to the Cuban people, a senior administration official told FOX News on Monday."
+    publishedDateTime: 2021-07-20T00:14:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AVY-pJG_OQ/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-send-more-staff-to-us-embassy-in-havana-to-support-cuban-people-senior-administration-official.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72227c6-212e-47d8-95b9-493300340291/c8f747e6-d22e-465c-bf6e-3af40feab3a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
-    excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
-    publishedDateTime: 2021-07-27T22:47:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+  - title: "Anti-critical race theory parent blasts Biden administration for promoting Abolitionist Teaching Network"
+    excerpt: ""
+    publishedDateTime: 2021-07-22T14:31:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRF-hY0zAWw/anti-critical-race-theory-parent-blasts-biden-administration-for-promoting-abolitionist-teaching-network"
+    ampWebUrl: "https://www.foxnews.com/politics/anti-critical-race-theory-parent-blasts-biden-administration-for-promoting-abolitionist-teaching-network.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-critical-race-theory-parent-blasts-biden-administration-for-promoting-abolitionist-teaching-network.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2416de8-d327-45cc-b4d7-f492054b68c2/5e1e32b0-4720-4e86-b103-e719ff782587/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "California GOP lawmakers call on Biden admin to address aviation fuel shortage to prevent wildfire disaster"
+    excerpt: "Letter to Interior Secretary Deb Haaland and Agriculture Secretary Tom Vilsack calls on them to address a “potential fuel shortage” for airplanes tasked with fighting fires."
+    publishedDateTime: 2021-07-20T20:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CbwKjwNIoq0/california-lawmakers-biden-fuel-shortage-wildfire"
+    ampWebUrl: "https://www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 157
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7036c65d-5b29-40c2-a67b-439d0399fb6e/4ab15bfe-320e-47e0-9ff2-b52ad15f1220/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "PolitiFact declare claims Biden, Harris distrusted COVID vaccine under Trump are 'false' despite past rhetoric"
-    excerpt: "PolitiFact appears to be shielding President Biden and Vice President Harris from criticism over their past rhetoric expressing distrust in the coronavirus vaccine during the Trump administration."
-    publishedDateTime: 2021-07-27T01:25:00Z
-    webUrl: "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine"
-    ampWebUrl: "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politifact-biden-harris-covid-vaccine.amp"
+  - title: "24 House Republicans urge Biden to reject Dems' amnesty push in $3.5 trillion budget bill"
+    excerpt: "Two dozen House Republicans on Wednesday wrote to President Biden urging him to reject a move by Democratic lawmakers to include amnesty for some illegal immigrants in their budget reconciliation proposal, warning that Biden’s support would betray his prior promises to promote unity."
+    publishedDateTime: 2021-07-21T15:00:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BsdQsBAKcQ4/house-republicans-biden-reject-dems-amnesty-push-budget"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 146
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24b8824-1075-40f2-8530-1fae4fdb6a5f/afb16ed1-2995-4fa4-ac0e-42fcf4707036/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Protests break out in front of WH urging Biden to take firmer stance on Cuba"
-    excerpt: "Protesters from across the U.S. converged in front of the White House Sunday night in an effort to get the Biden administration to take a firmer stance in its effort to support anti-government demonstrators in Cuba."
-    publishedDateTime: 2021-07-26T10:12:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRw4FAueiyA/protests-break-out-in-front-of-wh-urging-biden-to-take-firmer-stance"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 152
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/WHITEHOUSE-CUBA-PROTEST.png"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29156a39-02e8-4f82-ad2b-552d175586c1/0902530a-fee5-4085-bbbf-cadbf8557dfa/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Tom Brady riffs veiled Trump jokes with Biden at Bucs' White House visit"
-    excerpt: "During the Tampa Bay Buccaneers’ visit to the White House, the reigning Super Bowl MVP made a veiled dig at President Donald Trump over his claims of election fraud."
-    publishedDateTime: 2021-07-20T18:49:00Z
-    webUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit"
-    ampWebUrl: "https://www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/tom-brady-trump-jokes-biden-bucs-white-house-visit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 149
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21201580647481.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden’s China Policy Borrows From Trump and Adds Allies to Raise Pressure"
-    excerpt: "The president’s policy will get a test when U.S. Deputy Secretary of State Wendy Sherman travels to China for the first face-to-face meeting of senior officials in more than three months."
-    publishedDateTime: 2021-07-22T13:34:00Z
-    webUrl: "https://www.wsj.com/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800?mod=hp_lead_pos4"
-    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
-    images:
-      - url: "https://images.wsj.net/im-373162/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden’s China Policy Borrows From Trump and Adds Allies to Raise Pressure"
-    excerpt: "The president’s policy will get a test when U.S. Deputy Secretary of State Wendy Sherman travels to China for the first face-to-face meeting of senior officials in more than three months."
-    publishedDateTime: 2021-07-22T17:01:00Z
-    webUrl: "https://www.wsj.com/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800?mod=hp_lead_pos6"
-    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
-    images:
-      - url: "https://images.wsj.net/im-373162/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "‘Not a Trump rally’: Biden tells crowd to ignore hecklers at Virginia speech"
-    excerpt: "Biden was about two minutes into his remarks at an Arlington rally for Virginia Democratic gubernatorial candidate Terry McAuliffe when a group began yelling “Stop Line 3!”"
-    publishedDateTime: 2021-07-24T04:49:00Z
-    webUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/"
-    ampWebUrl: "https://nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/24/biden-fends-off-anti-pipeline-protesters-in-virginia/amp/"
+  - title: "Eric Adams to visit Joe Biden, the White House"
+    excerpt: "Democratic mayoral nominee Eric Adams is headed to the White House Monday to discuss ways to combat gun violence with President Biden."
+    publishedDateTime: 2021-07-12T02:34:00Z
+    webUrl: "https://nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/"
+    ampWebUrl: "https://nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/eric-adams-to-visit-joe-biden-the-white-house/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 147
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/biden-speech-interrupted-185.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/ericadams.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Arizona AG Brnovich urges Biden to reverse reported Title 42 repeal after border numbers rise again"
-    excerpt: "FIRST ON FOX: Arizona Attorney General Mark Brnovich on Friday wrote to President Biden urging him to reverse a reported plan to rollback Title 42 public health protections that allow for the rapid expulsion of migrants at the southern border after figures show there were nearly 190,000 attempted crossings"
-    publishedDateTime: 2021-07-17T17:31:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4y7A3Cb2K0/arizona-brnovich-biden-reverse-title-42-repeal-border-numbers-rise-again"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdcc19ec-b13e-4192-bb0b-d93532f1b904/111142cd-63a4-4ea6-834e-5dc83240884b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
-    excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
-    publishedDateTime: 2021-07-23T13:17:00Z
-    webUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines"
-    ampWebUrl: "https://www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sarah-sanders-biden-trump-safe-effective-coronavirus-vaccines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Media continues to fawn over President Biden after six months in office"
     excerpt: "Six months of Joe Biden’s presidency has been represented by six months of mainstream media largely fawning over the 46th president, despite an influx of illegal immigration, a surge in violent crime across the nation,"
@@ -360,81 +394,99 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump, lawmakers honor Sen. Mike Enzi after sudden death from bike accident"
-    excerpt: "From former President Donald Trump to Rep. Liz Cheney to Sen. Tim Kaine, many on both sides of the aisle remembered the life and accomplishments of Senator Mike Enzi."
-    publishedDateTime: 2021-07-27T19:59:00Z
-    webUrl: "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/"
-    ampWebUrl: "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/"
+  - title: "Tucker: Biden has lost control of the southern border"
+    excerpt: "There's been a dramatic escalation recently, we need to tell you about in the Biden administration's longest and hardest fought war. That would be the war against what they're calling misinformation."
+    publishedDateTime: 2021-07-23T11:08:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-has-lost-control-of-the-southern-border.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Sen.-Mike-Enzi.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b44540e-e2c4-4593-87db-56c3e9abcb73/c383023a-cafe-4988-9f9b-9457482e182f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections"
-    excerpt: "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration."
-    publishedDateTime: 2021-07-26T12:34:00Z
-    webUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon"
-    ampWebUrl: "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp"
+  - title: "'The Five' on Biden getting tough questions about Afghanistan withdrawal"
+    excerpt: "Who's got the best carnival skills? We're going to find out later in a special \"Dana's Sports Corner.\" But coming up next, Joe Biden blowing up on the media over his Afghanistan withdrawal plan as the Taliban regains control. MCDOWELL: President Biden ..."
+    publishedDateTime: 2021-07-09T15:29:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8bfc98a-d7a9-4981-87e4-9d271a9d75d9/1aa9f9d5-e278-4d92-a942-df034ef78d03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Tucker: Biden administration deems censorship 'applicable to private speech'"
+    excerpt: "Today, we learned the Biden administration considers censorship applicable to private speech as well. What you say in private, when you're alone with your phone, you won't be able to say or read what you want because the D."
+    publishedDateTime: 2021-07-13T11:48:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 132
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4079e924-d89c-4b34-8ba8-f093c8b58cbb/2afceed1-004a-4a78-b7f2-cf2c2eeb2dc1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Newspaper declares Biden boring; Washington has never felt duller"
-    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
-    publishedDateTime: 2021-07-14T07:10:00Z
-    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
+  - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
+    excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
+    publishedDateTime: 2021-07-22T21:15:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 115
+    quality: 121
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Biden Ignoring COVID-19 Dangers at Border and in Hospitals"
-    excerpt: "COVID-19 cases in the US leapt 47.5% last week from the previous week. Shots in arms, not shutdowns, are the answer. Among the big risks to Americans right"
-    publishedDateTime: 2021-07-14T10:38:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
+  - title: "Conservative leaders say Biden admin is ‘ripping the U.S. Constitution to shreds’ in scathing open letter"
+    excerpt: "A group of conservative leaders declared President Joe Biden’s administration is \"ripping the U.S. Constitution to shreds\" in a scathing open letter that demands the White House and federal government be fully transparent about all actions to restrict speech."
+    publishedDateTime: 2021-07-22T13:52:00Z
+    webUrl: "https://www.foxnews.com/media/conservative-leaders-say-biden-admin-constitution-shreds-letter"
+    ampWebUrl: "https://www.foxnews.com/media/conservative-leaders-say-biden-admin-constitution-shreds-letter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/conservative-leaders-say-biden-admin-constitution-shreds-letter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Why Can't Biden Stop This Invasion?"
+    excerpt: "Article IV of the Constitution addresses the obligations of the federal government to the state governments that were being asked to surrender aspects of"
+    publishedDateTime: 2021-07-20T10:38:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/20/why_cant_biden_stop_this_invasion_146107.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/53/539209_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden Punts on Pot"
-    excerpt: "There is one issue where President Joe Biden has not moved further left and in lockstep with other liberal leaders: marijuana. The oldest man to take the"
-    publishedDateTime: 2021-07-18T10:38:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/18/biden_punts_on_pot_146096.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/51/518687_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/548514_5_.jpg"
         width: 750
         height: 500
         isCached: true
@@ -454,20 +506,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "The Man Behind Joe Biden's Curtain"
-    excerpt: "President Biden's chief of staff worked his whole career to reach the corner office of the West Wing. He says he's just a staff person, but Republicans call him Prime Minister Klain."
-    publishedDateTime: 2021-07-19T11:34:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/19/the_man_behind_joe_bidens_curtain_547470.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/548417_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Republicans Have Already Given Biden What He Needs"
     excerpt: "We have a deal,” the beaming president proclaimed outside the White House, flanked by 10 beaming senators—all the negotiators had agreed to was an outline, a three-page sketch of how to spend $1.2 trillion on roads,"
     publishedDateTime: 2021-07-22T18:21:00Z
@@ -482,10 +520,10 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden's Toothless Response to China's War on U.S."
-    excerpt: "These acts of war destabilize our nation, weaken our economy, and kill our citizens. Instead of countering these attacks and holding China accountable, President Joe Biden whispers diplomacy and blames past administrations."
-    publishedDateTime: 2021-07-26T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/26/bidens_toothless_response_to_chinas_war_on_us_547971.html"
+  - title: "Biden's Anti-Competitive 'Competition' Order"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-10T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/10/bidens_anti-competitive_competition_order_546840.html#!"
     type: article
     provider:
       name: RealClearPolitics

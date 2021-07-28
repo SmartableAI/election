@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Harris meets Jordan’s king, crown prince for working breakfast"
-    excerpt: "Kamala Harris welcomed King Abdullah II bin Al-Hussein and Crown Prince Hussein bin Abdullah of Jordan to her residence for a working breakfast."
-    publishedDateTime: 2021-07-20T18:51:00Z
-    webUrl: "https://nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/"
-    ampWebUrl: "https://nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/20/kamala-the-king-harris-welcomes-jordans-king-crown-prince-to-home/amp/"
+  - title: "Kamala Harris immediately puts on mask, forces reporters to as CDC pivot spurs confusion"
+    excerpt: "Vice President Kamala Harris on Tuesday went beyond new CDC mask guidelines by putting on a face covering and forcing reporters and guests to do so as well — even though Washington did not"
+    publishedDateTime: 2021-07-27T22:26:00Z
+    webUrl: "https://nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/"
+    ampWebUrl: "https://nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 126
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/harris-jordan-king-prince-hp.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-cdc-mask-19.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

@@ -2,58 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-07-02-eric-trump-says-he-don-jr-and-ivanka-lead-nice-clean-lives.md",
-      "title": "Eric Trump Says He, Don Jr. and Ivanka Lead 'Nice, Clean Lives'",
-      "excerpt": "Donald Trump's son also attacked the current president's son, Hunter Biden, for allegedly paying for a prostitute and smoking crack in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264",
-      "originalUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1835921/trumps-virtual-2020-national-convention.jpg",
-          "width": 2500,
-          "height": 1649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1",
-      "publishedDateTime": "2021-07-02T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-02-trump-exposed-as-prosecutors-make-first-move-in-high-stakes-chess-game.md",
       "title": "Trump exposed as prosecutors make first move in high-stakes chess game",
       "excerpt": "The charges against Allan Weisselberg might seem small fry, but the threat to people higher up the food chain is mounting",
@@ -1323,6 +1271,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/board-of-elections-nyc-analysis/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/board-of-elections-nyc-analysis/index.html",
       "publishedDateTime": "2021-06-30T14:02:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-cheney-calls-select-committee-our-only-remaining-option-and-attacks-gop-leaders-for-appeasing-trump.md",
+      "title": "Cheney calls select committee 'our only remaining option' and attacks GOP leaders for appeasing Trump",
+      "excerpt": "Wyoming Rep. Liz Cheney sharply criticized Republican leaders ahead of a vote Wednesday to create a select committee to investigate the January 6 attack on the US Capitol, which she said she supported.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDe_ujllG8w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDe_ujllG8w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210514225249-cnne-liz-cheney-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html",
+      "publishedDateTime": "2021-06-30T12:51:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -32,35 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Quarterback tweak: Tom Brady makes Trump election joke at White House ceremony"
-    excerpt: "\"I think about 40 percent of people still don't think we won,\" Brady said of his Super Bowl champion Tampa Bay Buccaneers."
-    publishedDateTime: 2021-07-20T20:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/quarterback-tweak-tom-brady-makes-trump-election-joke-white-house-n1274527"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274527"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274527"
+  - title: "McAuliffe attacks Youngkin by tying him to Trump's election lies "
+    excerpt: "Virginia's Terry McAuliffe, in an effort to tie his gubernatorial opponent, Glenn Youngkin, to all things Donald Trump, is now linking the Republican nominee to the former President's top focus: so-called election integrity.\n    \n"
+    publishedDateTime: 2021-07-28T18:46:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ipJRqvK6Qzg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/mcauliffe-youngkin-virginia-ads/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/mcauliffe-youngkin-virginia-ads/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 146
+      name: CNN
+      domain: cnn.com
+    quality: 190
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3492652/210720-tom-brady-white-house-jm-1332.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728141556-mcauliffe-youngkin-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "‘Just say we won’: WaPo duo goes inside the Trump White House on Election Day"
-    excerpt: "WaPo’s Carol Leonnig and Phil Rucker have a juicy read on what former DONALD TRUMP and his aides were saying on Election Night, excerpted from"
-    publishedDateTime: 2021-07-13T10:35:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day-493549"
+  - title: "Tom Barrack and the influence he had in Trump's world"
+    excerpt: "When Donald Trump accepted the Republican nomination for president in 2016, a little-known businessperson received a prime convention speaking slot just minutes before the nominee: Tom Barrack.\n    \n"
+    publishedDateTime: 2021-07-25T12:05:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HGg7ZOrrhY8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/barrack-trump-lobbying-charges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/barrack-trump-lobbying-charges/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 127
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static.politico.com/50/ea/1a3afe424c078d29a72e821f4c53/210713-trump-ap-1160.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Ally Pleads Not Guilty to Illegal Lobbying"
+    excerpt: "Thomas J. Barrack Jr., a billionaire private equity investor and close ally to former President Donald J. Trump, pleaded not guilty to charges of illegal lobbying for the United Arab Emirates."
+    publishedDateTime: 2021-07-26T19:58:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007887030/barrack-court-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/26/us/politics/26political-briefing-barrack/26political-briefing-barrack-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "bps7lE2/O2qHAe/xmqdGqHdGHWIXF3Xq+LjY/fppEOOYLTgsh1SWbm0xYonyspuZ2IQfYTnQS9yAR4zoANA/1Fr71wdEHDEeBGLdYPce4tHf9jvgye1Mvouk5mIBMg9iIOdjWZn0qrEUZDIOmgYQTdY9lUA2QfDKpUzfDVwFlyN6oWBGDBqPuTGghmDzI0v+ikkGM2HxpraUlGzfRSQQPtP0MgFLjGy23MGJdhYLnsXvtFeOuhLBmeray8DbF4ueoTQz/CbcOQRWVSwZAFsL4znzCYeVDK30VUoeqAaxhwPXqCpkWaYSN6JXvD/glwr6ZZ5OomsRjJSi894NL7TfjQsaheyqo8ksD6uUaiNfl3A1jxdWKE1VJVfX/mH7FypOS9oenGHBi0QdzMztC0306ETC4vsXSrJzXbJb9QYnkW4gwojDQfpMOyDzkUOTxSRzCLQfEr7gNB8RDE1rrmwpz1s2SAEA/xVWIDNp/ZyPzwVZP7GYn1+JL28zXfOYh0tEfqTqHxONdgzueUsw79Cu5Q==;9KzXqKSMBysXqsR8DKCDaA=="

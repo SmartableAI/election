@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tom Barrack and the influence he had in Trump's world"
-    excerpt: "When Donald Trump accepted the Republican nomination for president in 2016, a little-known businessperson received a prime convention speaking slot just minutes before the nominee: Tom Barrack.\n    \n"
-    publishedDateTime: 2021-07-25T12:05:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HGg7ZOrrhY8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/25/politics/barrack-trump-lobbying-charges/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/25/politics/barrack-trump-lobbying-charges/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump ally Tom Barrack strikes a $250 million bail deal to get out of jail"
     excerpt: "A federal magistrate judge on Friday ordered Tom Barrack, a longtime associate of former President Donald Trump who was indicted earlier this week on charges of illegal foreign lobbying, released from jail pending trial, freeing him on a bail package that includes a $250 million bond secured by $5 million"
     publishedDateTime: 2021-07-23T19:30:24Z
