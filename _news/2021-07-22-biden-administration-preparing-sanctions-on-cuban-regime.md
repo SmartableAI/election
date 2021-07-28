@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -350,6 +350,22 @@ related:
       - url: "https://static.politico.com/05/5d/91a1f9cc4e34a64276681e9955fc/210721-protester-police-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden considers making vaccines mandatory for federal workforce"
+    excerpt: "President Joe Biden says he is considering a requirement for all federal employees to get the Covid vaccine after addressing the intelligence community workforce."
+    publishedDateTime: 2021-07-27T22:10:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117477957902"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117477957902"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/AFP_9GT8CU.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden to national Latino group: 'My administration will always have your back'"
     excerpt: "President Joe Biden addressed the nation's Latinos during a conference by UnidosUS, the nation's largest Latino advocacy group."

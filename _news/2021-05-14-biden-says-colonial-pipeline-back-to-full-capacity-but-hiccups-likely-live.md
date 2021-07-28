@@ -117,6 +117,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden warns cyberattacks may trigger 'shooting war'"
+    excerpt: "President Joe Biden used his first visit with rank-and-file members of the U.S. intelligence community to warn about growing threats to national security, particularly the wave of cyberattacks, saying they could lead to a 'real shooting war."
+    publishedDateTime: 2021-07-27T23:28:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/27/biden-warns-cyberattacks-may-trigger-shooting-war/5394939001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/dfe68c75-8331-4bc5-89d4-b6eb78b3c521_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Does Joe Biden Think He’s Done Enough to Placate Progressives?"
     excerpt: "Does Joe Biden have a deliberate strategy for dealing with his party’s progressives, or is he just winging it?"
     publishedDateTime: 2021-05-20T13:37:00Z

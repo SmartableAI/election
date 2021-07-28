@@ -93,6 +93,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden: Federal worker vaccines being considered"
+    excerpt: "President Joe Biden says that requiring all federal workers to get vaccinated against COVID-19 is “under consideration,\" as the delta variant spreads across the U.S. and Americans still refuse the shot."
+    publishedDateTime: 2021-07-27T22:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/27/biden-federal-worker-vaccines-being-considered/5394428001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b0bf25cb-6509-418b-b8c1-f47be2d36386_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden in Trump-Supporting Ohio to Tout Vaccines, Infrastructure Spending"
     excerpt: "The fate of a $1.2 trillion bipartisan infrastructure deal, one of the president's top priorities, is also uncertain in Congress where Democrats hold slim majorities. The Cincinnati event gives Biden,"
     publishedDateTime: 2021-07-22T00:02:00Z

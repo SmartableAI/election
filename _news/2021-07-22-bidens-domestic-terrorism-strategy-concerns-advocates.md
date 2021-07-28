@@ -352,6 +352,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden considers making vaccines mandatory for federal workforce"
+    excerpt: "President Joe Biden says he is considering a requirement for all federal employees to get the Covid vaccine after addressing the intelligence community workforce."
+    publishedDateTime: 2021-07-27T22:10:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117477957902"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117477957902"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/AFP_9GT8CU.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden to national Latino group: 'My administration will always have your back'"
     excerpt: "President Joe Biden addressed the nation's Latinos during a conference by UnidosUS, the nation's largest Latino advocacy group."
     publishedDateTime: 2021-07-26T19:53:00Z

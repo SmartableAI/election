@@ -79,6 +79,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Hooked on Trump: How the G.O.P. Still Banks on His Brand for Cash"
+    excerpt: "Trump pint glasses. Trump T-shirts. Trump memberships. Six months after the former president left office, his party’s fund-raising success depends heavily on his vaunted name."
+    publishedDateTime: 2021-07-27T22:49:00Z
+    webUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-republicans-fundraising-brand.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-republicans-fundraising-brand.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/trump-republicans-fundraising-brand.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/27/us/politics/27trump-money1/27trump-money1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Is Gone, but the Media’s Misinformation Challenge Is Still Here"
+    excerpt: "Should news outlets contextualize false claims made by powerful people? Or ignore them completely? There is no consensus in the industry, but its thinking continues to evolve."
+    publishedDateTime: 2021-07-27T22:59:00Z
+    webUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-false-claims-media.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-false-claims-media.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/trump-false-claims-media.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/27/us/politics/27onpolitics-pm-newsletter/27onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "egSzUAY5atgb6YV7c4TN/dkp9KPnLFyy4tHOD3GkvQrJVGE8rnhWe0p8SHPCFIMM/+WixTtDtaIxyN3n8RnUxPp+a5ZoD1NPwOKKPfg+PeozVQxEYdbyvvcKyHjrtbs4Hr/GcKDr57PK1WMyBYpuLRMUSlauv58Lpa1OVLWYRkQV8k10S09/9gJGW538E4SmRn8lymX85cAW9PL5T//fp4Gq7z47OAdMss92Hwj5EjbVTvhuwjI0hXTBf7qiLQQOt4TTIm6FhhVrVeh7fTuVZmRIRJJ0TGMQ3plzb83e/CtvMdvJZgmc2rbrq+TjJt8fsSF6dzAHK3CvWVmElJOF+7brtFei0mG8m6ZL/YeDsxo=;9FQSL6Xv8F4n+Z80iiozkQ=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
+    excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
+    publishedDateTime: 2021-07-27T22:58:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8d994f9fd3a5f86e3e0f7cdae62a267a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/8d994f9fd3a5f86e3e0f7cdae62a267a/HARRIS-VOTING.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Vice President Harris Meeting with Jordanian King Abdullah"
     excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
     publishedDateTime: 2021-07-20T13:02:00Z

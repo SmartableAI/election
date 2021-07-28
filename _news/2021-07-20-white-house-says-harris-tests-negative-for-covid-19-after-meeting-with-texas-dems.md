@@ -90,6 +90,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris immediately puts on mask, forces reporters to as CDC pivot spurs confusion"
+    excerpt: "Vice President Kamala Harris on Tuesday went beyond new CDC mask guidelines by putting on a face covering and forcing reporters and guests to do so as well — even though Washington did not"
+    publishedDateTime: 2021-07-27T22:26:00Z
+    webUrl: "https://nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/"
+    ampWebUrl: "https://nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-cdc-mask-19.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
     excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
     publishedDateTime: 2021-07-22T21:15:00Z

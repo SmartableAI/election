@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-27-amid-hunter-biden-art-scandal-gop-rep-introduces-transparency-bill-targeting-potus-family-members.md",
+      "title": "Amid Hunter Biden art scandal, GOP rep introduces transparency bill targeting POTUS family members",
+      "excerpt": "Fox News exclusively obtained Waltz’s bill, the Preventing Anonymous Income by Necessitating Transparency of Executive Relatives (PAINTER) Act, which will require that presidents and vice presidents provide financial disclosures for all of their children.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gNI31aC-McI/hunter-biden-art-gop-bill-transparency",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gNI31aC-McI/hunter-biden-art-gop-bill-transparency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a5caf11-1d33-4ad9-8839-db1bd23329a8/06238ea1-d906-4d1f-8726-d9a8c455a054/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-art-gop-bill-transparency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-art-gop-bill-transparency.amp",
+      "publishedDateTime": "2021-07-27T15:06:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-america-first-legal-demands-info-on-bidens-extreme-open-border-policies-the-rails-have-been-ripped-off.md",
       "title": "America First Legal demands info on Biden's 'extreme' open border policies: 'The rails have been ripped off'",
       "excerpt": "America First Legal (AFL), former Trump adviser Stephen Miller's legal group, filed Freedom of Information Act (FOIA) requests with several executive branch agencies in an attempt to obtain records and data on Biden administration's \"extreme\" open border policies.",
@@ -55,6 +111,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-the-trailer-trump-texts-and-texas-inside-an-all-republican-primary-that-didnt-go-as-planned.md",
+      "title": "The Trailer: Trump, texts and Texas: Inside an all-Republican primary that didn't go as planned",
+      "excerpt": "Instead, Democrats spent little, turned out few voters, and set up an all-Republican race between Wright and Ellzey, who'd previously sought the seat in 2018. Instead of a red-on-blue suburban battle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXK7Q5XO6EI6XANSTNYGDJMC3A.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -167,6 +275,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-biden-masking-again-another-step-on-our-journey-to-defeating-this-virus.md",
+      "title": "Biden: Masking Again 'Another Step on Our Journey to Defeating This Virus'",
+      "excerpt": "U.S. President Joe Biden is defending updated CDC guidelines that say even people who have been vaccinated against COVID-19 should wear masks in some places.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707",
+      "originalUrl": "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1856754/biden-defends-updated-covid-mask-guidelines.jpg",
+          "width": 2500,
+          "height": 1657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707?amp=1",
+      "publishedDateTime": "2021-07-27T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1170,158 +1330,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-donald-trump-jr-vastly-more-popular-with-republicans-than-mitch-mcconnell-poll-shows.md",
-      "title": "Donald Trump Jr. Vastly More Popular With Republicans Than Mitch McConnell, Poll Shows",
-      "excerpt": "Donald Trump Jr., who has been a vocal force in the Republican party, was also significantly more popular than House Minority Leader Kevin McCarthy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1855069/donald-trump-jr-poll-mitch-mcconnell.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1",
-      "publishedDateTime": "2021-07-26T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-biden-and-kadhimi-seal-agreement-to-end-us-combat-mission-in-iraq.md",
-      "title": "Biden and Kadhimi seal agreement to end US combat mission in Iraq",
-      "excerpt": "President and PM meet at Oval Office and announce schedule to shift mission entirely to training and advisory role by end of this year",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "originalUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/128af502e617b1e5bf969afb2545849df37b1c60/0_0_4385_2630/master/4385.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef0434ac01738e54ec3dca6dd172c5dc",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "publishedDateTime": "2021-07-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine.md",
-      "title": "Sarah Huckabee Sanders urges people to get the ‘Trump vaccine’",
-      "excerpt": "Former White House press secretary Sarah Huckabee Sanders acknowledged Sunday that she was inoculated against COVID-19 “months ago” — with the “Trump vaccine.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "originalUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/sarah-huckabee-sanders.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "publishedDateTime": "2021-07-25T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

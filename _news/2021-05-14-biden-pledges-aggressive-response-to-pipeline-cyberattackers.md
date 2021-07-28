@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210520&i=OVEDRUQJJ&r=OVEDRUQJJ&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Biden warns cyberattacks may trigger 'shooting war'"
+    excerpt: "President Joe Biden used his first visit with rank-and-file members of the U.S. intelligence community to warn about growing threats to national security, particularly the wave of cyberattacks, saying they could lead to a 'real shooting war."
+    publishedDateTime: 2021-07-27T23:28:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/27/biden-warns-cyberattacks-may-trigger-shooting-war/5394939001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/dfe68c75-8331-4bc5-89d4-b6eb78b3c521_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
     excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"

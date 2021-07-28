@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article252899763.html
 cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article252899763.html"
 type: article
 quality: 70
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Miami Herald
@@ -27,21 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom"
-    excerpt: "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World."
-    publishedDateTime: 2021-07-20T16:30:00Z
-    webUrl: "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/"
-    ampWebUrl: "https://amp.indystar.com/amp/8027480002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
+  - title: "Biden: Masking Again 'Another Step on Our Journey to Defeating This Virus'"
+    excerpt: "U.S. President Joe Biden is defending updated CDC guidelines that say even people who have been vaccinated against COVID-19 should wear masks in some places."
+    publishedDateTime: 2021-07-27T20:10:00Z
+    webUrl: "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707"
+    ampWebUrl: "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707?amp=1"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 69
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200"
+      - url: "https://d.newsweek.com/en/full/1856754/biden-defends-updated-covid-mask-guidelines.jpg"
+        width: 2500
+        height: 1657
+        isCached: true
+  - title: "'We follow the science:' Biden on mask guidance"
+    excerpt: "Biden on mask guidance. Posted . U.S. President Joe Biden, asked whether vaccinated Americans would be asked to wear masks again as COVID cases"
+    publishedDateTime: 2021-07-23T14:48:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN2G5B3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210723&i=OVEN2G5B3&r=OVEN2G5B3&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Frederick man sentenced to seven months in federal prison for threatening Biden, Harris during 2020 campaign"
+    excerpt: "A Maryland man was sentenced Tuesday to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when they were candidates during the 2020 campaign."
+    publishedDateTime: 2021-07-27T23:47:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-maryland-man-threats-against-biden-harris-20210727-wkuwqvtv7fd5bdljg76ag4qqpi-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-maryland-man-threats-against-biden-harris-20210727-wkuwqvtv7fd5bdljg76ag4qqpi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-maryland-man-threats-against-biden-harris-20210727-wkuwqvtv7fd5bdljg76ag4qqpi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 71
+    images:
+      - url: "https://www.baltimoresun.com/resizer/OFHvjPSli9HM6BLeWVKRZYWfIjc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6GPTACAZWQGX5CBP7AVVNF4GGE.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "Visiting the Walt Disney World soon? You may see President Joe Biden’s twin on stage"
     excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"

@@ -202,6 +202,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
+    excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
+    publishedDateTime: 2021-07-27T22:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "PolitiFact declare claims Biden, Harris distrusted COVID vaccine under Trump are 'false' despite past rhetoric"
     excerpt: "PolitiFact appears to be shielding President Biden and Vice President Harris from criticism over their past rhetoric expressing distrust in the coronavirus vaccine during the Trump administration."
     publishedDateTime: 2021-07-27T01:25:00Z

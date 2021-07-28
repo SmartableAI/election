@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-14-republicans-ramp-up-pressure-on-biden-to-pull-nominee-linked-to-eco-terrorist-plot.md",
+      "title": "Republicans ramp up pressure on Biden to pull nominee linked to eco-terrorist plot",
+      "excerpt": "Republican senators are ramping up pressure on President Biden to withdraw Tracy Stone-Manning's nomination for Bureau of Land Management (BLM) director.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_V9EL0NcVY/republicans-pressure-biden-tracy-stone-manning-tree-spiking",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-pressure-biden-tracy-stone-manning-tree-spiking.amp",
+      "publishedDateTime": "2021-07-14T14:22:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-pence-calls-on-biden-to-demand-olympics-move-out-of-beijing-until-china-offers-transparency-on-covid-19.md",
       "title": "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19",
       "excerpt": "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang.",
@@ -1606,62 +1662,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.md",
-      "title": "Biden tells Putin to 'disrupt' ransomware groups operating out of Russia",
-      "excerpt": "President Biden told Russian President Vladimir Putin on Friday to “disrupt” ransomware groups operating out of Russia amid another series of attacks this week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s1nv30Fa4AM/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s1nv30Fa4AM/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.amp",
-      "publishedDateTime": "2021-07-09T13:59:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
 type: article
 quality: 134
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d5427fa-e76f-4d57-ad5a-c419ce110318_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden: Federal worker vaccines being considered"
+    excerpt: "President Joe Biden says that requiring all federal workers to get vaccinated against COVID-19 is “under consideration,\" as the delta variant spreads across the U.S. and Americans still refuse the shot."
+    publishedDateTime: 2021-07-27T22:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/27/biden-federal-worker-vaccines-being-considered/5394428001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b0bf25cb-6509-418b-b8c1-f47be2d36386_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

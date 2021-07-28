@@ -204,6 +204,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
+    excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
+    publishedDateTime: 2021-07-27T22:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "PolitiFact declare claims Biden, Harris distrusted COVID vaccine under Trump are 'false' despite past rhetoric"
     excerpt: "PolitiFact appears to be shielding President Biden and Vice President Harris from criticism over their past rhetoric expressing distrust in the coronavirus vaccine during the Trump administration."
     publishedDateTime: 2021-07-27T01:25:00Z
@@ -476,6 +492,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "oxVfy2C4IxtfceRBE3rhmaiOYIOvDkR2VmYFkAfi2jhtvfyHDIw6fnm2Je/GZwo1e+7Xu7fECINlYtxCXghAxBvyxaaZj7Qou1VBdsdVFSG+6umtklHF/rmD4MorJq7MG4UIZCxbSSPTi2TFSs4HNNg5nvSEsXIt2jjvPVtmvfHyqfdjNY4osg/Q5vzhVn3w7XIiAb8hbfRCBUDiCVoYKQmkV5B0j2rrFyPI6TL8JIjvLT6G8oOhYvXKONM/3d1hCQnYrY00/mQsf3Ls/0IHU3723fJjfpO+9NDAu+qUuP+wH2zPhepgL9+wqVT3EwgohNCSnCLAlXW170vax5o6Ia+Xg5HO4u0gv+5Q/FPRFtg=;WsGw0vJh4ljrcyqopyr13w=="
+secured: "PkrSLi9za0U7GtHcSN5ziRTI2lplUZmrZYAcsIJR+nd8E3SUqXl22pBatWgzjpEC2+Gn7gWbNdAnA6pxwx7n0+luRGKiKtI6WN09UIKCtl3eCJ6ioKynZkXnKG3iHzz1dmQ4tTb76JD8cqS4KbeicpRE12GC/aRmFls5T3wf0J3qoCSDCfSMBI8chPfiT8ZkZ9q9ifp3b1nD967z6MkXTsj/cyKqM/HGal+mOcyoOQmAJ2UWKUU7o6R4tsr9tPprLHwZo6JZRO82W4Z5bK305qIF0x4DEgtbHS7SWXOHAYn2Wt6bQdH7h0D/2ajH0J2UeOUsyn8EDlNXPsFtU08R8TvGBFXthJ6hCb/f5ra909JEOxZMX1F4W/MKDXBnR58ipydcEAtU76xmpORO7rRtUIobMryqHESWp6gup/mFdncXxPIBJDlEa4Z685m8VeEAo5ZCdtBxmAQ7Qo0AbNbluqj9a/hFwNvxSgkzXDeqw2NEzQbACJzVHZsg/j/4GtbEZ8YQWQyaQrY8vTACv4G1LA==;kQkbTaIHehaMxhSSMxRjtQ=="
 ---
 

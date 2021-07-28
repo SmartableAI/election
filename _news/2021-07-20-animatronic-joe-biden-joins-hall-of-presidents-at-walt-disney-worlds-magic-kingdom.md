@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.indystar.com/amp/8027480002"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Indianapolis Star
@@ -27,33 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage"
-    excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
-    publishedDateTime: 2021-07-21T10:31:00Z
-    webUrl: "https://www.miamiherald.com/news/state/florida/article252899763.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article252899763.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article252899763.html"
+  - title: "President Joe Biden Speans at Atlantic Aviation in Philadelphia"
+    excerpt: "President Joe Biden delivers remarks on actions to protect the sacred, constitutional right to vote at the National Constitution Center in Philadelphia on Tuesday, July 13, 2021. Photo by John Angelil"
+    publishedDateTime: 2021-07-13T19:33:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e1f050c413c7fa2b6a66cce25f31c302/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 70
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/4150a494-c606-4f1f-a857-0ac16d3e3b23/main/1280x720/1m2s16ms/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdnph.upi.com/pv/upi/e1f050c413c7fa2b6a66cce25f31c302/BIDEN-PHILADELPHIA.jpg"
+        width: 650
+        height: 480
         isCached: true
-  - title: "Visiting the Walt Disney World soon? You may see President Joe Biden’s twin on stage"
-    excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
-    publishedDateTime: 2021-07-21T10:31:00Z
-    webUrl: "https://www.miamiherald.com/news/local/community/miami-dade/article252899763.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/local/community/miami-dade/article252899763.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/community/miami-dade/article252899763.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 48
 
 secured: "xpfDf7A/siQ3/XOMe+ZXoZZ7bGD0Y2SEmRnK8gGYRDh22I5SqYXLdDmEkaoiRmIQvIBwJSfii6sZBUH7z+nLPR69ebyUef37oYapauYrRcJyS93Pn/0pZRRgVLIAxxwljtmDXhd8PDTFh73TGD7csXBoIUtok2ktGWydXarQZcOYYGedUTVeuirasmOF4LLptVCz4vUZnsyniQtuxqw0XRgSBezEf/Bv8jDrsdbKx9mHckcFXaOuHHrBiO4RUBE0mupB5wjta1pfv60p3xdKxIc6elveoqRpU0P4pb57l22XsJ5LKt0+f+sGRxiJH8bhqO8TQA+NSbVgRh/1me0ODRbHVyM8AxYvl6Zq22MWxiLd53CgLLy3NPJ6/7cBUIi4fYWid+6G6Ziw1Sm7+h+/8aTwkCkDCCw8eK1HbIOMQ9neBzZotDU4CzddVtyyOeK7F/PQOkRXKvXGcYkyqi8zTXnrT/PzHK8vM9dbLhkSiIVjkSbEIvHn+a1YRg4rBC95LYr0eIYxgM5jnGJnesQmJA==;NbvebxAiQX77PwRPuAHNqg=="
 ---

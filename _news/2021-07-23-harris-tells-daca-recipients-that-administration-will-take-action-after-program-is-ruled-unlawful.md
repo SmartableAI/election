@@ -110,6 +110,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris immediately puts on mask, forces reporters to as CDC pivot spurs confusion"
+    excerpt: "Vice President Kamala Harris on Tuesday went beyond new CDC mask guidelines by putting on a face covering and forcing reporters and guests to do so as well — even though Washington did not"
+    publishedDateTime: 2021-07-27T22:26:00Z
+    webUrl: "https://nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/"
+    ampWebUrl: "https://nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/vp-harris-puts-on-mask-forces-reporters-to-after-cdc-mandate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-cdc-mask-19.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "F1SzyhkXRYcxEjo3yu6Ydg1gY2U4EZPl4/TnssIjO41T9AQdJ6kw6yMIbCswoF3LH2+JMPUEyGZbf7Ij1OCZtSq0YSarkMXnn49284AG6FgmwungaGfP9IbUoIMPzGalA7NXjPvaG7cyFlbUmTLnQllTR/KqUHqaiM+VxxSNCrv0Jv2maa2KX48SUxHz8MAwSWOmS1GNFz2EAUzeE95ucZKo0csl/qkvEEFDsvLvGukDwO/kbLkaOtAGn58AvJmy+l+Rqp8uaPL8dqA8Z1q6lqRTu4SeydL7pI8RdUhv6iGKsFzJKN161qefoLf58jRHn6zuEHQTF5yLqvB6NGLeMf5YlibsCtL+zk4p7Cvjp/8=;HsmiM4JuCUHFVwNfsslUDA=="
 ---

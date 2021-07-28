@@ -209,6 +209,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
+    excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
+    publishedDateTime: 2021-07-27T22:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Protests break out in front of WH urging Biden to take firmer stance on Cuba"
     excerpt: "Protesters from across the U.S. converged in front of the White House Sunday night in an effort to get the Biden administration to take a firmer stance in its effort to support anti-government demonstrators in Cuba."
     publishedDateTime: 2021-07-26T10:12:16Z
