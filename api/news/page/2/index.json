@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-27-trump-ally-thomas-barrack-pleads-not-guilty-in-foreign-lobbying-case.md",
+      "title": "Trump ally Thomas Barrack pleads not guilty in foreign lobbying case",
+      "excerpt": "Thomas Barrack, a longtime ally of former President Donald Trump who headed up his presidential inaugural committee, pleaded not guilty on Monday to federal charges stemming from his work unlawfully lobbying the Trump administration on behalf of the United Arab Emirates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/thomas-barrack-trump-associate-not-guilty-plea/",
+      "originalUrl": "https://www.cbsnews.com/news/thomas-barrack-trump-associate-not-guilty-plea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/26/23ed4d1d-98b8-4b58-b9c0-52ce045acdd3/thumbnail/1200x630/854f368ac9ccf4a65ad0e4cf49206396/gettyimages-1234213061.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-guilty-plea/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-guilty-plea/",
+      "publishedDateTime": "2021-07-26T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-president-biden-jumps-into-vaccine-mandate-debate-as-va-requires-health-workers-to-get-vaccinated.md",
       "title": "President Biden jumps into vaccine mandate debate as VA requires health workers to get vaccinated",
       "excerpt": "The Department of Veterans Affairs will require many of its frontline health workers to be vaccinated, a senior administration official told CNN on Monday, making the agency the first area of the federal government to require shots among some of its workers.\n    \n",
@@ -1247,58 +1299,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-arizona-secretary-of-state-tells-trump-before-election-lie-rally-get-over-it.md",
-      "title": "Arizona secretary of state tells Trump before election lie rally: get over it",
-      "excerpt": "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 417,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/274b71ffa728f51467d86bfb18529a226c27cbf3/0_180_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f8b06ce6f4b954493ef7f27f5896593",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "publishedDateTime": "2021-07-24T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

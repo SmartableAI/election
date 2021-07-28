@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-12-stephen-colbert-on-donald-trumps-one-saving-grace.md",
+      "title": "Stephen Colbert on Donald Trump's \"one saving grace\"",
+      "excerpt": "The \"Late Show\" host tells \"Face the Nation\" what he thinks of the outspoken businessman who has dominated the 2016 Republican presidential primary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/stephen-colbert-on-donald-trumps-one-saving-grace-1/",
+      "originalUrl": "https://www.cbsnews.com/video/stephen-colbert-on-donald-trumps-one-saving-grace-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/12/5c34af6c-aead-44f7-8ab2-c01dc751efcc/thumbnail/1200x630/2595271696eaa1a415628849fc8f4483/ftn-colberttrump-1127-478722-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are-unhelpful.md",
       "title": "Arkansas governor says 'divisive' Trump attacks on GOP officials are 'unhelpful'",
       "excerpt": "on Sunday said he was concerned about the divisions in the GOP and criticized former President Trump Donald Trump Harry Reid reacts to Boehner book excerpt: 'We didn't mince words' Man arrested ...",
@@ -1535,63 +1587,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
-      "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
-      "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
-      "originalUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e360c9be-94bc-48ba-b8f1-c0695538cccb/162fa33e-186e-4288-9a45-28a8efcaa517/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
-      "publishedDateTime": "2021-04-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

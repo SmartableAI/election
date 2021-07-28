@@ -43,6 +43,22 @@ related:
         width: 980
         height: 580
         isCached: true
+  - title: "Trump rewards Ken Paxton's support with key endorsement in Texas GOP primary"
+    excerpt: "Ex-President Donald Trump has endorsed longtime backer Ken Paxton for a third term as Texas attorney general. George P. Bush is running against him."
+    publishedDateTime: 2021-07-28T13:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/28/trump-rewards-texas-ag-ken-paxton-key-endorsement-gop-primary/5398316001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5398316001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5398316001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/fe7eebb757fb8195621c4330857658d79889c80a/c=0-151-1600-1051/local/-/media/2020/09/17/Austin/ghows-TX-200919148-42905e92.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "A week after border visit, former President Donald Trump returning to Texas again"
     excerpt: "Barely a week after he was at the Texas border, former President Donald Trump is expected back in the state this weekend as the keynote speaker at a political conference in Dallas. Trump speaks at 3:35 p."
     publishedDateTime: 2021-07-06T17:43:00Z

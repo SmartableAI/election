@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Trump Endorses Paxton for 3rd Term as Texas Attorney General"
-excerpt: "Texas Attorney General Ken Paxton has drawn the endorsement of former President Donald Trump for election to a third term, calling the legally beleaguered incumbent “a true Texan who will keep Texas safe — and will never let you down."
-publishedDateTime: 2021-07-27T02:23:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-26/trump-endorses-paxton-for-3rd-term-as-texas-attorney-general"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-26/trump-endorses-paxton-for-3rd-term-as-texas-attorney-general"
+title: "Trump rewards Ken Paxton's support with key endorsement in Texas GOP primary"
+excerpt: "Ex-President Donald Trump has endorsed longtime backer Ken Paxton for a third term as Texas attorney general. George P. Bush is running against him."
+publishedDateTime: 2021-07-28T13:27:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/28/trump-rewards-texas-ag-ken-paxton-key-endorsement-gop-primary/5398316001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/07/28/trump-rewards-texas-ag-ken-paxton-key-endorsement-gop-primary/5398316001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5398316001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5398316001"
 type: article
-quality: 35
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.gannett-cdn.com/-mm-/fe7eebb757fb8195621c4330857658d79889c80a/c=0-151-1600-1051/local/-/media/2020/09/17/Austin/ghows-TX-200919148-42905e92.jpg?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Trump teases endorsement in Texas AG race"
@@ -38,22 +46,6 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_102620getty_trump-midterms_0.jpg"
         width: 980
         height: 580
-        isCached: true
-  - title: "Trump rewards Ken Paxton's support with key endorsement in Texas GOP primary"
-    excerpt: "Ex-President Donald Trump has endorsed longtime backer Ken Paxton for a third term as Texas attorney general. George P. Bush is running against him."
-    publishedDateTime: 2021-07-28T13:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/28/trump-rewards-texas-ag-ken-paxton-key-endorsement-gop-primary/5398316001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5398316001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5398316001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/fe7eebb757fb8195621c4330857658d79889c80a/c=0-151-1600-1051/local/-/media/2020/09/17/Austin/ghows-TX-200919148-42905e92.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "A week after border visit, former President Donald Trump returning to Texas again"
     excerpt: "Barely a week after he was at the Texas border, former President Donald Trump is expected back in the state this weekend as the keynote speaker at a political conference in Dallas. Trump speaks at 3:35 p."
@@ -115,7 +107,16 @@ related:
         width: 2000
         height: 1502
         isCached: true
+  - title: "Trump Endorses Paxton for 3rd Term as Texas Attorney General"
+    excerpt: "Texas Attorney General Ken Paxton has drawn the endorsement of former President Donald Trump for election to a third term, calling the legally beleaguered incumbent “a true Texan who will keep Texas safe — and will never let you down."
+    publishedDateTime: 2021-07-27T02:23:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-26/trump-endorses-paxton-for-3rd-term-as-texas-attorney-general"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "/5yZ0j/HHCY8U7d9C1rprb9rUX90BIbqiHK456vAfY9EOok6wDkvUJbOVE1wb53NQpxNhjV1MSwC62RmofGpBrLgM88qFxwyB32JV0bih4Q9Fcs8SHW/tVE5SNiPW7OVtcUBCPgHGlERVNcrTNETEIuaLMeAt0p1VXckke7j+uSxwdQjtgG/nBaPxKgZGWqvVR60f0Dqn5vSjbjvC60NJh+D5DT4+307Sv/WGaMa3vQ2fbnADYWhXBIG9viNJWdXfiXJhQAMtSmWZW2Bd83IsFy9H92fBT7kM/zn1WwCNV6h56FZaLcfmrUXbaWQA921D8JhMg3P++3fo/Y51KPkeHAyTfivjy+5aQ+yb3MalwEX4Oee6lStm1C+w3ITwegZFovFvVsIxYTSbntxggoeguBsB/rzJP0pb+W8G5hUEhBNefp5dfkZ9TYKSyht1ZHFAJucKSsuHnTt8DlkkLWHSO5nE45zmRNa7EAuljQamQtknpf280wWOJwSzoqzNRQQMcKcmpm7WtVijNu/kNLslg==;vmh+HIdC2FphMyhvloiu5Q=="
+secured: "CfMoUbW9C11zQ3TGSdWVU4cRlxJ1fBoCwc1Fs9zuPlFZzBvfTJxjkxbG3VWgB7jtYrOAKISJDCATM/ckGDO1zHWVlZ4dkIpPdH5fyv8hYWfIM2MENIRazVEcQgpyzgiS76gEiwI3n7FC61oAyUSksanD/eZM1IRAYSf+LAumOsTKdlW9dVob9oivayd9rilafO6RsByvnaG7G0/vUPKvWHxPUNslsVtNMwOXpIAVWJudhQ+/aoCEv2RUZATAYrYyy2ezzTcvGN6dLlm5u4McakOl70T2dwvp+ckCt1Ie5/yfZO96bX3PppUc3excKTNEhI/mAoXK1oXdDEvsNVrXO/7/WVfuo+QZVbownfqtt/A=;2ZBrIPOjiO9A9HtL/AEjCw=="
 ---
 

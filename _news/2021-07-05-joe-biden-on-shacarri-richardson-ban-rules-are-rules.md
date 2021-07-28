@@ -35,6 +35,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Three questions from the Nixon era for Joe Biden"
+    excerpt: "Since 1971 there has been such a rise in debt and money that it seems impossible to believe that the US, Europe or Japan will ever be able to pay it off through growth alone’"
+    publishedDateTime: 2021-07-28T15:00:00Z
+    webUrl: "https://www.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
+    ampWebUrl: "https://amp.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd67a6da5-4255-451d-95a0-f0e0a0e5a3c8.jpg?source=amp&fit=scale-down&width=499"
+        width: 499
+        height: 281
+        isCached: true
   - title: "Biden says U.S. job growth tied to rescue plan but more work needed to boost vaccinations"
     excerpt: "U.S. President Joe Biden on Friday said the nation's job growth is a direct result of the COVID-19 rescue plan passed earlier this year but that more work is needed to increase the rate of vaccination and get more people back to work."
     publishedDateTime: 2021-07-02T14:03:00Z

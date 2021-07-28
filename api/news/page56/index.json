@@ -2,6 +2,58 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-04-09-first-thing-biden-rails-against-epidemic-of-us-gun-violence.md",
+      "title": "First Thing: Biden rails against ‘epidemic’ of US gun violence",
+      "excerpt": "Joe Biden has described gun violence in the US as an “epidemic” and an “international embarrassment”, in an emotional address at the White House after a series of mass shootings in recent weeks. The address follows his announcement of a series of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fc8e56209695d10f1fb13dc3536cd73f952d12cf/0_301_6045_3627/master/6045.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d895af94bd246ac6c6a3bc9a18931e9f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "publishedDateTime": "2021-04-09T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-joe-manchin-on-the-fate-of-joe-bidens-agenda.md",
       "title": "Joe Manchin on the fate of Joe Biden's agenda ",
       "excerpt": "Joe Manchin says it's no fun being the most powerful man in Washington.\n    \n",
@@ -1325,58 +1377,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mike-pence-inks-deal-to-write-2-books.md",
-      "title": "Mike Pence inks deal to write 2 books",
-      "excerpt": "Washington — Former Vice President Mike Pence has signed a deal with Simon & Schuster to publish two books, with the first, his autobiography, tentatively set to hit shelves in 2023 as the nation gears up for the next presidential election. His ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/a0af4233-839a-42bc-b7ea-17a6b76762fa/thumbnail/1200x630/c35ad2142b94342d0dc5c9892e32ec28/gettyimages-1230702122.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
-      "publishedDateTime": "2021-04-08T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -148,6 +148,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Kyrsten Sinema meets with President Joe Biden on infrastructure plan, is optimistic deal will be reached"
+    excerpt: "Sen. Kyrsten Sinema, who is co-leading negotiations on a bipartisan infrastructure plan, met with President Joe Biden Tuesday for a one-one-one meeting as lawmakers seek to overcome disagreements on the $1."
+    publishedDateTime: 2021-07-27T21:20:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5386080001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5386080001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 56
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/27/PPHX/29fde48d-88fe-4842-95fc-a5113767d098-AP21196772466931.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "MICHAEL BARONE: Joe Biden's big lie"
     excerpt: "Did you know that Black people are not going to be allowed to vote in America anymore? At least in states controlled by Republicans. Sounds unlikely, but that's a conclusion you might have come to if you took seriously what President Joe Biden said in Philadelphia last week."
     publishedDateTime: 2021-07-19T12:33:00Z

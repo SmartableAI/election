@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-10-george-p-bush-defends-his-support-for-donald-trump-im-my-own-man.md",
+      "title": "George P. Bush Defends His Support for Donald Trump: 'I'm My Own Man'",
+      "excerpt": "Texas Attorney General Candidate George P. Bush defended his support of Donald Trump on Wednesday, noting that members of his family have \"differences of opinion\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
+      "originalUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1817426/george-p-bush-houston-texas.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
+      "publishedDateTime": "2021-06-10T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-for-benjamin-netanyahu-like-donald-trump-only-fraud-can-explain-his-defeat.md",
       "title": "For Benjamin Netanyahu, like Donald Trump, only ‘fraud’ can explain his defeat",
       "excerpt": "Israel’s democratic transition is set for Sunday, but nothing is certain amid the prime minister’s scorched-earth campaign to wreck his opponents’ coalition.",
@@ -1518,54 +1570,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
-      "title": "Republican leaders to summit with Trump over conservative agenda",
-      "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
-      "originalUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
-      "publishedDateTime": "2021-06-03T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

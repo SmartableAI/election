@@ -158,6 +158,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Kyrsten Sinema meets with President Joe Biden on infrastructure plan, is optimistic deal will be reached"
+    excerpt: "Sen. Kyrsten Sinema, who is co-leading negotiations on a bipartisan infrastructure plan, met with President Joe Biden Tuesday for a one-one-one meeting as lawmakers seek to overcome disagreements on the $1."
+    publishedDateTime: 2021-07-27T21:20:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5386080001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5386080001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 56
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/27/PPHX/29fde48d-88fe-4842-95fc-a5113767d098-AP21196772466931.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "xqSlsS+F4ENYwlcMDO92G1gisxTr2DwTXWhzA7ZpmdOeGwXbbEP2FKqFwLqS9ffNTg0KuzqkI0B5uQuCzYmtF/KOs1hEJGlmu/mvwNS1M7Ia921N7r9d4V2LOzGl7qrzJSFLztPNLEJsJQBzfuKtWRC0LCXHbs/ycm4c8jUzYZMUe+zwLI0Bc2QVsqMXyz5Oby+hVMxqx+ZpiqWEVBfUrF/uYT6UdYQFzs0EQYYo0SV6ouJfwYqR8TF3/z7b01EHjADt7Me/6syD53f2l+6q+VliNRI7EePYSrUwyQfPNY7VJSxyFN9caZJNVJkg517D0wDCelJrCMyd0z4NJDUfAvoHHNPHFLfI2UnZBZcFqFY=;RMYB6qlPhiKrtr77xTTHlQ=="
 ---

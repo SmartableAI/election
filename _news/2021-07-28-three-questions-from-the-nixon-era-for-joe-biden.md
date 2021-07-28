@@ -1,16 +1,16 @@
 ---
 category: news
-title: "What Joe Biden can learn from Richard Nixon’s playbook"
-excerpt: "But a deeper analysis shows that the challenges faced by the Nixon administration — from changing views about America’s place in the world, through the pressures of globalisation, to the difficulties in balancing economic and foreign policy — are exactly those facing President Joe Biden today."
-publishedDateTime: 2021-07-04T13:08:00Z
-originalUrl: "https://www.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
-webUrl: "https://www.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
-ampWebUrl: "https://amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
+title: "Three questions from the Nixon era for Joe Biden"
+excerpt: "Since 1971 there has been such a rise in debt and money that it seems impossible to believe that the US, Europe or Japan will ever be able to pay it off through growth alone’"
+publishedDateTime: 2021-07-28T15:00:00Z
+originalUrl: "https://www.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
+webUrl: "https://www.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
+ampWebUrl: "https://amp.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
 type: article
 quality: 125
-heat: 245
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Times
@@ -25,26 +25,26 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3bcd5970-8753-425c-8481-5641d593cbf2.jpg?source=google-amp&fit=scale-down&width=500"
-    width: 500
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd67a6da5-4255-451d-95a0-f0e0a0e5a3c8.jpg?source=amp&fit=scale-down&width=499"
+    width: 499
     height: 281
     isCached: true
 
 related:
-  - title: "Three questions from the Nixon era for Joe Biden"
-    excerpt: "Since 1971 there has been such a rise in debt and money that it seems impossible to believe that the US, Europe or Japan will ever be able to pay it off through growth alone’"
-    publishedDateTime: 2021-07-28T15:00:00Z
-    webUrl: "https://www.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
-    ampWebUrl: "https://amp.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bb2bd452-727f-4fe4-877c-4d0875c187d3"
+  - title: "What Joe Biden can learn from Richard Nixon’s playbook"
+    excerpt: "But a deeper analysis shows that the challenges faced by the Nixon administration — from changing views about America’s place in the world, through the pressures of globalisation, to the difficulties in balancing economic and foreign policy — are exactly those facing President Joe Biden today."
+    publishedDateTime: 2021-07-04T13:08:00Z
+    webUrl: "https://www.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
+    ampWebUrl: "https://amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
     quality: 125
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd67a6da5-4255-451d-95a0-f0e0a0e5a3c8.jpg?source=amp&fit=scale-down&width=499"
-        width: 499
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3bcd5970-8753-425c-8481-5641d593cbf2.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
         height: 281
         isCached: true
   - title: "Biden says U.S. job growth tied to rescue plan but more work needed to boost vaccinations"
@@ -111,6 +111,6 @@ related:
       domain: mytwintiers.com
     quality: 35
 
-secured: "3b2aFSbji6jmcwpBeC3g589/TfiwCanpo6idsqX2iM7Tj9s1YuSv9yMhUzolAgYjz7EZWtJqlu57qOtH0OWSDRMx0TvOQVkHFupUriT392fvgbggfwPvodCbvBcozu5tOHd6/SeWTGD13WAX2dHsUIH1WK085ubR4BJx6BNLEHfleUa6Vjnk91XHYmqtdbNRnW4FRrZidVQU9K4yXt4GW6pnMLmYUOUQF0yoJPM/S0fGhlA4cRupGmef/a5hGh1qjwSh1LdFx3qIR7LdxfDoV9ckpOn6wr5xE/a+sMrijFJQ2e6fs5xQ6aXM61fkRqamY/eeBzLYC/r+BeOzklThaf1kVf4MrU7lBAxWntMmkiq/zi+eUTVV5QTa5ScyGcN64t7dPCMaJtR8OUnezlupfaThY3xi5yXJ+kWOicvu3BgwMRLnEBxCgYEiEJ7F5eMyettZnVDRRSXQqQc9QeVcPtWcomaECbiHa1dkhsylNunaIIipwTe/KRidIELVjSwGZsENLa3fTiAv/ySNOO9JOQ==;Sdmwf1ZwuthyL/BNlK5XuA=="
+secured: "DklAxRKjoxitYt8yuAfR9sAztWANNArNKmBq3c0xsgOkX6S/XBw3RwXSqtrH0yf+mF+g/b3ZLEvseeOyAxXhQpqBAVSG7iV6nLVlm2neWYOEZiLNbW7LGGgUyWZ+ssl/HC+ytxeD2ssz7nL7tYi/3vl9O6KhQG1736K4/NCsqOb1Ou/j+05C96Zrjzex5/y2YUy/aFexjglrjtk7PlWD/rw2sUYoUnvt0C9wKCzVyVOCO8tlokDq8ryAjJvt/jMrLs2gW46bnWZLh3Q80Lx3msiCEnkTlm/qLQOdnUDzh97TCS7kvutnhC62yFCNWA6UA9hiGEiwkf/GTCer+m6qeNgmmV5jWFRmPJ9j1o78eRQ=;MCvauWmhYbB6GRxOipj27A=="
 ---
 
