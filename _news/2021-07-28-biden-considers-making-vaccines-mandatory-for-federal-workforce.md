@@ -2,9 +2,9 @@
 category: news
 title: "Biden considers making vaccines mandatory for federal workforce"
 excerpt: "President Joe Biden says he is considering a requirement for all federal employees to get the Covid vaccine after addressing the intelligence community workforce."
-publishedDateTime: 2021-07-27T22:10:00Z
-originalUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902"
-webUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902"
+publishedDateTime: 2021-07-27T22:12:00Z
+originalUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902?playlist=mmlsnnd_bestofnbc-nnd"
+webUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902?playlist=mmlsnnd_bestofnbc-nnd"
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117477957902"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117477957902"
 type: article
@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Masks and vaccine mandate show CDC and Biden taking emergency action amid Covid-19 surge"
+    excerpt: "The steps President Joe Biden's administration is adopting this week to re-recommend masks and require vaccines for federal workers amount to emergency actions designed to contain a new surge of Covid-19 that has quickly become the top issue confronting the White House.\n    \n"
+    publishedDateTime: 2021-07-28T00:40:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sAvu4EgLrAk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/emergency-actions-on-covid-19-from-biden-cdc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/emergency-actions-on-covid-19-from-biden-cdc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727155709-01-biden-odni-0727-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to meet with key Democratic negotiator as White House presses to keep agenda on track"
     excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
     publishedDateTime: 2021-07-27T16:34:50Z
@@ -415,6 +431,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "YjIZ4AekcdnSQfwgHTh+cROvoL+Z7VMTeWDP132kViA8SdPbI3lK2Kic7CQpbZO5vR5yYlNi2wTn3TTENe5fi7TJ4LFUpDe67hZ8egJK0q+cXNykEFSHKLfTzxLjepM96wvcFTjlr9ZmNkevkZkdTcM84n3gv6wWohELb1KPOZ+q3OAKP1hcU+AKSaiP6EetYvnsDpob04tXVxS43TlUwtHM6mMk5f6DkeM+8JwkS82TkY5mt/uDy6o9ljofSv2BK3p7viNR7MnZP5wrnwyW1vCJMCuuL4hYGsui0JUL8unRPWXh60C1Y1mGbm4AO+unoGQYraMVt5QB+4EnUyOIzDMHRPW0wKoKdrWxtRe1tQ4=;pzA3yOzYm9ACqjvqrBV9RA=="
+secured: "sTUlYMPmF1K1Juh1cCOrPlXFKXtHkuTIjzBv6uOK8bxOLcIkWxupczRvkGR+V8c1xVvxHy98eF0N7nPo4tG+iVyTt9ykNLf//b9CFfGnSwrjnePLySq3RUYBvNCKO9fn/+5ZUk1AVJNKQRuJfRBIon7Ii83o+BZ+LTLklDAGGWs039YjcKl/f9OZYDkIc8ApxLxoXDGovKUdE7+h9iEwmEpHTNPvoLMqvT5IsSGR5eS8UXzr5vq537Hmfm0XvyA2DU7/AhY3SXagijD/KoB5kuFafp3H+qkc1M6SKs3kN871MWzS9VqY0NeDXcaf4X7rpLFbFbVpMtXr1S4PFIBPdmTENnXL9RdNfhHDFLLhq5I=;9hOMyPglp7U0sv4LOamFYQ=="
 ---
 

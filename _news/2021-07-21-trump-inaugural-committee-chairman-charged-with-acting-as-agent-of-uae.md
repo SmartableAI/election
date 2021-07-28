@@ -192,6 +192,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "U.S. Declines to Defend Trump Ally in Lawsuit Over Jan. 6 Riot"
+    excerpt: "The move could mean that the Justice Department is also unlikely to defend former President Donald J. Trump in the case."
+    publishedDateTime: 2021-07-28T01:24:00Z
+    webUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/28/us/politics/27dc-justiceprint/27dc-justice2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
     excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
     publishedDateTime: 2021-07-26T18:14:00Z

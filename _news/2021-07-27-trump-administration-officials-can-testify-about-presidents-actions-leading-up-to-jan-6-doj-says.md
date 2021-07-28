@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Texas voters decide between two Republicans — one Trump-endorsed — in House special election"
-excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
-publishedDateTime: 2021-07-27T11:04:00Z
-originalUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
-webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
+title: "Trump administration officials can testify about president's actions leading up to Jan. 6, DOJ says"
+excerpt: "The Justice Department will not be asserting executive privilege as committees probe whether Donald Trump tried to use DOJ to subvert the election."
+publishedDateTime: 2021-07-27T16:15:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/27/trump-officials-can-testify-jan-6-capitol-riot-investigations/5384627001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/07/27/trump-officials-can-testify-jan-6-capitol-riot-investigations/5384627001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5384627001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5384627001"
 type: article
-quality: 109
+quality: 111
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/a5b35030-f59c-411c-ab22-23d065aa3cfc-Trump_second_impeachment_02.JPG?auto=webp&crop=4340,2441,x0,y453&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -205,22 +207,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump administration officials can testify about president's actions leading up to Jan. 6, DOJ says"
-    excerpt: "The Justice Department will not be asserting executive privilege as committees probe whether Donald Trump tried to use DOJ to subvert the election."
-    publishedDateTime: 2021-07-27T16:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/27/trump-officials-can-testify-jan-6-capitol-riot-investigations/5384627001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5384627001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5384627001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/a5b35030-f59c-411c-ab22-23d065aa3cfc-Trump_second_impeachment_02.JPG?auto=webp&crop=4340,2441,x0,y453&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The chair of former President Donald Trump’s inaugural committee to be released on $250 million bail"
     excerpt: "The chair of former President Donald Trump’s inaugural committee who faces charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy was ordered released from jail Friday on $250 million bail."
     publishedDateTime: 2021-07-23T21:45:00Z
@@ -236,6 +222,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/O2x20Ct3l2CEiOK9Po_o0rOWwtM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSL6K3AQQTTDR4IZIYSGHTOPNY.aspx"
         width: 1200
         height: 704
+        isCached: true
+  - title: "Texas voters decide between two Republicans — one Trump-endorsed — in House special election"
+    excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
+    publishedDateTime: 2021-07-27T11:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Senior Democrat Proposes Cap on Trump-Era Business Deduction"
     excerpt: "Senate Finance Committee Chairman Ron Wyden has drafted legislation that would overhaul a major part of the 2017 tax overhaul that Republicans billed as a boon to small businesses, and Democrats have criticized as benefiting wealthy business owners."
@@ -365,6 +365,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "6zyqT1Vt44fHI5xmHRLaJrXt9ag34jdEym6fWcbKE5HT344tZSULXoMnEUoqJ7v58457jPQAf8DBGebxxBtwEL4y1dc4d50DVO54z2wmKaNKHYSTwYZIHXGIWTnKPaRJphfcIxGSkt0BjpHkeeoonDnHSCeOJy1vC7475TbiFn1rjKc1rwZyspmkXy3BZqYL3/nccroI3iyNhs8oijmVEqage8LJJ9y6AQFqd4WX3ck3Zo4Qiu404BVGd3AeEbx4ufJ2PKffBJBk/eBuAwd9j5noHAHeXPJx1N3v+/+Jyu/5oL1UMN/Ws7Ce54adNJyiLPh8M5XRIN37/R6ez2Og9jhb9+lTtaZFLfGq5fI1wM8=;EXi/I2ZNpSOwxy+BDXTHJA=="
+secured: "+dEq61nEzQH1TpB432EA0h+UAXNqVkrEa6uIgSftPur/IF5QzkYLgj+/qP7HNRtpuTB7UL1+H1e7ryayRnXlDmIjxTY1RLDG7ONViGtIRjT7KHt8XXTuh5YnJ1yp8gQnmxia/WtbzWRhCqaHnBPU1FAXqovyr2qtSzn47TPAlwt7cJEQGxv3RjNTYeLc6K/nPjmqrqdEk85QRIdHrNW4r5BfTPReuMEo6FpobKepdbzwtecNFAvLrTX3Mdu2WF5i54Swl8O1aSvflKzxeP4kVFmbFhBfwOER2oCCG3cjYt2uTKCTvm6V+pkhRdM0pgA2mreBCGgIQr7ykekqFHZ9gR0LCtfHqoTnHrndEE7PJnM=;jqV9EXfCGKnf0ah/WL+TyQ=="
 ---
 

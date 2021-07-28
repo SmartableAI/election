@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-re
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
 type: article
 quality: 140
-heat: 560
+heat: 580
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://thehill.com/sites/default/files/giulianirudy_111920gn6_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump administration officials can testify about president's actions leading up to Jan. 6, DOJ says"
+    excerpt: "The Justice Department will not be asserting executive privilege as committees probe whether Donald Trump tried to use DOJ to subvert the election."
+    publishedDateTime: 2021-07-27T16:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/27/trump-officials-can-testify-jan-6-capitol-riot-investigations/5384627001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5384627001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5384627001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/a5b35030-f59c-411c-ab22-23d065aa3cfc-Trump_second_impeachment_02.JPG?auto=webp&crop=4340,2441,x0,y453&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The chair of former President Donald Trump’s inaugural committee to be released on $250 million bail"
     excerpt: "The chair of former President Donald Trump’s inaugural committee who faces charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy was ordered released from jail Friday on $250 million bail."

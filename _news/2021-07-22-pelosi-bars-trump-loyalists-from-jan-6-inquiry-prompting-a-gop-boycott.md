@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Explosive select committee hearing does little to change the minds of Trump-loyal Republicans about January 6"
+    excerpt: "Some of Donald Trump's fiercest allies in Congress are continuing to downplay or ignore the January 6 insurrection, taking cues from the former President even after four police officers testified Tuesday, in front of the House select committee investigating the deadly Capitol attack, about their harrowing"
+    publishedDateTime: 2021-07-28T00:40:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t9uPAhRxN_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/trump-republicans-hearing-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/trump-republicans-hearing-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191209171631-23-impeachment-hearing-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New evidence shows Trump appointees' political interference with CDC weekly Covid data reports, House subcommittee says"
     excerpt: "A Democratic-led House select committee says it has uncovered evidence of political interference by the Trump administration into the federal government's coronavirus response last year, including attempts to alter or block data reports from the US Centers for Disease Control and Prevention detailing"
     publishedDateTime: 2021-07-27T18:50:26Z

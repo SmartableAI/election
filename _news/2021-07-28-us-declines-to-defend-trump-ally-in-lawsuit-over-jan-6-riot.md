@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Jan. 6 select panel Dems cast a wide net for Trump"
-excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
-publishedDateTime: 2021-07-21T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
-webUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
-ampWebUrl: "https://www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+title: "U.S. Declines to Defend Trump Ally in Lawsuit Over Jan. 6 Riot"
+excerpt: "The move could mean that the Justice Department is also unlikely to defend former President Donald J. Trump in the case."
+publishedDateTime: 2021-07-28T01:24:00Z
+originalUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.html"
+webUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/b6/db/e98a4d9d458ea68a85dce60360aa/7-20-21-jamieraskin-ap-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static01.nyt.com/images/2021/07/28/us/politics/27dc-justiceprint/27dc-justice2-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -128,6 +128,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Jan. 6 select panel Dems cast a wide net for Trump"
+    excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
+    publishedDateTime: 2021-07-21T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b6/db/e98a4d9d458ea68a85dce60360aa/7-20-21-jamieraskin-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Thomas Barrack, Trump Fund-raiser, Indicted on Lobbying Charge"
     excerpt: "Mr. Barrack, who served as chairman of Donald Trump’s inaugural committee, was accused in the Eastern District of New York of failing to register as a lobbyist for the United Arab Emirates."
     publishedDateTime: 2021-07-20T19:04:00Z
@@ -191,22 +207,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/27/us/politics/27political-briefing-doj-testimony/27political-briefing-doj-testimony-videoSixteenByNine3000.jpg"
         width: 3000
         height: 1687
-        isCached: true
-  - title: "U.S. Declines to Defend Trump Ally in Lawsuit Over Jan. 6 Riot"
-    excerpt: "The move could mean that the Justice Department is also unlikely to defend former President Donald J. Trump in the case."
-    publishedDateTime: 2021-07-28T01:24:00Z
-    webUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/28/us/politics/27dc-justiceprint/27dc-justice2-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
     excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
@@ -303,6 +303,6 @@ related:
         height: 550
         isCached: true
 
-secured: "zF6MOBH21B+0XL08UW67lR1Ot58JxVGPHARr3FTqtSDfo+LigLujfVIZBZ7XAEQNOZe6AGBITOUMeVH2WPfMMX+4FTnbu0JjuCCaxViLkGeDhhxcZpx5DraSbTKDy3h+iYTM5eSbOrQDwYz4LdHVo9JHrhS1BGvi2RqAmzU64RclOWuSbvL9aY3WJzPjI6vpcjwE9viTq0YjKIi8mfflfiBcMqtr9khv4erkmZpQU5Spz6eMEfFAvWaNG7ukRgh1x25O6eeojpaZ8rrnTUy20OqSTU0QStgNxFS96taxSZ3qu3ZuQOkv6G30KAmC+mpcE2G9UhDxdsArHAeOj9KHhmjyaEzQ/fafyZyqlhKZJyzOXUYIm9Nt2RGZeCF8AuZNkx0T97FZ7JYqQ+Qpj/GSSjy5WLgBS+AxCjT/hfzdCg8m58hEcifpZHEpOh2vfBTE7wu1K37C7RCbhCjG/2THGfUwLZBTyjJ8wqFv6lWufYodr033NJdubp+dQi/kl9bYheDEgqjscAPYHPV3cmNAhA==;jC2l28E4RvD5+RQPu4/zVA=="
+secured: "tmH+H5Vc7KTRRnZodnNxFcWyKFk61SMf2hmilZkS8WO6LAw+4iE/3VZzHiSIYQ1uGXIQFjyQQvprV8AYbBzlbB6se9GF2M+fZxJ9IcUqC1XN0QfQjzbUsm2e/oS9T0En+DGeAtmcoGRpupzXWu1+7wX2MAmdYUN7BMZ0KNPwB77rcNq+JRXnY6uctxwPYtwssh3eFMuYjqdG+13CzN/ac2+41a7G4qZlsZQuJF4aozeCf1mMEJroyMuMEPf1M26zcITpTNqYTcK1P37M3pmCzG6zECE2ece5cJcKSzhqnR6vjE+oH2gj3T0mAdNZBORxrmQs7itKKA9xQnq4IjirO9h/OQKjlp38mkj139GCNUY=;sjxlxaKAc2ctpdl9QoIa/Q=="
 ---
 

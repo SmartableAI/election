@@ -1,16 +1,16 @@
 ---
 category: news
-title: "January 6 committee opening is crucial chance to correct Trump's lies"
-excerpt: "The tasks before the Democratic-led House Select Committee examining the January 6 insurrection that opens on Tuesday, after bitter partisan feuding over its make-up, could hardly be more critical.\n    \n"
-publishedDateTime: 2021-07-27T04:01:35Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7huMFv6nEg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7huMFv6nEg/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
+title: "Explosive select committee hearing does little to change the minds of Trump-loyal Republicans about January 6"
+excerpt: "Some of Donald Trump's fiercest allies in Congress are continuing to downplay or ignore the January 6 insurrection, taking cues from the former President even after four police officers testified Tuesday, in front of the House select committee investigating the deadly Capitol attack, about their harrowing"
+publishedDateTime: 2021-07-28T00:40:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t9uPAhRxN_g/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t9uPAhRxN_g/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/trump-republicans-hearing-reaction/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/trump-republicans-hearing-reaction/index.html"
 type: article
-quality: 175
-heat: 315
-published: true
+quality: 156
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702051004-02-capitol-riot-file-0106-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191209171631-23-impeachment-hearing-1209-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "January 6 committee opening is crucial chance to correct Trump's lies"
+    excerpt: "The tasks before the Democratic-led House Select Committee examining the January 6 insurrection that opens on Tuesday, after bitter partisan feuding over its make-up, could hardly be more critical.\n    \n"
+    publishedDateTime: 2021-07-27T04:01:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7huMFv6nEg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702051004-02-capitol-riot-file-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rising Covid-19 concerns could slow plans to scrap Trump-era border policy "
     excerpt: "The Biden administration may delay winding down a Trump-era border policy tied to the pandemic due to increasing concerns about Covid-19 variants, according to a source familiar with the matter.\n    \n"
     publishedDateTime: 2021-07-20T02:13:28Z
@@ -76,22 +92,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108201852-barrett-kavanaugh-gorsuch-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Explosive select committee hearing does little to change the minds of Trump-loyal Republicans about January 6"
-    excerpt: "Some of Donald Trump's fiercest allies in Congress are continuing to downplay or ignore the January 6 insurrection, taking cues from the former President even after four police officers testified Tuesday, in front of the House select committee investigating the deadly Capitol attack, about their harrowing"
-    publishedDateTime: 2021-07-28T00:40:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t9uPAhRxN_g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/trump-republicans-hearing-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/trump-republicans-hearing-reaction/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 156
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191209171631-23-impeachment-hearing-1209-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -144,6 +144,6 @@ related:
         height: 549
         isCached: true
 
-secured: "OVfW6uhIxsvLr81qc/7CsSbCIrKMjTvtisS7Kseq5nuhp3pT14BEI1hfPYy5CwgivwATA0YQdNKh3pB7BHWaWlKpucYOKLYgKI8togKYvY5SRMMHs9XqSxshGAhAcKTRV0bWtTgXxrYsxmkduCXuEtJeH5aJKhltNWPU14dwTi9W5UmPUkfL3s4f5e3A+q4MxfHSzQefLdwwEvbLlqDSk26OgFZma4x0CsLpppWumHFnPEYthsfv/UB5O6OSv6hYsHKPuJjQEqbnaGWzXR2n7dgvTf6/5oAa4tNwvTnf20U3XGIA50GpA7i2KaEyo+HVXJfkXyAoafO+C4z45l5AmLH4tl5aOLjpvdbNL6DW++8=;96gCdHVp9uX+IlxOt5UwLg=="
+secured: "K6X+VpbTEjE4/QvcJQKzHd2YgYVYoQCQjndFgpdISu67C8eKPJEjH1NEg/CzKd0xeiuiUHjx1Gmtp9xviCW4O1a9bSSnnTcdqTOZCAELEgFR8WFTneaqeCqN+RQVNl4EyxeqbrSS9I5n0fGFsZaozP57xvdI5FfO+P+esB5IOs3EsKoJZwtUg5e7cdg+3jN5P/28Xq9uDRVs2cIBNUhu1+u49ytGbt3S0UubpAEekoVcWF0WyycKS592vVnk1Ulxmtji70vE6s4S6Tb+T3Fb7sD2sTZ1VNYavNSTfm4lLGEkFL5f0cPthVjikaJHmYQVWxZptaHaduUKQbn75hewA0suLK6+czsxzHIG976/BIo=;0CYFifKCT8Ne00raiHce9Q=="
 ---
 

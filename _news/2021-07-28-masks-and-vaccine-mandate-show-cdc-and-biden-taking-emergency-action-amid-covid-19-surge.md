@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration terminates two border wall contracts in Texas"
-excerpt: "US Customs and Border Protection is terminating two border wall contracts in the Laredo sector that cover approximately 31 miles, the Department of Homeland Security announced Friday.\n    \n"
-publishedDateTime: 2021-07-23T18:40:48Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/djEsXAAwwyI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/djEsXAAwwyI/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
+title: "Masks and vaccine mandate show CDC and Biden taking emergency action amid Covid-19 surge"
+excerpt: "The steps President Joe Biden's administration is adopting this week to re-recommend masks and require vaccines for federal workers amount to emergency actions designed to contain a new surge of Covid-19 that has quickly become the top issue confronting the White House.\n    \n"
+publishedDateTime: 2021-07-28T00:40:14Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sAvu4EgLrAk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sAvu4EgLrAk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/emergency-actions-on-covid-19-from-biden-cdc/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/emergency-actions-on-covid-19-from-biden-cdc/index.html"
 type: article
-quality: 175
+quality: 166
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/180407131305-laredo-texas-national-guard-troops-mexico-border-lavandera-pkg-00004805-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727155709-01-biden-odni-0727-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711210014-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration terminates two border wall contracts in Texas"
+    excerpt: "US Customs and Border Protection is terminating two border wall contracts in the Laredo sector that cover approximately 31 miles, the Department of Homeland Security announced Friday.\n    \n"
+    publishedDateTime: 2021-07-23T18:40:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/djEsXAAwwyI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180407131305-laredo-texas-national-guard-troops-mexico-border-lavandera-pkg-00004805-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -236,22 +252,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719174749-hospital-0127-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Masks and vaccine mandate show CDC and Biden taking emergency action amid Covid-19 surge"
-    excerpt: "The steps President Joe Biden's administration is adopting this week to re-recommend masks and require vaccines for federal workers amount to emergency actions designed to contain a new surge of Covid-19 that has quickly become the top issue confronting the White House.\n    \n"
-    publishedDateTime: 2021-07-28T00:40:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sAvu4EgLrAk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/emergency-actions-on-covid-19-from-biden-cdc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/emergency-actions-on-covid-19-from-biden-cdc/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727155709-01-biden-odni-0727-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -430,6 +430,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "6QIECGO/F0myPIa3KH2PcvpHdX65586CMNqMRncKNN+1OH/EUsSCnK8D9w1sL2tdfwWLIScMEjCEH/QTWL8LAXivDVHGSTbdFYmYsh7PK7P13iUe/Pmuw9B7xQFIxIZDN+ra56HeR3TwVnH6k79llbTVQSKWS3bb1VBj4rEgZikgETlUWz6lOZi70YBVrrDzU4lYvE6VDQmhZyx0xwXpphMk69kUbddC6iYC0gyLtrWg2wp/rXxS8iA343P5SpGWrLgNxBLncQ/UJduoQytBdMMaNidPloZOWAu7S6p+sjl2mcya+u01SBjGgBTrsqiJXn+itoqYMtCiB0Mo5T89TQqlPw1uBItBgt/Vgrbgtj4=;uSqAvRUwya0UPVcG+5SS4w=="
+secured: "J3bq57D+lOJhClJms42ZhdHidgPWkg79W3Kr3gh3ImZY/hyvzya2nQBSMZ+Q/DH4AU/ZM5d7IUdQRhbZEBb5JMa856t0OlPLfHmUXVAZg/jqYeCt597yD3RtiGLmc8HaDjNGx43K7Usb/FD+iDXgJBejISZnY+B3kNRxN9qDfDOLoG0DQio6thVlz9BpFNPgU4IDfbsa1sp56cL4f4oaV1RwPrTnnHut6q2OaQJ6o9MEvWZ0AnD8ZRYdnFHUcCE4UU1+CWyqAz20qoPeZxIVnAoy2rtZC6K0oel/5WiP1ynACjwlljCgQnPB3D7cnRflPJ/TBbwlUp3oInPhildv7U5HbNvFiwNGFGCo28DjSsg=;YheNCz4M8+Eb6F3MP/GuqA=="
 ---
 
