@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden blames ‘Freudian slip’ after saying ‘President Trump’ when he meant Obama"
+    excerpt: "President Biden on Wednesday uttered the name of his predecessor — “President Trump” — chalking it up to a “Freudian slip” even though he was talking about Barack Obama."
+    publishedDateTime: 2021-07-28T20:19:00Z
+    webUrl: "https://nypost.com/2021/07/28/biden-blames-freudian-slip-after-saying-president-trump/"
+    ampWebUrl: "https://nypost.com/2021/07/28/biden-blames-freudian-slip-after-saying-president-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/biden-blames-freudian-slip-after-saying-president-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/BidenTrump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
     excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
     publishedDateTime: 2021-07-23T13:17:00Z

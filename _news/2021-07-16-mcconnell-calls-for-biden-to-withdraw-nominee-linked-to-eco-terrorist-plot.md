@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "75 GOP lawmakers oppose Biden's embattled nominee Tracy Stone-Manning"
+    excerpt: "The lawmakers, led by House Natural Resources Committee ranking member Bruce Westerman, R-Ark., called on the president to withdraw his nomination of Stone-Manning for BLM director."
+    publishedDateTime: 2021-07-28T21:15:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rYTIETcHccw/lawmakers-bidens-embattled-tracy-stone-manning"
+    ampWebUrl: "https://www.foxnews.com/politics/lawmakers-bidens-embattled-tracy-stone-manning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-bidens-embattled-tracy-stone-manning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/345bd750-f595-4b27-94c7-a3e55f0b3d44/b8dd0d8b-c53a-45f3-ab9d-4ef7f5d16684/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Boozman, fellow GOP senators hit Biden, Democrats for failing farmers in fiery floor speech"
     excerpt: "Senate Agriculture Committee ranking member John Boozman, R-Ark., will be leading a handful of his colleagues on the floor Wednesday to hammer the Democrats an President Biden over the effects of their \"reckless\" spending and taxing plan on farmers and ranchers."
     publishedDateTime: 2021-07-21T15:41:23Z

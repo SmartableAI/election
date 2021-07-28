@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden blames ‘Freudian slip’ after saying ‘President Trump’ when he meant Obama"
+    excerpt: "President Biden on Wednesday uttered the name of his predecessor — “President Trump” — chalking it up to a “Freudian slip” even though he was talking about Barack Obama."
+    publishedDateTime: 2021-07-28T20:19:00Z
+    webUrl: "https://nypost.com/2021/07/28/biden-blames-freudian-slip-after-saying-president-trump/"
+    ampWebUrl: "https://nypost.com/2021/07/28/biden-blames-freudian-slip-after-saying-president-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/biden-blames-freudian-slip-after-saying-president-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/BidenTrump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "31rOK09zEkZf/q+YS//zGqFLjUTSLw0w3y29V4hF+HWRyQ33vq9hdSxDlxsRnuMYvBA1jPIWe93Utt+K0bHXK0jmlXPicMHjt3wjdrwoBRVUjp6kFzERTdWPLcr1UBB6VZaAVpQ3iTTtNn7LbA7Us8mZkh7uTA7qgZvo0vhnC4WC+k0s0LVbeYccuCmC1kpY+EdLeAMpNO9xh7MvDs8Mfq5J7EB2sadqItnqqZEeCJCOQC+7QxO7sJkDiTYteAfdQy9P5hA+PWK0WeQN5d/ihWIQ6XCgKZ0XuYuY2iZCRPWxd6DiZM1ABl6W0XBmNwjNmJQX2VTfoNSlddnr96U7dpveDfCPM3Npz0ZNgjGQdXQ=;q6C0B+jfo72Qq64lGq3y+Q=="
 ---

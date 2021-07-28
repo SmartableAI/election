@@ -159,6 +159,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Appeals court: Arbitration won't shield Trump from lawsuit"
+    excerpt: "A federal appeals court says former President Donald Trump and his three eldest children can't force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted"
+    publishedDateTime: 2021-07-28T21:55:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "At 98 and facing cancer, Bob Dole reckons with legacy of Trump and ponders future of GOP"
     excerpt: "\"I'm a Trumper,\" said Dole, the only former GOP presidential nominee to attend Trump's convention in 2016. But he added, \"I'm sort of Trumped out.\""
     publishedDateTime: 2021-07-22T17:29:00Z
@@ -296,7 +312,7 @@ related:
   - title: "Fact Check-Alec Baldwin’s T-shirt altered to include anti-Trump message"
     excerpt: "A photo of actor Alec Baldwin has been edited to include a message against former U.S. president Donald Trump."
     publishedDateTime: 2021-07-28T16:16:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-alecbaldwin-altered/fact-check-alec-baldwins-t-shirt-altered-to-include-anti-trump-message-idUSL1N2P4231"
+    webUrl: "https://www.reuters.com/article/factcheck-alecbaldwin-altered-idUSL1N2P4231"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2P4231"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2P4231"
     type: article

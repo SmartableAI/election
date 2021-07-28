@@ -2,9 +2,9 @@
 category: news
 title: "VP Kamala Harris meets with DACA recipients"
 excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-07-23T04:32:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210723043215-vp-kamala-harris-meets-with-daca-recipients/"
-webUrl: "https://www.cbsnews.com/live/video/20210723043215-vp-kamala-harris-meets-with-daca-recipients/"
+publishedDateTime: 2021-07-22T21:41:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210723013215-vp-kamala-harris-meets-with-daca-recipients/"
+webUrl: "https://www.cbsnews.com/live/video/20210723013215-vp-kamala-harris-meets-with-daca-recipients/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11434562_1627014904.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11431309_1627004104.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -286,6 +286,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TRVQ9GUwF2XQc75i4DAyWACFqCwBRg+JBFCAccvW4B4DJQB0PkCZO+pCRasBDWPzp5cJV9SqI2MM2Tu0bzrHavJglnVWxV/sA7YbTaSdj13m+8IX0VAGbpzEhEtxqIB1yRqzvHLYbXOajj/wlTERj/XqdN1PLGSYPX5Nho/p6MpqgFtZU6oLB5n0ENJw+46qStlHtAP9rN9HLhoIuE9lk68t2mcIVAJB3KjgFbQ2n/OWvZ+sFl2YiaJ2bsBghVY0WqDsI73tGiHmwWH6taRU87gG4GnrBkfO8cgzCh9Lm2KyMA4jh83YRwGtWYDAvAGpU1gmbQ+pvIHo66WtK6ZXw0aTHONBo7ukKREiN9R7wXSNB2/Bhab1dj/O/f3MHURHcoDUlTG70iFK9YzTWAP6XyyrVylrnJcCUnPR6Ps90nATPfiUkIghy6FWsaJvLhlL6wPWgLu8OzMgfpkc9/+035MAl+Yb00qHRuhG1+Nrwf4gUn2Tp9StYhJhBnBxHRnr0yHqOO2rOG5hL/Loh4AD+A==;ChatH4NFwW3ocWRKd5Jp3g=="
+secured: "AO7sn6qzleIg1R+IyDBsC6ziy1rTq+2MbB4AfzKowqn+q3gHQ77qlIcbe3ZDE0K8VgQfsneHU+Px0+stA0ynd6AUMyIabnB5KqzxXTioF5j/WGY9icM33uRUHcAl6/8oOcMQnABAVHiHnrCvZTiedZoXttSeu4iMIoJzJkgwZs/wf9FaisI2qRtBk16VQysibYVPON3lmFt9NKOcWwEsHyhTKOiUQ9dJZ5J+QGte54yDoAXKKLILaqvAVYKtJ9s423rI0Yj5VOvhxwey9ska0rmO869VQfRFvqAXBNWh3WunQvAwVxPQ3y5KPSA3eStmzf08YBjpTDbfx8WMTAKOnvUeXm4w9hDw/bqX9O3M+7M=;o3gv71yROSWVaIzS6awVBQ=="
 ---
 

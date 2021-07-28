@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-confuses-trump-obama-freudian
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-confuses-trump-obama-freudian.amp"
 type: article
 quality: 190
-heat: 310
+heat: 330
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden blames ‘Freudian slip’ after saying ‘President Trump’ when he meant Obama"
+    excerpt: "President Biden on Wednesday uttered the name of his predecessor — “President Trump” — chalking it up to a “Freudian slip” even though he was talking about Barack Obama."
+    publishedDateTime: 2021-07-28T20:19:00Z
+    webUrl: "https://nypost.com/2021/07/28/biden-blames-freudian-slip-after-saying-president-trump/"
+    ampWebUrl: "https://nypost.com/2021/07/28/biden-blames-freudian-slip-after-saying-president-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/biden-blames-freudian-slip-after-saying-president-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/BidenTrump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
     excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
     publishedDateTime: 2021-07-23T13:17:00Z
@@ -128,6 +144,6 @@ related:
         height: 340
         isCached: true
 
-secured: "Vp8JZMOGRdFiTihACYQsmPza+mgoTQZaYI0K3AqGyJ3IhV4SrAdEpkE0CoEJFvyC68Z8TFfyWbVaaB5+USj2GKTGZPNoTFb1X06GqoxI7RNPmDH0W3vE7jNsJv85Ix0Bh17HymoILHD/ahUPLxwnzDY/4EU8EomVsqL3rjVreYBYOZRwPq3JdiHdMmVpZGoMxovfMtj6hXz2zqTcHUzLW1DYBY2PVD7Nj2ZSKz8Y1GHe1OXk8qA7MXL9HBQnWFV7rvyOFUAgehixC/ZbznSQPbvLu7xP7RAh0/i2mYvtWgYsg/sxqdfL2VUhNmckFNTrw7oo8p6Ai3GNrqWLlRQYi3QSUWfpn+c7D/FsQEpaaeI=;tcrVrTzth5kNnt76lgbRYw=="
+secured: "I4mkQDcMUI+3t7lbPlMSLSAvxtJafiz35vyq25JoPWAZTofKJ0S0W6ghJzipTzCJYoCI/jhRB8UZ91sm6ZtwEq3OjfHH1sOIqdXyYaOagFbaln2Y05T1uRO4xTZX9Q3aumtF4GfxGR/hREq26db7mBVBNIEddgTW7v2BxqDodN0kXDVxgL3GCjlKKuGxJ46B8/f1AcouzrpzCzs/zvZUWE5LWnsSHBsddv05qKBK80DqkBZGcaVG0dzYIBz+1CeZOMgzUhhN7fkPoqQqlLMkpPSUKFbbeeOxxuYkGT5iYGDkFX1nxbx3UeXH9v8Fz2PUEzdH2Tx4HZn6PIqBiiiMdhyjbyUGq8nnW5P9zF5bKBM=;h0g4bArvNG7iiWT9MpP1pA=="
 ---
 

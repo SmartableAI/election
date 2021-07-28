@@ -3,8 +3,8 @@ category: news
 title: "Fact Check-Alec Baldwin’s T-shirt altered to include anti-Trump message"
 excerpt: "A photo of actor Alec Baldwin has been edited to include a message against former U.S. president Donald Trump."
 publishedDateTime: 2021-07-28T16:16:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-alecbaldwin-altered/fact-check-alec-baldwins-t-shirt-altered-to-include-anti-trump-message-idUSL1N2P4231"
-webUrl: "https://www.reuters.com/article/factcheck-alecbaldwin-altered/fact-check-alec-baldwins-t-shirt-altered-to-include-anti-trump-message-idUSL1N2P4231"
+originalUrl: "https://www.reuters.com/article/factcheck-alecbaldwin-altered-idUSL1N2P4231"
+webUrl: "https://www.reuters.com/article/factcheck-alecbaldwin-altered-idUSL1N2P4231"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2P4231"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2P4231"
 type: article
@@ -152,6 +152,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/trumprally.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Appeals court: Arbitration won't shield Trump from lawsuit"
+    excerpt: "A federal appeals court says former President Donald Trump and his three eldest children can't force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted"
+    publishedDateTime: 2021-07-28T21:55:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
     excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
@@ -389,6 +405,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "ycA03VhdsXtsaHEK3uTbwNrojJMoeF3q5qfuyY7QGHOxSpB7YE51tt8D7nl0o6INeivibBTOs2/2otXokGfPzrpDAS/gLH+coMH3pURPtAa7p0RMahrgq8oUokqpeM/a+YfgHhjyFzZ7jEFQv9OC5dvRbvISF0oiqwq6WlvewNOLnsTYL07/tpBf5Nwr5fELOvBtmYUc6Sxo8PXIFDZQz2GqhGFZD71n9yVFSOKGm6z0NBwqjkoUuieFvSDG1tJBXg4EbJzlhnpWG38n1wOIv0q88Mte2cnJDjG0xl5juqCmT74PiMvxZs12wDchq6pG7uEVcC1XtDvHu2l/Qu6EzXIXlVcvO+4Hx6pFoBFZ34g=;TEzAVTznzVQ6bmSkbWW4Tw=="
+secured: "Ihnxm6Gm5R3Hu1aXgfSAMLtL8ylp4ja4yoCMFwqvUP7gWCnldE3TyVKhsq0kc7MHxCHTp86QkbZMljHCU+32Fwubhf5unCE7h3KUG1Gw5JNzlRZ7lcD4teZ5VOIDbHhtHM0NyPTaKc0sMBpt1oETnmFLENEdhoN1miWIXQ5EICYKY1t+92ozVVKLdF0+xJ2IZNIepJRhXt0ahlXizV8z1MwBmJklJCU+3M+fK3AqrevDoPOMB32OImvr/QlQd/WPLHK4ebDPeaNe2+ZnxDZMRQ9/xS9XL9I/UXpZ99anFFRZCQnAuGD56AZgN3XG1XnWgeq8lbVmZoOnMDBwp/sn36uPEwjA6Ai3UO5pnOxk8OI=;vI6iSq+iIGYxhRO3SQRZpw=="
 ---
 
