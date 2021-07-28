@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/564956-gop-lawmakers-req
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "The CDC’s Masking Reversal Marks a Difficult New Phase of Joe Biden's Pandemic Fight"
+    excerpt: "The CDC walked back its earlier guidance, now saying some who are vaccinated should put their masks back on indoors."
+    publishedDateTime: 2021-07-27T20:36:00Z
+    webUrl: "https://time.com/6084432/joe-biden-masks-covid-cdc/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 78
   - title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
     excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."
     publishedDateTime: 2021-07-19T21:10:00Z

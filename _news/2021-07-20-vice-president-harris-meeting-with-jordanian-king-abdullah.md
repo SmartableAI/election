@@ -54,16 +54,16 @@ related:
   - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
     excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
     publishedDateTime: 2021-07-27T22:58:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/98ab2f8d00b5f1da5465b905e2477f4b/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0b23ef5069daf06105a5ffd61c99f07a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/98ab2f8d00b5f1da5465b905e2477f4b/HARRIS-VOTING.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0b23ef5069daf06105a5ffd61c99f07a/HARRIS-VOTING.jpg"
         width: 650
-        height: 433
+        height: 434
         isCached: true
 
 secured: "HhqejhtdgcDAZBj5CcrClYznJ7Egkx67ZwA00pOpgoMDIhhcPJvxx6SIS1J7+D+Yun0jNAqW5mK5hlVd2/wjVguK9DgBUjJACpAzr2i5VhhHSkE+Hs4zH3h3mHWcaIGL1G+oSG7lV4uQ+7qALusO+jeyAQP//y+1Yx7m8gNJAvpxAHyiQh329etjCYZPBUGDKQZucW/PCN5tyq5y2q88DKquMokHa3oGsuDVhBgy+TTd62VQ+W/VwS80y3JgJno/SfbWsKGrloYmQhm8xswwLj7sl2UZ9t+l6uMdy6SGuEYdWKGyQ0r9GItd8h/xaqONiCHBkR/D1yLRvALEXyKIV4Wea9F2+KLJZ9GW4QVkKbd3FOy2Y8E6NieDpchLL+5FpKn6i0Nven6hWQuSwl0m8yNJhJxobiX3luxM17bU8yue4I0N2msV0Ja+QtMdKHy0r8sIJ8G5jqgQhfVIoWDGcUhEQnJsOE/PGnb804yeyDyyFl1vakyh6bvUgJ3G9UvaIa4Djs7Dhl5UyJ4+D+NuGQ==;iZyJXSMYJV1GBrJLQSTIew=="

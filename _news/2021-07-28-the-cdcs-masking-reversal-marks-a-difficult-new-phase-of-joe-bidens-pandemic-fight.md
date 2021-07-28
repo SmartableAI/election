@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
-excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."
-publishedDateTime: 2021-07-19T21:10:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
-webUrl: "https://www.upi.com/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
+title: "The CDC’s Masking Reversal Marks a Difficult New Phase of Joe Biden's Pandemic Fight"
+excerpt: "The CDC walked back its earlier guidance, now saying some who are vaccinated should put their masks back on indoors."
+publishedDateTime: 2021-07-27T20:36:00Z
+originalUrl: "https://time.com/6084432/joe-biden-masks-covid-cdc/"
+webUrl: "https://time.com/6084432/joe-biden-masks-covid-cdc/"
 type: article
-quality: 75
+quality: 78
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Time
+  domain: time.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/4381626725230/2021/1/f9d499800ef0d789e9e0467998cc66a0/v1.5/Joe-Biden-meets-Jordans-King-Abdullah-in-sign-of-improved-relations.jpg"
-    width: 800
-    height: 532
-    isCached: true
 
 related:
   - title: "GOP lawmakers request Cuba meeting with Biden"
@@ -119,15 +115,22 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "The CDC’s Masking Reversal Marks a Difficult New Phase of Joe Biden's Pandemic Fight"
-    excerpt: "The CDC walked back its earlier guidance, now saying some who are vaccinated should put their masks back on indoors."
-    publishedDateTime: 2021-07-27T20:36:00Z
-    webUrl: "https://time.com/6084432/joe-biden-masks-covid-cdc/"
+  - title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
+    excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."
+    publishedDateTime: 2021-07-19T21:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/Joe-Biden-meets-Jordan-King-Abdullah-sign-improved-relations/4381626725230/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 78
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4381626725230/2021/1/f9d499800ef0d789e9e0467998cc66a0/v1.5/Joe-Biden-meets-Jordans-King-Abdullah-in-sign-of-improved-relations.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Florida Republicans slam President Joe Biden on Cuba during GOP townhall in Versailles"
     excerpt: "A Miami crowd of dozens who had shown up in support of the anti-government protests in Cuba served as the backdrop of a GOP town hall broadcast live from Versailles Cafe on SW 8th Street — hosted by FOX News’ Sean Hannity."
     publishedDateTime: 2021-07-23T23:01:00Z
@@ -159,6 +162,6 @@ related:
         height: 400
         isCached: true
 
-secured: "DUVke4hX30BjO5UopzsTvlh/A1e+3huG0yak1JpSsKEFI3o/v/zfETByQ6eOL7nv+/+4PjZbKDgHn0xHIVJ5kMsqk2kBU3bHEhZHhDxj2BVnmIKbC682KyjX2JWdt/v4ZKJWaq+BGWjTvuws3231Kx9xGXn3qcDQcRzqFRfE7hwuu1cx8kxCiCPho/0u8ogcGpJZb1/7rtvQXBAB4yR7oCjD1GWBOqIZUykQtxWbjyRHCsBYEpqcqN3p4M7Ix2U/k7Lggq9H7owFn6pZSawaGkykBkfJ3L2SurNWTnLPBWs9xbmsQLOkb16K74OsPeMdGnQHgTUkpInNzIaUU8u32Oe3wpGmsdDyjhYKV5ZhacwPPHFqErihd0UGy/uOuyFp1+r+HU00pQOSHV5G8hMDoexjzAajcc607ez6xLwUpBqFPfqCQINH2NkBjaup/biZ4kwouQY05eqOd0kVBPbAyF9w9OrSHumIv9CCZLxyHn1SZBuzkPIIT6g+8TCbCnRC2yqtd5g93Wwhyddr1pdDcg==;T5zWEm1Vg/Z6tbq4nRPLRg=="
+secured: "yjrFXtpG05G8oWTTgydwXGCqwjzJ601VSIMAPTVS79bPwI/t5fU/P40atKHvvbDclbg7TJ1Q3BMqppoIrKpe4claSTiz1072xXedYpBvMaefeTASPbZ+Wada9GWd80dY67H6n5uVrToG/xiP1uwZguYIwLI66/6ZaM4cIKNnE2hEp+WaxYGsncKi/lk0gzeDXK9mvKuyg3L1Kd3W3DwtOxfBW1O6zRo6vybgkiOsgw40noOoV7kR+ZY1sAA+otSzabI1I7AmKpRys2Mgjgt3gF9O/JhNWrFvymbQKXSApnE9Mi4iIkHsNqQ051srlrcC+y2bHNBOfE9OI6mstHldMaObt/sWd+5TeN235JFvFXNUtpYUfZCbrAtLQ8lSS03eRFY7JiHHgN7j9Ru92/iOEG5tlIZSPqYKy8iYLQPONlVwZa5nNNNiG7XUucuLHKZjUMRjpy+PudsTHX/LZuXQAZum6LFlklKyuZfHOYt1xNSc7O8jIGGErsKIVaWYO9sGPXTwB1ORE3ytmnvtJUmVnA==;328BIqJut3y9uQjP5BQOAQ=="
 ---
 
