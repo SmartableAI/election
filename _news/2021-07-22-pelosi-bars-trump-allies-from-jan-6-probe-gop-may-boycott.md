@@ -71,6 +71,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "GOP’s Jake Ellzey wins US House seat over Trump-backed rival"
+    excerpt: "Republican Jake Ellzey of Texas won a U.S. House seat on Tuesday night over a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T07:51:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e911589/2147483647/strip/true/crop/5265x3521+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc9%2Fee%2F172605c243879686e09f9d9ed5d4%2Fgettyimages-1234238969.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Trump loyalists missing but not forgotten as Jan. 6 hearings begin: The Note"
     excerpt: "Jordan and McCarthy -- both of whom have said they spoke with former President Donald Trump as events unfolded Jan. 6 -- are two potential witnesses in an investigation that could extend deep into the former president's inner circle of formal and informal advisers."
     publishedDateTime: 2021-07-27T10:01:00Z
@@ -235,6 +251,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "A.M. Roundup: Stefanik blames Pelosi for Jan. 6 insurrection led by Trump supporters"
+    excerpt: "Elise Stefanik on Tuesday joined other Republican leaders in blaming Speaker of the House Nancy Pelosi for the Jan. 6 insurrection at the U.S. Capitol. The insurrection was conducted by supporters of former President Donald J."
+    publishedDateTime: 2021-07-28T09:30:00Z
+    webUrl: "https://www.chron.com/capitol/article/A-M-Roundup-Stefanik-blames-Pelosi-for-Jan-6-16344475.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 28
 
 secured: "XNq3u8h6A9tpTYwwrWf0I+ePCJm6/xmjZJzPOGujvJw4d4CZZ4f3pLWEwz4JumRSd8asvnq3HHC4b9sE3QHi8nZj1QYubwnwnP6cGqzncej+yUQAOSRitBlJwPDrD5CYvmzOwIJaQhz5LTVctFL2xvaDPabQx3OYRottzRoJYx+92BjlMiJZBg8zi1lli4dws1j4Ty3IYqFSwd23eduXYIYs3UtNruvt/DnSOFPLWrUES52m0L3rmz4l0Cd3pGtOSom/MPeCsPoCl0cs0IqF/0qY8qHsRkvwJQzuOhVLcD1mRt9+dOLxCHDq8ptiDi3IfCnWWSop+8UYLhtUthtod7z9pglzbuDu1JvmKWpG1NfOECDmdxbS1Q6hZZgieu4ylN9GVlJI7LdbwWwg2073E5VvSG5c7KBUXveMnJbvI38lurTDLmFkBogbiSx8QMbe98Xe10gS3Q24ClO2keA8wHSRNeprAhNNy5um15NWsu6fP9aGCJ8zwmrvghl6aBdC5A7vv7Da7qxxQWjrCQsa0Q==;iCvVohe1pu6gnE2rFfa9iw=="
 ---

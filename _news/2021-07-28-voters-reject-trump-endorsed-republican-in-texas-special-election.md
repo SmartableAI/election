@@ -1,0 +1,99 @@
+---
+category: news
+title: "Voters reject Trump-endorsed Republican in Texas special election"
+excerpt: "Jake Ellzey defeats fellow Republican Susan Wright for House seat following death of Wright’s husband from Covid-19"
+publishedDateTime: 2021-07-28T12:12:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+type: article
+quality: 140
+heat: -1
+published: false
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://i.guim.co.uk/img/media/30e175a85e10d64f5fc908cba87bcdeba8c50b40/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bc254ec92221c1b419bdfb8650e80325"
+    width: 600
+    height: 360
+    isCached: true
+
+related:
+  - title: "Donald Trump Rips Mike Pence for Not Having 'Courage' on 1/6 to Reject Election Results"
+    excerpt: "\"I only wish that my friend, Mike Pence, had that additional courage to send the results back to the legislatures,\" Trump said."
+    publishedDateTime: 2021-07-25T09:06:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 157
+    images:
+      - url: "https://d.newsweek.com/en/full/1854447/donald-trump-speaks-phoenix.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
+  - title: "Trump ally arrested on foreign lobbying charges"
+    excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
+    publishedDateTime: 2021-07-20T22:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEMNHMU7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210720&i=OVEMNHMU7&r=OVEMNHMU7&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Donald Trump returning to Arizona as 2020 election review drags on"
+    excerpt: "Donald Trump is expected to hold his first post-presidency rally in Phoenix at an event ostensibly about GOP fortunes in 2022."
+    publishedDateTime: 2021-07-23T20:12:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/arizona/2021/07/23/donald-trump-arizona-turning-point-usa-gop-2020-election-audit/8062287002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8062287002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8062287002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/11844b46-833f-4260-9a70-254cffb0f236-cent02-7ctxpjqlqly1h9t6zhle_original.jpg?auto=webp&crop=3476,1956,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump spreads more election lies at Arizona rally"
+    excerpt: "He spoke of untold thousands of dead people voting — no such phenomenon surfaced in postelection audits. He alleged 168,000 Arizona ballots were fraudulent — there is no support for that."
+    publishedDateTime: 2021-07-25T03:16:00Z
+    webUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-spreads-more-election-lies-at-arizona-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TW4LUNON7RG4DBGBX26AKV5AUI.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+
+secured: "hNqbd7oDCaYw0eoAV9slVSFzQ0545T6WFDSjEv+eu9Iq4ljlfEMXYNEjnQCtInnupwNgw0bkojL/wEaF2Qrl85JzT7r3EE+vlAwENloeAFQLz0QiKc7X4I1rGj3v9QDOnJKeR6FKfT2GJzElYoOaq7bno8PkfK3omUlDUpp7AA/Y7XYP1oT1YoIvPZTbcefvaerxBBdBL3UC4wjQaf+CrMleQsUnCx7TNIaVmt/DL4oSjlGDBUMaQUVNCSELkZLCiiihLGN3aZoj6FEa+ydWFHdjS0JOR41wnPQQhe2K7pBVa8mjzGJgeXPaXTIFZHYb4JkilXujVv3mDTqaUplxBh6EIf3uFqwjO8bEmvXcPZY=;+j2BOBP4+8L6fkZ9aNTXyg=="
+---
+

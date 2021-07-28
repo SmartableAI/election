@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden proposes strengthening Buy American rules to boost American manufacturing"
+    excerpt: "President Joe Biden on Wednesday proposed strengthening the federal government's Buy American rules in an attempt to boost American manufacturing.\n    \n"
+    publishedDateTime: 2021-07-28T13:12:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9c1fbJqM3KY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/biden-buy-american/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/biden-buy-american/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725204652-01-joe-biden-0725-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP Sen. Tim Scott to deliver Republican response to Biden's first address to Congress"
     excerpt: "Sen. Tim Scott of South Carolina will deliver the GOP rebuttal to President Joe Biden's first address to a joint session of Congress on Wednesday evening, spotlighting a unique voice in the party whose profile is on the rise as he leads congressional Republicans' negotiations on police reform.\n    \n"
     publishedDateTime: 2021-04-28T21:18:32Z

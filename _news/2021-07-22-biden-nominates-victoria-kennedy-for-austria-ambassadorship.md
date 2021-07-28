@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-victor
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jill Biden's chief of staff nominated for Spain ambassador"
+    excerpt: "President Joe Biden has nominated Julissa Reynoso, the chief of staff to first lady Jill Biden and a former ambassador, to serve as his ambassador to Spain and Andorra"
+    publishedDateTime: 2021-07-27T21:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-bidens-chief-staff-nominated-spain-ambassador-79099185"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-bidens-chief-staff-nominated-spain-ambassador-79099185"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-bidens-chief-staff-nominated-spain-ambassador-79099185"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "President Joe Biden participates in a campaign event for Virginia gubernatorial candidate Terry McAuliffe."
     excerpt: "Virginia Gov. Ralph Northam speaks during a campaign event for Virginia gubernatorial candidate Terry McAuliffe at Lubber Run Park, Arlington, Virginia on Friday, July 23, 2021. Photo by Oliver Contre"
     publishedDateTime: 2021-07-24T00:33:00Z

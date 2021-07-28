@@ -2,62 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-16-brianna-keilar-asks-john-bolton-if-trump-is-a-fascist.md",
-      "title": "Brianna Keilar asks John Bolton if Trump is a fascist",
-      "excerpt": "Former national security adviser John Bolton questions whether former President Donald Trump was capable of orchestrating a violent coup.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNoAeoRg0M4/john-bolton-trump-coup-fascism-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNoAeoRg0M4/john-bolton-trump-coup-fascism-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716090818-john-bolton-new-day-07162021-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/07/16/john-bolton-trump-coup-fascism-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/16/john-bolton-trump-coup-fascism-newday-vpx.cnn",
-      "publishedDateTime": "2021-07-16T06:15:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-ticket-sales-are-moving-slowly-for-the-coming-trump-oreilly-stadium-tour.md",
       "title": "Ticket sales are moving slowly for the coming Trump-O’Reilly stadium tour",
       "excerpt": "Time remains to sell out the stadiums. But those familiar with the current sales pace say it lags behind other acts.",
@@ -1664,6 +1608,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/joe-biden-upcoming-voting-rights-speech/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/joe-biden-upcoming-voting-rights-speech/index.html",
       "publishedDateTime": "2021-07-09T11:26:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-jill-biden-travels-the-south-to-plead-with-hesitant-americans-to-get-their-covid-19-vaccines.md",
+      "title": "Jill Biden travels the South to plead with hesitant Americans to get their Covid-19 vaccines",
+      "excerpt": "First lady Jill Biden is back on the road, heading to parts of the country disenchanted, disaffected and -- perhaps -- disbelieving of the benefits of Covid-19 vaccines.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwOsTOUG7ds/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwOsTOUG7ds/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709081219-02-jill-biden-savannah-0708-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/jill-biden-southern-vaccine-push/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/jill-biden-southern-vaccine-push/index.html",
+      "publishedDateTime": "2021-07-09T05:40:56-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

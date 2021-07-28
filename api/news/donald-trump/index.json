@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-28-gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival.md",
-      "title": "GOP's Jake Ellzey wins U.S. House seat over Trump-backed rival",
-      "excerpt": "Republican Jake Ellzey of Texas won a U.S. House seat on Tuesday night over rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office.",
+      "path": "_news/2021-07-28-new-york-times-reporter-deletes-tweet-calling-trump-supporters-enemies-of-the-state.md",
+      "title": "New York Times reporter deletes tweet calling Trump supporters ‘enemies of the state’",
+      "excerpt": "A New York Times reporter deleted a tweet that called supporters of former President Trump “enemies of the state,” following a viral blowback online.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/gop-s-jake-ellzey-wins-u-s-house-seat-over-n1275237",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/gop-s-jake-ellzey-wins-u-s-house-seat-over-n1275237",
+      "webUrl": "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/",
+      "originalUrl": "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494557/210727-jake-ellzey-ac-1051p.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/katie-benner-index-1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,23 +28,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1275237",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275237",
-      "publishedDateTime": "2021-07-27T20:00:00-07:00",
+      "ampWebUrl": "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/",
+      "publishedDateTime": "2021-07-27T22:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -55,7 +46,55 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-trump-vows-we-wont-mask-our-children-in-wake-of-new-cdc-recommendation.md",
+      "title": "Trump vows ‘we won’t mask our children’ in wake of new CDC recommendation",
+      "excerpt": "Donald Trump blasted the Biden administration after the CDC recommended indoor mask mandates in most areas of the US as well as in all K-12 schools, regardless of vaccination status.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
+      "originalUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-anti-mask-indexb.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
+      "publishedDateTime": "2021-07-27T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -171,7 +210,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -737,7 +776,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -1299,63 +1338,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-22-lara-trump-says-she-is-not-masking-up-her-children-for-school-calls-mandate-ludicrous.md",
-      "title": "Lara Trump says she is ‘not masking up her children’ for school, calls mandate 'ludicrous'",
-      "excerpt": "Fox News contributor Lara Trump told “Fox & Friends” Thursday that she is “not masking up her children” for school after President Biden said during a CNN Townhall that children under 12 and all unvaccinated students will have to comply.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school",
-      "originalUrl": "https://www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-says-she-is-not-masking-up-her-children-for-school.amp",
-      "publishedDateTime": "2021-07-22T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-22-pelosi-weighs-adding-kinzinger-a-second-anti-trump-republican-to-the-jan-6-inquiry.md",
       "title": "Pelosi weighs adding Kinzinger, a second anti-Trump Republican, to the Jan. 6 inquiry.",
       "excerpt": "The speaker has already given one of the eight Democratic seats on the panel to Representative Liz Cheney, Republican of Wyoming.",
@@ -1525,7 +1507,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 445,
       "tags": null,
       "images": [
         {

@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Audio shows a profanity-laced voicemail that DC officer Michael Fanone got from a Trump supporter while he was testifying to Congress"
+    excerpt: "The DC police officer had told Congress on Tuesday that he was beaten unconscious and almost killed by Capitol rioters."
+    publishedDateTime: 2021-07-28T09:54:00Z
+    webUrl: "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/610121ec0d35a90018258b3e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why Trump is getting the hard sell from his former spokesman to join a new conservative social media site"
     excerpt: "Jason Miller has been urging Trump to use the social network GETTR. \"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while.'\""
     publishedDateTime: 2021-07-20T18:33:00Z
@@ -86,6 +102,20 @@ related:
       - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Power Up: Despite DOJ waive of executive privilege, compelling Trump-era officials to testify still a wildcard"
+    excerpt: "While the DOJ's announcement opens the door for former Trump administration officials to be called to testify in the events leading up to January 6, Democrats don't have a strong track record of enforcing those subpoenas."
+    publishedDateTime: 2021-07-28T10:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/28/power-up-despite-doj-waive-executive-privilege-compelling-trump-era-officials-testify-still-wildcard/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 85
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFFVWJXPDEI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 1859
         isCached: true
   - title: "Beshear Uses Ex-Trump Official's Words in Urging COVID Shots"
     excerpt: "Kentucky’s Democratic governor is highlighting a warning from a Trump administration health official in urging people to get the COVID-19 vaccine."

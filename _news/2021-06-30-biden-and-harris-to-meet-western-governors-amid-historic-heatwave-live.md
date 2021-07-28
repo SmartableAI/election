@@ -112,6 +112,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Maryland man sentenced for threats against Biden, Harris"
+    excerpt: "A Maryland man has been sentenced to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when they were candidates during the 2020"
+    publishedDateTime: 2021-07-27T21:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/maryland-man-sentenced-threats-biden-harris-79099954"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/maryland-man-sentenced-threats-biden-harris-79099954"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/maryland-man-sentenced-threats-biden-harris-79099954"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Heatwave: Biden and Harris meet west coast governors as region in emergency"
     excerpt: "Oregon’s governor expresses dismay at ‘unprecedented’ temperatures while fierce wildfire rages in northern California"
     publishedDateTime: 2021-06-30T15:31:00Z
@@ -1427,20 +1443,6 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 70
-  - title: "Maryland man sentenced for threats against Biden, Harris"
-    excerpt: "A Maryland man was sentenced Tuesday to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when"
-    publishedDateTime: 2021-07-27T21:56:00Z
-    webUrl: "https://www.bgdailynews.com/news/national/maryland-man-sentenced-for-threats-against-biden-harris/article_4f29afb3-766f-5ace-8787-88b8d1302b18.html"
-    type: article
-    provider:
-      name: Bowling Green Daily News
-      domain: bgdailynews.com
-    quality: 70
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z

@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden proposes strengthening Buy American rules to boost American manufacturing"
+    excerpt: "President Joe Biden on Wednesday proposed strengthening the federal government's Buy American rules in an attempt to boost American manufacturing.\n    \n"
+    publishedDateTime: 2021-07-28T13:12:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9c1fbJqM3KY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/biden-buy-american/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/biden-buy-american/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725204652-01-joe-biden-0725-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady's virtual joint address guests spotlight Biden administration priorities"
     excerpt: "When President Joe Biden delivers his address to a joint session of Congress Wednesday night, first lady Jill Biden will forgo the traditional set of guests in the first lady's viewing box due to social distancing constraints in the House chamber amid the coronavirus pandemic. Instead, she will virtually"
     publishedDateTime: 2021-04-28T20:21:06Z

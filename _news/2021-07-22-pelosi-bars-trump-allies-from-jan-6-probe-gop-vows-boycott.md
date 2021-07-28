@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
 type: article
 quality: 125
-heat: 405
+heat: 445
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/mccarthykevin_072221gn6_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "GOP’s Jake Ellzey wins US House seat over Trump-backed rival"
+    excerpt: "Republican Jake Ellzey of Texas won a U.S. House seat on Tuesday night over a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T07:51:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e911589/2147483647/strip/true/crop/5265x3521+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc9%2Fee%2F172605c243879686e09f9d9ed5d4%2Fgettyimages-1234238969.jpg"
+        width: 320
+        height: 214
         isCached: true
   - title: "Trump loyalists missing but not forgotten as Jan. 6 hearings begin: The Note"
     excerpt: "Jordan and McCarthy -- both of whom have said they spoke with former President Donald Trump as events unfolded Jan. 6 -- are two potential witnesses in an investigation that could extend deep into the former president's inner circle of formal and informal advisers."
@@ -236,6 +252,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "A.M. Roundup: Stefanik blames Pelosi for Jan. 6 insurrection led by Trump supporters"
+    excerpt: "Elise Stefanik on Tuesday joined other Republican leaders in blaming Speaker of the House Nancy Pelosi for the Jan. 6 insurrection at the U.S. Capitol. The insurrection was conducted by supporters of former President Donald J."
+    publishedDateTime: 2021-07-28T09:30:00Z
+    webUrl: "https://www.chron.com/capitol/article/A-M-Roundup-Stefanik-blames-Pelosi-for-Jan-6-16344475.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 28
 
 secured: "RLXRVoDrerVe/QTekC6eZzx3zgcXJdqQUJzhX0e2Tv30mWybYbNAmy2ExY4HUVCvOVLgv/tB1A34+2KCW89/BgLwm6noWvLo//iGcBWUpG7UARy9xl0OSjPnssHMTPgTZYZdiR/NFrRMYcgnYmr3nPEUl4eWl0UcMoVclaNw1OJXdZvyeArT8o4hUeeOJxztCMfBsxDPbCkXdnkUZ0Jn3u3NoKWtN/y/xTXFDlCfoN2D6ljqBK4xVQuRNRL8vP4VYLE8L2y2rD9p/bWknHOz3pfbwXev0Wx3F7iAYYUW1FbSWve5vWcplNhIP9ljGZdw0/uF0290eu1yxbumaoZnZSseW3/RY5HjuR/ZzXv+2KbTjsSvFSyZXuzdgW9wOXMe8ZQslaf0Aqwo2goGqswVhNHr94XRAkSTLbM2Bp6Lt7oV7bVIdTDwEGT8hYDs5sjMr2kpploAF1I5TnlisHYaKcMfMKmbIXcSgFoQ6zBH4d4DrmbVfrXRW7q+GrSZlFKwbcEFg+Fzkqydtulub5c5oQ==;iqBD/xDM1uYvNaWckvR9kA=="
 ---

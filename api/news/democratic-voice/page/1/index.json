@@ -2,63 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-28-gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival.md",
-      "title": "GOP's Jake Ellzey wins U.S. House seat over Trump-backed rival",
-      "excerpt": "Republican Jake Ellzey of Texas won a U.S. House seat on Tuesday night over rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/gop-s-jake-ellzey-wins-u-s-house-seat-over-n1275237",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/gop-s-jake-ellzey-wins-u-s-house-seat-over-n1275237",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494557/210727-jake-ellzey-ac-1051p.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1275237",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275237",
-      "publishedDateTime": "2021-07-27T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-28-biden-wants-putin-to-behave-so-why-not-go-after-his-money.md",
       "title": "Biden wants Putin to behave. So why not go after his money?",
       "excerpt": "Kremlin critics say the U.S. president needs to do more than take incremental measures. But insiders warn that aiming for Putin’s pocketbook could be dangerous.",
@@ -634,7 +577,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 695,
+      "heat": 715,
       "tags": null,
       "images": [
         {
@@ -1688,6 +1631,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-brianna-keilar-asks-john-bolton-if-trump-is-a-fascist.md",
+      "title": "Brianna Keilar asks John Bolton if Trump is a fascist",
+      "excerpt": "Former national security adviser John Bolton questions whether former President Donald Trump was capable of orchestrating a violent coup.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNoAeoRg0M4/john-bolton-trump-coup-fascism-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNoAeoRg0M4/john-bolton-trump-coup-fascism-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716090818-john-bolton-new-day-07162021-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/07/16/john-bolton-trump-coup-fascism-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/16/john-bolton-trump-coup-fascism-newday-vpx.cnn",
+      "publishedDateTime": "2021-07-16T06:15:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     }

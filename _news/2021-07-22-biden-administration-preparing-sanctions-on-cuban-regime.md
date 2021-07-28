@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
 type: article
 quality: 175
-heat: 695
+heat: 715
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714182833-joe-biden-angela-merkel-g7-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Time for action:' Voting and civil rights groups intensify pressure on Biden and Congress to move on federal election bills"
+    excerpt: "Civil rights activists and voting rights groups this week are intensifying pressure on Congress to advance federal voting rights legislation as a bulwark against an array of new laws in Republican-controlled states that make it harder to vote.\n    \n"
+    publishedDateTime: 2021-07-28T11:18:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OHazvUwtwEk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/civil-rights-groups-voting-biden-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/civil-rights-groups-voting-biden-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720131316-voting-rights-rally-texas-0708-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

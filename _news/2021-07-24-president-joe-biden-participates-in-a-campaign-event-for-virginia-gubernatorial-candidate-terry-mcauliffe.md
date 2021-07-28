@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Jill Biden's chief of staff nominated for Spain ambassador"
+    excerpt: "President Joe Biden has nominated Julissa Reynoso, the chief of staff to first lady Jill Biden and a former ambassador, to serve as his ambassador to Spain and Andorra"
+    publishedDateTime: 2021-07-27T21:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-bidens-chief-staff-nominated-spain-ambassador-79099185"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-bidens-chief-staff-nominated-spain-ambassador-79099185"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-bidens-chief-staff-nominated-spain-ambassador-79099185"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
 
 secured: "nc9Z1RiIQVvA3B1atU00BQB5c4WQZCtDCCVESV2UzIdIxfc7LQAsHlwDL0j0QomOQa/IzjXfAftWA9uTatjACAADqeV49lk2pKrGkswW50ywHrUoBwRp0anMarXQa74UU6ttuTgkgCEJBKwHJcwyeio5JgT3WFTX3Usd0fx5mugaJ4YJDy37PCZPDttURHiPpP3cfYGyXgw7lA5xLzsL18jtE2aTzjA8Bdfk5mSrCj2ywHdkJ343exOKhbSsxB5NsIWgUS9BYPMgeBBX3jOtGmrb2iMB1N9VYEWGoxbSPgwAeJMdT4ZRaShF0V1Xa3gaIxyKyWtZqVeIMqosUz5p2O8UUs4QnmBd/XaGDrGAk+5StCk2971QKpQ9zLZAFSv98zhVnP8CqBWL2+JKbjMH2LHTes47dgz/VCFK6BNc6tZzgEkzIBLFzMTVSJIbnKhwYZkKV2xXcAmaeBIh/DA9alVI3veWKl1C/ghWCK86/4binau81M3e0LJ35t+sH5lC0frK1kFYkJrdFx6oBnV3jQ==;86P6dkOPz1qofXdU6O5uEw=="
 ---

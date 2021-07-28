@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1665
         isCached: true
+  - title: "Voters reject Trump-endorsed Republican in Texas special election"
+    excerpt: "Jake Ellzey defeats fellow Republican Susan Wright for House seat following death of Wright’s husband from Covid-19"
+    publishedDateTime: 2021-07-28T12:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/30e175a85e10d64f5fc908cba87bcdeba8c50b40/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bc254ec92221c1b419bdfb8650e80325"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Donald Trump returning to Arizona as 2020 election review drags on"
     excerpt: "Donald Trump is expected to hold his first post-presidency rally in Phoenix at an event ostensibly about GOP fortunes in 2022."
     publishedDateTime: 2021-07-23T20:12:00Z

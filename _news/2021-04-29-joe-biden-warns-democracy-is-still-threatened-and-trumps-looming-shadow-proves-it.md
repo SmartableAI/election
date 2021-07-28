@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and DeSantis clash with Biden over masks"
+    excerpt: "A new political war over masks is already deepening the national divides that slowed vaccinations and thwarted what once seemed an imminent victory over the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-07-28T11:23:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O55hglfVENg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/mask-wars-are-back/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/mask-wars-are-back/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721221442-mask-recommendations-biden-health-officials-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden revokes Trump executive order sanctioning International Criminal Court officials"
     excerpt: "President Joe Biden revoked a Trump executive order that authorized sanctions on International Criminal Court officials and lifted sanctions on two officials, Secretary of State Antony Blinken said in a statement Friday.\n    \n"
     publishedDateTime: 2021-04-02T20:04:57Z

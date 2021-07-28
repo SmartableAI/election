@@ -3,8 +3,8 @@ category: news
 title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
 excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
 publishedDateTime: 2021-07-27T22:58:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/0b23ef5069daf06105a5ffd61c99f07a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/0b23ef5069daf06105a5ffd61c99f07a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/98ab2f8d00b5f1da5465b905e2477f4b/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/98ab2f8d00b5f1da5465b905e2477f4b/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
 type: article
 quality: 53
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/0b23ef5069daf06105a5ffd61c99f07a/HARRIS-VOTING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/98ab2f8d00b5f1da5465b905e2477f4b/HARRIS-VOTING.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -67,6 +67,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "FGJqPXXUE9KIf1Bui9cSM0KrXR/ioybWWtN7+E9WpTngDKP9t66b11k8wTD/XFNJGmyJo17FZ8Z/uNjSO7CF22/wwF1B3khnIeqPOMn2wnvVYZJbyjuJ3BmtuibVKT0K6P4lwSmvQ4ikIXv4XoNWQmN3bVWTPzE8Tiia24GXluJq88sJb5oT7gU6fmCE7XCAzXVBTZbvOJZVV4X9slCbVluqsJI4w8+h7x8ntc9fpcI+V4JanS/VuMw9/dImTvV2oNB1lLQW7Fe6mTZtiRBLqN4McaT5BnJWuLOFPxmeNpYwgY7qqdyhK0OR2xzl7bYXthMTWKp059B1mTNp5+dyEhjukzrb6k8uRmv3PwLMZrw=;EiEknXtyMRrurPh8JV5ZRQ=="
+secured: "mlXNmk5lQeqRyFgCf3FOdgvKuHP/k7MtHtReTi03+J73vq9q2vUj2h1lHGIJ+Mzc7TI02oC4CQpd37o2zp4U6WQRyRKaVd0wTdQ3k7L0f8FyEHawtKSCS1H838bg5TY+o6HZdQgJEh150oIUUcAAgFHtJnrqu+IWsfRIcc5kiiQaJzLzqCQurTEQpWW6KBs87sRVIcKC5BAy+XmNya9LetqGeCFypyZs5OMTEbYGvUaBvbXfezV8vRQUa2A3+58gE2nbnYqDCjH4klyixB3oS+MLFNaHHPNNDi8GEvdtDOTCyK0ij1JYlZdeofTV+5R8/guZjEJdI6dEehcKyxSTlcT248fXTjhaae7rrz+Os3LMno3/i7s8YBkMo/G88+dipJYmi7VNOad+cEppAUPojDOnd31Lrs1Avc8J1buUvdzVsFhcX/E+QZii6hNkRUiHrlqgzNJj9du6VAJBBHNVWOW1/5zJ3KEw4nouo7edXOYsEC29aJvJ6xFWt638zBgvKnc5gfP0uB2W5Ic5zOtxhw==;GHUOLzk3jpQlojUPV+o9SQ=="
 ---
 

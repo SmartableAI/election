@@ -2,8 +2,8 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-27-mike-pence-coming-to-houston-next-wednesday.md",
-      "title": "Mike Pence coming to Houston next Wednesday",
+      "path": "_news/2021-07-27-mike-pence-coming-to-houston-on-wednesday.md",
+      "title": "Mike Pence coming to Houston on Wednesday",
       "excerpt": "Former Vice President Mike Pence is coming to Houston to headline a 5-day conference aimed at college Republicans. Pence is scheduled to speak at Young America’s Foundation’s annual conference on Wednesday,",
       "sourceUrl": null,
       "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php",
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php",
       "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php",
-      "publishedDateTime": "2021-07-26T16:34:00-07:00",
+      "publishedDateTime": "2021-07-26T14:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Houston Chronicle",
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 237,
       "tags": null,
       "images": [
         {

@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "GOP’s Jake Ellzey wins US House seat over Trump-backed rival"
+    excerpt: "Republican Jake Ellzey of Texas won a U.S. House seat on Tuesday night over a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T07:51:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e911589/2147483647/strip/true/crop/5265x3521+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc9%2Fee%2F172605c243879686e09f9d9ed5d4%2Fgettyimages-1234238969.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Trump ally Tom Barrack leaving jail on $250M ..."
     excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-23T22:43:00Z
@@ -236,6 +252,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "A.M. Roundup: Stefanik blames Pelosi for Jan. 6 insurrection led by Trump supporters"
+    excerpt: "Elise Stefanik on Tuesday joined other Republican leaders in blaming Speaker of the House Nancy Pelosi for the Jan. 6 insurrection at the U.S. Capitol. The insurrection was conducted by supporters of former President Donald J."
+    publishedDateTime: 2021-07-28T09:30:00Z
+    webUrl: "https://www.chron.com/capitol/article/A-M-Roundup-Stefanik-blames-Pelosi-for-Jan-6-16344475.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 28
 
 secured: "BGj/6iEqvmIXcTquXTygcO3MdIVv6isp/Dyr98AdQY91/eUc//kgOZ79eiGPn0tQqxjxdocro7B3ARVusW79SHma4d6ZY/RVzv3DXqRO4D0Z2xzqcSyOMB/+AjfrwRXBSl++++5LF+e9Vs1d8XlT6Nx3S43J5LVu/6nKKo0Lnh3vaOJjvnwlrPJLWYEWG6PQuOxjXU8gKU+u1U/luF7MJzcPaqCTjNVBasHJ4gbgEDVQXVKMHrOQoIYYgpt1de7OrbU/1DDrUQ6P162/HYx63OYv6E4TQpFz3eU+w2hGjBVj/joxbzWHKrVplE/gZu6g91IvoG8ZaztnBPzXpp1BVopYU2VTbp+MOocaF1+zsu1UDqHn7+pbyL4BlWPYLMwPgVnRXVYOegNH8AbO+HaxfyT9k+PumN4vSrAstd9PIisZ8sn+rMFLU3S0C9/+vOqUBS0sXo849RGYgD9HK+g/Kcal6qjwP1yq/KeKehKlLmldk974cviX3u1WJ8lKxFlJNBCx04QTaxrWw3LS0nllog==;vUz750hp6D5z+qJYSUlkJQ=="
 ---

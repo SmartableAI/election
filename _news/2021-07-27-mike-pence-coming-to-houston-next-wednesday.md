@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Mike Pence coming to Houston next Wednesday"
-excerpt: "Former Vice President Mike Pence is coming to Houston to headline a 5-day conference aimed at college Republicans. Pence is scheduled to speak at Young America’s Foundation’s annual conference on Wednesday,"
+excerpt: "Former Vice President Mike Pence is coming to Houston to headline a 5-day conference aimed at college Republicans. Pence is scheduled to speak at Young America’s Foundation’s annual conference on Wednesday Aug."
 publishedDateTime: 2021-07-26T23:34:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/texas/article/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php"
-webUrl: "https://www.houstonchronicle.com/politics/texas/article/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php"
-ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php"
+originalUrl: "https://www.expressnews.com/politics/texas/article/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php"
+webUrl: "https://www.expressnews.com/politics/texas/article/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php"
 type: article
-quality: 125
-heat: 145
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Antonio Express-News
+  domain: expressnews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://s.hdnux.com/photos/01/21/13/32/21280392/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://s.hdnux.com/photos/01/21/13/32/21280392/3/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -48,6 +42,6 @@ related:
         height: 267
         isCached: true
 
-secured: "j+/n+ktg1jY3YHYSytJMwfkqNJkje1LDW768LaGjcOWMQW2mMRym8MslkIgkFCDTJBeG2tdFaVUvg7V9Kwr7Wg9o61faTx+JPE0xns//XWO8oaCmKkkFUrwT1YLoLm+59a2tSvkQ6sFfir0of9/Icpl164c351ZfTz71oGJZ5zrsWgfPAHYYRVGk7l/CmJraPqsNjidOf3bE5wGKMGSb6s61vRrS5RafOSEp53SrrcBDBSeZ+3P1GgztW9uz0Kk+QEdOqXmwSKxXLZ1fycJd7tzr0Mp93LIiDn5byeGOWXsRhUlrKD08M5hTCOhtvkfyqQIW6cfRaep5hB84wV3S8m9rS6SuIjeq6FAGYMNfScsP8A5Oec17Xm+cPBJdkqGHy9dlnpaglb4+Va4VoUGbg8UQEqQNFjg2CmWFFkeYgFPAwmTyGzJ/fWSVKrU8XRCxOJ1Ba8MWAN7UfNrJFPhrZ6HWJoH014bfY4RV3xRm6s6rv1PkIXJ66/Bimd/T+xYLrYF3iamsV5uPfZ9A9YSjTw==;8YYh1qtWAQzDxNvuQTUHFw=="
+secured: "9u4u8HmdA7t7baCVLSfOWVi6pappfqEBPUZ4yV7nUWWvw+TVrZ6M4efantl2SAgTQuNWjs570QW5zkoj/9DOcai+x2ROHY6qH4QBrTSVDnMmN7lgdpL/a08HqeHRIn9J1k6Y3+o1S9rAhzc/SDuIi5PRwiBulRoyWysad8VUaBrUeyccofPEGekJUtOuUph1PNWRu7udSv+oOypEqEa8JW7+GjGPOI8JUr9rlEfkuBS7gxbiCBcmHO4zYOEpu7ZSc2hx6MCLMwkGi7Y6uaYRflzbsv+rZM+PZaVlRJ7oIlWsUqujG8OGClvEnkkaUuIcexyvicHAIZAwAFvYiTDKGCjjYjM4BRFbWmdX92AUlX8=;MJegU/+VwPQJCmlE6zcTRA=="
 ---
 

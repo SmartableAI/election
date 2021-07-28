@@ -1,27 +1,34 @@
 ---
 category: news
 title: "Maryland man sentenced for threats against Biden, Harris"
-excerpt: "A Maryland man was sentenced Tuesday to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when"
-publishedDateTime: 2021-07-27T21:56:00Z
-originalUrl: "https://www.bgdailynews.com/news/national/maryland-man-sentenced-for-threats-against-biden-harris/article_4f29afb3-766f-5ace-8787-88b8d1302b18.html"
-webUrl: "https://www.bgdailynews.com/news/national/maryland-man-sentenced-for-threats-against-biden-harris/article_4f29afb3-766f-5ace-8787-88b8d1302b18.html"
+excerpt: "A Maryland man has been sentenced to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when they were candidates during the 2020"
+publishedDateTime: 2021-07-27T21:17:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/maryland-man-sentenced-threats-biden-harris-79099954"
+webUrl: "https://abcnews.go.com/Politics/wireStory/maryland-man-sentenced-threats-biden-harris-79099954"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/maryland-man-sentenced-threats-biden-harris-79099954"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/maryland-man-sentenced-threats-biden-harris-79099954"
 type: article
-quality: 70
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Bowling Green Daily News
-  domain: bgdailynews.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -1650,6 +1657,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "HaWNW7WMDhhgR+0sFArLab5NcdJjm1sQrMXzlxknEWbpfmXZiNwoDFUw7h5saXQolzJKoTzT6m8rRqRSfyZtDWJkT8xzAzY2BgEaGLH2vef2BATssn/fmP88WI/7G4qAY1b78mok5jbmwjAOnxPSStmZvGTkVRtkFZ7PzdagvF50vdfW6ahwF45txmsBCnVY5oBJFhn57/e4LtV5FX8Sr9iWlBBKeTV8FBe4IO0PhXgQ2Iov/uKbU18ydgju1SbHFAT6aLh1AIy0y41Ug0Na38sk6sifBOuqNGlrcYKYGM4mouCmlzfeINF6/3/ESZMVe8DxINlySGpLRJM+w8CV8pI1YVubE4ilUPFyD/7qvC8=;DIvEnLUxtVQJ8xMNoZtylw=="
+secured: "Y23mn9I/n6ubFCnU8HHkctZpEUJX3ZbmiAGHjqSw4wxr2nJ4UDWQ9pdYYtpxDw64HK6J192nU77eTvkhTU1deVC7NKKE4P8mVhIljNdj4213bMWhFGeslBxuj3buVO3vADGUEIUh3qzz0RtDN+sF2PCqSjnx5/ZUI4dDJGfV62lqJMdUddcgM737dgIwKYvsGBGD2KzpCmjHvSh9KjBmXOKn8CdmwLUniIDqP7D1aJxHh6J7OxMrp1ouT1wkYCtNYrhcdjb3k3I5YaQ0JY8aDQIBDX3/2M9TA2UTVKhd+QWo9sT9H/2m+bZffEc0bkO9XfNRCLge2qOoAmCfyuRB2TpfUF7PirUdkAc4poiudYE=;YHBfqMFqjY101fKLnLh8xg=="
 ---
 

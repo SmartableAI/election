@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-cou
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
 type: article
 quality: 157
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Voters reject Trump-endorsed Republican in Texas special election"
+    excerpt: "Jake Ellzey defeats fellow Republican Susan Wright for House seat following death of Wright’s husband from Covid-19"
+    publishedDateTime: 2021-07-28T12:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/28/voters-reject-trump-republican-texas-election-jake-ellzey"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/30e175a85e10d64f5fc908cba87bcdeba8c50b40/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bc254ec92221c1b419bdfb8650e80325"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump ally arrested on foreign lobbying charges"
     excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
     publishedDateTime: 2021-07-20T22:21:00Z
