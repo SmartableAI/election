@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump loyalists missing but not forgotten as Jan. 6 hearings begin: The Note"
-excerpt: "Jordan and McCarthy -- both of whom have said they spoke with former President Donald Trump as events unfolded Jan. 6 -- are two potential witnesses in an investigation that could extend deep into the former president's inner circle of formal and informal advisers."
-publishedDateTime: 2021-07-27T10:01:00Z
-originalUrl: "https://abcnews.go.com/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
-webUrl: "https://abcnews.go.com/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
+title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
+excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
+publishedDateTime: 2021-07-28T00:55:00Z
+originalUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
+webUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
 type: article
-quality: 122
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-wh-ge_hpMain_20210726-205630_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -79,6 +77,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump loyalists missing but not forgotten as Jan. 6 hearings begin: The Note"
+    excerpt: "Jordan and McCarthy -- both of whom have said they spoke with former President Donald Trump as events unfolded Jan. 6 -- are two potential witnesses in an investigation that could extend deep into the former president's inner circle of formal and informal advisers."
+    publishedDateTime: 2021-07-27T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-loyalists-missing-forgotten-jan-hearings-begin-note/story?id=79068304"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-wh-ge_hpMain_20210726-205630_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump ally Tom Barrack leaving jail on $250M ..."
     excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-23T22:43:00Z
@@ -104,20 +118,6 @@ related:
     quality: 105
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/463II5UFL4I6THLT4K5GXPY3TM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
-    excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
-    publishedDateTime: 2021-07-28T00:55:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 95
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -237,6 +237,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "BGj/6iEqvmIXcTquXTygcO3MdIVv6isp/Dyr98AdQY91/eUc//kgOZ79eiGPn0tQqxjxdocro7B3ARVusW79SHma4d6ZY/RVzv3DXqRO4D0Z2xzqcSyOMB/+AjfrwRXBSl++++5LF+e9Vs1d8XlT6Nx3S43J5LVu/6nKKo0Lnh3vaOJjvnwlrPJLWYEWG6PQuOxjXU8gKU+u1U/luF7MJzcPaqCTjNVBasHJ4gbgEDVQXVKMHrOQoIYYgpt1de7OrbU/1DDrUQ6P162/HYx63OYv6E4TQpFz3eU+w2hGjBVj/joxbzWHKrVplE/gZu6g91IvoG8ZaztnBPzXpp1BVopYU2VTbp+MOocaF1+zsu1UDqHn7+pbyL4BlWPYLMwPgVnRXVYOegNH8AbO+HaxfyT9k+PumN4vSrAstd9PIisZ8sn+rMFLU3S0C9/+vOqUBS0sXo849RGYgD9HK+g/Kcal6qjwP1yq/KeKehKlLmldk974cviX3u1WJ8lKxFlJNBCx04QTaxrWw3LS0nllog==;vUz750hp6D5z+qJYSUlkJQ=="
+secured: "qkmspO0PhgHPn34xrx8voANpI0uLWAJowpsm1l0/DSDcjCKEA4bU3/TcisHi308sHz4PFTP1T7BjSiK2ncCaAQDGz0NZ8KKgs41CZI8979NGM8H6JK5pdw77KO7GzLwqHR2g96vfQ/uPHDCED1ep5YxxGSDGV/4KVAISjlvuzH6zjyML/FZeRLzvSRhSam+daLoSn+X993/81dnEW6S/axMwQTKY53Cd1dsjSlONFDZ4GwVXX8rWC0LfMkSTdRGl0i0Au+RrqMGMOEIjiwADouANlRftR5se6UU8fzwcL5qBY8uZYDX1ApWu/r6tAAgGhhnpHdUDzJLHkqaE4l28RE3kyM5lPPtuHULeWYuwak0=;zxya+Q+qhow4czNtkEhSgw=="
 ---
 

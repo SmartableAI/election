@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-06-former-trump-hud-official-fined-and-barred-from-federal-work-over-hatch-act-violation.md",
+      "title": "Former Trump HUD official fined and barred from federal work over Hatch Act violation",
+      "excerpt": "A former Housing and Urban Development official and Trump family associate has been fined and barred from federal work for violating the Hatch Act's prohibition of use of official authority after she blurred the lines between official business and politics by producing a video for the 2020 Republican",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jX0Px_-1p1g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jX0Px_-1p1g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html",
+      "publishedDateTime": "2021-04-06T11:42:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-hawley-a-critic-of-biden-picks-support-for-wars-in-middle-east-previously-blogged-in-support-of-iraq-war.md",
       "title": "Hawley, a critic of Biden picks' support for wars in Middle East, previously blogged in support of Iraq War",
       "excerpt": "Republican Sen. Josh Hawley of Missouri, a frequent critic of Biden administration nominees for supporting the Iraq War and other \"forever wars,\" himself wrote in support of the Iraq War prior to becoming a senator in newly uncovered blog posts.\n    \n",

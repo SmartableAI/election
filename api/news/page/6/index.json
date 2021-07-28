@@ -2,6 +2,54 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-18-trump-takes-a-hack-at-british-open-for-bypassing-his-scottish-golf-course.md",
+      "title": "Trump takes a hack at British Open for bypassing his Scottish golf course",
+      "excerpt": "Former President Trump teed off on the British Open Saturday for hosting the contest at the Royal St. George’s in Kent — rather than his Scottish course.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/17/trump-bashes-british-open-for-bypassing-his-scottish-course/",
+      "originalUrl": "https://nypost.com/2021/07/17/trump-bashes-british-open-for-bypassing-his-scottish-course/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-turnberry-004.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/17/trump-bashes-british-open-for-bypassing-his-scottish-course/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/17/trump-bashes-british-open-for-bypassing-his-scottish-course/amp/",
+      "publishedDateTime": "2021-07-17T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-biden-pledges-appeal-of-deeply-disappointing-daca-ruling.md",
       "title": "Biden pledges appeal of ‘deeply disappointing’ DACA ruling",
       "excerpt": "Biden urged Congress to move forward with legislation to permanently protect those covered by the Deferred Action for Childhood Arrivals program.",
@@ -1292,63 +1340,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ruthless-podcast-plays-veep-or-veep-using-quotes-from-kamala-harris-fictional-vp-selina-meyer.md",
-      "title": "Ruthless podcast plays 'Veep or Veep' using quotes from Kamala Harris, fictional VP Selina Meyer",
-      "excerpt": "The \"Ruthless\" podcast debuted a new game on Thursday called \"Veep or Veep\" involving quotes made by Vice President Kamala Harris and fictional VP Selina Meyer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer",
-      "originalUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/047dda84-2e62-4f40-92a8-090c4459b838/e0d0db1b-9ff6-4375-a047-9825c20eccbd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer.amp",
-      "publishedDateTime": "2021-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

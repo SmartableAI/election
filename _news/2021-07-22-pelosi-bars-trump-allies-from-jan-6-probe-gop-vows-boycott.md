@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
     quality: 105
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/463II5UFL4I6THLT4K5GXPY3TM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
+    excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
+    publishedDateTime: 2021-07-28T00:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 95
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

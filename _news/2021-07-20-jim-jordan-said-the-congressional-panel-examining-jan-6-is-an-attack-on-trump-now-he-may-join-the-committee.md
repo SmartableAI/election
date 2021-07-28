@@ -121,6 +121,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
+    excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
+    publishedDateTime: 2021-07-28T00:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 95
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Update: Pelosi bars Trump allies from Jan. 6 probe; GOP may boycott"
     excerpt: "House Speaker Nancy Pelosi is rejecting two Republicans tapped to sit on a committee investigating the Jan. 6 Capitol insurrection, citing the \"integrity\" of the probe."
     publishedDateTime: 2021-07-21T16:49:00Z
