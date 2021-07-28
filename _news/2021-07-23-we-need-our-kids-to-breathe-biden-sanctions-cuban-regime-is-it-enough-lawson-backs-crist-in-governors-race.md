@@ -254,6 +254,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden meets with key Democratic negotiator as White House presses to keep agenda on track"
+    excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
+    publishedDateTime: 2021-07-28T02:18:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Masks and vaccine mandate show CDC and Biden taking emergency action amid Covid-19 surge"
     excerpt: "The steps President Joe Biden's administration is adopting this week to re-recommend masks and require vaccines for federal workers amount to emergency actions designed to contain a new surge of Covid-19 that has quickly become the top issue confronting the White House.\n    \n"
     publishedDateTime: 2021-07-28T00:40:14Z
@@ -384,8 +400,8 @@ related:
         isCached: true
   - title: "Biden considers making vaccines mandatory for federal workforce"
     excerpt: "President Joe Biden says he is considering a requirement for all federal employees to get the Covid vaccine after addressing the intelligence community workforce."
-    publishedDateTime: 2021-07-27T22:12:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902?playlist=mmlsnnd_bestofnbc-nnd"
+    publishedDateTime: 2021-07-27T22:10:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902"
     ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117477957902"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117477957902"
     type: article

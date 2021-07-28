@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-28-gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival.md",
+      "title": "GOP's Jake Ellzey wins U.S. House seat over Trump-backed rival",
+      "excerpt": "Republican Jake Ellzey of Texas won a U.S. House seat on Tuesday night over rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/elections/gop-s-jake-ellzey-wins-u-s-house-seat-over-n1275237",
+      "originalUrl": "https://www.nbcnews.com/politics/elections/gop-s-jake-ellzey-wins-u-s-house-seat-over-n1275237",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494557/210727-jake-ellzey-ac-1051p.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1275237",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275237",
+      "publishedDateTime": "2021-07-27T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-doj-tells-former-trump-officials-they-can-testify-about-efforts-to-overturn-election.md",
       "title": "DOJ tells former Trump officials they can testify about efforts to overturn election",
       "excerpt": "Jeffrey Rosen, who was acting attorney general after William Barr stepped down, is among the officials being allowed to testify.",
@@ -520,7 +577,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 675,
+      "heat": 695,
       "tags": null,
       "images": [
         {
@@ -1630,63 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ticket-sales-are-moving-slowly-for-the-coming-trump-oreilly-stadium-tour.md",
-      "title": "Ticket sales are moving slowly for the coming Trump-O’Reilly stadium tour",
-      "excerpt": "Time remains to sell out the stadiums. But those familiar with the current sales pace say it lags behind other acts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795",
-      "originalUrl": "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a3/98/4a7696cc4883b5ff031956fc291d/7-15-21-donaldtrump-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795",
-      "publishedDateTime": "2021-07-16T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

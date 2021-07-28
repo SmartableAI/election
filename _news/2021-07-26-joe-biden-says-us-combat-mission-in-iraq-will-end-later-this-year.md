@@ -106,14 +106,14 @@ related:
   - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
     excerpt: "U.S. President Joe Biden delivers remarks to Intelligence Community workforce members at the National Counter Terrorism Center in on Tuesday, July 27, 2021 in McLean, Virginia. Photo by Alex Edelman/U"
     publishedDateTime: 2021-07-27T19:50:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/097d30366f6712bc241abeb47b60f0e7/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8d767df86838673f985d0b8d2008642a/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/097d30366f6712bc241abeb47b60f0e7/BIDEN-WORKFORCE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8d767df86838673f985d0b8d2008642a/BIDEN-WORKFORCE.jpg"
         width: 650
         height: 433
         isCached: true

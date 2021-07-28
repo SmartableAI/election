@@ -2,9 +2,9 @@
 category: news
 title: "Biden considers making vaccines mandatory for federal workforce"
 excerpt: "President Joe Biden says he is considering a requirement for all federal employees to get the Covid vaccine after addressing the intelligence community workforce."
-publishedDateTime: 2021-07-27T22:12:00Z
-originalUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902?playlist=mmlsnnd_bestofnbc-nnd"
-webUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902?playlist=mmlsnnd_bestofnbc-nnd"
+publishedDateTime: 2021-07-27T22:10:00Z
+originalUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902"
+webUrl: "https://www.nbcnews.com/video/biden-considers-making-vaccines-mandatory-for-federal-workforce-117477957902"
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117477957902"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117477957902"
 type: article
@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden meets with key Democratic negotiator as White House presses to keep agenda on track"
+    excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
+    publishedDateTime: 2021-07-28T02:18:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Masks and vaccine mandate show CDC and Biden taking emergency action amid Covid-19 surge"
     excerpt: "The steps President Joe Biden's administration is adopting this week to re-recommend masks and require vaccines for federal workers amount to emergency actions designed to contain a new surge of Covid-19 that has quickly become the top issue confronting the White House.\n    \n"
     publishedDateTime: 2021-07-28T00:40:14Z
@@ -431,6 +447,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "sTUlYMPmF1K1Juh1cCOrPlXFKXtHkuTIjzBv6uOK8bxOLcIkWxupczRvkGR+V8c1xVvxHy98eF0N7nPo4tG+iVyTt9ykNLf//b9CFfGnSwrjnePLySq3RUYBvNCKO9fn/+5ZUk1AVJNKQRuJfRBIon7Ii83o+BZ+LTLklDAGGWs039YjcKl/f9OZYDkIc8ApxLxoXDGovKUdE7+h9iEwmEpHTNPvoLMqvT5IsSGR5eS8UXzr5vq537Hmfm0XvyA2DU7/AhY3SXagijD/KoB5kuFafp3H+qkc1M6SKs3kN871MWzS9VqY0NeDXcaf4X7rpLFbFbVpMtXr1S4PFIBPdmTENnXL9RdNfhHDFLLhq5I=;9hOMyPglp7U0sv4LOamFYQ=="
+secured: "cx5c8rJ5g0UzB+uC6WZTzkmsn7quRvK6e/y/Ndzh2z5dw0GPpeLubzDeYjwl6zeBQ9s1SebHtDPomtsUk6vEGrLG/CKXJe5DXhCti3kuNj/GS9qrTwP2R3azFnXjq5AEqfAieIisizfOW9xCirSL4B4kS1Qyk/bHJ+/vj78FsJ1BJGwWqm+Xvg1ATjD/XMOiv8+1sv+kmLpvpFSkDK862fhZoorL3i7PsjR6+9OOkU46Ab6wSHSBpU2xRCY1ipkK53AVGhgLWdT2wAUWeBpDMBbK8x2k5iisa3Jwm4fYr6W7cgvi17echmoNFW/q2dLG6NHwU6XxnkqzK22l/t2WUiMQEH1SmGQYWSROIb6UZ4Q=;WqpaogwCsxWOwp9GJ6CCYQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
 excerpt: "U.S. President Joe Biden delivers remarks to Intelligence Community workforce members at the National Counter Terrorism Center in on Tuesday, July 27, 2021 in McLean, Virginia. Photo by Alex Edelman/U"
 publishedDateTime: 2021-07-27T19:50:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/097d30366f6712bc241abeb47b60f0e7/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/097d30366f6712bc241abeb47b60f0e7/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8d767df86838673f985d0b8d2008642a/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8d767df86838673f985d0b8d2008642a/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/097d30366f6712bc241abeb47b60f0e7/BIDEN-WORKFORCE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8d767df86838673f985d0b8d2008642a/BIDEN-WORKFORCE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -118,6 +118,6 @@ related:
         height: 534
         isCached: true
 
-secured: "tIhrY8miFZrmdZaKBtottIBqT+L6xZzvtdH5OJpsZrZ6gZLVYSbSAdhB4xbRYGRHHOzP6Ux+s4mv1tCPL40JgN7QM3NEXt0KiXxNZq6BcjS9BmhrNGbNfkVYTZiEzi1t768Y5kYUgwis1jImdXpNt5DvyKzksvcvw2LMVc8PnKPz+IEclTO/xJi3NSRY+AG1reUdZSoiREjE9f5aVY2sYikRjUyTt9zwI3Y4waJYGbwWD9VUV+Nfxk7rPxjYDiR4NbHaJ0+dUC8JW7pHJq7NNP2MQjgUo9M+M5TsQZrXHnywEPPSXZIoGPw0H/ZrSF3+TzVgKmaFBcc4HzVqwachi2sCLloe6VtoqH3n86mzxK8=;019f4oBb9j9KtT1zUFnO+Q=="
+secured: "hB8RentGdZBZUJ3XUpLWEqajuh9jbShwxZ6yE/kkpqXN8Lx2ltHsMom3bYaYEOY7ZIe7m4C0fbGOKCifwd1MdOpi4l5Yvo3OocCrpFz7pL9kTy0h3LGdyLEUfZBA15yRXOuHvNHCkZLV2e07t7lvEAEwMvBmmfrZdSxFVO7NdUhvJp3beSxkILe3CJdRVwJE6F/cA04VCl49EXoFcMioc6vKqQ7hgFDIGXgxufIO+Kdaezi8Hbdf7MXxrrQUCwWwiqxhF8cUD62zzNOITkT3zSdhAdld/c73/Izc13ekldQuKMp6J11oNGYAr3EWtIF5mDLPuJ10Yg8Qst9bgWWVjgEgIcguHfw9qDRRdiqfm1E=;lQhdwilGYvCiBqS8dxAc0g=="
 ---
 

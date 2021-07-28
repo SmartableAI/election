@@ -2,19 +2,128 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-28-the-trailer-trump-texts-and-texas-inside-an-all-republican-primary-that-didnt-go-as-planned.md",
-      "title": "The Trailer: Trump, texts and Texas: Inside an all-Republican primary that didn't go as planned",
-      "excerpt": "Instead, Democrats spent little, turned out few voters, and set up an all-Republican race between Wright and Ellzey, who'd previously sought the seat in 2018. Instead of a red-on-blue suburban battle,",
+      "path": "_news/2021-07-28-gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival.md",
+      "title": "GOP's Jake Ellzey wins U.S. House seat over Trump-backed rival",
+      "excerpt": "Republican Jake Ellzey of Texas won a U.S. House seat on Tuesday night over rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/",
+      "webUrl": "https://www.nbcnews.com/politics/elections/gop-s-jake-ellzey-wins-u-s-house-seat-over-n1275237",
+      "originalUrl": "https://www.nbcnews.com/politics/elections/gop-s-jake-ellzey-wins-u-s-house-seat-over-n1275237",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXK7Q5XO6EI6XANSTNYGDJMC3A.jpg&w=1440",
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494557/210727-jake-ellzey-ac-1051p.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1275237",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275237",
+      "publishedDateTime": "2021-07-27T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-biden-should-recruit-trump-to-help-get-more-americans-vaccinated-kudlow.md",
+      "title": "Biden Should 'Recruit' Trump To Help Get More Americans Vaccinated: Kudlow",
+      "excerpt": "Larry Kudlow also called on Twitter and Facebook to restore Trump's access to his social media accounts, which were suspended following the deadly Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999",
+      "originalUrl": "https://www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-donald-trump-announced-he-will-not-attend.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999?amp=1",
+      "publishedDateTime": "2021-07-27T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-texas-voters-brush-aside-trump-endorsement-and-name-jake-ellzey-the-winner-in-a-house-special-election-in-texas.md",
+      "title": "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas",
+      "excerpt": "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440",
           "width": 1440,
           "height": 960,
           "title": null,
@@ -26,7 +135,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T14:21:00-07:00",
+      "publishedDateTime": "2021-07-27T18:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -1433,106 +1542,6 @@
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
       "publishedDateTime": "2021-07-21T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-trump-implores-gop-to-push-back-against-dems-35t-spending-spree.md",
-      "title": "Trump implores GOP to ‘push back’ against Dems’ $3.5T spending spree",
-      "excerpt": "Former President Donald Trump urged House Republicans Wednesday to block the Democrats’ $3.5 trillion budget resolution from passing the Senate after a $1.2 trillion bipartisan",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/",
-      "originalUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/DonaldTrump.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/amp/",
-      "publishedDateTime": "2021-07-21T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-trump-liz-cheney-opponents-to-meet-with-him-pre-endorsement.md",
-      "title": "Trump: Liz Cheney opponents to meet with him pre-endorsement",
-      "excerpt": "Donald Trump says he will meet next week with Republicans running against Rep. Liz Cheney and endorse one in the next few months",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_b37d921d72d742fd9d217beb767a21bb_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "publishedDateTime": "2021-07-20T14:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",

@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Jake Ellzey wins Texas special election over Trump-backed Susan Wright"
+    excerpt: "Republican candidate Jake Ellzey won a hotly contested special election runoff in Texas's sixth congressional district, defeating fellow Republican Susan Wright."
+    publishedDateTime: 2021-07-28T02:39:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zX-Kqsaqedw/texas-sixth-runoff-results-jake-ellzey-wins"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-sixth-runoff-results-jake-ellzey-wins.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-sixth-runoff-results-jake-ellzey-wins.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c85f0135-480a-46f2-8943-30a3eb36b112/2f67db74-11d3-4d8f-8cb8-40eb753744c6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump endorses Ken Paxton over George P. Bush for Texas AG"
     excerpt: "President Donald Trump on Monday night announced that he would endorse Ken Paxton in the race for Texas Attorney General over George P. Bush, the son of former presidential candidate and Florida Gov. Jeb Bush."
     publishedDateTime: 2021-07-27T01:27:05Z
@@ -91,6 +107,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-001-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Hannity: January 6 commission's only goal is to 'smear Donald Trump and the GOP on national television'"
+    excerpt: "The House January 6th commission \"has one mission and one mission only: to smear Donald Trump and the GOP on national television,\" Sean Hannity told viewers in his opening monologue on “Hannity” Tuesday."
+    publishedDateTime: 2021-07-28T03:35:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65e81360-4655-4e67-8b4c-f1a28d031291/0697d2d9-20fc-48ca-adfc-14baacbbc1da/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "The Real Reason Trump Keeps Telling the Big Lie"
     excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."

@@ -109,6 +109,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "The Republican backlash in Joe Biden’s America"
+    excerpt: "It might seem like a post-Trump world, but in red states across the US his most hardline supporters are setting the political agenda. How much power do they have to shape the country’s future, even with a Democrat in the White House?"
+    publishedDateTime: 2021-07-28T01:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2021/jul/28/republican-backlash-joe-biden-us-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/1eb74c6467fc4ce71429fff6debb6d3404584988/752_438_4493_2696/master/4493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=051568cfb89d59043d17fa0d538df71b"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What Joe Biden’s 1988 White House Rivals Think of Him Now"
     excerpt: "The summer treated Joe Biden well. He wasn’t quite the center of attention, but bouncing among D.C., Delaware, and whatever states would have him, he was making progress with weary Americans. The year was 1987,"
     publishedDateTime: 2021-07-25T13:00:00Z

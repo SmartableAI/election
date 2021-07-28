@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-t
 webUrl: "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/"
 type: article
 quality: 93
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -27,6 +27,22 @@ images:
     width: 1440
     height: 960
     isCached: true
+
+related:
+  - title: "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas"
+    excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
+    publishedDateTime: 2021-07-28T01:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "QgreMxQbJvVNDjw0LiNhLEJKGFVU5ZGXW6rOmnR9oBg9W8jG/veb8wR+moGepZtGFSIoGWPucuuij+H707MyCQl3KkyVb3027BVYjW8yDQIvU/LHNXN7BcvvQBgX0wF9Xj3yjkmOpVNd/ABUIezzep3BxMXQK4jeRCOAoEVLK1dsCr7NdJyEzHRYK+kw7o5gVCBDqVYm/IK+y+hADr4snHM/v7lDiIkleyHJDa8oCCYehAHlr4s92t2GClWYDMsRjqjJCcrbRnWxc22tOLEiQgHx0Ns1cLmn5zxl1RsAMWZfmSuqtDWz5Gm6BZs9nCqqcq/McphEYJv0qQvFYp2CIPt2KnksNNI6ltL+A8a4fTR7Y+KPVYwBEuiuwxPjrwvxY3wUKSAuAy/q6NtZRXgGUCGdBmp3+GMQzmtAFc/zuDvS+mHP+eZBrOjr9YDbvRKJI0TD8Jb7T2sSzMuimzJxrDG62dZBTOV8XXXFeiGkdhZGH0ar52Zplw/EH20AaxPZwMIx7NWIHSh9LuzM9mRouA==;nxYSDIb6iEtilSyd7wlYSw=="
 ---
