@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-re
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
 type: article
 quality: 140
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -292,6 +292,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9f47d4e8-eead-42d5-b813-7955e4b7e671_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "What this mean for Trump's endorsement powers..."
+    excerpt: "Watch \"What this mean for Trump's endorsement powers\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-28T17:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210728171829-what-this-mean-for-trumps-endorsement-powers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/28/story_11519912_1627493163.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trouble is brewing for a Georgia county's investigation into Donald Trump"
     excerpt: "The Fulton County district attorney is committed to investigating Trump. But a criminal case backlog and a spike in Atlanta-area crimes is complicating matters."

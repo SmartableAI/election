@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/ambassadors-canada-slove
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/ambassadors-canada-slovenia-austria-biden/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210723123804-caroline-kennedy-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration issues new sanctions on Syria"
+    excerpt: "The US sanctioned Syrian prisons, Assad regime officials and militia leaders on Wednesday, marking the first time the Biden administration has introduced new sanctions on the country.\n    \n"
+    publishedDateTime: 2021-07-28T16:58:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNyIDKNxBgc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180713134200-syria-flag-daraa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

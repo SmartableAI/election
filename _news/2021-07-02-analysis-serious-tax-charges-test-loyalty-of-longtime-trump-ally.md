@@ -447,6 +447,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Anti-Trump Republican Enters Pennsylvania's Race for Senate"
+    excerpt: "A one-time top aide to the late former U.S. Sen. Arlen Specter and a longtime lobbyist and political consultant from Philadelphia will run for U.S. Senate as an anti-Trump Republican."
+    publishedDateTime: 2021-07-28T17:34:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-28/anti-trump-republican-enters-pennsylvanias-race-for-senate"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "ZyciFeEvY3rTNOAFWrd0JYFKvpSsXJVW/IusaE0RNJM4ecNENQKhoe8+4zpgS68FTdvoGpKnowjEfLNhthz6fVr6wmWGVWJOMDCywDrlpFnWLDiPklLQ+HjEU1/zG3rKgqI430YSThiI7X9njNE44rkm01IOyaNyz//hlRifLAgdrfb/bX9KBuo1+jevT9NYxbxfwUgNCSZzQShfx27a+i0n90S8r5csS0pgVyjXX+Zo3QfTbRDBdD9fisOXSM9oLEv+boaIk8/MfdJyQsIJBV5RHjOgGg/75Btu4pGkOPs7XdMvnTSgBlwjCZ9VbQ/tRLZIISF2Bd8nVau0t7148u+LyENLxEstqLoEByYuRRkxcT0/yjAEgfynM2BBs9ohqxkmw0Gt3mWupklnLqIV6btEfB4RqigPMtZQbRfBLgk5fK8RTwXanqhCWc/hxcgK2VIuvGfX6ETWv5aSmuZewk6GMP9mw6dh+2hltycKRQHbNeIoqIctxqj6ZvlNYCaRn5MQQ8NUrNkERKFLU7YlUA==;ChMDuQzjEZ6/K+gtE6yWDQ=="
 ---

@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-28-why-is-president-biden-heading-back-to-pennsylvania-its-more-than-the-state-where-he-was-born.md",
-      "title": "Why is President Biden heading back to Pennsylvania? It’s more than the state where he was born",
-      "excerpt": "We’re the Keystone State,’ said Tom Wolf, the Democratic governor of Pennsylvania. ‘We’re a microcosm of the U.S. population. We’re old, we’re young, we’re big. And it’s the birthplace of Joe Biden.’",
+      "path": "_news/2021-07-29-unfairly-penalized-residents-senators-in-northern-border-states-question-bidens-border-closure.md",
+      "title": "'Unfairly penalized': Residents, senators in northern border states question Biden's border closure",
+      "excerpt": "With Canada's vaccination rates higher now than in US, some are wondering if continued closure is more about the southern border than northern one.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/news/politics-government/article253059638.html",
-      "originalUrl": "https://www.newsobserver.com/news/politics-government/article253059638.html",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 91,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5d632fe5-83d9-49d1-81ea-23acd529bcd3/433b3d47-073b-43ef-91cb-3a3062bfff5c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.newsobserver.com/news/politics-government/article253059638.html",
-      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article253059638.html",
-      "publishedDateTime": "2021-07-28T02:14:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T10:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

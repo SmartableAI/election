@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
-excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean,"
+excerpt: "U.S. President Joe Biden delivers remarks to Intelligence Community workforce members at the National Counter Terrorism Center in on Tuesday, July 27, 2021 in McLean, Virginia. Photo by Alex Edelman/U"
 publishedDateTime: 2021-07-27T19:50:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/462aba6c08b49bbf1265315dd60e6dff/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/462aba6c08b49bbf1265315dd60e6dff/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/a6e96531cc85eacd58c090635b4adf90/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/a6e96531cc85eacd58c090635b4adf90/US-President-Joe-Biden-Delivers-Remarks-to-Intelligence-Community-Workforce/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/462aba6c08b49bbf1265315dd60e6dff/BIDEN-WORKFORCE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/a6e96531cc85eacd58c090635b4adf90/BIDEN-WORKFORCE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -118,6 +118,6 @@ related:
         height: 534
         isCached: true
 
-secured: "qhepv9kaSPIN0emTJJMMBllX6ecllr0sYCSB51DVkCjPa/behWDx+1qdh6SyzDZ7AIabWMAKP9Jdou0Ah9Axm7ue/8LDfv6aEcvSXCxXe1FDymm8FqGaxdIOveOkiKavaKqAolsILaVRbrwbQloaUU+8Z/vBRnD3Le2QG0SicgPvTVK48xitlXv/SPPCI+ntegq+kLAOmqQNokbTiFcl9FdNqCJC2R3rN5i4HIr2uSKRLVXju+wZNa9eAX1P1KOtqHSa6Z986rqiY760UR8zT87l+pTgdtd0hqIYy2CdWIumqW3u4Fg6L37hspUJfFK3RuajKrctE+1K3/ln8mDr9tal0a6Ag65abhGXEQ8/+f+yBkoObeb8HVwlG9t5xkC/xru3ItdyJiYLPLI5cIKvHtQvs8tU7mV9xC4tmkMKiWrkjPcQ+yUA0UIxGV/GtwucHtH5YReqfgKDyatS1H7u9sQNKNHaRn5gEbGRmrVbGU3N9wHG3Skj2igfF1paywE9C1VOArdbdhAH3csEqTq1ow==;UHXlALemm4pUh95jfF4svw=="
+secured: "Z1I4xTgpE8m7pAaFL0/66F7B+5pU/x8bJ04CCOBRV5HoYUrWtJVC+fbs15rvzTDioAWyUbY8qsmup4qCZhk1tFdFvbDhT0nOSP+D+GgrtUcMiUhEOVtLEgmDukh/vY2OFzhj0/5XncTTr8IDQsLy3KJm/Syc59hZ1VUnYiYPt+O9J+7zryiHJnKPYxANlfSoKqCpwET04TgFMDyDTbCCFmDjNyHlH3h/aq3dGFYJkfLDDX58wkXFMKN4C3lZWXs2QOxwRfhwr/I6gIQuL28legoKn+jKQKMJY6ZK4zBuWGrp0/hw5nZqTxYMGzeVcwSDZFWi2k8z3ydLZpyHhfabmGhcfyN30H/DEs8TTkDPiOA=;1TUotx5GpLQeBw/rPD/tBA=="
 ---
 

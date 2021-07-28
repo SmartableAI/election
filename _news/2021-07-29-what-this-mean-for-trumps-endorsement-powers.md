@@ -1,22 +1,20 @@
 ---
 category: news
-title: "The chair of former President Donald Trump’s inaugural committee to be released on $250 million bail"
-excerpt: "The chair of former President Donald Trump’s inaugural committee who faces charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy was ordered released from jail Friday on $250 million bail."
-publishedDateTime: 2021-07-23T21:45:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
+title: "What this mean for Trump's endorsement powers..."
+excerpt: "Watch \"What this mean for Trump's endorsement powers\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+publishedDateTime: 2021-07-28T17:18:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210728171829-what-this-mean-for-trumps-endorsement-powers/"
+webUrl: "https://www.cbsnews.com/live/video/20210728171829-what-this-mean-for-trumps-endorsement-powers/"
 type: article
-quality: 110
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/O2x20Ct3l2CEiOK9Po_o0rOWwtM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSL6K3AQQTTDR4IZIYSGHTOPNY.aspx"
-    width: 1200
-    height: 704
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/28/story_11519912_1627493163.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -223,6 +221,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The chair of former President Donald Trump’s inaugural committee to be released on $250 million bail"
+    excerpt: "The chair of former President Donald Trump’s inaugural committee who faces charges he secretly worked as an agent for the the United Arab Emirates to influence Trump’s foreign policy was ordered released from jail Friday on $250 million bail."
+    publishedDateTime: 2021-07-23T21:45:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-inaugural-committee-chair-released-bail-20210723-qfwauaiegrc4fauewfys5xycgq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
+    images:
+      - url: "https://www.chicagotribune.com/resizer/O2x20Ct3l2CEiOK9Po_o0rOWwtM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSL6K3AQQTTDR4IZIYSGHTOPNY.aspx"
+        width: 1200
+        height: 704
+        isCached: true
   - title: "Texas voters decide between two Republicans — one Trump-endorsed — in House special election"
     excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
     publishedDateTime: 2021-07-27T11:04:00Z
@@ -292,20 +306,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9f47d4e8-eead-42d5-b813-7955e4b7e671_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "What this mean for Trump's endorsement powers..."
-    excerpt: "Watch \"What this mean for Trump's endorsement powers\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-28T17:18:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210728171829-what-this-mean-for-trumps-endorsement-powers/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/28/story_11519912_1627493163.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trouble is brewing for a Georgia county's investigation into Donald Trump"
     excerpt: "The Fulton County district attorney is committed to investigating Trump. But a criminal case backlog and a spike in Atlanta-area crimes is complicating matters."
@@ -379,6 +379,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "LdbcdamxTqswc6YkjI9nfVZqY3uKQtx/0DAJ9ePm2IsdnSnDPwxGjjs8mbMYwmkUNtWPXodP7lQv7+wG5WRibvASWZjVdKwDQN5FY7VBSbBYdThx+zQB8G5bkzYD5teYEmfcj4ATerwYOlNz1IthU2YtTlczLKg8w7PL4y/Ty5yIUPCDSeZ8bf5qVc3lpU2N5yXFy8YNKgGFIAcJqcMGWBxJIiqXgQvgRI7/z12NN46I1YcQnRvdYDK0mfi96y6zGeO5AClyeVfSwL2cDIXRyXZGZX8Yxhx4TvZH3dxuzv4aj3zjZOh0gJOmXmBQnCIrPbl/iRAme3a6bHlg8MdLYkbxWIqSbgunnREv/ZnfWzcG3SunZqzB8/iNJTiDYRHc6bNeAw9Nuag2L4uBrQoSG6AyVcXBvlKieLB1xcpuZ2hBvGADH1IqoA+e9vqJZ2sYKwCA+xC9wxNrPOw9N/8+Oj/kWyAETh1sxTUSkJnjO5tgIwfq1hUYzZJ4/VpOZH2EaMmRBwPKp9frr4bKDDfBGg==;ol7aJE6qVHk9C7tQNTSzjg=="
+secured: "AQ3Gwp6Dbntxvy46HhZblN2mhRBOuQxJALxUKcyEUC0YqqtgXmdT7y8Zf7zJ7ROFDO1U48Ndqxd46mIDgTlIGIkRUXG873r214BCGwdHfwSdYBPtPW7zBpWirAtmuSeAosvQ2Zev+jI1ICwXn00OYXj9/P+8pVtKpYfLsRuh0o2IqW7iLzdBEVeBHSlSAtOAT9yF3U6jafqT+jel3CYSxT8sadv/yf3ZuZMLmNgoYkUrQn8qVyEf0Sad7uAgoQ0Swg+ExnyRpDTXr3iOA3wSMaYMk9hoXXmwb1QJZ+9lM5tMhyPuhTfyOtJWfsaE1Nbre6KrMhIy3+T/9Dv+dIIZK5gCyvaqq4Gn9bHZF5ryEio=;3OqzYT9Jn8FEHjEFjGZ+iA=="
 ---
 

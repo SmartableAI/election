@@ -293,6 +293,20 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "What this mean for Trump's endorsement powers..."
+    excerpt: "Watch \"What this mean for Trump's endorsement powers\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-28T17:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210728171829-what-this-mean-for-trumps-endorsement-powers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/28/story_11519912_1627493163.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trouble is brewing for a Georgia county's investigation into Donald Trump"
     excerpt: "The Fulton County district attorney is committed to investigating Trump. But a criminal case backlog and a spike in Atlanta-area crimes is complicating matters."
     publishedDateTime: 2021-07-23T08:00:00Z

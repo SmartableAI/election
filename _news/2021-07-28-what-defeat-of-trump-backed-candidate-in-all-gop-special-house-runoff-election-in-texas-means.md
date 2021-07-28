@@ -1,28 +1,33 @@
 ---
 category: news
-title: "The Real Reason Trump Keeps Telling the Big Lie"
-excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
-publishedDateTime: 2021-07-20T19:47:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
+title: "What defeat of Trump-backed candidate in all-GOP special House runoff election in Texas means"
+excerpt: "Is the victory by Jake Ellzey over Susan Wright – who enjoyed the former president's backing – in Tuesday's runoff for Texas' 6th District a sign that Trump's clout over the GOP is waning?"
+publishedDateTime: 2021-07-28T16:15:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XqOvQnq1kag/trump-backed-candidate-defeat-texas-special-house-electio"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XqOvQnq1kag/trump-backed-candidate-defeat-texas-special-house-electio"
+ampWebUrl: "https://www.foxnews.com/politics/trump-backed-candidate-defeat-texas-special-house-electio.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-backed-candidate-defeat-texas-special-house-electio.amp"
 type: article
-quality: 65
+quality: 179
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/548617_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -57,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c85f0135-480a-46f2-8943-30a3eb36b112/2f67db74-11d3-4d8f-8cb8-40eb753744c6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "What defeat of Trump-backed candidate in all-GOP special House runoff election in Texas means"
-    excerpt: "Is the victory by Jake Ellzey over Susan Wright – who enjoyed the former president's backing – in Tuesday's runoff for Texas' 6th District a sign that Trump's clout over the GOP is waning?"
-    publishedDateTime: 2021-07-28T16:15:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XqOvQnq1kag/trump-backed-candidate-defeat-texas-special-house-electio"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-backed-candidate-defeat-texas-special-house-electio.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-backed-candidate-defeat-texas-special-house-electio.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump endorses Ken Paxton over George P. Bush for Texas AG"
     excerpt: "President Donald Trump on Monday night announced that he would endorse Ken Paxton in the race for Texas Attorney General over George P. Bush, the son of former presidential candidate and Florida Gov. Jeb Bush."
@@ -154,6 +143,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "The Real Reason Trump Keeps Telling the Big Lie"
+    excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
+    publishedDateTime: 2021-07-20T19:47:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/20/the_real_reason_trump_keeps_telling_the_big_lie_547343.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/548617_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Why I'm Sure Trump Will Run for President in 2024"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-24T12:37:00Z
@@ -169,6 +172,6 @@ related:
         height: 495
         isCached: true
 
-secured: "+lJH4RhNcaBRphH18XcLzkhUwTDysOBowkAx+Cf0GXnVvTwr0R+81f8DwVT4MpUOGvNDaZybHAp4rf857hnYYQ7ONmZjCCvrYIw6wctvJJQucOvTOZR3k2iTnyjekhrg2BLPm6IXkvPStNqqxiTxDqXn44EJP1Mvu/l4J1T/X1bXvKa+BvKGE+XRrlUWu5ukzGUdOGcF+x4hEHagNUnQwLE3rHvlwREq+uom5lCCXKS8xlD9ExvsOPxc9kvXJR8tbDbElNnTunFvWJdpBG7Bu7wN6pA0tfe60kLWfltUcI20HOBP3yCrAesxRbSA01sL6C5dYPkYpKyjUb/hji+btN7z2sbykMLZkfb1kYCp4Hc=;zfYnod0MmeTNG6nV0TR3Xg=="
+secured: "RVSYzwgsqavezaY3nZ3ofKP1ABj1lnu9Z4eWPwpnWdPuGj3fr8r3m2i6vdUC9SGlDYQaBI4WbozqBz1wMY+WwOdY+LtFDN+FSQrlcDaQkn+EuFWBdUays4dRXSzDZNcr0m+UqaZONjQSMCneEkwMoBvKN0ftXj/WN3TbA8TMW7yANAnnyDCAM4RdJO7V2g56zs+OEJPqEUafvF6LKf9w4sPRCKgZuy5XG+DF2gL8OxrTgsW0voa+Mt3LUY2qZ2z8oLJ7839P7QswCtzbwcXoKXKb1KyAa+DcEPAIEF2g7B7yT1PPRbcTP4ASux7pg7aUsIARkdSZtsCH9sVKaSCcBjU8C39q6hTk1+jJpa/Vigs=;s9v6WqUwn3/9W4gCKyxHVQ=="
 ---
 

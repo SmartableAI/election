@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Delivers Remarks to the National Bar Association"
 excerpt: "Vice President Kamala Harris delivers live virtual remarks to the National Bar Association in South Court Auditorium of the Eisenhower Executive Office Building of the White House in Washington, DC on July 27,"
 publishedDateTime: 2021-07-27T18:24:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/43a721c073e5f2f32b1cca7ea5c8a209/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/43a721c073e5f2f32b1cca7ea5c8a209/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/e8745efb2c434f9c9dcb29a9efd53684/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/e8745efb2c434f9c9dcb29a9efd53684/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/43a721c073e5f2f32b1cca7ea5c8a209/HARRIS-BAR-ASSOC.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/e8745efb2c434f9c9dcb29a9efd53684/HARRIS-BAR-ASSOC.jpg"
     width: 650
     height: 433
     isCached: true
@@ -992,6 +992,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "fECaQPhS+i+4kOwxntMQ51XClw71CP6yWSDKwXFAueKmDYb3hatNQLHOywOTS0AJ20lUqSU52FSHajG8sfRa8Dst7J6YEHvsYjuiyvlWrqACcUl3HByyTJ39nMHi95GWVV8qR8RkcHQfsJhLeMa1077O5lIWEZgd6X+LtRk3IBp8vYdAKxJAx5jOL8RgdlkbAQ3lAa1mDL79nAMpFBX3bjn2v98BOZKVdpBlrqmBXo6Nie3H35w16lUrbM6PtXnBnBoO46BbhKohM5AQi4Q3IIARDfVN9hlGchyJ9fhXgUFINvCktVwHddjG3rDlS0R64PM+n6n1Q7wOaJbbqUUqqIJspBoDhi0nGDuwud8P2FCZhlmY3hR1ft1z4ojgW3uPGIXF6gLyCvAVQJsF22fzOR5ZrbHcIW+1A3ccgiY18IY3FK8YPNW9/bHdcdPlcAUB2NrzwL1ruwb67R9z9OhswQR1weQ15Au+Fi4WhOCB/BHC4uuQnAY+6E6GhtQlP1CPA335XZGElZbcIP7nqr5VMw==;HVrBaZwJ+XOESutqoV3nkQ=="
+secured: "xgNfXIVljYnCfKs0xDHAdnVXtzAFASbpvequ9HKfNFYCbiLJ/IuEzMqQAUFd3EISmwHrpJUQWXtqUUbeROddgmnjRaOK0Gh7nE87c5Mxq6CufVNXqB2QiVjZYIS/b3i4+hm73h5EMCdWyJ+sVNFrPFE7pirgsOKwyw3rt+YpwFnFuLvF4OL7hk0Jy7B6emXKijnsBVUbRy/qKTT/4TmMSTjdqoDi91PadC3RIGq3spQqHXaeAu+XLSr03h/PJYadeJApwDdMh8eUyBrQOkHoTEoX900OriPeEYSri/aH4Oik+mAkhkrPc/N3NerDxLlA9epwoc5cwDPYjlmKHJDWtX/tfVJZzTDm+72Tozcw+sk=;++/l4jwmLKDv0i21ekyYwg=="
 ---
 

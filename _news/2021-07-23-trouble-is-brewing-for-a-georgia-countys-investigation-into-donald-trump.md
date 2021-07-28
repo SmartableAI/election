@@ -307,6 +307,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What this mean for Trump's endorsement powers..."
+    excerpt: "Watch \"What this mean for Trump's endorsement powers\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-28T17:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210728171829-what-this-mean-for-trumps-endorsement-powers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/28/story_11519912_1627493163.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."
     publishedDateTime: 2021-07-14T17:57:00Z

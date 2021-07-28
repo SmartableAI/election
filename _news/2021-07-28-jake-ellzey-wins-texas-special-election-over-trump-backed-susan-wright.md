@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "What defeat of Trump-backed candidate in all-GOP special House runoff election in Texas means"
+    excerpt: "Is the victory by Jake Ellzey over Susan Wright – who enjoyed the former president's backing – in Tuesday's runoff for Texas' 6th District a sign that Trump's clout over the GOP is waning?"
+    publishedDateTime: 2021-07-28T16:15:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XqOvQnq1kag/trump-backed-candidate-defeat-texas-special-house-electio"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-backed-candidate-defeat-texas-special-house-electio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-backed-candidate-defeat-texas-special-house-electio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump endorses Ken Paxton over George P. Bush for Texas AG"
     excerpt: "President Donald Trump on Monday night announced that he would endorse Ken Paxton in the race for Texas Attorney General over George P. Bush, the son of former presidential candidate and Florida Gov. Jeb Bush."
     publishedDateTime: 2021-07-27T01:27:05Z

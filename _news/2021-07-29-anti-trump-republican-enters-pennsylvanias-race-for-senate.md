@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Trump's AG Bill Barr denies he blocked election fraud probes in Pennsylvania"
-excerpt: "The former U.S. attorney general says he never blocked former U.S. Attorney William McSwain from investigating election fraud claims in Pennsylvania."
-publishedDateTime: 2021-07-14T18:24:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7968006002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7968006002"
+title: "Anti-Trump Republican Enters Pennsylvania's Race for Senate"
+excerpt: "A one-time top aide to the late former U.S. Sen. Arlen Specter and a longtime lobbyist and political consultant from Philadelphia will run for U.S. Senate as an anti-Trump Republican."
+publishedDateTime: 2021-07-28T17:34:00Z
+originalUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-28/anti-trump-republican-enters-pennsylvanias-race-for-senate"
+webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-28/anti-trump-republican-enters-pennsylvanias-race-for-senate"
 type: article
-quality: 137
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.gannett-cdn.com/-mm-/3aaa5390e2198791e1539a5c55e668f463ec89a9/c=0-106-2036-1251/local/-/media/2021/05/26/Hagerstown/9601e05ba52fd734e7351590674f3aec.jpg?auto=webp&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Trump ally launches election audit plan in Pennsylvania"
@@ -46,6 +38,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_f6f7ba56d9154e51bcd011f93df3a5bf_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump's AG Bill Barr denies he blocked election fraud probes in Pennsylvania"
+    excerpt: "The former U.S. attorney general says he never blocked former U.S. Attorney William McSwain from investigating election fraud claims in Pennsylvania."
+    publishedDateTime: 2021-07-14T18:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7968006002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7968006002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3aaa5390e2198791e1539a5c55e668f463ec89a9/c=0-106-2036-1251/local/-/media/2021/05/26/Hagerstown/9601e05ba52fd734e7351590674f3aec.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Michigan Asks for $11K in Legal Fees for Defending State in Donald Trump Election Suit"
     excerpt: "Detroit is requesting the lawyers face disciplinary hearings where they practice and that a judge disgorge money fundraised in a post-election campaign."
@@ -448,16 +456,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Anti-Trump Republican Enters Pennsylvania's Race for Senate"
-    excerpt: "A one-time top aide to the late former U.S. Sen. Arlen Specter and a longtime lobbyist and political consultant from Philadelphia will run for U.S. Senate as an anti-Trump Republican."
-    publishedDateTime: 2021-07-28T17:34:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-28/anti-trump-republican-enters-pennsylvanias-race-for-senate"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "rr/FE5tqn7+tnigZiQFzQLr/2XjsAUNzXlQ3syU8idMMhrd9sMcOAQGm/3tW6QYPWnZqBN79x1Xb0S++B2XhQYLngdDGLo68RMBKoXGsJcTeX5zWJI3c1Vgo4/y0hZd58gKnPv3cApVwIA8XGpMZT/c21/CbrWhhRLCigFbO0qp2KJFxbPmLnbqmCWfnbE4tF6BZmvWxb4HX+G30jhyclGgSFCfL/LTzNyNOxOVYFH5TEFR97dFB27jrig1iREVCTzxu50ihbOaJSnR9SmUME6046FQnJSrZoBUpHaa6cEnq9RkoVeahV5kwk9aVxhY5KV+Su8/OaChC2KmXB6576DtRFbypog/SY/TN/731fGoGpyb3VQWKUu3OBhaHOLZGQTpUdWUrdm5CDZw3raPUciMqKLgSn8Ipl2jilbSnXpV+xB5zCdVZqXvsZb/RH0PPIivdrcdirg1D95gN+tNEjn6hap+4bbPDPRMi2Ww2gBv5X/xybHIMvmPeWOAUp1TVBeY1ZCOcrbfHQh9QOkgaRg==;yKOvreYQlPuxuZwcFOh8kg=="
+secured: "Hi3cm8VAH0Ec3h9hh6blq0aCkZLTGRJmyvb8N3YC84TfG/pEZQxRJ1eEaryDvAd50otmW8yaq4nBUCh3vwotRKCGrBg79aooA2fR0PbILzFVOuWlDRI552Ww956cYdU338vhKmtZf4i0zWtbUG/oMsvGk5i0rR/Pp6ZAvSpCXajsOJAGD0KcpqjG7tCoutk05i0N85H+ECYhkeSICmewOHIErwsDkNqNBLElhcqjzJXwzqkzLXF+K55dpu91upir6xbrNquFL1ziTVNsMZbnFJr8xxMyy9lnkXBTSqNfwwVNU+sfs6qKcnmSKie+0yIQLczpf0V9UHlT6f5bu596X7ooUrS0fh0GXW2apZHVpz0=;C80trybC30k1OQ1A3wRLXg=="
 ---
 
