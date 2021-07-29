@@ -55,6 +55,22 @@ related:
         width: 905
         height: 545
         isCached: true
+  - title: "Firm leading Arizona audit received millions from Trump supporters"
+    excerpt: "Cyber Ninjas received $5.7m in donations, including $3.25m from the CEO of Overstock, who said the 2020 election was ‘rigged’"
+    publishedDateTime: 2021-07-29T15:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/0433e6538ffb27b06647f179a2363e56cccc5b60/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=46e33120c346f6ccbfc7515f6a2b01e4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump Escalates Voter Fraud Claims After Arizona SOS Urges Him to 'Accept' Loss"
     excerpt: "The former president opened his speech at a rally in Phoenix by claiming there's \"no way Democrats win elections without cheating.\""
     publishedDateTime: 2021-07-25T01:07:00Z

@@ -224,6 +224,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Arizona vote review is being financed by Trump supporters."
+    excerpt: "Cyber Ninjas said that it had collected more than $5.7 million from five pro-Trump organizations for the widely disparaged review."
+    publishedDateTime: 2021-07-29T10:34:00Z
+    webUrl: "https://www.nytimes.com/2021/07/29/us/politics/arizona-audit-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/29/us/politics/arizona-audit-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/29/us/politics/arizona-audit-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/29/us/politics/29political-briefing-ARIZONA/merlin_187180647_6c583c8e-770a-4e41-a34a-1d1eaab19e83-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
     excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
     publishedDateTime: 2021-07-26T18:14:00Z

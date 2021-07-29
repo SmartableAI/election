@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-el
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
 type: article
 quality: 140
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit"
+    excerpt: "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass."
+    publishedDateTime: 2021-07-29T15:03:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1858183/president-joe-biden-speaks-macungie-pennsylvania.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump's AG Bill Barr denies he blocked election fraud probes in Pennsylvania"
     excerpt: "The former U.S. attorney general says he never blocked former U.S. Attorney William McSwain from investigating election fraud claims in Pennsylvania."
     publishedDateTime: 2021-07-14T18:24:00Z

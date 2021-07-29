@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
 type: article
 quality: 134
-heat: 254
+heat: 274
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4615aa1e-6309-43f8-ae8d-3f008989acb3.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Biden will let a Trump-era eviction ban expire in 2 days, jeopardizing the homes of 6 million renters"
+    excerpt: "The White House said its hands were tied due to a Supreme Court ruling. Democrats were ramping up pressure for the administration to step in."
+    publishedDateTime: 2021-07-29T15:04:00Z
+    webUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/60957bf234af8d001859c10e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’"
     excerpt: "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks"

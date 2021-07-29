@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-22-trump-organization-sues-nyc-after-golf-course-contract-canceled-in-wake-of-capitol-attack.md",
+      "title": "Trump Organization sues NYC after golf course contract canceled in wake of Capitol attack",
+      "excerpt": "The Trump Organization on Monday sued the city of New York after it ended its contract for a golf course at Ferry Point Park in the wake of the attack on the US Capitol on January 6.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSNId4SGUDc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSNId4SGUDc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html",
+      "publishedDateTime": "2021-06-21T18:34:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-bidens-announce-their-beloved-german-shepherd-champ-has-died.md",
       "title": "Bidens announce their 'beloved' German Shepherd Champ has died",
       "excerpt": "The Bidens announced Saturday that their \"beloved\" German Shepherd Champ has died.\n    \n",
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
       "publishedDateTime": "2021-06-09T05:07:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-new-jersey-republicans-weigh-loyalty-to-trump-in-tuesdays-gubernatorial-primary.md",
-      "title": "New Jersey Republicans weigh loyalty to Trump in Tuesday's gubernatorial primary",
-      "excerpt": "Republicans in New Jersey will choose Tuesday between an establishment-backed candidate for governor who would prefer to avoid the topic of former President Donald Trump and contenders who have forcefully embraced Trump's lies about the 2020 election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wlG3q_Xs6LA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wlG3q_Xs6LA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210607180658-nj-primary-gov-candidates-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/08/politics/new-jersey-republican-governors-primary/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/new-jersey-republican-governors-primary/index.html",
-      "publishedDateTime": "2021-06-08T03:00:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

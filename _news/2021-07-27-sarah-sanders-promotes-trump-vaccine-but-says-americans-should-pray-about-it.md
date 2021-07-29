@@ -79,6 +79,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Biden will let a Trump-era eviction ban expire in 2 days, jeopardizing the homes of 6 million renters"
+    excerpt: "The White House said its hands were tied due to a Supreme Court ruling. Democrats were ramping up pressure for the administration to step in."
+    publishedDateTime: 2021-07-29T15:04:00Z
+    webUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/60957bf234af8d001859c10e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden confirms: Veterans Affairs to mandate vaccine"
     excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"
     publishedDateTime: 2021-07-26T21:53:00Z

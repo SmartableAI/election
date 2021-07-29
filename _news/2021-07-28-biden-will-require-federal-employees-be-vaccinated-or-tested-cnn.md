@@ -47,8 +47,8 @@ related:
         isCached: true
   - title: "Biden expected to announce vaccine mandate for US federal employees – live"
     excerpt: "President to deliver an update on his administration’s Covid vaccination campaign – follow all the latest"
-    publishedDateTime: 2021-07-29T13:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-6102a9278f0811859feb775b"
+    publishedDateTime: 2021-07-29T13:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     type: article

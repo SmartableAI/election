@@ -378,10 +378,10 @@ related:
         isCached: true
   - title: "Appeals court: Arbitration won't shield Trump from lawsuit"
     excerpt: "Former President Donald Trump and his three eldest children can’t force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted, an appeals court ruled Wednesday."
-    publishedDateTime: 2021-07-28T22:28:00Z
-    webUrl: "https://www.chron.com/news/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+    publishedDateTime: 2021-07-29T01:10:00Z
+    webUrl: "https://www.chron.com/business/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
     type: article
     provider:
       name: Houston Chronicle

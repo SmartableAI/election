@@ -160,6 +160,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Jan. 6 select-panel Dems confident they can corral ex-Trump aides"
+    excerpt: "But it won't be easy for them to shake off potential stonewalling, and their Capitol riot probe is still taking shape."
+    publishedDateTime: 2021-07-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
+        width: 1161
+        height: 773
+        isCached: true
 
 secured: "IsFKQZD7wkouqFZciIeUFEBRBjCYSQIMnvlWQaEvWzRThWmbfxUuxWgg3HIYiEPB2qBbCIdhhfRJAutlesQOlywK+CVNjQCD3C87Np6rfhQGBhdUXUQkOp5jkzgRdZzCrmPGCOPLeIDH/xaorfJRScEtlx3VOPNqsol1EL28BAQUkm4/rGwc96JtqtQlauon2GWHuRS2PrhKz3lJMOu6zJd8lO7mpGEYwm3FRgSWyTPW1jlZ06prqqBKGKTN7EXh7BIS5MCQ5aroqFqq6Zv41fCJpJ62xE7IUlKIHGxbsynBGNUsMfSoFKxKMG139tN2UnNRI8cLogzcrqMHCSd2JFfvraaRfP08PdWtM9bsh2dBmHxpu9QTUdGZWRvCks+MB3KVAwJDRHCDoCz4q+D5gx+uVXkGBOmqFAqik/ANPQb5WQISmtQeMarNdAO7zOjgPAGcymGbY+U1AUJs8TeWUI7Hy3S8JA4hxHIvRAKyVFuhfzp09/dPIqnNf6Pwcul/2ASBNKjXLS9lmXaFthOzTA==;g4EmAanQqU5tagcLvjW9lw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Biden expected to announce vaccine mandate for US federal employees – live"
 excerpt: "President to deliver an update on his administration’s Covid vaccination campaign – follow all the latest"
-publishedDateTime: 2021-07-29T13:37:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-6102a9278f0811859feb775b"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-6102a9278f0811859feb775b"
+publishedDateTime: 2021-07-29T13:27:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 type: article
@@ -108,6 +108,6 @@ related:
         height: 683
         isCached: true
 
-secured: "c3ub0q9v5PIMllLrcbFiyqPWKG89tIhV8CdockWhKLfxr222mvh5GrP90tdLO+VRH75K6y6vk2Em285KMgI8hyIZfXAX/FJYzXJortotTSPTQP0ZYtGRXr00v19MT94od2HnnDiguSt6yOzePQ8Z+puYXrXolgaqBDI7TnUK22TIqh/lS9F8M+CSrMH9gvaQa8qd5D2q93o5i2g9tQlubqn6jF+Qq4AKR8qElylJnDLkBOQO0PPoV2L08M6FEpWcCmmXohv91iwbMYjKxXuVkUBAbZ5y8Q5odRdLASEkXPTfCjq2xj322FSsUzNbalvEBi/lphBjcrRk/ehX9IbhZTgkwCW5a6zmXvDPF0EGZ4U=;ZIJq0eMhpfavRS1srQ+9ag=="
+secured: "HF448E0LaaWPQSAr65ckzpahW2DrxnLotO908fBYmuC9qEzuFTso862b/EcTyqZN4bJvA6pxUPG8RKk6ehzpvkcMMjPoSRzTuUJBEBnuwObhVhU8cDE0jTemMc86We8rMx8Qb9pJlEdcNT6FYrUfofyR6godWHUZVYCE2i/TsXcxDG+mapROYbiEOzkHbK7JQ+VQeABmcebS9P1OyWK74dHXPrdsa10LK8r9VU/n0zgByICKJZEDzoko75e2zt0J/8SlYdZM64IDfcQWRlfkM17WqLayZ6qZWDEH+pMON2D6hDHGu+Ir3lNOnwvdEHbuRy03ZzQloGwZR5LPXSOakInIlcUGrcZHmb09DWdgSJ4=;v3KAFvVpJX7a6yoayCtf4w=="
 ---
 

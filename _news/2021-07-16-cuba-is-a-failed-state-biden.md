@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Joe Biden to allow eviction moratorium to expire this weekend"
+    excerpt: "The Biden administration will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled it could only"
+    publishedDateTime: 2021-07-29T15:24:00Z
+    webUrl: "https://www.nola.com/news/coronavirus/article_04581f84-f081-11eb-b30a-9337e098b4db.html"
+    ampWebUrl: "https://www.nola.com/news/coronavirus/article_04581f84-f081-11eb-b30a-9337e098b4db.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/coronavirus/article_04581f84-f081-11eb-b30a-9337e098b4db.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/1/b0/1b06b97c-ae71-11eb-91d9-876e042dc0c0/6093f2bc4fc3b.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Did Joe Biden Really Drive An 18-Wheeler Truck? The Truth Behind The President's Claims"
     excerpt: "President Joe Biden was heard saying he “used to drive an 18-wheeler,” but critics and doubters aren’t buying the claim."
     publishedDateTime: 2021-07-29T10:41:00Z

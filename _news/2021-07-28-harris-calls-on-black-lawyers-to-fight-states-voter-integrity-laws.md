@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/"
 type: article
 quality: 75
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' Immigration Plan Promises to 'Pivot Away From What Does Not Work'"
+    excerpt: "\"The strength and security of the United States depends on the implementation of strategies like this one,\" Vice President Kamala Harris wrote in her plan."
+    publishedDateTime: 2021-07-29T15:42:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1858280/us-vice-president-kamala-harris.jpg"
+        width: 2882
+        height: 1989
+        isCached: true
   - title: "Audit finds Border Patrol did not mistreat pregnant migrant, undercutting Kamala Harris’ claims"
     excerpt: "Border Patrol agents did not mistreat a pregnant migrant who began to give birth immediately after being caught, the agency’s inspector general said Friday, shooting down a story that then-Sen. Kamala Harris seized on during the presidential campaign."
     publishedDateTime: 2021-07-25T18:09:00Z
@@ -59,6 +75,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
+    excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
+    publishedDateTime: 2021-07-27T22:58:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a9a697555277243f64e2dbf0553eb3d1/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a9a697555277243f64e2dbf0553eb3d1/HARRIS-VOTING.jpg"
+        width: 650
+        height: 434
+        isCached: true
   - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
     excerpt: "While many people just hear levity in her laugh, those on the right react with heckles and attacks, a difference that says as much about the divisive state of politics as any debate."
     publishedDateTime: 2021-07-26T00:00:00Z
@@ -68,15 +98,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 34
-  - title: "VP Kamala Harris on the 31st anniversary of the Americans with Disabilities Act (ADA)"
-    excerpt: "VP Kamala Harris on the 31st anniversary of the Americans with Disabilities Act (ADA)"
-    publishedDateTime: 2021-07-26T00:00:00Z
-    webUrl: "https://www.c-span.org/video/?c4971246/vp-kamala-harris-31st-anniversary-americans-disabilities-act"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 28
 
 secured: "baT2gj64OrfEcLfuPH2Rj+7ddkSe7wOpOgG8lJGFEgs6oAc6zh6sLet0pDfrRNbqDACYnqNlxYFVE28jVbkoXjv53GpYhnkzZXuo0PCO1GRhoFyjfLxU44oWKAatYgpVuGa5nzHGGZf1xqNc1NCSfEZBSja6nl8M0da+3U8Ck3sTW/I5GcHqB7Hojmm3JFyNWupjk+uvjKC20YJFnLN4emxO7DQjV/ZVBbKhguhjys7w+cur685UoZnY/xjtg01OE6SnXG+XYG8IvXFnzMVfFtN1ewGGY/UY87QtOAYgsOkQe6u+W7Nh0RkYwIog+FFwwnCH7oTGiwv7p4WxxVBg/jHb9aokZoE+DisHnRAmlAk=;w0JNPH/QHQyRTcn3wmCU7w=="
 ---

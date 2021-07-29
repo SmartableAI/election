@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-29-kamala-harris-immigration-plan-promises-to-pivot-away-from-what-does-not-work.md",
+      "title": "Kamala Harris' Immigration Plan Promises to 'Pivot Away From What Does Not Work'",
+      "excerpt": "\"The strength and security of the United States depends on the implementation of strategies like this one,\" Vice President Kamala Harris wrote in her plan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1858280/us-vice-president-kamala-harris.jpg",
+          "width": 2882,
+          "height": 1989,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341?amp=1",
+      "publishedDateTime": "2021-07-29T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-biden-harris-unveil-strategies-to-address-root-causes-of-immigration.md",
       "title": "Biden, Harris unveil strategies to address 'root causes' of immigration",
       "excerpt": "The Biden administration on Thursday rolled out its strategies to address the root causes of immigration, a step officials call a “core component” of efforts to establish a “fair, orderly, and humane immigration system.”",
@@ -55,49 +107,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-harris-calls-on-black-lawyers-to-fight-states-voter-integrity-laws.md",
-      "title": "Harris calls on Black lawyers to fight states’ voter-integrity laws",
-      "excerpt": "Vice President Kamala Harris urged Black lawyers Tuesday to challenge new election laws in mostly Republican-led states that she said are intended to restrict minority voting and shift vote-counting to partisan entities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/07/26/Biden_08119.jpg-d9ffb_c0-458-5495-3663_s1200x700.jpg?ac76d24151b5fdfcbb22158c02a6cc96c26d6cd4",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
-      "publishedDateTime": "2021-07-27T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -167,7 +176,7 @@
       "originalUrl": "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 120,
       "tags": null,
       "images": [
         {

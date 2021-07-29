@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-alli
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-wh-ge_hpMain_20210726-205630_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "GOP lawmaker Mo Brooks admits he wore body armor at Jan. 6 Trump rally, and says he was tipped off to 'risks'"
+    excerpt: "The Alabama rep. said he received a warning two days before the insurrection."
+    publishedDateTime: 2021-07-29T06:51:00Z
+    webUrl: "https://www.businessinsider.com/gop-lawmaker-mo-brooks-wore-body-armor-to-jan-6-trump-rally-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/gop-lawmaker-mo-brooks-wore-body-armor-to-jan-6-trump-rally-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-lawmaker-mo-brooks-wore-body-armor-to-jan-6-trump-rally-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/610248a7f350d50019598a67?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump ally Tom Barrack leaving jail on $250M ..."
     excerpt: "Watch \"Trump ally Tom Barrack leaving jail on $250M bond\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

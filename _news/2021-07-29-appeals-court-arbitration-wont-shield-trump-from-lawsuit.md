@@ -2,11 +2,11 @@
 category: news
 title: "Appeals court: Arbitration won't shield Trump from lawsuit"
 excerpt: "Former President Donald Trump and his three eldest children can’t force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted, an appeals court ruled Wednesday."
-publishedDateTime: 2021-07-28T22:28:00Z
-originalUrl: "https://www.chron.com/news/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
-webUrl: "https://www.chron.com/news/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
-ampWebUrl: "https://www.chron.com/news/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+publishedDateTime: 2021-07-29T01:10:00Z
+originalUrl: "https://www.chron.com/business/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+webUrl: "https://www.chron.com/business/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+ampWebUrl: "https://www.chron.com/business/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
 type: article
 quality: 75
 heat: -1
@@ -402,6 +402,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "A32uK11b0g4ca5mUgdpBVKlzazl/Uf0qGT7NHy5Vpw8f9EPquoBa5jmHzts+25S2r4vU8ka0Oxw2RlhgAkLWy76n5VmDTh+2iRFm5jtbzlV/M9Ho1DprWSYpQHBEpkVFzKCu+WskWLMt2+FGrNM0qAIZE/EXqnhM0+Wo285bSJSi9cTWhXszufjZoWI36EZRa2HM+rgMXo28SK8dA65xrwi86TiqylH1u8CF4H/ScNtee55ZL0BSGQKxTzgwO+3dykb5BMS2qFKEmGjyNpe81fmWCSkh/xmlmoicQ8OpIq/l7/9PkHsg8fdMdmEny7F515zsKqc8CHGsWFaT0218ptPqGozl8uFDQiHjACDdj1U=;a7QIo1TU+r4CfS983cCqUQ=="
+secured: "zesJSwWZkfS7xOfkB71INv4fDyQJrt4AWStE3J8c/jfOIFE/V3/Q84+VfRw7LtDgKKoa+XkL37uzTzs62akky6vURIhoELuApZzleJs/nUVWgp4D6cw8oGeLMzKxKUO9DhOw5nJGyTCZMvthsFlqc28GxL/3b+e4Vyz9Gtmyd5TpAMo7NF66OofJ7sZJpiS+tN93TEaVQrtvbRuTYRk4KEB1d1eO6kJXdhpxrbDmx18z2/Se0iZq4s8zoW7Cq95whggv3E+5cSAUEwjYWWMZ7alohEo7Vdu9MonUoZY5t647eNoil3QOv4Efwvd+PJYRdFfufCAZszR803I4ClP7idDSc89yzvSnmzyjqVsZiWQ=;R3Wop8UemY3gV/4N/9ufkw=="
 ---
 

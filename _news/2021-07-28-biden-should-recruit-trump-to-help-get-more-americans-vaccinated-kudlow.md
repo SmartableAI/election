@@ -45,6 +45,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Charlie Kirk’s pro-Trump youth group stokes vaccine resistance as covid surges again"
+    excerpt: "Charlie Kirk’s Turning Point USA and its affiliates are urging students to resist mandates and spreading baseless claims about “medical raids,” part of a bid for donations."
+    publishedDateTime: 2021-07-29T13:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 98
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TIVJHDHUOYI6VN4WFXIJSYTETQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "om6/k4rRoVZCEYZDI/GiTJPeZjhnzhZG036TFMo9g0HzRWpzH8RLrsn7kH2eW6He31aQnjfuLY0RLbj+3foN2SeBilg8bvVcrSZOWNHRBh7Z8piCr1zYj0nVEUDGM/2wytjPk96AvbsOrmpd5x0uoCC6u1eXzqittjV89H9tCklHfQ0PSV6qccEmAQjqibSvpKf3sZdrCS+keBLMfLd44rsuKVWQkb9kUjVimCSwxdjwEhCV9W4857OdyTVai/LkJKCzpSXuUYOAmp0NjGHs82KGX5Mk37CJDtJWkCZrmH6pgA73hZEfmMRcDaejvRHgSgydL851iArznNK8NjKMLeDJRxAPfc2PKaPNVN+mMYdCkfKk5dDCaC50IUycBKSgMmclThYWd+KK4Se6/SFDRQ2DwO1Uk7FWEBjDoSmXMoyjl1gXo5GmNx6FujOa0leTTJWmzU1HLsLpBsWJ4bXlq7Q5t5U8CaDA6loQnyPqLl4ysn3NcWEVsRcUEA8I5QBAlj0yp1D5As38lYW2bibSMQ==;Rhb8nJf4UdwJI9DXE1aefQ=="
 ---

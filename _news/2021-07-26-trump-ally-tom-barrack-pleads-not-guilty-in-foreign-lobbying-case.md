@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-gui
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/28/us/politics/27dc-justiceprint/27dc-justice2-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Arizona vote review is being financed by Trump supporters."
+    excerpt: "Cyber Ninjas said that it had collected more than $5.7 million from five pro-Trump organizations for the widely disparaged review."
+    publishedDateTime: 2021-07-29T10:34:00Z
+    webUrl: "https://www.nytimes.com/2021/07/29/us/politics/arizona-audit-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/29/us/politics/arizona-audit-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/29/us/politics/arizona-audit-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/29/us/politics/29political-briefing-ARIZONA/merlin_187180647_6c583c8e-770a-4e41-a34a-1d1eaab19e83-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Republican fund-raising this year has a singular focus: Trump."
     excerpt: "Even in defeat, nothing sells in the Republican Party quite like Donald J. Trump. The Republican National Committee has been dangling a “Trump Life Membership” to entice small contributors to give online. The party’s Senate campaign arm has been ..."

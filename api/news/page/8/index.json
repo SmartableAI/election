@@ -2,6 +2,63 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-15-chaffetz-claims-direct-evidence-joe-biden-was-privy-to-hunters-business-deals-as-house-gop-seeks-documents.md",
+      "title": "Chaffetz claims 'direct evidence' Joe Biden was privy to Hunter's business deals, as House GOP seeks documents",
+      "excerpt": "Government Accountability Institute fellow Jason Chaffetz claimed Wednesday on “Hannity” that there is direct evidence being laid out by one of his GAI colleagues that shows President Joe Biden was privy to Hunter Biden's foreign business dealings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals",
+      "originalUrl": "https://www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b08bc2fd-79b2-4cc1-aa64-1c5784d1fc24/9c40225e-d388-4b71-8ee5-5d800a33c276/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chaffetz-direct-evidence-joe-biden-hunters-business-deals.amp",
+      "publishedDateTime": "2021-07-14T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-mcconnell-condemns-biden-fury-over-gop-voting-reform-as-utter-nonsense.md",
       "title": "McConnell condemns Biden fury over GOP voting reform as 'utter nonsense'",
       "excerpt": "Senate Minority Leader Mitch McConnell on Wednesday condemned a fiery speech by President Biden as “utter nonsense” for alleging GOP voting reform laws were comparable to the Civil War.",
@@ -1289,62 +1346,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-dem-candidate-harley-rouda-calls-gop-voters-morons-for-supporting-trump.md",
-      "title": "Dem candidate Harley Rouda calls GOP voters 'morons' for supporting Trump",
-      "excerpt": "Former Rep. Harley Rouda, D-Calif., singled out supporters of former President Trump by calling them \"morons\" during a campaign event last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GL4EnuXf5PA/harley-rouda-republicans-morons-supporting-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GL4EnuXf5PA/harley-rouda-republicans-morons-supporting-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harley-rouda-republicans-morons-supporting-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harley-rouda-republicans-morons-supporting-trump.amp",
-      "publishedDateTime": "2021-07-13T09:47:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

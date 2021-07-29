@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-29-kamala-harris-immigration-plan-promises-to-pivot-away-from-what-does-not-work.md",
+      "title": "Kamala Harris' Immigration Plan Promises to 'Pivot Away From What Does Not Work'",
+      "excerpt": "\"The strength and security of the United States depends on the implementation of strategies like this one,\" Vice President Kamala Harris wrote in her plan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1858280/us-vice-president-kamala-harris.jpg",
+          "width": 2882,
+          "height": 1989,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341?amp=1",
+      "publishedDateTime": "2021-07-29T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-trumps-inroads-with-florida-latinos-are-influencing-democratic-response-to-cuba.md",
       "title": "Trump's inroads with Florida Latinos are influencing Democratic response to Cuba",
       "excerpt": "Democrats in South Florida, beleaguered by a tough 2020 election in the state, have been privately and publicly urging their party leaders to embrace the protests against Cuba's communist regime that are roiling the island nation.\n    \n",
@@ -112,6 +164,63 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-plan-to-honor-trump-with-banquet-becomes-flashpoint-at-one-of-americas-most-elite-golf-clubs.md",
+      "title": "Plan to honor Trump with banquet becomes flashpoint at one of America's most elite golf clubs",
+      "excerpt": "The former president has been a member of Winged Foot, one of the country's top golf clubs and host of the 2020 U.S. Open, for more than 50 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/plans-honor-trump-roil-elite-golf-club-n1275130",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/plans-honor-trump-roil-elite-golf-club-n1275130",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494391/210727-donald-trump-golf-course-jm-1049.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1275130",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275130",
+      "publishedDateTime": "2021-07-28T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1110,49 +1219,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-28-harris-calls-on-black-lawyers-to-fight-states-voter-integrity-laws.md",
-      "title": "Harris calls on Black lawyers to fight states’ voter-integrity laws",
-      "excerpt": "Vice President Kamala Harris urged Black lawyers Tuesday to challenge new election laws in mostly Republican-led states that she said are intended to restrict minority voting and shift vote-counting to partisan entities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/07/26/Biden_08119.jpg-d9ffb_c0-458-5495-3663_s1200x700.jpg?ac76d24151b5fdfcbb22158c02a6cc96c26d6cd4",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/27/kamala-harris-calls-black-lawyers-fight-states-vot/",
-      "publishedDateTime": "2021-07-27T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-07-28-biden-wants-putin-to-behave-so-why-not-go-after-his-money.md",
       "title": "Biden wants Putin to behave. So why not go after his money?",
       "excerpt": "Kremlin critics say the U.S. president needs to do more than take incremental measures. But insiders warn that aiming for Putin’s pocketbook could be dangerous.",
@@ -1263,58 +1329,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-officer-trump-helped-create-this-monstrosity.md",
-      "title": "Officer: Trump 'helped create this monstrosity'",
-      "excerpt": "In testimony before the panel probing the attack on the U.S. Capitol, a police sergeant blasted former President Donald Trump's description of the scene as \"a loving crowd\". (July 27)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/24e97548-973a-41c4-a28a-d6a8d389859d_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

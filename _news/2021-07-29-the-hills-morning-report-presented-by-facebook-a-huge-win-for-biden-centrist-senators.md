@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Sen. Kyrsten Sinema meets with President Joe Biden on infrastructure plan, is optimistic deal will be reached"
+    excerpt: "Sen. Kyrsten Sinema, who is co-leading negotiations on a bipartisan infrastructure plan, met with President Joe Biden Tuesday for a one-one-one meeting as lawmakers seek to overcome disagreements on the $1."
+    publishedDateTime: 2021-07-27T21:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5386080001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5386080001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/27/PPHX/29fde48d-88fe-4842-95fc-a5113767d098-AP21196772466931.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Biden hosts Jordan's King Abdullah at White House"
     excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
     publishedDateTime: 2021-07-19T20:33:00Z
@@ -164,22 +180,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Kyrsten Sinema meets with President Joe Biden on infrastructure plan, is optimistic deal will be reached"
-    excerpt: "Sen. Kyrsten Sinema, who is co-leading negotiations on a bipartisan infrastructure plan, met with President Joe Biden Tuesday for a one-one-one meeting as lawmakers seek to overcome disagreements on the $1."
-    publishedDateTime: 2021-07-27T21:20:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
-    ampWebUrl: "https://amp.statesman.com/amp/5386080001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5386080001"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 56
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/27/PPHX/29fde48d-88fe-4842-95fc-a5113767d098-AP21196772466931.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "MICHAEL BARONE: Joe Biden's big lie"
     excerpt: "Did you know that Black people are not going to be allowed to vote in America anymore? At least in states controlled by Republicans. Sounds unlikely, but that's a conclusion you might have come to if you took seriously what President Joe Biden said in Philadelphia last week."
     publishedDateTime: 2021-07-19T12:33:00Z
@@ -195,6 +195,6 @@ related:
         height: 400
         isCached: true
 
-secured: "1DTyLLwIic0Ty/3JwM+PBrUK6ssfJ05x4pL8arVmk0YmB09/+hjTHShmr0gSYthaUv6EQSjK5gFo4oHVfoT2FjrkWTHg/qMagBvVS3iVqBj8Vx08m/gJwY5B8hsIRiQOjncbW4CAXwvJW6Yrn03/JFra/5lEJB1P5ccmmch2aa5v88RXpRMWoNeJdeZ8DdQBemSLhZhRmxV0GADnbyK2dncE49sGl5Eij21dlQOkatMlNwWEhWRmMip/at3CEYwP2ruhaxqizU+e6jf7JIeCIE81sjOPTRwCAd2IbsbrI+xzXsL++k+ny7IWYi6R2Q2LmqvnUDKokSN3ZM6Frvk1M8pnyy2TTt6+kOM8d1gpX9E=;hr1ikoQ12BeDR1Mv0KSHSQ=="
+secured: "GszRndENRnuawz3zHYePB+RXXfDdoZZLee5/Z3z+OIfA/gGY5DLDiLS/WZl3LaKaY4FawS6+q5/vB477aFWTe792Pr6wLXjiic7EIsnG9gKKExRB3jy97CtFNVLIyg0ZmKS+uMGe7eisseRQjX5G+P2zdgZDgqANmQ69yk6EMyk51cegon54Q+b6+/4tehTypubkVhwcQ2tXV3Q6558xQzaU1DwTz9RHeW0ximY5fMiuJjK3mGNVRbCAdIIeXN/fee4QPG73iFMDg6monWoZnrt4NAkmRRitQG6CN88ZPyBngWDUIzOdNhVQ6ydBtsmIt3UJItj8UR5/cLYWq0WrRH1WAVAgGjQuf083f8O4ywPzqfhHM0Lb8qavEYHvgTuFAK325ZaLr0/Y4joPdif3OhpIgSVlGO/V7+zbO4MCH7gGaVXNbn4MjYFLlAY/EX183MhAxREqoSLrfv1IhjzK/PX1eebDzpFYo55whkBbuowaDDgJLahrvrx+ggTpqYSibxW0MOgq0zJW3e0geqkOnA==;4q2oWmrKeS4TB9zk0JHkdw=="
 ---
 

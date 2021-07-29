@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump supporters raise $5.7M for Arizona election audit"
+    excerpt: "Groups connected to prominent supporters of former President Donald Trump’s movement to cast doubt on the 2020 election results have raised more than $5.7 million for Arizona Republicans’ election aud"
+    publishedDateTime: 2021-07-29T04:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-supporters-raise-57m-arizona-election-audit-79132778"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-supporters-raise-57m-arizona-election-audit-79132778"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-supporters-raise-57m-arizona-election-audit-79132778"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bb5f930516614293a939b020e4d079c8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Records show pressure by Trump, allies on Arizona officials over election"
     excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies after the 2020 election."
     publishedDateTime: 2021-07-03T09:15:00Z

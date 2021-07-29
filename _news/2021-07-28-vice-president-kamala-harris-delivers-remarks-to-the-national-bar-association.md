@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Delivers Remarks to the National Bar Association"
 excerpt: "Vice President Kamala Harris delivers live virtual remarks to the National Bar Association in South Court Auditorium of the Eisenhower Executive Office Building of the White House in Washington, DC on July 27,"
 publishedDateTime: 2021-07-27T18:24:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/e8745efb2c434f9c9dcb29a9efd53684/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/e8745efb2c434f9c9dcb29a9efd53684/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9b1efb583e91c289bf6fde4b48983bcf/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9b1efb583e91c289bf6fde4b48983bcf/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
 type: article
 quality: 52
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/e8745efb2c434f9c9dcb29a9efd53684/HARRIS-BAR-ASSOC.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/9b1efb583e91c289bf6fde4b48983bcf/HARRIS-BAR-ASSOC.jpg"
     width: 650
-    height: 433
+    height: 434
     isCached: true
 
 related:
@@ -992,6 +992,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "oOrEDOEtz/YAAPT7SgINnx5L3GW9TMLsb6f+zFtfvS5Sqb9RWcYiv6NIxCac3dMmp74FyfA+0i8xzXwgWWtpJV2IW7l40OdRT6bxG3ckiVyvQUPZXofx0Ll4gL/MrDgTHvZD7X0O6ygF0Zn27aEqiSZhlsEqMaSAQ6FI9jKSU8EM3ZFmKYhGn7AVqcf4Z6qYNyTIeXaRSVkLGvsSk7KTy4miN1Ksrt+t8DFjFB6oY8c/OiCA0QOdS5Tky6HR4qcYCZNgnNSkIsk5BBZf7XyA5sKVP03BTMde96CPRffpMmxRttBIXs+CVAjnjtQ8vl5NDVSMqtq/c8TOIa5PM28WrKL4BKcJcM2I7XBoMhr4etrd4/zc194BAQRxXzaR78Gx2lWLbxf5daCFFBWP377ZgtOutKEM8Jqt0xrlpfejaf2Q0bEHHuO3ruYgRIzOq47mouQfHGFvAC4l7nv7ueIUj62jzVVgaR1fIhQy0pD7DesY9pScr4m64+C5M4BuLIwMQu/X7yter0WN6EihJ+V2qA==;p0npgumogZfU++FM2OmhoQ=="
+secured: "vQgVNAfj7jzwzKLMdJkFZ0Qy1diyPaIKgtcMeDWLKihJ0Yr0LRFUSQ+mes4tiaEzjP4ksgN8jaGPqwpHY8LsGSRDDKZT1UBejvD3EyGUqrqQJh14bCVZsINE9oftVNcsKM1eGdfZd0PSn6kL2aR2Q8RVNBdT6NWoBlOF9uUGs8Oww3Pw1tDMAzjS3mq/GfJvm+pAIf0rJtjCnfhOjHSmLBvf/8XJNCl5IDjv8cfux9k+QtxPIm56aS+fkqEk6QKwUYJmrdSluYNtznOBHx6nY9s24Aq44JeJH9ENIqM9Ww2757pNR22pL/6xzRfegTquo/gADzkl5qCdj2/bwSGQ6YsXG0EON7cj/CaseB9iaOc=;OPL/fG4QO0Pe0VTB27MLow=="
 ---
 

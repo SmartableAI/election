@@ -143,6 +143,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Jan. 6 select-panel Dems confident they can corral ex-Trump aides"
+    excerpt: "But it won't be easy for them to shake off potential stonewalling, and their Capitol riot probe is still taking shape."
+    publishedDateTime: 2021-07-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
+        width: 1161
+        height: 773
+        isCached: true
   - title: "Pelosi Bars Trump Loyalists From Jan. 6 Inquiry, Prompting a G.O.P. Boycott"
     excerpt: "Democrats said Representatives Jim Banks and Jim Jordan, who amplified Donald J. Trump’s lies of a stolen election and opposed investigating the assault, could not be trusted to scrutinize it."
     publishedDateTime: 2021-07-22T00:15:00Z
