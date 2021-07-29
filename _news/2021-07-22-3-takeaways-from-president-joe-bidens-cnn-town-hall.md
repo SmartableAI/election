@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden says he's self-conscious as president"
+    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
+    publishedDateTime: 2021-07-22T13:48:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden praises child tax credit payments as ‘historic step’ to end child poverty – live"
     excerpt: "Biden says – follow all the latest politics news"
     publishedDateTime: 2021-07-15T16:58:00Z
@@ -117,20 +133,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden signs bill bolstering the Crime Victims Fund"
-    excerpt: "President Joe Biden signed a bipartisan bill Thursday to strengthen the Crime Victims Fund, which helps to support victims of domestic violence, sexual assault and other crimes. The bill passed unanimously in the Senate Tuesday,"
-    publishedDateTime: 2021-07-22T22:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-signs-bill-bolstering-crime-victims-fund/8063939002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1d5e379-0e26-4c8e-a073-e983227456ef_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Marine One takes off from the South Lawn with President Joe Biden"
     excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
     publishedDateTime: 2021-07-21T20:25:00Z
@@ -159,15 +161,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "No, Joe Biden doesn’t want to ban handguns"
-    excerpt: "When President Joe Biden was asked in his Ohio town hall what he plans to do about rising homicides, House Republicans were quick to fire off a tweet to their followers. \"President Biden says he wants to ban handguns,"
-    publishedDateTime: 2021-07-22T20:31:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/jul/22/national-house-republicans/no-joe-biden-doesnt-want-ban-handguns/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 35
 
 secured: "vgxMP77tedbJLRCMEW983xmuVq3nAs05a7/A3z26KrutSObd11FhmYpNFLLWsoKauHryD7dV2QgO0J/uTvwT2dGwVYodcSN9ci9ECzP2t7iqLMoIC50CNYuups3jB853uUUSI8M+Ay/yEPv5xRwWJqr0VANNJPGG73pc2l2rvktvRyNuGQsvBrQO/hoN8dyqGY/ltfoEtGtV5bO2z7RxcYgxMJlzWwN2HDsyEfUMpD3SQW+Xbn5cC36vVEeiJafmmN2Wg00nVIkBjPQzaODPCTL2LzOSrnG6i5PHslBjAnhNOaszdex9u9+57gGpqHAZLfO5mz7AKxVuge3ftZNaV0+5YkBunkzgz7Deje84elU=;CTdyoVhwaOnUBTEtvhnaXA=="
 ---

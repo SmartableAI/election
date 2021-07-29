@@ -19,95 +19,113 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden sees U.S. child tax credit as 'giant step' to counter poverty"
-    excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
-    publishedDateTime: 2021-07-16T01:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-economy-child-tax/biden-to-tout-program-likened-to-universal-basic-income-for-kids-idUSKBN2EL1ZV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1ZV"
+  - title: "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit"
+    excerpt: "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass."
+    publishedDateTime: 2021-07-29T15:03:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 148
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568977952&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0XV"
-        width: 817
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1858183/president-joe-biden-speaks-macungie-pennsylvania.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden admin stepping up community grants from COVID bill"
-    excerpt: "President Joe Biden’s administration says it is making $3 billion in economic development grants available to communities — a tenfold increase in the program paid for by this year’s COVID-19 relief bi"
-    publishedDateTime: 2021-07-22T04:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-admin-stepping-community-grants-covid-bill-78983253"
+  - title: "Trump ally launches election audit plan in Pennsylvania"
+    excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state's 2020 election"
+    publishedDateTime: 2021-07-07T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_04484eac6e6c45f8b6675e1937c8fada_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f6f7ba56d9154e51bcd011f93df3a5bf_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden praises child tax credit payments as ‘historic step’ to end child poverty – live"
-    excerpt: "Biden says – follow all the latest politics news"
-    publishedDateTime: 2021-07-15T16:58:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f061b28f080074230c059b"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+  - title: "Sarah Huckabee Sanders Says Biden 'Undercut Public Confidence' in Vaccine by Criticizing Trump Rollout"
+    excerpt: "\"Because of what they heard from politicians and TV 'experts,' many Americans were scared the vaccines were not safe,\" she said in an op-ed."
+    publishedDateTime: 2021-07-25T20:47:00Z
+    webUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909"
+    ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
     images:
-      - url: "https://i.guim.co.uk/img/media/0259455082635cfb374ca5eb6d782612ff0bfbd3/0_13_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0096c3b7acc3f0d73a979f1b6d79602"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1854592/sarah-huckabee-sanders-writes-op-ed.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Biden praises child tax credit payments as ‘historic’ step to end child poverty – live"
-    excerpt: "Biden says – follow all the latest politics news"
-    publishedDateTime: 2021-07-15T19:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest?page=with:block-60f089d48f080074230c07d0"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/15/joe-biden-politics-merkel-covid-coronavirus-live-latest"
+  - title: "Biden will let a Trump-era eviction ban expire in 2 days, jeopardizing the homes of 6 million renters"
+    excerpt: "The White House said its hands were tied due to a Supreme Court ruling. Democrats were ramping up pressure for the administration to step in."
+    publishedDateTime: 2021-07-29T15:04:00Z
+    webUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/9893a2d674a9b811cd2da7a04ce81fbf739fb1af/0_0_5391_3235/master/5391.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6a00fbd0b8f2240c6a6c8bfca4f0a37c"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to tout program likened to universal basic income for kids"
-    excerpt: "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty."
-    publishedDateTime: 2021-07-15T19:47:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-tout-program-likened-universal-basic-income-kids-2021-07-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/y5He3Hpeccj9uPqCfW8BphaheVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HVLUSZ6UWZI2BDO3L33JXFQCTQ.jpg"
+      - url: "https://i.insider.com/60957bf234af8d001859c10e?width=1200&format=jpeg"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
-  - title: "Biden admin stepping up community grants from COVID bill"
-    excerpt: "President Joe Biden’s administration says it is making $3 billion in economic development grants available to communities — a tenfold increase in the program paid for by this year’s COVID-19 relief bi"
-    publishedDateTime: 2021-07-22T17:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-admin-stepping-up-community-grants-from-covid-bill/2021/07/22/c93c8172-eaa1-11eb-a2ba-3be31d349258_story.html"
+  - title: "Firm leading Arizona audit received millions from Trump supporters"
+    excerpt: "Cyber Ninjas received $5.7m in donations, including $3.25m from the CEO of Overstock, who said the 2020 election was ‘rigged’"
+    publishedDateTime: 2021-07-29T15:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/0433e6538ffb27b06647f179a2363e56cccc5b60/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=46e33120c346f6ccbfc7515f6a2b01e4"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden attacks Trump at Virginia rally, tying McAuliffe’s opponent to ex-president"
+    excerpt: "After mostly avoiding direct attacks on Trump, Biden says Friday he “whipped Donald Trump in Virginia” and so will McAuliffe, highlighting a key strategy for Democratic candidates: linking opponents to Trump."
+    publishedDateTime: 2021-07-24T17:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-mcauliffe-rally-trump/2021/07/23/44f203e2-ebc8-11eb-97a0-a09d10181e36_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFJXVNXLCII6XIV2HPRR2NESLA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
+    excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -125,48 +143,112 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "3 takeaways from President Joe Biden's CNN town hall"
-    excerpt: "President Joe Biden took questions from Ohioans on Wednesday at a CNN town hall, touching on his administration response to Covid-19, his work with Congress and many other issues."
-    publishedDateTime: 2021-07-22T01:23:00Z
-    webUrl: "https://www.newspressnow.com/news/national_news/election2020/3-takeaways-from-president-joe-bidens-cnn-town-hall/article_24dfe05e-ba7e-5b1e-87f1-285fcfaed4ae.html"
+  - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
+    excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."
+    publishedDateTime: 2021-05-29T11:37:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
     type: article
     provider:
-      name: News-Press NOW
-      domain: newspressnow.com
-    quality: 55
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/custom/image/be1cb458-881b-11eb-872f-4f6e66986b9a.png"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Marine One takes off from the South Lawn with President Joe Biden"
-    excerpt: "President Joe Biden walks to Marine One from the Oval Office for a trip to Kentucky at the White House in Washington, DC on Wednesday, July 21, 2021. Photo bySamuel Corum/UPI"
-    publishedDateTime: 2021-07-21T20:25:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/dba3faa423dfc5e4c032a852850c27ee/Marine-One-takes-off-from-the-South-Lawn-with-President-Joe-Biden/"
+  - title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
+    excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
+    publishedDateTime: 2021-07-23T02:15:00Z
+    webUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790"
+    ampWebUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://cdnph.upi.com/pv/upi/dba3faa423dfc5e4c032a852850c27ee/BIDEN-DEPARTS.jpg"
-        width: 650
-        height: 433
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "President Joe Biden Meets to Discuss the Bipartisan Infrastructure Framework"
-    excerpt: "US President Joe Biden, with administration officials, meets with union and business leaders to discuss his $1.2 trillion bipartisan infrastructure plan in the Roosevelt Room of the White House in Washington,"
-    publishedDateTime: 2021-07-22T23:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/36314f6f7fd3addad0c8b919ee63c379/President-Joe-Biden-Meets-to-Discuss-the-Bipartisan-Infrastructure-Framework/"
+  - title: "Trump ally launches election audit plan in Pennsylvania"
+    excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state’s 2020 election."
+    publishedDateTime: 2021-07-10T13:44:00Z
+    webUrl: "https://www.modbee.com/news/business/article252620863.html"
+    ampWebUrl: "https://amp.modbee.com/news/business/article252620863.html"
+    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/business/article252620863.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: Modesto Bee
+      domain: modbee.com
+    quality: 70
+  - title: "Why is President Biden heading back to Pennsylvania? It’s more than the state where he was born"
+    excerpt: "We’re the Keystone State,’ said Tom Wolf, the Democratic governor of Pennsylvania. ‘We’re a microcosm of the U.S. population. We’re old, we’re young, we’re big. And it’s the birthplace of Joe Biden.’"
+    publishedDateTime: 2021-07-28T09:14:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article253059638.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article253059638.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article253059638.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 63
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5d632fe5-83d9-49d1-81ea-23acd529bcd3/433b3d47-073b-43ef-91cb-3a3062bfff5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why is President Joe Biden heading back to Pennsylvania? | Charlotte Observer"
+    excerpt: "We’re the Keystone State,’ said Tom Wolf, the Democratic governor of Pennsylvania. ‘We’re a microcosm of the U.S. population. We’re old, we’re young, we’re big. And it’s the birthplace of Joe Biden.’"
+    publishedDateTime: 2021-07-28T09:21:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253059638.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253059638.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253059638.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 52
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/36314f6f7fd3addad0c8b919ee63c379/BIDEN-INFRUSTRUCTURE.jpg"
-        width: 650
-        height: 433
-        isCached: true
+  - title: "Trump-Allied Lawmaker Opens Pennsylvania Election Audit Plan"
+    excerpt: "A Pennsylvania state senator who has helped spread former President Donald Trump’s falsehoods about fraud in last year’s presidential election says he's asking several counties to submit to a “forensic investigation” of the 2020 election and May’s primary election."
+    publishedDateTime: 2021-07-07T14:48:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-07/trump-allied-lawmaker-opens-pennsylvania-election-audit-plan"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
+  - title: "Trump Hasn't Endorsed in Pennsylvania Gov's Race, Aide Says"
+    excerpt: "A senior adviser to Donald Trump is taking to Twitter to stress that the former president has made no endorsement of anyone to become governor of Pennsylvania."
+    publishedDateTime: 2021-05-20T21:26:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-05-20/trump-hasnt-endorsed-in-pennsylvania-govs-race-aide-says"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Feds: Pennsylvania Man Faked Trump Family Personas in Fraud"
+    excerpt: "A Pennsylvania man has been charged with creating fake online identities for ex-President Donald Trump's brother and son to dupe hundreds of people nationwide into donating to his phony political organization."
+    publishedDateTime: 2021-06-08T22:58:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/feds-pennsylvania-man-faked-trump-family-personas-in-fraud"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Anti-Trump Republican Enters Pennsylvania's Race for Senate"
+    excerpt: "A one-time top aide to the late former U.S. Sen. Arlen Specter and a longtime lobbyist and political consultant from Philadelphia will run for U.S. Senate as an anti-Trump Republican."
+    publishedDateTime: 2021-07-28T17:34:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-28/anti-trump-republican-enters-pennsylvanias-race-for-senate"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "tQxUiv/yk+y1LgJj0tq8SQ2B+gExeGk/c92Am1UALJF/+AYRB1dDlFpPaYjCuRynt53u6/cZ5AMvSRyGM5JtraeL75zig9Rwg//PWVbJv31H93A3FHwLJJLvDPFZWGBn4TT99vJr5OgIMIGI1G5S2cJijg9/E/XJGxZArXUnmE2bnzHGEuQVzmU6AGZJecW9JEGJNMAAOyin8JZtbvgTpO72LsNLG6xMaZhkUjXHI6RwwGKrUk5V7R6O7qLGa/HctJy/KlGS+HNhKrBFbBWrYiNbwH0bsvYImr+i/XjiloJcOubfv6vxVIyK/nF1pxPyh65ELkpFL/ZeaiFxKHA973tQUHqv4C6G3/yR1zjXisc=;RvthQUG0HH5kDJKdbdgXXw=="
 ---

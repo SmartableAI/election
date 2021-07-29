@@ -55,22 +55,6 @@ related:
         width: 905
         height: 545
         isCached: true
-  - title: "Firm leading Arizona audit received millions from Trump supporters"
-    excerpt: "Cyber Ninjas received $5.7m in donations, including $3.25m from the CEO of Overstock, who said the 2020 election was ‘rigged’"
-    publishedDateTime: 2021-07-29T15:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/0433e6538ffb27b06647f179a2363e56cccc5b60/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=46e33120c346f6ccbfc7515f6a2b01e4"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Trump Escalates Voter Fraud Claims After Arizona SOS Urges Him to 'Accept' Loss"
     excerpt: "The former president opened his speech at a rally in Phoenix by claiming there's \"no way Democrats win elections without cheating.\""
     publishedDateTime: 2021-07-25T01:07:00Z
@@ -250,6 +234,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Arizona Secretary of State Seeks Probe of Trump Allies"
+    excerpt: "Arizona's Democratic secretary of state is asking the Republican state attorney general to investigate whether former President Donald Trump and his allies broke the law in their efforts to pressure Maricopa County officials after the 2020 election."
+    publishedDateTime: 2021-07-08T00:32:00Z
+    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2021-07-07/arizona-secretary-of-state-seeks-probe-of-trump-allies"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "q9hC9XeEt2JwkythvZY6h/bYxhqqqohPGqZidKhWEX8/Xq10gtwPI3EjE2NBAgetCptpmRQNpJmy5RrkXfvbIVZgTEqzhF1ya/c809POZ1A6+A+kYXFRCuMAIDZ5ZlbLMjydpz46roCZeVVW4V3h+KKe6pLL4sw+rgsC8gh3zUsKLcnuNa5jCX2+dVj2ilYethf6qZ6fLVBzvRR9ToF7SV3azMf481tYD+km6SHA0fuB+qgUej4VXDhSGxmdX3feb22c9WjUmrO+H5YzAnSmG0HhA6OwNfTMGzhUxW12VESxdS9slaxCEK/8i4QjwBCPHHntka7COuyxBaISZ+hOJ84obyQdP52avywCD1i3Wk28TDZcc9dHK818OOMmHPZOM936sGfRcGSI0mHshQD5He71YvSTazAFoi9znZkvSrY+D6Dh2CdKiPXLj4RPaOAMdzwy+xO3+GpT9wuETViiFn9gVtk2z/9zO7ODU1rajdus8bMlM/+SLqTBMxJlLsO33goQlm/9dTUwQPrZERmtUg==;WYckIV91iH+2HiBnWcbzgg=="
 ---

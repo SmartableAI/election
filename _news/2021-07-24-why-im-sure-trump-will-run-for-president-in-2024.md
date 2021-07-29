@@ -90,6 +90,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump's GOP clout on the line next week in Ohio primary showdown"
+    excerpt: "After a setback on Tuesday in Texas when Susan Wright, the Trump backed candidate an all-Republican House special election runoff in Texas’ 6th Congressional District, was defeated, next week's GOP congressional primary in Ohio – and the former President’s endorsement of Mike Carey – is grabbing more"
+    publishedDateTime: 2021-07-29T16:20:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KcH4SKiwwrA/trumps-gop-clout-on-the-line-next-week-in-ohio-primary-showdown"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-gop-clout-on-the-line-next-week-in-ohio-primary-showdown.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-gop-clout-on-the-line-next-week-in-ohio-primary-showdown.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Ally Tom Barrack Is Charged With Acting as U.A.E. Foreign Agent"
     excerpt: "An indictment alleges that the real-estate investor acted at the direction of senior Emirati officials to influence former President Donald Trump’s policy positions and to influence public opinion in favor of U."
     publishedDateTime: 2021-07-20T23:02:00Z

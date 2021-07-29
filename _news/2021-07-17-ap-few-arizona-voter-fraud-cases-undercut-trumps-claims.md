@@ -57,21 +57,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "William Barr clashes with former Trump appointee from Pa. over handling of election-fraud claims"
-    excerpt: "As a former prosecutor considers a run for governor, Donald Trump’s unfounded claims expose new fissures in the GOP."
-    publishedDateTime: 2021-07-13T20:13:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html?outputType=amp"
+  - title: "Michigan Asks for $11K in Legal Fees for Defending State in Donald Trump Election Suit"
+    excerpt: "Detroit is requesting the lawyers face disciplinary hearings where they practice and that a judge disgorge money fundraised in a post-election campaign."
+    publishedDateTime: 2021-07-12T17:36:00Z
+    webUrl: "https://www.newsweek.com/michigan-asks-11k-legal-fees-defending-state-donald-trump-election-suit-1608931"
+    ampWebUrl: "https://www.newsweek.com/michigan-asks-11k-legal-fees-defending-state-donald-trump-election-suit-1608931?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-asks-11k-legal-fees-defending-state-donald-trump-election-suit-1608931?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AQL3UVHD6UI6XNZCRHVA3XTXOE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1843854/sp.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "'You understand that?': Tom Brady ribs Biden over Trump's false election claims – video"
     excerpt: "Brady joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with US president Joe Biden."
@@ -554,6 +554,54 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Donald Trump’s lawyers might be penalized over Michigan election case"
+    excerpt: "A federal judge considering whether to order sanctions against some of former President Donald Trump's lawyers spent hours Monday drilling deeply into details about an unsuccessful lawsuit that challenged Michigan's 2020 election results."
+    publishedDateTime: 2021-07-13T00:33:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 90
+    images:
+      - url: "https://thumb.spokesman.com/2wMKelDUbDC_6AMZQ5cXM4w6YWQ=/480x0/media.spokesman.com/photos/2021/07/12/60ecdafc1e46c.hires.jpg"
+        width: 480
+        height: 319
+        isCached: true
+  - title: "Did Trump Claim Victory on Election Night on a Whim?"
+    excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
+    publishedDateTime: 2021-07-13T21:35:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c36/922/6a45ca95b1c282ffe479525e6e84bb9485-donald-trump-election-night.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Did Trump Really Claim Victory on Election Night on a Whim?"
+    excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
+    publishedDateTime: 2021-07-13T17:35:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c36/922/6a45ca95b1c282ffe479525e6e84bb9485-donald-trump-election-night.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence returns to Iowa, trumpets ‘Trump-Pence’ record of accomplishment"
     excerpt: "Back in Iowa for the first time since the 2020 election, former Vice President Mike Pence told voters in the first-in-the-nation caucus state the “Trump-Pence” administration showed what can be accomplished when you fight for conservative principles."
     publishedDateTime: 2021-07-16T22:18:00Z
@@ -585,6 +633,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/28/virus_outbreak_trump_fact_check_43481_c0-0-3693-2154_s1200x700.jpg?3001f657d3eebe37f8930f23996b303c6df4f7a9"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
+    excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"
+    publishedDateTime: 2021-07-12T02:14:00Z
+    webUrl: "https://www.ibtimes.com/trump-runaway-winner-gop-presidential-bet-2024-elections-cpac-poll-3249464"
+    ampWebUrl: "https://www.ibtimes.com/trump-runaway-winner-gop-presidential-bet-2024-elections-cpac-poll-3249464?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-runaway-winner-gop-presidential-bet-2024-elections-cpac-poll-3249464?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 88
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
         isCached: true
   - title: "The definitive oral history of how Trump took over the GOP, as told to us by Cruz, Rubio, and 20 more insiders"
     excerpt: "Trump became the king of the Republicans five years ago this week. We spoke to Cruz, Rubio, and many others who had front-row seats to the coronation."
@@ -630,21 +694,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Melania Trump Rejected Election Night Party At The White House 4 Times, Book Claims"
-    excerpt: "Melania Trump did not want the election night party to happen at the White House due to the pandemic, according to a new book."
-    publishedDateTime: 2021-07-16T04:27:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-rejected-election-night-party-white-house-4-times-book-claims-3252939?amp=1"
+  - title: "Election 2020 Aftermath: Penalties May Loom For Lawyers Who Pushed Pro-Trump Election Suit"
+    excerpt: "A federal judge is considering whether to penalize lawyers who signed a lawsuit that tried to decertify Joe Biden’s victory in Michigan."
+    publishedDateTime: 2021-07-12T23:11:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-aftermath-penalties-may-loom-lawyers-who-pushed-pro-trump-election-suit-3250187"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-aftermath-penalties-may-loom-lawyers-who-pushed-pro-trump-election-suit-3250187?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-aftermath-penalties-may-loom-lawyers-who-pushed-pro-trump-election-suit-3250187?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 84
+    quality: 80
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
-        width: 1024
-        height: 682
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/12/houseofrep.jpeg"
+        width: 1200
+        height: 857
         isCached: true
   - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
     excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud and warning that he will be entitled to reject the results unless Congress overhauls the voting system."
@@ -758,22 +822,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
-    excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
-    publishedDateTime: 2021-07-23T02:15:00Z
-    webUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790"
-    ampWebUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Agents Inside Trump's Infamous COVID-19 Limo Ride Already Had Virus: Book"
     excerpt: "The Secret Service agents who accompanied former President Donald Trump in his infamous drive-by in 2020 had previously been diagnosed with COVID-19, a new book has revealed. The new book written by Wall Street Journal reporter Michael Bender and titled “ Frankly We Did Win This Election ” revealed that the Secret Service agents who accompanied Trump in the surprise limo ride already had some immunity after recovering from a previous coronavirus infection."
     publishedDateTime: 2021-07-21T02:51:00Z
@@ -804,6 +852,17 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Trump Lawyers Might Be Penalized Over Michigan Election Case"
+    excerpt: "A federal judge in Detroit is considering whether to order financial penalties and other sanctions against some of former President Donald Trump’s lawyers."
+    publishedDateTime: 2021-07-12T19:11:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "PA dentist and friend of Donald Trump charged with assault for groping a patient, police say"
     excerpt: "Albert Hazzouri Jr., the self-proclaimed \"dentist and personal friend of Donald Trump,\" has been charged with assault after he allegedly groped a patient in his Scranton office."
     publishedDateTime: 2021-07-08T17:04:00Z
@@ -850,6 +909,17 @@ related:
         width: 960
         height: 539
         isCached: true
+  - title: "See Donald Trump lie 12 times during Fox interview"
+    excerpt: "CNN anchors fact check Former President Trump's 12 lies during a single Fox News interview. The fallacies were pointed out by CNN's Marshall Cohen reporting."
+    publishedDateTime: 2021-07-12T14:21:00Z
+    webUrl: "https://www.delcotimes.com/news/national/see-donald-trump-lie-12-times-during-fox-interview/video_6e7a6e5f-b25e-5986-a331-13df32bbd6ab.html"
+    ampWebUrl: "https://www.delcotimes.com/news/national/see-donald-trump-lie-12-times-during-fox-interview/video_6e7a6e5f-b25e-5986-a331-13df32bbd6ab.amp.html"
+    cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/news/national/see-donald-trump-lie-12-times-during-fox-interview/video_6e7a6e5f-b25e-5986-a331-13df32bbd6ab.amp.html"
+    type: article
+    provider:
+      name: Delaware County Daily Times
+      domain: delcotimes.com
+    quality: 55
   - title: "Trump files suit against Facebook, Twitter and YouTube"
     excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored. But legal experts say the suits are likely doomed to fail,"
     publishedDateTime: 2021-07-12T01:53:00Z

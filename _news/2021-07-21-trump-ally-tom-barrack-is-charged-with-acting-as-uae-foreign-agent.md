@@ -96,6 +96,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump's GOP clout on the line next week in Ohio primary showdown"
+    excerpt: "After a setback on Tuesday in Texas when Susan Wright, the Trump backed candidate an all-Republican House special election runoff in Texas’ 6th Congressional District, was defeated, next week's GOP congressional primary in Ohio – and the former President’s endorsement of Mike Carey – is grabbing more"
+    publishedDateTime: 2021-07-29T16:20:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KcH4SKiwwrA/trumps-gop-clout-on-the-line-next-week-in-ohio-primary-showdown"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-gop-clout-on-the-line-next-week-in-ohio-primary-showdown.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-gop-clout-on-the-line-next-week-in-ohio-primary-showdown.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump backs embattled ‘patriot’ Texas AG Paxton over George P. Bush"
     excerpt: "Former President Donald Trump endorsed Texas Attorney General Ken Paxton Monday, rebuffing the incumbent’s primary challenger and Bush family scion George P. Bush."
     publishedDateTime: 2021-07-27T02:19:00Z

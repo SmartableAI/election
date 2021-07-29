@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Appeals court: Arbitration won't shield Trump from lawsuit"
-excerpt: "Former President Donald Trump and his three eldest children can’t force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted, an appeals court ruled Wednesday."
-publishedDateTime: 2021-07-29T01:10:00Z
-originalUrl: "https://www.chron.com/business/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
-webUrl: "https://www.chron.com/business/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
-ampWebUrl: "https://www.chron.com/business/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+excerpt: "A federal appeals court says former President Donald Trump and his three eldest children can't force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted"
+publishedDateTime: 2021-07-28T21:55:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+webUrl: "https://abcnews.go.com/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/US/WireAP_7f3612bcf735414398bef86e22706e1e_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -402,6 +406,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "zesJSwWZkfS7xOfkB71INv4fDyQJrt4AWStE3J8c/jfOIFE/V3/Q84+VfRw7LtDgKKoa+XkL37uzTzs62akky6vURIhoELuApZzleJs/nUVWgp4D6cw8oGeLMzKxKUO9DhOw5nJGyTCZMvthsFlqc28GxL/3b+e4Vyz9Gtmyd5TpAMo7NF66OofJ7sZJpiS+tN93TEaVQrtvbRuTYRk4KEB1d1eO6kJXdhpxrbDmx18z2/Se0iZq4s8zoW7Cq95whggv3E+5cSAUEwjYWWMZ7alohEo7Vdu9MonUoZY5t647eNoil3QOv4Efwvd+PJYRdFfufCAZszR803I4ClP7idDSc89yzvSnmzyjqVsZiWQ=;R3Wop8UemY3gV/4N/9ufkw=="
+secured: "fP6PrHBTldjR90pitYjjv35KY2+arPsqCnPm4k/hwc+sqDBlMfolXSyxFWqJOihUng3ccnz8HLWuRa03Trh39y+xwqCSP95LPa5VMbxFiTg3375EXzg7EOSsFDyJPRn2cHOZgMIP1IERj6IbTbMV5ilpdYx2kZAhKwO1CaSJEZMOfHU78wSlRTU06MejVFU5TXTz/36XxMhD7iYSjwgEove/FoO0eQ3xV3n19JpYNmLXf5CI7EhTj9xrsPFoUmQW5AclVJfVgpCMtRmI2l52Gt9u/FqN3/jHymqp5WjJ2D4iZaeYcVxRlRrcSjIG+TzcEOCc+gIBxbwTX1CD6LUh+tcgege/aNBJ9RJqE4eW6/4=;YuINxM2yPOBNBfn6Tp4F0w=="
 ---
 

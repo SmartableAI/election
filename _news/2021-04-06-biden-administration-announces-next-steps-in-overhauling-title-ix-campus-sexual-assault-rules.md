@@ -270,6 +270,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Manchin backs taking first step on Biden's multi-trillion-dollar agenda as Democratic leaders grow more confident"
+    excerpt: "Senate Democratic leaders are growing increasingly confident that they will lock down support for the crucial first step to advancing President Joe Biden's multi-trillion dollar economic package after West Virginia Sen. Joe Manchin signaled on Thursday that he is in favor of pressing forward.\n    \n"
+    publishedDateTime: 2021-07-29T17:51:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SE4By8bSPHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/joe-manchin-reconciliation-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/joe-manchin-reconciliation-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622161606-01-joe-manchin-0622-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: The sneaky radicalism of Joe Biden's first few months in office"
     excerpt: "Joe Biden ran for president on a very simple idea: Government (and the country) works best when people from opposing parties work together. And he cast himself as someone who was uniquely suited to re-stoke the desire for bipartisanship in Congress (and the country).\n    \n"
     publishedDateTime: 2021-04-09T16:08:27Z

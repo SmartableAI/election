@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 1081
         isCached: true
+  - title: "Trump files class action lawsuits against tech giants"
+    excerpt: "Former President Trump is suing Google, Twitter and Facebook after he was blocked from social media platforms following the Capitol riot. He claims they are censoring conservative views and violating freedom of speech."
+    publishedDateTime: 2021-07-07T23:00:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-files-class-action-lawsuits-against-tech-giants/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-files-class-action-lawsuits-against-tech-giants/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-files-class-action-lawsuits-against-tech-giants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/07/e70ed5a8-4e4a-48c1-84a8-fc8c031f1157/thumbnail/1200x630/088b6dbec18be6d93c3edcceb4c3e4e2/cbsn-fusion-trump-files-class-action-lawsuits-against-tech-giants-thumbnail-749176-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump legal troubles escalate after company charged with tax crimes – live"
     excerpt: "Chief financial officer Allen Weisselberg and company charged, marking new chapter in investigation into Trump empire – follow all the latest"
     publishedDateTime: 2021-07-02T15:00:00Z
@@ -156,6 +172,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/05/da2fd7ab-62c6-4b21-8e83-64383cd1e787/thumbnail/1200x630/ace2ad94a90019cbf4b8f5385509ef4d/cbsn-fusion-pres-trump-slams-indictment-during-rally-thumbnail-747421-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pro Trump app 'Gettr' hacked on launch day"
+    excerpt: "Watch \"Pro Trump app 'Gettr' hacked on launch day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-04T23:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210704232051-pro-trump-app-gettr-hacked-on-launch-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/04/story_11134042_1625440984.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "U.S. releases confidential Trump report on foreign auto threat"
     excerpt: "The U.S. Commerce Department on Tuesday released a confidential Trump administration report that was the basis for the former president's threats in 2019 to impose tariffs on imported automobiles on grounds of national security."

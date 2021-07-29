@@ -31,107 +31,243 @@ images:
     isCached: true
 
 related:
-  - title: "Sarah Huckabee Sanders Says Biden 'Undercut Public Confidence' in Vaccine by Criticizing Trump Rollout"
-    excerpt: "\"Because of what they heard from politicians and TV 'experts,' many Americans were scared the vaccines were not safe,\" she said in an op-ed."
-    publishedDateTime: 2021-07-25T20:47:00Z
-    webUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909"
-    ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
+  - title: "Supreme Court could cut into Biden agenda: The Note"
+    excerpt: "The full meaning of the 6-3 conservative edge on the Supreme Court is only beginning to be felt. That matters for President Joe Biden and his agenda."
+    publishedDateTime: 2021-05-18T10:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/supreme-court-gty-jef-210517_1621286530595_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden directs US to mitigate financial risk from climate"
+    excerpt: "President Joe Biden is directing federal agencies to develop a comprehensive strategy to identify and manage financial risks to government and the private sector posed by climate change"
+    publishedDateTime: 2021-05-20T23:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5433e5cc9b54d29bd7cf89f9ebaf1a2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Texas drops challenge to Biden admin.'s deportation moratorium"
+    excerpt: "The Texas attorney general's office has agreed to drop a lawsuit over the federal government's 100-day freeze on deportations after the policy expired and the Biden administration said it had no plans to extend or reinstate it,"
+    publishedDateTime: 2021-05-21T14:27:00Z
+    webUrl: "https://www.reuters.com/article/us-immigration-moratorium-dismissal-idUSKCN2D21YW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D21YW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D21YW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210521&t=2&i=1562974591&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4K11T"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Joe Biden's Buying Metals Abroad Could End Controversial Mining Projects"
+    excerpt: "The mayor of Superior, a town at the center of a controversial mining project in Arizona, said the news was \"very disappointing.\""
+    publishedDateTime: 2021-05-25T21:36:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 134
+    quality: 124
     images:
-      - url: "https://d.newsweek.com/en/full/1854592/sarah-huckabee-sanders-writes-op-ed.jpg"
-        width: 1024
-        height: 682
+      - url: "https://d.newsweek.com/en/full/1806804/copper-queen-mine.jpg"
+        width: 2500
+        height: 1448
         isCached: true
-  - title: "Joe Biden says he's self-conscious as president"
-    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
-    publishedDateTime: 2021-07-22T13:48:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
+  - title: "'U.S. Welcome Patrol': how some border agents are struggling with Biden's policy shift"
+    excerpt: "Some U.S. border patrol agents are so frustrated with President Joe Biden's more liberal border policies that they are considering early retirement, while other disgruntled colleagues are buying unofficial coins that say 'U."
+    publishedDateTime: 2021-05-14T12:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-border-insight-idUSKBN2CV0ZZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV0ZZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV0ZZ"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 117
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
-        width: 1024
-        height: 576
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562109617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D0JF"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Biden will let a Trump-era eviction ban expire in 2 days, jeopardizing the homes of 6 million renters"
-    excerpt: "The White House said its hands were tied due to a Supreme Court ruling. Democrats were ramping up pressure for the administration to step in."
-    publishedDateTime: 2021-07-29T15:04:00Z
-    webUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
+  - title: "Infrastructure negotiations snagged again as Republicans reject Biden's counterproposal"
+    excerpt: "Bipartisan negotiations on infrastructure hit a new snag Friday after Republicans flatly rejected a counterproposal on the multi-trillion dollar bill advanced by the White House. The White House's $1."
+    publishedDateTime: 2021-05-22T21:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/60957bf234af8d001859c10e?width=1200&format=jpeg"
+      - url: "https://s.abcnews.com/images/Politics/capito-rt-er-210521_1621634925673_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "President Biden to sign Alaska tourism act to allow cruise ships to visit the state this year"
+    excerpt: "President Joe Biden is set to sign a bill that will allow cruise ships to visit Alaska, Press Secretary Jen Psaki said Monday."
+    publishedDateTime: 2021-05-24T20:49:00Z
+    webUrl: "https://www.usatoday.com/story/travel/cruises/2021/05/24/cruise-ships-bill-biden-alaska/7417266002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7417266002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7417266002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/05/USAT/c82ac5f8-beea-404d-8438-5647821efbe1-alaska-getty.jpg?auto=webp&crop=2115,1190,x1,y226&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’"
-    excerpt: "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks"
-    publishedDateTime: 2021-07-27T13:00:00Z
-    webUrl: "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+  - title: "Biden extolls global role to Coast Guard grads"
+    excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
+    publishedDateTime: 2021-05-19T18:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-extolls-global-role-coast-guard-grads/5167994001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f2bcc064-d462-4c4b-9148-e518fae4c884_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden to tap Homendy to head NTSB, White House confirms"
+    excerpt: "The White House confirmed on Wednesday that President Joe Biden plans to nominate Jennifer Homendy to chair the National Transportation Safety Board (NTSB)."
+    publishedDateTime: 2021-05-20T02:38:00Z
+    webUrl: "https://www.reuters.com/article/idUSL2N2N630R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N630R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N630R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Biden Cuts Infrastructure Offer to Gop to $1.7 Trillion"
+    excerpt: "President Joe Biden’s team offered Friday to reduce his infrastructure and jobs plan by about a quarter, to $1.7 trillion, a counter-proposal that’s still far higher than what Republicans have suggested they could support."
+    publishedDateTime: 2021-05-21T19:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-cuts-infrastructure-offer-to-gop-to-17-trillion/2021/05/21/6068fe26-ba6a-11eb-bc4a-62849cf6cca9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OR5MIHF2MUI6XPCKMKCJZ5WMVE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Should Joe Biden reform the supreme court? Politics Weekly Extra"
+    excerpt: "Jonathan Freedland speaks to Christopher Kang, former deputy counsel to President Obama, about calls to restructure the highest federal court in the country"
+    publishedDateTime: 2021-05-28T03:00:00Z
+    webUrl: "https://www.theguardian.com/politics/audio/2021/may/28/should-joe-biden-reform-the-supreme-court-politics-weekly-extra-podcast"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/699629989a3abb0f158a0982c38aa36cdc03c78b/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0b46b53cdbfcb6db94a57599466617b"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden confirms: Veterans Affairs to mandate vaccine"
-    excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"
-    publishedDateTime: 2021-07-26T21:53:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/26/biden-confirms-veterans-affairs-mandate-vaccine/5380006001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d5427fa-e76f-4d57-ad5a-c419ce110318_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.guim.co.uk/img/media/bf43e009a340d8e686f3c197a4e65c6a699baeba/0_554_8640_5184/master/8640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66fa18840b38251fee8e4bf5e6a6deca"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden: Federal worker vaccines being considered"
-    excerpt: "President Joe Biden says that requiring all federal workers to get vaccinated against COVID-19 is “under consideration,\" as the delta variant spreads across the U.S. and Americans still refuse the shot."
-    publishedDateTime: 2021-07-27T22:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/27/biden-federal-worker-vaccines-being-considered/5394428001/"
+  - title: "It Only Took 10 Minutes to Find Joe Biden's Secret Venmo Account"
+    excerpt: "Buzzfeed reporter Ryan Mac explains how he and colleagues tracked down a Venmo account belonging to President Joe Biden, using a feature that connects your account to your contacts like family and friends."
+    publishedDateTime: 2021-05-21T23:14:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/it-only-took-10-minutes-to-find-joe-bidens-secret-venmo-account/3068727/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/it-only-took-10-minutes-to-find-joe-bidens-secret-venmo-account/3068727/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/it-only-took-10-minutes-to-find-joe-bidens-secret-venmo-account/3068727/?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b0bf25cb-6509-418b-b8c1-f47be2d36386_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i1.wp.com/media.nbcnewyork.com/2021/05/106885328-16214400322021-05-19t155438z_1594901733_rc23jn9nrcwn_rtrmadp_0_usa-biden.jpeg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Biden in Trump-Supporting Ohio to Tout Vaccines, Infrastructure Spending"
-    excerpt: "The fate of a $1.2 trillion bipartisan infrastructure deal, one of the president's top priorities, is also uncertain in Congress where Democrats hold slim majorities. The Cincinnati event gives Biden,"
-    publishedDateTime: 2021-07-22T00:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-21/biden-in-trump-supporting-ohio-to-tout-vaccines-infrastructure-spending"
+  - title: "President Joe Biden Departs White House for Connecticut"
+    excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
+    publishedDateTime: 2021-05-19T13:31:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d6edd786b71fd8681f03c629321cfda5/President-Joe-Biden-Departs-White-House-for-Connecticut/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d6edd786b71fd8681f03c629321cfda5/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Joe Biden signs COVID-19 Hate Crimes Act - Washington"
+    excerpt: "U.S. President Joe Biden delivers remarks next to Vice President Kamala Harris before signing the COVID-19 Hate Crimes Act into law in the East Room at the White House in Washington on Thursday, May 20,"
+    publishedDateTime: 2021-05-20T20:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/576174ddc77e70bd3a67c8f5aef79c60/Joe-Biden-signs-COVID-19-Hate-Crimes-Act-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/576174ddc77e70bd3a67c8f5aef79c60/hate-crimes.jpg"
+        width: 650
+        height: 897
+        isCached: true
+  - title: "President Joe Biden Returns to White House for Delaware"
+    excerpt: "US President Joe Biden walks on the ellipse at the White House in Washington, DC on Tuesday, May 25, 2021. President Joe Biden returned to the White House after being in Delaware for a few hours Tuesday night."
+    publishedDateTime: 2021-05-26T01:55:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4392e31f06d8e8d247131b3bfb4930ae/President-Joe-Biden-Returns-to-White-House-for-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/4392e31f06d8e8d247131b3bfb4930ae/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "President Joe Biden Meets with South Korean President Moon Jae-in in White House"
+    excerpt: "U.S. President Joe Biden, right, and Moon Jae-in, South Korea's president, depart from a news conference in the East Room of the White House in Washington, DC on Friday, May 21, 2021. Moon is set to make a last-ditch attempt to bring the U."
+    publishedDateTime: 2021-05-22T02:10:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dd6636a78fb3f58a4ef36278bb894b59/President-Joe-Biden-Meets-with-South-Korean-President-Moon-Jae-in-in-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 50
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dd6636a78fb3f58a4ef36278bb894b59/BIDEN-KOREA.jpg"
+        width: 650
+        height: 432
+        isCached: true
 
 secured: "T702p2obISY/KwMR/S+0Ra9wxYg67RYoRZvm/ANU+0qpQVqh+RuJxv6Hgj3ot7CGsET1vRrg2MWAIh5ufiytR54DoOhBKYgfkf/nA0vjJC8Gxxfh1xmVGaXqb8oHcPOL713hs206o8L4pR2laSJnMISshpPXi2c1LL+1NWecSZDWiurhfSckXQ4IpOBLGg7GTELVM3csYXv4G7vIR3rQt62Jj/FsVsoQJhpMxCyArTwZvzAsAEq6HKDSHfh3Ldg8Q/qedFJvCj5vlqsoxAxd5X8K6hi0udD0nciHopl/MZpnCivrirD0jWGWG6fpnjE8kwuIqxydY2Z62V250lZFLa0iPUfcD/J+YcfuKWGJa7XJkrJTbQx4WELNvviXSXtkzzyaXvFT4KfUihwAynY8qnTpO8dR+T394x98HhHSYeDGp9JTmdziyvlKgp84N8qkMWyHT+fpE+8+DNqHsWDpC9Sp7qjnUUaWViT6TmdzpJnnKHCfXHiqipc10LadilkVPvcTZicDKe0u/ogXN0ZSVA==;9RwZChQHphOwLng2OgOFKQ=="
 ---

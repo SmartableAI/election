@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit"
+    excerpt: "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass."
+    publishedDateTime: 2021-07-29T15:03:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 148
+    images:
+      - url: "https://d.newsweek.com/en/full/1858183/president-joe-biden-speaks-macungie-pennsylvania.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump ally launches election audit plan in Pennsylvania"
+    excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state's 2020 election"
+    publishedDateTime: 2021-07-07T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f6f7ba56d9154e51bcd011f93df3a5bf_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Sarah Huckabee Sanders Says Biden 'Undercut Public Confidence' in Vaccine by Criticizing Trump Rollout"
     excerpt: "\"Because of what they heard from politicians and TV 'experts,' many Americans were scared the vaccines were not safe,\" she said in an op-ed."
     publishedDateTime: 2021-07-25T20:47:00Z
@@ -47,91 +79,181 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Joe Biden says he's self-conscious as president"
-    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
-    publishedDateTime: 2021-07-22T13:48:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Joe Biden’s Afghan pullout could end in tragedy"
-    excerpt: "On his recent trip to Europe, Joe Biden lost no opportunity to proclaim “America is back”. But actions speak louder than words. In Afghanistan, America is out. The consequences could be tragic for the country and dangerous for the US and the wider world."
-    publishedDateTime: 2021-07-26T13:18:00Z
-    webUrl: "https://www.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    ampWebUrl: "https://amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4615aa1e-6309-43f8-ae8d-3f008989acb3.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’"
-    excerpt: "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks"
-    publishedDateTime: 2021-07-27T13:00:00Z
-    webUrl: "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+  - title: "Firm leading Arizona audit received millions from Trump supporters"
+    excerpt: "Cyber Ninjas received $5.7m in donations, including $3.25m from the CEO of Overstock, who said the 2020 election was ‘rigged’"
+    publishedDateTime: 2021-07-29T15:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/29/cyber-ninjas-arizona-ballot-audit-donations-trump-supporters"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/699629989a3abb0f158a0982c38aa36cdc03c78b/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0b46b53cdbfcb6db94a57599466617b"
+      - url: "https://i.guim.co.uk/img/media/0433e6538ffb27b06647f179a2363e56cccc5b60/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=46e33120c346f6ccbfc7515f6a2b01e4"
         width: 600
         height: 360
         isCached: true
-  - title: "Biden confirms: Veterans Affairs to mandate vaccine"
-    excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"
-    publishedDateTime: 2021-07-26T21:53:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/26/biden-confirms-veterans-affairs-mandate-vaccine/5380006001/"
+  - title: "Biden attacks Trump at Virginia rally, tying McAuliffe’s opponent to ex-president"
+    excerpt: "After mostly avoiding direct attacks on Trump, Biden says Friday he “whipped Donald Trump in Virginia” and so will McAuliffe, highlighting a key strategy for Democratic candidates: linking opponents to Trump."
+    publishedDateTime: 2021-07-24T17:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-mcauliffe-rally-trump/2021/07/23/44f203e2-ebc8-11eb-97a0-a09d10181e36_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
+    excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden signs bill bolstering the Crime Victims Fund"
+    excerpt: "President Joe Biden signed a bipartisan bill Thursday to strengthen the Crime Victims Fund, which helps to support victims of domestic violence, sexual assault and other crimes. The bill passed unanimously in the Senate Tuesday,"
+    publishedDateTime: 2021-07-22T22:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-signs-bill-bolstering-crime-victims-fund/8063939002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d5427fa-e76f-4d57-ad5a-c419ce110318_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1d5e379-0e26-4c8e-a073-e983227456ef_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden: Federal worker vaccines being considered"
-    excerpt: "President Joe Biden says that requiring all federal workers to get vaccinated against COVID-19 is “under consideration,\" as the delta variant spreads across the U.S. and Americans still refuse the shot."
-    publishedDateTime: 2021-07-27T22:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/27/biden-federal-worker-vaccines-being-considered/5394428001/"
+  - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
+    excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."
+    publishedDateTime: 2021-05-29T11:37:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b0bf25cb-6509-418b-b8c1-f47be2d36386_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Biden in Trump-Supporting Ohio to Tout Vaccines, Infrastructure Spending"
-    excerpt: "The fate of a $1.2 trillion bipartisan infrastructure deal, one of the president's top priorities, is also uncertain in Congress where Democrats hold slim majorities. The Cincinnati event gives Biden,"
-    publishedDateTime: 2021-07-22T00:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-21/biden-in-trump-supporting-ohio-to-tout-vaccines-infrastructure-spending"
+  - title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
+    excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
+    publishedDateTime: 2021-07-23T02:15:00Z
+    webUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790"
+    ampWebUrl: "https://www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-didnt-expect-trump-win-presidency-2016-cohen-reveals-3257790?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump ally launches election audit plan in Pennsylvania"
+    excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state’s 2020 election."
+    publishedDateTime: 2021-07-10T13:44:00Z
+    webUrl: "https://www.modbee.com/news/business/article252620863.html"
+    ampWebUrl: "https://amp.modbee.com/news/business/article252620863.html"
+    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/business/article252620863.html"
+    type: article
+    provider:
+      name: Modesto Bee
+      domain: modbee.com
+    quality: 70
+  - title: "Why is President Biden heading back to Pennsylvania? It’s more than the state where he was born"
+    excerpt: "We’re the Keystone State,’ said Tom Wolf, the Democratic governor of Pennsylvania. ‘We’re a microcosm of the U.S. population. We’re old, we’re young, we’re big. And it’s the birthplace of Joe Biden.’"
+    publishedDateTime: 2021-07-28T09:14:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article253059638.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article253059638.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article253059638.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 63
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5d632fe5-83d9-49d1-81ea-23acd529bcd3/433b3d47-073b-43ef-91cb-3a3062bfff5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why is President Joe Biden heading back to Pennsylvania? | Charlotte Observer"
+    excerpt: "We’re the Keystone State,’ said Tom Wolf, the Democratic governor of Pennsylvania. ‘We’re a microcosm of the U.S. population. We’re old, we’re young, we’re big. And it’s the birthplace of Joe Biden.’"
+    publishedDateTime: 2021-07-28T09:21:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253059638.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253059638.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253059638.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
+  - title: "Trump-Allied Lawmaker Opens Pennsylvania Election Audit Plan"
+    excerpt: "A Pennsylvania state senator who has helped spread former President Donald Trump’s falsehoods about fraud in last year’s presidential election says he's asking several counties to submit to a “forensic investigation” of the 2020 election and May’s primary election."
+    publishedDateTime: 2021-07-07T14:48:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-07/trump-allied-lawmaker-opens-pennsylvania-election-audit-plan"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 49
+    quality: 50
+  - title: "Trump Hasn't Endorsed in Pennsylvania Gov's Race, Aide Says"
+    excerpt: "A senior adviser to Donald Trump is taking to Twitter to stress that the former president has made no endorsement of anyone to become governor of Pennsylvania."
+    publishedDateTime: 2021-05-20T21:26:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-05-20/trump-hasnt-endorsed-in-pennsylvania-govs-race-aide-says"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Feds: Pennsylvania Man Faked Trump Family Personas in Fraud"
+    excerpt: "A Pennsylvania man has been charged with creating fake online identities for ex-President Donald Trump's brother and son to dupe hundreds of people nationwide into donating to his phony political organization."
+    publishedDateTime: 2021-06-08T22:58:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/feds-pennsylvania-man-faked-trump-family-personas-in-fraud"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "No, Joe Biden doesn’t want to ban handguns"
+    excerpt: "When President Joe Biden was asked in his Ohio town hall what he plans to do about rising homicides, House Republicans were quick to fire off a tweet to their followers. \"President Biden says he wants to ban handguns,"
+    publishedDateTime: 2021-07-22T20:31:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/22/national-house-republicans/no-joe-biden-doesnt-want-ban-handguns/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 35
+  - title: "Anti-Trump Republican Enters Pennsylvania's Race for Senate"
+    excerpt: "A one-time top aide to the late former U.S. Sen. Arlen Specter and a longtime lobbyist and political consultant from Philadelphia will run for U.S. Senate as an anti-Trump Republican."
+    publishedDateTime: 2021-07-28T17:34:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-28/anti-trump-republican-enters-pennsylvanias-race-for-senate"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "LLgXg2164aU0BqP2VplOVdUigZpKwtMuxA0G+2a+TrHJTL2CCg7bqJdiDc0mSEEOQV8+UMOfxlH0GtFbxSkmNL80sqebTacyrecWMxmH54sUjJtBxt+3m747TnCyKYIpfGPkwhXvSkX5IWQoRofmmxfqfNcwnOJvlDAg+OkIMfTnUcxrzXqP3NJUEl5T+kkJxokZi37eow4xQFb+3gnZ47P5V5oNHjJfg2Ins1o2jjzPYnfpuoDPxgbIABmhi/QSxM77JiVm2qom1GzGzD2NdnEDHkjk3KnIchaHHCxIldvqMC5BsY/hD1hAh8j9VysTN+fH/vbFdlR0KKlbvLE6sd8K0l3mSIz119Q/GTT5YAA=;nmx8OKIo08Rn3Bz1/gZG2Q=="
 ---

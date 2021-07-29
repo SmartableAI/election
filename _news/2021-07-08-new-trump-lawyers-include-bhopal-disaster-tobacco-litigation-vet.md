@@ -29,19 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lawyer Bruce Castor plays a central role in Bill Cosby going free"
-    excerpt: "Castor's representation of Trump in his impeachment trial raised questions about his past decisions about Cosby's prosecution. Now the Pennsylvania Supreme Court has set Cosby free based upon Castor's testimony."
-    publishedDateTime: 2021-06-30T17:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/"
+  - title: "Pro-Trump social media app hacked on launch day as half million sign up"
+    excerpt: "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said."
+    publishedDateTime: 2021-07-04T18:42:00Z
+    webUrl: "https://www.reuters.com/article/trump-socialmedia/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up-idUSL2N2OG0FR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA0HK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA0HK"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2N2F7EWZY4I6XDEHVVXSPEMMPA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210704&t=2&i=1567874948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH63094"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic"
+    excerpt: "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency."
+    publishedDateTime: 2021-07-05T15:52:00Z
+    webUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895"
+    ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1837809/congresswoman-attended-trumps-border-visit.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Gen. Mark Milley, Donald Trump at odds over crackdown on 2020 racial justice protests, book reveals"
+    excerpt: "A book by WSJ's Michael Bender details a heated exchange between the former president and the top U.S. general over 2020's racial justice protests."
+    publishedDateTime: 2021-06-28T16:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/28/milley-trump-had-confrontation-over-protest-response-book-reveals/5369959001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5369959001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5369959001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/06/04/USAT/fc805c21-65d9-4df3-8d37-72bd485d377c-All_Trumps_men.jpg?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "QLJQQ+Ws0+SvINmQ7ez3ss2adGMdARQPFs8fEX9XVQ4T6M/eajGmmUu5Ghv/8Ajf/4ZZZ7wz0XsJTazvMO1GKsX5Ww/ypEZiGVHjE8GUJ2PVE6O5jlrXvfjk+nWaUwwAF/9rFUDulewyONAazpvxvLf+aCh1XEsPT9AKBvpgbajgeLdAMtr6D+OIZsmcOCnKUrWxRKmv54XP7cL6Q3JZ+Vv9LF52P/CJhIHmwibhG4x8i4wc1/3eY9RT+DGjTPXZVMkoftRyCocHnfTUQeC8Pj2fjO6ofndyqZHvNNou4Nu0BGRIIglJ81dOPsjtLpOJ789sQn7lgXwtS/xPcTiRlAna4fl7AjB0VjRk/uiE5pa+aAx+36HxBbz/IyxTSkNDFkjhSQYY5KBPQF2TrdikL3OU2uUmcPUPLEpRKapnCtR6ep9AkxTwTfkorZrFDmzW6VrlV1XaC4WpMzYXl5Nyq1cgYulPznaax8gikMQ4mkTKrqGqTWduMf3Ryp28XC4N65duyKQ7HlVyT09r+nuUkA==;JZM30gpMI+sJF7tDp4aU4A=="

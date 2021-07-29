@@ -23,114 +23,49 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Sarah Huckabee Sanders Says Biden 'Undercut Public Confidence' in Vaccine by Criticizing Trump Rollout"
-    excerpt: "\"Because of what they heard from politicians and TV 'experts,' many Americans were scared the vaccines were not safe,\" she said in an op-ed."
-    publishedDateTime: 2021-07-25T20:47:00Z
-    webUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909"
-    ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
+  - title: "Bad hair days return? Biden drops showerhead rule Trump demanded for more water, 'perfect' coiffure"
+    excerpt: "President Joe Biden's administration is reversing a Trump-era rule that allowed more water to flow through showerheads."
+    publishedDateTime: 2021-07-16T17:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7992908002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7992908002"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 134
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
     images:
-      - url: "https://d.newsweek.com/en/full/1854592/sarah-huckabee-sanders-writes-op-ed.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Joe Biden says he's self-conscious as president"
-    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
-    publishedDateTime: 2021-07-22T13:48:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Joe Biden’s Afghan pullout could end in tragedy"
-    excerpt: "On his recent trip to Europe, Joe Biden lost no opportunity to proclaim “America is back”. But actions speak louder than words. In Afghanistan, America is out. The consequences could be tragic for the country and dangerous for the US and the wider world."
-    publishedDateTime: 2021-07-26T13:18:00Z
-    webUrl: "https://www.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    ampWebUrl: "https://amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4615aa1e-6309-43f8-ae8d-3f008989acb3.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Biden will let a Trump-era eviction ban expire in 2 days, jeopardizing the homes of 6 million renters"
-    excerpt: "The White House said its hands were tied due to a Supreme Court ruling. Democrats were ramping up pressure for the administration to step in."
-    publishedDateTime: 2021-07-29T15:04:00Z
-    webUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/60957bf234af8d001859c10e?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/24/USAT/f0dfce74-db67-49bb-8c0e-2000322cef95-showerhead.png?auto=webp&crop=1044,587,x5,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’"
-    excerpt: "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks"
-    publishedDateTime: 2021-07-27T13:00:00Z
-    webUrl: "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+  - title: "Trump showerhead rule to increase water flow being dropped"
+    excerpt: "The Biden administration is reversing a Trump-era rule approved after the former president complained he wasn’t getting wet enough because of limits on water flow from showerheads. Now, with a new president in office,"
+    publishedDateTime: 2021-07-16T12:25:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-showerhead-rule-to-increase-water-flow-16319053.php"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://i.guim.co.uk/img/media/699629989a3abb0f158a0982c38aa36cdc03c78b/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0b46b53cdbfcb6db94a57599466617b"
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
-        height: 360
+        height: 336
         isCached: true
-  - title: "Biden confirms: Veterans Affairs to mandate vaccine"
-    excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"
-    publishedDateTime: 2021-07-26T21:53:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/26/biden-confirms-veterans-affairs-mandate-vaccine/5380006001/"
+  - title: "Down the Drain for Trump Showerhead Rule on More Water Flow"
+    excerpt: "The Biden administration is reversing a Trump-era rule on showerheads that was approved after then-President Donald Trump complained he couldn’t get wet enough because of limits on their water flow."
+    publishedDateTime: 2021-07-16T12:59:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-07-16/trump-showerhead-rule-to-increase-water-flow-getting-dumped"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-07-16/trump-showerhead-rule-to-increase-water-flow-getting-dumped?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-07-16/trump-showerhead-rule-to-increase-water-flow-getting-dumped?context=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d5427fa-e76f-4d57-ad5a-c419ce110318_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden: Federal worker vaccines being considered"
-    excerpt: "President Joe Biden says that requiring all federal workers to get vaccinated against COVID-19 is “under consideration,\" as the delta variant spreads across the U.S. and Americans still refuse the shot."
-    publishedDateTime: 2021-07-27T22:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/27/biden-federal-worker-vaccines-being-considered/5394428001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b0bf25cb-6509-418b-b8c1-f47be2d36386_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "eotIZ1AHQm9EffLnLL6lPYljvAd3F3bWRgARaVKL+9tMV2I2ZwGAgIEigQ6srPZOfQY1DPJ7tuKHUKPsmqEzg/7KYQj24yutVLHjB3CKlMmZg0E2Z3JGkC5Pa/Pu1suG9Rb83OverWR2kesPvMwFfaXHjbxR3NVGuSCZd4EF3/HlMr4JaQoQdq88JxOra+a1wM//1OXegjb6/tNSWscqgx7oxMcmvUZdEcIpkvnqtKyt5VfUn2Soo9FeL5CZj9QoBsCS33j1CRufQ5euGkYy/UF4zsn6illU3rhecVcFGqxZ0vcc84k9KjY/e6db/yn2KT4yONqHe3w8TAqfNFSs0D9sLrAYy4kSr62x5I88PSNipodJQXJzQDWLttlGv4pHtIumCvzpxx+UTruWOJhoHKcsCAY5JMIXIulvzFHDfVmNYVbYyvlzXeKOMazAXnrPkMspynoBjVDpUUyGTIdQL9BPoY1WoedIhGBamm/oFcUo+RdNG81x6kTOxPF07FSFRA43yxvyr3/8l3lpJlkgNg==;q63nLFxzJWffrHBRM5bpWA=="
 ---

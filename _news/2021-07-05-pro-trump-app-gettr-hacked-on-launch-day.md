@@ -29,101 +29,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ally launches election audit plan in Pennsylvania"
-    excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state's 2020 election"
-    publishedDateTime: 2021-07-07T21:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+  - title: "Iowa federal judge apologizes for comments about Trump pardons"
+    excerpt: "An Iowa federal judge is apologizing for comments criticizing then-President Trump for multiple pardons that he issued in his last days in office."
+    publishedDateTime: 2021-07-01T21:15:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "TAKEAWAYS: Trump's safe for now, but company's in hot water"
+    excerpt: "With Thursday’s arraignment of Donald Trump’s company and his longtime finance chief on tax fraud charges, New York authorities notched their first indictment in a two-year ongoing investigation of th"
+    publishedDateTime: 2021-07-02T01:00:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 140
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f6f7ba56d9154e51bcd011f93df3a5bf_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0a4801497cdd41a1a1e5138d1d99b5b2_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit"
-    excerpt: "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass."
-    publishedDateTime: 2021-07-29T15:03:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
+  - title: "New operator chosen for NYC ice rink formerly run by Trump"
+    excerpt: "New York City officials say a consortium of businesses and nonprofits has been chosen to run Central Park’s Wollman rink"
+    publishedDateTime: 2021-07-06T22:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 138
-    images:
-      - url: "https://d.newsweek.com/en/full/1858183/president-joe-biden-speaks-macungie-pennsylvania.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump's AG Bill Barr denies he blocked election fraud probes in Pennsylvania"
-    excerpt: "The former U.S. attorney general says he never blocked former U.S. Attorney William McSwain from investigating election fraud claims in Pennsylvania."
-    publishedDateTime: 2021-07-14T18:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7968006002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7968006002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 137
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/3aaa5390e2198791e1539a5c55e668f463ec89a9/c=0-106-2036-1251/local/-/media/2021/05/26/Hagerstown/9601e05ba52fd734e7351590674f3aec.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Michigan Asks for $11K in Legal Fees for Defending State in Donald Trump Election Suit"
-    excerpt: "Detroit is requesting the lawyers face disciplinary hearings where they practice and that a judge disgorge money fundraised in a post-election campaign."
-    publishedDateTime: 2021-07-12T17:36:00Z
-    webUrl: "https://www.newsweek.com/michigan-asks-11k-legal-fees-defending-state-donald-trump-election-suit-1608931"
-    ampWebUrl: "https://www.newsweek.com/michigan-asks-11k-legal-fees-defending-state-donald-trump-election-suit-1608931?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-asks-11k-legal-fees-defending-state-donald-trump-election-suit-1608931?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1843854/sp.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Former Trump aide Miller launches social media site GETTR"
-    excerpt: "Former U.S. President Donald Trump's former senior advisor Jason Miller has launched a social media site called GETTR, a source familiar with the matter said on Thursday."
-    publishedDateTime: 2021-07-01T22:52:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E75E8?edition-redirect=uk"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75E8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75E8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567618493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602VE"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/US/WireAP_64272ea6a0244754a6fd724e84c14492_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Pro-Trump social media app hacked on launch day as half million sign up"
-    excerpt: "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said."
-    publishedDateTime: 2021-07-04T18:42:00Z
-    webUrl: "https://www.reuters.com/article/trump-socialmedia/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up-idUSL2N2OG0FR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA0HK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA0HK"
+  - title: "Trump is long gone, but trade frictions remain for U.S. and Canada"
+    excerpt: "And U.S. officials go out of their way to stress the shared vision that unites the two trading partners. But less has changed in the U.S.-Canada trade relationship than some expected when Biden defeated former president Donald Trump,"
+    publishedDateTime: 2021-07-07T09:00:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/07/07/us-canada-trade-ng/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/07/07/us-canada-trade-ng/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/07/07/us-canada-trade-ng/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210704&t=2&i=1567874948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH63094"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LUIGK7GY2YI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 1081
         isCached: true
   - title: "Trump files class action lawsuits against tech giants"
     excerpt: "Former President Trump is suing Google, Twitter and Facebook after he was blocked from social media platforms following the Capitol riot. He claims they are censoring conservative views and violating freedom of speech."
@@ -141,338 +109,233 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Georgia gov. reflects on 2020 election, Trump"
-    excerpt: "Georgia Gov. Brian Kemp says he's supported and defended many of then-President Donald Trump's policies. But after the 2020 election, Kemp did what he thought was right and what Georgians wanted him to do – certify President Joe Biden's win."
-    publishedDateTime: 2021-07-09T05:37:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/09/georgia-gov-reflects-2020-election-trump/7911725002/"
+  - title: "Trump legal troubles escalate after company charged with tax crimes – live"
+    excerpt: "Chief financial officer Allen Weisselberg and company charged, marking new chapter in investigation into Trump empire – follow all the latest"
+    publishedDateTime: 2021-07-02T15:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df27c78f08a06306041354"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/4cac53cc77da120d1c258e52e8a1c6721b00b60a/0_281_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=932ce3b034e3e9a41e6569a2147f7873"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Iowa Poll: Donald Trump inspires 'intense feelings' as he flirts with 2024 presidential run"
+    excerpt: "Former Republican President Donald Trump's favorability ratings have improved in Iowa, but he remains a polarizing figure here, a new Des Moines Register/Mediacom Iowa Poll shows. Iowans are split exactly evenly, with 49% saying they have a favorable ..."
+    publishedDateTime: 2021-06-24T11:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5296191001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5296191001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 120
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9f1d7141-0c25-418b-bc2e-643d3069be64_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Hill's Morning Report - Trump Organization indicted; House launches Jan. 6 probe"
-    excerpt: "Welcome to The Hill’s Morning Report. It is Thursday, the first day of July! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
-    publishedDateTime: 2021-07-01T10:43:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/561056-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/561056-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/561056-the-hills-morning-report?amp"
+  - title: "A week after border visit, former President Donald Trump returning to Texas for CPAC event"
+    excerpt: "Barely a week after he was at the Texas border, former President Donald Trump is expected back in the state this weekend as the keynote speaker at a political conference in Dallas. Trump speaks at 3:35 p."
+    publishedDateTime: 2021-07-06T19:03:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 118
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 115
     images:
-      - url: "https://thehill.com/sites/default/files/capitoldome.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.hdnux.com/photos/01/20/70/11/21201472/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Trump puts spotlight on Duane Morris partner, ex-prosecutor in Penn. race"
-    excerpt: "Former President Donald Trump thrust Duane Morris partner and former U.S. attorney William McSwain into the political spotlight this week, releasing a letter in which McSwain asked for Trump's endorsement in the Pennsylvania governor's race and blasted the state's handling of the 2020 presidential election."
-    publishedDateTime: 2021-07-13T17:20:00Z
-    webUrl: "https://www.reuters.com/legal/government/trump-puts-spotlight-duane-morris-partner-ex-prosecutor-penn-race-2021-07-13/"
+  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
+    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
+    publishedDateTime: 2021-06-25T03:48:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Former President Trump slams indictment during rally"
+    excerpt: "Former President Donald Trump held a rally in Florida on Saturday night where he downplayed a series of charges against the Trump Organization. CBS News Reporter Melissa Quinn has been covering the story."
+    publishedDateTime: 2021-07-05T03:51:00Z
+    webUrl: "https://www.cbsnews.com/video/pres-trump-slams-indictment-during-rally/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/05/da2fd7ab-62c6-4b21-8e83-64383cd1e787/thumbnail/1200x630/ace2ad94a90019cbf4b8f5385509ef4d/cbsn-fusion-pres-trump-slams-indictment-during-rally-thumbnail-747421-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "U.S. releases confidential Trump report on foreign auto threat"
+    excerpt: "The U.S. Commerce Department on Tuesday released a confidential Trump administration report that was the basis for the former president's threats in 2019 to impose tariffs on imported automobiles on grounds of national security."
+    publishedDateTime: 2021-07-07T00:12:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/us-releases-confidential-trump-report-foreign-auto-threat-2021-07-07/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 104
+    quality: 105
     images:
-      - url: "https://www.reuters.com/resizer/RWnT-CY038In1ec8obVD_OQ1j3w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FABKTCQ5V5JJXOFHJJSM7VPLGM.jpg"
+      - url: "https://www.reuters.com/resizer/qDohrxtfSisnEgk0I1nmipuiL4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A5ZZGXRV6ZIDJOWXQXQVHJ3RTE.jpg"
         width: 1200
         height: 628
         isCached: true
-  - title: "Donald Trump spins tales of rigged election, hints at 2024 comeback"
-    excerpt: "Donald Trump swept into Dallas on Sunday spinning tall tales about the 2020 election and the crowd that mobbed the U.S. Capitol on Jan. 6 hoping to keep him in the White House despite his defeat. “No evidence?"
-    publishedDateTime: 2021-07-12T13:41:00Z
-    webUrl: "https://www.tampabay.com/news/nation-world/2021/07/12/donald-trump-spins-tales-of-rigged-election-hints-at-2024-comeback/"
-    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/07/12/donald-trump-spins-tales-of-rigged-election-hints-at-2024-comeback/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/07/12/donald-trump-spins-tales-of-rigged-election-hints-at-2024-comeback/?outputType=amp"
+  - title: "Trump files lawsuit against tech giants, claiming bias"
+    excerpt: "Rough Cuts Trump files lawsuit against tech giants, claiming bias. Posted . Former U.S. President Donald Trump on Wednesday said he was filing lawsuits against Twitter, Facebook,"
+    publishedDateTime: 2021-07-07T19:04:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEKUK7HB"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 90
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://www.tampabay.com/resizer/xiXplJQ99lHMzuHpS2mlY4CH2O0=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/AJ4VXADQKBO7ZLHPBKXHKXYCLM.jpg"
-        width: 800
-        height: 450
+      - url: "https://static.reuters.com/resources/r/?d=20210707&i=OVEKUK7HB&r=OVEKUK7HB&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Donald Trump’s lawyers might be penalized over Michigan election case"
-    excerpt: "A federal judge considering whether to order sanctions against some of former President Donald Trump's lawyers spent hours Monday drilling deeply into details about an unsuccessful lawsuit that challenged Michigan's 2020 election results."
-    publishedDateTime: 2021-07-13T00:33:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/?amp-content=amp"
+  - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
+    excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
+    publishedDateTime: 2021-07-01T23:29:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-attorney-general-federal-executions-20210701-vrhebadduregtkrdo7bymxqnfm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-attorney-general-federal-executions-20210701-vrhebadduregtkrdo7bymxqnfm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-attorney-general-federal-executions-20210701-vrhebadduregtkrdo7bymxqnfm-story.html?outputType=amp"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 90
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
     images:
-      - url: "https://thumb.spokesman.com/2wMKelDUbDC_6AMZQ5cXM4w6YWQ=/480x0/media.spokesman.com/photos/2021/07/12/60ecdafc1e46c.hires.jpg"
-        width: 480
-        height: 319
-        isCached: true
-  - title: "Did Trump Claim Victory on Election Night on a Whim?"
-    excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
-    publishedDateTime: 2021-07-13T21:35:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 90
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/c36/922/6a45ca95b1c282ffe479525e6e84bb9485-donald-trump-election-night.1x.rsocial.w1200.jpg"
+      - url: "https://www.chicagotribune.com/resizer/qv_zL1ReRhVqPI35o1IxBTm58ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DVCGUZMFRDKHZM6ECRYM6HOWBY.aspx"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Did Trump Really Claim Victory on Election Night on a Whim?"
-    excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
-    publishedDateTime: 2021-07-13T17:35:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+  - title: "Fact Check-Trump is not president, did not file cease and desist order for COVID-19 vaccines"
+    excerpt: "Posts saying former United States President Donald J. Trump is currently the president and signed a cease and desist order for the COVID-19 vaccines are false. Trump lost the election to Joe Biden and there are no records of Trump signing such an order."
+    publishedDateTime: 2021-06-29T17:33:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-cease-idUSL2N2OB21A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OB21A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OB21A"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 90
+      name: Reuters
+      domain: reuters.com
+    quality: 94
+  - title: "Legal experts foresee a NYC trial light on testimony from Trump Org. employees who'd otherwise invoke the 5th Amendment"
+    excerpt: "Prosecutors in Manhattan appear poised to bring charges against the Trump Organization. An indictment could raise the stakes for Trump."
+    publishedDateTime: 2021-07-01T01:57:00Z
+    webUrl: "https://www.businessinsider.com/trump-organization-trial-charges-manhattan-da-vance-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/c36/922/6a45ca95b1c282ffe479525e6e84bb9485-donald-trump-election-night.1x.rsocial.w1200.jpg"
+      - url: "https://i.insider.com/60dd2185cad1220011caf64b?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
-    excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"
-    publishedDateTime: 2021-07-12T02:14:00Z
-    webUrl: "https://www.ibtimes.com/trump-runaway-winner-gop-presidential-bet-2024-elections-cpac-poll-3249464"
-    ampWebUrl: "https://www.ibtimes.com/trump-runaway-winner-gop-presidential-bet-2024-elections-cpac-poll-3249464?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-runaway-winner-gop-presidential-bet-2024-elections-cpac-poll-3249464?amp=1"
+  - title: "Five takeaways from Donald Trump's rally in Sarasota"
+    excerpt: "Former President Donald Trump rallied his base in Sarasota on Saturday. Here are five takeaways from the event."
+    publishedDateTime: 2021-07-04T16:43:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/state/2021/07/04/donald-trump-rally-five-takeaways-sarasota/7845970002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/7845970002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/7845970002"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 88
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
-        width: 1024
-        height: 662
-        isCached: true
-  - title: "Election 2020 Aftermath: Penalties May Loom For Lawyers Who Pushed Pro-Trump Election Suit"
-    excerpt: "A federal judge is considering whether to penalize lawyers who signed a lawsuit that tried to decertify Joe Biden’s victory in Michigan."
-    publishedDateTime: 2021-07-12T23:11:00Z
-    webUrl: "https://www.ibtimes.com/election-2020-aftermath-penalties-may-loom-lawyers-who-pushed-pro-trump-election-suit-3250187"
-    ampWebUrl: "https://www.ibtimes.com/election-2020-aftermath-penalties-may-loom-lawyers-who-pushed-pro-trump-election-suit-3250187?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-aftermath-penalties-may-loom-lawyers-who-pushed-pro-trump-election-suit-3250187?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 80
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/12/houseofrep.jpeg"
-        width: 1200
-        height: 857
-        isCached: true
-  - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
-    excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."
-    publishedDateTime: 2021-05-29T11:37:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Donald Trump’s Business Empire Hit With Criminal Charges"
-    excerpt: "The former president’s company and longtime lieutenant have reportedly been indicted by a Manhattan grand jury."
-    publishedDateTime: 2021-07-01T01:15:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/fe3/871/9b178ca38eb0329c4ba9cd814277fcdc9a-trump-inditment.1x.rsocial.w1200.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/07/04/NSHT/d1735072-f278-40bf-afe2-c3c575b380f7-SAR-070421_TRUMP_RALLY_58.JPG?auto=webp&crop=4791,2695,x0,y289&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Trump Organization, CFO indicted on tax fraud charges"
-    excerpt: "Donald Trump’s company and its longtime finance chief were charged Thursday in what a prosecutor called a “sweeping and audacious” tax fraud scheme that saw the Trump executive allegedly receive more than $1."
-    publishedDateTime: 2021-07-01T18:07:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Organization-CFO-indicted-on-tax-fraud-16286277.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Organization-CFO-indicted-on-tax-fraud-16286277.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Organization-CFO-indicted-on-tax-fraud-16286277.php"
+  - title: "WEEK IN NEWS: Trump biz mess, ballot bungle, fight for life"
+    excerpt: "Trump troubles: The other shoe finally dropped Thursday in the Manhattan District Attorney’s probe of the Trump Organization. Allen Weisselberg, the top financial executive of former President Trump’s eponymous company,"
+    publishedDateTime: 2021-07-04T12:00:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-week-in-news-20210704-wrk3gdse6ffmjhiqg2rfwjcd6q-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/ny-week-in-news-20210704-wrk3gdse6ffmjhiqg2rfwjcd6q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-week-in-news-20210704-wrk3gdse6ffmjhiqg2rfwjcd6q-story.html?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: New York Daily News
+      domain: nydailynews.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/20/65/01/21188709/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.nydailynews.com/resizer/VYR5htNLVyY2tKGbGbGs6v4SjI8=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XTC37RPGEREDNPQQEDLGSYEA6Q.JPG"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Does Melania Live In Mar-A-Lago With Trump? New Book Reveals Details"
-    excerpt: "Former President Donald Trump and his wife Melania may not be living together in his Mar-a-Lago resort in Florida, a forthcoming book by American journalist Michael Wolff says. In Wolff’s forthcoming book “Landslide: The Final Days of the Trump Presidency,"
-    publishedDateTime: 2021-07-06T03:20:00Z
-    webUrl: "https://www.ibtimes.com/does-melania-live-mar-lago-trump-new-book-reveals-details-3244159"
-    ampWebUrl: "https://www.ibtimes.com/does-melania-live-mar-lago-trump-new-book-reveals-details-3244159?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/does-melania-live-mar-lago-trump-new-book-reveals-details-3244159?amp=1"
+  - title: "Trump scores $10K-a-month payout for Secret Service rooms at N.J. resort"
+    excerpt: "Former President Trump reportedly scored more than $10,000 in May for housing Secret Service agents at his plush golf resort in the heart of New Jersey’s horse country. The Department of Treasury paid $10,"
+    publishedDateTime: 2021-07-08T21:40:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Melania Trump Spotted In NYC Despite Efforts To Avoid Being Photographed"
-    excerpt: "Melania Trump was spotted in New York City for the first time since the Trumps left the White House in January."
-    publishedDateTime: 2021-07-08T02:02:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: New York Daily News
+      domain: nydailynews.com
     quality: 74
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg"
+      - url: "https://www.nydailynews.com/resizer/eia5vtqKzPotHD9eEvLYNiG5yBk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZM7TPQGFWZAGLFIHZF6ACO4GJQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Real Story Behind Trump's Tweet Praising China For Its COVID-19 Response"
+    excerpt: "In the tweet, which was later deleted, Trump praised the Chinese government for its \"effort and transparency\" amid the COVID-19 pandemic."
+    publishedDateTime: 2021-07-01T04:09:00Z
+    webUrl: "https://www.ibtimes.com/real-story-behind-trumps-tweet-praising-china-its-covid-19-response-3240079"
+    ampWebUrl: "https://www.ibtimes.com/real-story-behind-trumps-tweet-praising-china-its-covid-19-response-3240079?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/real-story-behind-trumps-tweet-praising-china-its-covid-19-response-3240079?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-l-and-chinas-president.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump ally launches election audit plan in Pennsylvania"
-    excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state’s 2020 election."
-    publishedDateTime: 2021-07-10T13:44:00Z
-    webUrl: "https://www.modbee.com/news/business/article252620863.html"
-    ampWebUrl: "https://amp.modbee.com/news/business/article252620863.html"
-    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/business/article252620863.html"
+  - title: "Trump plans for Alabama battleship park rally sparks controversy, governor says she didn’t stop event"
+    excerpt: "Former President Donald Trump was supposed to hold a rally on July 3 at the USS Alabama Battleship Memorial Park. But the park's commissioners, expressing concerns over the legality of having a campaign rally on the state-owned property next to federally-owned military equipment,"
+    publishedDateTime: 2021-06-29T23:32:00Z
+    webUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html"
+    ampWebUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
     type: article
     provider:
-      name: Modesto Bee
-      domain: modbee.com
-    quality: 70
-  - title: "Trump Lawyers Might Be Penalized Over Michigan Election Case"
-    excerpt: "A federal judge in Detroit is considering whether to order financial penalties and other sanctions against some of former President Donald Trump’s lawyers."
-    publishedDateTime: 2021-07-12T19:11:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Trump Organization CFO Expected in Court After Indictment"
-    excerpt: "New York prosecutors are expected to announce the first criminal indictment in a two-year investigation into Donald Trump’s business practices, accusing his namesake company and its longtime finance chief of tax crimes related to fringe benefits for employees."
-    publishedDateTime: 2021-07-01T05:08:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Organization, CFO Plead Not Guilty To Tax Crimes"
-    excerpt: "Donald Trump's company and its long-serving finance chief pleaded not guilty in a New York court Thursday after they were charged with fraud and tax crimes, in a major blow to the former president. The 15 felony counts were the first charges in an almost three-year investigation by the Manhattan district attorney into the financial dealings of the vast real estate-to-golf course business that propelled Trump to fame."
-    publishedDateTime: 2021-07-02T06:47:00Z
-    webUrl: "https://www.ibtimes.com/trump-organization-cfo-plead-not-guilty-tax-crimes-3240673"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: al.com
+      domain: al.com
+    quality: 60
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/28/then-president-donald-trump-along-with-his-son.jpg"
-        width: 1024
-        height: 705
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MFFFSJFDHZDXDDOXHXQ2BR2XNU.JPG"
+        width: 2305
+        height: 1528
         isCached: true
-  - title: "See Donald Trump lie 12 times during Fox interview"
-    excerpt: "CNN anchors fact check Former President Trump's 12 lies during a single Fox News interview. The fallacies were pointed out by CNN's Marshall Cohen reporting."
-    publishedDateTime: 2021-07-12T14:21:00Z
-    webUrl: "https://www.delcotimes.com/news/national/see-donald-trump-lie-12-times-during-fox-interview/video_6e7a6e5f-b25e-5986-a331-13df32bbd6ab.html"
-    ampWebUrl: "https://www.delcotimes.com/news/national/see-donald-trump-lie-12-times-during-fox-interview/video_6e7a6e5f-b25e-5986-a331-13df32bbd6ab.amp.html"
-    cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/news/national/see-donald-trump-lie-12-times-during-fox-interview/video_6e7a6e5f-b25e-5986-a331-13df32bbd6ab.amp.html"
-    type: article
-    provider:
-      name: Delaware County Daily Times
-      domain: delcotimes.com
-    quality: 55
-  - title: "Trump-Allied Lawmaker Opens Pennsylvania Election Audit Plan"
-    excerpt: "A Pennsylvania state senator who has helped spread former President Donald Trump’s falsehoods about fraud in last year’s presidential election says he's asking several counties to submit to a “forensic investigation” of the 2020 election and May’s primary election."
-    publishedDateTime: 2021-07-07T14:48:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-07/trump-allied-lawmaker-opens-pennsylvania-election-audit-plan"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 50
-  - title: "Trump Hasn't Endorsed in Pennsylvania Gov's Race, Aide Says"
-    excerpt: "A senior adviser to Donald Trump is taking to Twitter to stress that the former president has made no endorsement of anyone to become governor of Pennsylvania."
-    publishedDateTime: 2021-05-20T21:26:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-05-20/trump-hasnt-endorsed-in-pennsylvania-govs-race-aide-says"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Feds: Pennsylvania Man Faked Trump Family Personas in Fraud"
-    excerpt: "A Pennsylvania man has been charged with creating fake online identities for ex-President Donald Trump's brother and son to dupe hundreds of people nationwide into donating to his phony political organization."
-    publishedDateTime: 2021-06-08T22:58:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/feds-pennsylvania-man-faked-trump-family-personas-in-fraud"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Analysis-Serious Tax Charges Test Loyalty of Longtime Trump Ally"
-    excerpt: "Trump Organization chief financial officer Allen Weisselberg exits after his arraignment hearing in New York State Supreme Court in the Manhattan borough of New York City, New York, U.S.,. REUTERS/Brendan McDermid Reuters (Reuters) - The sweeping tax-fraud indictment unsealed on Thursday against Donald Trump's longtime accountant Allen Weisselberg threatens the 73-year-old executive with years in prison and puts heavy pressure on him to implicate the former U."
-    publishedDateTime: 2021-07-02T00:58:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-01/analysis-serious-tax-charges-test-loyalty-of-longtime-trump-ally"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Arizona Secretary of State Seeks Probe of Trump Allies"
-    excerpt: "Arizona's Democratic secretary of state is asking the Republican state attorney general to investigate whether former President Donald Trump and his allies broke the law in their efforts to pressure Maricopa County officials after the 2020 election."
-    publishedDateTime: 2021-07-08T00:32:00Z
-    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2021-07-07/arizona-secretary-of-state-seeks-probe-of-trump-allies"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Anti-Trump Republican Enters Pennsylvania's Race for Senate"
-    excerpt: "A one-time top aide to the late former U.S. Sen. Arlen Specter and a longtime lobbyist and political consultant from Philadelphia will run for U.S. Senate as an anti-Trump Republican."
-    publishedDateTime: 2021-07-28T17:34:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-28/anti-trump-republican-enters-pennsylvanias-race-for-senate"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "VQjsCIc2CESwfG0bZWXIp+mWyXME56C8TB2iuWfwAKNWUk5hDH2HXRTkiQZLab65wX/OgRJUjchHtP2uAcGuAYIaRCaL2lSp83aqPTrgv81CCtBzvsFc0jmgyAokYzXSMbA2PKg9TSkoTRVp8zajsI30urgOB1odwBiU2SkeOIcNcV7h8m2RYSQm4aCrY8X70UJJ82zWao0E+WG5VPVpt4n9SZpsfznuEPKaJqlWb8rE9L7yms1F/iZUXCfN6lB3U78Aa9gZQXO3yEjvPTzIGHBvL9+Zqn7sRv0hHN3ppN1Eu7eq4W6Z0yHASeTWbkz3oRXz1YhzkqvL3Gu7cUBORouLL6/PdIPiGdpseRif0K8=;+/NiRTWs/HWMtcssDS73JA=="
 ---

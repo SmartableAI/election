@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
 type: article
 quality: 120
-heat: -1
-published: false
+heat: 160
+published: true
 
 provider:
   name: The Guardian
@@ -31,107 +31,36 @@ images:
     isCached: true
 
 related:
-  - title: "Sarah Huckabee Sanders Says Biden 'Undercut Public Confidence' in Vaccine by Criticizing Trump Rollout"
-    excerpt: "\"Because of what they heard from politicians and TV 'experts,' many Americans were scared the vaccines were not safe,\" she said in an op-ed."
-    publishedDateTime: 2021-07-25T20:47:00Z
-    webUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909"
-    ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
+  - title: "'I recommend you take the vaccine' - Donald Trump"
+    excerpt: "Rough Cuts 'I recommend you take the vaccine' - Donald Trump. Posted . Former U.S. President Donald Trump on Saturday in Arizona called on American's to get the COVID-19 vaccine s"
+    publishedDateTime: 2021-07-26T20:00:00Z
+    webUrl: "https://www.reuters.com/video/watch/i-recommend-you-take-the-vaccine-donald-idOVENCFP3Z"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 134
-    images:
-      - url: "https://d.newsweek.com/en/full/1854592/sarah-huckabee-sanders-writes-op-ed.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Joe Biden says he's self-conscious as president"
-    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
-    publishedDateTime: 2021-07-22T13:48:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Joe Biden’s Afghan pullout could end in tragedy"
-    excerpt: "On his recent trip to Europe, Joe Biden lost no opportunity to proclaim “America is back”. But actions speak louder than words. In Afghanistan, America is out. The consequences could be tragic for the country and dangerous for the US and the wider world."
-    publishedDateTime: 2021-07-26T13:18:00Z
-    webUrl: "https://www.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    ampWebUrl: "https://amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4615aa1e-6309-43f8-ae8d-3f008989acb3.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Biden will let a Trump-era eviction ban expire in 2 days, jeopardizing the homes of 6 million renters"
-    excerpt: "The White House said its hands were tied due to a Supreme Court ruling. Democrats were ramping up pressure for the administration to step in."
-    publishedDateTime: 2021-07-29T15:04:00Z
-    webUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/60957bf234af8d001859c10e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden confirms: Veterans Affairs to mandate vaccine"
-    excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"
-    publishedDateTime: 2021-07-26T21:53:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/26/biden-confirms-veterans-affairs-mandate-vaccine/5380006001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d5427fa-e76f-4d57-ad5a-c419ce110318_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://static.reuters.com/resources/r/?d=20210725&i=OVENCFP3Z&r=OVENCFP3Z&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Biden: Federal worker vaccines being considered"
-    excerpt: "President Joe Biden says that requiring all federal workers to get vaccinated against COVID-19 is “under consideration,\" as the delta variant spreads across the U.S. and Americans still refuse the shot."
-    publishedDateTime: 2021-07-27T22:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/27/biden-federal-worker-vaccines-being-considered/5394428001/"
+  - title: "Biden Should 'Recruit' Trump To Help Get More Americans Vaccinated: Kudlow"
+    excerpt: "Larry Kudlow also called on Twitter and Facebook to restore Trump's access to his social media accounts, which were suspended following the deadly Capitol riot."
+    publishedDateTime: 2021-07-28T02:02:00Z
+    webUrl: "https://www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999"
+    ampWebUrl: "https://www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 88
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b0bf25cb-6509-418b-b8c1-f47be2d36386_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-donald-trump-announced-he-will-not-attend.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Biden in Trump-Supporting Ohio to Tout Vaccines, Infrastructure Spending"
-    excerpt: "The fate of a $1.2 trillion bipartisan infrastructure deal, one of the president's top priorities, is also uncertain in Congress where Democrats hold slim majorities. The Cincinnati event gives Biden,"
-    publishedDateTime: 2021-07-22T00:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-21/biden-in-trump-supporting-ohio-to-tout-vaccines-infrastructure-spending"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "T5rWrmHHYXDSzy1QoQw3rZfqgp9OHbUHYd8xiNF001hdDCXgLkYtSEKsdIrfLZ7X0LVKdB2g4veamSlN31bNyWH8MMhyuURzaiNoG70tIVLvOkOC3xjO6aLO9JeQa3h8O4Vo8QKaoT8a9KvcQrxbCqVNU4IaEK0BYBoPZaHIth03T5PpzelDTOcR93EQ4gev3jSaEt8PkQIwj9JzD//nyugEVSum8/EdTNVwXcWFUm/6f/fXUGDEZqYCvEsXLWgpIPkJ9qinYQY1ggZ9aRb8vw/dQ5/r9bsbOUJZsxX1QI01p2HExpKUDNS0+765Vo8prLSaCS7y5Sk5NdRs/wN6NxXUM11vxdYSjfNM1zb2lxRsESt4LjTxuAkk4cLLpuLL1xqSvsd0adbAiREF/VuUCWEbG0hYHXODTVTiFnFRZlkrOr2jzTDkLpTiPVe2Re1TJ920eMkRI2qIisWpknA+c0iuMSi0fafV5D+vxjKSTtmP1aexS8RFvynpVdByIZg17zE1pH4yfh4ADsWrnrvOlA==;LrgkAow0p2P6XG9sLC00kg=="
 ---

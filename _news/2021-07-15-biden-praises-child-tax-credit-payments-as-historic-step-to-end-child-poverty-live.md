@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden says he's self-conscious as president"
+    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
+    publishedDateTime: 2021-07-22T13:48:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden praises child tax credit payments as ‘historic’ step to end child poverty – live"
     excerpt: "Biden says – follow all the latest politics news"
     publishedDateTime: 2021-07-15T19:21:00Z
@@ -107,20 +123,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden signs bill bolstering the Crime Victims Fund"
-    excerpt: "President Joe Biden signed a bipartisan bill Thursday to strengthen the Crime Victims Fund, which helps to support victims of domestic violence, sexual assault and other crimes. The bill passed unanimously in the Senate Tuesday,"
-    publishedDateTime: 2021-07-22T22:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/22/biden-signs-bill-bolstering-crime-victims-fund/8063939002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1d5e379-0e26-4c8e-a073-e983227456ef_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "3 takeaways from President Joe Biden's CNN town hall"
     excerpt: "President Joe Biden took questions from Ohioans on Wednesday at a CNN town hall, touching on his administration response to Covid-19, his work with Congress and many other issues."
     publishedDateTime: 2021-07-22T01:23:00Z
@@ -163,15 +165,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "No, Joe Biden doesn’t want to ban handguns"
-    excerpt: "When President Joe Biden was asked in his Ohio town hall what he plans to do about rising homicides, House Republicans were quick to fire off a tweet to their followers. \"President Biden says he wants to ban handguns,"
-    publishedDateTime: 2021-07-22T20:31:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/jul/22/national-house-republicans/no-joe-biden-doesnt-want-ban-handguns/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 35
 
 secured: "VJAvHwkpfD8Xu9hl0DKBBEwYD3XH2b1W9OWJOClRvekH2NIVW+8mWutJqQZgopHcjiGz3Tbv4YMRlQQ4e27UwrGCk3ag5G35GJX4feL2nxtUFnfy79p6ynEnSuMUtTXKu0g0VPNy7VDOL0LkFGPGHhFrWtkLgApnwR7dNNYG9i8rdUt1c319sGXyJjSrzQRmnV/LUEIhCOTlV10isp/DpL7ABf+HlEdj/88Zslp9Bs5794DSSgmsLJmS6/9mwV4fxr+Qp0WOW8qtbwE7CyDFlOqHy6Uenow+CYfJ8E1srF1ci2qmSvNrJzr2ddN1wc+gB7OUau6SzS1ELDS1wjMJo7HTe3G1qej4zuhZCuebeI8=;772uK0g0P5RcmCMQLSykqA=="
 ---

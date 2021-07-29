@@ -29,85 +29,67 @@ images:
     isCached: true
 
 related:
-  - title: "Sarah Huckabee Sanders Says Biden 'Undercut Public Confidence' in Vaccine by Criticizing Trump Rollout"
-    excerpt: "\"Because of what they heard from politicians and TV 'experts,' many Americans were scared the vaccines were not safe,\" she said in an op-ed."
-    publishedDateTime: 2021-07-25T20:47:00Z
-    webUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909"
-    ampWebUrl: "https://www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sarah-huckabee-sanders-says-biden-undercut-public-confidence-vaccine-criticizing-trump-rollout-1612909?amp=1"
+  - title: "Fact Check: Did Joe Biden Spread Misinformation on COVID Vaccines?"
+    excerpt: "The president claimed at a CNN town hall that people vaccinated against COVID do not get hospitalized, need ICU treatment, or die because of the disease."
+    publishedDateTime: 2021-07-22T15:50:00Z
+    webUrl: "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181"
+    ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 134
-    images:
-      - url: "https://d.newsweek.com/en/full/1854592/sarah-huckabee-sanders-writes-op-ed.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Joe Biden says he's self-conscious as president"
-    excerpt: "Joe Biden said that he has felt self-conscious in the role of president, in a town hall hosted by CNN in Ohio. \"The first time I walked down the stairs and they played Hail to the Chief I said, 'Where is he?"
-    publishedDateTime: 2021-07-22T13:48:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57924435?at_custom2=twitter&at_custom4=BEE329C2-EA94-11EB-A7"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57924435.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57924435.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
     quality: 125
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DB/production/_119534862_hi068723882.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d.newsweek.com/en/full/1852446/president-joe-biden-cnn-town-hall-covidvaccine.jpg"
+        width: 2500
+        height: 1670
         isCached: true
-  - title: "Joe Biden’s Afghan pullout could end in tragedy"
-    excerpt: "On his recent trip to Europe, Joe Biden lost no opportunity to proclaim “America is back”. But actions speak louder than words. In Afghanistan, America is out. The consequences could be tragic for the country and dangerous for the US and the wider world."
-    publishedDateTime: 2021-07-26T13:18:00Z
-    webUrl: "https://www.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    ampWebUrl: "https://amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/68283a90-0b40-43fa-9554-0b2ef76f23b5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4615aa1e-6309-43f8-ae8d-3f008989acb3.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Biden will let a Trump-era eviction ban expire in 2 days, jeopardizing the homes of 6 million renters"
-    excerpt: "The White House said its hands were tied due to a Supreme Court ruling. Democrats were ramping up pressure for the administration to step in."
-    publishedDateTime: 2021-07-29T15:04:00Z
-    webUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-eviction-ban-expiration-trump-6-million-renters-2-days-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/60957bf234af8d001859c10e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’"
-    excerpt: "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks"
-    publishedDateTime: 2021-07-27T13:00:00Z
-    webUrl: "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+  - title: "Biden expected to announce vaccine mandate for US federal employees – live"
+    excerpt: "President to deliver an update on his administration’s Covid vaccination campaign – follow all the latest"
+    publishedDateTime: 2021-07-29T13:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 120
+    quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/699629989a3abb0f158a0982c38aa36cdc03c78b/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0b46b53cdbfcb6db94a57599466617b"
+      - url: "https://i.guim.co.uk/img/media/2e6cd0b1d2053267babbd368d88999cc26867835/0_359_5520_3312/master/5520.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b87d4720c2b9a08baf8ef517de042faf"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden administration offers new aid for mortgage borrowers at risk of foreclosure due to COVID-19 pandemic"
+    excerpt: "The new assistance will reduce monthly principal and interest payments by about 25% for homeowners with certain federally-backed loans."
+    publishedDateTime: 2021-07-23T15:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/23/covid-19-joe-biden-offers-new-aid-mortgage-borrowers-risk-foreclosure/8068436002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8068436002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8068436002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/USAT/c222758a-82e2-473d-9d80-155527a55e64-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'They've seen the Lord:' Biden on conservatives and vaccines"
+    excerpt: "Biden on conservatives and vaccines. Posted . President Joe Biden tested his political muscle in the state of Virginia on Friday in a campaign"
+    publishedDateTime: 2021-07-24T18:28:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEN7FXZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210724&i=OVEN7FXZZ&r=OVEN7FXZZ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Biden confirms: Veterans Affairs to mandate vaccine"
     excerpt: "President Joe Biden confirmed Monday the Department of Veterans Affairs has became the first major federal agency to require its health care workers to get COVID-19 vaccines. (July 26)"
@@ -123,15 +105,36 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden in Trump-Supporting Ohio to Tout Vaccines, Infrastructure Spending"
-    excerpt: "The fate of a $1.2 trillion bipartisan infrastructure deal, one of the president's top priorities, is also uncertain in Congress where Democrats hold slim majorities. The Cincinnati event gives Biden,"
-    publishedDateTime: 2021-07-22T00:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-21/biden-in-trump-supporting-ohio-to-tout-vaccines-infrastructure-spending"
+  - title: "Biden will require federal employees be vaccinated or tested -CNN"
+    excerpt: "U.S. President Joe Biden will announce on Thursday a requirement that all federal employees and contractors be vaccinated against COVID-19 or be required to submit to regular testing, CNN reported on Tuesday,"
+    publishedDateTime: 2021-07-27T20:12:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-will-require-federal-employees-be-vaccinated-or-tested-cnn-2021-07-27/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/n2ZGxf3q3rDwlPNlCLlhi4OV6i8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VTU4Z7K4ZNXZCCBEXPE4DLLZA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
+    excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
+    publishedDateTime: 2021-07-22T01:33:00Z
+    webUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/07/president-joe-biden-stresses-importance-of-coronavirus-vaccination-touts-infrastructure-plan-at-cincinnati-town-hall.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 52
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WNUXM57P7NCJDI2KZNIRYSBABI.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "CeJPGRv35fazzj0SQq07+PaRvfNhSSy29iQnXAj2vQxI6oNBLEvrT4okN1KLqdBmctfvucCc6HOiPXDm/F+AOQiwknJeheOz17UDYUby+3hMoxiaM/lsf/N7vQoIMZUG9K6eQI+7WNGtvDvXzzkBvb4ni1vJAINXuBANGJUuznzUDOJKQ3Z03w49fhhbT78O9pkcKUFI3y8Aha267Wxqeklo2X7JfzbIXC2KodiBjU8xsAXJu6K77NzvnyMM5rPF1iXrFwi3ZMTPqvwo8iS60Nit1CVJd6R+abNAMuUp0t8OvHYN5soVPTHOpRQp7MsNX3IfLx7GO/ppdQlBqdi8HI15oXDZcthQ7pQpurNCMWA=;a49+V8OnxDuuXVLd+//22Q=="
 ---

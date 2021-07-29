@@ -281,22 +281,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
-    excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
-    publishedDateTime: 2021-03-31T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "GOP senator says bipartisan infrastructure group wants to double Biden's spending on roads and bridges"
     excerpt: "Sen. Bill Cassidy, a Republican on the Senate Finance Committee, indicated another major infrastructure plan was being drafted by lawmakers searching for another option besides President Joe Biden's $2.3 trillion proposal. \"I'll be meeting with governors ..."
     publishedDateTime: 2021-04-13T21:46:00Z

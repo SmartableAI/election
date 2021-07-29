@@ -57,6 +57,15 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden in Trump-Supporting Ohio to Tout Vaccines, Infrastructure Spending"
+    excerpt: "The fate of a $1.2 trillion bipartisan infrastructure deal, one of the president's top priorities, is also uncertain in Congress where Democrats hold slim majorities. The Cincinnati event gives Biden,"
+    publishedDateTime: 2021-07-22T00:02:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-21/biden-in-trump-supporting-ohio-to-tout-vaccines-infrastructure-spending"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "VI2IkplCxCQbpcw88XN3YjfxKvB7ymyzcMybi0l0FCoi3wI/XloWW6T9aKEREN+27SliI0SUy7OW2AYF3Xe4+3V6j4DykB7PLL6mQ6lJ93AHfi7G8m1S+I1BNtaheOe3aRpD4B45BkmVFrhUWOxN3elZ+rYG0L2PizB6Qqqfj61x+heHqozphd1MBO33TPYYS+T9rHyeqxrhDtUat0jZPNSgZmFHfRbJaa0PNiE3r3dCbx2WeErVGDpzoYVxhS1pz7el3VvViOfgLujNj3azrTmLSyvosGMrtnuKwGRcDeokbqj6lBcu79fZZOs3n92Xz95bAyoNXZhIrg9ZTqV9edg6koh3SQlqVcGelVVoWrZpYGDTylJKy8nu/jMMKnpVvRg0HMPBAIThSsboaocZFEfIqq6xogdcyt3aqSIAIXfuxlm5G1P5yxw3kio1ufUXESECRkP8q5dDRVNqj9BSy1v28KvP5YkG9icdnMbeD64KOTzwnoA8itnhjC6w63N3J274+zGlDQvW7FtwQCC0yw==;N25v/HQ/XIDisvvZScNsYw=="
 ---

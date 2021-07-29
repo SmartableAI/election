@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump wanted to chop up and sell off Mar-a-Lago's grounds in the '90s. This is how preservationists and officials stopped him."
-    excerpt: "Donald Trump attempted to subdivide his Mar-a-Lago property and build mansions, but a group of preservationists had other ideas."
-    publishedDateTime: 2021-07-04T11:09:00Z
-    webUrl: "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp"
+  - title: "Trump, fighting to toss out subpoena, offered to give House Democrats peek at financial statements"
+    excerpt: "Two-year fight for accounting records returns to federal court as Congress says eight bills could be influenced by Trump data"
+    publishedDateTime: 2021-07-02T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
     images:
-      - url: "https://i.insider.com/609e546d67e41a0018622095?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F7YGZZW2X4I6XG53G7BQ3T4TMM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "XLSDgP1aLVn2DiP+4d+zIa2UCeZ3/lU/4PCRr4VaWGzne8RH1uwg1Z4/RELnnOc5Ki16rj5+1lzm0BAWdgo4W3vONRB4kzELsOogLCtAGdwl2So+gKObh1p5TpcxfelyAv9DWknGA3I5DdSnK6PPR6JbHvs87tXSuAPPqYpny/gD9sNDmIUBlJN0OSPC94g+4K7w+2Dwev5atas2ffxRPObYy1/AbX+SuiTa+F2IbHqqtFyD98xpT+OZwRPwi4/gKSRslvwDBPq32Slia42D5i389An7MKHes/prI7FVCks6Z6bBKwDbUEuLuKxXKPf6deadOtJr5YWDb86YXjI/qMY4fthxoocCSJz8P9/F+4Q=;DXCWHDId0ShrM55RNjDZtA=="

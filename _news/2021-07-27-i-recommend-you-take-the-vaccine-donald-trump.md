@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/video/watch/i-recommend-you-take-the-vacci
 webUrl: "https://www.reuters.com/video/watch/i-recommend-you-take-the-vaccine-donald-idOVENCFP3Z"
 type: article
 quality: 105
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Charlie Kirk’s pro-Trump youth group stokes vaccine resistance as covid surges again"
-    excerpt: "Charlie Kirk’s Turning Point USA and its affiliates are urging students to resist mandates and spreading baseless claims about “medical raids,” part of a bid for donations."
-    publishedDateTime: 2021-07-29T13:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/"
+  - title: "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’"
+    excerpt: "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks"
+    publishedDateTime: 2021-07-27T13:00:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 98
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TIVJHDHUOYI6VN4WFXIJSYTETQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.guim.co.uk/img/media/699629989a3abb0f158a0982c38aa36cdc03c78b/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0b46b53cdbfcb6db94a57599466617b"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden Should 'Recruit' Trump To Help Get More Americans Vaccinated: Kudlow"
     excerpt: "Larry Kudlow also called on Twitter and Facebook to restore Trump's access to his social media accounts, which were suspended following the deadly Capitol riot."
