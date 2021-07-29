@@ -224,6 +224,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Republican fund-raising this year has a singular focus: Trump."
+    excerpt: "Even in defeat, nothing sells in the Republican Party quite like Donald J. Trump. The Republican National Committee has been dangling a “Trump Life Membership” to entice small contributors to give online. The party’s Senate campaign arm has been ..."
+    publishedDateTime: 2021-07-28T18:22:00Z
+    webUrl: "https://www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/27/lens/28political-briefing-trumpmoney/merlin_190655607_21174e18-b8b0-4944-b14f-fe1667df1d0a-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
     excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
     publishedDateTime: 2021-07-27T01:41:00Z

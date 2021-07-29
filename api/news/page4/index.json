@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-22-psaki-insists-biden-not-pushing-critical-race-theory-says-curriculum-left-to-local-schools.md",
+      "title": "Psaki insists Biden not pushing critical race theory, says curriculum left to local schools",
+      "excerpt": "White House press secretary Jen Psaki insisted Thursday that the Biden administration is not pushing critical race theory in schools after it promoted a radical activist group’s handbook in its official reopening guidance, which she said was in \"error.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4gRIE1qhK4/psaki-biden-critical-race-theory-curriculum-local-schools",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4gRIE1qhK4/psaki-biden-critical-race-theory-curriculum-local-schools",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99373ae6-ea57-4fd2-a674-4e4db41aa345/cecf2f3a-1d7a-4aed-bd32-64d84797edad/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-critical-race-theory-curriculum-local-schools.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-critical-race-theory-curriculum-local-schools.amp",
+      "publishedDateTime": "2021-07-22T11:58:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-democrats-rally-for-biden-public-lands-pick-despite-scrutiny-from-republicans.md",
       "title": "Democrats rally for Biden public lands pick despite scrutiny from Republicans",
       "excerpt": "A bitterly divided U.S. Senate panel deadlocked Thursday on President Joe Biden’s pick to oversee vast government-owned lands in the West.",
@@ -719,7 +775,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1304,62 +1360,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-outraged-pro-life-catholics-call-for-protests-over-biden-appearance-at-a-catholic-university.md",
-      "title": "Outraged pro-life Catholics call for protests over Biden appearance at a Catholic university",
-      "excerpt": "Catholics and pro-life advocates are speaking out against President Biden’s Wednesday night appearance at a Catholic university in Cincinnati, Ohio and urging protesters to show up at the event.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uXZUV5NewLM/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uXZUV5NewLM/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86ae3c04-708c-4604-af91-a66a48c0b01e/ac37f069-d35a-429e-b439-c6e33a5c9bac/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests.amp",
-      "publishedDateTime": "2021-07-21T13:40:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

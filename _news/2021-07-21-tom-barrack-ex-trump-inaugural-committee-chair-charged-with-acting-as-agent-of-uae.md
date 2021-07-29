@@ -159,22 +159,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Appeals court: Arbitration won't shield Trump from lawsuit"
-    excerpt: "A federal appeals court says former President Donald Trump and his three eldest children can't force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted"
-    publishedDateTime: 2021-07-28T21:55:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "At 98 and facing cancer, Bob Dole reckons with legacy of Trump and ponders future of GOP"
     excerpt: "\"I'm a Trumper,\" said Dole, the only former GOP presidential nominee to attend Trump's convention in 2016. But he added, \"I'm sort of Trumped out.\""
     publishedDateTime: 2021-07-22T17:29:00Z
@@ -390,6 +374,22 @@ related:
     provider:
       name: Westport News
       domain: westport-news.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Appeals court: Arbitration won't shield Trump from lawsuit"
+    excerpt: "Former President Donald Trump and his three eldest children can’t force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted, an appeals court ruled Wednesday."
+    publishedDateTime: 2021-07-28T22:28:00Z
+    webUrl: "https://www.chron.com/news/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

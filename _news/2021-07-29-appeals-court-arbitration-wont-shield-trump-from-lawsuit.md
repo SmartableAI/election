@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Appeals court: Arbitration won't shield Trump from lawsuit"
-excerpt: "A federal appeals court says former President Donald Trump and his three eldest children can't force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted"
-publishedDateTime: 2021-07-28T21:55:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
-webUrl: "https://abcnews.go.com/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/appeals-court-arbitration-shield-trump-lawsuit-79127134"
+excerpt: "Former President Donald Trump and his three eldest children can’t force a lawsuit into arbitration that was brought by people who felt cheated by a business he promoted, an appeals court ruled Wednesday."
+publishedDateTime: 2021-07-28T22:28:00Z
+originalUrl: "https://www.chron.com/news/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+webUrl: "https://www.chron.com/news/article/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+ampWebUrl: "https://www.chron.com/news/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Appeals-court-Arbitration-won-t-shield-Trump-16347148.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -406,6 +402,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "JBCl+Dd6iSUDi6Qd0zptRbhMDmEMYXyzLUvmyekH9d3G38c0FQd2pBiFs+sWsptQoZu0xb7UeLORsVHykHrT9KSHwHDT4VE/e75aLpJZik3fl3ccuL/eae5XzKjq7e9orqt1yXz1aXNu6yMbUZCm+VHKd5jK8jnevckJuJMWrj4vNSWMFUl3wZKj/rAdh4N4Br+PpNggBsvlql7pvLz3d4/TCwVXFpX1vfWIFTcQEh7z6MLh3DbkTBTxpUTjALDoXmc/KDNR6T5aNJEXWr2JQ+u/QZbeHHUTbhVaAgwoXlHk1f+2ZmzVDzjFcNl+/JcYg9gmg/ZBkEg4L1Yxmr+t1aGNeQJgf5SIvbFdwo1ZTqk=;MqDaE/ZUKl63aQBxNDpRyA=="
+secured: "A32uK11b0g4ca5mUgdpBVKlzazl/Uf0qGT7NHy5Vpw8f9EPquoBa5jmHzts+25S2r4vU8ka0Oxw2RlhgAkLWy76n5VmDTh+2iRFm5jtbzlV/M9Ho1DprWSYpQHBEpkVFzKCu+WskWLMt2+FGrNM0qAIZE/EXqnhM0+Wo285bSJSi9cTWhXszufjZoWI36EZRa2HM+rgMXo28SK8dA65xrwi86TiqylH1u8CF4H/ScNtee55ZL0BSGQKxTzgwO+3dykb5BMS2qFKEmGjyNpe81fmWCSkh/xmlmoicQ8OpIq/l7/9PkHsg8fdMdmEny7F515zsKqc8CHGsWFaT0218ptPqGozl8uFDQiHjACDdj1U=;a7QIo1TU+r4CfS983cCqUQ=="
 ---
 

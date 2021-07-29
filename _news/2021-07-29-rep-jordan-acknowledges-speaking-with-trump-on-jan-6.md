@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
-excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
-publishedDateTime: 2021-07-28T00:55:00Z
-originalUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
-webUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
+title: "Rep. Jordan acknowledges speaking with Trump on Jan. 6"
+excerpt: "The Ohio Republican’s comments during a television interview make it more likely he will be called as a witness by the House select committee probing the attack on the Capitol by a pro-Trump mob."
+publishedDateTime: 2021-07-28T18:20:00Z
+originalUrl: "https://www.washingtonpost.com/powerpost/rep-jordan-appears-to-acknowledge-speaking-with-trump-on-jan-6/2021/07/28/63f358d4-efa3-11eb-a452-4da5fe48582d_story.html"
+webUrl: "https://www.washingtonpost.com/powerpost/rep-jordan-appears-to-acknowledge-speaking-with-trump-on-jan-6/2021/07/28/63f358d4-efa3-11eb-a452-4da5fe48582d_story.html"
 type: article
-quality: 95
+quality: 105
 heat: -1
 published: false
 
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OMZ2YJHPUYI6XJCSJWS74SCYFU.jpg&w=1440"
     width: 1440
     height: 960
     isCached: true
@@ -137,17 +137,17 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Rep. Jordan acknowledges speaking with Trump on Jan. 6"
-    excerpt: "The Ohio Republican’s comments during a television interview make it more likely he will be called as a witness by the House select committee probing the attack on the Capitol by a pro-Trump mob."
-    publishedDateTime: 2021-07-28T18:20:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/rep-jordan-appears-to-acknowledge-speaking-with-trump-on-jan-6/2021/07/28/63f358d4-efa3-11eb-a452-4da5fe48582d_story.html"
+  - title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
+    excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
+    publishedDateTime: 2021-07-28T00:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
+    quality: 95
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OMZ2YJHPUYI6XJCSJWS74SCYFU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -276,6 +276,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "9/lFBx9j/VYTkpciFPbfajsnwBoQrttfp3JGMKZJQoJqTCa2wpl55V9dPWt1Y0Fp3jxwf7uXQ08q/BdMmbJlV3HQYz+MVg+B2JqgsPuFuLs/ae0Vtv8T7VM7dDsT5a5XTUhIAOjqGDR0dKLDWpsIoouMsNY0R8sjM9P1T438wl9oKYWgTFzg7G/6oq2AbI6iNYgQ4Wyjjnvb3b7bvM5k4nSvChh7N+/XutQS9PyvlEsR4WBDErJfgmU6iW9gGHtW0XSmlypC/dfIVhrXYoCtnhthbhWIGItM/qTqqlROPmcNYvOvex5WiT0ymD2eO+GacWcxoLAFU8IE8L6IWb4C+hR/WqFW423ZDgK0+taCD2MoZhDQ1SMu5n+O/PY9D/r0Bvp7ya40QUmzvpfFICza7Mfw9djccPEPBhxIAK2WcVN1D2zrTKRLdy+Dwy5K/tVrs17TIwgedwfUC2cpm0UcBOWB2lpyTgC+BSmDdwIvtfNDXW3YpBTzOmrpuNgP6xWf+Yo1o6M9WlNxpqjGEYuZXA==;+P6m7dbhF0ZAkEKq5O87/w=="
+secured: "TVoeVRmC3Ui8kbMS+d1tI2lhAf2glniZJqjR31XgLPufzNWDP/cCNJGXxFsh6MxNqJg6/Ny0nGJF5MypAqbkmUw3JXvpWH08XKUaDQc6aude0MyZn5MqcQRVK/7/0FKJ0/77K5NjHT8ninhUYw944QnN1/CLQyosn6laa24KZb9Z0f+CxPJaSxksrI9wL4fmS8OyAEsjr/JwRhbX0YUFRepBfRf6F1ufO9QjB1vJJPDYuzeeg7uWS7taNGSBDFut/4WUJuFNYakcb80hfhhBNsnw7Wot+TtgGMI2b99dIvgk3njUFHp47Lb7QwdXLzwqihDNq6N5oAvG9B3aRyO1qUE5KifmLNa1PIBBGGU3HGY=;MLTXXJ8oB8p9qo04ljwzgw=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-04-06-gop-rep-lee-zeldin-urged-by-trump-allies-to-run-for-governor-of-ny-amid-cuomo-scandals.md",
+      "title": "GOP Rep. Lee Zeldin urged by Trump allies to run for governor of NY amid Cuomo scandals",
+      "excerpt": "EXCLUSIVE: Trump allies are quietly rallying their support behind Republican Rep. Lee Zeldin, encouraging him to mount a GOP gubernatorial bid against New York Gov. Andrew Cuomo in 2022, Fox News has learned. Sources familiar told Fox News that Zeldin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo",
+      "originalUrl": "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp",
+      "publishedDateTime": "2021-04-06T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-kamala-harris-backs-gavin-newsom-as-he-faces-recall-election.md",
       "title": "Kamala Harris Backs Gavin Newsom As He Faces Recall Election",
       "excerpt": "Vice President Kamala Harris offered California Governor Gavin Newsom her backing on Sunday as polls indicated that the Democratic state leader was likely to survive a recall vote. In an interview with the San Francisco Chronicle, Harris said the White ...",
@@ -1305,58 +1362,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-progressives-calls-growing-for-biden-to-cancel-50k-of-student-loan-debt-do-it.md",
-      "title": "Progressives' Calls Growing for Biden to Cancel $50K of Student Loan Debt: 'Do It!'",
-      "excerpt": "Calls from progressive Democratic lawmakers for President Joe Biden to cancel $50,000 of student loan debt continue to mount in recent days. Although Biden has previously pushed back against the idea publicly, White House Chief of Staff Ron Klain told ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937",
-      "originalUrl": "https://www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771446/democrats-cancelstudentdebt.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937?amp=1",
-      "publishedDateTime": "2021-04-04T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

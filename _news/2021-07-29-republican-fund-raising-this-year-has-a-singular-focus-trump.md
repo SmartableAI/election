@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
-excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
-publishedDateTime: 2021-07-27T01:41:00Z
-originalUrl: "https://www.nbcnews.com/politics/elections/trump-endorses-ken-paxton-over-george-p-bush-texas-attorney-n1275099"
-webUrl: "https://www.nbcnews.com/politics/elections/trump-endorses-ken-paxton-over-george-p-bush-texas-attorney-n1275099"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275099"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275099"
+title: "Republican fund-raising this year has a singular focus: Trump."
+excerpt: "Even in defeat, nothing sells in the Republican Party quite like Donald J. Trump. The Republican National Committee has been dangling a “Trump Life Membership” to entice small contributors to give online. The party’s Senate campaign arm has been ..."
+publishedDateTime: 2021-07-28T18:22:00Z
+originalUrl: "https://www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.html"
+webUrl: "https://www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.amp.html"
 type: article
-quality: 132
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494268/210726-ken-paxton-donald-trump-2020-ac-912p.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://static01.nyt.com/images/2021/07/27/lens/28political-briefing-trumpmoney/merlin_190655607_21174e18-b8b0-4944-b14f-fe1667df1d0a-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -224,22 +224,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Republican fund-raising this year has a singular focus: Trump."
-    excerpt: "Even in defeat, nothing sells in the Republican Party quite like Donald J. Trump. The Republican National Committee has been dangling a “Trump Life Membership” to entice small contributors to give online. The party’s Senate campaign arm has been ..."
-    publishedDateTime: 2021-07-28T18:22:00Z
-    webUrl: "https://www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/27/lens/28political-briefing-trumpmoney/merlin_190655607_21174e18-b8b0-4944-b14f-fe1667df1d0a-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
     excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
     publishedDateTime: 2021-07-26T18:14:00Z
@@ -255,6 +239,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/26/us/politics/26political-briefing-coal/26political-briefing-coal-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
+    excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
+    publishedDateTime: 2021-07-27T01:41:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/trump-endorses-ken-paxton-over-george-p-bush-texas-attorney-n1275099"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275099"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275099"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494268/210726-ken-paxton-donald-trump-2020-ac-912p.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Pelosi bars two Trump allies from the committee investigating the Jan. 6 riot."
     excerpt: "Ms. Pelosi, who had never before rejected a Republican nominee to a committee, called her move to oust Representatives Jim Banks and Jim Jordan “unprecedented” but necessary."
@@ -305,6 +305,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "9iZT16e/U2IzisB7UwsfrvF9lwcG8MdaMMLuAoFHroG3Y/HfK4vK4ZxIAvFN8MBQpPr+R0QHOSyM4t4z7w3c8D8bpGnAlo8+HJ3MSnHuJQxjvC2g6mifoiCUYyhk2uS6EC6y+5RfEW+VnBa5d2QswJjWQCpnj2YUR/UQ4KmTEddBj7j0EH1LjDMEFESB+JOq6CQrtRh/zCRR9lh4JqSfMo2ATpP6IVojGSkKD3nZTXt8WeSDwbH9Uj4/whW84vmzUiaW7klcs6kk6jI4DlAXLELZ0S8MBSA86XKo4wxwzlCP7iVM8Mby7h3sA/mVvWpzcx2eaT4AdkFVPbaxLzATQdTMPQS8LxJzdrL/jVkJLllvwEgZoPtjRy/hHf/QBM5LhLF0DmyUipdcXri65kDDUoKVqgFOuysnYuG5dpJqMkNgoNd7ogEkuao1WeJGR8NbZPtKqSd/5u4MNi6USG4G1kT+rRgQ+HI/YfNCx42jegTBDUDsol6vUQ2edW3XgI7dFXdpFmwVR3FEmklekcwBIw==;BE0F9gt1w5XadInhBVPcog=="
+secured: "p9t9BinqVRPlChhjBt77PnA7i9SybYrndEhWUXwjO2SyJfR26Fre+ZbD+rnRM+AYjQcFdZruMfaG2EP5kHujtl2VKrjwZSgn9wpHOqsfB7Zdsl1Xzapx2/udP1Aig93Ac+LXFiuUVIn08uLadkqYwEiGc8Vrgk+NhDwlr43cPnbpOikkclwe4eozGRmIboyuLKWdbm4ilpmibLjIPyOMrFUQuneZ2q/I0+wYkBP3D1JnhlYlljNd4UIZyami1FVE7i2dgpYXruKT9mcinJsgXQ1A0M0wdpAthDRV5aYxVS9rmVEoqeSlo0bps5RVOcg/hjZFx37vF0wSNTqZYVUihLp1Fgw3GdOf3HtbiEw2ZYg=;wC752XwHjKo782TyryJEPA=="
 ---
 

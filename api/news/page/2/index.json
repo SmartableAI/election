@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-27-joe-bidens-wheres-mom-remarks-go-viral-as-critics-jump-on-apparent-confusion.md",
+      "title": "Joe Biden's 'Where's Mom?' Remarks Go Viral as Critics Jump on Apparent Confusion",
+      "excerpt": "The president called Representative Jim Langevin \"Paul\" at an event celebrating the Americans with Disabilities Act.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502",
+      "originalUrl": "https://www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1856267/biden-gives-pen-tyree-brown.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502?amp=1",
+      "publishedDateTime": "2021-07-27T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-biden-harris-awol-leaving-texans-to-fight-border-crisis-on-their-own-rep-gonzales.md",
       "title": "Biden, Harris 'AWOL,' leaving Texans to fight border crisis on their own: Rep. Gonzales",
       "excerpt": "The Biden administration quietly resumed a Trump-era policy to accelerate the removal of family units that don't qualify for asylum in the U.S. While the decision is an attempt to lessen the crisis at the southern border,",
@@ -509,7 +561,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 495,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -1274,62 +1326,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-rep-ronny-jackson-ex-white-house-doc-predicts-biden-will-be-forced-to-resign.md",
-      "title": "Rep. Ronny Jackson, ex-White House doc, predicts Biden will be forced to resign",
-      "excerpt": "Rep. Ronny Jackson, the former White House physician-turned-congressman, says he’s “terrified for our country” in the wake of President Joe Biden’s disastrous town hall this week — and that he doubts whether the commander in chief has the cognitive ability to make it through a full term.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGqwaTdg3pE/ronny-jackson-biden-forced-resign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGqwaTdg3pE/ronny-jackson-biden-forced-resign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ronny-jackson-biden-forced-resign.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronny-jackson-biden-forced-resign.amp",
-      "publishedDateTime": "2021-07-25T09:42:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

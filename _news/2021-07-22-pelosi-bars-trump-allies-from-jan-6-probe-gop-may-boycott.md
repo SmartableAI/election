@@ -131,6 +131,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Rep. Jordan acknowledges speaking with Trump on Jan. 6"
+    excerpt: "The Ohio Republican’s comments during a television interview make it more likely he will be called as a witness by the House select committee probing the attack on the Capitol by a pro-Trump mob."
+    publishedDateTime: 2021-07-28T18:20:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/rep-jordan-appears-to-acknowledge-speaking-with-trump-on-jan-6/2021/07/28/63f358d4-efa3-11eb-a452-4da5fe48582d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OMZ2YJHPUYI6XJCSJWS74SCYFU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
     excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
     publishedDateTime: 2021-07-28T00:55:00Z
