@@ -77,15 +77,15 @@ related:
         isCached: true
   - title: "VP Kamala Harris meets with DACA recipients"
     excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-22T21:41:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210723013215-vp-kamala-harris-meets-with-daca-recipients/"
+    publishedDateTime: 2021-07-23T04:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210723043215-vp-kamala-harris-meets-with-daca-recipients/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11431309_1627004104.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/23/story_11434562_1627014904.jpg"
         width: 1280
         height: 720
         isCached: true

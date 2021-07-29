@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New York Times silent after star reporter equates Trump supporters to 'enemies of the state'"
+    excerpt: "The New York Times has been radio silent as one of its star journalists suggested that Trump supporters should be designated as \"enemies of the state\" amid what she described were ongoing \"national security threats."
+    publishedDateTime: 2021-07-29T01:08:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-silent-katie-benner-trump-supporters-enemies-of-the-state"
+    ampWebUrl: "https://www.foxnews.com/media/new-york-times-silent-katie-benner-trump-supporters-enemies-of-the-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-silent-katie-benner-trump-supporters-enemies-of-the-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/076d9712-b931-4e3e-bd74-4354ed0cf41c/3787910a-a465-4dd1-aebb-c12aaf894483/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "EJ6mCFYgzXRNeRuEZJxHPNr5eR0w5X8D2nbDlpF6kDPiCxnaKV4fmXbNmNI7zIMsngFmshu0dQsuKGdvGMpmQ2rkrkyZv8/eE5V0Y/uuYU8x/lJMmOxrihi6qKwJTOos9uuxKutriiY8S6dSMCSjqWmwSwIs0ouvW1ieE3SHifGnQ4as29yrnzYGuk73HQ7vwB4jo/+EeACKr8sSXq5IZ/MF5mE+yW+0luusVOWJXa4j5GUC9H5MUovtDq5h7709Vzc3ZU99PRq88c3gJO24B5iyhCltJ9zjehooCPoREGzLcMZKV3NXUE6NAZcfhjJPznbRp8CI6Yy0Wo9s/FyMsNa4FdG82fBBUALqoStsP4yItiZxEvHpQ6F84jdd3dccANZ8namHF5Qit20m6H3wt5fScE8Oi/ZdMSrF8OE+oaRTG4DtvzSejiWi5DTKyWZrC4BuvfpzULN0r464/vhLjVG6UJQ8MfuEoNejpXs4DCH2UwgS1OjvRJ/pYSLdhOjTbuacuawm3S6Xid3xqfJl7g==;vXai4ncZ2muP9gpwK0X9zg=="
 ---

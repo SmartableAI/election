@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Postal workers union bristles at Biden’s COVID-19 vaccine mandate"
+    excerpt: "The influential American Postal Workers Union on Wednesday said, at this point, it opposes a coronavirus vaccine mandate from the Biden administration but encouraged workers to voluntarily take the jabs."
+    publishedDateTime: 2021-07-29T03:06:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9pY2aG7-i4/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden says wearing masks inside 'still good policy,' even when vaccinated"
     excerpt: "President Biden defended wearing a mask inside even when everyone around is vaccinated Friday, adding that it is “still good policy.” "
     publishedDateTime: 2021-05-07T18:03:18Z

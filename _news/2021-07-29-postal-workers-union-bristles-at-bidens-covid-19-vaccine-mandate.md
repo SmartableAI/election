@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says wearing masks inside 'still good policy,' even when vaccinated"
-excerpt: "President Biden defended wearing a mask inside even when everyone around is vaccinated Friday, adding that it is “still good policy.” "
-publishedDateTime: 2021-05-07T18:03:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BLtX3sOeKSc/biden-masks-inside-good-policy-vaccinated"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BLtX3sOeKSc/biden-masks-inside-good-policy-vaccinated"
-ampWebUrl: "https://www.foxnews.com/politics/biden-masks-inside-good-policy-vaccinated.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-masks-inside-good-policy-vaccinated.amp"
+title: "Postal workers union bristles at Biden’s COVID-19 vaccine mandate"
+excerpt: "The influential American Postal Workers Union on Wednesday said, at this point, it opposes a coronavirus vaccine mandate from the Biden administration but encouraged workers to voluntarily take the jabs."
+publishedDateTime: 2021-07-29T03:06:34Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9pY2aG7-i4/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9pY2aG7-i4/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate"
+ampWebUrl: "https://www.foxnews.com/politics/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate.amp"
 type: article
-quality: 174
+quality: 175
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/bidens.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Postal workers union bristles at Biden’s COVID-19 vaccine mandate"
-    excerpt: "The influential American Postal Workers Union on Wednesday said, at this point, it opposes a coronavirus vaccine mandate from the Biden administration but encouraged workers to voluntarily take the jabs."
-    publishedDateTime: 2021-07-29T03:06:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9pY2aG7-i4/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate"
-    ampWebUrl: "https://www.foxnews.com/politics/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/postal-workers-union-bristles-at-bidens-covid-19-vaccine-mandate.amp"
+  - title: "Biden says wearing masks inside 'still good policy,' even when vaccinated"
+    excerpt: "President Biden defended wearing a mask inside even when everyone around is vaccinated Friday, adding that it is “still good policy.” "
+    publishedDateTime: 2021-05-07T18:03:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BLtX3sOeKSc/biden-masks-inside-good-policy-vaccinated"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-masks-inside-good-policy-vaccinated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-masks-inside-good-policy-vaccinated.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/bidens.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Byron York: Biden administration sending 'weird' message on COVID"
     excerpt: "Let's bring in our panel, Mollie Hemingway, senior editor at \"The Federalist,\" Amy Walter, national editor for the \"Cook Political Report,\" and Byron York, chief political correspondent of \"The Washington Examiner."
@@ -96,6 +96,6 @@ related:
         height: 500
         isCached: true
 
-secured: "zkKNVYuRqcEgoJngvNvQOpJJYYh8nVPjC5ftc4peEcLb0R0/uvGdT0u+aQ3MnVD4RFAjcRAkrTc8uXTHA9Cr/C2EJu0WkFbv1LoBcx9cXlhq2OO8kfKetnwJcpD/CYdNP9PnJPNRv95KVjNbn1Noe7xooA4Z1vw56Wg2CpHPyTn/dyf12uwexTjbF+0v+QIdkN/8sMovrXpscilIBrLW26P/NwskMAoZqLkwBSZYK00t/mGXYTz/qxbQyWfFXc8HBsIzJAq8BwJhphDd0USE5pS/5kY9gHjOM6RDOszq+PI9IunmEnWLPcXia8/061QUFOVJ0xwxstsm4kPu4Q0qAGJYX7zLDgYuvCupxLgMdF8=;nu8skVqQWjLgMD1CoGAJlQ=="
+secured: "R9Fpfzp19TECsDtd+ixw/dk7g1esIuTxXeUC68zUtes86PS0Ob5ad5MIuyDmUUM4QFFXpMsEQm2z3fNjdxRS9Tc8xhxcOoEYrhNikacTxr46ATi5njHMF4EVPiKU2LEcvQcbW413dPp2/KcC0dIzWbpBefj1T+roQF1RwnC4QOQG9fIycu6MvL8UxCFKIUv3y82qgHcZgWpBrwqOmNaAV86PwYVpDtLs7ua8cmQI5AxClYpH0cP8HPsu1IwQ3LRRpTJs8oEsLWEWV+KVVH8AuXh94293hjCkoy/j5NsdPhNjomesfDFTVovlWr9I9H3ntPp3IjF4Or4nu9SYN7wHLPUCuCmMVDW/yF/m5bS3lW8=;AbYfikA8mNhCj6SRYuu+Pg=="
 ---
 
