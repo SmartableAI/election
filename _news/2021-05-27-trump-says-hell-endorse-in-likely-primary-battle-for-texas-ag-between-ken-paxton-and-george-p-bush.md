@@ -75,6 +75,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Donald Trump endorses Ken Paxton for reelection as Texas attorney general"
+    excerpt: "This is a developing story and will be updated. Donald Trump Monday endorsed Texas Attorney General Ken Paxton for reelection, giving the"
+    publishedDateTime: 2021-07-27T05:47:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/26/donald-trump-endorses-ken-paxton-for-reelection-as-texas-attorney-general/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/26/donald-trump-endorses-ken-paxton-for-reelection-as-texas-attorney-general/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/26/donald-trump-endorses-ken-paxton-for-reelection-as-texas-attorney-general/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 89
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/76t5QJeB02Xqz1x6C4mLZTmNF6k=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/PVL4IVSCURAILMTT7ZXNEKOOQM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Organization Faces Criminal Probe In New York State"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
     publishedDateTime: 2021-05-19T10:35:00Z

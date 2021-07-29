@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-04-17-lawyers-doj-defense-in-trump-defamation-suit-is-dangerous.md",
+      "title": "Lawyers: DOJ defense in Trump defamation suit is 'dangerous'",
+      "excerpt": "Lawyers for a woman who is suing former President Donald Trump say the U.S. Justice Department made a “wrong and dangerous” argument in seeking to defend him",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_b861a57493b24d94a51c0d2aa9265389_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
+      "publishedDateTime": "2021-04-17T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-florida-woman-charged-for-allegedly-threatening-to-kill-kamala-harris.md",
       "title": "Florida woman charged for allegedly threatening to kill Kamala Harris",
       "excerpt": "A Miami woman has been charged for allegedly threatening to kill Vice President Kamala Harris, according to a criminal complaint filed in the United States District Court for the Southern District of Florida.\n    \n",
@@ -1322,58 +1374,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-document-reveals-new-details-of-dramatic-mike-pence-call-during-capitol-attack-building-not-secure.md",
-      "title": "Document reveals new details of dramatic Mike Pence call during Capitol attack: \"Building not secure\"",
-      "excerpt": "Friday marks 100 days since the January 6 attack on the Capitol building. New numbers from the Justice Department show more than 400 suspects have been arrested from at least 45 states. CBS News obtained a copy of the Capitol Police inspector general's findings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/capitol-attack-watchdog-report-call-mike-pence/",
-      "originalUrl": "https://www.cbsnews.com/news/capitol-attack-watchdog-report-call-mike-pence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/15/7065816f-dc4b-4570-af84-f131edffa472/thumbnail/1200x630/e72edcb19f6d93d91df181f37694a9f2/cbsn-fusion-capitol-police-watchdog-set-to-testify-new-document-reveals-details-of-lead-up-to-january-6-riot-thumbnail-693345-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/capitol-attack-watchdog-report-call-mike-pence/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-attack-watchdog-report-call-mike-pence/",
-      "publishedDateTime": "2021-04-15T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

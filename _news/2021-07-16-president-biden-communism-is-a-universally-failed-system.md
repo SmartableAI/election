@@ -92,6 +92,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "WSJ Opinion: Joe Biden Is Sinking"
+    excerpt: "With the Democratic Party's relentless leftward lurch, how long will the president’s old pals, the moderate Democrats, continue with its 'progressi"
+    publishedDateTime: 2021-07-29T05:07:00Z
+    webUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-joe-biden-is-sinking/C138D32E-2199-4D28-AB26-EB7E60FE6CA5"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20210727/072821opvidwl/072821opvidwl_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Will Europe Rise to Biden's Challenge?"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-14T11:37:00Z

@@ -93,6 +93,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "‘Karma works’: Donald Trump ally Tom Barrack fights criminal charges over UAE ties"
+    excerpt: "Soon after Donald Trump barred refugees and many Muslims from entering the US in the opening days of his administration, the financier Tom Barrack appeared on television to try to calm the country’s nerves."
+    publishedDateTime: 2021-07-27T04:00:00Z
+    webUrl: "https://www.ft.com/content/534d611b-1051-40cf-948c-a9d811d54e1b"
+    ampWebUrl: "https://amp.ft.com/content/534d611b-1051-40cf-948c-a9d811d54e1b"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/534d611b-1051-40cf-948c-a9d811d54e1b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 119
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa06e5843-07eb-4326-ad12-07e2838a72f9.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Trump ally Barrack jeered outside Brooklyn court"
     excerpt: "Politics Trump ally Barrack jeered outside Brooklyn court. Posted . Former U.S. President Donald Trump's billionaire ally Thomas Barrack arrived at a federal court in Brooklyn on"
     publishedDateTime: 2021-07-26T18:33:00Z

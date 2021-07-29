@@ -237,6 +237,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "A falling stock? Donald Trump-backed candidate loses U.S. House race to GOP's Jake Ellzey."
+    excerpt: "Susan Wright, widow of Rep. Ron Wright, had the endorsement of former President Donald Trump in the special election. What does her loss mean?"
+    publishedDateTime: 2021-07-28T14:29:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/07/28/jake-ellzey-wins-us-house-seat-over-trump-backed-rival-texas/5397842001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5397842001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5397842001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/54f3dfc3-8412-45ce-9ff1-06c0d9e927be-AP21208560613087.jpg?auto=webp&crop=670,377,x0,y204&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Meets With McCarthy To Discuss GOP Leaders for Jan. 6 Commission"
     excerpt: "House Minority leader Kevin McCarthy met with former President Donald Trump on Thursday to discuss potential Republican appointees to join a special congressional committee tasked with investigating the deadly Jan."
     publishedDateTime: 2021-07-15T22:56:00Z

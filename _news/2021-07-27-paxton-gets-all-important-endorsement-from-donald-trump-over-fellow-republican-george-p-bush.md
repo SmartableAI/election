@@ -2,28 +2,26 @@
 category: news
 title: "Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
 excerpt: "Former President Donald Trump has backed Attorney General Ken Paxton for reelection, passing over primary challenger George P. Bush in bestowing the highly sought-after endorsement. \"It is going to take a PATRIOT like Ken Paxton to advance America First policies in order to Make America Great Again,"
-publishedDateTime: 2021-07-27T12:35:00Z
-originalUrl: "https://www.chron.com/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
-webUrl: "https://www.chron.com/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
-ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
+publishedDateTime: 2021-07-27T16:35:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
+webUrl: "https://www.stamfordadvocate.com/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
 type: article
-quality: 64
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.hdnux.com/photos/01/21/13/45/21281144/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://s.hdnux.com/photos/01/21/13/45/21281144/3/rawImage.jpg"
+    width: 2000
+    height: 1502
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 983
         isCached: true
 
-secured: "uV8ECb2CoX/xkAQI6bFWu0oM595bsq8zYb313dmfX5mzdQ1cAxY8nSNU0kJXx6TQtgxRu5JHR7F3I8t2gZ3G+kjYD9CW2cQSyOxQhph6ZgC02+sH8Fqw42Oo/QKe4G9ft3V8/FVwTOLyyuV/0kWHrmQALNLUcV03fnLgec4FqFOfnBZB2JFEkcbE51wbun5JftJt9FTFGcP5RZKtUcboAsam02yxUcYLOov/w9Ky2nvCyuamk+KtMas+XgYTjfKjk2c3kPDjdityJSMfhhbUVhpJS3g7So8D/ZbrqmRElCeVPdXmGHvOC/YCDgpegPHUzKGObeU5GRxv00vymv17Uk0MYqWM2krG++4pKLf/SQvfJbyR9Ba25zH79Jn2e65UCJ3eO4m/9iCt25JOHaT7RVAeGIOWpgqZhEIYNM5ll0Ich//COG7QjtOJfc70Kv7ITeBKy3w7hmsjyc9MIReQV/iCnqCk57/zJv+BoyLfOsWYqCYHV8rK9TDUy8L57tAceQtDRfwcp9Lz5VFozaSm4Q==;NALb6+EJOJdGA6vPHwDDdA=="
+secured: "3AEYBw4SF8qpUICXzHNMlzzoKJSircVq2xt+Iv2+pemkQSK3lrnYpu3mTQIAjv1eVi8CRBOFgBrkQgCKUDcXu3DEz9YlSBzYC9dXbRUpFqNKzc718Uqsy7sltND8soShkvyAi7pxeUcpjn2h2N1waP4IQDiw0KwkzVaK38hM4cLH5iyuQiIpEZE6IOpmPIvjXF4xXs7fZYWm2AwGxNuI4Lrsu+Zp8Pn8rjhwk1Cu5k8idlr2UeDltzW29aeBjju0smzRYG7pl8/MoavwxE9B6bPat/4cf8lZH2j1+HzeJO/Oq31VXe1qAO0DRM8Bkk1/UYPcyobdBosbod49kEe4ybCWaTjwO2k/xU4kSGdThDU=;czPeCurR1nTbSyCcPAtrQg=="
 ---
 

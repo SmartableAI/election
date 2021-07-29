@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-26-trump-organization-cfo-weisselberg-could-face-charges-in-da-probe.md",
+      "title": "Trump Organization, CFO Weisselberg could face charges in DA probe",
+      "excerpt": "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
+      "originalUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp",
+      "publishedDateTime": "2021-06-25T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-congress-restores-pre-trump-era-methane-gas-emissions-standards.md",
       "title": "Congress Restores Pre-Trump Era Methane-Gas Emissions Standards",
       "excerpt": "President Biden is expected to sign the measure, which would mark one of the first major federal actions toward reaching his goal of cutting U.S. emissions from their 2005 level in half within the decade.",
@@ -1522,54 +1574,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me.md",
-      "title": "Trump supporter sues town for $25M: ‘They’re trying to silence me’",
-      "excerpt": "Michael Wasserman wants to let his freedom fly — but his town of Long Beach, LI, isn’t having it. “I believe the city is trying to silence me because I’m pro-Trump,” he told The Post. The",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/",
-      "originalUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Wasserman-biden-flag-4.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/amp/",
-      "publishedDateTime": "2021-06-19T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

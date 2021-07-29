@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ede4e79c-9545-4bed-a538-31fd1f806a23/4729bb20-8368-406d-bda0-577fe1b40608/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "WSJ Opinion: Joe Biden Is Sinking"
+    excerpt: "With the Democratic Party's relentless leftward lurch, how long will the president’s old pals, the moderate Democrats, continue with its 'progressi"
+    publishedDateTime: 2021-07-29T05:07:00Z
+    webUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-joe-biden-is-sinking/C138D32E-2199-4D28-AB26-EB7E60FE6CA5"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20210727/072821opvidwl/072821opvidwl_1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President Biden: Communism Is A Universally Failed System"
     excerpt: "President Biden was asked to comment on his position on protests and unrest in Cuba and critics from the right who said he is soft on communism: NEW!Powerful statement from President Donald J. Trump on Biden's refusal to stand up to the Communist regime in Cuba\"Today’s Democrat Party is so far left they can’t even take a stand against violent Communism."

@@ -150,58 +150,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-28-biden-should-recruit-trump-to-help-get-more-americans-vaccinated-kudlow.md",
-      "title": "Biden Should 'Recruit' Trump To Help Get More Americans Vaccinated: Kudlow",
-      "excerpt": "Larry Kudlow also called on Twitter and Facebook to restore Trump's access to his social media accounts, which were suspended following the deadly Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999",
-      "originalUrl": "https://www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/president-donald-trump-announced-he-will-not-attend.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-should-recruit-trump-help-get-more-americans-vaccinated-kudlow-3260999?amp=1",
-      "publishedDateTime": "2021-07-27T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-28-texas-voters-brush-aside-trump-endorsement-and-name-jake-ellzey-the-winner-in-a-house-special-election-in-texas.md",
       "title": "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas",
       "excerpt": "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning.",
@@ -210,7 +158,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -529,7 +477,7 @@
       "originalUrl": "https://www.cbsnews.com/news/thomas-barrack-trump-associate-not-guilty-plea/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -553,6 +501,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-i-recommend-you-take-the-vaccine-donald-trump.md",
+      "title": "'I recommend you take the vaccine' - Donald Trump",
+      "excerpt": "Rough Cuts 'I recommend you take the vaccine' - Donald Trump. Posted . Former U.S. President Donald Trump on Saturday in Arizona called on American's to get the COVID-19 vaccine s",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/i-recommend-you-take-the-vaccine-donald-idOVENCFP3Z",
+      "originalUrl": "https://www.reuters.com/video/watch/i-recommend-you-take-the-vaccine-donald-idOVENCFP3Z",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210725&i=OVENCFP3Z&r=OVENCFP3Z&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

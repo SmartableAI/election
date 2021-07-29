@@ -57,6 +57,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Texas Attorney General Ken Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
+    excerpt: "Paxton is facing a primary challenge from Bush, the land commissioner, as well as Eva Guzman, the former state Supreme Court justice."
+    publishedDateTime: 2021-07-27T04:11:00Z
+    webUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/"
+    ampWebUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 50
+    images:
+      - url: "https://thumbnails.texastribune.org/s8ogB7GkYvA1-RGZ9WgYwz8uaSQ=/1200x630/filters:quality(95)/static.texastribune.org/media/files/2a6fb556597679337515d7ceed1a6af1/Trump%20Paxton%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In a major upset against a candidate backed by Donald Trump, Jake Ellzey wins runoff for Fort Worth-area congressional seat"
+    excerpt: "Wright and Ellzey are vying to finish the term of Ron Wright, who died earlier this year after contracting COVID-19. His Republican-leaning seat touches Fort Worth and stretches southeast to more rural areas."
+    publishedDateTime: 2021-07-27T11:00:00Z
+    webUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/"
+    ampWebUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 49
+    images:
+      - url: "https://thumbnails.texastribune.org/v96me-3rz0BdxTl1PFumcJsRrZM=/1200x630/filters:quality(95)/static.texastribune.org/media/files/d5ab26288afce7e92fc2b6a90729192d/Jake%20Ellzey%20TT%2002.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rUkzhiQOAmu8Q5RVHMttwrWrnf40fClYTWCQq6Ch9Ljrr6Jlba5Afxtku1YTKigSSDQ9ea/xknicZryJhySODt/rtYOkdGxRsMr5qiJI7VZPNh9xJ6uah8eDZLCpu1P8O6f20Bm9rfuWmDRAl4TzXxF86Oo8H35T/7SSgDqkVbs3Bp6483OpMFmnjWAAKEzI7VR123jOVeHH4Ea9xIXqHEgjPrYksckk23+OuxHyWYmKIMEoeB9qCy8abl2113hx45edii+GGyD0bseAhFzhXGgNjTjkFBcpVk5FVsnZ7inTpwk3hCT6zIA+22JkntKVghO9ZNX5jeLIOekbiaAI0TZyvTe55I4Luy9QjtZXmCQ=;t0sfyX0PVMhoNrNJw35PvA=="
 ---

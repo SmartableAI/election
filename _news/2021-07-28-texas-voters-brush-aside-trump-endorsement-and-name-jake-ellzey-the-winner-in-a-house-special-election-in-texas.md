@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/politics/texas-special-election/202
 webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
 type: article
 quality: 100
-heat: 140
+heat: 180
 published: true
 
 provider:
@@ -56,6 +56,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXK7Q5XO6EI6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Texas Attorney General Ken Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
+    excerpt: "Paxton is facing a primary challenge from Bush, the land commissioner, as well as Eva Guzman, the former state Supreme Court justice."
+    publishedDateTime: 2021-07-27T04:11:00Z
+    webUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/"
+    ampWebUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 50
+    images:
+      - url: "https://thumbnails.texastribune.org/s8ogB7GkYvA1-RGZ9WgYwz8uaSQ=/1200x630/filters:quality(95)/static.texastribune.org/media/files/2a6fb556597679337515d7ceed1a6af1/Trump%20Paxton%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In a major upset against a candidate backed by Donald Trump, Jake Ellzey wins runoff for Fort Worth-area congressional seat"
+    excerpt: "Wright and Ellzey are vying to finish the term of Ron Wright, who died earlier this year after contracting COVID-19. His Republican-leaning seat touches Fort Worth and stretches southeast to more rural areas."
+    publishedDateTime: 2021-07-27T11:00:00Z
+    webUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/"
+    ampWebUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 49
+    images:
+      - url: "https://thumbnails.texastribune.org/v96me-3rz0BdxTl1PFumcJsRrZM=/1200x630/filters:quality(95)/static.texastribune.org/media/files/d5ab26288afce7e92fc2b6a90729192d/Jake%20Ellzey%20TT%2002.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "W7VTDVXLZMwU2ubw+Qmmg7nkjjeC3yYQbtDm8O9Gqfxv8wQbnABs37+bgcqhJgXfXHoyzaRA6NlQoAzb/X6bS173ACUN84aOD2SdKGTwr8sytB7xlA+5x5KdPcbMsSnKwkauY3iXHRZRJHIHAyHNPj/ELzmXuyFUPDDrp11p80VHs+EoCaZO8RPcNZb+E1iFh3dXj1nH/dsQlP1BKuDV98SKpfoHHsRCpVFo0r0HN7O4/f7u1fwYc8+RIs1QequK0n2YlmiULi3jeMflWrGKJvF1QIXn2YR42d2+Fs1TzNvW0dsc6QAlaLw193O/MOF+FaFePkBWJim4LUdJf5KimQfnvZr1jbUKu+LAT1898a9pQO/wkLXeiIjUg6DJH9jfnJiaYIDNHgqZ7rVA3uED/pAKcB6aHJ3Z6UClkeZ6O5Znea2KiI/O1WOqpbz6ucT9He1yQR8JOb/ScblZGQ5EmbnL8q4jaNcgZKeDMik7Whq5+tuS649BlCFvJcJynZR75kLgezgp5/G8ZfKaa6WWlQ==;cyuEzaVa+B96p4kIWGY+wg=="

@@ -1,0 +1,91 @@
+---
+category: news
+title: "Texas Attorney General Ken Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
+excerpt: "Paxton is facing a primary challenge from Bush, the land commissioner, as well as Eva Guzman, the former state Supreme Court justice."
+publishedDateTime: 2021-07-27T04:11:00Z
+originalUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/"
+webUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/"
+ampWebUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
+cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
+type: article
+quality: 50
+heat: -1
+published: false
+
+provider:
+  name: Texas Tribune
+  domain: texastribune.org
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://thumbnails.texastribune.org/s8ogB7GkYvA1-RGZ9WgYwz8uaSQ=/1200x630/filters:quality(95)/static.texastribune.org/media/files/2a6fb556597679337515d7ceed1a6af1/Trump%20Paxton%20TT.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas"
+    excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
+    publishedDateTime: 2021-07-28T01:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright"
+    excerpt: "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T13:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
+  - title: "The Trailer: Trump, texts and Texas: Inside an all-Republican primary that didn't go as planned"
+    excerpt: "Instead, Democrats spent little, turned out few voters, and set up an all-Republican race between Wright and Ellzey, who'd previously sought the seat in 2018. Instead of a red-on-blue suburban battle,"
+    publishedDateTime: 2021-07-27T21:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 93
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXK7Q5XO6EI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "In a major upset against a candidate backed by Donald Trump, Jake Ellzey wins runoff for Fort Worth-area congressional seat"
+    excerpt: "Wright and Ellzey are vying to finish the term of Ron Wright, who died earlier this year after contracting COVID-19. His Republican-leaning seat touches Fort Worth and stretches southeast to more rural areas."
+    publishedDateTime: 2021-07-27T11:00:00Z
+    webUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/"
+    ampWebUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 49
+    images:
+      - url: "https://thumbnails.texastribune.org/v96me-3rz0BdxTl1PFumcJsRrZM=/1200x630/filters:quality(95)/static.texastribune.org/media/files/d5ab26288afce7e92fc2b6a90729192d/Jake%20Ellzey%20TT%2002.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "QI0NCIoNu2z9vHF+0h+AazYAAK9H1zIcjcx6L8O20b0C22vU++jJyjsRy7sIIzOUofYNZugCBDHfrj0aofNPrvhlCFV9or3vDb5Gtyur2dgpPZ0nH7u4L2rGf0D9bP744dUYiuih0MA7E0etQ09aUJxUXM19HccJhyRgO4hwNOHKdRW7XVjKjtiHsTQoOZc2saEWuIH0RNb1P2u2sWrjqMNL8QmvcCYbOl7vZ1bqq+rEI40eO1hsFfCg0HNOVZM1p8AqJryVD4ZMbNmVIsut/X7d5LxXLnFHaWu64l3tS/iS4PxuwG8xxCpVFVkV4EtZhvy8ddjgoF8RZhZe/OfU+r5cSAv3fgVOZIBsnov6QSQ=;evOkBs70tANRgPjHD3e9Xw=="
+---
+
