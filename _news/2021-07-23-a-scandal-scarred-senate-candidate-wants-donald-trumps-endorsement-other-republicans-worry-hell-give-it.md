@@ -32,16 +32,18 @@ related:
   - title: "Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
     excerpt: "Former President Donald Trump has backed Attorney General Ken Paxton for reelection, passing over primary challenger George P. Bush in bestowing the highly sought-after endorsement. \"It is going to take a PATRIOT like Ken Paxton to advance America First policies in order to Make America Great Again,"
     publishedDateTime: 2021-07-27T16:35:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
+    webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
+    ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 44
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 64
     images:
-      - url: "https://s.hdnux.com/photos/01/21/13/45/21281144/3/rawImage.jpg"
-        width: 2000
-        height: 1502
+      - url: "https://s.hdnux.com/photos/01/21/13/45/21281144/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "lf6kEvJobWcK9c3NOKqhXtlEpTH9t4E1515/TAjGTcQ0ghKnWOjdBZxX0/2xEh2OC8d8F52KM/q0jd4BZFTfAG+Y5errob7T8kGBQfxOWZAFrly21torQ6BtZGDZeTlOzRICfhkV8pINbcr9GqjxUCmW741YVXeq9jHp7EUe1w719owb+hCaYxXYjcWO0gewuticEZlp9wzqMUvQRckeSiBb9c/zfPOdzkqvsTrSk0ROn38uaQcXPFNzFDAAzvpQ1OeGtUMjKQ8oam0H7oM0sXFyVZowbv+c/Attkkg+Z36qeGsCFrtJ8M/P3WHVmj/+bkmpiq5W5g/F6aQwPWWBOL+2bwwxxUjG8Hio8cE3SMwvikZGfKLP70luqvk41ckyLyH7/7x806fuyll4d9Y4MuQ+VbMW3ycstgkiY6BXf3Z8btxhh6WvOVlmfLIvCBYqxTxZhFC5tj0qxMOf3g/vHtCQM7fXxbOhLoaTWyAGOhFbKrfVl3KlC6dfTSQ8tHZCYsPbT9hLPiRs5IoFK3s7aQ==;3sK1gkl/KkOW2kZzEp7J1A=="

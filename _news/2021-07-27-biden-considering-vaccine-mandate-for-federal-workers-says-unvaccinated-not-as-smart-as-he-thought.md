@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
 type: article
 quality: 160
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to urge Americans to 'stay vigilant' amid COVID threat as he pushes federal workers to get vaccinated"
+    excerpt: "President Biden is expected to deliver a \"strong message\" to vaccinated and unvaccinated Americans Thursday afternoon about the \"need to stay vigilant\" as the nation deals with the spread of the COVID-19 delta variant, sources told Fox News."
+    publishedDateTime: 2021-07-29T19:10:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cuzWpBc3Am4/biden-covid-vaccination-speech-federal-workers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccination-speech-federal-workers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccination-speech-federal-workers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden questions parent 'honesty' about student vaccinations, says it's a matter of 'community responsibility'"
     excerpt: "President Biden said Wednesday that it was a matter of “community responsibility” for parents to be honest about whether their children aged 12 and older are vaccinated when schools reopen later this year."
     publishedDateTime: 2021-07-22T00:46:11Z

@@ -420,6 +420,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Kamala Harris releases strategy to tackle Central American migration’s root causes"
+    excerpt: "The plan supports short-term relief for migration pressures like extreme weather while committing sustained attention to long-term motivations for people to leave their countries."
+    publishedDateTime: 2021-07-29T19:41:00Z
+    webUrl: "https://www.pressherald.com/2021/07/29/kamala-harris-releases-strategy-to-tackle-central-american-migrations-root-causes/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 49
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Harris_Native_Americans_Voting_Rights_94536-1.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "With immigration and voting rights, is Biden setting up Kamala Harris for failure in 2024?"
     excerpt: "Vice President Kamala Harris is already the front-runner for the 2024 Democratic nomination, making everything she does fodder for political attacks."
     publishedDateTime: 2021-06-10T12:00:00Z

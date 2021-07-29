@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Hunter Biden's art massively overpriced, experts say: 'What is being sold is the Biden name'"
+    excerpt: "Hunter Biden's artwork, the prices for which range between $75,000 and $500,000, are highly overpriced and indicate that buyers will be paying for the Biden last name, rather than the art itself, experts say."
+    publishedDateTime: 2021-07-29T18:51:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Od4j7Xzu_BQ/hunter-biden-art-overpriced-experts-say"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-art-overpriced-experts-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-art-overpriced-experts-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ffe941b-0f9f-427b-aa8b-cd36608974ef/9a5dc365-a0c4-451c-ac2b-2c8d0b44bffa/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sky News Australia Anchor: Biden \"Incoherent\" at CNN Town Hall, He's \"Embarrassing The Free World\""
     excerpt: "A Sky News host Alan Jones blasts U.S. President Joe Biden for his incoherence at a CNN town hall last week. Jones said someone should have told Biden he is \"embarrassing the free world and obscuring the coronavirus."
     publishedDateTime: 2021-07-26T00:00:00Z

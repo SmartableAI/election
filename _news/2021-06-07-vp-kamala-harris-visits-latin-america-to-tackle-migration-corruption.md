@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -413,6 +413,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+        isCached: true
+  - title: "Kamala Harris releases strategy to tackle Central American migration’s root causes"
+    excerpt: "The plan supports short-term relief for migration pressures like extreme weather while committing sustained attention to long-term motivations for people to leave their countries."
+    publishedDateTime: 2021-07-29T19:41:00Z
+    webUrl: "https://www.pressherald.com/2021/07/29/kamala-harris-releases-strategy-to-tackle-central-american-migrations-root-causes/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 49
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Harris_Native_Americans_Voting_Rights_94536-1.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "California Latino leaders criticize Kamala Harris’ ‘Do not come’ message to migrants"
     excerpt: "Seeking asylum in the United States is not only legal but a matter of life and death for many,” the Latino Caucus leaders said."

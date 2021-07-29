@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nikki Fried invokes Sean Hannity, Donald Trump in Fox News pro-vaccine PSA"
+    excerpt: "Fox News viewers don't see Fried often. Agriculture Commissioner Nikki Fried took her aggressively pro-vaccine message to an unusual audience, buying time on the Fox News Channel to air a 30-second PSA on Friday."
+    publishedDateTime: 2021-07-29T15:48:00Z
+    webUrl: "https://floridapolitics.com/archives/444574-fried-vax/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 53
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Nikki-Fried-launch-video.jpg"
+        width: 1870
+        height: 975
+        isCached: true
 
 secured: "2T6W5oY2ic25pH1es/TXfDSP8WYrL6N9DdDAu8zWWxT2kT/IW+HiJCORFSSm8bF46ewWLBlvYQmtdoMDlL2njRB+Yh70cXzYB+oMb/88/wpfo9TdU3OR5/C6Q3cJKYyh+Zf0ZfLh7rxNYG3XlEg6ZvSF5TnglfzkmrkGcjuSN73abnHBUAOJmf63k2CAt9T6jZD08RwxXBMPb+FUE80d7d7q4bpyJZfmCKpZJyxYaSPQrQPtE4af+jwNCkvBVs8nBczBAs7qvivplx4rloPgpxtWtXGCk77fQPtERsC29gd34mQBq/e5DyT79E0od2Km884Ym9MRVc9NBOHBo72ka+tMIu8GdbKoLkYGobHYaHAZdquzZdGPLi3OTIbxK4Syao7WkLMBNvjVvdhtpEm34a0EqtVgKZ2BLc4pya2lqVgYOYLwRx5a+0fuwZN2C8wEECgWTW1so0fGSs1UgT3sbfjT0h1GBd7p2dgYJvYSymYFR9CBuJ6n7V1qwcsI+RBenFmaZYLx6JoMvQK0MAnDXQ==;2XWsIA+HVj+IAqVPgd3wqA=="
 ---

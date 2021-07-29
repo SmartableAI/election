@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-new
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-news-trump-campaign-ad"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://i.insider.com/5f292a3a243817370f29b81d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Nikki Fried invokes Sean Hannity, Donald Trump in Fox News pro-vaccine PSA"
+    excerpt: "Fox News viewers don't see Fried often. Agriculture Commissioner Nikki Fried took her aggressively pro-vaccine message to an unusual audience, buying time on the Fox News Channel to air a 30-second PSA on Friday."
+    publishedDateTime: 2021-07-29T15:48:00Z
+    webUrl: "https://floridapolitics.com/archives/444574-fried-vax/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 53
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Nikki-Fried-launch-video.jpg"
+        width: 1870
+        height: 975
         isCached: true
 
 secured: "4WfZI13VAiNoqf0tBCeGK8dFFRl6V5x32uQvugvhjEu9mNMbIfyw6hGxPu0ma42YRz779x+Zm/87Ou3Wqm4Pp1XC1XYuktakhSrGt6Hwx7O0Sa8FQ9O2NNeFMTN2QaacKqElfJ8V3bM1vcxG4WiGWvGkW1kz3ALZeVayznFn5XXYdKe+JNCc2R05AITsByItHYOjjdgEwcLMjn5OAL7i9X+7qoD4/psaV+rhQfuwi86n3jwJYrffVY4xEsdm/se8wZdVEsWhZxYu627x7y+JLOg6DBbSjk12EJa/hgdAy27+qVRuS0LD9NiMPSyKAbBTaTFiO7LPdyS6LYkBLdThh8tZ/znW7lt9x4aqgcOf7b4jiKn68T7Y27fMd5LI4/VR0pIFoB55Nimc5en7hg+VuogGa5C4VQD1YCLZZi6kbcJlmuJOXYAeZrkG3wIAxhg3cQUp6CSD7+J1Fa+MgVgN0eZL2qhnKbvh4buKwJmIdX2VcZaupIyqKCvHF3E0QtDuQX4CMtJnR4bKipyLf5vyZw==;gYQQHbUmu0bCLu3oedsvXQ=="

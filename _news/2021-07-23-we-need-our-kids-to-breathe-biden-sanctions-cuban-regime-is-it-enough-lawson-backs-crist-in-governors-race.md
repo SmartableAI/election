@@ -206,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration may challenge Texas governor's order targeting migrants"
+    excerpt: "The Biden administration is considering challenging Texas Gov. Greg Abbott's Wednesday executive order targeting migrants over concerns that his actions will cripple infrastructure in border communities, including potential legal action, a senior administration official told CNN.\n    \n"
+    publishedDateTime: 2021-07-29T18:53:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X-B_EsFgfoQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/texas-paxton-biden-migrants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/texas-paxton-biden-migrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729135225-02-gov-greg-abbott-0710-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden calls on Congress to extend eviction moratorium set to expire Saturday"
     excerpt: "President Joe Biden on Thursday called on Congress to extend the eviction moratorium set to expire on Saturday that prohibits landlords nationwide from evicting certain tenants who fail to pay rent amid the Covid-19 pandemic.\n    \n"
     publishedDateTime: 2021-07-29T16:29:38Z
