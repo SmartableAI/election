@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 832
         isCached: true
+  - title: "Harris releases strategy to tackle migration’s root causes"
+    excerpt: "Vice President Kamala Harris says efforts to address root causes of migration from Central America won't produce immediate results as she unveils a broad strategy that avoids detailed targets and dead"
+    publishedDateTime: 2021-07-29T10:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-releases-strategy-tackle-migrations-root-79135966"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-releases-strategy-tackle-migrations-root-79135966"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-releases-strategy-tackle-migrations-root-79135966"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_7d277f5c7729479d987a04ea35511965_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
     excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
     publishedDateTime: 2021-06-06T19:19:00Z

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-29-biden-harris-unveil-strategies-to-address-root-causes-of-immigration.md",
+      "title": "Biden, Harris unveil strategies to address 'root causes' of immigration",
+      "excerpt": "The Biden administration on Thursday rolled out its strategies to address the root causes of immigration, a step officials call a “core component” of efforts to establish a “fair, orderly, and humane immigration system.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 480,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
+      "publishedDateTime": "2021-07-29T03:00:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-harris-calls-on-black-lawyers-to-fight-states-voter-integrity-laws.md",
       "title": "Harris calls on Black lawyers to fight states’ voter-integrity laws",
       "excerpt": "Vice President Kamala Harris urged Black lawyers Tuesday to challenge new election laws in mostly Republican-led states that she said are intended to restrict minority voting and shift vote-counting to partisan entities.",
@@ -41,121 +98,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-biden-harris-awol-leaving-texans-to-fight-border-crisis-on-their-own-rep-gonzales.md",
-      "title": "Biden, Harris 'AWOL,' leaving Texans to fight border crisis on their own: Rep. Gonzales",
-      "excerpt": "The Biden administration quietly resumed a Trump-era policy to accelerate the removal of family units that don't qualify for asylum in the U.S. While the decision is an attempt to lessen the crisis at the southern border,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/biden-harris-awol-texas-border-crisis-gonzales",
-      "originalUrl": "https://www.foxnews.com/media/biden-harris-awol-texas-border-crisis-gonzales",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/biden-harris-awol-texas-border-crisis-gonzales.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-harris-awol-texas-border-crisis-gonzales.amp",
-      "publishedDateTime": "2021-07-27T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-politifact-declare-claims-biden-harris-distrusted-covid-vaccine-under-trump-are-false-despite-past-rhetoric.md",
-      "title": "PolitiFact declare claims Biden, Harris distrusted COVID vaccine under Trump are 'false' despite past rhetoric",
-      "excerpt": "PolitiFact appears to be shielding President Biden and Vice President Harris from criticism over their past rhetoric expressing distrust in the coronavirus vaccine during the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine",
-      "originalUrl": "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24b8824-1075-40f2-8530-1fae4fdb6a5f/afb16ed1-2995-4fa4-ac0e-42fcf4707036/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politifact-biden-harris-covid-vaccine.amp",
-      "publishedDateTime": "2021-07-26T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice",
         "Kamala Harris"
       ]
     },
@@ -1035,7 +977,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 857,
+      "heat": 837,
       "tags": null,
       "images": [
         {
@@ -1598,6 +1540,63 @@
       "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-liberal-media-propaganda-tammy-bruce.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-liberal-media-propaganda-tammy-bruce.amp",
       "publishedDateTime": "2021-06-25T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
+      "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
+      "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "originalUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "publishedDateTime": "2021-06-24T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

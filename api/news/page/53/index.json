@@ -2,58 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2021-04-14-this-has-been-a-tough-week-black-lawmakers-discuss-racial-inequities-covid-with-biden.md",
-      "title": "'This has been a tough week': Black lawmakers discuss racial inequities, COVID with Biden",
-      "excerpt": "Leaders of the Congressional Black Caucus met with President Joe Biden and Vice President Kamala Harris at the White House for the first time Tuesday and laid out their policy vision. “We had an amazing meeting where we were able to share our thoughts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/13/congressional-black-caucus-meets-president-joe-biden-first-time/7211806002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/13/congressional-black-caucus-meets-president-joe-biden-first-time/7211806002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/13/USAT/13d92cfa-233a-4e70-9474-30770a2b5401-AP21103688032453.jpg?auto=webp&crop=5764,3242,x1,y602&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7211806002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7211806002",
-      "publishedDateTime": "2021-04-13T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-04-14-cnn-staffer-boasts-to-project-veritas-that-network-peddled-anti-trump-propaganda.md",
       "title": "CNN staffer boasts to Project Veritas that network peddled anti-Trump ‘propaganda’",
       "excerpt": "A CNN staffer admitted in a secretly recorded video that his network produced “propaganda” to oust former President Donald Trump during the 2020 presidential election — and",
@@ -1362,6 +1310,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-is-he-really-in-charge-cornyn-tweet-about-biden-draws-scorn-white-house-response.md",
+      "title": "'Is he really in charge?': Cornyn tweet about Biden draws scorn, White House response",
+      "excerpt": "AUSTIN – U.S. Sen. John Cornyn, R-Texas, drew attention Monday for a series of tweets on President Joe Biden's media strategy, asking if the president \"is really in charge.\" Cornyn, quoting a Politico article about Biden's media presence, shared the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/26/NAAS/a30c32b0-58c3-4c51-a961-fd83f61cdbdc-Biden_Cabinet.jpg?auto=webp&crop=4750,2672,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7197230002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7197230002",
+      "publishedDateTime": "2021-04-12T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

@@ -60,22 +60,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "56 House Republicans urge Biden to remove Harris from leading role on migration crisis"
-    excerpt: "More than 50 House Republicans are urging President Biden to remove Vice President Kamala Harris from her role dealing with the migrant crisis that has overwhelmed the southern border in recent months -- accusing her of \"inaction\" on the crisis due to her failure to visit the border."
-    publishedDateTime: 2021-06-18T22:40:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/68Gg7Db346s/house-republicans-biden-remove-harris-migrant-role-inaction-border"
-    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-biden-remove-harris-migrant-role-inaction-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-biden-remove-harris-migrant-role-inaction-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 192
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b022dcc2-729e-41b3-b968-481b3dd04a7f/dbe75d1a-2e80-465d-873a-d252253e7ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Harris says she spoke to leaders of Japan, Finland about combating migrant crisis"
     excerpt: "Vice President Kamala Harris on Tuesday said she has spoken to leaders of countries such as Japan, Finland and Ireland about helping Northern Triangle countries, as part of the response to the migration crisis at the southern U.S. border."
     publishedDateTime: 2021-05-04T20:42:56Z
@@ -418,15 +402,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Guatemala Harris and the Myth of Biden's Border Policy"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-10T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/10/guatemala_harris_and_the_myth_of_bidens_border_policy_544635.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 70
   - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
     excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
     publishedDateTime: 2021-04-29T16:08:00Z

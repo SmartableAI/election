@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden's Claim He Once Drove 18-Wheeler Truck Provokes Skepticism"
+    excerpt: "The president later told workers at a Mack Truck factory in Pennsylvania that he \"just came to drive a truck.\""
+    publishedDateTime: 2021-07-29T10:16:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-claim-drove-18-wheeler-truck-provokes-skepticism-1614183"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-claim-drove-18-wheeler-truck-provokes-skepticism-1614183?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-claim-drove-18-wheeler-truck-provokes-skepticism-1614183?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1857922/biden-speaks-mack-truck-facility.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Meat and tractors: Biden administration pushes farm-friendly regulations"
     excerpt: "California growers and ranchers counted two big wins this summer that came in the form of an executive order signed by President Joe Biden. In June, Biden signed an executive order calling on the U.S. Department of Agriculture to consider issuing new ..."
     publishedDateTime: 2021-07-21T16:00:00Z
@@ -138,6 +154,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/d6c/699/47ddd7cd6f49debe5200d862d837462a76-joe-biden-1988.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Did Joe Biden Really Drive An 18-Wheeler Truck? The Truth Behind The President's Claims"
+    excerpt: "President Joe Biden was heard saying he “used to drive an 18-wheeler,” but critics and doubters aren’t buying the claim."
+    publishedDateTime: 2021-07-29T10:41:00Z
+    webUrl: "https://ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188"
+    ampWebUrl: "https://www.ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/19/us-president-joe-biden-says-that-china-has.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Democrats back Biden US lands pick assailed by Republicans"
     excerpt: "A U.S. Senate panel has deadlocked on President Joe Biden’s pick to oversee vast government-owned lands in the West amid bitter opposition from Republicans."

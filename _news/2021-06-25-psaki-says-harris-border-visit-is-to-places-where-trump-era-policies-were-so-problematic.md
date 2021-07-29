@@ -48,22 +48,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden touts Harris leadership on immigration as questions raised about her effectiveness"
-    excerpt: "President Biden touted Vice President Kamala Harris’ leadership in addressing the immigration crisis Friday, amid reports of infighting in the West Wing."
-    publishedDateTime: 2021-07-02T21:14:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3c6YP1UAF0A/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 191
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f371314-bc6e-455c-94da-41634cdccb49/342c2920-4867-42c0-9a4b-9341cfe4dba5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Critics slam Harris for avoiding hardest-hit area of migrant crisis"
     excerpt: "Vice President Harris' border trip is coming under fire as critics point out that she's steering clear of the areas that have been hardest hit by the ongoing immigration crisis."
     publishedDateTime: 2021-06-25T16:06:08Z

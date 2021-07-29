@@ -238,22 +238,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris under water in latest polling amid surging border crisis and veep office gripes"
-    excerpt: "The polls have not been kind to Vice President Kamala Harris of late, with the Real Clear Average of surveys now putting her at an under-water favorability of 44.3 percent."
-    publishedDateTime: 2021-07-23T20:35:00Z
-    webUrl: "https://nypost.com/2021/07/23/kamala-harris-favorability-sinking-survey/"
-    ampWebUrl: "https://nypost.com/2021/07/23/kamala-harris-favorability-sinking-survey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/23/kamala-harris-favorability-sinking-survey/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 124
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-0003.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
     excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
     publishedDateTime: 2021-05-14T00:41:00Z

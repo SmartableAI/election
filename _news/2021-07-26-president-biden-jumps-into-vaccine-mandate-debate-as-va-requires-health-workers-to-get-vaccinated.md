@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/veterans-affairs-require
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/veterans-affairs-requires-covid-vaccinations/index.html"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden shifts onus for pandemic onto the unvaccinated as he readies federal worker vaccine requirement"
+    excerpt: "President Joe Biden, who for months used techniques like public service announcements and grassroots campaigns to persuade Americans to get vaccinated, is adopting a tougher approach as caseloads surge: vaccine requirements and blame.\n    \n"
+    publishedDateTime: 2021-07-29T11:17:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6ZlqZAWWO3A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727161530-02-biden-odni-0727-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Boosters, masks and mandates: Biden's team sorts through options for containing Covid surge among unvaccinated Americans"
     excerpt: "The Biden administration is debating a series of steps to further contain the Covid-19 pandemic, which, after 18 months, is again surging in parts of the country where vaccination rates are low.\n    \n"
     publishedDateTime: 2021-07-24T13:00:18Z

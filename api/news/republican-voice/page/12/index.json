@@ -2,54 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-05-20-trump-vance-james-trying-to-cancel-voters-with-criminal-probe-into-organization.md",
-      "title": "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization",
-      "excerpt": "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
-      "originalUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
-      "publishedDateTime": "2021-05-19T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-19-kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone.md",
       "title": "Kirstie Alley shares details with Tucker on backlash for supporting Trump: Feels like ‘Twilight Zone'",
       "excerpt": "Actress Kirstie Alley shares in the newest episode of Fox Nation’s 'Tucker Carlson Today' how being honest about her support for Donald Trump took an extreme turn.",
@@ -1342,7 +1294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 561,
+      "heat": 541,
       "tags": null,
       "images": [
         {
@@ -1655,6 +1607,54 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-liz-cheney-willing-to-do-whatever-it-takes-to-prevent-trump-win-in-2024.md",
+      "title": "Liz Cheney willing to do ‘whatever it takes’ to prevent Trump win in 2024",
+      "excerpt": "Fresh off her ouster from House Republican leadership, Rep. Liz Cheney is maintaining her crusade to do “whatever it takes” to oppose former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/",
+      "originalUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/liz-cheney-1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/",
+      "publishedDateTime": "2021-05-13T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

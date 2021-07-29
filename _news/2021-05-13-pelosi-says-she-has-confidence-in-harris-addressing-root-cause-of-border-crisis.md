@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-cri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp"
 type: article
 quality: 181
-heat: 561
+heat: 541
 published: true
 
 provider:
@@ -221,22 +221,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Kamala Harris under water in latest polling amid surging border crisis and veep office gripes"
-    excerpt: "The polls have not been kind to Vice President Kamala Harris of late, with the Real Clear Average of surveys now putting her at an under-water favorability of 44.3 percent."
-    publishedDateTime: 2021-07-23T20:35:00Z
-    webUrl: "https://nypost.com/2021/07/23/kamala-harris-favorability-sinking-survey/"
-    ampWebUrl: "https://nypost.com/2021/07/23/kamala-harris-favorability-sinking-survey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/23/kamala-harris-favorability-sinking-survey/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 124
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-0003.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "CNN touts Kamala Harris as part of 'star-studded' graduation special featuring liberal celebrities"
     excerpt: "Vice President Kamala Harris will keynote what CNN calls a “star-studded\" network special honoring the Class of 2021 featuring other liberal celebrities, the network announced on Wednesday."

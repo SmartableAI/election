@@ -411,64 +411,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-27-politifact-declare-claims-biden-harris-distrusted-covid-vaccine-under-trump-are-false-despite-past-rhetoric.md",
-      "title": "PolitiFact declare claims Biden, Harris distrusted COVID vaccine under Trump are 'false' despite past rhetoric",
-      "excerpt": "PolitiFact appears to be shielding President Biden and Vice President Harris from criticism over their past rhetoric expressing distrust in the coronavirus vaccine during the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine",
-      "originalUrl": "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24b8824-1075-40f2-8530-1fae4fdb6a5f/afb16ed1-2995-4fa4-ac0e-42fcf4707036/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politifact-biden-harris-covid-vaccine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politifact-biden-harris-covid-vaccine.amp",
-      "publishedDateTime": "2021-07-26T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-07-27-trump-ally-thomas-barrack-pleads-not-guilty-in-foreign-lobbying-case.md",
       "title": "Trump ally Thomas Barrack pleads not guilty in foreign lobbying case",
       "excerpt": "Thomas Barrack, a longtime ally of former President Donald Trump who headed up his presidential inaugural committee, pleaded not guilty on Monday to federal charges stemming from his work unlawfully lobbying the Trump administration on behalf of the United Arab Emirates.",
@@ -525,8 +467,8 @@
       "title": "'I recommend you take the vaccine' - Donald Trump",
       "excerpt": "Rough Cuts 'I recommend you take the vaccine' - Donald Trump. Posted . Former U.S. President Donald Trump on Saturday in Arizona called on American's to get the COVID-19 vaccine s",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVENCFP3Z",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVENCFP3Z",
+      "webUrl": "https://www.reuters.com/video/watch/i-recommend-you-take-the-vaccine-donald-idOVENCFP3Z",
+      "originalUrl": "https://www.reuters.com/video/watch/i-recommend-you-take-the-vaccine-donald-idOVENCFP3Z",
       "featuredContent": null,
       "highlight": null,
       "heat": 125,
@@ -1550,6 +1492,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-pelosi-weighs-adding-kinzinger-a-second-anti-trump-republican-to-the-jan-6-inquiry.md",
+      "title": "Pelosi weighs adding Kinzinger, a second anti-Trump Republican, to the Jan. 6 inquiry.",
+      "excerpt": "The speaker has already given one of the eight Democratic seats on the panel to Representative Liz Cheney, Republican of Wyoming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/22/us/politics/22political-briefing-kinzinger/22political-briefing-kinzinger-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html",
+      "publishedDateTime": "2021-07-22T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

@@ -132,22 +132,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
-    excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
-    publishedDateTime: 2021-07-22T21:15:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW_aom0BKrs/harris-daca-recipients-administration-action-program-ruled-unlawful"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden taps new drug czar as illicit substances continue to pour across the border"
     excerpt: "President Biden nominated former West Virginia health official, Rahul Gupta, as the nation’s new head of U.S. drug policy as overdoses and drug trafficking surge."
     publishedDateTime: 2021-07-13T22:38:39Z
@@ -431,22 +415,6 @@ related:
     quality: 132
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4079e924-d89c-4b34-8ba8-f093c8b58cbb/2afceed1-004a-4a78-b7f2-cf2c2eeb2dc1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
-    excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
-    publishedDateTime: 2021-07-22T21:15:00Z
-    webUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-daca-recipients-administration-action-program-ruled-unlawful.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

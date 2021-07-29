@@ -47,6 +47,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Biden shifts onus for pandemic onto the unvaccinated as he readies federal worker vaccine requirement"
+    excerpt: "President Joe Biden, who for months used techniques like public service announcements and grassroots campaigns to persuade Americans to get vaccinated, is adopting a tougher approach as caseloads surge: vaccine requirements and blame.\n    \n"
+    publishedDateTime: 2021-07-29T11:17:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6ZlqZAWWO3A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727161530-02-biden-odni-0727-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "D7w55rZ1QBSmjY/ZKGSxsMvU/eS10h3J6VfefOAixkFvOy2CiuXs5ngnTXTUKQZlQUwc3m9/4DrZDU8uRn3YXfh+fZjyFW+4q0iVuJ58zhFdXGV87Qi0VHyZEuczpp2hZM3ibFUg+l5mPs+x5hTxnWectAcJrTR91+f5QqvjpD7HdkATT7qrjF628QwJzIn2Ryx4mVvFhLS34jXn3KQrMysszrjqafUU1UoHo75fGzT22T2f06avWHVb5IxsRe83djaU+VMiH+sTBIWUsb5axTcS0A92zsFgbFgwymgDdUogCQqeWJJPdLJCqsW5t017+WD9FAi3tXw5NRQqfFCsNHClfGwGUK+uNmKN1tY/Wv4=;7wGWGzOL53vx+GtroYkvmQ=="
 ---

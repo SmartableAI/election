@@ -34,7 +34,7 @@ related:
   - title: "'I recommend you take the vaccine' - Donald Trump"
     excerpt: "Rough Cuts 'I recommend you take the vaccine' - Donald Trump. Posted . Former U.S. President Donald Trump on Saturday in Arizona called on American's to get the COVID-19 vaccine s"
     publishedDateTime: 2021-07-26T20:00:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVENCFP3Z"
+    webUrl: "https://www.reuters.com/video/watch/i-recommend-you-take-the-vaccine-donald-idOVENCFP3Z"
     type: article
     provider:
       name: Reuters

@@ -2,58 +2,6 @@
   "page": 54,
   "value": [
     {
-      "path": "_news/2021-04-13-is-he-really-in-charge-cornyn-tweet-about-biden-draws-scorn-white-house-response.md",
-      "title": "'Is he really in charge?': Cornyn tweet about Biden draws scorn, White House response",
-      "excerpt": "AUSTIN – U.S. Sen. John Cornyn, R-Texas, drew attention Monday for a series of tweets on President Joe Biden's media strategy, asking if the president \"is really in charge.\" Cornyn, quoting a Politico article about Biden's media presence, shared the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/26/NAAS/a30c32b0-58c3-4c51-a961-fd83f61cdbdc-Biden_Cabinet.jpg?auto=webp&crop=4750,2672,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7197230002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7197230002",
-      "publishedDateTime": "2021-04-12T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-04-13-daunte-wright-killing-biden-calls-for-peace-and-calm-as-minneapolis-sets-curfew-live.md",
       "title": "Daunte Wright killing: Biden calls for ‘peace and calm’ as Minneapolis sets curfew – live",
       "excerpt": "The federal US government posted a March budget deficit of $660bn, a record high for the month, as direct payments to Americans under Joe Biden’s stimulus package were distributed, the treasury department said on Monday. The deficit for the first six ...",
@@ -1357,6 +1305,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-us-warns-iran-it-wont-lift-all-trump-era-sanctions-to-return-to-nuclear-deal.md",
+      "title": "U.S. warns Iran it won’t lift all Trump-era sanctions to return to nuclear deal",
+      "excerpt": "The Biden administration warned Friday that it will not lift every single economic sanction that former President Donald Trump imposed on Iran, despite pressure from Iran to do so as the two countries try to resurrect a nearly dead nuclear agreement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/09/iran-nuclear-talks-opposition-480561",
+      "originalUrl": "https://www.politico.com/news/2021/04/09/iran-nuclear-talks-opposition-480561",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/a7/f7/98ac8ac5456b9a5d5eaa9218bea8/210409-iran-nuclear-talks-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/09/iran-nuclear-talks-opposition-480561",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/iran-nuclear-talks-opposition-480561",
+      "publishedDateTime": "2021-04-10T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],
