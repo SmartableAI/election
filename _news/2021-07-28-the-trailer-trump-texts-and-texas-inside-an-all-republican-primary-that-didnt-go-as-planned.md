@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
+    excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
+    publishedDateTime: 2021-07-29T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/carl-p-leubsdorf-the-candidate-trump-endorsed-in-a-texas-race-lost-what-does-that/article_a85239e8-9169-56a5-b913-aa757f3adf35.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QgreMxQbJvVNDjw0LiNhLEJKGFVU5ZGXW6rOmnR9oBg9W8jG/veb8wR+moGepZtGFSIoGWPucuuij+H707MyCQl3KkyVb3027BVYjW8yDQIvU/LHNXN7BcvvQBgX0wF9Xj3yjkmOpVNd/ABUIezzep3BxMXQK4jeRCOAoEVLK1dsCr7NdJyEzHRYK+kw7o5gVCBDqVYm/IK+y+hADr4snHM/v7lDiIkleyHJDa8oCCYehAHlr4s92t2GClWYDMsRjqjJCcrbRnWxc22tOLEiQgHx0Ns1cLmn5zxl1RsAMWZfmSuqtDWz5Gm6BZs9nCqqcq/McphEYJv0qQvFYp2CIPt2KnksNNI6ltL+A8a4fTR7Y+KPVYwBEuiuwxPjrwvxY3wUKSAuAy/q6NtZRXgGUCGdBmp3+GMQzmtAFc/zuDvS+mHP+eZBrOjr9YDbvRKJI0TD8Jb7T2sSzMuimzJxrDG62dZBTOV8XXXFeiGkdhZGH0ar52Zplw/EH20AaxPZwMIx7NWIHSh9LuzM9mRouA==;nxYSDIb6iEtilSyd7wlYSw=="
 ---

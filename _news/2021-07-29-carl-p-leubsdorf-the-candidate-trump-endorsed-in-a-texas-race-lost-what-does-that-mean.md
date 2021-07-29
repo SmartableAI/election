@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright"
-excerpt: "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
-publishedDateTime: 2021-07-28T13:39:00Z
-originalUrl: "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/"
-webUrl: "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/"
+title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
+excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
+publishedDateTime: 2021-07-29T09:30:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/carl-p-leubsdorf-the-candidate-trump-endorsed-in-a-texas-race-lost-what-does-that/article_a85239e8-9169-56a5-b913-aa757f3adf35.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/carl-p-leubsdorf-the-candidate-trump-endorsed-in-a-texas-race-lost-what-does-that/article_a85239e8-9169-56a5-b913-aa757f3adf35.html"
 type: article
-quality: 98
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10"
-    width: 852
-    height: 480
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +38,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright"
+    excerpt: "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T13:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10"
+        width: 852
+        height: 480
         isCached: true
   - title: "The Trailer: Trump, texts and Texas: Inside an all-Republican primary that didn't go as planned"
     excerpt: "Instead, Democrats spent little, turned out few voters, and set up an all-Republican race between Wright and Ellzey, who'd previously sought the seat in 2018. Instead of a red-on-blue suburban battle,"
@@ -89,21 +99,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
-    excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
-    publishedDateTime: 2021-07-29T09:30:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/carl-p-leubsdorf-the-candidate-trump-endorsed-in-a-texas-race-lost-what-does-that/article_a85239e8-9169-56a5-b913-aa757f3adf35.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 45
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "rUkzhiQOAmu8Q5RVHMttwrWrnf40fClYTWCQq6Ch9Ljrr6Jlba5Afxtku1YTKigSSDQ9ea/xknicZryJhySODt/rtYOkdGxRsMr5qiJI7VZPNh9xJ6uah8eDZLCpu1P8O6f20Bm9rfuWmDRAl4TzXxF86Oo8H35T/7SSgDqkVbs3Bp6483OpMFmnjWAAKEzI7VR123jOVeHH4Ea9xIXqHEgjPrYksckk23+OuxHyWYmKIMEoeB9qCy8abl2113hx45edii+GGyD0bseAhFzhXGgNjTjkFBcpVk5FVsnZ7inTpwk3hCT6zIA+22JkntKVghO9ZNX5jeLIOekbiaAI0TZyvTe55I4Luy9QjtZXmCQ=;t0sfyX0PVMhoNrNJw35PvA=="
+secured: "NRwDGRsktPuB/96mO0jNEAjo46+Gz4/zChbTB+9lTce1HmO1DjPjK566YYSeM0w4tTvqScawldh9u7yyB+h3px8OugvbOIBNg9WreLRk1q2+WVn5lTkMZq76vWB7ZraDEDkhvJ2wl7tMpsqdI8UWcnIj7O15Nz4Hy1ZhByAFWqtqu1vkTh04vRfD+p+qfpyVmGBGywIu7HpQeqJfLkMiSYo/R2g69aqA2WxJ+/kLHmEiFYpZvkJy0by7LuXIVUpjSIHxB5fdoZxATFUrMCXFy+mZpIBRXSiAMSpc0wlj6baLM9GGgnoNgWsB498kXgjl5/8flP3JABreSwbKXC8VIqjNKMc+kQ4qJ9G0fzWacbQ=;VBAchI55DwJnE2AvzjXF9Q=="
 ---
 

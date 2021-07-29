@@ -3,8 +3,8 @@ category: news
 title: "'I recommend you take the vaccine' - Donald Trump"
 excerpt: "Rough Cuts 'I recommend you take the vaccine' - Donald Trump. Posted . Former U.S. President Donald Trump on Saturday in Arizona called on American's to get the COVID-19 vaccine s"
 publishedDateTime: 2021-07-26T20:00:00Z
-originalUrl: "https://www.reuters.com/video/watch/i-recommend-you-take-the-vaccine-donald-idOVENCFP3Z"
-webUrl: "https://www.reuters.com/video/watch/i-recommend-you-take-the-vaccine-donald-idOVENCFP3Z"
+originalUrl: "https://www.reuters.com/video/watch/idOVENCFP3Z"
+webUrl: "https://www.reuters.com/video/watch/idOVENCFP3Z"
 type: article
 quality: 105
 heat: 125
@@ -46,6 +46,6 @@ related:
         height: 768
         isCached: true
 
-secured: "UNRw/TRvoRrY7bJEFo8e4mp0SpPI8lGFxua1fPXDyjfIKO16Oki5c76ki6TF8iWZANk36OgAK7BQCMhLPD036Rok15J5SZotqI9h+6ph+kZWbFMW75GC3fLy+JcTDLu7WY9y1hit+rqX1Qd6J1CCYOXF4yrwHEYvgQVWA5SCs4qLqoAkfAoR537WWO1M9dD537/NoiS84MbpbV4W2vLI47UH2de2OUzEu4cuRzHkT6mfn7BRKZsUfxo+HCqqxeAtwDbjtRSbSHA170tQEA+fhyo/57hRMPpEvjicc7Xc+KS6CfNg1ahuJgurK1mhbz6aTZphSKDSvOJbHIR7aBLWF3ntGyTpX31pJxv7ZCN1IEo=;B1u9ATowSvVq0yIF00DAyA=="
+secured: "bvBN62ffWE4YvgWiEJ92qq4rW0oxUtIBlwsyqxgYkK+3qKZmk1nebastap5zlsL8+c9SoZ025ApBxdkx4j3QpD9hQlpVoyEH8PquNl1YdPUy9AFKBQiB6NTsmNy/eUQ6nxwUztWkZK676KTypprRAmix9Q2S2euvHzFfo9h2l10+07R2+GMVdNeWINlWNs3D6FrGFTHs3v+gOzuTDO61cuZc7oG1nbwyRs3MZdt0y+YuW+CQ9HLRrGR4IoZ9J5+lWBprtUMYXtR+hCmlWxGcppX6dmWBuWp0sTFjkiET9T/sXzyH3VQwL6kbPKMsYXl19kf+lKBEP/Bra1aWFLeg11ckRrE+8D/7GpETPVDCYno=;cUMlgPg3I8Y2OfLxXiod2Q=="
 ---
 
