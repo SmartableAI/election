@@ -79,22 +79,6 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "Sen. Kyrsten Sinema meets with President Joe Biden on infrastructure plan, is optimistic deal will be reached"
-    excerpt: "Sen. Kyrsten Sinema, who is co-leading negotiations on a bipartisan infrastructure plan, met with President Joe Biden Tuesday for a one-one-one meeting as lawmakers seek to overcome disagreements on the $1."
-    publishedDateTime: 2021-07-27T21:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5386080001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5386080001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/27/PPHX/29fde48d-88fe-4842-95fc-a5113767d098-AP21196772466931.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Biden hosts Jordan's King Abdullah at White House"
     excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
     publishedDateTime: 2021-07-19T20:33:00Z
@@ -163,6 +147,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/609519e9-8ebe-4e89-898a-047ab6d8d66d/3b9e608e-4fee-4a64-a8a8-bb03c72f37ac/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sen. Kyrsten Sinema meets with President Joe Biden on infrastructure plan, is optimistic deal will be reached"
+    excerpt: "Sen. Kyrsten Sinema, who is co-leading negotiations on a bipartisan infrastructure plan, met with President Joe Biden Tuesday for a one-one-one meeting as lawmakers seek to overcome disagreements on the $1."
+    publishedDateTime: 2021-07-27T21:20:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/arizona/2021/07/27/arizona-sen-kyrsten-sinema-optimistic-she-meets-president-biden-infrastructure-deal/5386080001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5386080001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5386080001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 56
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/27/PPHX/29fde48d-88fe-4842-95fc-a5113767d098-AP21196772466931.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "MICHAEL BARONE: Joe Biden's big lie"
     excerpt: "Did you know that Black people are not going to be allowed to vote in America anymore? At least in states controlled by Republicans. Sounds unlikely, but that's a conclusion you might have come to if you took seriously what President Joe Biden said in Philadelphia last week."
