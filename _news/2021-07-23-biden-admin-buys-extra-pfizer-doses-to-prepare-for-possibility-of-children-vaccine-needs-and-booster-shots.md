@@ -415,6 +415,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First on CNN: President Biden to meet with 7 governors Friday to discuss devastating wildfires"
+    excerpt: "President Joe Biden and Vice President Kamala Harris will meet with seven governors on Friday to talk about how states are responding to a devastating Western wildfire season -- and how the federal government can assist.\n    \n"
+    publishedDateTime: 2021-07-29T19:59:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ME2T3BhMOWQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/biden-governors-wildfires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-governors-wildfires/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727091439-dixie-wildfire-lassen-national-forest-california-0726-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden officials convene meeting with homebuilding stakeholders amid inflation concerns and rising home prices"
     excerpt: "Top White House officials are meeting Friday with stakeholders from the homebuilding industry, officials confirm, which comes amid soaring home prices and inflation concerns.\n    \n"
     publishedDateTime: 2021-07-16T16:18:33Z

@@ -173,6 +173,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Watch live: Biden gives remarks on COVID-19 vaccination efforts"
+    excerpt: "President Biden is scheduled to give remarks Thursday afternoon on COVID-19 vaccination efforts amid the rise in cases of the COVID-19 delta variant.He is scheduled to deliver the remarks at 4 p.m. EDT."
+    publishedDateTime: 2021-07-29T19:52:00Z
+    webUrl: "https://thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts"
+    ampWebUrl: "https://thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/video_images/bidenjoe_16.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
     publishedDateTime: 2021-03-30T17:44:00Z

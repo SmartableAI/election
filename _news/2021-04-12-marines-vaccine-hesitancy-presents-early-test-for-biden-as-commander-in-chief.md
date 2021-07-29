@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration calls for $100 coronavirus vaccine payments"
+    excerpt: "The Biden administration is urging state and local governments to use coronavirus relief funds to pay citizens $100 a pop to take the coronavirus vaccine, the Treasury Department announce Thursday."
+    publishedDateTime: 2021-07-29T20:22:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mx91YQ7IVAI/biden-100-cornavirus-vaccine-payments"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-100-cornavirus-vaccine-payments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-100-cornavirus-vaccine-payments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21209751584423.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "DNC launches billboard blitz to sell Biden's $1.9T coronavirus relief law"
     excerpt: "EXCLUSIVE: The Democratic National Committee is hitting the road in its latest campaign to tout President Biden's $1.9 trillion coronavirus relief plan and call out Republicans who voted against it."
     publishedDateTime: 2021-04-05T09:30:03Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
 type: article
 quality: 160
-heat: 200
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden defends previously saying vaccinated don't need masks: 'That was true at the time'"
+    excerpt: "President Biden was involved in a heated exchange with Fox News reporter Peter Doocy after he pressed Biden on whether or not vaccinated Americans still need to wear masks."
+    publishedDateTime: 2021-07-29T21:52:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eec26b2c-3cfe-4b36-bb76-dfd0652fbbc6/c35c575c-353d-457f-bcbf-31c72016050c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to urge Americans to 'stay vigilant' amid COVID threat as he pushes federal workers to get vaccinated"
     excerpt: "President Biden is expected to deliver a \"strong message\" to vaccinated and unvaccinated Americans Thursday afternoon about the \"need to stay vigilant\" as the nation deals with the spread of the COVID-19 delta variant, sources told Fox News."
     publishedDateTime: 2021-07-29T19:10:47Z
@@ -46,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden questions parent 'honesty' about student vaccinations, says it's a matter of 'community responsibility'"
-    excerpt: "President Biden said Wednesday that it was a matter of “community responsibility” for parents to be honest about whether their children aged 12 and older are vaccinated when schools reopen later this year."
-    publishedDateTime: 2021-07-22T00:46:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuT-bgOa-40/biden-vaccination-honesty-schools-reopen-community-responsibility"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1180707-11ea-4958-9a04-2e046e48bafe/790a3046-6985-4f53-9580-957cdfc1cbd5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
 
 secured: "OVNeN3Uu1ixO/TASiOov6qHc/nDflIb0gqIDe4wuBwX2ORFVup4l210S1gDEZk83MeM3xETgj2epYgWWF13swc5mpjISJnw8Jgv0fe+qLJSdi0mrtUSFz/W7hsMv3HpcOQM3AupnXCAKnl+3EfBWlE/a03BzZBV6NBUD9o9011Zm26rI50RLaeZl+OKKhYSDCScUZGoF/0tgMyA9Ct+BpQoIBQg7kj6iEro/5wOQkvnA4NPO6BByXdwT0UtaUiIaqssH8OVIY6KcN7AJdy9LLYFAEbbL2di782PxQjm2S5lFonVs656xsWYlvTpjVexvj7qGv/qShJ1cgB6/DFTzCLkkbvy/iH6+TJi/9HKW3uE=;pIO64SiWeDUr6wbMlqWeiQ=="

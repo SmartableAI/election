@@ -2,6 +2,119 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-23-biden-jumps-backs-into-campaigning-with-mcauliffe-rally-in-virginia.md",
+      "title": "Biden jumps backs into campaigning with McAuliffe rally in Virginia ",
+      "excerpt": "President Joe Biden is making his return to the campaign trail.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yg-TSkIIoDs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yg-TSkIIoDs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721154708-terry-mcauliffe-0608-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html",
+      "publishedDateTime": "2021-07-23T08:36:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-kamala-harris-looks-to-turn-the-page-as-she-zeroes-in-on-voting-rights.md",
+      "title": "Kamala Harris looks to turn the page as she zeroes-in on voting rights",
+      "excerpt": "Vice President Kamala Harris is making voting rights her top public focus, elevating a long-shot battle as she seeks to more clearly define her role and stake out high-value territory within the Biden administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4I8fBiC_eRo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4I8fBiC_eRo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210713172902-02-harris-texas-democrats-0713-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/politics/kamala-harris-voting-rights/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/kamala-harris-voting-rights/index.html",
+      "publishedDateTime": "2021-07-23T04:25:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-a-scandal-scarred-senate-candidate-wants-donald-trumps-endorsement-other-republicans-worry-hell-give-it.md",
       "title": "A scandal-scarred Senate candidate wants Donald Trump’s endorsement. Other Republicans worry he’ll give it.",
       "excerpt": "Former Missouri governor Eric Greitens, forced from office in 2018, has hired several Trump associates for his campaign and has falsely suggested Trump could replace Biden before the next presidential election.",
@@ -394,7 +507,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 312,
+      "heat": 292,
       "tags": null,
       "images": [
         {
@@ -450,7 +563,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 815,
+      "heat": 835,
       "tags": null,
       "images": [
         {
@@ -610,7 +723,7 @@
       "originalUrl": "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -943,7 +1056,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1248,118 +1361,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-warns-about-conspiracies-flourishing-in-the-us-the-rest-of-the-worlds-wondering-about-us.md",
-      "title": "Biden warns about conspiracies flourishing in the US: 'The rest of the world's wondering about us'",
-      "excerpt": "President Joe Biden on Wednesday raised the alarm about conspiracy theories flourishing in the US and dividing the nation, warning that \"the rest of the world's wondering about us.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye0g1f9ppkA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye0g1f9ppkA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html",
-      "publishedDateTime": "2021-07-21T18:47:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-says-abolishing-filibuster-would-throw-entire-congress-into-chaos.md",
-      "title": "Biden says abolishing filibuster would 'throw entire Congress into chaos'",
-      "excerpt": "President Biden shot down calls to abolish the filibuster to clear the way for passage of the sweeping Democrat-backed elections overhaul, arguing that any effort to end use of the tactic despite a GOP outcry would jeopardize his entire legislative agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo1DjHCpQkk/biden-abolishing-fillibuster-throw-entire-congress-chaos",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo1DjHCpQkk/biden-abolishing-fillibuster-throw-entire-congress-chaos",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80949319-7d85-4343-8813-be2da542c83b/127f1c2b-36c9-4e4c-8318-6ee4ccfaa5d8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
-      "publishedDateTime": "2021-07-21T18:41:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

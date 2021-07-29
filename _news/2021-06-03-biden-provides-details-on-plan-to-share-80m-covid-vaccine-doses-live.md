@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3cbc24c2-f46b-4114-b944-ecc8a5baef16.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Watch live: Biden gives remarks on COVID-19 vaccination efforts"
+    excerpt: "President Biden is scheduled to give remarks Thursday afternoon on COVID-19 vaccination efforts amid the rise in cases of the COVID-19 delta variant.He is scheduled to deliver the remarks at 4 p.m. EDT."
+    publishedDateTime: 2021-07-29T19:52:00Z
+    webUrl: "https://thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts"
+    ampWebUrl: "https://thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/video_images/bidenjoe_16.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"

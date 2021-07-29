@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-28-new-jersey-town-drops-case-against-f-biden-sign-lady-after-aclu-intervenes-report.md",
+      "title": "New Jersey town drops case against ‘F--- Biden’ sign lady after ACLU intervenes: report",
+      "excerpt": "A town in New Jersey has decided to end its effort to have a resident remove various anti-Biden signs from her property, including several that contain profanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
+      "originalUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1f80430-6227-4a83-93d2-dd9f83faf89a/30d5fc90-e00a-4a49-8499-ea92c159a177/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
+      "publishedDateTime": "2021-07-27T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-trump-vows-we-wont-mask-our-children-in-wake-of-new-cdc-recommendation.md",
+      "title": "Trump vows ‘we won’t mask our children’ in wake of new CDC recommendation",
+      "excerpt": "Donald Trump blasted the Biden administration after the CDC recommended indoor mask mandates in most areas of the US as well as in all K-12 schools, regardless of vaccination status.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
+      "originalUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-anti-mask-indexb.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
+      "publishedDateTime": "2021-07-27T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-texas-voters-brush-aside-trump-endorsement-and-name-jake-ellzey-the-winner-in-a-house-special-election-in-texas.md",
+      "title": "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas",
+      "excerpt": "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-america-first-legal-demands-info-on-bidens-extreme-open-border-policies-the-rails-have-been-ripped-off.md",
       "title": "America First Legal demands info on Biden's 'extreme' open border policies: 'The rails have been ripped off'",
       "excerpt": "America First Legal (AFL), former Trump adviser Stephen Miller's legal group, filed Freedom of Information Act (FOIA) requests with several executive branch agencies in an attempt to obtain records and data on Biden administration's \"extreme\" open border policies.",
@@ -31,62 +188,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/america-first-legal-biden-open-border-policies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/america-first-legal-biden-open-border-policies.amp",
       "publishedDateTime": "2021-07-27T14:48:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-biden-considering-vaccine-mandate-for-federal-workers-says-unvaccinated-not-as-smart-as-he-thought.md",
-      "title": "Biden considering vaccine mandate for federal workers, says unvaccinated not as 'smart' as he thought",
-      "excerpt": "President Biden said Tuesday he is considering requiring all federal employees to be vaccinated and questioned the intelligence of those that have yet to do so.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnlHCmuLiOQ/biden-federal-vaccine-mandate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnlHCmuLiOQ/biden-federal-vaccine-mandate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ea5077-c2bf-418d-aa26-66f4b2f1dea9/188ffa1c-573c-47cd-a16d-bb08437ce582/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-federal-vaccine-mandate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-federal-vaccine-mandate.amp",
-      "publishedDateTime": "2021-07-27T13:49:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -768,7 +869,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -928,7 +1029,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 202,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -1232,115 +1333,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-biden-and-kadhimi-seal-agreement-to-end-us-combat-mission-in-iraq.md",
-      "title": "Biden and Kadhimi seal agreement to end US combat mission in Iraq",
-      "excerpt": "President and PM meet at Oval Office and announce schedule to shift mission entirely to training and advisory role by end of this year",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "originalUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/128af502e617b1e5bf969afb2545849df37b1c60/0_0_4385_2630/master/4385.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef0434ac01738e54ec3dca6dd172c5dc",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "publishedDateTime": "2021-07-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-education-nonprofit-warns-biden-nominee-lhamon-would-threaten-progress-of-trump-era-title-ix-protections.md",
-      "title": "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections",
-      "excerpt": "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon",
-      "originalUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp",
-      "publishedDateTime": "2021-07-26T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

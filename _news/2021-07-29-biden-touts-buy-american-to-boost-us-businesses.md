@@ -25,21 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "America’s number one aging athlete: Joe Biden (Letters)"
-    excerpt: "Joe Biden is just doing what aging athletes have discovered. He prioritizes quality over quantity, and uses his experience to “read defenses” and make the right calls."
-    publishedDateTime: 2021-07-23T19:04:00Z
-    webUrl: "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html"
-    ampWebUrl: "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html?outputType=amp"
+  - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live"
+    excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
+    publishedDateTime: 2021-07-29T21:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-610314568f0811859feb7db8"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 75
+      name: The Guardian
+      domain: theguardian.com
+    quality: 92
+  - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
+    excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"
+    publishedDateTime: 2021-07-29T19:30:00Z
+    webUrl: "https://www.mcall.com/news/breaking/mc-biz-biden-lehigh-valley-buy-american-20210729-uacsnn7kyzf55ayfilnf63lpti-story.html"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 42
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
-        width: 6720
-        height: 4480
+      - url: "https://www.mcall.com/resizer/yy6jKFAuNqMH7Fzb1nVgee3lHfs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VXCNOKDEPBFGVG2NMNJTVF6CBI.jpg"
+        width: 1200
+        height: 815
         isCached: true
 
 secured: "g0IHjXbsxhqH//yq8LQ2ooYxLCtmD1zc4JydaGKat51Ni/z1rSVxobnckLBsTa976J7kmbaOVXo448XP5oX/mwuDovo/jSoVcD1vrFqgCUI237oa1z9w0eBaKN6jlQhqaxN6QGSXbmGc8Rt1bOzEGdJputTLPsujPLHOAZKuez+eswCjsR6lVWLJ7yo7Y/u8HFa4Fla8M8pH2aDG+m6GiX+uViQ0TdpBOBhbDwZOpXoLXj+yA4WGTbh/VlTAC9lwzxTz7JvcQVxZI+6uuQ7u63/Ts5dNHxsNQE3+XHNGL+MFN1oRlqmFDP8VZ8+45xOtDjk18AT0bKbWOlpk7T2nsDl4mIh889Nx6mnNWLfLgOY=;0NeaIKFGHYQuKk+7PghDPQ=="

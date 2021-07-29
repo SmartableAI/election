@@ -215,6 +215,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Harris releases strategy to tackle migration’s root causes"
+    excerpt: "Vice President Kamala Harris said Thursday that efforts to address root causes of migration from three Central American countries won't produce immediate results as she unveiled a broad strategy that expands on principles the Biden administration previously outlined."
+    publishedDateTime: 2021-07-29T20:58:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/29/harris-releases-strategy-to-tackle-migrations-root/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/29/harris-releases-strategy-to-tackle-migrations-root/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/29/harris-releases-strategy-to-tackle-migrations-root/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/y1XXNUpAehtlO6djCwJ1mwB1ZIA=/480x0/media.spokesman.com/photos/2021/07/27/6100d7148a226.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "VP Kamala Harris in Mexico to address illegal migration with Lopez Obrador"
     excerpt: "Vice President Kamala Harris met with Mexican President Andres Manuel Lopez Obrador in Mexico City on Tuesday to discuss immigration policy, part of her first foreign trip since taking office in January."
     publishedDateTime: 2021-06-08T15:48:00Z

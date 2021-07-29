@@ -131,6 +131,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "The 1 thing small-business owners need to know about Biden's infrastructure plan"
+    excerpt: "So far, there's no mention of small-business concerns in the $550 billion bipartisan deal, despite Biden's original plan."
+    publishedDateTime: 2021-07-29T18:54:00Z
+    webUrl: "https://www.businessinsider.com/what-the-infrastructure-plan-means-for-business-owners-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/6102d424ea74d40019b9a8c0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden meets Jordan's King Abdullah in sign of improved relations"
     excerpt: "President Joe Biden met with Jordan's King Abdullah Monday in a sign that relations between the two countries have improved since fraying under former President Donald Trump."
     publishedDateTime: 2021-07-19T21:10:00Z

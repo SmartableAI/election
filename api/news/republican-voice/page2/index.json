@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
+      "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
+      "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
+      "originalUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/gaurdians-trump-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
+      "publishedDateTime": "2021-07-23T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-biden-gives-odd-response-about-sucking-blood-out-of-kids-to-question-about-defunding-police.md",
       "title": "Biden Gives Odd Response About \"Sucking Blood Out Of Kids\" To Question About Defunding Police",
       "excerpt": "President Biden caused confusion and concern with a bizarre answer to a question about progressive Democrats who campaigned to \"defund the police\" on Thursday evening. \"Are there people in the Democratic Party who want to defund the police?",
@@ -230,7 +278,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 312,
+      "heat": 292,
       "tags": null,
       "images": [
         {
@@ -342,7 +390,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -415,6 +463,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
       "publishedDateTime": "2021-07-21T18:41:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-biden-questions-parent-honesty-about-student-vaccinations-says-its-a-matter-of-community-responsibility.md",
+      "title": "Biden questions parent 'honesty' about student vaccinations, says it's a matter of 'community responsibility'",
+      "excerpt": "President Biden said Wednesday that it was a matter of “community responsibility” for parents to be honest about whether their children aged 12 and older are vaccinated when schools reopen later this year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuT-bgOa-40/biden-vaccination-honesty-schools-reopen-community-responsibility",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuT-bgOa-40/biden-vaccination-honesty-schools-reopen-community-responsibility",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1180707-11ea-4958-9a04-2e046e48bafe/790a3046-6985-4f53-9580-957cdfc1cbd5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
+      "publishedDateTime": "2021-07-21T17:46:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1513,119 +1617,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
       "publishedDateTime": "2021-07-17T06:27:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-pence-in-iowa-charges-biden-trying-to-turn-america-into-a-secular-welfare-state.md",
-      "title": "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’",
-      "excerpt": "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
-      "publishedDateTime": "2021-07-16T16:50:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-noem-says-shes-counting-on-trump-running-again-in-2024.md",
-      "title": "Noem says she’s ‘counting’ on Trump running again in 2024",
-      "excerpt": "Republican Gov. Kristi Noem of South Dakota - speaking with Fox News during a trip to Iowa - says she’s “counting” on former President Trump to run again for the White House in 2024.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
-      "publishedDateTime": "2021-07-16T16:25:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

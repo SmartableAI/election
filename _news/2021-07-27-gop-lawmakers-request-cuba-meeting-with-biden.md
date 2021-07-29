@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/564956-gop-lawmakers-req
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210726&i=OVENHG8NZ&r=OVENHG8NZ&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "The 1 thing small-business owners need to know about Biden's infrastructure plan"
+    excerpt: "So far, there's no mention of small-business concerns in the $550 billion bipartisan deal, despite Biden's original plan."
+    publishedDateTime: 2021-07-29T18:54:00Z
+    webUrl: "https://www.businessinsider.com/what-the-infrastructure-plan-means-for-business-owners-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/6102d424ea74d40019b9a8c0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The CDC’s Masking Reversal Marks a Difficult New Phase of Joe Biden's Pandemic Fight"
     excerpt: "The CDC walked back its earlier guidance, now saying some who are vaccinated should put their masks back on indoors."

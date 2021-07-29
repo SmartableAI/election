@@ -93,6 +93,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Lawmakers urge Biden to call for prisoners release"
+    excerpt: "A group of bipartisan lawmakers called for the release of Americans Trevor Reed and Paul Whelan from Russian prisons Thursday and pressed President Joe Biden to \"turn up the heat on Russia\" to bring home the two American detainees."
+    publishedDateTime: 2021-07-29T19:52:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/29/lawmakers-urge-biden-call-prisoners-release/5420840001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3400d1ae-fbc5-4a9d-8273-7ce35d18f6d8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "President Biden says the U.S. combat mission in Iraq will be over by end of 2021"
     excerpt: "President Joe Biden tells Iraqi Prime Minister Mustafa al-Kadhimi that the U.S. military's combat mission in Iraq will be over by the end of the year."
     publishedDateTime: 2021-07-27T11:34:00Z

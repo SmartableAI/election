@@ -175,6 +175,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Watch live: Biden gives remarks on COVID-19 vaccination efforts"
+    excerpt: "President Biden is scheduled to give remarks Thursday afternoon on COVID-19 vaccination efforts amid the rise in cases of the COVID-19 delta variant.He is scheduled to deliver the remarks at 4 p.m. EDT."
+    publishedDateTime: 2021-07-29T19:52:00Z
+    webUrl: "https://thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts"
+    ampWebUrl: "https://thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/video_images/bidenjoe_16.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
     publishedDateTime: 2021-04-22T01:13:00Z

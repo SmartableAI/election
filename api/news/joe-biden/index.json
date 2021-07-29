@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-30-you-dont-have-to-die-biden-urges-americans-to-get-vaccinated-and-calls-for-incentives-live.md",
+      "title": "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live",
+      "excerpt": "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-610314568f0811859feb7db8",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-610314568f0811859feb7db8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "publishedDateTime": "2021-07-29T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-biden-to-allow-eviction-moratorium-to-expire-saturday.md",
       "title": "Biden to allow eviction moratorium to expire Saturday",
       "excerpt": "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month.",
@@ -419,7 +462,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -618,7 +661,7 @@
       "originalUrl": "https://www.reuters.com/article/us-afghanistan-conflict-refugees-idUSKBN2ET29T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -670,7 +713,7 @@
       "originalUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -813,7 +856,7 @@
       "originalUrl": "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1453,58 +1496,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-biden-social-media-platforms-killing-people-with-misinfo.md",
-      "title": "Biden: Social media platforms 'killing people' with misinfo",
-      "excerpt": "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRI5GLHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-16T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

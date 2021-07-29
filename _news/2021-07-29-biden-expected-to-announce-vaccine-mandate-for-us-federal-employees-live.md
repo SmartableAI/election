@@ -47,6 +47,38 @@ related:
         width: 2500
         height: 1670
         isCached: true
+  - title: "Biden's COVID plan: Federal workers must report shot status"
+    excerpt: "President Joe Biden's plan to stem the increase in coronavirus cases around the country requires federal employees to attest to their vaccination status"
+    publishedDateTime: 2021-07-29T20:32:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79150074"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79150074"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79150074"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_466a6303a64a42f1b15f5c42f02906d7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden's federal workforce vaccine mandate could inspire companies to follow suit"
+    excerpt: "The Biden administration’s federal workforce vaccine mandate could inspire more companies to follow along, but also trigger an avalanche of lawsuits."
+    publishedDateTime: 2021-07-29T17:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-federal-workforce-vaccine-mandate-inspire-companies-follow/story?id=79123913"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-federal-workforce-vaccine-mandate-inspire-companies-follow/story?id=79123913"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-federal-workforce-vaccine-mandate-inspire-companies-follow/story?id=79123913"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/detroit-vaccine-rt-jt-210729_1627577865292_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden administration offers new aid for mortgage borrowers at risk of foreclosure due to COVID-19 pandemic"
     excerpt: "The new assistance will reduce monthly principal and interest payments by about 25% for homeowners with certain federally-backed loans."
     publishedDateTime: 2021-07-23T15:20:00Z

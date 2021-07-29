@@ -47,6 +47,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Biden announces measures to incentivize Covid-19 vaccinations, including a requirement for federal employees"
+    excerpt: "President Joe Biden on Thursday is set to announce a number of new steps his administration will take to try to get more Americans vaccinated and slow the spread of coronavirus, including requiring that all federal employees must attest to being vaccinated against Covid-19 or face strict protocols.\n"
+    publishedDateTime: 2021-07-29T20:52:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IgvojKgWGSY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/joe-biden-vaccination-requirement-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/joe-biden-vaccination-requirement-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Boosters, masks and mandates: Biden's team sorts through options for containing Covid surge among unvaccinated Americans"
     excerpt: "The Biden administration is debating a series of steps to further contain the Covid-19 pandemic, which, after 18 months, is again surging in parts of the country where vaccination rates are low.\n    \n"
     publishedDateTime: 2021-07-24T13:00:18Z
