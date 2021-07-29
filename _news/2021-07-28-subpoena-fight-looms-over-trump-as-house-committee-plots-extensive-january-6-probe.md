@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Rising Covid-19 concerns could slow plans to scrap Trump-era border policy "
-excerpt: "The Biden administration may delay winding down a Trump-era border policy tied to the pandemic due to increasing concerns about Covid-19 variants, according to a source familiar with the matter.\n    \n"
-publishedDateTime: 2021-07-20T02:13:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHu6wszfkv8/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHu6wszfkv8/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
+title: "Subpoena fight looms over Trump as House committee plots extensive January 6 probe"
+excerpt: "Investigators on the House's January 6 select committee, vowing a deep dive into the attack on the US Capitol, may soon be confronted with a grim reality: A battle over subpoena requests and the prospect they could end up in protracted legal fights.\n    \n"
+publishedDateTime: 2021-07-28T23:47:52Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t09SBzKZmdk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t09SBzKZmdk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/subpoena-trump-house-january-6-probe/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/subpoena-trump-house-january-6-probe/index.html"
 type: article
-quality: 173
+quality: 169
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Rising Covid-19 concerns could slow plans to scrap Trump-era border policy "
+    excerpt: "The Biden administration may delay winding down a Trump-era border policy tied to the pandemic due to increasing concerns about Covid-19 variants, according to a source familiar with the matter.\n    \n"
+    publishedDateTime: 2021-07-20T02:13:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHu6wszfkv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and the GOP spin fantasies to hide his crimes against the Constitution"
     excerpt: "It's gone beyond whitewashing history. Ex-President Donald Trump and his House Republican enablers are now spinning fantastical inversions to hide his crimes against the Constitution on January 6.\n    \n"
     publishedDateTime: 2021-07-22T11:31:56Z
@@ -60,22 +76,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154544-02-mccarthy-presser-0721-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Subpoena fight looms over Trump as House committee plots extensive January 6 probe"
-    excerpt: "Investigators on the House's January 6 select committee, vowing a deep dive into the attack on the US Capitol, may soon be confronted with a grim reality: A battle over subpoena requests and the prospect they could end up in protracted legal fights.\n    \n"
-    publishedDateTime: 2021-07-28T23:47:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t09SBzKZmdk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/subpoena-trump-house-january-6-probe/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/subpoena-trump-house-january-6-probe/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -160,6 +160,6 @@ related:
         height: 549
         isCached: true
 
-secured: "58g9cUT+Zu2NvVLRPMLtsVRilw+usWHX43aFR3mz63mJOfzxKVfesuxHqnfeQRTWV1Yk18hrouEUCtZdFfHGtHGrrqu0pTc6aB2zX26tE/xeDMzA8umSjZeLNbTPpxGJ77C6NkkRd8Kprl41B9Z/H9JjyZeXptf5tcLRGEP8xj5UfcTatI5QNBWttc0XESyivujIy4jP5tcUA7YfVXYdePm31qgokNZihBSR3uZ4jdHp0JpCkIm/pm1UNFh/hUPpPIT2AgUMxeQdfg2d0lHsd8/8e4n5ddxjC07X3UC3H5gxQtWTxgFADtTZF8IxHYoMG731WSyNhG8TA/f133hEJ3/1YnzrMFIbpCjNpQanAww=;hkM5sMxt1a/w0kOlPmlJ4w=="
+secured: "ls8Wr/voayjy6q/C1Z1I+HbGFaF48d4O6h1l/CwOvtUEBF7kTe1Qv7+efcCHpI3eEKNP7gPKtrlk7E7SbNky3vMgg1OGYLPnj3870tlSUhiK5XuSYPvCiI/Tn/MfL9Xi0cG/WwMwmJmzMx3vNfxtI9M2wQkHx7KYMBvNfOIMaJSsJRyUeXWSI5e/Bd9SGi0l0d3yFDICj6/lCSL/dABIFS8Qgy7mMNVOBQByYVGm/OBkZH4M1qxWuWw3z7W7Jho85VWZbnGddwXMBqMmlN+qCscM8fFghn+Cf+xAnVO2aAcDgfd7AfREdCrckNlLSygzq/Hg7LUqTS6NYgz9GNNWwxCHhgt4AOCXK1Fh+8qmqF0=;r8F6qaacNBcu/qw5qbrLJg=="
 ---
 

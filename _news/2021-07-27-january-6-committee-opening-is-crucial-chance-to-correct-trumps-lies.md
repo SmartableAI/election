@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelos
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154544-02-mccarthy-presser-0721-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Subpoena fight looms over Trump as House committee plots extensive January 6 probe"
+    excerpt: "Investigators on the House's January 6 select committee, vowing a deep dive into the attack on the US Capitol, may soon be confronted with a grim reality: A battle over subpoena requests and the prospect they could end up in protracted legal fights.\n    \n"
+    publishedDateTime: 2021-07-28T23:47:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t09SBzKZmdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/subpoena-trump-house-january-6-probe/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/subpoena-trump-house-january-6-probe/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

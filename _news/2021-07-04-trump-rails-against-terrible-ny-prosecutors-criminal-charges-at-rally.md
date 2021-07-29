@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosec
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/amp/"
 type: article
 quality: 134
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Trump slams ‘terrible’ infrastructure deal as Senate clears first test vote"
+    excerpt: "Former President Donald Trump again panned the $1.2T bipartisan infrastructure package as a “terrible deal” Wednesday, shortly before the Senate voted to begin debate on the measure."
+    publishedDateTime: 2021-07-29T00:49:00Z
+    webUrl: "https://nypost.com/2021/07/28/trump-slams-terrible-infrastructure-deal-as-senate-clears-first-test-vote/"
+    ampWebUrl: "https://nypost.com/2021/07/28/trump-slams-terrible-infrastructure-deal-as-senate-clears-first-test-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/trump-slams-terrible-infrastructure-deal-as-senate-clears-first-test-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xL4nm4hjgh7yrbhyiXffdSjUieD2agSignkNCDynF89clZ8O//eDVC5hCh9zvyfNMbx6iRWCm22DtcniOyjwnWqIu5U71BaQBojfK0S4XBPfP5pFkDsD4b6R7ZTjuro4i+eUre2SzpNWQypRNv9r+mHhXL9R7uTC670qoyHUUvlLJ6Wuy0Ps8R5GsKtKl6OL0ym+HUiYNCkh0R64JRl6caVzTzG3vsjyqiiTxxVi7uktCfqHFHoAXz+z/M/7/iKNc8Y/P4jWRVuhQQiZ0ZbjL8xaitNAe91TAy5ro0QDCXVslcOercePOlLV1O3YIPam9vjvmia37DXmGrm4PnAsmQDt2ID085yOcPNcWnHpfMPTJGZbG+4t5NrISudEr+5dxxQGKgQYGmSIRDmCJM4yTWZZE+PhPsvcUQ9HKr91/E1g6wgH8Y7LE459wUN+EGvwvxgwfRNnQjbC6ip3CiwJmvH57ZgEpvb3q7Dm5Lx3i4k2Jk+Wsp0kSOqUCSZwP9KhE5p217DtiFKE1eaE99tfYQ==;GNiVuU6sg5xIZJBO+SiJQA=="
 ---
