@@ -1,34 +1,24 @@
 ---
 category: news
 title: "Harris releases strategy to tackle migration’s root causes"
-excerpt: "Vice President Kamala Harris says efforts to address root causes of migration from Central America won't produce immediate results as she unveils a broad strategy that avoids detailed targets and dead"
-publishedDateTime: 2021-07-29T10:52:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/harris-releases-strategy-tackle-migrations-root-79135966"
-webUrl: "https://abcnews.go.com/Politics/wireStory/harris-releases-strategy-tackle-migrations-root-79135966"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-releases-strategy-tackle-migrations-root-79135966"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-releases-strategy-tackle-migrations-root-79135966"
+excerpt: "Vice President Kamala Harris says efforts to address root causes of migration from Central America won't produce immediate results as she unveils a broad strategy that expands on principles the Biden administration has laid out before."
+publishedDateTime: 2021-07-29T13:42:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/harris-releases-strategy-to-tackle-migrations-root-causes/"
+webUrl: "https://www.seattletimes.com/nation-world/nation-politics/harris-releases-strategy-to-tackle-migrations-root-causes/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/harris-releases-strategy-to-tackle-migrations-root-causes/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/harris-releases-strategy-to-tackle-migrations-root-causes/?amp=1"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_7d277f5c7729479d987a04ea35511965_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "VP Kamala Harris visits Latin America to tackle migration, corruption"
@@ -462,6 +452,6 @@ related:
       domain: indystar.com
     quality: 15
 
-secured: "eMHJNl4mlyYfaFxbqiFk3NWHQLDT66gai3BrfeQJTnjoLNxemBHKx3EuzPfvw4uN2gmmr6PCDUjrpTFtCc/FmqNrqkEO3TO1Rz+18UTAHkD76gSFFQTEi+4r8Zw8OXc5r4XzZWGcXSaE8lJbAYlPwQ5x4vk3+rMKzPsT2Mi6qLlICAt3M9krMQeB7n0uhWNXeABAA2kkxsnnX8HdovFT6i+S4J65eSOQFKlckPd6c6O/GuXHSCRjth5ckuc9+7CaSbLbdl7m2+VfJN6gx3yOhCtjLSv44iWZCQLNnezFnJmVxciclWUqJfjLTlnqE5QPkG5j1x7ooyvqcNyeI8cDl52bSEoOBLcN2dlRu7aoCFM=;2NwRtD5UjVBJ9//blDklgg=="
+secured: "pFOTuqpQl98fk7WmoW6NqN3bqZt9tNnW8oppovSkCsE63ieA35bJCRtTZNRINB6C7nUgHqlPe8bL5M2pq3YBWHqK2sYN42fxTjNWoWDJO5ERzS3HIsRI0Y2TXtmy4iS46vElfazaLE8fc7YYAA0mLNMGg1Uxb8byzDGU7D12FrTs5CdwRFx9DlahqvRFutjZAkUgdANNCpMiXy4/4QwyVQd3yuy59iX/476rAPyUGZvxpHxp3AMAOE6RYryFyBRr8i0CO2fyGy955yRGsvAfKXyLZOWKnTrOzKYZtD5jTxGVSefUUmEMg4MdY/lGqhBfQ/z6WNMIN7N6A5gkfJ3cCx308VH9aHo9vOigBhu9kEZfPEM1++DNEC0U4z+yxaIhQRw87heEpS1+txvPksGcGxWcVOJrwqVLFGmWSeY/Ak0qbOpHqKP/ObLhC5nk0KEfN/2hCeyjYUMqE2k0YGrga7XukwWvwkOLgSWK1DMDpoOxAGf5KDfoSp6Bguf6C41vS1YkCoyPeHafQP8V4miZog==;fAmav9SYdKWvP0oWUyiR2g=="
 ---
 

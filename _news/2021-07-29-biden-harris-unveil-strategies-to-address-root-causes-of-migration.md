@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden touts Harris leadership on immigration as questions raised about her effectiveness"
-excerpt: "President Biden touted Vice President Kamala Harris’ leadership in addressing the immigration crisis Friday, amid reports of infighting in the West Wing."
-publishedDateTime: 2021-07-02T21:14:23Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3c6YP1UAF0A/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3c6YP1UAF0A/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness"
-ampWebUrl: "https://www.foxnews.com/politics/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness.amp"
+title: "Biden, Harris unveil strategies to address 'root causes' of migration"
+excerpt: "The Biden administration on Thursday rolled out its strategies to address the root causes of migration, a step officials call a \"core component\" of efforts to establish a \"fair, orderly, and humane immigration system.\""
+publishedDateTime: 2021-07-29T10:00:53Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kaGtCMLmRyk/biden-harris-migration-root-causes-strategy"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kaGtCMLmRyk/biden-harris-migration-root-causes-strategy"
+ampWebUrl: "https://www.foxnews.com/politics/biden-harris-migration-root-causes-strategy.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-migration-root-causes-strategy.amp"
 type: article
-quality: 191
+quality: 200
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f371314-bc6e-455c-94da-41634cdccb49/342c2920-4867-42c0-9a4b-9341cfe4dba5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -38,22 +38,6 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy"
     ampWebUrl: "https://www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 200
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden, Harris unveil strategies to address 'root causes' of migration"
-    excerpt: "The Biden administration on Thursday rolled out its strategies to address the root causes of migration, a step officials call a \"core component\" of efforts to establish a \"fair, orderly, and humane immigration system.\""
-    publishedDateTime: 2021-07-29T10:00:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kaGtCMLmRyk/biden-harris-migration-root-causes-strategy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-migration-root-causes-strategy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-migration-root-causes-strategy.amp"
     type: article
     provider:
       name: Fox News
@@ -77,6 +61,22 @@ related:
     quality: 192
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b022dcc2-729e-41b3-b968-481b3dd04a7f/dbe75d1a-2e80-465d-873a-d252253e7ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden touts Harris leadership on immigration as questions raised about her effectiveness"
+    excerpt: "President Biden touted Vice President Kamala Harris’ leadership in addressing the immigration crisis Friday, amid reports of infighting in the West Wing."
+    publishedDateTime: 2021-07-02T21:14:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3c6YP1UAF0A/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 191
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f371314-bc6e-455c-94da-41634cdccb49/342c2920-4867-42c0-9a4b-9341cfe4dba5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -252,6 +252,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "vKci5ZlC5CGBiFDRS28klqm2lY7H3kPsUZlf/j/XMsuCw0OSSHy1ED6lD/tHF6+75EJHV/dj0KDrL9Ot9JXf+0b7QJXD5DadxjD/1mCuxsszWBQLIqsVxumxPq6V18YbydhHUQ8lXrb0oq7GZYD9bzWSbDOUf+2hNmgdh+16wtAVaBfvPCsSR4QCff0VShaW1xvjsyBOSdJuE6mHZEGV83m2dkF7LygJJdkQJ5haD00hY3LOCUXCn3YyF0g4wrKPpGSshVGYsBaYlMsoWg784wQqZ/0x32qWdHJSB52WzF//7sa2k66MksDKJq3OeIKayFWchve1PuzX8OAfFCe1M+VeRAlfhH0x7vZFSrxSWl8=;djPSKnFLC6vgDucgyKRA4Q=="
+secured: "6rFJnwPz3Y4Wl6pjMgS/BRVVjdlwTwNET4P0QPk2WxbEvT0G35/bBNq0+QoLWiG9cZZpi/gRDano0089I1FK3wFkIAc4KYQg8gxtCFMNsud9WvScIgkQz6r1pOXliP/SrnkmqTlr4SPHSQCqw5mZ6nzsC+xCNYtMbUMtEgwucD/IUr+k/5FXevON/HuUttyZdd+TOLOImfrZIPuSNldzDMSx49EiKP6qcpwfTfXKhDSxf9kNltsWnBktnjA8YlAFw7Epc0h5NFIhAU4oXAzQN2vWeSK3VI2rIO7jLJ48JD8JeuFseCjBmZBuWUlnfpNwEIkm2nsp9L1ilzn1YJtC0CJdv6sDpu1Z4JPUYWeyePs=;Tj6TYtEL1cMo7r1oOlkXZQ=="
 ---
 

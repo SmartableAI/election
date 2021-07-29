@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Florida Republicans slam President Joe Biden on Cuba during GOP townhall in Versailles"
-excerpt: "A Miami crowd of dozens who had shown up in support of the anti-government protests in Cuba served as the backdrop of a GOP town hall broadcast live from Versailles Cafe on SW 8th Street — hosted by FOX News’ Sean Hannity."
-publishedDateTime: 2021-07-23T23:01:00Z
-originalUrl: "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
-webUrl: "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
-ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+title: "The Hill's Morning Report - Presented by Facebook - A huge win for Biden, centrist senators"
+excerpt: "Welcome to The Hill’s Morning Report. It is Thursday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
+publishedDateTime: 2021-07-29T10:30:00Z
+originalUrl: "https://thehill.com/homenews/morning-report/565398-the-hills-morning-report"
+webUrl: "https://thehill.com/homenews/morning-report/565398-the-hills-morning-report"
+ampWebUrl: "https://thehill.com/homenews/morning-report/565398-the-hills-morning-report?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/565398-the-hills-morning-report?amp"
 type: article
-quality: 67
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: The Hill
+  domain: thehill.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/609519e9-8ebe-4e89-898a-047ab6d8d66d/3b9e608e-4fee-4a64-a8a8-bb03c72f37ac/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://thehill.com/sites/default/files/newsletter-open_072921getty.jpg"
+    width: 580
+    height: 387
     isCached: true
 
 related:
@@ -91,22 +95,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "The Hill's Morning Report - Presented by Facebook - A huge win for Biden, centrist senators"
-    excerpt: "Welcome to The Hill’s Morning Report. It is Thursday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
-    publishedDateTime: 2021-07-29T10:30:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/565398-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/565398-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/565398-the-hills-morning-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 115
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-open_072921getty.jpg"
-        width: 580
-        height: 387
-        isCached: true
   - title: "Biden hosts Jordan's King Abdullah at White House"
     excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
     publishedDateTime: 2021-07-19T20:33:00Z
@@ -160,6 +148,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Florida Republicans slam President Joe Biden on Cuba during GOP townhall in Versailles"
+    excerpt: "A Miami crowd of dozens who had shown up in support of the anti-government protests in Cuba served as the backdrop of a GOP town hall broadcast live from Versailles Cafe on SW 8th Street — hosted by FOX News’ Sean Hannity."
+    publishedDateTime: 2021-07-23T23:01:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/americas/cuba/article252928658.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/609519e9-8ebe-4e89-898a-047ab6d8d66d/3b9e608e-4fee-4a64-a8a8-bb03c72f37ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Kyrsten Sinema meets with President Joe Biden on infrastructure plan, is optimistic deal will be reached"
     excerpt: "Sen. Kyrsten Sinema, who is co-leading negotiations on a bipartisan infrastructure plan, met with President Joe Biden Tuesday for a one-one-one meeting as lawmakers seek to overcome disagreements on the $1."
     publishedDateTime: 2021-07-27T21:20:00Z
@@ -191,6 +195,6 @@ related:
         height: 400
         isCached: true
 
-secured: "6BPjm30PXVHCSX1YP+vcMpg6idsSl7ueP09KPft7LFNKFs2uVWkEQHsbVi1tyst4cG+iYhiwN2DAiJBoc0uq//uwkEOr8iTlGo8IJ8A+FiM0P23bhZwkUyTgjGDXt9WUXY/aJFUNU7KReVU+0x/Cyyy1XI0H17+v40rhvcF70W8a29R3RM28w2cLea9sS2Fo9Xf/rq4fwO2o0lRZLcmmxpyc5v+3DsYqSDkdY2ToqIaB87tZA3E/TQVjkQptSL3qwBdDorPCfMdn0EiB0qWM8j13NDCDS8wVPx1XqqFgIysRWQRd2WyspKEmkYiXECrJJCany/hBzhwdjZcWcFvfR4L0cik1bVrui5WTZje/2QaWPnseESpBwRtBxh15nG/dTIyqXXr4KYWZ+MATCdUA1/e5sfqhvsXs5BNy0GmgTetkw7SsaWCtrXoCDB4EImoKGJ02Tz/58w3R/SfvB1BEdQW5YFrHMPbChiI7Pty7Jo2BIsUWbe3r1AamtK4luJyMJ8NAq1DruI0xLzE8T0g6vA==;9l1BojKoHQ9XVH8fgRILhQ=="
+secured: "1DTyLLwIic0Ty/3JwM+PBrUK6ssfJ05x4pL8arVmk0YmB09/+hjTHShmr0gSYthaUv6EQSjK5gFo4oHVfoT2FjrkWTHg/qMagBvVS3iVqBj8Vx08m/gJwY5B8hsIRiQOjncbW4CAXwvJW6Yrn03/JFra/5lEJB1P5ccmmch2aa5v88RXpRMWoNeJdeZ8DdQBemSLhZhRmxV0GADnbyK2dncE49sGl5Eij21dlQOkatMlNwWEhWRmMip/at3CEYwP2ruhaxqizU+e6jf7JIeCIE81sjOPTRwCAd2IbsbrI+xzXsL++k+ny7IWYi6R2Q2LmqvnUDKokSN3ZM6Frvk1M8pnyy2TTt6+kOM8d1gpX9E=;hr1ikoQ12BeDR1Mv0KSHSQ=="
 ---
 

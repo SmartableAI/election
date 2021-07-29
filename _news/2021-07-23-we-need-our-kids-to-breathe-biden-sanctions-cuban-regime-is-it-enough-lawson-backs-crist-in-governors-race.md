@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is closing in on victory despite Congressional inferno "
+    excerpt: "For the briefest moment, amid an inferno of fury, mistrust, stunts and ill-faith, Congress actually worked.\n    \n"
+    publishedDateTime: 2021-07-29T10:45:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FuyTW28jis/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180119151951-capitol-birds-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden promises answers on European travel ban 'in the next several days'"
     excerpt: "President Joe Biden said Thursday he'll soon be able to answer persistent questions about travel to the US from Europe after German Chancellor Angela Merkel raised the matter in the Oval Office.\n    \n"
     publishedDateTime: 2021-07-15T22:55:02Z

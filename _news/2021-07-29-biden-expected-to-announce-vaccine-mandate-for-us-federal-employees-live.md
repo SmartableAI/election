@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden will require federal employees be vaccinated or tested -CNN"
-excerpt: "U.S. President Joe Biden will announce on Thursday a requirement that all federal employees and contractors be vaccinated against COVID-19 or be required to submit to regular testing, CNN reported on Tuesday,"
-publishedDateTime: 2021-07-27T20:12:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-will-require-federal-employees-be-vaccinated-or-tested-cnn-2021-07-27/"
-webUrl: "https://www.reuters.com/world/us/biden-will-require-federal-employees-be-vaccinated-or-tested-cnn-2021-07-27/"
+title: "Biden expected to announce vaccine mandate for US federal employees – live"
+excerpt: "President to deliver an update on his administration’s Covid vaccination campaign – follow all the latest"
+publishedDateTime: 2021-07-29T13:37:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-6102a9278f0811859feb775b"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-6102a9278f0811859feb775b"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 type: article
-quality: 105
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/n2ZGxf3q3rDwlPNlCLlhi4OV6i8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VTU4Z7K4ZNXZCCBEXPE4DLLZA.jpg"
-    width: 1200
-    height: 628
+  - url: "https://i.guim.co.uk/img/media/2e6cd0b1d2053267babbd368d88999cc26867835/0_359_5520_3312/master/5520.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b87d4720c2b9a08baf8ef517de042faf"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -44,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1852446/president-joe-biden-cnn-town-hall-covidvaccine.jpg"
         width: 2500
         height: 1670
-        isCached: true
-  - title: "Biden expected to announce vaccine mandate for US federal employees – live"
-    excerpt: "President to deliver an update on his administration’s Covid vaccination campaign – follow all the latest"
-    publishedDateTime: 2021-07-29T13:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-6102a9278f0811859feb775b"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/2e6cd0b1d2053267babbd368d88999cc26867835/0_359_5520_3312/master/5520.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b87d4720c2b9a08baf8ef517de042faf"
-        width: 600
-        height: 360
         isCached: true
   - title: "Biden administration offers new aid for mortgage borrowers at risk of foreclosure due to COVID-19 pandemic"
     excerpt: "The new assistance will reduce monthly principal and interest payments by about 25% for homeowners with certain federally-backed loans."
@@ -91,6 +77,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden will require federal employees be vaccinated or tested -CNN"
+    excerpt: "U.S. President Joe Biden will announce on Thursday a requirement that all federal employees and contractors be vaccinated against COVID-19 or be required to submit to regular testing, CNN reported on Tuesday,"
+    publishedDateTime: 2021-07-27T20:12:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-will-require-federal-employees-be-vaccinated-or-tested-cnn-2021-07-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/n2ZGxf3q3rDwlPNlCLlhi4OV6i8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VTU4Z7K4ZNXZCCBEXPE4DLLZA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
     publishedDateTime: 2021-07-22T01:33:00Z
@@ -108,6 +108,6 @@ related:
         height: 683
         isCached: true
 
-secured: "JsE6fMDVUN9BYg6slweEIxFWL79MMIBJyJeokI718IF7DERe9/sTn+m3IHbGBi0r05VfSdFSqgDnS+TcfG6NH3BY9mImLmdnmPXO8IcVAT3ysvePr169T+RRuW7o2Pyu6B53rISKA/DiyqmQdGLr55jJyWxJeyPT510NYu2+oN0+XDWHHAv6rt96R+l8SF2+E8nSXlwsd/E2oNGbnoXpnkmnO8IN0GgOvujcrykCmiE/H3x0/9CuXPmjgrVBl01yOuY/PoaV0/9vIIooXH0uCI9lhya905lPol2++2qyHU3ga2dHsLjUJSZMDHfC6J/rL+u7fZs3HOx4kQG6gHlt9t5+C640pHS5S8xIfRIZxvo=;FAS4OY0vnzN9jT4LM68Rmw=="
+secured: "c3ub0q9v5PIMllLrcbFiyqPWKG89tIhV8CdockWhKLfxr222mvh5GrP90tdLO+VRH75K6y6vk2Em285KMgI8hyIZfXAX/FJYzXJortotTSPTQP0ZYtGRXr00v19MT94od2HnnDiguSt6yOzePQ8Z+puYXrXolgaqBDI7TnUK22TIqh/lS9F8M+CSrMH9gvaQa8qd5D2q93o5i2g9tQlubqn6jF+Qq4AKR8qElylJnDLkBOQO0PPoV2L08M6FEpWcCmmXohv91iwbMYjKxXuVkUBAbZ5y8Q5odRdLASEkXPTfCjq2xj322FSsUzNbalvEBi/lphBjcrRk/ehX9IbhZTgkwCW5a6zmXvDPF0EGZ4U=;ZIJq0eMhpfavRS1srQ+9ag=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to announce vaccine mandate, strict testing protocol for federal workers who refuse"
+    excerpt: "President Joe Biden is expected to announce Thursday that federal workers will be required to be vaccinated for Covid or abide by stringent protocols, like regular testing and mask wearing, according to administration officials."
+    publishedDateTime: 2021-07-28T14:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-considering-vaccine-mandate-all-federal-employees-n1275216"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275216"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275216"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494499/210727-maryland-vaccine-coronavirus-ac-415p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "UQxWzhIM9SsEqIfuCCb76WI3l5LBiFR5SFzqUVibORVCRTtvy/wgFhir4h8bM6dABjuVBmDiwmNL6pRlo4mi0m9k3w0cy+yvL2HyXSfAkDQoPRRtX+EXCBXSOk/3hhQrS7ut6ed6tlb+mjfsU/1IVX3feYI4QdeHRe+MT7vgSml4w7d+p0lRzxUChPy8OGx/EFdkIIUCfSW6dPxWl9okzCK8ZNi1rgJpbxyvtPJuItEfNuKR0xWtBc3gpeU7kU9OUzsvIcBe6NLhyL7pjgfYY+rw38DFRjuvQHz2xIUp/MxfKP4iUynhMjM4fsPoRVmgnVftR1SmR9c+7ub6RZouCP9nnTYlYbBBQz6H/tMlWlE=;bw949OqK7wnivYXpn1o6LA=="
 ---

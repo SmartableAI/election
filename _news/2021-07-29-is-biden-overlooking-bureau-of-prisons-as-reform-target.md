@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Joe Biden says U.S. combat mission in Iraq will end later this year"
-excerpt: "The United States' combat mission in Iraq will be over by the end of the year, President Joe Biden said at the White House on Monday alongside Iraqi Prime Minister Mustafa al-Kadhimi."
-publishedDateTime: 2021-07-26T11:26:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
-webUrl: "https://www.upi.com/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
+title: "Is Biden overlooking Bureau of Prisons as reform target?"
+excerpt: "While most criminal justice overhauls require action from local officials or legislation, reforming the federal prison system is something President Joe Biden and his Justice Department control"
+publishedDateTime: 2021-07-29T10:33:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/8491627296955/2021/1/e67278113a3ef5e9f42f7fba3e03d494/v1.5/Joe-Biden-says-US-combat-mission-in-Iraq-will-end-later-this-year.jpg"
-    width: 800
-    height: 534
+  - url: "https://s.abcnews.com/images/Politics/WireAP_62ad56356c5a46febc5a5ba5f5e72679_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -75,22 +79,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Is Biden overlooking Bureau of Prisons as reform target?"
-    excerpt: "While most criminal justice overhauls require action from local officials or legislation, reforming the federal prison system is something President Joe Biden and his Justice Department control"
-    publishedDateTime: 2021-07-29T10:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_62ad56356c5a46febc5a5ba5f5e72679_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden says inflation 'temporary'"
     excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
     publishedDateTime: 2021-07-19T19:13:00Z
@@ -119,6 +107,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Joe Biden says U.S. combat mission in Iraq will end later this year"
+    excerpt: "The United States' combat mission in Iraq will be over by the end of the year, President Joe Biden said at the White House on Monday alongside Iraqi Prime Minister Mustafa al-Kadhimi."
+    publishedDateTime: 2021-07-26T11:26:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/26/iraq-mustafa-kahdhimi-joe-biden-meeting-white-house/8491627296955/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/8491627296955/2021/1/e67278113a3ef5e9f42f7fba3e03d494/v1.5/Joe-Biden-says-US-combat-mission-in-Iraq-will-end-later-this-year.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
     excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean,"
     publishedDateTime: 2021-07-27T19:50:00Z
@@ -134,6 +138,6 @@ related:
         height: 433
         isCached: true
 
-secured: "+CATC+cmxnK57/KtMFF0jXC6cjhrohH07NpvFI7Dpdw4Zsg2uegO4GLdnLhLRbCsqQTuOmzmItGEqkweo7HAsXa3kNDO2vSpZDqMLQWdcesH8rGNY9nXu2UCPXLtPUVJE5cHTNfpIkJ2B5LbpFVzkiV+V3F8YqWTuhkQPm9t4qY2RQ5AAL4UzO84Udf8Hx2OSg+oUEjC77mOzL3rDnSPGAbmUooGNyDdwg8GGimdy4BcuosfkhcnRM6gbxWOZugbUuXL6hwq0He2o19AeUsnjRmECQFIaOQ3l+oktI9GikrPaIft/blFz4yhIcyoEgiUmHkKmF9iPZsa1A8kvjyVW1mhAw2icWHO1aKK7UDKkBGIUHp9SU5OVsx7ufwdZROjjFOCrjmtqnIEu7JgxKzkvlt4Y5OY9xEJDxLiQ0dpgPA1+aynh9dC22zWImCBGZ6MLnoY7LArPzKXMHrsDA1J0XbnFADyx01PhBC5jyG0P0hF9Ff1UJ9CwvWPaJ7Oor07oRanUK8mEy2tZWgUcpQHWg==;ksu7KeDBg8rLja4ZNQ1fIg=="
+secured: "GHu9YZAtBd3BbUrhorqDyRYUr63liU2LCSjjJ2c7rMOxSArCqnHw+zVfpd2cd0/8W5QBmaCwLAtWJdXyefPUgSFxseuXdMZ22JsM3wAEhPWth7GCFgLeP3bedS2MGhJEIUyuGUbbQvfcEqGCBpzGcjuXoHoXPwmAe+Lw8PVDsHbOLVxHjDWVfDWGKjWTtEs4Cs5L8hsASr2YqrXnNoLsyCxXMhOEG1eKTrsvlM6/l+gYowFL9osmRIJ0HVzDN4WjOzisDiyrQFZDslcBytm5hyojH+bH0Gp1+PAVxVYaljIzjj3qRLBlGOFIaR/ts/gDPuNE2fPOPCVOzEPV3o519ysphNzRl6rUvwVYQ+0UaKg=;ZRDCDosEgFm2mha+lmgNpg=="
 ---
 

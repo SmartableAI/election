@@ -93,6 +93,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "The Hill's Morning Report - Presented by Facebook - A huge win for Biden, centrist senators"
+    excerpt: "Welcome to The Hill’s Morning Report. It is Thursday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
+    publishedDateTime: 2021-07-29T10:30:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/565398-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/565398-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/565398-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 115
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-open_072921getty.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "Biden working to get 'long haulers' covered by ADA"
     excerpt: "Top News Biden working to get 'long haulers' covered by ADA. Posted . President Joe Biden said on Monday he is working to make sure that Americans with lingering effects of their"
     publishedDateTime: 2021-07-26T18:16:00Z

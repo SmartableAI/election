@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-pot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html"
 type: article
 quality: 170
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden to announce vaccine mandate, strict testing protocol for federal workers who refuse"
+    excerpt: "President Joe Biden is expected to announce Thursday that federal workers will be required to be vaccinated for Covid or abide by stringent protocols, like regular testing and mask wearing, according to administration officials."
+    publishedDateTime: 2021-07-28T14:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-considering-vaccine-mandate-all-federal-employees-n1275216"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275216"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275216"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494499/210727-maryland-vaccine-coronavirus-ac-415p.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "qJFHPz/Qcoh118q7vIMSTxxXYgAAOQWVK1NvJOorkN+aBNKvgEiev3cDfbGF6kuW2qHVurKeYpXJgGToyfyxa7E/ic269p2A+1/Ta60Kca+ONK7CHgkUVWCUZZiCF05e9U1AIwqpGDVRqoF8p1ihuN69+XMc9tMyy8ON28lxXS6hHh+kKo5DO70JHqBRzKAolUcw30o1hOn4kWFRn06Q6lyIqHxoTJuR7qytyYtZRImUv8p8Ey2gxkq817CQq/UIOv6h3RdN+CNFhBHEEhF6K8hDpbaOZMSWnu6P8I85xOl3teqabCB0vlp8I4pyqjSqnd+BsNiJzK3znEcqen9Ma4ZlfqNaLiIFIzCK2KhLOpw=;vOtNT50MmZH3Tzyi5VyzWQ=="

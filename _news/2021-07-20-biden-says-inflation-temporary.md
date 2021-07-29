@@ -77,6 +77,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Is Biden overlooking Bureau of Prisons as reform target?"
+    excerpt: "While most criminal justice overhauls require action from local officials or legislation, reforming the federal prison system is something President Joe Biden and his Justice Department control"
+    publishedDateTime: 2021-07-29T10:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-overlooking-bureau-prisons-reform-target-79132814"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_62ad56356c5a46febc5a5ba5f5e72679_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Biden says the U.S. combat mission in Iraq will be over by end of 2021"
     excerpt: "President Joe Biden tells Iraqi Prime Minister Mustafa al-Kadhimi that the U.S. military's combat mission in Iraq will be over by the end of the year."
     publishedDateTime: 2021-07-27T11:34:00Z

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
-excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
-publishedDateTime: 2021-07-27T22:14:22Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+title: "Biden to announce vaccine mandate, strict testing protocol for federal workers who refuse"
+excerpt: "President Joe Biden is expected to announce Thursday that federal workers will be required to be vaccinated for Covid or abide by stringent protocols, like regular testing and mask wearing, according to administration officials."
+publishedDateTime: 2021-07-28T14:54:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-considering-vaccine-mandate-all-federal-employees-n1275216"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-considering-vaccine-mandate-all-federal-employees-n1275216"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275216"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275216"
 type: article
-quality: 158
+quality: 126
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494499/210727-maryland-vaccine-coronavirus-ac-415p.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -79,23 +80,23 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to announce vaccine mandate, strict testing protocol for federal workers who refuse"
-    excerpt: "President Joe Biden is expected to announce Thursday that federal workers will be required to be vaccinated for Covid or abide by stringent protocols, like regular testing and mask wearing, according to administration officials."
-    publishedDateTime: 2021-07-28T14:54:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-considering-vaccine-mandate-all-federal-employees-n1275216"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275216"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275216"
+  - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
+    excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
+    publishedDateTime: 2021-07-27T22:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
+      name: CNN
+      domain: cnn.com
+    quality: 158
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494499/210727-maryland-vaccine-coronavirus-ac-415p.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
-secured: "P8XOdhqV6YiEdBj51lJ1nQQYxMz9GgylxbdVxC9jcU/0ZhIMCKrireBqtfo7uB26oStz7dGhfBlsRQ1h3iXolfyCq/Z/DbBwBC+j7KcRcDj3CgMK0of9hPjY97moc/zzgVDU6RokZssRcn77O1hOf2pg07mDwhLXrGvdsy+SoQ3N7/TmXg7mHH4CatVtSzHT8fU2IXEJrGNH7ZZt+WYcf1WMZc9Qn1RgWG8uXYPtjnt9EvfIRt6gLfxV0NkIoFBywBbAD8N76516z3mP11l+ujQHoEC0MYFnPpfUMsv6hq7RSxY4hkJ2VnJ2QsPA2PSwRo0GUCol3gcAtpc9Edb9pL1Vjwm57M9D/Yl7QOTRto4=;gRS2Ce53QNplOB1RI5M43g=="
+secured: "e/D2F3mxqrLwVgWzoulC7WFZoJLMRwL79EVuq1oAneZJj/mpqU/e32FO0b8uK5tBk31O7zwcshHkgdgdFpFdhbTzXbqK1ukN6/CLcnk+OvSGDEiiDoPURuakfgzp6FUg839GQme3tib3RDW1S1aVQJLSjJ5wOFcdPzRit0gZGZvCWOZyKSu2GxNKXXbbmNQg+HaVAB7tg1o16ye7a698dHamm/ZxtHTYIE5u/+y477cQQHDOU9fPJR6/XVbz+1vXQ5Z/3bshdNkImtl83TYUgq0b/iG8aui9kmKm2ZhmAQvWO1TMsIHwVHPAcThIzwgEDLeGVy0USGbAaIzRr4jKiXu2uFTw19V57HYPMDS20oQ=;dAQAsfm4BIpHzCeF1qq6XQ=="
 ---
 

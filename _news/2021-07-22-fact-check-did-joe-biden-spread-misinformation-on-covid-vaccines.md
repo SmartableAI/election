@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden expected to announce vaccine mandate for US federal employees – live"
+    excerpt: "President to deliver an update on his administration’s Covid vaccination campaign – follow all the latest"
+    publishedDateTime: 2021-07-29T13:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-6102a9278f0811859feb775b"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/2e6cd0b1d2053267babbd368d88999cc26867835/0_359_5520_3312/master/5520.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b87d4720c2b9a08baf8ef517de042faf"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden administration offers new aid for mortgage borrowers at risk of foreclosure due to COVID-19 pandemic"
     excerpt: "The new assistance will reduce monthly principal and interest payments by about 25% for homeowners with certain federally-backed loans."
     publishedDateTime: 2021-07-23T15:20:00Z

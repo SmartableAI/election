@@ -37,6 +37,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden, Harris unveil strategies to address 'root causes' of migration"
+    excerpt: "The Biden administration on Thursday rolled out its strategies to address the root causes of migration, a step officials call a \"core component\" of efforts to establish a \"fair, orderly, and humane immigration system.\""
+    publishedDateTime: 2021-07-29T10:00:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kaGtCMLmRyk/biden-harris-migration-root-causes-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-migration-root-causes-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-migration-root-causes-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "56 House Republicans urge Biden to remove Harris from leading role on migration crisis"
     excerpt: "More than 50 House Republicans are urging President Biden to remove Vice President Kamala Harris from her role dealing with the migrant crisis that has overwhelmed the southern border in recent months -- accusing her of \"inaction\" on the crisis due to her failure to visit the border."
     publishedDateTime: 2021-06-18T22:40:06Z

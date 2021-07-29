@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
-excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."
-publishedDateTime: 2021-07-25T09:51:00Z
-originalUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
-webUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274950"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274950"
+title: "Biden is closing in on victory despite Congressional inferno "
+excerpt: "For the briefest moment, amid an inferno of fury, mistrust, stunts and ill-faith, Congress actually worked.\n    \n"
+publishedDateTime: 2021-07-29T10:45:02Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FuyTW28jis/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FuyTW28jis/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
 type: article
-quality: 129
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3493898/210725-mustafa-al-kadhimi-ha.JPG"
-    width: 5472
-    height: 3648
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/180119151951-capitol-birds-0119-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -109,22 +108,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728140245-biden-tsikhanouskaya-0728-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden is closing in on victory despite Congressional inferno "
-    excerpt: "For the briefest moment, amid an inferno of fury, mistrust, stunts and ill-faith, Congress actually worked.\n    \n"
-    publishedDateTime: 2021-07-29T10:45:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FuyTW28jis/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180119151951-capitol-birds-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -496,6 +479,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
+    excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."
+    publishedDateTime: 2021-07-25T09:51:00Z
+    webUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274950"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274950"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3493898/210725-mustafa-al-kadhimi-ha.JPG"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "'We need our kids to breathe' — Biden sanctions Cuban regime. Is it enough? — Lawson backs Crist in governor's race"
     excerpt: "While Florida stopped its daily reports on Covid-19 weeks ago, data maintained by federal health authorities show there were 12,647 new coronavirus cases on just Wednesday of this week. Surge — That’s the highest daily count since late January and,"
     publishedDateTime: 2021-07-23T10:58:00Z
@@ -511,6 +510,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "+G+RGwCwi0tUXFCrYLHLQ/TF/aPwcIQAKPHNgfwsMOaLPo5cDhJdAxlyLQzkUDJ78JV7IAnczEuEts3EVjbcJkDomrzfQYcMP9R5me9HLp5gNXve7ee8cqUDOMnIFcKt7Wm4CLeRcih4d5iHTslBvK2sZCnKv+cHi1m/2SbO0E08Qt48/f0heqE5z8aw4BayvEkDLOyC3v2mPT2Zp/hX09i/MESDSUPzN3GpEmLF59vhyF2KDi9t9oob+W4FLl4e0yU57q2NufDTYSFKZCLdMfZcn0FA8ue9ootNCjN3Y3oOfGr03GyLnPTJmfnisNfXwTkP0P7q9jUq1K8f/zKjMi/p+wyFZE8nr/HnZOLqcbCndWGbI0t9hMkXIp1ycuVcC/9OHRT9awxTpWcigfT004VJOWj6oWLGucEQhrydKBw0zrkFDR55XTnJtBYj1PtnXhHVQEwQeO5+1y8mXadygg3gDFh25D2hailI8YDzFtaE8QV9c9GGhtxKAxhZG+6RYUn+AK2r9yLQGhsPwMJuGA==;Z2z/oYcTsEqrzEvOMC0JkQ=="
+secured: "xLa6IWHTLWQoMY4+QpqvdJ4L56EZUi1pthJVilzibbI+OJY7ifDHGE+WGXM7l0bUmfBLLWpt9dDBcZmD/QJn1J8PyUslW2U7kmGl1NSkYjwT/zBpTpg6URb+owIpuweN/yY1BjbPTZVU+rVUH8IiMkTbE1gtM4QR7BRNTRa/81aKozVRfSMHGBNKu8eSujV//zvEehk2chIvyIbZv2mbgn2mlqVcdc81kuekEDR7HnOnbl7WISpsCsn5r7kEGYSXUyJxYJyzCd1l5pZkEYEKezs2fIu8v/+xTJ+PoBbgHQDzirce6gTK2d3HTUVnUdxmN1aiP2kuhNBrbsPDxxL01vjf/NV06Vv3RJwmOWR60+I=;hMmLZvTac4RQfhqtnZnkpg=="
 ---
 
