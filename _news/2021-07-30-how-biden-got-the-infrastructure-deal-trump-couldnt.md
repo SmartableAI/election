@@ -2,11 +2,11 @@
 category: news
 title: "How Biden Got the Infrastructure Deal Trump Couldn’t"
 excerpt: "The early success of the deal vindicated the president’s faith in bipartisanship. If he can keep it on track, it will help affirm the rationale for his presidency."
-publishedDateTime: 2021-07-30T00:26:00Z
-originalUrl: "https://www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.html"
-webUrl: "https://www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.amp.html"
+publishedDateTime: 2021-07-30T02:02:00Z
+originalUrl: "https://www.nytimes.com/2021/07/29/business/economy/biden-infrastructure-deal.html"
+webUrl: "https://www.nytimes.com/2021/07/29/business/economy/biden-infrastructure-deal.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/29/business/economy/biden-infrastructure-deal.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/29/business/economy/biden-infrastructure-deal.amp.html"
 type: article
 quality: 150
 heat: -1
@@ -1439,6 +1439,6 @@ related:
         height: 773
         isCached: true
 
-secured: "pJE4QmeYgRKC6AYqPj/6BXWCSZPE/JV954bt3POtYoN3g8Qb75OD/oOC/Qrvf6v0wq2N1ruyQmOp28+PfX1xIiplHxNFbIbWZjy1XbrhAouR9BE9jp+x9Asl2OU+CpNdqMHXbC7ddherCblimHQ+BYtzuCqyrjTbSkLhwTC98+7U/d6dLxOS/UsbS/8EBYvxU5tBhoxMetu0jFcYivFvwBS6h0n24u/R3wJHto0Lp4+T7MJw2fLNO+eSJ7gSTRQUHkJHJfvbjvntp8bGjAVcnZcA9f/WIOqmVPa5PFMLScPoYWOSzZInU7POvL6/USKmDRUu5jjLKPC5STEMDrrxIIaHw+7d0ebz1rAKiB8U8sYaIk9zsWmRcK1Azzg75UmJa5YBjOkasHsuNpEcmFXYfqoEJLz4fMh0sGx6hm1zKKUNTi2Y2ISTNCwpKASVbK2fngBHDCYGrytkrj6kKbEYBc0ixz8ukL2Dpt2J6Np7w9uBaiPXdOs+14dwoG7sz3t1yZgxlYbgyAuZuq4SnedTFA==;5eEv5A8l/GpsUTFmCky9YA=="
+secured: "eYB9JH/FTJpPy480QfPBOLz5Tb8rWGcTuwAhGVDX1XCZXG/77dm15KwLsyqck7Y1JyAhgAo5Zx6pjXw94WBIe6ylR8iZJ8NKpx4LE3i3etZPmWWL9Kg01MxtGYVtOrkU+XhpWfQS2chXRBdzm0Mp6HmomEcEuyh2r6mv+qPiFZIghrgbuPLDj30bywRSg5wBaSwtAisTaul/fVDJelzL1Sy0euQigQMSmGSBe9zJaCU3qCAQUtcBFu936dC69slWXbkahUJfhky5bXcryZOLhgwtlXToH+1B65jAdgTNLe3A+M9kpSwrh2AAmIVmOmMvsvF7k+GnYrd7XG6VItb04xoLJ9r3pBOXKoVzCBhy99s=;DbwtbFqmJqqVb7wBFbqQAg=="
 ---
 

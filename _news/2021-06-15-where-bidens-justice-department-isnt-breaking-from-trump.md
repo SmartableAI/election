@@ -706,10 +706,10 @@ related:
         isCached: true
   - title: "How Biden Got the Infrastructure Deal Trump Couldn’t"
     excerpt: "The early success of the deal vindicated the president’s faith in bipartisanship. If he can keep it on track, it will help affirm the rationale for his presidency."
-    publishedDateTime: 2021-07-30T00:26:00Z
-    webUrl: "https://www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.amp.html"
+    publishedDateTime: 2021-07-30T02:02:00Z
+    webUrl: "https://www.nytimes.com/2021/07/29/business/economy/biden-infrastructure-deal.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/29/business/economy/biden-infrastructure-deal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/29/business/economy/biden-infrastructure-deal.amp.html"
     type: article
     provider:
       name: New York Times
