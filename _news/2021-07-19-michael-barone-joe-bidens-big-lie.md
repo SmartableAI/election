@@ -220,6 +220,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to announce more Cuba sanctions, details on internet, remittances and embassy plans"
+    excerpt: "President Joe Biden will announce further sanctions on Cuban organizations and officials responsible for the violent crackdown on anti-government protesters and more details on U.S. efforts to provide internet to Cubans ahead of a meeting Friday afternoon with Cuban Americans at the White House."
+    publishedDateTime: 2021-07-30T19:45:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article253140023.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/americas/cuba/article253140023.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/americas/cuba/article253140023.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 66
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/e7c703be-040f-4222-8274-a8256a712078/fa5a9a98-4425-495f-a1dc-8b263d4db964/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Sen. Kyrsten Sinema meets with President Joe Biden on infrastructure plan, is optimistic deal will be reached"
     excerpt: "Sen. Kyrsten Sinema, who is co-leading negotiations on a bipartisan infrastructure plan, met with President Joe Biden Tuesday for a one-one-one meeting as lawmakers seek to overcome disagreements on the $1."
     publishedDateTime: 2021-07-27T21:20:00Z

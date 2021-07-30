@@ -470,6 +470,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Justice Department says IRS must release Trump tax returns to committee"
+    excerpt: "The Justice Department on Friday told the Treasury Department to hand former President Donald Trump's tax returns over to the House committee investigating his tax information."
+    publishedDateTime: 2021-07-30T19:42:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/30/ex-president-donald-trump-tax-returns-committee/3961627669208/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/30/ex-president-donald-trump-tax-returns-committee/3961627669208/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/30/ex-president-donald-trump-tax-returns-committee/3961627669208/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3961627669208/2021/1/2cc9c22303414b5a7f2c60bb5c350393/v1.5/Justice-Department-says-IRS-must-release-Trump-tax-returns-to-committee.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Tom Brady Jokes With Biden at White House About Trump's False Election Claims"
     excerpt: "Tom Brady, a U.S. football legend and longtime friend of Donald Trump, gently ribbed the former president and his false claims of election fraud in a White House visit Tuesday. The 43-year-old quarterback joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with President Joe Biden."
     publishedDateTime: 2021-07-20T17:50:00Z
@@ -479,6 +495,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 62
+  - title: "Justice says IRS must give Trump tax returns to Congress"
+    excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former"
+    publishedDateTime: 2021-07-30T19:24:00Z
+    webUrl: "https://www.theday.com/article/20210730/NWS21/210739958"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210730/NWS21/210739958/AR/0/AR-210739958.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "HMjathuu/NCEXJbyERmVYMaEMWmlgQHKKCVz+4Gx2S/icGEvPLYgfDml9oOaFBtaEPIydFQ+zcJCPb+IIWM0RCeoNwvEDVBsDc58QyZBp3If0c9H/+7DH/Fj5gAtmG05GF/6wA+sOO/ME1RAdDsj/s11GElSJtZJbd0cTBFeJRaG2saAdK5lZiWfRBu2+GAzNaAVSJskX1psxkKkNbNdbROO7ahC4YJcexJSeC57El6wPB2iTynrnaqrgmMbq7R/V8MY/9o5ZYNYYzkQZfFM1kCmStBsTxeEaVMtDiCKfc8hVwublIS4ri53q7CdDw/3QvPx7hUbAJ5Nvyy7f034xcF/AbMVJehf8KieHkCdrtU=;e4MogMRFIidVkE2ThHTYkQ=="
 ---

@@ -466,6 +466,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Justice Department says IRS must release Trump tax returns to committee"
+    excerpt: "The Justice Department on Friday told the Treasury Department to hand former President Donald Trump's tax returns over to the House committee investigating his tax information."
+    publishedDateTime: 2021-07-30T19:42:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/30/ex-president-donald-trump-tax-returns-committee/3961627669208/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/30/ex-president-donald-trump-tax-returns-committee/3961627669208/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/30/ex-president-donald-trump-tax-returns-committee/3961627669208/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3961627669208/2021/1/2cc9c22303414b5a7f2c60bb5c350393/v1.5/Justice-Department-says-IRS-must-release-Trump-tax-returns-to-committee.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Texas congressman sworn in after beating Trump-backed rival"
     excerpt: "Texas Republican Jake Ellzey was sworn in to the House on Friday, days after winning a special election in which he defeated his predecessor’s widow, who was backed by former President Donald Trump."
     publishedDateTime: 2021-07-30T17:52:00Z
@@ -481,6 +497,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/30/congress_ellzey_27760_c0-208-5000-3124_s1200x700.jpg?74d48b7b24509088c15947da9892024c1a07cb57"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Justice says IRS must give Trump tax returns to Congress"
+    excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former"
+    publishedDateTime: 2021-07-30T19:24:00Z
+    webUrl: "https://www.theday.com/article/20210730/NWS21/210739958"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210730/NWS21/210739958/AR/0/AR-210739958.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "oL4WsfnvqQo1qHi16ce6ah3ekcgNnZ5vz3NWaBm4NIh5l8sXNNDxD/WrK8ZOBCxCIBDktXyH9iQ8W77RJfcB7dGUuOBNapC9ls9vMVJVPS49tpb7TDbOp0MWimw9FRlC7w+pf59PA3/fjm/x0kxp2fNTxWzRTDknnKwuXE+va1E5BwIXLzrU+8JFcuYfTERanSAt9RXEFIdARESt/Y7yl7APL2CGW9XoB7oR6pYs99VonQtK6NPKhaKXOLgt+RvjJm4apxFggQIdRr63Vz/u2QL7+RIUem/p3M/0Qd+E8ZeSff89yP+KgC34F1LQCMAHQeGmtVzxbPQGwHiTwF2OH5A3Cnn9mTobwj94NXzf6UfvySc3GO9VVTJpNkDJuRpQN/xsirMPsb8KQ3+fD8D5yw3pfJQqbKO1IL0Ltorl5MWPvPG9LakQqkOk1+jUY0VGUHYJrjXobeV+LldL5DKElxleH0RPoDHO6+2C7ssK9SW8JlGtxva7imCA4HiJxWm/m+WCE22b5SQmTCNKK0oDjQ==;Lh2rHHsksFNpZDB/t/I0JA=="

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-30-sc-lawmaker-mounts-challenge-to-rep-tom-rice-says-trump-impeachment-vote-broke-trust.md",
-      "title": "S.C. Lawmaker Mounts Challenge to Rep. Tom Rice, Says Trump Impeachment Vote Broke 'Trust'",
-      "excerpt": "\"I think the people...deserve someone they can trust again, and I think I'm that person,\" state Representative Russell Fry said.",
+      "path": "_news/2021-07-31-justice-department-says-irs-must-provide-trumps-tax-returns-to-congress.md",
+      "title": "Justice Department says IRS must provide Trump's tax returns to Congress",
+      "excerpt": "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump's tax returns, apparently ending a long legal showdown over the records.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645",
-      "originalUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645",
+      "webUrl": "https://www.cbsnews.com/news/justice-department-says-irs-must-give-trump-tax-returns-congress/",
+      "originalUrl": "https://www.cbsnews.com/news/justice-department-says-irs-must-give-trump-tax-returns-congress/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 224,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1858741/russell-fry-challenges-tom-rice-primaries.jpg",
-          "width": 2500,
-          "height": 1669,
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/08/214bf190-6024-4d7a-a645-d3a47739c90f/thumbnail/1200x630/4dd1e53fb3aa5cc8469f58b7ceb151a3/gettyimages-1230553516.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1",
-      "publishedDateTime": "2021-07-30T06:36:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/justice-department-says-irs-must-give-trump-tax-returns-congress/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/justice-department-says-irs-must-give-trump-tax-returns-congress/",
+      "publishedDateTime": "2021-07-30T12:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -319,7 +319,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -472,6 +472,110 @@
       ]
     },
     {
+      "path": "_news/2021-07-28-power-up-despite-doj-waive-of-executive-privilege-compelling-trump-era-officials-to-testify-still-a-wildcard.md",
+      "title": "Power Up: Despite DOJ waive of executive privilege, compelling Trump-era officials to testify still a wildcard",
+      "excerpt": "While the DOJ's announcement opens the door for former Trump administration officials to be called to testify in the events leading up to January 6, Democrats don't have a strong track record of enforcing those subpoenas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/28/power-up-despite-doj-waive-executive-privilege-compelling-trump-era-officials-testify-still-wildcard/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/28/power-up-despite-doj-waive-executive-privilege-compelling-trump-era-officials-testify-still-wildcard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFFVWJXPDEI6XANSTNYGDJMC3A.jpg&w=1440",
+          "width": 1440,
+          "height": 1859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-audio-shows-a-profanity-laced-voicemail-that-dc-officer-michael-fanone-got-from-a-trump-supporter-while-he-was-testifying-to-congress.md",
+      "title": "Audio shows a profanity-laced voicemail that DC officer Michael Fanone got from a Trump supporter while he was testifying to Congress",
+      "excerpt": "The DC police officer had told Congress on Tuesday that he was beaten unconscious and almost killed by Capitol rioters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
+      "originalUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610121ec0d35a90018258b3e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
+      "publishedDateTime": "2021-07-28T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-new-york-times-reporter-deletes-tweet-calling-trump-supporters-enemies-of-the-state.md",
       "title": "New York Times reporter deletes tweet calling Trump supporters ‘enemies of the state’",
       "excerpt": "A New York Times reporter deleted a tweet that called supporters of former President Trump “enemies of the state,” following a viral blowback online.",
@@ -576,7 +680,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -668,58 +772,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-28-trump-officials-can-testify-to-congress-about-his-role-in-capitol-attack-doj-says.md",
-      "title": "Trump officials can testify to Congress about his role in Capitol attack, DoJ says",
-      "excerpt": "Move declines to assert executive privilege for then acting attorney general Jeffrey Rosen, clearing path for others to testify",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 319,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/8bb0778aeff287e95a46360195a1c4d361925200/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9faed1b3256dadc1ca07910aba418d2a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj",
-      "publishedDateTime": "2021-07-27T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-28-officer-trump-helped-create-this-monstrosity.md",
       "title": "Officer: Trump 'helped create this monstrosity'",
       "excerpt": "In testimony before the panel probing the attack on the U.S. Capitol, a police sergeant blasted former President Donald Trump's description of the scene as \"a loving crowd\". (July 27)",
@@ -759,6 +811,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-paxton-gets-all-important-endorsement-from-donald-trump-over-fellow-republican-george-p-bush.md",
+      "title": "Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush",
+      "excerpt": "Former President Donald Trump has backed Attorney General Ken Paxton for reelection, passing over primary challenger George P. Bush in bestowing the highly sought-after endorsement. \"It is going to take a PATRIOT like Ken Paxton to advance America First policies in order to Make America Great Again,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/lavoz/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php",
+      "originalUrl": "https://www.chron.com/lavoz/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/13/45/21281144/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php",
+      "publishedDateTime": "2021-07-27T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -856,58 +951,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-donald-trump-jr-vastly-more-popular-with-republicans-than-mitch-mcconnell-poll-shows.md",
-      "title": "Donald Trump Jr. Vastly More Popular With Republicans Than Mitch McConnell, Poll Shows",
-      "excerpt": "Donald Trump Jr., who has been a vocal force in the Republican party, was also significantly more popular than House Minority Leader Kevin McCarthy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1855069/donald-trump-jr-poll-mitch-mcconnell.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1",
-      "publishedDateTime": "2021-07-26T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1346,7 +1389,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
       "featuredContent": null,
       "highlight": null,
-      "heat": 740,
+      "heat": 780,
       "tags": null,
       "images": [
         {
@@ -1442,19 +1485,19 @@
       ]
     },
     {
-      "path": "_news/2021-07-24-donald-trump-was-almost-giddy-watching-the-capitol-riot-on-tv-author-says.md",
-      "title": "Donald Trump was 'almost giddy' watching the Capitol riot on TV, author says",
-      "excerpt": "It took hours for Ivanka Trump and aides to convince the president to rebuke the Capitol riot, according to \"I Alone Can Fix It\" author Carol Leonnig.",
+      "path": "_news/2021-07-24-inside-the-push-to-get-trump-back-on-social-media-now-that-his-favorite-sites-have-banned-him.md",
+      "title": "Inside the push to get Trump back on social media now that his favorite sites have banned him",
+      "excerpt": "\"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while',\" the CEO of a new conservative social media platform told Insider after he showed Trump how to use its app.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7",
+      "webUrl": "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7",
+      "originalUrl": "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/60fbcc2228e2cf0018905856?width=1200&format=jpeg",
+          "url": "https://i.insider.com/60f9d289fc253600181fefe5?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -1464,9 +1507,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7?amp",
-      "publishedDateTime": "2021-07-24T02:24:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-24T06:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1491,54 +1534,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
-      "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
-      "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
-      "originalUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/gaurdians-trump-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
-      "publishedDateTime": "2021-07-23T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

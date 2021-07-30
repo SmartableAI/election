@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden DOJ says Trump's tax returns can be turned over to Congress"
+    excerpt: "The Department of Justice on Friday said Donald Trump’s tax returns must be released by the IRS to the House Ways and Means Committee."
+    publishedDateTime: 2021-07-30T19:28:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uq4mc5cXiYU/biden-doj-trump-tax-returns-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-trump-tax-returns-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-trump-tax-returns-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02dacb20-8ad6-4176-9b59-2a1aed1201f0/f43d9435-c16b-4e13-af3a-843adb6b44e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden administration announces sky-high border numbers, looks to blame Trump"
     excerpt: "Border officials encountered 172,000 migrants at the border in March, a 71% increase from February and the latest indicator of the extent of the crisis at the southern border -- but one that Biden officials are trying to blame on the Trump administration."
     publishedDateTime: 2021-04-08T14:17:10Z

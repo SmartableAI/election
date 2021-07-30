@@ -1,0 +1,115 @@
+---
+category: news
+title: "Justice Department says IRS must provide Trump's tax returns to Congress"
+excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump's tax returns, apparently ending a long legal showdown over the records."
+publishedDateTime: 2021-07-30T19:33:00Z
+originalUrl: "https://www.cbsnews.com/news/justice-department-says-irs-must-give-trump-tax-returns-congress/"
+webUrl: "https://www.cbsnews.com/news/justice-department-says-irs-must-give-trump-tax-returns-congress/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/justice-department-says-irs-must-give-trump-tax-returns-congress/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/justice-department-says-irs-must-give-trump-tax-returns-congress/"
+type: article
+quality: 124
+heat: 224
+published: true
+
+provider:
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/08/214bf190-6024-4d7a-a645-d3a47739c90f/thumbnail/1200x630/4dd1e53fb3aa5cc8469f58b7ceb151a3/gettyimages-1230553516.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Trump officials can testify to Congress about his role in Capitol attack, DoJ says"
+    excerpt: "Move declines to assert executive privilege for then acting attorney general Jeffrey Rosen, clearing path for others to testify"
+    publishedDateTime: 2021-07-27T19:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/8bb0778aeff287e95a46360195a1c4d361925200/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9faed1b3256dadc1ca07910aba418d2a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "S.C. Lawmaker Mounts Challenge to Rep. Tom Rice, Says Trump Impeachment Vote Broke 'Trust'"
+    excerpt: "\"I think the people...deserve someone they can trust again, and I think I'm that person,\" state Representative Russell Fry said."
+    publishedDateTime: 2021-07-30T13:36:00Z
+    webUrl: "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645"
+    ampWebUrl: "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1858741/russell-fry-challenges-tom-rice-primaries.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
+  - title: "Justice Dept. says IRS must give Trump tax returns to Congress"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T17:50:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/VhQx2UqxW-UAnFNI9gPPPnBNLgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZD2KL25SNEXYSKVW22435JKHQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Justice Dept says IRS must provide Trump's tax returns to Congress"
+    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying"
+    publishedDateTime: 2021-07-30T17:45:00Z
+    webUrl: "https://gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.html"
+    ampWebUrl: "https://gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/4/98/49812c62-f15e-11eb-a8c1-ff34e8e4f8cf/61043b67c05ee.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Justice Department Says IRS Must Give Trump Tax Returns To Congress"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T17:51:00Z
+    webUrl: "https://www.newson6.com/story/61043c333c941b0bf48e9438/justice-department-says-irs-must-give-former-president-trumps-tax-returns-to-congress"
+    type: article
+    provider:
+      name: News on 6
+      domain: newson6.com
+    quality: 55
+    images:
+      - url: "https://hot-town-images.s3.us-east-1.amazonaws.com/kotv/production/2020/March/17/face-masks-recommended-though-trump-says-he-wont-wear-one.1584442094000-0.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "swVN8yrQU4GKP40c874ETF6puidyuvPxLKzUkOF6F/9kCi2dz20uZNMrmt1LCkxIHatg0ib3/Iywvff560X5Ct+pL1L3DT89OJIgmk9XCAUL0Ba7iJrCsPNYD90y+JkZLMkqtZ32exdz288GcZIjV3dpUADxjir+elI72ICRbE1asO+hRgxAyvu/JZbKB51o1jh+QU8Y3dBfxqldcSO40QguX17iErdgxewAOasZSe/sqAoO+LrCA915ySLoymsukx5bCxaZcERYWUsZk4oCa/n3x8YBgQdikXL6dUjbBrX/7NVHFiHpMr0BH1BcmqvgmPUbwhx4Og2xq94APSPz7h2N5GILFCP1/+LqNhm1S0w=;CLPwwDZ4p4ppYadg7hhfXg=="
+---
+

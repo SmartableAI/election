@@ -111,22 +111,6 @@ related:
         width: 795
         height: 545
         isCached: true
-  - title: "Biden sees shortages to stop climate-change fueled wildfires"
-    excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
-    publishedDateTime: 2021-07-30T17:17:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_465625e120d0458897abb77d26154ae0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden says inflation 'temporary'"
     excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
     publishedDateTime: 2021-07-19T19:13:00Z
@@ -184,6 +168,38 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/8491627296955/2021/1/e67278113a3ef5e9f42f7fba3e03d494/v1.5/Joe-Biden-says-US-combat-mission-in-Iraq-will-end-later-this-year.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Why Joe Biden’s Racial Justice Agenda Is Stalled"
+    excerpt: "Joe Biden won by promising less. Vocal factions in the Democratic Party and beyond saw Hillary Clinton’s 2016 defeat as evidence that Americans were hungry for something bold and transformative from the left."
+    publishedDateTime: 2021-07-30T15:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/why-joe-biden-racial-justice-agenda-is-stalled.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/why-joe-biden-racial-justice-agenda-is-stalled.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/why-joe-biden-racial-justice-agenda-is-stalled.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/094/248/a92254db929086e3a8cf7f5d0a45882960-col-1-h-15544287.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Biden Sees Shortages to Stop Climate-Change Fueled Wildfires"
+    excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
+    publishedDateTime: 2021-07-30T19:44:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/05/AP_21140797917947.jpg?quality=85&strip=all&crop=298px%2C234px%2C3840px%2C2160px&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
     excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean,"

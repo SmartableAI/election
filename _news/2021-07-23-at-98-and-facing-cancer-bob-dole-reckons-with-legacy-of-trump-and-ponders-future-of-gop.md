@@ -458,6 +458,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Justice Department says IRS must release Trump tax returns to committee"
+    excerpt: "The Justice Department on Friday told the Treasury Department to hand former President Donald Trump's tax returns over to the House committee investigating his tax information."
+    publishedDateTime: 2021-07-30T19:42:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/30/ex-president-donald-trump-tax-returns-committee/3961627669208/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/30/ex-president-donald-trump-tax-returns-committee/3961627669208/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/30/ex-president-donald-trump-tax-returns-committee/3961627669208/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3961627669208/2021/1/2cc9c22303414b5a7f2c60bb5c350393/v1.5/Justice-Department-says-IRS-must-release-Trump-tax-returns-to-committee.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Texas congressman sworn in after beating Trump-backed rival"
     excerpt: "Texas Republican Jake Ellzey was sworn in to the House on Friday, days after winning a special election in which he defeated his predecessor’s widow, who was backed by former President Donald Trump."
     publishedDateTime: 2021-07-30T17:52:00Z
@@ -483,6 +499,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 62
+  - title: "Justice says IRS must give Trump tax returns to Congress"
+    excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former"
+    publishedDateTime: 2021-07-30T19:24:00Z
+    webUrl: "https://www.theday.com/article/20210730/NWS21/210739958"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210730/NWS21/210739958/AR/0/AR-210739958.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "apSYpJopNGUm1ONWZTkG8ohB6Wo2ecP/rPc8tcefu6Lr72F/6Mrpo+U7BTumxTuUU52HLN42fHb43A2wJGkd9VAkAUbHMgdBrDfyW9lsFVow/qHkUZARZp/y1Sdn+Z4X0fazG2P3d/vBdb9uzVMU6L86dSLw9vrB56Nues/EwN/omj4LAS6WWct6GnIZ+mZb0Y4+zH+tkAvt4QV+x6/vHj7N+62azDcTh8qlq2WYrEJRU/rk6BCK1Ha/lmw88OwkRqhsnu7V8JXTf7VHUUHjswMxba//jkigKA5dXlaH9EXuXTe4CdL376vE72+vRAmqanuFa8ZTBL3kJA2r9o3jgwxNxmaLvH5fvLew7zn+1SJbQT7PzwkC1BbF3juso18F2NVHR5N04x7oTohQkS/IEuCe5dmec3Fr15PBfbTS/n8ZAg+S27ida4Fd0zQYJcfaZw5/1WOzyYJFeiJ/fLaINOkrKX3XpLe1eD5Jmgdms2DHjuS3r8IbkAPQDb0KJU8qKZdEP/1RGH1I7C1F78gZkQ==;9EdYnnad2IZlLBqwfe8vcg=="
 ---

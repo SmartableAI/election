@@ -2,6 +2,63 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-05-28-at-naval-academy-graduation-harris-to-focus-on-strengthening-a-fragile-world.md",
+      "title": "At Naval Academy Graduation, Harris to Focus on Strengthening a ‘Fragile’ World",
+      "excerpt": "Vice President Kamala Harris, the school’s first female commencement speaker, is expected to use her speech to address some of the Biden administration’s most urgent challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/28/multimedia/28DC-Harris-01/28DC-Harris-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html",
+      "publishedDateTime": "2021-05-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-inside-trumps-hot-vax-new-jersey-summer-where-hes-playing-golf-and-plotting-rallies-while-legal-storms-form.md",
       "title": "Inside Trump's hot vax New Jersey summer, where he's playing golf and plotting rallies while legal storms form",
       "excerpt": "Trump's political machine is humming from his summer perch in Bedminster, New Jersey. But legal trouble is brewing in New York",
@@ -1275,62 +1332,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp",
       "publishedDateTime": "2021-05-26T18:01:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-biden-picks-la-mayor-envoy-for-ambassador-posts-ap-source.md",
-      "title": "Biden picks LA mayor, envoy for ambassador posts: AP source",
-      "excerpt": "President Joe Biden is expected to announce he is nominating former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India, according to a person familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hr52ZW2YCYs/biden-los-angeles-mayor-eric-garcetti-india-ambassador",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hr52ZW2YCYs/biden-los-angeles-mayor-eric-garcetti-india-ambassador",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132726897266-1.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp",
-      "publishedDateTime": "2021-05-26T14:14:34-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

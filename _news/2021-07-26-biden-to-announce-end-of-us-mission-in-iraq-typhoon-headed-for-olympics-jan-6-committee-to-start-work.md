@@ -89,6 +89,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "President Joe Biden meets with governors to find help battling raging wildfires"
+    excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
+    publishedDateTime: 2021-07-30T18:19:00Z
+    webUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 51
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/30/USAT/c013de64-f62f-4351-9b1c-03e800b523b4-VPC_WILD_FIRE_SOT_GOV_INSLEE_DESK.00_00_04_19.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "5R1AJ1KQNW6ClQce6gArcqi+pr73My369Hp0Sf++/MZHeyJknnVlhIQmE0Q7HgjxxiCgfSwNbb5lbDuZDATxW3G1l6a0xdSQuU7DvdC6S4Z2zO0rFc5x23lZcOPi1GoP+wMmf2FNOwvYWxbAOYjI8OQXoUz2ni9PIJMKtn9xgecUv0YdbLDJk/I7yiCaqg1pk8ExnJPrXGkkNc4xMzAS/7v5MvVNK4pPHQ2s5iBnfGbjA4lZtBCMeANS32nyeW0sgG/45YJyWZzVdxTIcRLlxh0uQzFTqysT+iKUcGHrLP/LHpPWAA84Mz6DtLCuM5+PgepTqf/IZ5g7bNBdupopzxNePZ1XtZH7tmqz6zIJNz0=;CIzxKR8qVx/EnmgkNDcKhA=="
 ---

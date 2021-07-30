@@ -112,6 +112,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden DOJ says Trump's tax returns can be turned over to Congress"
+    excerpt: "The Department of Justice on Friday said Donald Trump’s tax returns must be released by the IRS to the House Ways and Means Committee."
+    publishedDateTime: 2021-07-30T19:28:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uq4mc5cXiYU/biden-doj-trump-tax-returns-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-trump-tax-returns-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-trump-tax-returns-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02dacb20-8ad6-4176-9b59-2a1aed1201f0/f43d9435-c16b-4e13-af3a-843adb6b44e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Former Trump official Hogan Gidley to launch election integrity nonprofit"
     excerpt: "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News"
     publishedDateTime: 2021-04-09T14:20:46Z

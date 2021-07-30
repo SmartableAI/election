@@ -27,151 +27,94 @@ images:
     isCached: true
 
 related:
-  - title: "Trump officials can testify to Congress about his role in Capitol attack, DoJ says"
-    excerpt: "Move declines to assert executive privilege for then acting attorney general Jeffrey Rosen, clearing path for others to testify"
-    publishedDateTime: 2021-07-27T19:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/8bb0778aeff287e95a46360195a1c4d361925200/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9faed1b3256dadc1ca07910aba418d2a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee"
-    excerpt: "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot."
-    publishedDateTime: 2021-07-20T17:45:00Z
-    webUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920"
-    ampWebUrl: "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Inside the push to get Trump back on social media now that his favorite sites have banned him"
-    excerpt: "\"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while',\" the CEO of a new conservative social media platform told Insider after he showed Trump how to use its app."
-    publishedDateTime: 2021-07-24T13:44:00Z
-    webUrl: "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/60f9d289fc253600181fefe5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Audio shows a profanity-laced voicemail that DC officer Michael Fanone got from a Trump supporter while he was testifying to Congress"
-    excerpt: "The DC police officer had told Congress on Tuesday that he was beaten unconscious and almost killed by Capitol rioters."
-    publishedDateTime: 2021-07-28T09:54:00Z
-    webUrl: "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/610121ec0d35a90018258b3e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Why Trump is getting the hard sell from his former spokesman to join a new conservative social media site"
-    excerpt: "Jason Miller has been urging Trump to use the social network GETTR. \"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while.'\""
-    publishedDateTime: 2021-07-20T18:33:00Z
-    webUrl: "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Power Up: Despite DOJ waive of executive privilege, compelling Trump-era officials to testify still a wildcard"
-    excerpt: "While the DOJ's announcement opens the door for former Trump administration officials to be called to testify in the events leading up to January 6, Democrats don't have a strong track record of enforcing those subpoenas."
-    publishedDateTime: 2021-07-28T10:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/28/power-up-despite-doj-waive-executive-privilege-compelling-trump-era-officials-testify-still-wildcard/"
+  - title: "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas"
+    excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
+    publishedDateTime: 2021-07-28T01:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 85
+    quality: 100
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFFVWJXPDEI6XANSTNYGDJMC3A.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
-        height: 1859
+        height: 960
         isCached: true
-  - title: "Justice Dept. says IRS must give Trump tax returns to Congress"
-    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
-    publishedDateTime: 2021-07-30T17:50:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
+  - title: "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright"
+    excerpt: "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T13:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
     images:
-      - url: "https://www.baltimoresun.com/resizer/VhQx2UqxW-UAnFNI9gPPPnBNLgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZD2KL25SNEXYSKVW22435JKHQ.aspx"
+      - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
+  - title: "The Trailer: Trump, texts and Texas: Inside an all-Republican primary that didn't go as planned"
+    excerpt: "Instead, Democrats spent little, turned out few voters, and set up an all-Republican race between Wright and Ellzey, who'd previously sought the seat in 2018. Instead of a red-on-blue suburban battle,"
+    publishedDateTime: 2021-07-27T21:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 93
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXK7Q5XO6EI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Texas Attorney General Ken Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
+    excerpt: "Paxton is facing a primary challenge from Bush, the land commissioner, as well as Eva Guzman, the former state Supreme Court justice."
+    publishedDateTime: 2021-07-27T04:11:00Z
+    webUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/"
+    ampWebUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 50
+    images:
+      - url: "https://thumbnails.texastribune.org/s8ogB7GkYvA1-RGZ9WgYwz8uaSQ=/1200x630/filters:quality(95)/static.texastribune.org/media/files/2a6fb556597679337515d7ceed1a6af1/Trump%20Paxton%20TT.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Justice Dept says IRS must provide Trump's tax returns to Congress"
-    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying"
-    publishedDateTime: 2021-07-30T17:45:00Z
-    webUrl: "https://gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.html"
-    ampWebUrl: "https://gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.amp.html"
-    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.amp.html"
+  - title: "In a major upset against a candidate backed by Donald Trump, Jake Ellzey wins runoff for Fort Worth-area congressional seat"
+    excerpt: "Wright and Ellzey are vying to finish the term of Ron Wright, who died earlier this year after contracting COVID-19. His Republican-leaning seat touches Fort Worth and stretches southeast to more rural areas."
+    publishedDateTime: 2021-07-27T11:00:00Z
+    webUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/"
+    ampWebUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
     type: article
     provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 75
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 49
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/4/98/49812c62-f15e-11eb-a8c1-ff34e8e4f8cf/61043b67c05ee.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://thumbnails.texastribune.org/v96me-3rz0BdxTl1PFumcJsRrZM=/1200x630/filters:quality(95)/static.texastribune.org/media/files/d5ab26288afce7e92fc2b6a90729192d/Jake%20Ellzey%20TT%2002.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Justice Department Says IRS Must Give Trump Tax Returns To Congress"
-    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
-    publishedDateTime: 2021-07-30T17:51:00Z
-    webUrl: "https://www.newson6.com/story/61043c333c941b0bf48e9438/justice-department-says-irs-must-give-former-president-trumps-tax-returns-to-congress"
+  - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
+    excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
+    publishedDateTime: 2021-07-29T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/carl-p-leubsdorf-the-candidate-trump-endorsed-in-a-texas-race-lost-what-does-that/article_a85239e8-9169-56a5-b913-aa757f3adf35.html"
     type: article
     provider:
-      name: News on 6
-      domain: newson6.com
-    quality: 55
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 45
     images:
-      - url: "https://hot-town-images.s3.us-east-1.amazonaws.com/kotv/production/2020/March/17/face-masks-recommended-though-trump-says-he-wont-wear-one.1584442094000-0.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Beshear Uses Ex-Trump Official's Words in Urging COVID Shots"
-    excerpt: "Kentucky’s Democratic governor is highlighting a warning from a Trump administration health official in urging people to get the COVID-19 vaccine."
-    publishedDateTime: 2021-07-22T19:04:00Z
-    webUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-07-22/beshear-uses-ex-trump-officials-words-in-urging-covid-shots"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "ZYD95YbIR0FLVCWEQ3EwKcKVc7ZnTGIFu1GerE1l6phpxNmsJRAD3BbeHtLku0w1lSwsklntsM7yzwwSIWefETxc/X39Hq0X8aabyvCU977CjcGt+o5IahzwghDVMH6i/cSOP+Bm74D6MFwHm7U6V7PqOULbuzn93FMQbAjHECKKLmYlLHyE0GEYnftpkl0MLfcwcvY8pSnJ206j8kljH4hYpjUug+1QAkXeAjmkZ/AWegZpBI6fZODShuawnkZX/34LNivG22X0GkFvs4Gth/VcS8J7shk/3P+yvcz4EXw+pWjca4O2yGjsu1BBPqWV21gIgJmp4psoa1esgNgMQ2EYR0owSXwAVgZYVNv1b7Izy++5d9REo+aU6aB++fOQrkqe8Z5q7JSiVPbFCcFrbQ7kitS1J1Byld6xXunfdECTIZtopPRPfmNmRGJnFBA4oKIo7xhoUIOL8bc9GgsUOX67E9Mw4QGZpq+c9Jo71bfgAR9ywRrrw3yQng7XHPTl4K/VMR8UqPDAtki4sElNDQ==;+noCf5NVdFZBQ5fTeTpbyw=="
 ---

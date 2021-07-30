@@ -3,18 +3,18 @@ category: news
 title: "Mike Pence: Evidence 'strongly suggests' COVID-19 came from a Chinese lab"
 excerpt: "Ex-VP Mike Pence points to a Chinese lab as COVID's source, but doesn't elaborate on the evidence he's citing. In a new paper, virologists disagree."
 publishedDateTime: 2021-07-14T22:08:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/"
-webUrl: "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/"
-ampWebUrl: "https://amp.freep.com/amp/7968126002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7968126002"
+originalUrl: "https://www.tennessean.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/"
+webUrl: "https://www.tennessean.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/"
+ampWebUrl: "https://amp.tennessean.com/amp/7968126002"
+cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/7968126002"
 type: article
 quality: 74
 heat: 74
 published: true
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "WPcYqSiyO+KS+NNu2llil+oCOVFiE0iqKd9rfvcrqHrZD+x0sxWRYoiC3LHYBxaBlgxAusYCcW33z9ktP7OGBnQ4pEDPJ25ekz8ROSDJ+CxsGJis8UFvbgpDgPv3/H754Fd9MDeqNTjQGMh3mfNgR7P6Fmv/irI6J4lC1aGHI45Ou+fmRuzVj2y1RWNa0Wt+rfeT174F4CXpXdJWgONQukR6msra8Yz+xk5oZD5Ixf1VqxkXIb5KIqKUBvqN/FZKftwo1JUlmzHkuRkvZiZV4sKdjpFUtBGBp1QtDZQy4Dogt3gSOvFLkYcsWIrE700qUamZ1YzIXmC5IgmC8bSIJMLAjIpXenS2s/2USVzmUffguQkceicnBDhHvNuxtz8FSwvQXNFO+Nm3z5qbOGwZ3t6XhyTMe7KBP4osm+I9JRxf0EfIlyeGrk2yv750HCO/2nD2lcWiSUV4cp8V9HJqTtqluYErFehNOoonn/ki87m7VGm4ctY1KulsRRZrRYZ9l69WHnZFjcH/lcrgkrOIkw==;vG195vaV9OLDr3btkpy3cw=="
+secured: "lEb/qUSTdWqewcYzgEnBkdqxb/1NYsP5OIUJIudjeL80uSbD6UHuY8aj01TYqljZA9NHijUkMXFrx3crECezgH3K0cZJvvfiLwB2jaj3/lOjQ7KzPUUFZwPJ5Cv5T7ThP4tTXXPnO7k66bSgB3XfTan1DwREIeQgSXxMdv2V0Ekg5a7cNiXeAxG/9++UcsoWWTKxcKEhuMGfgVDLNfBLUM34EO8deD1edaHeszhrEBOQvvWWNNbRT0tmWKYa8QVBM5iQ70s8+qJDHKxrp9d+GA0cpikf3ZdAaejqyN2e3QlBL/ZrNIxYnphcE9yggASOwcCJitAk4SAH3XgtKZFrE/PukZKWMQr503jQmMTHl9g=;o3u6kV6TGbwUn0Y5cCfN/w=="
 ---
 

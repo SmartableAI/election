@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandate
 webUrl: "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/"
 type: article
 quality: 98
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 47
+  - title: "Beshear Uses Ex-Trump Official's Words in Urging COVID Shots"
+    excerpt: "Kentucky’s Democratic governor is highlighting a warning from a Trump administration health official in urging people to get the COVID-19 vaccine."
+    publishedDateTime: 2021-07-22T19:04:00Z
+    webUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-07-22/beshear-uses-ex-trump-officials-words-in-urging-covid-shots"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "1HuABYigaGN81W6CAzUbp5nk9IAjaEw89iryR74PyhRqVDT1DG1O6TXYXW8FYKv5oe34nOM7KDNuyKpVxv25uDzM5w/CdC6nC0DkK0uSSaoRf11HQeHuHsJuSmdripqz4lsL1vu/2ZzG3xJ5P3aE5ymmJ9Pj3pNRjv+tr8LSDScOCy3k/TfqPqW/jXN71lyc5inoKnrEX1+Sjhx9NgLT/W8Bdkjt1kaOQOPCJcG7FjLGg7WZJo2XOR2cDSBIkpwZcbEH7wfDdReWshgjnaFtmam95cEge6yzrN1alFOJ7WK8ihwhyUTShY1+mjAqAqInE8O5JYc3EFK5VIvuZfhbNeZxXgRCfyduuhpsUUU3ikpuGjdfW7U8+o7oLCeOPGafY6okUAcJeqMABeCTWogxRYHqX5DunOEgSa7Wvxt9SQWLSlklABIWn7gPoXpYWhMKTXXlRNFwRVOSkWxOwzJJg5xMpyMJfwaf1m4c6iMgEmyLZ/AWJgw0h97tVtdZndIzm/qjjVOxEFMlBZMjv/Laog==;Lw7RNOhowIvY2x+jpAuDrw=="
 ---

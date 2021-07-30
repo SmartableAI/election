@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-20-larry-elder-says-california-law-disqualifying-him-from-recall-ballot-was-designed-to-get-trumps-tax-returns.md",
+      "title": "Larry Elder says California law disqualifying him from recall ballot was designed to get Trump's tax returns",
+      "excerpt": "Conservative talk radio host Larry Elder says the California law used to disqualify him from being on the ballot for the recall election against Gov. Gavin Newsom was originally passed by state lawmakers to force President Donald Trump to turn over his tax returns if he wanted to qualify for the 2020",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hhUffR9mR8w/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hhUffR9mR8w/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9294d03c-d956-497a-9843-9db364346e9c/2fc26e77-ec70-4ee5-a589-f538e0a60416/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-elder-california-law-disqualifying-recall-ballot-trump-tax-returns.amp",
+      "publishedDateTime": "2021-07-20T15:16:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-trump-liz-cheney-opponents-to-meet-with-him-pre-endorsement.md",
       "title": "Trump: Liz Cheney opponents to meet with him pre-endorsement",
       "excerpt": "Donald Trump says he will meet next week with Republicans running against Rep. Liz Cheney and endorse one in the next few months",
@@ -160,6 +216,58 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-mccarthy-appoints-0-republicans-who-voted-to-impeach-trump-to-capitol-riot-committee.md",
+      "title": "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee",
+      "excerpt": "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
+      "originalUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
+      "publishedDateTime": "2021-07-20T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1197,97 +1305,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-donald-trump-kim-jong-un-to-meet-to-discuss-denuclearization.md",
-      "title": "Donald Trump, Kim Jong-un to meet to discuss denuclearization",
-      "excerpt": "North Korea has informed the U.S. in talks that it is willing to discuss denuclearization at an upcoming summit, a senior administration official confirmed Sunday. \"The United States and North Korea have been holding talks in preparation for a summit,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/donald-trump-kim-jong-un-a287357b8abcc4e12452652424451138",
-      "originalUrl": "https://apnews.com/article/donald-trump-kim-jong-un-a287357b8abcc4e12452652424451138",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-17T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings.md",
-      "title": "Bill Burr savages CNN as ‘un-American pieces of s–t’ who want Trump for ratings",
-      "excerpt": "Bill Burr savaged CNN anchors this week as moronic, America-hating blowhards who secretly covet a second Trump presidency because he’s good for ratings.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/17/bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings/",
-      "originalUrl": "https://nypost.com/2021/07/17/bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/bill-burr-donald-trump-main-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/17/bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/17/bill-burr-savages-cnn-as-un-american-pieces-of-st-who-want-trump-for-ratings/amp/",
-      "publishedDateTime": "2021-07-17T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

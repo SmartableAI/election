@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/45/f45e5382-973d-5a9a-9b98-e1ae66d7ae45/60fe98480cfa2.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "President Joe Biden meets with governors to find help battling raging wildfires"
+    excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
+    publishedDateTime: 2021-07-30T18:19:00Z
+    webUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 51
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/30/USAT/c013de64-f62f-4351-9b1c-03e800b523b4-VPC_WILD_FIRE_SOT_GOV_INSLEE_DESK.00_00_04_19.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Le9XmI8sOJtLz6ZtAnx/IxVNb8YE/V+fEgDAGBRiCVxbZsEyD+Ue9ct6DU3jTuRwaityurVKabDrpT3rXqaKgwaWbw5tKqydIqEoP5170KJdqLYcM+It28CzyMLWPVH6LY6Pxdkf50bd+DZ9nM9unf9yGDhAfcfsgMR16hKQUA3FG3/t+X4v0YNXPR6KWNBNKljeS94rQfqZKMpD4kBBgJ3ApfV0cmcTiYj1lhDt08XZN/zcI0P4SPX09QAtxnsCPe86M82micbSlwG6YHS9H5eyNs1Pz2E7P2hfHdNX4yOyTmU+0flhHnSzTIbUhl/6SnmmYYEvc4MavmmO1loBXbotxS1H4XAJbUy55O6pXit6fQPc+rFoeVe62PJy36vvhCdhRbE1k5/lGM8mqAf7vvI7KbDZrzeMOmd9CQ1B7Vqsb5vIKBfsXlFLLWco4+XSGaflnATCUHhMzOq9hyStFhwnqAQolIHw+rULZtf9mFixwE53ryN+wZLTWI4I2QP2MQfqeYJiag8uZkF7OoG3/A==;HDAtRj6pESenVQ8PPcGzFQ=="

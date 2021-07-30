@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-25-army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase.md",
+      "title": "Army combat veteran who owns steel company asks Biden to bring back 'Made in America' showcase",
+      "excerpt": "An Alabama Army combat veteran whose business had taken a hit because of rising steel prices is calling on President Joe Biden to reinstate a Trump Administration tradition to honor American-made products at a time, he says, when businesses could really use the morale boost. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Colin-Wayne-Redline-Steel.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-24T17:49:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-arizona-secretary-of-state-tells-trump-before-election-lie-rally-get-over-it.md",
       "title": "Arizona secretary of state tells Trump before election lie rally: get over it",
       "excerpt": "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event",
@@ -110,6 +166,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-24-inside-the-push-to-get-trump-back-on-social-media-now-that-his-favorite-sites-have-banned-him.md",
+      "title": "Inside the push to get Trump back on social media now that his favorite sites have banned him",
+      "excerpt": "\"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while',\" the CEO of a new conservative social media platform told Insider after he showed Trump how to use its app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7",
+      "originalUrl": "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60f9d289fc253600181fefe5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-24T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-biden-authorizes-100-million-in-emergency-funds-for-afghan-refugees.md",
       "title": "Biden authorizes $100 million in emergency funds for Afghan refugees",
       "excerpt": "U.S. President Joe Biden on Friday authorized up to $100 million from an emergency fund to meet \"unexpected urgent\" refugee needs stemming from the situation in Afghanistan, including for Afghan special immigration visa applicants,",
@@ -118,7 +226,7 @@
       "originalUrl": "https://www.reuters.com/article/us-afghanistan-conflict-refugees-idUSKBN2ET29T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -572,58 +680,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-a-scandal-scarred-senate-candidate-wants-donald-trumps-endorsement-other-republicans-worry-hell-give-it.md",
-      "title": "A scandal-scarred Senate candidate wants Donald Trump’s endorsement. Other Republicans worry he’ll give it.",
-      "excerpt": "Former Missouri governor Eric Greitens, forced from office in 2018, has hired several Trump associates for his campaign and has falsely suggested Trump could replace Biden before the next presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-eric-greitens-endorsement/2021/07/22/9e9998a2-e8c0-11eb-97a0-a09d10181e36_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-eric-greitens-endorsement/2021/07/22/9e9998a2-e8c0-11eb-97a0-a09d10181e36_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PU73ALXLEII6XIV2HPRR2NESLA.jpg&w=1440",
-          "width": 1440,
-          "height": 983,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1280,62 +1336,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-hes-no-sell-out-biden-speaks-to-half-empty-room-at-cnn-town-hall.md",
-      "title": "He’s no sell-out: Biden speaks to half-empty room at CNN town hall",
-      "excerpt": "President Biden on Wednesday spoke to a half-empty auditorium while doing a live CNN “town hall” event in Ohio.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y18wAQa0p30/biden-empty-town-hall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y18wAQa0p30/biden-empty-town-hall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ba0b602-c860-4d62-9ab2-a0c1e9f8ba6c/fab6fdab-1d14-4848-a3c2-a201e82dc689/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-empty-town-hall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-empty-town-hall.amp",
-      "publishedDateTime": "2021-07-22T06:13:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

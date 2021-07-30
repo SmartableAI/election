@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/h6Rm5NBj7Ozf4K1WOjI2vNjcCiU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJD6BCIZURG63GMQBACHLFPMHY.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden administration extends eviction freeze: What to do if you’re struggling to make payments"
+    excerpt: "The Federal Housing Finance Agency (FHFA) and the Federal Housing Administration (FHA) each announced Friday that their coronavirus pandemic-driven eviction moratoria, which protect homeowners and renters from eviction in the event of nonpayment of rent ..."
+    publishedDateTime: 2021-07-30T19:47:00Z
+    webUrl: "https://www.foxbusiness.com/personal-finance/biden-administration-extends-eviction-freeze-how-to-make-payments"
+    ampWebUrl: "https://www.foxbusiness.com/personal-finance/biden-administration-extends-eviction-freeze-how-to-make-payments.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/personal-finance/biden-administration-extends-eviction-freeze-how-to-make-payments.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 63
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/07/Credible-eviction-moratorium-iStock-1270281292.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden will allow eviction moratorium to expire Saturday"
     excerpt: "As of July 5, roughly 3.6 million people in the U.S. said they faced eviction in the next two months, according to the U.S. Census Bureau."

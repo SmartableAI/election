@@ -35,6 +35,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Beshear Uses Ex-Trump Official's Words in Urging COVID Shots"
+    excerpt: "Kentucky’s Democratic governor is highlighting a warning from a Trump administration health official in urging people to get the COVID-19 vaccine."
+    publishedDateTime: 2021-07-22T19:04:00Z
+    webUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-07-22/beshear-uses-ex-trump-officials-words-in-urging-covid-shots"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "p7BwaYP1ATah2NaEvB1IFctMKSphbunIiblq24FQC1tEWBCBAsPJWZqrUBKesoi89B0d5H6o6UCY+7+ITo1fiziq7K9sTueS+0cRHM/QHSG5I5vnCvPb3gHnkZNRhw4e21fHm8LXA4aBLKiBIiP+0RRlo119RBT41FxSwcTT9PPlQ0H7AxSLdvgkpoLIhqkRYhq5+pmzvSi3upvc4spROHzhXv07i/s+sG1SCedflo9rS9e4fovsyJ6yj8KpfjUfVO3Z1OgUP3wrCGGNB3ETzxmA12btFc+fnpNFjKJoupK0SV4w2LCpm3qhEKsKMoYRSepQ+RC9vE4GiXrD5VjvDLeB1hHU0ogBOgkj61KIg32r8HAQxx1QmfhDjvTwFBUQnBoojlMZgZ4FL/BTUvIt01LXqyN5xOFl8Hy26cUwI6Ix7i9syF/xqkKHxs4JDiKPlM6WCafEgOKbY6ItaLu0CvgHbmOrg4vBloK/0ackELckxBi0u5vnjoUYXbjpdbllBDvzU2nYeDyHkDpsbJ6REQ==;ixGB64tgzR/YoQmE6wK1Mg=="
 ---

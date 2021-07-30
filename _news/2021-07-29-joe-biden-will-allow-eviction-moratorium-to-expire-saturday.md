@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden administration extends eviction freeze: What to do if you’re struggling to make payments"
+    excerpt: "The Federal Housing Finance Agency (FHFA) and the Federal Housing Administration (FHA) each announced Friday that their coronavirus pandemic-driven eviction moratoria, which protect homeowners and renters from eviction in the event of nonpayment of rent ..."
+    publishedDateTime: 2021-07-30T19:47:00Z
+    webUrl: "https://www.foxbusiness.com/personal-finance/biden-administration-extends-eviction-freeze-how-to-make-payments"
+    ampWebUrl: "https://www.foxbusiness.com/personal-finance/biden-administration-extends-eviction-freeze-how-to-make-payments.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/personal-finance/biden-administration-extends-eviction-freeze-how-to-make-payments.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 63
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/07/Credible-eviction-moratorium-iStock-1270281292.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "THD9XowWHN+P7D3ZhHjxzM2mHAmmatsUU2Q2qbknvEI6b8NEAJCp7eGs3yrkyHA2b+QhYshhPpKKzq/NZLzqYmkbot/ANgz4wnVvfcFgD3zBPKSDre+pDxsOUadHMb02gHRNO/zH8IdcVDsXSZVMJWu/ar21MGIeQ9bKbaJvb6819bpvbIb+k2K6wXlaNWDCjcj9RQhRQ9+eeZ+UREo4S8acGqewDh3RpmBgU20N3vBrPL36FRG/LlHwzSBxdyRdB3ArnF2A27LdkrSy1txevp6CJ9E42kFYDZs9enyFrMGxw3B/lnWlo6Wqrl4RDir2uGMauCmg80eSr+QTIu9KrR8/rfx41YFeI0PvIKgTVzWxblM7sJctuvnDqdc0TbetJybt1542fBhxNNrqNTO8qhfw/AlsVagHxjDAbeZnkCRJudgBGCVjIobyUN2tejqp8bFKN1YQuzZ6+8ISRX2pMOD0kEAaKXOSQs3bOHfxbIhuzfuP7BWIE31fFpSp7y6bR15Y5tOncR6if6U3UsA9vg==;6Qa32L6Y+H5/J25/gWaUcA=="
 ---

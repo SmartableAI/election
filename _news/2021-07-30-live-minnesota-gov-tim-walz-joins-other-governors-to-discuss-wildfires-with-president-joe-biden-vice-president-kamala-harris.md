@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-30T15:15:00Z
 originalUrl: "https://www.duluthnewstribune.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
 webUrl: "https://www.duluthnewstribune.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
 type: article
-quality: 42
+quality: 52
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://www.fccnn.com/incoming/7133742-bgagzb-U.S.-President-Biden-and-Vice-President-Harris-meet-on-infrastructure-with-a-bipartisan-group-of-governors-and-mayors-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Biden%20and%20Vice%20President%20Harris%20meet%20on%20infrastructure%20with%20a%20bipartisan%20group%20of%20governors%20and%20mayors%20at%20the%20White%20House%20in%20Washington"
@@ -1666,6 +1667,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "qKEktA+z+2R684yR09yi86hfs7YZaKB3wqoSKk33hbkUQ5GfCwqsz9+4qqs1R73pa2MrFJEQ0nI9jytfNR2cYkWWiaQjsb2QQAolT0zUCZKkww9pMwNs0dhGCbN3ssnTaHbZJwCVjEo0NGWDbJYC4g/ahoJm9mjF+/DsWWhbWqoUl0oM6AVxZtLf0zF96wMtdQvl1hBzy3LGNDFSoymM5G81q47aUk/9OzCBaUmE3VLiV4fZwU1H2OASAsX5ziuf4XySbIeEyj+uIVb4ed+4V9WSNnYVEgD3l9BADRRUhL+29V/Ec/i/HPp282MFmWOxm0xXi/IotGdGS2xwioDRVPIUOjSkjv+JLU80AcDdQ3A=;S52Ams4bTBuPnDWBBSqybQ=="
+secured: "0blnHXY4jzTGY1/mD4/bg2QAGhGuW8hpzSt2P58qsCaFohEDCtCREw0iTetcwi0DcJBsENv5hsw7AOGAK3r55muRxIXZ3U2GfifM94PRI0Ex+2sL0viDx5CgbE/wp7wIZfkIvdodoiNr9CeXJ6+PDXQiUrwHcKeJ+3dz/hPRExYAvVQSEesG1nzwCj1QkCXj8SDslWogeIb47keamdbkm6QdUhTb+AEfOAVz6xJ8on/rWKHuUMyOHlImE6nAOsdUzsVM/ZNgo+8x3ub2gymTcepjXu+CEWlRMvuf46XlCsj4DjUv3bQMXReZBV/d3FGB/5cO4Nk5NqGRUr8a4hHF9zivCPqHuMyhlfIFU4dcsR8Q9tzEf74mwh/BBV4GI3wzjer3GlDHPrcB81Ynjguz5Z8S19WPyjcxeUgV2jdecwDKq1glrL/4zI0iIJ2A1Fza66tpLqSuZWNs57pCjTmaoOAI0hnKvFuerPlGkscF84vYk/dsPF+mEtzO9EokDaHgKFm0Hz3r6fRAURiMANCNvg==;S6hAaL3dABw1MRR29vpbkA=="
 ---
 
