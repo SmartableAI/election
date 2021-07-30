@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ingraham: Biden seeks 'masks and mandates forever', as WH poised to guide 'the science' wherever they need"
+    excerpt: "In her \"Ingraham Angle\" Thursday, host Laura Ingraham said President Biden claims to issue edicts to the American people based on \"the science\", but in reality seeks to create a system where the government can rule by emergency indefinitely."
+    publishedDateTime: 2021-07-30T04:02:00Z
+    webUrl: "https://www.foxnews.com/media/ingraham-biden-masks-mandates-white-house"
+    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-masks-mandates-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-masks-mandates-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a45a209d-5776-49a6-bc18-a3902225096a/61608af9-0d69-4d97-9d88-2f2cab81c0f9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "OVNeN3Uu1ixO/TASiOov6qHc/nDflIb0gqIDe4wuBwX2ORFVup4l210S1gDEZk83MeM3xETgj2epYgWWF13swc5mpjISJnw8Jgv0fe+qLJSdi0mrtUSFz/W7hsMv3HpcOQM3AupnXCAKnl+3EfBWlE/a03BzZBV6NBUD9o9011Zm26rI50RLaeZl+OKKhYSDCScUZGoF/0tgMyA9Ct+BpQoIBQg7kj6iEro/5wOQkvnA4NPO6BByXdwT0UtaUiIaqssH8OVIY6KcN7AJdy9LLYFAEbbL2di782PxQjm2S5lFonVs656xsWYlvTpjVexvj7qGv/qShJ1cgB6/DFTzCLkkbvy/iH6+TJi/9HKW3uE=;pIO64SiWeDUr6wbMlqWeiQ=="
 ---

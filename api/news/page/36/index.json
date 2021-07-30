@@ -2,49 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2021-05-25-mike-and-karen-pence-purchase-new-home-near-indianapolis-good-to-be-back.md",
-      "title": "Mike and Karen Pence Purchase New Home Near Indianapolis: 'Good to Be Back'",
-      "excerpt": "Mike and Karen Pence are excited to be moving back to Indiana, after months of crashing with family and renting a home since leaving the White House. The former vice president, 61, and second lady ...",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/politics/mike-karen-pence-new-home-near-indianapolis/",
-      "originalUrl": "https://people.com/politics/mike-karen-pence-new-home-near-indianapolis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B280000%2C44948%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fmike-pence-1-2000-1.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://people.com/politics/mike-karen-pence-new-home-near-indianapolis/?amp=true",
-      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/politics/mike-karen-pence-new-home-near-indianapolis/?amp=true",
-      "publishedDateTime": "2021-05-24T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-05-24-liz-cheney-comes-out-in-support-of-stricter-voting-laws-sees-no-link-to-trump.md",
       "title": "Liz Cheney comes out in support of stricter voting laws, sees no link to Trump",
       "excerpt": "Liz Cheney — the daughter of former Vice President Dick Cheney — was removed earlier this month from her job as House GOP Conference chair for her continued focus on criticizing Donald",
@@ -1334,6 +1291,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-walshs-baggage-arrives-in-dc-boston-awaits-ruling-after-white-hearing-mail-voting-compromise-warren-pushes-biden-on-childcare.md",
+      "title": "WALSH’S BAGGAGE arrives in D.C. — BOSTON awaits RULING after WHITE hearing — Mail voting COMPROMISE — WARREN pushes BIDEN on CHILDCARE",
+      "excerpt": "Labor Secretary Marty Walsh was on a press call Thursday talking about climate change with other senior Biden administration officials. He didn’t take questions. But as the former Boston mayor went about his new day job,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/05/21/bpd-controversy-reaches-dc-492952",
+      "originalUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/05/21/bpd-controversy-reaches-dc-492952",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Supporters Raise $5.7M for Arizona Election Audit"
-excerpt: "Groups connected to prominent supporters of former President Donald Trump’s movement to cast doubt on the 2020 election results have raised $5.7 million for Arizona Republicans’ election audit."
-publishedDateTime: 2021-07-29T21:39:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit?context=amp"
+title: "Trump supporters raise $5.7M for Arizona election audit"
+excerpt: "Groups connected to prominent supporters of former President Donald Trump’s movement to cast doubt on the 2020 election results have raised $5.7 million for Arizona Republicans’ election audit"
+publishedDateTime: 2021-07-30T01:40:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-supporters-raise-57m-arizona-election-audit-79151960"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-supporters-raise-57m-arizona-election-audit-79151960"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-supporters-raise-57m-arizona-election-audit-79151960"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-supporters-raise-57m-arizona-election-audit-79151960"
 type: article
-quality: 70
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_bb5f930516614293a939b020e4d079c8_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Republican Arizona election official says Trump 'unhinged'"
@@ -813,6 +819,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "WRR48j5YuNMJb402rhyttCGX7cToDI10cXRcJV/czjnlHKt587wGJEOeBuAlbfUFE8iLBePZqZAeAld562RqI6g4PQ0AYD+VpYlaF1yMjIAofqGgbgfq1xyw3k7acROYYbSdW5isUMvvQD6DgygaEQv7oGlz+vCHErVjc/MA5dXYxeRcmMM7rOU6GDEpMXjOyUsHPYgl3D6OhaYlHv3ZiBUH8fET7Om8oHAbKeTdEcCsYzf4Ni6wt7/Myhqy56ZQ6VHz7BZd1vWzmfUPuyIGw4hQXJUSi/Rk3lhXW7fy/RQX2KhAAFY2JxuqEFCwquTbEGlio3QLdy43zMwDhsyJ3bhUiDzqVwHnHHjIWn+bJ+LeyE25y5rvI1jB51ItHKU5To7+dYBGXoFjVmhw6AVgQeN1DhsZOJf7AhkMUFVZIAyqVGt0Fr9NjP8EghVnue7azzq18zsom+B3PU0Iev+yz36+G+ykEm4E7cvi/ZCEI9xu6GIlP2vk1Zure+AdA12ExkipAayJNNUig6c7E+BUOA==;IrjWr7ura8lQ57ryVIEl/w=="
+secured: "MrGxDuGiUmuLio9V6Xxmqf03zoS4Q4bM36+tVgMAL8sBQToMKL+uO03ddC4tViO51zOHnnGBDFdmN8pm0P0bm9rmOnq9vKlFyujK3b4jZ4tDgXeA7ApzskP4FUg6hPv2oCu3Tg98jUVJ9QHgzXv5v/0ZKGuSt9WglN+nktOLVZwuQIfDz3LJIuMFISGqazxtCR0Tbz2CXxEq2pUeTMGiYJIX5YVyWIka0vG0S01oC7SMjcpoBx3KRp002Lu6ZWM06l1o0m2qzbeRSpIhgHjNWgt88QN/rESVewmJtNGCYJzOG4MbHkAk6VSqK1j2uQbAdiBsKtCW8L8F0AeWIS6vJX/8IUbaKDz5fec/o5GQcUo=;LIiZ+vFxjn34Rd/pB9m0gg=="
 ---
 

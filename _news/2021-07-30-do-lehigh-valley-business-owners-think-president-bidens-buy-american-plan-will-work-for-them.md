@@ -27,8 +27,8 @@ images:
 related:
   - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live"
     excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
-    publishedDateTime: 2021-07-29T21:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-610314568f0811859feb7db8"
+    publishedDateTime: 2021-07-29T21:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     type: article

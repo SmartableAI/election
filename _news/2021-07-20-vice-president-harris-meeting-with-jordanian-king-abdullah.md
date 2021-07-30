@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris is the highest-ranking mom ever in U.S. politics. Here's why that matters"
-    excerpt: "That’s where Vice President Kamala Harris’ mother comes in. It’s no secret that the vice president was heavily influenced by Gopalan Harris, an Indian immigrant scientist and single mom who raised Kamala and her sister in the East Bay in the ’60s and ’70s."
-    publishedDateTime: 2021-07-25T11:00:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-is-the-highest-ranking-mom-ever-in-16335393.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-is-the-highest-ranking-mom-ever-in-16335393.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-is-the-highest-ranking-mom-ever-in-16335393.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 67
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/11/04/21270830/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "HhqejhtdgcDAZBj5CcrClYznJ7Egkx67ZwA00pOpgoMDIhhcPJvxx6SIS1J7+D+Yun0jNAqW5mK5hlVd2/wjVguK9DgBUjJACpAzr2i5VhhHSkE+Hs4zH3h3mHWcaIGL1G+oSG7lV4uQ+7qALusO+jeyAQP//y+1Yx7m8gNJAvpxAHyiQh329etjCYZPBUGDKQZucW/PCN5tyq5y2q88DKquMokHa3oGsuDVhBgy+TTd62VQ+W/VwS80y3JgJno/SfbWsKGrloYmQhm8xswwLj7sl2UZ9t+l6uMdy6SGuEYdWKGyQ0r9GItd8h/xaqONiCHBkR/D1yLRvALEXyKIV4Wea9F2+KLJZ9GW4QVkKbd3FOy2Y8E6NieDpchLL+5FpKn6i0Nven6hWQuSwl0m8yNJhJxobiX3luxM17bU8yue4I0N2msV0Ja+QtMdKHy0r8sIJ8G5jqgQhfVIoWDGcUhEQnJsOE/PGnb804yeyDyyFl1vakyh6bvUgJ3G9UvaIa4Djs7Dhl5UyJ4+D+NuGQ==;iZyJXSMYJV1GBrJLQSTIew=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Sen. Cotton: Biden, Schumer trying to ‘ram’ costly infrastructure bill through Senate"
+    excerpt: "Ark., appeared on Fox News’ \"The Ingraham Angle\" on Thursday night, where he talked about this week’s procedural Senate vote on a massive, bipartisan infrastructure bill."
+    publishedDateTime: 2021-07-30T06:45:00Z
+    webUrl: "https://www.foxnews.com/media/sen-cotton-biden-schumer-trying-to-ram-costly-infrastructure-bill-through-senate"
+    ampWebUrl: "https://www.foxnews.com/media/sen-cotton-biden-schumer-trying-to-ram-costly-infrastructure-bill-through-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sen-cotton-biden-schumer-trying-to-ram-costly-infrastructure-bill-through-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f85ad34d-86cc-439d-9e60-96fd217f47e0/600bbf39-33ec-424b-b32f-4c9664096c26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "vYnWzyzN/8CjQVXbxUmNjdB1gnJrgZL6wUuEEWT7QJcnCMuYcJ+QZaEAHFqbT8HvNgUVbWHJPNxTbI7//jVcaKfGfACxvkXVKomTMsCxqRO//jaqdg0JAV5MchPuR3U7XLUxbAtkdYRVw5LUSJENzw4+5r2d3awcE4VCG6UM9wsy/cEx4mPVPqaVVpgE0ogpLrULC5esTocjYH6CJMgTbcKqg7oDQzR6WhiulBSECbYR/jr43FatlaAc5yWkAb9hUXeQp1BvwDucOgPZdOPooPMwuYhv1kdDSwZpYbcLRUUSvE1KdkjGLCrk0PO13NMfTRLHKMCJ2AIgr640c55UkJmU3PTaCRtpMxCBUMlgW3U=;7jlxr3i0LMD/BESvFjLFhQ=="
 ---

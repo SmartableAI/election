@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
 excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
 publishedDateTime: 2021-07-29T22:14:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/bcf63d33d630b0599acd43fe51333e01/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/bcf63d33d630b0599acd43fe51333e01/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/6a064ce42be9ae1b46a1fb8c7c226903/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/6a064ce42be9ae1b46a1fb8c7c226903/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/bcf63d33d630b0599acd43fe51333e01/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/6a064ce42be9ae1b46a1fb8c7c226903/BIDEN-VACCINE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden wants state, local govts to pay $100 to newly vaccinated Americans -Treasury"
+    excerpt: "President Joe Biden is calling for state, local and U.S. territorial governments to provide $100 payments for every newly vaccinated American to boost COVID-19 inoculation rates, the U.S. Treasury Department said on Thursday."
+    publishedDateTime: 2021-07-29T23:31:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-wants-state-local-govts-give-100-newly-vaccinated-americans-treasury-2021-07-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://www.reuters.com/resizer/xko-b6hsgzC5pjHA2IcVrTdoDNE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4WUZ52BJ2NKL7NDAVR4F27KZRM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "What Joe Biden’s 1988 White House Rivals Think of Him Now"
     excerpt: "The summer treated Joe Biden well. He wasn’t quite the center of attention, but bouncing among D.C., Delaware, and whatever states would have him, he was making progress with weary Americans. The year was 1987,"
     publishedDateTime: 2021-07-25T13:00:00Z
@@ -209,6 +223,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "8u7Kwsfy2gBxkmYmiUxKWDusIV1VrwqafjP4k8ejJO8WQseEozs2ZMYVcPgryIZLHIeWopiyehqZ827pljWMghbTwTUHafRrCfJpmsxjtUzE0B21+ND9IYhQpaoNeK8kNLJyw/18ki/GpFHgNylD8acLMliHAdT3+Vb/YUpDYkUlDHONSzCmoOm6t98Ra3IxbYw2gwkIfXYCD7jjDbh1J/wiw9ACxFDGe13e3YEt0t/69+F2/xu1pG4OjjiRglQGozB9+k8g6cU1k5BiUzozTGpf7Ya7Yl6t8mS6omD4HzAYP70558UMqi5q7PmpXFaN1StQ+KxGWSO9v1iXf1KJmvzvM5hICWhF9af9Sl+lRV8=;56/bAy6XmdSm78ZGI1eeow=="
+secured: "oAV/eARhrZcm1eQkCnRoBCzGjjWfO0DnStoJnKJ8UZE3ESDz+i0mUrMCN1pE8F+ANk5YjVt7GStwg/H//pQdATT9MoXu5V+qhaAw6JRcvQ6GEiz2mDfeXi3xvdXjg7qKW2x9+eSgGeFnx+nsSj6x7PhkSdY+DqUFre5wDNlmM4QmU53IBqNOjIH+iv37YAxmg2ynvzPK8L87XrIRjBKF7GrnHMVQifsUjSLiK7dGLF2sKGU8+O06q8GvcTWW4vvJ0V437EsewW8IuiYj7mY8w/9Sszl+Hj41pjhWuabwDa52gooD8VxU4cydT4zvEvGBc/1TUsdnR8LAX8PG86aaTVxIrxtjiHhA0IxjKD0trIE=;6tJ3ejbglxGQDer21+9GtA=="
 ---
 

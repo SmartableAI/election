@@ -45,12 +45,28 @@ related:
         width: 2500
         height: 1670
         isCached: true
+  - title: "Biden orders tough new vaccination rules for federal workers"
+    excerpt: "The Biden administration has announced sweeping new pandemic rules for federal workers and some contractors WASHINGTON -- President Joe Biden has announced sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
+    publishedDateTime: 2021-07-30T06:02:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-orders-tough-vaccination-rules-federal-workers-79159484"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-orders-tough-vaccination-rules-federal-workers-79159484"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-orders-tough-vaccination-rules-federal-workers-79159484"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_a7d5b3854ecc43a194cdd6f0af524d7a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's COVID plan: Federal workers must report shot status"
     excerpt: "President Joe Biden's plan to stem the increase in coronavirus cases around the country requires federal employees to attest to their vaccination status"
-    publishedDateTime: 2021-07-29T20:32:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79150074"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79150074"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79150074"
+    publishedDateTime: 2021-07-30T06:30:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79160054"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79160054"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79160054"
     type: article
     provider:
       name: ABC
@@ -164,22 +180,6 @@ related:
       - url: "https://www.reuters.com/resizer/n2ZGxf3q3rDwlPNlCLlhi4OV6i8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VTU4Z7K4ZNXZCCBEXPE4DLLZA.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Biden orders tough new vaccination rules for federal workers"
-    excerpt: "President Joe Biden on Thursday announced sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
-    publishedDateTime: 2021-07-30T05:57:00Z
-    webUrl: "https://www.myjournalcourier.com/news/article/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
-    ampWebUrl: "https://www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
-    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
-    type: article
-    provider:
-      name: Journal-Courier
-      domain: myjournalcourier.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "US President Joe Biden spars with reporter over masks for the vaccinated"
     excerpt: "US President Joe Biden sparred with a reporter over his previous statements on relaxing mask rules for fully-vaccinated Americans. Earlier this week, the US Centers for Disease Control said even vaccinated people living in areas with higher rates of Covid transmission should wear masks indoors."

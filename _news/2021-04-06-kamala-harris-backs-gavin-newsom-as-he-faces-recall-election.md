@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 1180
+heat: 1200
 published: true
 
 provider:
@@ -466,6 +466,22 @@ related:
     quality: 75
     images:
       - url: "https://s.hdnux.com/photos/01/21/06/65/21261682/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Of course Kamala Harris is a mom"
+    excerpt: "So it should be no surprise that the recent article published in this outlet, “ Kamala Harris is the highest-ranking mom ever in U.S. politics ,” was met with a firestorm of negativity, including those questioning the vice president’s very right to embrace her self-titled moniker of “Momala,"
+    publishedDateTime: 2021-07-28T21:33:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/Of-course-Kamala-Harris-is-a-mom-16347219.php"
+    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/Of-course-Kamala-Harris-is-a-mom-16347219.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/Of-course-Kamala-Harris-is-a-mom-16347219.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/16/11/21291632/3/ratio3x2_400.jpg"
         width: 400
         height: 267
         isCached: true

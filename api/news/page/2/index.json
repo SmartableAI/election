@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-28-brandi-love-wants-ron-desantis-to-run-in-2024-if-donald-trump-doesnt.md",
-      "title": "Brandi Love Wants Ron DeSantis To Run in 2024 if Donald Trump Doesn't",
-      "excerpt": "\"Even I can admit that Donald Trump has an obnoxious arrogance about him that rubs some people the wrong way,\" the adult film actress told Newsweek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
-      "originalUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1857361/ron-desantis-brandi-love.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
-      "publishedDateTime": "2021-07-28T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-28-new-york-times-reporter-deletes-tweet-calling-trump-supporters-enemies-of-the-state.md",
       "title": "New York Times reporter deletes tweet calling Trump supporters ‘enemies of the state’",
       "excerpt": "A New York Times reporter deleted a tweet that called supporters of former President Trump “enemies of the state,” following a viral blowback online.",
@@ -431,7 +379,7 @@
       "originalUrl": "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -1334,6 +1282,49 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney.md",
+      "title": "President Joe biden picks Suffolk DA Rachael Rollins as next US attorney",
+      "excerpt": "President Joe Biden on Monday announced Suffolk County District Attorney Rachael Rollins as his nominee to be the next top federal prosecutor in Massachusetts, a historic move that",
+      "sourceUrl": null,
+      "webUrl": "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/",
+      "originalUrl": "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sentinelandenterprise.com/wp-content/uploads/2021/07/112219Youfn06.jpg?w=1024&#038;h=684",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/amp/",
+      "cdnAmpWebUrl": "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/amp/",
+      "publishedDateTime": "2021-07-26T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sentinel & Enterprise",
+        "domain": "sentinelandenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

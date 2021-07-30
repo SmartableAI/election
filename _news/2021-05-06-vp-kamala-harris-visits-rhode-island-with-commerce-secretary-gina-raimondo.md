@@ -868,6 +868,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Polish activists appeal to Kamala Harris on press freedom"
+    excerpt: "Six Polish women, including politicians and social activists, have written a letter to US Vice-President Kamala Harris protesting against their government’s restrictions on press freedom,"
+    publishedDateTime: 2021-07-30T05:49:00Z
+    webUrl: "https://www.euractiv.com/section/politics/short_news/polish-activists-appeal-to-kamala-harris-on-press-freedom/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 55
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/07/pl-7-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Vice President Kamala Harris Delivers Remarks to the National Bar Association"
     excerpt: "Vice President Kamala Harris delivers live virtual remarks to the National Bar Association in South Court Auditorium of the Eisenhower Executive Office Building of the White House in Washington, DC on July 27,"
     publishedDateTime: 2021-07-27T18:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-h
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/20/texas-dems-may-have-infected-pelosi-and-harris-aides-dimming-prospects-for-biden-meeting/?outputType=amp"
 type: article
 quality: 80
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris is the highest-ranking mom ever in U.S. politics. Here's why that matters"
-    excerpt: "That’s where Vice President Kamala Harris’ mother comes in. It’s no secret that the vice president was heavily influenced by Gopalan Harris, an Indian immigrant scientist and single mom who raised Kamala and her sister in the East Bay in the ’60s and ’70s."
-    publishedDateTime: 2021-07-25T11:00:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-is-the-highest-ranking-mom-ever-in-16335393.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-is-the-highest-ranking-mom-ever-in-16335393.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-is-the-highest-ranking-mom-ever-in-16335393.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 67
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/11/04/21270830/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Vice President Harris Meeting with Jordanian King Abdullah"
     excerpt: "T08:49:46-04:00 President Harris hosts a working breakfast meeting with Jordan’s King Abdullah II. Javascript must be enabled in order to access C-SPAN videos. Vice President Harris toured the El Paso Border Patrol Station."
     publishedDateTime: 2021-07-20T13:02:00Z

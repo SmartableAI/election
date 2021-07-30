@@ -209,6 +209,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "How Much Is Vice President Kamala Harris Worth?"
+    excerpt: "Kamala Harris made history on Jan. 20, 2021, when she was sworn in as vice president, becoming the first woman and the first person of color to hold the position. It was a muted inauguration"
+    publishedDateTime: 2021-07-21T11:00:00Z
+    webUrl: "https://www.aol.com/finance/much-vice-president-kamala-harris-110000393.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 55
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/uge.es3pc.xoWwJkRLHZ6Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_gobankingrates_57/22dc614d4cb6004d1fed30ccb651981f"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Harris meets DACA recipients after federal ruling"
     excerpt: "U.S. Vice President Kamala Harris on Thursday told immigrant rights leaders that the Biden administration \"will be tireless in fighting for a pathway to citizenship,\" as the White House pushes for Congress to move on immigration reform."
     publishedDateTime: 2021-07-22T22:57:00Z

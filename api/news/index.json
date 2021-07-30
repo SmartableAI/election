@@ -59,6 +59,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-30-you-dont-have-to-die-biden-urges-americans-to-get-vaccinated-and-calls-for-incentives-live.md",
+      "title": "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live",
+      "excerpt": "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "publishedDateTime": "2021-07-29T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-biden-defends-previously-saying-vaccinated-dont-need-masks-that-was-true-at-the-time.md",
       "title": "Biden defends previously saying vaccinated don't need masks: 'That was true at the time'",
       "excerpt": "President Biden was involved in a heated exchange with Fox News reporter Peter Doocy after he pressed Biden on whether or not vaccinated Americans still need to wear masks.",
@@ -71,7 +114,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 206,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -112,49 +155,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-you-dont-have-to-die-biden-urges-americans-to-get-vaccinated-and-calls-for-incentives-live.md",
-      "title": "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live",
-      "excerpt": "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-610314568f0811859feb7db8",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-610314568f0811859feb7db8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
-      "publishedDateTime": "2021-07-29T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -629,58 +629,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-29-kamala-harris-immigration-plan-promises-to-pivot-away-from-what-does-not-work.md",
-      "title": "Kamala Harris' Immigration Plan Promises to 'Pivot Away From What Does Not Work'",
-      "excerpt": "\"The strength and security of the United States depends on the implementation of strategies like this one,\" Vice President Kamala Harris wrote in her plan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341",
-      "originalUrl": "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1858280/us-vice-president-kamala-harris.jpg",
-          "width": 2882,
-          "height": 1989,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-immigration-plan-promises-pivot-away-what-does-not-work-1614341?amp=1",
-      "publishedDateTime": "2021-07-29T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-joe-bidens-motorcade-jeered-by-trump-supporters-during-pennsylvania-visit.md",
       "title": "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit",
       "excerpt": "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass.",
@@ -839,6 +787,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-where-in-the-world-is-kamala-harris-opinion.md",
+      "title": "Where in the World is Kamala Harris? | Opinion",
+      "excerpt": "Kamala Harris is not an effective politician. The Biden team is keeping her out of sight because she would do nothing useful to build support for the administration or its latest initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148",
+      "originalUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1857513/vice-president-kamala-harris.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1",
+      "publishedDateTime": "2021-07-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -1279,21 +1279,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-28-cskt-chairwoman-meets-with-vp-kamala-harris-and-secretary-deb-haaland-to-discuss-voting-rights.md",
-      "title": "CSKT Chairwoman meets with VP Kamala Harris and Secretary Deb Haaland to discuss voting rights",
-      "excerpt": "The tribal leaders alleged that laws in Montana, South Dakota, North Dakota and Arizona are disenfranchising Native Americans, and they called on Congress to enact a Native American Voting Rights Act.",
+      "path": "_news/2021-07-28-brandi-love-wants-ron-desantis-to-run-in-2024-if-donald-trump-doesnt.md",
+      "title": "Brandi Love Wants Ron DeSantis To Run in 2024 if Donald Trump Doesn't",
+      "excerpt": "\"Even I can admit that Donald Trump has an obnoxious arrogance about him that rubs some people the wrong way,\" the adult film actress told Newsweek.",
       "sourceUrl": null,
-      "webUrl": "https://www.greatfallstribune.com/story/news/tribal-news/confederated-salish-and-kootenai-tribes/2021/07/28/cskt-chairwoman-meets-vp-harris-secretary-haaland-voting/5392574001/",
-      "originalUrl": "https://www.greatfallstribune.com/story/news/tribal-news/confederated-salish-and-kootenai-tribes/2021/07/28/cskt-chairwoman-meets-vp-harris-secretary-haaland-voting/5392574001/",
+      "webUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
+      "originalUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/22/PGRF/3cbda6f9-e6d8-4324-9d59-d5d3fb4e5c9f-AP20349600796080.jpg?auto=webp&crop=639,360,x0,y59&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
+          "url": "https://d.newsweek.com/en/full/1857361/ron-desantis-brandi-love.jpg",
+          "width": 1800,
+          "height": 1200,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1301,14 +1301,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.greatfallstribune.com/amp/5392574001",
-      "cdnAmpWebUrl": "https://amp-greatfallstribune-com.cdn.ampproject.org/c/s/amp.greatfallstribune.com/amp/5392574001",
-      "publishedDateTime": "2021-07-28T09:42:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
+      "publishedDateTime": "2021-07-28T08:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Great Falls Tribune",
-        "domain": "greatfallstribune.com",
-        "images": null,
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1318,7 +1327,7 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
+        "Donald Trump"
       ]
     }
   ],

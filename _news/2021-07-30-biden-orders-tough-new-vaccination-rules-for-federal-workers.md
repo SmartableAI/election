@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Biden orders tough new vaccination rules for federal workers"
-excerpt: "President Joe Biden on Thursday announced sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
-publishedDateTime: 2021-07-30T05:57:00Z
-originalUrl: "https://www.myjournalcourier.com/news/article/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
-webUrl: "https://www.myjournalcourier.com/news/article/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
-ampWebUrl: "https://www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
-cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+excerpt: "The Biden administration has announced sweeping new pandemic rules for federal workers and some contractors WASHINGTON -- President Joe Biden has announced sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
+publishedDateTime: 2021-07-30T06:02:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-orders-tough-vaccination-rules-federal-workers-79159484"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-orders-tough-vaccination-rules-federal-workers-79159484"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-orders-tough-vaccination-rules-federal-workers-79159484"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-orders-tough-vaccination-rules-federal-workers-79159484"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Journal-Courier
-  domain: myjournalcourier.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Health/WireAP_a7d5b3854ecc43a194cdd6f0af524d7a_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -45,10 +49,10 @@ related:
         isCached: true
   - title: "Biden's COVID plan: Federal workers must report shot status"
     excerpt: "President Joe Biden's plan to stem the increase in coronavirus cases around the country requires federal employees to attest to their vaccination status"
-    publishedDateTime: 2021-07-29T20:32:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79150074"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79150074"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79150074"
+    publishedDateTime: 2021-07-30T06:30:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79160054"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79160054"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/bidens-covid-plan-federal-workers-report-shot-status-79160054"
     type: article
     provider:
       name: ABC
@@ -208,6 +212,6 @@ related:
         height: 683
         isCached: true
 
-secured: "NHRTNQNcevAexCYvoiMH48Eve5XvWrpavhx/Cz2g5OBoELyZcnhpwn/QCVlgqinGhP6Iv4SBI3YWeZMCUs3g+XjKdFGVofpeKntvfj9zCrCKzVxRriTorEIJXS84JvPCxvTYOwckVlDgeh28eNreZI2RuEfGzHbzb6/bkpj3lQWuia1CJ1b/wOp9rtv044H5l3b7jl3hkxTgp6r3i6klMUH2Wid60F1w1/gHpyM/c2hibjirMD/9jWHBK0gUUxv7hTobqvmda5FYu/aikvEzg5lERJrg0FiuEu88kAc7C38bFtaa0hF2emRgDJhmBiKwa56DqCLj631V5c7e7MWanGR5DmqIJ8s99dGWVFZyR/0=;AMXtbmhlXbwmOtItEG38wQ=="
+secured: "OxJ/hXhCmRoD4VE9Z0DBNoxqma14Qg+uyNW2gYm5GDVBkAE/9NCs3Zzl8MG8L8Zt8Kij3dHw3aVOfTWQkfCHKg9t/zqHEcaRKXEipL1HYadDdPMJRDgMpfFOCVzla3q0m37IYPJeLNhVKtv3uzDfq9sjY72VVvwr8Z4jcVWp3GvRlAFkdt2fnLSGElpYomrGTpIA7PHzARYu7uymyloR5hCCAd1KevvapwqRfPtC+/yGr61C5SiCSG9fiNB3N1Qq6i1ez4+nYke/TqqWcLCDWkVtMToFeepJnfOxFwHwaBe0JRFz44fipadhpjui96Rj+pxwDRcVqlKfD0vz6krAw9g/V6v6k08lAJwpstO59OI=;oS0kEIA7b2XoORXbdcHXCw=="
 ---
 

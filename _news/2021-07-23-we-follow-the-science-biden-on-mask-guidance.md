@@ -45,22 +45,6 @@ related:
         width: 2500
         height: 1657
         isCached: true
-  - title: "Frederick man sentenced to seven months in federal prison for threatening Biden, Harris during 2020 campaign"
-    excerpt: "A Maryland man was sentenced Tuesday to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when they were candidates during the 2020 campaign."
-    publishedDateTime: 2021-07-27T23:47:00Z
-    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-maryland-man-threats-against-biden-harris-20210727-wkuwqvtv7fd5bdljg76ag4qqpi-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-maryland-man-threats-against-biden-harris-20210727-wkuwqvtv7fd5bdljg76ag4qqpi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-maryland-man-threats-against-biden-harris-20210727-wkuwqvtv7fd5bdljg76ag4qqpi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 71
-    images:
-      - url: "https://www.baltimoresun.com/resizer/OFHvjPSli9HM6BLeWVKRZYWfIjc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6GPTACAZWQGX5CBP7AVVNF4GGE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Visiting Walt Disney World soon? You may see President Joe Biden’s twin on stage"
     excerpt: "Is that President Joe Biden at Walt Disney World? Next time you go to Magic Kingdom, you may see the 46th president of the United States on stage. It’s his Audio-Animatronics double. Disney Parks announced on its blog this week that Biden’s robotic replica will join past presidents in The Hall of Presidents,"
     publishedDateTime: 2021-07-21T10:31:00Z

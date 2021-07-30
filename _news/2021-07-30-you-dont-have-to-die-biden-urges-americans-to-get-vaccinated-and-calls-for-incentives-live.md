@@ -2,9 +2,9 @@
 category: news
 title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live"
 excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
-publishedDateTime: 2021-07-29T21:03:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-610314568f0811859feb7db8"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-610314568f0811859feb7db8"
+publishedDateTime: 2021-07-29T21:56:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 type: article
@@ -54,6 +54,6 @@ related:
         height: 815
         isCached: true
 
-secured: "8vU1C3WCKD0zmNKzO25S10Pg88Ss+XPGonCOrTUisNv9K+sj/ijUbYvr258GOxy48VivmoQmBt4z+h/b+7xVGJUns8cCZWsBwDP+g5fe8SyQNmAlQV3sw+t1n9jWf5Tayno1z+FSE1HtF9QK+UbO+M9ekawtpDqJaOqIP0uVHATnYH8AZvb7WFXM2Pir+v7Xao23/71/xz003hPADc3mUWAPf/EbkRa7MODRvlyfVcL7DyE1btQDLTvLnHNsziQJ8lPCRK7MXDISFWsW/I4rBAJvCq74ENG2N3pZqWblzS6gNiyv2ZBlxDM7q317jPBAAswJ9VQv1aVXkPVqMy4sYGuRVJmlpkGxfjbNXmOM99lBTV0PuIVNeFSDx5b8JYiIxIIeWaZ23TcEgT8rmNB3LPZzDzmVLb7caYsLzTFO6c5agVA00BeKufzjRbbkuTjXmox7kuzZq8hZuNdwgimrHUZPgmCaPx1BgMhsLBUwR4bM3SM0HZE2hYpCv3DJ8je4kFBK2Rlkw+ZaJ7fypIjx2g==;DKn7ylWxxscR+7k87gwj7w=="
+secured: "Sq1PbGJ1g4N/4NJa/X+zGLEaagiCk0CiShMRZu2M+4zsItQz6+Rnn3j6dGPQPdj50lskir1FIccExaUPzd8z02qMBvNykwOzQPvzTFXCEKzwexcMH7Z9yHphlnYLZodMNSeRk/UGcmNKM5I9FziwzT+I4XIukPMjQCMmRaJAB2ibNL0Le0B6HYCX/SaGL8yn24QlwYmsSAXtRYmvnbFf8ugL1WAwuVaRqjngxClciMxfRckPAcXUqsvrJUneWlBz6st0/xmiL7PfFKpmMXkUSV7o99J3zE0iDPSfgt/XV+Z9AXjNEH8qgKSmq4hMFX9v1df6XUj1TidCc0IWxnBYERB9FBEIURRx73ivnknKShm22nqbU7D8XZF3WWeZgg37BxjuPmbao7kg9SqEcLi7DjlgFStTp75Irz4+TZK1A4SEDg+bT0jqg4QVn+6gZ3Ll/4PRL4xd7cD1RjLKSmO55fdWegQ0BhWkfcuF00SQHa7r0UNY6bQ7DXvKDEE433LN429TwOzxkcIHHlJpogQnJA==;Y4fXrL919n3u47Mpd6g6Yw=="
 ---
 

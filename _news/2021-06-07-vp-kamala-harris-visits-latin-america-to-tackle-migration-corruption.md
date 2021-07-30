@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 765
+heat: 785
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/02JOmUzdSFolW6UGkQrnFTfM-Po=/1660x0/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/SHI3QJXS7FHT7AABK63HYS45KU.jpg"
         width: 1660
         height: 1168
+        isCached: true
+  - title: "VP Kamala Harris releases strategy to tackle root causes of migration in Central America"
+    excerpt: "Vice President Kamala Harris said Thursday that efforts to address root causes of migration from three Central American countries won’t produce immediate results as she"
+    publishedDateTime: 2021-07-29T17:15:00Z
+    webUrl: "https://www.borderreport.com/hot-topics/immigration/vp-kamala-harris-releases-strategy-to-tackle-root-causes-of-migration-in-central-america/"
+    ampWebUrl: "https://www.borderreport.com/hot-topics/immigration/vp-kamala-harris-releases-strategy-to-tackle-root-causes-of-migration-in-central-america/amp/"
+    cdnAmpWebUrl: "https://www-borderreport-com.cdn.ampproject.org/c/s/www.borderreport.com/hot-topics/immigration/vp-kamala-harris-releases-strategy-to-tackle-root-causes-of-migration-in-central-america/amp/"
+    type: article
+    provider:
+      name: BorderReport
+      domain: borderreport.com
+    quality: 66
+    images:
+      - url: "https://www.borderreport.com/wp-content/uploads/sites/28/2021/07/a9c3e9bd2c2a4da5b48d647c46ecce1c-1.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "VP Harris to meet 'Dreamers' on 9th anniversary of DACA amid uncertainty over immigration bills, Texas case"
     excerpt: "Harris' meeting marks the ninth anniversary of DACA's creation and comes as a federal case threatens to upend protections for recipients."

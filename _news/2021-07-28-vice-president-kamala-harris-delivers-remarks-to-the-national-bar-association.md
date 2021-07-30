@@ -868,6 +868,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Polish activists appeal to Kamala Harris on press freedom"
+    excerpt: "Six Polish women, including politicians and social activists, have written a letter to US Vice-President Kamala Harris protesting against their government’s restrictions on press freedom,"
+    publishedDateTime: 2021-07-30T05:49:00Z
+    webUrl: "https://www.euractiv.com/section/politics/short_news/polish-activists-appeal-to-kamala-harris-on-press-freedom/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 55
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/07/pl-7-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
     publishedDateTime: 2021-05-05T21:35:00Z
@@ -1008,6 +1022,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "e3YnZioProdurmo6dvunufBCrztnErFACyemkZ4Vk0r9hBI5t/K2gpKpr2lwKNFVO02fIEmN2bDCA3I4ezJ3rck7mwMBp41+c8119eTTimzCR9JtGWGliK1TijfVD7/5SjOVLPVqtcm9QkT3n9g+YitwdPSEZuxpLsALc2yNhC0Aym9Y471PWhvouxa0yOleDn8KJIHl7Mvm9OyeWnxImCDwxLCbrE/f8bMHd0rI1wCeer0laWxxGeHQLh8m48CJmSvsP2Eqn0LKrUIKKxU0g6YBeH3Ca8yJB3Hcu04W5cB4R7JGyLCEokjQ2dPlSpJ29MHHRhrpXayy7pWMUa3SrjZ8YaVEHKAVE86aidWmAbw=;WOrtjjCQsos34tOpkQ54Ew=="
+secured: "Yg9Ik4kdwWyekXFOOq6P3S/edB92MqPRVp9MflxpRvP59ofzog2nv7QyNIPVzXMky2kEPsfAx1ZJdXRr1hxpI0ATgchBL1UvdVAW7sq8ebrARNX0fVik6gOJvOhCU8cX3AfWgMxydIIhTh6ITfdgvHFY9lIg7JS5BUNzWZOgBfO7wN1/NGM/jTqFaWCw4Rl8g6Fqfgdsyo8lGOPNr1gSsdzXMl8nPd2ZuVb8x3jk6dkAmM91+d0ay7j5cb/HmsL0Mz+a+q+6xzIfu41IGZwLKavU5mjvChvSsF/zBa9z4FczYkB5qp/KkiW0i3miu30qhlZfcAeY6UiM/Ix9TgzAMs7DjbRV8Q3ziOZIlU2Yxe3Qh61R24Ohqf78tR+pHikYfGHxP4X5Wytb7ZZf3QlSqakyNOZwtQwc0F0f46TjZUxmjo4EjaVQERX9A/pf7WX0N8fDC12yiibG1MUIJcUpDwYCZpHWMHp/HeVx6ohLugWXJ1T++PF05zDnSjJVqEl5IrYr8IZUsTQ3tzZQYhIIPQ==;kH8tc3kCsNRWteMYPaURrA=="
 ---
 
