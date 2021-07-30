@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
-excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
-publishedDateTime: 2021-07-27T01:41:00Z
-originalUrl: "https://www.nbcnews.com/politics/elections/trump-endorses-ken-paxton-over-george-p-bush-texas-attorney-n1275099"
-webUrl: "https://www.nbcnews.com/politics/elections/trump-endorses-ken-paxton-over-george-p-bush-texas-attorney-n1275099"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275099"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275099"
+title: "Trump faces another primary test in Ohio House race"
+excerpt: "Donald Trump has a lot on the line in suburbs and small towns south of Columbus, Ohio.\n    \n"
+publishedDateTime: 2021-07-30T11:08:06Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-AAvmDa9Bvc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-AAvmDa9Bvc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/ohio-15-special-election-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/ohio-15-special-election-trump/index.html"
 type: article
-quality: 132
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494268/210726-ken-paxton-donald-trump-2020-ac-912p.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -45,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726113600-tom-barrack-criminal-court-new-york-0726-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump faces another primary test in Ohio House race"
-    excerpt: "Donald Trump has a lot on the line in suburbs and small towns south of Columbus, Ohio.\n    \n"
-    publishedDateTime: 2021-07-30T11:08:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-AAvmDa9Bvc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/ohio-15-special-election-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/ohio-15-special-election-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -288,6 +271,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
+    excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
+    publishedDateTime: 2021-07-27T01:41:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/trump-endorses-ken-paxton-over-george-p-bush-texas-attorney-n1275099"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275099"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275099"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494268/210726-ken-paxton-donald-trump-2020-ac-912p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Pelosi bars two Trump allies from the committee investigating the Jan. 6 riot."
     excerpt: "Ms. Pelosi, who had never before rejected a Republican nominee to a committee, called her move to oust Representatives Jim Banks and Jim Jordan “unprecedented” but necessary."
     publishedDateTime: 2021-07-21T13:31:00Z
@@ -337,6 +336,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "9iZT16e/U2IzisB7UwsfrvF9lwcG8MdaMMLuAoFHroG3Y/HfK4vK4ZxIAvFN8MBQpPr+R0QHOSyM4t4z7w3c8D8bpGnAlo8+HJ3MSnHuJQxjvC2g6mifoiCUYyhk2uS6EC6y+5RfEW+VnBa5d2QswJjWQCpnj2YUR/UQ4KmTEddBj7j0EH1LjDMEFESB+JOq6CQrtRh/zCRR9lh4JqSfMo2ATpP6IVojGSkKD3nZTXt8WeSDwbH9Uj4/whW84vmzUiaW7klcs6kk6jI4DlAXLELZ0S8MBSA86XKo4wxwzlCP7iVM8Mby7h3sA/mVvWpzcx2eaT4AdkFVPbaxLzATQdTMPQS8LxJzdrL/jVkJLllvwEgZoPtjRy/hHf/QBM5LhLF0DmyUipdcXri65kDDUoKVqgFOuysnYuG5dpJqMkNgoNd7ogEkuao1WeJGR8NbZPtKqSd/5u4MNi6USG4G1kT+rRgQ+HI/YfNCx42jegTBDUDsol6vUQ2edW3XgI7dFXdpFmwVR3FEmklekcwBIw==;BE0F9gt1w5XadInhBVPcog=="
+secured: "eIvu8w6+7uVXBDMgVR4sCJ2c0DFfu9qZAkTQ0+Dd9/TDOXn6JqtGJfLRjtVZlTXUIzeya0jFJahkVyiEg+5T9+4oKk6eOn8JYvFvSdP8zZDnfUr6y0UzhVWsgiwUZcWt7nF0jLAkywwPmEei3mlRXrU3fWgpvc3ljld57PQy4OTk7vDQedBJon70/GzMk0jsCleXhrPFqcg9iBo6HPGJNpgTXwzTgB71va9zUvpRgIkaefLkCMKFgWu+APhFlD/Icw1r/hzmiYQwh8iAAh7RmLD+pmLxvF2wipyVZtRXrFaGDDd+f2QDEeXxkcmf9+ig3raPYfz8zW3ph7qnVdIvdFNVbzX6BCIkt5JmV1RBjvk=;+zP9O58CGJzYiXsEvzX+aA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's drug czar nominee consulted for cannabis company last year, ethics disclosure shows"
-excerpt: "President Joe Biden's drug czar pick, Dr. Rahul Gupta, spent nine months last year working as an adviser to a Maryland-based cannabis company, recently released government ethics documents show.\n    \n"
-publishedDateTime: 2021-07-23T00:52:36Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tJN_YRWEIA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tJN_YRWEIA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
+title: "Schumer and Pelosi plan to meet with Biden on Friday to discuss voting rights legislation"
+excerpt: "Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi are planning to meet with President Joe Biden on Friday to discuss a path forward on voting rights legislation, a person familiar with the plans told CNN.\n    \n"
+publishedDateTime: 2021-07-30T03:20:02Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SoGx-pXhK7Y/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SoGx-pXhK7Y/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
 type: article
-quality: 165
+quality: 166
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713125239-dr-rahul-gupta-2016-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155550-06-white-house-covid-relief-event-0312-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Schumer and Pelosi plan to meet with Biden on Friday to discuss voting rights legislation"
-    excerpt: "Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi are planning to meet with President Joe Biden on Friday to discuss a path forward on voting rights legislation, a person familiar with the plans told CNN.\n    \n"
-    publishedDateTime: 2021-07-30T03:20:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SoGx-pXhK7Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
+  - title: "Biden's drug czar nominee consulted for cannabis company last year, ethics disclosure shows"
+    excerpt: "President Joe Biden's drug czar pick, Dr. Rahul Gupta, spent nine months last year working as an adviser to a Maryland-based cannabis company, recently released government ethics documents show.\n    \n"
+    publishedDateTime: 2021-07-23T00:52:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tJN_YRWEIA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155550-06-white-house-covid-relief-event-0312-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713125239-dr-rahul-gupta-2016-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "tzKBrZiK/qQFiQccqbx0n9/IQcNw/e7bexU4uvaFli7rOM5kkMF42WP9eAhmSboHQ0/+K4cgtAxPaHpfaEEsA2WQ8DAWvWIjz9p/aA/t5Dz94Q7UnODlxDopceLuaTKtJmmpzFsRGx6vVnWYeYxwfiWHqFrSPEKZZlf7FhAUneorEhOnPFOI+wO3icnrjvyp3Bv0vBJPtvvw6FIkzoAJSLjZNiyjfxQwA9ADKjSX67z0Pa/z7xs1Kynunn0ScPWzsJD+Zinu29UtyEYpRhqCn7lV/XHGCms0r+WABg+98vH/LUoe1y7VJ+JGC5+VvZL/r5/KemM04UlcXGgouSf2ms1PphFMmmiK+xBKnw8FW9U=;ROSpABjGJB/RzOWgP+8/nQ=="
+secured: "Xww15Q9nKKRZessUf9ylLHSBRDB6aDOKt+T68eUbfJfonHqSTiuBn/Qqilv/DcBOSbuE3wFeksvkwWVWCNrnM46TMz1QMrtPmGrIirT28W2HIasKkmdgcLVPmvIjny1EFyxvcZICxBlXrA/ThaX2b8HBtiubVkXu/W/rX6H+vo5Qd+KxOfQZ46iHVJ7sKzOo2cSAI+9Zx8X/P6zD55A7NQwVyTRnQ1Np79/rTHh8iF5iYXLrM1T52tQqBpuBHnhz23Cw6TcAVYjwkrTyb8N2biu/UKKKuvHDrZLEu7t9UjzVpdSXY3Phu4wFgbNuLmRRSJXXFS1Y3W3r5AFTNBuOP/IIXtBiXZ3EBmi6XfgNgW4=;MIeqjYZTsB7QL8JuB/OOKA=="
 ---
 

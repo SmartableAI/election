@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden stays close to home as he plots blue-collar focused presidential travel"
-excerpt: "Want to see President Joe Biden in person? Consider a move to Pennsylvania.\n    \n"
-publishedDateTime: 2021-07-28T19:36:10Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+title: "Biden opens up new front in Covid-19 vaccination war as concerns over variant deepen "
+excerpt: "President Joe Biden has launched a new, more aggressive campaign to vaccinate Americans against Covid-19, headlined by a new requirement that all employees of the federal government -- the country's largest workforce -- either get the shot or face the prospect of an onerous mitigation regimen.\n    \n"
+publishedDateTime: 2021-07-30T04:45:28Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lCoG5vCSZWA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lCoG5vCSZWA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
 type: article
-quality: 172
+quality: 168
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150625-01-biden-pa-0728-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729165157-03-biden-announcement-0729-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden stays close to home as he plots blue-collar focused presidential travel"
+    excerpt: "Want to see President Joe Biden in person? Consider a move to Pennsylvania.\n    \n"
+    publishedDateTime: 2021-07-28T19:36:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150625-01-biden-pa-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration may challenge Texas governor's order targeting migrants"
     excerpt: "The Biden administration is considering challenging Texas Gov. Greg Abbott's Wednesday executive order targeting migrants over concerns that his actions will cripple infrastructure in border communities, including potential legal action, a senior administration official told CNN.\n    \n"
     publishedDateTime: 2021-07-29T18:53:18Z
@@ -300,22 +316,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden opens up new front in Covid-19 vaccination war as concerns over variant deepen "
-    excerpt: "President Joe Biden has launched a new, more aggressive campaign to vaccinate Americans against Covid-19, headlined by a new requirement that all employees of the federal government -- the country's largest workforce -- either get the shot or face the prospect of an onerous mitigation regimen.\n    \n"
-    publishedDateTime: 2021-07-30T04:45:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lCoG5vCSZWA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729165157-03-biden-announcement-0729-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -574,6 +574,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "HJnDUSoyfSzzP6juesvdSmzKNojBZEZ0MsrEfg+fj3/dGtMJB0Vw6Kv+qDU0eh2r+xR+UjOMuOB0O10G0g10D9Y/rsmhUOtpQW/jMbTSi7KzAe3dd4+vvUt8ckT6b+Pfug7t/6DcSinzMTX0Ge1w3O1NbE+KCKzIsX6NvfXMLqIQs6cFg+oX8yyURVjXH8Nel4KgJJHYXIzTasreJlrRm5I1ChoVLpHThINfbnAWRvz379VFSHVAjEPbl9MW6u36sQR2yDPvjpkMZ1Tm0Qil4pt9RNTtX3kaiOlBMl9+XCGinyliVEWinCG7SwQtstj0PmK66jKxA3368d7yOfRWfvcETiM9cZmCJSOiG1kWvWs=;Q9nV708joAGk6/EdjanK8Q=="
+secured: "T0OihVEFtAksHysjeY6XwN4MiH5Ml70yb7d7UWJHuqTkuy8bKT6WpRUMge0RT9Z6EOGa+PnY8Gnp9NW6vRGjpgox5G37yrmvVXNi6WkZr9vqibOFeNCsUdglXUKbTW2C9WZ4y0dUU2e07h7Bpp6PVVIQaCxFV0colvVH9UTyc+wX9x9Ls2f89+uku/1QgLKHNi2Ooi16b/PinmmEXs07x22keLrjNKIIA7oireOgrrndMa3sw0I3CeMO06sGmk0GgsagzlyiDHnuYNhVwoSYaFOmuXcrbFmdriTKmI73BYuGffqWEkNdzkA49lFZ/puvMIEjP1LtOzImgWO+M6vPf7qW0sm9csYDwctlkOCh0bI=;l9SUYcPMO9mSag8JXb8KiQ=="
 ---
 

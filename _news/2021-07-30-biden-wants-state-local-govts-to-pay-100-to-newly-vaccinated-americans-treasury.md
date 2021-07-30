@@ -215,18 +215,18 @@ related:
   - title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
     excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
     publishedDateTime: 2021-07-29T22:14:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bcf63d33d630b0599acd43fe51333e01/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6a064ce42be9ae1b46a1fb8c7c226903/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/bcf63d33d630b0599acd43fe51333e01/BIDEN-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/6a064ce42be9ae1b46a1fb8c7c226903/BIDEN-VACCINE.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "nwnSbXib9e5b0tCZefCOjz9AMvqFkBfis3DB/GIjexbddr+bHosEse1kroUZShljvKioHPsrN7otMP7/teRZAOs4uY9Jg5QCJmD1JnkZCKmINnUVhIScwzIFHzJtfE32WKsrDft4lIPyeHJUcNCzXI7/oT9EU6iTC7Lx/cym+MeOfiyMz+iITwv4lcrrzqny9LzEXW043sVrdnUNYo8R13HWb/n+DWkk3vq/jsV3IbSr2DuXyug1aIlFm4RMhhS1nt/4lrfkyvl8V5hPYlkH1jbEnfKOLkFy8BqjqwjvfehHijRU8utdveE3Ge0+Kr40n9KgBbdpArIypKBbT1XSvbUj0jrWTHTwAs/zLrfXAkQ=;1C7dS1ReyEodtgbO48WYbw=="
+secured: "LlNsqfckb+3FpYuLrlpfyLMqc03cTzxRmHeMp4OZdRqhAnxIwWncR/47dqzZdKJEh0JwQx7CbwSJGaQbuFGGvCEujM/BogZk6+1hZIu7bifbGKlnLgrFMXdLg1q9KVrBNHPFF8agtHCZXyijfYc1cCUIY1gdGeymIiXoaHIfAIniIlaky+4I69Fsmr2CooF93Q42ps0JBCcBWvEQdMKW6q0siFmeaIPQbMm/27QLBdulbF6VC6egWGhm36AsS32JFsmXv4RAaD3RaiQdJvrrrYh3ww5pf8QLX6DZnRCKmo2o2U4w9UAGcnQyaDBQf+WcMo1Ipnysg+LVMUlcF9er99Wz8l5F5CLfCOuaqLfL6k5HUqGBmUE3BChusJZIUveDMX7iF9IL7g1OSMEskloXsrZzgXa6onsl6P0P5v7Gsosz/2NjQ+x/qRigTAeRdu08STwxXm45xmf+C2e3OW/Lt2tOFKAZEX2CcHN8uEdros2yldqQRmCf4cVSAJ/i5d1vQSSyNorV3XMGO4QyiOkiUQ==;aXrvv0kZ/yfFnX1pmWGPqw=="
 ---
 

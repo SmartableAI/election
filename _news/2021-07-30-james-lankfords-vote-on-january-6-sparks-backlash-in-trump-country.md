@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Jan. 6 select-panel Dems confident they can corral ex-Trump aides"
-excerpt: "But it won't be easy for them to shake off potential stonewalling, and their Capitol riot probe is still taking shape."
-publishedDateTime: 2021-07-29T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-webUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-ampWebUrl: "https://www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+title: "James Lankford's vote on January 6 sparks backlash in Trump country"
+excerpt: "Sen. James Lankford stood on the Senate floor in the afternoon of January 6, explaining why he opposed certifying Joe Biden's presidential victory. He said that there was a \"constitutional crisis in our country\" not because many Republicans rejected the election's verdict, but because \"millions of Americans"
+publishedDateTime: 2021-07-30T11:06:58Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gG5i0-RJtPo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gG5i0-RJtPo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/james-lankford-backlash-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/james-lankford-backlash-trump/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
-    width: 1161
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729163233-02-james-lankford-0608-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -45,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702051004-02-capitol-riot-file-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "James Lankford's vote on January 6 sparks backlash in Trump country"
-    excerpt: "Sen. James Lankford stood on the Senate floor in the afternoon of January 6, explaining why he opposed certifying Joe Biden's presidential victory. He said that there was a \"constitutional crisis in our country\" not because many Republicans rejected the election's verdict, but because \"millions of Americans"
-    publishedDateTime: 2021-07-30T11:06:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gG5i0-RJtPo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/james-lankford-backlash-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/james-lankford-backlash-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729163233-02-james-lankford-0608-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -176,6 +159,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Jan. 6 select-panel Dems confident they can corral ex-Trump aides"
+    excerpt: "But it won't be easy for them to shake off potential stonewalling, and their Capitol riot probe is still taking shape."
+    publishedDateTime: 2021-07-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
+        width: 1161
+        height: 773
+        isCached: true
   - title: "Pelosi Bars Trump Loyalists From Jan. 6 Inquiry, Prompting a G.O.P. Boycott"
     excerpt: "Democrats said Representatives Jim Banks and Jim Jordan, who amplified Donald J. Trump’s lies of a stolen election and opposed investigating the assault, could not be trusted to scrutinize it."
     publishedDateTime: 2021-07-22T00:15:00Z
@@ -193,6 +192,6 @@ related:
         height: 549
         isCached: true
 
-secured: "zyZF89VdfJE6jilZjzbm0VfswCoNsOUy9AmXMANT6jL03F6SbUBEEUHg/7Kt4m7VTZXlT9s42sJZ2JLlaLYg3gwn/OQ5Nikp/AscBPeuVH5kC6GuFkRNKY84pv2WLIXLOg5oRbA324KB6IVfsxJA/HTbje8dhlMINkiOXvFCSlGxQPHc0HJlgYPXAUniLaSkwUQUckoWOLemQdAo3Xecz4nIl0FMrRvpFvvyBFhNmJx8AbMSdJPqR6m29BpIPBDHXVJ5y3BlDU7++ouM2yeUDXvcVL9BDqao7AJ//tCBfAsq3l+faFI6GW/gt5LfaKkWDJR1UixaBee36z7blipHCE4hNwvYAjR+bOXIcg8Gb9g1Hu3VIlTBYm4bHftTQg8XJDEmFg/2a5f9hvJjU0Au3COpT8eLJDuDOTxYIPpsrRzbDAVeTyktMzSZCrZcFucBLio82QLDYQdHnLH6Mad1tDLOjauEktLU2bEzy0pSRVnWDyjAKDjTmn5ZhIuv0HYmYOa0bZkaI8mtspRO9W2inw==;goLdwxkXUEmw75FrT7Z4nQ=="
+secured: "9oj8paJsSDMQZI7jDjiyB9Eo783OWmEw0ZEgR71StIfN9qdElSdp8wP8q1ihMHljnuleV3/7VjDJHVoMMqO4Ev22Kqp6QCu/HQwgQ/C4o6kcY/7E4gL3+ldjGxLpDQ7X38wB2LuYTGoPkEzujw5X1vIyuSJqDATfZ9GFgHArqlnfsAL24+YSIHzTUjAm8aeRNRmFqD+FJE95pxkGMXJlnPl2G/acjPjakO3bJjBx+pEmYhhazJ100kv87kSJnleryr97lIybS3dCoXilhpkyWmN2z0Dsyk2yumBjtb7LNsfNZi/jwK/6ZE+4tTxBi6VO4CMs1Afc0iiUjJQexU+j73hXm57QtLNlmo7pi1bx+WQ=;W+mCQwK0wMzQaeS7oTVVLA=="
 ---
 

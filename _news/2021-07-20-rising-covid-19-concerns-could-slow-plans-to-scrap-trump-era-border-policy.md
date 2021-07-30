@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "James Lankford's vote on January 6 sparks backlash in Trump country"
+    excerpt: "Sen. James Lankford stood on the Senate floor in the afternoon of January 6, explaining why he opposed certifying Joe Biden's presidential victory. He said that there was a \"constitutional crisis in our country\" not because many Republicans rejected the election's verdict, but because \"millions of Americans"
+    publishedDateTime: 2021-07-30T11:06:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gG5i0-RJtPo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/james-lankford-backlash-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/james-lankford-backlash-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729163233-02-james-lankford-0608-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and the GOP spin fantasies to hide his crimes against the Constitution"
     excerpt: "It's gone beyond whitewashing history. Ex-President Donald Trump and his House Republican enablers are now spinning fantastical inversions to hide his crimes against the Constitution on January 6.\n    \n"
     publishedDateTime: 2021-07-22T11:31:56Z
