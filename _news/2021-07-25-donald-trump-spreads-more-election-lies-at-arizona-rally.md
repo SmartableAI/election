@@ -59,6 +59,36 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump urged Justice officials to declare election 'corrupt'"
+    excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call"
+    publishedDateTime: 2021-07-30T16:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-urged-justice-officials-to-declare-election-corrupt/2021/07/30/87805e80-f14e-11eb-81b2-9b7061a582d8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QL5EENXRJYI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump urged Justice Dept. officials to declare election results corrupt and ‘leave the rest to me,’ notes show"
+    excerpt: "President Donald Trump urged Justice Department officials to declare the 2020 election results \"corrupt,\" according to notes from one of the participants in the phone call."
+    publishedDateTime: 2021-07-30T21:18:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-election-20210730-tu3o3ziasvesjkprgs2h6cuedm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-election-20210730-tu3o3ziasvesjkprgs2h6cuedm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-election-20210730-tu3o3ziasvesjkprgs2h6cuedm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Aaj26S18aQtLkh4JQQ5ZJUxVcCA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W5UKW4VHBM27RS4SF354WIAEZI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump ally arrested on foreign lobbying charges"
     excerpt: "Top News Trump ally arrested on foreign lobbying charges. Posted . Thomas Barrack, a billionaire friend of Donald Trump who chaired the former president's inaugural fund, has been"
     publishedDateTime: 2021-07-20T22:21:00Z
@@ -88,6 +118,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/11844b46-833f-4260-9a70-254cffb0f236-cent02-7ctxpjqlqly1h9t6zhle_original.jpg?auto=webp&crop=3476,1956,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The memoir Mike Pence should write about Trump and the GOP"
+    excerpt: "The idea that a major media company actually has to justify its publication of a memoir by a former vice president is nearly as lame as, well, most of what Mike Pence is shoveling these days."
+    publishedDateTime: 2021-07-30T16:01:00Z
+    webUrl: "https://www.irishcentral.com/opinion/others/memoir-mike-pence-trump-gop"
+    ampWebUrl: "https://www.irishcentral.com/opinion/others/memoir-mike-pence-trump-gop.amp"
+    cdnAmpWebUrl: "https://www-irishcentral-com.cdn.ampproject.org/c/s/www.irishcentral.com/opinion/others/memoir-mike-pence-trump-gop.amp"
+    type: article
+    provider:
+      name: Irish Central
+      domain: irishcentral.com
+    quality: 90
+    images:
+      - url: "https://www.irishcentral.com/uploads/article-v2/2021/7/147260/GettyImages-1209526244_donald_trump_mike_pence_february_2020___getty.jpg?t=1627660914"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "gkOsgH9PZNrWBTOEpLXhQKKnpjZgr11HDB/NW8pTiRN0Lk/XZXIcO02QYwNJ5FuI/drhrYGjXSOlOpTEn432UEJIXY9lETQLOzhquVu/+HftywzyZkySMy3vCV69wXb+dy1OLL1szhvd7xnM0HdcAwjjYamc6zBKpcJpj/WL1T6g+iXeTptSuovrDcWFW4vJBOCI4ne6hSkA20aL2LwhYCx3/4BQnFvMfHBQWCmpTCh39UuvJxudYpQqtmQ13e8LzaRH/eVscxvwLvPnAc5yeCuDo6XyGsNxx+7NhL0DKyBOC/ZeWpTEPEuLskTNmpytplyz041FvDTB437bWdVznYz2yTaNQh8rIImcgt5CDwWem+ZvknzRV3g2rlCFGrFz0KtdPvHkrYgqQw8JywbVHdfuT9GeNif/Gl9ePxDUMX4tn0qcVmxb9MQEQHnUf6FqFbnPG0nchoP93w4fqcQO0J1i2pU0w3d8oHDgWJ4v7ZyI6WbFYKW3kAO/8vRD+MsMmW/+gts4Ugqgn+YsKZQbug==;7yXKldr4/0y6jj1oToQ0Pw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-texas-house-special-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-paxton-support-256.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "DOJ official tells Treasury Dept. to give Trump tax returns to Congress"
+    excerpt: "A top Justice Department official on Friday told the Treasury Department to give copies of former President Donald Trump’s tax returns to Congress."
+    publishedDateTime: 2021-07-30T18:21:00Z
+    webUrl: "https://nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/"
+    ampWebUrl: "https://nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-johnsen.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

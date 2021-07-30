@@ -61,6 +61,36 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump urged Justice officials to declare election 'corrupt'"
+    excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call"
+    publishedDateTime: 2021-07-30T16:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-urged-justice-officials-to-declare-election-corrupt/2021/07/30/87805e80-f14e-11eb-81b2-9b7061a582d8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QL5EENXRJYI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump urged Justice Dept. officials to declare election results corrupt and ‘leave the rest to me,’ notes show"
+    excerpt: "President Donald Trump urged Justice Department officials to declare the 2020 election results \"corrupt,\" according to notes from one of the participants in the phone call."
+    publishedDateTime: 2021-07-30T21:18:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-election-20210730-tu3o3ziasvesjkprgs2h6cuedm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-election-20210730-tu3o3ziasvesjkprgs2h6cuedm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-election-20210730-tu3o3ziasvesjkprgs2h6cuedm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Aaj26S18aQtLkh4JQQ5ZJUxVcCA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W5UKW4VHBM27RS4SF354WIAEZI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump returning to Arizona as 2020 election review drags on"
     excerpt: "Donald Trump is expected to hold his first post-presidency rally in Phoenix at an event ostensibly about GOP fortunes in 2022."
     publishedDateTime: 2021-07-23T20:12:00Z
@@ -92,6 +122,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TW4LUNON7RG4DBGBX26AKV5AUI.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "The memoir Mike Pence should write about Trump and the GOP"
+    excerpt: "The idea that a major media company actually has to justify its publication of a memoir by a former vice president is nearly as lame as, well, most of what Mike Pence is shoveling these days."
+    publishedDateTime: 2021-07-30T16:01:00Z
+    webUrl: "https://www.irishcentral.com/opinion/others/memoir-mike-pence-trump-gop"
+    ampWebUrl: "https://www.irishcentral.com/opinion/others/memoir-mike-pence-trump-gop.amp"
+    cdnAmpWebUrl: "https://www-irishcentral-com.cdn.ampproject.org/c/s/www.irishcentral.com/opinion/others/memoir-mike-pence-trump-gop.amp"
+    type: article
+    provider:
+      name: Irish Central
+      domain: irishcentral.com
+    quality: 90
+    images:
+      - url: "https://www.irishcentral.com/uploads/article-v2/2021/7/147260/GettyImages-1209526244_donald_trump_mike_pence_february_2020___getty.jpg?t=1627660914"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "MO40oMIJHdk4P82gxN+HpptbScsbrGyPpcMj+qebNv9e9I4Tb5FO6Xp/7anYNcj9OjMakGvrgifRHGdKQUi3DaFFCU8qIg+BxflvtvSbDz1I3IJwSt2Pvx6EozPlSlpUNZd2cbcUUKYYr/izgSH5sz+a1IX2ccEe4ZCQL2efplI6p6iQTAgZJIfgBttluQrm+5FNukUaOQ94MzXiNKlDOAbfYUIWgAfPrretFjKx81AvBnswX+K5hJ+d/q0lFj+k02tNqJVDXBYQOPleRuhwCfMNdTa7rlbN2S8nanYpOeKU/KipTzUi6/mKSYqgSVSTMVL9XOn6BlBSJ0niHZRWWVraP/BeRZJYY2ZR97H1zZE=;Kne3/iy/YlbY9/7uZCsXEg=="

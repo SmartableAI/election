@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Aide’s note to Biden: ‘Sir, there is something on your chin’"
+    excerpt: "Was that egg on his face? President Biden had to be alerted to remove a speck of something from his chin during a virtual event being livestreamed from the White House on Friday. The meeting to"
+    publishedDateTime: 2021-07-30T19:16:00Z
+    webUrl: "https://nypost.com/2021/07/30/joe-biden-gets-aides-note-sir-there-is-something-on-your-chin/"
+    ampWebUrl: "https://nypost.com/2021/07/30/joe-biden-gets-aides-note-sir-there-is-something-on-your-chin/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/30/joe-biden-gets-aides-note-sir-there-is-something-on-your-chin/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/biden-0.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "VKHzUwcPCZcTOtwV54gULRfkfMmnwOjxwC8t8hg1yBFFYvIKiYYey4YU2qJbA+rRFDSvBOirB+orh8oxA8LlYCWeNeBzPI1vxAbilH0hs+/ph8hC2YNYWm1osPeESJd+qx39kdE+7EssSJeAFpKOCnFUliuHw4jue8zuV/CtdeKoCTC2V3k3pLouSet3dwWdH0yo8g0wjwcGcOnIyb33Wq72MlAKzpwpnraUMqWMd8xB+hKwpFlq/ZgO7ZRl1PXX4TFtv/SA4GFAEUELfIKBIqd313TzJzSASogkJbtFkJEoXU2OpcTC25WMxaHJN/QsT3SQFSLOAy3EWi5791B5LfKlbDOEb1zi/d7jjSS2sHs=;royJ6ve0Vw1nI5WrnVrd1g=="
 ---

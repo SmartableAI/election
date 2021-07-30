@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/justice-department-says-irs-must-gi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/justice-department-says-irs-must-give-trump-tax-returns-congress/"
 type: article
 quality: 124
-heat: 224
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Justice Dept. says IRS must give Trump tax returns to Congress"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T19:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/VhQx2UqxW-UAnFNI9gPPPnBNLgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZD2KL25SNEXYSKVW22435JKHQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump officials can testify to Congress about his role in Capitol attack, DoJ says"
     excerpt: "Move declines to assert executive privilege for then acting attorney general Jeffrey Rosen, clearing path for others to testify"
     publishedDateTime: 2021-07-27T19:22:00Z
@@ -63,21 +79,19 @@ related:
         width: 2500
         height: 1669
         isCached: true
-  - title: "Justice Dept. says IRS must give Trump tax returns to Congress"
-    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
-    publishedDateTime: 2021-07-30T17:50:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
+  - title: "Power Up: Despite DOJ waive of executive privilege, compelling Trump-era officials to testify still a wildcard"
+    excerpt: "While the DOJ's announcement opens the door for former Trump administration officials to be called to testify in the events leading up to January 6, Democrats don't have a strong track record of enforcing those subpoenas."
+    publishedDateTime: 2021-07-28T10:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/28/power-up-despite-doj-waive-executive-privilege-compelling-trump-era-officials-testify-still-wildcard/"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 85
     images:
-      - url: "https://www.baltimoresun.com/resizer/VhQx2UqxW-UAnFNI9gPPPnBNLgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZD2KL25SNEXYSKVW22435JKHQ.aspx"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFFVWJXPDEI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 1859
         isCached: true
   - title: "Justice Dept says IRS must provide Trump's tax returns to Congress"
     excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying"
@@ -95,6 +109,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
+    excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
+    publishedDateTime: 2021-07-23T23:38:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 63
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zp8RnDoX54ji-1jEmPaqcmBJbng=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HQIGQ74FORGH5ASQDJPO5ZM3WY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Justice Department Says IRS Must Give Trump Tax Returns To Congress"
     excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T17:51:00Z
@@ -110,6 +140,6 @@ related:
         height: 720
         isCached: true
 
-secured: "swVN8yrQU4GKP40c874ETF6puidyuvPxLKzUkOF6F/9kCi2dz20uZNMrmt1LCkxIHatg0ib3/Iywvff560X5Ct+pL1L3DT89OJIgmk9XCAUL0Ba7iJrCsPNYD90y+JkZLMkqtZ32exdz288GcZIjV3dpUADxjir+elI72ICRbE1asO+hRgxAyvu/JZbKB51o1jh+QU8Y3dBfxqldcSO40QguX17iErdgxewAOasZSe/sqAoO+LrCA915ySLoymsukx5bCxaZcERYWUsZk4oCa/n3x8YBgQdikXL6dUjbBrX/7NVHFiHpMr0BH1BcmqvgmPUbwhx4Og2xq94APSPz7h2N5GILFCP1/+LqNhm1S0w=;CLPwwDZ4p4ppYadg7hhfXg=="
+secured: "P1cmeJIiESMYCtOAnTBCpTbFO+FfeN031xv2/HCqRwpKXDBnzkHXKIWnRqlFP3PMJFQIeJWQzgBEbMAOV/BEr1gZPtvtOeU3qGmrqxWEH0lH1stQ1UPP92pdfS4lRXRwb5HIN5Wqy8tWpH4WDeRqrTJQJ9Ex4F2xVSMJKR0r7MkR8UEyfU4DOhtAnKwqFFQw6F73riGmmhoIs5adwjTYPjbhhbOMcKqph1+3hIy4/o3Hi0Snfr30AY40g57xjZf0pqPjWdK01BWrsh0fb/6WhmP2iDO1IyK3uwOq/kYtRiKtCTVnXotxHNCnpGn1/H6/sAAX/BK0wkSCSObOgf7gjiqP6kPQr+C3c4ohoC314DkvxfrCELdaumbhgCFoiBZPaxKfFS4a4VNNGDdFcw0+ZrcwM1TH/xCMitrLnaUV4jtYCKj++dIfXvgqZ9YTzVZwx/ngWLGa7a5mYcBHrdrb+1Ad4y4VWZdL4RfxLGtKAlA1es++iAUx7fLUWqEkb/ldkbCTlICFIImzoCSA4zcdJA==;nh3OKApyQMQwF68kC5VloQ=="
 ---
 

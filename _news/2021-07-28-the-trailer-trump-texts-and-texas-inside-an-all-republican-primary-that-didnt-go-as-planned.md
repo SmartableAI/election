@@ -57,22 +57,6 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
-    excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
-    publishedDateTime: 2021-07-23T23:38:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 63
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zp8RnDoX54ji-1jEmPaqcmBJbng=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HQIGQ74FORGH5ASQDJPO5ZM3WY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Texas Attorney General Ken Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
     excerpt: "Paxton is facing a primary challenge from Bush, the land commissioner, as well as Eva Guzman, the former state Supreme Court justice."
     publishedDateTime: 2021-07-27T04:11:00Z

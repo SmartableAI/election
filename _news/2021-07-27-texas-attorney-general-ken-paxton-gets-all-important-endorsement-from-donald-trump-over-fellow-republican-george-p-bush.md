@@ -69,22 +69,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
-    excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
-    publishedDateTime: 2021-07-23T23:38:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 63
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zp8RnDoX54ji-1jEmPaqcmBJbng=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HQIGQ74FORGH5ASQDJPO5ZM3WY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "In a major upset against a candidate backed by Donald Trump, Jake Ellzey wins runoff for Fort Worth-area congressional seat"
     excerpt: "Wright and Ellzey are vying to finish the term of Ron Wright, who died earlier this year after contracting COVID-19. His Republican-leaning seat touches Fort Worth and stretches southeast to more rural areas."
     publishedDateTime: 2021-07-27T11:00:00Z

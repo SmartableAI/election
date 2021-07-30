@@ -140,6 +140,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DOJ official tells Treasury Dept. to give Trump tax returns to Congress"
+    excerpt: "A top Justice Department official on Friday told the Treasury Department to give copies of former President Donald Trump’s tax returns to Congress."
+    publishedDateTime: 2021-07-30T18:21:00Z
+    webUrl: "https://nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/"
+    ampWebUrl: "https://nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-johnsen.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Hannity: January 6 commission's only goal is to 'smear Donald Trump and the GOP on national television'"
     excerpt: "The House January 6th commission \"has one mission and one mission only: to smear Donald Trump and the GOP on national television,\" Sean Hannity told viewers in his opening monologue on “Hannity” Tuesday."
     publishedDateTime: 2021-07-28T03:35:00Z

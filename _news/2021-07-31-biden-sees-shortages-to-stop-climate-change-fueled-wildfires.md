@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Biden Sees Shortages to Stop Climate-Change Fueled Wildfires"
+title: "Biden sees shortages to stop climate-change fueled wildfires"
 excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
-publishedDateTime: 2021-07-30T19:44:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/"
-ampWebUrl: "https://www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/?amp"
+publishedDateTime: 2021-07-30T17:17:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+webUrl: "https://abcnews.go.com/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://media.nbcnewyork.com/2021/05/AP_21140797917947.jpg?quality=85&strip=all&crop=298px%2C234px%2C3840px%2C2160px&resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://s.abcnews.com/images/US/WireAP_465625e120d0458897abb77d26154ae0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -94,7 +98,7 @@ related:
   - title: "Biden calls for big budget bill to include immigration"
     excerpt: "U.S. President Joe Biden, who has called for providing a pathway to citizenship for so-called Dreamer immigrants, said on Thursday that a big budget bill being written by Democrats in Congress should tackle immigration."
     publishedDateTime: 2021-07-30T14:03:00Z
-    webUrl: "https://www.reuters.com/article/legal-us-usa-immigration-biden-idUSKBN2F029G"
+    webUrl: "https://www.reuters.com/article/legal-us-usa-immigration-biden/biden-calls-for-big-budget-bill-to-include-immigration-idUSKBN2F029G"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F029G"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F029G"
     type: article
@@ -148,6 +152,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3400d1ae-fbc5-4a9d-8273-7ce35d18f6d8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden sounds alarm on need for wildfire resources"
+    excerpt: "President Joe Biden sounded the alarm Friday in a virtual meeting with governors about the need for more resources to fight a series of wildfires in Western states, as climate change has worsened the spread and ferocity of the blazes."
+    publishedDateTime: 2021-07-30T18:32:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/30/biden-sounds-alarm-need-wildfire-resources/5433712001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f8d52a93-54db-41aa-9e82-af26b57d5357_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
@@ -212,6 +230,6 @@ related:
         height: 433
         isCached: true
 
-secured: "dmSUJuXZItU1JBSUaSpz1A6aG0Mp2AIIf8ZMPyVcFwUH5amQCnJSrvoPpNk6n4uVSqcvGlxnDH1aRG60QJWsS3B3S+wZbTpJDa//4341ZCuxlU9KSS7GZ5eQJWphGb+ry1uUEFrnlFdr4Gr9XP1MrN/JavBMXzFq/65+dEop4oQrE/zjcILEjsFCEJA3TZHWIKgQ2PDWNkkR64vLfcmmiz2+HkY19fjwLbpT+C6oxMVCjnYtNAJh35IResZ+Xh+X70g9x44SQVhr4h8+MKLocQpo/YYVQ7nmN6/arddRFcxrCdpTDBX0/rj7vP3DKW/ZdrDAWLPz5/IGsLC+QyBZIXAd3r4DFxul6+d8hvd2gGY=;dXcLiBi8CC6EzBcQy1/yqA=="
+secured: "zjXmKB4fetS2ZlZR6Tsc483JwX2oitg834tWFfrqx6NZomEF5dCEhyiQrP4j5Z9g5gIZ4SOsgpK7yB4q6SaT1LpKuYB1C9bf8lAYDzAUGIgXkO6nNSLr4YcbJGUVP92OXv/7UyVvkY6rajLFtqzdYwKV4QSuF8slqc6EftN5Yp9iIqCwcXEiharf02fk1aOG7XswcNd+udD5joXBYOnLLqmo3Q6oQIepUXxCPHmRSFHgQ4XB7vm9JVA2cNDTpML55iKpdV9luGY6Zx2ApvtkOeJOuIAuI/TvHc1IxtxrOZfZsN5pt+oWqDL+jQMySzkI4styQfMWRifjCo06hF2x77+x7pDvx27TjSXu+HzHHiE=;QrUchav/hIiJZNOSXg0agA=="
 ---
 

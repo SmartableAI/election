@@ -94,7 +94,7 @@ related:
   - title: "Biden calls for big budget bill to include immigration"
     excerpt: "U.S. President Joe Biden, who has called for providing a pathway to citizenship for so-called Dreamer immigrants, said on Thursday that a big budget bill being written by Democrats in Congress should tackle immigration."
     publishedDateTime: 2021-07-30T14:03:00Z
-    webUrl: "https://www.reuters.com/article/legal-us-usa-immigration-biden-idUSKBN2F029G"
+    webUrl: "https://www.reuters.com/article/legal-us-usa-immigration-biden/biden-calls-for-big-budget-bill-to-include-immigration-idUSKBN2F029G"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F029G"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F029G"
     type: article
@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden sees shortages to stop climate-change fueled wildfires"
+    excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
+    publishedDateTime: 2021-07-30T17:17:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_465625e120d0458897abb77d26154ae0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says inflation 'temporary'"
     excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
     publishedDateTime: 2021-07-19T19:13:00Z
@@ -148,6 +164,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3400d1ae-fbc5-4a9d-8273-7ce35d18f6d8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden sounds alarm on need for wildfire resources"
+    excerpt: "President Joe Biden sounded the alarm Friday in a virtual meeting with governors about the need for more resources to fight a series of wildfires in Western states, as climate change has worsened the spread and ferocity of the blazes."
+    publishedDateTime: 2021-07-30T18:32:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/30/biden-sounds-alarm-need-wildfire-resources/5433712001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f8d52a93-54db-41aa-9e82-af26b57d5357_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
@@ -181,22 +211,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Biden Sees Shortages to Stop Climate-Change Fueled Wildfires"
-    excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
-    publishedDateTime: 2021-07-30T19:44:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/changing-climate/biden-sees-shortages-to-stop-climate-change-fueled-wildfires/3188501/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2021/05/AP_21140797917947.jpg?quality=85&strip=all&crop=298px%2C234px%2C3840px%2C2160px&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
     excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean,"
     publishedDateTime: 2021-07-27T19:50:00Z
@@ -212,6 +226,6 @@ related:
         height: 433
         isCached: true
 
-secured: "YQYOwxtDPZG5i27dBJ4XBYb3pbDL/mWEJXoMNFRooG20mZdd6uRIQsXP8RrbpnlnGmOOH6xUF6U+i4vhh1ju7+9q5awYlu417JT3JDxcwEOg8/2qZ61QugrMPqe7LnrBqyXw9qKSa8o15JAqfJxgqXukurQcxFlfb17ADjEE0mVsYe+D+G29HRop+ykjDEH59TUYkbtWic81Pc+QBAJbvMSKFEv9OXfygp4ka/zSPkz7BTEkIGsB7LpEa60qy5QjPcjkMCvS9wuDEKlMKEVjfgNGx/Bru6AaAx7g0RO/zrX+jjO4vxdoggzOCsis+PMuWhzJi8xYHzaWXKSwqpekrAF642Z/Z/uX90ld/nR6cUA=;06UjiZMkttBWcbXakKgQxA=="
+secured: "kFsZqeS5CgEUTNypyF9DL5O5Kk+MW+my20JbAs91Qvd92veA225eP2x0q//pKJkSgK0TugMNkBsN58aYUHvavyjmRIgD/0YTJPvy0ZrJuxOglbhVFhX60LIdoZYEwKY0iFlUht+Gwfu2wrnBRJdXyy8Zvv+ZF6XviTSIPdM2pQZviYSHSTBz9OR+9/IcTPT53cWPugfW32tqlVF4nLX+99EpyicpL1kUrFMzkaHVXt9XXuI+5A7yOTIuT+Fw9F+SD3ihHZ3pSpMiVwrat5b7Mb1ZzjB6Kt9xFlCCA+srgM8jFFTLm/IbGUQ0qijYYYJsF6QB39qcweqNzIqijRA5xOlw0wgwNmMo4VPn/bXGivUnnAEcmoe1dul/Zdfw/4aH+vhgswfMdcOXQosGL25A7SIA9NJl85vMJNmOR6BZiFt5ogAe85zO3wg7I4c3uiV3J9/xyu4+9DCBTI4y/UgCtE318Qi6k2XDcFTEdAKGlkxhNwAAF22l7MiBzI7b2MSoQtg0p/IAbZYrYdcqVlzf5A==;k/O7RxcoGD1Cww/lHdYoFw=="
 ---
 

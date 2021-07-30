@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-30-trump-told-doj-officials-in-december-2020-to-call-election-corrupt-notes-show.md",
+      "title": "Trump told DOJ officials in December 2020 to call election 'corrupt,' notes show",
+      "excerpt": "Former President Trump instructed top officials at the Department of Justice to call the 2020 general election “corrupt” in support of his efforts to overturn the election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBrred9VNLI/trump-doj-officials-election-corrupt-donoghue-notes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBrred9VNLI/trump-doj-officials-election-corrupt-donoghue-notes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp",
+      "publishedDateTime": "2021-07-30T14:35:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-staffer-passes-president-biden-a-note-sir-there-is-something-on-your-chin.md",
+      "title": "Staffer Passes President Biden A Note: \"Sir, There Is Something On Your Chin\"",
+      "excerpt": "During a roundtable on Friday morning with Western state governors about wildfires, President Biden provided a moment of comic relief. A closeup photo shows the text of the note:: President @JoeBiden holds a card handed to him by an aide that reads “Sir,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/549523.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.amp.html",
+      "publishedDateTime": "2021-07-30T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-hunter-biden-snaps-at-critics-of-art-dealings-f-em.md",
       "title": "Hunter Biden snaps at critics of art dealings: 'F--- em'",
       "excerpt": "Biden appeared on art podcast Nota Bene Thursday, where the president’s son was asked about his art dealings where the buyers are anonymous and the First Son is slated to attend his art shows where they may be.",
@@ -335,7 +439,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 186,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1041,7 +1145,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 390,
+      "heat": 410,
       "tags": null,
       "images": [
         {
@@ -1483,118 +1587,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
       "publishedDateTime": "2021-07-25T07:12:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase.md",
-      "title": "Army combat veteran who owns steel company asks Biden to bring back 'Made in America' showcase",
-      "excerpt": "An Alabama Army combat veteran whose business had taken a hit because of rising steel prices is calling on President Joe Biden to reinstate a Trump Administration tradition to honor American-made products at a time, he says, when businesses could really use the morale boost. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Colin-Wayne-Redline-Steel.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-24T17:49:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-senate-gop-report-finds-biden-administration-spending-2b-to-suspend-border-wall-construction.md",
-      "title": "Senate GOP report finds Biden administration spending $2B to suspend border wall construction",
-      "excerpt": "A new report by Republicans on a Senate subcommittee has concluded that the Biden administration is spending a minimum of approximately $2 billion to suspend construction of the wall at the southern border, even amid a continuing migrant crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xy786WosRJI/senate-gop-report-biden-administration-2b-suspend-wall-construction",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xy786WosRJI/senate-gop-report-biden-administration-2b-suspend-wall-construction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp",
-      "publishedDateTime": "2021-07-24T08:45:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -351,6 +351,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate confirms Biden's pick to serve as US Citizenship and Immigration Services director "
+    excerpt: "The Senate confirmed Ur Jaddou to serve as US Citizenship and Immigration Services director on Friday, delivering the agency a permanent head -- and the first woman to hold that position -- after years of acting leadership.\n    \n"
+    publishedDateTime: 2021-07-30T20:25:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eceunZlfukw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/uscis-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/uscis-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210730144751-ur-mendoza-jaddou-0526-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden admin buys extra Pfizer doses to prepare for possibility of children vaccine needs and booster shots"
     excerpt: "The Biden administration purchased an additional 200 million doses of Pfizer-BioNTech's Covid-19 vaccine to prepare for potential additional vaccine needs in the US, an administration official familiar with the contract tells CNN.\n    \n"
     publishedDateTime: 2021-07-23T14:38:43Z
@@ -480,6 +496,6 @@ related:
         height: 3648
         isCached: true
 
-secured: "4b/ytTr7EzqyD3ssJuVYmFX1cSMbtPpoZhz7hbpQI+LVz6pnWno21D30PXpDF1Um4zepGLXFpNSBOyt2zejDu+95X1Vf6pJbhcNZe0H2sRiEiMFv+q544ud7CbLT+qotREWqN5Gzo+TpnhU2qFXjUmpWsh457xQ9v+wC2TFrMzdW8mDJXu8jiWkHpINdHyzx0VdIa0tpDjQp+FyggYQJr2fYL8Nsx/1Lv+5RxM9K79EfbButqh9GfD66XRLV+rHyjZm6rcACZSemzdf2/EvJ1cIKoxGVQGDTaj8C/ehyULKcNEPCQa6uJ4iUhCgmZtsmJhVMV308lWBqdQd+ePumZYDEDsXf3Fau0elJ1jYkAxE=;IVs6QHGqEgPw5Jxt6mEedw=="
+secured: "90KKY2kEtkFF2i+FrziT/HaDuGwUVrH0a7BcdQj1wUnGzcaHYAL505EB9jhR0sHqDtdbdnKgSBgWWiTegtuu6pnGPhLLygMRQvbhhz3M7GVXa7YKWMCQEMqhFjdGKMpsEeI6OAfzu0QVurZ4ZFNS/TWB0rSzaPlwUMFzxnkDikWMevNd30xsDDjEGKYw7FIfuNU4MfODjzxobPZcTrrqOZAsTUczMi0vnih1nV/MDVCpHguAlH+FS13qVod06YPDlgivgdBXWN6ar92kYfEs7qWy5vePOGoKfVhMCQXwi4oxiBriOXWo/77C9oHWrx4Q2dtiNlXiCKYu0Yq9VZ7upmXMWGonQpsz7PrqJ5R1ue0=;n8dXuPPLOeuiQl/S4Qj3Vg=="
 ---
 

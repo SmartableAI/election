@@ -95,6 +95,38 @@ related:
         width: 726
         height: 545
         isCached: true
+  - title: "Trump pressed justice department officials to declare election corrupt – live"
+    excerpt: "Notes obtained by the House oversight committee document a 27 December phone call to acting attorney general Jeffrey Rosen"
+    publishedDateTime: 2021-07-30T16:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/30/congress-eviction-moratorium-us-politics-biden-democrats-republicans-latest-news"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/30/congress-eviction-moratorium-us-politics-biden-democrats-republicans-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/30/congress-eviction-moratorium-us-politics-biden-democrats-republicans-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/cdb72057e9badbfb5949628724914845b02649d0/535_1238_3962_2378/master/3962.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6dfd0717357cf5a2d3ec8bab04076183"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump told Justice officials ‘just say the election was corrupt,’ notes show"
+    excerpt: "The notes of the December call underscore the lengths to which Trump went to try to overturn the results of the election."
+    publishedDateTime: 2021-07-30T12:46:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 137
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4cf0a67/2147483647/strip/true/crop/5981x4000+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2Feb%2Fe7d569db3a4e06a1f02378e66f14%2F988af9b5ea4746ecbace91d7d7cc1764"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Power Up: Trump's DOJ emails show relentless pursuit to overturn 2020 election"
     excerpt: "New documents further illuminate just how far Trump and his allies pushed the Justice Department “to the brink of crisis.\""
     publishedDateTime: 2021-06-17T14:40:00Z

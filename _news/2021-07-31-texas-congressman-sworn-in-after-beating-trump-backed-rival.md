@@ -171,6 +171,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "IRS must turn over Trump tax returns to Congress, DoJ says"
+    excerpt: "Department says House panel has ‘sufficient reasons’ for requesting returns as Nancy Pelosi hails ‘victory for the rule of law’"
+    publishedDateTime: 2021-07-30T18:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/30/donald-trump-tax-returns-irs-congress-doj"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/30/donald-trump-tax-returns-irs-congress-doj"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/30/donald-trump-tax-returns-irs-congress-doj"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/550ff1b28080468c570ef3fd0673634e67fb91e4/0_146_2817_1690/master/2817.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae326163b7ab5f4f48e19d6a76d06c79"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
     excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
     publishedDateTime: 2021-07-20T19:17:00Z

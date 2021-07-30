@@ -367,6 +367,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate confirms Biden's pick to serve as US Citizenship and Immigration Services director "
+    excerpt: "The Senate confirmed Ur Jaddou to serve as US Citizenship and Immigration Services director on Friday, delivering the agency a permanent head -- and the first woman to hold that position -- after years of acting leadership.\n    \n"
+    publishedDateTime: 2021-07-30T20:25:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eceunZlfukw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/uscis-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/uscis-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210730144751-ur-mendoza-jaddou-0526-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump officials can testify on former President's actions leading up to insurrection, Justice Department decides "
     excerpt: "The Justice Department formally declined to assert executive privilege for potential testimony of at least some witnesses related to the January 6 Capitol attack, a person briefed on the matter said.\n    \n"
     publishedDateTime: 2021-07-27T12:30:29Z
