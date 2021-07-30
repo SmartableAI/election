@@ -374,6 +374,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump urged Justice officials to declare election ‘corrupt’"
+    excerpt: "Trump and his allies in the last weeks of his presidency pressured the Justice Department to investigate unsubstantiated claims of widespread 2020 election fraud, and the department’s inspector general is looking into whether department officials tried to subvert the results."
+    publishedDateTime: 2021-07-30T17:41:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-urged-justice-officials-to-declare-election-corrupt.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/07/donald-trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump urged Justice officials to declare election ‘corrupt’"
+    excerpt: "Just say the election was corrupt and leave the rest to me and the R. Congressmen,” Trump said, according to notes taken by Richard Donoghue."
+    publishedDateTime: 2021-07-30T17:43:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UWXEUVHYGRDTDNTWKM37Z2ANKQ.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."
     publishedDateTime: 2021-07-14T17:57:00Z
@@ -421,6 +453,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Texas congressman sworn in after beating Trump-backed rival"
+    excerpt: "Texas Republican Jake Ellzey was sworn in to the House on Friday, days after winning a special election in which he defeated his predecessor’s widow, who was backed by former President Donald Trump."
+    publishedDateTime: 2021-07-30T17:52:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/30/texas-congressman-sworn-in-after-beating-trump-bac/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/30/texas-congressman-sworn-in-after-beating-trump-bac/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/30/texas-congressman-sworn-in-after-beating-trump-bac/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/30/congress_ellzey_27760_c0-208-5000-3124_s1200x700.jpg?74d48b7b24509088c15947da9892024c1a07cb57"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Tom Brady Jokes With Biden at White House About Trump's False Election Claims"
     excerpt: "Tom Brady, a U.S. football legend and longtime friend of Donald Trump, gently ribbed the former president and his false claims of election fraud in a White House visit Tuesday. The 43-year-old quarterback joined the rest of his Tampa Bay Buccaneers at the White House on Tuesday to celebrate their Super Bowl victory with President Joe Biden."

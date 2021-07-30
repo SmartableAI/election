@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's appointees are turning the Supreme Court to the right with different tactics"
-    excerpt: "The three appointees of former President Donald Trump have together sealed the Supreme Court's conservatism for a generation, but they have revealed strikingly different methods. They diverge in their regard for practical consequences, their desire to lay down markers for future disputes and their show"
-    publishedDateTime: 2021-07-26T09:02:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5H9MbaIqXqw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108201852-barrett-kavanaugh-gorsuch-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Explosive select committee hearing does little to change the minds of Trump-loyal Republicans about January 6"
     excerpt: "Some of Donald Trump's fiercest allies in Congress are continuing to downplay or ignore the January 6 insurrection, taking cues from the former President even after four police officers testified Tuesday, in front of the House select committee investigating the deadly Capitol attack, about their harrowing"
     publishedDateTime: 2021-07-28T00:40:12Z
@@ -159,22 +143,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727112632-restricted-james-clyburn-06-22-2021-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Jan. 6 select-panel Dems confident they can corral ex-Trump aides"
-    excerpt: "But it won't be easy for them to shake off potential stonewalling, and their Capitol riot probe is still taking shape."
-    publishedDateTime: 2021-07-29T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
-        width: 1161
-        height: 773
         isCached: true
   - title: "Pelosi Bars Trump Loyalists From Jan. 6 Inquiry, Prompting a G.O.P. Boycott"
     excerpt: "Democrats said Representatives Jim Banks and Jim Jordan, who amplified Donald J. Trump’s lies of a stolen election and opposed investigating the assault, could not be trusted to scrutinize it."

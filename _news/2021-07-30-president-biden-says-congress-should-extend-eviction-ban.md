@@ -95,6 +95,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden calls for big budget bill to include immigration"
+    excerpt: "U.S. President Joe Biden, who has called for providing a pathway to citizenship for so-called Dreamer immigrants, said on Thursday that a big budget bill being written by Democrats in Congress should tackle immigration."
+    publishedDateTime: 2021-07-30T14:03:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-usa-immigration-biden-idUSKBN2F029G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F029G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F029G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570487074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T18P"
+        width: 795
+        height: 545
+        isCached: true
+  - title: "Biden sees shortages to stop climate-change fueled wildfires"
+    excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
+    publishedDateTime: 2021-07-30T17:17:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_465625e120d0458897abb77d26154ae0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says inflation 'temporary'"
     excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
     publishedDateTime: 2021-07-19T19:13:00Z

@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump officials can testify on former President's actions leading up to insurrection, Justice Department decides "
-    excerpt: "The Justice Department formally declined to assert executive privilege for potential testimony of at least some witnesses related to the January 6 Capitol attack, a person briefed on the matter said.\n    \n"
-    publishedDateTime: 2021-07-27T12:30:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-tivQioKag/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/doj-executive-privilege-trump-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/doj-executive-privilege-trump-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611163618-01-january-6-insurrectionists-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump World is already weighing veeps for 2024. Hint: It ain’t Pence."
     excerpt: "The former president is keeping tabs on the field and he’s all but decided to ditch the guy he ran with last time."
     publishedDateTime: 2021-07-23T08:30:00Z
@@ -190,38 +174,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626808947307_nbc_spec_williams_barrack_210720_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Trump officials can testify in Jan. 6 inquiries, Justice Dept. says."
-    excerpt: "The decision runs counter to the views of the former president, who has argued that his decisions and deliberations are protected by executive privilege, and sets up a potential court battle."
-    publishedDateTime: 2021-07-27T12:49:00Z
-    webUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-officials-jan-6-testify.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-officials-jan-6-testify.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/trump-officials-jan-6-testify.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/27/us/politics/27political-briefing-doj-testimony/27political-briefing-doj-testimony-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "U.S. Declines to Defend Trump Ally in Lawsuit Over Jan. 6 Riot"
-    excerpt: "The move could mean that the Justice Department is also unlikely to defend former President Donald J. Trump in the case."
-    publishedDateTime: 2021-07-28T01:24:00Z
-    webUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/28/us/politics/27dc-justiceprint/27dc-justice2-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Arizona vote review is being financed by Trump supporters."
     excerpt: "Cyber Ninjas said that it had collected more than $5.7 million from five pro-Trump organizations for the widely disparaged review."

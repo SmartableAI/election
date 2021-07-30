@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Cheney: Trump inciting January 6 riot 'the most dangerous thing' a president has done"
-    excerpt: "Wyoming Republican Rep. Liz Cheney accused former President Donald Trump of having committed the worst violation of a president's oath of office by inciting the January 6 Capitol insurrection -- and taking a jab at House Minority Leader Kevin McCarthy over his subsequent visit to Trump at Mar-a-Lago.\n"
-    publishedDateTime: 2021-06-07T03:01:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sPJZb6-02gg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/cheney-trump-dangerous-thing-axe-files/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/cheney-trump-dangerous-thing-axe-files/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514181348-cheney-tapper-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Senate report reveals new details about security failures ahead of January 6 attack but omits Trump's role"
     excerpt: "A new Senate report reveals previously unknown details about the stunning security breakdowns ahead of the January 6 US Capitol attack, adding an authoritative emphasis to previous evidence that there were massive intelligence failures, critical miscommunications, and unheeded warnings that ultimately"
     publishedDateTime: 2021-06-08T11:12:27Z

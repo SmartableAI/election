@@ -57,6 +57,20 @@ related:
         width: 2882
         height: 1989
         isCached: true
+  - title: "U.S. Vice President Harris to visit Vietnam, Singapore"
+    excerpt: "Kamala Harris will become the first U.S. vice president to visit Vietnam next month during a trip that will also include Singapore and is aimed at rallying an international coalition to curb China's growing influence."
+    publishedDateTime: 2021-07-30T17:42:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/us-vp-harris-visit-vietnam-singapore-white-house-2021-07-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/eQyBrmUjFluk6uxjvOCM_oQCPW0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AOYOQ2LCZJFNFLFQOMZS7PIAM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Harris calls on Black lawyers to fight states’ voter-integrity laws"
     excerpt: "Vice President Kamala Harris urged Black lawyers Tuesday to challenge new election laws in mostly Republican-led states that she said are intended to restrict minority voting and shift vote-counting to partisan entities."
     publishedDateTime: 2021-07-27T19:11:00Z

@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "This school taught students before the Civil War. It's hoping Biden's recovery plans will bring modern necessities"
+    excerpt: "The school is so old it's seen not one but two global pandemics, plus a civil war. Now its superintendent is hoping new federal funding will bring it firmly into the 21st century.\n    \n"
+    publishedDateTime: 2021-06-08T20:00:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r6U63htkpcg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/schools-infrastructure-biden-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/schools-infrastructure-biden-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607132803-02-lafayette-street-elementary-school-sign-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Jill Biden Models Love and Sustainability at the G7"
     excerpt: "In her debut international trip as first lady, Dr. Biden played her part with style. Literally. By Vanessa Friedman The first Joe and Jill Biden American Outreach tour, a.k.a. the Group of 7 meeting in Britain,"
     publishedDateTime: 2021-06-14T13:24:00Z

@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pelosi, Schumer to huddle with Biden on voting legislation"
+    excerpt: "Top congressional Democrats will huddle with President Joe Biden, looking to salvage their push to enact voting rights legislation"
+    publishedDateTime: 2021-07-30T17:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-schumer-huddle-biden-voting-legislation-79173353"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-schumer-huddle-biden-voting-legislation-79173353"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-schumer-huddle-biden-voting-legislation-79173353"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b3387dac51e94a14aa4e6973159f0c80_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to sanction Cuban officials following attacks on protesters, reports say"
     excerpt: "Thousands of Cubans took to the streets earlier this month to protest food and medicine shortages, power outages and spiraling prices."
     publishedDateTime: 2021-07-22T15:51:00Z

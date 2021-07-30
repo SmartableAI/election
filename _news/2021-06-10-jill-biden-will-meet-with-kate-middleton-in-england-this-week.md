@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/jill-biden-kate-middleto
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/jill-biden-kate-middleton/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608093714-jill-biden-kate-middleton-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Queen Elizabeth announces she'll meet President Biden at Windsor Castle this month"
-    excerpt: "Britain's Queen Elizabeth will welcome US President Joe Biden to Windsor Castle on June 13, Buckingham Palace announced on Thursday.\n    \n"
-    publishedDateTime: 2021-06-03T13:54:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E8Ozs7YBfpc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-biden-meeting-scli-intl-gbr/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-biden-meeting-scli-intl-gbr/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526112357-biden-queen-elizabeth-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -31,165 +31,357 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ally Tom Barrack pleads not guilty in foreign lobbying case "
-    excerpt: "Tom Barrack, a longtime ally of former President Donald Trump and chairman of the Trump 2016 Inaugural Committee, pleaded not guilty through his attorney on Monday to illegal foreign lobbying charges unveiled by the Justice Department last week.\n    \n"
-    publishedDateTime: 2021-07-26T18:41:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmU4oL47-EQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
+  - title: "Justice Department advises Biden administration to hand over Trump tax returns to Congress"
+    excerpt: "The Justice Department told the Treasury Department that it \"must\" turn over former President Donald Trump's tax returns to the House Ways and Means Committee, which first requested them more than two years ago.\n    \n"
+    publishedDateTime: 2021-07-30T17:29:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House Democrats are still pursuing Trump's tax returns but Biden administration may not play ball"
+    excerpt: "After notching recent wins in their long hunt for material to help bring legal accountability to former President Donald Trump, congressional Democrats fear the Biden administration won't be helpful when it comes to obtaining the documents they covet the most: Trump's tax returns.\n    \n"
+    publishedDateTime: 2021-06-01T10:17:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4FhBzGHTso/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531094910-02-trump-taxes-house-democrats-biden-play-ball-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration sanctions Cuban regime in wake of protests"
+    excerpt: "The Biden administration is preparing to sanction individual members of the Cuban regime and a government special forces unit known as the Boinas Negras for human rights abuses, according to a source familiar with the plans.\n    \n"
+    publishedDateTime: 2021-07-23T20:12:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-gXQHaXKWQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726113600-tom-barrack-criminal-court-new-york-0726-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711210014-cuba-flag-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump faces another primary test in Ohio House race"
-    excerpt: "Donald Trump has a lot on the line in suburbs and small towns south of Columbus, Ohio.\n    \n"
-    publishedDateTime: 2021-07-30T11:08:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-AAvmDa9Bvc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/ohio-15-special-election-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/ohio-15-special-election-trump/index.html"
+  - title: "Biden administration terminates two border wall contracts in Texas"
+    excerpt: "US Customs and Border Protection is terminating two border wall contracts in the Laredo sector that cover approximately 31 miles, the Department of Homeland Security announced Friday.\n    \n"
+    publishedDateTime: 2021-07-23T18:40:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/djEsXAAwwyI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180407131305-laredo-texas-national-guard-troops-mexico-border-lavandera-pkg-00004805-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump ally Tom Barrack charged with acting as an agent of a foreign government"
-    excerpt: "Tom Barrack, a former adviser to former President Donald Trump, was charged Tuesday with illegal foreign lobbying on behalf of the United Arab Emirates for what federal prosecutors described as an effort to influence the foreign policy positions of both the 2016 Trump presidential campaign and the subsequent"
-    publishedDateTime: 2021-07-20T19:48:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2QZ0v4JIjeE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-barrack-arrested/index.html"
+  - title: "Biden's infrastructure deal on shaky ground as blame game begins"
+    excerpt: "The much-deliberated bipartisan infrastructure bill is entering a critical week on Capitol Hill with lawmakers projecting optimism ahead of a possible procedural vote this week, potentially on Monday.\n    \n"
+    publishedDateTime: 2021-07-26T15:39:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iTuAcQELSew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/infrastructure-congress-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/infrastructure-congress-week-ahead/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722083010-u-s-capitol-building-0704-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "California businessman indicted on lobbying charges has counted Trump among his 'closest friends'"
-    excerpt: "The illegal foreign lobbying charges brought against Tom Barrack on Tuesday punctuate a winding business and political career defined by his unique staying power in former President Donald Trump's constantly shifting orbit of advisers.\n    \n"
-    publishedDateTime: 2021-07-21T02:34:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WksEL34U5A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/who-is-tom-barrack-trump-ally/index.html"
+  - title: "See what Biden said about today's infrastructure vote "
+    excerpt: "During a CNN town hall, President Joe Biden said he is confident the Senate will vote to move forward with a bipartisan infrastructure deal.\n    \n"
+    publishedDateTime: 2021-07-26T14:33:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQlDpFYHysI/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210720205639-tom-barrack-2018-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721223132-biden-inflacion-pasajera-economia-eeuu-foro-cnn-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump called crowd gathered for his speech before Capitol riot 'loving' in March audio recording"
-    excerpt: "Former President Donald Trump in March called the crowd that had gathered for his speech before the deadly US Capitol insurrection \"loving\" in an exclusive audio recording obtained by CNN.\n    \n"
-    publishedDateTime: 2021-07-22T03:51:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JscgVGlIHek/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/trump-january-6-loving-crowd-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/trump-january-6-loving-crowd-cnntv/index.html"
+  - title: "Biden to address intelligence community for first time as President"
+    excerpt: "Six months into Joe Biden's presidency, the intelligence community still can't quite escape politics.\n    \n"
+    publishedDateTime: 2021-07-27T11:54:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oAo9cUeS9AE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/biden-intelligence-community/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/biden-intelligence-community/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump World is already weighing veeps for 2024. Hint: It ain’t Pence."
-    excerpt: "The former president is keeping tabs on the field and he’s all but decided to ditch the guy he ran with last time."
-    publishedDateTime: 2021-07-23T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/07/23/trump-vp-2024-500632"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
+  - title: "Biden administration issues new sanctions on Syria"
+    excerpt: "The US sanctioned Syrian prisons, Assad regime officials and militia leaders on Wednesday, marking the first time the Biden administration has introduced new sanctions on the country.\n    \n"
+    publishedDateTime: 2021-07-28T16:58:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNyIDKNxBgc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static.politico.com/a0/73/a6a1fd864ace8b88b2b2d5322ea9/7-22-21-donald-trump-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180713134200-syria-flag-daraa-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Jan. 6 select panel Dems cast a wide net for Trump"
-    excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
-    publishedDateTime: 2021-07-21T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/07/21/jan-6-panel-dems-national-security-500367"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/21/jan-6-panel-dems-national-security-500367"
+  - title: "Biden is closing in on victory despite Congressional inferno "
+    excerpt: "For the briefest moment, amid an inferno of fury, mistrust, stunts and ill-faith, Congress actually worked.\n    \n"
+    publishedDateTime: 2021-07-29T10:45:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FuyTW28jis/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static.politico.com/b6/db/e98a4d9d458ea68a85dce60360aa/7-20-21-jamieraskin-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180119151951-capitol-birds-0119-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Thomas Barrack, Trump Fund-raiser, Indicted on Lobbying Charge"
-    excerpt: "Mr. Barrack, who served as chairman of Donald Trump’s inaugural committee, was accused in the Eastern District of New York of failing to register as a lobbyist for the United Arab Emirates."
-    publishedDateTime: 2021-07-20T19:04:00Z
-    webUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/thomas-barrack-trump-fund-raiser-indicted-on-lobbying-charge.amp.html"
+  - title: "Fact-checking Biden's claim on mask mandates and vaccination rates"
+    excerpt: "While announcing measures to incentivize Covid-19 vaccinations on Thursday, President Joe Biden suggested people in states with high vaccination rates do not need to wear masks. The reality is slightly more complicated.\n    \n"
+    publishedDateTime: 2021-07-30T13:26:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lsCB09-RJUg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20dc-indict/20dc-indict-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729173205-delta-variant-questions-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Thomas Barrack, Trump Fund-Raiser, Is Indicted on Lobbying Charge"
-    excerpt: "Mr. Barrack, the chairman of Donald Trump’s inaugural committee, was accused of failing to register as a lobbyist for the United Arab Emirates, obstruction of justice and lying to investigators."
-    publishedDateTime: 2021-07-20T19:04:00Z
-    webUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-indicted.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/20/us/thomas-barrack-trump-indicted.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/20/us/thomas-barrack-trump-indicted.amp.html"
+  - title: "Biden administration announces resources to support people with long Covid"
+    excerpt: "The Biden administration on Monday released guidance and resources to support people experiencing long-term effects of Covid-19, known as \"long Covid,\" as the condition shapes up to be a major, long-term public health issue.\n    \n"
+    publishedDateTime: 2021-07-26T15:39:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcxohQl_uVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/biden-resources-long-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/biden-resources-long-covid/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 173
     images:
-      - url: "https://static01.nyt.com/images/2021/07/20/us/politics/20dc-indict/20dc-indict-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725204652-01-joe-biden-0725-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump inaugural committee chairman charged with acting as agent of UAE"
-    excerpt: "Tom Barrack was arrested and charged with attempting to influence the foreign policy positions of then-candidate Donald Trump to reflect positions of the United Arab Emirates. NBC's Pete Williams has details."
-    publishedDateTime: 2021-07-20T19:30:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-inaugural-committee-chairman-charged-with-acting-as-agent-of-uae-117083205603"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117083205603"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117083205603"
+  - title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
+    excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
+    publishedDateTime: 2021-06-01T20:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 172
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626808947307_nbc_spec_williams_barrack_210720_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117174214-arctic-national-wildlife-refuge-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden stays close to home as he plots blue-collar focused presidential travel"
+    excerpt: "Want to see President Joe Biden in person? Consider a move to Pennsylvania.\n    \n"
+    publishedDateTime: 2021-07-28T19:36:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150625-01-biden-pa-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration may challenge Texas governor's order targeting migrants"
+    excerpt: "The Biden administration is considering challenging Texas Gov. Greg Abbott's Wednesday executive order targeting migrants over concerns that his actions will cripple infrastructure in border communities, including potential legal action, a senior administration official told CNN.\n    \n"
+    publishedDateTime: 2021-07-29T18:53:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X-B_EsFgfoQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/texas-paxton-biden-migrants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/texas-paxton-biden-migrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729135225-02-gov-greg-abbott-0710-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden calls on Congress to extend eviction moratorium set to expire Saturday"
+    excerpt: "President Joe Biden on Thursday called on Congress to extend the eviction moratorium set to expire on Saturday that prohibits landlords nationwide from evicting certain tenants who fail to pay rent amid the Covid-19 pandemic.\n    \n"
+    publishedDateTime: 2021-07-29T16:29:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yAwNW-yCs2A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/biden-congress-eviction-moratorium/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-congress-eviction-moratorium/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729122738-01-biden-0715-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden will announce vaccination requirement across federal government on Thursday"
+    excerpt: "President Joe Biden said Tuesday that requiring Covid vaccinations for all federal employees is \"under consideration,\" a day after the Department of Veterans Affairs announced that health care workers at the agency must get their shots.\n    \n"
+    publishedDateTime: 2021-07-27T21:32:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9ia0uMzCLLs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/vaccine-mandate-for-federal-employees-under-consideration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/vaccine-mandate-for-federal-employees-under-consideration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725204652-01-joe-biden-0725-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's appointees are turning the Supreme Court to the right with different tactics"
+    excerpt: "The three appointees of former President Donald Trump have together sealed the Supreme Court's conservatism for a generation, but they have revealed strikingly different methods. They diverge in their regard for practical consequences, their desire to lay down markers for future disputes and their show"
+    publishedDateTime: 2021-07-26T09:02:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5H9MbaIqXqw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108201852-barrett-kavanaugh-gorsuch-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to resume fast-track deportation procedure for migrant families"
+    excerpt: "The Biden administration is planning to speed up deportations for some migrant families who cross the US-Mexico border, the Department of Homeland Security said Monday.\n    \n"
+    publishedDateTime: 2021-07-27T02:44:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KV_M6TmytNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden opens up new front in Covid-19 vaccination war as concerns over variant deepen "
+    excerpt: "President Joe Biden has launched a new, more aggressive campaign to vaccinate Americans against Covid-19, headlined by a new requirement that all employees of the federal government -- the country's largest workforce -- either get the shot or face the prospect of an onerous mitigation regimen.\n    \n"
+    publishedDateTime: 2021-07-30T04:45:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lCoG5vCSZWA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729165157-03-biden-announcement-0729-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden meets with key Democratic negotiator as White House presses to keep agenda on track"
+    excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
+    publishedDateTime: 2021-07-28T02:18:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to meet with key Democratic negotiator as White House presses to keep agenda on track"
+    excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
+    publishedDateTime: 2021-07-27T16:34:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden admin buys extra Pfizer doses to prepare for possibility of children vaccine needs and booster shots"
+    excerpt: "The Biden administration purchased an additional 200 million doses of Pfizer-BioNTech's Covid-19 vaccine to prepare for potential additional vaccine needs in the US, an administration official familiar with the contract tells CNN.\n    \n"
+    publishedDateTime: 2021-07-23T14:38:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DxUs2KWWs8U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/pfizer-vaccine-doses-children-vaccinations-and-boosters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/pfizer-vaccine-doses-children-vaccinations-and-boosters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625161640-01-pfizer-vaccine-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump officials can testify in Jan. 6 inquiries, Justice Dept. says."
     excerpt: "The decision runs counter to the views of the former president, who has argued that his decisions and deliberations are protected by executive privilege, and sets up a potential court battle."
@@ -223,117 +415,69 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Arizona vote review is being financed by Trump supporters."
-    excerpt: "Cyber Ninjas said that it had collected more than $5.7 million from five pro-Trump organizations for the widely disparaged review."
-    publishedDateTime: 2021-07-29T10:34:00Z
-    webUrl: "https://www.nytimes.com/2021/07/29/us/politics/arizona-audit-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/29/us/politics/arizona-audit-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/29/us/politics/arizona-audit-trump.amp.html"
+  - title: "Jan. 6 select-panel Dems confident they can corral ex-Trump aides"
+    excerpt: "But it won't be easy for them to shake off potential stonewalling, and their Capitol riot probe is still taking shape."
+    publishedDateTime: 2021-07-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/07/29/us/politics/29political-briefing-ARIZONA/merlin_187180647_6c583c8e-770a-4e41-a34a-1d1eaab19e83-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
+        width: 1161
+        height: 773
         isCached: true
-  - title: "Republican fund-raising this year has a singular focus: Trump."
-    excerpt: "Even in defeat, nothing sells in the Republican Party quite like Donald J. Trump. The Republican National Committee has been dangling a “Trump Life Membership” to entice small contributors to give online. The party’s Senate campaign arm has been ..."
-    publishedDateTime: 2021-07-28T18:22:00Z
-    webUrl: "https://www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/28/us/politics/republican-fund-raising-this-year-has-a-singular-focus-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/27/lens/28political-briefing-trumpmoney/merlin_190655607_21174e18-b8b0-4944-b14f-fe1667df1d0a-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
-    excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
-    publishedDateTime: 2021-07-26T18:14:00Z
-    webUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/26/us/politics/epa-pollution-power-plant.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/26/us/politics/26political-briefing-coal/26political-briefing-coal-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
-    excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
-    publishedDateTime: 2021-07-27T01:41:00Z
-    webUrl: "https://www.nbcnews.com/politics/elections/trump-endorses-ken-paxton-over-george-p-bush-texas-attorney-n1275099"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275099"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275099"
+  - title: "Trump's tax returns must be released to Congress, Justice Department says"
+    excerpt: "The opinion said the Office of Legal Counsel “went astray” in 2019 when it said the executive branch should closely scrutinize Congress’s stated justifications for the tax records."
+    publishedDateTime: 2021-07-30T17:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/trump-s-tax-returns-must-be-released-congress-justice-department-n1275533"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275533"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275533"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 132
+    quality: 134
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494268/210726-ken-paxton-donald-trump-2020-ac-912p.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3443317/210119-donald-trump-ew-638p.jpg"
         width: 2500
-        height: 1667
+        height: 1663
         isCached: true
-  - title: "Pelosi bars two Trump allies from the committee investigating the Jan. 6 riot."
-    excerpt: "Ms. Pelosi, who had never before rejected a Republican nominee to a committee, called her move to oust Representatives Jim Banks and Jim Jordan “unprecedented” but necessary."
-    publishedDateTime: 2021-07-21T13:31:00Z
-    webUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure"
-    ampWebUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/21/us/politics/21political-briefing-promo3/21political-briefing-promo3-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Thomas Barrack, Trump's inaugural committee chair, arrested on federal charges"
-    excerpt: "The charges are not connected to the former president's 2017 inaugural fund, according to law enforcement officials."
-    publishedDateTime: 2021-07-20T18:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/thomas-barrack-trump-s-inaugural-committee-chair-arrested-federal-charges-n1274533"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274533"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274533"
+  - title: "Biden to national Latino group: 'My administration will always have your back'"
+    excerpt: "President Joe Biden addressed the nation's Latinos during a conference by UnidosUS, the nation's largest Latino advocacy group."
+    publishedDateTime: 2021-07-26T19:53:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/biden-national-latino-group-administration-will-always-back-rcna1510"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1510"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1510"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 131
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3492687/210720-thomas-barrack-cs-230p.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210726-joe-biden-al-1111-f3ade0.jpg"
         width: 2500
-        height: 1667
+        height: 1406
         isCached: true
-  - title: "Trump inaugural chair Tom Barrack says he's '100 percent innocent' in lobbying case"
-    excerpt: "Prosecutors say Barrack used his longtime friendship with Trump to influence the Republican's policy while secretly lobbying for the United Arab Emirates."
-    publishedDateTime: 2021-07-26T18:55:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-inaugural-chair-tom-barrack-says-he-s-100-percent-n1275063"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275063"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275063"
+  - title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
+    excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."
+    publishedDateTime: 2021-07-25T09:51:00Z
+    webUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274950"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274950"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 129
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494173/210716-tom-barrack-se-216p.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3493898/210725-mustafa-al-kadhimi-ha.JPG"
+        width: 5472
+        height: 3648
         isCached: true
 
 secured: "iDFdIhT4OMhdSvN5M/ZzUONWuaoEGHagqd2uQlBzTwpPJa8mYbsisUx/RqObMInyGOBGxRWpHIabh9CBVp+QHZUZEEXcc/LvFvUZpACyfc2CwxQ6nr8SAtQQDDLWk9OGptRJfhwT76eoitAHEpt3ACmskzRvo9uFAcLtO3RAvhGratrnAhiJLk5kn6oowOoa8XopYdLbJQ1TvCRywSKjWoi2P/fXeIjFq2RNE3y0hNktj8Ns+V+AeeEFwjOBCtAEeYqduw5PQPuEfrsPtyUqc7Q4DGDikhzX3i+46CxcGvhrdTeL+se+oV2nm5ZEtcQ+sf1c2gR7wJ/hzp51VlsquXeFEaul44+9QRWlKsYZKo4=;RNgycrxQpoIeyrRkqmEYSA=="

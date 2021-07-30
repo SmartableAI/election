@@ -2,6 +2,282 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-31-inslee-newsom-ask-biden-for-more-resources-to-battle-wildfires-blowing-past-every-record.md",
+      "title": "Inslee, Newsom Ask Biden for More Resources to Battle Wildfires 'Blowing Past' Every Record",
+      "excerpt": "California Governor Gavin Newsom said last year, a record 130,000 acres were burned, but that record was shattered in 2021 with 504,000 acres currently burned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785",
+      "originalUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1858988/president-biden-speaks-governors-about-wildfires.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785?amp=1",
+      "publishedDateTime": "2021-07-30T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-justice-department-advises-biden-administration-to-hand-over-trump-tax-returns-to-congress.md",
+      "title": "Justice Department advises Biden administration to hand over Trump tax returns to Congress",
+      "excerpt": "The Justice Department told the Treasury Department that it \"must\" turn over former President Donald Trump's tax returns to the House Ways and Means Committee, which first requested them more than two years ago.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 740,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html",
+      "publishedDateTime": "2021-07-30T10:29:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-trump-to-doj-last-december-just-say-that-the-election-was-corrupt-leave-the-rest-to-me.md",
+      "title": "Trump to DOJ last December: 'Just say that the election was corrupt + leave the rest to me'",
+      "excerpt": "Former President Donald Trump pressured his incoming acting Attorney General Jeffrey Rosen to declare that the election was corrupt in an attempt to help Republican members of Congress try to overturn the election result, according to notes of a December 2020 call Trump held with Rosen and acting deputy",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yg3TvcyN7PM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yg3TvcyN7PM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210104150436-01-trump-1205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
+      "publishedDateTime": "2021-07-30T10:27:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-biden-says-western-wildfires-demand-urgent-action-in-meeting-with-governors.md",
+      "title": "Biden says Western wildfires demand 'urgent action' in meeting with governors ",
+      "excerpt": "President Joe Biden said Friday the wildfires intensifying in the West demand \"urgent action\" as he met with seven governors to discuss how states are responding to the wildfires and how the federal government can best assist.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_fkjRS_29g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_fkjRS_29g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210729155622-01-biden-0723-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governors/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governors/index.html",
+      "publishedDateTime": "2021-07-30T10:20:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-biden-to-accept-award-from-kosovo-on-behalf-of-his-son-beau.md",
+      "title": "Biden to accept award from Kosovo on behalf of his son Beau",
+      "excerpt": "President Joe Biden on Sunday will accept an award from the President of Kosovo on behalf of his son Beau Biden for his work helping to strengthen the war-torn country's justice system, according to a White House official.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iCiv3nbhU0M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iCiv3nbhU0M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210119173542-biden-dusa-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-kosovo-award-beau/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-kosovo-award-beau/index.html",
+      "publishedDateTime": "2021-07-30T09:30:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-hunter-biden-snaps-at-critics-of-art-dealings-f-em.md",
       "title": "Hunter Biden snaps at critics of art dealings: 'F--- em'",
       "excerpt": "Biden appeared on art podcast Nota Bene Thursday, where the president’s son was asked about his art dealings where the buyers are anonymous and the First Son is slated to attend his art shows where they may be.",
@@ -107,62 +383,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-fact-checking-bidens-claim-on-mask-mandates-and-vaccination-rates.md",
-      "title": "Fact-checking Biden's claim on mask mandates and vaccination rates",
-      "excerpt": "While announcing measures to incentivize Covid-19 vaccinations on Thursday, President Joe Biden suggested people in states with high vaccination rates do not need to wear masks. The reality is slightly more complicated.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lsCB09-RJUg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lsCB09-RJUg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210729173205-delta-variant-questions-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html",
-      "publishedDateTime": "2021-07-30T06:26:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -382,7 +602,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 226,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -1002,6 +1222,62 @@
       ]
     },
     {
+      "path": "_news/2021-07-29-biden-shifts-onus-for-pandemic-onto-the-unvaccinated-as-he-readies-federal-worker-vaccine-requirement.md",
+      "title": "Biden shifts onus for pandemic onto the unvaccinated as he readies federal worker vaccine requirement",
+      "excerpt": "President Joe Biden, who for months used techniques like public service announcements and grassroots campaigns to persuade Americans to get vaccinated, is adopting a tougher approach as caseloads surge: vaccine requirements and blame.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6ZlqZAWWO3A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6ZlqZAWWO3A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210727161530-02-biden-odni-0727-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html",
+      "publishedDateTime": "2021-07-29T04:17:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-trumps-inroads-with-florida-latinos-are-influencing-democratic-response-to-cuba.md",
       "title": "Trump's inroads with Florida Latinos are influencing Democratic response to Cuba",
       "excerpt": "Democrats in South Florida, beleaguered by a tough 2020 election in the state, have been privately and publicly urging their party leaders to embrace the protests against Cuba's communist regime that are roiling the island nation.\n    \n",
@@ -1055,284 +1331,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-where-in-the-world-is-kamala-harris-opinion.md",
-      "title": "Where in the World is Kamala Harris? | Opinion",
-      "excerpt": "Kamala Harris is not an effective politician. The Biden team is keeping her out of sight because she would do nothing useful to build support for the administration or its latest initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148",
-      "originalUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 585,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1857513/vice-president-kamala-harris.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1",
-      "publishedDateTime": "2021-07-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-biden-harris-unveil-strategies-to-address-root-causes-of-immigration.md",
-      "title": "Biden, Harris unveil strategies to address 'root causes' of immigration",
-      "excerpt": "The Biden administration on Thursday rolled out its strategies to address the root causes of immigration, a step officials call a “core component” of efforts to establish a “fair, orderly, and humane immigration system.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 520,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
-      "publishedDateTime": "2021-07-29T03:00:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-plan-to-honor-trump-with-banquet-becomes-flashpoint-at-one-of-americas-most-elite-golf-clubs.md",
-      "title": "Plan to honor Trump with banquet becomes flashpoint at one of America's most elite golf clubs",
-      "excerpt": "The former president has been a member of Winged Foot, one of the country's top golf clubs and host of the 2020 U.S. Open, for more than 50 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/plans-honor-trump-roil-elite-golf-club-n1275130",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/plans-honor-trump-roil-elite-golf-club-n1275130",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494391/210727-donald-trump-golf-course-jm-1049.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1275130",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275130",
-      "publishedDateTime": "2021-07-28T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-elizabeth-warren-backs-newsom-in-recall-fight-accuses-trump-republicans-of-coming-to-grab-power.md",
-      "title": "Elizabeth Warren backs Newsom in recall fight, accuses 'Trump Republicans' of 'coming to grab power'",
-      "excerpt": "California Gov. Gavin Newsom received the backing of Sen. Elizabeth Warren in a fiery ad released Wednesday by the top progressive who accused “Trump Republicans” of “coming to grab power in California.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsqLGxjB4s0/warren-backs-newsom-in-recall-fight",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsqLGxjB4s0/warren-backs-newsom-in-recall-fight",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/gettyimages-warren.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T15:10:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-biden-raises-eyebrows-with-claim-he-used-to-drive-18-wheeler-truck.md",
-      "title": "Biden raises eyebrows with claim he 'used to drive' 18-wheeler truck",
-      "excerpt": "Biden was visiting a Mack Truck facility when he made the claim to have driven the massive trucks before, which require a special kind of license to drive.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__GG7OmFfRY/biden-claims-driven-18-wheeler",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__GG7OmFfRY/biden-claims-driven-18-wheeler",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4892feea-b073-48a9-ac6c-9f133f490441/7dab1738-1e17-4551-ac6b-7269df7c35d3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-claims-driven-18-wheeler.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claims-driven-18-wheeler.amp",
-      "publishedDateTime": "2021-07-28T14:49:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

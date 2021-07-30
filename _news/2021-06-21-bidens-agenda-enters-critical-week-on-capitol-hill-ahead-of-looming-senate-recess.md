@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration asks for public's help to bring science back"
-    excerpt: "The White House is asking the public for help over the next 30 days on how to best restore scientific integrity to the federal government, as a part of its effort to bring science back to the forefront of policymaking and restoring faith in government -- no small task.\n    \n"
-    publishedDateTime: 2021-06-25T16:50:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/02NMN6t-CDE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/science-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/science-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "President Biden says Chauvin sentence 'seems to be appropriate' "
     excerpt: "President Joe Biden said on Friday that former Minneapolis police Officer Derek Chauvin's 22-year sentence for the murder of George Floyd \"seems to be appropriate\" after being informed of the decision by reporters.\n    \n"
     publishedDateTime: 2021-06-25T21:16:39Z
@@ -140,22 +124,6 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525144729-biden-afghanistan-0414-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration to close some emergency shelters for unaccompanied migrant children"
-    excerpt: "The Biden administration is preparing to close some emergency shelters for unaccompanied migrant children just weeks after considering expanding one of the sites.\n    \n"
-    publishedDateTime: 2021-06-28T23:55:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ZZH829PtaY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426134703-01-long-beach-convention-center-migrants-0422-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

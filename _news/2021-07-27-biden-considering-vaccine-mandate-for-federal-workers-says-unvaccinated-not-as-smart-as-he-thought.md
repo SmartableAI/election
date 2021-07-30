@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Critics slam Biden surgeon general suggestion vaccinated parents wear masks: 'alternate reality'"
+    excerpt: "U.S. Surgeon General Vivek Murthy suggested vaccinated parents should wear masks at home to better protect against the coronavirus."
+    publishedDateTime: 2021-07-30T16:16:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Ygqa4JjbSU/us-surgeon-general-vaccinated-parents-mask-home-reactions"
+    ampWebUrl: "https://www.foxnews.com/politics/us-surgeon-general-vaccinated-parents-mask-home-reactions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-surgeon-general-vaccinated-parents-mask-home-reactions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02dacb20-8ad6-4176-9b59-2a1aed1201f0/f43d9435-c16b-4e13-af3a-843adb6b44e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to urge Americans to 'stay vigilant' amid COVID threat as he pushes federal workers to get vaccinated"
     excerpt: "President Biden is expected to deliver a \"strong message\" to vaccinated and unvaccinated Americans Thursday afternoon about the \"need to stay vigilant\" as the nation deals with the spread of the COVID-19 delta variant, sources told Fox News."
     publishedDateTime: 2021-07-29T19:10:47Z

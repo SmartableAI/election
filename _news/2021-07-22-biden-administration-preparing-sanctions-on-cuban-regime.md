@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
 type: article
 quality: 175
-heat: 875
+heat: 595
 published: true
 
 provider:
@@ -47,38 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration sanctions Cuban regime in wake of protests"
-    excerpt: "The Biden administration is preparing to sanction individual members of the Cuban regime and a government special forces unit known as the Boinas Negras for human rights abuses, according to a source familiar with the plans.\n    \n"
-    publishedDateTime: 2021-07-23T20:12:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-gXQHaXKWQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711210014-cuba-flag-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration terminates two border wall contracts in Texas"
-    excerpt: "US Customs and Border Protection is terminating two border wall contracts in the Laredo sector that cover approximately 31 miles, the Department of Homeland Security announced Friday.\n    \n"
-    publishedDateTime: 2021-07-23T18:40:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/djEsXAAwwyI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180407131305-laredo-texas-national-guard-troops-mexico-border-lavandera-pkg-00004805-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden meets with Belarusian opposition leader at the White House"
     excerpt: "President Joe Biden met with Belarusian opposition leader Svetlana Tikhanovskaya Wednesday morning, as part of her larger campaign to ratchet up international pressure on the Lukashenko regime.\n    \n"
     publishedDateTime: 2021-07-28T18:41:10Z
@@ -92,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728140245-biden-tsikhanouskaya-0728-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden is closing in on victory despite Congressional inferno "
-    excerpt: "For the briefest moment, amid an inferno of fury, mistrust, stunts and ill-faith, Congress actually worked.\n    \n"
-    publishedDateTime: 2021-07-29T10:45:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FuyTW28jis/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180119151951-capitol-birds-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration announces resources to support people with long Covid"
-    excerpt: "The Biden administration on Monday released guidance and resources to support people experiencing long-term effects of Covid-19, known as \"long Covid,\" as the condition shapes up to be a major, long-term public health issue.\n    \n"
-    publishedDateTime: 2021-07-26T15:39:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcxohQl_uVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/biden-resources-long-covid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/biden-resources-long-covid/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725204652-01-joe-biden-0725-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to discuss new sanctions on Cuban regime with Cuban-American leaders"
     excerpt: "President Joe Biden will discuss applying new sanctions on the Cuban regime when he meets with Cuban-American leaders at the White House on Friday, according to a White House official. \n    \n"
     publishedDateTime: 2021-07-30T13:48:07Z
@@ -188,54 +124,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden stays close to home as he plots blue-collar focused presidential travel"
-    excerpt: "Want to see President Joe Biden in person? Consider a move to Pennsylvania.\n    \n"
-    publishedDateTime: 2021-07-28T19:36:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150625-01-biden-pa-0728-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration may challenge Texas governor's order targeting migrants"
-    excerpt: "The Biden administration is considering challenging Texas Gov. Greg Abbott's Wednesday executive order targeting migrants over concerns that his actions will cripple infrastructure in border communities, including potential legal action, a senior administration official told CNN.\n    \n"
-    publishedDateTime: 2021-07-29T18:53:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X-B_EsFgfoQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/texas-paxton-biden-migrants/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/texas-paxton-biden-migrants/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729135225-02-gov-greg-abbott-0710-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden calls on Congress to extend eviction moratorium set to expire Saturday"
-    excerpt: "President Joe Biden on Thursday called on Congress to extend the eviction moratorium set to expire on Saturday that prohibits landlords nationwide from evicting certain tenants who fail to pay rent amid the Covid-19 pandemic.\n    \n"
-    publishedDateTime: 2021-07-29T16:29:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yAwNW-yCs2A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/biden-congress-eviction-moratorium/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-congress-eviction-moratorium/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729122738-01-biden-0715-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -271,22 +159,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden will announce vaccination requirement across federal government on Thursday"
-    excerpt: "President Joe Biden said Tuesday that requiring Covid vaccinations for all federal employees is \"under consideration,\" a day after the Department of Veterans Affairs announced that health care workers at the agency must get their shots.\n    \n"
-    publishedDateTime: 2021-07-27T21:32:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9ia0uMzCLLs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/vaccine-mandate-for-federal-employees-under-consideration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/vaccine-mandate-for-federal-employees-under-consideration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725204652-01-joe-biden-0725-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden health officials begin discussing mask recommendations as variants surge cases"
     excerpt: "Top Biden health officials and some White House officials are holding preliminary conversations on revising mask recommendations for vaccinated Americans as the Delta variant spreads throughout the US, according to multiple sources familiar with discussions.\n    \n"
     publishedDateTime: 2021-07-22T04:24:51Z
@@ -300,38 +172,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721221442-mask-recommendations-biden-health-officials-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration to resume fast-track deportation procedure for migrant families"
-    excerpt: "The Biden administration is planning to speed up deportations for some migrant families who cross the US-Mexico border, the Department of Homeland Security said Monday.\n    \n"
-    publishedDateTime: 2021-07-27T02:44:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KV_M6TmytNo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden opens up new front in Covid-19 vaccination war as concerns over variant deepen "
-    excerpt: "President Joe Biden has launched a new, more aggressive campaign to vaccinate Americans against Covid-19, headlined by a new requirement that all employees of the federal government -- the country's largest workforce -- either get the shot or face the prospect of an onerous mitigation regimen.\n    \n"
-    publishedDateTime: 2021-07-30T04:45:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lCoG5vCSZWA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729165157-03-biden-announcement-0729-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -351,22 +191,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden meets with key Democratic negotiator as White House presses to keep agenda on track"
-    excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
-    publishedDateTime: 2021-07-28T02:18:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Masks and vaccine mandate show CDC and Biden taking emergency action amid Covid-19 surge"
     excerpt: "The steps President Joe Biden's administration is adopting this week to re-recommend masks and require vaccines for federal workers amount to emergency actions designed to contain a new surge of Covid-19 that has quickly become the top issue confronting the White House.\n    \n"
     publishedDateTime: 2021-07-28T00:40:14Z
@@ -380,22 +204,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727155709-01-biden-odni-0727-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to meet with key Democratic negotiator as White House presses to keep agenda on track"
-    excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
-    publishedDateTime: 2021-07-27T16:34:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -444,22 +252,6 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727091439-dixie-wildfire-lassen-national-forest-california-0726-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden admin buys extra Pfizer doses to prepare for possibility of children vaccine needs and booster shots"
-    excerpt: "The Biden administration purchased an additional 200 million doses of Pfizer-BioNTech's Covid-19 vaccine to prepare for potential additional vaccine needs in the US, an administration official familiar with the contract tells CNN.\n    \n"
-    publishedDateTime: 2021-07-23T14:38:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DxUs2KWWs8U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/pfizer-vaccine-doses-children-vaccinations-and-boosters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/pfizer-vaccine-doses-children-vaccinations-and-boosters/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625161640-01-pfizer-vaccine-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -543,37 +335,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden to national Latino group: 'My administration will always have your back'"
-    excerpt: "President Joe Biden addressed the nation's Latinos during a conference by UnidosUS, the nation's largest Latino advocacy group."
-    publishedDateTime: 2021-07-26T19:53:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/biden-national-latino-group-administration-will-always-back-rcna1510"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1510"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1510"
+  - title: "Biden is to meet with top Democrats on voting rights as senators ready a scaled-back proposal."
+    excerpt: "Activists are pressing for Democrats to try again to bring up an elections overhaul bill, anticipating that Republicans would block it and intensify pressure to eliminate the filibuster."
+    publishedDateTime: 2021-07-29T18:37:00Z
+    webUrl: "https://www.nytimes.com/2021/07/29/us/politics/biden-democrats-voting-rights.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/29/us/politics/biden-democrats-voting-rights.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/29/us/politics/biden-democrats-voting-rights.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210726-joe-biden-al-1111-f3ade0.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
-  - title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
-    excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."
-    publishedDateTime: 2021-07-25T09:51:00Z
-    webUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274950"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274950"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3493898/210725-mustafa-al-kadhimi-ha.JPG"
-        width: 5472
-        height: 3648
+      - url: "https://static01.nyt.com/images/2021/07/29/lens/29political-briefing-voting-rights1/29political-briefing-voting-rights1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "'We need our kids to breathe' — Biden sanctions Cuban regime. Is it enough? — Lawson backs Crist in governor's race"
     excerpt: "While Florida stopped its daily reports on Covid-19 weeks ago, data maintained by federal health authorities show there were 12,647 new coronavirus cases on just Wednesday of this week. Surge — That’s the highest daily count since late January and,"

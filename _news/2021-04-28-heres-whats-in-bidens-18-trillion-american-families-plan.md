@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
 type: article
 quality: 175
-heat: 815
+heat: 835
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468375/210427-joe-biden-ew-704p_ba8d8d620be5de40c9e9f614f0a462c9.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Ex-Trump aide Stephen Miller's legal group sues Biden administration, alleging racism against white farmers"
+    excerpt: "The staunch anti-immigration advocate cited MLK while charging a program to help socially disadvantaged farmers and ranchers discriminates against whites"
+    publishedDateTime: 2021-04-28T20:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/ex-trump-aide-stephen-miller-s-legal-group-sues-biden-n1265663"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265663"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265663"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3418080/201006-stephen-miller-ac-920p_a4adda3966398fb1cfcf84e464e7f581.jpg"
+        width: 2500
+        height: 1784
         isCached: true
   - title: "Republicans unveil $568 billion counterproposal to Biden's infrastructure plan"
     excerpt: "The White House is evaluating a $568 billion Republican counterproposal to President Joe Biden's sprawling $2.25 trillion infrastructure package, and sees it as a starting point for negotiations. White House aides plan to look into the details of the proposal and discuss it with congressional staff in the coming days,"

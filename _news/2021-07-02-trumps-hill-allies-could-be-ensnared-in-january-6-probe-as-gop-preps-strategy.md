@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Indictment against former Trump adviser Bannon is dismissed"
-    excerpt: "The onetime chief strategist, accused of defrauding donors in a $25 million fund to build a wall along the U.S. border, had been pardoned by the president."
-    publishedDateTime: 2021-05-26T04:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/indictment-against-former-trump-adviser-bannon-dismissed-n1268588"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268588"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268588"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_34/2288866/180110-steve-bannon-ac-727p_e8b0300a10c51c63a114531d87cb7ac8.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "hQkqoXNhvQB7X0AkUxbFHXy0WUI5DzlsSwvODXD3APQmWWNydY/LOvqM9linNPK+aEzsFKH/6HlCbk66FWAEoRomH/eY32anzmkbvTmfk2ZBY4LgMiO+sJD6l0SIZVk8inOE0N/A8/vrGa1jLUHZPbZYcvWuIrKVMlT0nyJt5f18rldfuztS16siTpfGWy0z/MR6NNPJwzwHOpaKP9+aRLhLgdPFgWEelGhIShhd6gvmSGpnQvD/6xgvS+08PH0zV0Z7Wknz7osA40q0s+BRQV1/0rR/AGSR8vR1cpdqdUAdqYyAX0Mi5FE9WbfyO+3MsaRaDYZflH06B3aAi1qUJMKELULfgFIiej71/L+UuUE=;naCchc19dEu5WBrAfowp0w=="
 ---

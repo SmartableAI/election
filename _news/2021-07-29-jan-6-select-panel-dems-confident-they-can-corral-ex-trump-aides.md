@@ -32,83 +32,259 @@ images:
     isCached: true
 
 related:
-  - title: "January 6 committee opening is crucial chance to correct Trump's lies"
-    excerpt: "The tasks before the Democratic-led House Select Committee examining the January 6 insurrection that opens on Tuesday, after bitter partisan feuding over its make-up, could hardly be more critical.\n    \n"
-    publishedDateTime: 2021-07-27T04:01:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7huMFv6nEg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html"
+  - title: "Justice Department advises Biden administration to hand over Trump tax returns to Congress"
+    excerpt: "The Justice Department told the Treasury Department that it \"must\" turn over former President Donald Trump's tax returns to the House Ways and Means Committee, which first requested them more than two years ago.\n    \n"
+    publishedDateTime: 2021-07-30T17:29:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House Democrats are still pursuing Trump's tax returns but Biden administration may not play ball"
+    excerpt: "After notching recent wins in their long hunt for material to help bring legal accountability to former President Donald Trump, congressional Democrats fear the Biden administration won't be helpful when it comes to obtaining the documents they covet the most: Trump's tax returns.\n    \n"
+    publishedDateTime: 2021-06-01T10:17:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4FhBzGHTso/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531094910-02-trump-taxes-house-democrats-biden-play-ball-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration sanctions Cuban regime in wake of protests"
+    excerpt: "The Biden administration is preparing to sanction individual members of the Cuban regime and a government special forces unit known as the Boinas Negras for human rights abuses, according to a source familiar with the plans.\n    \n"
+    publishedDateTime: 2021-07-23T20:12:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-gXQHaXKWQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702051004-02-capitol-riot-file-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711210014-cuba-flag-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "James Lankford's vote on January 6 sparks backlash in Trump country"
-    excerpt: "Sen. James Lankford stood on the Senate floor in the afternoon of January 6, explaining why he opposed certifying Joe Biden's presidential victory. He said that there was a \"constitutional crisis in our country\" not because many Republicans rejected the election's verdict, but because \"millions of Americans"
-    publishedDateTime: 2021-07-30T11:06:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gG5i0-RJtPo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/james-lankford-backlash-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/james-lankford-backlash-trump/index.html"
+  - title: "Biden administration terminates two border wall contracts in Texas"
+    excerpt: "US Customs and Border Protection is terminating two border wall contracts in the Laredo sector that cover approximately 31 miles, the Department of Homeland Security announced Friday.\n    \n"
+    publishedDateTime: 2021-07-23T18:40:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/djEsXAAwwyI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/border-wall-contracts/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729163233-02-james-lankford-0608-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180407131305-laredo-texas-national-guard-troops-mexico-border-lavandera-pkg-00004805-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Rising Covid-19 concerns could slow plans to scrap Trump-era border policy "
-    excerpt: "The Biden administration may delay winding down a Trump-era border policy tied to the pandemic due to increasing concerns about Covid-19 variants, according to a source familiar with the matter.\n    \n"
-    publishedDateTime: 2021-07-20T02:13:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dHu6wszfkv8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/19/politics/us-border-policy-coronavirus-variants/index.html"
+  - title: "Biden's infrastructure deal on shaky ground as blame game begins"
+    excerpt: "The much-deliberated bipartisan infrastructure bill is entering a critical week on Capitol Hill with lawmakers projecting optimism ahead of a possible procedural vote this week, potentially on Monday.\n    \n"
+    publishedDateTime: 2021-07-26T15:39:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iTuAcQELSew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/infrastructure-congress-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/infrastructure-congress-week-ahead/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722083010-u-s-capitol-building-0704-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "See what Biden said about today's infrastructure vote "
+    excerpt: "During a CNN town hall, President Joe Biden said he is confident the Senate will vote to move forward with a bipartisan infrastructure deal.\n    \n"
+    publishedDateTime: 2021-07-26T14:33:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQlDpFYHysI/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721223132-biden-inflacion-pasajera-economia-eeuu-foro-cnn-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to address intelligence community for first time as President"
+    excerpt: "Six months into Joe Biden's presidency, the intelligence community still can't quite escape politics.\n    \n"
+    publishedDateTime: 2021-07-27T11:54:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oAo9cUeS9AE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/biden-intelligence-community/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/biden-intelligence-community/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration issues new sanctions on Syria"
+    excerpt: "The US sanctioned Syrian prisons, Assad regime officials and militia leaders on Wednesday, marking the first time the Biden administration has introduced new sanctions on the country.\n    \n"
+    publishedDateTime: 2021-07-28T16:58:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNyIDKNxBgc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180713134200-syria-flag-daraa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden is closing in on victory despite Congressional inferno "
+    excerpt: "For the briefest moment, amid an inferno of fury, mistrust, stunts and ill-faith, Congress actually worked.\n    \n"
+    publishedDateTime: 2021-07-29T10:45:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FuyTW28jis/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/congress-trump-infrastructure-masks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180119151951-capitol-birds-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Biden's claim on mask mandates and vaccination rates"
+    excerpt: "While announcing measures to incentivize Covid-19 vaccinations on Thursday, President Joe Biden suggested people in states with high vaccination rates do not need to wear masks. The reality is slightly more complicated.\n    \n"
+    publishedDateTime: 2021-07-30T13:26:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lsCB09-RJUg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729173205-delta-variant-questions-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration announces resources to support people with long Covid"
+    excerpt: "The Biden administration on Monday released guidance and resources to support people experiencing long-term effects of Covid-19, known as \"long Covid,\" as the condition shapes up to be a major, long-term public health issue.\n    \n"
+    publishedDateTime: 2021-07-26T15:39:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcxohQl_uVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/biden-resources-long-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/biden-resources-long-covid/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725204652-01-joe-biden-0725-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and the GOP spin fantasies to hide his crimes against the Constitution"
-    excerpt: "It's gone beyond whitewashing history. Ex-President Donald Trump and his House Republican enablers are now spinning fantastical inversions to hide his crimes against the Constitution on January 6.\n    \n"
-    publishedDateTime: 2021-07-22T11:31:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bp-ashvxzmU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/donald-trump-joe-biden-insurrection-republicans-pelosi/index.html"
+  - title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
+    excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
+    publishedDateTime: 2021-06-01T20:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154544-02-mccarthy-presser-0721-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117174214-arctic-national-wildlife-refuge-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Subpoena fight looms over Trump as House committee plots extensive January 6 probe"
-    excerpt: "Investigators on the House's January 6 select committee, vowing a deep dive into the attack on the US Capitol, may soon be confronted with a grim reality: A battle over subpoena requests and the prospect they could end up in protracted legal fights.\n    \n"
-    publishedDateTime: 2021-07-28T23:47:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t09SBzKZmdk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/subpoena-trump-house-january-6-probe/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/subpoena-trump-house-january-6-probe/index.html"
+  - title: "Biden stays close to home as he plots blue-collar focused presidential travel"
+    excerpt: "Want to see President Joe Biden in person? Consider a move to Pennsylvania.\n    \n"
+    publishedDateTime: 2021-07-28T19:36:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150625-01-biden-pa-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration may challenge Texas governor's order targeting migrants"
+    excerpt: "The Biden administration is considering challenging Texas Gov. Greg Abbott's Wednesday executive order targeting migrants over concerns that his actions will cripple infrastructure in border communities, including potential legal action, a senior administration official told CNN.\n    \n"
+    publishedDateTime: 2021-07-29T18:53:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X-B_EsFgfoQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/texas-paxton-biden-migrants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/texas-paxton-biden-migrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729135225-02-gov-greg-abbott-0710-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden calls on Congress to extend eviction moratorium set to expire Saturday"
+    excerpt: "President Joe Biden on Thursday called on Congress to extend the eviction moratorium set to expire on Saturday that prohibits landlords nationwide from evicting certain tenants who fail to pay rent amid the Covid-19 pandemic.\n    \n"
+    publishedDateTime: 2021-07-29T16:29:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yAwNW-yCs2A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/biden-congress-eviction-moratorium/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-congress-eviction-moratorium/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729122738-01-biden-0715-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden will announce vaccination requirement across federal government on Thursday"
+    excerpt: "President Joe Biden said Tuesday that requiring Covid vaccinations for all federal employees is \"under consideration,\" a day after the Department of Veterans Affairs announced that health care workers at the agency must get their shots.\n    \n"
+    publishedDateTime: 2021-07-27T21:32:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9ia0uMzCLLs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/vaccine-mandate-for-federal-employees-under-consideration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/vaccine-mandate-for-federal-employees-under-consideration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210725204652-01-joe-biden-0725-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,69 +304,181 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Explosive select committee hearing does little to change the minds of Trump-loyal Republicans about January 6"
-    excerpt: "Some of Donald Trump's fiercest allies in Congress are continuing to downplay or ignore the January 6 insurrection, taking cues from the former President even after four police officers testified Tuesday, in front of the House select committee investigating the deadly Capitol attack, about their harrowing"
-    publishedDateTime: 2021-07-28T00:40:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t9uPAhRxN_g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/trump-republicans-hearing-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/trump-republicans-hearing-reaction/index.html"
+  - title: "Biden administration to resume fast-track deportation procedure for migrant families"
+    excerpt: "The Biden administration is planning to speed up deportations for some migrant families who cross the US-Mexico border, the Department of Homeland Security said Monday.\n    \n"
+    publishedDateTime: 2021-07-27T02:44:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KV_M6TmytNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/us-border-migrant-families-deportation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 156
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191209171631-23-impeachment-hearing-1209-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719210212-title-42-migrants-in-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "New evidence shows Trump appointees' political interference with CDC weekly Covid data reports, House subcommittee says"
-    excerpt: "A Democratic-led House select committee says it has uncovered evidence of political interference by the Trump administration into the federal government's coronavirus response last year, including attempts to alter or block data reports from the US Centers for Disease Control and Prevention detailing"
-    publishedDateTime: 2021-07-27T18:50:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OFBEq2s0cyU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/house-covid-committee-trump-administration-cdc-data-reports/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/house-covid-committee-trump-administration-cdc-data-reports/index.html"
+  - title: "Biden opens up new front in Covid-19 vaccination war as concerns over variant deepen "
+    excerpt: "President Joe Biden has launched a new, more aggressive campaign to vaccinate Americans against Covid-19, headlined by a new requirement that all employees of the federal government -- the country's largest workforce -- either get the shot or face the prospect of an onerous mitigation regimen.\n    \n"
+    publishedDateTime: 2021-07-30T04:45:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lCoG5vCSZWA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-delta-variant-covid-vaccines/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 151
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727112632-restricted-james-clyburn-06-22-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729165157-03-biden-announcement-0729-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "DOJ: Former Trump officials can testify about Jan. 6 Capitol attack"
-    excerpt: "The move greenlights potentially damning testimony from aides close to Trump, coming as the House select committee on the riot holds its first hearing."
-    publishedDateTime: 2021-07-27T15:33:00Z
-    webUrl: "https://www.politico.com/news/2021/07/27/doj-trump-officials-testify-jan-6-capitol-attack-500819"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/27/doj-trump-officials-testify-jan-6-capitol-attack-500819"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/27/doj-trump-officials-testify-jan-6-capitol-attack-500819"
+  - title: "Biden meets with key Democratic negotiator as White House presses to keep agenda on track"
+    excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
+    publishedDateTime: 2021-07-28T02:18:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 166
     images:
-      - url: "https://static.politico.com/52/72/483a89ee41049c9f2645b1d5f7fe/210727-captiol-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Pelosi Bars Trump Loyalists From Jan. 6 Inquiry, Prompting a G.O.P. Boycott"
-    excerpt: "Democrats said Representatives Jim Banks and Jim Jordan, who amplified Donald J. Trump’s lies of a stolen election and opposed investigating the assault, could not be trusted to scrutinize it."
-    publishedDateTime: 2021-07-22T00:15:00Z
-    webUrl: "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/us/politics/pelosi-republican-boycott-capitol-riot.amp.html"
+  - title: "Biden to meet with key Democratic negotiator as White House presses to keep agenda on track"
+    excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
+    publishedDateTime: 2021-07-27T16:34:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQUFH9Dbg9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/kyrsten-sinema-joe-biden-white-house-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden admin buys extra Pfizer doses to prepare for possibility of children vaccine needs and booster shots"
+    excerpt: "The Biden administration purchased an additional 200 million doses of Pfizer-BioNTech's Covid-19 vaccine to prepare for potential additional vaccine needs in the US, an administration official familiar with the contract tells CNN.\n    \n"
+    publishedDateTime: 2021-07-23T14:38:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DxUs2KWWs8U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/politics/pfizer-vaccine-doses-children-vaccinations-and-boosters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/pfizer-vaccine-doses-children-vaccinations-and-boosters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625161640-01-pfizer-vaccine-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump officials can testify on former President's actions leading up to insurrection, Justice Department decides "
+    excerpt: "The Justice Department formally declined to assert executive privilege for potential testimony of at least some witnesses related to the January 6 Capitol attack, a person briefed on the matter said.\n    \n"
+    publishedDateTime: 2021-07-27T12:30:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-tivQioKag/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/doj-executive-privilege-trump-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/doj-executive-privilege-trump-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611163618-01-january-6-insurrectionists-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump officials can testify in Jan. 6 inquiries, Justice Dept. says."
+    excerpt: "The decision runs counter to the views of the former president, who has argued that his decisions and deliberations are protected by executive privilege, and sets up a potential court battle."
+    publishedDateTime: 2021-07-27T12:49:00Z
+    webUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-officials-jan-6-testify.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/trump-officials-jan-6-testify.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/trump-officials-jan-6-testify.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 133
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/07/21/us/politics/21dc-riot-republicans1/21dc-riot-republicans1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/07/27/us/politics/27political-briefing-doj-testimony/27political-briefing-doj-testimony-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "U.S. Declines to Defend Trump Ally in Lawsuit Over Jan. 6 Riot"
+    excerpt: "The move could mean that the Justice Department is also unlikely to defend former President Donald J. Trump in the case."
+    publishedDateTime: 2021-07-28T01:24:00Z
+    webUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/27/us/politics/mo-brooks-justice-department-lawsuit.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/28/us/politics/27dc-justiceprint/27dc-justice2-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump's tax returns must be released to Congress, Justice Department says"
+    excerpt: "The opinion said the Office of Legal Counsel “went astray” in 2019 when it said the executive branch should closely scrutinize Congress’s stated justifications for the tax records."
+    publishedDateTime: 2021-07-30T17:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/trump-s-tax-returns-must-be-released-congress-justice-department-n1275533"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275533"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275533"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3443317/210119-donald-trump-ew-638p.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Biden to national Latino group: 'My administration will always have your back'"
+    excerpt: "President Joe Biden addressed the nation's Latinos during a conference by UnidosUS, the nation's largest Latino advocacy group."
+    publishedDateTime: 2021-07-26T19:53:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/biden-national-latino-group-administration-will-always-back-rcna1510"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1510"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1510"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210726-joe-biden-al-1111-f3ade0.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
+  - title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
+    excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."
+    publishedDateTime: 2021-07-25T09:51:00Z
+    webUrl: "https://www.nbcnews.com/news/world/iraq-doesn-t-need-u-s-combat-troops-prime-minister-n1274950"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1274950"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274950"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3493898/210725-mustafa-al-kadhimi-ha.JPG"
+        width: 5472
+        height: 3648
         isCached: true
 
 secured: "zyZF89VdfJE6jilZjzbm0VfswCoNsOUy9AmXMANT6jL03F6SbUBEEUHg/7Kt4m7VTZXlT9s42sJZ2JLlaLYg3gwn/OQ5Nikp/AscBPeuVH5kC6GuFkRNKY84pv2WLIXLOg5oRbA324KB6IVfsxJA/HTbje8dhlMINkiOXvFCSlGxQPHc0HJlgYPXAUniLaSkwUQUckoWOLemQdAo3Xecz4nIl0FMrRvpFvvyBFhNmJx8AbMSdJPqR6m29BpIPBDHXVJ5y3BlDU7++ouM2yeUDXvcVL9BDqao7AJ//tCBfAsq3l+faFI6GW/gt5LfaKkWDJR1UixaBee36z7blipHCE4hNwvYAjR+bOXIcg8Gb9g1Hu3VIlTBYm4bHftTQg8XJDEmFg/2a5f9hvJjU0Au3COpT8eLJDuDOTxYIPpsrRzbDAVeTyktMzSZCrZcFucBLio82QLDYQdHnLH6Mad1tDLOjauEktLU2bEzy0pSRVnWDyjAKDjTmn5ZhIuv0HYmYOa0bZkaI8mtspRO9W2inw==;goLdwxkXUEmw75FrT7Z4nQ=="

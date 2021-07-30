@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pelosi, Schumer to huddle with Biden on voting legislation"
+    excerpt: "Top congressional Democrats will huddle with President Joe Biden, looking to salvage their push to enact voting rights legislation"
+    publishedDateTime: 2021-07-30T17:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-schumer-huddle-biden-voting-legislation-79173353"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-schumer-huddle-biden-voting-legislation-79173353"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-schumer-huddle-biden-voting-legislation-79173353"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b3387dac51e94a14aa4e6973159f0c80_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Poll Shows Biden's Gun Violence Approval Rating Falling to 37% Amid Rise in Shootings"
     excerpt: "Attorney General Merrick Garland has pledged to address the surge in gun violence in Chicago, New York, Washington, Los Angeles and San Francisco."
     publishedDateTime: 2021-07-26T01:43:00Z

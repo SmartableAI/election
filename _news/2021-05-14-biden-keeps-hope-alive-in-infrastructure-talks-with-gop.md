@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden touts May jobs numbers as he pushes for infrastructure funding"
+    excerpt: "President Joe Biden on Friday touted the economic progress the US has made in its recovery from the coronavirus pandemic after the government reported 559,000 jobs were added in May.\n    \n"
+    publishedDateTime: 2021-06-04T15:32:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6hLGDPv0yk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601163222-03-biden-tulsa-speech-0601-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's high-wire act on infrastructure is at a critical moment"
     excerpt: "President Joe Biden has entered a critical moment where the decisions he makes will dictate the success of his sweeping $4 trillion legislative agenda -- and potentially his first term in office.\n    \n"
     publishedDateTime: 2021-06-04T12:32:31Z
@@ -141,38 +157,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601163222-03-biden-tulsa-speech-0601-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's infrastructure deal on shaky ground as blame game begins"
-    excerpt: "The much-deliberated bipartisan infrastructure bill is entering a critical week on Capitol Hill with lawmakers projecting optimism ahead of a possible procedural vote this week, potentially on Monday.\n    \n"
-    publishedDateTime: 2021-07-26T15:39:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iTuAcQELSew/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/infrastructure-congress-week-ahead/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/infrastructure-congress-week-ahead/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210722083010-u-s-capitol-building-0704-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "See what Biden said about today's infrastructure vote "
-    excerpt: "During a CNN town hall, President Joe Biden said he is confident the Senate will vote to move forward with a bipartisan infrastructure deal.\n    \n"
-    publishedDateTime: 2021-07-26T14:33:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQlDpFYHysI/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/26/biden-cnn-town-hall-infrastructure-deal-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721223132-biden-inflacion-pasajera-economia-eeuu-foro-cnn-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -671,6 +655,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/mpx/2704722219/2021_05/MB_FOREIGN_POLICY2.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden Ends Infrastructure Talks With Republicans, Falling Short of a Deal"
+    excerpt: "After weeks of failed efforts to bridge deep divides, the president pulled the plug, turning to a bipartisan group to try to salvage a chance at compromise."
+    publishedDateTime: 2021-06-09T00:29:00Z
+    webUrl: "https://www.nytimes.com/2021/06/08/us/politics/infrastructure-biden-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/08/us/politics/infrastructure-biden-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/us/politics/infrastructure-biden-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/08/us/politics/08dc-infrastructure-1/merlin_188730204_6b7163d2-ce72-4e62-9eca-0211c0d2875f-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden Courts Congressional Leaders on Infrastructure, but Divisions Remain"
     excerpt: "The meeting produced little progress, underscoring the political challenge for President Biden as he seeks to exploit the narrowest of majorities in Congress to revive the country’s economy."

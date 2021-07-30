@@ -85,6 +85,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Graham, Cuellar suggest new Biden border czar amid surge under Harris' watch: 'Something has to change'"
+    excerpt: "Sen. Lindsey Graham and Rep. Henry Cuellar on Friday called on President Biden to appoint former Homeland Security Secretary Jeh Johnson to run the administration's border response amid continued problems in Cuellar's border district and surging migrant numbers. "
+    publishedDateTime: 2021-07-30T16:36:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sT4i0h-ag-k/graham-cuellar-new-biden-border-czar-surge-harris-watch"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-cuellar-new-biden-border-czar-surge-harris-watch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-cuellar-new-biden-border-czar-surge-harris-watch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris emphasizes 'root causes' of border surge, says problem is 'complex'"
     excerpt: "Vice President Kamala Harris is emphasizing what she describes as the root causes of the migrant surge at the border, calling the issue \"complex\" as she continues to face criticism for her handling of the crisis."
     publishedDateTime: 2021-04-22T18:06:18Z

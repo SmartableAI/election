@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden spoke with prominent critic Larry Summers on economy after inflation warnings "
-    excerpt: "President Joe Biden called prominent Democratic economist Larry Summers to discuss the economy after he raised several warnings recently over his inflation concerns, a source familiar with the call confirms to CNN.\n    \n"
-    publishedDateTime: 2021-06-03T21:20:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rSJcaj42s5Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190829144518-larry-summers-file-2015-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "i0bZ7Mt78y6NRkqr75YzX1uAKjpyPmmfl1yF1GbfEP8UwSskFiLFimXi8k3yTJ+sbfLpTom/t6xUjaZh5BXsAQM3UBe4M5VH4sI2qbkUX/pUmD2nj8zn0Dep0+yf+mK9P4NPKZFJ+R8Qdj9r8wNPjQ+wdPror2KL08CEGBp3BcJjRqq8hwKhjvkbZogQJ5WKx1IGJP50CI0ccYO7kMae+euf3sgcMtcnOOX5oKrO1Cl6Gz1yFN0SbktLsRNOsTkFtIGoLmQjTEYo4z5Xmm0VkVv+2pI0+csIm6OT1YJkDTJmsbkIOoUg6ZukD4JiiMR0Nw8QVakSDjE7He+d8YTgxIZ8eBdwXzTyN/SPq3/3gOI=;jiLjOm93uy2yLpdHWwKgxw=="
 ---

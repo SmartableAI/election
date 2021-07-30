@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US ambassador to Russia warned senators that Biden administration risks repeating predecessors' mistakes in dealing with Putin"
+    excerpt: "The day before the White House announced that President Joe Biden and Russian President Vladimir Putin would hold their first in-person meeting in Geneva, Switzerland, the US ambassador to Russia privately told lawmakers he's worried about Washington giving concessions to Moscow without getting anything"
+    publishedDateTime: 2021-06-08T20:54:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mWPppVrFGe0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/biden-putin-summit-us-ambassador/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/biden-putin-summit-us-ambassador/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

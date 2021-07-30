@@ -31,117 +31,197 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook says Trump now suspended until at least January 2023"
-    excerpt: "Facebook announced Friday that former President Donald Trump would be suspended from its platform until at least January 7th, 2023 -- two years from when he was initially suspended.\n    \n"
-    publishedDateTime: 2021-06-04T17:45:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Q51gWweaho/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html"
+  - title: "Fact-checking Sidney Powell's claim Trump could be reinstated"
+    excerpt: "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit"
+    publishedDateTime: 2021-06-01T20:49:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604130847-01-trump-phone-june2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "New Senate report to detail security failures on January 6 but will fuel fight for probe over Trump's role"
-    excerpt: "Two Senate committees plan to release a flurry of recommendations in a thorough 100-page-plus report about what went wrong on January 6, but they will stop short of examining former President Donald Trump's role in the run-up to the attack on the US Capitol, which is likely to fuel the partisan debate"
-    publishedDateTime: 2021-06-03T13:24:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iT2k4vxDlaU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/senate-report-january-6-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/senate-report-january-6-donald-trump/index.html"
+  - title: "Stormy Daniels says she would 'love' to testify in Trump Organization probe"
+    excerpt: "Stormy Daniels said Monday that she has not yet testified in a New York criminal probe into the Trump Organization but that she would \"love nothing more than\" to be interviewed by prosecutors investigating former President Donald Trump's sprawling company.\n    \n"
+    publishedDateTime: 2021-06-07T20:02:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FwPYaFsZ-DE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/stormy-daniels-trump-organization-investigation-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/stormy-daniels-trump-organization-investigation-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180307113630-01-donald-trump-stormy-daniels-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Man arrested for allegedly impersonating Trump's family in fundraising scheme"
+    excerpt: "A man from central Pennsylvania was arrested Tuesday for allegedly impersonating former President Donald Trump's family members on social media to raise money for a fake political organization he used to defraud donors and pocket the money for himself, according to prosecutors.\n    \n"
+    publishedDateTime: 2021-06-08T20:52:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qvRZ4Vuximk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/joshua-hall-trump-family-fake-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/joshua-hall-trump-family-fake-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531094912-01-trump-taxes-house-democrats-biden-play-ball-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New York Times: Trump's chief of staff Mark Meadows pushed DOJ to investigate baseless election fraud claims"
+    excerpt: "Mark Meadow, former President Donald Trump's White House chief of staff, pushed the Department of Justice in his boss' last days in office to investigate unproven conspiracy theories and fraud claims about the 2020 presidential election, the New York Times reported Saturday.\n    \n"
+    publishedDateTime: 2021-06-05T18:49:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nboq0bFHcIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605132906-restricted-file-mark-meadows-october-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "DOJ argues it should substitute for Trump as defendant in E. Jean Carroll lawsuit"
+    excerpt: "The Justice Department argued in a brief filed Monday that it should be permitted to substitute itself for former President Donald Trump as defendant in a defamation lawsuit brought by a longtime magazine columnist, E. Jean Carroll, who accused him of rape, continuing the argument it had initiated under"
+    publishedDateTime: 2021-06-08T03:46:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/30BWRjQJ-5M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/e-jean-carroll-trump-lawsuit-justice-department/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/e-jean-carroll-trump-lawsuit-justice-department/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190716072234-e-jean-carroll-new-day-071619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump dwells on 2020 during North Carolina event aimed at helping Republicans in 2022"
+    excerpt: "Former President Donald Trump dashed the hopes of Republicans on Saturday who spent the weeks leading up to his public reemergence encouraging him to keep his focus on policy and Democratic shortcomings, rather than re-litigating his 2020 election loss once again.\n    \n"
+    publishedDateTime: 2021-06-06T03:15:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7PHzhtyJph4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/donald-trump-north-carolina-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/donald-trump-north-carolina-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605205313-01-donald-trump-north-carolina-gop-0605-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Deposition of Trump Org CFO looms in DC lawsuit accusing Trump 2017 inauguration committee of abusing funds"
+    excerpt: "Documents due in DC Superior Court on Friday could clear the way for the Trump Organization's chief financial officer to be deposed as part of a DC attorney general lawsuit that alleges former President Donald Trump's 2017 inaugural committee abused non-profit funds.\n    \n"
+    publishedDateTime: 2021-05-28T00:54:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AEjAQwIpVNg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-organization-allen-weisselberg-deposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-organization-allen-weisselberg-deposition/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210321231141-capitol-hill-riot-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824110948-allen-weisselberg-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Senate report reveals new details about security failures ahead of January 6 attack but omits Trump's role"
-    excerpt: "A new Senate report reveals previously unknown details about the stunning security breakdowns ahead of the January 6 US Capitol attack, adding an authoritative emphasis to previous evidence that there were massive intelligence failures, critical miscommunications, and unheeded warnings that ultimately"
-    publishedDateTime: 2021-06-08T11:12:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZF8wwb1P4Pk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/us-capitol-riot-senate-report/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/us-capitol-riot-senate-report/index.html"
+  - title: "Judge says Trump's 'steady drumbeat' of the Big Lie could continue to inspire his supporters to take up arms"
+    excerpt: "A federal judge on Wednesday wrote that Donald Trump's \"Big Lie\" that the 2020 election was stolen from him could still inspire some of the former President's supporters to take up arms, as they did in January during the deadly US Capitol insurrection.\n    \n"
+    publishedDateTime: 2021-05-27T00:32:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oLL7Q627pco/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/trump-supporters-big-lie-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/trump-supporters-big-lie-capitol-riot/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131171546-capitol-riots-fbi-tips-family-friends-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump faces a narrow path to victory against Facebook suspension"
-    excerpt: "If former President Donald Trump manages to get back on Facebook and Instagram this month, his win will rest on a series of close calls. Facebook’s oversight board is expected to rule in the coming weeks on whether to uphold or overturn Trump’s ..."
-    publishedDateTime: 2021-04-09T22:56:00Z
-    webUrl: "https://www.politico.com/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
+  - title: "Education Department rescinds Trump-era policy restricting state oversight of student loan servicing companies and debt collectors"
+    excerpt: "The Department of Education under the Biden administration is rescinding a Trump-era policy that restricted states' access to records and information in policing student loan servicing companies.\n    \n"
+    publishedDateTime: 2021-05-29T18:15:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FmG7E9-Xy6Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/29/politics/education-department-student-loans-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/29/politics/education-department-student-loans-policy/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 145
     images:
-      - url: "https://static.politico.com/c9/e9/f0ff0b934e189519ffd7493b3913/210409-trump-phone-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210529135050-us-department-of-education-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Facebook oversight board to rule on suspended Trump account on May 5"
-    excerpt: "After years of treating Trump’s inflammatory rhetoric with a light touch, Facebook and Instagram silenced his accounts on Jan. 7, saying at the time he’d be suspended “at le"
-    publishedDateTime: 2021-05-03T15:07:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/facebook-oversight-board-rule-suspended-trump-account-may-5-rcna817"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna817"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna817"
+  - title: "Arizona Republican who ordered election audit touted Trump phone call, Giuliani support in emails"
+    excerpt: "Karen Fann, the state Senate president, also told a constituent that \"Biden won,\" according to the messages obtained and released by a watchdog group."
+    publishedDateTime: 2021-06-05T01:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269718"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269718"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 137
     images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1235/210503-donald-trump-al-1047-c2648d_f77920af1b4dd0f14ea5d04f2a53a071db3c70db.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480512/210604-arizona-maricopa-audit-ac-702p.jpg"
         width: 2500
-        height: 1802
+        height: 1667
         isCached: true
-  - title: "The Facebook Ban Hurt Trump in Surprising Ways"
-    excerpt: "MAGA world still loves him, but it doesn’t hear him with the same force it used to. How long before that begins to erode his support?"
-    publishedDateTime: 2021-05-05T08:34:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/05/05/trump-social-media-supporters-485381"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/54/a4/873e2b024444941520a326b37fba/mag-gettyimages-1229555360.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Facebook extends Trump suspension for two years"
-    excerpt: "Facebook announced a two-year ban of former President Donald Trump from its platforms, including Instagram, until at least January 2023."
-    publishedDateTime: 2021-06-04T21:02:00Z
-    webUrl: "https://www.nbcnews.com/now/video/facebook-extends-trump-suspension-for-two-years-114347077726"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114347077726"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114347077726"
+  - title: "Indictment against former Trump adviser Bannon is dismissed"
+    excerpt: "The onetime chief strategist, accused of defrauding donors in a $25 million fund to build a wall along the U.S. border, had been pardoned by the president."
+    publishedDateTime: 2021-05-26T04:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/indictment-against-former-trump-adviser-bannon-dismissed-n1268588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268588"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1622840486631_ott_now_fb_trump_210604_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_34/2288866/180110-steve-bannon-ac-727p_e8b0300a10c51c63a114531d87cb7ac8.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "George P. Bush is running for attorney general in Texas — by courting Trump."
+    excerpt: "The younger Mr. Bush is taking on Ken Paxton, who filed an unsuccessful lawsuit contesting election results in four states that the former president lost in 2020."
+    publishedDateTime: 2021-06-03T16:52:00Z
+    webUrl: "https://www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/03/us/03new-washington-briefing-Bush/03new-washington-briefing-Bush-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "nfa7m004oS6+BOMp30Acp9+JHp3IFH0WQu+9hOgHALhNJ7KtP7WiEZmny6t6LcJBJ7wGEC/dF/cY+cjGWnSvR10SUDtqfxW7bjB0EkXu2u1U3C1hpf/2YYX04e3+SKCAaEOdL17UeW5CUG3jE2Zdq3j4Iy668BmW5rmwTjzKj/pybmcv/wFG8wZG0pXkvMjXpWC6CxCWpTx/q2K5dK5wUyiJPmw6tYeE1jJM1bEmarBaIwHmiDi9ihWq1++XXicuinvqTBEPvAkA/EFZkDS3IOQ8ttDxnRZlSJlATBVoSuCaHhxMHQxUFzV1ts7rpbWCXTaDzaSkhiSVyiSjeSQ33X7QIOV9g47/xHKJkd3IGTM=;7Gbjio++2uSRZAIuiZ5Djg=="

@@ -93,6 +93,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden calls for big budget bill to include immigration"
+    excerpt: "U.S. President Joe Biden, who has called for providing a pathway to citizenship for so-called Dreamer immigrants, said on Thursday that a big budget bill being written by Democrats in Congress should tackle immigration."
+    publishedDateTime: 2021-07-30T14:03:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-usa-immigration-biden-idUSKBN2F029G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F029G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F029G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570487074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T18P"
+        width: 795
+        height: 545
+        isCached: true
   - title: "President Biden says Congress should extend eviction ban"
     excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins \"CBSN AM\" to discuss the latest."
     publishedDateTime: 2021-07-30T13:15:00Z
@@ -108,6 +124,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden sees shortages to stop climate-change fueled wildfires"
+    excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
+    publishedDateTime: 2021-07-30T17:17:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-sees-shortages-stop-climate-change-fueled-wildfires-79173071"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_465625e120d0458897abb77d26154ae0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Lawmakers urge Biden to call for prisoners release"
     excerpt: "A group of bipartisan lawmakers called for the release of Americans Trevor Reed and Paul Whelan from Russian prisons Thursday and pressed President Joe Biden to \"turn up the heat on Russia\" to bring home the two American detainees."

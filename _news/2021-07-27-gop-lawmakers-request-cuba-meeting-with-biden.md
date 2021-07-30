@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/564956-gop-lawmakers-req
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_b7df9d1994284d20b65f7cf7392b1e5b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pelosi, Schumer to huddle with Biden on voting legislation"
+    excerpt: "Top congressional Democrats will huddle with President Joe Biden, looking to salvage their push to enact voting rights legislation"
+    publishedDateTime: 2021-07-30T17:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-schumer-huddle-biden-voting-legislation-79173353"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-schumer-huddle-biden-voting-legislation-79173353"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-schumer-huddle-biden-voting-legislation-79173353"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b3387dac51e94a14aa4e6973159f0c80_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

@@ -208,6 +208,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How Biden's Justice Department is trying to root out racist policing"
+    excerpt: "You see a huge leap in progress. It can only be attributable to what happened over the course of the summer of 2020.”"
+    publishedDateTime: 2021-05-25T09:00:00Z
+    webUrl: "https://www.politico.com/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ef/e9/a98e76eb434880dfba0f6202f565/blm-doj.png"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden signed a new hate crimes law — but there's a big flaw"
     excerpt: "Despite current incentives, many big police departments don’t report whether a crime was motivated by bias to federal authorities. And state governments often disagree on what a hate crime even is. In 2020 — the most recent year data was available — nearly a quarter of big cities didn’t report a single hate crime,"
     publishedDateTime: 2021-05-20T19:43:00Z

@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden Isn’t Cracking Down on Fossil Fuels"
+    excerpt: "Because of global warming, brought on by burning the very sort of fossil fuels that ConocoPhillips is extracting. With Joe Biden’s election in November, environmental advocates had hoped that such drilling on U."
+    publishedDateTime: 2021-05-28T22:10:00Z
+    webUrl: "https://www.nytimes.com/2021/05/28/us/politics/biden-climate-change-fossil-fuels.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/28/us/politics/biden-climate-change-fossil-fuels.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/us/politics/biden-climate-change-fossil-fuels.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/28/us/politics/28onpolitics/28DC-NEWSLETTER-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Welcome to Biden budget day: Where's the growth?"
     excerpt: "President Biden will roll out his first budget proposal today, reportedly a $6 trillion beast that will see spending and deficits soar to records not seen since World II. Eventually, deficits start to come under control under Biden’s proposal but the debt still well exceeds the size of the economy before that."
     publishedDateTime: 2021-05-28T12:00:00Z
@@ -220,6 +236,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Biden administration sides with Florida on Canadian drug imports"
+    excerpt: "The Biden administration’s motion essentially sides with Florida and New Mexico, the only other state that has formally started the process of applying for Canadian imports. The motion asks a federal court in Washington to toss a lawsuit from the Pharmaceutical Research & Manufacturers of America,"
+    publishedDateTime: 2021-05-28T23:14:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/05/28/biden-administration-sides-with-florida-on-canadian-drug-imports-1384579"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b3/bb/e336aa5047849a904a3c2846f770/200305-drugs-antibiotics-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "xjDQHZZSlhfrt/evGhTgdPQbhuNV/QpGIGLrzJWWdg04FessBLeYsBhnRoTX5/PWpgGRw6u683joV/7rn6UwBL52L314mPk1w8WIfLClLL6VtV7jFDYN8o50U30RxXrgj69joSkuBQIxJ9QWpdgndNJ1DtWTjHvEueV3aVgMi/s2O+PH7jvuRwfRskVc2kXrm/GO4lVvk6hxNPA+L7eLLPYfRXiJFDYYSk4qpd7JEsjNEkbwMrVu9RvPEdRS+Eipi13Ho4jNcoL7QtKXBxePmNvs7R8gZAx0vxI4iaUWkBzH6KYO6/gc26t0k98cRwTausEO2Mm8dkhAlK7p41CbQvcrH6mc578bv36T/1aQAUk=;ysvRh3pX41WaPr8SODfmdw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?a
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1858280/us-vice-president-kamala-harris.jpg"
         width: 2882
         height: 1989
+        isCached: true
+  - title: "U.S. Vice President Harris to visit Vietnam, Singapore"
+    excerpt: "Kamala Harris will become the first U.S. vice president to visit Vietnam next month during a trip that will also include Singapore and is aimed at rallying an international coalition to curb China's growing influence."
+    publishedDateTime: 2021-07-30T17:42:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/us-vp-harris-visit-vietnam-singapore-white-house-2021-07-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/eQyBrmUjFluk6uxjvOCM_oQCPW0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AOYOQ2LCZJFNFLFQOMZS7PIAM.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "READOUT: Vice President Kamala Harris Joins SBA Administrator Isabella Casillas Guzman for a ..."
     excerpt: "On July 29, 2021, Vice President Kamala Harris and SBA Administrator Isabella Casillas Guzman met with small business owners and advocates to discuss critical Biden-Harris economic aid to help small businesses in rural,"

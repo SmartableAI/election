@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump dwells on 2020 during North Carolina event aimed at helping Republicans in 2022"
-    excerpt: "Former President Donald Trump dashed the hopes of Republicans on Saturday who spent the weeks leading up to his public reemergence encouraging him to keep his focus on policy and Democratic shortcomings, rather than re-litigating his 2020 election loss once again.\n    \n"
-    publishedDateTime: 2021-06-06T03:15:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7PHzhtyJph4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/donald-trump-north-carolina-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/donald-trump-north-carolina-speech/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605205313-01-donald-trump-north-carolina-gop-0605-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "2s7d0wQPwXAZpr+3mfYT345zml32w2CwZNAB3ZdPPjMKix3fMOIFKOasnUz9wEH9l9a9Po6pARYwISEa8S8BT405Fzs9MZ7j7u1Af++agE1bYgxf1VQLK0QOZxj3vR8W1PLlIzNaCLWFt8HYs1RLmo2W+yrOdrZZPkWM8wt4p7VlbpVw9jt5hn7dV9dJ+Ze3u/muNSUZCgOHN1iCY4VF2Ewv3v9RRu48xCM+SteiRsN8ZeZyaM9qgYrby8ay9VD5VXIUwR0TCyJgAqXMOdAQeVfug/muTWpB5vtru8DZfyXpvTY3uEE7v5BbTRTqn9r9r1N/exKu9UwFv4P9rjFEjCXiq+VWXVH7Hvz7B9mhKP8=;t9Kzz9lz/ZeSJ/L4TSGJbQ=="
 ---

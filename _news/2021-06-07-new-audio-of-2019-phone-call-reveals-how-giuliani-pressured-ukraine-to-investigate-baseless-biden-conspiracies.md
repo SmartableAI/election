@@ -79,19 +79,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to meet with UK Prime Minister, Turkish President and other world leaders during first foreign trip"
-    excerpt: "President Joe Biden will meet with United Kingdom Prime Minister Boris Johnson, Turkish President Recep Tayyip Erdogan and other world leaders during his first international trip as President next week, the White House announced Thursday.\n    \n"
-    publishedDateTime: 2021-06-03T15:16:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tEJfZZ8ul8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
+  - title: "White House rejects GOP infrastructure counteroffer, saying it does not meet Biden's objectives"
+    excerpt: "President Joe Biden on Friday rejected a new counteroffer made by Republicans on infrastructure despite a $50 billion increase in spending, telling the GOP's key negotiator that the new offer did not meet his policy goals.\n    \n"
+    publishedDateTime: 2021-06-04T23:42:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HLDfET3ZEBo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/biden-capito-defazio-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/biden-capito-defazio-infrastructure/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602180257-02-biden-vaccine-remoarks-0602-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604104621-01-biden-remarks-on-economy-0604-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

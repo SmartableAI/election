@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Schumer and Pelosi plan to meet with Biden on Friday to discuss voting rights legislation"
+    excerpt: "Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi are planning to meet with President Joe Biden on Friday to discuss a path forward on voting rights legislation, a person familiar with the plans told CNN.\n    \n"
+    publishedDateTime: 2021-07-30T03:20:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SoGx-pXhK7Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155550-06-white-house-covid-relief-event-0312-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
     excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
     publishedDateTime: 2021-07-27T22:14:22Z

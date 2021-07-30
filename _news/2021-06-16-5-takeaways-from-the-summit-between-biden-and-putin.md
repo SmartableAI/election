@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In summer, the stakes are rising for Biden"
+    excerpt: "Can President Joe Biden avoid the \"summer slump\"?\n    \n"
+    publishedDateTime: 2021-06-01T10:14:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bpyM5iYCn6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/president-joe-biden-agenda-summer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/president-joe-biden-agenda-summer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "See Biden and Putin shake hands as summit begins in Geneva"
     excerpt: "President Joe Biden convenes the highest-stakes talks of his long career when he joins Russia's Vladimir Putin for a summit, an encounter set to test his decades of experience on the world stage and lay down an early marker of his diplomatic skills.\n    \n"
     publishedDateTime: 2021-06-16T11:49:21Z

@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
-    excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
-    publishedDateTime: 2021-06-21T17:40:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden bans certain solar panel materials from Chinese company over forced labor "
     excerpt: "The Biden administration on Thursday announced it was blocking the import of certain materials that are used in solar panels from a company in Xinjiang, China, over allegations of forced labor.\n    \n"
     publishedDateTime: 2021-06-24T14:28:48Z

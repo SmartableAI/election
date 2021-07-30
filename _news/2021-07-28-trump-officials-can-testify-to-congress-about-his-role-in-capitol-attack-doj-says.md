@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/27/trump-officials-test
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
 type: article
 quality: 119
-heat: 259
+heat: 319
 published: true
 
 provider:
@@ -105,6 +105,38 @@ related:
         width: 1440
         height: 1859
         isCached: true
+  - title: "Justice Dept. says IRS must give Trump tax returns to Congress"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T17:50:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/VhQx2UqxW-UAnFNI9gPPPnBNLgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZD2KL25SNEXYSKVW22435JKHQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Justice Dept says IRS must provide Trump's tax returns to Congress"
+    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying"
+    publishedDateTime: 2021-07-30T17:45:00Z
+    webUrl: "https://gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.html"
+    ampWebUrl: "https://gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/4/98/49812c62-f15e-11eb-a8c1-ff34e8e4f8cf/61043b67c05ee.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
     excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
     publishedDateTime: 2021-07-23T23:38:00Z
@@ -120,6 +152,20 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zp8RnDoX54ji-1jEmPaqcmBJbng=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HQIGQ74FORGH5ASQDJPO5ZM3WY.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Justice Department Says IRS Must Give Trump Tax Returns To Congress"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T17:51:00Z
+    webUrl: "https://www.newson6.com/story/61043c333c941b0bf48e9438/justice-department-says-irs-must-give-former-president-trumps-tax-returns-to-congress"
+    type: article
+    provider:
+      name: News on 6
+      domain: newson6.com
+    quality: 55
+    images:
+      - url: "https://hot-town-images.s3.us-east-1.amazonaws.com/kotv/production/2020/March/17/face-masks-recommended-though-trump-says-he-wont-wear-one.1584442094000-0.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Beshear Uses Ex-Trump Official's Words in Urging COVID Shots"
     excerpt: "Kentucky’s Democratic governor is highlighting a warning from a Trump administration health official in urging people to get the COVID-19 vaccine."

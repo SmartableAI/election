@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's appointees are turning the Supreme Court to the right with different tactics"
-    excerpt: "The three appointees of former President Donald Trump have together sealed the Supreme Court's conservatism for a generation, but they have revealed strikingly different methods. They diverge in their regard for practical consequences, their desire to lay down markers for future disputes and their show"
-    publishedDateTime: 2021-07-26T09:02:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5H9MbaIqXqw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/trump-kavanaugh-gorsuch-barrett-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108201852-barrett-kavanaugh-gorsuch-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "New evidence shows Trump appointees' political interference with CDC weekly Covid data reports, House subcommittee says"
     excerpt: "A Democratic-led House select committee says it has uncovered evidence of political interference by the Trump administration into the federal government's coronavirus response last year, including attempts to alter or block data reports from the US Centers for Disease Control and Prevention detailing"
     publishedDateTime: 2021-07-27T18:50:26Z
@@ -157,22 +141,6 @@ related:
     images:
       - url: "https://static.politico.com/52/72/483a89ee41049c9f2645b1d5f7fe/210727-captiol-getty-773.jpg"
         width: 1160
-        height: 773
-        isCached: true
-  - title: "Jan. 6 select-panel Dems confident they can corral ex-Trump aides"
-    excerpt: "But it won't be easy for them to shake off potential stonewalling, and their Capitol riot probe is still taking shape."
-    publishedDateTime: 2021-07-29T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
-        width: 1161
         height: 773
         isCached: true
   - title: "Pelosi Bars Trump Loyalists From Jan. 6 Inquiry, Prompting a G.O.P. Boycott"

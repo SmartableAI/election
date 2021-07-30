@@ -478,6 +478,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Ex-Trump aide Stephen Miller's legal group sues Biden administration, alleging racism against white farmers"
+    excerpt: "The staunch anti-immigration advocate cited MLK while charging a program to help socially disadvantaged farmers and ranchers discriminates against whites"
+    publishedDateTime: 2021-04-28T20:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/ex-trump-aide-stephen-miller-s-legal-group-sues-biden-n1265663"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265663"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265663"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3418080/201006-stephen-miller-ac-920p_a4adda3966398fb1cfcf84e464e7f581.jpg"
+        width: 2500
+        height: 1784
+        isCached: true
   - title: "President Biden: ‘American leadership means ending the forever war in Afghanistan’"
     excerpt: "President Joe Biden said after “20-years of valor and sacrifice” its time to bring the troops in Afghanistan home."
     publishedDateTime: 2021-04-29T02:08:00Z

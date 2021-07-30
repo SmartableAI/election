@@ -96,6 +96,22 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
+    excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
+    publishedDateTime: 2021-06-03T00:22:00Z
+    webUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/02/us/politics/02dc-times-1/merlin_131699588_8a898e52-fc40-459a-8813-84c0b2ec118c-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "3MKcNiG3XBqePamU+VqptjAA/+ruA7orvxmZlns7qYomxxfn1o9Y5fmMvaqxA+uSSfqT9ejcPegT5QiN1bnb76yJhKudBfD+moZdDcApI0xneJsDNbFTJMiWJUzagas9IK5eFPZGjXLXskTQHPnaA1wFYmHzZ9XdLo1G74SNElibju9ZP3RRhzhhnpF8skesHHG5gvtPlLE8IuIM0GJj+vUScsdkFG5wzLarMxxj7TZxV5n1JBmysBadcbKgYj06Phh3MoMdZeWiu7wLwooIeG17vugFsP4O3pmQBtB36RE4HD6Dt03m3XgeWSVroMUY38ka5ooEZ1++GkOEtGJuhcKItj0N3CJY0Iqd4KZAxh6l1+IYf++ETdpPZbibpL7MAX0AhqMcnQmZ3yw7jT0Uz8TS4b5xcGCBYH/nfmQBokNK9Hn41n1JeCQg/CdsvILzwAnI5c1whWS25XES3XAU8gJXT9mbgaY3l8HnS0H63WJS9HTdZmkHd25ylyqrGnmpXb4WVQNXcTQgEcjX8fyzTw==;Yi28KhXiQ8lD0Qh7gvR1gg=="
 ---

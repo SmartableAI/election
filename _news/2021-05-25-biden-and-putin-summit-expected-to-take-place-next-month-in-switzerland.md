@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-genev
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-geneva/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "In summer, the stakes are rising for Biden"
+    excerpt: "Can President Joe Biden avoid the \"summer slump\"?\n    \n"
+    publishedDateTime: 2021-06-01T10:14:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bpyM5iYCn6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/president-joe-biden-agenda-summer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/president-joe-biden-agenda-summer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "5 takeaways from the summit between Biden and Putin"
     excerpt: "President Joe Biden's meeting Wednesday with his Russian counterpart came after months of diplomatic wrangling over the details, days of preparation with reams of research and the elaborate construction of two separate lakeside venues for the leaders to appear afterward.\n    \n"
     publishedDateTime: 2021-06-16T19:51:46Z
