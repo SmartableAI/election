@@ -1227,6 +1227,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-28-cskt-chairwoman-meets-with-vp-kamala-harris-and-secretary-deb-haaland-to-discuss-voting-rights.md",
+      "title": "CSKT Chairwoman meets with VP Kamala Harris and Secretary Deb Haaland to discuss voting rights",
+      "excerpt": "The tribal leaders alleged that laws in Montana, South Dakota, North Dakota and Arizona are disenfranchising Native Americans, and they called on Congress to enact a Native American Voting Rights Act.",
+      "sourceUrl": null,
+      "webUrl": "https://www.greatfallstribune.com/story/news/tribal-news/confederated-salish-and-kootenai-tribes/2021/07/28/cskt-chairwoman-meets-vp-harris-secretary-haaland-voting/5392574001/",
+      "originalUrl": "https://www.greatfallstribune.com/story/news/tribal-news/confederated-salish-and-kootenai-tribes/2021/07/28/cskt-chairwoman-meets-vp-harris-secretary-haaland-voting/5392574001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/22/PGRF/3cbda6f9-e6d8-4324-9d59-d5d3fb4e5c9f-AP20349600796080.jpg?auto=webp&crop=639,360,x0,y59&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.greatfallstribune.com/amp/5392574001",
+      "cdnAmpWebUrl": "https://amp-greatfallstribune-com.cdn.ampproject.org/c/s/amp.greatfallstribune.com/amp/5392574001",
+      "publishedDateTime": "2021-07-28T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Great Falls Tribune",
+        "domain": "greatfallstribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-brandi-love-wants-ron-desantis-to-run-in-2024-if-donald-trump-doesnt.md",
       "title": "Brandi Love Wants Ron DeSantis To Run in 2024 if Donald Trump Doesn't",
       "excerpt": "\"Even I can admit that Donald Trump has an obnoxious arrogance about him that rubs some people the wrong way,\" the adult film actress told Newsweek.",
@@ -1276,54 +1319,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-new-york-times-reporter-deletes-tweet-calling-trump-supporters-enemies-of-the-state.md",
-      "title": "New York Times reporter deletes tweet calling Trump supporters ‘enemies of the state’",
-      "excerpt": "A New York Times reporter deleted a tweet that called supporters of former President Trump “enemies of the state,” following a viral blowback online.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/",
-      "originalUrl": "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/katie-benner-index-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/",
-      "publishedDateTime": "2021-07-27T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

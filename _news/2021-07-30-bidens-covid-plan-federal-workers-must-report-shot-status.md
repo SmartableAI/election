@@ -151,6 +151,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden orders tough new fed. vaccination rules"
+    excerpt: "President Joe Biden announces sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
+    publishedDateTime: 2021-07-30T00:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/29/biden-orders-tough-new-fed-vaccination-rules/5424297001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fe21e5de-209c-4e39-8cf9-bad530a63c2e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
     publishedDateTime: 2021-07-22T01:33:00Z
@@ -168,6 +182,6 @@ related:
         height: 683
         isCached: true
 
-secured: "yuVTQS/5sbB/cfLe0ngBvByppSkchg5BC3XDJHp/3zcSr6uhHuLlEZ6f8iiJNUigAU0WoFyBZQlNteCypopOlXfxjjW3ZvzfbQqIPy1b4ED+cn8CIPYshxixdiO/ynnvoM/WPnTC4qJUPHN5yZPMmN5wrN3en0c0IQJHNk4wrSe3vxhOeX3F7FZLix87HDGI+nKAQ+t1ZBilRFFV4dd5OzjaFhmtXgpQHcKZc9eR7q0muflQwlLemgxXOlWUwk4izi4U+ZWdA+JLq3fhmN4k8UbBd8PBXT14Z67tp5NFxjueYoG7jgm447XADPuq96xXPIK+VLtT+vsI6P2ZYsi2w95se03VWuuodoNOGvQ6hcc=;WgEvipwq53O1ttRJzGgJZw=="
+secured: "JiQ3Zu6yWo6QS+3WYDCH1K/RPmYaD8gj9XRNbC7qk8LnX9YffSETk7+0t1xmatkWmDc5TRKqBrvlhOanuG8dpDuf4aAk9+68dm9oNhLWcdhKtUMISP9plpmwrmrTKXoIZxa1wKEOOZ9tx6DDNdknI+BeJ23icGL5v9Wkc4NrrJVdoWJH4Q+Roah6lUoFp2rhU8M+h+N9jeYy0xxX5aXaOTfo9RkPMhFatglnu+qPlMYOD2pi3uV754wJBV44Pkk7R/jlN4kCkkda/9IPrtOBZUqm5v9cpZtD8PjFeExgzyRfLlkAHhExp6nfvwOcvGvJ3ufkCMQiskoRwqljPXGzSjW9zxdLCKVd86TUiyjZCGj0pUVZYVAn30TU4zm4AtpySh0ZtFCSh2XS42vwK/Ki94oai1af9qrWepo3N5MH7cvaT0iFdxU7XDik9Rk3tkzY4ksb6CD+qFhab8Hp4eIoEMSUCRf5S1NUTbcyNoFnrq8HY74Sfyf7mWZ+Yr2izPbl0Q4K8CmNyJriDn83ML2QXw==;30I9XpularpLMB3Gt2SCcA=="
 ---
 

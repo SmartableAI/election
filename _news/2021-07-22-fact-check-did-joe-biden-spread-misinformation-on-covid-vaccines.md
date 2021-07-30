@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       - url: "https://www.reuters.com/resizer/n2ZGxf3q3rDwlPNlCLlhi4OV6i8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VTU4Z7K4ZNXZCCBEXPE4DLLZA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Biden orders tough new fed. vaccination rules"
+    excerpt: "President Joe Biden announces sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
+    publishedDateTime: 2021-07-30T00:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/29/biden-orders-tough-new-fed-vaccination-rules/5424297001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fe21e5de-209c-4e39-8cf9-bad530a63c2e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."

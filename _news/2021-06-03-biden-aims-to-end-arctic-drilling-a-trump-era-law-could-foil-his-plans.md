@@ -720,6 +720,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "How Biden Got the Infrastructure Deal Trump Couldn’t"
+    excerpt: "The early success of the deal vindicated the president’s faith in bipartisanship. If he can keep it on track, it will help affirm the rationale for his presidency."
+    publishedDateTime: 2021-07-30T00:26:00Z
+    webUrl: "https://www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/29/business/biden-infrastructure-deal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/29/multimedia/29DC-Biden-01/29DC-Biden-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Garland looks like he's protecting Trump. But Biden could benefit bigly."
     excerpt: "Analysis: There's nothing new about the Justice Department protecting the executive branch and the president. That's good for the current president, too."
     publishedDateTime: 2021-06-12T17:48:00Z

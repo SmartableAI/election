@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/joe-biden-iraq/index.htm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/joe-biden-iraq/index.html"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden tells lawmakers he'll push for pathway to citizenship for millions in sweeping economic package"
+    excerpt: "President Joe Biden reiterated his support for a Democratic effort to include immigration policy in his multi-trillion anti-poverty package, assuring a group of lawmakers on Thursday that he would stand by them in their push to see a pathway to citizenship for millions signed into law.\n    \n"
+    publishedDateTime: 2021-07-30T00:57:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KUQto_DR2ic/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/immigration-reconciliation-joe-biden-pathway-to-citizenship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/immigration-reconciliation-joe-biden-pathway-to-citizenship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721150318-01-biden-0714-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden slams attempts to curb voting rights but says he isn't ready to call for an end of the filibuster "
     excerpt: "President Joe Biden said Wednesday that he did not want to get \"wrapped up\" in arguments about the filibuster and it would \"throw the entire Congress into chaos,\" as some Democrats call for weakening the Senate's filibuster rules in order to pass voting rights legislation.\n    \n"
     publishedDateTime: 2021-07-22T02:19:57Z

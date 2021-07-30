@@ -46,7 +46,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gutfeld: Biden struck 'right tone' in COVID speech, but returned to 'us versus them political bifurcation'"
+    excerpt: "The panel on \"The Five\" reacted Thursday to President Biden's White House address on the federal government's COVID-19 standards and his personal reservations about Americans who remain unvaccinated."
+    publishedDateTime: 2021-07-29T22:37:00Z
+    webUrl: "https://www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation"
+    ampWebUrl: "https://www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cf5cb1c-d5e9-45fd-b1a8-8b05f1559f00/9d26c49a-dc88-4028-8313-4a83dcedf3a7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
-secured: "ID2+RAyKCF+k2aTZ9Cw2q/xkoS8RKHTTn02eaIIdk1ESeDmAjVYT2XQjDIXcEewBA1fue9pwTpUIWWKzO2O6durP7oe1IEsGyXf7b733C6gdt5W4cg+MWBX7k8i/upimK6K3gl/jbmYwL6xZwUa/9CVijnjYNtgkL7EtoAcbb99+JxQ25bv0HtpKJD0t5YAKMlpbujsdO4KzTz+4VpDg2DoIY7SlEPL6mh/L46HmsspGRHQL6pOkjNjXdrwTTZZ4ABn54/iMsMHChjXm6CJQ8bAuBc9dS12Lmq4817pIbrVEzQKPmimMW9Diyr+i0glU8gEqHbW9thdAK1INDm+p1mUMlG6mdcIvtL6I5hxc0ZI=;rOX8dMf80qzFIgJU+cQxYQ=="
+secured: "jNcd/p1iet8RYdzI7HHkoJrKzNvBNrgTMgdME9FeDoMOS4MDroVHTw3i0SA+afhxCY6NmJl4OkLAW3wgHdtiUaFXJsS1/r6W2cuEMhKFJ4jq8lmlIamaYLkoHMbsQjOBhYqMLL4HwRv65Wny8ECO2cCBEt8WEJvlNX65vOrOX+f+605Yw7iNLCLJkIVpU33dgYl1iCRb4FL+hNIcq+5mY8xxsM16dSx3abivpQIeVJyn0pt8zP2WrNVU4+WA2oWOLhe8p26po2r5yxu6MIjSl7Tjt+SU8XZS1fRjhVlKH7FNOZWue+/eVLbgme4ebxNGSx4JVKRR07K/3nN1REwPiaYELmvY/ZSIAcImnt60Z9VES0uQlg/xzFnogXPFEDBr/1j7DAOXAyqiD97rJ3PaUC6czO8o3KseWNRU9KSZ07Ec5Jn2iaBcqxATqzJp0FGA7c5DizkI3FHzPVouONPcKt66nSdJWJGhlpuPecwIm/djJzLxwZciZuGra9cbdWkhbovGunHjwn4XsC/btl8igg==;+fw/z4NK/e7JtXiiC8j3Dw=="
 ---
 

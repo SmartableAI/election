@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/564956-gop-lawmakers-req
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jill Biden getting procedure on foot after Hawaii visit"
+    excerpt: "First lady Jill Biden is undergoing a medical procedure to remove an object that became lodged in her foot while walking on a beach in Hawaii last weekend"
+    publishedDateTime: 2021-07-29T21:28:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-medical-procedure-foot-hawaii-visit-79149972"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-medical-procedure-foot-hawaii-visit-79149972"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-medical-procedure-foot-hawaii-visit-79149972"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b7df9d1994284d20b65f7cf7392b1e5b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to sanction Cuban officials following attacks on protesters, reports say"
     excerpt: "Thousands of Cubans took to the streets earlier this month to protest food and medicine shortages, power outages and spiraling prices."
     publishedDateTime: 2021-07-22T15:51:00Z

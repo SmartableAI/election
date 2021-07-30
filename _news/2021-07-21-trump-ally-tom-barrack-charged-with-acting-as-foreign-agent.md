@@ -334,6 +334,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Liz Cheney expected to be challenged by Trump-backed candidate"
+    excerpt: "Wyoming House Representative Liz Cheney will likely be challenged ahead of the 2022 midterm elections, as former president Trump has been vetting candidates to unseat the Republican congresswoman. The two have been at odds ever since Cheney voted to impeach Trump after January 6."
+    publishedDateTime: 2021-07-30T00:11:00Z
+    webUrl: "https://www.cbsnews.com/video/rep-liz-cheney-r-wy-expected-to-be-challenged-by-trump-backed-candidate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/30/9ea6b21b-425b-4ad1-a2d1-0f37057453f5/thumbnail/1200x630/0189cda956948c59d552400cb8b86a46/cbsn-fusion-rep-liz-cheney-r-wy-expected-to-be-challenged-by-trump-backed-candidate-thumbnail-763072-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trouble is brewing for a Georgia county's investigation into Donald Trump"
     excerpt: "The Fulton County district attorney is committed to investigating Trump. But a criminal case backlog and a spike in Atlanta-area crimes is complicating matters."
     publishedDateTime: 2021-07-23T08:00:00Z
@@ -347,6 +361,22 @@ related:
       - url: "https://i.insider.com/60f9e08efc253600181ff47f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AP FACT CHECK: Trump is relentless in election fabrications"
+    excerpt: "At an event Saturday, former President Donald Trump presented the debunked allegation as a key piece of evidence that the state's electoral votes were stolen from him in 2020. It was one of a number of fabricated and familiar stories Trump told the crowd in his relentless effort to deny the well-established legitimacy of his defeat at the hands of President Joe Biden."
+    publishedDateTime: 2021-07-29T21:38:00Z
+    webUrl: "https://www.chron.com/news/article/AP-FACT-CHECK-Trump-is-relentless-in-election-16337985.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-FACT-CHECK-Trump-is-relentless-in-election-16337985.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-FACT-CHECK-Trump-is-relentless-in-election-16337985.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."

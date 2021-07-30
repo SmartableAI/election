@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9p0MGVybb6M/biden-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9p0MGVybb6M/biden-estimates-fda-covid"
 type: article
 quality: 155
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
     quality: 128
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0676ce2c-ec81-4fd6-b6b4-f77de2c49983/0325e996-59ca-4eb1-a758-172087d82910/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Gutfeld: Biden struck 'right tone' in COVID speech, but returned to 'us versus them political bifurcation'"
+    excerpt: "The panel on \"The Five\" reacted Thursday to President Biden's White House address on the federal government's COVID-19 standards and his personal reservations about Americans who remain unvaccinated."
+    publishedDateTime: 2021-07-29T22:37:00Z
+    webUrl: "https://www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation"
+    ampWebUrl: "https://www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cf5cb1c-d5e9-45fd-b1a8-8b05f1559f00/9d26c49a-dc88-4028-8313-4a83dcedf3a7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
