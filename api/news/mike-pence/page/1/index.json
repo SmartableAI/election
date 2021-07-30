@@ -10,7 +10,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Mike-Pence-coming-to-Houston-on-Wednesday-16341076.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-25-trump-provokes-boos-for-mike-pence-someone-gave-him-bad-advice.md",
+      "title": "Trump Provokes Boos for Mike Pence: ‘Someone Gave Him Bad Advice’",
+      "excerpt": "Former President Donald Trump provoked boos for his former vice president in Phoenix on Saturday, telling his audience \"someone gave him bad advice.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediaite.com/news/trump-provokes-boos-for-mike-pence-someone-gave-him-bad-advice/",
+      "originalUrl": "https://www.mediaite.com/news/trump-provokes-boos-for-mike-pence-someone-gave-him-bad-advice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mediaite.com/wp-content/uploads/2021/07/DJTMP-e1627180934102.jpg",
+          "width": 1201,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mediaite.com/news/trump-provokes-boos-for-mike-pence-someone-gave-him-bad-advice/amp/",
+      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-provokes-boos-for-mike-pence-someone-gave-him-bad-advice/amp/",
+      "publishedDateTime": "2021-07-24T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mediaite",
+        "domain": "mediaite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-trump-advisor-says-there-is-zero-chance-the-former-president-will-pick-pence-as-his-running-mate-if-he-runs-in-2024.md",
       "title": "Trump advisor says there is 'zero' chance the former president will pick Pence as his running mate if he runs in 2024",
       "excerpt": "Pence decided to certify the 2020 election results on January 6, instead of unlawfully overturning the results in Trump's favor.",
@@ -160,49 +203,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-21-waldman-the-sad-dilemma-of-mike-pence.md",
-      "title": "Waldman: The sad dilemma of Mike Pence",
-      "excerpt": "Mike Pence probably believes it would be crazy for Republicans to nominate anyone other than him for president in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/waldman-the-sad-dilemma-of-mike-pence/article_ed9fcd30-ea38-11eb-b753-f74b213e0939.html",
-      "originalUrl": "https://www.news-journal.com/waldman-the-sad-dilemma-of-mike-pence/article_ed9fcd30-ea38-11eb-b753-f74b213e0939.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/6/14/6147eb80-f1ee-11ea-b25d-5b317f2cacac/5f57adf7c7261.image.jpg?resize=630%2C630",
-          "width": 630,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-07-21-its-a-free-country-trump-addresses-pence-as-potential-2024-competitor-in-new-interview.md",
       "title": "'It’s a free country': Trump addresses Pence as potential 2024 competitor in new interview",
       "excerpt": "In a newly-released book excerpt, Donald Trump upholds his false election claims, knocks Mike Pence and says he's a potential 2024 presidential rival.",
@@ -242,6 +242,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-mike-pence-would-like-to-be-president-but-no-one-likes-mike-pence.md",
+      "title": "Mike Pence would like to be President. But no one likes Mike Pence.",
+      "excerpt": "Polling shows that Pence's presidential ambitions are dead in the water. The MAGA crowd doesn't trust him, the Never Trumpers hate him, and evangelicals have other",
+      "sourceUrl": null,
+      "webUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
+      "originalUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2019/07/mike-pence1-702x522.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&wat=1&wat_gravity=southeast&wat_pad=40",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
+      "cdnAmpWebUrl": "https://www-lgbtqnation-com.cdn.ampproject.org/c/s/www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
+      "publishedDateTime": "2021-07-19T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LGBTQ Nation",
+        "domain": "lgbtqnation.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -327,6 +370,49 @@
       "provider": {
         "name": "Daily Nonpareil",
         "domain": "nonpareilonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-mike-pence-says-hes-had-enough-of-biden-as-he-accuses-president-of-turning-us-into-a-secular-welfare-state.md",
+      "title": "Mike Pence says he’s ‘had enough’ of Biden as he accuses president of turning US into a ‘secular welfare state’",
+      "excerpt": "MIKE Pence has said he’s “had enough” of Joe Biden as he accused the president of turning the United States into a “secular welfare state”. The former vice president",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-sun.com/news/3301861/mike-pence-had-enough-biden-secular-welfare-state/",
+      "originalUrl": "https://www.the-sun.com/news/3301861/mike-pence-had-enough-biden-secular-welfare-state/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/NA-Mike-Pence-Biden-offplatform-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.the-sun.com/news/3301861/mike-pence-had-enough-biden-secular-welfare-state/amp/",
+      "cdnAmpWebUrl": "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3301861/mike-pence-had-enough-biden-secular-welfare-state/amp/",
+      "publishedDateTime": "2021-07-17T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "the-sun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -604,13 +690,13 @@
     {
       "path": "_news/2021-07-15-mike-pence-evidence-strongly-suggests-covid-19-came-from-a-chinese-lab.md",
       "title": "Mike Pence: Evidence 'strongly suggests' COVID-19 came from a Chinese lab",
-      "excerpt": "Ex-VP Mike Pence points to a Chinese lab as COVID's source, but doesn't elaborate on the evidence he's citing. In a new paper, virologists disagree.",
+      "excerpt": "Mike Pence spoke out on China at the Heritage Foundation. A new paper posted the same day says there's no evidence COVID-19 originated in a lab. Pence also called out corporations, including Nike ...",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
-      "originalUrl": "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -624,14 +710,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/7968126002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7968126002",
-      "publishedDateTime": "2021-07-14T15:08:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7968126002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7968126002",
+      "publishedDateTime": "2021-07-14T13:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1410,102 +1505,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley.md",
-      "title": "GOP in flux, Mike Pence plans speech at Reagan Library in Simi Valley",
-      "excerpt": "The former vice president was once a GOP presidential frontrunner. But after Jan. 6 and slammed by Trump, it’s an uphill climb as he considers the presidency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley",
-      "originalUrl": "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2021/06/AP21007046001424.jpg?w=1024&h=577",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley/amp/",
-      "publishedDateTime": "2021-06-22T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-mike-pence-not-a-traitor-says-kevin-mccarthy-stood-right-by-president-trump.md",
-      "title": "Mike Pence 'Not a Traitor' Says Kevin McCarthy, 'Stood Right by President Trump'",
-      "excerpt": "Pence continues to face strong criticism from some supporters of former President Donald Trump for his role on January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240",
-      "originalUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1825772/mike-pence-addresses-gops-lincoln-reagan-dinner.jpg",
-          "width": 2814,
-          "height": 1876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240?amp=1",
-      "publishedDateTime": "2021-06-19T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

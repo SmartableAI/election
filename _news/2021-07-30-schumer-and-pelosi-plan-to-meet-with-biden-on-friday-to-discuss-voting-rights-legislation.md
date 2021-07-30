@@ -31,67 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden to meet with potential art buyers at two shows amid ethics concerns "
-    excerpt: "Hunter Biden is expected to meet with potential buyers at two of his art shows after the White House formed an agreement with the gallery to address ethics concerns.\n    \n"
-    publishedDateTime: 2021-07-22T17:12:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0j_4QlIRt5I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html"
+  - title: "Fact-checking Biden's claim on mask mandates and vaccination rates"
+    excerpt: "While announcing measures to incentivize Covid-19 vaccinations on Thursday, President Joe Biden suggested people in states with high vaccination rates do not need to wear masks. The reality is slightly more complicated.\n    \n"
+    publishedDateTime: 2021-07-30T13:26:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lsCB09-RJUg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708171703-hunter-biden-0522-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729173205-delta-variant-questions-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to tap former ambassador to France as his ambassador to the UK after lengthy search"
-    excerpt: "President Joe Biden will name Jane Hartley as his ambassador to the United Kingdom after a lengthy search, a person familiar with the decision told CNN.\n    \n"
-    publishedDateTime: 2021-07-16T17:11:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE06_f1H4RM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
+  - title: "President Biden jumps into vaccine mandate debate as VA requires health workers to get vaccinated"
+    excerpt: "The Department of Veterans Affairs will require many of its frontline health workers to be vaccinated, a senior administration official told CNN on Monday, making the agency the first area of the federal government to require shots among some of its workers.\n    \n"
+    publishedDateTime: 2021-07-26T21:39:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GeR1V4Y5Odc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/veterans-affairs-requires-covid-vaccinations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/veterans-affairs-requires-covid-vaccinations/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716112743-jane-hartley-file-2015-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/140623111103-va-building-dc-file-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Biden shifts onus for pandemic onto the unvaccinated as he readies federal worker vaccine requirement"
+    excerpt: "President Joe Biden, who for months used techniques like public service announcements and grassroots campaigns to persuade Americans to get vaccinated, is adopting a tougher approach as caseloads surge: vaccine requirements and blame.\n    \n"
+    publishedDateTime: 2021-07-29T11:17:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6ZlqZAWWO3A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727161530-02-biden-odni-0727-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's drug czar nominee consulted for cannabis company last year, ethics disclosure shows"
-    excerpt: "President Joe Biden's drug czar pick, Dr. Rahul Gupta, spent nine months last year working as an adviser to a Maryland-based cannabis company, recently released government ethics documents show.\n    \n"
-    publishedDateTime: 2021-07-23T00:52:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tJN_YRWEIA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
+  - title: "Biden announces measures to incentivize Covid-19 vaccinations, including a requirement for federal employees"
+    excerpt: "President Joe Biden on Thursday is set to announce a number of new steps his administration will take to try to get more Americans vaccinated and slow the spread of coronavirus, including requiring that all federal employees must attest to being vaccinated against Covid-19 or face strict protocols.\n"
+    publishedDateTime: 2021-07-29T20:52:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IgvojKgWGSY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/joe-biden-vaccination-requirement-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/joe-biden-vaccination-requirement-announcement/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713125239-dr-rahul-gupta-2016-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
-    excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
-    publishedDateTime: 2021-07-27T22:14:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+  - title: "Boosters, masks and mandates: Biden's team sorts through options for containing Covid surge among unvaccinated Americans"
+    excerpt: "The Biden administration is debating a series of steps to further contain the Covid-19 pandemic, which, after 18 months, is again surging in parts of the country where vaccination rates are low.\n    \n"
+    publishedDateTime: 2021-07-24T13:00:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2j3Xaas4NTE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/24/politics/biden-team-next-steps-on-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/24/politics/biden-team-next-steps-on-covid/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721223125-biden-covid-vacunas-foro-cnn-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

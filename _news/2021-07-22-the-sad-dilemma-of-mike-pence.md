@@ -25,18 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Waldman: The sad dilemma of Mike Pence"
-    excerpt: "Mike Pence probably believes it would be crazy for Republicans to nominate anyone other than him for president in 2024."
-    publishedDateTime: 2021-07-21T15:32:00Z
-    webUrl: "https://www.news-journal.com/waldman-the-sad-dilemma-of-mike-pence/article_ed9fcd30-ea38-11eb-b753-f74b213e0939.html"
+  - title: "Mike Pence would like to be President. But no one likes Mike Pence."
+    excerpt: "Polling shows that Pence's presidential ambitions are dead in the water. The MAGA crowd doesn't trust him, the Never Trumpers hate him, and evangelicals have other"
+    publishedDateTime: 2021-07-19T14:18:00Z
+    webUrl: "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/"
+    ampWebUrl: "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/"
+    cdnAmpWebUrl: "https://www-lgbtqnation-com.cdn.ampproject.org/c/s/www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/"
     type: article
     provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 55
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/6/14/6147eb80-f1ee-11ea-b25d-5b317f2cacac/5f57adf7c7261.image.jpg?resize=630%2C630"
-        width: 630
+      - url: "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2019/07/mike-pence1-702x522.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&wat=1&wat_gravity=southeast&wat_pad=40"
+        width: 1200
         height: 630
         isCached: true
 

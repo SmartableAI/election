@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris will not quarantine after being in contact with two Covid-19 positive Texas Democrats"
+    excerpt: "Despite being in maskless contact with two Texas House Democrats who tested positive for Covid-19, US Vice President Kamala Harris does not plan to self-isolate, her aide told the media."
+    publishedDateTime: 2021-07-30T11:58:00Z
+    webUrl: "https://www.rt.com/usa/529540-kamala-harris-texas-covid19/"
+    ampWebUrl: "https://www.rt.com/usa/529540-kamala-harris-texas-covid19/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/529540-kamala-harris-texas-covid19/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 61
+    images:
+      - url: "https://cdni.rt.com/files/2021.07/xxl/60f4562785f54016aa695163.JPG"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Kamala Harris slammed as she causes confusion over mask mandate after demanding reporters cover faces"
     excerpt: "KAMALA Harris was criticized for sending mixed messages about the mask mandate after demanding reporters cover their faces at the White House. Harris ordered journalists to mask up on Tuesday an"
     publishedDateTime: 2021-07-28T13:01:00Z
@@ -182,6 +198,34 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/a9a697555277243f64e2dbf0553eb3d1/HARRIS-VOTING.jpg"
         width: 650
         height: 434
+        isCached: true
+  - title: "Dems Face A Harris Problem: Vice President's Low Polls Raise Worries About Midterms"
+    excerpt: "As Democrats vie to buck the trend of the President's party suffering a midterm poll loss, they have something serious to worry about: Vice President Kamala Harris's bad polls. A report by The Hill said Harris made some \"tactical missteps outside of the White House\" that have resulted in the unfavorable ratings."
+    publishedDateTime: 2021-07-30T13:00:00Z
+    webUrl: "https://www.ibtimes.com/dems-face-harris-problem-vice-presidents-low-polls-raise-worries-about-midterms-3263330"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 49
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/09/us-vice-president-kamala-harris-has-caught-flak.jpg"
+        width: 1024
+        height: 667
+        isCached: true
+  - title: "Kamala Harris immigration: VP introduces strategy to address root causes of migration"
+    excerpt: "The task of leading the Biden administrations efforts to stem migration following the record number of migrants this year falls on Vice President Kamala Harris. This week, Harris introduced the strategy to tackle the"
+    publishedDateTime: 2021-07-30T08:04:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-immigration-VP-introduces-strategy-to-address-root-causes-of-migration-1614009"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 48
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210730f397e487a3c80b120_th_1024x0.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Vice President Harris Could Visit Vietnam, Singapore in August"
     excerpt: "Vice President Kamala Harris could travel to Vietnam and Singapore in August, even as details of such a trip are not final yet, a source familiar with the matter said on Monday. The coronavirus pandemic is likely to be on Harris' agenda,"
@@ -220,6 +264,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "joz8ZhXan2dYI3ADqO2GU9Flmb7Sh4pORuzQ86267igZS/+tO6oLh311KgCPkPyUxVKE47rzOsRylyFoenLjB6DEkOMicmK10L6wbMPUaIo3dyNSbETfAfQNOcF9Ezy8fVpb04cUBWVfsiQ3jRugDqjzL5GUcSQldKGP+AgtKFz1xdq99b+0AoNcIsrxI+R7NMhJE50+tB77lIq0VTS5hJfex9yKeK/iZ/rX8nmlEMImmWqqovDdgarX9qqXuYaCdkoRuuAnwy4bK7/BFyYMdc2DvvPr8VEi0dxw30eW5riY7u6XyIfJgWCQj/LhpuWxZjOCdGORVfMixfE2V6xNiqbE4lubixHIZyK/225DGxM=;6Jf+WAvhlS6X0bHhiUusSg=="
+secured: "CkzU4r4UPbBVrJ+LzkFQKNpxeo/SBi2/uYnhGr9E/vm7EXo1sC5ycNXqwIMAK/mPcHuPbeQwM3qWilYfr+RgYaA9cHFeZNBznqJrtJb9eUlVjX4NyOvgfNtacUZE8KvhXWetPCaSfWOz4NIsDL2yyhVbe0CHFsLJ3LUumZ5icFxo0AlP2pbOGeBeSGKXX0ILjgXKTnENg1QbHfhEFlCZkIPc5IVpu1Gk08OoAXRb5rDl4yEwwq1H3ILr3uAXHSZlb6I8kKgJuYTUBYVMBG/iztqleaYSCejjRTclrHjJasrSSvkTbvcLm53lMnaGgBla8eCD0/GKtS9NFKgYDanEXOwPA8xLEfUoFcS7CdLpqGGHbDgsc0Ab7E0Ljgp9P63ejDZx49CN8mckZ4ii0Z9M8dsHz6pEfpccjxCdPM4JzQnkObes2lUzcK/xp/B2yL0aOd/otXLsIEedQq2fSIAeBCo1MZxE8hvJQXKOV+huJakuq/KQiazLjaSsOobslZfWEkKm6pfXUu+U3osXNa6HDw==;DucpGVWWdaPGKddnYW0PUg=="
 ---
 

@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Schumer and Pelosi plan to meet with Biden on Friday to discuss voting rights legislation"
-    excerpt: "Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi are planning to meet with President Joe Biden on Friday to discuss a path forward on voting rights legislation, a person familiar with the plans told CNN.\n    \n"
-    publishedDateTime: 2021-07-30T03:20:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SoGx-pXhK7Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155550-06-white-house-covid-relief-event-0312-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's drug czar nominee consulted for cannabis company last year, ethics disclosure shows"
     excerpt: "President Joe Biden's drug czar pick, Dr. Rahul Gupta, spent nine months last year working as an adviser to a Maryland-based cannabis company, recently released government ethics documents show.\n    \n"
     publishedDateTime: 2021-07-23T00:52:36Z
@@ -94,22 +78,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713125239-dr-rahul-gupta-2016-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden to announce vaccine mandate, strict testing protocol for federal workers who refuse"
-    excerpt: "President Joe Biden is expected to announce Thursday that federal workers will be required to be vaccinated for Covid or abide by stringent protocols, like regular testing and mask wearing, according to administration officials."
-    publishedDateTime: 2021-07-28T14:54:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-considering-vaccine-mandate-all-federal-employees-n1275216"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275216"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275216"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494499/210727-maryland-vaccine-coronavirus-ac-415p.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "P8XOdhqV6YiEdBj51lJ1nQQYxMz9GgylxbdVxC9jcU/0ZhIMCKrireBqtfo7uB26oStz7dGhfBlsRQ1h3iXolfyCq/Z/DbBwBC+j7KcRcDj3CgMK0of9hPjY97moc/zzgVDU6RokZssRcn77O1hOf2pg07mDwhLXrGvdsy+SoQ3N7/TmXg7mHH4CatVtSzHT8fU2IXEJrGNH7ZZt+WYcf1WMZc9Qn1RgWG8uXYPtjnt9EvfIRt6gLfxV0NkIoFBywBbAD8N76516z3mP11l+ujQHoEC0MYFnPpfUMsv6hq7RSxY4hkJ2VnJ2QsPA2PSwRo0GUCol3gcAtpc9Edb9pL1Vjwm57M9D/Yl7QOTRto4=;gRS2Ce53QNplOB1RI5M43g=="

@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris will not quarantine after being in contact with two Covid-19 positive Texas Democrats"
+    excerpt: "Despite being in maskless contact with two Texas House Democrats who tested positive for Covid-19, US Vice President Kamala Harris does not plan to self-isolate, her aide told the media."
+    publishedDateTime: 2021-07-30T11:58:00Z
+    webUrl: "https://www.rt.com/usa/529540-kamala-harris-texas-covid19/"
+    ampWebUrl: "https://www.rt.com/usa/529540-kamala-harris-texas-covid19/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/529540-kamala-harris-texas-covid19/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 61
+    images:
+      - url: "https://cdni.rt.com/files/2021.07/xxl/60f4562785f54016aa695163.JPG"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Kamala Harris slammed as she causes confusion over mask mandate after demanding reporters cover faces"
     excerpt: "KAMALA Harris was criticized for sending mixed messages about the mask mandate after demanding reporters cover their faces at the White House. Harris ordered journalists to mask up on Tuesday an"
     publishedDateTime: 2021-07-28T13:01:00Z
@@ -168,6 +184,34 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/ad-kamala-harris-comp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Dems Face A Harris Problem: Vice President's Low Polls Raise Worries About Midterms"
+    excerpt: "As Democrats vie to buck the trend of the President's party suffering a midterm poll loss, they have something serious to worry about: Vice President Kamala Harris's bad polls. A report by The Hill said Harris made some \"tactical missteps outside of the White House\" that have resulted in the unfavorable ratings."
+    publishedDateTime: 2021-07-30T13:00:00Z
+    webUrl: "https://www.ibtimes.com/dems-face-harris-problem-vice-presidents-low-polls-raise-worries-about-midterms-3263330"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 49
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/09/us-vice-president-kamala-harris-has-caught-flak.jpg"
+        width: 1024
+        height: 667
+        isCached: true
+  - title: "Kamala Harris immigration: VP introduces strategy to address root causes of migration"
+    excerpt: "The task of leading the Biden administrations efforts to stem migration following the record number of migrants this year falls on Vice President Kamala Harris. This week, Harris introduced the strategy to tackle the"
+    publishedDateTime: 2021-07-30T08:04:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-immigration-VP-introduces-strategy-to-address-root-causes-of-migration-1614009"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 48
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210730f397e487a3c80b120_th_1024x0.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Kamala Harris voting rights: VP, Interior Secretary Deb Haaland meet with Native American tribe leaders"
     excerpt: "Leading the Biden administrations efforts in protecting and ensuring voting rights, Vice President Kamala Harris is reaching out to shore up public support in light of GOP-led proposals to restrict voting access."

@@ -868,6 +868,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Kamala Harris’s Bad Polls Trigger Democratic Worries"
+    excerpt: "Six months into office, polls indicate Harris is viewed less favorably than President Biden. She has also made some tactical missteps outside of the White House that Democrats say show she hasn’t quite yet found her bearings."
+    publishedDateTime: 2021-07-29T20:00:00Z
+    webUrl: "https://politicalwire.com/2021/07/29/kamala-harriss-bad-polls-trigger-democratic-worries/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
+        isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
     publishedDateTime: 2021-05-05T21:35:00Z

@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Schumer and Pelosi plan to meet with Biden on Friday to discuss voting rights legislation"
-    excerpt: "Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi are planning to meet with President Joe Biden on Friday to discuss a path forward on voting rights legislation, a person familiar with the plans told CNN.\n    \n"
-    publishedDateTime: 2021-07-30T03:20:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SoGx-pXhK7Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155550-06-white-house-covid-relief-event-0312-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
     excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
     publishedDateTime: 2021-07-27T22:14:22Z
@@ -94,22 +78,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden to announce vaccine mandate, strict testing protocol for federal workers who refuse"
-    excerpt: "President Joe Biden is expected to announce Thursday that federal workers will be required to be vaccinated for Covid or abide by stringent protocols, like regular testing and mask wearing, according to administration officials."
-    publishedDateTime: 2021-07-28T14:54:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-considering-vaccine-mandate-all-federal-employees-n1275216"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275216"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275216"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494499/210727-maryland-vaccine-coronavirus-ac-415p.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "tzKBrZiK/qQFiQccqbx0n9/IQcNw/e7bexU4uvaFli7rOM5kkMF42WP9eAhmSboHQ0/+K4cgtAxPaHpfaEEsA2WQ8DAWvWIjz9p/aA/t5Dz94Q7UnODlxDopceLuaTKtJmmpzFsRGx6vVnWYeYxwfiWHqFrSPEKZZlf7FhAUneorEhOnPFOI+wO3icnrjvyp3Bv0vBJPtvvw6FIkzoAJSLjZNiyjfxQwA9ADKjSX67z0Pa/z7xs1Kynunn0ScPWzsJD+Zinu29UtyEYpRhqCn7lV/XHGCms0r+WABg+98vH/LUoe1y7VJ+JGC5+VvZL/r5/KemM04UlcXGgouSf2ms1PphFMmmiK+xBKnw8FW9U=;ROSpABjGJB/RzOWgP+8/nQ=="

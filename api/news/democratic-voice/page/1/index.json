@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-30-fact-checking-bidens-claim-on-mask-mandates-and-vaccination-rates.md",
+      "title": "Fact-checking Biden's claim on mask mandates and vaccination rates",
+      "excerpt": "While announcing measures to incentivize Covid-19 vaccinations on Thursday, President Joe Biden suggested people in states with high vaccination rates do not need to wear masks. The reality is slightly more complicated.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lsCB09-RJUg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lsCB09-RJUg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210729173205-delta-variant-questions-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-vaccinated-masks-fact-check/index.html",
+      "publishedDateTime": "2021-07-30T06:26:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-biden-calls-on-students-to-keep-campuses-safe-from-a-threat-of-abuse-and-assault-as-well-as-covid-19-as-they-return-this-fall.md",
       "title": "Biden calls on students to keep campuses 'safe from a threat of abuse and assault as well' as Covid-19 as they return this fall",
       "excerpt": "President Joe Biden on Thursday highlighted the responsibility that college students have to ensure their campuses are safe not just from the Covid-19 pandemic, but also \"safe from a threat of abuse and assault as well,\" in remarks to young people at a summit hosted by It's On Us, the college sexual",
@@ -509,62 +565,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-26-president-biden-jumps-into-vaccine-mandate-debate-as-va-requires-health-workers-to-get-vaccinated.md",
-      "title": "President Biden jumps into vaccine mandate debate as VA requires health workers to get vaccinated",
-      "excerpt": "The Department of Veterans Affairs will require many of its frontline health workers to be vaccinated, a senior administration official told CNN on Monday, making the agency the first area of the federal government to require shots among some of its workers.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GeR1V4Y5Odc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GeR1V4Y5Odc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/140623111103-va-building-dc-file-story-top.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/26/politics/veterans-affairs-requires-covid-vaccinations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/veterans-affairs-requires-covid-vaccinations/index.html",
-      "publishedDateTime": "2021-07-26T14:39:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-26-trump-ally-tom-barrack-pleads-not-guilty-in-foreign-lobbying-case.md",
       "title": "Trump ally Tom Barrack pleads not guilty in foreign lobbying case ",
       "excerpt": "Tom Barrack, a longtime ally of former President Donald Trump and chairman of the Trump 2016 Inaugural Committee, pleaded not guilty through his attorney on Monday to illegal foreign lobbying charges unveiled by the Justice Department last week.\n    \n",
@@ -914,7 +914,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 270,
+      "heat": 230,
       "tags": null,
       "images": [
         {
