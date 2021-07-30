@@ -448,6 +448,22 @@ related:
         width: 5901
         height: 3934
         isCached: true
+  - title: "President Joe Biden directs Pentagon to plan for mandatory COVID-19 vaccines"
+    excerpt: "In a rebuke of Biden's annoucement, U.S. Rep. Cathy McMorris Rodgers called any effort to mandate a vaccine an overreach by the White House.  A spokesman confirmed that her criticism included mandatory COVID-19 vaccines for members of the military."
+    publishedDateTime: 2021-07-30T03:36:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 72
+    images:
+      - url: "https://thumb.spokesman.com/XGCIb09jGFhU32rYBMK7qp5N0zc=/480x0/media.spokesman.com/photos/2021/07/29/610349af63740.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Joe Biden touts 300 million COVID-19 vaccine doses given in the US, warns of Delta variant"
     excerpt: "President Joe Biden announced Friday the U.S. has administered 300 million COVID-19 shots, though it's still shy of 70% having one shot by July 4."
     publishedDateTime: 2021-06-18T20:31:00Z

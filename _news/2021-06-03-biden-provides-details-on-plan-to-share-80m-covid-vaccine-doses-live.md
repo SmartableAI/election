@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -435,6 +435,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ATY6FXNCZVHMXCSKBNT7SPJ74A.JPG"
         width: 5901
         height: 3934
+        isCached: true
+  - title: "President Joe Biden directs Pentagon to plan for mandatory COVID-19 vaccines"
+    excerpt: "In a rebuke of Biden's annoucement, U.S. Rep. Cathy McMorris Rodgers called any effort to mandate a vaccine an overreach by the White House.  A spokesman confirmed that her criticism included mandatory COVID-19 vaccines for members of the military."
+    publishedDateTime: 2021-07-30T03:36:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 72
+    images:
+      - url: "https://thumb.spokesman.com/XGCIb09jGFhU32rYBMK7qp5N0zc=/480x0/media.spokesman.com/photos/2021/07/29/610349af63740.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "President Joe Biden, G-7 leaders agree on COVID vaccines, China and taxing corporations"
     excerpt: "Leaders of the Group of Seven wealthy nations on Sunday pledged more than 1 billion COVID-19 vaccine doses to poorer nations, vowed to help developing countries grow their economies while fighting climate change and agreed to challenge China’s “non-market economic practices” and call out Beijing for rights abuses in Xinjiang and Hong Kong."

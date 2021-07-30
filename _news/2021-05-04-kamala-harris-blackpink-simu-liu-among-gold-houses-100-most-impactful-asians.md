@@ -889,16 +889,16 @@ related:
   - title: "Vice President Kamala Harris Delivers Remarks to the National Bar Association"
     excerpt: "Vice President Kamala Harris delivers live virtual remarks to the National Bar Association in South Court Auditorium of the Eisenhower Executive Office Building of the White House in Washington, DC on July 27,"
     publishedDateTime: 2021-07-27T18:24:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9b1efb583e91c289bf6fde4b48983bcf/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e8745efb2c434f9c9dcb29a9efd53684/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-National-Bar-Association/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9b1efb583e91c289bf6fde4b48983bcf/HARRIS-BAR-ASSOC.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/e8745efb2c434f9c9dcb29a9efd53684/HARRIS-BAR-ASSOC.jpg"
         width: 650
-        height: 434
+        height: 433
         isCached: true
   - title: "TRANSCRIPT: Vice President Kamala Harris’ address to Naval Academy Class of 2021"
     excerpt: "Vice President Kamala Harris gave the commencement address to the Naval Academy Class of 2021 on Friday, the first woman to deliver the annual speech."

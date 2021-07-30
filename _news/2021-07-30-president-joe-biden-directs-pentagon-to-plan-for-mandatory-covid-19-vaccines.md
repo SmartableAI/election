@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Joe Biden touts 300 million COVID-19 vaccine doses given in the US, warns of Delta variant"
-excerpt: "President Joe Biden announced Friday the U.S. has administered 300 million COVID-19 shots, though it's still shy of 70% having one shot by July 4."
-publishedDateTime: 2021-06-18T20:31:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/06/18/biden-touts-300-m-covid-19-vaccines-given-us-eyes-july-4-goal/7745744002/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/06/18/biden-touts-300-m-covid-19-vaccines-given-us-eyes-july-4-goal/7745744002/"
-ampWebUrl: "https://amp.indystar.com/amp/7745744002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7745744002"
+title: "President Joe Biden directs Pentagon to plan for mandatory COVID-19 vaccines"
+excerpt: "In a rebuke of Biden's annoucement, U.S. Rep. Cathy McMorris Rodgers called any effort to mandate a vaccine an overreach by the White House.  A spokesman confirmed that her criticism included mandatory COVID-19 vaccines for members of the military."
+publishedDateTime: 2021-07-30T03:36:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/"
+webUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
 type: article
-quality: 65
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://thumb.spokesman.com/XGCIb09jGFhU32rYBMK7qp5N0zc=/480x0/media.spokesman.com/photos/2021/07/29/610349af63740.hires.jpg"
+    width: 480
+    height: 320
     isCached: true
 
 related:
@@ -448,22 +448,6 @@ related:
         width: 5901
         height: 3934
         isCached: true
-  - title: "President Joe Biden directs Pentagon to plan for mandatory COVID-19 vaccines"
-    excerpt: "In a rebuke of Biden's annoucement, U.S. Rep. Cathy McMorris Rodgers called any effort to mandate a vaccine an overreach by the White House.  A spokesman confirmed that her criticism included mandatory COVID-19 vaccines for members of the military."
-    publishedDateTime: 2021-07-30T03:36:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 72
-    images:
-      - url: "https://thumb.spokesman.com/XGCIb09jGFhU32rYBMK7qp5N0zc=/480x0/media.spokesman.com/photos/2021/07/29/610349af63740.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "President Joe Biden, G-7 leaders agree on COVID vaccines, China and taxing corporations"
     excerpt: "Leaders of the Group of Seven wealthy nations on Sunday pledged more than 1 billion COVID-19 vaccine doses to poorer nations, vowed to help developing countries grow their economies while fighting climate change and agreed to challenge China’s “non-market economic practices” and call out Beijing for rights abuses in Xinjiang and Hong Kong."
     publishedDateTime: 2021-06-13T15:28:00Z
@@ -480,7 +464,23 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden touts 300 million COVID-19 vaccine doses given in the US, warns of Delta variant"
+    excerpt: "President Joe Biden announced Friday the U.S. has administered 300 million COVID-19 shots, though it's still shy of 70% having one shot by July 4."
+    publishedDateTime: 2021-06-18T20:31:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/18/biden-touts-300-m-covid-19-vaccines-given-us-eyes-july-4-goal/7745744002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7745744002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7745744002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "sxeBMQb/s/V3QLjcdRubiDClZeObO72ZaiXWlfJzsGZRLFJ/rlrWVYaYJri4+JRovj7DLl9wWdC4UdrIdLJS1W4MwfAIvnCigRjNee00Ez1kZOVt86oBfUZNL7T91dwlGFZh2KYtQr9CgGhzRvX0fXBYpkT0C/zdU+e4zfNEv7ncAWRx8M+7ZvAeRaifab0FojQHdww3XsLvgY475rG215Vc/x+jiX08g0CotYKFbaIKC1UekEscEYo7bv5kOp0RrRQJIRVshhfoR175WlPf5H3UzK9Grd5T2Wqs8JcFPzV65xgt2kiWGO7/ca5ufS2YcOxdbBo9jKG72nxVGpoYwIlLOzK+j6BkeLOCXn3NBW4=;lLbSVWTzl5682H8fStdE8Q=="
+secured: "f27bd9cnNokGQdrJ4MPQhopml3dsmcAWfFLjlId0cwPwSOpkfVeayJoPYy/eQl+5x+WSR9KM5bNKVOiTpVgF+wEfEmVpg2rVtEqdpu3hDOicuHNgVzw0IU3GOSNkeBXfeSc788sAUVIKMgnfULOoxbWjx0fh/QoaJl36NfgqYXwCC2uPVpEqTByFIlGVM3wVRf6onnTEbjUPuV+AAPIhr4wAw6mYstsXZej0SyOCvbO3BX6XKwhtyEM0eldbJAZiDSvWDjnyMrfSW1oi3b9Dq6hrSgbkl3QN66HGUwGo3LXhmSvlM0NaECRGjCynXN+ebOkZWEMAKx9/uM7Wmgs4zUjwCn6F01pqClPEwv+Mfcc=;DXUndZxNgfmAMsft5f9r7Q=="
 ---
 

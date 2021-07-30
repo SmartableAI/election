@@ -177,6 +177,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "US President Joe Biden spars with reporter over masks for the vaccinated"
+    excerpt: "US President Joe Biden sparred with a reporter over his previous statements on relaxing mask rules for fully-vaccinated Americans. Earlier this week, the US Centers for Disease Control said even vaccinated people living in areas with higher rates of Covid transmission should wear masks indoors."
+    publishedDateTime: 2021-07-30T01:30:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/58019656"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 54
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F659/production/_119656036_p09qtrg8.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "U0EV49bJs+EMzU/1du15zEoZ/Ownyx5IkQyZ4BL5GgJrse3fAatP9AkS5ps4VAUfFW7ulAEu2MUcyqwD06S9urZWxpGEn3h5hL3BqtprHDml5YlsdTdj8qdbFzl4595jtPi/qq5LvgCzvG8Afp/6iFDP719kCox539GvKEuApWzp4JW3ZdAQLJzdRsT5THzOJ/2j+oReL6QpDHMTN1Wpl06xU2tg/syOxHElpQBM3rFVu0N02bM6Lqpw5aeCYLuVcFCC+x9wvUomrfAX6eSmeotGVMGC29bfzxmLiaQ62YrbPAS5NlGXHlGBWfzWPKwc0NOEKjTyOpveLVz0cQNLxG86Hg8LGgRmgm9JSRRFchQ=;3/ovXbV7yblx7pWUcbg1yA=="
 ---

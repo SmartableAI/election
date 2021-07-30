@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -164,6 +164,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fe21e5de-209c-4e39-8cf9-bad530a63c2e_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "US President Joe Biden spars with reporter over masks for the vaccinated"
+    excerpt: "US President Joe Biden sparred with a reporter over his previous statements on relaxing mask rules for fully-vaccinated Americans. Earlier this week, the US Centers for Disease Control said even vaccinated people living in areas with higher rates of Covid transmission should wear masks indoors."
+    publishedDateTime: 2021-07-30T01:30:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/58019656"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 54
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F659/production/_119656036_p09qtrg8.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."

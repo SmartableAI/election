@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Biden expected to announce vaccine mandate for US federal employees – live"
-excerpt: "President to deliver an update on his administration’s Covid vaccination campaign – follow all the latest"
-publishedDateTime: 2021-07-29T13:27:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+title: "US President Joe Biden spars with reporter over masks for the vaccinated"
+excerpt: "US President Joe Biden sparred with a reporter over his previous statements on relaxing mask rules for fully-vaccinated Americans. Earlier this week, the US Centers for Disease Control said even vaccinated people living in areas with higher rates of Covid transmission should wear masks indoors."
+publishedDateTime: 2021-07-30T01:30:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/58019656"
+webUrl: "https://www.bbc.co.uk/news/av/58019656"
 type: article
-quality: 123
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/2e6cd0b1d2053267babbd368d88999cc26867835/0_359_5520_3312/master/5520.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b87d4720c2b9a08baf8ef517de042faf"
-    width: 600
-    height: 360
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F659/production/_119656036_p09qtrg8.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -62,6 +56,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_466a6303a64a42f1b15f5c42f02906d7_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden expected to announce vaccine mandate for US federal employees – live"
+    excerpt: "President to deliver an update on his administration’s Covid vaccination campaign – follow all the latest"
+    publishedDateTime: 2021-07-29T13:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/2e6cd0b1d2053267babbd368d88999cc26867835/0_359_5520_3312/master/5520.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b87d4720c2b9a08baf8ef517de042faf"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden's federal workforce vaccine mandate could inspire companies to follow suit"
     excerpt: "The Biden administration’s federal workforce vaccine mandate could inspire more companies to follow along, but also trigger an avalanche of lawsuits."
@@ -165,20 +175,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "US President Joe Biden spars with reporter over masks for the vaccinated"
-    excerpt: "US President Joe Biden sparred with a reporter over his previous statements on relaxing mask rules for fully-vaccinated Americans. Earlier this week, the US Centers for Disease Control said even vaccinated people living in areas with higher rates of Covid transmission should wear masks indoors."
-    publishedDateTime: 2021-07-30T01:30:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/58019656"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 54
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F659/production/_119656036_p09qtrg8.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
     publishedDateTime: 2021-07-22T01:33:00Z
@@ -196,6 +192,6 @@ related:
         height: 683
         isCached: true
 
-secured: "HF448E0LaaWPQSAr65ckzpahW2DrxnLotO908fBYmuC9qEzuFTso862b/EcTyqZN4bJvA6pxUPG8RKk6ehzpvkcMMjPoSRzTuUJBEBnuwObhVhU8cDE0jTemMc86We8rMx8Qb9pJlEdcNT6FYrUfofyR6godWHUZVYCE2i/TsXcxDG+mapROYbiEOzkHbK7JQ+VQeABmcebS9P1OyWK74dHXPrdsa10LK8r9VU/n0zgByICKJZEDzoko75e2zt0J/8SlYdZM64IDfcQWRlfkM17WqLayZ6qZWDEH+pMON2D6hDHGu+Ir3lNOnwvdEHbuRy03ZzQloGwZR5LPXSOakInIlcUGrcZHmb09DWdgSJ4=;v3KAFvVpJX7a6yoayCtf4w=="
+secured: "3IAgns5H24euv+rWjpXm3iMI7KfRYvuAyf4zdGly3iXMZf0XBgjhQADd7twFZtLWlLsKoc9OcBWJoGer2uCBiK4GotE+0r/SCM1DkEbc/dkjs17xGVzvER4reJOd76D9YEcKWSJ/pAYJ35oZp9/a/M3kDN6CqcEX9z0FPJLjNLHQ7wK7C+bXe94+tvuf9w7bom4wVRmMU33YekgyqWaSkIoP1zKXsKwwPQZUb/Q2KnKv4wtDCCc0MNbsWbYurklQEVuefo1PimN3Ws+34k8JQfm2t26/wqHNLi6GSITKZ7ZXcwuabOsfctbt7E8hzokKO611fQ4mtWVgPJasEPsizASeR7NpxkyDr8BDR866lls=;h3JM1PSE5r08vElom4h1dQ=="
 ---
 
