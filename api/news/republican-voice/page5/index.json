@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-04-trump-makes-no-mention-of-desantis-at-florida-rally.md",
+      "title": "Trump makes no mention of DeSantis at Florida rally",
+      "excerpt": "Former President Trump hit plenty of high notes at his rally Saturday night in Sarasota, Florida. But he glaringly didn't mention the name of his strong ally in the Sunshine State - GOP Gov. Ron DeSantis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAXX64PBpzw/trump-florida-rally-no-mention-of-desantis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAXX64PBpzw/trump-florida-rally-no-mention-of-desantis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp",
+      "publishedDateTime": "2021-07-04T07:35:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-joe-manchin-still-silent-on-biden-nominee-with-ties-to-eco-terrorism.md",
       "title": "Joe Manchin still silent on Biden nominee with ties to eco-terrorism",
       "excerpt": "Manchin has yet to say a word on whether he supports Tracy Stone-Manning, Biden’s nominee to lead BLM that has come under major scrutiny in recent weeks.",
@@ -1601,62 +1657,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-speaker-trump-he-will-need-to-secure-an-absolute-majority-in-the-house.md",
-      "title": "Speaker Trump? He will need to secure an absolute majority in the House",
-      "excerpt": "It’s unclear if former President Trump will again run for the Oval Office in 2024.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
-      "publishedDateTime": "2021-06-28T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

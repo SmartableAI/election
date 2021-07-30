@@ -669,6 +669,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Supporters Raise $5.7M for Arizona Election Audit"
+    excerpt: "Groups connected to prominent supporters of former President Donald Trump’s movement to cast doubt on the 2020 election results have raised $5.7 million for Arizona Republicans’ election audit."
+    publishedDateTime: 2021-07-29T21:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "What we know about investigations looming over Donald Trump and Trump Organization"
     excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
     publishedDateTime: 2021-05-20T12:50:00Z

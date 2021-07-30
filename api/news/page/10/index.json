@@ -2,6 +2,54 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-12-trump-rips-through-the-roof-crime-in-nyc-other-democrat-led-cities.md",
+      "title": "Trump rips ‘through the roof’ crime in NYC, other Democrat-led cities",
+      "excerpt": "The former president said “New York is totally out of control” ​because there is “no more cash bail” and “all they do is go after Republicans.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
+      "originalUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-003.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
+      "publishedDateTime": "2021-07-12T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-lin-wood-blames-trump-lawyer-sidney-powell-for-dragging-him-into-election-fraud-case.md",
       "title": "Lin Wood Blames Trump Lawyer Sidney Powell for Dragging Him Into Election Fraud Case",
       "excerpt": "Wood told a judge on Monday that he never reviewed documents in the case, attempting to absolve himself of responsibility.",
@@ -1293,62 +1341,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-donald-trump-jr-says-hell-be-very-involved-on-2022-campaign-trail.md",
-      "title": "Donald Trump Jr. says he’ll be ‘very involved’ on 2022 campaign trail",
-      "excerpt": "Donald Trump Jr. pledges he’ll be “everywhere” in the 2022 midterms, as the Republicans aim to win back the majorities in the House and Senate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/DonaldTrumpJr-CPAC-Dallas.jpg",
-          "width": 1194,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T15:28:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

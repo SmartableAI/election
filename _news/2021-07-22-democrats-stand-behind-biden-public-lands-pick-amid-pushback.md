@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-stand-biden-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-stand-biden-public-lands-pick-amid-pushback-78992782"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 55
+  - title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
+    excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
+    publishedDateTime: 2021-07-29T22:14:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6a064ce42be9ae1b46a1fb8c7c226903/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6a064ce42be9ae1b46a1fb8c7c226903/BIDEN-VACCINE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "BysOl0whRO+hsNhVM5VjGAzmkrglZp97VY3EZ8J8PYCdhRtt4v9x3Z251XUmu4kpNcsGhgKHzMFLS7aigFI//XNJ4RJ7HmgBgILGUhdipGmnLCCyuLKCgFjWkhBsbwiFaxNa7IsCruGXIA1vhMbYz7RAnHdkZgoWMjzsTq4UWzEmsK4ka3KcshCdhD5fGxBJNWMxCYx86KwYo5PK0Ul5ex1/HwnOkfPJ7ESILOFQVuezaxrbVhhO+xdaOv1V3EM9WBeVJBhqyhoZLI6fVcU/EINlOU4mSKU1DQefvddb/N4AJHiZH4ZJb0b2K9rQSzwN0T+Nvif09eOK2fgR17OL3tb1tFXMU5DqgRXfn9qBG9jluXW9x1R+PFHswb2Z3yYBpMjhRetKuoBPymZeF0bGzXA9/He/jCtSjdkUWOqsTEFH9o0IfiQUgGiN4/6/dVcz5a3Mj3AZoNxUVAoNdZ33KrbUGjqq+W+bAMKKJseLod6glmgp+4F6LHjhAlhegMts5PYmB8yGJDkrRvgutUQKXw==;Swnf8ezbFOxG01791U0Sqg=="
 ---

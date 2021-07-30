@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-28-biden-if-us-has-real-shooting-war-it-could-be-result-of-cyber-attacks.md",
+      "title": "Biden: If U.S. has 'real shooting war' it could be result of cyber attacks",
+      "excerpt": "President Joe Biden on Tuesday warned that if the United States ended up in a \"real shooting war\" with a \"major power\" it could be the result of a significant cyber attack on the country, highlighting what Washington sees as growing threats posed by Russia and China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/sRkmzaJO11OAE2I883BVrfRIvZw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CKSQMSZKH5K35D7ZNSHQTPNZDY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-new-jersey-town-drops-case-against-f-biden-sign-lady-after-aclu-intervenes-report.md",
       "title": "New Jersey town drops case against ‘F--- Biden’ sign lady after ACLU intervenes: report",
       "excerpt": "A town in New Jersey has decided to end its effort to have a resident remove various anti-Biden signs from her property, including several that contain profanity.",
@@ -1281,58 +1333,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-donald-trump-jr-vastly-more-popular-with-republicans-than-mitch-mcconnell-poll-shows.md",
-      "title": "Donald Trump Jr. Vastly More Popular With Republicans Than Mitch McConnell, Poll Shows",
-      "excerpt": "Donald Trump Jr., who has been a vocal force in the Republican party, was also significantly more popular than House Minority Leader Kevin McCarthy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1855069/donald-trump-jr-poll-mitch-mcconnell.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1",
-      "publishedDateTime": "2021-07-26T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

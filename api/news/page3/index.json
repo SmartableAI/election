@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-26-donald-trump-jr-vastly-more-popular-with-republicans-than-mitch-mcconnell-poll-shows.md",
+      "title": "Donald Trump Jr. Vastly More Popular With Republicans Than Mitch McConnell, Poll Shows",
+      "excerpt": "Donald Trump Jr., who has been a vocal force in the Republican party, was also significantly more popular than House Minority Leader Kevin McCarthy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1855069/donald-trump-jr-poll-mitch-mcconnell.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-vastly-more-popular-republicans-mitch-mcconnell-poll-shows-1613127?amp=1",
+      "publishedDateTime": "2021-07-26T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-biden-and-kadhimi-seal-agreement-to-end-us-combat-mission-in-iraq.md",
       "title": "Biden and Kadhimi seal agreement to end US combat mission in Iraq",
       "excerpt": "President and PM meet at Oval Office and announce schedule to shift mission entirely to training and advisory role by end of this year",
@@ -1257,54 +1309,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-biden-gives-odd-response-about-sucking-blood-out-of-kids-to-question-about-defunding-police.md",
-      "title": "Biden Gives Odd Response About \"Sucking Blood Out Of Kids\" To Question About Defunding Police",
-      "excerpt": "President Biden caused confusion and concern with a bizarre answer to a question about progressive Democrats who campaigned to \"defund the police\" on Thursday evening. \"Are there people in the Democratic Party who want to defund the police?",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/548899.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
-      "publishedDateTime": "2021-07-23T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -163,6 +163,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Vice President Kamala Harris unveils strategy to address illegal immigration at the border"
+    excerpt: "Vice President Kamala Harris released a sweeping strategy on Thursday to address the root causes of migration amid the recent surge in illegal U.S.-Mexico border crossings."
+    publishedDateTime: 2021-07-29T20:57:00Z
+    webUrl: "https://www.cnbc.com/2021/07/29/vice-president-kamala-harris-unveils-strategy-to-address-illegal-immigration.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/07/29/vice-president-kamala-harris-unveils-strategy-to-address-illegal-immigration.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/29/vice-president-kamala-harris-unveils-strategy-to-address-illegal-immigration.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 115
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106918961-1627576354452-gettyimages-1234243967-HARRIS_BAR.jpeg?v=1627576451"
+        width: 5500
+        height: 3672
+        isCached: true
   - title: "Can Kamala Harris Resurrect the Alliance for Prosperity—With Thugs?"
     excerpt: "Report: Can Kamala Harris Resurrect the Alliance for Prosperity—With Thugs? Can Kamala Harris Resurrect the Alliance for... Biden’s first 100 days This article is part of Foreign Policy’s ongoing coverage of U."
     publishedDateTime: 2021-05-07T13:04:00Z

@@ -685,6 +685,17 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Supporters Raise $5.7M for Arizona Election Audit"
+    excerpt: "Groups connected to prominent supporters of former President Donald Trump’s movement to cast doubt on the 2020 election results have raised $5.7 million for Arizona Republicans’ election audit."
+    publishedDateTime: 2021-07-29T21:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-29/trump-supporters-raise-57m-for-arizona-election-audit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
     excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
     publishedDateTime: 2021-05-09T05:00:00Z

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-24-biden-heckled-at-terry-mcauliffe-rally-plagued-by-another-small-crowd.md",
+      "title": "Biden heckled at Terry McAuliffe rally, plagued by another small crowd",
+      "excerpt": "President Biden was heckled by an audience member during an appearance in Virginia on Friday and stopped his speech to address the individual.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rlc-o-UYTto/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rlc-o-UYTto/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fbf889c-b70b-48da-8ae6-495e8e02a8ee/840bcc45-5e37-4994-9e60-a1f39dd62771/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
+      "publishedDateTime": "2021-07-23T17:40:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
       "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
       "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
@@ -1561,62 +1617,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp",
       "publishedDateTime": "2021-07-17T08:31:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.md",
-      "title": "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning",
-      "excerpt": "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
-      "publishedDateTime": "2021-07-17T06:27:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

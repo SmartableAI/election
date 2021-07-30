@@ -198,6 +198,20 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 55
+  - title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
+    excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
+    publishedDateTime: 2021-07-29T22:14:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6a064ce42be9ae1b46a1fb8c7c226903/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6a064ce42be9ae1b46a1fb8c7c226903/BIDEN-VACCINE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "BH2ohWBNbLWsVd5QQ39Q3Wom1fun6fd2pdV1fq4ABifxssakjEP5aqaQmHXgb6wG39/IGzYhhTSDus+GwEF0XsrLXKPhZmKTTSFV7AwxXYS5v2HtNrJaNcroKXkDWkLRrutZrDWy/AqfqXz2RKqNDY8oNO4xxKgUS4ThKjQD/s7RMEiYH8+AEjqNd950m2cVPKuNyPgnL/7DFLEG0XDuEKbOCcmx3lAqTi8uCSwQyizfMeHfsLakFLHFhQ43l9th2ANBqIaTUkJxjpS5upd+vZjFDrucPKEIoA8rVxu54POc2InTXEIYsjRo071eMcjqpvUVVyBCo5APDwqV9Bz+G3ZU4OisIEK/VA6YjTO9omi2klU21N4Ubxvnvnq+WXIUG35jxI3GRi4M4fEqQLaiP3M6uHe9j4/J9JmCHqiCdZpa/lv8MUTf7/3UdBPUHHFWbSupZC05HBlMyoPw3TOk4AO+WFFwjR8d1Wv9sUpTkfcPo0+Ba09Qu6Z9H7lQmMv4K6EARv/Kxed5fDcGNKROwg==;CrTcCFJHc61ylqQOlszazg=="
 ---

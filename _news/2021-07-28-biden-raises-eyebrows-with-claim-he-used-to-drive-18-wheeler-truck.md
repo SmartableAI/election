@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-claims-driven-18-wheeler.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claims-driven-18-wheeler.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Hunter Biden's wife spotted being driven to Malibu Starbucks by Secret Service"
+    excerpt: "Hunter Biden's wife was spotted being escorted by Secret Service agents on a Malibu, California coffee run Tuesday."
+    publishedDateTime: 2021-07-29T23:17:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9_YlOgttHE0/hunter-biden-wife-california-starbucks"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-wife-california-starbucks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-wife-california-starbucks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70f20720-b113-46f4-aeeb-94c446c51ebc/9a0c7538-6812-4e5f-87e6-ca7d546022d5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "Z3UMNHIszjnIJxFDq7ug8Ys3uWY8SR66ZiVpEn/+HolpF0kXZg2I7+ppxprkgQ1lQxqrJj+IT/mq7hDG3ANEtLwaGM3xUgKz9RCbAtwbvCz5AZG7j87DHVCZT4T5ykNg5W2blsLXv1kFHbn48uOX6tmEfjYmub47vY/mzpW7iZrUMuac5l6hOUyexO853lLbo0YUfTlsh3ret/UDsA227N0fvHharMCt32A/LDSdtv89tWjoq1Nf0zVC8/d1XWFQJrHzXEBbRLsrZ6jFSkeSfYvg/R67fe0GGLvdSorhRHlIcAUjzj4dQUWiPaUdDd966i/Yhyxj2mmLj3PsgJsgIjX2BJX4tqM1USfxOJMbFtQ=;QifaGauebQGT95iMsOG7bQ=="
 ---
