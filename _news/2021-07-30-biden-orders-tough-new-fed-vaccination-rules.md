@@ -165,6 +165,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden orders tough new vaccination rules for federal workers"
+    excerpt: "President Joe Biden on Thursday announced sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
+    publishedDateTime: 2021-07-30T05:57:00Z
+    webUrl: "https://www.myjournalcourier.com/news/article/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+    ampWebUrl: "https://www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+    type: article
+    provider:
+      name: Journal-Courier
+      domain: myjournalcourier.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "US President Joe Biden spars with reporter over masks for the vaccinated"
     excerpt: "US President Joe Biden sparred with a reporter over his previous statements on relaxing mask rules for fully-vaccinated Americans. Earlier this week, the US Centers for Disease Control said even vaccinated people living in areas with higher rates of Covid transmission should wear masks indoors."
     publishedDateTime: 2021-07-30T01:30:00Z

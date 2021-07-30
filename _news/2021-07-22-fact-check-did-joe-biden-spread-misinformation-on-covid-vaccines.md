@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -164,6 +164,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fe21e5de-209c-4e39-8cf9-bad530a63c2e_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden orders tough new vaccination rules for federal workers"
+    excerpt: "President Joe Biden on Thursday announced sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
+    publishedDateTime: 2021-07-30T05:57:00Z
+    webUrl: "https://www.myjournalcourier.com/news/article/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+    ampWebUrl: "https://www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+    type: article
+    provider:
+      name: Journal-Courier
+      domain: myjournalcourier.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "US President Joe Biden spars with reporter over masks for the vaccinated"
     excerpt: "US President Joe Biden sparred with a reporter over his previous statements on relaxing mask rules for fully-vaccinated Americans. Earlier this week, the US Centers for Disease Control said even vaccinated people living in areas with higher rates of Covid transmission should wear masks indoors."

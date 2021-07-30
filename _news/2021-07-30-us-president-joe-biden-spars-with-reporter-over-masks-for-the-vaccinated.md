@@ -175,6 +175,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden orders tough new vaccination rules for federal workers"
+    excerpt: "President Joe Biden on Thursday announced sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
+    publishedDateTime: 2021-07-30T05:57:00Z
+    webUrl: "https://www.myjournalcourier.com/news/article/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+    ampWebUrl: "https://www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+    type: article
+    provider:
+      name: Journal-Courier
+      domain: myjournalcourier.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
     publishedDateTime: 2021-07-22T01:33:00Z
@@ -192,6 +208,6 @@ related:
         height: 683
         isCached: true
 
-secured: "3IAgns5H24euv+rWjpXm3iMI7KfRYvuAyf4zdGly3iXMZf0XBgjhQADd7twFZtLWlLsKoc9OcBWJoGer2uCBiK4GotE+0r/SCM1DkEbc/dkjs17xGVzvER4reJOd76D9YEcKWSJ/pAYJ35oZp9/a/M3kDN6CqcEX9z0FPJLjNLHQ7wK7C+bXe94+tvuf9w7bom4wVRmMU33YekgyqWaSkIoP1zKXsKwwPQZUb/Q2KnKv4wtDCCc0MNbsWbYurklQEVuefo1PimN3Ws+34k8JQfm2t26/wqHNLi6GSITKZ7ZXcwuabOsfctbt7E8hzokKO611fQ4mtWVgPJasEPsizASeR7NpxkyDr8BDR866lls=;h3JM1PSE5r08vElom4h1dQ=="
+secured: "nGz7vSFLbaerjZ5TwR5Bxp3htsAPk1l6Al1QLBOlBJsksIbULvoR69mh6dj6s/aeGA/Iiz0FKjLeY7vlL31dGOoRaDgiKORwmJb2a4JTTZYSDTeX7JE3N1PsDFRE8jhkoP6DfTMVSm/x3mRP0Ui9mNpYrzAhSgZrlktsI9GtYTyw6A1vWXl4yYsLOSBb+aIS0R5Lb3c2OPUxC35vt8yA8DnHs9cQdNXKnlD3ScC5AKkDtAzmYNwOtAhVQGC9i24TnbBz8UEXAogaLoIyWfnhO+Qquo5VsH0YaD6mkqjSF4+Q0ZCh22Jwurpy9Py6gKeUCG58vAWWD/Nq3aKUt7ANtDofm4dCKTMsE1v7JjLTjkUq+ei03k1UyNRSFjPc0xPxeC5BQF0h9uCK5tLLNLAH+7tetoQjXDJ2bvRnriblQponMF9N5kFsh2ZS8wQKXtxNTYPy5G7thnLTxlSUtZ/VkRzjI42RnUZx+AE4Tdf/88WyDHJrv8mma4tHP+/I7MtprkrhTk3Bacs+rm0fGaxhVA==;LhAtIBIQOO7xYDF2SmpTJA=="
 ---
 

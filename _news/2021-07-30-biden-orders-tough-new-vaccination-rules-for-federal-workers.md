@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Biden will require federal employees be vaccinated or tested -CNN"
-excerpt: "U.S. President Joe Biden will announce on Thursday a requirement that all federal employees and contractors be vaccinated against COVID-19 or be required to submit to regular testing, CNN reported on Tuesday,"
-publishedDateTime: 2021-07-27T20:12:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-will-require-federal-employees-be-vaccinated-or-tested-cnn-2021-07-27/"
-webUrl: "https://www.reuters.com/world/us/biden-will-require-federal-employees-be-vaccinated-or-tested-cnn-2021-07-27/"
+title: "Biden orders tough new vaccination rules for federal workers"
+excerpt: "President Joe Biden on Thursday announced sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
+publishedDateTime: 2021-07-30T05:57:00Z
+originalUrl: "https://www.myjournalcourier.com/news/article/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+webUrl: "https://www.myjournalcourier.com/news/article/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+ampWebUrl: "https://www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
+cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Journal-Courier
+  domain: myjournalcourier.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/n2ZGxf3q3rDwlPNlCLlhi4OV6i8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VTU4Z7K4ZNXZCCBEXPE4DLLZA.jpg"
-    width: 1200
-    height: 628
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -151,6 +149,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden will require federal employees be vaccinated or tested -CNN"
+    excerpt: "U.S. President Joe Biden will announce on Thursday a requirement that all federal employees and contractors be vaccinated against COVID-19 or be required to submit to regular testing, CNN reported on Tuesday,"
+    publishedDateTime: 2021-07-27T20:12:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-will-require-federal-employees-be-vaccinated-or-tested-cnn-2021-07-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/n2ZGxf3q3rDwlPNlCLlhi4OV6i8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VTU4Z7K4ZNXZCCBEXPE4DLLZA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden orders tough new fed. vaccination rules"
     excerpt: "President Joe Biden announces sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
     publishedDateTime: 2021-07-30T00:19:00Z
@@ -164,22 +176,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fe21e5de-209c-4e39-8cf9-bad530a63c2e_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Biden orders tough new vaccination rules for federal workers"
-    excerpt: "President Joe Biden on Thursday announced sweeping new pandemic requirements aimed at boosting vaccination rates for millions of federal workers and contractors as he lamented the “American tragedy” of rising-yet-preventable deaths among the unvaccinated."
-    publishedDateTime: 2021-07-30T05:57:00Z
-    webUrl: "https://www.myjournalcourier.com/news/article/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
-    ampWebUrl: "https://www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
-    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/Biden-to-launch-vaccine-push-for-millions-of-16347892.php"
-    type: article
-    provider:
-      name: Journal-Courier
-      domain: myjournalcourier.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "US President Joe Biden spars with reporter over masks for the vaccinated"
     excerpt: "US President Joe Biden sparred with a reporter over his previous statements on relaxing mask rules for fully-vaccinated Americans. Earlier this week, the US Centers for Disease Control said even vaccinated people living in areas with higher rates of Covid transmission should wear masks indoors."
@@ -212,6 +208,6 @@ related:
         height: 683
         isCached: true
 
-secured: "JsE6fMDVUN9BYg6slweEIxFWL79MMIBJyJeokI718IF7DERe9/sTn+m3IHbGBi0r05VfSdFSqgDnS+TcfG6NH3BY9mImLmdnmPXO8IcVAT3ysvePr169T+RRuW7o2Pyu6B53rISKA/DiyqmQdGLr55jJyWxJeyPT510NYu2+oN0+XDWHHAv6rt96R+l8SF2+E8nSXlwsd/E2oNGbnoXpnkmnO8IN0GgOvujcrykCmiE/H3x0/9CuXPmjgrVBl01yOuY/PoaV0/9vIIooXH0uCI9lhya905lPol2++2qyHU3ga2dHsLjUJSZMDHfC6J/rL+u7fZs3HOx4kQG6gHlt9t5+C640pHS5S8xIfRIZxvo=;FAS4OY0vnzN9jT4LM68Rmw=="
+secured: "NHRTNQNcevAexCYvoiMH48Eve5XvWrpavhx/Cz2g5OBoELyZcnhpwn/QCVlgqinGhP6Iv4SBI3YWeZMCUs3g+XjKdFGVofpeKntvfj9zCrCKzVxRriTorEIJXS84JvPCxvTYOwckVlDgeh28eNreZI2RuEfGzHbzb6/bkpj3lQWuia1CJ1b/wOp9rtv044H5l3b7jl3hkxTgp6r3i6klMUH2Wid60F1w1/gHpyM/c2hibjirMD/9jWHBK0gUUxv7hTobqvmda5FYu/aikvEzg5lERJrg0FiuEu88kAc7C38bFtaa0hF2emRgDJhmBiKwa56DqCLj631V5c7e7MWanGR5DmqIJ8s99dGWVFZyR/0=;AMXtbmhlXbwmOtItEG38wQ=="
 ---
 
