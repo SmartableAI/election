@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to discuss new sanctions on Cuban regime with Cuban-American leaders"
+    excerpt: "President Joe Biden will discuss applying new sanctions on the Cuban regime when he meets with Cuban-American leaders at the White House on Friday, according to a White House official. \n    \n"
+    publishedDateTime: 2021-07-30T13:48:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mkav0MBk-SI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-new-sanctions-cuba/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-new-sanctions-cuba/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210730093822-biden-cnn-primera-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden stays close to home as he plots blue-collar focused presidential travel"
     excerpt: "Want to see President Joe Biden in person? Consider a move to Pennsylvania.\n    \n"
     publishedDateTime: 2021-07-28T19:36:10Z

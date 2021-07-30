@@ -805,7 +805,7 @@
       "originalUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -1077,13 +1077,13 @@
     {
       "path": "_news/2021-07-15-mike-pence-evidence-strongly-suggests-covid-19-came-from-a-chinese-lab.md",
       "title": "Mike Pence: Evidence 'strongly suggests' COVID-19 came from a Chinese lab",
-      "excerpt": "Mike Pence spoke out on China at the Heritage Foundation. A new paper posted the same day says there's no evidence COVID-19 originated in a lab. Pence also called out corporations, including Nike ...",
+      "excerpt": "Ex-VP Mike Pence points to a Chinese lab as COVID's source, but doesn't elaborate on the evidence he's citing. In a new paper, virologists disagree.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "webUrl": "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "originalUrl": "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1097,23 +1097,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7968126002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7968126002",
-      "publishedDateTime": "2021-07-14T13:17:00-07:00",
+      "ampWebUrl": "https://amp.freep.com/amp/7968126002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7968126002",
+      "publishedDateTime": "2021-07-14T15:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -59,6 +59,20 @@ related:
         width: 2882
         height: 1989
         isCached: true
+  - title: "READOUT: Vice President Kamala Harris Joins SBA Administrator Isabella Casillas Guzman for a ..."
+    excerpt: "On July 29, 2021, Vice President Kamala Harris and SBA Administrator Isabella Casillas Guzman met with small business owners and advocates to discuss critical Biden-Harris economic aid to help small businesses in rural,"
+    publishedDateTime: 2021-07-30T15:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-health-kamala-harris-coronavirus-pandemic-a052e071dbb52aa8891c6e98df0f4091"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 92
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Harris calls on Black lawyers to fight states’ voter-integrity laws"
     excerpt: "Vice President Kamala Harris urged Black lawyers Tuesday to challenge new election laws in mostly Republican-led states that she said are intended to restrict minority voting and shift vote-counting to partisan entities."
     publishedDateTime: 2021-07-27T19:11:00Z
@@ -74,6 +88,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/26/Biden_08119.jpg-d9ffb_c0-458-5495-3663_s1200x700.jpg?ac76d24151b5fdfcbb22158c02a6cc96c26d6cd4"
         width: 1200
         height: 700
+        isCached: true
+  - title: "US Vice-President Kamala Harris will visit Singapore and Vietnam next month"
+    excerpt: "Harris will be the first US vice-president to visit Vietnam, during a trip designed to strengthen ties with ‘two critical Indo-Pacific partners’."
+    publishedDateTime: 2021-07-30T14:25:00Z
+    webUrl: "https://www.scmp.com/news/asia/southeast-asia/article/3143259/us-vice-president-kamala-harris-will-visit-singapore-and"
+    ampWebUrl: "https://amp.scmp.com/news/asia/southeast-asia/article/3143259/us-vice-president-kamala-harris-will-visit-singapore-and"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/southeast-asia/article/3143259/us-vice-president-kamala-harris-will-visit-singapore-and"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 73
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/30/65a1839e-f13e-11eb-b683-cf7af9070523_image_hires_230526.jpg?itok=eMR30PKY&v=1627657533"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Frederick man sentenced to seven months in federal prison for threatening Biden, Harris during 2020 campaign"
     excerpt: "A Maryland man was sentenced Tuesday to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when they were candidates during the 2020 campaign."
@@ -171,6 +201,48 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Harris to visit Singapore, Vietnam, focus on economic ties"
+    excerpt: "Vice President Kamala Harris will visit Singapore and Vietnam next month on a trip focused on strengthening economic ties and celebrating America’s cultural connection with the Indo-Pacific"
+    publishedDateTime: 2021-07-30T14:50:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/harris-to-visit-singapore-vietnam-focus-on-economic-ties/article_ec11c64b-c940-52d4-b997-f2effe54566b.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/37/e374e5dd-8b8c-5661-a9de-6cc1a7b6ff09/6104181961b0c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Harris Will Be First US Vice President to Visit Hanoi"
+    excerpt: "U.S. Vice President Kamala Harris will next month travel to Singapore and Vietnam, “two critical Indo-Pacific partners,” the White House confirmed on Friday. Vietnamese President Nguyen Xuan Phuc first announced the visit on Thursday,"
+    publishedDateTime: 2021-07-30T15:36:00Z
+    webUrl: "https://www.voanews.com/usa/harris-will-be-first-us-vice-president-visit-hanoi"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 55
+    images:
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2021-07/2021-07-30t142024z_1940998639_rc.jpg"
+        width: 5000
+        height: 3333
+        isCached: true
+  - title: "US Vice-President Kamala Harris to visit Singapore and Vietnam"
+    excerpt: "She will engage leaders on regional security, the Covid-19 pandemic and climate change among other issues.. Read more at straitstimes.com."
+    publishedDateTime: 2021-07-30T14:24:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/us-vice-president-kamala-harris-to-visit-singapore-and-vietnam"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 55
+    images:
+      - url: "https://www.straitstimes.com/s3/files/styles/x_large/public/articles/2021/07/30/yq-kamalah-30072021.jpg?itok=ZQh5xyWi"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
     excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
     publishedDateTime: 2021-07-27T22:58:00Z
@@ -198,6 +270,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/09/us-vice-president-kamala-harris-has-caught-flak.jpg"
         width: 1024
         height: 667
+        isCached: true
+  - title: "US Vice President Kamala Harris to make first official visit to Singapore, Vietnam"
+    excerpt: "SINGAPORE: US Vice President Kamala Harris will make her first official visit to Singapore and Vietnam next month, the White House announced on"
+    publishedDateTime: 2021-07-30T14:03:00Z
+    webUrl: "https://www.channelnewsasia.com/news/world/us-vice-president-kamala-harris-visit-singapore-vietnam-15340826"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 49
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15340828/16x9/991/557/9fc676cae8f639361580f815d14996df/bL/u-s--vice-president-harris-visits-detroit-1.jpg"
+        width: 991
+        height: 557
         isCached: true
   - title: "Kamala Harris immigration: VP introduces strategy to address root causes of migration"
     excerpt: "The task of leading the Biden administrations efforts to stem migration following the record number of migrants this year falls on Vice President Kamala Harris. This week, Harris introduced the strategy to tackle the"

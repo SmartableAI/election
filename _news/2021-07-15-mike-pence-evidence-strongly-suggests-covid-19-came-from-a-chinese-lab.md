@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Mike Pence: Evidence 'strongly suggests' COVID-19 came from a Chinese lab"
-excerpt: "Mike Pence spoke out on China at the Heritage Foundation. A new paper posted the same day says there's no evidence COVID-19 originated in a lab. Pence also called out corporations, including Nike ..."
-publishedDateTime: 2021-07-14T20:17:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7968126002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7968126002"
+excerpt: "Ex-VP Mike Pence points to a Chinese lab as COVID's source, but doesn't elaborate on the evidence he's citing. In a new paper, virologists disagree."
+publishedDateTime: 2021-07-14T22:08:00Z
+originalUrl: "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/"
+webUrl: "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/"
+ampWebUrl: "https://amp.freep.com/amp/7968126002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7968126002"
 type: article
-quality: 124
-heat: 124
+quality: 74
+heat: 74
 published: true
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -30,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "7YCaCjO6TycfgXNY/PbABrDeK5lEOJ7S++9wgA+0MP76tTuWLV9NF6El0kS3Gb4B9shLj8Uwv/NoRFWLPem8aB9ELMWAQ5Rvh0gu8F9ALccADlaUOgnjw7mzhaPj+m4x3Qu6rOLlT1QFrGLsJbeRTekFDaw6VS33jsONdIh7sCvIxwUb3+GMk+8f+zWBnwbpAeoTJi9LFs9Bef0aEaG8IbpAk4z6Bfi/ghoQ43zbMzkk+GGCe/nkp7+KPeNz91U8xTk9YbCM28DqS3l2MCTyJwF3AnN6vN0xCRLi4eIwsSKdwlo0HeOEaBJWbpC+Sa5D/kThPx4U9HQrTIrig40uHdBI5kuEDKCF+7EZf9hDjio=;sEgjkhSLvx9PP/FR7UsWyw=="
+secured: "L7w9s6MZQSqLm5S8KpN9w5G1K7NvkJcCxlMh41R6315qA+eN0cwoCDJGPmaT716MVdRixYSGNaPdkV+mRs3qi74YeskvHUrGE2TDZPUIXQAdl1ufewhmLSB/Tu74fbN2TZ7oOeRmNgIbRulH0YS+ONgezH40Z8UkZT/xb4r1oFFyY7KQWNLjcdPRDcBOLkc5DSslKjQZk8SPFd0Lg2Og49W78oEuEm6nV4VmoMr8uRL1P3wBbJvqfCFu+M4s6WRjj3QUQ9tw6BqZ7TiGcPa5DtMXu89jazH5gdi9E7TjMCrwV3bOo1A2Df+iT+pXKFIVY3n4PZaRSlK988oM5WGWd5Y8H053PhuYQmc560YgkZY=;6hE300D4mmL/qjOOFSHeGg=="
 ---
 

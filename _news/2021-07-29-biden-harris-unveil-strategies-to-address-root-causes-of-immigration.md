@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-immigration-root-cause
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp"
 type: article
 quality: 200
-heat: 500
+heat: 520
 published: true
 
 provider:
@@ -157,6 +157,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-border.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris to visit Asia as US-Mexico border crisis worsens"
+    excerpt: "Kamala Harris announced an August trip to Singapore and Vietnam despite data showing that the migration crisis is worsening on the US-Mexico border."
+    publishedDateTime: 2021-07-30T15:55:00Z
+    webUrl: "https://nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/"
+    ampWebUrl: "https://nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/file-immigration-border5.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

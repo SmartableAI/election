@@ -91,6 +91,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sexism in Politics Is Real. It's Not Kamala Harris' Main Problem."
+    excerpt: "\"Perhaps the worst-kept secret in Washington is that tons of Democrats are terrified of the prospect of Kamala Harris becoming the Democratic Party presidential nominee at some point in the future,\" writes Matthew Yglesias,"
+    publishedDateTime: 2021-07-30T13:46:00Z
+    webUrl: "https://reason.com/2021/07/30/sexism-in-politics-is-real-its-not-kamala-harris-main-problem/"
+    ampWebUrl: "https://reason.com/2021/07/30/sexism-in-politics-is-real-its-not-kamala-harris-main-problem/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/07/30/sexism-in-politics-is-real-its-not-kamala-harris-main-problem/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 75
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/07/Screen-Shot-2021-07-30-at-9.10.28-AM-1024x552.png"
+        width: 1024
+        height: 552
+        isCached: true
   - title: "VP Kamala Harris taps into California donor base for Democratic Party fundraiser"
     excerpt: "Vice President Kamala Harris is speaking at Democratic Party fundraiser that was billed to California donors as a “virtual homecoming” for the former U.S. senator."
     publishedDateTime: 2021-07-17T12:00:00Z
