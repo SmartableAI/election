@@ -209,18 +209,18 @@ related:
       domain: newsobserver.com
     quality: 55
   - title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
-    excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
+    excerpt: "U.S. President Joe Biden arrives to talk about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday,"
     publishedDateTime: 2021-07-29T22:14:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/679cfe1514f3f7a7855dada268170475/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ddbfe9729103c4405235aebe0148c79c/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/679cfe1514f3f7a7855dada268170475/BIDEN-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/ddbfe9729103c4405235aebe0148c79c/BIDEN-VACCINE.jpg"
         width: 650
-        height: 974
+        height: 433
         isCached: true
 
 secured: "e1iSNiA02wLHr5vqwALV+WV0vfBwpmzFsAflVLL4VnuwNjvgqU+K6/IFU1fXMb0hZEqPSDZyt4fvEliGBnioyVIUSPdTrRoliLRXSo5EmoUgkjH79D9qtSRj1QBWWE72nVn3Rx6G+qutwcEjHW0VZcCrWeDCsX8Ju/pE82v1iwahCRbawF3Xc+IK9+uQSPVd2gzfvUVsoYRiYeyEFU/30xFV2nCkqTyb9op3ZAQJ6u7LBroVwKK66RxMEnKCvcSHfGkmpf65ADwpk9QCu09eS8rKl1NhFJ09zZN03n9yWYy3FYPo3YVGFeIBLjIG9wZPOKtWiO+lXombUqwDxYNUmswqhaxBzGOA05LZB9FrML7ZI8ETYpNXAZREKix0L/tx3zVnfQUhsPcu5ulXSitwjD06s4u3L9T4wiLX8JE7o+gqFSfVuDpJdgJcc8bvIwmS2fRdhwNE3oZy4BTYY9O8n7554JSWe6VU1HxAuqLeveP/Th9wc9hyKDa33L/gV03TkGeHH+2KbPsO5RttLGbmwg==;kj31HG/LiOEphTolNVNbyQ=="

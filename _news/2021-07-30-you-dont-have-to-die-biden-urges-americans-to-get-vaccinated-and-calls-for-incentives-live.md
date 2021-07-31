@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-m
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 type: article
 quality: 92
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b8872a3d-8c49-4786-9a9e-6a13b0d00e90_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden to nominate Miami-born Cuban American Frank Mora as OAS Ambassador"
+    excerpt: "If the Senate confirms him, he'll be the second consecutive Cuban American from Miami to serve as U.S. Ambassador to the Organization of American States."
+    publishedDateTime: 2021-07-30T18:39:00Z
+    webUrl: "https://floridapolitics.com/archives/444839-joe-biden-to-nominate-frank-mora/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Mora-AP-photo-e1627666202920.jpg"
+        width: 1600
+        height: 1075
         isCached: true
   - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
     excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"

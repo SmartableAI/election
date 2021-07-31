@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-31-biden-says-us-to-see-new-covid-restrictions-in-all-probability.md",
+      "title": "Biden Says US To See New Covid Restrictions 'In All Probability'",
+      "excerpt": "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608",
+      "originalUrl": "https://www.barrons.com/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP2386071646288012197218104372370316208947---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608",
+      "publishedDateTime": "2021-07-30T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-texas-gov-greg-abbott-accuses-biden-of-creating-constitutional-crisis-after-doj-lawsuit.md",
       "title": "Texas Gov. Greg Abbott Accuses Biden of Creating 'Constitutional Crisis' After DOJ Lawsuit",
       "excerpt": "\"This stems from the Biden Administration's refusal to enforce immigration laws and allow illegal immigrants with COVID-19 to enter our country,\" Abbott said Friday.",
@@ -276,7 +319,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 172,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -714,7 +757,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1443,63 +1486,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-msnbc-guest-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.md",
-      "title": "MSNBC guest attacks Biden as 'hypocritical' for failing to end filibuster",
-      "excerpt": "MSNBC host Tiffany Cross and her guests criticized President Joe Biden for \"failing\" to end the filibuster while fighting Republican election reform bills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92f4cc0c-cb4d-4f07-9c3a-50c1dc6bdafe/53331b72-c653-4a88-9b8b-ff321e9b3112/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.amp",
-      "publishedDateTime": "2021-07-18T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

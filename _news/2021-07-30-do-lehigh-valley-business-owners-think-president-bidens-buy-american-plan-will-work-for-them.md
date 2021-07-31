@@ -61,6 +61,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Joe Biden to nominate Miami-born Cuban American Frank Mora as OAS Ambassador"
+    excerpt: "If the Senate confirms him, he'll be the second consecutive Cuban American from Miami to serve as U.S. Ambassador to the Organization of American States."
+    publishedDateTime: 2021-07-30T18:39:00Z
+    webUrl: "https://floridapolitics.com/archives/444839-joe-biden-to-nominate-frank-mora/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Mora-AP-photo-e1627666202920.jpg"
+        width: 1600
+        height: 1075
+        isCached: true
 
 secured: "Ey3PlpQ8rd+TcfMTXb5CUv+izxlzKqs/JBm9I7oQ+BEx0nR78lfrep+Fb9cVS28VqX/VytaDZt4N1Yq4scuQVCqsp8j6pfCc93LkjTOOb4IB3fgEtJknKX1AAh1CkSJ2jH44HbdLry2zeyLX6GwSf3/jjdfSy34KTbMSm5Qrz1mxxvnmkg8rLtQCNBR3XPdQMceEIWOWC6xj8OBYXgNgeiyNH1nAMlOfFsIt4YyekjvMSY7KK7lBH8dPhX4TSorCr0wKWd41jpIargfOGkQWeP4KDqdlHNE6iny06QBggb13Dd3l7bVE080M/orp7GzNwqNlk0hMZu7rEOO+IsK38qU4FiEg16eJgTZ8gaQ6FMU=;Ib/JQXb+z2Kgo+pUaR9i7w=="
 ---

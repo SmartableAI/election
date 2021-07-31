@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/564956-gop-lawmakers-req
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -256,6 +256,17 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "US sets new Cuba sanctions as Biden meets Cuban-Americans"
+    excerpt: "The Biden administration has announced new sanctions against Cuba’s national revolutionary police and its two top officials as the U.S. looks to increase pressure on the communist regime following this month’s protests on the island."
+    publishedDateTime: 2021-07-31T03:32:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253142918.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253142918.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253142918.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
 
 secured: "J9jrGSDSzggeLIjmqnz88DnoQzh+kECESz2G4HH8e4JCnhkU3W2IfkDMCRcd14PZr1rJh+B+pDjXwoBikGyEN3UuhOvvbrbCudyGzthoIqsad4vynh2pJPeMR+DSYya2SUo88mTaIZL4jgH64o5CqKKr3p62xB2ekqoJMAlKKH98APTN38nY6I2655k7GsjCVFQUcCJUN+ZCdy81dq7Irg74a/oMywAMulfahLYj/Hxk4+vkmI2dh5kIH59030OIwmEJSw+j4EtX1CkqYT0lmgphlP7js/+2sPfUntvffDHiadprWEKP91AxiDcMCJc2gUO2Vff7RuW+l8KN68aIjPEsWw8BL1BgsYb1HXJCsVLEa56+aH0q3PjvRGKHuc9IDE+8NJdQcMCC/HjW8M+LxSnK9LQW7B4sSwOX9RIXoZtnnlHGm6+bF8iw43CMEysa4ecMaiLgKUjVoMDoE8u9q5uuVuBKbpU5CiPHzP7Fkzwrl9EFrXm0kHnBY8HSBYE9lAVGiEvZ21nO5LpNv+d8DQ==;qsjJKAbnOcC04oRnxs1eXQ=="
 ---

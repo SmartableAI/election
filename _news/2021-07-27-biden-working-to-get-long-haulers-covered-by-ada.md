@@ -256,6 +256,17 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "US sets new Cuba sanctions as Biden meets Cuban-Americans"
+    excerpt: "The Biden administration has announced new sanctions against Cuba’s national revolutionary police and its two top officials as the U.S. looks to increase pressure on the communist regime following this month’s protests on the island."
+    publishedDateTime: 2021-07-31T03:32:00Z
+    webUrl: "https://www.kentucky.com/news/business/article253142918.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article253142918.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article253142918.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
 
 secured: "HKpF2BAwXG4NTuSh/VjiG38LaPNm61G6bwjdj9jUjqmXNwcyB30LT1OZMw8IEAYyTNIp5YJTPulCSDKI/NABk/9t8JTAWMgJXsKRMAVtuRanpOthMKIsWTgYRdhoviUTzeNzZDbo8ZdQOgToyTjPmhHXGOMGdtJ/Q78gO+RTryYI7bHQ/akMciTX23FPn+P6nm/I/ZbRQGsq9TKV1jFRfV7jffpJ2QNxAATRmertq1OfG3zIr9LUUP3sXkU/ySzSn2Pu8SlSFDWSFJGKykqeYo20THfBbGZ+k7T0WRJuAPrMomvlaUfXogMtxZF1wD8N4iyoKl5BogfXJwnYBbMlVKsXhkAJDfTm/LvIHMFcMVE=;M7ZnD0eI1mJYZlbARDvpJQ=="
 ---

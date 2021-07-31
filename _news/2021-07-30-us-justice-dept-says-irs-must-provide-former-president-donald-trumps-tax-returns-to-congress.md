@@ -61,7 +61,18 @@ related:
         width: 2500
         height: 1664
         isCached: true
+  - title: "U.S. Justice Dept Says IRS Must Provide Former President Donald Trump's Tax Returns to Congress"
+    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
+    publishedDateTime: 2021-07-30T17:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 43
 
-secured: "Y4NEn7tLrjUewgtRD4W0htALedbJFrr5r0iv0GyZ/f6w8J6URo9T8J3NUlS0fz/a9bLGrphcaQT+b7ZXRTwxN2ZMURoxVMeXTMqHf62+kJq9mdJRtHuVVwmxeibER6KxaBD00W0EBddXtKumqtXPS1VZDh21dkPGESxqkW7qIcljbtYqKJy+K3wQce1onY7UYPznnQZMEJpm3cdfNDLt9ebgabZa/kfms5JB9CUfOacKppjhBc+on3vu8CBpcqlgfCv8Xof3fHZoDyZiKrghFz6n5kIHnxgJdFbAamrJQH/jmAPfxcTi0yDSeOeJvSAcuVU5l6l6q4EE1u3mBysw8168/NCboZXa2ZROECtfCh4=;lluBzDanMSf6BMJuTx/cOg=="
+secured: "wYWHP71YO50X33M+NyqRlqERabCkdC5Z0i1HK9qgZJj7dAkn/FTSYFP1wEXoSP+FH99Ef+sTXmnDr8o9iji+XvkorVTpm3N+3bfsokCNLJEklYKmMWZ3hhxsp71ePm+ey+Work0HDgipxXc6riqRo1IkDnAIdx63oiRDdcNnJIR9+xfas6eKU0z8aujzkgkkSF1GRJP/5SqWZflq1dOgSZJW7kZ0N6uBcHDHwfUimbPwCGEqdrPBgyOwnHITXhSGaSyyGsFP6f3K4QVUUETLHafck4QliIDAiF9gStLJ4NPdSNVO/ZZOFquu6aAqgnd0JX0gQehgnt+qT3yy9vywPaBXdMBDKGka8xyowp4CNVbVnDO7nPiNcaNhsL3gNi3YEto1UfIK8dquFp8gjL2JgqLr8Ip3LtcyggIPTT4ZVmN9mBn3aPYcSE8bNZFl4s4NDAkH7X7PcH/2KDDKxsUga7pHgT/UYZ7S/su+QQT9n8zw4zokQWYjEMiG/14CUIsz6no/aZwLTwkUEdyFvqOlPg==;RVVbLeIdnwFElF3r2VD8qQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Meets with Cuban-American Leaders"
-excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. President Biden was seated next to Jake Sullivan,"
+excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
 publishedDateTime: 2021-07-30T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/999190775ec599e646b7c0dcbff39dcb/WHITE-HOUSECUBA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/00c2e7083740762521cc825ba00c64eb/WHITE-HOUSECUBA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -240,6 +240,6 @@ related:
         height: 433
         isCached: true
 
-secured: "GWa/WifozU41dkNv+OzJRtmZW9HuHlTMbbD6UlpdYi5MC4lveeooPbnS9Iy6SKpNtJUgHPcQefeKNtrFl24fVbZPMrFUQg1VkRIkdYkkcRvFPYwCBiKVcQ1uAIwzvHGW3yDdWKkM28B9WTZYhIOpLYMCxFDobCFakvtK+TMBa98jQ2kIQLuB1KpdTp0gsUy7w/uiu03HxjTbqK5lI/f/rpY2mXIKKi3RwicZg/8Plt014mKwF9jbOHSCsuoOGUxBN39GhzMqybumTPJCCXcYIP0OUy/1FyIbZB2J/59LhdkfIb/8XTB9P724+5oPWGtcIbPuxhoh33nQP+mcshlPfgtg6JcK4QjsaEtLomXuVFU=;U2vhWxho1++LXWQHGwfYuQ=="
+secured: "Wp5M5+aHlJhNWye8C1PyewSHbONajwZuOhwPCSUHWee/dH15uYFnE9cjnnR+V4UxIThcZ+yvVh0eNUP0taHfKR+keq7M6ZcWXcz+bHjBJivgD3bodMhIsuiy40FtwIXftB7EyYXybjRX2v/YHQXfewG6MHilScwRFKE24ktOWM06qWowyvGVaCwdo2eKNLuLMUoazzZLtMdwCt3D2eeeg9uHN0O++e/xzx1do3xlOZr02r90n8odx6i9qAUU+fmkZG7ABhIsc6CEwxz5FM1gqrHAWO6xOLUMJeZeFSCgwDsMCIJ/w8mM8UDxjwarBcRPDb7P+pyzDoEEjte6X14EQ7YzRZbNgVn/sTZwMjuSf1o=;UrBBuBx3kfjf50julkPhGA=="
 ---
 

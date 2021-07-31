@@ -339,6 +339,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "US Vice President Kamala Harris confirmed coming to S'pore on first official visit"
+    excerpt: "United States Vice President Kamala Harris will make her first official visit to Singapore and Vietnam in August 2021, the White House announced on July 30. The 56-year-old's visit to Singapore comes at the invitation of Prime Minister Lee Hsien Loong."
+    publishedDateTime: 2021-07-31T03:52:00Z
+    webUrl: "https://mothership.sg/2021/07/kamala-harris-visiting-singapore/"
+    type: article
+    provider:
+      name: Mothership.sg
+      domain: mothership.sg
+    quality: 49
+    images:
+      - url: "https://static.mothership.sg/1/2021/07/kamala-harris-singapore-visit.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris immigration: VP introduces strategy to address root causes of migration"
     excerpt: "The task of leading the Biden administrations efforts to stem migration following the record number of migrants this year falls on Vice President Kamala Harris. This week, Harris introduced the strategy to tackle the"
     publishedDateTime: 2021-07-30T08:04:00Z

@@ -331,6 +331,20 @@ related:
         width: 1024
         height: 667
         isCached: true
+  - title: "US Vice President Kamala Harris confirmed coming to S'pore on first official visit"
+    excerpt: "United States Vice President Kamala Harris will make her first official visit to Singapore and Vietnam in August 2021, the White House announced on July 30. The 56-year-old's visit to Singapore comes at the invitation of Prime Minister Lee Hsien Loong."
+    publishedDateTime: 2021-07-31T03:52:00Z
+    webUrl: "https://mothership.sg/2021/07/kamala-harris-visiting-singapore/"
+    type: article
+    provider:
+      name: Mothership.sg
+      domain: mothership.sg
+    quality: 49
+    images:
+      - url: "https://static.mothership.sg/1/2021/07/kamala-harris-singapore-visit.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris immigration: VP introduces strategy to address root causes of migration"
     excerpt: "The task of leading the Biden administrations efforts to stem migration following the record number of migrants this year falls on Vice President Kamala Harris. This week, Harris introduced the strategy to tackle the"
     publishedDateTime: 2021-07-30T08:04:00Z
@@ -396,6 +410,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "JW3kuG7RYMhs+h/v3dwmlmzEWcsauwUFpXKJnt1GnUgOJrzgGn+hJeWDVsKz2P8pn/Lt5mqVeKulvpemtj4LjP6B06+Bmgju4TG0c7gXtXbpZVLvwTyrAHCy/rQsxxkUSrLBtYcEYg2amnOksydkPQsJbUr8XGCxgg+zdcX4+wwDmd9SwVXIgNnH7bHJRbSnAWSsxZk+pOOsUhnqR8hENXLapsmbt1rVjNop63QDnSZTZQO6D7TKkyxpQgJmWSMhiDGFyGzfXj22qh6JkudoEMIHJK0CZiO4hMyIcMM7jPjTgApc5WndFOfmUT6We101zQETwpiyk7gmLnYNwDuL/Tnt5NE9rfU0bnVdzeVN6Nk=;qt8UJuehAD3MAMGWEpJBUQ=="
+secured: "8rVk+nV++wHcrG0j87jn11W9+xiycYk1xg5uJ+EyAoW16FM+8c4vR0uRzumHUJNuVw7ZYUUX+LoZGSpdEMTA7lr8qfeq/KzQEbs3MvtCLqsOklmtulAqgzTZ8GmRhxzB6X5OmhKI4IrixJqgwFlZ2X7VoTa1030OvDlpHRIK+3Gkq75D1ovhOFvOICvoGhljUMDmzx32QqXq7SQVHTn0FcDMFnJbsH/lSLBHLSHye+iXSdUXMtM+kP5gTHMIXuDOGwS/BgItnp0MQnRS9XoqpOGF6Ua26sOk9qvYYaws9GhXH0Ba2jRWJmPPEpauMfj0dWSMSNk0AipZJj3qEMF1IfervV/i4F7L7rD8GB5rbxlazlCtHcTIgIU/jNKe37mJPtga2/8UrdPFYN3yEiREkwk3wL6csdMBnWaXVJZNnSOaLPHt7e8f8Ht2J8qp0fNJriixn/xUmaJkrmLl/RvVDknFFvj1KGnh78R0p+jnFB4+cyw/dQXQ7NpBQzPKHRCcnmQOOxcemJUKwumeGbVn2w==;rLw2hOJ/d1OM+LEjUzTVBQ=="
 ---
 

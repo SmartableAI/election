@@ -50,6 +50,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Joe Biden to nominate Miami-born Cuban American Frank Mora as OAS Ambassador"
+    excerpt: "If the Senate confirms him, he'll be the second consecutive Cuban American from Miami to serve as U.S. Ambassador to the Organization of American States."
+    publishedDateTime: 2021-07-30T18:39:00Z
+    webUrl: "https://floridapolitics.com/archives/444839-joe-biden-to-nominate-frank-mora/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Mora-AP-photo-e1627666202920.jpg"
+        width: 1600
+        height: 1075
+        isCached: true
   - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
     excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"
     publishedDateTime: 2021-07-29T19:30:00Z

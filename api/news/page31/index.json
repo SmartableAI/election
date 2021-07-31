@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-06-04-next-stop-on-donald-trumps-political-comeback-tour-dallas-in-july-for-cpac.md",
+      "title": "Next stop on Donald Trump’s political comeback tour: Dallas in July for CPAC",
+      "excerpt": "Donald Trump will be in Dallas in July to appear at a major conservative gathering, organizers said Thursday — a fresh spotlight in a",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/",
+      "originalUrl": "https://www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/lUN-Da5YC3ztZgVvz6kpg1TM6QE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/TIR3JXQ7FYZRFHCZZ43YLIGUMY.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/?outputType=amp",
+      "publishedDateTime": "2021-06-04T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-after-2-year-battle-house-panel-to-interview-trump-counsel-mcgahn.md",
       "title": "After 2-year battle, House panel to interview Trump counsel McGahn",
       "excerpt": "His interview with the Judiciary Committee comes two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump.",
@@ -1275,62 +1318,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
       "publishedDateTime": "2021-06-02T15:40:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-biden-to-talk-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.md",
-      "title": "Biden to talk again with Capito on Friday to try to forge 'infrastructure' deal",
-      "excerpt": "President Biden and Sen. Shelley Moore Capito, R-W.Va., had a \"constructive\" meeting Wednesday at the White House in their effort to forge a bipartisan deal on infrastructure spending and intend to talk again Friday, according to the Biden Administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JTaKEdBdKs/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JTaKEdBdKs/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp",
-      "publishedDateTime": "2021-06-02T15:25:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
