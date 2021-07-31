@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/the-latest-india-confirms-40
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -137,6 +137,15 @@ related:
         width: 1400
         height: 924
         isCached: true
+  - title: "User Clip: Joe Biden Warns of Hospital Bed Shortage Due to Unvaccinated"
+    excerpt: "Joe Biden Warns of Hospital Bed Shortage Due to Unvaccinated"
+    publishedDateTime: 2021-07-29T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?c4971857/user-clip-joe-biden-warns-hospital-bed-shortage-due-unvaccinated"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "B/bcW15nWet8Fz/RldVAwAwE015eQwO1XaIISzT3Rz+3VyYDgRLgdqEtUlMdzAnbKh0S5KMwmk6N4hVuEfhb9wJmgrk5/FGksILPsWgwC94Fu+KkFJNacdS9cRKc3iBThGy1NbE6tHduRll9wysDAqeCcsJvzwHT2nqffSBbqeN7TdiokE2TNByNT/Dc3DFPzokjDj9yNT31cYoQthX+zLRh+4JauQlUM4076C1cscKX7YIbmxGe+/M6JCzNMVgqRZNcKyhPvF1FEpGYBHQsM0ywHOh1nCXpivR1RN7wdopdFvpDmGS1MrMmXTKW0RqvGygEXqwU4D0z8iQqh2fDUUgKOlck9O83YqDh7kox3OpI9DtZdScqUkmlBmbQwadP2uxJ/GwdUL4SUZ67mNlwPflTpca43dSKUZJ8uOz8BQ+H50lte/xTQhGolqYlrRI8D+DTMenqIU0P3ANRu3EaJH92pnCGJCo3g48Mv1gfhOVBDJRgnrZLXt8n/A1xZXliim/x1CNg/P3OPsIFJ6727A==;RIGfcRCRSggNBAI2oSyQpA=="
 ---

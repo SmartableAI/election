@@ -137,6 +137,15 @@ related:
         width: 1400
         height: 924
         isCached: true
+  - title: "User Clip: Joe Biden Warns of Hospital Bed Shortage Due to Unvaccinated"
+    excerpt: "Joe Biden Warns of Hospital Bed Shortage Due to Unvaccinated"
+    publishedDateTime: 2021-07-29T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?c4971857/user-clip-joe-biden-warns-hospital-bed-shortage-due-unvaccinated"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "HH8TsKmUKJdtOiaI0uwOQqWbe7BH/ArRT8aLvH5bthgZd/GNFi83PJHw4Ds00emAgOHhGwwTjvr9lxi1nqJqtrlZXAcsi+JRGV0pRlhlxurJfDDBVQkgH6lvH97bW1xuppzYCnJ7SDxZZoDUWhvEI6bSY85mexsjBqCY9er8df+ADbCxkfZ/ixj6zXFDmTSbzdhx26d0DqsCDA8I3dEzLVaZWpBo/KV+XmTH0iM3mtDeId8HGoo2HCpLWFgImrxDMRyAzdmizMqhXVq3/4j4MJENxHvYk7b+MRa9wp7TdQouUXcSPldcGRtHbTdw2+aBciaksEeFAHuZj1Y9rGCG4hVjhfYror9nUn26BxAN9SxF94fMEJqaVnAmsECziwdXgRONCVkNJlg5dIXB5L+0Zr0le2HChrEKu3gcqriLpgQcicdv0C38Wdvk3f7eXCpAktiJHZOwCvTwBolpS9OYgqGX5uKUM/q83QoJ6wDR44o386eRluJFNyHWDEejcpfAzyYeIwgzvXpztK0IfGCwZg==;FQHAWX9cHwFw5IDDAQwveQ=="
 ---

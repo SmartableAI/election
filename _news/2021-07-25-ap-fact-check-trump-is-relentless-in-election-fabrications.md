@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-re
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392"
 type: article
 quality: 140
-heat: 880
+heat: 860
 published: true
 
 provider:
@@ -441,22 +441,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Trump urged Justice officials to declare election ‘corrupt’"
-    excerpt: "Just say the election was corrupt and leave the rest to me and the R. Congressmen,” Trump said at one point to then-Acting Attorney General Jeffrey Rosen, according to notes taken by Richard Donoghue,"
-    publishedDateTime: 2021-07-31T00:48:00Z
-    webUrl: "https://www.al.com/news/anniston-gadsden/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html"
-    ampWebUrl: "https://www.al.com/news/anniston-gadsden/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/anniston-gadsden/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BMXHXYITG5ASNA2O5UD76MIKYQ.jpg"
-        width: 6000
-        height: 4000
         isCached: true
   - title: "Justice says IRS must give Trump tax returns to Congress"
     excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the record"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-cou
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1"
 type: article
 quality: 157
-heat: 297
+heat: 337
 published: true
 
 provider:
@@ -139,6 +139,31 @@ related:
       - url: "https://www.irishcentral.com/uploads/article-v2/2021/7/147260/GettyImages-1209526244_donald_trump_mike_pence_february_2020___getty.jpg?t=1627660914"
         width: 800
         height: 533
+        isCached: true
+  - title: "Trump Urged Justice Officials to Declare Election 'Corrupt'"
+    excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call."
+    publishedDateTime: 2021-07-30T22:20:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Crowd Breaks Out in Boos for Pence During Trump Speech at Conservative Conference"
+    excerpt: "Attendees of a Turning Point USA conference booed former Vice President Mike Pence after former President Donald Trump brought up his decision to not overturn the presidential election results. During a speech on Saturday night at the conference,"
+    publishedDateTime: 2021-07-25T16:06:00Z
+    webUrl: "https://ijr.com/crowd-boos-pence-trump-speech-conservative-conference/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 65
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/07/photomix-image-6.png"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "2XOm0UM6zd/aLuxi8ARMrd/lna11uNnPaaKwvlsmLmmm/nrBzGVS+wuPMTNn4luXPouwmInIJUE5yX6n+gkjhyrnyaO9ug/TZz+rXvO8dXBTYmaTOC14qo97b4s2plHbpzTVY2lRzwvketLRXpjgbs+t0yioCa4Pq4EZgok5nZEa6BC/DCLvgOTB02IKX/lR8MFpUFu3DiWGYJ4o9P0lM+8X1aiCFnW3nYBZzkRms+WpN+U5XYRwpG2yID0r+fsYlnVhUvXUuszQ+g0H5rm0nHwetJjCrbJirxyuZ+3JiT85SowlsgDUl/JXhpf/ra89Fl6Q1S30HI3w5ToZ9OkKIk4ibTwabEragT+eryEj4xdcTRJ4UFn8+AIxeBoaXS56/YFe2H7T8z8xz4n67CGQ7cAUIC4BpP94glHvN09rBI18LLFU3/zJGZTXA+qXGR5WfGzx7UTuOkGfyM3EsV3qIMEhSfPVZSpOjMCuWtfMeeLFmeh6+snbpGoZzjAVxGF4eD5QP21RyLhaKZTItJGusw==;GwdYnXGIUiIvAsIaPRjt5w=="

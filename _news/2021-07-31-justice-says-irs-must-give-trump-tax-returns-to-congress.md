@@ -450,22 +450,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump urged Justice officials to declare election ‘corrupt’"
-    excerpt: "Just say the election was corrupt and leave the rest to me and the R. Congressmen,” Trump said at one point to then-Acting Attorney General Jeffrey Rosen, according to notes taken by Richard Donoghue,"
-    publishedDateTime: 2021-07-31T00:48:00Z
-    webUrl: "https://www.al.com/news/anniston-gadsden/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html"
-    ampWebUrl: "https://www.al.com/news/anniston-gadsden/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/anniston-gadsden/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BMXHXYITG5ASNA2O5UD76MIKYQ.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "Trump Is Due $1 Million Tax Refund for Chicago Skyscraper"
     excerpt: "An Illinois tax agency has ruled that former President Donald Trump is due a $1 million refund on the 2011 tax bill for his downtown Chicago skyscraper, but local officials are trying to block the refund."
     publishedDateTime: 2021-07-31T16:32:00Z

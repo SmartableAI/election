@@ -139,6 +139,31 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump Urged Justice Officials to Declare Election 'Corrupt'"
+    excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call."
+    publishedDateTime: 2021-07-30T22:20:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Crowd Breaks Out in Boos for Pence During Trump Speech at Conservative Conference"
+    excerpt: "Attendees of a Turning Point USA conference booed former Vice President Mike Pence after former President Donald Trump brought up his decision to not overturn the presidential election results. During a speech on Saturday night at the conference,"
+    publishedDateTime: 2021-07-25T16:06:00Z
+    webUrl: "https://ijr.com/crowd-boos-pence-trump-speech-conservative-conference/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 65
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/07/photomix-image-6.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "q7wRAECh1bgliWYNQ6Vk0oMpG74LCnx3Lmmd+SgSRINOstrPC8Zem9DlS0ikEgNlEJWpB92UjteY0zjem9Fk4nyzmOlpD8dDzUDZDYEytZtmHKMdACc20qbPO2aTcCCy8mOvrLPTRe9J9OfcdH2rt9Tb+M+lVoJp6P7FpBTnp6iCvAEYTC+efxoWriyGk08peSyZSKdCJAq2VzhmFv93ZVt1jBX9BZ4pVjmYdSbkscgt7cMvonIrbIj+2ptMTLlUhhj2WlBCCuj/7aYjwjgpMW3hR00sIEkxxS3HvdTZEEKT/zaorHvuhI+GxYWGnPQJ33j4sNZWJ3teb6PSOcGLUwaasLa2NsyuMOTC8oLTdOXuLnnd5Yr+AgYb2aHK8zvH+fIW+ro1j588VElLMo7HegMW3tXUBUnrNOCS4X5mver5euEYZ4moUR2oITY+/7yAX1l2u7OleOQkRiZoTVRmBwp8joP7eErj2pO2lhMxpMAdUrOzzJP3ORw2KMvTXqKXYkd77FJFLKDtVgY8cJoBEA==;Tg3SdWTNTPOwejKMxLJp3Q=="
 ---

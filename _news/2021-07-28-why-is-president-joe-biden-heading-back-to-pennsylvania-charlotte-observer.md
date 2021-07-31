@@ -204,6 +204,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden’s infrastructure win overshadowed by new virus surge"
+    excerpt: "Joe Biden wagered his campaign and now his presidency on the premise that government itself could still work, even at a time of fractious political"
+    publishedDateTime: 2021-07-31T15:21:00Z
+    webUrl: "https://floridapolitics.com/archives/445016-joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden-3.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Trump-Allied Lawmaker Opens Pennsylvania Election Audit Plan"
     excerpt: "A Pennsylvania state senator who has helped spread former President Donald Trump’s falsehoods about fraud in last year’s presidential election says he's asking several counties to submit to a “forensic investigation” of the 2020 election and May’s primary election."
     publishedDateTime: 2021-07-07T14:48:00Z

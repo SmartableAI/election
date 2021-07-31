@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-29-first-lady-jill-biden-undergoing-foot-procedure-at-walter-reed.md",
+      "title": "First lady Jill Biden undergoing foot procedure at Walter Reed",
+      "excerpt": "First lady Jill Biden injured herself in Hawaii last weekend while walking on a beach when an indeterminate \"object\" lodged itself in her foot, according to the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qnQoRbBYb5I/first-lady-jill-biden-foot-procedure-walter-reed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qnQoRbBYb5I/first-lady-jill-biden-foot-procedure-walter-reed",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b52f2ee-e833-4cda-ad75-60a7b185cb35/3bad51d7-54b2-4df2-a69b-e7c719eac993/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/first-lady-jill-biden-foot-procedure-walter-reed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-jill-biden-foot-procedure-walter-reed.amp",
+      "publishedDateTime": "2021-07-29T13:59:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-inside-lil-waynes-new-154m-la-mansion-he-bought-after-trump-pardon.md",
+      "title": "Inside Lil Wayne’s new $15.4M LA mansion he bought after Trump pardon",
+      "excerpt": "Located next door to Kylie Jenner, the luxury abode was constructed in 2019 and is made up of seven bedrooms and eight bathrooms.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/",
+      "originalUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/lil-wayne-house-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/amp/",
+      "publishedDateTime": "2021-07-29T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-a-capitol-rioter-says-hes-working-on-a-video-game-featuring-donald-trump-shooting-dem-zombies-and-antifa.md",
       "title": "A Capitol Rioter Says He's Working On A Video Game Featuring Donald Trump Shooting “Dem Zombies” And “Antifa”",
       "excerpt": "In the weeks leading up to Capitol rioter Jack Griffith’s Thursday guilty plea, he repeatedly posted on Facebook promoting a video game he says he's building where an animated Donald Trump shoots and threatens monsters,",
@@ -329,7 +433,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258",
       "featuredContent": null,
       "highlight": null,
-      "heat": 488,
+      "heat": 508,
       "tags": null,
       "images": [
         {
@@ -1223,106 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-new-york-times-reporter-deletes-tweet-calling-trump-supporters-enemies-of-the-state.md",
-      "title": "New York Times reporter deletes tweet calling Trump supporters ‘enemies of the state’",
-      "excerpt": "A New York Times reporter deleted a tweet that called supporters of former President Trump “enemies of the state,” following a viral blowback online.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/",
-      "originalUrl": "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/katie-benner-index-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/",
-      "publishedDateTime": "2021-07-27T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-biden-if-us-has-real-shooting-war-it-could-be-result-of-cyber-attacks.md",
-      "title": "Biden: If U.S. has 'real shooting war' it could be result of cyber attacks",
-      "excerpt": "President Joe Biden on Tuesday warned that if the United States ended up in a \"real shooting war\" with a \"major power\" it could be the result of a significant cyber attack on the country, highlighting what Washington sees as growing threats posed by Russia and China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/sRkmzaJO11OAE2I883BVrfRIvZw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CKSQMSZKH5K35D7ZNSHQTPNZDY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

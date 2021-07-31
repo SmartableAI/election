@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/549550-andrew-giuliani-to-meet
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549550-andrew-giuliani-to-meet-with-trump-before-potential-new-york-gubernatorial?amp"
 type: article
 quality: 119
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.amny.com/wp-content/uploads/2021/01/Image-from-iOS-53-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Rudy Giuliani's Son Banks On Donald Trump Clout In Possible Run For New York Governor"
-    excerpt: "Andrew Giuliani served as a Trump aide and retains many contacts from the White House, but faces another entrenched Trump ally, Rep. Lee Zeldin."
-    publishedDateTime: 2021-04-21T21:39:00Z
-    webUrl: "https://www.ibtimes.com/rudy-giulianis-son-banks-donald-trump-clout-possible-run-new-york-governor-3185380"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 48
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/03/three-women-have-accused-new-york-governor-andrew.jpg"
-        width: 1024
-        height: 677
         isCached: true
 
 secured: "APFxzhOFhtYCuUNIRzNRxrjMJ9JWZNWgC2rThxc5f3L28NbFHyytpP6ZOswNl5KAFD4IoKF2mtMOmkONw/kilOgg1xXaNDE8FbUxlA1QeaUcimrOXqEBGLpC951VSZtAo82n6U3ekUzuKlxZvW3g6Cz0wlb8HRRoObyrUaSfKYcF8bXzkFCAApdxfhf0kBjaWzau4Nr70JiDIauyJO00KKM8U3pZ6cCTvLQBoi3W7ELi64miki5xt5U4xolXC5ZPTGP/clX7WptPgcrpaLzrxqesPNcu56JPBk0eyBE8HXqRMSfDb1Jkhn+F0GZlxE0oQZWtRXKse2Bp09ZUIkJDmmz+q/RQA3OHIDKtGVKcOt8=;Pa3jIAdsOWDrpd1LRhd03g=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
 type: article
 quality: 148
-heat: 488
+heat: 508
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5d632fe5-83d9-49d1-81ea-23acd529bcd3/433b3d47-073b-43ef-91cb-3a3062bfff5c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden’s infrastructure win overshadowed by new virus surge"
+    excerpt: "Joe Biden wagered his campaign and now his presidency on the premise that government itself could still work, even at a time of fractious political"
+    publishedDateTime: 2021-07-31T15:21:00Z
+    webUrl: "https://floridapolitics.com/archives/445016-joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden-3.jpeg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Why is President Joe Biden heading back to Pennsylvania? | Charlotte Observer"
     excerpt: "We’re the Keystone State,’ said Tom Wolf, the Democratic governor of Pennsylvania. ‘We’re a microcosm of the U.S. population. We’re old, we’re young, we’re big. And it’s the birthplace of Joe Biden.’"
