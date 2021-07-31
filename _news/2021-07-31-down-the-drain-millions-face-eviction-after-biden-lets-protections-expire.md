@@ -2,13 +2,12 @@
 category: news
 title: "'Down the drain’: Millions face eviction after Biden lets protections expire"
 excerpt: "The federal eviction moratorium in place since September is set to expire Saturday, after the Biden administration refused to extend it and Democrats in Congress couldn't muster the votes to intervene."
-publishedDateTime: 2021-07-30T23:51:00Z
-originalUrl: "https://www.politico.com/states/california/story/2021/07/30/down-the-drain-millions-face-eviction-after-biden-lets-protections-expire-1389332"
-webUrl: "https://www.politico.com/states/california/story/2021/07/30/down-the-drain-millions-face-eviction-after-biden-lets-protections-expire-1389332"
+publishedDateTime: 2021-07-31T11:00:00Z
+originalUrl: "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917"
+webUrl: "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917"
 type: article
-quality: 112
-heat: 112
-published: true
+quality: 92
+heat: 92
 
 provider:
   name: Politico
@@ -23,12 +22,6 @@ topics:
   - Joe Biden
   - Democratic Voice
 
-images:
-  - url: "https://static.politico.com/bf/27/804f7024451d98754d95cb5b6ddd/210429-eviction-ap-773.jpg"
-    width: 1160
-    height: 773
-    isCached: true
-
-secured: "QVY8W2Lj25EKY7DLMJP4LrVAIM/vZo5ypHWNz/6L3jPc+xCSwY5UwxBeO/WooU6b15J7aF0LsWSUecMLITyREtQhXepsivkgxb8tlg1jYSGiH63lps/NuhrOUUm7eEpo5/dyUkhWQoB5GKZX/yISddVjfDLFiswy9pNojan9izcWK9/2Pff0eAVYhHqFR+EJi7y0kZVojEpuEulioCdOQiJm8m7LxsxwKjSbUMIn02tfOIukRc+sHdUlrzi/1IRwcDlPKqwfKJpHjQgPFHvfi5UpllJjBYM06GIoR2TrsNBbcCUVrYQQdWax5QzC6LNE4sGnLKboO/0RZdoTSiC38yfpNI4IDgRsOBWYGiQ13BU=;kSU+diTHkr+SxgvQ2xxzgQ=="
+secured: "x4tnrOGWr454GNGuiYnzzfzsDGxkP3dJ2QzF4c8ZIn+egWICmQ07k/P+VWJFoxHVw9nCptIVeXOStPI5ngR+Js1e8N7xRd3CY2is7bzQljUwx1SPHrr3D4vX9XGdqT+gjBf1dBbW2G4qsrAuGmwZgV3wK006TjMfoDqTL4LpD0Ee9OQSdL+TMs7fJVjUFxTqSDu2tqrC2Y4ni0iWNy4SH2cuCBssHHVJGFJ1LTym8BBiNyKinXm+uVjZgMcAJebgun26BU904ZWUh5WK47fVPuxYe8ddp6nHmkAq6/7Jm038fxOafYe4e1D5wR8LcHRbB1Z48CJat4Qbft7GiohOzL2mksuj2aqmcEJEo/6da5FJV72eS4V+SVIsjfot2REBr4H8E3p+PpIrPs2ATkB0AY2/ztcBd0pHSj809yMBQvRat1Hocy3sO5rBjOszQHeCQABGm/C6WrNo+mrpnJ27DGkSPUY1cgspTPMA3Mny6/aPTUnOyarwDtkvpYsextSM1NmraOoeoUAWVfIy3UHmrQ==;KiHcP+H4gSTIfKa3tqTmsg=="
 ---
 
