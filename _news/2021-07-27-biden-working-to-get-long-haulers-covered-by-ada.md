@@ -141,6 +141,22 @@ related:
         width: 580
         height: 387
         isCached: true
+  - title: "Progressive members of Congress pen letter urging Biden, CDC chief to act on expiring eviction ban"
+    excerpt: "In a letter first seen by ABC News, they ask for action despite a SCOTUS ruling. In a new letter to President Joe Biden and CDC Director Rochelle Walensky, progressive members of Congress are calling for the CDC to \"leverage every authority available to extend the eviction moratorium\" after the House failed to take action Friday to extend the eviction ban set to expire Saturday at midnight."
+    publishedDateTime: 2021-07-31T19:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/progressive-members-congress-pen-letter-urging-biden-cdc/story?id=79191633"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/progressive-members-congress-pen-letter-urging-biden-cdc/story?id=79191633"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/progressive-members-congress-pen-letter-urging-biden-cdc/story?id=79191633"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/General/evictions-pressley-cortez-omar-02-gty-llr-210731_1627756594942_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden hosts Jordan's King Abdullah at White House"
     excerpt: "President Joe Biden met with Jordan's King Abdullah II at the White House Monday, both expressing their nation's support and partnership after a turbulent four-year relationship under former President Donald Trump."
     publishedDateTime: 2021-07-19T20:33:00Z
@@ -193,6 +209,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/4381626725230/2021/1/f9d499800ef0d789e9e0467998cc66a0/v1.5/Joe-Biden-meets-Jordans-King-Abdullah-in-sign-of-improved-relations.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Who knew Joe Biden’s ancestral ties to Baltimore?"
+    excerpt: "It was news to me that President Joe Biden’s father and grandparents lived in Charles Village. Right on Charles Street near 28th Street. They later lived for years in West Baltimore. The Biden/Baltimore roots idea came from Mark Adams,"
+    publishedDateTime: 2021-07-31T18:41:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-kelly-biden-20210731-layurwff3vci5a7wcswres4owi-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-kelly-biden-20210731-layurwff3vci5a7wcswres4owi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/baltimore-city/bs-md-kelly-biden-20210731-layurwff3vci5a7wcswres4owi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/Hfg8gcdywot7XzyfOuQRcRY-VB4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UA56JOJJWNHAVDADM6DOSZ45FA.jpg"
+        width: 1200
+        height: 788
         isCached: true
   - title: "Florida Republicans slam President Joe Biden on Cuba during GOP townhall in Versailles"
     excerpt: "A Miami crowd of dozens who had shown up in support of the anti-government protests in Cuba served as the backdrop of a GOP town hall broadcast live from Versailles Cafe on SW 8th Street — hosted by FOX News’ Sean Hannity."

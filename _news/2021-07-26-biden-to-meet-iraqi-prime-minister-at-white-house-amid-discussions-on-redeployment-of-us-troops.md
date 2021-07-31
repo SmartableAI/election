@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Eviction crisis looms after Biden and Congress fail to extend Covid ban"
+    excerpt: "More than 3.6 million at risk of eviction after Covid relief ends and last-minute lawmakers’ scramble fails to find solution"
+    publishedDateTime: 2021-07-31T10:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/31/eviction-moratorium-ends-biden-congress-covid-ban-democrats-republicans"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/31/eviction-moratorium-ends-biden-congress-covid-ban-democrats-republicans"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/31/eviction-moratorium-ends-biden-congress-covid-ban-democrats-republicans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/70b5a350b5cfd69a780389b4b5dc0f28e07b9d12/0_149_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b1d81c94b16c93690832c2a9be4ba19"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden, Iraqi PM to Announce End of U.S. Combat Mission in Iraq"
     excerpt: "President Joe Biden and Iraqi Prime Minister Mustafa al-Kadhimi are expected to announce on Monday that they’ve come to an agreement to end the U.S. military’s combat mission in Iraq by the end of the year,"
     publishedDateTime: 2021-07-26T09:25:00Z

@@ -31,51 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden defends previously saying vaccinated don't need masks: 'That was true at the time'"
-    excerpt: "President Biden was involved in a heated exchange with Fox News reporter Peter Doocy after he pressed Biden on whether or not vaccinated Americans still need to wear masks."
-    publishedDateTime: 2021-07-29T21:52:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp"
+  - title: "Iowa Republican governor rejects Biden's $100 vaccine incentives"
+    excerpt: "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine."
+    publishedDateTime: 2021-07-31T14:22:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive"
+    ampWebUrl: "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Republicans march with protesters for Cuban freedom as they pushed Biden for more support"
+    excerpt: "Several Republican lawmakers rallied with Cuban Americans who marched in D.C. on Monday to encourage the Biden administration to support the Cuban people in their fight for freedom."
+    publishedDateTime: 2021-07-27T00:12:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOwX-vSdLAg/republicans-march-protesters-cuban-freedom-pushed-biden-support"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eec26b2c-3cfe-4b36-bb76-dfd0652fbbc6/c35c575c-353d-457f-bcbf-31c72016050c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41f98b46-b6e0-4bc1-a4db-0c366d2f7fc4/8b3bf80f-9244-47d8-8101-d6274752306d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Critics slam Biden surgeon general suggestion vaccinated parents wear masks: 'alternate reality'"
-    excerpt: "U.S. Surgeon General Vivek Murthy suggested vaccinated parents should wear masks at home to better protect against the coronavirus."
-    publishedDateTime: 2021-07-30T16:16:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Ygqa4JjbSU/us-surgeon-general-vaccinated-parents-mask-home-reactions"
-    ampWebUrl: "https://www.foxnews.com/politics/us-surgeon-general-vaccinated-parents-mask-home-reactions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-surgeon-general-vaccinated-parents-mask-home-reactions.amp"
+  - title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
+    excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
+    publishedDateTime: 2021-07-27T17:23:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
+    ampWebUrl: "https://www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02dacb20-8ad6-4176-9b59-2a1aed1201f0/f43d9435-c16b-4e13-af3a-843adb6b44e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Ingraham: Biden seeks 'masks and mandates forever', as WH poised to guide 'the science' wherever they need"
-    excerpt: "In her \"Ingraham Angle\" Thursday, host Laura Ingraham said President Biden claims to issue edicts to the American people based on \"the science\", but in reality seeks to create a system where the government can rule by emergency indefinitely."
-    publishedDateTime: 2021-07-30T04:02:00Z
-    webUrl: "https://www.foxnews.com/media/ingraham-biden-masks-mandates-white-house"
-    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-masks-mandates-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-masks-mandates-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a45a209d-5776-49a6-bc18-a3902225096a/61608af9-0d69-4d97-9d88-2f2cab81c0f9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53f033bb-8692-4708-9f6c-d8982d1428e3/29053f5d-da13-42bc-867f-a6996ea7f4e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

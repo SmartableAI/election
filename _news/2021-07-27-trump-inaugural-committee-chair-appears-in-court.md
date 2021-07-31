@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump tries to defend ‘just say the election was corrupt’ demand"
+    excerpt: "Ex-president attempts to claim he was not trying to subvert democracy when he urged DoJ officials to falsely claim election was not legitimate"
+    publishedDateTime: 2021-07-31T12:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/31/trump-election-corrupt-claim-doj-fruad"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/31/trump-election-corrupt-claim-doj-fruad"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/31/trump-election-corrupt-claim-doj-fruad"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/d056f2d7be250700d9f9cc9bb4979981263820e8/0_134_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b427d34aabbed1fbe807aa6b3be21d82"
+        width: 600
+        height: 360
+        isCached: true
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
     publishedDateTime: 2021-07-14T16:45:00Z
@@ -188,22 +204,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/550ff1b28080468c570ef3fd0673634e67fb91e4/0_146_2817_1690/master/2817.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ae326163b7ab5f4f48e19d6a76d06c79"
         width: 600
         height: 360
-        isCached: true
-  - title: "Justice says IRS must give Trump tax returns to Congress"
-    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the record"
-    publishedDateTime: 2021-07-30T18:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a417cf5f43cc415c9059ddb7f2cc2e3f_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump urged Justice Dept. to overturn vote results - House panel chair"
     excerpt: "Former U.S. President Donald Trump pressured the Justice Department to overturn the 2020 presidential election results, according to internal documents released by the chair of the House of Representatives Oversight and Reform Committee on Friday."
@@ -443,21 +443,39 @@ related:
         height: 683
         isCached: true
   - title: "Trump urged Justice officials to declare election ‘corrupt’"
-    excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call"
-    publishedDateTime: 2021-07-31T05:20:00Z
-    webUrl: "https://www.boston.com/news/politics/2021/07/30/trump-urged-justice-officials-to-declare-election-corrupt/"
-    ampWebUrl: "https://www.boston.com/news/politics/2021/07/30/trump-urged-justice-officials-to-declare-election-corrupt/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/07/30/trump-urged-justice-officials-to-declare-election-corrupt/?amp=1"
+    excerpt: "Just say the election was corrupt and leave the rest to me and the R. Congressmen,” Trump said at one point to then-Acting Attorney General Jeffrey Rosen, according to notes taken by Richard Donoghue,"
+    publishedDateTime: 2021-07-31T00:48:00Z
+    webUrl: "https://www.al.com/news/anniston-gadsden/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html"
+    ampWebUrl: "https://www.al.com/news/anniston-gadsden/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/anniston-gadsden/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
+      name: al.com
+      domain: al.com
     quality: 90
     images:
-      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/07/AP_Poll_Trump_Republicans_56084-610020b51ce7a-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BMXHXYITG5ASNA2O5UD76MIKYQ.jpg"
+        width: 6000
+        height: 4000
         isCached: true
+  - title: "Justice says IRS must give Trump tax returns to Congress"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the record"
+    publishedDateTime: 2021-07-30T18:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
+  - title: "Trump Is Due $1 Million Tax Refund for Chicago Skyscraper"
+    excerpt: "An Illinois tax agency has ruled that former President Donald Trump is due a $1 million refund on the 2011 tax bill for his downtown Chicago skyscraper, but local officials are trying to block the refund."
+    publishedDateTime: 2021-07-31T16:32:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-31/agency-trump-is-due-1m-tax-refund-for-chicago-skyscraper"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 85
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."
     publishedDateTime: 2021-07-14T17:57:00Z
@@ -547,6 +565,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 62
+  - title: "Man Who Sold Trump Wares on Public Grounds Gets Jury Trial"
+    excerpt: "The North Dakota Supreme Court has ruled that a Wisconsin Trump supporter found guilty of an infraction for using public grounds in Bismarck for commercial purposes without a permit is entitled to a jury trial."
+    publishedDateTime: 2021-07-31T16:01:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-dakota/articles/2021-07-31/man-who-sold-trump-wares-on-public-grounds-gets-jury-trial"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "cQwHmJJ5pvQECEzgb9xd6XhQMBVUwwoCUHjXYhiThhtd6CVWRrLKNZJLF4Z6bRYudstKLJejaovQlrK+K94b2HCzvLiaw/cwvLf7qOw3vc/ZiuMHUyq3AXvsnFHkNS5kOlrB8QfpzbfkRscYgmr3hStzio9I4fGpi+ysjsJRmzC1//ooYqHlIjzV3czgFJrxYIwrT9vHrPZ0F+5l06LkcGUGGE1OBa9jCZroa6LHUyVLUzjSBGPCqloBTX7Gj7o/GnwTUtDyeEsQCcjy27qd0YQbQAux9EuZjXuxyN7NFOm+1XRUaP2j4KN6FvbP2eorEuRH6zr/8EbXypH59gi60xjRsldUL3WOj00A0n4QJf3w5fEGwp5JHQgociLtDqGKghXLYxozSOOGs/VI9s1cvGYV5seP01+wPhklDnTnynKXUdoeUocDH3AEbbNatQyU9WaHf9bKAxbGibN9WPY45QKQw8EGarbF7K8GZRMBQiEkGRXzEt/AqXzTzbGwJ7jxGn2EyatGwhQfPwUbxXejyw==;Y5ezuW0cDLsTZh9KZLMhdg=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden nominates Khizr Khan, a Gold Star father and Trump critic, to religious freedom post"
+    excerpt: "President Joe Biden announced Friday that he was appointing Khizr Khan, a Gold Star father who drew then-candidate Donald Trump's ire when he spoke at the 2016 Democratic National Convention, to the United States Commission on International Religious Freedom.\n    \n"
+    publishedDateTime: 2021-07-31T00:03:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9ZyVCy7fAeE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-khizr-khan-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-khizr-khan-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210730193524-khizr-khan-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration sanctions Cuban regime in wake of protests"
     excerpt: "The Biden administration is preparing to sanction individual members of the Cuban regime and a government special forces unit known as the Boinas Negras for human rights abuses, according to a source familiar with the plans.\n    \n"
     publishedDateTime: 2021-07-23T20:12:33Z

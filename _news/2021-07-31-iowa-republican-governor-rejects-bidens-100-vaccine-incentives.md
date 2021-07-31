@@ -9,7 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-va
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp"
 type: article
 quality: 175
-heat: 175
+heat: 235
+published: true
 
 provider:
   name: Fox News
@@ -28,6 +29,56 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Republicans march with protesters for Cuban freedom as they pushed Biden for more support"
+    excerpt: "Several Republican lawmakers rallied with Cuban Americans who marched in D.C. on Monday to encourage the Biden administration to support the Cuban people in their fight for freedom."
+    publishedDateTime: 2021-07-27T00:12:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOwX-vSdLAg/republicans-march-protesters-cuban-freedom-pushed-biden-support"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41f98b46-b6e0-4bc1-a4db-0c366d2f7fc4/8b3bf80f-9244-47d8-8101-d6274752306d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden considering vaccine mandate for federal workers, says unvaccinated not as 'smart' as he thought"
+    excerpt: "President Biden said Tuesday he is considering requiring all federal employees to be vaccinated and questioned the intelligence of those that have yet to do so."
+    publishedDateTime: 2021-07-27T20:49:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnlHCmuLiOQ/biden-federal-vaccine-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ea5077-c2bf-418d-aa26-66f4b2f1dea9/188ffa1c-573c-47cd-a16d-bb08437ce582/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
+    excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
+    publishedDateTime: 2021-07-27T17:23:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
+    ampWebUrl: "https://www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53f033bb-8692-4708-9f6c-d8982d1428e3/29053f5d-da13-42bc-867f-a6996ea7f4e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "9uOY+Zkma32iqhrQjN/scGgcLaZccDzwBOlIJywvAAISl+N8IUxayYjxO9UjdhJTho1W4uduaCrqdRKt0P+LY3acO4vEzx63qmbuxBgaBJpGN+Blho6JZl00HH9n0bZikvJhq3iWrBqO/AKqnVKZA2ZhvgBFPHgGckinbwNiI19+oqrrZlt8txDP26CN3sEUFjsTbfBDQKbv6bjwGVGYLWx8lmua7lmprbZIBFIb9MWr7J2/jXK/Z4W73C52V6BpG7+M+3bSPixzwWHjOiqfflTt0VAnXWwWoaKcRmsAuaMsk0cQZ2jqyoxCrDaw39LBiBftrgraLbNWberOPZgNoykwk11w3OSqe9WktI07Lco=;ZnaptsAf2CBmT6oarnXRWg=="
 ---

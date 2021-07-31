@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1900
+heat: 1920
 published: true
 
 provider:
@@ -775,6 +775,20 @@ related:
       - url: "https://s.abcnews.com/images/Sports/WireAP_2cfeacd597b24eb0a9808af864d7213d_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Justice Dept OK's release of Trump memo, taxes"
+    excerpt: "Top News Justice Dept OK's release of Trump memo, taxes. Posted . Former President Donald Trump suffered twin setbacks on Friday when the Justice Department cleared the way to rel"
+    publishedDateTime: 2021-07-30T22:09:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEO1FDRF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210730&i=OVEO1FDRF&r=OVEO1FDRF&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
     excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."

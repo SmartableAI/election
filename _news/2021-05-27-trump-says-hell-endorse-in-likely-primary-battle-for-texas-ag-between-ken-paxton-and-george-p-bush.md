@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mark Meadows Touts Donald Trump's Endorsement Power Despite Texas Candidate Defeat"
+    excerpt: "The former White House chief of staff insisted the former president's endorsement has \"unbelievable power at perhaps historic levels.\""
+    publishedDateTime: 2021-07-31T13:31:00Z
+    webUrl: "https://www.newsweek.com/mark-meadows-donald-trump-endorsement-power-texas-defeat-1614909"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 79
   - title: "Trump Organization Faces Criminal Probe In New York State"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
     publishedDateTime: 2021-05-19T10:35:00Z

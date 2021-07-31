@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden nominates Khizr Khan, a Gold Star father and Trump critic, to religious freedom post"
+    excerpt: "President Joe Biden announced Friday that he was appointing Khizr Khan, a Gold Star father who drew then-candidate Donald Trump's ire when he spoke at the 2016 Democratic National Convention, to the United States Commission on International Religious Freedom.\n    \n"
+    publishedDateTime: 2021-07-31T00:03:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9ZyVCy7fAeE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-khizr-khan-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-khizr-khan-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210730193524-khizr-khan-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Democrats are still pursuing Trump's tax returns but Biden administration may not play ball"
     excerpt: "After notching recent wins in their long hunt for material to help bring legal accountability to former President Donald Trump, congressional Democrats fear the Biden administration won't be helpful when it comes to obtaining the documents they covet the most: Trump's tax returns.\n    \n"
     publishedDateTime: 2021-06-01T10:17:59Z

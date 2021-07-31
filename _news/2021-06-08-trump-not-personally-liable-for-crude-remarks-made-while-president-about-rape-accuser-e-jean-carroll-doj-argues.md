@@ -792,6 +792,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Justice Dept OK's release of Trump memo, taxes"
+    excerpt: "Top News Justice Dept OK's release of Trump memo, taxes. Posted . Former President Donald Trump suffered twin setbacks on Friday when the Justice Department cleared the way to rel"
+    publishedDateTime: 2021-07-30T22:09:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEO1FDRF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210730&i=OVEO1FDRF&r=OVEO1FDRF&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump, House Democrats working to resolve dispute on Deutsche Bank subpoenas"
     excerpt: "Donald Trump and Democrats in the U.S. House of Representatives remain in talks to resolve disputes concerning congressional subpoenas of the former U.S. president's financial records from Deutsche Bank AG (DBKGn."
     publishedDateTime: 2021-06-18T21:34:00Z

@@ -63,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Republicans march with protesters for Cuban freedom as they pushed Biden for more support"
-    excerpt: "Several Republican lawmakers rallied with Cuban Americans who marched in D.C. on Monday to encourage the Biden administration to support the Cuban people in their fight for freedom."
-    publishedDateTime: 2021-07-27T00:12:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOwX-vSdLAg/republicans-march-protesters-cuban-freedom-pushed-biden-support"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-march-protesters-cuban-freedom-pushed-biden-support.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41f98b46-b6e0-4bc1-a4db-0c366d2f7fc4/8b3bf80f-9244-47d8-8101-d6274752306d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Cotton calls on Biden to 'publicly condemn critical race theory' after admin promotes radical group"
     excerpt: "Sen. Tom Cotton called on President Biden to publicly denounce critical race theory after administration blamed an \"error\" for promoting a handbook that calls on educators to \"disrupt Whiteness.\""
     publishedDateTime: 2021-07-21T18:20:01Z
@@ -92,22 +76,6 @@ related:
     quality: 161
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfdc2a75-9484-4588-bf7f-7537f00a6fc5/cbb41883-4195-4dc4-9da9-aaeb82531782/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
-    excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
-    publishedDateTime: 2021-07-27T17:23:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
-    ampWebUrl: "https://www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53f033bb-8692-4708-9f6c-d8982d1428e3/29053f5d-da13-42bc-867f-a6996ea7f4e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

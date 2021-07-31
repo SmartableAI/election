@@ -8,6 +8,7 @@ webUrl: "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-ass
 type: article
 quality: 92
 heat: 92
+published: true
 
 provider:
   name: Politico

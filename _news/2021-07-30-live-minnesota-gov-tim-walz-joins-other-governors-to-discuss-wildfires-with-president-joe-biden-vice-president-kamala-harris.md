@@ -3,21 +3,20 @@ category: news
 title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
 excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
 publishedDateTime: 2021-07-30T15:15:00Z
-originalUrl: "https://www.duluthnewstribune.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
-webUrl: "https://www.duluthnewstribune.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+originalUrl: "https://www.grandforksherald.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+webUrl: "https://www.grandforksherald.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
 type: article
-quality: 52
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Duluth News Tribune
-  domain: duluthnewstribune.com
+  name: Grand Forks Herald
+  domain: grandforksherald.com
 
 topics:
   - Election
   - Kamala Harris
-  - Joe Biden
 
 images:
   - url: "https://www.fccnn.com/incoming/7133742-bgagzb-U.S.-President-Biden-and-Vice-President-Harris-meet-on-infrastructure-with-a-bipartisan-group-of-governors-and-mayors-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Biden%20and%20Vice%20President%20Harris%20meet%20on%20infrastructure%20with%20a%20bipartisan%20group%20of%20governors%20and%20mayors%20at%20the%20White%20House%20in%20Washington"
@@ -1667,6 +1666,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "0blnHXY4jzTGY1/mD4/bg2QAGhGuW8hpzSt2P58qsCaFohEDCtCREw0iTetcwi0DcJBsENv5hsw7AOGAK3r55muRxIXZ3U2GfifM94PRI0Ex+2sL0viDx5CgbE/wp7wIZfkIvdodoiNr9CeXJ6+PDXQiUrwHcKeJ+3dz/hPRExYAvVQSEesG1nzwCj1QkCXj8SDslWogeIb47keamdbkm6QdUhTb+AEfOAVz6xJ8on/rWKHuUMyOHlImE6nAOsdUzsVM/ZNgo+8x3ub2gymTcepjXu+CEWlRMvuf46XlCsj4DjUv3bQMXReZBV/d3FGB/5cO4Nk5NqGRUr8a4hHF9zivCPqHuMyhlfIFU4dcsR8Q9tzEf74mwh/BBV4GI3wzjer3GlDHPrcB81Ynjguz5Z8S19WPyjcxeUgV2jdecwDKq1glrL/4zI0iIJ2A1Fza66tpLqSuZWNs57pCjTmaoOAI0hnKvFuerPlGkscF84vYk/dsPF+mEtzO9EokDaHgKFm0Hz3r6fRAURiMANCNvg==;S6hAaL3dABw1MRR29vpbkA=="
+secured: "k8jm5nA8QJcX93sqHQhweVLg32NFFNhCav2XLT1th2RZyLFU1PX5L0ZNBs3sIl5Bk+twFoQ8FMXFTPM+n/F+SSeOq9HLM4dnl5eKq0Vb54/WmgoUOMTYd3IoQwme3HJTdJIHZ5oKVAl+PCtMtqAT6/BTV11d59ruDcd26hhp0P5WAD38PERswo6yGrimumeNxxWn0jYHWiDLHXQP0HwDHQFYnoOB1Yl3o2SDy52Drwl5uVEnWW6RCDXETjlrhLjo4IfcEvMaEawOfwIwkW017wb1tezrPudxWzxGJNW+ybz+N/7aKQRFdI+LserKFC6QeiSUX6FlsrovHnciV2E0mG6PEPzVSOz6Jp6ocwF0Ldg=;eXN/V3VVwcmB9y/U9zPqfA=="
 ---
 

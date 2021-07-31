@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realcl
 type: article
 quality: 82
 heat: 82
+published: true
 
 provider:
   name: RealClearPolitics
@@ -26,6 +27,6 @@ images:
     height: 562
     isCached: true
 
-secured: "/KF8+SBpod2LOt0g6IOSOJTf5HuNtxEQbB0n2N712YQFISaXFNRfRMO3Ke7JYycoSYr0uOCezzMGsnIP5o1mjcyNSpWaIp3ZtXG6itRMeN4UEcE9/DAOFMbUPEkpVK+n82sR/sXik46zvGgHK+bw8HHS6I4aNxR0qmiIxsH6LaNomj2Kn9T7wrG4+n8MKXg74jaqb7NoQCY/sKdfwr6x2Sors1ozBSq5b1PoIBDsD+2mr8Dv50UJBwj1Z3jpatT2RkVQuVvtAHCQG+FfvimMAVe1KJ/g/WqJiTguUR7xUcZz3HvPNN7JS07Kqe0vRdZX2cPAps0AtBlBSt74CSKsGIXV+k3sZBeabB2bnOBWoLU=;W+tINp+npkExLCvWJPZquA=="
+secured: "m9JvbNdDi1/TyLXnCdWl/DMgTELJtSFYZaHVn5G9wtZQbm+YQuS4piNcYVtHIyi97oW+wtEXypMISzZQJA6n0TeJJnQdbgdZ7efLOQPDC8DVTZy13klOak9XHERx7rXPreJEj0NQ/4WZZzPtUqrAAS3514V+tmExZxEQ/lRkVWvX1+H7Yhz1LUq6JuXaSeMKtEmkHcs07u6bNtjxkiV5W5RNXSw09dmxm0mkyjOcgHKjX5lN8BUYethlOD3Rx5iQg7uTb/6Dov1+wHFbcluAus1pt4g9D+TuijiS9YDUpl9EElDIeVzgngqkRihFtVHWDZCum6+zyEd21XrGQ0P/2VXNK21HQncy0t8hXVFgaBptzpvwb2KFBvkch+MOQnr2zxi+QtGrMzcOSNOHzjLm+xvi330VImwQoke9fHAUpgBgWcf9Rm+/K1PVpiXK2gZ/dWrDFnwqUY8EFpcCrWo5Gt4TR/B1u0JdzF2nvLDaOAFZhztEAtx59+oB0kCx1PpRJe10e8KV20FzQIN4Ct3ScQ==;ktTqF9Kvf0csW+SeGv3n8g=="
 ---
 

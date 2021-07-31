@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mark Meadows Touts Donald Trump's Endorsement Power Despite Texas Candidate Defeat"
+    excerpt: "The former White House chief of staff insisted the former president's endorsement has \"unbelievable power at perhaps historic levels.\""
+    publishedDateTime: 2021-07-31T13:31:00Z
+    webUrl: "https://www.newsweek.com/mark-meadows-donald-trump-endorsement-power-texas-defeat-1614909"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 79
   - title: "Trump says he'll endorse in likely primary battle for Texas AG between Ken Paxton and George P. Bush"
     excerpt: "Former President Donald Trump is planning to make an endorsement in the likely primary battle between Attorney General Ken Paxton and Land Commissioner George P. Bush. \"I like them both very much,\" Trump said in a statement Tuesday."
     publishedDateTime: 2021-05-26T21:59:00Z

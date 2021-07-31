@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Capitol-riots-New-book-reveals-Mike-Pen
 webUrl: "https://www.econotimes.com/Capitol-riots-New-book-reveals-Mike-Pence-refused-to-leave-Capitol-during-insurrection-1613236"
 type: article
 quality: 47
-heat: 87
+heat: 47
 published: false
 
 provider:

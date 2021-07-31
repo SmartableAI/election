@@ -64,22 +64,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden considering vaccine mandate for federal workers, says unvaccinated not as 'smart' as he thought"
-    excerpt: "President Biden said Tuesday he is considering requiring all federal employees to be vaccinated and questioned the intelligence of those that have yet to do so."
-    publishedDateTime: 2021-07-27T20:49:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnlHCmuLiOQ/biden-federal-vaccine-mandate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ea5077-c2bf-418d-aa26-66f4b2f1dea9/188ffa1c-573c-47cd-a16d-bb08437ce582/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "W1J8YF62kpx4KUD0oBuaZQBLoH2Qp4zMScwsIVeonDlQagFUBpm3s/PxtjyOGeMl7GM9oxj+JbfAtAfBEywudlI0FXvByB95HZQrsjC2cdMar4EYhkyNVOlV3Ukxxy616DInpDggv8soJKzfkzPYluQU6wH04KFaK2zJ5bVnWWknRD+szqnAS07pxjZajgaHDl3zhjctyqpwDj+gaR9I18dDbzVycxZHOI35xZWZV+D51EUlPQ+kHz2EOMyqQbN4Nqlq1n2Mwo114/lZc85V3ptZ3/y0iVGiFYXPoRS8BmJ97pILGf3tI3yHjgpTCQ2Y/Nf2xwqtyUsgyjVldPQ1eu7B2ePf+r4VECiLrlqMLtZKpTK8GO+aJbWgZY2f2SltFfsYRr+A4mj08GAjvfkRXz1o6w89bPMgoxNhJTpbuzZC9ARQY+0NVp2plFwejg20q80h+N6r2w/M2QIgzktmm9xih92j3c382/Y0W4foAquu7aWe7m6ydymzCP6zJ7JF83Q8zXMKWjBv63Cg22mMIg==;jEItlo/vF5XvnrU6QJGiWA=="
 ---
