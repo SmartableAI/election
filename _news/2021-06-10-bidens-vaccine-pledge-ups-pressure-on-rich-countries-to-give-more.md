@@ -484,6 +484,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden's COVID-19 presidency"
+    excerpt: "President Joe Biden recently passed his six-month mark in the White House. It might end up being the high-water mark of his presidency."
+    publishedDateTime: 2021-07-30T21:47:00Z
+    webUrl: "https://www.ottumwacourier.com/president-joe-bidens-covid-19-presidency/article_b77fa56a-f17f-11eb-a16e-935491041c48.html"
+    type: article
+    provider:
+      name: Ottumwa Courie
+      domain: ottumwacourier.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/ottumwacourier.com/content/tncms/assets/v3/editorial/0/bc/0bc6a2cc-cc5b-11ea-8caf-cf093f358dd7/5f18a36ce003e.image.jpg?resize=840%2C630"
+        width: 840
+        height: 630
+        isCached: true
 
 secured: "chMExsRRsLW6KUDIaYhr4kqjgcBW6Q46z7c4DyfqL2ATlfxbixi2VjKgMQhLYiqIt4YWb9Mq2i67FXj50DefsTSg3lCs6OfWwz7DdCxeax3Oee5KMVBYbJtYp2JLYNPblmTxFUOhLFl6wPs9KFMc82yznSyPPc7F0/WhRO3qvxuvw/7yeZF/l9Gl6y8r5IEeC/YD6jkmMQBnKcOMxkF3k9N8IAiWW48TKnOX4pmvUPksBfuFV4HSsCqoIGJwb+XQQh5u+RhK8uzqTVRBjEIaqEprSXCOBv5wHEMrECYRPjQoX/XD+wOPq3CeQCGyutkzZ+K88hChHQXrmDJnrcUX07t3OA76ntkYW1b8dNJyPpHxtGKLQOpugED4Gxzd0Hd505A7D2fVCu1lV/QhrWOO6gxEwIpAWq3SqCBN3EFQERNvFgxlpldPJlrr8KoTaC/bYw3qBFfFQ6jGN3jPZM68+G6iJLEkeJOvLgIocSNLd5GDkQ+oQ2R/CNnCOnuTWYWcmk0eCyHocGRew4k54WkyUQ==;BlIglzwLB/V0002lZqz0Bg=="
 ---

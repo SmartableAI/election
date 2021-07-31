@@ -2,11 +2,11 @@
 category: news
 title: "VP Kamala Harris meets with DACA recipients"
 excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-07-22T21:41:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210723013215-vp-kamala-harris-meets-with-daca-recipients/"
-webUrl: "https://www.cbsnews.com/live/video/20210723013215-vp-kamala-harris-meets-with-daca-recipients/"
+publishedDateTime: 2021-07-23T04:32:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210723043215-vp-kamala-harris-meets-with-daca-recipients/"
+webUrl: "https://www.cbsnews.com/live/video/20210723043215-vp-kamala-harris-meets-with-daca-recipients/"
 type: article
-quality: 105
+quality: 85
 heat: -1
 published: false
 
@@ -21,12 +21,6 @@ provider:
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "10 Things in Politics: Kamala Harris' toxic work culture"
@@ -316,6 +310,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bPIRmx+054kDz3FqsqusU90kiKn1Fx/bhfZbieUXmVfjMBLvHHzTud6eYHO/mIh+wwyVTZT0lGSSc0MrlnE+oyTkQNxrKJwFQ1jYsYkeMRWEYXVTD+6YFTllJ+olBaGtYEFLwAzRtrNxk77wzT/AP7kNMSXrkBQSulbjYudYma2rsvEtekMaitH1R+imNlj+YzpABRGSIdEf/SU7Q7YMOwRgdYoPC7rmROJPbo2nN2NXaoYLGnPTPERxoY65RFQ2cWEnZvj5N8JMZPbccHuxc7oopyP7Waf6+jMErVSkgFhz9auUX5tyqRS9qaKlkwbOz630BiKlOiEEufuti5wo4NXE7YILhZjM/dt54yTwDJ3iWJSv6tokVJIBvZyrer351LuBqokTsw57V0VpC8hZpETgIeL6TY3ZKMqYmBl1wMChgPJWbldCqeapFpAfX7WVEQTA3Jb4VZPND55vGDWe/CDdfWFI1HSeG2Xx3nLASMlqWPW32xbBR+xsfa6tKjrw/AUrusvqbwaYgNt2OTG9Rg==;bDs0Osmgc7efDSBhDr93uQ=="
+secured: "TpY72LR9cKdWUIC49ZJVpIdUA1q3x1/jD1nBdCZoy/QP4VONnnMEzhhLmga0nkl5URgfys1ZtgJlE3W8s3Qn8YqCBfr3Syf/EBo0iHyfS2jzhW5aXMFtaEQXbSciLQ4H0tnLpf4rKgjUcx6ARbCRlKFhLaChPu5kUH2vIqkFzgmcVULwoPw712yygvchEql7e+TxkLn5XUCIM0g+NgNaO7LUjrS4G04qdTwcZx0lCrFdaQqlSarcIiMcKfEMUFkGtotLyB2BTdbZ5PDMQVga62pajVFuqGxzvXBsLuRx0K8D27Cs3U727SVMeNcO3ddXLWsnCwPh1Wf3amDVRHZGrsINaMDROmTSzl/PtxPgq5WUjqFwxZhaj5OiUfgbYEiD/6/QqzPUxJbHGfoo2R6wiexriGeNzCmOrenke53FPbaC47MoHhuJrQFHwxfFp5+tpT2/8mlBVAXSzsBEqkQp/SzjZArXt2tX/N3hXEANh733KlE/rN48lp1SHoalXSOJO8bnOhY3yZSsxRZj8UcNUA==;hCQBI0ylYEREYD50+JjBSg=="
 ---
 

@@ -55,6 +55,22 @@ related:
         width: 2882
         height: 1989
         isCached: true
+  - title: "Vice President Kamala Harris to visit Vietnam and Singapore amid tensions with China"
+    excerpt: "Vice President Kamala Harris will travel to Singapore and Vietnam next month to strengthen the U.S.'s relationship and economic ties with the Indo-Pacific region, the White House said on Friday."
+    publishedDateTime: 2021-07-30T23:16:00Z
+    webUrl: "https://www.cnbc.com/2021/07/30/vice-president-kamala-harris-to-visit-vietnam-and-singapore.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/07/30/vice-president-kamala-harris-to-visit-vietnam-and-singapore.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/30/vice-president-kamala-harris-to-visit-vietnam-and-singapore.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106919683-1627661369858-gettyimages-1323522403-058a7724_20210614100941310.jpeg?v=1627661409"
+        width: 4451
+        height: 2969
+        isCached: true
   - title: "U.S. Vice President Harris to visit Vietnam, Singapore"
     excerpt: "Kamala Harris will become the first U.S. vice president to visit Vietnam next month during a trip that will also include Singapore and is aimed at rallying an international coalition to curb China's growing influence."
     publishedDateTime: 2021-07-30T17:42:00Z

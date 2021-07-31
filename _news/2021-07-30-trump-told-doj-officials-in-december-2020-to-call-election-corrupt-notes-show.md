@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-doj-officials-election-corrup
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp"
 type: article
 quality: 185
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Justice Department Says Treasury Must Release Trump Tax Returns"
+    excerpt: "The Justice Department told the Treasury Department to turn over former President Donald Trump’s tax returns to the House panel that has sought them since 2019, saying the panel had ‘invoked sufficient reasons."
+    publishedDateTime: 2021-07-30T16:51:00Z
+    webUrl: "https://www.wsj.com/articles/justice-department-says-treasury-must-release-trump-tax-returns-11627667462"
+    ampWebUrl: "https://www.wsj.com/amp/articles/justice-department-says-treasury-must-release-trump-tax-returns-11627667462"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/justice-department-says-treasury-must-release-trump-tax-returns-11627667462"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-378128/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "6Amf6iysJm4tEhcdbqYWX2pI+G0PRaJ9DnIWutPBnwAV3cw1dBmx2BxxPJEZAAHIMw+p+2PZMRwqpnPUKJD8eiBeqFkH6kucY0jYZMFpx9V7CXnCbZzouK0YeaOCRJdTIcXkDBTk7C8vcTecvhvWQwDuFX0p30asltHl9CmUnQdFdCz4PcTOCNooCDUubRGAi7RHl9uJp67ZFdcPk6+xtQETA+PhNzjaGTiCtrtMbcjkB8z/BWTh7ahdtGjMAYqQHWD2zwQKxphBh1DnqJvQVihTliwyE52c/0ggiyYOn/X8o3DEDNyGFM5E1Qamso/Z9ooOBU03wJV6cMHbtTBFPYF/0VT1wp94jquvrwBSN9c=;v3zuxSZrFKWFUSlY5rCRCw=="
 ---

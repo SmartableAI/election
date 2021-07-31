@@ -79,18 +79,13 @@ related:
         isCached: true
   - title: "VP Kamala Harris meets with DACA recipients"
     excerpt: "Watch \"VP Kamala Harris meets with DACA recipients\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-22T21:41:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210723013215-vp-kamala-harris-meets-with-daca-recipients/"
+    publishedDateTime: 2021-07-23T04:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210723043215-vp-kamala-harris-meets-with-daca-recipients/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 85
   - title: "Sexism in Politics Is Real. It's Not Kamala Harris' Main Problem."
     excerpt: "\"Perhaps the worst-kept secret in Washington is that tons of Democrats are terrified of the prospect of Kamala Harris becoming the Democratic Party presidential nominee at some point in the future,\" writes Matthew Yglesias,"
     publishedDateTime: 2021-07-30T13:46:00Z

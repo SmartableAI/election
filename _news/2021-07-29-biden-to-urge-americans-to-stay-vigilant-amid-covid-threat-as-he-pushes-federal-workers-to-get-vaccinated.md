@@ -31,69 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Biden defends previously saying vaccinated don't need masks: 'That was true at the time'"
-    excerpt: "President Biden was involved in a heated exchange with Fox News reporter Peter Doocy after he pressed Biden on whether or not vaccinated Americans still need to wear masks."
-    publishedDateTime: 2021-07-29T21:52:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp"
+  - title: "Biden says Americans should expect more COVID restrictions"
+    excerpt: "President Biden warned Friday that increased COVID-related restrictions could again become a possibility as the U.S. sees spiking coronavirus cases nationwide."
+    publishedDateTime: 2021-07-31T00:41:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eec26b2c-3cfe-4b36-bb76-dfd0652fbbc6/c35c575c-353d-457f-bcbf-31c72016050c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Critics slam Biden surgeon general suggestion vaccinated parents wear masks: 'alternate reality'"
-    excerpt: "U.S. Surgeon General Vivek Murthy suggested vaccinated parents should wear masks at home to better protect against the coronavirus."
-    publishedDateTime: 2021-07-30T16:16:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Ygqa4JjbSU/us-surgeon-general-vaccinated-parents-mask-home-reactions"
-    ampWebUrl: "https://www.foxnews.com/politics/us-surgeon-general-vaccinated-parents-mask-home-reactions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-surgeon-general-vaccinated-parents-mask-home-reactions.amp"
+  - title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
+    excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
+    publishedDateTime: 2021-07-27T22:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02dacb20-8ad6-4176-9b59-2a1aed1201f0/f43d9435-c16b-4e13-af3a-843adb6b44e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden considering vaccine mandate for federal workers, says unvaccinated not as 'smart' as he thought"
-    excerpt: "President Biden said Tuesday he is considering requiring all federal employees to be vaccinated and questioned the intelligence of those that have yet to do so."
-    publishedDateTime: 2021-07-27T20:49:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnlHCmuLiOQ/biden-federal-vaccine-mandate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
+  - title: "Army combat veteran who owns steel company asks Biden to bring back 'Made in America' showcase"
+    excerpt: "An Alabama Army combat veteran whose business had taken a hit because of rising steel prices is calling on President Joe Biden to reinstate a Trump Administration tradition to honor American-made products at a time, he says, when businesses could really use the morale boost. "
+    publishedDateTime: 2021-07-25T00:49:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sUxypw7MHEQ/army-combat-veteran-who-owns-steel-company-asks-biden-to-bring-back-made-in-america-showcase"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 143
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ea5077-c2bf-418d-aa26-66f4b2f1dea9/188ffa1c-573c-47cd-a16d-bb08437ce582/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Colin-Wayne-Redline-Steel.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Washington Post gushes over Biden's Buy American initiative after torching Trump's 'racist' approach"
+    excerpt: "Former President Trump's \"Buy American\" initiative was once dismissed as \"dark,\" isolating, and even \"racist\" among mainstream media outlets, who repeatedly tore into the former president over his administration's unconventional economic approach."
+    publishedDateTime: 2021-07-30T01:06:00Z
+    webUrl: "https://www.foxnews.com/media/selective-amnesia-wapo-gushes-over-bidens-buy-american-initiative-after-torching-trumps-racist-approach"
+    ampWebUrl: "https://www.foxnews.com/media/selective-amnesia-wapo-gushes-over-bidens-buy-american-initiative-after-torching-trumps-racist-approach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/selective-amnesia-wapo-gushes-over-bidens-buy-american-initiative-after-torching-trumps-racist-approach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b52f2ee-e833-4cda-ad75-60a7b185cb35/3bad51d7-54b2-4df2-a69b-e7c719eac993/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Ingraham: Biden seeks 'masks and mandates forever', as WH poised to guide 'the science' wherever they need"
-    excerpt: "In her \"Ingraham Angle\" Thursday, host Laura Ingraham said President Biden claims to issue edicts to the American people based on \"the science\", but in reality seeks to create a system where the government can rule by emergency indefinitely."
-    publishedDateTime: 2021-07-30T04:02:00Z
-    webUrl: "https://www.foxnews.com/media/ingraham-biden-masks-mandates-white-house"
-    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-masks-mandates-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-masks-mandates-white-house.amp"
+  - title: "Lt. Gov. Patrick torches Biden over border failure, COVID crisis: 'This is insanity'"
+    excerpt: "President Biden's border crisis is spiraling out of control while coronavirus cases are spiking throughout the US."
+    publishedDateTime: 2021-07-29T19:12:00Z
+    webUrl: "https://www.foxnews.com/media/lt-gov-patrick-torches-biden-over-border-failure"
+    ampWebUrl: "https://www.foxnews.com/media/lt-gov-patrick-torches-biden-over-border-failure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lt-gov-patrick-torches-biden-over-border-failure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0676ce2c-ec81-4fd6-b6b4-f77de2c49983/0325e996-59ca-4eb1-a758-172087d82910/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Gutfeld: Biden struck 'right tone' in COVID speech, but returned to 'us versus them political bifurcation'"
+    excerpt: "The panel on \"The Five\" reacted Thursday to President Biden's White House address on the federal government's COVID-19 standards and his personal reservations about Americans who remain unvaccinated."
+    publishedDateTime: 2021-07-29T22:37:00Z
+    webUrl: "https://www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation"
+    ampWebUrl: "https://www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-biden-struck-right-tone-in-covid-speech-but-returned-to-us-versus-them-political-bifurcation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 117
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a45a209d-5776-49a6-bc18-a3902225096a/61608af9-0d69-4d97-9d88-2f2cab81c0f9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cf5cb1c-d5e9-45fd-b1a8-8b05f1559f00/9d26c49a-dc88-4028-8313-4a83dcedf3a7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Glenn Greenwald: The Biden Administration Is Launching A \"Second War On Terror\" Against American Citizens"
+    excerpt: "Glenn Greenwald discusses reporting that FBI agents were involved more closely in an alleged 2020 plot to kidnap the governor of Michigan than they previously admitted. JESSE WATTERS: \"BuzzFeed\" is reporting there are twice as many FBI agents involved in this plot than there were plotters."
+    publishedDateTime: 2021-07-25T18:13:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.html?jwsource=cl#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/25/glenn_greenwald_the_biden_administration_is_launching_a_second_war_on_terror_against_american_citizens.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 68
+    images:
+      - url: "https://assets.realclear.com/images/52/525625.jpg"
+        width: 808
+        height: 606
         isCached: true
 
 secured: "AOw5L5NaUU9IYsY9PjgEGBD6Sj7jShw3uCuuMnotdAq+uC2HSEtsdZE/ukX6BhQ4ATcM5/aFLg8CsYu3MKQe0H0FQkaA9Cfx6SFo5sqwcZd9dCZb3zMliClFJwJLEKKRK6izH1RlQd4yiQAtKW/VwkJoq1qez+3SFmN2Qx2nxXxQWSzUwY3lyRht7pZQYr8MVXZMaOBZbE86dg1+RJ9H9Sk9dqm0/AjVsxxrJV1wAhyvWxvpfxl0Z4HtZ+ZCNCsJw2WHE0MlZdEFxsCZLqCLzcmU9wcZQ5Bf25YEmuZkcJTmS7QWYO1xDEB/IgVko9tdbH6HPP60btMihakEDbd59dZE0YRLb6Xp/pu9kNIaMAA=;qt8JK4m8lXz/rhhlGEAedw=="

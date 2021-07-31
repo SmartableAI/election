@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Meets with Cuban-American Leaders"
-excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
+excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. President Biden was seated next to Jake Sullivan,"
 publishedDateTime: 2021-07-30T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/6bb5e54ad4bd9f565cac5492ff2ad41a/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/6bb5e54ad4bd9f565cac5492ff2ad41a/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/6bb5e54ad4bd9f565cac5492ff2ad41a/WHITE-HOUSECUBA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/999190775ec599e646b7c0dcbff39dcb/WHITE-HOUSECUBA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -240,6 +240,6 @@ related:
         height: 433
         isCached: true
 
-secured: "mstgTTSCOXN5m4n08e+uAJYqjso7THeeRIpTAb6a9jq7g4qO0eAEcxvyAjhHFJJ/P3dni9vHuVIao86Q76N3/hbs4gjXst/8hinsMRYK2OyhxGPiN67yktWdp+xg182xUAFrVHUKsc7L600dBLdkm8aPpO0qiP1a3Bp7B81VeHiCpUZaG4RfAy6sq8G11ZqjLlaYt6SHTBlJefLT01m8extN1myNH0reEHA4LYuDB3xGaQSSv0I4CMlbksroUtMZqc+yidBl/cOaaNsOCOkPruIh0HEZTXEnJIIVPVHtiRUaaGYhWCuC85xZ9x4TYtiVZaXiD3JHGFPnW/Mxmb4unMBWbnHXc3q7sV2q+syTX28=;QmsY4GI19G51nYltg0d+Yw=="
+secured: "GWa/WifozU41dkNv+OzJRtmZW9HuHlTMbbD6UlpdYi5MC4lveeooPbnS9Iy6SKpNtJUgHPcQefeKNtrFl24fVbZPMrFUQg1VkRIkdYkkcRvFPYwCBiKVcQ1uAIwzvHGW3yDdWKkM28B9WTZYhIOpLYMCxFDobCFakvtK+TMBa98jQ2kIQLuB1KpdTp0gsUy7w/uiu03HxjTbqK5lI/f/rpY2mXIKKi3RwicZg/8Plt014mKwF9jbOHSCsuoOGUxBN39GhzMqybumTPJCCXcYIP0OUy/1FyIbZB2J/59LhdkfIb/8XTB9P724+5oPWGtcIbPuxhoh33nQP+mcshlPfgtg6JcK4QjsaEtLomXuVFU=;U2vhWxho1++LXWQHGwfYuQ=="
 ---
 

@@ -191,6 +191,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump urged Justice Dept. to overturn vote results - House panel chair"
+    excerpt: "Former U.S. President Donald Trump pressured the Justice Department to overturn the 2020 presidential election results, according to internal documents released by the chair of the House of Representatives Oversight and Reform Committee on Friday."
+    publishedDateTime: 2021-07-30T20:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-election-idUSKBN2F02FW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F02FW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F02FW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570494662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T1BZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
     excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
     publishedDateTime: 2021-07-20T19:17:00Z
@@ -425,22 +441,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NFUPH4M6QRDLLKJBN7DOE4AXCM.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Trump urged Justice officials to declare election ‘corrupt’"
-    excerpt: "Just say the election was corrupt and leave the rest to me and the R. Congressmen,” Trump said, according to notes taken by Richard Donoghue."
-    publishedDateTime: 2021-07-30T17:43:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/07/trump-urged-justice-officials-to-declare-election-corrupt.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UWXEUVHYGRDTDNTWKM37Z2ANKQ.jpg"
-        width: 3600
-        height: 2400
         isCached: true
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."

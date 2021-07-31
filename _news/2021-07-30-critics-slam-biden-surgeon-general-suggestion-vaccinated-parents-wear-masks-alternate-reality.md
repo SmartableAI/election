@@ -63,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden to urge Americans to 'stay vigilant' amid COVID threat as he pushes federal workers to get vaccinated"
-    excerpt: "President Biden is expected to deliver a \"strong message\" to vaccinated and unvaccinated Americans Thursday afternoon about the \"need to stay vigilant\" as the nation deals with the spread of the COVID-19 delta variant, sources told Fox News."
-    publishedDateTime: 2021-07-29T19:10:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cuzWpBc3Am4/biden-covid-vaccination-speech-federal-workers"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccination-speech-federal-workers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccination-speech-federal-workers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Ingraham: Biden seeks 'masks and mandates forever', as WH poised to guide 'the science' wherever they need"
     excerpt: "In her \"Ingraham Angle\" Thursday, host Laura Ingraham said President Biden claims to issue edicts to the American people based on \"the science\", but in reality seeks to create a system where the government can rule by emergency indefinitely."
     publishedDateTime: 2021-07-30T04:02:00Z

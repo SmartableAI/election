@@ -59,6 +59,22 @@ related:
         width: 2882
         height: 1989
         isCached: true
+  - title: "Vice President Kamala Harris to visit Vietnam and Singapore amid tensions with China"
+    excerpt: "Vice President Kamala Harris will travel to Singapore and Vietnam next month to strengthen the U.S.'s relationship and economic ties with the Indo-Pacific region, the White House said on Friday."
+    publishedDateTime: 2021-07-30T23:16:00Z
+    webUrl: "https://www.cnbc.com/2021/07/30/vice-president-kamala-harris-to-visit-vietnam-and-singapore.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/07/30/vice-president-kamala-harris-to-visit-vietnam-and-singapore.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/30/vice-president-kamala-harris-to-visit-vietnam-and-singapore.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106919683-1627661369858-gettyimages-1323522403-058a7724_20210614100941310.jpeg?v=1627661409"
+        width: 4451
+        height: 2969
+        isCached: true
   - title: "U.S. Vice President Harris to visit Vietnam, Singapore"
     excerpt: "Kamala Harris will become the first U.S. vice president to visit Vietnam next month during a trip that will also include Singapore and is aimed at rallying an international coalition to curb China's growing influence."
     publishedDateTime: 2021-07-30T17:42:00Z
@@ -380,6 +396,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "Ca2NgAFER8zvh6425sbLNDzkZyDto7JahufsREfKuNpFQ393lphF0dU1f40MT6MpjxnpzscydnLMmtVeps1fj0OJd7Ab6cLjHpmz0dQQ2pzkUdmpaSs5eEF7wBKZWpnqdIitEQrForZqR0Ld/Wb3TQVEfHjdBlzoXXi7763p/G2KjbOqnJ3F1k0I66LQ2MK2UXn/nEc/cAQcoNO021I71afBpfYi+QcZkmss1Y9z4+mX8DH7QUWvvFtlMamTHrYCRKpsdLqVx4TKYCL0FOaDh3BtaIW9S6nshXE/9CEP4tUq0i6p1fcZFBpbstNXoxyAF6OIY44eRSHA0/3yF8Ocde8BWqY7X9SRCZumETeb1qQ=;20BkXPbNeUrzYHrd+ZVjHA=="
+secured: "cxNUqeFgUd+QHwObwxao0DQmMV/01a3Amsem+XEUGDnfG3PEJXF+aGY7TY799YicRuOP4WrD+mMveXYuLmCZ6mmLlE7dU5qcTmWyaCSr8dQIubXcDb0OjuUQLjAUJOgR1sBp8hGu7ChP4Tzg+70AILGpzlvShOZkbobEoDrIM/tvgHvrVylPNm/PH0Hk8aZt0QIQaVEzLXWBUJbYgWqd4/UhfVh7w8XUuq5OpEn2YbdXJcppRGMUVqh9C4aNuso68LykhF15Cg1AdNZNb2j1vYa0wDIKcr9JPzCKFaMpF+CWS9cbLzGLIHfnDN1RW1I/k4/3JwA4jkTdsrdxvSC5BOZgXz9l8Gd0FhcVks6ptpsJVsm+0bwLFD0vIsaFgZEo2B+GLHZBlCb91pnQR+6DiL2x+M3ZGsOqUAOPfnlHRvzqc4VCn0ZEo8tBMIo46QVajCtda/xVpC45oJyvDiEc3ZPwIEosH0nDixZYkuX7q4iYGiQUkFFj9aNuLjNLuAFPtZsi22zISldGE2a5OZFsqg==;bRvK6ojmG45BIoiCnfbHNw=="
 ---
 

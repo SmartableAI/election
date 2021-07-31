@@ -111,22 +111,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Republicans torch Biden over report that migrants released without court dates are disappearing into the US"
-    excerpt: "The Biden administration released 50,000 undocumented migrants into the U.S., with only 13% of them appearing to the ICE officials they’re supposed to meet, according to a new report."
-    publishedDateTime: 2021-07-27T22:47:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwjKVSa1Y34/republicans-torch-biden-migrants-released-no-court-date"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-biden-migrants-released-no-court-date.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/116c2c14-b0c6-4e9c-ac6c-9f85a136399b/cef12722-ea7d-473a-ab61-ebc81c17b120/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "STE/av2eUu325XqLtk7zVqr5jI55/wrjZ+hrry4X+4HBmWb8gv4NIbCjoiaLzKfbYsFlUZJTniE/4GPgO+Vd4qqd6lLX0dg1Ha+LeORUhPN0me7WMIQbUwbprYcgFiFucLCYIJRGvkmUtMvZfVpRQgEUc/dc12ARAgOq3S487fbMTOw+gtMEXmN46UoVucxbhQpKv77sw7pT1YQ41chg2lug2Nrc0GcgWOqDCx7UGiA9tqCiUqakqMKZgSQpJDDoTuXM2s9jhjbrjQ+C6YgRsNDIIuex06tRFwhr+n4MIj6VJkdIxU1v8f5FHU1d+2xgUC+WH+3EuM3Q7o79Bw5n4ETt4HX9K5yCItWfZ3osUUk=;M0w6ELuBDh9a2nML/lAx/Q=="
 ---

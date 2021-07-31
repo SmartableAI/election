@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 705
+heat: 725
 published: true
 
 provider:
@@ -483,6 +483,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Joe Biden's COVID-19 presidency"
+    excerpt: "President Joe Biden recently passed his six-month mark in the White House. It might end up being the high-water mark of his presidency."
+    publishedDateTime: 2021-07-30T21:47:00Z
+    webUrl: "https://www.ottumwacourier.com/president-joe-bidens-covid-19-presidency/article_b77fa56a-f17f-11eb-a16e-935491041c48.html"
+    type: article
+    provider:
+      name: Ottumwa Courie
+      domain: ottumwacourier.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/ottumwacourier.com/content/tncms/assets/v3/editorial/0/bc/0bc6a2cc-cc5b-11ea-8caf-cf093f358dd7/5f18a36ce003e.image.jpg?resize=840%2C630"
+        width: 840
+        height: 630
         isCached: true
 
 secured: "ioDTKGlqF3C+x2ejVwmhLTkYLnYNdLKDm5CGPeQ4aCIxA4B1hd4RYI6B32arIJ/pFtqVO+L7xZTMkDBqhpGM6dreHjCJhAqYHR2YDkgGdthsoX6PScJ5bVXGeNYsCcx6NTVUGULxI4G6eSTsduRsyHIc1N12C1LEXQWz1zw9c/kQ07hcg/MRWQ1lOuBxJUe2FFBpnAK4IsN35t5k4HWAWqPG1sC8/4+3R4+MQ6HDYhPm6826d0gt5Bu/jRVSTPYDn+B/v3+ePRj8kvSSJfh1rANMw92nKyIMZ+LxROilh4448pI7tvcrnv28x1BOlp2YjnnmL1VA2moB/QctQ1NzJxvb9m5gcZhU6IGkkxkl7MX2NYMWMMbpisdctIC2lX8LFujS/7tWbx5JnSu+cagUjlhcj+779oHTsrPPElfeBE1xeJtN7O9tUAZFwoLkSHnNKgXLZtIUd9jGqy0WueaXYGXDZfPJr9LVs9fqSKSPy6/k17P/5IV1CHUkJoqXOShHn95NbL49GLC4dOUZSTHTow==;nC1jJTXAGXLNiMbHLgWYVg=="
