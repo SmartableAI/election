@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis"
+    excerpt: "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border."
+    publishedDateTime: 2021-07-31T05:14:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rZ4nafHqb1s/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1598a130-2526-4c35-96e5-9a43f8e5205e/ac2e8573-7c88-43b6-98fc-9fd51511f45b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "lwddNUtyyM5FlR4IczjRfAl2Guu0WzQFBoRVvApT5G4SjBwdyviVQWIsI77L18c3sWAUBNQduWHMwiB0U3L2F7x5sIWsVFRRqf2j9Wp6EPlkXuV5Hpy3MIM+zqbWxAlje90FGgoX8XintL0VTRAzB5sj7NO08wrx25m5tUPqJ14dCB/5lKse05HFqW8uy1ZNtlH4D46g6nBBNJZ6G+Xug6MewzOmGJkcJd9r+3GU9l8oNP6YQOIP7OyOZXOVRzWX/s/qD3C25vYxRRaUyVHI0R2Dw8MgefkYB4UfgO5DT1aG7hakN12GT2MfQKxMHynal21JMBU6GQg1XQzM2j2Q4MG4zBFlz7MgHqdiQdQeTXglSpZm0TWhkd3N3I3Ix/+oExWQwJYvQ1P2u+jp7/JXj7ZShmEBHsfKB6FtYfFbLsKon9P76qPIczjjxRNnLuyqjoq0btqk6o949X/m8nShARASVbRNCY3aqhFton6E9VSlMV5ZimA5bjkUi+OdYJaQw+7TWvF3Uyf2MpKNt9oauA==;UPeA2gULaxcL6L7QB2H2mQ=="
 ---

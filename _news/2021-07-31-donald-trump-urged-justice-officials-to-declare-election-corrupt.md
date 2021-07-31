@@ -438,6 +438,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump urged Justice officials to declare election ‘corrupt’"
+    excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call"
+    publishedDateTime: 2021-07-31T05:20:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/07/30/trump-urged-justice-officials-to-declare-election-corrupt/"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/07/30/trump-urged-justice-officials-to-declare-election-corrupt/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/07/30/trump-urged-justice-officials-to-declare-election-corrupt/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 90
+    images:
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/07/AP_Poll_Trump_Republicans_56084-610020b51ce7a-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
     excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."
     publishedDateTime: 2021-07-14T17:57:00Z

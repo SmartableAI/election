@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Trump World is already weighing veeps for 2024. Hint: It ain’t Pence."
-excerpt: "The former president is keeping tabs on the field and he’s all but decided to ditch the guy he ran with last time."
-publishedDateTime: 2021-07-23T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/07/23/trump-vp-2024-500632"
-webUrl: "https://www.politico.com/news/2021/07/23/trump-vp-2024-500632"
-ampWebUrl: "https://www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
+title: "Trump Raised $56 Million Online in First Half of 2021"
+excerpt: "The former president raised far more money online than any other Republican, federal records show, and more than each of the three main fund-raising arms of the Republican Party itself."
+publishedDateTime: 2021-07-31T04:07:00Z
+originalUrl: "https://www.nytimes.com/2021/07/31/us/politics/trump-donations.html"
+webUrl: "https://www.nytimes.com/2021/07/31/us/politics/trump-donations.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/31/us/politics/trump-donations.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/31/us/politics/trump-donations.amp.html"
 type: article
-quality: 150
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/a0/73/a6a1fd864ace8b88b2b2d5322ea9/7-22-21-donald-trump-ap-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static01.nyt.com/images/2021/07/31/multimedia/31trump-money/31trump-money-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -111,6 +111,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump World is already weighing veeps for 2024. Hint: It ain’t Pence."
+    excerpt: "The former president is keeping tabs on the field and he’s all but decided to ditch the guy he ran with last time."
+    publishedDateTime: 2021-07-23T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/23/trump-vp-2024-500632"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/23/trump-vp-2024-500632"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/a0/73/a6a1fd864ace8b88b2b2d5322ea9/7-22-21-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Jan. 6 select panel Dems cast a wide net for Trump"
     excerpt: "Chair of the select committee Rep. Bennie Thompson said they would pursue \"any and all circumstances and facts around Jan. 6.”"
@@ -208,22 +224,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Raised $56 Million Online in First Half of 2021"
-    excerpt: "The former president raised far more money online than any other Republican, federal records show, and more than each of the three main fund-raising arms of the Republican Party itself."
-    publishedDateTime: 2021-07-31T04:07:00Z
-    webUrl: "https://www.nytimes.com/2021/07/31/us/politics/trump-donations.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/31/us/politics/trump-donations.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/31/us/politics/trump-donations.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/31/multimedia/31trump-money/31trump-money-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
     excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
     publishedDateTime: 2021-07-26T18:14:00Z
@@ -305,6 +305,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "vDJHdllbXGAMUog8oIs5tEU100OcvOu6GGwqsn6wzW99i01D6aNz3fs7GYNaA8EUZjkYEVu9mNH9LLzeJWFSFAhXWGzJBnwtWFAZPnmJF89Xg0z4Yh3uaR5McyU4adF5s4NQgk2mRQT3xuh+EtBkDirlilCIRKRpg4LqKF6RHEsf/kuYr7b+bJ9/8KvtgBrNCzE/OsWlr7buxFDtI9gQoXsBjVaGeXZCzcYxMWp6Qk4VNr8JvnmTpPIbNBOemSRL03AoUAJ8mivJjZSSX0WZDBY4Q1YjA0r8+X1M49YgkOdWntPy8+8BsDvyt6NMwUGjcrzbsT7YGh8brxeBF4wDCrOgM2uk/fpA25Krx0Kjwtg=;NpG1KnjvHpMTF28mKL8BaA=="
+secured: "5RGQZcz5gA0KTkJHtBM1HyxKZV22cqX4ddrIRvldpLB8MizbaqHFHLXiTAdqlxTi+NJlapNOYWpM0656utpcCmO8t7Juh5MBmu0FvGAv5YDYbXkqsfMZ+pSG1bk9ltVqtxZgLsjb5jpUXrXW8r1CkUrNw/bazLkxQ3HzaY1Hv32tMvwCsKmVDb4HVo8hg5pN66tC1oh7q++8UWE52ys47QS1WZQyNrD6UwT7j0jkKu729V71EKDYh/TjoP62jlcRGkUgVjy3tIugo/JX8HF5c4d3gWUP6YDdpIcYFzK4sjl0wKH77DLL5Wb+sPFI/Faz21/AaX0keS9VcaS3FtzZmy4pGBh7Yms3z8tJZrBN8YA=;1+d3vupERFawncyOSfpFvw=="
 ---
 

@@ -61,22 +61,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump urged Justice officials to declare election 'corrupt'"
-    excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call"
-    publishedDateTime: 2021-07-30T22:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-urged-justice-officials-declare-election-corrupt-79171110"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-urged-justice-officials-declare-election-corrupt-79171110"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-urged-justice-officials-declare-election-corrupt-79171110"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0097b5a199854aea830a250856fe21ca_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump urged Justice Dept. officials to declare election results corrupt and ‘leave the rest to me,’ notes show"
     excerpt: "President Donald Trump urged Justice Department officials to declare the 2020 election results \"corrupt,\" according to notes from one of the participants in the phone call."
     publishedDateTime: 2021-07-30T21:18:00Z

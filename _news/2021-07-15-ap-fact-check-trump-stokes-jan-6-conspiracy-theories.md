@@ -454,6 +454,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump urged Justice officials to declare election ‘corrupt’"
+    excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call"
+    publishedDateTime: 2021-07-31T05:20:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/07/30/trump-urged-justice-officials-to-declare-election-corrupt/"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/07/30/trump-urged-justice-officials-to-declare-election-corrupt/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/07/30/trump-urged-justice-officials-to-declare-election-corrupt/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 90
+    images:
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/07/AP_Poll_Trump_Republicans_56084-610020b51ce7a-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "AP FACT CHECK: Trump makes false claims about Arizona audit"
     excerpt: "Former President Donald Trump issued three statements in two days falsely claiming that voting fraud and irregularities cost him Arizona's electoral votes. Trump relied on comments made Thursday by contractors hired by state Senate Republicans to oversee a partisan review of the 2020 vote count in Maricopa County,"
     publishedDateTime: 2021-07-21T13:33:00Z

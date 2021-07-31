@@ -224,6 +224,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Raised $56 Million Online in First Half of 2021"
+    excerpt: "The former president raised far more money online than any other Republican, federal records show, and more than each of the three main fund-raising arms of the Republican Party itself."
+    publishedDateTime: 2021-07-31T04:07:00Z
+    webUrl: "https://www.nytimes.com/2021/07/31/us/politics/trump-donations.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/31/us/politics/trump-donations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/31/us/politics/trump-donations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/31/multimedia/31trump-money/31trump-money-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
     excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
     publishedDateTime: 2021-07-27T01:41:00Z

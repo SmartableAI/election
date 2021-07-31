@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Lawmakers urge Biden to call for prisoners release"
-excerpt: "A group of bipartisan lawmakers called for the release of Americans Trevor Reed and Paul Whelan from Russian prisons Thursday and pressed President Joe Biden to \"turn up the heat on Russia\" to bring home the two American detainees."
-publishedDateTime: 2021-07-29T19:52:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/29/lawmakers-urge-biden-call-prisoners-release/5420840001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/29/lawmakers-urge-biden-call-prisoners-release/5420840001/"
+title: "Evictions looming, Biden fails to get Congress to extend ban"
+excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from More than 3."
+publishedDateTime: 2021-07-31T05:54:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3400d1ae-fbc5-4a9d-8273-7ce35d18f6d8_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -155,6 +153,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Lawmakers urge Biden to call for prisoners release"
+    excerpt: "A group of bipartisan lawmakers called for the release of Americans Trevor Reed and Paul Whelan from Russian prisons Thursday and pressed President Joe Biden to \"turn up the heat on Russia\" to bring home the two American detainees."
+    publishedDateTime: 2021-07-29T19:52:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/29/lawmakers-urge-biden-call-prisoners-release/5420840001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3400d1ae-fbc5-4a9d-8273-7ce35d18f6d8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden sounds alarm on need for wildfire resources"
     excerpt: "President Joe Biden sounded the alarm Friday in a virtual meeting with governors about the need for more resources to fight a series of wildfires in Western states, as climate change has worsened the spread and ferocity of the blazes."
     publishedDateTime: 2021-07-30T18:32:00Z
@@ -215,22 +227,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Evictions looming, Biden fails to get Congress to extend ban"
-    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from More than 3."
-    publishedDateTime: 2021-07-31T05:54:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "President Joe Biden Meets with Cuban-American Leaders"
     excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
     publishedDateTime: 2021-07-30T22:03:00Z
@@ -260,6 +256,6 @@ related:
         height: 433
         isCached: true
 
-secured: "aA0bQd00PPIf1um0HM7Brnhak6j3xAD85uZ8+2OdvSPPndqJucc882x98YpZRe4efjU8Mz3SbNOIy7ULzBcoKnTTQGicnIzqSgNp4ERWNVFd96J+VRcNyOmJsZuxU4NI1L+z/ZYyQSFHdHS56DEQdOGScLSOk5M5/BaQKD2CNOSRla3L6NN+eMSNU0uQewtNv1k1XbFfyKSp/L6yFBS/u1oCUJ+dshB4zEFijs3VZx+3YDW7vK5McJCqR+aOslohNDWotX4ywXVtbLj9pkTIfzQfi5P/MowiSeNB083ahw/bj43Q6IBv94zI72E9/5KkQCJrbUNV0CZBCaIOiz+RGGVtPCr+qAqJjy0VFhzZsbaKTYZeRRLhWEnoDYozFWW2pD/qAea0kDcDndauAbZqR39ktQ5d4h+rRJ02PQmVqIjsbP/EjDuCdej0HNNE/uClbkRJcMpPmaIlfiaxQTEnCwFIly957lIduuiMK+QQ+7mCX/EzZmwUYZaAfweZZURl5Dr/BKki5TGqusEIwk40tw==;SRiiS9O9pZZyOdjKC0c4hQ=="
+secured: "l7A1kJ4/zWbWyLD+2qejAGpM46zZL++BpjgSUiA45+t3eKltCgFIJwqGjBW3xcUOQzgbPV/b4NNO2qy+CMEzQiV24Dto+r0aKfFx1+N9g+vsd5xRgBu0KFX4kUmbE68Jxf+hqQV7zCJxjLAJe0wnNTXLahjzzmShcB1HogzZKhM7TO1MomPJ2AtiKjagnuX1bD8KcIqXLEhB+CIa9VQoJcHQqwv8c+TIPnzbwJthsWEN7C/KyASnE46W90yj+w/riMpwV+QAFf7arpSu6ruBhMKynMWGMgRTuP993msvSnfI0RSdyFvEPfK7f9CFY76mWMR+PhSjl5tGDBV8kch32pIuOOXf9thrDCnv9A4I5iY=;5XI8rrZ2sjbD4tKhOeLwcw=="
 ---
 

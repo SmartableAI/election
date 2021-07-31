@@ -225,6 +225,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Evictions looming, Biden fails to get Congress to extend ban"
+    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from More than 3."
+    publishedDateTime: 2021-07-31T05:54:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
     excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean,"
     publishedDateTime: 2021-07-27T19:50:00Z
@@ -240,6 +256,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Wp5M5+aHlJhNWye8C1PyewSHbONajwZuOhwPCSUHWee/dH15uYFnE9cjnnR+V4UxIThcZ+yvVh0eNUP0taHfKR+keq7M6ZcWXcz+bHjBJivgD3bodMhIsuiy40FtwIXftB7EyYXybjRX2v/YHQXfewG6MHilScwRFKE24ktOWM06qWowyvGVaCwdo2eKNLuLMUoazzZLtMdwCt3D2eeeg9uHN0O++e/xzx1do3xlOZr02r90n8odx6i9qAUU+fmkZG7ABhIsc6CEwxz5FM1gqrHAWO6xOLUMJeZeFSCgwDsMCIJ/w8mM8UDxjwarBcRPDb7P+pyzDoEEjte6X14EQ7YzRZbNgVn/sTZwMjuSf1o=;UrBBuBx3kfjf50julkPhGA=="
+secured: "wNHhEdncsk0h7aBAqcEPE2nLyN5qcoiW4jwZQ7ipV/5eHk+/ygV7XNkhDGsWegQgKQom0BIWeywmGbCGRoFwwged57L8OOh939OsXUZps1ilA2F10qccY1iSPSsw+cjQ9tzCqp6/mEOmSSBs7NT+67w/tUBGoGAXZLTbJ80K5eWn2UJIvF/YAd5Vu2dvAIYq+RHFM9Z2951uDG1NmtVbPNLskV7C/0QTSvijcoIkzxENSQS5B3ypH5Mjalxq0myZStVTXl5gy7ABT6QEnCZZXXeel+Qtm9hF+/00J0r8jJNFSTg/QrVM1EUOeSqptEM8hXu0q7Uyr2+fBoL0Infb21tmmRsSkI5kjSAb8EL5V003x7TGWG4Rzu8Znt06jMe2MOmwI2AG2iQpY5seFjASW250wDk7OYbeQ1rv375LgOC6liEC+BkJvhqBMQjiRbpr5ihhzkZvW9vdyGxTR6pIe8Igtm4o0rLpS8enhorwhes8jpS1oYbYxMZ2hVxHGOUtLSgoPGds5VkSySBnr+/hKw==;FksFduDQukjmafudVOu8Hw=="
 ---
 
