@@ -112,6 +112,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Pressed Justice Department to Discredit 2020 Election, Official’s Notes Show"
+    excerpt: "Notes of the phone call offer the latest glimpse into Mr. Trump’s unsuccessful efforts to get the Justice Department to investigate unsupported claims of voter fraud in the weeks before Joe Biden’s inauguration."
+    publishedDateTime: 2021-07-30T16:47:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-justice-department-to-discredit-2020-election-officials-notes-show-11627665949"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-justice-department-to-discredit-2020-election-officials-notes-show-11627665949"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-justice-department-to-discredit-2020-election-officials-notes-show-11627665949"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
+    images:
+      - url: "https://images.wsj.net/im-378099/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump backs embattled ‘patriot’ Texas AG Paxton over George P. Bush"
     excerpt: "Former President Donald Trump endorsed Texas Attorney General Ken Paxton Monday, rebuffing the incumbent’s primary challenger and Bush family scion George P. Bush."
     publishedDateTime: 2021-07-27T02:19:00Z

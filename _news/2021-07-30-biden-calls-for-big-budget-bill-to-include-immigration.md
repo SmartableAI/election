@@ -215,6 +215,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "President Joe Biden Meets with Cuban-American Leaders"
+    excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
+    publishedDateTime: 2021-07-30T22:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6bb5e54ad4bd9f565cac5492ff2ad41a/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6bb5e54ad4bd9f565cac5492ff2ad41a/WHITE-HOUSECUBA.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
     excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean,"
     publishedDateTime: 2021-07-27T19:50:00Z
@@ -230,6 +244,6 @@ related:
         height: 433
         isCached: true
 
-secured: "kP3T1oMd805fG9Vb50VUl7SgWZzYfnPnlNRxTjfX6ImTVv38I+GjeGW0MQoB+nEPVC0j1vBlH13xIos3riC97is159X9ljlrhyw7M0L18j1Ygw3xRtWp0nvE/Fldk75JOEipDHSAR1ykRPtArC6h0VnKvqW6XhW3VmQVRW/sLpUmBC5GezIPtyPpYIdART3qYrpULOdygaec5mtDZr1P6R5B0p98iBt/HwmsCinLBcXoaEM23oj/yCXjnEf0id+mnoARPyVqjPGmZaYiKyXtAy5StAUm2jXaidKqJOtHEzNK0GDymY8GTVTtlSUVv4DTPJZq4zZeU48UBVqVJ1D/52emCWt1bWXkzv6QKNwVcwU=;O1hTGuJpprSrdlR8qibjwQ=="
+secured: "8D3vg5Dm6GE7VQnur3I+qzkFgTx0TUnbIOOG68vy0XxHWvI/rfakwvwLdBCUgcgqDtecYpPAB1GUrqp0i8QyzH67I+L8U5fKl8ld8kPLq3sZKNonc8oHpTmUA70HCs9VkDl2tWACc2CTG0ANHq4Bm7/vQKgPFk15YQOASDTitshXMtdzzdYS2o/6wJmuXaFOOukRQxS2OaGDbaWTfJUX7xldoXFhLSeHGb5cUcTPe7zvDUF99dvn/dcpybQ6QO+hut4d/eWDXejhPUZ54bUb6Y6MjQzIqYix7huvRcsuogLJsxPdk5fFy8z3sPskNhK01WqHjQqJLCu5Hgx27qDlwQd+f0cblvdwl5mt+ihiBTdKERjtMZJgT6mo8DbFtoElqckMHxQ+vc6Wr+aWwvVCVymlZNix8y6+zhAXYRD/07PSdiZo1FA04oj7eh06/JOwFmqK58TMytnUtPt7gFRgROajeOn5sUcfnwtzdML4NF79lQSJ2YGUAyWsfpZlZ1VpNSlDCkNid3CSC/CmY70dfQ==;NV0LxE910ByEMaR5XDl7ew=="
 ---
 

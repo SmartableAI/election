@@ -2,6 +2,115 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-02-democrats-concerned-harris-couldnt-beat-a-gop-nominee-even-if-trump-report.md",
+      "title": "Democrats concerned Harris couldn't beat a GOP nominee, even if Trump: report",
+      "excerpt": "Democrats, including some Biden administration officials, are reportedly so concerned about Vice President Kamala Harris’ missteps that they don’t believe she could beat a Republican in 2024 if she were to be the nominee – even if her opponent was former President Donald Trump. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6LCQ6NCtCkE/democrats-harris-gop-nominee-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6LCQ6NCtCkE/democrats-harris-gop-nominee-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 837,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp",
+      "publishedDateTime": "2021-07-02T10:18:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-the-latest-biden-concern-about-unvaccinated-during-holiday.md",
+      "title": "The Latest: Biden: Concern about unvaccinated during holiday",
+      "excerpt": "President Joe Biden says he’s concerned lives will be unnecessarily lost to COVID-19 as unvaccinated people contract and transmit the coronavirus over the July 4 holiday",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6XQ2AXW3JQI6XDEHVVXSPEMMPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-02T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-this-is-historic-progress-biden-touts-economic-recovery-after-us-added-850000-jobs.md",
       "title": "'This is historic progress:' Biden touts economic recovery after US added 850,000 jobs",
       "excerpt": "President Joe Biden on Friday touted America's economic recovery from the coronavirus pandemic after the US added 850,000 jobs in June.\n    \n",
@@ -1235,110 +1344,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-trump-made-a-trip-to-the-usmexico-border-and-falsely-claimed-his-southern-border-wall-had-been-just-2-months-from-completion.md",
-      "title": "Trump made a trip to the US/Mexico border and falsely claimed his southern border wall had been just 2 months from completion",
-      "excerpt": "During a visit with Texas Gov. Greg Abbott, Trump said the wall was almost done and only needed a coat of paint by the time he left office. Biden has paused construction on the wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7",
-      "originalUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60dd6af3a08b100012b41a7f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7?amp",
-      "publishedDateTime": "2021-07-01T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths.md",
-      "title": "Coronavirus live news: Biden behind on global vaccine delivery; Thailand suffers second day of record deaths",
-      "excerpt": "US President fails to deliver 80m doses by end of June; Thailand toll comes as Phuket reopens for tourism; Australia vaccine rift grows",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths?page=with:block-60dd64aa8f08a0630603f917",
-      "originalUrl": "https://www.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths?page=with:block-60dd64aa8f08a0630603f917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/cbd3de7b7615c58c697fb271fad2cb1a7b3f3751/0_114_3849_2309/master/3849.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1856786b35ea868effdf521bdf4e8c5e",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths",
-      "publishedDateTime": "2021-06-30T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

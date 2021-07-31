@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-m
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 type: article
 quality: 92
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -25,6 +25,17 @@ topics:
   - Joe Biden
 
 related:
+  - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – as it happened"
+    excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
+    publishedDateTime: 2021-07-30T18:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 87
   - title: "Biden touts 'Buy American' to boost US businesses"
     excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
     publishedDateTime: 2021-07-28T21:45:00Z

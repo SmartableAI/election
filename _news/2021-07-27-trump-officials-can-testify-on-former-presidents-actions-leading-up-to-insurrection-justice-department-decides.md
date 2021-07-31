@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration sues Texas over Gov. Abbott's migrant transport order"
+    excerpt: "The Biden administration is taking Texas Gov. Greg Abbott to court over an executive order he issued earlier this week targeting the transport of migrants recently released from US Customs and Border Protection custody.\n    \n"
+    publishedDateTime: 2021-07-30T22:23:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VbA2FL62jeI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/doj-sues-greg-abbott-texas-migrant-transport-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/doj-sues-greg-abbott-texas-migrant-transport-executive-order/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611161821-02-merrick-garland-doj-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
     excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
     publishedDateTime: 2021-06-01T20:50:02Z

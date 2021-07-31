@@ -183,6 +183,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Justice says IRS must give Trump tax returns to Congress"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the record"
+    publishedDateTime: 2021-07-30T18:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a417cf5f43cc415c9059ddb7f2cc2e3f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Tom Barrack, ex-Trump inaugural committee chair, charged with acting as agent of UAE"
     excerpt: "The chair of former President Donald Trump’s 2017 inaugural committee was arrested Tuesday in California on charges alleging that he and others conspired to influence Trump’s foreign policy positions to benefit the United Arab Emirates."
     publishedDateTime: 2021-07-20T19:17:00Z
@@ -513,20 +529,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/30/congress_ellzey_27760_c0-208-5000-3124_s1200x700.jpg?74d48b7b24509088c15947da9892024c1a07cb57"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Justice says IRS must give Trump tax returns to Congress"
-    excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former"
-    publishedDateTime: 2021-07-30T19:24:00Z
-    webUrl: "https://www.theday.com/article/20210730/NWS21/210739958"
-    type: article
-    provider:
-      name: The Day
-      domain: theday.com
-    quality: 55
-    images:
-      - url: "https://www.theday.com/storyimage/NL/20210730/NWS21/210739958/AR/0/AR-210739958.jpg&imageversion=16by9&Maxw=960"
-        width: 960
-        height: 540
         isCached: true
 
 secured: "oL4WsfnvqQo1qHi16ce6ah3ekcgNnZ5vz3NWaBm4NIh5l8sXNNDxD/WrK8ZOBCxCIBDktXyH9iQ8W77RJfcB7dGUuOBNapC9ls9vMVJVPS49tpb7TDbOp0MWimw9FRlC7w+pf59PA3/fjm/x0kxp2fNTxWzRTDknnKwuXE+va1E5BwIXLzrU+8JFcuYfTERanSAt9RXEFIdARESt/Y7yl7APL2CGW9XoB7oR6pYs99VonQtK6NPKhaKXOLgt+RvjJm4apxFggQIdRr63Vz/u2QL7+RIUem/p3M/0Qd+E8ZeSff89yP+KgC34F1LQCMAHQeGmtVzxbPQGwHiTwF2OH5A3Cnn9mTobwj94NXzf6UfvySc3GO9VVTJpNkDJuRpQN/xsirMPsb8KQ3+fD8D5yw3pfJQqbKO1IL0Ltorl5MWPvPG9LakQqkOk1+jUY0VGUHYJrjXobeV+LldL5DKElxleH0RPoDHO6+2C7ssK9SW8JlGtxva7imCA4HiJxWm/m+WCE22b5SQmTCNKK0oDjQ==;Lh2rHHsksFNpZDB/t/I0JA=="

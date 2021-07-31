@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-03-absolutely-no-doubt-donald-trump-is-running-for-president-again-says-steve-bannon.md",
+      "title": "'Absolutely No Doubt' Donald Trump Is Running for President Again, Says Steve Bannon",
+      "excerpt": "\"The MAGA movement, the America First movement is more engaged, more energized,\" said the former Trump administration official.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
+      "originalUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837346/trump-bannon.jpg",
+          "width": 1024,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
+      "publishedDateTime": "2021-07-03T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-we-need-you-to-stop-the-counting-records-detail-intense-efforts-by-trump-allies-to-pressure-maricopa-county-supervisors.md",
       "title": "'We need you to stop the counting': Records detail intense efforts by Trump allies to pressure Maricopa County supervisors",
       "excerpt": "New records reveal the behind-the scenes efforts by Trump, Rudy Giuliani, and state GOP Chair Kelli Ward to pressure Maricopa County supervisors.",
@@ -1515,58 +1567,6 @@
       "ampWebUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1",
       "publishedDateTime": "2021-06-28T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-mitt-romney-likens-trump-election-fraud-claims-to-wwf-its-entertaining-but-its-not-real.md",
-      "title": "Mitt Romney Likens Trump Election Fraud Claims to WWF: 'It's Entertaining, but It's Not Real'",
-      "excerpt": "The Utah Republican also said he believes Trump's statements on election fraud are having a harmful effect on democracy across the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498",
-      "originalUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1831331/trump-rally-ohio.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498?amp=1",
-      "publishedDateTime": "2021-06-27T08:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

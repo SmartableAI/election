@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET29T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET29T"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -214,6 +214,20 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/094/248/a92254db929086e3a8cf7f5d0a45882960-col-1-h-15544287.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "President Joe Biden Meets with Cuban-American Leaders"
+    excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
+    publishedDateTime: 2021-07-30T22:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6bb5e54ad4bd9f565cac5492ff2ad41a/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6bb5e54ad4bd9f565cac5492ff2ad41a/WHITE-HOUSECUBA.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
     excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean,"

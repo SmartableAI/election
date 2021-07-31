@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Kamala Harris to travel to Singapore, Vietnam"
+    excerpt: "Vice President Kamala Harris plans to travel to Singapore and Vietnam in August to speak with the countries' leaders about regional security and COVID-19, among other issues, the White House announced Friday."
+    publishedDateTime: 2021-07-30T21:48:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/30/Vice-President-Kamala-Harris-Singapore-Vietnam/8141627676098/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/30/Vice-President-Kamala-Harris-Singapore-Vietnam/8141627676098/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/30/Vice-President-Kamala-Harris-Singapore-Vietnam/8141627676098/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/8141627676098/2021/1/a9a697555277243f64e2dbf0553eb3d1/v1.5/Vice-President-Kamala-Harris-to-travel-to-Singapore-Vietnam.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "US Vice-President Kamala Harris will visit Singapore and Vietnam next month"
     excerpt: "Harris will be the first US vice-president to visit Vietnam, during a trip designed to strengthen ties with ‘two critical Indo-Pacific partners’."
     publishedDateTime: 2021-07-30T14:25:00Z

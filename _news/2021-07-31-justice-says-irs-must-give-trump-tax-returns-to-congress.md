@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Justice says IRS must give Trump tax returns to Congress"
-excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former"
-publishedDateTime: 2021-07-30T19:24:00Z
-originalUrl: "https://www.theday.com/article/20210730/NWS21/210739958"
-webUrl: "https://www.theday.com/article/20210730/NWS21/210739958"
+excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the record"
+publishedDateTime: 2021-07-30T18:37:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
+webUrl: "https://abcnews.go.com/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/justice-irs-give-trump-tax-returns-congress-79173733"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Day
-  domain: theday.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.theday.com/storyimage/NL/20210730/NWS21/210739958/AR/0/AR-210739958.jpg&imageversion=16by9&Maxw=960"
-    width: 960
-    height: 540
+  - url: "https://s.abcnews.com/images/Politics/WireAP_a417cf5f43cc415c9059ddb7f2cc2e3f_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -526,6 +532,6 @@ related:
       domain: usnews.com
     quality: 62
 
-secured: "5TsxqPxwMOzA7Qo28frwHhYsmbndv0L3nXRvOEwsNoyM1n4ZkXBPbOnzA3GrigH6iO4dFdS1PoMmOqalOEMOtWoFtd+T05ma2NBGKxe+uovOnhOW5pOnj1vGZnq8IDh8pWlq1LxrE7CkB6f/ctp8RSAL8aIHGcFTM7F2Yp3/jb8M8RjCFSBLU/+kgB0/2nRjdsmc+xk7HYS7VRQS5cp5DGFP530jtBOcapWeumw8inF+QIMUOd5wipuTFLfdSH333xKdiHBZK/0odsk+vnICDzDmTfG+CE7zONE27axTUj+57NTxdzKlH+DYO1ByTrNmhm32t/AuaSo5+CKBgPywUp+Ek1FnI8qqgc8FnTBwS9o=;NISpFff1Q0ennyywQfOJBg=="
+secured: "xlBqqvFJVOLpf/ZTJ4sT7fvBWpED/Rpeeq2aDLnAZS9mt8RqQjp8oCuZ6dC0HGkQGaW2HQlC8rpPAWy16XHUWh5Q8ONh/ftKpIxzMr2E5LmuGA1pHqoOexnzxJLQ6xp7vruQPjmtqHjGTJWKolWR0l2l5KQ1+cs/pellSxWnPsasiYpMannUUQxnx4me5labobEN4utxvU30oQrhfVYEYV050J+z9pn/SNBb5jgR4Np+6bKLZchtPbmQMQFAm/l8F2xHviVujpwre4Scp9LyjTovE97Ll2v1vrAnUNai/HmkeCESzKwyPyDkRHWCLuLG0NiFIpLtnY61QK2JQTNj+qAHYb/SAf/Po5xu1DCVGI0=;x/d50mbsCewuPTBKK5C54A=="
 ---
 

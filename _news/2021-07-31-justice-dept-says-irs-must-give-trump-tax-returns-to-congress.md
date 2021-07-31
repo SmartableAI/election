@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-co
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFFVWJXPDEI6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
         height: 1859
+        isCached: true
+  - title: "‘Just say the election was corrupt and leave the rest to me,’ Trump urged Justice official"
+    excerpt: "The pressure is all the more notable because just weeks earlier, Trump’s own Attorney General William Barr, had declared that the department had found no evidence of widespread fraud that could have overturned the results."
+    publishedDateTime: 2021-07-30T17:34:00Z
+    webUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 80
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AUZBFCZUOJCZJHVRM2XPSARO4I.jpg"
+        width: 3600
+        height: 2400
         isCached: true
   - title: "Justice Dept says IRS must provide Trump's tax returns to Congress"
     excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying"

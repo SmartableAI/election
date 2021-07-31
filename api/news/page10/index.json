@@ -2,6 +2,114 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-13-biden-picks-ex-west-virginia-health-official-as-drug-czar.md",
+      "title": "Biden picks ex-West Virginia health official as drug czar",
+      "excerpt": "President Joe Biden is nominating West Virginia’s former health commissioner as the nation’s top anti-drug official, tapping a doctor who served on the front lines of the nation’s opioid epidemic",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_ab2635fea2e7416f85855677db0fc6c4_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-west-virginia-health-official-drug-czar-78819767",
+      "publishedDateTime": "2021-07-13T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-banker-found-guilty-of-bribery-for-manafort-bank-loans-in-chase-for-trump-administration-job.md",
+      "title": "Banker found guilty of bribery for Manafort bank loans in chase for Trump administration job",
+      "excerpt": "A former Chicago bank executive was found guilty Tuesday of charges alleging he conspired with onetime Donald Trump campaign chairman Paul Manafort to exchange risky bank loans for a high-ranking position in the presidential administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3aivAbV-XdI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3aivAbV-XdI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325122313-stephen-calk-file-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html",
+      "publishedDateTime": "2021-07-13T08:48:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-chicago-banker-convicted-in-loans-for-trump-job-scheme.md",
       "title": "Chicago banker convicted in loans-for-Trump job scheme",
       "excerpt": "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a",
@@ -1227,110 +1335,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-new-january-6-bodycam-videos-show-police-trying-to-help-a-trampled-trump-supporter-being-brutally-beaten-with-flagpoles-and-batons-by-mob.md",
-      "title": "New January 6 bodycam videos show police trying to help a trampled Trump supporter being brutally beaten with flagpoles and batons by mob",
-      "excerpt": "New video footage from police bodycams released Friday of the January 6 Washington riot shows officers dragged into a mob and beaten.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7",
-      "originalUrl": "https://www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60eab3b861b8600019f1680f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7?amp",
-      "publishedDateTime": "2021-07-11T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video.md",
-      "title": "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video",
-      "excerpt": "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video",
-      "originalUrl": "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0d7f43e7c5cfa5afc9f8dab4391793fd37ad9c13/0_170_5096_3057/master/5096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92ff2bbcee6c8ab9f387b1c5a923c4ff",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

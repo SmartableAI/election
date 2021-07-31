@@ -167,7 +167,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 152,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -328,6 +328,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-joe-biden-in-the-lehigh-valley-spectators-waiting-for-a-glimpse-of-air-force-one.md",
+      "title": "Joe Biden in the Lehigh Valley: Spectators waiting for a glimpse of Air Force One",
+      "excerpt": "It’s a beautiful sunny day in the Lehigh Valley to try and catch a glimpse of Air Force One. Millie Wescoe traveled from her Bethlehem home to a clear vantage point along Race Street, happy she happened to be off of work on the day President Joe Biden decided to visit the Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html",
+      "originalUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5FHQAUNXUVA7FCN4MK54GJMQ2E.JPG",
+          "width": 3300,
+          "height": 1804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html?outputType=amp",
+      "publishedDateTime": "2021-07-28T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lehigh Valley Live",
+        "domain": "lehighvalleylive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -761,7 +804,7 @@
       "originalUrl": "https://www.reuters.com/article/us-afghanistan-conflict-refugees-idUSKBN2ET29T",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1457,58 +1500,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-biden-pledges-appeal-of-deeply-disappointing-daca-ruling.md",
-      "title": "Biden pledges appeal of ‘deeply disappointing’ DACA ruling",
-      "excerpt": "Biden urged Congress to move forward with legislation to permanently protect those covered by the Deferred Action for Childhood Arrivals program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/17/joe-biden-pledges-appeal-daca-ruling-deeply-disappointing/8001889002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/17/joe-biden-pledges-appeal-daca-ruling-deeply-disappointing/8001889002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/12/USAT/c222758a-82e2-473d-9d80-155527a55e64-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/8001889002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8001889002",
-      "publishedDateTime": "2021-07-17T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

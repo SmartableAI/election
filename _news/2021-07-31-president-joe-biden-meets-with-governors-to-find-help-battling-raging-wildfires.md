@@ -2,17 +2,17 @@
 category: news
 title: "President Joe Biden meets with governors to find help battling raging wildfires"
 excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
-publishedDateTime: 2021-07-30T18:19:00Z
-originalUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
-webUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+publishedDateTime: 2021-07-30T23:01:00Z
+originalUrl: "https://www.desmoinesregister.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+webUrl: "https://www.desmoinesregister.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -104,6 +104,6 @@ related:
         height: 682
         isCached: true
 
-secured: "VgY9nNyxHclU7BHG0mRA4HmDSct3lwJWGpbHNpWY+/LzeMQTJ29YHYl3rdymqHSGVLWA7rHn+ISxXZ1NfgdvJd4bDy+UJodUsM7SYivlarVdXfuvPUNxqlMhnIqNH2VVwx3ahH9q2Snzt5VShKq+vOjYJ/peef29pbIPjIT20xNzuCcLYJF27adsz9Xew8d2h077+toKBrX4D1ux+1riu4I1+vlSNLQQL7QeGWoyDDToAGDxbk3kQl3BzpXYxOw8FLkp+dMMNJ8fInUEZIyQ0XZtHWlDjNqGltFRZBmMVczqvJCOxC7a36OgbNOAADPrPtSAJxFI3/5OhMe/xdWHymNI77hZqSK6rKqD6xAknENIo4GLi8DTXeftG5z4/PQxMh9J1Hwth4GnaRShdp6Gf7WoNJ/cE+MvZGVDutrveApY7WM5xRBT+Wn4YJmrMPZFgPC4oLXEhXMyucptjNqWoAGrHlXDOFL5Vy5QNIrGInezXsTWDZu2ByVI9Gn6ZubJ/yFmi9rdAMdGMDB24HbxKA==;5LhLTYoz5ZLsdp4x+VcIUg=="
+secured: "qjtUbY4+5AZtZ0Aw28p5yH+ESoCKuHk+aA92Sg/fyyMNu5kncSVhf1IDMs8BzENTUPQ3JzMYoZmDsw/4sj3BI83gymmX19agpktd0mC8jchgMyUyEgo2z47qPOHkm9PDsthag0TPLKLoIkclw1w0nX1aXMUEoR4i7JkbQELPdnJUGpiHBkdPG1xv0s38bZe/HQkb/0MV8nlB8zY3Md7FuaD8Zp19BhlHsmPQsrNNPJlFLHCXy46RPbVDXq8vxBYLS1IcF7koGEkW9Bj5FImTdfdwq+NAFIFBTOIMPJvN4O6EmYS40JN7EvwqMSn7Qm0HjN/QKWOXQzAjwXn0N6YIyb057p7S1S0crt1dS6jZVV8=;RJVH7T9La05MJbSfNUPDrw=="
 ---
 

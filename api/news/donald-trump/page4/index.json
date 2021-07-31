@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
+      "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
+      "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2858645-f93e-4a1b-896c-77c9788113ae/8fdd5859-d6bc-4c75-8698-a5c38e1fe80f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "publishedDateTime": "2021-07-08T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-trump-got-distracted-by-the-word-nuclear-during-a-bizarre-press-conference-about-his-latest-lawsuit.md",
       "title": "Trump got distracted by the word 'nuclear' during a bizarre press conference about his latest lawsuit",
       "excerpt": "\"We don't use the word 'nuclear.' I never used it, okay? I never used it ... That's called disinformation,\" he said.",
@@ -1468,58 +1525,6 @@
       "ampWebUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
       "publishedDateTime": "2021-07-03T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-absolutely-no-doubt-donald-trump-is-running-for-president-again-says-steve-bannon.md",
-      "title": "'Absolutely No Doubt' Donald Trump Is Running for President Again, Says Steve Bannon",
-      "excerpt": "\"The MAGA movement, the America First movement is more engaged, more energized,\" said the former Trump administration official.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
-      "originalUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1837346/trump-bannon.jpg",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
-      "publishedDateTime": "2021-07-03T07:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

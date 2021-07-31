@@ -105,6 +105,22 @@ related:
         width: 1440
         height: 1859
         isCached: true
+  - title: "‘Just say the election was corrupt and leave the rest to me,’ Trump urged Justice official"
+    excerpt: "The pressure is all the more notable because just weeks earlier, Trump’s own Attorney General William Barr, had declared that the department had found no evidence of widespread fraud that could have overturned the results."
+    publishedDateTime: 2021-07-30T17:34:00Z
+    webUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 80
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AUZBFCZUOJCZJHVRM2XPSARO4I.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
     excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
     publishedDateTime: 2021-07-23T23:38:00Z

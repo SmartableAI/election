@@ -36,6 +36,17 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 92
+  - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – as it happened"
+    excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
+    publishedDateTime: 2021-07-30T18:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 87
   - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
     excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"
     publishedDateTime: 2021-07-29T19:30:00Z
