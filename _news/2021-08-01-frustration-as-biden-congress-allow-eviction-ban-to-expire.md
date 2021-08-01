@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Frustration as Biden, Congress allow eviction ban to expire"
-excerpt: "Millions of Americans face being forced from their homes with the midnight Saturday expiration of a moratorium on evictions during the pandemic"
-publishedDateTime: 2021-08-01T04:34:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
-webUrl: "https://abcnews.go.com/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
+excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
+publishedDateTime: 2021-07-31T19:07:00Z
+originalUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
+webUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OICFDYHRNEI6XANSTNYGDJMC3A.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -289,16 +287,16 @@ related:
         height: 683
         isCached: true
   - title: "President Joe Biden Meets with Cuban-American Leaders"
-    excerpt: "Jake Sullivan, Assistant to the President and National Security Advisor, listens as President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington,"
+    excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
     publishedDateTime: 2021-07-30T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4a35cafcbc748b2ca260991578ee8fbc/WHITE-HOUSECUBA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/00c2e7083740762521cc825ba00c64eb/WHITE-HOUSECUBA.jpg"
         width: 650
         height: 433
         isCached: true
@@ -326,6 +324,6 @@ related:
       domain: spokesman.com
     quality: 35
 
-secured: "PyIRV+q2CIY4BHWg5HFsTd5SDKsq+iLb0fh8oiaMl1JxjnB3MijaxB3qQchdruokof5gQenwod2INLXyqBJcPfnocZjiXCCjOmChpCUjWGsFXD7qy7UJgZYKy28eTy7KyunfEBh+C5KHGI9Fse0CMZ71ni1YawXuabyASUHlsXr+JrNT9GdfLnTSdQXteg40j9iSl2SzGJ5hFZ1scIOcXNfev5pTY/VfTD/Tj0kOP7y4CNB+kqy5vNAz9G/SSukOeLdA98x4nFMbToOSVVY8zAbrppiSvFlWabmc5W7pnII8z2C6gEycLMSh+xNYhgBcjFwO26a/QWYxfCHmtPRd3wEaTRYOfbVaoqqNtaQIzGM=;DqrpeioyVEnGN1EasTH9UQ=="
+secured: "T4Kg6FKKMiSdi3T56zqn86PNvDVWXXZPI6t/u/ebeYl9nd8FozcXn2IbkWeIMsbeZi6kwjY+YWbX+VNwtCY1w9u898F1Mu/9jd91BYezi1FOIUvlWLd0wchc4I/8Ku6r41x7+F67vPcF0l1PWuSbAE97XrYlXPy5nhULAESgqdpNEPzJ06OwPZviS10G/refj7NVU+PvpHm1s+wqSyQ83/F5/p/bWQNY7itv5vuWChpozmVW/4lmJ+/IPVxTHE1XBwKlMKeBY9q9NKCrkFNL4YtFocPxbJQFPx0zlpMhrpXZ7XXLZ42P8W66zLimsP0S3UKpoF4LPXX7FcmW8+TwtscygpDMJOPuyrUstQNEemc=;CCfR6dSjnDCAXkHzpTmvUg=="
 ---
 

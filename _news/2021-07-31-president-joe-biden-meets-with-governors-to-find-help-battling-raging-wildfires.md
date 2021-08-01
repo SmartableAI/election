@@ -2,17 +2,17 @@
 category: news
 title: "President Joe Biden meets with governors to find help battling raging wildfires"
 excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
-publishedDateTime: 2021-07-30T18:19:00Z
-originalUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
-webUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+publishedDateTime: 2021-07-30T23:01:00Z
+originalUrl: "https://www.desmoinesregister.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+webUrl: "https://www.desmoinesregister.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -57,6 +57,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Anger mounts as Biden, Congress allow eviction ban to expire"
+    excerpt: "Millions of Americans face being forced from their homes now that a moratorium on evictions during the COVID-19 pandemic has expired"
+    publishedDateTime: 2021-08-01T17:03:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
     excerpt: "Meeting between Joe Biden and Iraqi prime minister comes amid reports the two countries are nearing agreement on redeployment of U.S. combat troops."
     publishedDateTime: 2021-07-26T07:00:00Z
@@ -86,22 +102,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLbPzoiVnUcc/v0/1200x660.jpg"
         width: 1200
         height: 660
-        isCached: true
-  - title: "Anger mounts as Biden, Congress allow eviction ban to expire"
-    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic. One Democratic lawmaker even camped outside the Capitol in protest as millions of Americans faced being forced from their homes."
-    publishedDateTime: 2021-08-01T19:03:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/"
-    ampWebUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
-    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 75
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=4fbbe602-7b64-56b2-bc10-d698c85e4843&type=primary&q=72&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
@@ -179,6 +179,6 @@ related:
       domain: masslive.com
     quality: 34
 
-secured: "O9U5jWcnZ3dkFV6qTB6bcdlztG/iaU7O6ExnkfRHqTS3J6fU47tfUf3jF4XUMFHx8A0FH+0phbiHpS5WTunppBsaPAhdItPiII6TpmaMNGgwTmtb6eF60ivLwQ3PjbVOOp6u+FJvjQyArhofYsXl2eEHE/6wQK9aMSnmSaI/vlwUqRO0qhhr3DvBx734a3uhn7PvXx7UXZnoYWDsAlSaMQDV1KDuBhKKESxhDq+MxRW3uQBs0D/Huc84pbUpVeXF9vN2IeVnetQyO7msLPqUSMm0uGHxoo/u5VeCxAlRsPfwFi2Q1Xf6AuAfXYLY3m0+ud14c/dEbZRo5U119jrN6cqKWy31VHR+zDVT4TK32cE=;ZVzoaJrgLv/1NxEk260gYw=="
+secured: "dQGysYkhRUu1qbSNBjp07UDoyHr0cvoce8GF4Siu9pGnTQ3IY19z8T6BJLZAGpRB755syw6VfQTU26FVniLj1NQ3djfHQwJDAA2IYUBMHtj5al62RqXZe3D56gC6K7NzlxwcaFEfXVBNNqopevdgvg+T6AEts9Hw5l1km2jnajYMDIUh1wTTy/GjEIKaESu4eI8XTLe+zxhLltnsgGedGwUyJxemh4Apf65yVYH4oWvySvgCQo/dJDuXD1Vx0QqOZyKtLGB7o2SvHc0u/kBtfocFQijwhS50CadFQOlsYDnwAM9vssHopMQ3RAf4zJpGeXEfOmXOWPr1wRoBVg+lQbOlU3LXwd3YVwoQGwn+B3Y=;1h+2i+CqoHgPvrjLCzXeCQ=="
 ---
 

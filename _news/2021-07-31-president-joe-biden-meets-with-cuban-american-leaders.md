@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Meets with Cuban-American Leaders"
-excerpt: "Jake Sullivan, Assistant to the President and National Security Advisor, listens as President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington,"
+excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
 publishedDateTime: 2021-07-30T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4a35cafcbc748b2ca260991578ee8fbc/WHITE-HOUSECUBA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/00c2e7083740762521cc825ba00c64eb/WHITE-HOUSECUBA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -137,22 +137,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Frustration as Biden, Congress allow eviction ban to expire"
-    excerpt: "Millions of Americans face being forced from their homes with the midnight Saturday expiration of a moratorium on evictions during the pandemic"
-    publishedDateTime: 2021-08-01T04:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden says inflation 'temporary'"
     excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
     publishedDateTime: 2021-07-19T19:13:00Z
@@ -194,6 +178,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f8d52a93-54db-41aa-9e82-af26b57d5357_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Frustration as Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
+    publishedDateTime: 2021-07-31T19:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OICFDYHRNEI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "President Biden says the U.S. combat mission in Iraq will be over by end of 2021"
     excerpt: "President Joe Biden tells Iraqi Prime Minister Mustafa al-Kadhimi that the U.S. military's combat mission in Iraq will be over by the end of the year."
@@ -322,6 +320,6 @@ related:
       domain: spokesman.com
     quality: 35
 
-secured: "AcKU10EI4H4k8OJk5r23TILlBs/zn3WYIcULVxtA6289N1sx4K0B3UmsQPkjF9uDORmdJgcw8xANZ5IrphXrANkWM7FFA8UWduO80orB7+CWCzShIQOlvZkKNTfyVtJVftx0Hjldr7Sunbhtl9umDxQfIkmylBTR2h33v3YXBn1AhwYYQkDFPkvoZSL228tvmbwQLmmRjFn62zPd/ZZo/gOPb5iT4fy6rrNRK4WXXf6MIphIlc0zyR40PcjN9w2PCwZ5x/Jz7DmCW5ZX7YnGdZdARBkyZmm3XVGipIWbPxkjBLl1WNYKjSACu4nRgv1wPpdQ8N3gGAnmpgZ2hFYjEczwPQVJCyOu6XmJ8cZi8/c=;tbH5gVQNyzHdxKtYG2kygA=="
+secured: "KcyjEwq24MMbj+JwYzzR4pqTvHU/9f+vsrF9U6U/KlEE3HYErBmhtrtIW92voc/vrJVYnFgQZ7qDTX3vN9eY+5xTu1JOHECFCGv4FqGlqa24rMWQs5Lvn+9Rwft7v00mATEEZ5jdlmCQCU3tNivHpB3scjbeOzRrONbXAMt3lXBOSojYSp/6rBWxrzOtRl1y77VoNY0FAIhK4OHjwj7HKnUmZr2FLGNcLKy4m2I8skFCpG/Jq9rbRLoQoQblpq2dCSB5Ro6ymJMwlHe8w/w/lMOSYWwPxRJm+XVme7eCaKDPyQLgZ280kI37N4yvMI+NrzR1DvMzKBoJXs/0KaqCjq95SDxfDsHktGc/xlChkQ4=;3AANEhwFgd40+kPtDzfLLg=="
 ---
 

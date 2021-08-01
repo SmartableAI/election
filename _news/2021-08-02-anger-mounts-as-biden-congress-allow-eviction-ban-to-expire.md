@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Anger mounts as Biden, Congress allow eviction ban to expire"
-excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic. One Democratic lawmaker even camped outside the Capitol in protest as millions of Americans faced being forced from their homes."
-publishedDateTime: 2021-08-01T19:03:00Z
-originalUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/"
-webUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/"
-ampWebUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
-cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
+excerpt: "Millions of Americans face being forced from their homes now that a moratorium on evictions during the COVID-19 pandemic has expired"
+publishedDateTime: 2021-08-01T17:03:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+webUrl: "https://abcnews.go.com/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Santa Rosa Press Democrat
-  domain: pressdemocrat.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://imengine.prod.srp.navigacloud.com?uuid=4fbbe602-7b64-56b2-bc10-d698c85e4843&type=primary&q=72&width=1200"
-    width: 1200
-    height: 800
+  - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -139,12 +143,12 @@ related:
         isCached: true
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
-    publishedDateTime: 2021-07-30T18:19:00Z
-    webUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+    publishedDateTime: 2021-07-30T23:01:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 51
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/07/30/USAT/c013de64-f62f-4351-9b1c-03e800b523b4-VPC_WILD_FIRE_SOT_GOV_INSLEE_DESK.00_00_04_19.Still001.jpg?quality=10"
@@ -179,6 +183,6 @@ related:
       domain: masslive.com
     quality: 34
 
-secured: "aSqyaXQpmrc05I7PlR7LwDce7d2GfjKQXm8vRdDQesgysCjpVlFCU50IoqwybltHxJmtPqv9Om3Oz5T7iIfMlarxtiAfmqzwHpThx5seAhERN5VZ+AeNJQisbl66VIwXzH1fihaebqe8Y3zCcqN02hg/9HNG7mezX06uq0VkjqY9Jy63MH/HAPtEN+oita8RY0I28Sb5c4PQFl1baBM4Fl0nSJqusMTvZlBF1oMBtF5NXSFSZmyy7+1wyCxi+5ZrP491l0jtzt1si1tQo/njV/UbRldbBKnmh4GnDpgeC37SFXHjUCPgYIxOd78gsW+Ocl9+DlmjhFtx07vVzK6aqNSKVZ/X8l94lGJdsFLDqbU=;M7BsDROhKqJ+qT60QNLGlQ=="
+secured: "5BWQXeQcfXk8vcYECXQ3HzzMgYatqSzxJXdWTEWyYPg9aUfe3gKgV2aGhB8C8pIlLBvk676pMFxDXsEzTnNV+e4YP8a2RlpQRS25NG8XvSLCu3rcox0hasIT9w0dfMeKOCR88vRfTepkg3RQz35FNwHjAH0SRZo0DlK/CGhcWs8utdqzPnolBeWSRDiXiVppW5Xo6Zdu3iQcBeGQYHIi6m1BQoNVsaVHSmZ7ZnW+QCRT9q6k3JGj9XkrMX3NJyBIUKyBMpli6MclidSr4E91Z2MqOC3wdPbSMzU+d6c5mD1nlWCJq5fGjcrLaDlJqut+K9WFAyQmA++QtAV1nsl5nezoRHfil/ZBX7PN/l871Q0=;aSVm7TVVH9cb6UTbv4Lwkg=="
 ---
 

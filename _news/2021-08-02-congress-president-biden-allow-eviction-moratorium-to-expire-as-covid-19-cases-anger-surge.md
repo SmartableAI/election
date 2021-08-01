@@ -59,6 +59,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Anger mounts as Biden, Congress allow eviction ban to expire"
+    excerpt: "Millions of Americans face being forced from their homes now that a moratorium on evictions during the COVID-19 pandemic has expired"
+    publishedDateTime: 2021-08-01T17:03:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
     excerpt: "Meeting between Joe Biden and Iraqi prime minister comes amid reports the two countries are nearing agreement on redeployment of U.S. combat troops."
     publishedDateTime: 2021-07-26T07:00:00Z
@@ -88,22 +104,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLbPzoiVnUcc/v0/1200x660.jpg"
         width: 1200
         height: 660
-        isCached: true
-  - title: "Anger mounts as Biden, Congress allow eviction ban to expire"
-    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic. One Democratic lawmaker even camped outside the Capitol in protest as millions of Americans faced being forced from their homes."
-    publishedDateTime: 2021-08-01T19:03:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/"
-    ampWebUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
-    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 75
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=4fbbe602-7b64-56b2-bc10-d698c85e4843&type=primary&q=72&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
@@ -139,12 +139,12 @@ related:
         isCached: true
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
-    publishedDateTime: 2021-07-30T18:19:00Z
-    webUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+    publishedDateTime: 2021-07-30T23:01:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 51
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/07/30/USAT/c013de64-f62f-4351-9b1c-03e800b523b4-VPC_WILD_FIRE_SOT_GOV_INSLEE_DESK.00_00_04_19.Still001.jpg?quality=10"
