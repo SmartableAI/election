@@ -147,6 +147,15 @@ related:
         width: 1440
         height: 1051
         isCached: true
+  - title: "Trump Raises Big Money in Early 2021, but Doesn't Spend Much"
+    excerpt: "A fundraising group run by former President Donald Trump raised $62 million in the first half of the year but only spent $3 million, with the biggest chunk of money going to a pro-Trump research center and more than $65,"
+    publishedDateTime: 2021-08-01T03:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "e5yyw9LynEn9jvESISc8BxU1e79gM0tgpLd1946qamji2MM4CjDAfOxjZZgco/9DB05m97mDY+gdH17kk3heBLzJ1WThF9FI3ojIQk3jskSOd5Bopf1iNCNGjH+LOhX/fk8+RM3hVOTy61PmnOFwfyQcHnayAeF7EpSRgsyEvvwmDVkFzebbTHVDL8auXxRzyqPYyU+QUjKANvedM2ghh5wHFUws+SinD13nOmCWG4s9boKpGnP2wtr5yB9xH7LvyUw9JOA4tPHvdPuMIs2vy69zDlq6UD9p26ZcPJxy6l+GKg8hd36KF/RH2Fmyny275YrE9g17hNvicOaBI0l1FpAV0hqi0GN1rVvYzky1q3PLuvcPe8l9XflLfmN22UZRrRuxpeU38bicGRz9pXr11rezs88aT+ElBwe1aVYLT5kYhkWDxfnuBXw3AQQetXaeJqZ3ECGSLNmZ35fOznUtDshTF7ZD38DyqF+sp/SbcWqKIpoc8n+KL5/XiAe7tIs4/PzxjYR8u89RtgFutQusgA==;8EMVIEbjHsNIWmbKzp0dtQ=="
 ---

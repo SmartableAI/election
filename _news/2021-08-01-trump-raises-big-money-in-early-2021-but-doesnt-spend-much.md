@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
-excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
-publishedDateTime: 2021-07-24T00:21:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
+title: "Trump Raises Big Money in Early 2021, but Doesn't Spend Much"
+excerpt: "A fundraising group run by former President Donald Trump raised $62 million in the first half of the year but only spent $3 million, with the biggest chunk of money going to a pro-Trump research center and more than $65,"
+publishedDateTime: 2021-08-01T03:35:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
 type: article
-quality: 88
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNWSFTHL5EI6XOS5KXJ3L76K6E.jpg&w=1440"
-    width: 1440
-    height: 1051
-    isCached: true
 
 related:
   - title: "Trump ally Thomas Barrack pleads not guilty in foreign lobbying case"
@@ -137,6 +131,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Indicted trump ally Thomas Barrack to be released on $250 million bond, must appear in New York next week"
+    excerpt: "A California judge on Friday set bail at $250 million for the billionaire investor and longtime friend of former president Donald Trump who was indicted on a charge of breaking foreign lobbying laws,"
+    publishedDateTime: 2021-07-24T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/thomas-barrack-bond-indictment-trump/2021/07/23/7a7936b0-ebdd-11eb-97a0-a09d10181e36_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 88
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNWSFTHL5EI6XOS5KXJ3L76K6E.jpg&w=1440"
+        width: 1440
+        height: 1051
+        isCached: true
   - title: "Trump's Sway Tested in Race for Open Mid-Ohio US House Seat"
     excerpt: "The crowded Republican primary for an open U.S. House seat in central Ohio is testing the ongoing political sway of former President Donald Trump."
     publishedDateTime: 2021-07-23T11:43:00Z
@@ -148,16 +156,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump Raises Big Money in Early 2021, but Doesn't Spend Much"
-    excerpt: "A fundraising group run by former President Donald Trump raised $62 million in the first half of the year but only spent $3 million, with the biggest chunk of money going to a pro-Trump research center and more than $65,"
-    publishedDateTime: 2021-08-01T03:35:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "kV9HIIfDQt4QhckwaEmHXP5ZVYQEuaj/edWqbH6hsP1aCMh0H3xvpbb+epOOWSKRB+M6r1mqI7a8OYJ9dOoqQp8DzmxA5avIY0tpji5o/SmfTW8eH47ypf2nebb/ilRRKesJLBEhcckGDcE/1eNYt/z7S1KuznCFxfQ/hEdTXbkrVTnagR1X2Lx3Farl4Kg843609B3FFev6FSb/Mznq0R2BhRyg+JIdsZyGLGX6AUs/4q39z5rvwSo1+rd4g5BYibgYMczlmG3fQNiymVAjSBigypIW3eaEpuA0EyySaQJv+IVZAUQKlX+uWKbewpUI64XtdOaLxHr7yXgdebwjhBVzyZMKrugn2ot3O2Zdi4cO6Zc33oa2XqJAecvg0i72aNGcFgDFCcee6rRwZNrkT75AJY7icHBfczhImPwMJrfrK/TzZSkN5S48kzbj97nXHdUAi26BL6nF5nbS9KrvCEPHlo82mM2soCzErMnJIt8D2MOm08dQWq3fvZrm1zNbjqaZLiIXGERaj5oMK/goVA==;pFGRl//Aq8CfMArEkn8R6Q=="
+secured: "Jz8DX0y2LGhmfLTRzWkTV1PdOROvW6Wmus/4nx3gXpmdxPCtNSA/KQEUuvgcpzRYz6QvN5cEFEsKyygBnHMHmisWBkuijSMPLYRVkyubdF6mMmuXPOEwJptC3lFH7BbKyGxdUSRvOa6/+f87fpB2IxWQjSL5o0d9zNByEUINclzGc1UwXMNakPiqcWDLto2pSTKaxOmWW3NWEyj5DMOmM6RTkn8dgYSkKEVpGq7qfnyYbMy6xafMvBTlYX4oinTYfAurcecq64OaS24b70Iq/tWghIk3zQDlUVYss5CJuTdLr2r1DoX5h1IhVWsAG2/UftSojTzpJt9s9CKCSgxzqABA4bwoIevQWPL8oV8yyi4d3exYweBiZFs8r3oopOtS+7mo5wLKP3iCo7yPCJGIz9KP0g1tSlrUW7SbROI+tJlYO11R7XpqqI37SfMz1eUfydNPwF5Pu4iA3okcNxCJko7zx3uiO0E0alhNM0oYY6J04r9c/W7kNp8rgsYzeuXTIMN1ZDKenQvBW+NG0+wFjQ==;87fEA4LsUJFkqEePA2ORbw=="
 ---
 

@@ -173,7 +173,7 @@ related:
   - title: "Trump Has $102 Million in Political Cash as GOP Eyes Retaking Congress"
     excerpt: "Former President Donald Trump already has $102 million in political cash that he can wield as the GOP eyes retaking majorities in Congress next year, according to a Trump aide."
     publishedDateTime: 2021-07-31T23:46:00Z
-    webUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776?mod=hp_lead_pos3"
+    webUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
     type: article

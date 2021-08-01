@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729122738-01-biden-0715-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump commands historic attention for an ex-president. That may hurt the GOP. "
+    excerpt: "A sitting president of the United States is usually the person who drives political conversation. Former presidents tend to be an afterthought.\n    \n"
+    publishedDateTime: 2021-07-31T17:19:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ijX21yyWdEg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/31/politics/trump-media-attention-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/31/politics/trump-media-attention-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

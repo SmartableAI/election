@@ -303,6 +303,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump commands historic attention for an ex-president. That may hurt the GOP. "
+    excerpt: "A sitting president of the United States is usually the person who drives political conversation. Former presidents tend to be an afterthought.\n    \n"
+    publishedDateTime: 2021-07-31T17:19:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ijX21yyWdEg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/31/politics/trump-media-attention-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/31/politics/trump-media-attention-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's appointees are turning the Supreme Court to the right with different tactics"
     excerpt: "The three appointees of former President Donald Trump have together sealed the Supreme Court's conservatism for a generation, but they have revealed strikingly different methods. They diverge in their regard for practical consequences, their desire to lay down markers for future disputes and their show"
     publishedDateTime: 2021-07-26T09:02:31Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/thomas-barrack-trump-associate-not-guilty-plea/"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -148,6 +148,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Raises Big Money in Early 2021, but Doesn't Spend Much"
+    excerpt: "A fundraising group run by former President Donald Trump raised $62 million in the first half of the year but only spent $3 million, with the biggest chunk of money going to a pro-Trump research center and more than $65,"
+    publishedDateTime: 2021-08-01T03:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "aRboLVf7pq79zUqpeQP+v81PqtPnoCDniyW17VC9AJGv0J7pwGQjK+6sZEiYRaKg1CB2CDYPPgx2Nu4C4ue3mws9BuOyy03B7L+EODFfD1ph5/6WPq2qAm75qN4nMLsjW0O+zGKe7BQNsnFNn755QuPQXAHsi4bhGoFJO/rOE00208tlYbkWrhXCtpEaVwEic76O5Lv5x4Kx+oUZC2j+4fUtPdZKqIfYNOEvQR3KThyssovqy+3dQvas489B9tJ0CSD9Y/IMnynEAFZi4VRKrmU7ZiOprhdSHi6VDye3L1MV18UKyNr6pSWv5RrDG4DqsNBux0n+68gzRi4ddr/2L+HBFQeKbyLVCkhgowyhUEmDYBkkCQv82NvslbO4Co3Kh1O8V4/PMY2uihQU+veNH8QPj2QufXXc1+w6CjReZSwjdhSXXCOEVYtxM/xZ0mcAzW0HiGoU6r9R2+YN52UKKXz2qaljEg1bsUehyBHEeLhjBzq0zPLIxbryrABlW4OGVSO+hWrAQJ+3N+8ANZBhOw==;Q4Bhr/aRuZ65OTUoxuWeSQ=="
 ---

@@ -2,17 +2,21 @@
 category: news
 title: "US President Joe Biden spars with reporter over masks for the vaccinated"
 excerpt: "US President Joe Biden sparred with a reporter over his previous statements on relaxing mask rules for fully-vaccinated Americans. Earlier this week, the US Centers for Disease Control said even vaccinated people living in areas with higher rates of Covid transmission should wear masks indoors."
-publishedDateTime: 2021-07-30T01:30:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/58019656"
-webUrl: "https://www.bbc.co.uk/news/av/58019656"
+publishedDateTime: 2021-07-30T00:54:00Z
+originalUrl: "https://www.bbc.com/news/av/58019656"
+webUrl: "https://www.bbc.com/news/av/58019656"
 type: article
-quality: 54
+quality: 104
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -208,6 +212,6 @@ related:
         height: 683
         isCached: true
 
-secured: "nGz7vSFLbaerjZ5TwR5Bxp3htsAPk1l6Al1QLBOlBJsksIbULvoR69mh6dj6s/aeGA/Iiz0FKjLeY7vlL31dGOoRaDgiKORwmJb2a4JTTZYSDTeX7JE3N1PsDFRE8jhkoP6DfTMVSm/x3mRP0Ui9mNpYrzAhSgZrlktsI9GtYTyw6A1vWXl4yYsLOSBb+aIS0R5Lb3c2OPUxC35vt8yA8DnHs9cQdNXKnlD3ScC5AKkDtAzmYNwOtAhVQGC9i24TnbBz8UEXAogaLoIyWfnhO+Qquo5VsH0YaD6mkqjSF4+Q0ZCh22Jwurpy9Py6gKeUCG58vAWWD/Nq3aKUt7ANtDofm4dCKTMsE1v7JjLTjkUq+ei03k1UyNRSFjPc0xPxeC5BQF0h9uCK5tLLNLAH+7tetoQjXDJ2bvRnriblQponMF9N5kFsh2ZS8wQKXtxNTYPy5G7thnLTxlSUtZ/VkRzjI42RnUZx+AE4Tdf/88WyDHJrv8mma4tHP+/I7MtprkrhTk3Bacs+rm0fGaxhVA==;LhAtIBIQOO7xYDF2SmpTJA=="
+secured: "XT2H6eiuPYgiK36SV2gyjEvy2SN3RhqnFZARLr4+IYyWXnWdOPIyD7po3y4iwinMB5CANw44RLSrWviwRyezxAoSNkcxm2I7B8yvwrJqokh+l+ZNrsrmqtA2nWSMeNY0n1WdTfNo47FFqpmFPwhA5L6vdfaiCgXHGGWkOf32LzBvwkHIQDDva/TIcON7V75C+/LIDpfCH3mjMxUKboAarihiWNCP9dl6C8CTuTALgOmmW7wvEhPHjfQ9VxQIVFd7/RgqKFSlyj8DWtfdUUq1yvoI3vURFiKfccPUBAfvXiiQomwZUdVI+zu+qZ+4twJXHXkBY5Ra32ZubzDM/UBPKU4aBaqp2r2TbubTgtbY3zQ=;q3tx4AlOz4RHDPUHp49Pdg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration issues new sanctions on Syria"
-excerpt: "The US sanctioned Syrian prisons, Assad regime officials and militia leaders on Wednesday, marking the first time the Biden administration has introduced new sanctions on the country.\n    \n"
-publishedDateTime: 2021-07-28T16:58:22Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNyIDKNxBgc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNyIDKNxBgc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
+title: "Trump commands historic attention for an ex-president. That may hurt the GOP. "
+excerpt: "A sitting president of the United States is usually the person who drives political conversation. Former presidents tend to be an afterthought.\n    \n"
+publishedDateTime: 2021-07-31T17:19:21Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ijX21yyWdEg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ijX21yyWdEg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/31/politics/trump-media-attention-analysis/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/31/politics/trump-media-attention-analysis/index.html"
 type: article
-quality: 175
+quality: 171
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/180713134200-syria-flag-daraa-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration issues new sanctions on Syria"
+    excerpt: "The US sanctioned Syrian prisons, Assad regime officials and militia leaders on Wednesday, marking the first time the Biden administration has introduced new sanctions on the country.\n    \n"
+    publishedDateTime: 2021-07-28T16:58:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNyIDKNxBgc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/us-syria-sanctions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180713134200-syria-flag-daraa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden is closing in on victory despite Congressional inferno "
     excerpt: "For the briefest moment, amid an inferno of fury, mistrust, stunts and ill-faith, Congress actually worked.\n    \n"
     publishedDateTime: 2021-07-29T10:45:02Z
@@ -284,22 +300,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729122738-01-biden-0715-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump commands historic attention for an ex-president. That may hurt the GOP. "
-    excerpt: "A sitting president of the United States is usually the person who drives political conversation. Former presidents tend to be an afterthought.\n    \n"
-    publishedDateTime: 2021-07-31T17:19:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ijX21yyWdEg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/31/politics/trump-media-attention-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/31/politics/trump-media-attention-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -544,6 +544,6 @@ related:
         height: 3648
         isCached: true
 
-secured: "Rw9nYPEyf7vjA+0uZ3VIEXwAG5F+f2vAtw5x82hjM1pkeX/Rfqaap1DFGKEV7QjCFfvKHWdr6y803VkbA2Ne0d54aAAPxVeO8vjboX+gdSokHmKlxMYaakiDvlP1kI6fkmeSKnnaspnKcQg695zyqIjsl6nIcf9jbHGaBoFR5wGdOUh1gfDCgK7vqRfnmUPksB12TYAAoQMXiSZM073MTJg0HyUarf6uA8aKRU2aQ0+2nS2tBoM8EUbkF/Ikgzx6RwmOSw4yUPhGtPzO8J7hFjsSapy1H7yXYRnC6gerhNDWNo4SiZBwvYveWZ7G3Wuc/XSBP2p86HJVcopWhixWKqQvf8z6jjQxkMmbDbxixBE=;e2CiicjtF72pqMK9lb8/uw=="
+secured: "2JIQ3D+sqZREu0jxJUNO1LTJ2LkvzvLVnbuO3H+LDOVknmNHEIeAGkkh7zr2ApF+aYa/6pgmFskbQnXkss+NnYss7hAW4+SC16f4IgX0VuwjiOnlHTA56L6SEhdrANRDFGo0L/KTLMPnVhpj4BTVtcqzVuJnBky1mUzXALjKpaku/OsSA8dc4fQmCAmohmBWjwuaHMK8dUQ/+2zjz9Z+oGMEx5/EUjbgtRZRQZg1sfe/zT+Iy8M4uGO5oNGOV+hc9xZgsiHYyhu2iOcKov6eo1mjHIwvSQhg/i5uJM88kxqD9pYSCiHt2RG6J96N2MrOesECVP1nldGlLagFBTVVyWbRHZDpBFQI5S+YLQ1KvtM=;emQhYCUyoRf9zXuKBcSLEw=="
 ---
 

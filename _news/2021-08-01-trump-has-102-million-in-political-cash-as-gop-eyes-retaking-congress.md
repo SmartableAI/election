@@ -3,8 +3,8 @@ category: news
 title: "Trump Has $102 Million in Political Cash as GOP Eyes Retaking Congress"
 excerpt: "Former President Donald Trump already has $102 million in political cash that he can wield as the GOP eyes retaking majorities in Congress next year, according to a Trump aide."
 publishedDateTime: 2021-07-31T23:46:00Z
-originalUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776?mod=hp_lead_pos3"
-webUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776?mod=hp_lead_pos3"
+originalUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
+webUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
 type: article
@@ -237,6 +237,6 @@ related:
         height: 495
         isCached: true
 
-secured: "VN3em1GcFqFYcihdjQADxKzX8OHWzgZVDuC5OSiRJ3M38HjJPxIAyHpQ+LOw4sLBKShB4pwknDhMnpoBbKIXPu4HWecC06mqvcpkWvTXmHP8NPyus80I+lrVBD7l6cuK2wrsaNdOrnS2zWTtIE9k69Mq4fKqTsxM5MmHJ/zEQriGBvQM47E/0x9vyO2jn36dTgSEYCKvV6KMjLJI1vGze0+3H5GKVzDmYOVj496HmuskyPXb9QrjRZqV88i8l+qWWYw3hYRolbDH5FwAoCUoGQjr0o4E0I7yr/hjkYj6UFDPfDajAUR2TX0UPRsv1H3oVDzG6pMzFaPmVC71WcTQMD7e4liGlq2hyBYox4lbgsk=;uSV+X64o6/plrhX4to+OyA=="
+secured: "ZtLluF9OTwUNq7vYUsOLHWbZJO78AWHBzbfNRJwo/q2r71AmCecfISORQ2ZoL04sWJyIzOiqprmhptleGBm8unG3Bj8HpCiM537EwaLGhGaehdjb3LXvX21hxXQqgaVnSR2bPhn6+ZFjNRxF0R9+eooPWuIbC3fHKQXVfY+JDLYyJpewXrJdQlxZ+Zj+uNoX3JCB103CfAMmKvDjltqt3xtfLaReqzUfQdNbomZq5vWFM400fRQQK5dbB2ia+oY8wcR2dWKJjXBfrGScv7GncCrENtoSAUn3KIFLZzrYbZWs2r3oyD6A6TzomIV3AlzA3Z2urGBaw2r65LnmuXyqstBMZAWPlTbEK5W1wZIJGtw=;Ew0vf0nxRyBj78SMI7x5pA=="
 ---
 
