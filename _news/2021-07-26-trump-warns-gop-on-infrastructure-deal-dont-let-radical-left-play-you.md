@@ -172,6 +172,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Has $102 Million in Political Cash as GOP Eyes Retaking Congress"
+    excerpt: "Former President Donald Trump already has $102 million in political cash that he can wield as the GOP eyes retaking majorities in Congress next year, according to a Trump aide."
+    publishedDateTime: 2021-07-31T23:46:00Z
+    webUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776?mod=hp_lead_pos3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-378328/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Hannity: January 6 commission's only goal is to 'smear Donald Trump and the GOP on national television'"
     excerpt: "The House January 6th commission \"has one mission and one mission only: to smear Donald Trump and the GOP on national television,\" Sean Hannity told viewers in his opening monologue on “Hannity” Tuesday."
     publishedDateTime: 2021-07-28T03:35:00Z

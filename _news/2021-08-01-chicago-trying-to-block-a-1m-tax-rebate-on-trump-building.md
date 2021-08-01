@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Trump-less Wollman Rink raises rates for next skating season"
-excerpt: "The new operator selected to manage Central Park’s Wollman Rink is jacking up rates for families to skate there this fall — after Mayor Bill de Blasio booted the Trump Organization."
-publishedDateTime: 2021-07-26T20:18:00Z
-originalUrl: "https://nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/"
-webUrl: "https://nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/"
-ampWebUrl: "https://nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/amp/"
+title: "Chicago trying to block a $1M tax rebate on Trump building"
+excerpt: "Former President Donald Trump is owed a $1 million tax refund on his Chicago highrise, Illinois officials say, but local authorities are trying to block the rebate."
+publishedDateTime: 2021-08-01T00:58:00Z
+originalUrl: "https://nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/"
+webUrl: "https://nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/"
+ampWebUrl: "https://nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/amp/"
 type: article
 quality: 135
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/wollman-rink-2.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/TrumpTowerRebate.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -60,23 +60,23 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Chicago trying to block a $1M tax rebate on Trump building"
-    excerpt: "Former President Donald Trump is owed a $1 million tax refund on his Chicago highrise, Illinois officials say, but local authorities are trying to block the rebate."
-    publishedDateTime: 2021-08-01T00:58:00Z
-    webUrl: "https://nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/"
-    ampWebUrl: "https://nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/amp/"
+  - title: "Trump-less Wollman Rink raises rates for next skating season"
+    excerpt: "The new operator selected to manage Central Park’s Wollman Rink is jacking up rates for families to skate there this fall — after Mayor Bill de Blasio booted the Trump Organization."
+    publishedDateTime: 2021-07-26T20:18:00Z
+    webUrl: "https://nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/"
+    ampWebUrl: "https://nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/trump-less-wollman-rink-raises-rates-for-next-skating-season/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/TrumpTowerRebate.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/wollman-rink-2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
 
-secured: "RxP08UNhanNlaehExDNxqD+k01bX14iqdXgbez6G4hCikh0zcQuSWzcK/iNC8LImCH2zuYpMwDxJBtdDU3ijOb+vZhnhYdQqGF2HXtutnL1tbDmZRE0A3VgUnD9dHbmCG7gO0G/B9MI9NYqjgC55oEL0YAna6QDyQuziLPLWsP/vA4VXZZZFgS+0lHELOWL0jwu4xd+xZNLTxAuzhbxtHSXPkPiOV9t35xxnpwpju863K7ovj8dqyMqNiXYVfWiSjxb7q0HN8GuUCrf/2jhyuINrFs8rA2mTTGi4TmqMclLraXjPv4yW7kvvX9rLfnpAru1fqJVoRIwsPL28HW8kLP+yfce4N/Aee3R5YL3lpmrOEpvyybr5H0A4famLR2glO2q4q4aQR2zAawv9eEeTJOJrwJ0/jV+dvtLtLTH3wRIcp+3heNG9hX8DBrc7MEWageX8mCU0QzKKUHLXj+Oz3SHJiwevJkgRLW9scRuUhFA3hZYr3BWGQXjg19DR2o0SycpJzTK4KIxioJbPuFhhmg==;PloMV73/hinwhlPx/leI8g=="
+secured: "xtgOcVcCSSD6OYSIyeLQDuPtA7fDILUkbvjAtmlF/UM0sz10xWpPfKUUuQ+yHVkdEmK37o4bDhe2e7RkKo/RwRpVObmCAE8MimajitQkIWbsVl3/BAO5SuErMC5Q3/WtXscDQx14IJ10nl6NPVR0vPFY3N3/JbYtwcpE9XKwZscQ/0LlmHcOB5EwspSd1I7hJE1mpYMA8h2eszTAkCXGfmFGTE8NszI21A+hLI51hbLLN9uXi+o8BaJ0xAR49lPaE+aCuE81w6EaJFqBYWcTuHDIlmLaWCW2/IWFpTsXeLUSBc/UZoyTCeGhKug+Ed98/NbqhSOdPkezrgi0sC4ElQ62EM++1GLZg6w/ISdWZM4=;3NSR7re+V9Q81eyz6kPmEQ=="
 ---
 

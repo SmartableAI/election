@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Hannity: January 6 commission's only goal is to 'smear Donald Trump and the GOP on national television'"
-excerpt: "The House January 6th commission \"has one mission and one mission only: to smear Donald Trump and the GOP on national television,\" Sean Hannity told viewers in his opening monologue on “Hannity” Tuesday."
-publishedDateTime: 2021-07-28T03:35:00Z
-originalUrl: "https://www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop"
-webUrl: "https://www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop"
-ampWebUrl: "https://www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop.amp"
+title: "Trump Has $102 Million in Political Cash as GOP Eyes Retaking Congress"
+excerpt: "Former President Donald Trump already has $102 million in political cash that he can wield as the GOP eyes retaking majorities in Congress next year, according to a Trump aide."
+publishedDateTime: 2021-07-31T23:46:00Z
+originalUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776?mod=hp_lead_pos3"
+webUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776?mod=hp_lead_pos3"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
 type: article
-quality: 119
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65e81360-4655-4e67-8b4c-f1a28d031291/0697d2d9-20fc-48ca-adfc-14baacbbc1da/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://images.wsj.net/im-378328/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -176,22 +176,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Has $102 Million in Political Cash as GOP Eyes Retaking Congress"
-    excerpt: "Former President Donald Trump already has $102 million in political cash that he can wield as the GOP eyes retaking majorities in Congress next year, according to a Trump aide."
-    publishedDateTime: 2021-07-31T23:46:00Z
-    webUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776?mod=hp_lead_pos3"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-378328/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump warns GOP on infrastructure deal: ‘Don’t let Radical Left play you’"
     excerpt: "Former President Donald Trump warned Republicans about being played as “losers” by Democrats during the bipartisan infrastructure negotiations."
     publishedDateTime: 2021-07-26T15:49:00Z
@@ -207,6 +191,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-001-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Hannity: January 6 commission's only goal is to 'smear Donald Trump and the GOP on national television'"
+    excerpt: "The House January 6th commission \"has one mission and one mission only: to smear Donald Trump and the GOP on national television,\" Sean Hannity told viewers in his opening monologue on “Hannity” Tuesday."
+    publishedDateTime: 2021-07-28T03:35:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-january-6-commission-donald-trump-gop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65e81360-4655-4e67-8b4c-f1a28d031291/0697d2d9-20fc-48ca-adfc-14baacbbc1da/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "The Real Reason Trump Keeps Telling the Big Lie"
     excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
@@ -237,6 +237,6 @@ related:
         height: 495
         isCached: true
 
-secured: "fp1C7AfjghDfAy4VB2RDyoxUmpKySaNKYqcz8ngguLAer5z0gurnx8etF8rYMwpJZB0NQjsoihG3rn2f68T3O4jcFeufaNFkRQCuX+Yj21WVDyS1P46GwjJArg8cDl1NZjGkkpKob2w6yU/InDTQZgAxsqmunKz7L0xVXuUTSh1EO3dXw4BsqcFgs3uzNyuh8LFkyIs3ct8r13bn4Wz49oiXs9Zh/KLuxy/JtElrE1v+FnRtoV39s56dEjIR02FBejJo24bmAodX8KzEuG2uAlvtUtoj3Q/F+eM86zfNvLCQWPZsn6Gndsft+e6zR0v4R9+yDNjNwQ4IQuIDjFlIX03EnBCD/I2fMxrAVFKOQl0fzYiwvS8Xj1uR8yL6TlXeNayI0fnQNZI4NyWXv8Xiye1ztwDA0qqREiPipb7w52pUjgLHOzSlx19tWepsQ/eXYsEaEvcY8T8FgIzyeia9hQlteEDvkZgJJNAeZYwzA20gCzisCvbkD4wu30LjDnf9ZxfuukcNKlRRUsK3lDkqdw==;fS36fUhKD33OM5/0wE9TNw=="
+secured: "VN3em1GcFqFYcihdjQADxKzX8OHWzgZVDuC5OSiRJ3M38HjJPxIAyHpQ+LOw4sLBKShB4pwknDhMnpoBbKIXPu4HWecC06mqvcpkWvTXmHP8NPyus80I+lrVBD7l6cuK2wrsaNdOrnS2zWTtIE9k69Mq4fKqTsxM5MmHJ/zEQriGBvQM47E/0x9vyO2jn36dTgSEYCKvV6KMjLJI1vGze0+3H5GKVzDmYOVj496HmuskyPXb9QrjRZqV88i8l+qWWYw3hYRolbDH5FwAoCUoGQjr0o4E0I7yr/hjkYj6UFDPfDajAUR2TX0UPRsv1H3oVDzG6pMzFaPmVC71WcTQMD7e4liGlq2hyBYox4lbgsk=;uSV+X64o6/plrhX4to+OyA=="
 ---
 

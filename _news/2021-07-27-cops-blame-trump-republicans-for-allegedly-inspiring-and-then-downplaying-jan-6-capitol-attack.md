@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jan-6-commission-hearing-cops-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jan-6-commission-hearing-cops-trump-republicans-capitol-attack.amp"
 type: article
 quality: 162
-heat: 202
+heat: 222
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/wollman-rink-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Chicago trying to block a $1M tax rebate on Trump building"
+    excerpt: "Former President Donald Trump is owed a $1 million tax refund on his Chicago highrise, Illinois officials say, but local authorities are trying to block the rebate."
+    publishedDateTime: 2021-08-01T00:58:00Z
+    webUrl: "https://nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/"
+    ampWebUrl: "https://nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/TrumpTowerRebate.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

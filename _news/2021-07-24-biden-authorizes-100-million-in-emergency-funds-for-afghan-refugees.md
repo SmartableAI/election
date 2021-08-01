@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET29T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET29T"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "With bipartisan vote, U.S. Senate advances Biden's infrastructure bill"
+    excerpt: "The U.S. Senate voted by a wide margin on Friday to take up a $1 trillion infrastructure bill, as Republicans and Democrats alike advanced President Joe Biden's top priority of renovating roads and bridges."
+    publishedDateTime: 2021-07-30T16:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure/u-s-senate-suspends-vote-on-1-trillion-infrastructure-bill-idUSKBN2F01TO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F01TO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F01TO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570472115&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T0ZW"
+        width: 816
+        height: 545
         isCached: true
   - title: "Biden sees shortages to stop climate-change fueled wildfires"
     excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"

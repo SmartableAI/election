@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Justice Dept OK's release of Trump memo, taxes"
-excerpt: "Politics Justice Dept OK's release of Trump memo, taxes. Posted . Former President Donald Trump suffered twin setbacks on Friday when the Justice Department cleared the way to rel"
+excerpt: "Top News Justice Dept OK's release of Trump memo, taxes. Posted . Former President Donald Trump suffered twin setbacks on Friday when the Justice Department cleared the way to rel"
 publishedDateTime: 2021-07-30T22:09:00Z
-originalUrl: "https://www.reuters.com/video/watch/justice-dept-oks-release-of-trump-memo-t-id733579856?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/justice-dept-oks-release-of-trump-memo-t-id733579856?chan=6g5ka85"
+originalUrl: "https://www.reuters.com/video/watch/idOVEO1FDRF"
+webUrl: "https://www.reuters.com/video/watch/idOVEO1FDRF"
 type: article
 quality: 105
 heat: -1
@@ -1349,6 +1349,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "YL3rkTbERfSH6tum4ukko8brUbKLtnkyFhzA2o+5IBLZ8SxU0FBHlVhi3XvODa81kIIHQLEnPNCgnNNaG495PpBjQm6rzYe/VfMaxZOASRozwLqfzb7UUax6UrIamnzOTG1ky7KStuflLuvRsMJ52C1NYebAMEF50viHYOM0YVBW+ShrzHwBPqRJX9JhXi++2ZR9yIUuy6J8OUnwFno0ELGOnMKVuJphqygC0l2L1GBXGLLsuY5x+yvyajQk46sCseTWj68USDPxKTk3Vdg97WBFLYcGeSADWkTtAwyf2ypfpHQs1wBakP2SLaYFnI0M/V4HibrrJ1FaLPIm5qnIvUYdtuIz7eRd3kF3JEX9nQA=;KzYcfpImssK2aS+Rf1OZPw=="
+secured: "CxLo0de5awfME8c/BMdJmBHAP45RZWsYxgCLzlrQbGvWBD8GN0j5gYRV4VnlPwllkvn7dD5oMmcUAPCqYoik5yOCX68Au4C6EGBiyzmUaOlIQcm+7hPd2BE081CXS0CjfGmP7nc69FJnA07F8cVr2ODgTHKmAgw/3Vt9xy0+bmk9re3Ty3Jw6ylBxLSlzn+kgkZmTGF8sD+N48qRXLsFBF3zCPOCCvKYmMf3dzgQeyzmtzvQJPjmBxeKkFDt8NSGoPjVceAItcxTC3tqplSLVTj7b7EIE5gsQvKmkHoej7SJIIEkjHEkRdpHPHz220P4uoF5W4wRbzs2GNuqR+Ju5aRe/7GmSxcmbsynU55Akh4=;/d3A+kOflPmlQB3xUrBu8A=="
 ---
 

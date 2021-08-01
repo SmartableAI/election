@@ -1607,20 +1607,6 @@ related:
         width: 415
         height: 384
         isCached: true
-  - title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
-    excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
-    publishedDateTime: 2021-07-30T15:15:00Z
-    webUrl: "https://www.brainerddispatch.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
-    type: article
-    provider:
-      name: Brainerd Dispatch
-      domain: brainerddispatch.com
-    quality: 52
-    images:
-      - url: "https://www.fccnn.com/incoming/7133742-bgagzb-U.S.-President-Biden-and-Vice-President-Harris-meet-on-infrastructure-with-a-bipartisan-group-of-governors-and-mayors-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Biden%20and%20Vice%20President%20Harris%20meet%20on%20infrastructure%20with%20a%20bipartisan%20group%20of%20governors%20and%20mayors%20at%20the%20White%20House%20in%20Washington"
-        width: 1140
-        height: 712
-        isCached: true
   - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Charlotte Observer"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
     publishedDateTime: 2021-04-28T19:28:00Z
@@ -1641,6 +1627,20 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 50
+  - title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
+    excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
+    publishedDateTime: 2021-07-30T15:15:00Z
+    webUrl: "https://www.postbulletin.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 42
+    images:
+      - url: "https://www.fccnn.com/incoming/7133742-bgagzb-U.S.-President-Biden-and-Vice-President-Harris-meet-on-infrastructure-with-a-bipartisan-group-of-governors-and-mayors-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Biden%20and%20Vice%20President%20Harris%20meet%20on%20infrastructure%20with%20a%20bipartisan%20group%20of%20governors%20and%20mayors%20at%20the%20White%20House%20in%20Washington"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "Kamala Harris to Speak With Guatemalan President on Monday: Axios"
     excerpt: "U.S. Vice President Kamala Harris will meet virtually on Monday with Guatemalan President Alejandro Giammattei to discuss solutions to the surge of migration, Axios reported on Wednesday, citing a senior White House official."
     publishedDateTime: 2021-04-22T01:02:00Z

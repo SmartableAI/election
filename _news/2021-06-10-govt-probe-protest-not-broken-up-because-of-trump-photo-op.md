@@ -787,9 +787,9 @@ related:
         height: 558
         isCached: true
   - title: "Justice Dept OK's release of Trump memo, taxes"
-    excerpt: "Politics Justice Dept OK's release of Trump memo, taxes. Posted . Former President Donald Trump suffered twin setbacks on Friday when the Justice Department cleared the way to rel"
+    excerpt: "Top News Justice Dept OK's release of Trump memo, taxes. Posted . Former President Donald Trump suffered twin setbacks on Friday when the Justice Department cleared the way to rel"
     publishedDateTime: 2021-07-30T22:09:00Z
-    webUrl: "https://www.reuters.com/video/watch/justice-dept-oks-release-of-trump-memo-t-id733579856?chan=6g5ka85"
+    webUrl: "https://www.reuters.com/video/watch/idOVEO1FDRF"
     type: article
     provider:
       name: Reuters

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chicago trying to block a $1M tax rebate on Trump building"
+    excerpt: "Former President Donald Trump is owed a $1 million tax refund on his Chicago highrise, Illinois officials say, but local authorities are trying to block the rebate."
+    publishedDateTime: 2021-08-01T00:58:00Z
+    webUrl: "https://nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/"
+    ampWebUrl: "https://nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/31/chicago-trying-to-block-a-1m-tax-rebate-on-trump-building/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/TrumpTowerRebate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "NvWbpkMnSX/IUAlBiAVCGU32E5C9CXdsmyekyA0cXsPew+s46iHr47Fvu/fMseaj0e4kPv0tkLfm89d7G6hWf8i0AviA1hWjOxhoFCBWbXpFlxWlxBMrt+nZbR+nfOH7Zb6Y9XV8VzWSYWrlf4cjLakVa8qVfbz2+xeWlKMCMZGARVRZ8KmVioFwOVkVlsJZM+VcfdHZacMbvBqL/wlDWRZcIxrPWyV0Prc7QG++6+Ar1TVLjs7xF/e1QsmJwChRMJerQp8dL8IH1zxJjqrZZXzjIsCN0CeP8bXnF4bgJcoJbDtvSejuqtfVEME6AKsV8te2vLCFWXUJwW+wKvccd2geGVhLLT7RPpShBDTJnRA=;A4VEaoErN2egh3WxanYxkw=="
 ---

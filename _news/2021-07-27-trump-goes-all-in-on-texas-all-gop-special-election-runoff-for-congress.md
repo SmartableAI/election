@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-texas-house-special-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp"
 type: article
 quality: 190
-heat: 430
+heat: 450
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-johnsen.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Has $102 Million in Political Cash as GOP Eyes Retaking Congress"
+    excerpt: "Former President Donald Trump already has $102 million in political cash that he can wield as the GOP eyes retaking majorities in Congress next year, according to a Trump aide."
+    publishedDateTime: 2021-07-31T23:46:00Z
+    webUrl: "https://www.wsj.com/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776?mod=hp_lead_pos3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-has-102-million-in-political-cash-as-gop-eyes-retaking-congress-11627778776"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-378328/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump warns GOP on infrastructure deal: ‘Don’t let Radical Left play you’"
     excerpt: "Former President Donald Trump warned Republicans about being played as “losers” by Democrats during the bipartisan infrastructure negotiations."

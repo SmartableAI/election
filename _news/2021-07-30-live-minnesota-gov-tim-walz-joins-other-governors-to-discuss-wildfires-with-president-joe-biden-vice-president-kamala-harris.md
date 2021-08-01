@@ -3,20 +3,19 @@ category: news
 title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
 excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
 publishedDateTime: 2021-07-30T15:15:00Z
-originalUrl: "https://www.brainerddispatch.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
-webUrl: "https://www.brainerddispatch.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+originalUrl: "https://www.postbulletin.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+webUrl: "https://www.postbulletin.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
 type: article
-quality: 52
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Brainerd Dispatch
-  domain: brainerddispatch.com
+  name: Post-Bulletin
+  domain: postbulletin.com
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
@@ -1667,6 +1666,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "UxiFol7hbALhp3ps96mZlJHuRX7F6ho10om/CD04jZqPN2xog5j3LLA5bBOOjFD7FhYS1gf8ycfgLU3V9NO6h+SP0JoIjdSF4tunUZByW/RLcQjZFINjLYRcUArLkZXrHuqY3SG+JSt1nSd0BRpIaGBCcdIqx89MlacBvTg8SotOtG6cg8pahlgPowVWBoRo/hDLyqFGrIY22QXp6VO2Bbz53N2UdJTQKxvc5ryrzXk3gxFwb5gIJu6VOVEJZ7azoLljBM+VcicATpzHEzgFE3o8tlt88nBDBVJ++OY20j7N5KZwUIJLOELCNMeMswZj7VY7E80Vjv3lFNelvC4XfUoeC2SHZHnoEgu0g1ZDZGY=;QDYzqWmnY8e2RRG33dAVWg=="
+secured: "dWCg+fiAMupT+h5kR9NkS96KT2jP90arlYHtg2vjL+wt7bCMLKKXwFebjjWbThzFADrvxCBIssYH+aVSwn155qbJKrdoGkt2H0SGcAcKuHNLLfxHXbHLJabmRSQxUuDQ/4ojD8w4KKdZQkdofFdH5o9DCoBRpAnLInskoUeYB41JH1noUoxNzFdHSZQ9prcj38sbD58H5fOesBZ1oh8/ayK/Dvr1o5MFZW1RBNhsFf18yLrKG32REQAnxEt3kBeHj6U9Bh7EOHitySO6LKtbB1v2i7/S5g93bM5n7fGF9EYhbMHJruhMp4EeAdWAwgaz96cPabp7n2oScNTobkJXhl1LyTEYlonqvmJwNz16gfA=;r7xgynWz0qimGrfC/aS5SQ=="
 ---
 

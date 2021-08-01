@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Biden calls for big budget bill to include immigration"
-excerpt: "U.S. President Joe Biden, who has called for providing a pathway to citizenship for so-called Dreamer immigrants, said on Thursday that a big budget bill being written by Democrats in Congress should tackle immigration."
-publishedDateTime: 2021-07-30T14:03:00Z
-originalUrl: "https://www.reuters.com/article/legal-us-usa-immigration-biden-idUSKBN2F029G"
-webUrl: "https://www.reuters.com/article/legal-us-usa-immigration-biden-idUSKBN2F029G"
+title: "With bipartisan vote, U.S. Senate advances Biden's infrastructure bill"
+excerpt: "The U.S. Senate voted by a wide margin on Friday to take up a $1 trillion infrastructure bill, as Republicans and Democrats alike advanced President Joe Biden's top priority of renovating roads and bridges."
+publishedDateTime: 2021-07-30T16:37:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure/u-s-senate-suspends-vote-on-1-trillion-infrastructure-bill-idUSKBN2F01TO"
+webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure/u-s-senate-suspends-vote-on-1-trillion-infrastructure-bill-idUSKBN2F01TO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F01TO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F01TO"
 type: article
-quality: 85
+quality: 125
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570472115&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T0ZW"
+    width: 816
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden authorizes $100 million in emergency funds for Afghan refugees"
@@ -102,22 +110,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "With bipartisan vote, U.S. Senate advances Biden's infrastructure bill"
-    excerpt: "The U.S. Senate voted by a wide margin on Friday to take up a $1 trillion infrastructure bill, as Republicans and Democrats alike advanced President Joe Biden's top priority of renovating roads and bridges."
-    publishedDateTime: 2021-07-30T16:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure/u-s-senate-suspends-vote-on-1-trillion-infrastructure-bill-idUSKBN2F01TO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F01TO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F01TO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570472115&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T0ZW"
-        width: 816
-        height: 545
         isCached: true
   - title: "Biden sees shortages to stop climate-change fueled wildfires"
     excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
@@ -205,6 +197,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden calls for big budget bill to include immigration"
+    excerpt: "U.S. President Joe Biden, who has called for providing a pathway to citizenship for so-called Dreamer immigrants, said on Thursday that a big budget bill being written by Democrats in Congress should tackle immigration."
+    publishedDateTime: 2021-07-30T14:03:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-usa-immigration-biden-idUSKBN2F029G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
   - title: "Biden lands win, but virus surge threatens to derail agenda"
     excerpt: "Joe Biden wagered his campaign and now his presidency on the premise that government itself could still work, even at a time of fractious political division. When the Senate voted this week, with bipartisan support,"
     publishedDateTime: 2021-07-31T04:07:00Z
@@ -314,6 +315,6 @@ related:
         height: 433
         isCached: true
 
-secured: "/63da/6t7gjZiLxV3e7ojJV+REfFHsHijydG40k3ZY6bQkTfDWcgAPHAbHkgP8TA3SvSKij3JQCFPYzGYqHif6A8SObaGZ4efP2YSwVkijMdY7zb0V2PEEfh1dxZlG7Anw67AaYRO8+1/Np6GKLU832UDS1TxFRwYUtEDinU5LzMWQWb2N2OLN76cxIQX3BnTL0jdSuAToWuCJkykGU65EmFgjD1tMc083b0psSF0fJ+U7RWj1vIRDO0dwfnWWiVCHcgmXTulOfh348wRQ/alsj9iT6pLOwLedtNfF0G+N77ASJd8NGG3kZajLU/3NZsqIUp3eCXyUDghWWL4DCixqthg8t0TTdnOpZJBuuBPbgakBTuTJfMjA9/7OXdlwyn6eoH0TLWq6WCjJV3URXfAEp8r4tLO+uJPNU3qFQYk2jFY+/nEy3VZYDi+hsZiUiPJyrUU1an4eAz/BFjIzXTfP8iOXAt8Y0EuZWp8H/UINav2Za8z0rInzCB4lm9aRlCKzGpWeCoj0S1UFsH3gEjrw==;zkE3GxTdJ0j81Rd5OTe6Gw=="
+secured: "vaBEfZsLoLwELXk+cYmqrkIZ7WxaJHWGrdreRLS92bOZ8VRwrck7izAzjQguGsZsAI+PSeloS1TvOKBa4/oDXRAf6I7XBND4WFZodHEP1ySraGx58yg8bD7VIQJyaaXw43rDl/l0R0EIPwXja6kDdDHbm/hpxwl+svFhc9B43oks5vBpnwgNF1I03hKjzS1yNrLl11t6xxLmNQ65U5h7ZB9G8l+XaCoYaKOFLw0/p8qORHxCAX42rAuyEqmTMtHZuSy9vmEW+KO7hLD6/DOIeyFxqnj3h2DaUE4Lh5FqtFEm6XYAX0V5aLuoNQ4R1kvMtUArjvauWSLzte0Xd6FGvFDwYdcPIpMDO3PBG+kQvdk=;5kcnc26oeLpmeKeyTUP3vA=="
 ---
 

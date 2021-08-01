@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "With bipartisan vote, U.S. Senate advances Biden's infrastructure bill"
+    excerpt: "The U.S. Senate voted by a wide margin on Friday to take up a $1 trillion infrastructure bill, as Republicans and Democrats alike advanced President Joe Biden's top priority of renovating roads and bridges."
+    publishedDateTime: 2021-07-30T16:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure/u-s-senate-suspends-vote-on-1-trillion-infrastructure-bill-idUSKBN2F01TO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F01TO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F01TO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570472115&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T0ZW"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Biden sees shortages to stop climate-change fueled wildfires"
     excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
     publishedDateTime: 2021-07-30T17:17:00Z
@@ -299,6 +315,6 @@ related:
         height: 433
         isCached: true
 
-secured: "HzgNJRNWM7H0629DRiezozEJukVS8MR8pHWrHW3dX1/ygbEPB4Q5rWdXQAPaJiuZECOhnjt5ko06qRe5MmOjQN2IO2udKlv+taXHgy3l24hJ9y3W+25eFQ267pG18dlS9JuBLhLlz36432/PWcTLRw4ZAiX1ShEnCSAdnkEBzRhRj45KRvXro0cCRQLBq+UgBfmcpnT26kT6B7ul2ZRXKjy4b16E4nz0YUyPBkb3SU9dRK15YfbjwmdwqYG7x8dA2amUTXu6MyLUKzP61LMRObRMOEjGTohXY+xy55Q1oOy44GgMYKDpTDYRmgWodHC4WusBDElcRo3MteOds2imspP0BtlKgVba+N7RmaAkdNE=;6ZyVhhgif1cF645kCpelAA=="
+secured: "+DiJ/Diz72h9vjaGi2GYUJwuDU2dQpqbBVXEtPG4s26FgANTEA2IxU7SAD3E859ArcOTrpWDpK6kLSxNiMyRrBimm7Ps12GuxF4FLGg9/e6QBzo1oCTUwTgSoBlP6TZ/AMXqpNoEcuz8H7U7f8aNLvdTHaPuXieC9Vticg3rZ7HzOwsErjJ6xT3iHFDd1d0Bypzotsa4rWCexx1FtY1oQ5Bt4EA1aTmK+HOQRI43l4sFJ1iH9kZxf3TBc2hXKCASBmldV5nFWkBZpcq0gtsjfcH94xkEQz/+nmbrjfcGD2ppQ3/ISUhc17+jb4dcyKd2RIITnt8sFXCmjDFjtyeUDos/rNVIHmahr6pQ8+c4Ovm0ub+/Pd8LCOzJaXlvxryIZGSGlHUggfpSgCpoyhGd3mNeGh9r1f9x+CvQp0f6uOYjWu9mOHSI+Q5EwuEnWu+dJUz/IZLlagsYTLWvOD1+VtEHgrOkTThc3pMlb3HlI4GmUrDeZR7SEUGiGAshwsR2StYG3AP6mzFNpk03G7zIXg==;JwAqjswLPj+h+Om7Gwk2vw=="
 ---
 
