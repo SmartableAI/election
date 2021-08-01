@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's Buy American push is good politics but bad economics "
+    excerpt: "With votes in the Senate to advance his bipartisan compromise last week, President Joe Biden took a big step toward upgrading America's infrastructure.\n    \n"
+    publishedDateTime: 2021-08-01T13:41:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cP4E24MMUko/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/01/politics/biden-buy-american/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/01/politics/biden-buy-american/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150624-02-biden-pa-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read Republican Sen. Tim Scott's response to Biden's address to Congress"
     excerpt: "South Carolina Sen. Tim Scott delivered the Republican response to President Joe Biden's address to Congress Wednesday night. Read his remarks as prepared for delivery:\n    \n"
     publishedDateTime: 2021-04-29T02:51:06Z

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's Buy American push is good politics but bad economics "
+    excerpt: "With votes in the Senate to advance his bipartisan compromise last week, President Joe Biden took a big step toward upgrading America's infrastructure.\n    \n"
+    publishedDateTime: 2021-08-01T13:41:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cP4E24MMUko/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/01/politics/biden-buy-american/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/01/politics/biden-buy-american/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150624-02-biden-pa-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to deliver remarks on newly launched Restaurant Revitalization Fund"
     excerpt: "President Joe Biden on Wednesday is set to promote the newly launched Restaurant Revitalization Fund, which was established to help struggling restaurants and other eligible businesses keep their doors open during the coronavirus pandemic, according to a White House official. \n    \n"
     publishedDateTime: 2021-05-05T14:38:51Z

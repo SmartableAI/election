@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump plans to ‘move forward’ after meeting with ‘cabinet’: Mark Meadows"
+    excerpt: "Donald Trump has been huddling with “cabinet members” at his New Jersey golf resort and is planning to “move forward in a real way,” former White House chief of staff Mark"
+    publishedDateTime: 2021-08-01T14:08:00Z
+    webUrl: "https://nypost.com/2021/08/01/trump-looking-to-move-forward-after-meeting-with-cabinet-meadows/"
+    ampWebUrl: "https://nypost.com/2021/08/01/trump-looking-to-move-forward-after-meeting-with-cabinet-meadows/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/01/trump-looking-to-move-forward-after-meeting-with-cabinet-meadows/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/mark-meadows-donald-trump-main2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "s71j9WyEC0mpBLLEVgxRRyYYF2Muc+o+pLGetRhc9ZBMXpDGEOkQ3HjF1qAoHxrBxGatn+kT7uu5nXqgLdbydFTHn/hVClOPmssuCCZBPa9xAGXVNO4/CMXuSS0ccPa+qHeldEAIEiPt7uxnLKphmop+RbyreTpvoLfVvLa8GVSxRqZ9mKAGuKPVotZ/BazM0ZRdUAIef08AUrqZ1iWA1KjREZg4wJZpbnBxbYNdVuhfoW3RnSIeW085Ivt9YtJAb/gpC/5BebmxPKheqbJOOAjgMpOytEFUDMuM+7e+iflJJR6w6lGsKaklRu2rZKYuvDMrbVHOJ12Gograf29ndcZ3kEWRFxVx4+/rshvuR1Y=;K7W2VDL6Fgqpj6iKwNU/0w=="
 ---

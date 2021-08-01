@@ -3,10 +3,10 @@ category: news
 title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
 excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
 publishedDateTime: 2021-07-29T22:14:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/679cfe1514f3f7a7855dada268170475/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/679cfe1514f3f7a7855dada268170475/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/fd304c93fcd425e5e17ec320f871b15f/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/fd304c93fcd425e5e17ec320f871b15f/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cdnph.upi.com/pv/upi/679cfe1514f3f7a7855dada268170475/BIDEN-VACCINE.jpg"
-    width: 650
-    height: 974
-    isCached: true
 
 related:
   - title: "Democrats stand behind Biden public lands pick amid pushback"
@@ -223,6 +217,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "Z/CreZOCH20IKmTatGUZoCQQfJoAEhQbV7wLFoNbe8fo7L0f3ZQMSzjMnVTFW1dfaw0RvG4pjGLqgalR3HzjSxZWMX2GgXWm6DIU1TZ+dzA2bgWVW2aLIZUR5/crRWGTsSu8vE+RxtYkVpB5vu0ve7DUpiAKFUfNaonEV+68htylWSG2oDZcqznQ+glEhTFn7YlHWWvksU+0+JygiMuPYVzyZ6hyQbISn9tGb0eub2jD9cEkC3vtW7J+QIfYauDdMSZCRa0aZsQYyYpj+KaZCXnulIV6sIcu4d6xbdsu7d3mzMuCFYa4put+ce+VCpnaDfjQqDW2hKiR5sqfGKn6nwhnBrspJeb/08veVDAx8oA=;6GxBEs/0dHpq+Unna0rbvg=="
+secured: "NCq7BaOJYlN8D2ZC1xyURA/1upfVX9FH+/W5/2AWhgB9UOii7IrcDtbmH1bRLERXY/qg1PfVCodF42+scXZTMumOKBBoJKnOgOwWLfCNSSNPS/egVzFrgGEob6F1lTbGuxt/DqowYhkHd+BipjHZUW4WYRazu/Eosyl+hjmjXjqQ/tlriTQo6WDXHLKwACpqtKV/sEU7NrZr24rASeSQ8zp3RiWGSsjygk16i5/CH5PQoqFoOYWJm1FSgmrWmnMyVCN6XzWS3vD9HvgmbxfzZOM3zIz7z/mF6NUAngy38tqq5/BFAd512RKJuQnFbt/8JwIWVr7x408XdnDJ5Ggdu2T1rKBdVtxH9zCllW6uk0/tn+mNTz4y9A2V6vpxo6bf6rypO76cZe35OKvKLst7WFfon1FK1iT6mkb69vu4fYhKFQjyvHaiUKMnr8xul1g/rReMx/G8FuGEAAFfMbP+wtFaHUczcBjM5nWLir49Nh2MAdsQXHL093Tg0ZDouNUvongQvhwgau0W8OQXADnMmQ==;cIK3itmSh2HB4JB2Mqj+wg=="
 ---
 
