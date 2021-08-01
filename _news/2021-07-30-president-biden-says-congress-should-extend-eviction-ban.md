@@ -289,16 +289,16 @@ related:
         height: 683
         isCached: true
   - title: "President Joe Biden Meets with Cuban-American Leaders"
-    excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
+    excerpt: "Jake Sullivan, Assistant to the President and National Security Advisor, listens as President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-07-30T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/00c2e7083740762521cc825ba00c64eb/WHITE-HOUSECUBA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4a35cafcbc748b2ca260991578ee8fbc/WHITE-HOUSECUBA.jpg"
         width: 650
         height: 433
         isCached: true
@@ -316,6 +316,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Frustration as Joe Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."
+    publishedDateTime: 2021-08-01T00:05:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/31/frustration-as-joe-biden-congress-allow-eviction-b/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 35
 
 secured: "IaIV29XBBJvuAACSJHGJrHK8qXT9+IiXCDBKn8vNX3ZJysF/sJNQP+HnI7aiPYgWZ5dL9o8VmcYZKP+16N2NADiDpJ56dNPdyJVMcbBe5VAy/WcrSHaJwpCrn2bHHejAEcVkvm3cDnOMLk0wpJZZZG3tjKZqjiIJ0VvaZofg767UZi2vn5YhBx4/NBUFkxx4/meLVqlp4dBBVkY9dUxquErK6E75SNdi40hqL/JMK2ynFAZRWfgze/GNvWkS+LuwOS9lTzo7YJT3G5DR275h60oLEFAY2W6SgZ77kIog08JUyyw6i0jMpwlljGCOLyz9u0OQXGcDMmbqQ8tSY+02MIVbpJ368ARXtChBC2Np7KH0oApUP2elDPqQ5ccrwJwZI8/3claxG2pYk2JrqH5TmQWpS7iY/ZNUlEiUoNIKCOii1O6dO0agWLnMNdSQ9QCnLgOOf0Xdb/dxxYcX22hzG7rsSc5ogFHR1/Q0y54ud5uqcWlV4iMD6XhhDkh6YlCjwKASi4qt3NPGoJX89H6SBA==;SyfXlhUu/I7tmxKnBdNHmg=="
 ---

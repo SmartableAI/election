@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Anger mounts as Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic. One Democratic lawmaker even camped outside the Capitol in protest as millions of Americans faced being forced from their homes."
+    publishedDateTime: 2021-08-01T19:03:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 75
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=4fbbe602-7b64-56b2-bc10-d698c85e4843&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z
@@ -92,6 +108,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Congress, President Biden allow eviction moratorium to expire as COVID-19 cases, anger surge"
+    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic."
+    publishedDateTime: 2021-08-01T19:41:00Z
+    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 64
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/FPMsb--roKTPig6fQlNO0NLlqUc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVEWS6EOP5AGNG64JULCKW7SUA.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden to announce end of US mission in Iraq; typhoon headed for Olympics; Jan. 6 committee to start work"
     excerpt: "President Biden set to announce end of U.S. mission in Iraq; typhoon headed for Olympics; and Jan. 6 committee begins work. Get caught up."
@@ -111,18 +143,45 @@ related:
         isCached: true
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
-    publishedDateTime: 2021-07-30T23:01:00Z
-    webUrl: "https://www.desmoinesregister.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+    publishedDateTime: 2021-07-30T18:19:00Z
+    webUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 51
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/07/30/USAT/c013de64-f62f-4351-9b1c-03e800b523b4-VPC_WILD_FIRE_SOT_GOV_INSLEE_DESK.00_00_04_19.Still001.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
+  - title: "Evictions looming, Biden fails to get Congress to extend ban"
+    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
+    publishedDateTime: 2021-08-01T17:46:00Z
+    webUrl: "https://www.ledger-enquirer.com/news/article253153568.html"
+    type: article
+    provider:
+      name: Ledger-Enquirer
+      domain: ledger-enquirer.com
+    quality: 35
+  - title: "Frustration as Biden, Congress allow eviction ban to expire"
+    excerpt: "The rare division between President Biden and congressional Democrats carried potential lasting political ramifications."
+    publishedDateTime: 2021-08-01T17:20:00Z
+    webUrl: "https://thegrio.com/2021/08/01/eviction-ban-expir/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 35
+  - title: "Frustration as President Joe Biden, Congress allow eviction ban to expire"
+    excerpt: "Lawmakers said they were blindsided by President Joe Biden’s inaction as the deadline neared, some furious that he called on Congress to provide a last-minute solution to protect renters. The rare division between the president and his party carried potential lasting political ramifications."
+    publishedDateTime: 2021-08-01T15:51:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/08/frustration-as-president-joe-biden-congress-allow-eviction-ban-to-expire.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 34
 
 secured: "n9Yh6AKkVZWshYLei1XK9O4sDjMD961+J6XeaeuHep6zye0dL3jB4QzljQTSHTp5wHao8+GLA9aATRsHTfnFMe1IjlhNxnIK08hrAeSLZpSTF6jQjOwun1XmFE1msF4MMdtyoGNn248b3SLY6bjT5f3/nqEJsj9fHCzYocHZMpGPg8H8cKpgvpl5Ow480inEgbJE86z0R9rrDusKtRpu1wlNxxSkG5K44TXOdXUILh9GZ2qMDJKhL3gRBTV73VXmwkvF42CiiDJZOPKxPucXE7wh7qbkuEdP0xqacVUA1ffzP0rLP+O0KBQpYnTeEV0TSMDDWA7L4Td3Iqzn7AXZshij+L0iQXboW8lNDirKtlLfOSEKZilomAVlKjsTl2kA42WFRPLnYF7UYxJuA9RDanBYA519trmK7+qt2oj5CVxID9aYK3av6vYjDTP1H22F6B10FuP5yWeEFKNlu3lZo65oeW/dtQQO5jDSwjvFQCTOdUGhycGjGq4z0dbIc7ip/bsi43AEbUtVdEJQgRK8ZQ==;/bWf1u8GZeYbjYfmrCA/YQ=="
 ---

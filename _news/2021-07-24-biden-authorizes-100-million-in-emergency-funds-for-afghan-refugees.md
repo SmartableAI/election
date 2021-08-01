@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET29T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET29T"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -289,16 +289,16 @@ related:
         height: 683
         isCached: true
   - title: "President Joe Biden Meets with Cuban-American Leaders"
-    excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
+    excerpt: "Jake Sullivan, Assistant to the President and National Security Advisor, listens as President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-07-30T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/00c2e7083740762521cc825ba00c64eb/WHITE-HOUSECUBA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4a35cafcbc748b2ca260991578ee8fbc/WHITE-HOUSECUBA.jpg"
         width: 650
         height: 433
         isCached: true
@@ -316,6 +316,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Frustration as Joe Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."
+    publishedDateTime: 2021-08-01T00:05:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/31/frustration-as-joe-biden-congress-allow-eviction-b/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 35
 
 secured: "NmTovP8Kz9ofklJZ5L8L+RZ23vdvLpkUeCFxPv4FtY4mBFrki4MEjrm0d1am//ZBX2JQcbSMXU7Ro7qMIiqK7o1zJG1yXOq4/k6fy2wJUh7MXzB3B/HmwZV9XRhPWBuhByC4jDHKqoBsQh7rOSYlWeZGlfV18t0y4sT2UM1r6MVt5tUBtUXu9epmTtkOFhAes1agUlhUN5QOSj71mf192mrIBCmLVfiZmzrJV49rYgbAricWG3Y4UkRNSVSsHrAl8gdfugWtPGBmtEzcNk/HxV+dQVvX/g2ZKjuvQ3gnoMqSautMOOaUZU6n1ZJRLb2GhUsgL4j7crt5ps5HJD0mgCI3NqelcJx6GOCT6eT3EBQKl12u2BxRoNq2tfO32VYouYBtc8KHPK++yRTGt5XFMgsmhH+AMMy1e5ZRy4yDYNw/wI0+Sl4mB4PVDcBVzsKcOJThVNl0uDsU+sbIeF/onN/M/aln+bVSMU3/GdKeKUFHIKBaVHRyWyJe6AsrosO7K76vC8beKwiUuMoYGsCHbA==;3uNFwTA4vTcXyO8YZt8ylA=="
 ---

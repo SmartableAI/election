@@ -162,6 +162,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
+    excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T22:38:00Z
+    webUrl: "https://floridapolitics.com/archives/444921-irs-trump-tax-returns-congress/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 53
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Donald-Trump.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "U.S. Justice Dept Says IRS Must Provide Former President Donald Trump's Tax Returns to Congress"
     excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
     publishedDateTime: 2021-07-30T17:31:00Z

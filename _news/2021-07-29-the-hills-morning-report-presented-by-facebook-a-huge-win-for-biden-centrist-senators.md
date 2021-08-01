@@ -171,6 +171,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Kosovo honours late son of U.S. President Biden"
+    excerpt: "Kosovo's president on Sunday awarded a medal to the late son of U.S. President Joe Biden for his service in building the country’s justice system after war ended more than two decades ago."
+    publishedDateTime: 2021-08-01T19:19:00Z
+    webUrl: "https://www.reuters.com/article/us-kosovo-usa-biden/kosovo-honours-late-son-of-us-president-biden-idUSKBN2F21H2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/ZPERW6qTOVnpKdODrnH90NW1q74=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6OYMLXTP2NMQJPCWU7JRGMEJ2E.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The 1 thing small-business owners need to know about Biden's infrastructure plan"
     excerpt: "So far, there's no mention of small-business concerns in the $550 billion bipartisan deal, despite Biden's original plan."
     publishedDateTime: 2021-07-29T18:54:00Z
@@ -299,6 +313,15 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
+    excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
+    publishedDateTime: 2021-08-01T18:36:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-01/kosovo-awards-rule-of-law-medal-to-bidens-late-son-beau"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "GszRndENRnuawz3zHYePB+RXXfDdoZZLee5/Z3z+OIfA/gGY5DLDiLS/WZl3LaKaY4FawS6+q5/vB477aFWTe792Pr6wLXjiic7EIsnG9gKKExRB3jy97CtFNVLIyg0ZmKS+uMGe7eisseRQjX5G+P2zdgZDgqANmQ69yk6EMyk51cegon54Q+b6+/4tehTypubkVhwcQ2tXV3Q6558xQzaU1DwTz9RHeW0ximY5fMiuJjK3mGNVRbCAdIIeXN/fee4QPG73iFMDg6monWoZnrt4NAkmRRitQG6CN88ZPyBngWDUIzOdNhVQ6ydBtsmIt3UJItj8UR5/cLYWq0WrRH1WAVAgGjQuf083f8O4ywPzqfhHM0Lb8qavEYHvgTuFAK325ZaLr0/Y4joPdif3OhpIgSVlGO/V7+zbO4MCH7gGaVXNbn4MjYFLlAY/EX183MhAxREqoSLrfv1IhjzK/PX1eebDzpFYo55whkBbuowaDDgJLahrvrx+ggTpqYSibxW0MOgq0zJW3e0geqkOnA==;4q2oWmrKeS4TB9zk0JHkdw=="
 ---

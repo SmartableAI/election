@@ -103,6 +103,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Election 2024: Trump or Pence or Somebody Else?"
+    excerpt: "Usually, a president is expected to run for re-election, but Biden’s age is an issue. During the 2020 campaign, there was great focus on whom he would pick as his running mate, since that person would likely take over the office after"
+    publishedDateTime: 2021-07-28T13:23:00Z
+    webUrl: "https://www.uspresidentialelectionnews.com/2021/07/election-2024-trump-or-pence-or-somebody-else/"
+    ampWebUrl: "https://www.uspresidentialelectionnews.com/2021/07/election-2024-trump-or-pence-or-somebody-else/amp/"
+    cdnAmpWebUrl: "https://www-uspresidentialelectionnews-com.cdn.ampproject.org/c/s/www.uspresidentialelectionnews.com/2021/07/election-2024-trump-or-pence-or-somebody-else/amp/"
+    type: article
+    provider:
+      name: Election Central
+      domain: uspresidentialelectionnews.com
+    quality: 105
+    images:
+      - url: "https://www.uspresidentialelectionnews.com/wp-content/uploads/2021/07/pence-desantis-2024-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Donald Trump spreads more election lies at Arizona rally"
     excerpt: "He spoke of untold thousands of dead people voting — no such phenomenon surfaced in postelection audits. He alleged 168,000 Arizona ballots were fraudulent — there is no support for that."
     publishedDateTime: 2021-07-25T03:16:00Z

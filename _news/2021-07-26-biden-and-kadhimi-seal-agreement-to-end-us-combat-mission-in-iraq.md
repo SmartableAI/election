@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
 type: article
 quality: 125
-heat: 245
+heat: 345
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 660
         isCached: true
+  - title: "Anger mounts as Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic. One Democratic lawmaker even camped outside the Capitol in protest as millions of Americans faced being forced from their homes."
+    publishedDateTime: 2021-08-01T19:03:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 75
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=4fbbe602-7b64-56b2-bc10-d698c85e4843&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z
@@ -92,6 +108,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Congress, President Biden allow eviction moratorium to expire as COVID-19 cases, anger surge"
+    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic."
+    publishedDateTime: 2021-08-01T19:41:00Z
+    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 64
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/FPMsb--roKTPig6fQlNO0NLlqUc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVEWS6EOP5AGNG64JULCKW7SUA.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden to announce end of US mission in Iraq; typhoon headed for Olympics; Jan. 6 committee to start work"
     excerpt: "President Biden set to announce end of U.S. mission in Iraq; typhoon headed for Olympics; and Jan. 6 committee begins work. Get caught up."
@@ -111,18 +143,45 @@ related:
         isCached: true
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
-    publishedDateTime: 2021-07-30T23:01:00Z
-    webUrl: "https://www.desmoinesregister.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+    publishedDateTime: 2021-07-30T18:19:00Z
+    webUrl: "https://www.azcentral.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 51
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/07/30/USAT/c013de64-f62f-4351-9b1c-03e800b523b4-VPC_WILD_FIRE_SOT_GOV_INSLEE_DESK.00_00_04_19.Still001.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
+  - title: "Evictions looming, Biden fails to get Congress to extend ban"
+    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
+    publishedDateTime: 2021-08-01T17:46:00Z
+    webUrl: "https://www.ledger-enquirer.com/news/article253153568.html"
+    type: article
+    provider:
+      name: Ledger-Enquirer
+      domain: ledger-enquirer.com
+    quality: 35
+  - title: "Frustration as Biden, Congress allow eviction ban to expire"
+    excerpt: "The rare division between President Biden and congressional Democrats carried potential lasting political ramifications."
+    publishedDateTime: 2021-08-01T17:20:00Z
+    webUrl: "https://thegrio.com/2021/08/01/eviction-ban-expir/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 35
+  - title: "Frustration as President Joe Biden, Congress allow eviction ban to expire"
+    excerpt: "Lawmakers said they were blindsided by President Joe Biden’s inaction as the deadline neared, some furious that he called on Congress to provide a last-minute solution to protect renters. The rare division between the president and his party carried potential lasting political ramifications."
+    publishedDateTime: 2021-08-01T15:51:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/08/frustration-as-president-joe-biden-congress-allow-eviction-ban-to-expire.html"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 34
 
 secured: "Le9XmI8sOJtLz6ZtAnx/IxVNb8YE/V+fEgDAGBRiCVxbZsEyD+Ue9ct6DU3jTuRwaityurVKabDrpT3rXqaKgwaWbw5tKqydIqEoP5170KJdqLYcM+It28CzyMLWPVH6LY6Pxdkf50bd+DZ9nM9unf9yGDhAfcfsgMR16hKQUA3FG3/t+X4v0YNXPR6KWNBNKljeS94rQfqZKMpD4kBBgJ3ApfV0cmcTiYj1lhDt08XZN/zcI0P4SPX09QAtxnsCPe86M82micbSlwG6YHS9H5eyNs1Pz2E7P2hfHdNX4yOyTmU+0flhHnSzTIbUhl/6SnmmYYEvc4MavmmO1loBXbotxS1H4XAJbUy55O6pXit6fQPc+rFoeVe62PJy36vvhCdhRbE1k5/lGM8mqAf7vvI7KbDZrzeMOmd9CQ1B7Vqsb5vIKBfsXlFLLWco4+XSGaflnATCUHhMzOq9hyStFhwnqAQolIHw+rULZtf9mFixwE53ryN+wZLTWI4I2QP2MQfqeYJiag8uZkF7OoG3/A==;HDAtRj6pESenVQ8PPcGzFQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
 type: article
 quality: 148
-heat: 528
+heat: 548
 published: true
 
 provider:
@@ -185,6 +185,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Joe Biden’s infrastructure win overshadowed by new virus surge"
+    excerpt: "Joe Biden wagered his campaign and now his presidency on the premise that government itself could still work, even at a time of fractious political division."
+    publishedDateTime: 2021-07-31T23:39:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/31/joe-bidens-infrastructure-win-overshadowed-by-new-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/31/joe-bidens-infrastructure-win-overshadowed-by-new-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/31/joe-bidens-infrastructure-win-overshadowed-by-new-/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/zKPJ6r7ny07rWOMrluwk-XFzYRg=/480x0/media.spokesman.com/photos/2021/07/31/6105dc62419a8.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Trump ally launches election audit plan in Pennsylvania"
     excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state’s 2020 election."

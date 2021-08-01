@@ -883,6 +883,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Donald Trump’s influence in Joe Biden’s America"
+    excerpt: "It might seem like a post-Trump world, but in red states across the US his most hardline supporters are setting the political agenda"
+    publishedDateTime: 2021-08-01T16:30:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2021/aug/02/donald-trumps-influence-in-joe-bidens-america"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
+    images:
+      - url: "https://i.guim.co.uk/img/media/1eb74c6467fc4ce71429fff6debb6d3404584988/752_438_4493_2696/master/4493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=051568cfb89d59043d17fa0d538df71b"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
     publishedDateTime: 2021-04-27T21:36:00Z
