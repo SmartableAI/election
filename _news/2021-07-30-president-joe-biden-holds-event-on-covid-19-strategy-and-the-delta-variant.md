@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
-excerpt: "U.S. President Joe Biden arrives to talk about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday,"
+excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
 publishedDateTime: 2021-07-29T22:14:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/ddbfe9729103c4405235aebe0148c79c/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/ddbfe9729103c4405235aebe0148c79c/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bcf63d33d630b0599acd43fe51333e01/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bcf63d33d630b0599acd43fe51333e01/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/ddbfe9729103c4405235aebe0148c79c/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bcf63d33d630b0599acd43fe51333e01/BIDEN-VACCINE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -223,6 +223,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "hXbYn9PyzKfmLKi3AUSm0tDSdV+Ui4rJ87vsBKHYCdbnSSx+BA82Dw5hY1pv2z9k94qM4lYL7ugHHgOCsznXM8l5AZPVnzvnie9horAe+LuI7u4S/NwwgYGWCC/zpe/QIrfUUCpT749AJt7+14+Rar5gWgei96wUL27Sbxw1t/fP6ZLXWlgewCyInuBpRA52fwzaLOnwb5hGk0CdsvfAz9aBQsm7Vza9Suaq9L+wu+LlGD/Ki+RJleIYN/0FgDC6BNpesDL9PyH+2ecsKSR7+ECC0zAGtFoC0zNDeL/UCr3PfANTxDNiSQ8wjutKhpztDpK2OAL+4UjRel/fLWNzYdfPfN9UHKac3pE2u/RLU4I=;U9HhRm6I312C1d4lGm+lEA=="
+secured: "jEaLnYvdymA3Gzm42pQKLsOcHCiFMeFo/BQCLEfv/RA2Cuke9toXEPpAJIA5RvCTcDVmwkZcznNXe8XWreY4YOiqTq2+UMZ1WxcRSvjr4Tf4bL5VF2v9x9S1oxzZupsQLkT9c+o/EtmBWKDseCdwbmfLOd6AlfpkDBiQtr3QrHCP5Kl/CqwW+MmgxvlWIoIBonQQUKxS4+HyChfZwHidHaBn4RL7q4/EhKChS1NJvJPxdRB7miMnrLcgCJ7jgExFZsqIcxo0prN9zKgHuUSTAgm/5qAhmiRji2JdShDkFFylNxz2Am3dzSbBbh0CISSlMBUYcJwnWaWyRqzPQU9RwMz6KWL0gtVAjSZiwD0NTo0=;KhXKrXOPQqI8WYWKPLZ+2w=="
 ---
 

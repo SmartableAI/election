@@ -1,20 +1,22 @@
 ---
 category: news
-title: "U.S. Justice Dept says IRS must provide former President Donald Trump's tax returns to Congress"
+title: "U.S. Justice Dept Says IRS Must Provide Former President Donald Trump's Tax Returns to Congress"
 excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
-publishedDateTime: 2021-07-30T20:40:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
-webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
+publishedDateTime: 2021-07-30T17:31:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
 type: article
-quality: 73
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -171,6 +173,6 @@ related:
         height: 720
         isCached: true
 
-secured: "N2rTPhShjaitrvv0e5Qm3tTI59TWj4zbHaYSIJLSmp27KFdj/BaDppNajjXf6ZqFtJgZmhb5yJ6BUMXRDxA0aTQMn2UJxi76mb30xTKZ7Dd5/0civwZOiWJFev4lVGPRGbzFtrAzEVgNQFzQxi/pierbaDjKp7n1rcOrJZnMkIpjM+lS5PNNBJ66F1c/NjSjpoyRNYe//HqV+isxhtt7ekQ62AumSjpZqsMFNK4bxlMmjCxlACE2PWHuEAwi2bdvvLKPY3XWeDclgmc9maORy/bbldVNL8A/EvhRTSjGpphUnbmjAHn4LoCa9MolcOhUykQoP3RaoF8ubqNeSgbIPi4I62dtQhlEuVZTusc+M4Q=;LgqFNW/ADv1Mr8aMevrCCA=="
+secured: "k7HYCrBEbL2EwvsIUd+PQ+qWE0mIeYryjr8uygItJdpC1GCZW9NYpMgC6cekkfuCzp+RglzdwcgDKzmPF4BZWNwNxW/f9yNoSCyLQNvL5djVpnaAqO56QvJAmwxr9FsC3+r4uA1TzR6+TvNwO6oNuS4RWFDkYg347bJRC5+SXu80yZXBRMD+dgaahiw5MGM2DI/rpX6GcTzI1ePncAXTGRa1DyZCOIDowOaUab7MRImKoUhZKZsUxb+0w4xZOqv5572xN/zvJ7kDIZDlMsIzadrnWyz7cnxQ8xDeBqlqoRR0/PTuB4O09ZFVeAyNR4754wXyH/d/QE5JIg0kbNcspBRC+LZUo3JZ/fGB6GRtONLJHs78eJBV4Rkz35zq6ZuSZUG7LxLvp/pez9hu/bOklyOCE1lHNB+ihDqsm/4RgHeeft2AtUUM1nOCft8ewLMuqUiW2gzvMz0vEBn6G5POuN2eroJLQpZPOjXyLJ1RHqAz6IQ93c2ILV1TUMq3iJzQ/VoEc7+EWgZEAs2h/bD9zQ==;ICRf+XUJcrKI7gda8Tg2Kw=="
 ---
 

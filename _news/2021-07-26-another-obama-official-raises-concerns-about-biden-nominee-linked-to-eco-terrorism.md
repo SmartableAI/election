@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden appoints Khizr Khan, longtime Trump critic, to religious freedom board"
+    excerpt: "Gold Star father Khizr Kahn, who has been outspoken in his criticism of former President Trump, has been appointed to the United States Commission on International Religious Freedom."
+    publishedDateTime: 2021-07-31T22:45:00Z
+    webUrl: "https://nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/"
+    ampWebUrl: "https://nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Khizr-Khan.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden blames ‘Freudian slip’ after saying ‘President Trump’ when he meant Obama"
     excerpt: "President Biden on Wednesday uttered the name of his predecessor — “President Trump” — chalking it up to a “Freudian slip” even though he was talking about Barack Obama."
     publishedDateTime: 2021-07-28T20:19:00Z

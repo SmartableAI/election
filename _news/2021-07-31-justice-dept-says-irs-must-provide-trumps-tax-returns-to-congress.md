@@ -144,15 +144,6 @@ related:
         width: 3600
         height: 2400
         isCached: true
-  - title: "U.S. Justice Dept says IRS must provide former President Donald Trump's tax returns to Congress"
-    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
-    publishedDateTime: 2021-07-30T20:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 73
   - title: "Justice Department Says IRS Must Give Trump Tax Returns To Congress"
     excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T17:51:00Z
@@ -167,6 +158,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "U.S. Justice Dept Says IRS Must Provide Former President Donald Trump's Tax Returns to Congress"
+    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
+    publishedDateTime: 2021-07-30T17:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 43
 
 secured: "nK5l3MrKrh7fr9+F18Nry9Z1oNn4OLmy3598YBscIx6cy5ib48wPQ41aPQXOlCcBNGWheX4qHcRThJQ9lTRxLgM6fCs+g6z7iF6dBiXOeVKtQpXvIB1FPNJWL0/j6QcbSdwyf+fB3J78mhziMw7ZmGW8HdptE7iE1WuBjFxazgY86/BrvT7Ac9k0pDBJG6U1pomeuQ3IaaR43xtAHgp36L9V7rz8eKxGrYKho6AilL+SRTjh6Z3Hf6Vh48G6izPsjpDD2iifClFVDbRH3YM7Qi9z1+Fx4UaW3b81Dz5qYTiEE6tjsduEGEOo7SkM8DHM9S5/i0yHxv2iqJkRmxJRwE/wiRumxCLJTvU4ZUehIpM=;gLOD/ptnyi79JNyp0JBnOA=="
 ---

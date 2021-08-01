@@ -163,6 +163,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Frustration as Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
+    publishedDateTime: 2021-07-31T19:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OICFDYHRNEI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "President Biden says the U.S. combat mission in Iraq will be over by end of 2021"
     excerpt: "President Joe Biden tells Iraqi Prime Minister Mustafa al-Kadhimi that the U.S. military's combat mission in Iraq will be over by the end of the year."
     publishedDateTime: 2021-07-27T11:34:00Z
@@ -246,22 +260,6 @@ related:
     provider:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Frustration as Biden, Congress allow eviction ban to expire"
-    excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."
-    publishedDateTime: 2021-07-31T21:42:00Z
-    webUrl: "https://www.chron.com/news/article/Evictions-loom-after-Biden-Congress-fail-to-16353903.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Evictions-loom-after-Biden-Congress-fail-to-16353903.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Evictions-loom-after-Biden-Congress-fail-to-16353903.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

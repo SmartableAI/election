@@ -124,6 +124,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden appoints Khizr Khan, longtime Trump critic, to religious freedom board"
+    excerpt: "Gold Star father Khizr Kahn, who has been outspoken in his criticism of former President Trump, has been appointed to the United States Commission on International Religious Freedom."
+    publishedDateTime: 2021-07-31T22:45:00Z
+    webUrl: "https://nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/"
+    ampWebUrl: "https://nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Khizr-Khan.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
     excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
     publishedDateTime: 2021-07-23T13:17:00Z

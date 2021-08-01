@@ -149,6 +149,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Donald Trump urged DOJ to declare 2020 election illegal, reports say"
+    excerpt: "Former President Donald Trump wanted the Justice Department to declare the 2020 election illegal in his efforts to overturn his loss, according to notes from a Dec. 27 phone call"
+    publishedDateTime: 2021-07-30T22:00:00Z
+    webUrl: "https://www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.html"
+    ampWebUrl: "https://www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.amp.html"
+    cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.amp.html"
+    type: article
+    provider:
+      name: The Pantagraph
+      domain: pantagraph.com
+    quality: 70
   - title: "Trump Urged Justice Officials to Declare Election 'Corrupt'"
     excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call."
     publishedDateTime: 2021-07-30T22:20:00Z

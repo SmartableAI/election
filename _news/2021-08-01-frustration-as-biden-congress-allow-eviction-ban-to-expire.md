@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Frustration as Biden, Congress allow eviction ban to expire"
-excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."
-publishedDateTime: 2021-07-31T21:42:00Z
-originalUrl: "https://www.chron.com/news/article/Evictions-loom-after-Biden-Congress-fail-to-16353903.php"
-webUrl: "https://www.chron.com/news/article/Evictions-loom-after-Biden-Congress-fail-to-16353903.php"
-ampWebUrl: "https://www.chron.com/news/amp/Evictions-loom-after-Biden-Congress-fail-to-16353903.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Evictions-loom-after-Biden-Congress-fail-to-16353903.php"
+excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
+publishedDateTime: 2021-07-31T19:07:00Z
+originalUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
+webUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OICFDYHRNEI6XANSTNYGDJMC3A.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -297,6 +299,6 @@ related:
         height: 433
         isCached: true
 
-secured: "7R0vY7M84ETBEE8LsvKMK27+sGR4vDmzEtzkWK5MO7y/p+Y2NM4i/Lx9lj2Tqz6E4v4piUIRd5s5ZfwWXN/tuWAoSVTIDbyX6/7CQlSJdKnSAfuDI1/zvoGI5o7z5TidojlPgsT6Fb8sS/UHLlStBdYb/jr6le5sYbvHss4L/pmFQRgpF+NLWPjv2I7GzdJNMlZD/KbA21d8oCHe94KzYW+6RUlj34481TplJ4KfyAOo2mFT5oGvae8awJJJPMXL4ld3dTGJDcQmr3ALw8UWSvNWKnE4Z/WdsNEEUGUzc/IWo5qG50qOkQWrw8w5ujNsI6DKctYTxmuCTvGNKBE2kfhQFdTWCkg79pIGVHsvJZI=;Xjtsg68gClO9Po1/KxptYg=="
+secured: "HzgNJRNWM7H0629DRiezozEJukVS8MR8pHWrHW3dX1/ygbEPB4Q5rWdXQAPaJiuZECOhnjt5ko06qRe5MmOjQN2IO2udKlv+taXHgy3l24hJ9y3W+25eFQ267pG18dlS9JuBLhLlz36432/PWcTLRw4ZAiX1ShEnCSAdnkEBzRhRj45KRvXro0cCRQLBq+UgBfmcpnT26kT6B7ul2ZRXKjy4b16E4nz0YUyPBkb3SU9dRK15YfbjwmdwqYG7x8dA2amUTXu6MyLUKzP61LMRObRMOEjGTohXY+xy55Q1oOy44GgMYKDpTDYRmgWodHC4WusBDElcRo3MteOds2imspP0BtlKgVba+N7RmaAkdNE=;6ZyVhhgif1cF645kCpelAA=="
 ---
 

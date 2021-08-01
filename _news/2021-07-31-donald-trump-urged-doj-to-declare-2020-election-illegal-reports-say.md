@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Trump Urged Justice Officials to Declare Election 'Corrupt'"
-excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call."
-publishedDateTime: 2021-07-30T22:20:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?context=amp"
+title: "Donald Trump urged DOJ to declare 2020 election illegal, reports say"
+excerpt: "Former President Donald Trump wanted the Justice Department to declare the 2020 election illegal in his efforts to overturn his loss, according to notes from a Dec. 27 phone call"
+publishedDateTime: 2021-07-30T22:00:00Z
+originalUrl: "https://www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.html"
+webUrl: "https://www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.html"
+ampWebUrl: "https://www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.amp.html"
+cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.amp.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Pantagraph
+  domain: pantagraph.com
 
 topics:
   - Election
@@ -149,16 +145,16 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Donald Trump urged DOJ to declare 2020 election illegal, reports say"
-    excerpt: "Former President Donald Trump wanted the Justice Department to declare the 2020 election illegal in his efforts to overturn his loss, according to notes from a Dec. 27 phone call"
-    publishedDateTime: 2021-07-30T22:00:00Z
-    webUrl: "https://www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.html"
-    ampWebUrl: "https://www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.amp.html"
-    cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/national/donald-trump-urged-doj-to-declare-2020-election-illegal-reports-say/video_26f5b3b1-f10f-5600-b932-728be8498848.amp.html"
+  - title: "Trump Urged Justice Officials to Declare Election 'Corrupt'"
+    excerpt: "President Donald Trump urged senior Justice Department officials to declare the 2020 election results “corrupt” in a December phone call."
+    publishedDateTime: 2021-07-30T22:20:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-30/trump-urged-justice-officials-to-declare-election-corrupt?context=amp"
     type: article
     provider:
-      name: The Pantagraph
-      domain: pantagraph.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 70
   - title: "Crowd Breaks Out in Boos for Pence During Trump Speech at Conservative Conference"
     excerpt: "Attendees of a Turning Point USA conference booed former Vice President Mike Pence after former President Donald Trump brought up his decision to not overturn the presidential election results. During a speech on Saturday night at the conference,"
@@ -175,6 +171,6 @@ related:
         height: 450
         isCached: true
 
-secured: "vEx2QnG0zG/zpcEsNZqVhGKxMSRHAwSH8dDMNOnO7Z9uViIk79qKPZWgQrBlAFuiIMWQiUiCHkz58ZP8rGFq44ed8rZI6Fk0MHZxINltHwi/ZxL9PVTJvrR+xi6lWS7hztyr43sUUjr9OCh3HNxEZzUIEhz7HLzwKandMJSzA0zwJ4MA4wqwXl/9l5DCDH5ntuo/3YGWGAna+Kq9/nhwnOCFuPI7s30snZTQrD3DoGkhNz1e4wchNdSjf7eaX0ibsq0688L5R4b3i58FQuttp4klyv5ws9Mlz/i9qhkC7gN2i7Rsump0qSTou2HFD2c8/HCQWrtuy3H6xr+fhP/t+dNz3rMUm7tPHJ2htFCBswJ52Yh0FcpasQOufv+Btf5BXIeRvXXVRw6C8oKftM/Z3KAbpYCCb95LFrGDIrQNWQJ3R4feUHzrQ2wnMAEVHJsRsrrq9hwcZyGFABw37BPuQhQ27zX+SJp6w1mDzZQhzKIXrJFzEsvXEkB/s8yDGULiiC/7p8v3rUIUgiTIbcKf3Q==;3hz55K23HnScZKpilj5fLw=="
+secured: "riqzw6vTZieHcpo9IKtqjUhdKe69Wq7Fja3Bc8sWccE39opti/yRZz/cEpsH5fc4MqqONQKB1C4uyLlW4pWxj6KhyDYGdYig0xdQ+LlhwnKLzzzK0igAEFCvQ6Jxk6t+Uv9SHQ4J9+UN4ALgSaEW8bKOEsFKqqRgPqy6zWMfiQ2M7sGAVVS2e8s2PXnMR7Z+8liSusG+hNFOpAN2InJu3FT469xX9NG7bZDC/OPObdUEdL+sR3cMgD7W9suleSGijT+qkxDO9zSs7kEPl0EwC3srztX2bWxbA5IW4XjKTysQjETzmcNfCeGKQtMb7GSrxwOT3nMlRP6ZNO8EiuTOiVLSgiZ5TYvjTXuj/tVgtGo=;+1ocvkE5h+CuLhkIt5TE9g=="
 ---
 

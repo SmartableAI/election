@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Biden’s China Policy Borrows From Trump and Adds Allies to Raise Pressure"
-excerpt: "The president’s policy will get a test when U.S. Deputy Secretary of State Wendy Sherman travels to China for the first face-to-face meeting of senior officials in more than three months."
-publishedDateTime: 2021-07-22T13:34:00Z
-originalUrl: "https://www.wsj.com/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800?mod=hp_lead_pos4"
-webUrl: "https://www.wsj.com/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800?mod=hp_lead_pos4"
-ampWebUrl: "https://www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
+title: "Biden appoints Khizr Khan, longtime Trump critic, to religious freedom board"
+excerpt: "Gold Star father Khizr Kahn, who has been outspoken in his criticism of former President Trump, has been appointed to the United States Commission on International Religious Freedom."
+publishedDateTime: 2021-07-31T22:45:00Z
+originalUrl: "https://nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/"
+webUrl: "https://nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/"
+ampWebUrl: "https://nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/amp/"
 type: article
-quality: 149
+quality: 147
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-373162/social"
-    width: 1280
-    height: 640
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Khizr-Khan.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -82,6 +78,22 @@ related:
         isCached: true
   - title: "Biden’s China Policy Borrows From Trump and Adds Allies to Raise Pressure"
     excerpt: "The president’s policy will get a test when U.S. Deputy Secretary of State Wendy Sherman travels to China for the first face-to-face meeting of senior officials in more than three months."
+    publishedDateTime: 2021-07-22T13:34:00Z
+    webUrl: "https://www.wsj.com/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800?mod=hp_lead_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-373162/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden’s China Policy Borrows From Trump and Adds Allies to Raise Pressure"
+    excerpt: "The president’s policy will get a test when U.S. Deputy Secretary of State Wendy Sherman travels to China for the first face-to-face meeting of senior officials in more than three months."
     publishedDateTime: 2021-07-22T17:01:00Z
     webUrl: "https://www.wsj.com/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800?mod=hp_lead_pos6"
     ampWebUrl: "https://www.wsj.com/amp/articles/bidens-china-policy-borrows-from-trump-and-adds-allies-to-raise-pressure-11626958800"
@@ -109,22 +121,6 @@ related:
     quality: 147
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/biden-speech-interrupted-185.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden appoints Khizr Khan, longtime Trump critic, to religious freedom board"
-    excerpt: "Gold Star father Khizr Kahn, who has been outspoken in his criticism of former President Trump, has been appointed to the United States Commission on International Religious Freedom."
-    publishedDateTime: 2021-07-31T22:45:00Z
-    webUrl: "https://nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/"
-    ampWebUrl: "https://nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/31/biden-appoints-khizr-khan-longtime-trump-critic-to-religious-freedom-board/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 147
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Khizr-Khan.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -161,6 +157,6 @@ related:
         height: 340
         isCached: true
 
-secured: "TObrPhGtwiYxTFJLhu402T9bWXG5+KcoGVv8l4/6P9EbwBXdHVj/t/nlcXWMXvf2rdp+tWM2rj9jfi4YmOi7AJUUGVye54ZZSqNwI4kh67pKgd1nLWqa9S2dsElnS01cN4FZUUozIfUmsSwR4h3Md1QO4/84PFqcMjbRhaSwDLQpBArxzekBVmVJkx1X+ibzKoc0hyHEJ6OrqcIq+UiKEbT7yywq3iWk1PjUedA8zCNwRq/5yxv2FaqkAaDU2N7n6zLYA1H/+/wP2vZ09g2Zjx2abh/rvUfxGDTts2C/OB9vG9P4J73IJP5cI6281JGJvsUOlKY7NapvS6OpTuV9j1YcMD4TFzO8eJT9Wf5pnkwjfbP5sJAfCObJX+TNAyJwanDJPrYauTh+MpKZKMPk1zWBp1BerpgiGLA0eRR3y0+y81OSTdTE3HC5N2Rxy6+qwDKjKbObaLb2ZV/2MuTydzgxmnZVNw8K9duz7CrhADJPJSiP4xrTZMK63X2cb2l73jW0S0KiogwOrFAyveDeEQ==;TfsnXyPwskpZaWltewyYaw=="
+secured: "KeyWdK5uNWSXVorub5IkQiW1PQ5FqVgJTa25p8TLA7/KqqcIotGkS4FF/NhcdsDpGuzBBEZBcXPtBj6kDMp97Mh9ErLYB1jskejrt6xOhJ++tEQv4vzm/hE6DPiA1PFKaqiL/fGtm7cWZFPCPQGHqUQ9cdG36ryUuxQ8YmbMy77lHBsJESySGyPeNAds3OtwyIsnpl/L9FgKI9RmOAAV+pDBQR0rH62iZdJ3c15gEiH1edxLCrpK6ERFBC35fE0+qYODg40SPbJ8Vwdy/8luNnRWniMNk5ngiq+igbJEKHky9b5bQTsihs8FVDk50QCD/Y12t9z+SolmzGHzZzNLINBbwbgqzI2IXcZ7JM5fuuE=;gTRXRqotQjB4kC+HxiHAHQ=="
 ---
 
