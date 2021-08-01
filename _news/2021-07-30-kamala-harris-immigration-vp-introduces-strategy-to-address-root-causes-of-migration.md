@@ -382,6 +382,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "US Vice President Kamala Harris to visit Vietnam"
+    excerpt: "US Vice President Kamala Harris will Vietnam and Singapore, the White House announced on July 30. The trip aims to \"strengthen relationships and expand economic cooperation with two critical Indo-Pacific partners of the United States,"
+    publishedDateTime: 2021-08-01T04:46:00Z
+    webUrl: "https://vietnam.vnanet.vn/english/us-vice-president-kamala-harris-to-visit-vietnam/493573.html"
+    type: article
+    provider:
+      name: vnanet.vn
+      domain: vnanet.vn
+    quality: 35
   - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
     excerpt: "While many people just hear levity in her laugh, those on the right react with heckles and attacks, a difference that says as much about the divisive state of politics as any debate."
     publishedDateTime: 2021-07-26T00:00:00Z

@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Frustration as Biden, Congress allow eviction ban to expire"
-excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
-publishedDateTime: 2021-07-31T19:07:00Z
-originalUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
-webUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
+excerpt: "Millions of Americans face being forced from their homes with the midnight Saturday expiration of a moratorium on evictions during the pandemic"
+publishedDateTime: 2021-08-01T04:34:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
+webUrl: "https://abcnews.go.com/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OICFDYHRNEI6XANSTNYGDJMC3A.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -315,6 +317,6 @@ related:
         height: 433
         isCached: true
 
-secured: "+DiJ/Diz72h9vjaGi2GYUJwuDU2dQpqbBVXEtPG4s26FgANTEA2IxU7SAD3E859ArcOTrpWDpK6kLSxNiMyRrBimm7Ps12GuxF4FLGg9/e6QBzo1oCTUwTgSoBlP6TZ/AMXqpNoEcuz8H7U7f8aNLvdTHaPuXieC9Vticg3rZ7HzOwsErjJ6xT3iHFDd1d0Bypzotsa4rWCexx1FtY1oQ5Bt4EA1aTmK+HOQRI43l4sFJ1iH9kZxf3TBc2hXKCASBmldV5nFWkBZpcq0gtsjfcH94xkEQz/+nmbrjfcGD2ppQ3/ISUhc17+jb4dcyKd2RIITnt8sFXCmjDFjtyeUDos/rNVIHmahr6pQ8+c4Ovm0ub+/Pd8LCOzJaXlvxryIZGSGlHUggfpSgCpoyhGd3mNeGh9r1f9x+CvQp0f6uOYjWu9mOHSI+Q5EwuEnWu+dJUz/IZLlagsYTLWvOD1+VtEHgrOkTThc3pMlb3HlI4GmUrDeZR7SEUGiGAshwsR2StYG3AP6mzFNpk03G7zIXg==;JwAqjswLPj+h+Om7Gwk2vw=="
+secured: "PyIRV+q2CIY4BHWg5HFsTd5SDKsq+iLb0fh8oiaMl1JxjnB3MijaxB3qQchdruokof5gQenwod2INLXyqBJcPfnocZjiXCCjOmChpCUjWGsFXD7qy7UJgZYKy28eTy7KyunfEBh+C5KHGI9Fse0CMZ71ni1YawXuabyASUHlsXr+JrNT9GdfLnTSdQXteg40j9iSl2SzGJ5hFZ1scIOcXNfev5pTY/VfTD/Tj0kOP7y4CNB+kqy5vNAz9G/SSukOeLdA98x4nFMbToOSVVY8zAbrppiSvFlWabmc5W7pnII8z2C6gEycLMSh+xNYhgBcjFwO26a/QWYxfCHmtPRd3wEaTRYOfbVaoqqNtaQIzGM=;DqrpeioyVEnGN1EasTH9UQ=="
 ---
 

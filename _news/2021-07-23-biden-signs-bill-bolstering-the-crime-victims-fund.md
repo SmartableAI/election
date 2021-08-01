@@ -139,6 +139,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden's infrastructure win overshadowed by new virus surge"
+    excerpt: "Democrats have to put wins on the board going into 2022, and COVID clouds on the horizon make getting infrastructure and reconciliation done all that much more important,” sa"
+    publishedDateTime: 2021-07-31T11:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-lands-win-but-virus-surge-threatens-to-derail-agenda/2021/07/31/c824d8ce-f1b4-11eb-81b2-9b7061a582d8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BLDVNYHQ74I6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
     excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."
     publishedDateTime: 2021-05-29T11:37:00Z

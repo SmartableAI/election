@@ -1,30 +1,22 @@
 ---
 category: news
-title: "CSKT Chairwoman meets with VP Kamala Harris and Secretary Deb Haaland to discuss voting rights"
-excerpt: "The tribal leaders alleged that laws in Montana, South Dakota, North Dakota and Arizona are disenfranchising Native Americans, and they called on Congress to enact a Native American Voting Rights Act."
-publishedDateTime: 2021-07-28T16:42:00Z
-originalUrl: "https://www.greatfallstribune.com/story/news/tribal-news/confederated-salish-and-kootenai-tribes/2021/07/28/cskt-chairwoman-meets-vp-harris-secretary-haaland-voting/5392574001/"
-webUrl: "https://www.greatfallstribune.com/story/news/tribal-news/confederated-salish-and-kootenai-tribes/2021/07/28/cskt-chairwoman-meets-vp-harris-secretary-haaland-voting/5392574001/"
-ampWebUrl: "https://amp.greatfallstribune.com/amp/5392574001"
-cdnAmpWebUrl: "https://amp-greatfallstribune-com.cdn.ampproject.org/c/s/amp.greatfallstribune.com/amp/5392574001"
+title: "US Vice President Kamala Harris to visit Vietnam"
+excerpt: "US Vice President Kamala Harris will Vietnam and Singapore, the White House announced on July 30. The trip aims to \"strengthen relationships and expand economic cooperation with two critical Indo-Pacific partners of the United States,"
+publishedDateTime: 2021-08-01T04:46:00Z
+originalUrl: "https://vietnam.vnanet.vn/english/us-vice-president-kamala-harris-to-visit-vietnam/493573.html"
+webUrl: "https://vietnam.vnanet.vn/english/us-vice-president-kamala-harris-to-visit-vietnam/493573.html"
 type: article
-quality: 63
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Great Falls Tribune
-  domain: greatfallstribune.com
+  name: vnanet.vn
+  domain: vnanet.vn
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/22/PGRF/3cbda6f9-e6d8-4324-9d59-d5d3fb4e5c9f-AP20349600796080.jpg?auto=webp&crop=639,360,x0,y59&format=pjpg&width=1200"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "Where in the World is Kamala Harris? | Opinion"
@@ -198,6 +190,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/02/migrant_children_shelter_14413_c0-218-5243-3276_s1200x700.jpg?24fcb387a333be866f4da9ac9280956ea8a31e67"
         width: 1200
         height: 700
+        isCached: true
+  - title: "CSKT Chairwoman meets with VP Kamala Harris and Secretary Deb Haaland to discuss voting rights"
+    excerpt: "The tribal leaders alleged that laws in Montana, South Dakota, North Dakota and Arizona are disenfranchising Native Americans, and they called on Congress to enact a Native American Voting Rights Act."
+    publishedDateTime: 2021-07-28T16:42:00Z
+    webUrl: "https://www.greatfallstribune.com/story/news/tribal-news/confederated-salish-and-kootenai-tribes/2021/07/28/cskt-chairwoman-meets-vp-harris-secretary-haaland-voting/5392574001/"
+    ampWebUrl: "https://amp.greatfallstribune.com/amp/5392574001"
+    cdnAmpWebUrl: "https://amp-greatfallstribune-com.cdn.ampproject.org/c/s/amp.greatfallstribune.com/amp/5392574001"
+    type: article
+    provider:
+      name: Great Falls Tribune
+      domain: greatfallstribune.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/PGRF/3cbda6f9-e6d8-4324-9d59-d5d3fb4e5c9f-AP20349600796080.jpg?auto=webp&crop=639,360,x0,y59&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Audit finds Border Patrol did not mistreat pregnant migrant, undercutting Kamala Harris’s claims"
     excerpt: "Border Patrol agents did not mistreat a pregnant migrant who began to give birth immediately after being caught, the agency’s inspector general said Friday, shooting down a story that then-Sen. Kamala Harris seized on during the presidential campaign."
@@ -382,15 +390,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "US Vice President Kamala Harris to visit Vietnam"
-    excerpt: "US Vice President Kamala Harris will Vietnam and Singapore, the White House announced on July 30. The trip aims to \"strengthen relationships and expand economic cooperation with two critical Indo-Pacific partners of the United States,"
-    publishedDateTime: 2021-08-01T04:46:00Z
-    webUrl: "https://vietnam.vnanet.vn/english/us-vice-president-kamala-harris-to-visit-vietnam/493573.html"
-    type: article
-    provider:
-      name: vnanet.vn
-      domain: vnanet.vn
-    quality: 35
   - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
     excerpt: "While many people just hear levity in her laugh, those on the right react with heckles and attacks, a difference that says as much about the divisive state of politics as any debate."
     publishedDateTime: 2021-07-26T00:00:00Z
@@ -419,6 +418,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "vBRuINCDSjUgHlNU0jVS6rePr7XLNFBDwsE4zJ/1XNqBCMl8UvSflEEGP253vFzWynfK1DdBb/FOS0x6yOsVwB6m1mCOQrKVVHqS4WV3eKSgX7RtxiJgSc1oSKJmhWmy2DjMmXVP46CxcW2YfZURuWRHo6wXvOWRlynVjgIf7lnCxwzllA8Fety89rj5Yevoo+fpdViWMqP4lnsGxLqlOF00ZfvRIunTqZ5PaTIKrBufjdlJe2lm7lGxzux9LaIpZm2FPZZHYhCJuXvLd4DHXGhJgllys/NQI49tIGNUCvNnhfKyQ6t5RnYoIcOiUYYhGWTXnT0SwK7M1Ljhv9/08c+U7CdiJBUowhoMyUDskbzokc4heYWTGJ4skJI/YcDzWdUM/kNvLkTx9nTZAFBSZdMV9Xc9WVYa0a0bsXLsBfFT95tL1bLifP9NdpQ8ODG8fw7FlBZzGKxgavJ9dEV5yT4pB0dWNhCMIKjJGUZT5Aln/wpNMeLDX4zZCbpxqVz2uGTEpPorznJN5jaRpurVnA==;ktIRIoeJie5KPhOw2tLufQ=="
+secured: "eR1S9p93ZBFDqo4rGd+CQpO+TZf+jIgL1WJLn01chonwDyuNw4m4S2TFnqKrULYsH4A8lC8F9vactw9kr7YFp+LsDCZAxLVJGp/An1jjHTUJz6ALkZ7It/sWxfbOln+Kx/Hj4VowLvHMe6qMHNEJHKLnzyCsiN25F1pCu/Nf9j+Idcd7CFqHmM5ls56VUjQQONy+l5BD8cybBefhYHr/bFrqQJZXWAHumuQPY23CSTlVx8HqNueLeDV5sC4PQLQ0cVchNGsrfNFtty8z9L5+o/3rEUzlPTAdyNhNd2VS7Sh7+obcEQZyMLCMOqIKfuuQoYCLJr2B/YFvPYNRrRZbU9WyFttWiYWZvJbAcNY2IO0=;xCCtePEZKskqfnxLXq7bMQ=="
 ---
 

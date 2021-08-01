@@ -139,6 +139,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Frustration as Biden, Congress allow eviction ban to expire"
+    excerpt: "Millions of Americans face being forced from their homes with the midnight Saturday expiration of a moratorium on evictions during the pandemic"
+    publishedDateTime: 2021-08-01T04:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/frustration-biden-congress-eviction-ban-expire-79196860"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says inflation 'temporary'"
     excerpt: "Top News Biden says inflation 'temporary' Posted . U.S. President Joe Biden on Monday said an increase in prices was expected to be temporary, but his administration understood th"
     publishedDateTime: 2021-07-19T19:13:00Z
@@ -180,20 +196,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f8d52a93-54db-41aa-9e82-af26b57d5357_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Frustration as Biden, Congress allow eviction ban to expire"
-    excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
-    publishedDateTime: 2021-07-31T19:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OICFDYHRNEI6XANSTNYGDJMC3A.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "President Biden says the U.S. combat mission in Iraq will be over by end of 2021"
     excerpt: "President Joe Biden tells Iraqi Prime Minister Mustafa al-Kadhimi that the U.S. military's combat mission in Iraq will be over by the end of the year."

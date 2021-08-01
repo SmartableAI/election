@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
 type: article
 quality: 148
-heat: 508
+heat: 528
 published: true
 
 provider:
@@ -139,6 +139,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1d5e379-0e26-4c8e-a073-e983227456ef_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden's infrastructure win overshadowed by new virus surge"
+    excerpt: "Democrats have to put wins on the board going into 2022, and COVID clouds on the horizon make getting infrastructure and reconciliation done all that much more important,” sa"
+    publishedDateTime: 2021-07-31T11:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-lands-win-but-virus-surge-threatens-to-derail-agenda/2021/07/31/c824d8ce-f1b4-11eb-81b2-9b7061a582d8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BLDVNYHQ74I6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
     excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."

@@ -151,6 +151,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden's infrastructure win overshadowed by new virus surge"
+    excerpt: "Democrats have to put wins on the board going into 2022, and COVID clouds on the horizon make getting infrastructure and reconciliation done all that much more important,” sa"
+    publishedDateTime: 2021-07-31T11:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-lands-win-but-virus-surge-threatens-to-derail-agenda/2021/07/31/c824d8ce-f1b4-11eb-81b2-9b7061a582d8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BLDVNYHQ74I6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
     excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
     publishedDateTime: 2021-07-23T02:15:00Z
