@@ -110,6 +110,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "'Judge Jeanine' on Biden's COVID messaging, defund the police movement"
+    excerpt: "The charity needs to tell the local officials especially if they are COVID positive. And what I'm asking from the Biden administration is to do a pass. Do a pass. (END VIDEO CLIP) PIRRO: When Texas Governor Greg Abbott had enough of Biden's releasing COVID infected illegals into Texas border towns,"
+    publishedDateTime: 2021-08-02T12:38:00Z
+    webUrl: "https://www.foxnews.com/transcript/judge-jeanine-on-bidens-covid-messaging-defund-the-police-movement"
+    ampWebUrl: "https://www.foxnews.com/transcript/judge-jeanine-on-bidens-covid-messaging-defund-the-police-movement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/judge-jeanine-on-bidens-covid-messaging-defund-the-police-movement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61f482a1-6ccc-4e0c-8369-96a5aedb833a/81e94bfb-ca2d-49df-aff6-426577c98636/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Lt. Gov. Patrick torches Biden over border failure, COVID crisis: 'This is insanity'"
     excerpt: "President Biden's border crisis is spiraling out of control while coronavirus cases are spiking throughout the US."
     publishedDateTime: 2021-07-29T19:12:00Z

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
+    excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
+    publishedDateTime: 2021-08-02T12:31:00Z
+    webUrl: "https://www.app.com/story/news/politics/2021/08/01/aoc-points-democrats-biden-letting-eviction-moratorium-expire/5447218001/"
+    ampWebUrl: "https://amp.app.com/amp/5447218001"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5447218001"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/226581c8-4dfb-47e7-b88a-bb4301b3b749-Alexandria_Ocasio-Cortez_14.JPG?auto=webp&crop=1280,720,x0,y23&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden administration extends eviction freeze: What to do if you’re struggling to make payments"
     excerpt: "The Federal Housing Finance Agency (FHFA) and the Federal Housing Administration (FHA) each announced Friday that their coronavirus pandemic-driven eviction moratoria, which protect homeowners and renters from eviction in the event of nonpayment of rent ..."
     publishedDateTime: 2021-07-30T19:47:00Z

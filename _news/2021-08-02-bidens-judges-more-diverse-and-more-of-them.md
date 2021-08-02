@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Biden's judges: More diverse and more of them"
-excerpt: "With no Supreme Court opening to slow them, President Joe Biden and Senate Democrats are putting judges on federal trial and appellate courts at a much faster"
-publishedDateTime: 2021-08-02T11:52:00Z
-originalUrl: "https://www.bgdailynews.com/news/politics/bidens-judges-more-diverse-and-more-of-them/article_b77c8d43-6f83-5075-b36a-5ed6f206dee8.html"
-webUrl: "https://www.bgdailynews.com/news/politics/bidens-judges-more-diverse-and-more-of-them/article_b77c8d43-6f83-5075-b36a-5ed6f206dee8.html"
+title: "Biden’s judges: More diverse and more of them"
+excerpt: "President Joe Biden and Senate Democrats are putting judges on federal trial and appellate courts at a much faster clip than Biden’s recent predecessors"
+publishedDateTime: 2021-08-02T12:35:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/"
+webUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/?amp=1"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Bowling Green Daily News
-  domain: bgdailynews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/6/4b/64b67a7b-1802-56c1-8f1b-e9b6ea40af0e/6107d0bd0ab87.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
-    isCached: true
 
 related:
   - title: "GOP lawmakers request Cuba meeting with Biden"
@@ -333,6 +329,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "RhMiZss5MkkZ4aRUO8AnrcYqz8XgULQYvndavLj/jqWmUyp+flj6tDw2leUimbP0p7ILuWUgDKSjDL2K6zYvfqywTzl7FBjgoRaCepN/GqTXYO6/BHNi2VsR1kbpdXPCZmTkTLEDqMwWsyPAP9xTc/3HzlCtxxXXUxDWBTDZPB4Y2U3KKys72lzECAGJlwQwCh2gjd5H8NsulbRZi0k8TlxR5GgqVifcBx2UMQ+dShlcyqnc1NGV5pfU7MrSGqoPVeN3wsD+DN/h/4hHIuGtEf1moO4Ok8uky11XSr4l/hSO1QwYjMknhJdfeedNI3hwuDEEPCV+3SY8BD4PfSJD8n+Y37kByJg/caMEToyAttc=;XonW1mRQ/+dyZf1HrpQn1A=="
+secured: "bONo/r8CiGIrQkf9RaAYvFd6LgigMnvOOln1RipiipHEd0iIUKmh8cSoE485ivhwHb7FJxEP0o8f54hL1KZdauEXq2j9xNUDBJh2Br2vNd18PHJKRafevywHxbeERJAz7tHAiTpalZcMSLBQnUDmKOQErABNec9KM3xjKdZJ7MkZuzH/4pEeMqI+GwxSMfxAc9K33QLj0wYQjiGzvfn1+JoqV3chJYxghlvYMUN0qrVnf894jfKs6Ic5eFivRxO65jPgz+CUrwd1UEhNu9/a1lQv6WZwEKA97XyPnPMrkt0msZRC3bTARA9/gbailJY1zXSU1RdSOg3j4YHm7jhSdlBMKoMv+cu5D6i9fuErFgCk1QtINqwfnr4jbdkkdiULsW5PiHziwZ0GAl9tcU5eKqQSmXjvM/fZe1I5Rswx/YGCmBKEkNYHRJ4lb7RmgfYHDOn1c3Z93OnVuZn340C3XhPVKZnQzV5GczQ+zDdLHQOQuHgms/UGRx1hPZ1MeUtldIQz57WZPpCPVUrj9y2SAA==;4ZXpBmkhnY5W1L+0VY2zGA=="
 ---
 

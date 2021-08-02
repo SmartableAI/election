@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
 type: article
 quality: 75
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/h6Rm5NBj7Ozf4K1WOjI2vNjcCiU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJD6BCIZURG63GMQBACHLFPMHY.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
+    excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
+    publishedDateTime: 2021-08-02T12:31:00Z
+    webUrl: "https://www.app.com/story/news/politics/2021/08/01/aoc-points-democrats-biden-letting-eviction-moratorium-expire/5447218001/"
+    ampWebUrl: "https://amp.app.com/amp/5447218001"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5447218001"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/226581c8-4dfb-47e7-b88a-bb4301b3b749-Alexandria_Ocasio-Cortez_14.JPG?auto=webp&crop=1280,720,x0,y23&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden administration extends eviction freeze: What to do if you’re struggling to make payments"
     excerpt: "The Federal Housing Finance Agency (FHFA) and the Federal Housing Administration (FHA) each announced Friday that their coronavirus pandemic-driven eviction moratoria, which protect homeowners and renters from eviction in the event of nonpayment of rent ..."

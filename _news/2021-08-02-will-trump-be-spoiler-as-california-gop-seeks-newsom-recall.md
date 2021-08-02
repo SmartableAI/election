@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/eastern-governors-mode
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 558
     isCached: true
 
-secured: "E05qhVxwv7eFhmAc5RHd+skMQ11yaUKItD/ADNfXIeKd5BeyJ9OrDGoiq/fJbbPH5PbZyp5W/unSDk4aEsbajWqWbbIAKlqbch/gWjumHF8JgL72YjaWQbUzM+ypSgJ0LSNLezNNqgH3eDaEYdxNtJXJd0IwdqUQkCCrhZu8eIRTpb8E2+8KPWaz6GoF2zXNrp5buxqhZuq7HaVVANt1M+vQf1MKLW4zx0KghmAzpefEQ5412iA6xSoa2NPAkjNP7PtZ/ETiR6xUSGnb99gdhPC4LNGM5CNxLWwQM9MvU4oUXO46wOaVrh7fDNnN7XNFrqLZVth8YOQQdP4CP5JM/OZsRMNo3kxMozqnq5vqt20=;CemfoBgYGcsm73eC0SMxLw=="
+related:
+  - title: "Will Donald Trump be spoiler as California GOP seeks Gov. Newsom recall?"
+    excerpt: "California could witness a stunning turnabout in a nation of deeply polarized politics if the liberal state dumps Democratic Gov. Gavin Newsom and elects a Republican to fill his job in a"
+    publishedDateTime: 2021-08-02T12:35:00Z
+    webUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
+    ampWebUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 74
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/California_Recall_13549.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
+
+secured: "bleD3mW57turuprFgFk61+dLsvxwHiuMu+O0aqDeLczmFRDz2Uu+6YBfUSzsH/KrdW0z2hz6HvwUGVIaym/a9X86/XrAEd8RIqbZ32CdgjdMIHpk134qrCbiGK6RCygIVIzwhRLG/PCT8mgkJTOIgxhj86CmoY6QPV2LBaRVjObtXF25l2XOudDt0q9eakJOUQg8gAjfvPj3KrxN2TSNsFOwkqGiCACyOMtdgjLhNc9J+i9MdwWK20si0jh/A22IdU11adIYRch0FUxo6q0Q2WuC7LkkuYdVE39ZaQhGCJJqwWIX9yXkgDHcgcaF81XiiTDattYcT1dmZV3X/ivnSDjXhYtjM2sIkGUjoR6NZSvst8zRf6YLeFQtymGw8BncMwuKguiToALaizcU4Eo5VJ2fM85uNM6vVwOrVquEfj3TYd1tkznvJJ5IfOoN6+vVDI8NED/GY86CDAJsaF0W9W0vLjy/b0CPe63WcEk4ys3wllrBeNOZnljXPlooulz5N56225tGTqyodwTBFi5LhQ==;UN2X+z8N8c4jyUYl91/Ytw=="
 ---
 

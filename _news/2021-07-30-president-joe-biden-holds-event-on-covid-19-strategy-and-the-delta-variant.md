@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
 excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
 publishedDateTime: 2021-07-29T22:14:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/679cfe1514f3f7a7855dada268170475/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/679cfe1514f3f7a7855dada268170475/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/fd304c93fcd425e5e17ec320f871b15f/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/fd304c93fcd425e5e17ec320f871b15f/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
 type: article
 quality: 53
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/679cfe1514f3f7a7855dada268170475/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/fd304c93fcd425e5e17ec320f871b15f/BIDEN-VACCINE.jpg"
     width: 650
-    height: 974
+    height: 433
     isCached: true
 
 related:
@@ -207,6 +207,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "DxbEjubSCjT0gpVpjLoSqAmlo+7vj6a2TEuPapTucBK0eoQT6W8ptxnQE7iD7Qsf5vYtHX0PzkngQNxV6bwkxvuwCXIKT21a2im06i8T9OXT71ltPnFypCkkMlSqcM0YDf9/1UxAcw3BvqnNZL04jRiiUfo3ozyBcUisf2yyJ93G2uIfs+WNYk79BwxURTLjUZ8oFzfbvE22o6yDxj2aCxYl1xjCNMEOr1X4qxjhHvWt6ukhb2bA5eYlxvQ9Fs9ARkxnXmRDMMkwwmJp4zJ0TH9oKqa/JXOBADt2o1mECa7F01g3lOe41c1wqaYyND5wZSfVI1DuLCm9K2GmGOrKtMj53NaPjhYmppJdUs5VLOs=;Y20/Xkp7ab17l9VQl7O1dQ=="
+secured: "27vsTxrSAVY1PI1CT7NpSXKCpLQipxdRIPAg4/xOGOFEMg4HjVnIVNAh0GHkHI5ZjdSGYvES1D2cBl4echF8Tz8LPBWUmSN7xUS+qkmERw1s8M6S0f2NZzZu2yh4LPrRIFvD1wCXaUZqZMofY3tlqnxu7rcaE+epCTKZhyTiDN2CMPT0HaULer3Qc1G6rZhEI04DuEPNdky+CWWuPfAGWNm6s2vTZU/abIJxgDqSUFJszZvdHgw7yDBaM+OTBSlrnJn19b2EDkr3xqCJsOOPEpbBornumEsJ6MbsIxBaIo+0UH08Uj9gAZumLnq5sPAx4uJAJinRlToV4tE1fFcKQkjoIhcyGBflWS13782rb5Y=;D5L0FjrKmPvBF95IfCCKZA=="
 ---
 

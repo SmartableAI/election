@@ -251,14 +251,19 @@ related:
         height: 683
         isCached: true
   - title: "President Joe Biden Meets with Cuban-American Leaders"
-    excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
+    excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. President Biden was seated next to Jake Sullivan,"
     publishedDateTime: 2021-07-30T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 35
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/999190775ec599e646b7c0dcbff39dcb/WHITE-HOUSECUBA.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "OTZGNMUCJjGECXrcc4DV6RY1JO5I2qrNXv0JDEOy2fL+NDvAXwV1jvLg3fNg1CUIPA5esZpx1/ujELLfi1VmKCPI1kUhXG+KlZLbPuICTgyveIGurAAKBAbzdnrwvHTaKXRWPi/D+1iTPIHgVKWQVFijQEPbSxfX+rkHwQVfs8Yfh8VusZBeyM/P9b4WC04axHCXI7ztuyIainHD+/cH6UTXhvfq6wTwuP9Gwer6UnBBpdPQHdU3o0/4cKxW14bqeYlQEPSlAUnuAPM/LxPqD2hMQ4gJfz1qDIAFuTyo5NYpqzIelcOZ+eSnCfPGY8Fb73O4ne8ZtABVEZHgbgfcsnr0jWkV2J7IY2l9x0HfV8sxcfy6r78SQIhD3FcPabQy5Gx9Epi+KGo/kVYqP8CePq5C/6FPfoe3SgIG5IYrWQQ2I1SOT+iOvSBiAp8S6TgF1vt4MJ0kYCzW6tloFzrUiPoI/ekKeP0++Lx2c+5uc6LVIpGng7eAnLJcMGHD3wucyVUx/hk0zHxNp1MrUuSIFw==;lJ4YwZDaYBNe01ar2j5l6Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
     quality: 135
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b52f2ee-e833-4cda-ad75-60a7b185cb35/3bad51d7-54b2-4df2-a69b-e7c719eac993/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Judge Jeanine' on Biden's COVID messaging, defund the police movement"
+    excerpt: "The charity needs to tell the local officials especially if they are COVID positive. And what I'm asking from the Biden administration is to do a pass. Do a pass. (END VIDEO CLIP) PIRRO: When Texas Governor Greg Abbott had enough of Biden's releasing COVID infected illegals into Texas border towns,"
+    publishedDateTime: 2021-08-02T12:38:00Z
+    webUrl: "https://www.foxnews.com/transcript/judge-jeanine-on-bidens-covid-messaging-defund-the-police-movement"
+    ampWebUrl: "https://www.foxnews.com/transcript/judge-jeanine-on-bidens-covid-messaging-defund-the-police-movement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/judge-jeanine-on-bidens-covid-messaging-defund-the-police-movement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61f482a1-6ccc-4e0c-8369-96a5aedb833a/81e94bfb-ca2d-49df-aff6-426577c98636/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

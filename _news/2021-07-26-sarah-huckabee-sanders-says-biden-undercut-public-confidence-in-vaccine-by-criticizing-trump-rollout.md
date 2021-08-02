@@ -64,6 +64,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Pushing Federal Judge Nominees Through At Faster Pace Than Trump, Obama"
+    excerpt: "Nan Aron, the outgoing president of the liberal Alliance for Justice, said she was \"pleased with both the pace and high quality of the Biden nominees.\""
+    publishedDateTime: 2021-08-02T13:53:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-pushing-federal-judge-nominees-through-faster-pace-trump-obama-1615229"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-pushing-federal-judge-nominees-through-faster-pace-trump-obama-1615229?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-pushing-federal-judge-nominees-through-faster-pace-trump-obama-1615229?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1859683/joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden will let a Trump-era eviction ban expire in 2 days, jeopardizing the homes of 6 million renters"
     excerpt: "The White House said its hands were tied due to a Supreme Court ruling. Democrats were ramping up pressure for the administration to step in."
     publishedDateTime: 2021-07-29T15:04:00Z

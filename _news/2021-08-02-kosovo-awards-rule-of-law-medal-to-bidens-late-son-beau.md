@@ -321,20 +321,17 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
-  - title: "Biden's judges: More diverse and more of them"
-    excerpt: "With no Supreme Court opening to slow them, President Joe Biden and Senate Democrats are putting judges on federal trial and appellate courts at a much faster"
-    publishedDateTime: 2021-08-02T11:52:00Z
-    webUrl: "https://www.bgdailynews.com/news/politics/bidens-judges-more-diverse-and-more-of-them/article_b77c8d43-6f83-5075-b36a-5ed6f206dee8.html"
+  - title: "Biden’s judges: More diverse and more of them"
+    excerpt: "President Joe Biden and Senate Democrats are putting judges on federal trial and appellate courts at a much faster clip than Biden’s recent predecessors"
+    publishedDateTime: 2021-08-02T12:35:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/?amp=1"
     type: article
     provider:
-      name: Bowling Green Daily News
-      domain: bgdailynews.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/6/4b/64b67a7b-1802-56c1-8f1b-e9b6ea40af0e/6107d0bd0ab87.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "vGOVU/xol/ATCOgXw+Uw+i+BcaUIlHUn98kZLkbhb6rEbk/tQKTzZ1KJDP4vrJ3ReXxtDNHuyDXZEjjuzqOOGibHuyN0X3Xb4KL3/tyjIwdysMOL4QjRIcNn0FVxpGa9KDx9gITbqMj4KSomU7Gpw2vrNA1580lSTYRplDLKNasHU7MZ24KN8KNh0MPzzJ7eLSms44siTxXMAT/03IxcQgSNcJb22EOQsj90M7kXZOINymfgBLX/AlMb3LQFophXAb9p0BvSmg8mANQjzdCWdAr1QCsEOsrM6l9fvCtdgRGj1KipBnB4zWae+4/halxHK53s0t1Zwr46jNUlPMcmeRBNGhvcfDuornL2AHPES3hGN3e7jkVIM9jCESI2ezxGF7arHobWLdP84Q4B5kQxNS/qqiGbzFgqrF7NhQd4j1d7mCeRZnBcIJcO4N7HKM2jNkoASBzqqsL4Gy2yPdIvfSPpXd3t0hDdCN0FUUvHeRx/JpPT6/zvuKcFqmGdQxrXRwPQD4ajMDIrj490hzZi4A==;xD9eArfKvwXJTyULi0ObnQ=="
 ---

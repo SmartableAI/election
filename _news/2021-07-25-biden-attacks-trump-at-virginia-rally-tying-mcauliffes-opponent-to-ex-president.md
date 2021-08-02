@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Pushing Federal Judge Nominees Through At Faster Pace Than Trump, Obama"
+    excerpt: "Nan Aron, the outgoing president of the liberal Alliance for Justice, said she was \"pleased with both the pace and high quality of the Biden nominees.\""
+    publishedDateTime: 2021-08-02T13:53:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-pushing-federal-judge-nominees-through-faster-pace-trump-obama-1615229"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-pushing-federal-judge-nominees-through-faster-pace-trump-obama-1615229?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-pushing-federal-judge-nominees-through-faster-pace-trump-obama-1615229?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1859683/joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Sarah Huckabee Sanders Says Biden 'Undercut Public Confidence' in Vaccine by Criticizing Trump Rollout"
     excerpt: "\"Because of what they heard from politicians and TV 'experts,' many Americans were scared the vaccines were not safe,\" she said in an op-ed."
     publishedDateTime: 2021-07-25T20:47:00Z

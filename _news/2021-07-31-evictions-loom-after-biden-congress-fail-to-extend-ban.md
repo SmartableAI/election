@@ -239,6 +239,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Joe Biden Meets with Cuban-American Leaders"
+    excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. President Biden was seated next to Jake Sullivan,"
+    publishedDateTime: 2021-07-30T22:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/999190775ec599e646b7c0dcbff39dcb/WHITE-HOUSECUBA.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
     excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean,"
     publishedDateTime: 2021-07-27T19:50:00Z
@@ -253,15 +267,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "President Joe Biden Meets with Cuban-American Leaders"
-    excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
-    publishedDateTime: 2021-07-30T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 35
 
 secured: "Ut48SHo8t2ciuAvfoOn1uGhdExNFeh7rHzkE26KhLD7CCzUzVDVYg7tZscgdkUjDEEXV5hJ6XDEku2d1VLExdG0MwvwLWPnDAXizs1v/3oB3KbntGiPFaVGMuHp/l4McXvopbsh2akq0D1fTXr7rhZxs3mzzOxxHehkIppaOIsolOs/p+xS6yO5GWDaeAsNj8l7xoD9ENwDfRW+ffPFvoeCHFOaDhrDUo0O89HDGINvanqXRhW9uZET9tD03F7Pzuf+JcCOJYYf62vp8GX59WfGmNMupt7bEyYlK79zE5PQ6Vh+C4BU24ulqzz23Jvm2X761lfPrFDE7IPTrN8hI+hhepIITyGbjKEAuIt/rc5N0LT8ltVsrxvwo3uoK+paNgdG+Xxx4gUxUqr+dyGAqdHK9Ck27VVPEToDDaKEq+SUJtHfvIeWNdV1WIGboJ7GtjOWJTF1zv9NuhIv8q1wsq+AgFCU5I7GpnZDvIKnXBW43ZPNsDqvRexEnVw2mDBDXt8VZrsxghjg0El13cbXXxg==;M9H6wVaqHl2yUTVi4baGGQ=="
 ---
