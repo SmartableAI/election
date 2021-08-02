@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Melania Trump Stuns In $2K White Dress In Rare Post-White House Appearance"
-excerpt: "Melania Trump looked gorgeous in her white gown when she accompanied her husband, former President Donald Trump, at an event for the Republican National Committee donors."
-publishedDateTime: 2021-04-13T05:42:00Z
-originalUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844"
-webUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844"
-ampWebUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
+title: "Is Trump's grip strong?"
+excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
+publishedDateTime: 2021-08-02T09:37:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
+webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
 type: article
-quality: 73
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
-    width: 1024
-    height: 682
+  - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -63,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Melania Trump Stuns In $2K White Dress In Rare Post-White House Appearance"
+    excerpt: "Melania Trump looked gorgeous in her white gown when she accompanied her husband, former President Donald Trump, at an event for the Republican National Committee donors."
+    publishedDateTime: 2021-04-13T05:42:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald who? Lower-profile Trump still has grip on GOP."
     excerpt: "Has Donald Trump’s time come and gone? After failing to win reelection in 2020 and getting booted from Twitter after the Jan. 6 Capitol insurrection, he seems a shadow of his former self. Even his “Trump”-emblazoned Boeing 757 sits idle and reportedly in disrepair at an airport in upstate New York."
     publishedDateTime: 2021-04-16T19:29:00Z
@@ -74,21 +84,7 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
-  - title: "Is Trump's grip strong?"
-    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
-    publishedDateTime: 2021-08-02T09:37:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
-secured: "lH1PqYbl1t0pkovIqS+WzJNZ24p8nSlu5sXZV6qQpgvMeeGKx1y6Pw2eiIkqkq5TeHuEbYEF2AqZxG4UOKWv8q+JrVjwwOYpVBdVN9aCdd7l1fO+3VOYhEYCMO04Gke6aPSzkA7yqGueyAWKrXGrJ4XDeZbif9YvtgShxDtHsS0A2LFS4WBUcAm/ASbHqeNt31laGzxHAlQzwmaoUxQVA6+e/my2RiJ0wCzMkfIG0sJrQOncpd/+Sd5OMCweYP8Ojmh5JcRFhvK1qWAIjjHuIWT3wgsujvhh/pYJVQUNgSGL5qaIkBMMBvJIB8MjLbM5QeBdDVZnXFhFbc/SW5rl8sW0WwGVRxvuvs8OnE2lSPIeXXH5X85h1Gz1+HpK6mFJW0R+pJDbcSEkIDFoG3YZpjS5ubMiMQorzxoh2jCxgRHhtDxwtPaV4vZOlCczonFxbcJD6aQ0egfiGo7owVMh+MjbF9gxvXO0NQMrIQA5uK/hzt8y5zXAvl7z3Say/5TMfprFRK7qzzyyiITuGG0rJA==;sCAIrDMAstq96oP10v5h6g=="
+secured: "LiQ1dIeBMamUf05mJWFn6pi/7P25mCI+e7Z+WUC5bEpO487nghNp1MwZnCSZi5vAfxdOaDppidJsfPCwfQUCkUeHQI0OriRUcfep8o+VcodSgE6Rm18464vejp+lMangBpIowJpoeI9gcpTEj0tUT5xtPKjJgF2JtQdvKc4dJLDK1VP0QPGkXyAJ0f76sRpIg7DHoLBKmeyr+cIaOEhxP20vjHG5wqjGGGXWzWaN7ZtDUG/RMVpfNMbfJJI+VD/beRrVip6syt0hYMkDSZy5RMDlQyibvBZBDGUfbFx9pnSmfqZIixyON/GSCZvdlOeUaqFvXRiOK5NKwSns/DOCPmfqj7uzlf/U6Dov0muuUEo=;DMU7rNQyhRnzY2j+Ro6SEQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-gui
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/07/31/multimedia/31trump-money/31trump-money-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "2 House Races in Ohio Will Test Democratic Divisions and Trump’s Sway"
+    excerpt: "In the Cleveland area, a bitter primary election is pitting the left against the Democratic establishment. Near Columbus, a Trump-endorsed candidate faces a crowded Republican field."
+    publishedDateTime: 2021-08-02T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/02/us/politics/02ohio-elections1/02ohio-elections1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

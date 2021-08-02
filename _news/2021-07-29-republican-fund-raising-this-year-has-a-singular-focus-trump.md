@@ -224,6 +224,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "2 House Races in Ohio Will Test Democratic Divisions and Trump’s Sway"
+    excerpt: "In the Cleveland area, a bitter primary election is pitting the left against the Democratic establishment. Near Columbus, a Trump-endorsed candidate faces a crowded Republican field."
+    publishedDateTime: 2021-08-02T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/02/us/politics/02ohio-elections1/02ohio-elections1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
     excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
     publishedDateTime: 2021-07-26T18:14:00Z

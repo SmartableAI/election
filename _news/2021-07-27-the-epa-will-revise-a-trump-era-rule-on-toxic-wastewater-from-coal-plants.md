@@ -240,6 +240,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "2 House Races in Ohio Will Test Democratic Divisions and Trump’s Sway"
+    excerpt: "In the Cleveland area, a bitter primary election is pitting the left against the Democratic establishment. Near Columbus, a Trump-endorsed candidate faces a crowded Republican field."
+    publishedDateTime: 2021-08-02T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/02/us/politics/02ohio-elections1/02ohio-elections1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump endorses Ken Paxton over George P. Bush in Texas attorney general race"
     excerpt: "President Donald Trump on Monday threw his support behind sitting Texas Attorney General Ken Paxton, a Republican, who is being challenged in a primary by George P. Bush, the son of former Florida Gov."
     publishedDateTime: 2021-07-27T01:41:00Z

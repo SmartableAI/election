@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pelosi, Democrats call on Biden to extend eviction ban"
+    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
+    publishedDateTime: 2021-08-02T09:22:00Z
+    webUrl: "https://www.timesunion.com/news/article/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Congress, President Biden allow eviction moratorium to expire as COVID-19 cases, anger surge"
     excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic."
     publishedDateTime: 2021-08-01T22:41:00Z
@@ -169,20 +185,17 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Pelosi, Democrats call on Biden to extend eviction ban"
-    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to"
-    publishedDateTime: 2021-08-02T04:19:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/pelosi-democrats-call-on-biden-to-extend-eviction-ban/article_31e7b095-6423-5345-b57b-e1e19372ecd0.html"
+  - title: "Evictions looming, Biden fails to get Congress to extend ban"
+    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
+    publishedDateTime: 2021-08-02T09:43:00Z
+    webUrl: "https://www.sacbee.com/news/article253153568.html"
+    ampWebUrl: "https://amp.sacbee.com/news/article253153568.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253153568.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/57/1575eeec-2a28-5468-9ba5-09ce681f2ac1/61045acde2d63.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
     publishedDateTime: 2021-07-30T23:01:00Z
@@ -211,15 +224,6 @@ related:
         width: 948
         height: 711
         isCached: true
-  - title: "Evictions looming, Biden fails to get Congress to extend ban"
-    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
-    publishedDateTime: 2021-08-01T17:46:00Z
-    webUrl: "https://www.ledger-enquirer.com/news/article253153568.html"
-    type: article
-    provider:
-      name: Ledger-Enquirer
-      domain: ledger-enquirer.com
-    quality: 35
   - title: "Frustration as Biden, Congress allow eviction ban to expire"
     excerpt: "The rare division between President Biden and congressional Democrats carried potential lasting political ramifications."
     publishedDateTime: 2021-08-01T17:20:00Z

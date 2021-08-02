@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Pelosi bars two Trump allies from the committee investigating the Jan. 6 riot."
-excerpt: "Ms. Pelosi, who had never before rejected a Republican nominee to a committee, called her move to oust Representatives Jim Banks and Jim Jordan “unprecedented” but necessary."
-publishedDateTime: 2021-07-21T13:31:00Z
-originalUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure"
-webUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure"
-ampWebUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
+title: "2 House Races in Ohio Will Test Democratic Divisions and Trump’s Sway"
+excerpt: "In the Cleveland area, a bitter primary election is pitting the left against the Democratic establishment. Near Columbus, a Trump-endorsed candidate faces a crowded Republican field."
+publishedDateTime: 2021-08-02T09:00:00Z
+originalUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.html"
+webUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.html"
+ampWebUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
 type: article
-quality: 131
+quality: 135
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/07/21/us/politics/21political-briefing-promo3/21political-briefing-promo3-videoSixteenByNine3000.jpg"
-    width: 3000
-    height: 1688
+  - url: "https://static01.nyt.com/images/2021/08/02/us/politics/02ohio-elections1/02ohio-elections1-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -240,22 +240,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "2 House Races in Ohio Will Test Democratic Divisions and Trump’s Sway"
-    excerpt: "In the Cleveland area, a bitter primary election is pitting the left against the Democratic establishment. Near Columbus, a Trump-endorsed candidate faces a crowded Republican field."
-    publishedDateTime: 2021-08-02T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/politics/ohio-house-elections.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/08/02/us/politics/02ohio-elections1/02ohio-elections1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "The E.P.A. will revise a Trump-era rule on toxic wastewater from coal plants."
     excerpt: "The agency said the changes will prevent lead, selenium and other toxic pollutants from contaminating waterways."
     publishedDateTime: 2021-07-26T18:14:00Z
@@ -287,6 +271,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494268/210726-ken-paxton-donald-trump-2020-ac-912p.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Pelosi bars two Trump allies from the committee investigating the Jan. 6 riot."
+    excerpt: "Ms. Pelosi, who had never before rejected a Republican nominee to a committee, called her move to oust Representatives Jim Banks and Jim Jordan “unprecedented” but necessary."
+    publishedDateTime: 2021-07-21T13:31:00Z
+    webUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure"
+    ampWebUrl: "https://www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/07/21/us/politics-biden-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/21/us/politics/21political-briefing-promo3/21political-briefing-promo3-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1688
         isCached: true
   - title: "Thomas Barrack, Trump's inaugural committee chair, arrested on federal charges"
     excerpt: "The charges are not connected to the former president's 2017 inaugural fund, according to law enforcement officials."
@@ -321,6 +321,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "dJrjAuxhZtYzU7puA++lXVUHvNJ36fJSJpXPoRP/HAFgmi+zpjrCDS/kQhS24sn6Ymg07B2aBUFE/Wn3wJXkUPp+3Fr3Qf5NqDY/ryIXjtXUrtJMptbkabyMpolOhJilItZc1Ab8AeZmLJ0VsPhBWbSFbNQOco3Mz/1OxSf+2DCOdgi+lGt+BEe+jSGIOPo7aRg/7B864KUemY8e9PTBIWJrLCjz10umN0/SSnm+Mm+6ibDHDZxJ1uStPBXamgcBnIROBrwVRwg3InHotRnyZ3ei/y2rgGz8Xm8z9S84PyqS07QTp8IFm6TUhw+gMf443wZb0sjwi4capXlAd9mb4f+/CF2tGTPgKp6UR8qbft2QCAuMS48Q8CezA0rEZ3GR7J8c7Fp8hbGlxbHQ42wKxlMCm5EBHIeTb+tHkaVg1iASJG+0IJqX/KOF9cUd6ueo5rU+QV6Pq1YrkH77v53M0m9omBASg3QM7cSvGtAcvBc6fU07v80acIQASnkGsj+jJBOU/PlQJSnnTyDivT6vIw==;ozhJIENV51QwLra6cLkcdA=="
+secured: "SHkg/+zOGB5ehWAQF72TjxdVqnXxcYlw1pQCJnNfNctsJ/vK8xxu3Ts+soKYgs3OLkGY6++D30zMk/Wvkql/+Y0pk3uvKi9kUgTtKRkxfHIUqfExAAjddMg5wsM8TPDjiSZVOrYlHvTdt7EBxcL3zeEvrKZq48w3tGWBV2guRoGaLUiCkLrSO+ugdmregYVWmp1OJwRgu0Fl35UJPeINgaJizsq+E7KnF9Dk4tM5OZoGZeCrC/g1wn0Mq39t3iIFAAIfekuyWMDpTRrhEYEGzv70Ae6Jc2FSnOqFpg3YSCwgUTA2rMKIe0Yle3P7ZQ/MOayPE/h0tKujGd5Y/fqNcvQ9Y/Yw854Ahy1C5KahGeo=;fKrZhS3lmR1amlGOzB5nlA=="
 ---
 

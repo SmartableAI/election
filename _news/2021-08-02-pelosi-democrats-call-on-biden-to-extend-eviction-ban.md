@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Pelosi, Democrats call on Biden to extend eviction ban"
-excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to"
-publishedDateTime: 2021-08-02T04:19:00Z
-originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/pelosi-democrats-call-on-biden-to-extend-eviction-ban/article_31e7b095-6423-5345-b57b-e1e19372ecd0.html"
-webUrl: "https://www.stltoday.com/news/national/govt-and-politics/pelosi-democrats-call-on-biden-to-extend-eviction-ban/article_31e7b095-6423-5345-b57b-e1e19372ecd0.html"
+excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
+publishedDateTime: 2021-08-02T09:22:00Z
+originalUrl: "https://www.timesunion.com/news/article/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
+webUrl: "https://www.timesunion.com/news/article/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/57/1575eeec-2a28-5468-9ba5-09ce681f2ac1/61045acde2d63.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -183,6 +185,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Evictions looming, Biden fails to get Congress to extend ban"
+    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
+    publishedDateTime: 2021-08-02T09:43:00Z
+    webUrl: "https://www.sacbee.com/news/article253153568.html"
+    ampWebUrl: "https://amp.sacbee.com/news/article253153568.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253153568.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 55
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
     publishedDateTime: 2021-07-30T23:01:00Z
@@ -211,15 +224,6 @@ related:
         width: 948
         height: 711
         isCached: true
-  - title: "Evictions looming, Biden fails to get Congress to extend ban"
-    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
-    publishedDateTime: 2021-08-01T17:46:00Z
-    webUrl: "https://www.ledger-enquirer.com/news/article253153568.html"
-    type: article
-    provider:
-      name: Ledger-Enquirer
-      domain: ledger-enquirer.com
-    quality: 35
   - title: "Frustration as Biden, Congress allow eviction ban to expire"
     excerpt: "The rare division between President Biden and congressional Democrats carried potential lasting political ramifications."
     publishedDateTime: 2021-08-01T17:20:00Z
@@ -239,6 +243,6 @@ related:
       domain: masslive.com
     quality: 34
 
-secured: "p+TyA46eYcWgUZ6yX17aOzsjhSujaKSeD0JJBKXt+UJcLoP0gDp8l6fc9R9jPVt6jixu3ZgGS8Ivq9rlgPPl9QCWnFVhMP8JJi/RWhOUeP2ovZKuGDTFriOBk7bNpedGlyxDqegLWnR7op5iXN6k3GCBZMBDuj1L+XXUEjexXbHtkI7bPyNCl81mO3XbU5/VZZV4L00P7V+2keLhmorkYeECfbhBql/yMfHXA6f2DKUWwplMxozGyl1koVT2IbDbQxscKzmKiu9RofvjDMKY/U4RDzRl7ZMAV81x26mtvmsL14Q2Q3DRejZDze0vwouEnShIeeIjj6dNTCMAHRD2ve3G/bhIayKVCIuaZW6NBh8=;MgzEOaDzyMRj7i0H+5yATw=="
+secured: "cS7UAe5tb5hTy3+56Qo3RlsbLMIAUmY8e/9BEd78zYX8EDO+oxsYaZsfLEwZy3Qwk++Eua2L+ra8lc3wZ5NTJzXsWdsdkE8EWOlV+3UjFc33fBBvKhTYjIPWs1675L8rzjefVOeTTMO56EsdpbSi/52P645nPE6OXaHQKbzYl2660zj00EzlrQgtjQLrzJdihaouhMIDoHQr4rCXbenuLTPGPEOyVk2CaIOuPeUq9z1FKsK3w0KuNAGf+NlIF3ckh7fKMQYZBg5uISpr3OluJSD24DkSMGa9pQMtMaKLEN3B7EqSDcXFDcui1u/SBuqC7U45qzxQ1ldvxj2jfrvHYRG3btByCtc4aqhLI2N8cyc=;74yiw30XZnnsfcP1/AUb7Q=="
 ---
 

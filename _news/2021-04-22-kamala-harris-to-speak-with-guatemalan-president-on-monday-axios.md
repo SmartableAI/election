@@ -1607,20 +1607,6 @@ related:
         width: 415
         height: 384
         isCached: true
-  - title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
-    excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
-    publishedDateTime: 2021-07-30T15:15:00Z
-    webUrl: "https://www.mitchellrepublic.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
-    type: article
-    provider:
-      name: Mitchell Daily Republic
-      domain: mitchellrepublic.com
-    quality: 52
-    images:
-      - url: "https://www.fccnn.com/incoming/7133742-bgagzb-U.S.-President-Biden-and-Vice-President-Harris-meet-on-infrastructure-with-a-bipartisan-group-of-governors-and-mayors-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Biden%20and%20Vice%20President%20Harris%20meet%20on%20infrastructure%20with%20a%20bipartisan%20group%20of%20governors%20and%20mayors%20at%20the%20White%20House%20in%20Washington"
-        width: 1140
-        height: 712
-        isCached: true
   - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Charlotte Observer"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
     publishedDateTime: 2021-04-28T19:28:00Z
@@ -1650,6 +1636,20 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 50
+  - title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
+    excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
+    publishedDateTime: 2021-07-30T15:15:00Z
+    webUrl: "https://www.grandforksherald.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+    type: article
+    provider:
+      name: Grand Forks Herald
+      domain: grandforksherald.com
+    quality: 42
+    images:
+      - url: "https://www.fccnn.com/incoming/7133742-bgagzb-U.S.-President-Biden-and-Vice-President-Harris-meet-on-infrastructure-with-a-bipartisan-group-of-governors-and-mayors-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Biden%20and%20Vice%20President%20Harris%20meet%20on%20infrastructure%20with%20a%20bipartisan%20group%20of%20governors%20and%20mayors%20at%20the%20White%20House%20in%20Washington"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "Vice President Harris Holds Roundtable on Northern Triangle"
     excerpt: "T10:00:00-04:00  Vice President Harris hosts a roundtable meeting with foundation leaders on the Northern Triangle (El"
     publishedDateTime: 2021-04-22T11:47:00Z

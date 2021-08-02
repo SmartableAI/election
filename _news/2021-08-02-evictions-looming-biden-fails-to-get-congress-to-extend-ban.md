@@ -2,17 +2,19 @@
 category: news
 title: "Evictions looming, Biden fails to get Congress to extend ban"
 excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
-publishedDateTime: 2021-08-01T17:46:00Z
-originalUrl: "https://www.ledger-enquirer.com/news/article253153568.html"
-webUrl: "https://www.ledger-enquirer.com/news/article253153568.html"
+publishedDateTime: 2021-08-02T09:43:00Z
+originalUrl: "https://www.sacbee.com/news/article253153568.html"
+webUrl: "https://www.sacbee.com/news/article253153568.html"
+ampWebUrl: "https://amp.sacbee.com/news/article253153568.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253153568.html"
 type: article
-quality: 35
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Ledger-Enquirer
-  domain: ledger-enquirer.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -129,6 +131,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pelosi, Democrats call on Biden to extend eviction ban"
+    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
+    publishedDateTime: 2021-08-02T09:22:00Z
+    webUrl: "https://www.timesunion.com/news/article/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z
@@ -177,20 +195,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Pelosi, Democrats call on Biden to extend eviction ban"
-    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to"
-    publishedDateTime: 2021-08-02T04:19:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/pelosi-democrats-call-on-biden-to-extend-eviction-ban/article_31e7b095-6423-5345-b57b-e1e19372ecd0.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/57/1575eeec-2a28-5468-9ba5-09ce681f2ac1/61045acde2d63.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
     publishedDateTime: 2021-07-30T23:01:00Z
@@ -238,6 +242,6 @@ related:
       domain: masslive.com
     quality: 34
 
-secured: "wqVDC82eQexwnL7TcCq0fwSnZ+V/mF8BJWZ2RhdK2iqCn9PKii7EWEXatWsHxU4w21jXLR/3qqID0rLbouUwmGw+1YRLprjaIIhpkVg9t7Hu6/44ka18CQFzczvL9KTObZKZMxwik9FO9JaNuBQvYbF9J2BjK/3QsiCp6m+7+MQrNaRSyCrs04f891rKJMjhedhr2JFB/I89kLaKlxRVtghJvxM1Bblx3Jtb4EUHwzSVJ5ypwlbYtqMMovMxLF3ejnBNSQlLy8VOranbEwzJM7s5e9amRxi4b5cj39ISZadM3DMTkH9qXmhPod0Lb+BtrwgYESOBzswWb4yVvN3wr0WDff7tZeNfXVKyyauBVRE=;OBrpydatNKDnxj7ZwWBr0Q=="
+secured: "nr0bdZ4DkuYk+UHTfHZpjPGRic6QfvYkZIgriue/3SasZzlbmjXtdFLhD9uFcGyDMqWtlHt08Yf/fY3FS48PGCVwVop02fzOkeonbQV14vyYkYiqr2ndhysrLB5/b+bVRSKw9OgdiARduot9ml8/iCIx4ekdSCzv55WVO1mP0vrsjW1tnbg7e0MSYXwLyqfjBjbZ8CQzhoqIFB3cl78ljyYDVUpzR7ukIUQ77hLk6XQgAM00DsrvrleYpOORlremkL2lWTGE12ASzUJe1hs9BUvwxysuO7iURG+qlRTIlnNJKbdzD0YfMPDXlyCziaurX0Ya9uIXaom5bNdfhv/mMg36lb7pcxxGU45XrFJFhCS0XcwQB5VAOisCDjaUF1oS2x8DQnTMp5m323Sfq/2fhbV+YWJ2uIOYbcZrzJpWjHoD24g4ApPskLvidUT5xsyx07MQc6bmZT6gpTqfFL7NEbRX9WvIzYxqm4w0AyJ/SzihyjvQFqY/vDzUSaCbxk0CBw4BhhskBz0wPiyVR+zzgg==;RxM2b/jOVdOAw2S+t9iTbA=="
 ---
 

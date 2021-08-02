@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-st
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "Is Trump's grip strong?"
+    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
+    publishedDateTime: 2021-08-02T09:37:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "Wzw5+kGG8t+rQFuxekGFamWqgAEPR6yYeLfduYV/N7G+fbWEzAp5f+BdPBX+/8HaIHXbP0SVs6e34k0+NOZcXeXbwgJB0Ydd++MrmONbVPQivsm24ofDJqn5/DP4ZgPQPvk38n/a6bAM/oPEtDDZ2rYsMJAojF4vwS0oakssry23waQA+PIkC3GOcG67K7mL3+WjTyU8QRk5o17M3f+0uWr/cO1hQcBmk8HdaXiCCq4Hl58aUCxRzGdrULI/520MDxkZVCyf0ZwkFBi0LoL+s8SQK5ZnkmcJEnk+mgjLtmzA7GsCAU1iT70G5JorL8tM9W4Als/0lvv3sevrsqKRl4eOqpwKSP7xYAXSfxr6BeS/5bCFjbM7EQOjmgD0qyimKfWy3sxCx0cnD5LFfFA1OnssAbU8w9/qabv/Xk1Cvz+Dt+m7ZntBIiHpwfcfm69fWrNObAhE2dHGT0PSFx66A1mYEWCYOZIRxtgX7qX0Xw3MlszmPE5IKgVbfmT+XAu1+E4T57WSkECsOge92ee+jQ==;rEuamx29TEwyV/XDEo8N8Q=="
 ---
