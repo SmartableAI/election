@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Joe Biden’s infrastructure win overshadowed by new virus surge"
-excerpt: "That surge imperils the nation's economic recovery and threatens his central promise to lead the U.S. out of the pandemic."
-publishedDateTime: 2021-07-31T14:14:00Z
-originalUrl: "https://bangordailynews.com/2021/07/31/national-politics/joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
-webUrl: "https://bangordailynews.com/2021/07/31/national-politics/joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
+excerpt: "Joe Biden wagered his campaign and now his presidency on the premise that government itself could still work, even at a time of fractious political"
+publishedDateTime: 2021-07-31T15:21:00Z
+originalUrl: "https://floridapolitics.com/archives/445016-joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
+webUrl: "https://floridapolitics.com/archives/445016-joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: Florida Politics
+  domain: floridapolitics.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-6.jpg"
-    width: 1024
-    height: 683
+  - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden-3.jpeg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -295,6 +295,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "OyxpSdtMn3EjW0/TrarWa+0EMXLz8GSTF6BPUg2T9IkTr+1rsNvQqYVOnLJYU3BMp7dIJEFWtzVdVKPYLKWIQtWgX7TnoyfgiAAsuIyY82Soc09dmawjD5D18mTQxoTIYz+CmQXGkUKn2cnoSIrlszPiBUfSknGMJiPlIhgaE9gihSn7JhNua6ZBpVPnd9ikLpVDY4Mf1Nv8X4U5XJDyULQqHgHVoVDiqciNlA4r6uO4iIHbFd13/MOOIifc3Egx0sOxjGlACRl7P8updKHvLp9Ax6BYbVz9Nccd9ezZWaM4JNps7BZd8N/X4MayD54tKDe7L4L6K+7NcBfPhQf4dBw1FLYW9NLdecU77QSdqRM=;4spqyHpN1YTTmwbEUl3JgA=="
+secured: "hvTPMv2PG5lC5rLucnZ2z4KAx32rwRsZVgp34Dm+LzYBN3OXoZMydxQDN5Obut5yDWTGwKzxVFaC9dLaD9yKrG6Hb7Yu418ADJX+lNO1GDYqst0ukd1EefSSkhvVr0gRB3OM7mARkMhFNEDNPFUzxuy6gRQJm5bRMpxUQXUvFgZpllt1oG9dKKpCCvkC41i0eXErbqM3YkcyWWja+3bs3Hp9kUIF6n5uPFgQrGnisOe4vJHxuapSy35rR8BQc+qlkmcnwWXHw/arVDrAHlUmf64Vla1oL+8TgRclEgT6eJ2IYGXtOevReKoa4inBl7bH1MhrD+wa7re6j6kbV8kyQLNP3p95w33PyOnaPQGqbTY=;+zJjkiDLnucqbLg+6VrJ5A=="
 ---
 

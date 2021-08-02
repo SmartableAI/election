@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-twee
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/"
 type: article
 quality: 128
-heat: 168
+heat: 148
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York Times silent after star reporter equates Trump supporters to 'enemies of the state'"
-    excerpt: "The New York Times has been radio silent as one of its star journalists suggested that Trump supporters should be designated as \"enemies of the state\" amid what she described were ongoing \"national security threats."
-    publishedDateTime: 2021-07-29T01:08:00Z
-    webUrl: "https://www.foxnews.com/media/new-york-times-silent-katie-benner-trump-supporters-enemies-of-the-state"
-    ampWebUrl: "https://www.foxnews.com/media/new-york-times-silent-katie-benner-trump-supporters-enemies-of-the-state.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-silent-katie-benner-trump-supporters-enemies-of-the-state.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/076d9712-b931-4e3e-bd74-4354ed0cf41c/3787910a-a465-4dd1-aebb-c12aaf894483/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "JD Vance rips NYT reporter's tweet about Trump voters: ‘Are me and my family domestic terrorists?’"
     excerpt: "Ohio Senate candidate J.D. Vance ripped into The New York Times’ Katie Benner on Wednesday after the reporter suggested in a tweet that Trump supporters should be considered 'enemies of the state' following the first day of testimony at the Jan."
     publishedDateTime: 2021-07-28T18:58:00Z

@@ -32,35 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "New York Times reporter deletes tweet calling Trump supporters ‘enemies of the state’"
-    excerpt: "A New York Times reporter deleted a tweet that called supporters of former President Trump “enemies of the state,” following a viral blowback online."
-    publishedDateTime: 2021-07-28T05:49:00Z
-    webUrl: "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/"
-    ampWebUrl: "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 128
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/katie-benner-index-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "JD Vance rips NYT reporter's tweet about Trump voters: ‘Are me and my family domestic terrorists?’"
-    excerpt: "Ohio Senate candidate J.D. Vance ripped into The New York Times’ Katie Benner on Wednesday after the reporter suggested in a tweet that Trump supporters should be considered 'enemies of the state' following the first day of testimony at the Jan."
-    publishedDateTime: 2021-07-28T18:58:00Z
-    webUrl: "https://www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet"
-    ampWebUrl: "https://www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet.amp"
+  - title: "CNN's Brian Stelter compares Donald Trump supporters to Jonestown cult members"
+    excerpt: "CNN anchor Brian Stelter used his Sunday show \"Reliable Sources\" to feature a segment comparing Donald Trump supporters to Jonestown cult members. Stelter spoke with Rep. Jackie Speier, D-Calif., to help explain the similarities between Trump supporters and Jonestown cultists."
+    publishedDateTime: 2021-08-01T21:57:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 121
+    quality: 131
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98734d9c-03bd-4266-a20b-d1e0ee3ed71b/ca1baf02-9b4b-4991-b193-43f2c03cd2ff/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33702a68-88a4-4cc6-9da8-7375bb1e813d/d32ddc55-20b0-4c79-80d2-5645d00de2e6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

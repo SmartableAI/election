@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://thumb.spokesman.com/-GksgUpS9z5qft0dpCDmrHLR40g=/480x0/media.spokesman.com/photos/2021/07/30/61043de35e668.hires.jpg"
         width: 480
         height: 346
+        isCached: true
+  - title: "Pelosi, Democrats call on Biden to extend eviction ban"
+    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders on Sunday called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
+    publishedDateTime: 2021-08-02T01:54:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."

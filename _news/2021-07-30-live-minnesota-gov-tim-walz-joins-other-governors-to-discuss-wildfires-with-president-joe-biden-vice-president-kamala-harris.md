@@ -3,19 +3,20 @@ category: news
 title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
 excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
 publishedDateTime: 2021-07-30T15:15:00Z
-originalUrl: "https://www.grandforksherald.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
-webUrl: "https://www.grandforksherald.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+originalUrl: "https://www.brainerddispatch.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+webUrl: "https://www.brainerddispatch.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
 type: article
-quality: 42
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Grand Forks Herald
-  domain: grandforksherald.com
+  name: Brainerd Dispatch
+  domain: brainerddispatch.com
 
 topics:
   - Election
+  - Joe Biden
   - Kamala Harris
 
 images:
@@ -1666,6 +1667,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "zplBUcCn80hfdNGxLp/AqSc7sLPF1QCBLNDW97OECvaSGeNFGwwYm4uE0XfevfC8IcICBj9ydxj6h5THrqzuWe8l9y31VOia9KA8wBffoA6bexpJ9aWXsIbXGaG5xPPT8xHGWrXzwYjx6LR3uVXgpVMJFDSvIwLXUhe1xSTMcd4KofR0KLQnXT3Qwf64MX1AmmVMf6HnupCiCe+JM4tUe95G1wDKx7L/fTa7P1sjqKsYvnkKFUPYWSMtStBsm1spa73/r/00//kaqFbcVkkll1hR74xpQVpiMWTK1bsy0HNnAhjAs/lns3Fa6fNrfQhaaxZHt0FN1S99pGJaMmistg/Kg7UO5CTlnmZQ4v7x+iw=;e3L43wzmfybWx0IZlvpiDA=="
+secured: "20qWOLlH3JhkatQrcWLIV26FOEQZk8EzN8AoEqt4MMvtwHr75lPz1fcJqIFZkiLu5jcwiZ+Po0x+0r1ED8J66fflmm7maw0Qd8EKswoTbgq2oQXDKtnG4OBY52fxmUrpnpkvDh8mo+2oM+6t/YCJjvlFP7nDvGta9G6eRw41T2715GjbDMI9dz58MS5zb7Xq8jMra+rd0OUPuEmqPAbsPKEiQVzigFLYUvdNjFaUTH4xTmP7oOV9JioF8d96Nj7LJx7AHbWxgyuNUtLxU8Mlcp6fPEP6hjLGjdp2LV//m9MSpLnM9ks6Dlq5LuvB9DwIRTMMkQjUxhip52bKeNOBL2Dbs2Tn54/a98Fc7sEOMEY=;vZrFUZQiDvvzckPOwA78vQ=="
 ---
 

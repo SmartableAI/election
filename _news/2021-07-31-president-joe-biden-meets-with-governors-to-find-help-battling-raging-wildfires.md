@@ -119,6 +119,22 @@ related:
         width: 480
         height: 346
         isCached: true
+  - title: "Pelosi, Democrats call on Biden to extend eviction ban"
+    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders on Sunday called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
+    publishedDateTime: 2021-08-02T01:54:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z
@@ -195,6 +211,6 @@ related:
       domain: masslive.com
     quality: 34
 
-secured: "dQGysYkhRUu1qbSNBjp07UDoyHr0cvoce8GF4Siu9pGnTQ3IY19z8T6BJLZAGpRB755syw6VfQTU26FVniLj1NQ3djfHQwJDAA2IYUBMHtj5al62RqXZe3D56gC6K7NzlxwcaFEfXVBNNqopevdgvg+T6AEts9Hw5l1km2jnajYMDIUh1wTTy/GjEIKaESu4eI8XTLe+zxhLltnsgGedGwUyJxemh4Apf65yVYH4oWvySvgCQo/dJDuXD1Vx0QqOZyKtLGB7o2SvHc0u/kBtfocFQijwhS50CadFQOlsYDnwAM9vssHopMQ3RAf4zJpGeXEfOmXOWPr1wRoBVg+lQbOlU3LXwd3YVwoQGwn+B3Y=;1h+2i+CqoHgPvrjLCzXeCQ=="
+secured: "IW14Jz8p4+XLXMDr11IZZbhKkQXQOfSiBmavu1E5PIGnbozPS4qG8bspQitT3KHoY1/gtkXuZrSbW2Ou6xiwyRRQ2KiGHhuZIfxVv3CgOrETINzhp5+f4JqmkbXRhYdfsJoSd8M/lXg6BmMNYZXHFWgo6yKgeN6yggDiDUesHx4o+yMMLBJjLr43/p0rZTa9dnPI1YNEB6zgHM+mZeaPoJU669hMzZBHDeCv7KcwTudppfalAnwxwlttpkkSqq4i1Ph6+MrAGjEuL9+ApKEVC4wvdRFyJBCJCIPSeHQBuFkdfbNszJ7Jov2aZfiYPbZvxBFm2BW9Vs3idU2rRGjDdpqWq2LlES2XeUaGcyco/uEUzzvjs3x0ta9v58eJPS+noRGBUjexvxa52tYN3Ixx5r8l+RIBJQlr+JNjVOA+W7EsgoeZCwRBczAuCmbdz0p1jIqlPBG4vdpoHqvQ4gHDFoI3WYteruDqobUQ4L6LwHLy4cb5Jho6S3YIyA1wWU8vp8HYUcWQCPtk/BRzkyVWow==;YAcY0CijebZWx9CzfK4A/A=="
 ---
 

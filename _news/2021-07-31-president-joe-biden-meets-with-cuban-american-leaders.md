@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Meets with Cuban-American Leaders"
-excerpt: "Jake Sullivan, Assistant to the President and National Security Advisor, listens as President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington,"
+excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. President Biden was seated next to Jake Sullivan,"
 publishedDateTime: 2021-07-30T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4a35cafcbc748b2ca260991578ee8fbc/WHITE-HOUSECUBA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/999190775ec599e646b7c0dcbff39dcb/WHITE-HOUSECUBA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -320,6 +320,6 @@ related:
       domain: spokesman.com
     quality: 35
 
-secured: "Fo/jZV7fn0Ht0H0wVNa344BexKKXuCC3Rl/lSOiuYSYUReOJrIrS/psIOSZM4MaUXjLNlZ6nh5FdOFwEB30a/jLwaylWwxf4X/cFGO0URXJZl4f9xkbwDBfp6h+R8CC/Z8Hg95IorU0EWTXa1q7otwRhUK4dTfIpfm+MeMyg978MiYUfnI7MPLnQGgOaVLUi919F7N2a8144bUqf0LeLFADEqZZOXUSjuivMZ5bbvmWSNLRpe3xjianQ6sCriMWJ1qvrwy9USyO5PzYXqCTtWRXuS+7OH0Y8odGR4otfRvOV2lz1wHmapaQ/+oaBI3iu8rtG1VF4lT4wk9WPpNRWbNA9xPLb//bBnG+q74ohFFY=;N9VAYD4zareJUcQJhNvt0A=="
+secured: "f0DDMZC6nlaHEsBRZqkK2ph8lJR8oUiq14zwbU2ZfObi4qQMqfYNFMxQyDNetAFN/Qt6Yu52mfP8tsP0T/bZBapZ28H1fB1BDRWH82ko39sAahk3cY00uHPnfiBsXVS+93XJvq67BI6GQ6JYGmh5ntYBJ0JButFbnL0l2D3PPIbam5Kolxisu0EFnnmCIU0Hlywa2KyFp0pRLBCCMe74IepOqP5Zp/tsITSyniCnme5VJNDyCKPM12Gfqqp/9p4wXvPnWvYUMJE2c6g2biExJqFcmU0LRtTB88+ym7cp3iL90KrF8Fd5DGpBZHF08Wdk1HjmNVfUzV6QnHFJAXLGmLvWd+lcYrxMhrlS2kWHxDo=;UVdYmg0v72yBCHRIxRonHQ=="
 ---
 

@@ -46,7 +46,7 @@ related:
   - title: "Donald Trump raises a $100m war chest"
     excerpt: "Donald Trump entered July with a war chest of more than $100m from his 2021 political committees, raising more than other Republicans in online donations during the first half of this year, new federal campaign finance filings show."
     publishedDateTime: 2021-08-01T13:12:00Z
-    webUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
+    webUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89?curator=upstract.com"
     ampWebUrl: "https://amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
     type: article

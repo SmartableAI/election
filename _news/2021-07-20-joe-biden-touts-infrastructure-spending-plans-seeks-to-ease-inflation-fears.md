@@ -121,6 +121,22 @@ related:
         width: 480
         height: 346
         isCached: true
+  - title: "Pelosi, Democrats call on Biden to extend eviction ban"
+    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders on Sunday called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
+    publishedDateTime: 2021-08-02T01:54:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Congress, President Biden allow eviction moratorium to expire as COVID-19 cases, anger surge"
     excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic."
     publishedDateTime: 2021-08-01T22:41:00Z
