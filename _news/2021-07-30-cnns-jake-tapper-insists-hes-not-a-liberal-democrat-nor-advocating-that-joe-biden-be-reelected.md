@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/cnn-jake-tapper-liberal-democrat.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-jake-tapper-liberal-democrat.amp"
 type: article
 quality: 120
-heat: 120
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,33 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Fundraiser-in-chief: Biden headlining Democratic Party fundraiser"
+    excerpt: "President Biden headlines a fundraiser for the Democratic National Committee on Monday evening, in an effort to build up resources ahead of next year’s midterm elections, when the Democrats will be defending the razor thin majorities in both the House and Senate."
+    publishedDateTime: 2021-08-02T15:10:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/273rEu_bMWg/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser"
+    ampWebUrl: "https://www.foxnews.com/politics/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
+  - title: "Staffer Passes President Biden A Note: \"Sir, There Is Something On Your Chin\""
+    excerpt: "During a roundtable on Friday morning with Western state governors about wildfires, President Biden provided a moment of comic relief. A closeup photo shows the text of the note:: President @JoeBiden holds a card handed to him by an aide that reads “Sir,"
+    publishedDateTime: 2021-07-30T20:03:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 42
 
 secured: "cEhsRQ4aFtSHo9ov3kf62HfdySdxwBzk3LE/Ti8kQvDVYKtWo+wlDrZEAUsugbuO0BFrA3bpm29cPXoUqYM6uXTXb7aiEEolSxpOghI669O1Mxbb8LTxRglsReVNLQ7DrpZExipLKHAXNbdyz0fcTbyv5udtY0P65XpSnSz7URfo6g3i1dIFMIDeL/tUQuM16g3lx588yzO4LWya2n2RS8RBF7z35gakwKJYQHM2wTFWe8MOBmCpK2qx8wWA93f0ElTKbB5on0XX+dxLdZBuktdXFw81toUUjRNC1UPMNHDBNfrUw3FafmJq8cDzjfX4Opl3oGBsjvujRkqiZAOHZEIlfE5cvnkbbzbuzxV9zBc=;gLjTZm5ekmAq+zse22GESw=="
 ---

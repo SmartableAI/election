@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/joe-biden-iraq/index.htm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/joe-biden-iraq/index.html"
 type: article
 quality: 168
-heat: 208
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,37 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tells lawmakers he'll push for pathway to citizenship for millions in sweeping economic package"
-    excerpt: "President Joe Biden reiterated his support for a Democratic effort to include immigration policy in his multi-trillion anti-poverty package, assuring a group of lawmakers on Thursday that he would stand by them in their push to see a pathway to citizenship for millions signed into law.\n    \n"
-    publishedDateTime: 2021-07-30T00:57:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KUQto_DR2ic/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/immigration-reconciliation-joe-biden-pathway-to-citizenship/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/immigration-reconciliation-joe-biden-pathway-to-citizenship/index.html"
+  - title: "White House once again makes Covid-19 the focus of Biden's schedule"
+    excerpt: "The White House is making a concerted effort to return the focus of President Joe Biden's schedule to Covid-19 this week as the year-and-a-half-long pandemic again consumes his agenda amid a new spike in cases.\n    \n"
+    publishedDateTime: 2021-08-02T14:10:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3avBHG0W9pc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721150318-01-biden-0714-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210730093822-biden-cnn-primera-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden slams attempts to curb voting rights but says he isn't ready to call for an end of the filibuster "
-    excerpt: "President Joe Biden said Wednesday that he did not want to get \"wrapped up\" in arguments about the filibuster and it would \"throw the entire Congress into chaos,\" as some Democrats call for weakening the Senate's filibuster rules in order to pass voting rights legislation.\n    \n"
-    publishedDateTime: 2021-07-22T02:19:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7zi3DYAeUCk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/biden-filibuster-voting-rights/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-filibuster-voting-rights/index.html"
+  - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
+    excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
+    publishedDateTime: 2021-07-27T22:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154356-01-biden-0721-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden announces measures to incentivize Covid-19 vaccinations, including a requirement for federal employees"
+    excerpt: "President Joe Biden on Thursday is set to announce a number of new steps his administration will take to try to get more Americans vaccinated and slow the spread of coronavirus, including requiring that all federal employees must attest to being vaccinated against Covid-19 or face strict protocols.\n"
+    publishedDateTime: 2021-07-29T20:52:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IgvojKgWGSY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/joe-biden-vaccination-requirement-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/joe-biden-vaccination-requirement-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden calls on students to keep campuses 'safe from a threat of abuse and assault as well' as Covid-19 as they return this fall"
+    excerpt: "President Joe Biden on Thursday highlighted the responsibility that college students have to ensure their campuses are safe not just from the Covid-19 pandemic, but also \"safe from a threat of abuse and assault as well,\" in remarks to young people at a summit hosted by It's On Us, the college sexual"
+    publishedDateTime: 2021-07-29T19:22:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gOuIbsUwQro/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/president-biden-campus-sexual-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/president-biden-campus-sexual-violence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Conservative hostility to Biden vaccine push surges with Covid cases on the rise"
+    excerpt: "Some in the GOP have felt compelled to reiterate support for getting the shot, with McConnell saying he was \"totally perplexed\" by the ongoing resistance."
+    publishedDateTime: 2021-07-20T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/conservative-hostility-biden-vaccine-push-surges-covid-cases-rise-n1273692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273692"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3492054/210718-lauren-boebert-cpac-jm-1138.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "NdANDBX5l3uy35cU7cePtvdTedBfU66pvPEYT3/wv/NYBoKQpk+SgD6df9nVh/jbT7cWBDxtR8CU6udopU5jUHqgzkoG1M9H1sE1JaxXMa73xBF/6rqPLJg0da9MKzHUN0XBFpHoKSQ8NkVZK0iYlqP4Zftz88BorVWvMO4ifiI6h7aBJFu/Ixi1B8ee2zARiQ40L1x6Xl+vKV81ngFK5Uq75AoZsL7WbTeyg97a+ZDRG3Ik/A3suQShJBJGKfisyaT0nehUI3iUp238FsmmiDp53I0M6HYdYTwiZ2vkVhjIbv3YsKaFe0Y0iBEf6NqYYwu1RGFkqTwNPJGesKlAM2wp1kLxEvK53sXO5HlkpOY=;NSoad/G6eqI8LHpz96pRfg=="

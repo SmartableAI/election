@@ -769,6 +769,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris Has NO FUTURE"
+    excerpt: "Before the election, Biden’s people were quoting him as saying, “I want to find a running mate I can turn things over to after four years.” Kamala isn’t that mate because Biden more recently announced,"
+    publishedDateTime: 2021-08-02T12:27:00Z
+    webUrl: "https://www.jewishpress.com/blogs/sultan-knish/kamala-harris-has-no-future/2021/08/02/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 55
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/kamala-harris.jpg"
+        width: 320
+        height: 224
+        isCached: true
   - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
     excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
     publishedDateTime: 2021-04-06T14:22:00Z

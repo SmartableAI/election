@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 1200
+heat: 1220
 published: true
 
 provider:
@@ -758,6 +758,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/1cf5791693d29998dd6616a4443822a0/HARRIS-BLACK-HEALTH.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris Has NO FUTURE"
+    excerpt: "Before the election, Biden’s people were quoting him as saying, “I want to find a running mate I can turn things over to after four years.” Kamala isn’t that mate because Biden more recently announced,"
+    publishedDateTime: 2021-08-02T12:27:00Z
+    webUrl: "https://www.jewishpress.com/blogs/sultan-knish/kamala-harris-has-no-future/2021/08/02/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 55
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/kamala-harris.jpg"
+        width: 320
+        height: 224
         isCached: true
   - title: "Vice President Kamala Harris Touts St. Louis’ Mass COVID-19 Vaccination Site"
     excerpt: "The Vice President spoke with St. Louis Public Radio's Jason Rosenbaum about how the Biden administration is handling the COVID-19 vaccination effort in St. Louis and elsewhere."

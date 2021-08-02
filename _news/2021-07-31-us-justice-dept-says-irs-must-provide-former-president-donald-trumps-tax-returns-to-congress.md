@@ -1,28 +1,34 @@
 ---
 category: news
-title: "U.S. Justice Dept Says IRS Must Provide Former President Donald Trump's Tax Returns to Congress"
+title: "U.S. Justice Dept says IRS must provide former President Donald Trump's tax returns to Congress"
 excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
-publishedDateTime: 2021-07-30T17:31:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+publishedDateTime: 2021-07-30T20:40:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
+webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F02MK"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F02MK"
 type: article
-quality: 43
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570501474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T1ET"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\""
@@ -198,6 +204,6 @@ related:
         height: 533
         isCached: true
 
-secured: "k7HYCrBEbL2EwvsIUd+PQ+qWE0mIeYryjr8uygItJdpC1GCZW9NYpMgC6cekkfuCzp+RglzdwcgDKzmPF4BZWNwNxW/f9yNoSCyLQNvL5djVpnaAqO56QvJAmwxr9FsC3+r4uA1TzR6+TvNwO6oNuS4RWFDkYg347bJRC5+SXu80yZXBRMD+dgaahiw5MGM2DI/rpX6GcTzI1ePncAXTGRa1DyZCOIDowOaUab7MRImKoUhZKZsUxb+0w4xZOqv5572xN/zvJ7kDIZDlMsIzadrnWyz7cnxQ8xDeBqlqoRR0/PTuB4O09ZFVeAyNR4754wXyH/d/QE5JIg0kbNcspBRC+LZUo3JZ/fGB6GRtONLJHs78eJBV4Rkz35zq6ZuSZUG7LxLvp/pez9hu/bOklyOCE1lHNB+ihDqsm/4RgHeeft2AtUUM1nOCft8ewLMuqUiW2gzvMz0vEBn6G5POuN2eroJLQpZPOjXyLJ1RHqAz6IQ93c2ILV1TUMq3iJzQ/VoEc7+EWgZEAs2h/bD9zQ==;ICRf+XUJcrKI7gda8Tg2Kw=="
+secured: "pXJjvsCssn8n5Y62dGJSHpTHvPaOX2fAEN1n9mYZijXzLhwRjMmIHwVGn44Dnj+DEARYZ+iKPJK8xtYOVT6IbFK4B5nWYwoMyN+k60IgJ+9TmJvLfjHWHs+4apxQ9OxiuRFdkMCgkdqdYjoWO6hMHrXdDZy8S7tzspfemLbMmDHc5oaa0eOJXUIsjNS0N/bxzys3G9l5vP9uu09uk9LAqg8qTt2MGTub02xCQ38JBhw9if8bcIATfbkL1MhGa7VY0/hmN05GL4d+Lpd+E6zEHDyVeMVjIPghffKhruQM03gwKHPw0czcmmUpXI1KnoqQYlsOPJtgluXGLiMK/fvzewJdwcMJZZ7dSYDMm3+b79M=;eHoVm6y6Lo980CWhJ/Alew=="
 ---
 

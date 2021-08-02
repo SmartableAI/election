@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-kamala-harris-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp"
 type: article
 quality: 125
-heat: 505
+heat: 545
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/20/54cc6f02-a613-4c86-92e0-4dbdc17ff4d6/thumbnail/1200x630/aac21f6f4324fc5ef2e6ab8a79afc94c/gettyimages-1234012135.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Is Kamala Harris Really Bad at Politics?"
+    excerpt: "The reason the topic comes up is that opponents of Vice President Kamala Harris seem to have settled on an attack line against her: As a Washington Examiner columnist argued a few weeks ago, she’s “bad at politics."
+    publishedDateTime: 2021-08-02T11:30:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2021-08-02/is-kamala-harris-really-bad-at-politics"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK529s5SJ4hY/v1/1200x801.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Essential Politics: Kamala Harris’ past comes back with a Supreme Court ruling"
     excerpt: "Vice President Harris was hit by a blast from her past this month when the Supreme Court ruled against California in a case dating to when she was state attorney general."
@@ -251,6 +265,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/082e1781249502ed0d00e9b582d9ff2b/USA-HARRIS-DACA.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris Is Not ‘Bad at Politics’"
+    excerpt: "It’s something that I see pretty often in reader emails and on Twitter, mostly from Republicans but in some cases from liberal Democrats. There’s no surprise here; the vice presidency makes everyone look bad,"
+    publishedDateTime: 2021-08-02T12:20:00Z
+    webUrl: "https://politicalwire.com/2021/08/02/kamala-harris-is-not-bad-at-politics/"
+    type: article
+    provider:
+      name: Political Wire
+      domain: politicalwire.com
+    quality: 55
+    images:
+      - url: "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg"
+        width: 1400
+        height: 1400
         isCached: true
   - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
     excerpt: "\"You're writing a story in the Los Angeles Times about the vice president's laugh? I think that's laughable.\" — Bakari Sellers, Democratic lawyer and CNN commentator"

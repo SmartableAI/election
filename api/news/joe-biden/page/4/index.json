@@ -2,63 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-06-26-biden-says-afghans-must-decide-their-future-as-us-troops-withdraw.md",
-      "title": "Biden Says Afghans Must ‘Decide Their Future’ as U.S. Troops Withdraw",
-      "excerpt": "Mr. Biden told President Ashraf Ghani that the United States would still offer security assistance, as well as diplomatic and humanitarian aid.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-biden-afghan-1-SWAP/25dc-biden-afghan-1-SWAP-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.amp.html",
-      "publishedDateTime": "2021-06-25T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-26-biden-calls-chauvin-sentence-appropriate.md",
       "title": "Biden calls Chauvin sentence 'appropriate'",
       "excerpt": "President Biden on Friday said that the 22 1/2-year prison sentence handed down to former Minneapolis police officer Derek Chauvin for the murder of George Floyd seemed “appropriate.”",
@@ -1567,6 +1510,58 @@
       "ampWebUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
       "publishedDateTime": "2021-06-15T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-on-supporting-ukraines-nato-bid.md",
+      "title": "Volodymyr Zelenskyy Hopes Joe Biden Will Give 'Specific' Answer on Supporting Ukraine's NATO Bid",
+      "excerpt": "\"I understand that this should be the agreed position of the alliance countries. Nevertheless, we must get clear dates and the likelihood of this for Ukraine,\" said Volodymyr Zelenskyy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
+      "originalUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1820669/ukrainian-president-volodymyr-zelenskyy.jpg",
+          "width": 2500,
+          "height": 1708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
+      "publishedDateTime": "2021-06-14T10:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

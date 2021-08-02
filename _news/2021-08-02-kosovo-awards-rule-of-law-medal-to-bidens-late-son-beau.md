@@ -71,6 +71,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's judges: More diverse and more of them"
+    excerpt: "President Joe Biden and Senate Democrats are putting judges on federal trial and appellate courts at a much faster clip than Biden’s recent predecessors"
+    publishedDateTime: 2021-08-02T11:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-judges-diverse-79213050"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-judges-diverse-79213050"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-judges-diverse-79213050"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_87f73936691f4c9daf35ba8af8fd87a8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to sanction Cuban officials following attacks on protesters, reports say"
     excerpt: "Thousands of Cubans took to the streets earlier this month to protest food and medicine shortages, power outages and spiraling prices."
     publishedDateTime: 2021-07-22T15:51:00Z
@@ -320,17 +336,6 @@ related:
     provider:
       name: Lexington Herald Leader
       domain: kentucky.com
-    quality: 55
-  - title: "Biden’s judges: More diverse and more of them"
-    excerpt: "President Joe Biden and Senate Democrats are putting judges on federal trial and appellate courts at a much faster clip than Biden’s recent predecessors"
-    publishedDateTime: 2021-08-02T12:35:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/bidens-judges-more-diverse-and-more-of-them/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
     quality: 55
 
 secured: "vGOVU/xol/ATCOgXw+Uw+i+BcaUIlHUn98kZLkbhb6rEbk/tQKTzZ1KJDP4vrJ3ReXxtDNHuyDXZEjjuzqOOGibHuyN0X3Xb4KL3/tyjIwdysMOL4QjRIcNn0FVxpGa9KDx9gITbqMj4KSomU7Gpw2vrNA1580lSTYRplDLKNasHU7MZ24KN8KNh0MPzzJ7eLSms44siTxXMAT/03IxcQgSNcJb22EOQsj90M7kXZOINymfgBLX/AlMb3LQFophXAb9p0BvSmg8mANQjzdCWdAr1QCsEOsrM6l9fvCtdgRGj1KipBnB4zWae+4/halxHK53s0t1Zwr46jNUlPMcmeRBNGhvcfDuornL2AHPES3hGN3e7jkVIM9jCESI2ezxGF7arHobWLdP84Q4B5kQxNS/qqiGbzFgqrF7NhQd4j1d7mCeRZnBcIJcO4N7HKM2jNkoASBzqqsL4Gy2yPdIvfSPpXd3t0hDdCN0FUUvHeRx/JpPT6/zvuKcFqmGdQxrXRwPQD4ajMDIrj490hzZi4A==;xD9eArfKvwXJTyULi0ObnQ=="

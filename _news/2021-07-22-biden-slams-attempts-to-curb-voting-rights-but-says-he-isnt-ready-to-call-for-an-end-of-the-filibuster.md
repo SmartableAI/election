@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to announce end of combat mission in Iraq as he shifts US foreign policy focus"
-    excerpt: "President Joe Biden will agree Monday to formally conclude the US combat mission in Iraq by the end of the year, another step toward winding down the two prolonged military engagements that began in the years following the September 11 terror attacks.\n    \n"
-    publishedDateTime: 2021-07-26T16:10:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MidMqj4_NaU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/joe-biden-iraq/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/joe-biden-iraq/index.html"
+  - title: "Biden warns about conspiracies flourishing in the US: 'The rest of the world's wondering about us'"
+    excerpt: "President Joe Biden on Wednesday raised the alarm about conspiracy theories flourishing in the US and dividing the nation, warning that \"the rest of the world's wondering about us.\"\n    \n"
+    publishedDateTime: 2021-07-22T01:47:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye0g1f9ppkA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726120518-joe-biden-mustafa-al-kadhimi-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden tells lawmakers he'll push for pathway to citizenship for millions in sweeping economic package"
-    excerpt: "President Joe Biden reiterated his support for a Democratic effort to include immigration policy in his multi-trillion anti-poverty package, assuring a group of lawmakers on Thursday that he would stand by them in their push to see a pathway to citizenship for millions signed into law.\n    \n"
-    publishedDateTime: 2021-07-30T00:57:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KUQto_DR2ic/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/immigration-reconciliation-joe-biden-pathway-to-citizenship/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/immigration-reconciliation-joe-biden-pathway-to-citizenship/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721150318-01-biden-0714-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -31,69 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden to meet with potential art buyers at two shows amid ethics concerns "
-    excerpt: "Hunter Biden is expected to meet with potential buyers at two of his art shows after the White House formed an agreement with the gallery to address ethics concerns.\n    \n"
-    publishedDateTime: 2021-07-22T17:12:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0j_4QlIRt5I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html"
+  - title: "White House once again makes Covid-19 the focus of Biden's schedule"
+    excerpt: "The White House is making a concerted effort to return the focus of President Joe Biden's schedule to Covid-19 this week as the year-and-a-half-long pandemic again consumes his agenda amid a new spike in cases.\n    \n"
+    publishedDateTime: 2021-08-02T14:10:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3avBHG0W9pc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708171703-hunter-biden-0522-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210730093822-biden-cnn-primera-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to tap former ambassador to France as his ambassador to the UK after lengthy search"
-    excerpt: "President Joe Biden will name Jane Hartley as his ambassador to the United Kingdom after a lengthy search, a person familiar with the decision told CNN.\n    \n"
-    publishedDateTime: 2021-07-16T17:11:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE06_f1H4RM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/jane-hartley-ambassador-to-uk/index.html"
+  - title: "Biden to announce end of combat mission in Iraq as he shifts US foreign policy focus"
+    excerpt: "President Joe Biden will agree Monday to formally conclude the US combat mission in Iraq by the end of the year, another step toward winding down the two prolonged military engagements that began in the years following the September 11 terror attacks.\n    \n"
+    publishedDateTime: 2021-07-26T16:10:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MidMqj4_NaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/joe-biden-iraq/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/joe-biden-iraq/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716112743-jane-hartley-file-2015-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726120518-joe-biden-mustafa-al-kadhimi-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Schumer and Pelosi plan to meet with Biden on Friday to discuss voting rights legislation"
-    excerpt: "Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi are planning to meet with President Joe Biden on Friday to discuss a path forward on voting rights legislation, a person familiar with the plans told CNN.\n    \n"
-    publishedDateTime: 2021-07-30T03:20:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SoGx-pXhK7Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/schumer-pelosi-biden-voting-rights-meeting/index.html"
+  - title: "Biden announces measures to incentivize Covid-19 vaccinations, including a requirement for federal employees"
+    excerpt: "President Joe Biden on Thursday is set to announce a number of new steps his administration will take to try to get more Americans vaccinated and slow the spread of coronavirus, including requiring that all federal employees must attest to being vaccinated against Covid-19 or face strict protocols.\n"
+    publishedDateTime: 2021-07-29T20:52:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IgvojKgWGSY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/joe-biden-vaccination-requirement-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/joe-biden-vaccination-requirement-announcement/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155550-06-white-house-covid-relief-event-0312-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's drug czar nominee consulted for cannabis company last year, ethics disclosure shows"
-    excerpt: "President Joe Biden's drug czar pick, Dr. Rahul Gupta, spent nine months last year working as an adviser to a Maryland-based cannabis company, recently released government ethics documents show.\n    \n"
-    publishedDateTime: 2021-07-23T00:52:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tJN_YRWEIA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/rahul-gupta-cannabis-consulting-biden-drug-czar/index.html"
+  - title: "Biden calls on students to keep campuses 'safe from a threat of abuse and assault as well' as Covid-19 as they return this fall"
+    excerpt: "President Joe Biden on Thursday highlighted the responsibility that college students have to ensure their campuses are safe not just from the Covid-19 pandemic, but also \"safe from a threat of abuse and assault as well,\" in remarks to young people at a summit hosted by It's On Us, the college sexual"
+    publishedDateTime: 2021-07-29T19:22:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gOuIbsUwQro/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/29/politics/president-biden-campus-sexual-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/president-biden-campus-sexual-violence/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 147
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713125239-dr-rahul-gupta-2016-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Conservative hostility to Biden vaccine push surges with Covid cases on the rise"
+    excerpt: "Some in the GOP have felt compelled to reiterate support for getting the shot, with McConnell saying he was \"totally perplexed\" by the ongoing resistance."
+    publishedDateTime: 2021-07-20T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/conservative-hostility-biden-vaccine-push-surges-covid-cases-rise-n1273692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273692"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3492054/210718-lauren-boebert-cpac-jm-1138.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "P8XOdhqV6YiEdBj51lJ1nQQYxMz9GgylxbdVxC9jcU/0ZhIMCKrireBqtfo7uB26oStz7dGhfBlsRQ1h3iXolfyCq/Z/DbBwBC+j7KcRcDj3CgMK0of9hPjY97moc/zzgVDU6RokZssRcn77O1hOf2pg07mDwhLXrGvdsy+SoQ3N7/TmXg7mHH4CatVtSzHT8fU2IXEJrGNH7ZZt+WYcf1WMZc9Qn1RgWG8uXYPtjnt9EvfIRt6gLfxV0NkIoFBywBbAD8N76516z3mP11l+ujQHoEC0MYFnPpfUMsv6hq7RSxY4hkJ2VnJ2QsPA2PSwRo0GUCol3gcAtpc9Edb9pL1Vjwm57M9D/Yl7QOTRto4=;gRS2Ce53QNplOB1RI5M43g=="

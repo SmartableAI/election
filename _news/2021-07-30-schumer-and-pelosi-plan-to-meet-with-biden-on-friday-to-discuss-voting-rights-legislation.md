@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
-    excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
-    publishedDateTime: 2021-07-27T22:14:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "Xww15Q9nKKRZessUf9ylLHSBRDB6aDOKt+T68eUbfJfonHqSTiuBn/Qqilv/DcBOSbuE3wFeksvkwWVWCNrnM46TMz1QMrtPmGrIirT28W2HIasKkmdgcLVPmvIjny1EFyxvcZICxBlXrA/ThaX2b8HBtiubVkXu/W/rX6H+vo5Qd+KxOfQZ46iHVJ7sKzOo2cSAI+9Zx8X/P6zD55A7NQwVyTRnQ1Np79/rTHh8iF5iYXLrM1T52tQqBpuBHnhz23Cw6TcAVYjwkrTyb8N2biu/UKKKuvHDrZLEu7t9UjzVpdSXY3Phu4wFgbNuLmRRSJXXFS1Y3W3r5AFTNBuOP/IIXtBiXZ3EBmi6XfgNgW4=;MIeqjYZTsB7QL8JuB/OOKA=="
 ---

@@ -755,6 +755,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris Has NO FUTURE"
+    excerpt: "Before the election, Biden’s people were quoting him as saying, “I want to find a running mate I can turn things over to after four years.” Kamala isn’t that mate because Biden more recently announced,"
+    publishedDateTime: 2021-08-02T12:27:00Z
+    webUrl: "https://www.jewishpress.com/blogs/sultan-knish/kamala-harris-has-no-future/2021/08/02/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 55
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/kamala-harris.jpg"
+        width: 320
+        height: 224
+        isCached: true
   - title: "Vice President Kamala Harris Touts St. Louis’ Mass COVID-19 Vaccination Site"
     excerpt: "The Vice President spoke with St. Louis Public Radio's Jason Rosenbaum about how the Biden administration is handling the COVID-19 vaccination effort in St. Louis and elsewhere."
     publishedDateTime: 2021-03-30T23:58:00Z

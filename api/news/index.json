@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-02-fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.md",
+      "title": "Fundraiser-in-chief: Biden headlining Democratic Party fundraiser",
+      "excerpt": "President Biden headlines a fundraiser for the Democratic National Committee on Monday evening, in an effort to build up resources ahead of next year’s midterm elections, when the Democrats will be defending the razor thin majorities in both the House and Senate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/273rEu_bMWg/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/273rEu_bMWg/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.amp",
+      "publishedDateTime": "2021-08-02T08:10:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-white-house-once-again-makes-covid-19-the-focus-of-bidens-schedule.md",
+      "title": "White House once again makes Covid-19 the focus of Biden's schedule",
+      "excerpt": "The White House is making a concerted effort to return the focus of President Joe Biden's schedule to Covid-19 this week as the year-and-a-half-long pandemic again consumes his agenda amid a new spike in cases.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3avBHG0W9pc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3avBHG0W9pc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210730093822-biden-cnn-primera-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html",
+      "publishedDateTime": "2021-08-02T07:10:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-tyson-fury-reveals-he-enjoyed-phone-chat-with-donald-trump-in-surprise-call.md",
       "title": "Tyson Fury Reveals He Enjoyed Phone Chat With Donald Trump in 'Surprise' Call",
       "excerpt": "Heavyweight boxing champ Tyson Fury had expected to meet then President Donald Trump after his February 2020 victory over Deontay Wilder.",
@@ -1221,119 +1333,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-biden-says-americans-should-expect-more-covid-restrictions.md",
-      "title": "Biden says Americans should expect more COVID restrictions",
-      "excerpt": "President Biden warned Friday that increased COVID-related restrictions could again become a possibility as the U.S. sees spiking coronavirus cases nationwide.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
-      "publishedDateTime": "2021-07-30T17:41:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-down-the-drain-millions-face-eviction-after-biden-lets-protections-expire.md",
-      "title": "'Down the drain’: Millions face eviction after Biden lets protections expire",
-      "excerpt": "The federal eviction moratorium in place since September is set to expire Saturday, after the Biden administration refused to extend it and Democrats in Congress couldn't muster the votes to intervene.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/california/story/2021/07/30/down-the-drain-millions-face-eviction-after-biden-lets-protections-expire-1389332",
-      "originalUrl": "https://www.politico.com/states/california/story/2021/07/30/down-the-drain-millions-face-eviction-after-biden-lets-protections-expire-1389332",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/bf/27/804f7024451d98754d95cb5b6ddd/210429-eviction-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],
