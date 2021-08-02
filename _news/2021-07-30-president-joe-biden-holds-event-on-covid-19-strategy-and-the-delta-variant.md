@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
 excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
 publishedDateTime: 2021-07-29T22:14:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/071412cddeb250f54b2120fc6ab2458e/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/071412cddeb250f54b2120fc6ab2458e/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/ea2c5fd407edac0573b93d2182023ea6/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/ea2c5fd407edac0573b93d2182023ea6/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/071412cddeb250f54b2120fc6ab2458e/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/ea2c5fd407edac0573b93d2182023ea6/BIDEN-VACCINE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -198,7 +198,7 @@ related:
   - title: "Did Joe Biden Really Drive An 18-Wheeler Truck? The Truth Behind The President's Claims"
     excerpt: "President Joe Biden was heard saying he “used to drive an 18-wheeler,” but critics and doubters aren’t buying the claim."
     publishedDateTime: 2021-07-29T10:41:00Z
-    webUrl: "https://ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188"
+    webUrl: "https://www.ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188"
     ampWebUrl: "https://www.ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188?amp=1"
     cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188?amp=1"
     type: article
@@ -223,6 +223,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "OkgmlDAQsKGhLqNma7cPwTDn1Mo9s0cMgJuvJ26/phrS3DDlqYk1zF0Gd3M0U/SbR4jWF3OwTVI3YBGVwCr+lUpxyYXfYrqV9rQk9qPYiHqbIwTprGUtc/0yllXvEiqTpI9+ae4hiXY19OlPVRjd69GE7v8gPp235Hcejh4rqYpmDXHvwVqAvUfQmcA6vVhCUBhPaD/DHFhHZ1vnYotNmzF/yTzJCY+RFPPRDd1SC+QEeEIPFdAhDhumwFBzZifvtv+SdNKnd85SgXNce7Z7Y9PIftugqhUUWynzi+wSD5SCEZqc+EFtZbywEH37fU4dB0hGJReGsuSjm61QVE/32Byq52q/s+wODiDf40avpMg=;AfL4jqCvBFqEWK3hesQX7A=="
+secured: "drRhcYM4AGhN2ZfKG8lSuzRBoFah+iNLOzMU1AN+9hi/suQzJS5PbVhNVnyF7G2tGfGzIqSLCE+1qorv05/TbbeV7sNDN0bBd7msGRI4PXfkwAw/a7wvdTM7hy3vOYd8ipN6kkuf4bKp0mB+gMYvXgMWoWpekaTT4L7xrIfnlro6oWrmWAEznjyxaB/zohIBryzaFq9vM+PsrWSvU+3ZIxKTHbYx2rXvfsl6g3YQg6120+TH0+GKnHZ6t5+JHntMJYtID8wF6FK1BD1YUxwSPV50fxvqsKLRw8giAJGW49mX0ID2AuXR64zyGigStELEHGx7mEoQW9iQhcAl+F1bQJD3Q925KbAK9DmUbGuTisw=;vgDe8KAjtukBxjlSfTtXhg=="
 ---
 

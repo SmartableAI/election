@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-02-trumps-similarities-to-cult-leader-jim-jones-explained-by-rep-speier.md",
+      "title": "Trump's Similarities To Cult Leader Jim Jones Explained By Rep. Speier",
+      "excerpt": "Both Trump and notorious cult leader Jim Jones used their charisma to connect with disillusioned Americans, says Speier The Jonestown Massacre occurred on Nov. 18, 1978 Speier was shot five times and left for dead that year She said Trump still influences members of the US Congress Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236",
+      "originalUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/04/former-us-president-donald-trump-blasted-his-two.jpg",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236?amp=1",
+      "publishedDateTime": "2021-08-01T20:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-will-trump-be-spoiler-as-california-gop-seeks-newsom-recall.md",
+      "title": "Will Trump be spoiler as California GOP seeks Newsom recall?",
+      "excerpt": "California Republicans see a chance of ousting embattled Democratic Gov. Gavin Newsom in a September recall election",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_fc4f5c1526744e9286fcdbc5f06b694d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
+      "publishedDateTime": "2021-08-01T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-cnns-brian-stelter-compares-donald-trump-supporters-to-jonestown-cult-members.md",
       "title": "CNN's Brian Stelter compares Donald Trump supporters to Jonestown cult members",
       "excerpt": "CNN anchor Brian Stelter used his Sunday show \"Reliable Sources\" to feature a segment comparing Donald Trump supporters to Jonestown cult members. Stelter spoke with Rep. Jackie Speier, D-Calif., to help explain the similarities between Trump supporters and Jonestown cultists.",
@@ -370,7 +474,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 351,
+      "heat": 371,
       "tags": null,
       "images": [
         {
@@ -1437,111 +1541,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-education-nonprofit-warns-biden-nominee-lhamon-would-threaten-progress-of-trump-era-title-ix-protections.md",
-      "title": "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections",
-      "excerpt": "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon",
-      "originalUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp",
-      "publishedDateTime": "2021-07-26T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine.md",
-      "title": "Sarah Huckabee Sanders urges people to get the ‘Trump vaccine’",
-      "excerpt": "Former White House press secretary Sarah Huckabee Sanders acknowledged Sunday that she was inoculated against COVID-19 “months ago” — with the “Trump vaccine.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "originalUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/sarah-huckabee-sanders.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "publishedDateTime": "2021-07-25T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

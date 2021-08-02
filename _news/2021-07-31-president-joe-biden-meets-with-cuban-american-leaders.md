@@ -1,12 +1,12 @@
 ---
 category: news
 title: "President Joe Biden Meets with Cuban-American Leaders"
-excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. President Biden was seated next to Jake Sullivan,"
+excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
 publishedDateTime: 2021-07-30T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cdnph.upi.com/pv/upi/999190775ec599e646b7c0dcbff39dcb/WHITE-HOUSECUBA.jpg"
-    width: 650
-    height: 433
-    isCached: true
 
 related:
   - title: "Biden authorizes $100 million in emergency funds for Afghan refugees"
@@ -320,6 +314,6 @@ related:
       domain: spokesman.com
     quality: 35
 
-secured: "f0DDMZC6nlaHEsBRZqkK2ph8lJR8oUiq14zwbU2ZfObi4qQMqfYNFMxQyDNetAFN/Qt6Yu52mfP8tsP0T/bZBapZ28H1fB1BDRWH82ko39sAahk3cY00uHPnfiBsXVS+93XJvq67BI6GQ6JYGmh5ntYBJ0JButFbnL0l2D3PPIbam5Kolxisu0EFnnmCIU0Hlywa2KyFp0pRLBCCMe74IepOqP5Zp/tsITSyniCnme5VJNDyCKPM12Gfqqp/9p4wXvPnWvYUMJE2c6g2biExJqFcmU0LRtTB88+ym7cp3iL90KrF8Fd5DGpBZHF08Wdk1HjmNVfUzV6QnHFJAXLGmLvWd+lcYrxMhrlS2kWHxDo=;UVdYmg0v72yBCHRIxRonHQ=="
+secured: "SP2BTjg3USvrFm2AjZ7MDrttoaIxcKM3Z9Z1/rfiI9ASjyM/68ypk4JHMU0Z27JfZevQ1nvyxz9cqFgD8y0wTmxglJ4CUMV1hcdiveihac3SpvqJWBVNnsHUuUxey4gzqwCeeHniLGzHIlq48B0avtFUDqHKqdlmzYPOFgFRZbrwBr1vN6Arr7p6wZpFUW3p1B07icLiDRSgNcOI5Am0Yc3V2SYKeadv6oxE8WVMHPh0YiGNOt5HSpR7pplPoxFAhNpfxU2/Y4WERhGWH7A2tfM/hM1nhaLB2raGq2y0n7herjI2+uCC76n1hUEfqkhOpuLsRmdRiUzRQ4JicPPK7tOAsRxDc81T2kgM3/qpUc2w3ebZoMJW/K43imMhkFU7TUZpFDyzqN4aR2mGSTgxpcRUiagJpdWDmixFMM0PxN3xidE/uFZYYO/4h/9vHq5FkUKrgWRpVy+QyVCVqkmwvcqToGRL56GqeGmJyvDZjQn6yWRGIDs5erJFl3WpnRTXo1JRc63fwyEXytBR9iQ2bw==;D3rlrD5gOmSEtYCxzacuDg=="
 ---
 

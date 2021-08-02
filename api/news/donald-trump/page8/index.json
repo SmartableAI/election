@@ -2,6 +2,115 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-17-lara-trump-rips-biden-for-only-taking-questions-from-pre-approved-reporters-are-you-kidding-me.md",
+      "title": "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'",
+      "excerpt": "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
+      "publishedDateTime": "2021-06-17T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-fire-and-fury-author-writes-new-trump-book-landslide.md",
+      "title": "'Fire and Fury' author writes new Trump book 'Landslide'",
+      "excerpt": "The author of “Fire and Fury,” the million-seller from 2018 that helped launched the wave of inside accounts of the Trump White House, will have a last look coming out next month",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_d798f2abc2e04a698da13553b95b0f68_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "publishedDateTime": "2021-06-17T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-trump-on-covid-origins-i-believe-it-was-a-terrible-accident-but-i-believe-it-came-from-the-lab.md",
       "title": "Trump on COVID origins: 'I believe it was a terrible accident, but I believe it came from the lab'",
       "excerpt": "Former President Donald Trump said Wednesday that he believes the coronavirus pandemic is the result of a \"terrible accident\" during an exclusive interview on \"Hannity.\"",
@@ -1414,110 +1523,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-his-jail-time.md",
-      "title": "Kwame Kilpatrick Explains 'Catalyst' Behind Donald Trump Cutting His Jail Time",
-      "excerpt": "The former Detroit mayor said he dropped to his knees when he learned that Trump was freeing him from prison in one of his last acts in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920",
-      "originalUrl": "https://www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1816483/kwame-kilpatrick.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920?amp=1",
-      "publishedDateTime": "2021-06-09T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to-follow.md",
-      "title": "Trump backs Nigeria banning Twitter, calls for other countries to follow",
-      "excerpt": "Former President Trump on Tuesday applauded Nigeria’s Twitter ban and called on other countries to follow suit.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
-      "originalUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_093020getty_trump-legal.jpg",
-          "width": 980,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
-      "publishedDateTime": "2021-06-08T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

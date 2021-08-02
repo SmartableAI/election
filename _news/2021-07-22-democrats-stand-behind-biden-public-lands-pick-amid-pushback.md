@@ -188,7 +188,7 @@ related:
   - title: "Did Joe Biden Really Drive An 18-Wheeler Truck? The Truth Behind The President's Claims"
     excerpt: "President Joe Biden was heard saying he “used to drive an 18-wheeler,” but critics and doubters aren’t buying the claim."
     publishedDateTime: 2021-07-29T10:41:00Z
-    webUrl: "https://ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188"
+    webUrl: "https://www.ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188"
     ampWebUrl: "https://www.ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188?amp=1"
     cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-joe-biden-really-drive-18-wheeler-truck-truth-behind-presidents-claims-3262188?amp=1"
     type: article
@@ -215,14 +215,14 @@ related:
   - title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
     excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
     publishedDateTime: 2021-07-29T22:14:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/071412cddeb250f54b2120fc6ab2458e/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ea2c5fd407edac0573b93d2182023ea6/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/071412cddeb250f54b2120fc6ab2458e/BIDEN-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/ea2c5fd407edac0573b93d2182023ea6/BIDEN-VACCINE.jpg"
         width: 650
         height: 433
         isCached: true

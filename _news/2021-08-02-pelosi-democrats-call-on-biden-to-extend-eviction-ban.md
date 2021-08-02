@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Pelosi, Democrats call on Biden to extend eviction ban"
-excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders on Sunday called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
-publishedDateTime: 2021-08-02T01:54:00Z
-originalUrl: "https://www.ourmidland.com/news/article/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
-webUrl: "https://www.ourmidland.com/news/article/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
-ampWebUrl: "https://www.ourmidland.com/news/amp/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
-cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Anger-mounts-as-Biden-Congress-allow-eviction-16355809.php"
+excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to"
+publishedDateTime: 2021-08-02T04:19:00Z
+originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/pelosi-democrats-call-on-biden-to-extend-eviction-ban/article_31e7b095-6423-5345-b57b-e1e19372ecd0.html"
+webUrl: "https://www.stltoday.com/news/national/govt-and-politics/pelosi-democrats-call-on-biden-to-extend-eviction-ban/article_31e7b095-6423-5345-b57b-e1e19372ecd0.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Our Midland MI
-  domain: ourmidland.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/57/1575eeec-2a28-5468-9ba5-09ce681f2ac1/61045acde2d63.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -121,6 +119,22 @@ related:
         width: 480
         height: 346
         isCached: true
+  - title: "Democrats ask Biden to immediately extend eviction ban"
+    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation’s eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
+    publishedDateTime: 2021-08-02T05:07:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/democrats-ask-biden-to-immediately-extend-eviction-ban-2411642/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/democrats-ask-biden-to-immediately-extend-eviction-ban-2411642/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/democrats-ask-biden-to-immediately-extend-eviction-ban-2411642/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/08/15438440_web1_eviction.3-1.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z
@@ -183,6 +197,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "House Speaker Pelosi And Democratic Leaders Call On Biden To Extend Eviction Ban"
+    excerpt: "Congress was unable to pass legislation swiftly to extend the ban, which expired at midnight Saturday, and the Democratic leaders said in a statement that it was now up to President Joe Biden's administration to act. They called on the administration to ..."
+    publishedDateTime: 2021-08-02T05:24:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1023581861/house-speaker-pelosi-and-democratic-leaders-call-on-biden-to-extend-eviction-ban"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 50
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/01/ap21211686663985-9c220819cf8a50349e3d1ac7f961bd00178e9c37.jpg?s=6"
+        width: 948
+        height: 711
+        isCached: true
   - title: "Evictions looming, Biden fails to get Congress to extend ban"
     excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
     publishedDateTime: 2021-08-01T17:46:00Z
@@ -211,6 +239,6 @@ related:
       domain: masslive.com
     quality: 34
 
-secured: "gKusrBUozUSN0pvkmDJWbAFKsGYH6ysTMGP8bpPQV/thkSIdASDD/N5QgfV6mP7yp4eYX1ByEfSkV8mpW2rziebh2BRkaOigKqd5OTTKrOyxrKqxGPhlFPUr91WqDT4/24SH8ebUEjKFY5W/iTvy6PJVHqSmyqkaLlf28CYTyPswyfUe3Aq0P7zJ+5SKQOvbg6RlEjG6bIcCqaDfEMYNJVMsMUjpfOjQG+N5q2SY/xYWo3H/s/eVH6WjHhnn/VAHx6/w8hfsnMLXo/M/sJlQ+6TjYP5cwkF1gIkLSMmK1ySBGFYN0+D9rOYLR9YFAPh1fK/Y5atVCMJkUOPgZWjZ34R5UgW+NmakH1YzRwzeuDc=;KX2HTet3fZ1YXHiEOaUIUw=="
+secured: "p+TyA46eYcWgUZ6yX17aOzsjhSujaKSeD0JJBKXt+UJcLoP0gDp8l6fc9R9jPVt6jixu3ZgGS8Ivq9rlgPPl9QCWnFVhMP8JJi/RWhOUeP2ovZKuGDTFriOBk7bNpedGlyxDqegLWnR7op5iXN6k3GCBZMBDuj1L+XXUEjexXbHtkI7bPyNCl81mO3XbU5/VZZV4L00P7V+2keLhmorkYeECfbhBql/yMfHXA6f2DKUWwplMxozGyl1koVT2IbDbQxscKzmKiu9RofvjDMKY/U4RDzRl7ZMAV81x26mtvmsL14Q2Q3DRejZDze0vwouEnShIeeIjj6dNTCMAHRD2ve3G/bhIayKVCIuaZW6NBh8=;MgzEOaDzyMRj7i0H+5yATw=="
 ---
 

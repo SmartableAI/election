@@ -286,20 +286,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "President Joe Biden Meets with Cuban-American Leaders"
-    excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. President Biden was seated next to Jake Sullivan,"
-    publishedDateTime: 2021-07-30T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/999190775ec599e646b7c0dcbff39dcb/WHITE-HOUSECUBA.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks to Intelligence Community Workforce"
     excerpt: "U.S. President Joe Biden tours the watch floor with Christy Abizaid, Director of the National Counterterrorism Center, as he visits the National Counter Terrorism Center on Tuesday, July 27, 2021 in McLean,"
     publishedDateTime: 2021-07-27T19:50:00Z
@@ -314,6 +300,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Meets with Cuban-American Leaders"
+    excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
+    publishedDateTime: 2021-07-30T22:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 35
   - title: "Frustration as Joe Biden, Congress allow eviction ban to expire"
     excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."
     publishedDateTime: 2021-08-01T00:05:00Z
@@ -324,6 +319,6 @@ related:
       domain: spokesman.com
     quality: 35
 
-secured: "T4Kg6FKKMiSdi3T56zqn86PNvDVWXXZPI6t/u/ebeYl9nd8FozcXn2IbkWeIMsbeZi6kwjY+YWbX+VNwtCY1w9u898F1Mu/9jd91BYezi1FOIUvlWLd0wchc4I/8Ku6r41x7+F67vPcF0l1PWuSbAE97XrYlXPy5nhULAESgqdpNEPzJ06OwPZviS10G/refj7NVU+PvpHm1s+wqSyQ83/F5/p/bWQNY7itv5vuWChpozmVW/4lmJ+/IPVxTHE1XBwKlMKeBY9q9NKCrkFNL4YtFocPxbJQFPx0zlpMhrpXZ7XXLZ42P8W66zLimsP0S3UKpoF4LPXX7FcmW8+TwtscygpDMJOPuyrUstQNEemc=;CCfR6dSjnDCAXkHzpTmvUg=="
+secured: "ecBGqdCZWDUW4Mrws5/9huyHjiiffODKlfvUErMHz0c9i/TXo5tM/ucMzwcfSSG4JXzhlKSvx7+eVmJwdCEZmIuApePJtihrMrS4h0xz7xeASpH9fb52BgtOG9nSsRDhGPNsqyIwoVroOo2QfR07uMFGIDBR3PQkIjXEGHsR/TL5k5r0aUKSJiZHh4qMizc6nFTDgYgN+EF45QSp/vE6TzDsCAwaI2cvs1U75Quh0ZW0RrXpH01ntIfJWr3gyKBketnA7a2gDyzkeQkLZpYN7HFmXfBevK6f+wMZk/g559O2xw03diKWyK8VrGvf9GoVRCpB0SbuGKyuVmfe/qLxvWoNJtKZNjwpRx6sq8YpZljVNucIvE9Mw5wo0vjk+YGCFjV3bM11cSkwHjpjPsJVWrkg9KWb/fA9xeUqoydsmVnZJxaUsdmEZVFeYbJH420mn6h42+xyqVAG4UNB8YdyPbQWwme5cutq5cicNhtRMlswO9U5khpY7r45GTRHdblgSfC+c4hVShyvzZBv5IJK1Q==;JJ5Vqg4iKsWq1EB8FoEI7Q=="
 ---
 

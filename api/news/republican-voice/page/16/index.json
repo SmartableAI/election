@@ -2,6 +2,118 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-04-21-biden-advisers-brother-lobbying-white-house-for-pharma-giants-docs-reveal.md",
+      "title": "Biden adviser's brother lobbying White House for pharma giants, docs reveal",
+      "excerpt": "Jeff Ricchetti began lobbying the White House at the beginning of this year’s first quarter, with disclosures showing that he was representing pharmaceutical giants Horizon Therapeutics, GlaxoSmithKline and Vaxart Inc., according to financial disclosure reports.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1fa356-6f69-460c-b69d-f0b1c45219ee/81fdc322-52d7-45aa-9e79-21bad849c756/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
+      "publishedDateTime": "2021-04-21T11:47:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-boebert-roy-seek-to-force-vote-on-reversing-bidens-oil-and-gas-executive-orders.md",
+      "title": "Boebert, Roy seek to force vote on reversing Biden's oil and gas executive orders",
+      "excerpt": "Reps. Lauren Boebert and Chip Roy launched an effort Wednesday to force a House vote on reversing President Biden's oil and gas executive orders that the GOP lawmakers panned as detrimental to the economy and America's energy independence. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Akwbi_5_V1k/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Akwbi_5_V1k/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chip-Roy-Lauren-Boebert.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp",
+      "publishedDateTime": "2021-04-21T11:41:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.md",
       "title": "Biden ignores $1B in riot damage while praising George Floyd protesters after Chauvin conviction",
       "excerpt": "President Biden neglected to acknowledge the rioting, looting, arson and worse that reportedly caused more than $1 billion in property damage last year as he praised George Floyd protesters Tuesday following Derek Chauvin's conviction on murder charges.",
@@ -1545,119 +1657,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us-criticism.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us-criticism.amp",
       "publishedDateTime": "2021-04-15T12:52:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-former-vp-pence-undergoes-routine-surgery-to-implant-pacemaker-office-says.md",
-      "title": "Former VP Pence undergoes routine surgery to implant pacemaker, office says",
-      "excerpt": "Former Vice President Mike Pence underwent surgery to implant a pacemaker after experiencing a slow heart rate, his office disclosed on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RDsRDIKAY60/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RDsRDIKAY60/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/923f386d-3ccc-41f9-9133-8ebc9a94f111/7d90a6ea-b0e5-42f8-b867-367f1b07e616/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp",
-      "publishedDateTime": "2021-04-15T11:53:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-biden-deconstructing-last-4-years-in-record-time-trump-alumni-say.md",
-      "title": "Biden 'deconstructing' last 4 years in record time, Trump alumni say",
-      "excerpt": "President Biden is deconstructing former President Trump's policies at breakneck speed, the president of America First Policy Institute told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fn6AKZksK54/biden-trump-america-first-policy-institute-brooke-rollins",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fn6AKZksK54/biden-trump-america-first-policy-institute-brooke-rollins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 510,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rtsu2ii.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp",
-      "publishedDateTime": "2021-04-15T09:30:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -144,6 +144,17 @@ related:
         width: 3600
         height: 2400
         isCached: true
+  - title: "Trump's Kingmaker Status Faces Test in Ohio Special Election"
+    excerpt: "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention."
+    publishedDateTime: 2021-08-02T05:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Justice Department Says IRS Must Give Trump Tax Returns To Congress"
     excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T17:51:00Z

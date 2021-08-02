@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-30-trump-says-herschel-walker-will-enter-georgia-senate-race.md",
+      "title": "Trump says Herschel Walker will enter Georgia Senate race",
+      "excerpt": "Former President Donald Trump said on Tuesday that former NFL player Herschel Walker told him he plans to make a run for the Senate next year.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race",
+      "originalUrl": "https://thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/walkerherschel_trumpdonald_092520getty.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp",
+      "publishedDateTime": "2021-06-29T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims.md",
+      "title": "Trump calls Barr a 'swamp creature' over criticism of election claims",
+      "excerpt": "Former President Trump fired back at William Barr on Tuesday, calling him a \"swamp creature\" over the former attorney general's criticism of Trump's false claims about las",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
+      "originalUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_103120getty_retreat.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp",
+      "publishedDateTime": "2021-06-29T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-dr-saphier-on-trump-interview-everything-with-covid-was-politicized-from-the-start.md",
       "title": "Dr. Saphier on Trump interview: Everything with COVID was 'politicized' from the start",
       "excerpt": "Fox News medical contributor Dr. Nicole Saphier joined \"Fox & Friends\" and ripped Democrat politicians for politicizing the pandemic.",
@@ -1484,110 +1588,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-college-wont-revoke-trump-adviser-flynns-honorary-degree.md",
-      "title": "College won't revoke Trump adviser Flynn's honorary degree",
-      "excerpt": "The University of Rhode Island has decided not to revoke an honorary degree bestowed upon Michael Flynn, an alumnus who briefly served as President Donald Trump’s national security adviser",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
-      "publishedDateTime": "2021-06-24T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-trump-ridicules-ducey-over-political-future-there-is-no-way-he-would-get-my-endorsement.md",
-      "title": "Trump ridicules Ducey over political future: 'There is no way he would get my endorsement'",
-      "excerpt": "Without the former president's endorsement, Ducey's aspirations \"would be permanently put to rest,\" Trump said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/06/23/donald-trump-ridicules-gov-doug-ducey-over-his-political-future/5330681001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/06/23/donald-trump-ridicules-gov-doug-ducey-over-his-political-future/5330681001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/07/PPHX/88ce62df-6266-499d-aff4-e7edab852105-_S_03764.JPG?auto=webp&crop=2742,1542,x0,y231&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5330681001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5330681001",
-      "publishedDateTime": "2021-06-23T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
