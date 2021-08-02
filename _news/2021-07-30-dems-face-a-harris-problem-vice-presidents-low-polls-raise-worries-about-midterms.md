@@ -321,6 +321,22 @@ related:
         width: 650
         height: 434
         isCached: true
+  - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
+    excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."
+    publishedDateTime: 2021-08-01T22:12:00Z
+    webUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/"
+    ampWebUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 52
+    images:
+      - url: "https://cdni.rt.com/files/2021.08/xxl/610716e185f540464e68f288.JPG"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "US Vice President Kamala Harris to make first official visit to Singapore, Vietnam"
     excerpt: "SINGAPORE: US Vice President Kamala Harris will make her first official visit to Singapore and Vietnam next month, the White House announced on"
     publishedDateTime: 2021-07-30T14:03:00Z

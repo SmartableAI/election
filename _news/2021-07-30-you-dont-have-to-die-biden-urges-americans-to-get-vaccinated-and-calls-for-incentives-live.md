@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-m
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 type: article
 quality: 92
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -36,6 +36,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 87
+  - title: "US Economy: Joe Biden Unveils New 'Buy American' Proposal"
+    excerpt: "President Biden unveiled his new 'Buy American' proposal to ensure goods manufactured in the United States were at least 60% made in America."
+    publishedDateTime: 2021-07-28T22:49:00Z
+    webUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836"
+    ampWebUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/28/us-president-joe-biden-announces-plans-to-strengthen.jpg"
+        width: 1024
+        height: 654
+        isCached: true
   - title: "Biden touts 'Buy American' to boost US businesses"
     excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
     publishedDateTime: 2021-07-28T21:45:00Z

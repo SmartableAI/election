@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Meets with Cuban-American Leaders"
-excerpt: "President Joe Biden pauses during remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. The meeting was called to discuss the Administration's response to ongoing demonstrations in Cuba."
+excerpt: "Jake Sullivan, Assistant to the President and National Security Advisor, listens as President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington,"
 publishedDateTime: 2021-07-30T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/00c2e7083740762521cc825ba00c64eb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/00c2e7083740762521cc825ba00c64eb/WHITE-HOUSECUBA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4a35cafcbc748b2ca260991578ee8fbc/WHITE-HOUSECUBA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -320,6 +320,6 @@ related:
       domain: spokesman.com
     quality: 35
 
-secured: "KcyjEwq24MMbj+JwYzzR4pqTvHU/9f+vsrF9U6U/KlEE3HYErBmhtrtIW92voc/vrJVYnFgQZ7qDTX3vN9eY+5xTu1JOHECFCGv4FqGlqa24rMWQs5Lvn+9Rwft7v00mATEEZ5jdlmCQCU3tNivHpB3scjbeOzRrONbXAMt3lXBOSojYSp/6rBWxrzOtRl1y77VoNY0FAIhK4OHjwj7HKnUmZr2FLGNcLKy4m2I8skFCpG/Jq9rbRLoQoQblpq2dCSB5Ro6ymJMwlHe8w/w/lMOSYWwPxRJm+XVme7eCaKDPyQLgZ280kI37N4yvMI+NrzR1DvMzKBoJXs/0KaqCjq95SDxfDsHktGc/xlChkQ4=;3AANEhwFgd40+kPtDzfLLg=="
+secured: "Fo/jZV7fn0Ht0H0wVNa344BexKKXuCC3Rl/lSOiuYSYUReOJrIrS/psIOSZM4MaUXjLNlZ6nh5FdOFwEB30a/jLwaylWwxf4X/cFGO0URXJZl4f9xkbwDBfp6h+R8CC/Z8Hg95IorU0EWTXa1q7otwRhUK4dTfIpfm+MeMyg978MiYUfnI7MPLnQGgOaVLUi919F7N2a8144bUqf0LeLFADEqZZOXUSjuivMZ5bbvmWSNLRpe3xjianQ6sCriMWJ1qvrwy9USyO5PzYXqCTtWRXuS+7OH0Y8odGR4otfRvOV2lz1wHmapaQ/+oaBI3iu8rtG1VF4lT4wk9WPpNRWbNA9xPLb//bBnG+q74ohFFY=;N9VAYD4zareJUcQJhNvt0A=="
 ---
 

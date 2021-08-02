@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 660
         isCached: true
+  - title: "Anger mounts as Joe Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic. One Democratic lawmaker even camped outside the Capitol in protest as millions of Americans faced being forced from their homes."
+    publishedDateTime: 2021-08-01T22:45:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/01/anger-mounts-as-joe-biden-congress-allow-eviction-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/01/anger-mounts-as-joe-biden-congress-allow-eviction-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/01/anger-mounts-as-joe-biden-congress-allow-eviction-/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/-GksgUpS9z5qft0dpCDmrHLR40g=/480x0/media.spokesman.com/photos/2021/07/30/61043de35e668.hires.jpg"
+        width: 480
+        height: 346
+        isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z
@@ -111,17 +127,17 @@ related:
         isCached: true
   - title: "Congress, President Biden allow eviction moratorium to expire as COVID-19 cases, anger surge"
     excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic."
-    publishedDateTime: 2021-08-01T19:41:00Z
-    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
+    publishedDateTime: 2021-08-01T22:41:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 64
     images:
-      - url: "https://www.sun-sentinel.com/resizer/FPMsb--roKTPig6fQlNO0NLlqUc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVEWS6EOP5AGNG64JULCKW7SUA.jpg"
+      - url: "https://www.baltimoresun.com/resizer/FPMsb--roKTPig6fQlNO0NLlqUc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVEWS6EOP5AGNG64JULCKW7SUA.jpg"
         width: 1200
         height: 800
         isCached: true

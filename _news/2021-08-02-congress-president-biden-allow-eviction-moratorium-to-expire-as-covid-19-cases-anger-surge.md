@@ -2,26 +2,26 @@
 category: news
 title: "Congress, President Biden allow eviction moratorium to expire as COVID-19 cases, anger surge"
 excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic."
-publishedDateTime: 2021-08-01T19:41:00Z
-originalUrl: "https://www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html"
-webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html"
-ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
+publishedDateTime: 2021-08-01T22:41:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Sun Sentinel
-  domain: sun-sentinel.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.sun-sentinel.com/resizer/FPMsb--roKTPig6fQlNO0NLlqUc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVEWS6EOP5AGNG64JULCKW7SUA.jpg"
+  - url: "https://www.baltimoresun.com/resizer/FPMsb--roKTPig6fQlNO0NLlqUc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVEWS6EOP5AGNG64JULCKW7SUA.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 660
         isCached: true
+  - title: "Anger mounts as Joe Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic. One Democratic lawmaker even camped outside the Capitol in protest as millions of Americans faced being forced from their homes."
+    publishedDateTime: 2021-08-01T22:45:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/01/anger-mounts-as-joe-biden-congress-allow-eviction-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/01/anger-mounts-as-joe-biden-congress-allow-eviction-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/01/anger-mounts-as-joe-biden-congress-allow-eviction-/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/-GksgUpS9z5qft0dpCDmrHLR40g=/480x0/media.spokesman.com/photos/2021/07/30/61043de35e668.hires.jpg"
+        width: 480
+        height: 346
+        isCached: true
   - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z
@@ -179,6 +195,6 @@ related:
       domain: masslive.com
     quality: 34
 
-secured: "ehGrzshCF1uMJpmv09uyX6U6sTs8V9XDJ4ts+ASvBh/J8zVUGL5XDPAgXkGg9OP2zAjMhYLuTDU+U7msFP0m7PNvNOPwIlranQfafv9JVI4SY+EZ9zfFdc5dcfrJYpuazwZ9Dshb5di5qIl714y3mAJIPqy0zZQSKb6G+0EH+fy+zQw5ulyScTCqZVZWF24xY27kMFZd1ZhLBeLuykPWwvqAlCEXp6wpDoKvprWTvzHYQgSiasPmPhlMIysXZTrZfR8MRc8/1hpNbfNZDycnuEzMFZ7gPyTIOjFs7T7vI0q3sfpsu7viim6rnca+mukp7zqCfElKpXVAICq3WeTaLBkQeBnAwzD+Qzo7V4uIlWo=;8wu1t7g6rQEEmKf6Cns+hg=="
+secured: "uRLgMzNeb82Ga0NJqoHfGDBkTHCJbIpYr1pA6gNCWMS1aoRfWllhMUj1/3nXpQmzxjrVSE3BM/pwchpKHPTIgcTAUBHYMhD4jTr3nyqPMBDtEWgYcY9Xvt93o/Llrkeo5w3L+gOkNL7kFB+SvXAxAoINxpr+zarXBna2Pfw7LNGNVUOCTopIY3ERjmqbFIzr6QM1BeaLmSZNHoIw9oVWqLsSx2x86DmM+6kZzQbajQBdvx7tiGpNWFZ3xUz6wNI+UV56DFI6fyHaC+Wk4EUJXyJdihrsoL3Nsy2cJPw+fJeb7lWj3GVyrf/E+eeiIUjvjyve3m/a8/KC6T2vtToaU2UIb6H8E/g+O++UrPzIeP4=;nGDWyny2S5/9jgqT1NyVow=="
 ---
 

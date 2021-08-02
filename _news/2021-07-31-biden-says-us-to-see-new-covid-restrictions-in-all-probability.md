@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/biden-says-us-to-see-new-covid-rest
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
 type: article
 quality: 75
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -25,6 +25,24 @@ images:
     width: 768
     height: 512
     isCached: true
+
+related:
+  - title: "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash"
+    excerpt: "President Joe Biden on Thursday announced new measures to stop the spread of COVID-19 and the new Delta variant in the United States that will impact millions of federal workers, contractors and private citizens."
+    publishedDateTime: 2021-08-01T22:13:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210729&t=2&i=1570403906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6S1J9"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "IsrlzZL3N1tGOjR0ZFe+FXDO8It+PlXLwOyDNtyBbAgH7AGWrJBjTgPfDC5bNuScrDBU2wJlmEqhlpgBlgqgWRXh3GICt3Aj7suBMXBsjA6rvLg/8VwhOi/jjitYgwaOSGWxu/96ATcGyuqyHO9YioEXcjYtmmbLrq7hnyFxLu3ijw4QUG0IRYBr4xMBi+6Rwxun0lZALP4cCAiEKG5IEtEyHsWc87/f2Lv0gIx/VHpq4VPcgtDaWQv2/G5hL67nny+7SGHIqflgbySIF3HSXVY55cVQGZRzuwF91rY+oaXDI/q7s8ectPVfHtmHnA3RIGfuoxq7hGSbsOSOfIt9Xsoro/RLqG9D/hYgKZo5xK8=;wzDJ62yDC/taCeF3+HVUsw=="
 ---

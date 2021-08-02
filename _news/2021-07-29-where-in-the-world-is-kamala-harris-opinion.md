@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?a
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -306,6 +306,22 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/a9a697555277243f64e2dbf0553eb3d1/HARRIS-VOTING.jpg"
         width: 650
         height: 434
+        isCached: true
+  - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
+    excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."
+    publishedDateTime: 2021-08-01T22:12:00Z
+    webUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/"
+    ampWebUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 52
+    images:
+      - url: "https://cdni.rt.com/files/2021.08/xxl/610716e185f540464e68f288.JPG"
+        width: 1240
+        height: 697
         isCached: true
   - title: "Dems Face A Harris Problem: Vice President's Low Polls Raise Worries About Midterms"
     excerpt: "As Democrats vie to buck the trend of the President's party suffering a midterm poll loss, they have something serious to worry about: Vice President Kamala Harris's bad polls. A report by The Hill said Harris made some \"tactical missteps outside of the White House\" that have resulted in the unfavorable ratings."

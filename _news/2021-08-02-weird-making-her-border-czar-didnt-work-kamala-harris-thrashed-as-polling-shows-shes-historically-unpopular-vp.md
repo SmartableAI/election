@@ -1,22 +1,30 @@
 ---
 category: news
-title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
-excerpt: "While many people just hear levity in her laugh, those on the right react with heckles and attacks, a difference that says as much about the divisive state of politics as any debate."
-publishedDateTime: 2021-07-26T00:00:00Z
-originalUrl: "https://www.detroitnews.com/story/news/politics/2021/07/26/more-than-laugh-kamala-harris-sound-check-divided-country/8083137002/"
-webUrl: "https://www.detroitnews.com/story/news/politics/2021/07/26/more-than-laugh-kamala-harris-sound-check-divided-country/8083137002/"
+title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
+excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."
+publishedDateTime: 2021-08-01T22:12:00Z
+originalUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/"
+webUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/"
+ampWebUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
+cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
 type: article
-quality: 34
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: RT
+  domain: rt.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://cdni.rt.com/files/2021.08/xxl/610716e185f540464e68f288.JPG"
+    width: 1240
+    height: 697
+    isCached: true
 
 related:
   - title: "Where in the World is Kamala Harris? | Opinion"
@@ -311,22 +319,6 @@ related:
         width: 650
         height: 434
         isCached: true
-  - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
-    excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."
-    publishedDateTime: 2021-08-01T22:12:00Z
-    webUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/"
-    ampWebUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 52
-    images:
-      - url: "https://cdni.rt.com/files/2021.08/xxl/610716e185f540464e68f288.JPG"
-        width: 1240
-        height: 697
-        isCached: true
   - title: "Dems Face A Harris Problem: Vice President's Low Polls Raise Worries About Midterms"
     excerpt: "As Democrats vie to buck the trend of the President's party suffering a midterm poll loss, they have something serious to worry about: Vice President Kamala Harris's bad polls. A report by The Hill said Harris made some \"tactical missteps outside of the White House\" that have resulted in the unfavorable ratings."
     publishedDateTime: 2021-07-30T13:00:00Z
@@ -415,6 +407,15 @@ related:
       name: vnanet.vn
       domain: vnanet.vn
     quality: 35
+  - title: "More than a laugh: Kamala Harris' is a sound check for a divided country"
+    excerpt: "While many people just hear levity in her laugh, those on the right react with heckles and attacks, a difference that says as much about the divisive state of politics as any debate."
+    publishedDateTime: 2021-07-26T00:00:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/07/26/more-than-laugh-kamala-harris-sound-check-divided-country/8083137002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 34
   - title: "Video Clip: Vice President Kamala Harris on the Americans with Disabilities Act (ADA)"
     excerpt: "President Joe Biden and Vice President Kamala Harris marked the 31st anniversary of the Americans with Disabilities Act (ADA) with a ceremony at the White House. The legislation was first signed into law on July 26,"
     publishedDateTime: 2021-07-26T00:00:00Z
@@ -434,6 +435,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "uG0ELIrGNDiSYq8VYLETbK1W9OTKzRVOhhm6mCmZIV+mmwSp8OAvFkbGeTc1SL7qdWQyFTQm87nWpMxyn16CiXpzm7n4aR6PAUxP/7gCsBYrdkb9Mst3ut6RJQMHZyWDL9z2E9gMVqvLaYAio1A3OVXADsn4iOTSULloUM9UG6PT+ZJ9CrWZvkevMZcz1lFmnYLCSKGB8CdGpBGbux5n5cGDdrfB+n8fVecjro6b2lt3kvAcceeqK3DGawUwIjCCrZ7a+/0jUHqUZK3gwiT+1L617+ONxfFemSgipOMDTG2H+m0GO2E+0zjQDP+YeecoZBMahja4RnJ54N5cHY3cETvCREi+uAGGJeoE44i4xzQ=;NYD0qzo4OE+7xuNeeQZFiw=="
+secured: "aqwsA4hSbzrfFrua/ewxLwHfDtKv4j+3KKQIwIpWMJGSZGcyCQ9BF6MBjBXn+8jnYSHk9gg6PVUO/JvoKLTQnoeboHt1WxNHkDULvSTDKG3mTqT3iG2+6bvQszXASCaRcAEp/8Lz2GuOinhef8pC+DvNqzNcR4G+pN+9Pv0QcU7x667vg3t9sEdrYAbW6ZVLvy7FSylgIU8MyW3wHB4qzXEnQRyaCDOkSyGgAApVHfVjWKC+ZIMcT5cKGOp2h8BEjaWRhgIbMj2n4eUd6CMNkJwG416EikA04kUsrgoXlIZmVS40S04Z/ttYTTlOdXcCzXsDWIohmL+3vToo/3z8E9xk6Qc23LuA3rswivhoeEo=;A3zXy3IwgWxoy5R9JXNsrw=="
 ---
 

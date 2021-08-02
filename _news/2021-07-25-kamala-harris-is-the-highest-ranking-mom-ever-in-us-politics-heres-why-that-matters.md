@@ -303,6 +303,22 @@ related:
         width: 650
         height: 434
         isCached: true
+  - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
+    excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."
+    publishedDateTime: 2021-08-01T22:12:00Z
+    webUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/"
+    ampWebUrl: "https://www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/530857-kamala-harris-polls-unpopular/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 52
+    images:
+      - url: "https://cdni.rt.com/files/2021.08/xxl/610716e185f540464e68f288.JPG"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Dems Face A Harris Problem: Vice President's Low Polls Raise Worries About Midterms"
     excerpt: "As Democrats vie to buck the trend of the President's party suffering a midterm poll loss, they have something serious to worry about: Vice President Kamala Harris's bad polls. A report by The Hill said Harris made some \"tactical missteps outside of the White House\" that have resulted in the unfavorable ratings."
     publishedDateTime: 2021-07-30T13:00:00Z
