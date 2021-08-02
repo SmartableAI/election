@@ -85,6 +85,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Jake Ellzey beat Susan Wright for Congress by keeping it local amid Donald Trump, national circus"
+    excerpt: "Political consultants from both major parties are effective at taking national talking points and selling them to voters who speak the same language — whether it’s building a border wall, election integrity,"
+    publishedDateTime: 2021-08-02T10:30:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 62
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/dwxLtuVlsCCkLJul4tszk2pSuII=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/DEF5T2BZYVHAJNJS6ABB3AUB2Q.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In a major upset against a candidate backed by Donald Trump, Jake Ellzey wins runoff for Fort Worth-area congressional seat"
     excerpt: "Wright and Ellzey are vying to finish the term of Ron Wright, who died earlier this year after contracting COVID-19. His Republican-leaning seat touches Fort Worth and stretches southeast to more rural areas."
     publishedDateTime: 2021-07-27T11:00:00Z

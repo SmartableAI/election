@@ -59,6 +59,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Trump's political cash hits $102M"
+    excerpt: "Former President Donald Trump has proved himself his party's most powerful fundraiser in the first six months of the year, amassing a political treasure chest of $102 million by the end of June, according to filings made public Saturday."
+    publishedDateTime: 2021-08-02T10:30:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/trumps-political-cash-hits-102m/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "FY/6W/UUrICwug0dirZohkYi8zgExhFNAj1CsT1tJQPBDcS4UfY+aJWOcN9YhursDOGBXrVt3FRda2evnEibmznTFKrsIhEcD/+DSAq+uLwRSvv/sPbF0B/c3Gm/fhLENqRTJHDKCPUaBy2mRxeMDy6Wjdehp2139wm2gpPecq2XjwpvZIcbNkZWJrHBpe/COD9UQ19SrGR2rXsWjn9wxYi85DRWBwxq8Quy4C8nHjcQ0rYeVW8ix0r+5lIHRig2RdqZtE3Pymha6Xs+Svl7BW5APtTK6P1zeqX6PiHKy5CjApmtCVw08K//AeXTvnVsozZyaLVpYZ4N/y+Soh/BG08RKcVvptBPt12AWPhKTso=;hq9Q1rftawoWFgIFxnSktg=="
 ---

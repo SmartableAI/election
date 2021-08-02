@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-gui
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-AAvmDa9Bvc/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/ohio-15-special-election-trump/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/ohio-15-special-election-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's $100 million threat to democracy"
+    excerpt: "Donald Trump now has a $100 million weapon to wield against US democracy.\n    \n"
+    publishedDateTime: 2021-08-02T05:18:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uLsWjPK5RgA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/donald-trump-doj-republicans-insurrection-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/donald-trump-doj-republicans-insurrection-january-6/index.html"
     type: article
     provider:
       name: CNN

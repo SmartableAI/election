@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's $100 million threat to democracy"
+    excerpt: "Donald Trump now has a $100 million weapon to wield against US democracy.\n    \n"
+    publishedDateTime: 2021-08-02T05:18:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uLsWjPK5RgA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/donald-trump-doj-republicans-insurrection-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/donald-trump-doj-republicans-insurrection-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "California businessman indicted on lobbying charges has counted Trump among his 'closest friends'"
     excerpt: "The illegal foreign lobbying charges brought against Tom Barrack on Tuesday punctuate a winding business and political career defined by his unique staying power in former President Donald Trump's constantly shifting orbit of advisers.\n    \n"
     publishedDateTime: 2021-07-21T02:34:46Z

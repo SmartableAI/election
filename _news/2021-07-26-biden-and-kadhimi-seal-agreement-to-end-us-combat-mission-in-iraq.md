@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
 type: article
 quality: 125
-heat: 425
+heat: 345
 published: true
 
 provider:
@@ -109,22 +109,6 @@ related:
         width: 480
         height: 346
         isCached: true
-  - title: "Democrats ask Biden to immediately extend eviction ban"
-    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation’s eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
-    publishedDateTime: 2021-08-02T05:07:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/democrats-ask-biden-to-immediately-extend-eviction-ban-2411642/"
-    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/democrats-ask-biden-to-immediately-extend-eviction-ban-2411642/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/democrats-ask-biden-to-immediately-extend-eviction-ban-2411642/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 75
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/08/15438440_web1_eviction.3-1.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Pelosi, Democrats call on Biden to extend eviction ban"
     excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
     publishedDateTime: 2021-08-02T09:22:00Z
@@ -189,17 +173,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Evictions looming, Biden fails to get Congress to extend ban"
-    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
-    publishedDateTime: 2021-08-02T09:43:00Z
-    webUrl: "https://www.sacbee.com/news/article253153568.html"
-    ampWebUrl: "https://amp.sacbee.com/news/article253153568.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253153568.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 55
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
     publishedDateTime: 2021-07-30T23:01:00Z
@@ -228,24 +201,6 @@ related:
         width: 948
         height: 711
         isCached: true
-  - title: "Frustration as Biden, Congress allow eviction ban to expire"
-    excerpt: "The rare division between President Biden and congressional Democrats carried potential lasting political ramifications."
-    publishedDateTime: 2021-08-01T17:20:00Z
-    webUrl: "https://thegrio.com/2021/08/01/eviction-ban-expir/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 35
-  - title: "Frustration as President Joe Biden, Congress allow eviction ban to expire"
-    excerpt: "Lawmakers said they were blindsided by President Joe Biden’s inaction as the deadline neared, some furious that he called on Congress to provide a last-minute solution to protect renters. The rare division between the president and his party carried potential lasting political ramifications."
-    publishedDateTime: 2021-08-01T15:51:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2021/08/frustration-as-president-joe-biden-congress-allow-eviction-ban-to-expire.html"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 34
 
 secured: "Le9XmI8sOJtLz6ZtAnx/IxVNb8YE/V+fEgDAGBRiCVxbZsEyD+Ue9ct6DU3jTuRwaityurVKabDrpT3rXqaKgwaWbw5tKqydIqEoP5170KJdqLYcM+It28CzyMLWPVH6LY6Pxdkf50bd+DZ9nM9unf9yGDhAfcfsgMR16hKQUA3FG3/t+X4v0YNXPR6KWNBNKljeS94rQfqZKMpD4kBBgJ3ApfV0cmcTiYj1lhDt08XZN/zcI0P4SPX09QAtxnsCPe86M82micbSlwG6YHS9H5eyNs1Pz2E7P2hfHdNX4yOyTmU+0flhHnSzTIbUhl/6SnmmYYEvc4MavmmO1loBXbotxS1H4XAJbUy55O6pXit6fQPc+rFoeVe62PJy36vvhCdhRbE1k5/lGM8mqAf7vvI7KbDZrzeMOmd9CQ1B7Vqsb5vIKBfsXlFLLWco4+XSGaflnATCUHhMzOq9hyStFhwnqAQolIHw+rULZtf9mFixwE53ryN+wZLTWI4I2QP2MQfqeYJiag8uZkF7OoG3/A==;HDAtRj6pESenVQ8PPcGzFQ=="
 ---

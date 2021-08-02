@@ -41,22 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "8 US attorney picks by Biden would include historic firsts"
-    excerpt: "President Joe Biden is nominating eight new leaders for U.S. attorney positions, including in the office overseeing the prosecutions of defendants in the Capitol insurrection"
-    publishedDateTime: 2021-07-26T14:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/us-attorney-picks-biden-include-historic-firsts-79063674"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-attorney-picks-biden-include-historic-firsts-79063674"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-attorney-picks-biden-include-historic-firsts-79063674"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d69a3917f55c4aca9968fd54bf57e968_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Inflation fears and politics shape views of Biden economy"
     excerpt: "President Joe Biden is banking on the idea of making life more affordable for middle-class families — and that's where the recent bout of inflation poses both a political and an economic risk. The U.S."
     publishedDateTime: 2021-07-26T17:30:00Z

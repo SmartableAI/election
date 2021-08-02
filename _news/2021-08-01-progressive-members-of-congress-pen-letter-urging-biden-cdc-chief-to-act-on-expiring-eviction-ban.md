@@ -313,6 +313,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "Biden's judges: More diverse and more of them"
+    excerpt: "With no Supreme Court opening to slow them, President Joe Biden and Senate Democrats are putting judges on federal trial and appellate courts at a much faster"
+    publishedDateTime: 2021-08-02T11:52:00Z
+    webUrl: "https://www.bgdailynews.com/news/politics/bidens-judges-more-diverse-and-more-of-them/article_b77c8d43-6f83-5075-b36a-5ed6f206dee8.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/6/4b/64b67a7b-1802-56c1-8f1b-e9b6ea40af0e/6107d0bd0ab87.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
     excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
     publishedDateTime: 2021-08-01T18:36:00Z

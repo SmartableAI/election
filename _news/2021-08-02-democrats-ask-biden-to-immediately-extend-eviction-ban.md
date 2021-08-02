@@ -27,163 +27,99 @@ images:
     isCached: true
 
 related:
-  - title: "Biden and Kadhimi seal agreement to end US combat mission in Iraq"
-    excerpt: "President and PM meet at Oval Office and announce schedule to shift mission entirely to training and advisory role by end of this year"
-    publishedDateTime: 2021-07-26T15:00:00Z
-    webUrl: "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
+  - title: "Pastor Greg Locke Says Only 'Crack-Smoking' Leftists Believe Joe Biden Won Election"
+    excerpt: "Controversial Tennessee pastor Greg Locke again insisted President Joe Biden was not legitimately elected, and claimed only \"crack-smoking\" leftists would think he beat Donald Trump to the White House."
+    publishedDateTime: 2021-08-02T10:56:00Z
+    webUrl: "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146"
+    ampWebUrl: "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
     images:
-      - url: "https://i.guim.co.uk/img/media/128af502e617b1e5bf969afb2545849df37b1c60/0_0_4385_2630/master/4385.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef0434ac01738e54ec3dca6dd172c5dc"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1859523/greg-locke-railed-against-president.jpg"
+        width: 1213
+        height: 739
         isCached: true
-  - title: "Eviction crisis looms after Biden and Congress fail to extend Covid ban"
-    excerpt: "More than 3.6 million at risk of eviction after Covid relief ends and last-minute lawmakers’ scramble fails to find solution"
-    publishedDateTime: 2021-07-31T10:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/31/eviction-moratorium-ends-biden-congress-covid-ban-democrats-republicans"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/31/eviction-moratorium-ends-biden-congress-covid-ban-democrats-republicans"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/31/eviction-moratorium-ends-biden-congress-covid-ban-democrats-republicans"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/70b5a350b5cfd69a780389b4b5dc0f28e07b9d12/0_149_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b1d81c94b16c93690832c2a9be4ba19"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Anger mounts as Biden, Congress allow eviction ban to expire"
-    excerpt: "Millions of Americans face being forced from their homes now that a moratorium on evictions during the COVID-19 pandemic has expired"
-    publishedDateTime: 2021-08-01T17:03:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+  - title: "8 US attorney picks by Biden would include historic firsts"
+    excerpt: "President Joe Biden is nominating eight new leaders for U.S. attorney positions, including in the office overseeing the prosecutions of defendants in the Capitol insurrection"
+    publishedDateTime: 2021-07-26T14:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-attorney-picks-biden-include-historic-firsts-79063674"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-attorney-picks-biden-include-historic-firsts-79063674"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-attorney-picks-biden-include-historic-firsts-79063674"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d69a3917f55c4aca9968fd54bf57e968_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to meet Iraqi prime minister at White House amid discussions on redeployment of U.S. troops"
-    excerpt: "Meeting between Joe Biden and Iraqi prime minister comes amid reports the two countries are nearing agreement on redeployment of U.S. combat troops."
-    publishedDateTime: 2021-07-26T07:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/26/biden-meet-iraqi-prime-minister-amid-troop-redeployment-talks/8075835002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/8075835002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8075835002"
+  - title: "President Biden says Congress should extend eviction ban"
+    excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins \"CBSN AM\" to discuss the latest."
+    publishedDateTime: 2021-07-30T13:15:00Z
+    webUrl: "https://www.cbsnews.com/video/pres-biden-urges-congress-to-extend-eviction-ban/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/pres-biden-urges-congress-to-extend-eviction-ban/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/pres-biden-urges-congress-to-extend-eviction-ban/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/23/USAT/f4a5def4-b4b3-4e48-9a8e-858b797dc3eb-Iraq_suicide_bomb.jpg?auto=webp&crop=4499,2531,x1,y291&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Joe Biden, Iraqi PM to Announce End of U.S. Combat Mission in Iraq"
-    excerpt: "President Joe Biden and Iraqi Prime Minister Mustafa al-Kadhimi are expected to announce on Monday that they’ve come to an agreement to end the U.S. military’s combat mission in Iraq by the end of the year,"
-    publishedDateTime: 2021-07-26T09:25:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-26/biden-iraqi-pm-to-announce-end-of-us-combat-mission-in-iraq"
+  - title: "Frustration as Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
+    publishedDateTime: 2021-07-31T19:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLbPzoiVnUcc/v0/1200x660.jpg"
-        width: 1200
-        height: 660
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OICFDYHRNEI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Anger mounts as Joe Biden, Congress allow eviction ban to expire"
-    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic. One Democratic lawmaker even camped outside the Capitol in protest as millions of Americans faced being forced from their homes."
-    publishedDateTime: 2021-08-01T22:45:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/aug/01/anger-mounts-as-joe-biden-congress-allow-eviction-/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/01/anger-mounts-as-joe-biden-congress-allow-eviction-/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/01/anger-mounts-as-joe-biden-congress-allow-eviction-/?amp-content=amp"
+  - title: "Evictions looming, Biden fails to get Congress to extend ban"
+    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from More than 3."
+    publishedDateTime: 2021-07-31T05:54:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/-GksgUpS9z5qft0dpCDmrHLR40g=/480x0/media.spokesman.com/photos/2021/07/30/61043de35e668.hires.jpg"
-        width: 480
-        height: 346
-        isCached: true
-  - title: "Pelosi, Democrats call on Biden to extend eviction ban"
-    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
-    publishedDateTime: 2021-08-02T09:22:00Z
-    webUrl: "https://www.timesunion.com/news/article/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pelosi-Democrats-call-on-Biden-to-extend-16356551.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
         isCached: true
-  - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
-    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
-    publishedDateTime: 2021-07-19T19:10:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+  - title: "Frustration as President Joe Biden, Congress allow eviction ban to expire"
+    excerpt: "Lawmakers said they were blindsided by President Joe Biden’s inaction as the deadline neared, some furious that he called on Congress to provide a last-minute solution to protect renters. The rare division between the president and his party carried potential lasting political ramifications."
+    publishedDateTime: 2021-08-01T15:51:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/08/frustration-as-president-joe-biden-congress-allow-eviction-ban-to-expire.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2021/08/frustration-as-president-joe-biden-congress-allow-eviction-ban-to-expire.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/08/frustration-as-president-joe-biden-congress-allow-eviction-ban-to-expire.html?outputType=amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
+      name: MassLive
+      domain: masslive.com
+    quality: 74
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Congress, President Biden allow eviction moratorium to expire as COVID-19 cases, anger surge"
-    excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic."
-    publishedDateTime: 2021-08-01T22:41:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-congress-evictions-moratorium-20210801-ltd64bxauvgqlghbo4fvg7koj4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 64
-    images:
-      - url: "https://www.baltimoresun.com/resizer/FPMsb--roKTPig6fQlNO0NLlqUc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVEWS6EOP5AGNG64JULCKW7SUA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden to announce end of US mission in Iraq; typhoon headed for Olympics; Jan. 6 committee to start work"
-    excerpt: "President Biden set to announce end of U.S. mission in Iraq; typhoon headed for Olympics; and Jan. 6 committee begins work. Get caught up."
-    publishedDateTime: 2021-07-26T11:30:00Z
-    webUrl: "https://omaha.com/news/national/biden-to-announce-end-of-us-mission-in-iraq-typhoon-headed-for-olympics-jan-6/article_45e153c0-df38-5d53-b1aa-2d7d6bcb7669.html"
-    ampWebUrl: "https://omaha.com/news/national/biden-to-announce-end-of-us-mission-in-iraq-typhoon-headed-for-olympics-jan-6/article_45e153c0-df38-5d53-b1aa-2d7d6bcb7669.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/biden-to-announce-end-of-us-mission-in-iraq-typhoon-headed-for-olympics-jan-6/article_45e153c0-df38-5d53-b1aa-2d7d6bcb7669.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 58
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/45/f45e5382-973d-5a9a-9b98-e1ae66d7ae45/60fe98480cfa2.image.jpg?resize=1024%2C682"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WVYGKAEWXNCIBFQERCXTRFSMZI.jpg"
         width: 1024
-        height: 682
+        height: 683
         isCached: true
   - title: "Evictions looming, Biden fails to get Congress to extend ban"
     excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
@@ -196,34 +132,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 55
-  - title: "President Joe Biden meets with governors to find help battling raging wildfires"
-    excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
-    publishedDateTime: 2021-07-30T23:01:00Z
-    webUrl: "https://www.desmoinesregister.com/videos/news/weather/2021/07/30/wildfires-governor-says-theres-shortage-supplies-battle-fires/5433281001/"
+  - title: "Frustration as Joe Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."
+    publishedDateTime: 2021-08-01T00:05:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/31/frustration-as-joe-biden-congress-allow-eviction-b/"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/30/USAT/c013de64-f62f-4351-9b1c-03e800b523b4-VPC_WILD_FIRE_SOT_GOV_INSLEE_DESK.00_00_04_19.Still001.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "House Speaker Pelosi And Democratic Leaders Call On Biden To Extend Eviction Ban"
-    excerpt: "Congress was unable to pass legislation swiftly to extend the ban, which expired at midnight Saturday, and the Democratic leaders said in a statement that it was now up to President Joe Biden's administration to act. They called on the administration to ..."
-    publishedDateTime: 2021-08-02T05:24:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1023581861/house-speaker-pelosi-and-democratic-leaders-call-on-biden-to-extend-eviction-ban"
-    type: article
-    provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
-    quality: 50
-    images:
-      - url: "https://media.npr.org/assets/img/2021/08/01/ap21211686663985-9c220819cf8a50349e3d1ac7f961bd00178e9c37.jpg?s=6"
-        width: 948
-        height: 711
-        isCached: true
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 35
   - title: "Frustration as Biden, Congress allow eviction ban to expire"
     excerpt: "The rare division between President Biden and congressional Democrats carried potential lasting political ramifications."
     publishedDateTime: 2021-08-01T17:20:00Z
@@ -233,15 +150,6 @@ related:
       name: The Grio
       domain: thegrio.com
     quality: 35
-  - title: "Frustration as President Joe Biden, Congress allow eviction ban to expire"
-    excerpt: "Lawmakers said they were blindsided by President Joe Biden’s inaction as the deadline neared, some furious that he called on Congress to provide a last-minute solution to protect renters. The rare division between the president and his party carried potential lasting political ramifications."
-    publishedDateTime: 2021-08-01T15:51:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2021/08/frustration-as-president-joe-biden-congress-allow-eviction-ban-to-expire.html"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 34
 
 secured: "/qaHM4uh9k7H4Hft/NHnyOHzOOQRc+oH/x+sc9kM8UBD5qfugT4WU3JfeQyPoh2jWcjgw5CWIKMyQn6zCjlAR4yjw+EfrshQ+4/MRqM4ugaYYXESPzGe4K80EUM0L5JttW/SRobFDtciGzqwD7hbJMIoDXFYsYW3aVbw3HAKwunqntbE6CM92/cYLp13u5H+fidbQcQQE5atW2f9SAhFb+d3XzR3j7NcpupTEYFzLoBxhvcKAJYD5eZibfS9CBR8hrpd4RNYA1/x1r/u00DRZ4ucgqT9GriuBM8AHteWy4Lich5aNmK6QMmxH+klmVmReE/l0FMLofOxwDhe+rStn3qcx/SD1RT9SONlwHc0Wlo=;JuPlqeIxFhyGwPl4Nqbm4w=="
 ---

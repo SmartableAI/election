@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 820
+heat: 840
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729165157-03-biden-announcement-0729-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration expands access to refugee program for Afghans who worked with US"
+    excerpt: "The State Department announced Monday that it will expand access to the US refugee program for certain Afghans amid fears of reprisal by the Taliban as the US military withdrawal nears completion.\n    \n"
+    publishedDateTime: 2021-08-02T10:53:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3PuE8Ki_EU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/us-afghan-siv-refugee-program/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/us-afghan-siv-refugee-program/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/150923125213-translator-afghanistan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

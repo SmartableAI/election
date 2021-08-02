@@ -121,22 +121,6 @@ related:
         width: 480
         height: 346
         isCached: true
-  - title: "Democrats ask Biden to immediately extend eviction ban"
-    excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation’s eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
-    publishedDateTime: 2021-08-02T05:07:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/democrats-ask-biden-to-immediately-extend-eviction-ban-2411642/"
-    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/democrats-ask-biden-to-immediately-extend-eviction-ban-2411642/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/democrats-ask-biden-to-immediately-extend-eviction-ban-2411642/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 75
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/08/15438440_web1_eviction.3-1.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Pelosi, Democrats call on Biden to extend eviction ban"
     excerpt: "House Speaker Nancy Pelosi and the House Democratic leaders called on the Biden administration to immediately extend the nation's eviction moratorium, calling it a “moral imperative” to prevent Americans from being put out of An estimated 3."
     publishedDateTime: 2021-08-02T09:22:00Z
@@ -185,17 +169,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Evictions looming, Biden fails to get Congress to extend ban"
-    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
-    publishedDateTime: 2021-08-02T09:43:00Z
-    webUrl: "https://www.sacbee.com/news/article253153568.html"
-    ampWebUrl: "https://amp.sacbee.com/news/article253153568.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253153568.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 55
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
     publishedDateTime: 2021-07-30T23:01:00Z
@@ -224,24 +197,6 @@ related:
         width: 948
         height: 711
         isCached: true
-  - title: "Frustration as Biden, Congress allow eviction ban to expire"
-    excerpt: "The rare division between President Biden and congressional Democrats carried potential lasting political ramifications."
-    publishedDateTime: 2021-08-01T17:20:00Z
-    webUrl: "https://thegrio.com/2021/08/01/eviction-ban-expir/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 35
-  - title: "Frustration as President Joe Biden, Congress allow eviction ban to expire"
-    excerpt: "Lawmakers said they were blindsided by President Joe Biden’s inaction as the deadline neared, some furious that he called on Congress to provide a last-minute solution to protect renters. The rare division between the president and his party carried potential lasting political ramifications."
-    publishedDateTime: 2021-08-01T15:51:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2021/08/frustration-as-president-joe-biden-congress-allow-eviction-ban-to-expire.html"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 34
 
 secured: "bs5rJrsWMmh8JUoFi4l/CAEYhzG5bcMJnjPI1z6WlPBAXKpYg/RATduMSyVWYh+jdR1BZ5tOPOtu7XEozgr8LKeDJWgKjYAVBuM9IMM/cp6Vh9tl3Hf81OJ2LNuYMAXHaGo5x0DGtkAIWw/nstj/4qAXq8U69jztnMRfud6guFKGCLzg8Lgbku4fEoSuwsCcouqUTUlj8+FYrrspv5OpTcPi8RHUmNJkilvqv6xnL0W9nsslRP+IvqWG3vJe9gj6djbD97iRpjTqtAGTmlM3agcXcDEZPr0Ximl3Byi0hX6GExHgnjMIBG5/sVHH5JqbhcJMlOx3dJCVknHQrzs95AI0dPq/qznYZKwWSadB9sXyNwj9ZACQHirLvjzpXCJa5nu2R3+9+uqR77kRuDQbD0uiwLz28uiIWhgadlSVEJzgNoVR52tZDN6VeBRhjuYtIvN8x9m1Ew6UOtGkv5ineIh9mcn2NkYVlfXDfvwggkGV5tafdZXeie9Xk8Lr+k2ESZh9xQDd7CF2WgqPA9O/Ew==;OcHboaUi47r0NpcnrDzuqg=="
 ---

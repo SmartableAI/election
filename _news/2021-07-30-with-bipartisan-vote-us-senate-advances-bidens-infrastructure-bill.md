@@ -95,22 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "President Biden says Congress should extend eviction ban"
-    excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins \"CBSN AM\" to discuss the latest."
-    publishedDateTime: 2021-07-30T13:15:00Z
-    webUrl: "https://www.cbsnews.com/video/pres-biden-urges-congress-to-extend-eviction-ban/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/pres-biden-urges-congress-to-extend-eviction-ban/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/pres-biden-urges-congress-to-extend-eviction-ban/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden sees shortages to stop climate-change fueled wildfires"
     excerpt: "President Joe Biden is sounding the alarm about the need for more resources to fight a series of wildfires in Western states"
     publishedDateTime: 2021-07-30T17:17:00Z
@@ -168,20 +152,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f8d52a93-54db-41aa-9e82-af26b57d5357_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Frustration as Biden, Congress allow eviction ban to expire"
-    excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
-    publishedDateTime: 2021-07-31T19:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/evictions-loom-after-biden-congress-fail-to-extend-ban/2021/07/31/432c1f9c-f1b4-11eb-81b2-9b7061a582d8_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OICFDYHRNEI6XANSTNYGDJMC3A.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "President Biden says the U.S. combat mission in Iraq will be over by end of 2021"
     excerpt: "President Joe Biden tells Iraqi Prime Minister Mustafa al-Kadhimi that the U.S. military's combat mission in Iraq will be over by the end of the year."
@@ -256,22 +226,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Evictions looming, Biden fails to get Congress to extend ban"
-    excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from More than 3."
-    publishedDateTime: 2021-07-31T05:54:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Congress-in-longshot-bid-to-extend-expiring-16351992.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Evictions loom after Joe Biden and Congress fail to extend ban"
     excerpt: "A nationwide eviction moratorium is set to expire Saturday night after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their homes during a COVID-19 surge."
     publishedDateTime: 2021-07-31T14:27:00Z
@@ -308,15 +262,6 @@ related:
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 35
-  - title: "Frustration as Joe Biden, Congress allow eviction ban to expire"
-    excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."
-    publishedDateTime: 2021-08-01T00:05:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/31/frustration-as-joe-biden-congress-allow-eviction-b/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
     quality: 35
 
 secured: "vaBEfZsLoLwELXk+cYmqrkIZ7WxaJHWGrdreRLS92bOZ8VRwrck7izAzjQguGsZsAI+PSeloS1TvOKBa4/oDXRAf6I7XBND4WFZodHEP1ySraGx58yg8bD7VIQJyaaXw43rDl/l0R0EIPwXja6kDdDHbm/hpxwl+svFhc9B43oks5vBpnwgNF1I03hKjzS1yNrLl11t6xxLmNQ65U5h7ZB9G8l+XaCoYaKOFLw0/p8qORHxCAX42rAuyEqmTMtHZuSy9vmEW+KO7hLD6/DOIeyFxqnj3h2DaUE4Lh5FqtFEm6XYAX0V5aLuoNQ4R1kvMtUArjvauWSLzte0Xd6FGvFDwYdcPIpMDO3PBG+kQvdk=;5kcnc26oeLpmeKeyTUP3vA=="

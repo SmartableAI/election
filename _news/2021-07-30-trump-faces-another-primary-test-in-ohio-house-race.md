@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's $100 million threat to democracy"
+    excerpt: "Donald Trump now has a $100 million weapon to wield against US democracy.\n    \n"
+    publishedDateTime: 2021-08-02T05:18:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uLsWjPK5RgA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/donald-trump-doj-republicans-insurrection-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/donald-trump-doj-republicans-insurrection-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump ally Tom Barrack charged with acting as an agent of a foreign government"
     excerpt: "Tom Barrack, a former adviser to former President Donald Trump, was charged Tuesday with illegal foreign lobbying on behalf of the United Arab Emirates for what federal prosecutors described as an effort to influence the foreign policy positions of both the 2016 Trump presidential campaign and the subsequent"
     publishedDateTime: 2021-07-20T19:48:59Z
