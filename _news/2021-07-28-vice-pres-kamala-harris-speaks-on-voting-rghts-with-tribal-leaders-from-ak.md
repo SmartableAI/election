@@ -3,8 +3,8 @@ category: news
 title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
 excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
 publishedDateTime: 2021-07-27T22:58:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/a9a697555277243f64e2dbf0553eb3d1/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/a9a697555277243f64e2dbf0553eb3d1/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
 type: article
 quality: 53
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/fa4baa391ff1941571c4e042df917a5a/HARRIS-VOTING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/a9a697555277243f64e2dbf0553eb3d1/HARRIS-VOTING.jpg"
     width: 650
-    height: 433
+    height: 434
     isCached: true
 
 related:
@@ -435,6 +435,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "JF0FM8QaMZ9l/rm/uLE8PkNHL6HhWa2w4Wd0Ao18WJrrE7SzbwZ5vG7XKwrx9r0tkcmobIWUJhKUa6SZ/iE2/3/ykrikX4P3WGaS/rHathgUgjOVxfsYZxMnuHhdEBIv7HfXDwkfCeJcJLAPx4IEPtUIih/CiiBCV7mlbZ8Z43d3o1mQay0hXBF/rnsqIFYa+GPchVz3JoEQgsdMTHMFTvXroGFtv5W+5SwxjYgV5Bmyrr9qC5gLsWkM+/xcVAHfqrQKmn0FCKZgcsdSIaf5rqup4wnLwASD5HmuSHL6+G1xC7oLBabMH3V0GT4DO1qurVUQvYphpLxdMwM6rXaKIWn8tpeI8n/CL5I5X7p3eqY=;mm944ALQS7M9l90/tSoJfQ=="
+secured: "dcXgZd3FTHl+DT5mKVY4r+aO9pkhXKD3wF4nmPBTfhq0v/x43kce87NM3c3N9lJ32yt6umuDkni9YITpLX4tE7Sd+MIOX4Dt4piQGYa9uBtNr1Ycs8BNot8hnRQJTO4isHKfEsk4+k7b32ogyLRUW4BK6L21G6vlsnAN/Ogfq9wXNdkVusEWY889bQa7vzgjQ+DSmgpIE2TmftfId+PhLycnzVBmNjtwNwgHzUC2Sq+jXfQgGaW37ObJ56de5inLa+NDJygmFBmAlj3+Ixt+FCuSr6LHjW0H7Mphhj0OyrWVhqEZuknFAjyErTl9Hbh+UsLeom2sO3BTGn9f/WZY9SZmtYlQQ7wbwesG6ytA9HQ=;Ut8C+4xvORQHaW2ppv/MQA=="
 ---
 

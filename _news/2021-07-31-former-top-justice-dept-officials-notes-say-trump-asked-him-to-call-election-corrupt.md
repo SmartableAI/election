@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-j
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
 type: article
 quality: 131
-heat: 391
+heat: 431
 published: true
 
 provider:
@@ -205,6 +205,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to object to release of tax returns"
+    excerpt: "Former President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal"
+    publishedDateTime: 2021-08-02T21:25:00Z
+    webUrl: "https://www.unionleader.com/news/national/trump-to-object-to-release-of-tax-returns/article_dfe187cb-401c-5433-bb6c-d038cb77e193.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
     excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T22:38:00Z
@@ -219,6 +233,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump to Object to Release of Tax Returns - Lawyer"
+    excerpt: "Former U.S. President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal lawyers signaled on Monday."
+    publishedDateTime: 2021-08-02T21:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-02/trump-to-object-to-release-of-tax-returns-lawyer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "PbRGDHJk4+2N+i+m1zfLeZjAIwqsO2TKpKYzpEAtg3s3hFX3nw1Yrhadu4PlFOXNG9LZi2SaSZXDoR84+f961K86omACIT8YB8EVBo9vUQx8DsiPWS7G4U8wPVNZbjZ26YzB6yDUAHFKvPtMTBxyujfbTadCeY4TBlQErgc3Lgjy9lOEOPZPVZNiAFsMByOJLxJFvXdKU2/E2JlVcjadSRx4/0GrkUOltzgZAe6FOGs3ZXN53W/DdfBTtxaQ8hyRLOPNOUVmi5RfVwJcbEbrrnbGC82Z+mPy4Ks6UDSxZjKPUeOd07Cdfa5A7ZeezcYUKtWC3H9dZ/3Th+jrgZqtqt8W2bHBY+kVvQRv787E2n7JmlHGf2c/wEJu1CCYGv2gRMjb5fsb3mdWhSK9IYtGTkgxZKu28BrbGqixIkf0SX8nc1R1T6tNagtrgbnZlJzwFYGqf8dmBO7wtGbvsAloek8sYoMKP4fTiNi7gspeSPWh2BtXO8CS2iXx4aKECtG1orKo2BGpJDOwykGEiPoVaQ==;yX6nr8bymNoBppdw+3PwEw=="
 ---

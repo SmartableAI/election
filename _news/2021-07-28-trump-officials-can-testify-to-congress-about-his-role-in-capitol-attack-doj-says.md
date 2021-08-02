@@ -205,6 +205,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to object to release of tax returns"
+    excerpt: "Former President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal"
+    publishedDateTime: 2021-08-02T21:25:00Z
+    webUrl: "https://www.unionleader.com/news/national/trump-to-object-to-release-of-tax-returns/article_dfe187cb-401c-5433-bb6c-d038cb77e193.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
     excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T22:38:00Z
@@ -219,6 +233,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump to Object to Release of Tax Returns - Lawyer"
+    excerpt: "Former U.S. President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal lawyers signaled on Monday."
+    publishedDateTime: 2021-08-02T21:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-02/trump-to-object-to-release-of-tax-returns-lawyer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "byPXO5hIdL7/c4AdNF20YSLL46M6hYUGm49sDCIQBI8fxm2unYAhrRuciXceI9oi5sc9XypEMyAFr3/7gTQ934SVl4PxFQRDi4+SYWO1s8SW7c00lewkpAOsoYpwF1Mc8vmLiIqeMOoHlqt+kAEkZ0JKzUPJ387Ae6jQ3YTTbB2CjjuCrGzTsxTrSXa1XBhxrlsCD263wVhlIM+QCCO4dSWbRhhuVevyHEi7SxQ+nBg6OPvgZouphHKZ45QjhPEbMvOJA/X4pdWERGQ5VEFlEojdw1Uw0rLk+b5j4om0KwVcYcgOuNvFXD6K5lltNZF4GgUCN/e1dvzPcXXKv6EVcDMRU/eVlTe7yFN3KAp0WHyKIf+aO1eaG3uuEoyNb8ufzyAD1nXGrDt0i332Iz1oFTNcmlKeqKxPI1ZpUGbYoyT2m8sJH0Nk6TxAm/mdwF7w5rn8N6I+sFsrijHb9nPS6cej0g8707jKO5dFvhZxuhqAG7wzlJ2OGuB1DkhqS0t7dc/VWRUkcIEcZ4epCwOyFA==;X/pq7znxRuptRXu5UPxUdQ=="
 ---

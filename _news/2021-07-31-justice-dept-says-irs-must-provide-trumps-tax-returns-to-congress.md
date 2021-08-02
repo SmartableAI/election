@@ -201,6 +201,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to object to release of tax returns"
+    excerpt: "Former President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal"
+    publishedDateTime: 2021-08-02T21:25:00Z
+    webUrl: "https://www.unionleader.com/news/national/trump-to-object-to-release-of-tax-returns/article_dfe187cb-401c-5433-bb6c-d038cb77e193.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
     excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T22:38:00Z
@@ -215,6 +229,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump to Object to Release of Tax Returns - Lawyer"
+    excerpt: "Former U.S. President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal lawyers signaled on Monday."
+    publishedDateTime: 2021-08-02T21:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-02/trump-to-object-to-release-of-tax-returns-lawyer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "nK5l3MrKrh7fr9+F18Nry9Z1oNn4OLmy3598YBscIx6cy5ib48wPQ41aPQXOlCcBNGWheX4qHcRThJQ9lTRxLgM6fCs+g6z7iF6dBiXOeVKtQpXvIB1FPNJWL0/j6QcbSdwyf+fB3J78mhziMw7ZmGW8HdptE7iE1WuBjFxazgY86/BrvT7Ac9k0pDBJG6U1pomeuQ3IaaR43xtAHgp36L9V7rz8eKxGrYKho6AilL+SRTjh6Z3Hf6Vh48G6izPsjpDD2iifClFVDbRH3YM7Qi9z1+Fx4UaW3b81Dz5qYTiEE6tjsduEGEOo7SkM8DHM9S5/i0yHxv2iqJkRmxJRwE/wiRumxCLJTvU4ZUehIpM=;gLOD/ptnyi79JNyp0JBnOA=="
 ---

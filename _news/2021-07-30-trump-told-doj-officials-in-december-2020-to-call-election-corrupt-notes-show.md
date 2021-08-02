@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-doj-officials-election-corrup
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-378128/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Donald Trump to Fight Release of Tax Returns, His Lawyer Says"
+    excerpt: "An attorney for the former president objects to the Treasury Department’s intention to turn over tax records to a congressional committee."
+    publishedDateTime: 2021-08-02T20:12:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-379198/social"
         width: 1280
         height: 640
         isCached: true

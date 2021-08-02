@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Drone footage of migrants at Texas bridge an ‘absolute catastrophe' from Biden, Republican says"
+title: "Drone footage of migrants at Texas bridge an 'absolute catastrophe' from Biden, Republican says"
 excerpt: "Troubling drone footage emerged online Sunday that reportedly showed up to 1,000 migrants being held by border patrol in Mission, Texas, prompted criticism from Republicans who said the footage underscores the crisis at the border."
-publishedDateTime: 2021-08-02T05:48:03Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MXDhrqPS_hQ/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MXDhrqPS_hQ/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe"
+publishedDateTime: 2021-08-02T09:57:00Z
+originalUrl: "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe"
+webUrl: "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe"
 ampWebUrl: "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp"
 type: article
-quality: 163
-heat: 163
+quality: 123
+heat: 123
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 340
     isCached: true
 
-secured: "xmj9sk1eX4qL0SIRgZQkQFkjQAzo0+FQzJN7P+ZahJtfGRAEY0CoX6DJo+o2HREID+W55KJK7ccHJaRskzxBCfjzZm5t8Z3z07UQJpGEgC3WD7yQy0ZYzW+QI6HcEtqUycNLdMU+ilMBCahw1oeLtedzv4ZHA8Ut/+rsuUL/IwaRpO9CVya6DA0eYP7Ma2nDXM/LJfAMi5wNXmeLMV+u14LYDGwhZoxbIinXCaug7r2c1bIYsuZ0bIdb6ekY+Hu9InRwsvSW1SvKNnVsUQrIYAhlg98HELf+UQtZp0s0IqHsFSp6MPWDwH0yVubPSXfjjnV9QD8BjfDPaSqXPg80Yjz/whxhDBHcQG1Nx8im+Bk=;EsijWlbVOSbwLBDm99bmHg=="
+secured: "6zMlTmow9BtjVeFOfSqhAo4dRj9Opw8IPzut+fLcj7jQVm+WChzm7assFqZZ5WjH1DGb9EdyRhtt+ApdIMEmB4mkOYcCgjr+mPZJu/Cu8YAEXkwxNVtAigrGVvpbiVTdAtJQS8hSuz+mou5DzcE/MAQ9SKJqHjYZIR6wd0IKNCpInnXKSPSiSPOn7tAq50tjwso2jSZ7QhRXqChICh8eetGGo+33BMkR/LbViWgDIYZAvbOE475uyA6wxwg0cY8l6B+qTdtUmvNnnir/2xpX4CBMW23kzNNg98GUlT79PQeCHw1xUZA0TI6Egqk5/DJBasszhuWyHKGMf840TWz/DetBRX6hikIJjqFFG8/xf38=;3LX3AXM76XEKqnAxkYxxmQ=="
 ---
 

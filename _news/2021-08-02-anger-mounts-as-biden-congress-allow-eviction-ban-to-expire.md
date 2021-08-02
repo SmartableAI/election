@@ -2,21 +2,19 @@
 category: news
 title: "Anger mounts as Biden, Congress allow eviction ban to expire"
 excerpt: "Millions of Americans face being forced from their homes now that a moratorium on evictions during the COVID-19 pandemic has expired"
-publishedDateTime: 2021-08-01T17:03:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
-webUrl: "https://abcnews.go.com/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/anger-mounts-biden-congress-eviction-ban-expire-79203980"
+publishedDateTime: 2021-08-01T17:37:00Z
+originalUrl: "https://www.washingtonpost.com/politics/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/2021/08/01/8efe0ef0-f2f7-11eb-a636-18cac59a98dc_story.html"
+webUrl: "https://www.washingtonpost.com/politics/anger-mounts-as-biden-congress-allow-eviction-ban-to-expire/2021/08/01/8efe0ef0-f2f7-11eb-a636-18cac59a98dc_story.html"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OICFDYHRNEI6XANSTNYGDJMC3A.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -202,6 +200,6 @@ related:
         height: 711
         isCached: true
 
-secured: "hFitkoBYqQv87dHy814mP8nONi8TYF+17rGwNKPpHGBazGE4ferkqat2iAC32UTdOUBuS6lZWtymxGoQC3nOx4n+zo2ucFxmMiZhpgh+Qxn2lwc1u81rAB2gZIR2kztbS1gTmnIz314BHSh82T4KkXg29oVA8pGsurFsqdgEnSbE46WR7DC4Tdv1jPRkP/kFyBZ6TJI0jXR/1izj+cCDnOv9M3ruZLnrhNeToX5ntRIUxZ0w7x/mmPWmrqwSNZL3q2z2wmbIiFa5CMCsrayEVFnu0S49eZmBREwa5on3A2vUVv//EiWTggUFym/NsLFKcsz2HQk9kfs95OZoqXYQ1G6lL0TnPBh90nXcTpH/fNn0qmds9CB8netziVOJX49ogNFjq9Rof3zIXi5isIH1be/qObcLy6hG2h/rk8r+RbvINNGp2GIHPgL7l6E6gG8bSV0aw/RY3I2mcuHku8EMPhsXTV9t8iD5jX6+79DKsZVRALTc5GA4ncm+rguEsbb76QkXMujFBLEX86MpNCo+yw==;rG/xUZRZifaxjdfQ9mRrww=="
+secured: "5tO7cZez5wVkLcfggzNnV5i/ajjEQ3nOyLMcwJTiLusiYpf5hG2K//RelgIBSPbjjtqXaRjZnrImnMM6+gSYU+m+AYdiHeSa3ryHZzj47bwR/gDfuxgziS4tusACTlx2JrpuciSJRK85Thzr+EYpUrnTEuqBxbgZBZtojOe4fEawqK2TttAQ1Z8o6wZP2gNcguKLkAsIQFwZNiF0Y8us++4jCrFzDaQKiBWGPlaOtEUpsykm3Ieu19v3JU1jaCULDJTzi+as+MfN3RE38g0D6DBUJwcT0qlAAZ9CVwBSlS2jh0XHjX4GlT+XbVerkcSfFYCwJ3mFbLm1iaFtEtHcbeUsuwT3MqDkqGIqyDRAA0g=;cTPjqJevzzLZJTMHBFaT0A=="
 ---
 

@@ -215,6 +215,29 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to object to release of tax returns"
+    excerpt: "Former President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal"
+    publishedDateTime: 2021-08-02T21:25:00Z
+    webUrl: "https://www.unionleader.com/news/national/trump-to-object-to-release-of-tax-returns/article_dfe187cb-401c-5433-bb6c-d038cb77e193.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump to Object to Release of Tax Returns - Lawyer"
+    excerpt: "Former U.S. President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal lawyers signaled on Monday."
+    publishedDateTime: 2021-08-02T21:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-02/trump-to-object-to-release-of-tax-returns-lawyer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "/0mnbdz2mCf4vnA80pya+PLBJofelEE1CoTh7ER4epQwac0+6nhSF51iJFMi+TZdcVfnwzNKxOT+hsCklIWVG+GtT0HJ+UvWwGaQMeWlZsQYIjXYTyrggXYq98b+EvPNkB18O3spe7J+qMKGML9S8EbpwJoWRH1ykMcRp/kkIEYwnxJIn6Kvm9E3arhu0v6XEOdCeA2fFeJIas3sMIkn7TPMLkTZwkUxV6/bcpPpMISLCI8pBLDGsS2dGnA4R0i0/n2Z6CXslbDGFivVFDmDDiSIjQzzCHqRvLJKFkGJaLSuwN7KULuuD2Obb3bXO/pbXyzsNSE/y9sJN6jBEzIKqt5Hywu8O8cMFLDuQP+OUPs=;RfpFHOfEWgApUlaDkJ43PA=="
 ---

@@ -217,6 +217,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Frustrated with Biden, pro-migrant groups ask court to block border expulsions"
+    excerpt: "Pro-migrant groups frustrated with President Joe Biden's continued use of an \"inhumane\" Trump-era expulsion policy for migrant families will seek to block it in court, the groups said on Monday, deepening the president's challenges on the U."
+    publishedDateTime: 2021-08-02T14:44:00Z
+    webUrl: "https://www.reuters.com/world/us/pro-migrant-groups-go-court-block-biden-border-expulsion-policy-2021-08-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/di2iE1qrjiEwNpgOYdrf12FbO8I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7UJYJ4ZVLZNZPKQL6OT5UWRL3Q.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The 1 thing small-business owners need to know about Biden's infrastructure plan"
     excerpt: "So far, there's no mention of small-business concerns in the $550 billion bipartisan deal, despite Biden's original plan."
     publishedDateTime: 2021-07-29T18:54:00Z

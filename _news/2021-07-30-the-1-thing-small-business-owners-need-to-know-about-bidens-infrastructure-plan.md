@@ -231,6 +231,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Frustrated with Biden, pro-migrant groups ask court to block border expulsions"
+    excerpt: "Pro-migrant groups frustrated with President Joe Biden's continued use of an \"inhumane\" Trump-era expulsion policy for migrant families will seek to block it in court, the groups said on Monday, deepening the president's challenges on the U."
+    publishedDateTime: 2021-08-02T14:44:00Z
+    webUrl: "https://www.reuters.com/world/us/pro-migrant-groups-go-court-block-biden-border-expulsion-policy-2021-08-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/di2iE1qrjiEwNpgOYdrf12FbO8I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7UJYJ4ZVLZNZPKQL6OT5UWRL3Q.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The CDC’s Masking Reversal Marks a Difficult New Phase of Joe Biden's Pandemic Fight"
     excerpt: "The CDC walked back its earlier guidance, now saying some who are vaccinated should put their masks back on indoors."
     publishedDateTime: 2021-07-27T20:36:00Z

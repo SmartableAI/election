@@ -2,9 +2,9 @@
 category: news
 title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
 excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
-publishedDateTime: 2021-08-02T18:31:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610812418f0892081f6ca1fa"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610812418f0892081f6ca1fa"
+publishedDateTime: 2021-08-02T19:07:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-61084cd78f089093df87233d"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-61084cd78f089093df87233d"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/38de2d44da93e4c7c7c3a9c2c8f4c69212dcb1f1/0_0_6532_3920/master/6532.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9377ef7245d09e49ce0da1137b52af3a"
+  - url: "https://i.guim.co.uk/img/media/b003b22fbe95982e4d1f1773949a0e3dc7761a94/0_233_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c07d08b5eac45494f0af0b3b64420e54"
     width: 600
     height: 360
     isCached: true
@@ -92,6 +92,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "PRY8OzrMVZwSEKBq1OamQsqdjb8wRe2FkHhyEIFdI61xiUXcTuA024mwcKd19Ipei4BUtETmXcAVwKBAkiLCNnHIuZTxsHy12Sjr8UfDJxigFpS+A1bmEPKe2ZgaQn1sMtd+5ojQ0oimcdOo/TK0S2qKoBqqbxq63+Ld0keFWb29S8pjPoRPQuJB77OjnSEosYun6FVncOzh2It1Xpj3AZMUEdR56kMz0aZ0HN+1f4N9KRvGrh1NXOcs/U1VVtBpDuJXPdvJuMhOsDdkSwRAOEozBa+miXQw6jWQdgP9R239DBVjHUuRPSx0i8yRC00hK55CoT/lOS8Va0kSDy6w9scBsRQE6mwhMMB3dIbtiQc=;2nWYiQ5Hmtrw9YDMhx4Tug=="
+secured: "KuNMrd2yFMdHCf4PJGkftHd59w+YJJMF7cI/L4k9I/jqeezkd4COuWqko9OmGIURDFQEbZ15SH0feMIUHLltKcuCcXYAafASuoIyJKIve39lNnh81reS/6kmll1lusytPyO9Z8XW6gyX5PMmxIQsAqC2PMrB2Hypr4cVqCOb91PXig0BfpTcJS0kKEwdDklzkNa+EliyT5wgKe5GepLZ4bj5/6T2UOhp9KVXs1fOEkRhN890KvS3NKXbMDIxgI8tx0djjba9bD5A8XhznLDaVBRp4AOseJmtO5cWWNXaxZ6sT0rM951GqsMTMNLQfGbJMMGXKJ/RGPzgxgtkvDN1liiSr47DHDx5q5VAtkumWbY=;UD0+dkap6IQsU9FnBjbAuw=="
 ---
 

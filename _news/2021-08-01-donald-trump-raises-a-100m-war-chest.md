@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump raises a $100m war chest"
 excerpt: "Donald Trump entered July with a war chest of more than $100m from his 2021 political committees, raising more than other Republicans in online donations during the first half of this year, new federal campaign finance filings show."
 publishedDateTime: 2021-08-01T13:12:00Z
-originalUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89?curator=upstract.com"
-webUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89?curator=upstract.com"
+originalUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
+webUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
 ampWebUrl: "https://amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
 type: article
@@ -78,6 +78,6 @@ related:
         height: 400
         isCached: true
 
-secured: "KZhpR+kV3xMzlXHiHgkbCB1T87FJ/75KB0i2UUuITJRUoHx747rzha4BhaVa8NmcRY7+t2vSIw75G5lnz50lvu+I9/X4VmkrvbpLsF/9DY6AwTkoF7AVSSHykSGwQ9wuzp2tJD512538lMPQ49cEVQqfeIBHsLTfvczwHkeJ0rYeRMaBu5NxxZ/Nr11tDxyjYBW5yPPllPknUIYe5/2O4SXm8VDgzgt4lFNzBQZQtP6mXFYXHTcRPRblnDPf+wjVPK0gzDpmzXLBoORqTtOVfjFZLjBVtpGY86gij2TYN9/E19hDc2uL7ir/NpKXKExhYWODjeCc9tBs+9y8i4KKq9pwnEQCL4ZZ4dH7Ing9llWjpRxRA1miEMI0vZVLNmjtEP+agakkewO/VqRBRPNFdVMnNi94dzEcDQXfnDGU/J894bd6Z+PmTK5/7gziTTzJE41xUcwPLrVDAe/T0HnBhoFZjncY04JIh2GDwlPUH6kvZOcjGWF93/qVU74RRjhqrMYfxN0bzu1XSAbAjV0NBA==;RPTIdEXvZKZssZKsmI0dnQ=="
+secured: "WcZIFlMqwi0lq6cEUhconoaXUTf/cTsZptX9Xd0C6qV4lfLXUwDXa7shaspdL9dxkIF1gMRst1cxrHC4piDjVZ+VLFMgGEw7KG91aAAR3UW+QQDw5D6P2VDZuMId971QNeopQyp/L4AuHBtyHTx8oUlLvwt4mkwcp8J2QRPS0ottpm6wqVS1j+vcSsnAbs8kiuJ3npul5zCGLRwSz/9oMOud+Xfoc8AZ/+fNJiNZiuhTvmlY0Fy9EzrlnezHI1uD5bbnWyw4h1mAoPrklNQEqGvcuq3NLoIZfGNmA338EDzljZHhXXMV4FzH3WoYtEiV2SfJXpdBeG/cqm6K6yK8nCsALw8KqANQ4raDqjH3YQ0=;uldSuhmiU5uK0Hx5Ok8sDw=="
 ---
 
