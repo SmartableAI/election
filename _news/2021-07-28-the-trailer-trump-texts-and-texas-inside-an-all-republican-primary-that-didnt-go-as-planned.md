@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas"
+    excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
+    publishedDateTime: 2021-07-28T01:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright"
     excerpt: "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
     publishedDateTime: 2021-07-28T13:39:00Z
@@ -43,37 +57,37 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "Susan Wright vs. Jake Ellzey renews rivalry, with Donald Trump, Rick Perry as key players"
-    excerpt: "It’s another Wright vs. Ellzey showdown in Congressional District 6, this time with a twist. Republican activist Susan Wright is in a runoff with state Rep."
-    publishedDateTime: 2021-05-03T10:00:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/05/03/susan-wright-vs-jake-ellzey-renews-rivalry-with-donald-trump-rick-perry-as-key-players/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/05/03/susan-wright-vs-jake-ellzey-renews-rivalry-with-donald-trump-rick-perry-as-key-players/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/05/03/susan-wright-vs-jake-ellzey-renews-rivalry-with-donald-trump-rick-perry-as-key-players/?outputType=amp"
+  - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
+    excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
+    publishedDateTime: 2021-07-23T23:38:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
     type: article
     provider:
       name: Dallas Morning News
       domain: dallasnews.com
-    quality: 66
+    quality: 63
     images:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zp8RnDoX54ji-1jEmPaqcmBJbng=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HQIGQ74FORGH5ASQDJPO5ZM3WY.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
-    excerpt: "Former President Donald Trump has backed Attorney General Ken Paxton for reelection, passing over primary challenger George P. Bush in bestowing the highly sought-after endorsement. \"It is going to take a PATRIOT like Ken Paxton to advance America First policies in order to Make America Great Again,"
-    publishedDateTime: 2021-07-27T16:35:00Z
-    webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
-    ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
+  - title: "Jake Ellzey beat Susan Wright for Congress by keeping it local amid Donald Trump, national circus"
+    excerpt: "Political consultants from both major parties are effective at taking national talking points and selling them to voters who speak the same language — whether it’s building a border wall, election integrity,"
+    publishedDateTime: 2021-08-02T10:30:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 64
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 62
     images:
-      - url: "https://s.hdnux.com/photos/01/21/13/45/21281144/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/dwxLtuVlsCCkLJul4tszk2pSuII=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/DEF5T2BZYVHAJNJS6ABB3AUB2Q.JPG"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Texas Attorney General Ken Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
     excerpt: "Paxton is facing a primary challenge from Bush, the land commissioner, as well as Eva Guzman, the former state Supreme Court justice."
@@ -104,6 +118,20 @@ related:
     quality: 49
     images:
       - url: "https://thumbnails.texastribune.org/v96me-3rz0BdxTl1PFumcJsRrZM=/1200x630/filters:quality(95)/static.texastribune.org/media/files/d5ab26288afce7e92fc2b6a90729192d/Jake%20Ellzey%20TT%2002.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
+    excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
+    publishedDateTime: 2021-07-29T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/carl-p-leubsdorf-the-candidate-trump-endorsed-in-a-texas-race-lost-what-does-that/article_a85239e8-9169-56a5-b913-aa757f3adf35.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
         isCached: true

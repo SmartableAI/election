@@ -3,10 +3,12 @@ category: news
 title: "Staffer Passes President Biden A Note: \"Sir, There Is Something On Your Chin\""
 excerpt: "During a roundtable on Friday morning with Western state governors about wildfires, President Biden provided a moment of comic relief. A closeup photo shows the text of the note:: President @JoeBiden holds a card handed to him by an aide that reads “Sir,"
 publishedDateTime: 2021-07-30T20:03:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.html"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.amp.html"
 type: article
-quality: 42
+quality: 82
 heat: -1
 published: false
 
@@ -18,6 +20,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/549523.jpg"
+    width: 750
+    height: 562
+    isCached: true
 
 related:
   - title: "Fundraiser-in-chief: Biden headlining Democratic Party fundraiser"
@@ -53,6 +61,6 @@ related:
         height: 405
         isCached: true
 
-secured: "BxDcmD1x2M8cZ08xHZNLyHBzaxGAlr6J8ARd2iFBIhndCG6ppq4WiNUuUsKVw/0nq9weJ/+OEK+k+VGgpV/8YSS3FqVBjK644ESD3U+lVJtzyg9JPBq++fQhki7BDbHghbNZBSBdgZ/qgkS/m4aCr5CwaIsw6uISkB3rmb3EEO3zb9FfHJoOYArgKb8ou3/VsD/UhLUmJLmsCzNw2um1P581dAuGAcNYdN2VD5sq5Q4s40c5EovCLefVzKGKmM89zoVbooZrf/PAQyGickG/ZiEbx6s2vS9VK8ZRJ5z14TPZWpeX1nwwye+NSKs04RW0/gEfljMDBnMHIWW3yyDKynSF06J12J96rX/pgVHZSh9ald/s9CEFMTOFOg2A+PnFrzzlH/EOFi5/0dh5bBonAlV98l4Bo1nHnGVQBt1SqTlvnoL4e0pM0/PntaaJ4ggq05+mPbmUaHlWj1c99rTmi6csWv6NqPCc1mXuicD7ksDQ4JqEzP6zQTdcnrA1p9fxbYkJjqfknRCyKasgrf+b1A==;zxCcczwsQ/r4a95ry6Qmog=="
+secured: "yGfd/5eMta8gswogPjIon0a5iqZ7WQyVDU8/yqKTNhaIGDBoZ3sfprJUjqRJpdBFG5rxSY7W6k4dRxmxfSlV6KiPyW3Vd/DFbL9uaH2ZtnWsrOQ46LpBFEiqyZ5W9wG/XEW65Js7dC54hLLoLgwq52Zpia+bkHPdE3eqhx4nft9rzeUwQjLD+ar+TJxYgWIKIYiP7Vp+rxRzmmccAjyFhpCqT6ZGA0gxoTRIR1vfmeSPSJQlqLUEYyCBxgGpGXM4mgRyEe9ev0mppueKXzdNLni6OvfLW+jK1VCXEKvZ1Zn6dRKGldTp88fLmzgqMvwNNehr4Yl+oDmlu6v0QPTYIcy1PzPewBP1ys0nxDASHKw=;TAVmNRjmhHFMCLnqPbKtyw=="
 ---
 

@@ -51,12 +51,19 @@ related:
   - title: "Staffer Passes President Biden A Note: \"Sir, There Is Something On Your Chin\""
     excerpt: "During a roundtable on Friday morning with Western state governors about wildfires, President Biden provided a moment of comic relief. A closeup photo shows the text of the note:: President @JoeBiden holds a card handed to him by an aide that reads “Sir,"
     publishedDateTime: 2021-07-30T20:03:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/30/watch_president_biden_gets_passed_a_note_sir_there_is_something_on_your_chin.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 42
+    quality: 82
+    images:
+      - url: "https://assets.realclear.com/images/54/549523.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "cEhsRQ4aFtSHo9ov3kf62HfdySdxwBzk3LE/Ti8kQvDVYKtWo+wlDrZEAUsugbuO0BFrA3bpm29cPXoUqYM6uXTXb7aiEEolSxpOghI669O1Mxbb8LTxRglsReVNLQ7DrpZExipLKHAXNbdyz0fcTbyv5udtY0P65XpSnSz7URfo6g3i1dIFMIDeL/tUQuM16g3lx588yzO4LWya2n2RS8RBF7z35gakwKJYQHM2wTFWe8MOBmCpK2qx8wWA93f0ElTKbB5on0XX+dxLdZBuktdXFw81toUUjRNC1UPMNHDBNfrUw3FafmJq8cDzjfX4Opl3oGBsjvujRkqiZAOHZEIlfE5cvnkbbzbuzxV9zBc=;gLjTZm5ekmAq+zse22GESw=="
 ---

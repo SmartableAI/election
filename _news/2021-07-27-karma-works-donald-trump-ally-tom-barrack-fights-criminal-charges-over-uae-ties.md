@@ -137,6 +137,26 @@ related:
         width: 1440
         height: 1051
         isCached: true
+  - title: "Trump's Sway Tested in Race for Open Mid-Ohio US House Seat"
+    excerpt: "The crowded Republican primary for an open U.S. House seat in central Ohio is testing the ongoing political sway of former President Donald Trump."
+    publishedDateTime: 2021-07-23T11:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Raises Big Money in Early 2021, but Doesn't Spend Much"
+    excerpt: "A fundraising group run by former President Donald Trump raised $62 million in the first half of the year but only spent $3 million, with the biggest chunk of money going to a pro-Trump research center and more than $65,"
+    publishedDateTime: 2021-08-01T03:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "FI7fBCmXbplyrJVXxaRv+sZA49TBQJufgI/dT2FpbYtoWYQgLdwGyRXoMBbWU1FTyT1s0wZSwFzYyNgQiW1HeiqiY4pZl9NjQmalCAbaR+ScLT5A2ces7aTaMBxZsKzAGG1K1OQnLZi00op/La/oa+tdCn2Q9+52g13uSrsW1r3W7gLFVzazRbU/nLAYhfNApVfsQmxNFWoJiJ0hzW9GJENmY4pIzQYgOC1FZMLHbAr3tc09SYyVmSSg9TxseYihiSX3EsdTXHlyQXnGTlT1lvHexxzYc4lHBan2mw1mpO2A2O09LCjyVunueUEhviaOS6mN52/EoBAKcnSP3AK93qaQjZGl2dUlDQnxzhQ58OHV0ZYspdc61m6rzdGXl3TvAW1jL5S10mYQKFmHVz17HcesNDDKWWn8DThhB98kfkQfwLNuSaRmo1rlzPiixn/GOGoVvvKgQhl3bv4hezHWjuB0SHInTKd7Y85kKmrbx1P12mIuWByoLgzKcnuPqpR6/vIrCTcBfzkDDSi2W01Y5Q==;3hhfyPrmbsaVfxPsObzfzQ=="
 ---

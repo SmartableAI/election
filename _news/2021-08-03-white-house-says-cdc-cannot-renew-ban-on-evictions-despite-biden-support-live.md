@@ -1,0 +1,97 @@
+---
+category: news
+title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
+excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
+publishedDateTime: 2021-08-02T18:31:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610812418f0892081f6ca1fa"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610812418f0892081f6ca1fa"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
+type: article
+quality: 121
+heat: 201
+published: true
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://i.guim.co.uk/img/media/38de2d44da93e4c7c7c3a9c2c8f4c69212dcb1f1/0_0_6532_3920/master/6532.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9377ef7245d09e49ce0da1137b52af3a"
+    width: 600
+    height: 360
+    isCached: true
+
+related:
+  - title: "Biden to allow eviction moratorium to expire Saturday"
+    excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
+    publishedDateTime: 2021-07-29T17:49:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
+    excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
+    publishedDateTime: 2021-08-02T12:31:00Z
+    webUrl: "https://www.app.com/story/news/politics/2021/08/01/aoc-points-democrats-biden-letting-eviction-moratorium-expire/5447218001/"
+    ampWebUrl: "https://amp.app.com/amp/5447218001"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5447218001"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/226581c8-4dfb-47e7-b88a-bb4301b3b749-Alexandria_Ocasio-Cortez_14.JPG?auto=webp&crop=1280,720,x0,y23&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden will allow eviction moratorium to expire Saturday"
+    excerpt: "As of July 5, roughly 3.6 million people in the U.S. said they faced eviction in the next two months, according to the U.S. Census Bureau."
+    publishedDateTime: 2021-07-29T16:09:00Z
+    webUrl: "https://bangordailynews.com/2021/07/29/national-politics/joe-biden-will-allow-eviction-moratorium-to-expire-saturday/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-5.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Joe Biden’s ‘summer of joy’ turns grim as delta infections skyrocket"
+    excerpt: "President Joe Biden promised a “summer of joy” on July 4 as he declared America’s independence from COVID-19. Three weeks later that sense of victory is evaporating in the face of a resurgent pandemic."
+    publishedDateTime: 2021-07-28T19:26:00Z
+    webUrl: "https://bangordailynews.com/2021/07/28/news/nation/joe-bidens-summer-of-joy-turns-grim-as-delta-infections-skyrocket/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-7.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+
+secured: "PRY8OzrMVZwSEKBq1OamQsqdjb8wRe2FkHhyEIFdI61xiUXcTuA024mwcKd19Ipei4BUtETmXcAVwKBAkiLCNnHIuZTxsHy12Sjr8UfDJxigFpS+A1bmEPKe2ZgaQn1sMtd+5ojQ0oimcdOo/TK0S2qKoBqqbxq63+Ld0keFWb29S8pjPoRPQuJB77OjnSEosYun6FVncOzh2It1Xpj3AZMUEdR56kMz0aZ0HN+1f4N9KRvGrh1NXOcs/U1VVtBpDuJXPdvJuMhOsDdkSwRAOEozBa+miXQw6jWQdgP9R239DBVjHUuRPSx0i8yRC00hK55CoT/lOS8Va0kSDy6w9scBsRQE6mwhMMB3dIbtiQc=;2nWYiQ5Hmtrw9YDMhx4Tug=="
+---
+

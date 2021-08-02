@@ -3,8 +3,8 @@ category: news
 title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
 excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
 publishedDateTime: 2021-07-27T22:58:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/a9a697555277243f64e2dbf0553eb3d1/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/a9a697555277243f64e2dbf0553eb3d1/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
 type: article
 quality: 53
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/a9a697555277243f64e2dbf0553eb3d1/HARRIS-VOTING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/fa4baa391ff1941571c4e042df917a5a/HARRIS-VOTING.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -435,6 +435,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "CV/VGVsM9dUgv6+Ln1DgabwImQB7SZGg/i/EPHM82+yH9HosBVpDkGKo2FA1HSfVYUJdUSSLSPV7PsJGWlEmCNq7VbPhks7ZkhTVCWUHqPZqt7Z/GB/MjV5iZqbY+Ddm3SoTnD30ky1ZiDGzOYHxKI37F8WgDbIMltGlLkIo+Ka8ibjAkBaKVEHJcTOUOJDgv2U20plqJbCpW+sFGe1emN+ZZAn3Kft2HeKZv19lAwCaioGNlIPySPrKNZzUGOHN5ZRKjpHaJUF29Q/LyAkWN7fBY/v0nfuxv+6XHrAdxldoSVKNEsg77MQaBXxWiTwhU2O4Hq9yr54Id7aomBpDO2IZXCjERbugelRIf+rsQkX+3KmyAggP1+dM8jxdH7K0/i0v9miiW5u9a+UMv7m3GFBQbCcpUnLYFE9Q5ukwY0btyh3mxUKkHTr4cb9FEbCM/o6Ijxcez5pCVh6K7ZmtGg7ZzxfCXKVKF+MG8NfslCrPMelnkbMSo5F4Y+I25Rcvv55lfjRZU2K2WWikut481A==;87hF2FFThfBmjf6XVwWEvg=="
+secured: "JF0FM8QaMZ9l/rm/uLE8PkNHL6HhWa2w4Wd0Ao18WJrrE7SzbwZ5vG7XKwrx9r0tkcmobIWUJhKUa6SZ/iE2/3/ykrikX4P3WGaS/rHathgUgjOVxfsYZxMnuHhdEBIv7HfXDwkfCeJcJLAPx4IEPtUIih/CiiBCV7mlbZ8Z43d3o1mQay0hXBF/rnsqIFYa+GPchVz3JoEQgsdMTHMFTvXroGFtv5W+5SwxjYgV5Bmyrr9qC5gLsWkM+/xcVAHfqrQKmn0FCKZgcsdSIaf5rqup4wnLwASD5HmuSHL6+G1xC7oLBabMH3V0GT4DO1qurVUQvYphpLxdMwM6rXaKIWn8tpeI8n/CL5I5X7p3eqY=;mm944ALQS7M9l90/tSoJfQ=="
 ---
 

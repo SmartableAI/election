@@ -188,6 +188,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meghan McCain on hypothetical Kamala Harris run to replace Biden: 'Ron DeSantis would put her in the ground'"
+    excerpt: "\"The View\" co-host Meghan McCain predicted Monday that Vice President Kamala Harris would lose to Republican Florida Gov. Ron DeSantis if she ran to replace President Joe Biden in 2024."
+    publishedDateTime: 2021-08-02T18:44:00Z
+    webUrl: "https://www.foxnews.com/media/meghan-mccain-kamala-harris-replace-biden-ron-desantis-ground"
+    ampWebUrl: "https://www.foxnews.com/media/meghan-mccain-kamala-harris-replace-biden-ron-desantis-ground.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-kamala-harris-replace-biden-ron-desantis-ground.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74e56eda-375c-4101-a9f3-324be02bfe0e/34369108-f858-4525-a4f9-3556412e89f1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris emphasizes 'root causes' of border surge, says problem is 'complex'"
     excerpt: "Vice President Kamala Harris is emphasizing what she describes as the root causes of the migrant surge at the border, calling the issue \"complex\" as she continues to face criticism for her handling of the crisis."
     publishedDateTime: 2021-04-22T18:06:00Z
