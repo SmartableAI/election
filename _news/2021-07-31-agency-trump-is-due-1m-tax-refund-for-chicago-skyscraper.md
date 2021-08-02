@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802"
 type: article
 quality: 125
-heat: 185
+heat: 145
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump raises a $100m war chest"
-    excerpt: "Donald Trump entered July with a war chest of more than $100m from his 2021 political committees, raising more than other Republicans in online donations during the first half of this year, new federal campaign finance filings show."
-    publishedDateTime: 2021-08-01T13:12:00Z
-    webUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89?curator=upstract.com"
-    ampWebUrl: "https://amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff300bf76-b7e7-4135-aaa1-aafc581be249.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Agency: Donald Trump is due $1M tax refund for Chicago skyscraper"
     excerpt: "An Illinois tax agency has ruled that former President Donald Trump is due a $1 million refund on the 2011 tax bill for his downtown Chicago skyscraper, but local officials are trying to block the refund."
     publishedDateTime: 2021-07-31T22:40:00Z
@@ -62,20 +46,6 @@ related:
       - url: "https://thumb.spokesman.com/XUeWj1hmitev8dp-_OjXgS7YPO4=/480x0/media.spokesman.com/photos/2021/07/31/6105cc6b06a02.hires.jpg"
         width: 480
         height: 329
-        isCached: true
-  - title: "Trump's political cash hits $102M"
-    excerpt: "Former President Donald Trump has proved himself his party's most powerful fundraiser in the first six months of the year, amassing a political treasure chest of $102 million by the end of June, according to filings made public Saturday."
-    publishedDateTime: 2021-08-02T10:30:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/trumps-political-cash-hits-102m/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "Mvuz6LvLo2X/91sm5KUt/Ly2W8l12j1r8JrKDM9j6fELGX0f9FATEak2M+EmPkFQCNYT0HxIa2UUaFwEE9dXAa17aOqMm7gG75NsEkmPXkw+tZ0Jbu1rqZaJG/KfRr/uQTEDjIyzC1WGbhHu+DEW7cjZ3rjaMttG391WiJi9N2CE3PBgWvWUo6O7LNxFT8btbWdm0AvrmTfOSmi/h3yHSp9Kxki7sLDFjJ9/0vOfOBlUPvdIdeOcSjyFyYPvtv9tXCJh1C7cFXxOCnhfNE9mlM/gfzQdEtEf4cHhiKNS56DsHKQ06a2dNo/OmyIolDEsMdeHV2lQ+7TMM2Q+5kEtWE8gwIufOylcpaRwWwupVmPFyG8fsyurpiHh5qwn3UYGuLlZDR/So7+XCO4UATqnceITo5sH06Ps9v1SvL/B5deyQ7NhSFjlCbE1HSBf+Ft4uyt4KIhqZMfKRzRnfo9rYH0INHeaY4LQFRLWbhEL7z5mNfZfpNy4EaV24nZy8Q+X+xJLA0HokUj6jd1i3f4WJg==;+/RJfwwqYGAkGymoYTecLA=="

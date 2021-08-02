@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "ACLU goes back to court over Trump-era migrant expulsion policy"
+    excerpt: "The American Civil Liberties Union, along with other immigrant advocacy groups, is going back to court over a Trump-era border policy that's resulted in the expulsions of hundreds of thousands of migrants, marking an escalation between the organizations and the Biden administration, which has continued"
+    publishedDateTime: 2021-08-02T16:48:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WxBaIO-GKNM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/aclu-title-42/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/aclu-title-42/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706131626-03-texas-block-biden-immigration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration sues Texas over Gov. Abbott's migrant transport order"
     excerpt: "The Biden administration is taking Texas Gov. Greg Abbott to court over an executive order he issued earlier this week targeting the transport of migrants recently released from US Customs and Border Protection custody.\n    \n"
     publishedDateTime: 2021-07-30T22:23:24Z

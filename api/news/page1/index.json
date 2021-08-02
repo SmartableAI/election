@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-trumps-kingmaker-status-faces-test-in-ohio-special-election.md",
+      "title": "Trump's kingmaker status faces test in Ohio special election",
+      "excerpt": "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 420,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_7d1c31b0bea447dba63a606542d380ea_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099",
+      "publishedDateTime": "2021-08-02T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.md",
       "title": "Fundraiser-in-chief: Biden headlining Democratic Party fundraiser",
       "excerpt": "President Biden headlines a fundraiser for the Democratic National Committee on Monday evening, in an effort to build up resources ahead of next year’s midterm elections, when the Democrats will be defending the razor thin majorities in both the House and Senate.",
@@ -343,7 +395,7 @@
       "originalUrl": "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -768,7 +820,7 @@
       "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/08/01/alexander-vindman-here-right-matters-trump-impeachment/5439749001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1075,7 +1127,7 @@
       "originalUrl": "https://abcnews.go.com/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1099,58 +1151,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-former-top-justice-dept-officials-notes-say-trump-asked-him-to-call-election-corrupt.md",
-      "title": "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\"",
-      "excerpt": "The House Oversight and Reform Committee released notes from acting deputy attorney general Richard Donoghue Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 371,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/297a2ce4-c8c2-414f-b43c-aaa933aa7c4a/thumbnail/1200x630/b4fd056bcbc7a3c7547a74f44a8105f6/cbsn-fusion-trump-org-expects-charges-to-be-filed-thurs-thumbnail-744929-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "publishedDateTime": "2021-07-31T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

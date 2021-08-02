@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/politics/2021/08/01/alexander
 webUrl: "https://www.usatoday.com/videos/news/politics/2021/08/01/alexander-vindman-here-right-matters-trump-impeachment/5439749001/"
 type: article
 quality: 98
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 6000
     height: 3376
     isCached: true
+
+related:
+  - title: "Alexander Vindman, the White House staffer who sparked Trump's 1st impeachment, tells his story"
+    excerpt: "When Alexander Vindman was preparing to testify at the first impeachment hearing, he faced intense pushback from a Trump supporter: his father."
+    publishedDateTime: 2021-08-02T16:32:00Z
+    webUrl: "https://www.app.com/story/news/politics/2021/08/01/here-right-matters-alexander-vindman-and-trumps-first-impeachment/7901656002/"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 23
 
 secured: "zInvD+uyKbCQJ2lXH9MyMNPlMC3ZhHhUiJXgpKoCy6PgFyw97XcTsWUzNLymeQZJjRSACEyLyIe3eQQWBCCalQdE7IGLACRxgeo1PKDAJGDn+7oD7vQVQZ+1Gf0aBeltdiToktBkQsZZbh89Y70wPo74D6+AfqxS55P2yTm9zM7qCGm87bbTFIhjxoo+nCrVgElfdc1LT6fI/5yOFenasL3DBh5CvuqTKc76IrdkLMZB3KM8+O9IXvYVk1b27ynhkfkNbXgQPY++zi5p3CGTTygegQ1gF95HfuOaBDTdGtdtsja75zcGks20gQaHcrEmrNLs0lwv9rit9lAvrMpHYHZtmTypK3fA20NKwD+V2o4=;79m/lHrz8i0AFKHknQcIng=="
 ---

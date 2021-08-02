@@ -140,6 +140,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 55
+  - title: "Pro-Joe Biden groups to spend $100 million on August ad blitz"
+    excerpt: "An array of progressive and pro-White House groups plans to spend nearly $100 million to promote President Joe Biden’s agenda over the next month to pressure Congress while lawmakers are on their August recess."
+    publishedDateTime: 2021-08-02T14:40:00Z
+    webUrl: "https://floridapolitics.com/archives/445203-pro-joe-biden-groups-to-spend-100-million-on-august-ad-blitz/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden.jpg"
+        width: 935
+        height: 518
+        isCached: true
   - title: "Frustration as Biden, Congress allow eviction ban to expire"
     excerpt: "The rare division between President Biden and congressional Democrats carried potential lasting political ramifications."
     publishedDateTime: 2021-08-01T17:20:00Z

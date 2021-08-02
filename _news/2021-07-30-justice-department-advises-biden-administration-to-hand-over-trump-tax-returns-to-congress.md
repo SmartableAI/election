@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 840
+heat: 860
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729173205-delta-variant-questions-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "ACLU goes back to court over Trump-era migrant expulsion policy"
+    excerpt: "The American Civil Liberties Union, along with other immigrant advocacy groups, is going back to court over a Trump-era border policy that's resulted in the expulsions of hundreds of thousands of migrants, marking an escalation between the organizations and the Biden administration, which has continued"
+    publishedDateTime: 2021-08-02T16:48:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WxBaIO-GKNM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/aclu-title-42/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/aclu-title-42/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706131626-03-texas-block-biden-immigration-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

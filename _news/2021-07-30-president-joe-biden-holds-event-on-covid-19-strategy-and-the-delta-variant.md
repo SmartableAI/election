@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
 excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
 publishedDateTime: 2021-07-29T22:14:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/fd304c93fcd425e5e17ec320f871b15f/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/fd304c93fcd425e5e17ec320f871b15f/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bcf63d33d630b0599acd43fe51333e01/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bcf63d33d630b0599acd43fe51333e01/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/fd304c93fcd425e5e17ec320f871b15f/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bcf63d33d630b0599acd43fe51333e01/BIDEN-VACCINE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -207,6 +207,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "27vsTxrSAVY1PI1CT7NpSXKCpLQipxdRIPAg4/xOGOFEMg4HjVnIVNAh0GHkHI5ZjdSGYvES1D2cBl4echF8Tz8LPBWUmSN7xUS+qkmERw1s8M6S0f2NZzZu2yh4LPrRIFvD1wCXaUZqZMofY3tlqnxu7rcaE+epCTKZhyTiDN2CMPT0HaULer3Qc1G6rZhEI04DuEPNdky+CWWuPfAGWNm6s2vTZU/abIJxgDqSUFJszZvdHgw7yDBaM+OTBSlrnJn19b2EDkr3xqCJsOOPEpbBornumEsJ6MbsIxBaIo+0UH08Uj9gAZumLnq5sPAx4uJAJinRlToV4tE1fFcKQkjoIhcyGBflWS13782rb5Y=;D5L0FjrKmPvBF95IfCCKZA=="
+secured: "qP2dDce4o2hb2vZAbyv0UMBPw8eB3BNuINcLezF+h17P5AeAvT9/yU6Jqe4aIEYZIvs/P7ludIOAtUYOEW9eXRI5RZ8GizTbKqZtk4WFDKQ7QQX4XLwfzJ5LOXEmYS7OpW8MoW2xT5mFSp52cQc9nlX4VDj1WM7ESZayXP3oyXbWuuj6B8m1f9xub1pPYbuAaAVJJpyx6pu8743KEOKcgVUqbH3Xq18PaMP8f7qLxutWoo3eDmbns8b1SYWj+Voh4qD/1apkhnDqiARWR5l86ayg2irz2lKZ0GHlZ6c6I7baQW4cFlDPBezKwmgP/H+C90ppll21/Ypm5klhGEEufeHx3jp+om++LC5SnzVKIL8=;qRGsm6xbJP/QWsIqZBwpMw=="
 ---
 

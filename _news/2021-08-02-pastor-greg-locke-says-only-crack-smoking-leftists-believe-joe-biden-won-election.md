@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-l
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146?amp=1"
 type: article
 quality: 134
-heat: 314
+heat: 334
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 55
+  - title: "Pro-Joe Biden groups to spend $100 million on August ad blitz"
+    excerpt: "An array of progressive and pro-White House groups plans to spend nearly $100 million to promote President Joe Biden’s agenda over the next month to pressure Congress while lawmakers are on their August recess."
+    publishedDateTime: 2021-08-02T14:40:00Z
+    webUrl: "https://floridapolitics.com/archives/445203-pro-joe-biden-groups-to-spend-100-million-on-august-ad-blitz/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden.jpg"
+        width: 935
+        height: 518
+        isCached: true
   - title: "Frustration as Joe Biden, Congress allow eviction ban to expire"
     excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."
     publishedDateTime: 2021-08-01T00:05:00Z

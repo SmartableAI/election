@@ -222,6 +222,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Pro-Biden groups to spend $100 million on August ad blitz"
+    excerpt: "White House groups plans to spend nearly $100 million to promote President Joe Biden’s agenda over the next month to pressure Congress while lawmakers are on their August recess."
+    publishedDateTime: 2021-08-02T17:54:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/2/pro-biden-groups-to-spend-100-million-on-august-ad/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/2/pro-biden-groups-to-spend-100-million-on-august-ad/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/2/pro-biden-groups-to-spend-100-million-on-august-ad/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/02/biden_12936_c0-222-5321-3325_s1200x700.jpg?e2fce2d1b5d5c9fa62b6207df9c2fd3101ee2d6d"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Evictions loom after Joe Biden and Congress fail to extend ban"
     excerpt: "A nationwide eviction moratorium is set to expire Saturday night after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their homes during a COVID-19 surge."
     publishedDateTime: 2021-07-31T14:27:00Z
@@ -237,16 +253,16 @@ related:
         height: 683
         isCached: true
   - title: "President Joe Biden Meets with Cuban-American Leaders"
-    excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. President Biden was seated next to Jake Sullivan,"
+    excerpt: "Jake Sullivan, Assistant to the President and National Security Advisor, listens as President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-07-30T22:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/999190775ec599e646b7c0dcbff39dcb/WHITE-HOUSECUBA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4a35cafcbc748b2ca260991578ee8fbc/WHITE-HOUSECUBA.jpg"
         width: 650
         height: 433
         isCached: true

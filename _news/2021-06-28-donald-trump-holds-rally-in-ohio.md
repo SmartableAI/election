@@ -31,84 +31,200 @@ images:
     isCached: true
 
 related:
-  - title: "Ted Cruz defends Texas Rep. Chip Roy as Donald Trump attacks him"
-    excerpt: "Donald Trump may be gunning for Congressman Chip Roy, but U.S. Sen. Ted Cruz is making it clear he’s going to fight to defend Roy, his former chief of staff. A month after Trump publicly blasted Roy,"
-    publishedDateTime: 2021-06-23T09:14:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php"
+  - title: "Trump's kingmaker status faces test in Ohio special election"
+    excerpt: "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention"
+    publishedDateTime: 2021-08-02T17:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://s.hdnux.com/photos/01/20/55/21/21156979/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7d1c31b0bea447dba63a606542d380ea_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Replay: Watch Donald Trump, Gov. Greg Abbott visit Texas-US border"
-    excerpt: "Former President Donald Trump and Texas Gov. Greg Abbott have a number of events planned at the border Wednesday. Watch live here."
-    publishedDateTime: 2021-06-30T17:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/2021/06/30/trump-border-visit-greg-abbott-town-hall-sean-hannity-live/7811096002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7811096002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7811096002"
+  - title: "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\""
+    excerpt: "The House Oversight and Reform Committee released notes from acting deputy attorney general Richard Donoghue Friday."
+    publishedDateTime: 2021-07-31T16:03:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: CBS News
+      domain: cbsnews.com
+    quality: 131
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/29/NAAS/45455e8f-cef4-47c0-a267-0ae690ea542a-jwj_06282021_Border_0792.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump and Gov. Greg Abbott are visiting the Texas border. Here's what to know"
-    excerpt: "The visit, called a \"clown show\" by the Democrats, comes as immigration authorities on the ground are seeing a spike in unauthorized border crossings."
-    publishedDateTime: 2021-06-30T19:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/texas/state-bureau/2021/06/30/donald-trump-texas-border-greg-abbott-visit-what-to-know/7793828002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/7793828002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793828002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/30/NAAS/9bf540a8-ae60-44fd-9054-f9ca4c8dba2f-jwj_06302021_Border_2760.jpg?auto=webp&crop=2999,1687,x0,y200&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Brian Kemp tries to shore up base as Donald Trump keeps up attacks"
-    excerpt: "Gov. Brian Kemp's need to constantly prove himself to Georgia's Republican Party base underscores his precarious 2022 positioning as he simultaneously tries to fend off pro-Trump primary challengers while he prepares for a likely tough rematch with Democrat Stacey Abrams."
-    publishedDateTime: 2021-06-29T14:46:00Z
-    webUrl: "https://www.ajc.com/politics/as-trump-looms-brian-kemp-scrambles-to-shore-up-the-base/7JCGOATZCREY7CW2F7QLLFCAXE/"
-    ampWebUrl: "https://www.ajc.com/politics/as-trump-looms-brian-kemp-scrambles-to-shore-up-the-base/7JCGOATZCREY7CW2F7QLLFCAXE/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/politics/as-trump-looms-brian-kemp-scrambles-to-shore-up-the-base/7JCGOATZCREY7CW2F7QLLFCAXE/?outputType=amp"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 75
-    images:
-      - url: "https://www.ajc.com/resizer/lcliu5hAFTFHa-KkYn0ROPMe2p4=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CUG3YOSGTOK5P45OJ4MHHJ5F3A.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/297a2ce4-c8c2-414f-b43c-aaa933aa7c4a/thumbnail/1200x630/b4fd056bcbc7a3c7547a74f44a8105f6/cbsn-fusion-trump-org-expects-charges-to-be-filed-thurs-thumbnail-744929-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Donald Trump meets with Gov. Abbott on border wall in Texas today"
-    excerpt: "Trump’s last visit to Texas was almost to the same area. In his final days in the White House, Trump visited Hidalgo County for an event in front of a portion of the completed w"
-    publishedDateTime: 2021-06-30T17:22:00Z
-    webUrl: "https://www.chron.com/politics/article/Donald-Trump-returns-to-Texas-today-16284867.php"
+  - title: "Donald Trump raises a $100m war chest"
+    excerpt: "Donald Trump entered July with a war chest of more than $100m from his 2021 political committees, raising more than other Republicans in online donations during the first half of this year, new federal campaign finance filings show."
+    publishedDateTime: 2021-08-01T13:12:00Z
+    webUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89?curator=upstract.com"
+    ampWebUrl: "https://amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff300bf76-b7e7-4135-aaa1-aafc581be249.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas"
+    excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
+    publishedDateTime: 2021-07-28T01:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Donald Trump endorses Ken Paxton for reelection as Texas attorney general"
+    excerpt: "This is a developing story and will be updated. Donald Trump Monday endorsed Texas Attorney General Ken Paxton for reelection, giving the"
+    publishedDateTime: 2021-07-27T05:47:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/26/donald-trump-endorses-ken-paxton-for-reelection-as-texas-attorney-general/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/26/donald-trump-endorses-ken-paxton-for-reelection-as-texas-attorney-general/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/26/donald-trump-endorses-ken-paxton-for-reelection-as-texas-attorney-general/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 89
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/76t5QJeB02Xqz1x6C4mLZTmNF6k=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/PVL4IVSCURAILMTT7ZXNEKOOQM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "‘Just say the election was corrupt and leave the rest to me,’ Trump urged Justice official"
+    excerpt: "The pressure is all the more notable because just weeks earlier, Trump’s own Attorney General William Barr, had declared that the department had found no evidence of widespread fraud that could have overturned the results."
+    publishedDateTime: 2021-07-30T17:34:00Z
+    webUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 80
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AUZBFCZUOJCZJHVRM2XPSARO4I.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
+  - title: "Trump's Kingmaker Status Faces Test in Ohio Special Election"
+    excerpt: "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention."
+    publishedDateTime: 2021-08-02T05:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Jake Ellzey beat Susan Wright for Congress by keeping it local amid Donald Trump, national circus"
+    excerpt: "Political consultants from both major parties are effective at taking national talking points and selling them to voters who speak the same language — whether it’s building a border wall, election integrity,"
+    publishedDateTime: 2021-08-02T10:30:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 62
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/dwxLtuVlsCCkLJul4tszk2pSuII=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/DEF5T2BZYVHAJNJS6ABB3AUB2Q.JPG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump's Sway Tested in Race for Open Mid-Ohio US House Seat"
+    excerpt: "The crowded Republican primary for an open U.S. House seat in central Ohio is testing the ongoing political sway of former President Donald Trump."
+    publishedDateTime: 2021-07-23T11:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Is Trump's grip strong?"
+    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
+    publishedDateTime: 2021-08-02T09:37:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/20/63/43/21182714/6/rawImage.jpg"
-        width: 2048
-        height: 1532
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
+  - title: "Trump's political cash hits $102M"
+    excerpt: "Former President Donald Trump has proved himself his party's most powerful fundraiser in the first six months of the year, amassing a political treasure chest of $102 million by the end of June, according to filings made public Saturday."
+    publishedDateTime: 2021-08-02T10:30:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/trumps-political-cash-hits-102m/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
+    excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
+    publishedDateTime: 2021-07-29T10:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 53
+  - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
+    excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
+    publishedDateTime: 2021-07-29T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/carl-p-leubsdorf-the-candidate-trump-endorsed-in-a-texas-race-lost-what-does-that/article_a85239e8-9169-56a5-b913-aa757f3adf35.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Raises Big Money in Early 2021, but Doesn't Spend Much"
+    excerpt: "A fundraising group run by former President Donald Trump raised $62 million in the first half of the year but only spent $3 million, with the biggest chunk of money going to a pro-Trump research center and more than $65,"
+    publishedDateTime: 2021-08-01T03:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "27xnMBMUiuLKss9wzLmxnlyooz0/s1Et+ZZlpuhAIbAhmwz8glfgSFdWmML3mO0ZJtNNdKan+eho2Ky/AzI7cmb6113ZopkJIZ51cEVz6ZobZldja2Ju3TdBdmOF9MgP4HFRRSdAFb203UqQ53kp2yByJUQfUtL6MDqBcY+uXvidRCvG5wbHdvX40JiWQ9wbSJbGjkNxiiDFW6glnKc5FinhkthUNOhfI9EsGsLRW8YsPeGW6sxfpdUyoSWXZJ1XWv4pxHmAJNL90BsgU+XHBtN3JVirGqFsKpSx3/F/NqyFWu+a/svYYmJg6z2uuu0GWpzQv8Fvb3Ahgp+IH81RY1G2mJGC+Knxk6NfEneUYfQ=;FJRO1kf0hVBgArpzrkEgMw=="
 ---

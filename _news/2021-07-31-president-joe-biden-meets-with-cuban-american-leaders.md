@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Meets with Cuban-American Leaders"
-excerpt: "President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington, DC, on Friday, July 30, 2021. President Biden was seated next to Jake Sullivan,"
+excerpt: "Jake Sullivan, Assistant to the President and National Security Advisor, listens as President Joe Biden delivers remarks before a meeting with Cuban-American leaders in the State Dining Room of the White House in Washington,"
 publishedDateTime: 2021-07-30T22:03:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/999190775ec599e646b7c0dcbff39dcb/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4a35cafcbc748b2ca260991578ee8fbc/President-Joe-Biden-Meets-with-Cuban-American-Leaders/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/999190775ec599e646b7c0dcbff39dcb/WHITE-HOUSECUBA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4a35cafcbc748b2ca260991578ee8fbc/WHITE-HOUSECUBA.jpg"
     width: 650
     height: 433
     isCached: true
@@ -236,6 +236,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Pro-Biden groups to spend $100 million on August ad blitz"
+    excerpt: "White House groups plans to spend nearly $100 million to promote President Joe Biden’s agenda over the next month to pressure Congress while lawmakers are on their August recess."
+    publishedDateTime: 2021-08-02T17:54:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/2/pro-biden-groups-to-spend-100-million-on-august-ad/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/2/pro-biden-groups-to-spend-100-million-on-august-ad/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/2/pro-biden-groups-to-spend-100-million-on-august-ad/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/02/biden_12936_c0-222-5321-3325_s1200x700.jpg?e2fce2d1b5d5c9fa62b6207df9c2fd3101ee2d6d"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Evictions loom after Joe Biden and Congress fail to extend ban"
     excerpt: "A nationwide eviction moratorium is set to expire Saturday night after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their homes during a COVID-19 surge."
     publishedDateTime: 2021-07-31T14:27:00Z
@@ -265,6 +281,6 @@ related:
         height: 433
         isCached: true
 
-secured: "6LPESds5xGH44Mdee1bI5HEtiSvFvtOwXxbdngv5+kIXNg8DxVuQZhb3fENNTsnFHAPoYnd2WWhysM7cQPFYmZBv3LYjoI7g71VfJsXOEY7V4FBt8aRUnZnpg0gJK4vWToRCw/LALBYA9GEB7Yi1oCRfZIszlRpP/4n83IljBYuQZDNSlzclC5/dKl4FGOnGUS8Tg3PsJ6XFw1gT1bOVh67WfcTzP8bwwyEyX+u7slJvlNMmls9JybUvY8yF7bKSLd29mqFwtPqmGfwzhz7y4PITcCJD0zav8P5Ok0gDrgUzeWB2wsurXU2luOAvHL3wDOuW26+mZSMZziaL9GqS20DZav73A82VWPHta4lUFUKxpfbnSKuicFhiatC1zh17iJnm8p11fI0Wyl9xO/Dp8z6ewMaVU6s4zKRhSvTvLHiyZqKmme9R6ZKpNaVChEZICsJwZjfh2b+TyikANqPuLnO+ZZu7gXD4OTD94ZVp/398MwPyC7yceqkqwqB3O7taXG+pWv77HlnA+LP0yVhPUw==;/EANa0PqTn6JV2QRXO1u0g=="
+secured: "YmNG8ymLaN3U+7gVFxqbBpCu0yo4up37jazv8srjHpN4ANyvIoMYsH0Ka+nUNko1y4hhMWfNiidTj/TOdb2UnBDtb25/i1dS03KpUUZSekFXzIbH81IDdCjCFnNoALPxrR1kzKE0HG5VMhvDSjieH8LxM5aDxUL6qrWVf46KGXGW+8iufkTzYTNShq7KcqioXXEGKPupp1mVp+fZDcHJAuZ+iEImgQIQqkQzg99/pqOoEeHqWjii96cHgut+4PbXsM7fRi7Fi0nPu+s4+zb81S0Rgs+uSY7M2HvCc5Wq0sgH1Q6BDfst0Gm8A+UPltbFVjnMvNLfaAoykTkmVZaJYeXIvrtJJ0iV2asTz7bOTQw=;jGevsyJ6SC8eyIUuCao8yw=="
 ---
 

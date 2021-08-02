@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pelosi, Black Caucus put pressure on Biden to halt evictions"
+    excerpt: "House Speaker Nancy Pelosi said Monday it's “unfathomable” that Americans will be ousted from their homes during the COVID-19 crisis, and backed by the Black Caucus intensified pressure on the Biden administration to immediately extend the nation's eviction moratorium."
+    publishedDateTime: 2021-08-02T16:51:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-democrats-call-biden-extend-eviction-ban-79209762"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-democrats-call-biden-extend-eviction-ban-79209762"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-democrats-call-biden-extend-eviction-ban-79209762"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_76dabaf39164454bb6b5850f29d32524_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to sanction Cuban officials following attacks on protesters, reports say"
     excerpt: "Thousands of Cubans took to the streets earlier this month to protest food and medicine shortages, power outages and spiraling prices."
     publishedDateTime: 2021-07-22T15:51:00Z
@@ -255,6 +271,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/Hfg8gcdywot7XzyfOuQRcRY-VB4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UA56JOJJWNHAVDADM6DOSZ45FA.jpg"
         width: 1200
         height: 788
+        isCached: true
+  - title: "Senators unveil bipartisan infrastructure package, a key part of Biden’s agenda"
+    excerpt: "After much delay, senators unveiled a nearly $1 trillion bipartisan infrastructure package, launching what is certain to be a lengthy debate over President Joe Biden’s big priority."
+    publishedDateTime: 2021-08-02T17:41:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-senate-infrastructure-package-20210802-lmpkojmktfd55mowlg563pw5li-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-senate-infrastructure-package-20210802-lmpkojmktfd55mowlg563pw5li-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-senate-infrastructure-package-20210802-lmpkojmktfd55mowlg563pw5li-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 71
+    images:
+      - url: "https://www.baltimoresun.com/resizer/DPsBiHv31y75ujPEWKUP3ZTezmc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Z4V6UO4JAWPW5237G4R4BARVM4.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Florida Republicans slam President Joe Biden on Cuba during GOP townhall in Versailles"
     excerpt: "A Miami crowd of dozens who had shown up in support of the anti-government protests in Cuba served as the backdrop of a GOP town hall broadcast live from Versailles Cafe on SW 8th Street — hosted by FOX News’ Sean Hannity."

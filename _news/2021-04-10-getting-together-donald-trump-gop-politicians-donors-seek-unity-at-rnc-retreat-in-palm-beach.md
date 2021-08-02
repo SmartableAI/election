@@ -75,20 +75,6 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
-  - title: "Is Trump's grip strong?"
-    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
-    publishedDateTime: 2021-08-02T09:37:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "htGrNyNoHSnq2NPWxLgUzQBy6U/FFHs6/Bpx4PLHeei+lT9G4MC8vyB4Bnwm48sJyWfQBjCl+4MGKfS0na0979rniOKSDoceWRmxHdK/Nj5ODCRUwML3wj1koYkHHC84bSVEI2hE22sTd4CFPhae7USE0Nwphhfzo+mI3B212j/dJwcHR2EF6WOI6diD/PnBUmxbdG+IBRGCb0cBRK0QOEVKXnVcop/JaYL0tyAWg05l8ZUTQt6Ps0+GFFdaP9M0LmZ5Xsz/5xyaxLNimOcrW4AxpvrYWAsoc/KRVjWydvCHY07AqgEO6QKrTa51uDQLZttR1zRL5lBxOUkbNH9t9SeJUcIE6pmF5MDx2DIDrYeIY6wRcHsHh6H8LV/SqX20wPaLx+f8p64fKcaTKPo+D+gjOb67SXQt4PiB7IksHkPvIldALh3GjmdgtqMM/4BrCoIo0FsRJe6l7XNlrLoH7CZX2fFoWkHBXWFAbCJOrMPvThYY5tU1go+xI2cV/fFf37WMF9Qbl40gETwaqeztwA==;TTjYv1eapPEISL9OimeIUw=="
 ---

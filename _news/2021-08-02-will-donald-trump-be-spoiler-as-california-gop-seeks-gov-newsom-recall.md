@@ -3,25 +3,25 @@ category: news
 title: "Will Donald Trump be spoiler as California GOP seeks Gov. Newsom recall?"
 excerpt: "California could witness a stunning turnabout in a nation of deeply polarized politics if the liberal state dumps Democratic Gov. Gavin Newsom and elects a Republican to fill his job in a"
 publishedDateTime: 2021-08-02T12:35:00Z
-originalUrl: "https://www.ocregister.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
-webUrl: "https://www.ocregister.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
-ampWebUrl: "https://www.ocregister.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+originalUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
+webUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
+ampWebUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2021/08/California_Recall_13549.jpg?w=1024&#038;h=682"
+  - url: "https://www.dailynews.com/wp-content/uploads/2021/08/California_Recall_13549.jpg?w=1024&#038;h=682"
     width: 1024
     height: 682
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 558
         isCached: true
 
-secured: "jEyY9RVhUTAn1b0EKua81JMIVVg1zKF6h4mgMfa0XQokaw+hSeKAtc/98rz5364z2F+fN2D4wXJ3Gw6dYYoMPL/IkdQXa0y0CJ0vZiBqdVLpYOzxllZW4Mm+t5WalLtLFOIUfZ7tataL4mJQBoaQh0ktihiuWo+U0qqIcR60UBwyOtGiWD+o6HSEdUBq+OIOPX2TxPA6A1HO4VkbiHcY3n48wvzKj47nlhRt1MVOLPxYYl0JhwKJEDL2kWIfVi2WJ2DOqhfOm8G18DKooDFC+7BvvPiWrC04KO8iTFFkPHJP7baf5Qkkc79HLN68LpEzGVJ+z59SuGT0LO4u96RI+B/pWrtly7A1gJ3kj9j/cn4=;JziiOBD+vDg4L5pjk7htWw=="
+secured: "xj/5RHkZlW9jAxMGYsA6l3Wyak0pG0i9iBIODoACybQejpUbLUMfY4jcXFtPao0ypuGnsu1rVwivNDsQ67a/9QcKuCrVNQ/R9nLVE8QfCtYla7PIyvN8b5AdJ9MMCBLfmqc5lPJ+6SoHH/AuFIrSfcLhjg+pSuG71S73uFR020O8t9d2gYZH9+h25iK1JLi5xxNMyoSbOXfxXmHE/oSNyFyLOoKl85sk4kJYv7ZZsWtU7DQseJYJaocXDCBCdTRSDqOXmJF1ii+DP0+9vS0WTtYbcmxBkIQQYG4CMTt8URKlGHCUf4KeiI7TQ6dhtySm5xeSOkdu8tIPrt5Sk3N5tMpuDohZj25cDnuS2a+zv6g=;PHKuIberwtBUtsvqakh/zw=="
 ---
 

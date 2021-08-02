@@ -25,6 +25,70 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's kingmaker status faces test in Ohio special election"
+    excerpt: "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention"
+    publishedDateTime: 2021-08-02T17:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-kingmaker-status-faces-test-ohio-special-election-79210099"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7d1c31b0bea447dba63a606542d380ea_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\""
+    excerpt: "The House Oversight and Reform Committee released notes from acting deputy attorney general Richard Donoghue Friday."
+    publishedDateTime: 2021-07-31T16:03:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 131
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/297a2ce4-c8c2-414f-b43c-aaa933aa7c4a/thumbnail/1200x630/b4fd056bcbc7a3c7547a74f44a8105f6/cbsn-fusion-trump-org-expects-charges-to-be-filed-thurs-thumbnail-744929-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump holds rally in Ohio"
+    excerpt: "Watch \"Donald Trump holds rally in Ohio\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-27T18:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210627183639-donald-trump-holds-rally-in-ohio/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/27/cb1a6bb0-49db-4c73-8b26-16b13b968b62/thumbnail/1200x630/9941f3dab08ba65820f6bc62def4cb5b/cbsn-fusion-trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27-thumbnail-742507-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump raises a $100m war chest"
+    excerpt: "Donald Trump entered July with a war chest of more than $100m from his 2021 political committees, raising more than other Republicans in online donations during the first half of this year, new federal campaign finance filings show."
+    publishedDateTime: 2021-08-01T13:12:00Z
+    webUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89?curator=upstract.com"
+    ampWebUrl: "https://amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff300bf76-b7e7-4135-aaa1-aafc581be249.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas"
     excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
     publishedDateTime: 2021-07-28T01:50:00Z
@@ -39,50 +103,49 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright"
-    excerpt: "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
-    publishedDateTime: 2021-07-28T13:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 98
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
-  - title: "The Trailer: Trump, texts and Texas: Inside an all-Republican primary that didn't go as planned"
-    excerpt: "Instead, Democrats spent little, turned out few voters, and set up an all-Republican race between Wright and Ellzey, who'd previously sought the seat in 2018. Instead of a red-on-blue suburban battle,"
-    publishedDateTime: 2021-07-27T21:21:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/27/trailer-trump-texts-texas-inside-an-all-republican-primary-that-didnt-go-planned/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 93
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXK7Q5XO6EI6XANSTNYGDJMC3A.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
-    excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
-    publishedDateTime: 2021-07-23T23:38:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
+  - title: "Donald Trump endorses Ken Paxton for reelection as Texas attorney general"
+    excerpt: "This is a developing story and will be updated. Donald Trump Monday endorsed Texas Attorney General Ken Paxton for reelection, giving the"
+    publishedDateTime: 2021-07-27T05:47:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/26/donald-trump-endorses-ken-paxton-for-reelection-as-texas-attorney-general/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/26/donald-trump-endorses-ken-paxton-for-reelection-as-texas-attorney-general/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/26/donald-trump-endorses-ken-paxton-for-reelection-as-texas-attorney-general/?outputType=amp"
     type: article
     provider:
       name: Dallas Morning News
       domain: dallasnews.com
-    quality: 63
+    quality: 89
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zp8RnDoX54ji-1jEmPaqcmBJbng=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HQIGQ74FORGH5ASQDJPO5ZM3WY.jpg"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/76t5QJeB02Xqz1x6C4mLZTmNF6k=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/PVL4IVSCURAILMTT7ZXNEKOOQM.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Just say the election was corrupt and leave the rest to me,’ Trump urged Justice official"
+    excerpt: "The pressure is all the more notable because just weeks earlier, Trump’s own Attorney General William Barr, had declared that the department had found no evidence of widespread fraud that could have overturned the results."
+    publishedDateTime: 2021-07-30T17:34:00Z
+    webUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 80
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AUZBFCZUOJCZJHVRM2XPSARO4I.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
+  - title: "Trump's Kingmaker Status Faces Test in Ohio Special Election"
+    excerpt: "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention."
+    publishedDateTime: 2021-08-02T05:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Jake Ellzey beat Susan Wright for Congress by keeping it local amid Donald Trump, national circus"
     excerpt: "Political consultants from both major parties are effective at taking national talking points and selling them to voters who speak the same language — whether it’s building a border wall, election integrity,"
     publishedDateTime: 2021-08-02T10:30:00Z
@@ -99,38 +162,65 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Texas Attorney General Ken Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
-    excerpt: "Paxton is facing a primary challenge from Bush, the land commissioner, as well as Eva Guzman, the former state Supreme Court justice."
-    publishedDateTime: 2021-07-27T04:11:00Z
-    webUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/"
-    ampWebUrl: "https://www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/26/texas-attorney-general-ken-paxton-2022-donald-trump/amp/"
+  - title: "Trump's Sway Tested in Race for Open Mid-Ohio US House Seat"
+    excerpt: "The crowded Republican primary for an open U.S. House seat in central Ohio is testing the ongoing political sway of former President Donald Trump."
+    publishedDateTime: 2021-07-23T11:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-23/trumps-sway-tested-in-race-for-open-mid-ohio-us-house-seat?context=amp"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 50
-    images:
-      - url: "https://thumbnails.texastribune.org/s8ogB7GkYvA1-RGZ9WgYwz8uaSQ=/1200x630/filters:quality(95)/static.texastribune.org/media/files/2a6fb556597679337515d7ceed1a6af1/Trump%20Paxton%20TT.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "In a major upset against a candidate backed by Donald Trump, Jake Ellzey wins runoff for Fort Worth-area congressional seat"
-    excerpt: "Wright and Ellzey are vying to finish the term of Ron Wright, who died earlier this year after contracting COVID-19. His Republican-leaning seat touches Fort Worth and stretches southeast to more rural areas."
-    publishedDateTime: 2021-07-27T11:00:00Z
-    webUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/"
-    ampWebUrl: "https://www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/07/27/susan-wright-jake-ellzey-texas-6-congressional-seat/amp/"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Is Trump's grip strong?"
+    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
+    publishedDateTime: 2021-08-02T09:37:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 49
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
     images:
-      - url: "https://thumbnails.texastribune.org/v96me-3rz0BdxTl1PFumcJsRrZM=/1200x630/filters:quality(95)/static.texastribune.org/media/files/d5ab26288afce7e92fc2b6a90729192d/Jake%20Ellzey%20TT%2002.jpg"
-        width: 1200
-        height: 630
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
+  - title: "Trump's political cash hits $102M"
+    excerpt: "Former President Donald Trump has proved himself his party's most powerful fundraiser in the first six months of the year, amassing a political treasure chest of $102 million by the end of June, according to filings made public Saturday."
+    publishedDateTime: 2021-08-02T10:30:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/trumps-political-cash-hits-102m/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
+    excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
+    publishedDateTime: 2021-07-29T10:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 53
+  - title: "Trump Raises Big Money in Early 2021, but Doesn't Spend Much"
+    excerpt: "A fundraising group run by former President Donald Trump raised $62 million in the first half of the year but only spent $3 million, with the biggest chunk of money going to a pro-Trump research center and more than $65,"
+    publishedDateTime: 2021-08-01T03:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "NRwDGRsktPuB/96mO0jNEAjo46+Gz4/zChbTB+9lTce1HmO1DjPjK566YYSeM0w4tTvqScawldh9u7yyB+h3px8OugvbOIBNg9WreLRk1q2+WVn5lTkMZq76vWB7ZraDEDkhvJ2wl7tMpsqdI8UWcnIj7O15Nz4Hy1ZhByAFWqtqu1vkTh04vRfD+p+qfpyVmGBGywIu7HpQeqJfLkMiSYo/R2g69aqA2WxJ+/kLHmEiFYpZvkJy0by7LuXIVUpjSIHxB5fdoZxATFUrMCXFy+mZpIBRXSiAMSpc0wlj6baLM9GGgnoNgWsB498kXgjl5/8flP3JABreSwbKXC8VIqjNKMc+kQ4qJ9G0fzWacbQ=;VBAchI55DwJnE2AvzjXF9Q=="
 ---

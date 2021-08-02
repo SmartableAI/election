@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden headlining Democratic Party fundraising event"
+    excerpt: "President Biden is headlining a fundraiser for the Democratic National Committee on Monday evening in an effort to build up resources ahead of next year’s midterm elections"
+    publishedDateTime: 2021-08-02T16:14:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uRT7dXF6CE0/biden-democratic-party-fundraiser"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-democratic-party-fundraiser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democratic-party-fundraiser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "What Does a Declining Approval Rating Mean for Biden?"
     excerpt: "For his first six months in office, President Joe Biden's job approval has stayed pretty steady. As you saw last week, it was based largely on the public's approval of his handling of the COVID-19 pandemic."
     publishedDateTime: 2021-07-27T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/first-lady-jill-biden-foot-procedur
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-jill-biden-foot-procedure-walter-reed.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden headlining Democratic Party fundraising event"
+    excerpt: "President Biden is headlining a fundraiser for the Democratic National Committee on Monday evening in an effort to build up resources ahead of next year’s midterm elections"
+    publishedDateTime: 2021-08-02T16:14:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uRT7dXF6CE0/biden-democratic-party-fundraiser"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-democratic-party-fundraiser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democratic-party-fundraiser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden says federal workers must be vaccinated or undergo regular testing, masks and social distancing"
     excerpt: "President Biden announced Wednesday that he will require all federal workers to be vaccinated against the coronavirus or submit to frequent testing."
     publishedDateTime: 2021-07-29T20:47:24Z

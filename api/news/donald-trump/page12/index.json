@@ -2,63 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-05-19-a-michigan-judge-dismissed-one-of-the-last-remaining-lawsuits-by-trump-supporters-challenging-the-2020-election.md",
-      "title": "A Michigan judge dismissed one of the last remaining lawsuits by Trump supporters challenging the 2020 election.",
-      "excerpt": "The plaintiffs never cited any specific evidence that the results from voting machines used in Antrim County had been hacked or were fraudulent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/18/us/politics/18new-washington-briefing-antrim1/18new-washington-briefing-antrim1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.amp.html",
-      "publishedDateTime": "2021-05-18T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-18-val-demings-prosecutor-in-trumps-first-impeachment-trial-challenging-marco-rubio-for-senate-in-florida.md",
       "title": "Val Demings, Prosecutor in Trump's First Impeachment Trial, Challenging Marco Rubio for Senate in Florida",
       "excerpt": "Demings competing against Rubio as a Democrat could decide the control of the Senate. She previously considered campaigning for governor.",
@@ -1556,6 +1499,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-09-trump-presidency-worst-four-years-ever-for-gop-says-republican-gov-larry-hogan.md",
+      "title": "Trump Presidency 'Worst Four Years' Ever for GOP, Says Republican Gov. Larry Hogan",
+      "excerpt": "Maryland Governor Larry Hogan, a Republican, slammed former President Donald Trump's tenure in the White House, describing it as the \"worst four years\" the GOP has \"ever\" experienced. Despite being a Republican,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888",
+      "originalUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1791741/larry-hogan.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888?amp=1",
+      "publishedDateTime": "2021-05-09T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

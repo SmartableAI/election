@@ -611,7 +611,7 @@
       "originalUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -695,6 +695,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright.md",
+      "title": "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright",
+      "excerpt": "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10",
+          "width": 852,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -952,58 +1004,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-texas-voters-brush-aside-trump-endorsement-and-name-jake-ellzey-the-winner-in-a-house-special-election-in-texas.md",
-      "title": "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas",
-      "excerpt": "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1271,21 +1271,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-27-paxton-gets-all-important-endorsement-from-donald-trump-over-fellow-republican-george-p-bush.md",
-      "title": "Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush",
-      "excerpt": "Former President Donald Trump has backed Attorney General Ken Paxton for reelection, passing over primary challenger George P. Bush in bestowing the highly sought-after endorsement. \"It is going to take a PATRIOT like Ken Paxton to advance America First policies in order to Make America Great Again,",
+      "path": "_news/2021-07-27-joe-bidens-wheres-mom-remarks-go-viral-as-critics-jump-on-apparent-confusion.md",
+      "title": "Joe Biden's 'Where's Mom?' Remarks Go Viral as Critics Jump on Apparent Confusion",
+      "excerpt": "The president called Representative Jim Langevin \"Paul\" at an event celebrating the Americans with Disabilities Act.",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/lavoz/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php",
-      "originalUrl": "https://www.chron.com/lavoz/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php",
+      "webUrl": "https://www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502",
+      "originalUrl": "https://www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/21/13/45/21281144/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
+          "url": "https://d.newsweek.com/en/full/1856267/biden-gives-pen-tyree-brown.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1293,14 +1293,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php",
-      "publishedDateTime": "2021-07-27T09:35:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502?amp=1",
+      "publishedDateTime": "2021-07-27T08:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1310,7 +1319,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Joe Biden"
       ]
     }
   ],
