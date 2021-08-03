@@ -45,6 +45,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump takes credit for Rick Scott committee fundraising"
+    excerpt: "Rick Scott. “In addition to the RECORD BREAKING money raised over the last 6 months to my political affiliates, I am pleased to see the entire party benefit from ‘Trump.’ By using my name and likeness through many of their efforts,"
+    publishedDateTime: 2021-08-03T00:15:00Z
+    webUrl: "https://floridapolitics.com/archives/445384-trump-scott-nrsc/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/trump-scott-award.jpg"
+        width: 1000
+        height: 749
+        isCached: true
 
 secured: "0eK3DLgdpiTDfj6zlLx+aivw3q21RkA5iQKrhMIsnAftc5DCzj4EqAhpN0RRnmGLZb4WQBqrWBONpkQLH5FkjOapB2rvDogj3l4BjmywbePmBcYTMBN7xXpc2DAkzJidJUYuSraeaIdW0W52JOqcMN29SJ48IaJo9Fr93P6dkMJz1lecy/76wiwq1MGfQKo9U+YTOwmbgDdMRi7y4fTEIQCxyNZoNyKzIlo0oCsz7mTDKOU3KkigeNOyHJbOaKe77oQIf9KHZPbJ4WS/ETkk0ArCtIeW6FGR5R0s+GFSER7nHSLDB5NFDy5OSRO+MirSOlnXHN4msYDLsxxNI5gEv7POy4wCliFxhZ7FMzlbsjNwOr+tDoEEPCJ2gQnUGKKi2VU+4ioIpf+DNCiY9Hoq/A/6yeNh4e6+zRhR4kvx3j+gjPBxRhLM0kZj5LjAIbCyJqygEIa5m1sKSHzrTPFOd2jsR551VXXj0EgO83N6Aek7S4HWXxNKem0p7xog1OZoE3/BvOk6OcOhxcmEwqENKg==;l0U1mXZf2excZYYrokdPWA=="
 ---

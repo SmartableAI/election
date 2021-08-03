@@ -34,16 +34,16 @@ related:
   - title: "Will Donald Trump be spoiler as California GOP seeks Gov. Newsom recall?"
     excerpt: "California could witness a stunning turnabout in a nation of deeply polarized politics if the liberal state dumps Democratic Gov. Gavin Newsom and elects a Republican to fill his job in a"
     publishedDateTime: 2021-08-02T12:35:00Z
-    webUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
-    ampWebUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+    webUrl: "https://www.ocregister.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
+    ampWebUrl: "https://www.ocregister.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
+      name: Orange County Register
+      domain: ocregister.com
     quality: 74
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/California_Recall_13549.jpg?w=1024&#038;h=682"
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/08/California_Recall_13549.jpg?w=1024&#038;h=682"
         width: 1024
         height: 682
         isCached: true

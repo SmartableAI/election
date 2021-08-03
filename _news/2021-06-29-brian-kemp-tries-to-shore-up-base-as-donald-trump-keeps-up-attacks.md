@@ -43,6 +43,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Donald Trump holds rally in Ohio"
+    excerpt: "Watch \"Donald Trump holds rally in Ohio\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-27T18:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210627183639-donald-trump-holds-rally-in-ohio/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/27/cb1a6bb0-49db-4c73-8b26-16b13b968b62/thumbnail/1200x630/9941f3dab08ba65820f6bc62def4cb5b/cbsn-fusion-trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27-thumbnail-742507-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Replay: Watch Donald Trump, Gov. Greg Abbott visit Texas-US border"
     excerpt: "Former President Donald Trump and Texas Gov. Greg Abbott have a number of events planned at the border Wednesday. Watch live here."
     publishedDateTime: 2021-06-30T17:56:00Z

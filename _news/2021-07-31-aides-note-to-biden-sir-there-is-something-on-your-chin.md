@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "McCarthy says country would be better off if Biden had 'done nothing' since taking office"
-    excerpt: "House Minority Leader Kevin McCarthy said President Biden's policies have put the \"country in crisis\" and Americans would be better off if Biden had done absolutely \"nothing\" since taking office. "
-    publishedDateTime: 2021-07-29T19:17:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xsDr4GeJkGw/mccarthy-us-better-off-biden-done-nothing-office"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-us-better-off-biden-done-nothing-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-us-better-off-biden-done-nothing-office.amp"
+  - title: "Biden says voting system ‘under assault, protecting it is ‘single most important thing’"
+    excerpt: "President Biden on Monday warned his fellow Democrats that the voting system was under assault and protecting it was the “single most important thing to do.”"
+    publishedDateTime: 2021-08-03T02:09:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki insists Biden not pushing critical race theory, says curriculum left to local schools"
-    excerpt: "White House press secretary Jen Psaki insisted Thursday that the Biden administration is not pushing critical race theory in schools after it promoted a radical activist group’s handbook in its official reopening guidance, which she said was in \"error.\""
-    publishedDateTime: 2021-07-22T18:58:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4gRIE1qhK4/psaki-biden-critical-race-theory-curriculum-local-schools"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-critical-race-theory-curriculum-local-schools.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-critical-race-theory-curriculum-local-schools.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99373ae6-ea57-4fd2-a674-4e4db41aa345/cecf2f3a-1d7a-4aed-bd32-64d84797edad/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b878e947-4a88-43a4-b2b2-3116ef63ccd5/e836207c-1f0f-4cc6-9963-c0a64f5254fe/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

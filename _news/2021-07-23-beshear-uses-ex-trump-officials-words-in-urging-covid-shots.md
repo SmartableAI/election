@@ -37,17 +37,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Charlie Kirk’s pro-Trump youth group stokes vaccine resistance as COVID-19 surges again"
-    excerpt: "Groups like Charlie Kirk's pro-Trump Turning Point USA are using anti-vaccine misinformation to stoke fundraising efforts, cashing in by calling the rise of the delta variant a media ploy to re-engage mask and vaccine mandates."
-    publishedDateTime: 2021-07-29T19:20:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/charlie-kirks-pro-trump-youth-group-stokes-vaccine-resistance-as-covid-19-surges-again/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/charlie-kirks-pro-trump-youth-group-stokes-vaccine-resistance-as-covid-19-surges-again/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/charlie-kirks-pro-trump-youth-group-stokes-vaccine-resistance-as-covid-19-surges-again/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 47
 
 secured: "qftWthEjVCyANaoBptP0x4D6SNN8PVfCjaGID65B1AKV+vdkKtFBpWTFQ+uXONN6VW0TeYW5UCy8b0km4luV/4iQ4nvmFmXpU8JM+VjKL81k8mBYR6RiT2skzp29D+yokDTRxDy+USUaFfutoag+BJAQcYWHkMXsFC79cqH7llKzPkxSY9eOPreEkHI3/LPi8DsZvDKpgP5eyVI9ix3cL0nkSnD9jByoxKS2LwWE0vYpiwu50ZnkPl7QPzrMHSD+5tRuajcfe+CdyKOUW5zykk16+j49b0Ibwp2cWxqBnR5be59NM89ZQbOL8Mzo6a9o2ybWQ7xZyWq/G6BbKenLCm2/7rmEj654hWwwopd4LbM=;RL0cKsUAM3HNxpnyiO3eBg=="
 ---

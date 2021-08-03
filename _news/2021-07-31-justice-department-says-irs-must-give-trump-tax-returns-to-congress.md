@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\""
+    excerpt: "The House Oversight and Reform Committee released notes from acting deputy attorney general Richard Donoghue Friday."
+    publishedDateTime: 2021-07-31T16:03:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 131
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/297a2ce4-c8c2-414f-b43c-aaa933aa7c4a/thumbnail/1200x630/b4fd056bcbc7a3c7547a74f44a8105f6/cbsn-fusion-trump-org-expects-charges-to-be-filed-thurs-thumbnail-744929-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Justice Dept. says IRS must give Trump tax returns to Congress"
     excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T19:50:00Z
@@ -73,49 +89,49 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "S.C. Lawmaker Mounts Challenge to Rep. Tom Rice, Says Trump Impeachment Vote Broke 'Trust'"
-    excerpt: "\"I think the people...deserve someone they can trust again, and I think I'm that person,\" state Representative Russell Fry said."
-    publishedDateTime: 2021-07-30T13:36:00Z
-    webUrl: "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645"
-    ampWebUrl: "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1"
+  - title: "U.S. Justice Dept says IRS must provide former President Donald Trump's tax returns to Congress"
+    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
+    publishedDateTime: 2021-07-30T20:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F02MK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F02MK"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: Reuters
+      domain: reuters.com
+    quality: 113
     images:
-      - url: "https://d.newsweek.com/en/full/1858741/russell-fry-challenges-tom-rice-primaries.jpg"
-        width: 2500
-        height: 1669
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570501474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T1ET"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump Paid $680,000 to Defense Lawyers in Second Impeachment"
-    excerpt: "Former president Donald Trump used nearly $700,000 in campaign funds to pay the lawyers who defended him at his second impeachment trial, according to filings with the Federal Election Commission."
-    publishedDateTime: 2021-08-02T19:10:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-02/trump-paid-680-000-to-defense-lawyers-in-second-impeachment"
+  - title: "Inside the push to get Trump back on social media now that his favorite sites have banned him"
+    excerpt: "\"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while',\" the CEO of a new conservative social media platform told Insider after he showed Trump how to use its app."
+    publishedDateTime: 2021-07-24T13:44:00Z
+    webUrl: "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieVcTm9JY2Gw/v1/1200x686.jpg"
+      - url: "https://i.insider.com/60f9d289fc253600181fefe5?width=1200&format=jpeg"
         width: 1200
-        height: 686
+        height: 600
         isCached: true
-  - title: "Power Up: Despite DOJ waive of executive privilege, compelling Trump-era officials to testify still a wildcard"
-    excerpt: "While the DOJ's announcement opens the door for former Trump administration officials to be called to testify in the events leading up to January 6, Democrats don't have a strong track record of enforcing those subpoenas."
-    publishedDateTime: 2021-07-28T10:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/28/power-up-despite-doj-waive-executive-privilege-compelling-trump-era-officials-testify-still-wildcard/"
+  - title: "U.S. Justice Dept says IRS must provide former President Donald Trump's tax returns to Congress"
+    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
+    publishedDateTime: 2021-07-30T16:10:00Z
+    webUrl: "https://www.reuters.com/world/us/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-2021-07-30/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 85
+      name: Reuters
+      domain: reuters.com
+    quality: 93
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFFVWJXPDEI6XANSTNYGDJMC3A.jpg&w=1440"
-        width: 1440
-        height: 1859
+      - url: "https://www.reuters.com/resizer/Eope1s_JDvmmenSU16nF3g6p-7k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HTEK4PM3NBKNHBSIXTELC5MQYI.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Justice Department says IRS must give Trump's tax returns to Congress"
     excerpt: "The Justice Department on Friday said the Treasury Department must hand over former President Trump's tax returns to the House Ways and Means Committee, putting an apparent end to the yearslong battle over the records."
@@ -126,6 +142,22 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 85
+  - title: "‘Just say the election was corrupt and leave the rest to me,’ Trump urged Justice official"
+    excerpt: "The pressure is all the more notable because just weeks earlier, Trump’s own Attorney General William Barr, had declared that the department had found no evidence of widespread fraud that could have overturned the results."
+    publishedDateTime: 2021-07-30T17:34:00Z
+    webUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 80
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AUZBFCZUOJCZJHVRM2XPSARO4I.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "Justice Dept says IRS must provide Trump's tax returns to Congress"
     excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying"
     publishedDateTime: 2021-07-30T17:45:00Z
@@ -142,19 +174,39 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
-    excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
-    publishedDateTime: 2021-07-23T23:38:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
+  - title: "Trump's Kingmaker Status Faces Test in Ohio Special Election"
+    excerpt: "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention."
+    publishedDateTime: 2021-08-02T05:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 63
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Trump’s kingmaker status faces test in Ohio special election"
+    excerpt: "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention."
+    publishedDateTime: 2021-08-03T01:50:00Z
+    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article253188683.html"
+    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article253188683.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article253188683.html"
+    type: article
+    provider:
+      name: The Olympian
+      domain: theolympian.com
+    quality: 70
+  - title: "Trump to object to release of tax returns"
+    excerpt: "Former President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal"
+    publishedDateTime: 2021-08-02T21:25:00Z
+    webUrl: "https://www.unionleader.com/news/national/trump-to-object-to-release-of-tax-returns/article_dfe187cb-401c-5433-bb6c-d038cb77e193.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zp8RnDoX54ji-1jEmPaqcmBJbng=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HQIGQ74FORGH5ASQDJPO5ZM3WY.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -172,6 +224,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump to Object to Release of Tax Returns - Lawyer"
+    excerpt: "Former U.S. President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal lawyers signaled on Monday."
+    publishedDateTime: 2021-08-02T21:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-02/trump-to-object-to-release-of-tax-returns-lawyer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "aWf20STq8aEQU/DBX1KYMESBMCmgpR13vGUn9j3XJsNlqa20NFCao+N18Y7FzVTqh0+xZm20dHxbfbQ/kNCfPp6+CILlowC1FPGHEmh+b/KvBH7SSQFd4FG5eG27Ts32Xq3XoWtz0N3z1yf+scL75qOGO2FnuRttsJEz1syUj71fTBdphsCNbAp50xIa/3lX48uSb4BwZQ1Ln9RTTFV52nZKyrxSzOQo/hQ1gJTUOfNHhpyj2ikVxDXlXHT1HN3oQd4V7cCdmxLjQn2c4nDZqPKPO5fJgz+hIHYMgfUvPqsIy+bbStqEIq/buc6O8+udLYDsuwRJ2ZZc4ny6K4mHZ3QM8aZU68n3CnVXqkC66U8=;miIUjJSE1PcXI9lwJD0mPQ=="
 ---

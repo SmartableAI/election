@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump takes credit for Rick Scott committee fundraising"
+    excerpt: "Rick Scott. “In addition to the RECORD BREAKING money raised over the last 6 months to my political affiliates, I am pleased to see the entire party benefit from ‘Trump.’ By using my name and likeness through many of their efforts,"
+    publishedDateTime: 2021-08-03T00:15:00Z
+    webUrl: "https://floridapolitics.com/archives/445384-trump-scott-nrsc/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/trump-scott-award.jpg"
+        width: 1000
+        height: 749
+        isCached: true
   - title: "Rudy Giuliani's Son Banks On Donald Trump Clout In Possible Run For New York Governor"
     excerpt: "Andrew Giuliani served as a Trump aide and retains many contacts from the White House, but faces another entrenched Trump ally, Rep. Lee Zeldin."
     publishedDateTime: 2021-04-21T21:39:00Z

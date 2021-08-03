@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Frustration as Biden, Congress allow eviction ban to expire"
+    excerpt: "Millions of Americans face being forced from their homes with the midnight Saturday expiration of a moratorium on evictions during the pandemic."
+    publishedDateTime: 2021-08-03T02:32:00Z
+    webUrl: "https://www.sacbee.com/news/article253161128.html"
+    ampWebUrl: "https://amp.sacbee.com/news/article253161128.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253161128.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/e667a3f0-e955-4af9-8211-6212e885a0d8/9c61b83e-2c07-4db2-97ec-8eb489b6ef3d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Evictions looming, Biden fails to get Congress to extend ban"
     excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
     publishedDateTime: 2021-08-02T09:43:00Z
