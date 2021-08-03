@@ -2,6 +2,54 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-06-10-trump-hosts-fundraiser-for-new-gop-chair-rep-elise-stefanik.md",
+      "title": "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik",
+      "excerpt": "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
+      "originalUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Elise-Stefanik.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
+      "publishedDateTime": "2021-06-09T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-mollie-hemingway-calls-out-kamala-harris-nervous-laugh-when-facing-tough-questions.md",
       "title": "Mollie Hemingway calls out Kamala Harris' nervous laugh when facing tough questions",
       "excerpt": "The Federalist Senior Editor Mollie Hemingway said on Wednesday that Vice President Kamala Harris laughs “nervously” when challenged by journalists, reacting to an interview the former senator had with NBC journalist Lester Holt.",
@@ -1283,58 +1331,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-fact-check-donald-trump-remains-suspended-from-facebook-instagram.md",
-      "title": "Fact check: Donald Trump remains suspended from Facebook, Instagram",
-      "excerpt": "An Instagram post claims Donald Trump's Facebook and Instagram accounts were restored as of June 2. That's false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/07/fact-check-trump-facebook-and-instagram-accounts-still-suspended/7546944002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/07/fact-check-trump-facebook-and-instagram-accounts-still-suspended/7546944002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/26/USAT/c93bd3c4-8f04-4f46-b7af-39d711e7a971-AP_Trump_Russia_Probe.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7546944002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7546944002",
-      "publishedDateTime": "2021-06-07T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

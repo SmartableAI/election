@@ -2,6 +2,62 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-06-16-biden-doj-drops-lawsuit-against-john-bolton-over-2020-book-release.md",
+      "title": "Biden DOJ drops lawsuit against John Bolton over 2020 book release",
+      "excerpt": "The Justice Department has dropped its civil lawsuit against former National Security Adviser John Bolton over the publication of his 2020 book, “The Room Where It Happened,” according to a court filing obtained by Fox News on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1LPdxlRz5M/biden-doj-drops-lawsuit-john-bolton-2020-book-release",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1LPdxlRz5M/biden-doj-drops-lawsuit-john-bolton-2020-book-release",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21948497-d71d-4756-860b-01df3fc7e75c/a33233af-5627-4652-b2ba-ec4645bfdae9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp",
+      "publishedDateTime": "2021-06-16T16:08:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-merrick-garland-reverses-trump-era-decisions-on-asylum-claims.md",
       "title": "Merrick Garland reverses Trump-era decisions on asylum claims",
       "excerpt": "The Department of Justice (DOJ) announced the reversals on Wednesday, which would set U.S. immigration policy back to where it was before decisions made by Trump-era DOJ officials Attorney General Jeff Sessions and Deputy Attorney General Jeffrey Rosen.",
@@ -1300,62 +1356,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-liberals-tell-breyer-to-retire-after-mcconnell-says-he-wont-support-biden-supreme-court-pick-in-2024.md",
-      "title": "Liberals tell Breyer to retire after McConnell says he won't support Biden Supreme Court pick in 2024",
-      "excerpt": "Some on the left are re-upping their calls for Supreme Court Justice Stephen Breyer to retire from the bench Monday after Senate Minority Leader Mitch McConnell said he would block a nominee from President Biden in 2024 if Republicans are in the Senate majority.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
-      "publishedDateTime": "2021-06-14T11:31:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

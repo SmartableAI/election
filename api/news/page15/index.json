@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-07-07-hillicon-valley-biden-to-confront-cyberattacks-following-kaseya-attack-jedi-contract-axed-tech-giants-warn-hong-kong.md",
+      "title": "Hillicon Valley: Biden to confront cyberattacks following Kaseya attack | JEDI contract axed | Tech giants warn Hong Kong",
+      "excerpt": "Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa",
+      "originalUrl": "https://thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/psakijen_05172021getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa?amp",
+      "publishedDateTime": "2021-07-06T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-pentagon-undoes-trumps-10b-deal-with-microsoft.md",
       "title": "Pentagon undoes Trump's $10B deal with Microsoft",
       "excerpt": "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon.",
@@ -1256,62 +1308,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend.md",
-      "title": "‘America Together’ but apart: Biden, first lady, VP, go separate ways for July 4 weekend",
-      "excerpt": "President Biden, Vice President Kamala Harris, the first lady and the second gentlemen all go their separate ways as part of the administration's \"America's Back Together\" tour.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_E8OC476-h8/america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_E8OC476-h8/america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/AP21184779335087.jpg",
-          "width": 1024,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-04T09:58:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

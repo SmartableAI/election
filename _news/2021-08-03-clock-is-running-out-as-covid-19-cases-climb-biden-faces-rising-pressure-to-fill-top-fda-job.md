@@ -2,17 +2,21 @@
 category: news
 title: "'Clock is running out.' As COVID-19 cases climb, Biden faces rising pressure to fill top FDA job"
 excerpt: "Five months ago, former heads of the Food and Drug Administration urged Joe Biden to make filling that position a priority but it's still vacant."
-publishedDateTime: 2021-08-03T09:53:00Z
-originalUrl: "https://www.democratandchronicle.com/story/news/politics/2021/08/03/covid-19-cases-rise-biden-faces-pressure-fill-vacant-fda-job/5452301001/"
-webUrl: "https://www.democratandchronicle.com/story/news/politics/2021/08/03/covid-19-cases-rise-biden-faces-pressure-fill-vacant-fda-job/5452301001/"
+publishedDateTime: 2021-08-03T09:00:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/08/03/covid-19-cases-rise-biden-faces-pressure-fill-vacant-fda-job/5452301001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/08/03/covid-19-cases-rise-biden-faces-pressure-fill-vacant-fda-job/5452301001/"
 type: article
-quality: 22
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Democrat and Chronicle
-  domain: democratandchronicle.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -52,6 +56,6 @@ related:
         height: 512
         isCached: true
 
-secured: "aGRm0bhociNb5/6C2Mtq0nzk8ChL44Jomzp6fAZHgQAp5PU5pJh883lOUfUcASjhe7ATc8bLGSw4aKYd2Gb+CGn7LHwTvf//DuhryhlrhUmqUQPQr212HXurBUBDQhw7vmiYrhcZ1egLU+y9oTz2DNwhcir6ZVkOzifMBcU6r18G8C94FPfpeI0G4/LYXSHrw02xaUHnNyvUXRS5ih1fzGEtJQ1yEnyp6YR/RAH4PCQok9wqPd4Ujdm1a7Rr6GnMChf7muphVjBRWKIsT/sZ0UdPlw4gyHB9LLSmOuVKyCC9eDldh82R7Hvsa4qvERXs/EVZFBD8rhTAfiTRJR95abQTh5V5+kak5wvkaIW5vVYD0LpcMqwMBzdze7xM/FBqC/p475sdqM091SdwfvFhByaJeVbKT5U3/DBPp3hNADU3xWI267zMAa0eI92VcaA4/UlBUNbeE4QCg/u3NH7ImfoWzDb2y7GJ7aLo5d96hzCtQpDMtCbiHEZR6hSeeLwACp8B1Lwi0gG0tBXiZf1Fzg==;sAZM0Qch3mlC+DoApSCPXg=="
+secured: "60AQnMNZQaLAxUysuvS6g9+kYRTAIS6WIH9Ntdw7+ZPpO+6YoatdO6lvIfK3bhlRDbwOh/NnXr3baPZYKyx7RfsD2TOVz5wZEqcfHUmZBvCO3I1HQRJ8uhRNo362dvxJFzfEchw2Ptu/qfIh4/p8UhOAGjwuZ8/G+hjzpskZaSsBNtrLv2BPyRHzAG3FQyFn4BPQFQkXEvqmgRDoffZ0L6Jx4iOt3xy0cq75NfxbNCMjoztHL1fC14MILZqga/UzM+24hNI2sYQyf1zdOwNnGKXPT2fyN8euLFg3RYpEcWtnUMqPDj9qRrxLZwMd9jmkmiDPKmJ0BuD1RxH2U8cYYybKuM7IDBApesBAVJ7/IeIlHIypXuOrYvz/5k3v3/ItKejKV20LSNFULMyvXTxk6XzCzjKOjqp9eXhs92AegybG3hyxLYkjC1K9zZyl/kHMV7YmWdenCkUIvN6VqUiq4RcXe6ernMem3qwIxiCb+9Gm5ZQZI+HwY4teOPMSwbHU4YDK51ssxT5MicYsZYQ5+A==;e+0ujEoYbEfFvgbTjRmSsg=="
 ---
 

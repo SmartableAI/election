@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
 excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
 publishedDateTime: 2021-07-29T22:14:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/ea2c5fd407edac0573b93d2182023ea6/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/ea2c5fd407edac0573b93d2182023ea6/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bcf63d33d630b0599acd43fe51333e01/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bcf63d33d630b0599acd43fe51333e01/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/ea2c5fd407edac0573b93d2182023ea6/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bcf63d33d630b0599acd43fe51333e01/BIDEN-VACCINE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -207,6 +207,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "PencxHljObjT2rn1sTL0COKQGBxssjjovSFd0aqZ3euOfSm/pR9D8WZW6QY4HgUafnhsOQZEpBcRn6rdbwsWl9WgCRyQOQ3MSiYSPRZgCUSIAUqC0+UHcFMj3DivdMLqr5nwCTyH6DRpHYSgLPiL5xe+gEq6mNdyze/xg12p1hwJdrFVoi7hhOZFyT9/oPMqUcdnQ+YHVuyjsYsL/CEcNSVWiEe+3dHZGxKSoyyatetdYAtcDnxU5rLv/pKOoa7zWNz8rYfH6qydB3RGa4HoEccetvLrh66ensVPnHP0X9sEc7TP/n0qZo5MziMns7BhXlcFVzSvngGw41Hg6WXZw2PTr97yGI5rdsK0uEw+CqafuAg3d1LDxR1KAG0I0bw+VayekIS3l5SkW9Co60X3tPmLULIxHlolHr8syMX3O82bW+iNppThVRdnWnjzvsLJ8qq7FzjF5WHz7YdMXy/7+azoTExprInba5nuIZGbPXf3nyB900HJEJKLzH/bE3gq8093CL4ry2THV8G+16nHKQ==;K7r2xZkLxELym15Os5fcyg=="
+secured: "IF3J68XpoODetJkgfEd9eDbsihuWzrt7yK2FDsvfESHnKx94IGbPQZhD+Mza4rP7hkp/obXNeMVv4ab3bwUjxLkcrJxHdgog4WES6bx2GZ1gr4BpQNjIAR3nn4jtCsGl+LHj4xpAFPBne2EtWbrAOml2jXisopfJT0ogNaspKPcc4gwV4RA1v98inlyAlfITXzlVca+4Hy8WQEPxpvo3fslk6UyOD4liFMVtZyYq7qveXxyF5knXspgPeYW2OtwVqHeO9Jkg9ZB8ji5+cpt3PWqJbwuTDUyLcZSqbpdYZta/vepEEaiuKMXWs/kWJxtg9pkyCmkxBrzazEGVK4Aij/rvwVEauRYwTi99TRlpblw=;CUjTfA423Ka2bue5y5fL4w=="
 ---
 

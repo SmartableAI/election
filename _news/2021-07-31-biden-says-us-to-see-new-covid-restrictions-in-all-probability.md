@@ -45,13 +45,13 @@ related:
         isCached: true
   - title: "'Clock is running out.' As COVID-19 cases climb, Biden faces rising pressure to fill top FDA job"
     excerpt: "Five months ago, former heads of the Food and Drug Administration urged Joe Biden to make filling that position a priority but it's still vacant."
-    publishedDateTime: 2021-08-03T09:53:00Z
-    webUrl: "https://www.democratandchronicle.com/story/news/politics/2021/08/03/covid-19-cases-rise-biden-faces-pressure-fill-vacant-fda-job/5452301001/"
+    publishedDateTime: 2021-08-03T09:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/03/covid-19-cases-rise-biden-faces-pressure-fill-vacant-fda-job/5452301001/"
     type: article
     provider:
-      name: Democrat and Chronicle
-      domain: democratandchronicle.com
-    quality: 22
+      name: USA Today
+      domain: usatoday.com
+    quality: 72
 
 secured: "IsrlzZL3N1tGOjR0ZFe+FXDO8It+PlXLwOyDNtyBbAgH7AGWrJBjTgPfDC5bNuScrDBU2wJlmEqhlpgBlgqgWRXh3GICt3Aj7suBMXBsjA6rvLg/8VwhOi/jjitYgwaOSGWxu/96ATcGyuqyHO9YioEXcjYtmmbLrq7hnyFxLu3ijw4QUG0IRYBr4xMBi+6Rwxun0lZALP4cCAiEKG5IEtEyHsWc87/f2Lv0gIx/VHpq4VPcgtDaWQv2/G5hL67nny+7SGHIqflgbySIF3HSXVY55cVQGZRzuwF91rY+oaXDI/q7s8ectPVfHtmHnA3RIGfuoxq7hGSbsOSOfIt9Xsoro/RLqG9D/hYgKZo5xK8=;wzDJ62yDC/taCeF3+HVUsw=="
 ---

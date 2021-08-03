@@ -1,34 +1,46 @@
 ---
 category: news
-title: "Two U.S. companies seek extension of Trump-era solar tariffs"
-excerpt: "Two small U.S. solar manufacturers on Monday asked federal trade officials to extend tariffs on solar panel imports imposed by the Trump administration that have divided the fast-growing renewable energy sector."
-publishedDateTime: 2021-08-02T14:52:00Z
-originalUrl: "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/"
-webUrl: "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/"
+title: "Man can’t vote for 5 years for attack couple holding anti-Trump sign"
+excerpt: "Mark A. Ulsaker, 51, of Lino Lakes, pleaded guilty to two felony counts of threats of violence in connection with the attack on Nov. 8."
+publishedDateTime: 2021-08-03T14:31:00Z
+originalUrl: "https://www.detroitnews.com/story/news/nation/2021/08/03/man-cant-vote-5-years-attack-couple-holding-anti-trump-sign/5467387001/"
+webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/03/man-cant-vote-5-years-attack-couple-holding-anti-trump-sign/5467387001/"
+ampWebUrl: "https://amp.detroitnews.com/amp/5467387001"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5467387001"
 type: article
-quality: 105
-heat: 185
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.reuters.com/resizer/AXhRXChBvbq8EZk2zRdpUsQstoA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WVH62A75WVKUVDZ7OE6CYWGY4Y.jpg"
+  - url: "https://www.gannett-cdn.com/presto/2021/08/03/PDTN/a30fdcb2-4d55-4130-a6a6-c46011fa9e91-Mark_Anthony_Ulsaker_booking.jpg?auto=webp&crop=977,549,x311,y505&format=pjpg&width=1200"
     width: 1200
-    height: 628
+    height: 674
     isCached: true
 
 related:
+  - title: "Two U.S. companies seek extension of Trump-era solar tariffs"
+    excerpt: "Two small U.S. solar manufacturers on Monday asked federal trade officials to extend tariffs on solar panel imports imposed by the Trump administration that have divided the fast-growing renewable energy sector."
+    publishedDateTime: 2021-08-02T14:52:00Z
+    webUrl: "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/AXhRXChBvbq8EZk2zRdpUsQstoA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WVH62A75WVKUVDZ7OE6CYWGY4Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Trump grapples with maintaining political relevancy"
     excerpt: "Former President Trump has been working to maintain leadership in the Republican Party since his defeat in the 2020 election. However, over the past few weeks, he's seen several political fires pop up,"
     publishedDateTime: 2021-08-02T23:27:00Z
@@ -73,23 +85,7 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Man can’t vote for 5 years for attack couple holding anti-Trump sign"
-    excerpt: "Mark A. Ulsaker, 51, of Lino Lakes, pleaded guilty to two felony counts of threats of violence in connection with the attack on Nov. 8."
-    publishedDateTime: 2021-08-03T14:31:00Z
-    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/03/man-cant-vote-5-years-attack-couple-holding-anti-trump-sign/5467387001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5467387001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5467387001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/03/PDTN/a30fdcb2-4d55-4130-a6a6-c46011fa9e91-Mark_Anthony_Ulsaker_booking.jpg?auto=webp&crop=977,549,x311,y505&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
 
-secured: "j2Y4ZZQFbKRYmy9gbyZD6CAmLTFLTiknapl87n/GE3KXiPMiDoPAlyxUPb0/s9m8qpc/q9ZdVO4oI9LMRGRuvOCgVJEvK2TQIIKl4lXdhnSKMuDzwYo2CJ48DdGM45brSjVR/8EtG9CVcD2zjAHBAbudb1hE7CBClwd8u8FWG/+I4ptlRIijJjpsyJLxj23oapRbQh7CKr2WvqtIDRAL350b1GjyeHYt/msnkAtxkG3elUdgnX+YjgFf0fM34YFBRkQfVLaWyhxMspmftepP5jS/w9tYe6hze9maDwtB3lWnTumBtXJrmuEZmhjcchVBnjB7fvMqyy4d4EvDtYMs+4KX+cjmZAtNmGf5hzIsLW5prDUCwG+PnkMzbqJ4ngPQgIlPZt65EX/M4gfW2j0anKs0CZ56fd+QV0PTglsBsIEca1bjxjkj9Vb7IEIXOPd/vsQP71sF6trY6+iSaMaptZO2wAHKFrWCVFqQh8DMZhuOPIRoongOtYDgMr4v3f5EqLVlxKZRT9CDK5wpZDVkPg==;lg27mfnGJhuWjMJbdQqkIw=="
+secured: "eXJ6EoiVwApLredN1Lk4n7Vw1F6uLISRutuHDU8pHI4yjaSMHWexaM3JoBi+Dwzd+/9M3whhkf9/dlaFdjIGa17lUZqi8GjNIwlxRibVq2APUxh4vdwVFXB9cMXumV9JOM7Ziu+IkCaJzudZnd2wwMbaKJG8ie9qwU2LXqJPGJnZTujbSCFkuh9AS3hrKXkomMx2LDQs1jtSuuVzayKq6/mVR7/ql986XFmyen269NTZMxZn1mzhHGEeglPTC6spRtNOAevDhqKdT/YeKvT7Xr9hgqpBJMD731F3LefmmlxqZP1fnL5p9n1lRynVM6U+V71FR4Ff4HTIOtuTJ7I/7qaibJ1eVg0tKrOYqveCqEo=;2E8j+39TCJ/BLZTL+kvtVQ=="
 ---
 

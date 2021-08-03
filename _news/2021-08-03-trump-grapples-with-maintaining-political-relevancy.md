@@ -73,6 +73,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Man can’t vote for 5 years for attack couple holding anti-Trump sign"
+    excerpt: "Mark A. Ulsaker, 51, of Lino Lakes, pleaded guilty to two felony counts of threats of violence in connection with the attack on Nov. 8."
+    publishedDateTime: 2021-08-03T14:31:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/03/man-cant-vote-5-years-attack-couple-holding-anti-trump-sign/5467387001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5467387001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5467387001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/03/PDTN/a30fdcb2-4d55-4130-a6a6-c46011fa9e91-Mark_Anthony_Ulsaker_booking.jpg?auto=webp&crop=977,549,x311,y505&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "trHzm7/GrilAooJXAIoa5EtCNF0L7d0eNTZW3+W4ejsKS99u/4mNqVscsrrS+pe2i7KUc1EWPwlb3CduAakfqS6iy7ar4qh9lVRhelTI0YeqyAnIhvaDkzXm3B78cwc9WCND940eL5X2kEliLI+0yjjFvhQLNaW3u8QZ1s7InQXZsO82AFQtcC5EhjetzkkGjeP3bDiAhOZkLViVhrNN+aIX3dsHtQgKPaF/FENcU7FgDU2L/9ntSjKusC6fvV0WGxfr+7B1SAtZw+KskxZ7UVmPzmPSpYY+icPBgE3JMPQj8vPv99x6ruQB+ISX0jMyBIqi3Od22yxdEhbg81UQVXYq+GTjuqURpZRVfUNMT7jGXoOgfffTO5D7F6d86jWnwR2MDhaZy4Op38yYI2XydMZpNnUxVQoHhJYs7IqS0kqRwHfktfO7VeaZ6dmtvu8siSvd+3n8px2AcgktkdnDF4iYf929lDMBtazTrEm+Jh/DgKGV4IShz5rzYYMCdfAAORS3O52yrhHoyaiO36KjfA==;rlwj3/aHg7ccABjiqTOV1A=="
 ---
