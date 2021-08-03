@@ -498,6 +498,20 @@ related:
         width: 840
         height: 630
         isCached: true
+  - title: "President Joe Biden Delivers Remarks on COVID-19 Vaccinations"
+    excerpt: "President Joe Biden removes a protective face mask before delivering remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
+    publishedDateTime: 2021-08-03T21:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/52afce32f18f5ec6a604edd0e671cf2a/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/52afce32f18f5ec6a604edd0e671cf2a/BIDENCORONAVIRUS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "PCmc2gDo9bvtmzhnyYHdh2FtVzvWftY2HIA0eQ1SiH2bHJL4SG/sKktWQO1HWhvD3NuvSeYU0eLD0M+5fTdQ5K5XkVXqC6ZHcOz/JOT+OsmXuvcwzUMAY8tClmGW+JNEzrnK5MMXOwwI4eW6pcGILL4JaMlb3qnNICY0Z/EbaCr1wixTX4huJ3UjUBumabzHjJWC9vUTAg9i1NZ3FsCg4SY88LA4vtqYxsZnGFHoulTYBEUWguZRsjKprodJO5mZDx0Z13Y+jhtQ+dPJgFFp2aqARb4tCQK+Ol2Du0vuUxApZBWDP8n7jjXmZtBidu8SFS8r3emuA793kRTuowCcszTA02m3awMdIgjCAXRzO1hLxSjpPCV+g4GGgfils785vUvFEN5ADaV+l7RSJfxT4nShjWAb7x7jLK6d8ESN1gXau5cfELDEo0yZ82PQmjcpdd88Oj1ckYChxJvFynVuY/7aVXFq04hlpGSMslB7lTHE4EChlQ6pMulMMo4zmZBI8XmKXzl1p/NY6yyvp9Ybzw==;JT8nGguM79mw35EO7vrGzg=="
 ---

@@ -511,6 +511,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expected to announce limited, targeted eviction moratorium likely to last until early October"
+    excerpt: "The Biden administration is expected to announce new efforts aimed at limiting evictions, according to an administration official, though details of the effort -- and what effect it would have -- are still unclear.\n    \n"
+    publishedDateTime: 2021-08-03T21:40:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uUH15aehWlg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/eviction-moratorium-high-covid-spread/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/eviction-moratorium-high-covid-spread/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210802152947-eviction-moratorium-protest-0730-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump officials can testify in Jan. 6 inquiries, Justice Dept. says."
     excerpt: "The decision runs counter to the views of the former president, who has argued that his decisions and deliberations are protected by executive privilege, and sets up a potential court battle."
     publishedDateTime: 2021-07-27T12:49:00Z

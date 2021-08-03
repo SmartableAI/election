@@ -543,6 +543,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Kamala Harris Approval Rating Underwater"
+    excerpt: "Vice President Kamala Harris’s net approval rating is underwater, according to a Los Angeles Times average of the latest polls. Per the Times: As of July 27, 45% of registered voters had a favorable opinion of Harris and 48% had an unfavorable opinion — a net rating of -3 percentage points,"
+    publishedDateTime: 2021-08-03T13:59:00Z
+    webUrl: "https://www.mediaite.com/politics/kamala-harris-approval-rating-underwater/"
+    ampWebUrl: "https://www.mediaite.com/politics/kamala-harris-approval-rating-underwater/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/politics/kamala-harris-approval-rating-underwater/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 75
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2021/06/Kamala-Harris-GettyImages-1322591478.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft, seeks buyer for DC condo"
     excerpt: "The SoMa loft sells for $860,000; the Washington property, listed at $1.995 million, has two bedrooms and two bathrooms."
     publishedDateTime: 2021-05-03T16:07:00Z

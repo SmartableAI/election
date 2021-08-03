@@ -421,6 +421,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "‘Amazing Galaxy of Authors’ Come Together to Launch Kamala Harris Anthology at Indiaspora Event"
+    excerpt: "Several Indian American business leaders, academics, and journalists who had each contributed a chapter to the new anthology, “Kamala Harris and the Rise of Indian Americans,” were featured at a"
+    publishedDateTime: 2021-08-03T20:00:00Z
+    webUrl: "https://www.indiawest.com/news/global_indian/amazing-galaxy-of-authors-come-together-to-launch-kamala-harris-anthology-at-indiaspora-event/article_dd21db66-f428-11eb-9456-5b94cd48c8c1.html"
+    type: article
+    provider:
+      name: India West
+      domain: indiawest.com
+    quality: 43
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/1/47/147910b6-f429-11eb-abf6-cbacbae05c5b/6108eab44688c.image.jpg?resize=290%2C400"
+        width: 290
+        height: 400
+        isCached: true
   - title: "Kamala Harris voting rights: VP, Interior Secretary Deb Haaland meet with Native American tribe leaders"
     excerpt: "Leading the Biden administrations efforts in protecting and ensuring voting rights, Vice President Kamala Harris is reaching out to shore up public support in light of GOP-led proposals to restrict voting access."
     publishedDateTime: 2021-07-29T08:43:00Z
@@ -481,6 +495,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "EbIuK/kdd4iD1waq+IylR9heczvtSiZi2RO9TsDS7PkFtTKJ/I9f/afP3XWTJtjynKfrof1XxPg8/BDzHqKU2I1IvCpCExjswIzvpkyFOA42DOn8oRmqfMyd45D1Y/FQua3m/lKidGugUSMMdB1t8Iv/1mg0CQxe9Cbg5Wfaj/HqucEUu++IQ4X5cz90jJiqpvM4JGezDMyfg0MJHHDEgMzkaYLzyamVsAo1Zz9fDtULcX/jRl7V3PmyWQ87QYXeEH2PjKqDjXu6TrVmNS1VD90ENYc6q3EvzKCoTmE+UKzs6oY7LAX9lRplRkjv2bkk+qlx/VJw5Ton56lpDBNb+xmIfaJC842wZflw8r0zDfE=;8iP/2ZBVgYRy2crs7VwVoA=="
+secured: "aBuEp6oZ8CDS78xi/sTDXG0LwqftYorbYr2yq5QK7SRSBCTPBq3Gdp8M8zbEAmray/fBkSbp0WKJdy3vr1OTq2wgI6ssEdQdL1Bme6KjoqixW9h+nlx91ysDhQgnRglKNTH0bFu7uVqIKlB96bRq844BRrf7NNIYhDBORF85osAnSGOipi6XfJob2rNzFSatIsRRzY8MJl1qepoz/MxQpd5erxCI/KQsPGbkxO57FbszOniUxpRWmq/NOTcRwkQMToSfk1kwEVtraa4d7+t6bHRO/VZSS5ig3a4NOvVRJaycyHJK+us/+95ArlsPVOJyJ53FtMt2hQxRZrbT9pCHgF5ct5bgiAjZs1K55c4Z/dx7QoT16GhCNVlks4SZT57jba7TWL/UzlpPLd1cp093oajOQLKxTPoCPlKM0Bh41G0Jwn+oX6gfYBqy9ZIw5mo3NiC1aI4zp320ujRjp1ilLhquoCasYOapJq1P4hlU7ubL1ONmXDF6tp8J0Xcaj9F9YxsSyfRGlhkbzN/X1tLMJQ==;5U6SVJtNoOOxYFhUXCRF1A=="
 ---
 

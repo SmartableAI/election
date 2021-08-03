@@ -41,22 +41,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Mike Pence refused to get in car amid 6 January riots fearing Secret Service ‘conspiracy’, reports claim"
-    excerpt: "Former Vice President Mike Pence purportedly refused to get into a vehicle with secret service agents amid the 6 January riots out of fear there was a “conspiracy” to “vindicate the ..."
-    publishedDateTime: 2021-07-16T23:29:00Z
-    webUrl: "https://www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
-    ampWebUrl: "https://www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
-    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 58
-    images:
-      - url: "https://static.independent.co.uk/2021/07/16/15/newFile-2.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 899
-        isCached: true
 
 secured: "stPkBvvOuP25zapzMt8n+0ja4eZisgpQvGzhylt12ssn6WbJUrH9mXfglFHGIsL6HWzLTPGaS9n6HtZc/yX2RaEKgZyprF+GCDEdRylTCrAjAYNExwTrqE5tTZplQ/fNJsQ32FYlZWjZqq9OzEkLH8dTOru8deT6AVR1/rbHHy76JMKnWw+GRyTFjphUX4ASKf1HFBW55PZ5Ob5cw8LgoOCB/1YRQaHKCaAme1Up01DIennfMD0AztvNYQo/944Whn+11AH81hvJAkd+NLO60Rq2jc3cAzCmw9jWVZuGBfSuiXi84017WPfwkpinCnlY0xNY+FSZq1LYc7rFMqXFsYOpQV6hL+vMgtSWHJDe5tGic+lJUeyT3X4DJEZ4qzV/XLVl1tsWkkMrqDFSH2rHxnxQPJej6eOZPWJEK1FM2IFg/mTZbX+rHkfJHXVXDzCPYV08rZsAW7GZ/94j0srYqZvqiaUHSUjxiWGrXdfMKh7re6HNLmJumfI/KSXqsfHsuI9ujIXza6pPmx6inM+/ww==;utdysMkvncOY1oee/TITBg=="
 ---

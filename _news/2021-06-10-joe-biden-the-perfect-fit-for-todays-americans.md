@@ -174,6 +174,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 91
+  - title: "President Joe Biden Delivers Remarks on Efforts to get more Americans Vaccinated"
+    excerpt: "President Joe Biden delivers remarks on the efforts to get more Americans vaccinated and efforts to stop the spread of the Delta variant, in East Room of the White House in Washington, DC on Tuesday,"
+    publishedDateTime: 2021-08-03T21:41:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bcab9bb4f3d6cd9fb2bdc1d5dc6339ac/President-Joe-Biden-Delivers-Remarks-on-Efforts-to-get-more-Americans-Vaccinated/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 50
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/bcab9bb4f3d6cd9fb2bdc1d5dc6339ac/BIDEN-VACCINE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Joe Biden laid out his ambitious vision for a post-pandemic America. Now it is up to Sen. Chuck Schumer to make it a reality."
     excerpt: "The Senate majority leader, marking his own 100 days in charge, is responsible for turning sweeping Democratic plans into law. It’s a tall order."
     publishedDateTime: 2021-04-29T21:06:00Z

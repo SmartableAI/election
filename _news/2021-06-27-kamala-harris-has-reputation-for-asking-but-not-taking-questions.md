@@ -527,6 +527,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Kamala Harris Approval Rating Underwater"
+    excerpt: "Vice President Kamala Harris’s net approval rating is underwater, according to a Los Angeles Times average of the latest polls. Per the Times: As of July 27, 45% of registered voters had a favorable opinion of Harris and 48% had an unfavorable opinion — a net rating of -3 percentage points,"
+    publishedDateTime: 2021-08-03T13:59:00Z
+    webUrl: "https://www.mediaite.com/politics/kamala-harris-approval-rating-underwater/"
+    ampWebUrl: "https://www.mediaite.com/politics/kamala-harris-approval-rating-underwater/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/politics/kamala-harris-approval-rating-underwater/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 75
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2021/06/Kamala-Harris-GettyImages-1322591478.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Stopping Kamala Harris’ liberal agenda"
     excerpt: "Upon starting my campaign by launching an actual rocket with the liberal agenda into space, the left was quick to go on the attack."
     publishedDateTime: 2021-08-02T18:20:00Z

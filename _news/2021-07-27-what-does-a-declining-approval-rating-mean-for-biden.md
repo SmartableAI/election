@@ -74,6 +74,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Poll shows support slipping for Biden, Jan. 6th investigation"
+    excerpt: "Support for President Joe Biden is taking a hit according to a new poll, amid a number of crises from illegal immigration to a reemergence of coronavirus and accompanying restrictions."
+    publishedDateTime: 2021-08-03T21:47:00Z
+    webUrl: "https://nypost.com/2021/08/03/poll-shows-support-slipping-for-biden-jan-6th-probe/"
+    ampWebUrl: "https://nypost.com/2021/08/03/poll-shows-support-slipping-for-biden-jan-6th-probe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/poll-shows-support-slipping-for-biden-jan-6th-probe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/Biden2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "LGBtUPTLw2gOVPgL6VTbq4QaOV3EYVubFsKbeTGU+82CCVzAQXfriXAxs4wG6t0LHWR81QX3Kfedn0e7UZsouARXdR5nKnMoEMTbbIKG4mt+kEg9vcbRLqm1fkYoJ2pD1xmjzMKm5HKzFyphB6RTqduHTKTFPNi6BINsqBv+NNTD/tjzmhpQ/2oJhVJZpDKKMsOxGTjBPMtkH/TYhjQajLlhqOdEa4Ghgtnkk3bCGz0nM3qe3m6DgTwyfW0IkpflW5yCOsR2f7Ly7io4yKLTq1QnDwIujrSO/jguBpO1+E3HeZpiM2jVbtv40vC7EwxcfZcJ+yfrcoYwUjMjzsa6uRUaGf9W6KLXif+/mObDthn5zq9wj01RGPOaPUBtwXYPg700aPBB4AL1NSvufmCBJGCzQlSCAcwYducvxd8WEU7mC3AGsPr44U6ID5ov9jKnZd0CKg63TSy+x5IygIPPttmajJHuv/4eNNQ+e4VHPekVbZQ2HP8AR8WGk5ClajEi7AMpUaSsHZo1Tfs+kSbCGA==;cPLJf/+zXq3t8Sa4gFA5HQ=="
 ---

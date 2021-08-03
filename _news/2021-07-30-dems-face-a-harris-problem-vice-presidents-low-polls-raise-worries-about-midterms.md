@@ -425,6 +425,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "‘Amazing Galaxy of Authors’ Come Together to Launch Kamala Harris Anthology at Indiaspora Event"
+    excerpt: "Several Indian American business leaders, academics, and journalists who had each contributed a chapter to the new anthology, “Kamala Harris and the Rise of Indian Americans,” were featured at a"
+    publishedDateTime: 2021-08-03T20:00:00Z
+    webUrl: "https://www.indiawest.com/news/global_indian/amazing-galaxy-of-authors-come-together-to-launch-kamala-harris-anthology-at-indiaspora-event/article_dd21db66-f428-11eb-9456-5b94cd48c8c1.html"
+    type: article
+    provider:
+      name: India West
+      domain: indiawest.com
+    quality: 43
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/1/47/147910b6-f429-11eb-abf6-cbacbae05c5b/6108eab44688c.image.jpg?resize=290%2C400"
+        width: 290
+        height: 400
+        isCached: true
   - title: "Kamala Harris voting rights: VP, Interior Secretary Deb Haaland meet with Native American tribe leaders"
     excerpt: "Leading the Biden administrations efforts in protecting and ensuring voting rights, Vice President Kamala Harris is reaching out to shore up public support in light of GOP-led proposals to restrict voting access."
     publishedDateTime: 2021-07-29T08:43:00Z

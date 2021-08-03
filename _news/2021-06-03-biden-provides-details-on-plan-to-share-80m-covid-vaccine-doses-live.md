@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -497,6 +497,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/ottumwacourier.com/content/tncms/assets/v3/editorial/0/bc/0bc6a2cc-cc5b-11ea-8caf-cf093f358dd7/5f18a36ce003e.image.jpg?resize=840%2C630"
         width: 840
         height: 630
+        isCached: true
+  - title: "President Joe Biden Delivers Remarks on COVID-19 Vaccinations"
+    excerpt: "President Joe Biden removes a protective face mask before delivering remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
+    publishedDateTime: 2021-08-03T21:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/52afce32f18f5ec6a604edd0e671cf2a/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/52afce32f18f5ec6a604edd0e671cf2a/BIDENCORONAVIRUS.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "ioDTKGlqF3C+x2ejVwmhLTkYLnYNdLKDm5CGPeQ4aCIxA4B1hd4RYI6B32arIJ/pFtqVO+L7xZTMkDBqhpGM6dreHjCJhAqYHR2YDkgGdthsoX6PScJ5bVXGeNYsCcx6NTVUGULxI4G6eSTsduRsyHIc1N12C1LEXQWz1zw9c/kQ07hcg/MRWQ1lOuBxJUe2FFBpnAK4IsN35t5k4HWAWqPG1sC8/4+3R4+MQ6HDYhPm6826d0gt5Bu/jRVSTPYDn+B/v3+ePRj8kvSSJfh1rANMw92nKyIMZ+LxROilh4448pI7tvcrnv28x1BOlp2YjnnmL1VA2moB/QctQ1NzJxvb9m5gcZhU6IGkkxkl7MX2NYMWMMbpisdctIC2lX8LFujS/7tWbx5JnSu+cagUjlhcj+779oHTsrPPElfeBE1xeJtN7O9tUAZFwoLkSHnNKgXLZtIUd9jGqy0WueaXYGXDZfPJr9LVs9fqSKSPy6/k17P/5IV1CHUkJoqXOShHn95NbL49GLC4dOUZSTHTow==;nC1jJTXAGXLNiMbHLgWYVg=="

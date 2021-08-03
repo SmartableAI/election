@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says Cuomo should resign following damning sexual harassment report"
+    excerpt: "President Biden says Cuomo should resign. Gov. Cuomo sexually harassed current and past staff members."
+    publishedDateTime: 2021-08-03T20:55:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ShvpoGEG1Qk/biden-cuomo-resign-sexual-harassment-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-resign-sexual-harassment-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-resign-sexual-harassment-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7da2adab-7141-4f0e-a23e-a48537b34302/d8b2f2f3-4e32-4066-98ab-1a4350e6527a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to urge Americans to 'stay vigilant' amid COVID threat as he pushes federal workers to get vaccinated"
     excerpt: "President Biden is expected to deliver a \"strong message\" to vaccinated and unvaccinated Americans Thursday afternoon about the \"need to stay vigilant\" as the nation deals with the spread of the COVID-19 delta variant, sources told Fox News."
     publishedDateTime: 2021-07-29T19:10:47Z

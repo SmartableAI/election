@@ -27,35 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence Refused to Get in Car With Secret Service During Capitol Riot: Book"
-    excerpt: "The former vice president twice refused to be evacuated as rioters stormed the Capitol on January 6, according to a new book about the final days of the Trump administration."
-    publishedDateTime: 2021-07-16T08:37:00Z
-    webUrl: "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326"
-    ampWebUrl: "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1"
+  - title: "Mike Pence Was a January 6 Hero and That's Why He's Doomed"
+    excerpt: "As more reports reveal the actions of former Vice President Mike Pence amid the violence of January 6, his purported heroism stands in contrast to many other high-profile Republicans, whose reputations are tarnished for how they acted about the Capitol riot."
+    publishedDateTime: 2021-07-23T10:13:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-january-6-hero-doomed-1612108?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1847383/mike-pence-speaks-crowd.jpg"
+      - url: "https://d.newsweek.com/en/full/1852387/mike-pence-addresses-crowd-new-hampshire.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Capitol riots: New book reveals Mike Pence refused to leave Capitol during insurrection"
-    excerpt: "Following the January 6 insurrection at the Capitol, it is widely believed that there is now a rift between former vice president Mike Pence and former President Donald Trump. A new book revealed that Pence refused"
-    publishedDateTime: 2021-07-20T09:38:00Z
-    webUrl: "https://www.econotimes.com/Capitol-riots-New-book-reveals-Mike-Pence-refused-to-leave-Capitol-during-insurrection-1613236"
+  - title: "Trump privately called the officers who defended the Capitol on January 6 'pussies,' report says"
+    excerpt: "Beast report on his remarks come as four police officers spoke to Congress about their harrowing experience at the Capitol riot."
+    publishedDateTime: 2021-07-30T09:51:00Z
+    webUrl: "https://www.businessinsider.com/trump-privately-called-officers-guarding-capitol-riot-pussies-report-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-privately-called-officers-guarding-capitol-riot-pussies-report-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-privately-called-officers-guarding-capitol-riot-pussies-report-2021-7?amp"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 47
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/202107201a60f2fbec3238c88_th_1024x0.jpg"
-        width: 800
-        height: 563
+      - url: "https://i.insider.com/6103bb8dea74d40019b9ca1d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "bLFsazN6J9QMa2kibo1Ad03TeDOXcBeLZDgynVkTIBdoLPL7oG49NJqll/WnOoPGLmRUUhzf1vo0Obl5M0ih9FHXJdTdTPuR+wHFOMQJNQYsOnaVKm+RCopmrRnosMf9BLtqtijnOt8MFzYe4OfGgcmQ8kVthghyuub9qG+fnfLB3hcAEB6ZhanXzHvR55SmkoCZmUqnqhHSXELmY3R1UxWiXALMFxLGyh0rppMc82kz3KXnHiUrxWc+Q7TgbervU8PsjI8YSGzQOotL2aMWkKJE4yYFWY9zvjyWfpeVM60e/dXal689blO6c5o7VT2I8NfpI8Cd755BRrxKHIIg416mYK/TfB0rYlfjQ7ICgVo=;1FQiYEePUs5V/k7N5w5uNg=="

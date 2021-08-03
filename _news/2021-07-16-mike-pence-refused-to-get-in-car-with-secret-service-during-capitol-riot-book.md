@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-refused-car-secret-service-capit
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1"
 type: article
 quality: 121
-heat: 161
+heat: 141
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence refused to get in car amid 6 January riots fearing Secret Service ‘conspiracy’, reports claim"
-    excerpt: "Former Vice President Mike Pence purportedly refused to get into a vehicle with secret service agents amid the 6 January riots out of fear there was a “conspiracy” to “vindicate the ..."
-    publishedDateTime: 2021-07-16T23:29:00Z
-    webUrl: "https://www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
-    ampWebUrl: "https://www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
-    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 58
-    images:
-      - url: "https://static.independent.co.uk/2021/07/16/15/newFile-2.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 899
-        isCached: true
   - title: "Capitol riots: New book reveals Mike Pence refused to leave Capitol during insurrection"
     excerpt: "Following the January 6 insurrection at the Capitol, it is widely believed that there is now a rift between former vice president Mike Pence and former President Donald Trump. A new book revealed that Pence refused"
     publishedDateTime: 2021-07-20T09:38:00Z
