@@ -1,22 +1,22 @@
 ---
 category: news
-title: "US Economy: Joe Biden Unveils New 'Buy American' Proposal"
-excerpt: "President Biden unveiled his new 'Buy American' proposal to ensure goods manufactured in the United States were at least 60% made in America."
-publishedDateTime: 2021-07-28T22:49:00Z
-originalUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836"
-webUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836"
-ampWebUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
+title: "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?"
+excerpt: "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold."
+publishedDateTime: 2021-08-03T04:00:00Z
+originalUrl: "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
+webUrl: "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
+ampWebUrl: "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 125
+heat: 205
+published: true
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: The Financial Times
+  domain: ft.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/28/us-president-joe-biden-announces-plans-to-strengthen.jpg"
-    width: 1024
-    height: 654
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F212df0d0-e94b-11eb-8b52-d9a1d750df18-standard.png?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 357
     isCached: true
 
 related:
-  - title: "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?"
-    excerpt: "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold."
-    publishedDateTime: 2021-08-03T04:00:00Z
-    webUrl: "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
-    ampWebUrl: "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F212df0d0-e94b-11eb-8b52-d9a1d750df18-standard.png?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 357
-        isCached: true
   - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live"
     excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
     publishedDateTime: 2021-07-29T21:56:00Z
@@ -58,6 +42,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 92
+  - title: "US Economy: Joe Biden Unveils New 'Buy American' Proposal"
+    excerpt: "President Biden unveiled his new 'Buy American' proposal to ensure goods manufactured in the United States were at least 60% made in America."
+    publishedDateTime: 2021-07-28T22:49:00Z
+    webUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836"
+    ampWebUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/28/us-president-joe-biden-announces-plans-to-strengthen.jpg"
+        width: 1024
+        height: 654
+        isCached: true
   - title: "Biden touts 'Buy American' to boost US businesses"
     excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
     publishedDateTime: 2021-07-28T21:45:00Z
@@ -87,6 +87,6 @@ related:
         height: 815
         isCached: true
 
-secured: "ztSPhyv9CAvKBTcv4wvAwfWNRf7O8zLgmnm8tpgMFhAfOKWxWEulCLSyBg/5JCd+DKVUpFYVwv6zwsgh/2QqLvNA54Wjic56nZ7aXv/RO4B4GrnNcq/1HaU9b/FOXgV/83CV50t3/4WIImnvHSOa+mbKQCi8/eIAF8qtqPL/MPoptdYAfmNpan8/YEPXm5QYWbcVJDlomjfJd4bYa6vHeh5hh6CAYyITCt8ebDg1b1LxUljhNogoRMbSPtA5/hXe6+lzCpWBHu4BmyIQe0T0vL9HtKH0tUEGk0Sz8ivjyb3Tima57lIMTvslPdw6gLQ1X5AErKDj7g6tTiVHWAEMB6b6O3Zl8yn9ogN0d4XSJ80=;3KEI40G6ko5RicHwSO99sw=="
+secured: "giBKGNC3QSl/kLcdn5sfcj5xwjXbKalncHIEHq/FYWERvUJoIlglTzMPgSZEHIT4/e+ylC5G3Ot3jRKn26ci35CZ9SphUA3tgTG9PQcofAKrw+BSWjnGs4bdKJrSoX8k4diZxY12biAkZ10UnZd1dgVqN5PeGL5U2Jhil9Sx2KpGBD5xO6R8zo9UuH2ggPDNnLrxSSXTXnJv1lCSNJQvICbEaK5CoAcwCWAcdlSfjXIyw/UwihVPrEofGRtcLCgNvqr7e4HABra5wD6fa6TzZNfSRRlo9ZI+ST+BpXGOBW0ACbmlTy1JZt5T/4cHUJEQz93Dt13TjcgZ5T9f+bCe7JMbdJ3+TrWI3MqCLX+byj4=;d4ORUkXH1jxGHXM01fz97g=="
 ---
 

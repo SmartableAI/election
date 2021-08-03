@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-28-texas-voters-brush-aside-trump-endorsement-and-name-jake-ellzey-the-winner-in-a-house-special-election-in-texas.md",
+      "title": "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas",
+      "excerpt": "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-america-first-legal-demands-info-on-bidens-extreme-open-border-policies-the-rails-have-been-ripped-off.md",
       "title": "America First Legal demands info on Biden's 'extreme' open border policies: 'The rails have been ripped off'",
       "excerpt": "America First Legal (AFL), former Trump adviser Stephen Miller's legal group, filed Freedom of Information Act (FOIA) requests with several executive branch agencies in an attempt to obtain records and data on Biden administration's \"extreme\" open border policies.",
@@ -887,7 +939,7 @@
       "originalUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1241,58 +1293,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her.md",
-      "title": "Video Shows Man 'Harassing' Michelle Ugenti-Rita Backstage After Trump Supporters Booed Her",
-      "excerpt": "Rita, a Republican running for Arizona secretary of state, why she \"killed Senator Kelly Townsend's election integrity bills in the Senate\" in the video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
-      "originalUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1854525/rally-protect-our-elections.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
-      "publishedDateTime": "2021-07-25T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

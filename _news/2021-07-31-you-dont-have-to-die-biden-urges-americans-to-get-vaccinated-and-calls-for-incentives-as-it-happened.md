@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-m
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: The Guardian
@@ -25,47 +25,6 @@ topics:
   - Joe Biden
 
 related:
-  - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live"
-    excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
-    publishedDateTime: 2021-07-29T21:56:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 92
-  - title: "US Economy: Joe Biden Unveils New 'Buy American' Proposal"
-    excerpt: "President Biden unveiled his new 'Buy American' proposal to ensure goods manufactured in the United States were at least 60% made in America."
-    publishedDateTime: 2021-07-28T22:49:00Z
-    webUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836"
-    ampWebUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/28/us-president-joe-biden-announces-plans-to-strengthen.jpg"
-        width: 1024
-        height: 654
-        isCached: true
-  - title: "Biden touts 'Buy American' to boost US businesses"
-    excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
-    publishedDateTime: 2021-07-28T21:45:00Z
-    webUrl: "https://www.freep.com/videos/news/nation/2021/07/28/biden-touts-buy-american-boost-us-businesses/5408639001/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b8872a3d-8c49-4786-9a9e-6a13b0d00e90_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Joe Biden to nominate Miami-born Cuban American Frank Mora as OAS Ambassador"
     excerpt: "If the Senate confirms him, he'll be the second consecutive Cuban American from Miami to serve as U.S. Ambassador to the Organization of American States."
     publishedDateTime: 2021-07-30T18:39:00Z
@@ -79,20 +38,6 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Mora-AP-photo-e1627666202920.jpg"
         width: 1600
         height: 1075
-        isCached: true
-  - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
-    excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"
-    publishedDateTime: 2021-07-29T19:30:00Z
-    webUrl: "https://www.mcall.com/news/breaking/mc-biz-biden-lehigh-valley-buy-american-20210729-uacsnn7kyzf55ayfilnf63lpti-story.html"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 42
-    images:
-      - url: "https://www.mcall.com/resizer/yy6jKFAuNqMH7Fzb1nVgee3lHfs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VXCNOKDEPBFGVG2NMNJTVF6CBI.jpg"
-        width: 1200
-        height: 815
         isCached: true
 
 secured: "fIFyPk76Pko3LCceJ5S+eUEqTnLjYSNyNRwAgTtWSHrCyFIqVEAw7/hWvlqbu/Dd3TpjmzSyL84Y1DknevXm9Cy8c+lqP7vQx6203/hEinrdIlETTVJ508NYYwfbYk5Tr0WreMEnAdagAaq+/ZPTtFvVXrYC8gshyMgC4MeUht7u+VHNiB3jww8DQf3ogmEUOVrTX2/wc/X3OGACCgZhrWg9u4VpZMx9lmJoaO/ZsQEzFCtH/ymbsbO0iX/qb/xo266K1zRhz93coWqVfRRHBpixD7y0BeKd1FW8eM09L0ylkKY3zMhRi/Bru8r9TvFxrT/5+z02TvC8YiImvRR4OAVCuq9VImLXCEnqoYw7Y3sEajEvuwbzPN8o45nAo0Z8DylQ9/lbLtzr7DaHuDNYIXcCSOKvMjnA9GHj++nEhE1nQ/0FDPVwfiSbQFKf17SXzLtmFg0nMy0mjV4MnNIGrVntcv1Vt6sbDPJsReN0Puz40C0+LrYZWIyMKHHRr/C4RSQLgUF1KRdiHNdTlm+i2g==;MfIYLIogBcaOXydW9NaAQw=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-americas-recovery-is-joe-bidens-presidency-vulnerable-to-inflation.md",
+      "title": "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?",
+      "excerpt": "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "originalUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F212df0d0-e94b-11eb-8b52-d9a1d750df18-standard.png?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "publishedDateTime": "2021-08-02T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-trump-stokes-anti-muslim-sentiment-censured-in-us-abroad.md",
       "title": "Trump stokes anti-Muslim sentiment; censured in US, abroad",
       "excerpt": "Stoking the same anti-Islam sentiments he fanned on the campaign trail, President Donald Trump on Wednesday retweeted a string of inflammatory videos from a fringe British political group purporting to show violence being committed by Muslims.",
@@ -1260,58 +1312,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-trump-has-more-than-100-million-in-political-cash-after-first-six-months-of-2021.md",
-      "title": "Trump has more than $100 million in political cash after first six months of 2021",
-      "excerpt": "Former president Donald Trump's political groups raised $82 million in the first half of 2021, new filings show, and have $102 million in the bank.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/07/31/trump-committees-fundraising-2021-fec/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/31/trump-committees-fundraising-2021-fec/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESPLBIXSG4I6XANSTNYGDJMC3A.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-31T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

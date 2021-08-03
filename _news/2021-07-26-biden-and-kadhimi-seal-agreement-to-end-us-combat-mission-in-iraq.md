@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/45/f45e5382-973d-5a9a-9b98-e1ae66d7ae45/60fe98480cfa2.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "It took an experienced politician, Joe Biden, to get an infrastructure deal"
+    excerpt: "It took political professionals to make a deal that the outsider could not. One major player in making the deal was the president, Joe Biden. From middle America and the middle class, he’s no outsider to high level politics,"
+    publishedDateTime: 2021-08-03T05:00:00Z
+    webUrl: "https://bangordailynews.com/2021/08/03/opinion/contributors/it-took-an-experienced-politician-joe-biden-to-get-an-infrastructure-deal/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 53
+    images:
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/08/Biden-3-1-e1627954445943.jpg?fit=1024%2C640&#038;ssl=1"
+        width: 1024
+        height: 640
         isCached: true
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""

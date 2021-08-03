@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
-excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
-publishedDateTime: 2021-07-19T19:10:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+title: "It took an experienced politician, Joe Biden, to get an infrastructure deal"
+excerpt: "It took political professionals to make a deal that the outsider could not. One major player in making the deal was the president, Joe Biden. From middle America and the middle class, he’s no outsider to high level politics,"
+publishedDateTime: 2021-08-03T05:00:00Z
+originalUrl: "https://bangordailynews.com/2021/08/03/opinion/contributors/it-took-an-experienced-politician-joe-biden-to-get-an-infrastructure-deal/"
+webUrl: "https://bangordailynews.com/2021/08/03/opinion/contributors/it-took-an-experienced-politician-joe-biden-to-get-an-infrastructure-deal/"
 type: article
-quality: 72
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
-    width: 800
-    height: 534
+  - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/08/Biden-3-1-e1627954445943.jpg?fit=1024%2C640&#038;ssl=1"
+    width: 1024
+    height: 640
     isCached: true
 
 related:
@@ -135,6 +133,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden touts infrastructure spending plans, seeks to ease inflation fears"
+    excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
+    publishedDateTime: 2021-07-19T19:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/19/joe-biden-touts-economic-recovery-infrastructure-plan/1731626717572/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1731626717572/2021/1/b8839d2831cf168138f916293d7f89de/v1.5/Joe-Biden-touts-infrastructure-deal-seeks-to-ease-inflation-fears.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Congress, President Biden allow eviction moratorium to expire as COVID-19 cases, anger surge"
     excerpt: "Anger and frustration mounted in Congress over the weekend as a nationwide eviction moratorium expired during a surge in the COVID-19 pandemic."
     publishedDateTime: 2021-08-01T22:41:00Z
@@ -167,20 +181,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "It took an experienced politician, Joe Biden, to get an infrastructure deal"
-    excerpt: "It took political professionals to make a deal that the outsider could not. One major player in making the deal was the president, Joe Biden. From middle America and the middle class, he’s no outsider to high level politics,"
-    publishedDateTime: 2021-08-03T05:00:00Z
-    webUrl: "https://bangordailynews.com/2021/08/03/opinion/contributors/it-took-an-experienced-politician-joe-biden-to-get-an-infrastructure-deal/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 53
-    images:
-      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/08/Biden-3-1-e1627954445943.jpg?fit=1024%2C640&#038;ssl=1"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "President Joe Biden meets with governors to find help battling raging wildfires"
     excerpt: "Wash. Gov. Jay Inslee says the President's push to limit climate change will \"ultimately decide whether these forests survive in the next century.\""
     publishedDateTime: 2021-07-30T23:01:00Z
@@ -210,6 +210,6 @@ related:
         height: 711
         isCached: true
 
-secured: "bs5rJrsWMmh8JUoFi4l/CAEYhzG5bcMJnjPI1z6WlPBAXKpYg/RATduMSyVWYh+jdR1BZ5tOPOtu7XEozgr8LKeDJWgKjYAVBuM9IMM/cp6Vh9tl3Hf81OJ2LNuYMAXHaGo5x0DGtkAIWw/nstj/4qAXq8U69jztnMRfud6guFKGCLzg8Lgbku4fEoSuwsCcouqUTUlj8+FYrrspv5OpTcPi8RHUmNJkilvqv6xnL0W9nsslRP+IvqWG3vJe9gj6djbD97iRpjTqtAGTmlM3agcXcDEZPr0Ximl3Byi0hX6GExHgnjMIBG5/sVHH5JqbhcJMlOx3dJCVknHQrzs95AI0dPq/qznYZKwWSadB9sXyNwj9ZACQHirLvjzpXCJa5nu2R3+9+uqR77kRuDQbD0uiwLz28uiIWhgadlSVEJzgNoVR52tZDN6VeBRhjuYtIvN8x9m1Ew6UOtGkv5ineIh9mcn2NkYVlfXDfvwggkGV5tafdZXeie9Xk8Lr+k2ESZh9xQDd7CF2WgqPA9O/Ew==;OcHboaUi47r0NpcnrDzuqg=="
+secured: "aBpox4pbaHJTJGiRHrjAKedRzsf1UoKr9/9PZgIg2fDBFrD8b4ZM36w45xFVne3dkiHowgViM6584ppD4P+3ztfkAI+0uft201a/vzz2+PRPWpshi9GmEwf5eaaWHIn3/auw28Y/XX93KsOJ5THGqawsDGPxUMSogWW7bxUABbji/PJMa4AtOFBIUEbTfSRSrygEcixAGH8kflTLOshl1Mxq6kNkJ55J1pJS5pn9J2GrfvViHnx0+T1ALMR9klqaZs2EXgLDvAi1ksBD5JOTenlqTvOz4SiphHwNeyuqmsV80ZxDqnfiO0OYjr5Qd/yizWa7bsQH2tG4tMUmnSt417/xs9rxzu69niwTjIKrPXE=;CyfewvobuO7XQCz5oFegWg=="
 ---
 

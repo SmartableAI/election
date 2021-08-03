@@ -181,6 +181,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "It took an experienced politician, Joe Biden, to get an infrastructure deal"
+    excerpt: "It took political professionals to make a deal that the outsider could not. One major player in making the deal was the president, Joe Biden. From middle America and the middle class, he’s no outsider to high level politics,"
+    publishedDateTime: 2021-08-03T05:00:00Z
+    webUrl: "https://bangordailynews.com/2021/08/03/opinion/contributors/it-took-an-experienced-politician-joe-biden-to-get-an-infrastructure-deal/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 53
+    images:
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/08/Biden-3-1-e1627954445943.jpg?fit=1024%2C640&#038;ssl=1"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "House Speaker Pelosi And Democratic Leaders Call On Biden To Extend Eviction Ban"
     excerpt: "Congress was unable to pass legislation swiftly to extend the ban, which expired at midnight Saturday, and the Democratic leaders said in a statement that it was now up to President Joe Biden's administration to act. They called on the administration to ..."
     publishedDateTime: 2021-08-02T05:24:00Z

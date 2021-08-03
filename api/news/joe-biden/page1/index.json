@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-americas-recovery-is-joe-bidens-presidency-vulnerable-to-inflation.md",
+      "title": "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?",
+      "excerpt": "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "originalUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F212df0d0-e94b-11eb-8b52-d9a1d750df18-standard.png?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "publishedDateTime": "2021-08-02T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-white-house-says-cdc-cannot-renew-ban-on-evictions-despite-biden-support-live.md",
       "title": "White House says CDC cannot renew ban on evictions despite Biden support – live",
       "excerpt": "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news",
@@ -429,6 +481,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-31-you-dont-have-to-die-biden-urges-americans-to-get-vaccinated-and-calls-for-incentives-as-it-happened.md",
+      "title": "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – as it happened",
+      "excerpt": "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "publishedDateTime": "2021-07-30T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-inslee-newsom-ask-biden-for-more-resources-to-battle-wildfires-blowing-past-every-record.md",
       "title": "Inslee, Newsom Ask Biden for More Resources to Battle Wildfires 'Blowing Past' Every Record",
       "excerpt": "California Governor Gavin Newsom said last year, a record 130,000 acres were burned, but that record was shattered in 2021 with 504,000 acres currently burned.",
@@ -461,49 +556,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-you-dont-have-to-die-biden-urges-americans-to-get-vaccinated-and-calls-for-incentives-live.md",
-      "title": "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live",
-      "excerpt": "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
-      "publishedDateTime": "2021-07-29T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1022,7 +1074,7 @@
       "originalUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1449,58 +1501,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-nominates-victoria-kennedy-for-austria-ambassadorship.md",
-      "title": "Biden nominates Victoria Kennedy for Austria ambassadorship",
-      "excerpt": "President Joe Biden is nominating Victoria Kennedy, an attorney and the widow of Sen. Ted Kennedy, to serve as his ambassador to Austria WASHINGTON -- President Joe Biden is nominating Victoria ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_8ef2cb0f67a04ce08696bd3210b35719_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "publishedDateTime": "2021-07-21T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
