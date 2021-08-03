@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Pelosi says House Democrats 'ready' to work with Biden admin to extend expired eviction ban"
+    excerpt: "House Speaker Nancy Pelosi said congressional Democrats \"stand ready\" to work with the Biden administration to \"search for ways\" to extend the eviction moratorium, which expired over the weekend. "
+    publishedDateTime: 2021-08-03T17:02:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C7A0DOtL-dE/pelosi-biden-extend-covid-eviction-moratorium"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-biden-extend-covid-eviction-moratorium.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-extend-covid-eviction-moratorium.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "2QsA/yiU+DTD661SEGvmbHtqMixnXHK7GXYGQOFlG090gcC03ksoBtqGFWN8DNrWd4vzywq7DKKwSo7bgdjO6m0zd5u2NNxm37XcUJrnYKqPOmc19TTYQqBsQvQ9530P7cRiK/0wEvY4/UaI2JWXogwrXVEORFVWXg6vzSUEG/TAZCNNZ+q/tUXPWtXZ3ujUVVQ+X0vrSRVeys7tvjpfLPxhOGy6zbSgk1rGaCOyFuI/DAXgJ7V1HDo4mObKbPWMMd0+JiqQ3MCfTD2bd7fJSoHPRhk791h03+FIhIIUVch1bfkqShMruiXdQ4VmgpTNA0mFutCNLLzelYuU//+IX5VlAiUrFMMgyRxiXUcJfVs=;mhc8TAxHCD0jQIJATvrXHQ=="
 ---

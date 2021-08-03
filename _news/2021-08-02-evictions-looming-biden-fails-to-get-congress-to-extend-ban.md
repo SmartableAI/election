@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden says Congress should extend eviction ban"
+    excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins CBSN AM to discuss the latest."
+    publishedDateTime: 2021-08-01T20:48:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-urges-congress-to-extend-eviction-ban/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Frustration as Biden, Congress allow eviction ban to expire"
     excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
     publishedDateTime: 2021-07-31T19:07:00Z

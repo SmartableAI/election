@@ -108,6 +108,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump's sway with the GOP being tested again in Tuesday's Ohio GOP primary"
+    excerpt: "His name is not on the ballot but former President Trump has plenty of skin in the game in Tuesday’s House special election Republican primary in Ohio’s 15 congressional district."
+    publishedDateTime: 2021-08-03T17:35:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fMFjtK2HQ4o/trump-sway-republicans-ohio-house-primary"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-sway-republicans-ohio-house-primary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-sway-republicans-ohio-house-primary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump foreshadows executive privilege fight in election investigations, but won't try to block testimony yet"
+    excerpt: "Former President Trump won't immediately try to stop several former Justice Department officials from testifying before Congress but is willing to put up a fight over executive privilege if legislators try to secure further interviews with his former aides and officials, a letter from lawyer Doug Collins"
+    publishedDateTime: 2021-08-03T16:28:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbZehaaImNc/trump-executive-privilege-election-investigations-wont-block-testimony"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-executive-privilege-election-investigations-wont-block-testimony.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-privilege-election-investigations-wont-block-testimony.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Pressed Justice Department to Discredit 2020 Election, Official’s Notes Show"
     excerpt: "Notes of the phone call offer the latest glimpse into Mr. Trump’s unsuccessful efforts to get the Justice Department to investigate unsupported claims of voter fraud in the weeks before Joe Biden’s inauguration."
     publishedDateTime: 2021-07-30T16:47:00Z
@@ -169,6 +201,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-378328/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Won’t Block Former Justice Officials From Testifying"
+    excerpt: "Two congressional committees are examining the Trump administration’s efforts in its final days to undo President Biden’s victory."
+    publishedDateTime: 2021-08-03T16:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-wont-block-former-justice-officials-from-testifying-11628010237"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-wont-block-former-justice-officials-from-testifying-11628010237"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-wont-block-former-justice-officials-from-testifying-11628010237"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-379465/social"
         width: 1280
         height: 640
         isCached: true
@@ -249,7 +297,7 @@ related:
   - title: "Is Donald Trump Or Covid-19 Receiving More Attention On Television News?"
     excerpt: "Which is receiving more attention on television news - Donald Trump or Covid-19? The timeline below shows total daily mentions of Donald Trump since the start of last year, showing that since May of this year he has maintained a relatively stable and high profile presence on television news,"
     publishedDateTime: 2021-08-03T12:56:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/08/03/is_donald_trump_or_covid-19_receiving_more_attention_on_television_news.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/03/is_donald_trump_or_covid-19_receiving_more_attention_on_television_news.html"
     type: article
     provider:
       name: RealClearPolitics

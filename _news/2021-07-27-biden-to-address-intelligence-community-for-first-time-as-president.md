@@ -623,6 +623,22 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Trump says he will not try to stop former Justice Dept. officials from testifying to Congress."
+    excerpt: "President Donald J. Trump said that he would not sue to keep six former officials from testifying, according to letters sent to them on Monday by his lawyer."
+    publishedDateTime: 2021-08-03T13:20:00Z
+    webUrl: "https://www.nytimes.com/2021/08/03/us/politics/trump-justice-dept-officials-testimony.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/trump-justice-dept-officials-testimony.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/trump-justice-dept-officials-testimony.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/03/lens/03political-briefing-trump-doj2/03political-briefing-trump-doj2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "Hsx9+wmbfFU9qDZ2ZLJ/6R6GFC6Fm0opf5Hz2T2aYoH4BFDewyZczj+B17FowDOnB6kHowG/EMHvbf8j6DN3GJsLq7vlQZpS0ZPEs4ydvztCsIFlBqY8pWqzEuE8YVqVNjEcPtsO+A5lT5DdGekqQB7VblFRt5d15tjYnjWBhT/aUA94naQwIgEVOFT2O+lSmC2GG37ZvuKfBzvr81yWOMk9lHz84dxV2BfQlptG21ufMfu/z+G6zJLnxK8naUKMSBlrDihvTdtmdvrXqxgRtTWTQkLD6N4d2QnB/2T5mFPqSPoK0rAYY5ukgYWVkI272zBALRzJljfChaouoDKIx7ggpkpSNDJfxwCivxyfgr4=;huyuwVWZ4Bo+BiBOgOYd/w=="
 ---

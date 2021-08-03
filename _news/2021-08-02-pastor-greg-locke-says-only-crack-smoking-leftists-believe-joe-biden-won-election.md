@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-l
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146?amp=1"
 type: article
 quality: 134
-heat: 354
+heat: 374
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden says Congress should extend eviction ban"
+    excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins CBSN AM to discuss the latest."
+    publishedDateTime: 2021-08-01T20:48:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-urges-congress-to-extend-eviction-ban/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

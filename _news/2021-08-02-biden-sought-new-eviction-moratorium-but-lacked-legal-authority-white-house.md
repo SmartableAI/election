@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pelosi says House Democrats 'ready' to work with Biden admin to extend expired eviction ban"
+    excerpt: "House Speaker Nancy Pelosi said congressional Democrats \"stand ready\" to work with the Biden administration to \"search for ways\" to extend the eviction moratorium, which expired over the weekend. "
+    publishedDateTime: 2021-08-03T17:02:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C7A0DOtL-dE/pelosi-biden-extend-covid-eviction-moratorium"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-biden-extend-covid-eviction-moratorium.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-extend-covid-eviction-moratorium.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "PBS' Yamiche Alcindor lobbies Biden to extend eviction moratorium despite Supreme Court ruling"
     excerpt: "PBS journalist Yamiche Alcindor called for the Biden administration to unilaterally extend the eviction moratorium against fears of a Supreme Court backlash."
     publishedDateTime: 2021-08-02T22:49:00Z

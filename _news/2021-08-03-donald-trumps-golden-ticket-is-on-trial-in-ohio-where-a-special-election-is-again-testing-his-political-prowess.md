@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-s
 webUrl: "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-special-election-kingmaker-status-2021-8"
 type: article
 quality: 98
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
+    excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
+    publishedDateTime: 2021-08-03T10:19:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 32
 
 secured: "sl2kmCeVvti704NOwuJKxER7pKri3ZSoM1YnNaCye0usBKV7iixpydQDSABl8exE2e8OhA8El7YpbZ/JXheN1oVfFezVucoRDVNQ/I6Zj2pbVLb8PHe0fQg6xepxl3xF2x3No3jr4LdGWQUhjAuFvmZy4H2rIED88R4aYYYTM09N838s2IHERdwOsZwwkoZG1ggwAo740mLcsS8iZfarnSi3Sztfl9HpxnGkgucvysGigD7pNpnNwl2lmNOc3+CPbQ+8mj+2tJ42/UDuuDyEBiMopqZSBBIrhrqLK59kcl4Nlkvw07a9La+3QpIK75XmQ1C4GrhaESYnElumdTCYmeH8NcGG3yQFii1DnUxCJejWfliuBK09RhS2SWruJCeek5WBql/lEv/5VSEPyTbijb8lSgnzHctYz/qGaCngMR/yRz5ooNzBWfgpVIFXglDrY06+buI8Kitw9v+BNFVMyQER/eNUSQdPBjT0fTrK8wXS8/yokRN4I1QXu9GljM44yq07PQwEhmpy5a3Fo9wLAQ==;WDFq1xVPMQ/v3XRn2MblYg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-singapore-chi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-ratings-04.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Border Patrol union official says situation still 'horrific': ‘No progress’ since Kamala Harris visit"
+    excerpt: "National Border Patrol Council VP Art Del Cueto told “America’s Newsroom” Tuesday that the migrant surge is “horrific” and there’s been zero progress since Vice President Kamala Harris last visited the southern border."
+    publishedDateTime: 2021-08-03T17:26:00Z
+    webUrl: "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/098c09e1-5b32-40b2-aca6-8fa85de4aa8e/d16ba95d-5167-4d6c-8cee-5c758971c911/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "Psia7NAXczPXL/vPJYd02/BSv+Pabl9DD6d8LAk0UhjSY+Jnw+X5oBJ/3vuobzqwVG2PrW10eeRc4Jc/vvl44Kq6zZG4T1Lk6gOLOKzDdJ5WyyWp843waa3jhLW1iGKN3nvU17vSb56AXM7IGV0gzI4ZFcYvskq/D1E6r4TpNj+sNn8feQeUXhtmgYUl4jneLgNjkhHP4U7MInJFwzkX+MImErcR7r18kN0+ufOfnq5CmP0GliXqAHiUU3HIV4ht6eCCVaoR1FGFEHbLJClodnCuvnBtNxgEMr9+2MLwWowdpU7KfCuInBLixGLhIUqAjPRLZTXjqaVpk0GdTuYsZOWCImRHbplIFeMgFdohYrA=;g9AkU9l75FvAloIx6j9gPg=="
