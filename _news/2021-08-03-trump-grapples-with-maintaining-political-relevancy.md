@@ -57,6 +57,22 @@ related:
         width: 1440
         height: 1859
         isCached: true
+  - title: "CDC extents Trump-era policy expelling migrants over COVID-19 fears"
+    excerpt: "The Biden administration has extended a Trump-era policy that allows border officials to expel migrants entering the United States due to COVID-19 fears."
+    publishedDateTime: 2021-08-03T09:56:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6411627980154/2021/1/921233e611540bc932a2d3593bd47559/v1.5/CDC-extends-Trump-era-policy-expelling-migrants-over-COVID-19-fears.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "trHzm7/GrilAooJXAIoa5EtCNF0L7d0eNTZW3+W4ejsKS99u/4mNqVscsrrS+pe2i7KUc1EWPwlb3CduAakfqS6iy7ar4qh9lVRhelTI0YeqyAnIhvaDkzXm3B78cwc9WCND940eL5X2kEliLI+0yjjFvhQLNaW3u8QZ1s7InQXZsO82AFQtcC5EhjetzkkGjeP3bDiAhOZkLViVhrNN+aIX3dsHtQgKPaF/FENcU7FgDU2L/9ntSjKusC6fvV0WGxfr+7B1SAtZw+KskxZ7UVmPzmPSpYY+icPBgE3JMPQj8vPv99x6ruQB+ISX0jMyBIqi3Od22yxdEhbg81UQVXYq+GTjuqURpZRVfUNMT7jGXoOgfffTO5D7F6d86jWnwR2MDhaZy4Op38yYI2XydMZpNnUxVQoHhJYs7IqS0kqRwHfktfO7VeaZ6dmtvu8siSvd+3n8px2AcgktkdnDF4iYf929lDMBtazTrEm+Jh/DgKGV4IShz5rzYYMCdfAAORS3O52yrhHoyaiO36KjfA==;rlwj3/aHg7ccABjiqTOV1A=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "10 Things in Politics: Trump could use Putin to skirt prosecution"
-excerpt: "And more than 150 people remain missing in the Florida condo collapse."
-publishedDateTime: 2021-06-28T09:10:00Z
-originalUrl: "https://www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition"
-webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition"
-ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition?amp"
+title: "10 Things in Politics: Trump faces major test today"
+excerpt: "And Amazon's historic defeat of a unionization effort may not be final."
+publishedDateTime: 2021-08-03T03:04:00Z
+originalUrl: "https://www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election"
+webUrl: "https://www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election"
+ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election?amp"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60d98a4c82c8960018af239a?width=1200&format=jpeg"
+  - url: "https://i.insider.com/6108f4e4372268001a5955c4?width=1200&format=jpeg"
     width: 1200
     height: 600
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://i.insider.com/6066cc80902281001950ab74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "10 Things in Politics: Trump could use Putin to skirt prosecution"
+    excerpt: "And more than 150 people remain missing in the Florida condo collapse."
+    publishedDateTime: 2021-06-28T09:10:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/60d98a4c82c8960018af239a?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -76,22 +92,6 @@ related:
     quality: 125
     images:
       - url: "https://i.insider.com/60ded1cc4a93e2001912996c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "10 Things in Politics: Trump faces major test today"
-    excerpt: "And Amazon's historic defeat of a unionization effort may not be final."
-    publishedDateTime: 2021-08-03T03:04:00Z
-    webUrl: "https://www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election"
-    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/6108f4e4372268001a5955c4?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -153,6 +153,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "feu9Y/lY7gK9SMdh7IF0JXBQu8e7XJsO7sYYpPdUOSvlIyfG2SmoQ1d/TMvIN4aP/yMWw163AIQd7T8CpFBPphjrQlwL8JbdAMx5p3EifMjwPECM5w75KT0AXhN5A3od+cyTxVjX0N29qL5X4PddnxCrnsotKGG6FXtbpUWEbPEi1Tij5TIjewfgai9lw03PLRYPMRSY70FUEnCy8JWTF/+VXYNgRhP/HiQPGdTaRWNtSEZMzBu1npx513l2kQ0BYfzb/uu+xQuBqa4JEi9XOaIkwfhoYJLFG6ms73++GkXm6ZiV3QxUuiAVMrjQb5Jn0CkuuI3iVxyl/qC6J0tqd5R1AB3RYdM0l311kWyo7IS8cAgm/EGMShRe6gWpStwi0mqnuf1Gc11NCt5bY03dllbrThACppDlSfWnpPj4fk5iypj3CRlRF+4H1ehU4CfifyHVcLHg/dSd5ZeIOIwt5h63wVC72WXE6F+71rCcgcFFBgW3lAUXts2jzWGRhscbb1P7w3N1rTnNJG2t7Gf7PA==;J/1BCC33wI99wrAlSh0Y+A=="
+secured: "+C21ljmcdLIjHrYV7ck3mlueSnbEuZwA23FBqZRmVxUVwi0/RWMGM0Z9WSpA3X2YDJLWE/ZMXiNTK+o4oXCmdBGZbTnarcSOlevzfDWON2y6u5lPLc24HFrUsu6aKxQ9i3+n5KLV9lbu6eA8CpZwNqeN6Cs5gvDw/Mg2QZOBjoIudEk9HUtPTuQnUHg+KqRY7roLZ9HYgkLsY6KGxOI/oPK3vTifz2UNDOG2bTHf8LD9CTQ3ECFPfKUKydV+lh2GC91lPFCpRbKOk9zRN7kAZDva4kib0wEZVuSduCFSlJ7Vz6E7xvDsLTUEBPgrgQq1an6v3KI1eGjdNnV5KmDT7bx/EnrxG7IRtSAqaeJmIeY=;zO8sjiVzkRz/NYcO7+BV7Q=="
 ---
 

@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "10 Things in Politics: Trump faces major test today"
+    excerpt: "And Amazon's historic defeat of a unionization effort may not be final."
+    publishedDateTime: 2021-08-03T03:04:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-ohio-trump-endorsement-special-election?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6108f4e4372268001a5955c4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS"
     excerpt: "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow."
     publishedDateTime: 2021-05-20T19:08:00Z

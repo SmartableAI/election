@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/energy/us-solar-company-files-req
 webUrl: "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/"
 type: article
 quality: 105
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFFVWJXPDEI6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
         height: 1859
+        isCached: true
+  - title: "CDC extents Trump-era policy expelling migrants over COVID-19 fears"
+    excerpt: "The Biden administration has extended a Trump-era policy that allows border officials to expel migrants entering the United States due to COVID-19 fears."
+    publishedDateTime: 2021-08-03T09:56:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6411627980154/2021/1/921233e611540bc932a2d3593bd47559/v1.5/CDC-extends-Trump-era-policy-expelling-migrants-over-COVID-19-fears.jpg"
+        width: 800
+        height: 532
         isCached: true
 
 secured: "j2Y4ZZQFbKRYmy9gbyZD6CAmLTFLTiknapl87n/GE3KXiPMiDoPAlyxUPb0/s9m8qpc/q9ZdVO4oI9LMRGRuvOCgVJEvK2TQIIKl4lXdhnSKMuDzwYo2CJ48DdGM45brSjVR/8EtG9CVcD2zjAHBAbudb1hE7CBClwd8u8FWG/+I4ptlRIijJjpsyJLxj23oapRbQh7CKr2WvqtIDRAL350b1GjyeHYt/msnkAtxkG3elUdgnX+YjgFf0fM34YFBRkQfVLaWyhxMspmftepP5jS/w9tYe6hze9maDwtB3lWnTumBtXJrmuEZmhjcchVBnjB7fvMqyy4d4EvDtYMs+4KX+cjmZAtNmGf5hzIsLW5prDUCwG+PnkMzbqJ4ngPQgIlPZt65EX/M4gfW2j0anKs0CZ56fd+QV0PTglsBsIEca1bjxjkj9Vb7IEIXOPd/vsQP71sF6trY6+iSaMaptZO2wAHKFrWCVFqQh8DMZhuOPIRoongOtYDgMr4v3f5EqLVlxKZRT9CDK5wpZDVkPg==;lg27mfnGJhuWjMJbdQqkIw=="
