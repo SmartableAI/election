@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Frustration as Biden, Congress allow eviction ban to expire"
-excerpt: "Millions of Americans face being forced from their homes with the midnight Saturday expiration of a moratorium on evictions during the pandemic."
-publishedDateTime: 2021-08-03T02:32:00Z
-originalUrl: "https://www.sacbee.com/news/article253161128.html"
-webUrl: "https://www.sacbee.com/news/article253161128.html"
-ampWebUrl: "https://amp.sacbee.com/news/article253161128.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253161128.html"
+excerpt: "Anger and frustration mounted in Congress as a nationwide eviction moratorium expired at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans faced being forced from their homes."
+publishedDateTime: 2021-08-03T07:09:00Z
+originalUrl: "https://columbiabasinherald.com/news/2021/aug/03/frustration-as-biden-congress-allow-eviction-2/"
+webUrl: "https://columbiabasinherald.com/news/2021/aug/03/frustration-as-biden-congress-allow-eviction-2/"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Columbia Basin Herald
+  domain: columbiabasinherald.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/e667a3f0-e955-4af9-8211-6212e885a0d8/9c61b83e-2c07-4db2-97ec-8eb489b6ef3d/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Pastor Greg Locke Says Only 'Crack-Smoking' Leftists Believe Joe Biden Won Election"
@@ -181,6 +173,6 @@ related:
       domain: thegrio.com
     quality: 35
 
-secured: "23SugmGDkbXd/A9NvLBj8+sOGot5LzMSMR4oSnUMH7XlvVqiXA0gTP6iJUnZbpDjCIc3ergztSREeS9mIN2OI7/IC4IyrgZ2rhOc/kzkOQLvlu1/Ni2p5zBoevYtDqdAYQ+zxIc0mFAJCa1NSaMFkHB1F68Eikll2zLCW9HCmCE2ncPIZEzMcnanKir/aQC348mfHl+WlsI73vgPCBfbIUugwlf0qh6B6eBOy9uOHzUqw61y0isvGnUgBmnItwc7Z9WZKu+JzjIF8B6Grf92szlAF8Z0ZD1de5/hPHsCrESOJW93BSk1KdsxfoU/911FvnvfEhyAN4baXB62ZARxEktP76GiIn+nc5CJgyDhjlM=;JT5fRWBxvFcsxcxI8RE6tw=="
+secured: "gedSPzhVExTZPTdumdrJaXybDNKLEskoBgIVn2AGkhDJyzu9/WYH9SjPaKgN9eZ0eWF9dTbY8aTHqOwIgR4ai0aKer0EK59QRstJ0J3tDNqjJEQhWhjpxGQa3pnPhGUPMXiALPAzk3jNph83iqoucE/XGNP5DsqcTJPG2RlYLMJK7A3v9bDM9WReylSjLXXmPXXObyV0xHjUOgROP8qOAr6Nk6ZdAiN5lMjPw0P6OIgh3uc4RtgyuEhWqv97gngrMZvjn55aj6/qrqmV+Xr73NdYhfzBwVBdc8xJHmqoLk6gqfXZlYZBsv6EVDeG9zn6Sxb0LKNtKmZSLHJNyalOLF4n5rL3jLA6iRVJQcm/s4Y=;HtaC8bzFMABqwzD0Lu6bYA=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Joe Biden’s ‘summer of joy’ turns grim as delta infections skyrocket"
-excerpt: "President Joe Biden promised a “summer of joy” on July 4 as he declared America’s independence from COVID-19. Three weeks later that sense of victory is evaporating in the face of a resurgent pandemic."
-publishedDateTime: 2021-07-28T19:26:00Z
-originalUrl: "https://bangordailynews.com/2021/07/28/news/nation/joe-bidens-summer-of-joy-turns-grim-as-delta-infections-skyrocket/"
-webUrl: "https://bangordailynews.com/2021/07/28/news/nation/joe-bidens-summer-of-joy-turns-grim-as-delta-infections-skyrocket/"
+title: "Biden to allow eviction moratorium to expire Saturday"
+excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
+publishedDateTime: 2021-08-03T07:54:00Z
+originalUrl: "https://www.registercitizen.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+webUrl: "https://www.registercitizen.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+ampWebUrl: "https://www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: The Register Citizen
+  domain: registercitizen.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-7.jpg"
-    width: 2000
-    height: 1333
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -51,22 +53,6 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Biden to allow eviction moratorium to expire Saturday"
-    excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
-    publishedDateTime: 2021-08-03T07:54:00Z
-    webUrl: "https://www.registercitizen.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    ampWebUrl: "https://www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    type: article
-    provider:
-      name: The Register Citizen
-      domain: registercitizen.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -103,7 +89,21 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden’s ‘summer of joy’ turns grim as delta infections skyrocket"
+    excerpt: "President Joe Biden promised a “summer of joy” on July 4 as he declared America’s independence from COVID-19. Three weeks later that sense of victory is evaporating in the face of a resurgent pandemic."
+    publishedDateTime: 2021-07-28T19:26:00Z
+    webUrl: "https://bangordailynews.com/2021/07/28/news/nation/joe-bidens-summer-of-joy-turns-grim-as-delta-infections-skyrocket/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-7.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
-secured: "ELKysTv3eqy9dk9F08T4EzhyBaecDC7TKtPuaYQD+jF1Ik88uFh1e1UZ/cJSkm+QYrej6hIGchzwxAWPfpK/Cra2m9DCo4TjChuQlFpG1I5CAJzZAvJdcmKFr9STg2XEzExMpqhqNLZBMU3nV1MpzXLA/pWtQasiMomeO43U27PsGSWAn+wY2Qr2SOeBLQHjhm8604gUBrhcOq7Vw2A64DKK3cB+6uZZQ/T/r8I8QiTrMXjrqBZgK3lViehOIEVa4RrqmK+zR23989Lniwx0KtnWu/zQPRRGV5PjWjjc0o3FOUpTB5Rxq1Q493G7UZmKsn7CaNzGTCR01kQJMqOl2mhczwB2fSx6PTuIfDiiDyJc1jwCFurHpERUwZK1oN65q/BdW9ywG78YUkihwjGyFWCkYIFudZnG16OPpFhc4+23F61kNsdaWgsl2syEKE7mVVORO710ETJkFdhi8seLpxk2uP+arQNQqm7msvXhYy1jtfRMKl3prS/H4qYrNNY6BB+sy/QDMelshnuyc+PuHg==;GpeQre+7YumWsqjEMRXt9Q=="
+secured: "AGsjFv29yrlKLTeKUzdRpwwFwJP0n4Adb0dkN2FqORUXPg24pXyR3NG8rWtHzkGJT8D/2leWuXoCOQBrNXQi1Z/6M0jAyy+xUsKCJ2Aq4AuJE0KPUQviDZvRvwXaTn6I44MP9B20kRMx5C1HvWg7Dz7M1TQGFfWZEn9CPo1bl6mocWEgCc1fvBrcBKMerFl+RlHpcMGKoBjsZc6E+XMvGTBaGzXOghxRiMqaOXtPcphKPFwOlXZRgGtKUPGhjfM0upGeiizRbR82IuN8FjlXMAZeit8XAKd9P6pmx5qpmyjU2HOkg4VjUjiA30T+y5aVovoHHVx0aYoK2CtwXEEy8y6vHk6yhJH0VpWGZTLWknY=;VyffWc7BBNiPhC6NiK5eag=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.independent.co.uk/news/world/americas/us-politics/mike-p
 cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1200
     height: 899
     isCached: true
+
+related:
+  - title: "Mike Pence Refused to Get in Car With Secret Service During Capitol Riot: Book"
+    excerpt: "The former vice president twice refused to be evacuated as rioters stormed the Capitol on January 6, according to a new book about the final days of the Trump administration."
+    publishedDateTime: 2021-07-16T08:37:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1847383/mike-pence-speaks-crowd.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Capitol riots: New book reveals Mike Pence refused to leave Capitol during insurrection"
+    excerpt: "Following the January 6 insurrection at the Capitol, it is widely believed that there is now a rift between former vice president Mike Pence and former President Donald Trump. A new book revealed that Pence refused"
+    publishedDateTime: 2021-07-20T09:38:00Z
+    webUrl: "https://www.econotimes.com/Capitol-riots-New-book-reveals-Mike-Pence-refused-to-leave-Capitol-during-insurrection-1613236"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 47
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202107201a60f2fbec3238c88_th_1024x0.jpg"
+        width: 800
+        height: 563
+        isCached: true
 
 secured: "bLFsazN6J9QMa2kibo1Ad03TeDOXcBeLZDgynVkTIBdoLPL7oG49NJqll/WnOoPGLmRUUhzf1vo0Obl5M0ih9FHXJdTdTPuR+wHFOMQJNQYsOnaVKm+RCopmrRnosMf9BLtqtijnOt8MFzYe4OfGgcmQ8kVthghyuub9qG+fnfLB3hcAEB6ZhanXzHvR55SmkoCZmUqnqhHSXELmY3R1UxWiXALMFxLGyh0rppMc82kz3KXnHiUrxWc+Q7TgbervU8PsjI8YSGzQOotL2aMWkKJE4yYFWY9zvjyWfpeVM60e/dXal689blO6c5o7VT2I8NfpI8Cd755BRrxKHIIg416mYK/TfB0rYlfjQ7ICgVo=;1FQiYEePUs5V/k7N5w5uNg=="
 ---

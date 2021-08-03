@@ -7,7 +7,7 @@ originalUrl: "https://www.indystar.com/story/news/politics/2021/07/22/pence-refu
 webUrl: "https://www.indystar.com/story/news/politics/2021/07/22/pence-refused-leave-capitol-ordered-troops-new-trump-books/8039176002/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Capitol riots: New book reveals Mike Pence refused to leave Capitol during insurrection"
-    excerpt: "Following the January 6 insurrection at the Capitol, it is widely believed that there is now a rift between former vice president Mike Pence and former President Donald Trump. A new book revealed that Pence refused"
-    publishedDateTime: 2021-07-20T09:38:00Z
-    webUrl: "https://www.econotimes.com/Capitol-riots-New-book-reveals-Mike-Pence-refused-to-leave-Capitol-during-insurrection-1613236"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 47
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202107201a60f2fbec3238c88_th_1024x0.jpg"
-        width: 800
-        height: 563
-        isCached: true
   - title: "Pence refused to leave Capitol, suggested Insurrection Act for BLM protests: What new books say about VP"
     excerpt: "From pushing back on not supporting the 2020 election results to suggesting the Insurrection Act: Here's what 3 new books say about ex-VP Mike Pence."
     publishedDateTime: 2021-07-22T17:27:00Z

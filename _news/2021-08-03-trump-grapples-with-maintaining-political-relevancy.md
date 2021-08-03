@@ -57,22 +57,15 @@ related:
         width: 1440
         height: 1859
         isCached: true
-  - title: "Nevada county bid to honor Trump goes from road to buildings"
-    excerpt: "Lawmakers in a rural Nevada county who decided 3-2 last month not to name a road for former President Donald Trump now are considering putting his name on their court, jail and sheriff’s office. Lyon County commissioners have scheduled debate Thursday on a bid to name the Justice Complex in Yerington after Trump,"
-    publishedDateTime: 2021-08-02T22:40:00Z
-    webUrl: "https://www.chron.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+  - title: "Nevada County Bid to Honor Trump Goes From Road to Buildings"
+    excerpt: "Lawmakers in rural Nevada who decided 3-2 not to name a road for former President Donald Trump last month now are considering putting his name on their county court, jail and sheriff’s office."
+    publishedDateTime: 2021-08-02T18:36:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-08-02/nevada-county-bid-to-honor-trump-goes-from-road-to-buildings"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "trHzm7/GrilAooJXAIoa5EtCNF0L7d0eNTZW3+W4ejsKS99u/4mNqVscsrrS+pe2i7KUc1EWPwlb3CduAakfqS6iy7ar4qh9lVRhelTI0YeqyAnIhvaDkzXm3B78cwc9WCND940eL5X2kEliLI+0yjjFvhQLNaW3u8QZ1s7InQXZsO82AFQtcC5EhjetzkkGjeP3bDiAhOZkLViVhrNN+aIX3dsHtQgKPaF/FENcU7FgDU2L/9ntSjKusC6fvV0WGxfr+7B1SAtZw+KskxZ7UVmPzmPSpYY+icPBgE3JMPQj8vPv99x6ruQB+ISX0jMyBIqi3Od22yxdEhbg81UQVXYq+GTjuqURpZRVfUNMT7jGXoOgfffTO5D7F6d86jWnwR2MDhaZy4Op38yYI2XydMZpNnUxVQoHhJYs7IqS0kqRwHfktfO7VeaZ6dmtvu8siSvd+3n8px2AcgktkdnDF4iYf929lDMBtazTrEm+Jh/DgKGV4IShz5rzYYMCdfAAORS3O52yrhHoyaiO36KjfA==;rlwj3/aHg7ccABjiqTOV1A=="
 ---

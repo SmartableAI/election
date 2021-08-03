@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Nevada county bid to honor Trump goes from road to buildings"
-excerpt: "Lawmakers in a rural Nevada county who decided 3-2 last month not to name a road for former President Donald Trump now are considering putting his name on their court, jail and sheriff’s office. Lyon County commissioners have scheduled debate Thursday on a bid to name the Justice Complex in Yerington after Trump,"
-publishedDateTime: 2021-08-02T22:40:00Z
-originalUrl: "https://www.chron.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-webUrl: "https://www.chron.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-ampWebUrl: "https://www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+title: "Nevada County Bid to Honor Trump Goes From Road to Buildings"
+excerpt: "Lawmakers in rural Nevada who decided 3-2 not to name a road for former President Donald Trump last month now are considering putting his name on their county court, jail and sheriff’s office."
+publishedDateTime: 2021-08-02T18:36:00Z
+originalUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-08-02/nevada-county-bid-to-honor-trump-goes-from-road-to-buildings"
+webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-08-02/nevada-county-bid-to-honor-trump-goes-from-road-to-buildings"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Two U.S. companies seek extension of Trump-era solar tariffs"
@@ -70,6 +66,6 @@ related:
         height: 1859
         isCached: true
 
-secured: "m3KBbNL6DTdLtPhySQgfECxSCZURJbNIRHzxCoik+CNyv8r1/+t9p2VJXPNJUW08AfDj4odfmXgF71d2comkmkzBkrTR/0LyU85QgF5M0Y4WvGjddrN0tO1zRoHJJq1qQgROxYeXwv+gmAaxkQcQT+lHsKJrq/xquXuv9V+WULdEgI9XMjot49DL8LUrEOIauQ5ZtoacM7o9IomJUoUnovsYyFBYmNJmhZhhAO27/Vyb3CFqNrkfNTIaFVe5xgBL2bCOLNc4iU3bV8CH7yqnbw+OyFjVWwMajWI+j4iqqpjBDcsK6zOY7+O7hJZO8UPkynuSt3iAzZ/pgiqg5Yp4wiz8f8yRIWqeewE6bdGdB1I=;WoGvmWwIcU/WSF5unuIqMw=="
+secured: "lQs1vHkygaHFaOWcC25xOmPntCVmQLAGA+4xGOO8OUCHwQVd44VngWj24oar3VQI4kG/EW7u3f606AsXHkO7Bnzdyi9IJxEQmwe/dkM/g9pNc4rLvmhUv8s0QZoehmtY/f28F+ehWZvH0NcCD8A6U46s9ePMAFawwEmAZf4brBWyuqof/PwyNneGDF/3fcLu823noWw74ftctnp7mnTxtG/r5spuBDHLtpx4Umg1YJPYrviXYk+bYlpj8ooJoZixSqXVs7B92noshlp4FAnXym6DzP5Y1tuqpkFGg/x9YhYwwPyh5tfrVnftX/GzzZtLXdqrJT7lunO6MdOSENKSN9PLw0qa/YgyWzX9/53x4cs=;7+WTvMF4USaf52EnzqMZ7w=="
 ---
 

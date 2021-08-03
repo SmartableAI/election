@@ -131,6 +131,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump's kingmaker status faces test in Ohio special election"
+    excerpt: "Make America Great Again, a super PAC chaired by Trump's former campaign manager, quietly purchased $300,000 in Ohio television advertising. The buy was intended to provide a late-stage boost to another Trump-backed candidate facing a crowded field of Republicans in a special election on Tuesday Low-turnout special elections aren't perfect measures of Trump's strength and he remains a powerhouse in GOP politics,"
+    publishedDateTime: 2021-08-02T17:36:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "‘Just say the election was corrupt and leave the rest to me,’ Trump urged Justice official"
     excerpt: "The pressure is all the more notable because just weeks earlier, Trump’s own Attorney General William Barr, had declared that the department had found no evidence of widespread fraud that could have overturned the results."
     publishedDateTime: 2021-07-30T17:34:00Z
@@ -173,17 +189,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 70
-  - title: "Trump’s kingmaker status faces test in Ohio special election"
-    excerpt: "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention."
-    publishedDateTime: 2021-08-03T01:50:00Z
-    webUrl: "https://www.theolympian.com/news/politics-government/national-politics/article253188683.html"
-    ampWebUrl: "https://amp.theolympian.com/news/politics-government/national-politics/article253188683.html"
-    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/politics-government/national-politics/article253188683.html"
-    type: article
-    provider:
-      name: The Olympian
-      domain: theolympian.com
     quality: 70
   - title: "Justice Department Says IRS Must Give Trump Tax Returns To Congress"
     excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."

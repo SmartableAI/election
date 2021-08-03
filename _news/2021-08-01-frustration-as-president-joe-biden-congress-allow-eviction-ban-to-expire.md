@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Frustration as Biden, Congress allow eviction ban to expire"
-    excerpt: "Millions of Americans face being forced from their homes with the midnight Saturday expiration of a moratorium on evictions during the pandemic."
-    publishedDateTime: 2021-08-03T02:32:00Z
-    webUrl: "https://www.sacbee.com/news/article253161128.html"
-    ampWebUrl: "https://amp.sacbee.com/news/article253161128.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253161128.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/e667a3f0-e955-4af9-8211-6212e885a0d8/9c61b83e-2c07-4db2-97ec-8eb489b6ef3d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Evictions looming, Biden fails to get Congress to extend ban"
     excerpt: "A nationwide eviction moratorium is set to expire Saturday after President Joe Biden and Democrats in Congress worked furiously but ultimately failed to align on a long-shot strategy to prevent millions of Americans from being forced from their home COVID-19 surge."
     publishedDateTime: 2021-08-02T09:43:00Z
@@ -179,6 +163,15 @@ related:
     provider:
       name: The Grio
       domain: thegrio.com
+    quality: 35
+  - title: "Frustration as Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration mounted in Congress as a nationwide eviction moratorium expired at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans faced being forced from their homes."
+    publishedDateTime: 2021-08-03T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/03/frustration-as-biden-congress-allow-eviction-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
     quality: 35
 
 secured: "xkSRnvK1cFB/SAmUmTaug6ZK8722ld5RPfSc3VySXozewm5bzZ9tz+MRZ77cQ5sm9uBS2m7PxIJK0RtQoqN/1QFhXKFCeZfUn4fxgJPvZOjHRuSnZb5Mx7WM7DAL5pw1WcR/AwXWhNHKE992Sfj3f2aSsWdZDDRZoRb1ZvyUGdL2hSsXpkL2gKIA9NRGYp+gr16Z2FW5ID1qqCM27CkXpoQxKe426TZe660RjBNKSOyN8AsW1IWwhvfCgvvsM4G/Njsh5uncCi7PxnxvCz1uo6zenl81jRgMuRvLTaorZLzz1EKENrTRR+oyX4bONAVZ/OVKvLBMgIibFvi6vO5Z8i/AxN/G477kf99mWILAkkjvR7lY8279RK4fK6ehnjsCfsr48zIV4XHlxDHtP76AkaALMH7k1THg7i5XUnGgKPesyXoHUq06YRXf3mcGTm7Y6Gr7V2iIlk79M9siVjITawzo2yUIN0wFQ6BYfW16761Io0KTSdJE1xWfhTfn3mlN9Fra+Kd4Tx94WaxIxv0ryQ==;qs2WAdgN4cLhvlrZC9e0SA=="

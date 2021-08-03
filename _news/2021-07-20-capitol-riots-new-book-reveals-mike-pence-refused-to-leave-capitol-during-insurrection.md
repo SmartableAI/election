@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Capitol-riots-New-book-reveals-Mike-Pen
 webUrl: "https://www.econotimes.com/Capitol-riots-New-book-reveals-Mike-Pence-refused-to-leave-Capitol-during-insurrection-1613236"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Pence refused to leave Capitol, suggested Insurrection Act for BLM protests: What new books say about VP"
-    excerpt: "From pushing back on not supporting the 2020 election results to suggesting the Insurrection Act: Here's what 3 new books say about ex-VP Mike Pence."
-    publishedDateTime: 2021-07-22T10:56:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/07/22/pence-refused-leave-capitol-ordered-troops-new-trump-books/8039176002/"
+  - title: "Mike Pence Refused to Get in Car With Secret Service During Capitol Riot: Book"
+    excerpt: "The former vice president twice refused to be evacuated as rioters stormed the Capitol on January 6, according to a new book about the final days of the Trump administration."
+    publishedDateTime: 2021-07-16T08:37:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 18
-  - title: "Pence refused to leave Capitol, suggested Insurrection Act for BLM protests: What new books say about VP"
-    excerpt: "From pushing back on not supporting the 2020 election results to suggesting the Insurrection Act: Here's what 3 new books say about ex-VP Mike Pence."
-    publishedDateTime: 2021-07-22T17:27:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/07/22/pence-refused-leave-capitol-ordered-troops-new-trump-books/8039176002/?bingParse"
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1847383/mike-pence-speaks-crowd.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Mike Pence refused to get in car amid 6 January riots fearing Secret Service ‘conspiracy’, reports claim"
+    excerpt: "Former Vice President Mike Pence purportedly refused to get into a vehicle with secret service agents amid the 6 January riots out of fear there was a “conspiracy” to “vindicate the ..."
+    publishedDateTime: 2021-07-16T23:29:00Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
+    ampWebUrl: "https://www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
+    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/americas/us-politics/mike-pence-coup-book-claims-b1885449.html"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 18
+      name: The Independent
+      domain: independent.co.uk
+    quality: 58
+    images:
+      - url: "https://static.independent.co.uk/2021/07/16/15/newFile-2.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 899
+        isCached: true
 
 secured: "stPkBvvOuP25zapzMt8n+0ja4eZisgpQvGzhylt12ssn6WbJUrH9mXfglFHGIsL6HWzLTPGaS9n6HtZc/yX2RaEKgZyprF+GCDEdRylTCrAjAYNExwTrqE5tTZplQ/fNJsQ32FYlZWjZqq9OzEkLH8dTOru8deT6AVR1/rbHHy76JMKnWw+GRyTFjphUX4ASKf1HFBW55PZ5Ob5cw8LgoOCB/1YRQaHKCaAme1Up01DIennfMD0AztvNYQo/944Whn+11AH81hvJAkd+NLO60Rq2jc3cAzCmw9jWVZuGBfSuiXi84017WPfwkpinCnlY0xNY+FSZq1LYc7rFMqXFsYOpQV6hL+vMgtSWHJDe5tGic+lJUeyT3X4DJEZ4qzV/XLVl1tsWkkMrqDFSH2rHxnxQPJej6eOZPWJEK1FM2IFg/mTZbX+rHkfJHXVXDzCPYV08rZsAW7GZ/94j0srYqZvqiaUHSUjxiWGrXdfMKh7re6HNLmJumfI/KSXqsfHsuI9ujIXza6pPmx6inM+/ww==;utdysMkvncOY1oee/TITBg=="
 ---

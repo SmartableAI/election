@@ -109,22 +109,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Frustration as Biden, Congress allow eviction ban to expire"
-    excerpt: "Millions of Americans face being forced from their homes with the midnight Saturday expiration of a moratorium on evictions during the pandemic."
-    publishedDateTime: 2021-08-03T02:32:00Z
-    webUrl: "https://www.sacbee.com/news/article253161128.html"
-    ampWebUrl: "https://amp.sacbee.com/news/article253161128.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253161128.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/e667a3f0-e955-4af9-8211-6212e885a0d8/9c61b83e-2c07-4db2-97ec-8eb489b6ef3d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Frustration as President Joe Biden, Congress allow eviction ban to expire"
     excerpt: "Lawmakers said they were blindsided by President Joe Biden’s inaction as the deadline neared, some furious that he called on Congress to provide a last-minute solution to protect renters. The rare division between the president and his party carried potential lasting political ramifications."
     publishedDateTime: 2021-08-01T15:51:00Z
@@ -183,6 +167,15 @@ related:
     provider:
       name: The Grio
       domain: thegrio.com
+    quality: 35
+  - title: "Frustration as Biden, Congress allow eviction ban to expire"
+    excerpt: "Anger and frustration mounted in Congress as a nationwide eviction moratorium expired at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans faced being forced from their homes."
+    publishedDateTime: 2021-08-03T07:09:00Z
+    webUrl: "https://columbiabasinherald.com/news/2021/aug/03/frustration-as-biden-congress-allow-eviction-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
     quality: 35
 
 secured: "IaIV29XBBJvuAACSJHGJrHK8qXT9+IiXCDBKn8vNX3ZJysF/sJNQP+HnI7aiPYgWZ5dL9o8VmcYZKP+16N2NADiDpJ56dNPdyJVMcbBe5VAy/WcrSHaJwpCrn2bHHejAEcVkvm3cDnOMLk0wpJZZZG3tjKZqjiIJ0VvaZofg767UZi2vn5YhBx4/NBUFkxx4/meLVqlp4dBBVkY9dUxquErK6E75SNdi40hqL/JMK2ynFAZRWfgze/GNvWkS+LuwOS9lTzo7YJT3G5DR275h60oLEFAY2W6SgZ77kIog08JUyyw6i0jMpwlljGCOLyz9u0OQXGcDMmbqQ8tSY+02MIVbpJ368ARXtChBC2Np7KH0oApUP2elDPqQ5ccrwJwZI8/3claxG2pYk2JrqH5TmQWpS7iY/ZNUlEiUoNIKCOii1O6dO0agWLnMNdSQ9QCnLgOOf0Xdb/dxxYcX22hzG7rsSc5ogFHR1/Q0y54ud5uqcWlV4iMD6XhhDkh6YlCjwKASi4qt3NPGoJX89H6SBA==;SyfXlhUu/I7tmxKnBdNHmg=="
