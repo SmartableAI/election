@@ -624,6 +624,22 @@ related:
         width: 2560
         height: 1600
         isCached: true
+  - title: "Biden has a better handle on economics than Trump – but there are still risks"
+    excerpt: "The new US president has emerged with a neo-populist agenda closer to his predecessor than to Obama"
+    publishedDateTime: 2021-08-03T10:28:00Z
+    webUrl: "https://www.theguardian.com/business/2021/aug/03/biden-economics-trunp-us-obama"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/aug/03/biden-economics-trunp-us-obama"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/aug/03/biden-economics-trunp-us-obama"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/9a93c9a1e9eb55ba211bbea37d0c0ad275a2da20/0_0_5470_3282/master/5470.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bd6989a91c16bee120b150b5ed1516fa"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden budget seeks to flip script on Trump administration’s spending priorities"
     excerpt: "President Biden’s first budget request to Congress includes $1.5 trillion in federal spending that turbocharges funding for education, health and environmental protections — flipping the script on the very programs the Trump administration long ..."
     publishedDateTime: 2021-04-09T15:01:00Z

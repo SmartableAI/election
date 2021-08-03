@@ -47,6 +47,22 @@ related:
         width: 500
         height: 357
         isCached: true
+  - title: "Why Joe Biden is such an elusive target for his critics"
+    excerpt: "First, whatever Joe Biden’s line on abortion, neither his pastor nor the Holy See support his exclusion. Second, and here the clergy will have to forgive a dip into earthly politics, they only served to highlight the president’s stalwart churchgoing."
+    publishedDateTime: 2021-08-03T12:23:00Z
+    webUrl: "https://www.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
+    ampWebUrl: "https://amp.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb70378cc-f219-44fb-a451-8db757e7160f.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live"
     excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
     publishedDateTime: 2021-07-29T21:56:00Z
@@ -58,6 +74,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 92
+  - title: "GOP: Biden’s Policies Have Put Our Nation In Crisis"
+    excerpt: "We are a District made up of honest, hard-working, freedom-loving Americans who provide the fuel and fiber for this nation by hosting one of the most dynamic energy and agriculture sectors in the country."
+    publishedDateTime: 2021-08-03T13:00:00Z
+    webUrl: "https://www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html"
+    ampWebUrl: "https://www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html/amp"
+    cdnAmpWebUrl: "https://www-mymotherlode-com.cdn.ampproject.org/c/s/www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html/amp"
+    type: article
+    provider:
+      name: My MotherLode
+      domain: mymotherlode.com
+    quality: 75
+    images:
+      - url: "https://www.mymotherlode.com/wp-content/uploads/2014/01/1013955-BID-radio_mic_american_flag.jpg"
+        width: 500
+        height: 344
+        isCached: true
   - title: "Biden touts 'Buy American' to boost US businesses"
     excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
     publishedDateTime: 2021-07-28T21:45:00Z
@@ -87,6 +119,6 @@ related:
         height: 815
         isCached: true
 
-secured: "ztSPhyv9CAvKBTcv4wvAwfWNRf7O8zLgmnm8tpgMFhAfOKWxWEulCLSyBg/5JCd+DKVUpFYVwv6zwsgh/2QqLvNA54Wjic56nZ7aXv/RO4B4GrnNcq/1HaU9b/FOXgV/83CV50t3/4WIImnvHSOa+mbKQCi8/eIAF8qtqPL/MPoptdYAfmNpan8/YEPXm5QYWbcVJDlomjfJd4bYa6vHeh5hh6CAYyITCt8ebDg1b1LxUljhNogoRMbSPtA5/hXe6+lzCpWBHu4BmyIQe0T0vL9HtKH0tUEGk0Sz8ivjyb3Tima57lIMTvslPdw6gLQ1X5AErKDj7g6tTiVHWAEMB6b6O3Zl8yn9ogN0d4XSJ80=;3KEI40G6ko5RicHwSO99sw=="
+secured: "m5zHZZxmuoaAH6MiId3i//FTNHyxYty4vD72sXnkF6qjLgb+uBwZoa/rEwQBKnuxKBWOoymqZjjQZ80hnmI1WuBORIW/DJrc1UFC05daXhBPF209p/wyP5MxrwWqRlhYH9C3EhPGvHhGhEVU1eBuVlzqXpOD7YnPx3jmDLfqWD4sY8sFLVeiZScCy9s0Vf+MYZfOebw8qG1x6ec9ZQi98F4XVwKunXgQZAmAynb92Z9vhDAyeJ0vm8IITwbd3ylApw8CqZ2Fype5IkgQOCPdSgytbCXlyx7g3hobDt45VL5GcQ9h1XiUD3bKpHIFrUDnBkprG2w/EmiC4A9ZHX/Qalkmp13qsazVKggN6E6CQ28HCBks48uf1nWjSplD5B78Bpk37/q2j4N26J2VVjz8BPgXSXtUP3v8uYLCL4CEQhslHacmBjEiD4G68u6aBpekZuAacNrYZc73I9sW0SAFAZS+Kv3Qgvf60eKVMigAQ3IBWoJ8Q9JTA1xA0MzPPu4e3VT88ll5JbGLMVzrv4yf4A==;UcPh895oY7rn/a6mUxWAEw=="
 ---
 

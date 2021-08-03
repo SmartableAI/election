@@ -119,6 +119,38 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Harris to focus on security, economic ties on SE Asia trip"
+    excerpt: "Vice President Kamala Harris will visit Southeast Asia later this month aiming to bolster U.S. engagement in the region in an effort to counter China’s growing influence"
+    publishedDateTime: 2021-08-03T13:04:00Z
+    webUrl: "https://omaha.com/news/national/govt-and-politics/harris-to-focus-on-security-economic-ties-on-se-asia-trip/article_086b458c-fe2e-53b6-98f9-74d77e851d81.html"
+    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/harris-to-focus-on-security-economic-ties-on-se-asia-trip/article_086b458c-fe2e-53b6-98f9-74d77e851d81.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/harris-to-focus-on-security-economic-ties-on-se-asia-trip/article_086b458c-fe2e-53b6-98f9-74d77e851d81.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/3a/63a614ea-bf6e-551b-b2b2-b7f795200e8c/610945c51fe16.image.jpg?resize=1024%2C699"
+        width: 1024
+        height: 699
+        isCached: true
+  - title: "Is Kamala Harris’s Popularity Level a Problem for Democrats?"
+    excerpt: "Much of the claim that Harris is deeply and increasingly unpopular doesn’t bear scrutiny, particularly coming from fans of less popular Republicans."
+    publishedDateTime: 2021-08-03T13:33:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/08/is-kamala-harriss-popularity-level-a-problem-for-democrats.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/08/is-kamala-harriss-popularity-level-a-problem-for-democrats.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/is-kamala-harriss-popularity-level-a-problem-for-democrats.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/0e2/9fd/dfdeae9771afff1a7a8953fcfffec0cac9-kamala-harris.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US Vice-President Kamala Harris will visit Singapore and Vietnam next month"
     excerpt: "Harris will be the first US vice-president to visit Vietnam, during a trip designed to strengthen ties with ‘two critical Indo-Pacific partners’."
     publishedDateTime: 2021-07-30T14:25:00Z

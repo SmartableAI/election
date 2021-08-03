@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-texas-house-special-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp"
 type: article
 quality: 190
-heat: 470
+heat: 490
 published: true
 
 provider:
@@ -248,6 +248,20 @@ related:
       - url: "https://assets.realclear.com/images/54/548489_5_.jpg"
         width: 750
         height: 495
+        isCached: true
+  - title: "Is Donald Trump Or Covid-19 Receiving More Attention On Television News?"
+    excerpt: "Which is receiving more attention on television news - Donald Trump or Covid-19? The timeline below shows total daily mentions of Donald Trump since the start of last year, showing that since May of this year he has maintained a relatively stable and high profile presence on television news,"
+    publishedDateTime: 2021-08-03T12:56:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/03/is_donald_trump_or_covid-19_receiving_more_attention_on_television_news.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
+    images:
+      - url: "https://assets.realclear.com/images/54/549550.png"
+        width: 2000
+        height: 930
         isCached: true
 
 secured: "xybC4+u7/n+ub4W4//il6uSSqV+EbSX4lIt8NKL5pTHIb/Xb4DBCynaCt/W52loeXwNjE1M/iL/Ql2dUQke12BDdJ3agv+WhHLxTejKhUMyaSVgKJekp6s+1T+HVsfItovH1GprDQOTy25cOgCTJvk7Q3sLM99Qji4lW0WwAYIvKmbAgU5PH3O0O7vryS5sO6AW3fk4HGJlNm2/UT45HrvZK7YabZGyb4s1YcnNvIwATloMXwXcLnnaUMkUfLalcKOaVyDa3JUgM2RVk5t+8kbASEopdRZS9SGNzV3KFCRrV4biBl4A2PA3HlNtCR7GE3lrEqLc6YdJR2617CvoOzGrqVLb2eZvSeWVVlUcvJiM=;IkatPUU3hH1MBxGhVvjeKw=="

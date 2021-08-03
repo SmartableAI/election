@@ -41,6 +41,22 @@ related:
         width: 500
         height: 357
         isCached: true
+  - title: "Why Joe Biden is such an elusive target for his critics"
+    excerpt: "First, whatever Joe Biden’s line on abortion, neither his pastor nor the Holy See support his exclusion. Second, and here the clergy will have to forgive a dip into earthly politics, they only served to highlight the president’s stalwart churchgoing."
+    publishedDateTime: 2021-08-03T12:23:00Z
+    webUrl: "https://www.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
+    ampWebUrl: "https://amp.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb70378cc-f219-44fb-a451-8db757e7160f.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "US Economy: Joe Biden Unveils New 'Buy American' Proposal"
     excerpt: "President Biden unveiled his new 'Buy American' proposal to ensure goods manufactured in the United States were at least 60% made in America."
     publishedDateTime: 2021-07-28T22:49:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/28/us-president-joe-biden-announces-plans-to-strengthen.jpg"
         width: 1024
         height: 654
+        isCached: true
+  - title: "GOP: Biden’s Policies Have Put Our Nation In Crisis"
+    excerpt: "We are a District made up of honest, hard-working, freedom-loving Americans who provide the fuel and fiber for this nation by hosting one of the most dynamic energy and agriculture sectors in the country."
+    publishedDateTime: 2021-08-03T13:00:00Z
+    webUrl: "https://www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html"
+    ampWebUrl: "https://www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html/amp"
+    cdnAmpWebUrl: "https://www-mymotherlode-com.cdn.ampproject.org/c/s/www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html/amp"
+    type: article
+    provider:
+      name: My MotherLode
+      domain: mymotherlode.com
+    quality: 75
+    images:
+      - url: "https://www.mymotherlode.com/wp-content/uploads/2014/01/1013955-BID-radio_mic_american_flag.jpg"
+        width: 500
+        height: 344
         isCached: true
   - title: "Biden touts 'Buy American' to boost US businesses"
     excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"

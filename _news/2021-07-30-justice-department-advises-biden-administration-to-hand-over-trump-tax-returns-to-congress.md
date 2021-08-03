@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -412,6 +412,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610200419-kyrsten-sinema-lah-dnt-ebof-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to provide update on vaccination efforts as highly contagious Delta variant spreads"
+    excerpt: "President Joe Biden on Tuesday will provide an update on his administration's Covid-19 vaccination efforts as the highly contagious Delta variant rips across the country, a White House official tells CNN.\n    \n"
+    publishedDateTime: 2021-08-03T12:38:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ANN0e-CQMPM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/biden-covid-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/biden-covid-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

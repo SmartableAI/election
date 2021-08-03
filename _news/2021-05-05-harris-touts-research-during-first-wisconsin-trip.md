@@ -229,6 +229,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Harris to Tackle Supply Crunches in Trip to China’s Doorstep"
+    excerpt: "The global semiconductor shortage and other supply chain troubles will be a focus of Vice President Kamala Harris’s trip to Southeast Asia later this month, where she also aims to shore up U.S. relations with countries at China’s doorstep."
+    publishedDateTime: 2021-08-03T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-03/harris-looks-to-ease-supply-crunches-in-trip-to-china-s-doorstep"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivR4kDOvDY9Y/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris heads to Guatemala to address immigration on first foreign trip"
     excerpt: "CBS News senior White House and political correspondent Ed O'Keefe reports on VIce President Kamala Harris' trip to Central America, her first overseas trip since taking office."
     publishedDateTime: 2021-06-06T15:50:00Z
