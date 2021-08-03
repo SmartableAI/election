@@ -140,6 +140,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden should credit Trump to ‘depoliticize’ COVID vaccines, ex-health secretary says"
+    excerpt: "Former Secretary of Health and Human Services Alex Azar also says President Biden “must find voices that will be trusted in conservative communities to explain the data and integrity of the"
+    publishedDateTime: 2021-08-03T18:25:00Z
+    webUrl: "https://nypost.com/2021/08/03/biden-should-credit-trump-to-depoliticize-covid-vaccines-ex-hhs-secretary-azar-says/"
+    ampWebUrl: "https://nypost.com/2021/08/03/biden-should-credit-trump-to-depoliticize-covid-vaccines-ex-hhs-secretary-azar-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/biden-should-credit-trump-to-depoliticize-covid-vaccines-ex-hhs-secretary-azar-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 143
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-trump-vaccine-0015.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sarah Sanders: Biden should credit Trump for development of safe, effective coronavirus vaccines"
     excerpt: "Arkansas Republican gubernatorial candidate Sarah Huckabee Sanders called on President Joe Biden Friday to apologize for casting doubt on the Trump administration's Operation Warp Speed last year, telling “Fox & Friends” it could make a difference in getting unvaccinated people onboard with the coronavirus shots."
     publishedDateTime: 2021-07-23T13:17:00Z

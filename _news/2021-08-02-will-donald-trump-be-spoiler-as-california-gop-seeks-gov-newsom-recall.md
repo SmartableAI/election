@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Recall election: Conservative radio host Larry Elder on Gavin Newsom, COVID and whether Trump lost in 2020"
+    excerpt: "Conservative radio host Larry Elder says even if he wins in his bid to replace Gov. Gavin Newsom he is under no illusion that California will become a “libertarian utopia.”"
+    publishedDateTime: 2021-08-03T19:49:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/08/03/recall-election-conservative-radio-host-larry-elder-on-gavin-newsom-covid-and-whether-trump-lost-in-2020/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/08/03/recall-election-conservative-radio-host-larry-elder-on-gavin-newsom-covid-and-whether-trump-lost-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/03/recall-election-conservative-radio-host-larry-elder-on-gavin-newsom-covid-and-whether-trump-lost-in-2020/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 72
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/08/California_Recall_Explainer_08571-1.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "rJiRgY8BcQCIDIWWm0z1Lw89ka6aU/iB4G/21X29vd632pIckgC6ki/9Bezl6loEd+XGTQrqcZCs/kqJvBbCENkd38wkoL1pm+m+ZV4mgSMrvuw6XiC9oMILowhLkiauleLOQUZv+2L5RWppad19ZcDC/nNbJp8Et2WOUHWzoT9jSoHxcgcvv7f1CwPU53MAbqotkH0lf3ohuEjEpJeq4dl83yqV07WbDFHsJv7mwoOeT1bsh7FW1v35Z0HAMQClvYUZGj5eto0RPyGy9uo6WuKw1Za6uU8+Uyu2gDHHDS3HFai8U/xGPSfLsKWfFc189dlRTzbykav0CDqIXCoYBzJaH4SMWVRu5XC5PQqAE3c=;41RNhkoryKJ/91bL6oW4pA=="
 ---

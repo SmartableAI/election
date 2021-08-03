@@ -338,16 +338,16 @@ related:
   - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
     excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
     publishedDateTime: 2021-07-27T22:58:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8d994f9fd3a5f86e3e0f7cdae62a267a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f1692ed174ff4526aa24fa4e2411e6f5/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8d994f9fd3a5f86e3e0f7cdae62a267a/HARRIS-VOTING.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/f1692ed174ff4526aa24fa4e2411e6f5/HARRIS-VOTING.jpg"
         width: 650
-        height: 433
+        height: 434
         isCached: true
   - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
     excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."

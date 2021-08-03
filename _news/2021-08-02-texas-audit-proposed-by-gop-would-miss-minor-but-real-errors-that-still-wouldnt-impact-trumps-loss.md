@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "InfoWars pundit ejected from Texas Rangers game for 'Trump Won' flag"
+    excerpt: "Two spectators, one of whom reportedly was a former personality on the right-wing radio show InfoWars, hung a banner that read “Trump Won, Save America” from the upper stands during a Texas Rangers game on Sunday."
+    publishedDateTime: 2021-08-03T19:25:00Z
+    webUrl: "https://www.houstonchronicle.com/news/houston-texas/texas/article/pro-trump-flag-texas-rangers-game-ejected-16360984.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/houston-texas/texas/amp/pro-trump-flag-texas-rangers-game-ejected-16360984.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/texas/amp/pro-trump-flag-texas-rangers-game-ejected-16360984.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/23/14/21312281/5/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "InfoWars pundit ejected from Texas Ranger game for 'Trump Won' flag"
     excerpt: "Two spectators, one of whom reportedly was a former personality on the right-wing radio show InfoWars, hung a banner that read “Trump Won, Save America” from the upper stands during a Texas Rangers game on Sunday."
     publishedDateTime: 2021-08-03T15:48:00Z

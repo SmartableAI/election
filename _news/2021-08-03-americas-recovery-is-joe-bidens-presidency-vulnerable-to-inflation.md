@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b8872a3d-8c49-4786-9a9e-6a13b0d00e90_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "US President Joe Biden meets Latino community leaders"
+    excerpt: "US President Joe Biden meets with Latino community leaders to discuss his economic agenda, immigration reform and the need to protect the right to vote in the State Dining Room of the White House in Washington,"
+    publishedDateTime: 2021-08-03T18:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9daa8c8e52c6061fd4c202bc0d671d07/US-President-Joe-Biden-meets-Latino-community-leaders/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
+        width: 650
+        height: 975
         isCached: true
   - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
     excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"

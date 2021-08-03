@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House press secretary says Biden set to speak about sexual harassment allegations against New York Gov. Andrew Cuomo"
+    excerpt: "White House press secretary Jen Psaki said President Joe Biden will address the findings of an investigation into New York Gov. Andrew Cuomo Tuesday afternoon, calling the sexual harassment allegations against the Democrat \"abhorrent.\"\n    \n"
+    publishedDateTime: 2021-08-03T19:16:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vnc96yXk9fc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/joe-biden-andrew-cuomo-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/joe-biden-andrew-cuomo-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803143109-joe-biden-andrew-cuomo-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "tvccpaFru4hG+SaTdkIKlk+trJtboh5IDn8jHRGB3xjCAYQStc/fAUqu/tBwfYh183N4nu8GCxehJ26iQB6wMDwZrr+HUqDSuJAfw2DrWplv8E/s9GLmCB03XZzfKjg9jtXD63O0W12U9TFoEBpV5CpNHIeQ90LzsWNhuvDtYtzmZjIJ+Cb9SghRqQYsAZGIfZ5jptw8I5J0RnxKqm75lma+mFfjrqR/2sCJqgJ1OjnFrgVLxmggYBuSsnUnsSbL94GcjvRDec7MGpZ9UHQZHhIW0rTtVO0bJtiqhZCclnnxaULo6J/xgKkFpCCkaoGhVj4Dr9mqOUL67M4WYPhEEscujiK5tlCsxIYJbZrxncM=;x/bhC6Wz7L7Dzwxm+Mla5g=="
 ---

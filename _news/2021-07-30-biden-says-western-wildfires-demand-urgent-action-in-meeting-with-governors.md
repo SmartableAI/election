@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governor
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governors/index.html"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/140623111103-va-building-dc-file-story-top.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "White House press secretary says Biden set to speak about sexual harassment allegations against New York Gov. Andrew Cuomo"
+    excerpt: "White House press secretary Jen Psaki said President Joe Biden will address the findings of an investigation into New York Gov. Andrew Cuomo Tuesday afternoon, calling the sexual harassment allegations against the Democrat \"abhorrent.\"\n    \n"
+    publishedDateTime: 2021-08-03T19:16:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vnc96yXk9fc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/joe-biden-andrew-cuomo-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/joe-biden-andrew-cuomo-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803143109-joe-biden-andrew-cuomo-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "gupqDUuSB0hfPyAGpmngMXVarzf7r12okvVChd2NVpSWSYA9Z0n0JP9uqejWhdUB/ne21EcbVy8bO2onW7VBdSzGhRQS3yW7riayiEzspCo1tMoDURa+KpMfMLjGBDJhl12OXQkmA+fd9G13q/1qegToWzI14GpWYQEKWNrJBGwl7GvjHA83aqjgaP9z1GkBHvx2faVfNRST9y39THGAqpWGPPigk1VFQjnMdyiexJnRSRTdIC6m46Pbi2qg7MEwbwJe+UkxUbsNQnWWcDHZ8nqPlontybVUmKEpBOT8fIh1ydVVzytL70TP2edUuEF3VfC3wMyMClabtPMs2PYkSaqu3SPh6fRT3TAIfas566Q=;eoGi7lXQRNLZY3ewnrEAPg=="

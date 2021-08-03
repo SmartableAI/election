@@ -447,6 +447,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Does Biden have the authority to extend eviction moratorium without Congress?"
+    excerpt: "The recent expiration of the federal eviction moratorium for renters has led to internal strife inside the Democratic Party, as progressive lawmakers argue President Joe Biden should do more to extend the moratorium, despite his demands for congressional action.\n    \n"
+    publishedDateTime: 2021-08-03T18:49:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/apbKK92bm9g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/biden-eviction-moratorium-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/biden-eviction-moratorium-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210731190615-eviction-moratorium-protest-0503-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to meet with key Democratic negotiator as White House presses to keep agenda on track"
     excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
     publishedDateTime: 2021-07-27T16:34:50Z

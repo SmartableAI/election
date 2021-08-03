@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/jd-vance-new-york-times-trump-voters-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet.amp"
 type: article
 quality: 121
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: Fox News
@@ -30,24 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "New York Times reporter deletes tweet calling Trump supporters ‘enemies of the state’"
-    excerpt: "A New York Times reporter deleted a tweet that called supporters of former President Trump “enemies of the state,” following a viral blowback online."
-    publishedDateTime: 2021-07-28T05:49:00Z
-    webUrl: "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/"
-    ampWebUrl: "https://nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/28/nyt-reporter-katie-benner-deletes-tweets-berating-trump-supporters/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 128
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/katie-benner-index-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "EJ6mCFYgzXRNeRuEZJxHPNr5eR0w5X8D2nbDlpF6kDPiCxnaKV4fmXbNmNI7zIMsngFmshu0dQsuKGdvGMpmQ2rkrkyZv8/eE5V0Y/uuYU8x/lJMmOxrihi6qKwJTOos9uuxKutriiY8S6dSMCSjqWmwSwIs0ouvW1ieE3SHifGnQ4as29yrnzYGuk73HQ7vwB4jo/+EeACKr8sSXq5IZ/MF5mE+yW+0luusVOWJXa4j5GUC9H5MUovtDq5h7709Vzc3ZU99PRq88c3gJO24B5iyhCltJ9zjehooCPoREGzLcMZKV3NXUE6NAZcfhjJPznbRp8CI6Yy0Wo9s/FyMsNa4FdG82fBBUALqoStsP4yItiZxEvHpQ6F84jdd3dccANZ8namHF5Qit20m6H3wt5fScE8Oi/ZdMSrF8OE+oaRTG4DtvzSejiWi5DTKyWZrC4BuvfpzULN0r464/vhLjVG6UJQ8MfuEoNejpXs4DCH2UwgS1OjvRJ/pYSLdhOjTbuacuawm3S6Xid3xqfJl7g==;vXai4ncZ2muP9gpwK0X9zg=="
 ---

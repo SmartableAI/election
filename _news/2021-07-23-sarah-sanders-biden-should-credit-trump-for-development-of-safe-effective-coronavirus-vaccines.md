@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden should credit Trump to ‘depoliticize’ COVID vaccines, ex-health secretary says"
+    excerpt: "Former Secretary of Health and Human Services Alex Azar also says President Biden “must find voices that will be trusted in conservative communities to explain the data and integrity of the"
+    publishedDateTime: 2021-08-03T18:25:00Z
+    webUrl: "https://nypost.com/2021/08/03/biden-should-credit-trump-to-depoliticize-covid-vaccines-ex-hhs-secretary-azar-says/"
+    ampWebUrl: "https://nypost.com/2021/08/03/biden-should-credit-trump-to-depoliticize-covid-vaccines-ex-hhs-secretary-azar-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/biden-should-credit-trump-to-depoliticize-covid-vaccines-ex-hhs-secretary-azar-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 143
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-trump-vaccine-0015.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "31rOK09zEkZf/q+YS//zGqFLjUTSLw0w3y29V4hF+HWRyQ33vq9hdSxDlxsRnuMYvBA1jPIWe93Utt+K0bHXK0jmlXPicMHjt3wjdrwoBRVUjp6kFzERTdWPLcr1UBB6VZaAVpQ3iTTtNn7LbA7Us8mZkh7uTA7qgZvo0vhnC4WC+k0s0LVbeYccuCmC1kpY+EdLeAMpNO9xh7MvDs8Mfq5J7EB2sadqItnqqZEeCJCOQC+7QxO7sJkDiTYteAfdQy9P5hA+PWK0WeQN5d/ihWIQ6XCgKZ0XuYuY2iZCRPWxd6DiZM1ABl6W0XBmNwjNmJQX2VTfoNSlddnr96U7dpveDfCPM3Npz0ZNgjGQdXQ=;q6C0B+jfo72Qq64lGq3y+Q=="
 ---
