@@ -2,9 +2,9 @@
 category: news
 title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
 excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
-publishedDateTime: 2021-08-02T19:07:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-61084cd78f089093df87233d"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-61084cd78f089093df87233d"
+publishedDateTime: 2021-08-02T18:52:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610847fc8f0811859febbb4d"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610847fc8f0811859febbb4d"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
 type: article
@@ -92,6 +92,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "KuNMrd2yFMdHCf4PJGkftHd59w+YJJMF7cI/L4k9I/jqeezkd4COuWqko9OmGIURDFQEbZ15SH0feMIUHLltKcuCcXYAafASuoIyJKIve39lNnh81reS/6kmll1lusytPyO9Z8XW6gyX5PMmxIQsAqC2PMrB2Hypr4cVqCOb91PXig0BfpTcJS0kKEwdDklzkNa+EliyT5wgKe5GepLZ4bj5/6T2UOhp9KVXs1fOEkRhN890KvS3NKXbMDIxgI8tx0djjba9bD5A8XhznLDaVBRp4AOseJmtO5cWWNXaxZ6sT0rM951GqsMTMNLQfGbJMMGXKJ/RGPzgxgtkvDN1liiSr47DHDx5q5VAtkumWbY=;UD0+dkap6IQsU9FnBjbAuw=="
+secured: "DxdGnWx2iGgHvVC48Y5Jr6DG+x+QOTwJ6G4Jh60oNmtHIJ2idaaJeJY6MVhjL8FwuREvJofeNaB2M1e0ExaxLjWNgkM4bGEV5XiXqs4kCLtVskiaepEciHRsGBHGS/OCEkukJDpxIDhf2K+DV/t8qro7GKGDjbKkbj7AdXnBdJhFZLv3ghamfv69cGUjZIRfNlhEGvu+jCYJtXk4m+dAZf+zGT9x5v5CPFFJ/w2+7L9w+l2rWv7DFcD4TRFMx7WmShoznS0dljBx3qUvs3gB8luevn6VD56gFka4iMCVxefG3nlLCKH5TGtg9JFrjwdP4vNRsuHYQ1wNebO7AemIa5s+JaniZ9ZsUt6CmasWjQ8=;h0i3P+mUNrS1b6/tNnrS9g=="
 ---
 

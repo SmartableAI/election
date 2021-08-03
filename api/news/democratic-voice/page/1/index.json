@@ -174,19 +174,19 @@
       "title": "'Down the drain’: Millions face eviction after Biden lets protections expire",
       "excerpt": "The federal eviction moratorium in place since September is set to expire Saturday, after the Biden administration refused to extend it and Democrats in Congress couldn't muster the votes to intervene.",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/california/story/2021/07/30/down-the-drain-millions-face-eviction-after-biden-lets-protections-expire-1389332",
-      "originalUrl": "https://www.politico.com/states/california/story/2021/07/30/down-the-drain-millions-face-eviction-after-biden-lets-protections-expire-1389332",
+      "webUrl": "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
+      "originalUrl": "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/bf/27/804f7024451d98754d95cb5b6ddd/210429-eviction-ap-773.jpg",
+          "url": "https://static.politico.com/40/99/4793f7c7413585b384ff270145fb/7-30-21-evictions1-ap-773.jpg",
           "width": 1160,
           "height": 773,
           "title": null,
@@ -196,9 +196,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T16:51:00-07:00",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
+      "publishedDateTime": "2021-07-31T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Politico",
@@ -296,7 +296,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 880,
+      "heat": 900,
       "tags": null,
       "images": [
         {

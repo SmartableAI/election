@@ -521,6 +521,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Stopping Kamala Harris’ liberal agenda"
+    excerpt: "Upon starting my campaign by launching an actual rocket with the liberal agenda into space, the left was quick to go on the attack."
+    publishedDateTime: 2021-08-02T18:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/2/stopping-kamala-harris-liberal-agenda/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/2/stopping-kamala-harris-liberal-agenda/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/2/stopping-kamala-harris-liberal-agenda/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/26/Biden_70330.jpg-ea4ca_c0-244-2931-1953_s1200x700.jpg?da986d962aacef537786e2ae76b05c264e001d7e"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft, seeks buyer for DC condo"
     excerpt: "The SoMa loft sells for $860,000; the Washington property, listed at $1.995 million, has two bedrooms and two bathrooms."
     publishedDateTime: 2021-05-03T16:07:00Z

@@ -218,6 +218,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump hitting the road again, sets Alabama rally for Aug. 21"
+    excerpt: "Former President Donald Trump will hold his next campaign-style rally in Alabama later this month, his political organization announced Monday."
+    publishedDateTime: 2021-08-03T00:34:00Z
+    webUrl: "https://nypost.com/2021/08/02/trump-hitting-the-road-again-sets-alabama-rally-for-aug-21/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 115
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-alabama-rally-606.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Why I'm Sure Trump Will Run for President in 2024"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-24T12:37:00Z

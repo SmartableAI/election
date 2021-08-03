@@ -1,14 +1,12 @@
 ---
 category: news
-title: "DOJ official tells Treasury Dept. to give Trump tax returns to Congress"
-excerpt: "A top Justice Department official on Friday told the Treasury Department to give copies of former President Donald Trump’s tax returns to Congress."
-publishedDateTime: 2021-07-30T18:21:00Z
-originalUrl: "https://nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/"
-webUrl: "https://nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/"
-ampWebUrl: "https://nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/amp/"
+title: "Trump hitting the road again, sets Alabama rally for Aug. 21"
+excerpt: "Former President Donald Trump will hold his next campaign-style rally in Alabama later this month, his political organization announced Monday."
+publishedDateTime: 2021-08-03T00:34:00Z
+originalUrl: "https://nypost.com/2021/08/02/trump-hitting-the-road-again-sets-alabama-rally-for-aug-21/"
+webUrl: "https://nypost.com/2021/08/02/trump-hitting-the-road-again-sets-alabama-rally-for-aug-21/"
 type: article
-quality: 135
+quality: 115
 heat: -1
 published: false
 
@@ -22,7 +20,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-johnsen.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-alabama-rally-606.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -156,6 +154,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DOJ official tells Treasury Dept. to give Trump tax returns to Congress"
+    excerpt: "A top Justice Department official on Friday told the Treasury Department to give copies of former President Donald Trump’s tax returns to Congress."
+    publishedDateTime: 2021-07-30T18:21:00Z
+    webUrl: "https://nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/"
+    ampWebUrl: "https://nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/30/doj-tells-treasury-dept-to-give-trump-tax-returns-to-congress/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-johnsen.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Has $102 Million in Political Cash as GOP Eyes Retaking Congress"
     excerpt: "Former President Donald Trump already has $102 million in political cash that he can wield as the GOP eyes retaking majorities in Congress next year, according to a Trump aide."
     publishedDateTime: 2021-07-31T23:46:00Z
@@ -204,20 +218,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump hitting the road again, sets Alabama rally for Aug. 21"
-    excerpt: "Former President Donald Trump will hold his next campaign-style rally in Alabama later this month, his political organization announced Monday."
-    publishedDateTime: 2021-08-03T00:34:00Z
-    webUrl: "https://nypost.com/2021/08/02/trump-hitting-the-road-again-sets-alabama-rally-for-aug-21/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 115
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-alabama-rally-606.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Real Reason Trump Keeps Telling the Big Lie"
     excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
     publishedDateTime: 2021-07-20T19:47:00Z
@@ -247,6 +247,6 @@ related:
         height: 495
         isCached: true
 
-secured: "r/TtjoZNG3KcehBv0Pz3KuVuvIqlufB1kmT+UgI539yWM52/R8hx+JStag+HEle10poyBzXrIry2YvvETHbn38glMTMV1RMgXirP4s2gQ2AKF0YHakdb5el6+a4oyxuqEPACKtdJ429whDEuM8kE6x6KEZI+NPM5rk0C2YMeHvSruYK+b30vTMOKV7mZd7zZ2JiW+0+zyU6+WoAVYVJODo28uhKWwdNxp5hPhr4zawxvvBIoGs/RMlGlKKpjnLBcpQ1VlkKd57T1C1oTKseWDb/cCwjzgjTCJaxmwl2npM3uoC2xxREfeox56lmoiouOkZa0rcIjSfQ9zzoNlowbBQyf17Cvvc1lLpLwHLmSxjLy974K4W5uuxc3IcND4h4N1ythJ3vEPO/3VlZ4zAreSsjzJGhLLXb4vgGOev1kGkO2CD9xdU/ajdIg1oH9iRahaJ7uv18ojQEcM+++ogRFfMG9FCmXbFpopvgH4NVRSRsPAk5tf7xlegKT4gAf9nGLZ9GbsHdfgN81xXF2Z4TDGw==;I8WnAXfkaSpYLjo4pvsNtQ=="
+secured: "iLlO9cvNM1sWN3JhGk1AVtZWlP2pV+HJYCl7VaheyRuvE8Z6L+9zoCz40DIb9ltamloduGcIUEa4L1Y31dIPxDdi09k5UL7O9W8b24ZiXDnF0iKu5vYwba+pRO9IDpqTVwhH3kxJWV+FSVdeQQ7b8SRVvnhK+KEOZX3fTrMVH0P3YkhOSprPA8WIa/mUWjI7jQSwW5D1Yepr8D/vpsJvGCXUDx+Q4VeuZn0LkeC2CNtb7ix5W8HY3nYdlmdGFMpLXbs9/pbcjAlmJXTvOEUm1oVziTKtOd3gYVF+Rq+3ICpJ37W/HZV6ExzdpiZx/TLKfhdhFVw8wf8AQFvpPIP1CEe8mbdNh0jgPNVvsjUEzCM=;m29T4lgUo9qj59/DXpYz2Q=="
 ---
 

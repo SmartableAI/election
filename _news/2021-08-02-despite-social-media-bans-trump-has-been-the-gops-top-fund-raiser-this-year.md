@@ -544,6 +544,22 @@ related:
         width: 1161
         height: 773
         isCached: true
+  - title: "Trump plans to fight the release of his tax returns to Congress."
+    excerpt: "Trump plans to fight the release of his tax returns to Congress, a lawyer for Mr. Trump said on Monday. The comments from the lawyer, Ronald P. Fischetti, came days after a legal opinion was issued by the Justice Department that said that the Treasury Department must turn over six years of the former president’s tax returns to congressional investigators."
+    publishedDateTime: 2021-08-02T22:42:00Z
+    webUrl: "https://www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/02/nyregion/02political-briefing-trump-taxes/02political-briefing-trump-taxes-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's tax returns must be released to Congress, Justice Department says"
     excerpt: "The opinion said the Office of Legal Counsel “went astray” in 2019 when it said the executive branch should closely scrutinize Congress’s stated justifications for the tax records."
     publishedDateTime: 2021-07-30T17:51:00Z
@@ -593,6 +609,6 @@ related:
         height: 3648
         isCached: true
 
-secured: "VwAvHyy4Bu7j0LHWW3fKN9RqXJE7GFFiLVvkE4Mrw7UYyq4MRRTHV+sNpuRL+KUk4cx2eRYcx0ln2/Y4aqGPY51G7IT03Wx0HGpd6If/+L75BkjNwmmwP7BD7BzQnzA5U+qDrvzOdQnU+B6l26J5vlgqAJeTV0+BBjOWrkeJ78Fbzy9bk0sHh9FTdOk/PWrIL/vCLe+XnMAR+LlLAoEFCGccbrUymAhGbBP0sbAE9yfmiCli/2YjjwBDinyZaC6MMRS1S0tVkNJ/iUHUBsnyGv7xvnbzeDTxX30MpTTgfbm8p4mJfOCJTDpAwHFaWU2E0yzgG4PbGEUgeTm+nI3PYeJ8pApo2KSDLpWyTA/2ZvY=;RpKJbt1+lpdO617RK5ca1w=="
+secured: "3iiY9sTTjf6boHFHhVVzbCaZJ9Ld3P8ESKcGClmj756T8cZdoFfq50vWURBbQP2E/LevK1KLoVT+Zjs28fzvgRqoTcKYlFf6BwhpdgUjbU8X05ntp1btBrVj5XP2IG6c2Mkzoc1P6Kt+VBEJsq+x6DqBk0zhM42C8fSwGCZ7UKPA05JSkim8swV5RWChlqIV3llhmf1YZoLS/f8z0GEjBV+H/wvLWo4LGk5/v1yQAph0bCMItS4YLevyFL0pEoXbZEshbW0aO9F7LVqK89SOhwUjVfBYI764/5Hq/rBApJn9bq6ac5cxaQK/+ApEU3hZk2gD9qdh0ocPwRU/eWfn+TH9VXeSSpWQTKMgmvpKTeP9HItIlW8M9qSGv7sve4VRsH9YnzipMD4+JhV/NNnuJKtD2qvtFYf9z8QJmB5uC/oHr7nEweD+md8MOaob0pzMM+/Ik3hCVdLoT/R2n1UMmkEwn0u0BJ0jzjrjxi/TY80wa6yDsqGjSr9WI/65Dk7mghOHNe0MkQU2LoqDzJMPgg==;dtjzTkMckPgk4HemB8Q3uQ=="
 ---
 

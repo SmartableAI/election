@@ -544,6 +544,22 @@ related:
         width: 1161
         height: 773
         isCached: true
+  - title: "Trump plans to fight the release of his tax returns to Congress."
+    excerpt: "Trump plans to fight the release of his tax returns to Congress, a lawyer for Mr. Trump said on Monday. The comments from the lawyer, Ronald P. Fischetti, came days after a legal opinion was issued by the Justice Department that said that the Treasury Department must turn over six years of the former president’s tax returns to congressional investigators."
+    publishedDateTime: 2021-08-02T22:42:00Z
+    webUrl: "https://www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/02/nyregion/02political-briefing-trump-taxes/02political-briefing-trump-taxes-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden to national Latino group: 'My administration will always have your back'"
     excerpt: "President Joe Biden addressed the nation's Latinos during a conference by UnidosUS, the nation's largest Latino advocacy group."
     publishedDateTime: 2021-07-26T19:53:00Z

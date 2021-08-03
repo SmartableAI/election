@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Jan. 6 select-panel Dems confident they can corral ex-Trump aides"
-excerpt: "But it won't be easy for them to shake off potential stonewalling, and their Capitol riot probe is still taking shape."
-publishedDateTime: 2021-07-29T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-webUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-ampWebUrl: "https://www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+title: "Trump plans to fight the release of his tax returns to Congress."
+excerpt: "Trump plans to fight the release of his tax returns to Congress, a lawyer for Mr. Trump said on Monday. The comments from the lawyer, Ronald P. Fischetti, came days after a legal opinion was issued by the Justice Department that said that the Treasury Department must turn over six years of the former president’s tax returns to congressional investigators."
+publishedDateTime: 2021-08-02T22:42:00Z
+originalUrl: "https://www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.html"
+webUrl: "https://www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.html"
+ampWebUrl: "https://www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.amp.html"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
-    width: 1161
-    height: 773
+  - url: "https://static01.nyt.com/images/2021/08/02/nyregion/02political-briefing-trump-taxes/02political-briefing-trump-taxes-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -528,21 +528,21 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Trump plans to fight the release of his tax returns to Congress."
-    excerpt: "Trump plans to fight the release of his tax returns to Congress, a lawyer for Mr. Trump said on Monday. The comments from the lawyer, Ronald P. Fischetti, came days after a legal opinion was issued by the Justice Department that said that the Treasury Department must turn over six years of the former president’s tax returns to congressional investigators."
-    publishedDateTime: 2021-08-02T22:42:00Z
-    webUrl: "https://www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/politics/trump-tax-returns-congress.amp.html"
+  - title: "Jan. 6 select-panel Dems confident they can corral ex-Trump aides"
+    excerpt: "But it won't be easy for them to shake off potential stonewalling, and their Capitol riot probe is still taking shape."
+    publishedDateTime: 2021-07-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/29/jan-6-dems-former-trump-officials-501361"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/08/02/nyregion/02political-briefing-trump-taxes/02political-briefing-trump-taxes-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/9b/6f/ed3e9fde471391260bd15bb13a01/20210727-jan6selectcommittee-getty-773.jpg"
+        width: 1161
+        height: 773
         isCached: true
   - title: "Trump's tax returns must be released to Congress, Justice Department says"
     excerpt: "The opinion said the Office of Legal Counsel “went astray” in 2019 when it said the executive branch should closely scrutinize Congress’s stated justifications for the tax records."
@@ -609,6 +609,6 @@ related:
         height: 3648
         isCached: true
 
-secured: "zyZF89VdfJE6jilZjzbm0VfswCoNsOUy9AmXMANT6jL03F6SbUBEEUHg/7Kt4m7VTZXlT9s42sJZ2JLlaLYg3gwn/OQ5Nikp/AscBPeuVH5kC6GuFkRNKY84pv2WLIXLOg5oRbA324KB6IVfsxJA/HTbje8dhlMINkiOXvFCSlGxQPHc0HJlgYPXAUniLaSkwUQUckoWOLemQdAo3Xecz4nIl0FMrRvpFvvyBFhNmJx8AbMSdJPqR6m29BpIPBDHXVJ5y3BlDU7++ouM2yeUDXvcVL9BDqao7AJ//tCBfAsq3l+faFI6GW/gt5LfaKkWDJR1UixaBee36z7blipHCE4hNwvYAjR+bOXIcg8Gb9g1Hu3VIlTBYm4bHftTQg8XJDEmFg/2a5f9hvJjU0Au3COpT8eLJDuDOTxYIPpsrRzbDAVeTyktMzSZCrZcFucBLio82QLDYQdHnLH6Mad1tDLOjauEktLU2bEzy0pSRVnWDyjAKDjTmn5ZhIuv0HYmYOa0bZkaI8mtspRO9W2inw==;goLdwxkXUEmw75FrT7Z4nQ=="
+secured: "7zeIKZ8O+EzDiKPluoDvrAFiqvYgpHvmW+JHz1ez0kysibruQ3cfB7Z1jeCXxe2B5NVMJX1Ho0CN7P7TkX977zqkPznyOB8J+OCqnlh9hf1/9C2l/SaAgmUJVLYNYOpynEgAhIhoi50WmPDgbeFX34Ai4M36u2x1FZjN3kdsGSn39Z/hIPhbIGEwjXrg6KX3ZRM4PFoNclaBkLVuhr2yQ0kS4vIksc1mW13KvQKpaMg6QG1ylviO40dZoxsJi5oigK0cbOoRHnC9tUJQVjg59A0zLH5Oi9+/ieDk+V2DrP3wyViE42QJFnsByxnWdCFlwNBSV/RRB1tQnPfVMgTJ/P6+qkIwZzErajLmdP5sJ/U=;nTXWHoqLAPiwdruQ9/ZYQQ=="
 ---
 

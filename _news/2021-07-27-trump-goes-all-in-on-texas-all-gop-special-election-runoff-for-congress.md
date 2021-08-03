@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-texas-house-special-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp"
 type: article
 quality: 190
-heat: 450
+heat: 470
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65e81360-4655-4e67-8b4c-f1a28d031291/0697d2d9-20fc-48ca-adfc-14baacbbc1da/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump hitting the road again, sets Alabama rally for Aug. 21"
+    excerpt: "Former President Donald Trump will hold his next campaign-style rally in Alabama later this month, his political organization announced Monday."
+    publishedDateTime: 2021-08-03T00:34:00Z
+    webUrl: "https://nypost.com/2021/08/02/trump-hitting-the-road-again-sets-alabama-rally-for-aug-21/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 115
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-alabama-rally-606.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The Real Reason Trump Keeps Telling the Big Lie"
     excerpt: "Michael D'Antonio writes that though the latest books on Donald Trump's presidency vary in style, they share one common theme relevant to America's immediate political future: Trump has an insatiable desire for attention and will continue to sink to whatever depths are necessary to keep the attention focused on him."
