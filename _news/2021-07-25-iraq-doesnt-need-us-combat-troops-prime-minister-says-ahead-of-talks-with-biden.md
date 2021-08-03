@@ -576,6 +576,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Despite social media bans, Trump has been the G.O.P.’s top fund-raiser this year."
+    excerpt: "Despite departing from office and being barred from the leading social media platforms, former President Donald J. Trump was the Republican Party’s most dominant fund-raiser in the first half of 2021 and ended June with a war chest of more than $100 million,"
+    publishedDateTime: 2021-08-02T14:02:00Z
+    webUrl: "https://www.nytimes.com/2021/08/02/us/despite-social-media-bans-trump-has-been-the-gops-top-fund-raiser-this-year.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/02/us/despite-social-media-bans-trump-has-been-the-gops-top-fund-raiser-this-year.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/despite-social-media-bans-trump-has-been-the-gops-top-fund-raiser-this-year.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/02/us/politics/02political-briefing-trump-fundraising/02political-briefing-trump-fundraising-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "+G+RGwCwi0tUXFCrYLHLQ/TF/aPwcIQAKPHNgfwsMOaLPo5cDhJdAxlyLQzkUDJ78JV7IAnczEuEts3EVjbcJkDomrzfQYcMP9R5me9HLp5gNXve7ee8cqUDOMnIFcKt7Wm4CLeRcih4d5iHTslBvK2sZCnKv+cHi1m/2SbO0E08Qt48/f0heqE5z8aw4BayvEkDLOyC3v2mPT2Zp/hX09i/MESDSUPzN3GpEmLF59vhyF2KDi9t9oob+W4FLl4e0yU57q2NufDTYSFKZCLdMfZcn0FA8ue9ootNCjN3Y3oOfGr03GyLnPTJmfnisNfXwTkP0P7q9jUq1K8f/zKjMi/p+wyFZE8nr/HnZOLqcbCndWGbI0t9hMkXIp1ycuVcC/9OHRT9awxTpWcigfT004VJOWj6oWLGucEQhrydKBw0zrkFDR55XTnJtBYj1PtnXhHVQEwQeO5+1y8mXadygg3gDFh25D2hailI8YDzFtaE8QV9c9GGhtxKAxhZG+6RYUn+AK2r9yLQGhsPwMJuGA==;Z2z/oYcTsEqrzEvOMC0JkQ=="
 ---

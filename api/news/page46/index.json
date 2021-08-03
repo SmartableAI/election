@@ -2,49 +2,6 @@
   "page": 46,
   "value": [
     {
-      "path": "_news/2021-05-04-irs-chief-counsel-under-trump-admin-joins-gibson-dunn.md",
-      "title": "IRS chief counsel under Trump admin joins Gibson Dunn",
-      "excerpt": "Gibson, Dunn & Crutcher on Monday announced it has tapped Michael Desmond, whose successful nomination to serve as chief counsel of the U.S. Internal Revenue Service was reportedly a personal priority for former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/gibson-tax-idUSL1N2MQ2GE",
-      "originalUrl": "https://www.reuters.com/article/gibson-tax-idUSL1N2MQ2GE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2MQ2GE",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MQ2GE",
-      "publishedDateTime": "2021-05-03T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-03-cheney-what-trump-did-is-a-line-that-cannot-be-crossed.md",
       "title": "Cheney: What Trump did 'is a line that cannot be crossed'",
       "excerpt": "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said on Monday her party cannot accept the \"poison\" of the idea that the 2020 election was stolen and should not \"whitewash\" the January 6 Capitol riot -- and Donald Trump's role in fomenting it.\n    \n",
@@ -1329,6 +1286,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-amtrak-became-my-family-biden-a-longtime-commuter-says-on-the-railroads-50th-anniversary.md",
+      "title": "‘Amtrak became my family,’ Biden, a longtime commuter, says on the railroad’s 50th anniversary.",
+      "excerpt": "The president has been called “Amtrak Joe” because of the years he spent taking the train between Washington and Delaware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/30/us/politics/30new-washington-briefing-BidenAmtrak/30new-washington-briefing-BidenAmtrak-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/us/politics/biden-amtrak.amp.html",
+      "publishedDateTime": "2021-04-30T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

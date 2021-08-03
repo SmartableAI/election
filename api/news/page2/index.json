@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-31-former-top-justice-dept-officials-notes-say-trump-asked-him-to-call-election-corrupt.md",
-      "title": "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\"",
-      "excerpt": "The House Oversight and Reform Committee released notes from acting deputy attorney general Richard Donoghue Friday.",
+      "path": "_news/2021-07-31-agency-trump-is-due-1m-tax-refund-for-chicago-skyscraper.md",
+      "title": "Agency: Trump is due $1M tax refund for Chicago skyscraper",
+      "excerpt": "An Illinois tax agency has ruled that former President Donald Trump is due a $1 million refund on the 2011 tax bill on his downtown Chicago skyscraper, but local officials are trying to block the refu",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
+      "webUrl": "https://abcnews.go.com/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
       "featuredContent": null,
       "highlight": null,
-      "heat": 431,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/297a2ce4-c8c2-414f-b43c-aaa933aa7c4a/thumbnail/1200x630/b4fd056bcbc7a3c7547a74f44a8105f6/cbsn-fusion-trump-org-expects-charges-to-be-filed-thurs-thumbnail-744929-640x360.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://s.abcnews.com/images/US/WireAP_f675273772e641d6a964e73ebdd1752f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "publishedDateTime": "2021-07-31T09:03:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
+      "publishedDateTime": "2021-07-31T09:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -445,6 +445,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-31-justice-dept-says-irs-must-give-trump-tax-returns-to-congress.md",
+      "title": "Justice Dept. says IRS must give Trump tax returns to Congress",
+      "excerpt": "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/VhQx2UqxW-UAnFNI9gPPPnBNLgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZD2KL25SNEXYSKVW22435JKHQ.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp",
+      "publishedDateTime": "2021-07-30T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-how-ashli-babbitt-went-from-capitol-rioter-to-trump-embraced-martyr.md",
       "title": "How Ashli Babbitt went from Capitol rioter to Trump-embraced ‘martyr’",
       "excerpt": "Babbitt was shot and killed Jan. 6 by a police officer as she and hundreds of others stormed the Capitol in an effort to overturn to the 2020 presidential election. In the months since, Trump and his allies have waged a fevered campaign to rewrite the narrative of one of the darkest days in the nation's history.",
@@ -561,7 +613,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 860,
+      "heat": 880,
       "tags": null,
       "images": [
         {
@@ -826,58 +878,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-sc-lawmaker-mounts-challenge-to-rep-tom-rice-says-trump-impeachment-vote-broke-trust.md",
-      "title": "S.C. Lawmaker Mounts Challenge to Rep. Tom Rice, Says Trump Impeachment Vote Broke 'Trust'",
-      "excerpt": "\"I think the people...deserve someone they can trust again, and I think I'm that person,\" state Representative Russell Fry said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645",
-      "originalUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1858741/russell-fry-challenges-tom-rice-primaries.jpg",
-          "width": 2500,
-          "height": 1669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1",
-      "publishedDateTime": "2021-07-30T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

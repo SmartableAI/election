@@ -859,6 +859,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-28-republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright.md",
+      "title": "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright",
+      "excerpt": "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10",
+          "width": 852,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-audio-shows-a-profanity-laced-voicemail-that-dc-officer-michael-fanone-got-from-a-trump-supporter-while-he-was-testifying-to-congress.md",
       "title": "Audio shows a profanity-laced voicemail that DC officer Michael Fanone got from a Trump supporter while he was testifying to Congress",
       "excerpt": "The DC police officer had told Congress on Tuesday that he was beaten unconscious and almost killed by Capitol rioters.",
@@ -1113,58 +1165,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-texas-voters-brush-aside-trump-endorsement-and-name-jake-ellzey-the-winner-in-a-house-special-election-in-texas.md",
-      "title": "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas",
-      "excerpt": "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

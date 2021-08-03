@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 860
+heat: 880
 published: true
 
 provider:
@@ -558,6 +558,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210726-joe-biden-al-1111-f3ade0.jpg"
         width: 2500
         height: 1406
+        isCached: true
+  - title: "Despite social media bans, Trump has been the G.O.P.’s top fund-raiser this year."
+    excerpt: "Despite departing from office and being barred from the leading social media platforms, former President Donald J. Trump was the Republican Party’s most dominant fund-raiser in the first half of 2021 and ended June with a war chest of more than $100 million,"
+    publishedDateTime: 2021-08-02T14:02:00Z
+    webUrl: "https://www.nytimes.com/2021/08/02/us/despite-social-media-bans-trump-has-been-the-gops-top-fund-raiser-this-year.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/02/us/despite-social-media-bans-trump-has-been-the-gops-top-fund-raiser-this-year.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/02/us/despite-social-media-bans-trump-has-been-the-gops-top-fund-raiser-this-year.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/02/us/politics/02political-briefing-trump-fundraising/02political-briefing-trump-fundraising-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Iraq doesn't need U.S. combat troops, prime minister says ahead of talks with Biden"
     excerpt: "Iraq’s prime minister says his country no longer requires American combat troops to fight the Islamic State group, but a formal time frame for their redeployment will depend on the outcome of talks with U."

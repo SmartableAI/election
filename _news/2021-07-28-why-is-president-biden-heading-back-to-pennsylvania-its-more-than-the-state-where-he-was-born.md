@@ -241,18 +241,18 @@ related:
       domain: modbee.com
     quality: 70
   - title: "Joe Biden’s infrastructure win overshadowed by new virus surge"
-    excerpt: "Joe Biden wagered his campaign and now his presidency on the premise that government itself could still work, even at a time of fractious political"
-    publishedDateTime: 2021-07-31T15:21:00Z
-    webUrl: "https://floridapolitics.com/archives/445016-joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
+    excerpt: "That surge imperils the nation's economic recovery and threatens his central promise to lead the U.S. out of the pandemic."
+    publishedDateTime: 2021-07-31T14:14:00Z
+    webUrl: "https://bangordailynews.com/2021/07/31/national-politics/joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
     type: article
     provider:
-      name: Florida Politics
-      domain: floridapolitics.com
+      name: Bangor Daily News
+      domain: bangordailynews.com
     quality: 55
     images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden-3.jpeg"
-        width: 1000
-        height: 667
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-6.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Why is President Joe Biden heading back to Pennsylvania? | Charlotte Observer"
     excerpt: "We’re the Keystone State,’ said Tom Wolf, the Democratic governor of Pennsylvania. ‘We’re a microcosm of the U.S. population. We’re old, we’re young, we’re big. And it’s the birthplace of Joe Biden.’"

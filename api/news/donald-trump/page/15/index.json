@@ -2,58 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-04-19-the-us-counties-lagging-in-covid-19-vaccinations-have-one-thing-in-common-trump-voters.md",
-      "title": "The US counties lagging in COVID-19 vaccinations have one thing in common: Trump voters",
-      "excerpt": "But in hundreds of counties around the country, vaccination rates are low, with some even languishing in the teens. The disparity in vaccination rates has so far mainly broken down along political lines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/vupPRWS9uJuXNtvMaqKGiBTxMgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XGTUB5W2POGVA4PKVIRGW235VI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-19T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-19-trump-shifts-focus-from-clintons-emails-by-praising-saddam-hussein.md",
       "title": "Trump shifts focus from Clinton's emails by praising Saddam Hussein",
       "excerpt": "CBS News' Major Garrett reports on Donald Trump's response to the FBI's decision over the Clinton email case - and his decision to change the subject.",
@@ -1590,6 +1538,59 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-vice-president-mike-pence-pleaded-with-the-acting-defense-secretary-to-clear-the-capitol-as-pro-trump-rioters-overran-the-building-report.md",
+      "title": "Vice President Mike Pence pleaded with the acting defense secretary to 'clear the Capitol' as pro-Trump rioters overran the building, report says",
+      "excerpt": "Vice President Mike Pence, who was in the building when the Capitol riot began, made an urgent call amid the chaos. \"Clear the Capitol,\" Pence told Acting Defense Secretary Christopher Miller, the Associated Press reported. Pence was in a \"secure location ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60726ada4943790018bb1ce1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp",
+      "publishedDateTime": "2021-04-10T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
       ]
     }
   ],

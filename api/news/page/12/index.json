@@ -2,62 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-07-11-trumps-false-election-claims-persist-at-conservative-gathering-in-texas.md",
-      "title": "Trump's false election claims persist at conservative gathering in Texas",
-      "excerpt": "As Texas' battle over voting rights continues to unfold during the special session in Austin, the outrage stoked by former President Donald Trump's false 2020 election claims was still on full display Saturday a few hours north at the major gathering of conservative activists where Trump will be welcomed",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gx5S_UfqJcs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gx5S_UfqJcs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 469,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210710190016-01-cpac-2021-0709-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html",
-      "publishedDateTime": "2021-07-11T06:45:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-11-new-january-6-bodycam-videos-show-police-trying-to-help-a-trampled-trump-supporter-being-brutally-beaten-with-flagpoles-and-batons-by-mob.md",
       "title": "New January 6 bodycam videos show police trying to help a trampled Trump supporter being brutally beaten with flagpoles and batons by mob",
       "excerpt": "New video footage from police bodycams released Friday of the January 6 Washington riot shows officers dragged into a mob and beaten.",
@@ -1342,6 +1286,63 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-mr-pence-lost-it-new-book-details-vps-fight-with-trump.md",
+      "title": "'Mr. Pence lost it': New book details VP's fight with Trump",
+      "excerpt": "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CtxyWf8Z_nI/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CtxyWf8Z_nI/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709090520-george-conway-newday-07092021-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/07/09/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/09/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn",
+      "publishedDateTime": "2021-07-09T12:21:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
       ]
     }
   ],

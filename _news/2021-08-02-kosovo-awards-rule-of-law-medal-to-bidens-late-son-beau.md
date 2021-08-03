@@ -294,6 +294,22 @@ related:
         width: 1200
         height: 788
         isCached: true
+  - title: "CDC can’t stop evictions, as President Biden calls on states to act"
+    excerpt: "The White House said the CDC was “unable to find legal authority for a new, targeted eviction moratorium” and asked that states and local governments put in policies to keep renters in their homes."
+    publishedDateTime: 2021-08-02T22:56:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-cdc-biden-evictions-20210802-c3p7mli3qbhqlcs7a3qbi4uzua-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-cdc-biden-evictions-20210802-c3p7mli3qbhqlcs7a3qbi4uzua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-cdc-biden-evictions-20210802-c3p7mli3qbhqlcs7a3qbi4uzua-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/y_0k0_UnVGSIM4svd8aib5mZBgo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KV477AQEUNEG5M4SB32FFYQKK4.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Senators unveil bipartisan infrastructure package, a key part of Biden’s agenda"
     excerpt: "After much delay, senators unveiled a nearly $1 trillion bipartisan infrastructure package, launching what is certain to be a lengthy debate over President Joe Biden’s big priority."
     publishedDateTime: 2021-08-02T17:41:00Z
@@ -382,6 +398,17 @@ related:
     provider:
       name: Lexington Herald Leader
       domain: kentucky.com
+    quality: 55
+  - title: "CDC can’t stop evictions, as Biden calls on states to act"
+    excerpt: "The White House said Monday that the Centers for Disease Control and Prevention was “unable to find legal authority for a new, targeted eviction moratorium” and asked that states and local governments put in policies to keep renters in their homes."
+    publishedDateTime: 2021-08-02T22:58:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/02/business/cdc-cant-stop-evictions-biden-calls-states-act-3/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/02/business/cdc-cant-stop-evictions-biden-calls-states-act-3/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/02/business/cdc-cant-stop-evictions-biden-calls-states-act-3/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
     quality: 55
 
 secured: "vGOVU/xol/ATCOgXw+Uw+i+BcaUIlHUn98kZLkbhb6rEbk/tQKTzZ1KJDP4vrJ3ReXxtDNHuyDXZEjjuzqOOGibHuyN0X3Xb4KL3/tyjIwdysMOL4QjRIcNn0FVxpGa9KDx9gITbqMj4KSomU7Gpw2vrNA1580lSTYRplDLKNasHU7MZ24KN8KNh0MPzzJ7eLSms44siTxXMAT/03IxcQgSNcJb22EOQsj90M7kXZOINymfgBLX/AlMb3LQFophXAb9p0BvSmg8mANQjzdCWdAr1QCsEOsrM6l9fvCtdgRGj1KipBnB4zWae+4/halxHK53s0t1Zwr46jNUlPMcmeRBNGhvcfDuornL2AHPES3hGN3e7jkVIM9jCESI2ezxGF7arHobWLdP84Q4B5kQxNS/qqiGbzFgqrF7NhQd4j1d7mCeRZnBcIJcO4N7HKM2jNkoASBzqqsL4Gy2yPdIvfSPpXd3t0hDdCN0FUUvHeRx/JpPT6/zvuKcFqmGdQxrXRwPQD4ajMDIrj490hzZi4A==;xD9eArfKvwXJTyULi0ObnQ=="

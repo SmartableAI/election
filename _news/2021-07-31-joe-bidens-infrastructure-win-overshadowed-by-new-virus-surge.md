@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Joe Biden’s infrastructure win overshadowed by new virus surge"
-excerpt: "Joe Biden wagered his campaign and now his presidency on the premise that government itself could still work, even at a time of fractious political"
-publishedDateTime: 2021-07-31T15:21:00Z
-originalUrl: "https://floridapolitics.com/archives/445016-joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
-webUrl: "https://floridapolitics.com/archives/445016-joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
+excerpt: "That surge imperils the nation's economic recovery and threatens his central promise to lead the U.S. out of the pandemic."
+publishedDateTime: 2021-07-31T14:14:00Z
+originalUrl: "https://bangordailynews.com/2021/07/31/national-politics/joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
+webUrl: "https://bangordailynews.com/2021/07/31/national-politics/joe-bidens-infrastructure-win-overshadowed-by-new-virus-surge/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Florida Politics
-  domain: floridapolitics.com
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden-3.jpeg"
-    width: 1000
-    height: 667
+  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-6.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -311,6 +311,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "tR4V3GgeAQfvH3sDPlWOpvFad1cb7jwuYoKhBW3AorzORi3tl3v87ofitESRVQcY7Ju/emA7TXYTte4XMInf6ocyDG6BMxp/pnVPR3wn36+Mpq125K3OPB9dj3Z4Kr0hgcMwuhUds3sdxq+V7VBIQ+8ubMnsy3ZvcRVoovI2huthEAGWsijJWo/Nn3bqrA1h9XZ+6OiWmAzVi88Sh0cqSARGmeu1tXXptSbq7svIyDGDHopxrXKpxb6xZ8B4HxUSvUsR8uzCY1kMe4nlzzJKrhkqddAmq7bkX2TDYy72LJGmbn0yHbmK5U2RAAcrPUmgWYhAynGWOsPjFnkHxLRB02DyGGo7WpFNy3YEUWgjlIs2xLhxc1Dmr9aG9ubxRlgHnYpafRErEgLn8AT2yvJJo5n4RM8kplD5Hyn18xSyHrRlr1w2rBtCT1/9n9qeKuMD0iTGtMQHS0TxMVM4fz74BREMS0EPvV+eaJtlKrN0bn8pQmEGkWTcXRSZvyr2f2uabG2EEE6tbU1ORW57IVbefg==;P8F5kollvESNDpNHPpmtTA=="
+secured: "U29UjQngDaurRJRb2TpB0Tbzm7kjvKr5u+PotnoiLZwsW+Nx9Yaoi4pycElbU0gihRSY0oF1NQ/O+/85QpvH0qLt/knH9gq5AeHxrgzcaUi4rh98Cda6LImd5vyZtJDHyop5Wwf0SVcIn6rya1qNiFKWVfebSVwxHz5Fo7Ca4vwu3jKjLRYvxTq43Hdfe2yPscgcDvvTGOAxkqFni0NxrjLgmyGgt7EGTR0OqmJF6HtwXZg/fBwoJdiCeo9dAoKDen2rLoJu5tNwyy9xF3fKiSEDlKRFM9Yv0uum/xMopBdpBgVXGOK7UFYapZoHvFDTSPqThvqeyI3DxCAZdbIlbNn8PpDGRku6SR8Z2j2hk7Y=;jCaSyU8fOcKtlb2UkS42hw=="
 ---
 

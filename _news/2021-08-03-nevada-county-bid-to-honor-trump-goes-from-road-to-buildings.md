@@ -2,19 +2,19 @@
 category: news
 title: "Nevada county bid to honor Trump goes from road to buildings"
 excerpt: "Lawmakers in a rural Nevada county who decided 3-2 last month not to name a road for former President Donald Trump now are considering putting his name on their court, jail and sheriff’s office. Lyon County commissioners have scheduled debate Thursday on a bid to name the Justice Complex in Yerington after Trump,"
-publishedDateTime: 2021-08-02T21:40:00Z
-originalUrl: "https://www.ctpost.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-webUrl: "https://www.ctpost.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-ampWebUrl: "https://www.ctpost.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+publishedDateTime: 2021-08-02T22:40:00Z
+originalUrl: "https://www.chron.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+webUrl: "https://www.chron.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+ampWebUrl: "https://www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
 type: article
 quality: 75
 heat: 75
 published: true
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 336
     isCached: true
 
-secured: "ECCc8AQ3y8rE+ClPtsHL1LTPi8fVBFk8TrFsybw6pYBRhXD1/px50MLVZSCvc8lQQKXil0oJmAorjOrn0cyyi9zR6GTwsRuhj+DvhhMpxeSfM93qJDn9sIcnpYyKWInsLksBfct0Yiu2FEcQp0LlIhBz9Gt+mtoBOabu/0r5Kja3j4VxIa0R45f4OXyIwArpS4glh7C3MSBbskpDwDGxzpvSeYLIa5M/ly+cTtXEW9CUGwsDfMlJVmgl6Y8q5PSstwEesI9iI6UyKYrv/VTKsx6eECy8w10MGOfSQr2YSDJg8pJrXIjzeo5VDTAiNUKfVNs+UIMXBvAYdqwfLAoARwDEKYmvdMvmjKJqPIEaCiQ=;v6f5rLpK49rXoXPAcGgzuw=="
+secured: "m3KBbNL6DTdLtPhySQgfECxSCZURJbNIRHzxCoik+CNyv8r1/+t9p2VJXPNJUW08AfDj4odfmXgF71d2comkmkzBkrTR/0LyU85QgF5M0Y4WvGjddrN0tO1zRoHJJq1qQgROxYeXwv+gmAaxkQcQT+lHsKJrq/xquXuv9V+WULdEgI9XMjot49DL8LUrEOIauQ5ZtoacM7o9IomJUoUnovsYyFBYmNJmhZhhAO27/Vyb3CFqNrkfNTIaFVe5xgBL2bCOLNc4iU3bV8CH7yqnbw+OyFjVWwMajWI+j4iqqpjBDcsK6zOY7+O7hJZO8UPkynuSt3iAzZ/pgiqg5Yp4wiz8f8yRIWqeewE6bdGdB1I=;WoGvmWwIcU/WSF5unuIqMw=="
 ---
 

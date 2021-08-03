@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-pelosi-eviction-ban-kavanaugh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pelosi-eviction-ban-kavanaugh-squad-democrats.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0123102a-a43b-40d9-bf4e-eaaff098fada/e15bf332-a693-4741-b3c0-9a967d85a612/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "PBS' Yamiche Alcindor lobbies Biden to extend eviction moratorium despite Supreme Court ruling"
+    excerpt: "PBS journalist Yamiche Alcindor called for the Biden administration to unilaterally extend the eviction moratorium against fears of a Supreme Court backlash."
+    publishedDateTime: 2021-08-02T22:49:00Z
+    webUrl: "https://www.foxnews.com/media/yamiche-alcindor-lobbies-biden-extend-eviction-moratorium-scotus"
+    ampWebUrl: "https://www.foxnews.com/media/yamiche-alcindor-lobbies-biden-extend-eviction-moratorium-scotus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/yamiche-alcindor-lobbies-biden-extend-eviction-moratorium-scotus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74e56eda-375c-4101-a9f3-324be02bfe0e/34369108-f858-4525-a4f9-3556412e89f1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
