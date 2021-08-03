@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nevada County Bid to Honor Trump Goes From Road to Buildings"
-    excerpt: "Lawmakers in rural Nevada who decided 3-2 not to name a road for former President Donald Trump last month now are considering putting his name on their county court, jail and sheriff’s office."
-    publishedDateTime: 2021-08-02T18:36:00Z
-    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-08-02/nevada-county-bid-to-honor-trump-goes-from-road-to-buildings"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "rtmdyKXaCx0pIESWWUMJsgGfuypREPjaHc54BwXX67lH8ePrgUfgw7xXqUq5glLXk/DHz0AemDYOklpCJVTmBihk87A6PuZxAsGOT2pwaqeBMlX7nxucVGi7EM0muAnCqMK44mFmhvqL7EI6g5IUia7IXy9Tr1fuPDTt8F5CJWU5AyijBSUYFhiAf7xI3//sn0YwVaqCe4fMf0KcwwDJuEaIGFVhLcDevHZ+dEXFfxzN6qMpDdw42NPMBSngt22cvXKouV2CFMOhPCKBzKht28GjT0P9OwyLeCpmBPmNiSJlr2kBi1k+3d9ewfw2J1rEyInk9h1IgfjLTg7xqP/rVHzq6PIrAG5LyyCpwl7nBU+isc/KDztkQ2R/mgMVPbIgUTpDcuNgy7DnKVkim+izEfRxbpp6nKjTExnxpW/NR2XyrRWgPxGtG1/vAqj7/1txXeigEJtctc4atRof5qiWZvB/CFtDD0NPiEA/WC3N0EYg/J4l1zcKWAi0zcNZZ5ptKkAeGelGUsW35dHH5Xf+Zg==;DWFTm/tdkHRBL7IvxTAx/Q=="
 ---

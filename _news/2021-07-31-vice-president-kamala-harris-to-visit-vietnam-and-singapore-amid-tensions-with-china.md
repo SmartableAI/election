@@ -293,6 +293,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Kamala Harris approval rating: VP falls 46 percent in local polls"
+    excerpt: "US Vice President Kamala Harris may have made history as the first woman and first person of color to get elected to the position. However, Harris also faces an uphill battle among the public as her latest approval"
+    publishedDateTime: 2021-08-03T07:42:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-approval-rating-VP-falls-46-percent-in-local-polls-1614199"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 55
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202108035df91932050250868_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
     excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
     publishedDateTime: 2021-07-27T22:58:00Z

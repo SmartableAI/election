@@ -31,19 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Officer: Trump 'helped create this monstrosity'"
-    excerpt: "In testimony before the panel probing the attack on the U.S. Capitol, a police sergeant blasted former President Donald Trump's description of the scene as \"a loving crowd\". (July 27)"
-    publishedDateTime: 2021-07-27T18:28:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/"
+  - title: "Ex-Illinois Governor, Who Trump Freed from Jail, Files Lawsuit to Run for Office Again"
+    excerpt: "\"The issues are very clear,\" former Illinois Governor Rod Blagojevich said to reporters Monday. \"It's about right to vote and it's about due process.\""
+    publishedDateTime: 2021-08-02T22:31:00Z
+    webUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491"
+    ampWebUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/24e97548-973a-41c4-a28a-d6a8d389859d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://d.newsweek.com/en/full/1860656/rod-blagojevich.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
+  - title: "Nevada county bid to honor Trump goes from road to buildings"
+    excerpt: "Lawmakers in a rural Nevada county who decided 3-2 last month not to name a road for former President Donald Trump now are considering putting his name on their court, jail and sheriff’s office. Lyon County commissioners have scheduled debate Thursday on a bid to name the Justice Complex in Yerington after Trump,"
+    publishedDateTime: 2021-08-02T22:40:00Z
+    webUrl: "https://www.chron.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "VlK7RHoYN2edbFLMGIGSUbgW49SNoCJ6TjxcQGQcuZRBq0K7bH4FUfu16AnfGESQcDp5W+AWOdaaLMLdWom8Rqt4jIkEPHeHLjTmmqDgrWtvSNbfm0ZwWMuQXnNsvWqC0gcRrPjKiai6mIo1wZrlh7g7oQkKZSrYRrQ6kYhaq7hPoRYGI6HRZeUCc5pMIdXYZgZ25pnFH6fbEhzNc18avYxFWU181m13rcrhieNOMxeQFDfVWHuKsvkOWAfVlpqU+lHQ6+zfPjE7eZ9bLo+P1J3vKkixOn+7WS4c9o5l6ezlDQ2l9srvd6y8Qxwlw80wcPYU62HKJtLBKCECpsIa+YWpO/YiygHUwrSSyREXBweyWEH+mKn8xzG+7tF5JZSLuZSWFV5hH7WXnY7udY5t4vvVugTlQWoieREOKJzz5PkGUXqtt1M3RwzPqtv2YgeeNW7f8veWxR70aJ49fFv/7amfit6PJqlEVUoh3e1bc9Ub8/C5iE/lH3k02QhxwjVtsJQMhkb0+Stckm2R4Mg6BQ==;UlV6qVnce82k8idKQB8fEQ=="

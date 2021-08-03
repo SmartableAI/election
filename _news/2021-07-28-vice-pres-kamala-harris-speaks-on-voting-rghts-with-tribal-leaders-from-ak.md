@@ -303,6 +303,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Kamala Harris approval rating: VP falls 46 percent in local polls"
+    excerpt: "US Vice President Kamala Harris may have made history as the first woman and first person of color to get elected to the position. However, Harris also faces an uphill battle among the public as her latest approval"
+    publishedDateTime: 2021-08-03T07:42:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-approval-rating-VP-falls-46-percent-in-local-polls-1614199"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 55
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202108035df91932050250868_th_1024x0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
     excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."
     publishedDateTime: 2021-08-01T22:12:00Z

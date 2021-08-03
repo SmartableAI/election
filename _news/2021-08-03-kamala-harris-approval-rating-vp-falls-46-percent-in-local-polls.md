@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Kamala Harris slammed as she causes confusion over mask mandate after demanding reporters cover faces"
-excerpt: "KAMALA Harris was criticized for sending mixed messages about the mask mandate after demanding reporters cover their faces at the White House. Harris ordered journalists to mask up on Tuesday an"
-publishedDateTime: 2021-07-28T13:01:00Z
-originalUrl: "https://www.the-sun.com/news/3366328/kamala-harris-mask-mandate-reporters-white-house/"
-webUrl: "https://www.the-sun.com/news/3366328/kamala-harris-mask-mandate-reporters-white-house/"
-ampWebUrl: "https://www.the-sun.com/news/3366328/kamala-harris-mask-mandate-reporters-white-house/amp/"
-cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3366328/kamala-harris-mask-mandate-reporters-white-house/amp/"
+title: "Kamala Harris approval rating: VP falls 46 percent in local polls"
+excerpt: "US Vice President Kamala Harris may have made history as the first woman and first person of color to get elected to the position. However, Harris also faces an uphill battle among the public as her latest approval"
+publishedDateTime: 2021-08-03T07:42:00Z
+originalUrl: "https://www.econotimes.com/Kamala-Harris-approval-rating-VP-falls-46-percent-in-local-polls-1614199"
+webUrl: "https://www.econotimes.com/Kamala-Harris-approval-rating-VP-falls-46-percent-in-local-polls-1614199"
 type: article
-quality: 60
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: the-sun.com
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/ad-kamala-harris-comp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1200
-    height: 800
+  - url: "https://s1.econotimes.com/assets/uploads/202108035df91932050250868_th_1024x0.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -247,6 +245,22 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Kamala Harris slammed as she causes confusion over mask mandate after demanding reporters cover faces"
+    excerpt: "KAMALA Harris was criticized for sending mixed messages about the mask mandate after demanding reporters cover their faces at the White House. Harris ordered journalists to mask up on Tuesday an"
+    publishedDateTime: 2021-07-28T13:01:00Z
+    webUrl: "https://www.the-sun.com/news/3366328/kamala-harris-mask-mandate-reporters-white-house/"
+    ampWebUrl: "https://www.the-sun.com/news/3366328/kamala-harris-mask-mandate-reporters-white-house/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3366328/kamala-harris-mask-mandate-reporters-white-house/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 60
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/ad-kamala-harris-comp.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Harris to visit Singapore, Vietnam, focus on economic ties"
     excerpt: "Vice President Kamala Harris will visit Singapore and Vietnam next month on a trip focused on strengthening economic ties and celebrating America’s cultural connection with the Indo-Pacific"
     publishedDateTime: 2021-07-30T14:50:00Z
@@ -288,20 +302,6 @@ related:
       - url: "https://www.straitstimes.com/s3/files/styles/x_large/public/articles/2021/07/30/yq-kamalah-30072021.jpg?itok=ZQh5xyWi"
         width: 763
         height: 509
-        isCached: true
-  - title: "Kamala Harris approval rating: VP falls 46 percent in local polls"
-    excerpt: "US Vice President Kamala Harris may have made history as the first woman and first person of color to get elected to the position. However, Harris also faces an uphill battle among the public as her latest approval"
-    publishedDateTime: 2021-08-03T07:42:00Z
-    webUrl: "https://www.econotimes.com/Kamala-Harris-approval-rating-VP-falls-46-percent-in-local-polls-1614199"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 55
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202108035df91932050250868_th_1024x0.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
     excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
@@ -449,6 +449,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "1zODLqBxg1R/tjMYAIwFMe6PkJ9qP09c4M1GymtQiUoSWACjhew+Sn8B1BZVFnlPqWA/PESJwFVkXq49r9NgK+dWHNqIlw1NHWxUPVgK5OIwFtZ76x788+VyVuM992BlbrmmSthKGQD42GwG/MQhxR4cunPHUIhgddXsNcjckdtZxiG1h9yDrE0ccKZEUroqhvM8TfR/smvE6FZEd283o7Xjdnms94wgukvPFaJS/9k+ge7TnevxfxMBGCH6Kq4rqJw5OC9U8DeFcYuCvgSippsOuhA9Jts+9Avg6uZiFjJgyco4tHBOaE6b5bs8NsGFwJKpw4tt3oA2pLcpJRDWBHdIQfXJnhi3k4EI34u/2e/l5hFEnznxaPY6O7GqFlL7B09569Z2OGcJCCL3j9ocIuhrY/PZlInH+z/YUf7Y58O10gwQzvVrelWG7JrTKhs80uzcH1J+9bISTUtmWMidOEE1mHCJDzUYGowrv2TYUd9AQ+prs9PFnIFNjjQKJimy+9Uz7FU7acT3P4rT4KT9Pw==;KRGyhhXBZ4D3X2IpJKWwMQ=="
+secured: "EbIuK/kdd4iD1waq+IylR9heczvtSiZi2RO9TsDS7PkFtTKJ/I9f/afP3XWTJtjynKfrof1XxPg8/BDzHqKU2I1IvCpCExjswIzvpkyFOA42DOn8oRmqfMyd45D1Y/FQua3m/lKidGugUSMMdB1t8Iv/1mg0CQxe9Cbg5Wfaj/HqucEUu++IQ4X5cz90jJiqpvM4JGezDMyfg0MJHHDEgMzkaYLzyamVsAo1Zz9fDtULcX/jRl7V3PmyWQ87QYXeEH2PjKqDjXu6TrVmNS1VD90ENYc6q3EvzKCoTmE+UKzs6oY7LAX9lRplRkjv2bkk+qlx/VJw5Ton56lpDBNb+xmIfaJC842wZflw8r0zDfE=;8iP/2ZBVgYRy2crs7VwVoA=="
 ---
 
