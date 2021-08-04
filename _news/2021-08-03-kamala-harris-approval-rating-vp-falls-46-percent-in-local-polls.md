@@ -397,6 +397,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Harris to focus on security, economic ties on SE Asia trip"
+    excerpt: "Vice President Kamala Harris will visit Southeast Asia this month aiming to bolster U.S. engagement in the region in an effort to counter China’s growing influence globally. In an early preview of the goals for her trip to Singapore and Vietnam,"
+    publishedDateTime: 2021-08-04T05:03:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/aug/04/harris-to-focus-on-security-economic-ties-on-se-asia-trip/882180/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 55
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/08/04/199045067_199045067-4202e263d1b74e11ac5dad6d1504b9e1181431516_t1070_hdb08d3fc9086af4bdae0246194328e474bdbaea7.jpg"
+        width: 1070
+        height: 731
+        isCached: true
   - title: "Kamala Harris to push back on China's South China Sea claims"
     excerpt: "The US vice-president will focus on defending international rules in the region during her Aug 22-26 Asia trip."
     publishedDateTime: 2021-08-04T01:19:00Z
@@ -414,16 +428,16 @@ related:
   - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
     excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
     publishedDateTime: 2021-07-27T22:58:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/2bd02af0f29694b7cb978e8edd538da2/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/fa4baa391ff1941571c4e042df917a5a/HARRIS-VOTING.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/2bd02af0f29694b7cb978e8edd538da2/HARRIS-VOTING.jpg"
         width: 650
-        height: 433
+        height: 434
         isCached: true
   - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
     excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."

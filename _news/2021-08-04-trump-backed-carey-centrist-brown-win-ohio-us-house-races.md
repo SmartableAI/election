@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Trump-backed Carey, centrist Brown win Ohio US House races"
-excerpt: "Mike Carey, a coal lobbyist backed by former President Donald Trump, beat a bevy of Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown"
-publishedDateTime: 2021-08-04T03:28:00Z
-originalUrl: "https://www.djournal.com/news/nation-world/trump-backed-carey-centrist-brown-win-ohio-us-house-races/article_646af4b3-872d-5be0-b805-3a63cf4e062c.html"
-webUrl: "https://www.djournal.com/news/nation-world/trump-backed-carey-centrist-brown-win-ohio-us-house-races/article_646af4b3-872d-5be0-b805-3a63cf4e062c.html"
+excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
+publishedDateTime: 2021-08-04T05:47:00Z
+originalUrl: "https://www.sunherald.com/news/nation-world/article253236008.html"
+webUrl: "https://www.sunherald.com/news/nation-world/article253236008.html"
+ampWebUrl: "https://amp.sunherald.com/news/nation-world/article253236008.html"
+cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/article253236008.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Biloxi Sun Herald
+  domain: sunherald.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/3/3c/33ceaa60-25e6-586e-855e-f17f3dd40ed6/6109a7a3847aa.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
-    isCached: true
 
 related:
   - title: "As Trump Claims Victory in Ohio, Progressive Democrats' Influence Takes a Hit"
@@ -57,22 +53,6 @@ related:
         width: 760
         height: 538
         isCached: true
-  - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
-    excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
-    publishedDateTime: 2021-08-03T10:19:00Z
-    webUrl: "https://www.dispatch.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
-    ampWebUrl: "https://amp.dispatch.com/amp/5454883001"
-    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/5454883001"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/21/USAT/e7258ef3-99e5-4513-87fd-73d0a5ecb6b3-AP_Trump_Politics.jpg?auto=webp&crop=3523,1982,x0,y179&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump-Backed Candidate Wins Republican U.S. House Primary in Ohio"
     excerpt: "Former President Donald Trump's endorsed candidate Mike Carey won a crowded primary contest on Tuesday for the Republican nomination to a seat in the U.S. House of Representatives from Ohio's 15th district,"
     publishedDateTime: 2021-08-04T01:13:00Z
@@ -82,7 +62,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
+    excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
+    publishedDateTime: 2021-08-03T10:19:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 32
 
-secured: "45PIWB6eErIrk89sQ8ep27RQmRFvJkGGuey58nGZx9l3BIwZrTsIYina9s8NMvj542rwJoYF6NAG65VdYINZuKYq1BiijU/Hbolz6f3ZHk/8UMt4Cbu90YZKq31bNp2eganyif2Trs+enWdBrEIjcJ5A3oFrg3KHZ9LLr2dWve+6jLRBtUPOH7peJEyLQujeFd9ftgSQxGnTivpjXfzyg+pJCSIaAWFZmWFbnB7PAD1a22d+Fj4GfkM6OCVv/sdE2u8UgosufJ/g8l8jCI18xd4oeY5L82HrRY/K+GKfjq37G5WV7G3tdx089/jlOuHADA1FLcANkC1LbWM5nGvjb2yLNycRiNgtoBDDLUTkQ/o=;34WJ7lmuMgMZuIxseq1FZw=="
+secured: "j2GdQ/yqtRmZXYnTaHAZpEyg3m09KaF1suN+d7se+0qUnfTp+kMgMZi6l9YFi1rcg4OpHcQ7jQuSyZdPMGXxq4ldxenL5eU9YWqWu95O9jFAG7YssqTkCsCVzvp64lm48SofD6IXnSd3nt6PTpC2FJeciIcPrBOLKUrmDRHHXDKEEtuOMjLbPmv4yaqTvws/9Aq194NFQO+zbn9H/RkzdHyKeDEvQEDHsNf/OMPMnlGulV/Z9W5DcGgiPcDpgza6kruHENLDn8sd7F65vzf3hykzuYmZWm49BMhVO2iSCBb/uardRxBjR1DuQSDaGfp3iw4ZyKmrg3YkufMvj7nyu8X5pgFuMPORfDAgZnaD6/A5x3b8b0U9LNNNgX5BSM+4SUFnp/XMTAZxuZqmUobX8/VKe9inhD0BGdSostX4rn3MuTwSMQbZPl+N1r4SRqi2KJB8cuCBqScCIA8wxGr96oQ1ZjE9IEmJTffh7YZmpNiFJc0cTbYP6Bzr4ZPtLspAuL+RCsu/+rQJT9wVN2YWnQ==;4xvwIhK2//DO4qp5ARn8Iw=="
 ---
 

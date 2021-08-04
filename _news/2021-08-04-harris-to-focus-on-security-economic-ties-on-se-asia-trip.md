@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Where in the World is Kamala Harris? | Opinion"
-excerpt: "Kamala Harris is not an effective politician. The Biden team is keeping her out of sight because she would do nothing useful to build support for the administration or its latest initiative."
-publishedDateTime: 2021-07-29T10:30:00Z
-originalUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148"
-webUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148"
-ampWebUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1"
+title: "Harris to focus on security, economic ties on SE Asia trip"
+excerpt: "Vice President Kamala Harris will visit Southeast Asia this month aiming to bolster U.S. engagement in the region in an effort to counter China’s growing influence globally. In an early preview of the goals for her trip to Singapore and Vietnam,"
+publishedDateTime: 2021-08-04T05:03:00Z
+originalUrl: "https://www.newstribune.com/news/national/story/2021/aug/04/harris-to-focus-on-security-economic-ties-on-se-asia-trip/882180/"
+webUrl: "https://www.newstribune.com/news/national/story/2021/aug/04/harris-to-focus-on-security-economic-ties-on-se-asia-trip/882180/"
 type: article
-quality: 125
-heat: 905
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: News Tribune
+  domain: newstribune.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://d.newsweek.com/en/full/1857513/vice-president-kamala-harris.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://media-cdn.wehco.com/img/photos/2021/08/04/199045067_199045067-4202e263d1b74e11ac5dad6d1504b9e1181431516_t1070_hdb08d3fc9086af4bdae0246194328e474bdbaea7.jpg"
+    width: 1070
+    height: 731
     isCached: true
 
 related:
+  - title: "Where in the World is Kamala Harris? | Opinion"
+    excerpt: "Kamala Harris is not an effective politician. The Biden team is keeping her out of sight because she would do nothing useful to build support for the administration or its latest initiative."
+    publishedDateTime: 2021-07-29T10:30:00Z
+    webUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148"
+    ampWebUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1857513/vice-president-kamala-harris.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris' Immigration Plan Promises to 'Pivot Away From What Does Not Work'"
     excerpt: "\"The strength and security of the United States depends on the implementation of strategies like this one,\" Vice President Kamala Harris wrote in her plan."
     publishedDateTime: 2021-07-29T15:42:00Z
@@ -401,20 +411,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Harris to focus on security, economic ties on SE Asia trip"
-    excerpt: "Vice President Kamala Harris will visit Southeast Asia this month aiming to bolster U.S. engagement in the region in an effort to counter China’s growing influence globally. In an early preview of the goals for her trip to Singapore and Vietnam,"
-    publishedDateTime: 2021-08-04T05:03:00Z
-    webUrl: "https://www.newstribune.com/news/national/story/2021/aug/04/harris-to-focus-on-security-economic-ties-on-se-asia-trip/882180/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 55
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/08/04/199045067_199045067-4202e263d1b74e11ac5dad6d1504b9e1181431516_t1070_hdb08d3fc9086af4bdae0246194328e474bdbaea7.jpg"
-        width: 1070
-        height: 731
-        isCached: true
   - title: "Kamala Harris to push back on China's South China Sea claims"
     excerpt: "The US vice-president will focus on defending international rules in the region during her Aug 22-26 Asia trip."
     publishedDateTime: 2021-08-04T01:19:00Z
@@ -589,6 +585,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "soRZzgIHIjwWMmVEjBrzC2u9DhdXCM+4JugDw940gnb+fzFaUw3xdiAaxa98/fQ4tVG05MyygZ4tk4CVGKXyC2MlsLRzS0/2QDe2SX+VgjnGWULjX6LPnVpYzs5Cf+ZIZcRlMgCN4vvXJdykduzxmnvJXFcjuXlGrpKTExMBpX19kmY50fwGIzl9VuqmKQyZ6r9CjIZNHLDep7XHZXEARF7+j5cf7oL6ntvuY/b6mZnjrSqnVixY4zcElNMgoTivQrPJZeFKlBvGeuviR2qyHXAhuoPjf3FAvMq0CFNl1CLfBgt0/9w6fZ26wAWUnygpRSKjuFyqsfvLJZoEgyzAL2ySDf99IN/opysKQc2gDd8JU4N0QIZoACRzqoC8fGyslNv4XQT93Ew26f2toVxIllar4P6CWOHTAfKpCShNjKDwmqr4qeQPADQniGGm5K78458YkP5zcdcHmsEnwy5FxOlE++wReYoeIbrKciKLrh2KLgqzovPlvFV958uO26HJC8uTvYmmIJZGSi705fYKLQ==;BnDhvZafBT217Hd9p4+Dfg=="
+secured: "w6yJ3+2s8b0o+GsYxnx1zyevL2rYYnDKzOVbkqZmkBTnli3P+/VfX0B76xo+B6ir0WDUT3mk8F3A1BBsOy8oRXkdZOWVvnWm1oC8nSJCCcGAoM0U/Z4D11KGV989mX5Hu/4lqSoRKyoGtf4U6GxJlIx8GbXd2g7DrHl+XOkmUAf3uE5pU+Qh2/3O1pO1lqXN+GRKeG7Or69qz8fsGgslADYWH72GybfRWhNIEoJ7I5cLgeseSx2hSk1FCabd2khYClYISjIt95tzu68BWl8FRv/C0ose3dJsYRKqB3uyr8JgA77t9VpxkvHD5bmubyoXVeWwTUyBGDzoM4chMpLVaIsXUHgAN8I55p6jSp70MtM=;+9s4Y1Qy7ZHDmvWiM3Oa2Q=="
 ---
 

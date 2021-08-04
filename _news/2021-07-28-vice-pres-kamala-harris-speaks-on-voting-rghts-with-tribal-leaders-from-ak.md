@@ -3,8 +3,8 @@ category: news
 title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
 excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
 publishedDateTime: 2021-07-27T22:58:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/2bd02af0f29694b7cb978e8edd538da2/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/2bd02af0f29694b7cb978e8edd538da2/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
 type: article
 quality: 53
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/fa4baa391ff1941571c4e042df917a5a/HARRIS-VOTING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/2bd02af0f29694b7cb978e8edd538da2/HARRIS-VOTING.jpg"
     width: 650
-    height: 433
+    height: 434
     isCached: true
 
 related:
@@ -411,6 +411,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Harris to focus on security, economic ties on SE Asia trip"
+    excerpt: "Vice President Kamala Harris will visit Southeast Asia this month aiming to bolster U.S. engagement in the region in an effort to counter China’s growing influence globally. In an early preview of the goals for her trip to Singapore and Vietnam,"
+    publishedDateTime: 2021-08-04T05:03:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/aug/04/harris-to-focus-on-security-economic-ties-on-se-asia-trip/882180/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 55
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/08/04/199045067_199045067-4202e263d1b74e11ac5dad6d1504b9e1181431516_t1070_hdb08d3fc9086af4bdae0246194328e474bdbaea7.jpg"
+        width: 1070
+        height: 731
+        isCached: true
   - title: "Kamala Harris to push back on China's South China Sea claims"
     excerpt: "The US vice-president will focus on defending international rules in the region during her Aug 22-26 Asia trip."
     publishedDateTime: 2021-08-04T01:19:00Z
@@ -571,6 +585,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "JVExO66Zx9Sa/Oea4br/xaxmLoqzjT2qiKWZ8ytmrzh8gHyu5Pa88JVcjJMINcnRB5qZptBvRt6vHkOQ3KBHfHORpieWjGn+EvGWhSJpNq+GzMP0BD5uZeT+LQeeuAzSc3LIJ1VYr7zF19VaIaid/xR3Td1Gi32p3CLdB1btjbke/jAkDfPvLSYw3lIMQrtSMw8oV03Y2Z7OU+wZ7Iq54s70C4EMecJRVKyWr9ESd4ncpSlSdQ7jJq0+pu4yqGfA7k9YPBeiqXPHjZi3REZMFoZmWA7XEe3RRS2LSeJCPRon5QLq2TYUhUpGl4TcpWGnYsNUv2CehBfq9a9X7flqytJcwc6Yr/GCcWZNvVHOjxk=;E8yRz2IJdmdesfEFt1hdxw=="
+secured: "ifrhUp9klR4jo7PKpMp/s1buaiu2Mr2hGvb+Tkkt5Ml5TUJUMiCEj2fKz6GqnQvdASmuGaYq4nH1Lx/ZNMipdA1BpuhEKYYVkgSeZ+3UDWxT1wOeGVOzFBTZ9UZKsGt90MI1ENhmT/Ps4v6GOFuIiy2QO32e3OACVK0w6TpFaQgAyqzzOmZy1j53dOXAacQohzP5GxXMFXObFHhuqGpQDXjBobiUnai9mFfYFXHv575x1MjTG2n2GX4FgR/gxEUPJQfb0TLQyvWHU98usUWn4g2uwDC4oKMQT8P8HdwUShR/x+q1DxdQIQMZYKtE/OjdnoPDyc9bEDWdrqj0V9o0szb1kHTE6Ug+e+rpRIvOJNc=;p0b5xgPF6DnhqHRUHo91Nw=="
 ---
 
