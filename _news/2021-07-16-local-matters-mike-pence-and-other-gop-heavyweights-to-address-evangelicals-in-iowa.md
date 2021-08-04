@@ -32,7 +32,7 @@ related:
   - title: "Mike Pence Remarks at Iowa Family Leader Summit"
     excerpt: "Former Vice President Mike Pence delivered remarks at the Iowa Family Leader's Annual Leadership Summit. He touched on support for law enforcement, critical race theory, and protecting religious freedom."
     publishedDateTime: 2021-07-21T16:52:00Z
-    webUrl: "https://www.c-span.org/video/?513458-3/mike-pence-remarks-iowa-family-leader-summit#!"
+    webUrl: "https://www.c-span.org/video/?513458-3/mike-pence-remarks-iowa-family-leader-summit"
     type: article
     provider:
       name: C-SPAN

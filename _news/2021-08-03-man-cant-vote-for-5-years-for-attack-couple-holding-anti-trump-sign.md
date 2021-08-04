@@ -112,6 +112,22 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 85
+  - title: "Gavin Newsom can connect recall to Trump supporters in official voter guide, court says"
+    excerpt: "Gavin Newsom can describe the recall as a Republican-led effort in California’s official statewide voter guide, a Sacramento judge said in a tentative ruling on Wednesday. The decision is a win for Newsom,"
+    publishedDateTime: 2021-08-04T17:52:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article253253898.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article253253898.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article253253898.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/d9e362d0-bb85-43d9-ba92-012db463a80f/f80cca56-bc37-474e-8c68-4c36b3aa661c/1280x720/match/image.jpg"
+        width: 1121
+        height: 720
+        isCached: true
   - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
     excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
     publishedDateTime: 2021-07-23T23:38:00Z

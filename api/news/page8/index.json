@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-21-tom-brady-joe-biden-play-political-football-at-white-house-super-bowl-celebration.md",
+      "title": "Tom Brady, Joe Biden play political football at White House Super Bowl celebration",
+      "excerpt": "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/",
+      "originalUrl": "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/",
+      "publishedDateTime": "2021-07-21T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-former-trump-adviser-tom-barrack-pleading-not-guilty-to-acting-as-uae-agent-attorney.md",
       "title": "Former Trump adviser Tom Barrack pleading 'not guilty' to acting as UAE agent: attorney",
       "excerpt": "Barrack, who served as Trump’s 2017 inaugural committee chair, was arrested and charged on Tuesday with being an agent of the United Arab Emirates between April 2016 and April 2018.",
@@ -1279,49 +1322,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday.md",
-      "title": "Former SF Giants star Hunter Pence debuting as TV color commentator on Sunday",
-      "excerpt": "Pence has kept himself busy with various projects and adventures since the day he hung up his spikes last season and on Sunday, the former Giants star announced his latest pursuit. Pence will serve as the color commentator alongside play-by-play broadcaster Dave Flemming for the Giants’ series finale in St.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday",
-      "originalUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/02/BNG-L-GIANTSFEST-0209-1.jpg?w=1024&h=669",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday/amp/",
-      "publishedDateTime": "2021-07-18T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

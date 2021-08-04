@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 1000
+heat: 1020
 published: true
 
 provider:
@@ -606,6 +606,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/08/02/nyregion/02political-briefing-trump-taxes/02political-briefing-trump-taxes-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The Exodus of Expertise Under Trump"
+    excerpt: "Hundreds of scientists and policy analysts left the government during the last administration. That’s a problem for President Biden’s climate agenda."
+    publishedDateTime: 2021-08-04T16:19:00Z
+    webUrl: "https://www.nytimes.com/2021/08/04/climate/nyt-climate-newsletter-trump-science.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/04/climate/nyt-climate-newsletter-trump-science.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/04/climate/nyt-climate-newsletter-trump-science.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/26/climate/00cli-braindrain2/merlin_191225358_b9f1cb6b-e3e8-4ead-9296-459fa0f50acd-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump's tax returns must be released to Congress, Justice Department says"
     excerpt: "The opinion said the Office of Legal Counsel “went astray” in 2019 when it said the executive branch should closely scrutinize Congress’s stated justifications for the tax records."

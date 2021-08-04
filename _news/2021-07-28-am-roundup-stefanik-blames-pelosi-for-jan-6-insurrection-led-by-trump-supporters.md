@@ -579,6 +579,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Despite his endorsed candidate’s loss, Donald Trump claims victory in North Texas congressional race"
+    excerpt: "Donald Trump on Wednesday described the defeat of Susan Wright, the candidate he endorsed in the special election for Congressional District 6, as a"
+    publishedDateTime: 2021-08-04T17:32:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/08/04/despite-his-endorsed-candidates-loss-donald-trump-claims-victory-in-north-texas-congressional-race/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/04/despite-his-endorsed-candidates-loss-donald-trump-claims-victory-in-north-texas-congressional-race/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/04/despite-his-endorsed-candidates-loss-donald-trump-claims-victory-in-north-texas-congressional-race/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 60
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/7jq8Rm4VFiOhWUpIgTvIUx3iBR0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/Q2ZSVPSX7JDZDMK5VZNABG4WYQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kim Janey clarifies references to slavery and Trump in response to question about vaccine passports in Boston"
     excerpt: "The acting Boston mayor says she has no plans for a New York City-style vaccine mandate for restaurants, gyms, and other indoor venues."
     publishedDateTime: 2021-08-03T21:53:00Z

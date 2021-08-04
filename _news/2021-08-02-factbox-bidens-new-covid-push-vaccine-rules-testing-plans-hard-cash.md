@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
 type: article
 quality: 124
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
+  - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
+    excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
+    publishedDateTime: 2021-08-04T15:52:00Z
+    webUrl: "https://bangordailynews.com/2021/08/04/politics/half-of-maine-counties-could-soon-be-covered-by-joe-bidens-new-eviction-moratorium/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/22OhioStreet060420_NAW2-1.jpg"
+        width: 1024
+        height: 640
+        isCached: true
 
 secured: "7Ot/bpt7Y3P0xNsbEBOLZTDPm4YyVqFgoPiZuHsFB+Kr2PHmO7dk73ku11xOgWFVJfS4iwV4g7PD3VPZ5yIiKXfjiFEPqdcCP+n2iVOeUAagGL2yfhWKoUz2a1PHbW7mluvmaD3sI3REL9xEbe+2gaGK2826d3v4yAJ5LYkuIzrplwBQ70dslu6nTkZKZGF2O6U6cGYshjW1hhrjmG64XpSFzUaI/zh7FI3l5qxPwJ9II1+oRXupEFlLV9rXHV571pb1hrqtfx3EkEXjXsXYGmwvDm0MM9aOkHQIFR5A5OMrXSktul4eIMRqJcfujUUZ6BjyF/TkfbnPZ4lK2Mxe75XnCnltmrAurQX00CyLbIM=;2TKKd8+nZpYTg8JohLh9iw=="
 ---

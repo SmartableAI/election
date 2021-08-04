@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-29-911-group-requests-meeting-with-biden-in-push-for-saudi-arabia-documents-release.md",
+      "title": "9/11 group requests meeting with Biden in push for Saudi Arabia documents release",
+      "excerpt": "A 9/11 group has requested an in-person meeting with President Biden as the nation will this fall mark 20 years since the terrorist attacks, and families of victims still search for answers. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibj4KT3AEig/9-11-group-meeting-biden-saudi-arabia-documents-release",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibj4KT3AEig/9-11-group-meeting-biden-saudi-arabia-documents-release",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c68fb5de-0035-4ff2-8af1-6fcdcf63d7cd/90dd0e28-dda5-4817-aa86-64d185ac347e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/9-11-group-meeting-biden-saudi-arabia-documents-release.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/9-11-group-meeting-biden-saudi-arabia-documents-release.amp",
+      "publishedDateTime": "2021-07-29T12:14:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-biden-blm-nominee-called-to-wage-war-on-overpopulation.md",
       "title": "Biden BLM nominee called to 'wage war on overpopulation'",
       "excerpt": "Tracy Stone-Manning, the president’s nominee for BLM director, wrote an essay published by the High Country News in February 1991 on how to preserve the grizzly bear population in the US.",
@@ -1547,62 +1603,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-empty-town-hall.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-empty-town-hall.amp",
       "publishedDateTime": "2021-07-22T06:13:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-estimates-when-fda-will-fully-approve-covid-19-jabs.md",
-      "title": "Biden estimates when FDA will fully approve COVID-19 jabs",
-      "excerpt": "President Biden said Wednesday night that his “expectation” is that the COVID-19 vaccines being used in the U.S. under an emergency use authorization should be approved by the Food and Drug Administration by the fall.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9p0MGVybb6M/biden-estimates-fda-covid",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9p0MGVybb6M/biden-estimates-fda-covid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/vaccine_mask_istock.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T02:33:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

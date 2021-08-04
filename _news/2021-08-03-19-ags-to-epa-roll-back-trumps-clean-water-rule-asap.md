@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/litigation/19-ags-epa-roll-back-trum
 webUrl: "https://www.reuters.com/legal/litigation/19-ags-epa-roll-back-trumps-clean-water-rule-asap-2021-08-03/"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Trump push for faster but wasteful dishwashers headed for rinse cycle"
+    excerpt: "President Joe Biden's Energy Department said it planned to reverse the Trump-era changes, which weren't supported by manufacturers."
+    publishedDateTime: 2021-08-04T16:59:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2021/08/04/trump-push-faster-but-wasteful-dishwashers-headed-rinse-cycle-tdn/5484955001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 35
 
 secured: "t4Ux8Z5bC7whzGxUxFbwbqZRavY9vp2m5JZwTym4awNB28xrJsXIGAnTy5gSEA9+ZxaiORciiHUOrPfg6ulo1fYK7+/mAlcVcsMOSRp2+nRxKaXldwfovyUN+TmbOFJytw7xlFE3IvGlWgTzRt4cKKMcx6jTjGGWst41dju4iU3072jh8ID7vb0H2nUXfqA9AovUPAla1t/BMrtObO1bbuqUdDXwYNMTEEVLA3TeqRo5m1ToxuXJ7Man1BwTOCLV3pzoFIi3ryX+w8WzQEl8RWFqQvgJWDX5iqJbZX/Q2ktINlfYfxE+Dq29ffdZpAX5u+xmvVJhE5wa4oo7BGVQjyBHd+/0xbSHOxjedIQEFJw=;xslcMM2YdTC7r1K1Tb80xQ=="
 ---

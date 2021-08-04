@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-co
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -115,6 +115,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/03/PDTN/a30fdcb2-4d55-4130-a6a6-c46011fa9e91-Mark_Anthony_Ulsaker_booking.jpg?auto=webp&crop=977,549,x311,y505&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Gavin Newsom can connect recall to Trump supporters in official voter guide, court says"
+    excerpt: "Gavin Newsom can describe the recall as a Republican-led effort in California’s official statewide voter guide, a Sacramento judge said in a tentative ruling on Wednesday. The decision is a win for Newsom,"
+    publishedDateTime: 2021-08-04T17:52:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article253253898.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article253253898.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article253253898.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/d9e362d0-bb85-43d9-ba92-012db463a80f/f80cca56-bc37-474e-8c68-4c36b3aa661c/1280x720/match/image.jpg"
+        width: 1121
+        height: 720
         isCached: true
   - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
     excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"

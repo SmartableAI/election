@@ -432,6 +432,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden to announce new eviction ban due to COVID spread"
+    excerpt: "The Biden administration will announce a new 60-day eviction moratorium that would protect areas where 90% of the U.S. population lives."
+    publishedDateTime: 2021-08-04T17:55:00Z
+    webUrl: "https://www.newsobserver.com/news/article253214793.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article253214793.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article253214793.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/f9f31e34-3a02-410c-8cb9-a9861bd8215e/f8ee1dac-e7db-460c-ac52-9de660aa28d7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Joe Biden directs Pentagon to plan for mandatory COVID-19 vaccines"
     excerpt: "In a rebuke of Biden's annoucement, U.S. Rep. Cathy McMorris Rodgers called any effort to mandate a vaccine an overreach by the White House.  A spokesman confirmed that her criticism included mandatory COVID-19 vaccines for members of the military."
     publishedDateTime: 2021-07-30T03:36:00Z
@@ -497,14 +513,14 @@ related:
   - title: "President Joe Biden Delivers Remarks on COVID-19 Vaccinations"
     excerpt: "President Joe Biden answers questions from reporters following remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
     publishedDateTime: 2021-08-03T21:40:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/ea41e22888bc414f648f835656c044c6/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/44d2e5f5577424cb3f1277b9f4abf0af/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/ea41e22888bc414f648f835656c044c6/BIDENCORONAVIRUS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/44d2e5f5577424cb3f1277b9f4abf0af/BIDENCORONAVIRUS.jpg"
         width: 650
         height: 433
         isCached: true

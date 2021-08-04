@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on COVID-19 Vaccinations"
 excerpt: "President Joe Biden answers questions from reporters following remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
 publishedDateTime: 2021-08-03T21:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/ea41e22888bc414f648f835656c044c6/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/ea41e22888bc414f648f835656c044c6/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/44d2e5f5577424cb3f1277b9f4abf0af/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/44d2e5f5577424cb3f1277b9f4abf0af/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/ea41e22888bc414f648f835656c044c6/BIDENCORONAVIRUS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/44d2e5f5577424cb3f1277b9f4abf0af/BIDENCORONAVIRUS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -430,6 +430,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden to announce new eviction ban due to COVID spread"
+    excerpt: "The Biden administration will announce a new 60-day eviction moratorium that would protect areas where 90% of the U.S. population lives."
+    publishedDateTime: 2021-08-04T17:55:00Z
+    webUrl: "https://www.newsobserver.com/news/article253214793.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article253214793.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article253214793.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/f9f31e34-3a02-410c-8cb9-a9861bd8215e/f8ee1dac-e7db-460c-ac52-9de660aa28d7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Stimulus check update: President Joe Biden leaves door open to 4th payment"
     excerpt: "Some lawmakers are pushing for a fourth round of coronavirus stimulus checks. So are more than 2 million Americans."
     publishedDateTime: 2021-06-04T16:51:00Z
@@ -509,6 +525,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kkrkGtQl78m9x78yqTHnC16T5977+WHUj5OsA/VpDYMibJRab8CF8Mw5FeLTlqYF4y/zUYh+oMMLy5A8cuMpPW81+DGnf4uXWXVLxYjLxpQuZK8GWsRL6qKmZHSuNh4gGQxEoNqyTdfbk60mQtViP9RYJy/Fhv0LzMHQCaVRoLDCq/lrn0oLubQMq7YpL9QkdmMZcKqilV+t215fC2+45okEb3gVNfJeRBCTxGxbBRXS/rz7MjX7mKYPbm1QIDroytbiUnf0gtOOfrdtC+Ug2KKpvABcgsLvsgtDobBO7PcBeR4v6EEN70ixp2svVEblJ941vnhEprj/fdeoeKLUElWb51gcuhGtWfTGhZJtUSc=;tuQfWr+ocFYmuFAu8B6sOQ=="
+secured: "RqFEJZJVoxR+hZkwT9zZOTQPTCw0LtVeiGPsQu5q7h+F4ydxesNW3zmlZOVbJlAonO/2ZD5BZNZxI02m0AWy6WHOLAd2cufFTei8pRetX35NJg0NZoaZhXJdy8GN14aJuFC7RYXGwMA5OlA4TKpVro5KSq03EoyJpK7cG5l1VyiXaP5tDQVVucgZHdvsP7HhYKr5pm8I0I/ynSncidoVF1TUnqDChC7g0fTeFcGpbEKPNlTgaiT4JwZd9YMGhIA14CSVLPOdhkNHbi2rU6KXj3DiJ0282CAMa2hkf61s+Fr1OQ3/9E/W8Y5aNq4+KaOvSol5OAb/6nbQa2BX0Onr9Pd+BaaZxPfn1EGDfCJ6P1Q=;FZTqn4GrH9CYtPDU0WQSSg=="
 ---
 
