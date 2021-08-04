@@ -85,6 +85,15 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Trump-Backed Candidate Wins Republican U.S. House Primary in Ohio"
+    excerpt: "Former President Donald Trump's endorsed candidate Mike Carey won a crowded primary contest on Tuesday for the Republican nomination to a seat in the U.S. House of Representatives from Ohio's 15th district,"
+    publishedDateTime: 2021-08-04T01:13:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-03/trump-backed-candidate-wins-republican-us-house-primary-in-ohio"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "eXJ6EoiVwApLredN1Lk4n7Vw1F6uLISRutuHDU8pHI4yjaSMHWexaM3JoBi+Dwzd+/9M3whhkf9/dlaFdjIGa17lUZqi8GjNIwlxRibVq2APUxh4vdwVFXB9cMXumV9JOM7Ziu+IkCaJzudZnd2wwMbaKJG8ie9qwU2LXqJPGJnZTujbSCFkuh9AS3hrKXkomMx2LDQs1jtSuuVzayKq6/mVR7/ql986XFmyen269NTZMxZn1mzhHGEeglPTC6spRtNOAevDhqKdT/YeKvT7Xr9hgqpBJMD731F3LefmmlxqZP1fnL5p9n1lRynVM6U+V71FR4Ff4HTIOtuTJ7I/7qaibJ1eVg0tKrOYqveCqEo=;2E8j+39TCJ/BLZTL+kvtVQ=="
 ---

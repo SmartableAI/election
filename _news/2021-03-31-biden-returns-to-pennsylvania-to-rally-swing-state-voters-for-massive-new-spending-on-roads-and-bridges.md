@@ -141,6 +141,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden administration upholds controversial Trump-era policy on migrants at southern border"
+    excerpt: "The Biden administration is upholding a controversial Trump-era policy that allows officials to turn away migrants at the southern border over COVID concerns. The CDC says it's keeping the policy because of the surging Delta variant."
+    publishedDateTime: 2021-08-03T19:51:00Z
+    webUrl: "https://www.cbsnews.com/video/title-42-trump-era-policy-asylum-seekers-analysis-camilo-montoya-galvez/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/08/03/02de6d2f-231b-4565-ab5c-78c079f3140d/thumbnail/1200x630/425558a0219119546e7d48c56e11bd71/cbsn-fusion-title-42-trump-era-policy-asylum-seekers-analysis-camilo-montoya-galvez-thumbnail-765559-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden signs bill bolstering the Crime Victims Fund"
     excerpt: "President Joe Biden signed a bipartisan bill Thursday to strengthen the Crime Victims Fund, which helps to support victims of domestic violence, sexual assault and other crimes. The bill passed unanimously in the Senate Tuesday,"
     publishedDateTime: 2021-07-22T22:29:00Z

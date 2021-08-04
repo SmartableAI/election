@@ -27,20 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Biden: If U.S. has 'real shooting war' it could be result of cyber attacks"
-    excerpt: "President Joe Biden on Tuesday warned that if the United States ended up in a \"real shooting war\" with a \"major power\" it could be the result of a significant cyber attack on the country, highlighting what Washington sees as growing threats posed by Russia and China."
-    publishedDateTime: 2021-07-28T04:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9"
+  - title: "Joe Biden Said Andrew Cuomo Should Resign After An Investigation Into Allegations Of Sexual Harassment"
+    excerpt: "I think he should resign,\" Biden said of Cuomo at a news conference Tuesday. President Joe Biden called on Gov. Andrew Cuomo to resign but refused to say whether he believes the governor should be prosecuted,"
+    publishedDateTime: 2021-08-03T22:15:00Z
+    webUrl: "https://www.buzzfeednews.com/article/ryancbrooks/joe-biden-andrew-cuomo-resign"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cuomo-resign"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cuomo-resign"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 109
     images:
-      - url: "https://www.reuters.com/resizer/sRkmzaJO11OAE2I883BVrfRIvZw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CKSQMSZKH5K35D7ZNSHQTPNZDY.jpg"
-        width: 1200
-        height: 628
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-10/1/16/campaign_images/buzzfeed-prod-web-04/republicans-are-planning-to-vote-on-kavanaugh-by--2-6753-1538427207-6_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
+  - title: "2 years after El Paso shooting, Biden says U.S. 'must confront hate-fueled violence'"
+    excerpt: "President Joe Biden on Tuesday will commemorate the second anniversary of the 2019 mass shooting at a Walmart in El Paso, Texas where 23 people died in what was believed to be a hate crime."
+    publishedDateTime: 2021-08-03T13:41:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 68
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7221627994073/2021/1/4a5485e3b2e2c7b48e48e9f5958f43aa/v1.5/2-years-after-El-Paso-shooting-Biden-says-US-must-confront-hate-fueled-violence.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
+    excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."
+    publishedDateTime: 2021-08-03T22:03:00Z
+    webUrl: "https://www.c-span.org/video/?c4972380/user-clip-joe-biden-calls-gov-cuomo-resign"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "h+P59SOle0m5n0sz1iSKi8gYd/hmyvQvtu9TbLk3lr2DSsOgyaqKmsTStVfEmEK01Ohcpj4jD60COk8LDTQK3zSci7WDe56OiIwqlr4nhlgK9ud4c8hiLoX8eOdYLnSJvnbgqD/AsH2Ly7D2gNGf/xUk9aTJIldlMulBgAh/WOGPQq6BzGqBgjTlYvqQTefFS/UJ8x5njNz4QSYBuqhNCZ9a7vf134NX8/RPQ/BNSbojSE056rujsGE3wYzXvVHqPGaNC/yd+BiDj7c9rpDSljepAqgRjRJA2LzBn9Ww/eat55oCAedxxF1ILJEsBxnTbKI5bdx7dblV9lemFM0ArH7ZaHGsEvJUlnaiZnSFsPU=;/1oG7iIcHcheaGErW0fMkQ=="
 ---

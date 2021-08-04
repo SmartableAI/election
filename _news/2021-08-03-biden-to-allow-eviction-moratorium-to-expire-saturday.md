@@ -43,6 +43,36 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’"
+    excerpt: "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit"
+    publishedDateTime: 2021-08-03T18:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden says New York Governor Cuomo should resign"
+    excerpt: "U.S. President Joe Biden said on Tuesday that New York Governor Andrew Cuomo should resign in light of the findings of an investigation into sexual harassment allegations."
+    publishedDateTime: 2021-08-03T19:51:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-says-new-york-governor-cuomo-should-resign-2021-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/Nq28S3fMjfcOPXgn9m1nOVKW_3Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U3LD7ZQLBNPH3AT5I626SLGSA4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden to allow eviction moratorium to expire Saturday"
     excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
     publishedDateTime: 2021-07-29T17:49:00Z

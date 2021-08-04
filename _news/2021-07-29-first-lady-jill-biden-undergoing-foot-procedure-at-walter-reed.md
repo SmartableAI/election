@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/first-lady-jill-biden-foot-procedur
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-jill-biden-foot-procedure-walter-reed.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Psaki defends Jill Biden adviser who reportedly made staffers cry"
+    excerpt: "White House Press Secretary Jen Psaki defended an aide to First Lady Jill Biden following a report claiming he was engaging in abusive behavior towards colleagues."
+    publishedDateTime: 2021-08-04T00:13:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dFtaD9lQEIE/psaki-defends-jill-biden-adviser-who-reportedly-made-staffers-cry"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-defends-jill-biden-adviser-who-reportedly-made-staffers-cry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-jill-biden-adviser-who-reportedly-made-staffers-cry.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0337103a-b616-4532-916c-8ef38b3991b1/36a36463-8faa-4f4c-a507-fae0829e3058/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden says federal workers must be vaccinated or undergo regular testing, masks and social distancing"
     excerpt: "President Biden announced Wednesday that he will require all federal workers to be vaccinated against the coronavirus or submit to frequent testing."

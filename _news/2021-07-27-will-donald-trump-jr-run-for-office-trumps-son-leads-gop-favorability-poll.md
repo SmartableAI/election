@@ -47,6 +47,20 @@ related:
         width: 3000
         height: 2001
         isCached: true
+  - title: "Trump-commuted exec settles $4 mln fraud lawsuit with feds"
+    excerpt: "The former chief executive officer of Tennessee pain management company Comprehensive Pain Specialists has agreed to a permanent exclusion from Medicare and other federal healthcare programs to settle a lawsuit that he submitted false claims to the government for reimbursement."
+    publishedDateTime: 2021-08-03T21:51:00Z
+    webUrl: "https://www.reuters.com/legal/government/trump-commuted-exec-settles-4-mln-fraud-lawsuit-with-feds-2021-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/eAVCHt0XL4FzEfho4ojVLr7Jzog=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BYEA4NIQOJKIRIEUBUSDAZJW7I.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nevada county bid to honor Trump goes from road to buildings"
     excerpt: "Lawmakers in a rural Nevada county who decided 3-2 last month not to name a road for former President Donald Trump now are considering putting his name on their court, jail and sheriff’s office. Lyon County commissioners have scheduled debate Thursday on a bid to name the Justice Complex in Yerington after Trump,"
     publishedDateTime: 2021-08-02T22:40:00Z

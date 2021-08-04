@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7da2adab-7141-4f0e-a23e-a48537b34302/d8b2f2f3-4e32-4066-98ab-1a4350e6527a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden sidesteps question on justification for letting unvaccinated migrants into US"
+    excerpt: "President Biden did not directly address a question from Fox News’ Peter Doocy Tuesday asking why his administration is continuing to allow untested and unvaccinated illegal immigrants into the country while at the same time urging and in some cases mandating that Americans take the coronavirus vaccine."
+    publishedDateTime: 2021-08-03T22:06:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fiA3HesDRxI/biden-dodges-question-on-justification-for-letting-unvaccinated-migrants-into-u-s"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dodges-question-on-justification-for-letting-unvaccinated-migrants-into-u-s.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dodges-question-on-justification-for-letting-unvaccinated-migrants-into-u-s.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a609792-e0aa-4756-97db-ba0e3880e19a/b30deb6c-d2d1-4a00-b7dc-d68cf274f80d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

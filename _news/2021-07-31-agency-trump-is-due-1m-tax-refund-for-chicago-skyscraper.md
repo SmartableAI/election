@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff300bf76-b7e7-4135-aaa1-aafc581be249.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Trump is a barometer for Republican views of Supreme Court"
+    excerpt: "The U.S. Supreme Court has been issuing rulings that tend to favor conservatives, but its approval ratings have dropped among Republicans as well as Democrats, according to an analysis by my Reuters colleagues and a recent Gallup poll,"
+    publishedDateTime: 2021-08-03T17:34:00Z
+    webUrl: "https://www.reuters.com/legal/government/trump-is-barometer-republican-views-supreme-court-2021-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/Nrj245oENVfkltnOtVQkYLRf79Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M2V7XF6XKZN7NN2BWXPCYUJPTA.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Agency: Donald Trump is due $1M tax refund for Chicago skyscraper"
     excerpt: "An Illinois tax agency has ruled that former President Donald Trump is due a $1 million refund on the 2011 tax bill for his downtown Chicago skyscraper, but local officials are trying to block the refund."

@@ -463,6 +463,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Covid: Biden to continue Trump's Title 42 migrant expulsions"
+    excerpt: "The Biden administration has said it will indefinitely extend a Trump-era pandemic policy that allows the US to swiftly expel undocumented migrants. The policy known as Title 42 is aimed at preventing the spread of Covid-19 in holding facilities,"
+    publishedDateTime: 2021-08-03T18:23:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-58077311"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-58077311.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58077311.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F7B/production/_119774302_gettyimages-1234112014.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden keeps Trump-era cap on refugee admissions, breaking earlier pledge"
     excerpt: "Instead, the president is adjusting the allocation limits and lifting restrictions on resettlements from Somalia, Syria and Yemen"
     publishedDateTime: 2021-04-16T17:19:00Z

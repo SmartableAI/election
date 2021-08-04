@@ -1,0 +1,83 @@
+---
+category: news
+title: "Trump-commuted exec settles $4 mln fraud lawsuit with feds"
+excerpt: "The former chief executive officer of Tennessee pain management company Comprehensive Pain Specialists has agreed to a permanent exclusion from Medicare and other federal healthcare programs to settle a lawsuit that he submitted false claims to the government for reimbursement."
+publishedDateTime: 2021-08-03T21:51:00Z
+originalUrl: "https://www.reuters.com/legal/government/trump-commuted-exec-settles-4-mln-fraud-lawsuit-with-feds-2021-08-03/"
+webUrl: "https://www.reuters.com/legal/government/trump-commuted-exec-settles-4-mln-fraud-lawsuit-with-feds-2021-08-03/"
+type: article
+quality: 105
+heat: -1
+published: false
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://www.reuters.com/resizer/eAVCHt0XL4FzEfho4ojVLr7Jzog=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BYEA4NIQOJKIRIEUBUSDAZJW7I.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "Ex-Illinois Governor, Who Trump Freed from Jail, Files Lawsuit to Run for Office Again"
+    excerpt: "\"The issues are very clear,\" former Illinois Governor Rod Blagojevich said to reporters Monday. \"It's about right to vote and it's about due process.\""
+    publishedDateTime: 2021-08-02T22:31:00Z
+    webUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491"
+    ampWebUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1860656/rod-blagojevich.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
+  - title: "Nevada county bid to honor Trump goes from road to buildings"
+    excerpt: "Lawmakers in a rural Nevada county who decided 3-2 last month not to name a road for former President Donald Trump now are considering putting his name on their court, jail and sheriff’s office. Lyon County commissioners have scheduled debate Thursday on a bid to name the Justice Complex in Yerington after Trump,"
+    publishedDateTime: 2021-08-02T22:40:00Z
+    webUrl: "https://www.chron.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Will Donald Trump Jr. Run For Office? Trump's Son Leads GOP Favorability Poll"
+    excerpt: "Donald Trump Jr., son of former President Donald Trump, topped a GOP favorability poll that pitted him against six other Republican figures. In a poll conducted by Tony Fabrizio of Fabrizio Lee & Associates between July 6 to 8,"
+    publishedDateTime: 2021-07-27T02:16:00Z
+    webUrl: "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088"
+    ampWebUrl: "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/donald-trump-jr-speaking-during-the-first-day.jpg"
+        width: 1024
+        height: 707
+        isCached: true
+
+secured: "2XJMebwDTGXS4DIAWc5O+J09x7CDqoDXMRSYVxlfE7V0TPfDj2dkYUyCNSe90fqSo0EeZNtmFssXXuc74VH8xztGKasilzv5uUB90ddyY8RHub7I210wZmfBnWIu+7fPkILPwPeSxr6JYyv2YChs5VQpTR6oFN+CrxxVzEAlNV1gevQcnZZ5A9wqRnLqJIT1LvUEGadkNN6P/U1VASMQnXptDhPTRJaHCrb7COkA2Vj4pl75dw2y7HV9MKs/uxVudP38cYcmlMz9xBasfK0v8US+ixxE21P1ixP7hJ4pgMAB/zVZY7Gz7GLMUqs1fYnPvAxIx6i/CwP7roSPMpDKJ3LoK/ItOzvd13wNR50jWfI=;BlIQdFP9w5QiTDeWbgeMLg=="
+---
+

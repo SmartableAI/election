@@ -236,6 +236,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump-Endorsed Candidate Mike Carey Wins GOP Primary in Ohio"
+    excerpt: "Coal lobbyist Mike Carey will face off against Democratic state Rep. Allison Russo."
+    publishedDateTime: 2021-08-04T00:38:00Z
+    webUrl: "https://www.wsj.com/articles/trump-endorsed-candidate-mike-carey-wins-gop-primary-in-ohio-11628041111"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-endorsed-candidate-mike-carey-wins-gop-primary-in-ohio-11628041111"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-endorsed-candidate-mike-carey-wins-gop-primary-in-ohio-11628041111"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-379890/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Hannity: January 6 commission's only goal is to 'smear Donald Trump and the GOP on national television'"
     excerpt: "The House January 6th commission \"has one mission and one mission only: to smear Donald Trump and the GOP on national television,\" Sean Hannity told viewers in his opening monologue on “Hannity” Tuesday."
     publishedDateTime: 2021-07-28T03:35:00Z

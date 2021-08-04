@@ -59,6 +59,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Trump is a barometer for Republican views of Supreme Court"
+    excerpt: "The U.S. Supreme Court has been issuing rulings that tend to favor conservatives, but its approval ratings have dropped among Republicans as well as Democrats, according to an analysis by my Reuters colleagues and a recent Gallup poll,"
+    publishedDateTime: 2021-08-03T17:34:00Z
+    webUrl: "https://www.reuters.com/legal/government/trump-is-barometer-republican-views-supreme-court-2021-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/Nrj245oENVfkltnOtVQkYLRf79Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M2V7XF6XKZN7NN2BWXPCYUJPTA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Trump's political cash hits $102M"
     excerpt: "Former President Donald Trump has proved himself his party's most powerful fundraiser in the first six months of the year, amassing a political treasure chest of $102 million by the end of June, according to filings made public Saturday."
     publishedDateTime: 2021-08-02T10:30:00Z

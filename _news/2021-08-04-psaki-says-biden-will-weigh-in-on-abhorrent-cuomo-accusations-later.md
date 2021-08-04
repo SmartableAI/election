@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuom
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/amp/"
 type: article
 quality: 135
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Rep. Elise Stefanik says Biden must call for Gov. Cuomo's resignation"
-    excerpt: "New York GOP Rep. Elise Stefanik joined \"America Reports\" following the breaking news that the New York Attorney general found that Governor Andrew Cuomo sexually harassed multiple women, violating state and federal laws."
-    publishedDateTime: 2021-08-03T19:51:00Z
-    webUrl: "https://www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik"
-    ampWebUrl: "https://www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/262bdae6-ea59-45c3-aad1-1b68d408f5fc/e68c58ee-1373-49d8-be38-6369a2b383a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-
-secured: "4kpgx9p52KMbsnM7UUtV2GKxelpQLQ6bTFyoLtoysnB+yU8l+6RIme7nmgBDPnaL89bgWKH6HTSciHG88ZNWc1IwvaQxSGeyFcJckzImaes7pzNi74avTF7bPrD97qjKJEv4TFPh+Eg9hGC55LlynrQhrRfa6cn2xlnLctH5amxnkC1isutGItimCTFDRwYgdLfLeFGz/nv3UuqWPwdm1II6TlyK4L9z4iWLEnQjGy+xQc6DwS/l0HBPcndnUH6X5hoUkZ4CDOuRtBJ+828wwuH+C/JGPV7cujWwy8ybMUBen4h99D/JDi/ZTYsd6fO0LcKJuzhtiQ1EujNR7MvjvRBCpNaGX7vRBRDxE4Y4ttI=;a54hLOIf04iqKEIqZd/03Q=="
+secured: "Kw3NPv6BvgLPUYSrOH0PKlmLI637gC3MfqPEljQ56Q99zookvsz9Tcyf+DpaMStZcW5A9yV+NNIc+Su2MVj49vfj/2F5K6mg/3AygPFxpSEYcNSYhVp+xnwvxhIpd+YqlyaXlkXD+D+S+RVv06mbc0Q8W+NN0DTJRCfiK+rfhCJ89zrnw4vk8r2vRPVR37m60x4uOPMTLVOkEBFBfypLC9l2cFoolyolPC3M0uu3be89txPS3K55ahafP32s8Y2mZqWu09V0uRiy0v1JhCQMT+r6sRKb4PnbibmhN9/1qmQfK2c5luYSBG//6/zxqWPnzOTQICRHfE/iQeqGFOi90Ckdrza3DY4wvfSf6yDyJxk=;J03YiKktrBpY9WPzhzNUXA=="
 ---
 

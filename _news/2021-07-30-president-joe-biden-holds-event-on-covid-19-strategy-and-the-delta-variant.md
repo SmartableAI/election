@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Holds Event on COVID-19 Strategy and the Delta Variant"
 excerpt: "U.S. President Joe Biden talks about the next steps in the effort to get more Americans vaccinated and combat the spread of the Delta variant in the East Room of the White House on Thursday, July 29,"
 publishedDateTime: 2021-07-29T22:14:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/ea2c5fd407edac0573b93d2182023ea6/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/ea2c5fd407edac0573b93d2182023ea6/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/679cfe1514f3f7a7855dada268170475/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/679cfe1514f3f7a7855dada268170475/President-Joe-Biden-Holds-Event-on-COVID-19-Strategy-and-the-Delta-Variant/"
 type: article
 quality: 53
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/ea2c5fd407edac0573b93d2182023ea6/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/679cfe1514f3f7a7855dada268170475/BIDEN-VACCINE.jpg"
     width: 650
-    height: 433
+    height: 974
     isCached: true
 
 related:
@@ -207,6 +207,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "CuaKDKQPknSji+rp9JSDn+/+6QbFNN+y81ol5Q0f17qK3lmYP0Ej+24s9xQl++OE1+1ShkgQlrFogunIe42hK9r10mFqjbXtSXdxJwV6jPsLXIIe1NbNX+Mt/uEf3s+PNSGAoCXEZimbN/gCGOh3CgQUHED4lxtsReS/+4hr1W6GE1t3YmoFmXh6DO6GKAeU3IWFp+MI/xQibc40dMZq4W2wdXBrslwfrx5EE4c0mG53paHSkUMBk3dX5XAnHihKjWGmfVby9fMlbscr0s28BpFGEIQwA73wSaBgMOGjv54jtmrdF2WoVAAmJr214jz297tXUmVrO15KPiuiV3wbO9TjrPhpXYwNCcvsa8PYLpc=;Ahxae/bcEdHFHC8eZyiRKQ=="
+secured: "AkAstSIByqcJzbpahEirp91ZAUyi4Kidij0L/u8qOxwYIwEuqS9F1QGLW3fonnWIdHLR31K+Pj/gdmorEdtTE8ZrOPWQkhda132G9Y2+/Kf5E/F+/CTQaB3VTsPjgW2LHCLVLlIrfwxtbZfrOGuZlALI/1lSLmQx+Lh0v0Jxp8ZNOnGF2Kciae1cD+Y+G/MI1jHaAvZwzJgrBBQzfQJlMpYwqj/kdCy+KOlu3SegKmiOa3i+XVLHlcup6mxg7BJ7MQZrE9dQT2XR9UrYe4vDoCyCOIANzmSa5MSLOvYSDho8vUM4+cgPQ3Sqky7FFZwJQQ5GvDnBJPJQOybphV/vuPs6N2crlo5McdfgzQO49mM=;TyGVnPo8FyHZreMv9yPl1w=="
 ---
 

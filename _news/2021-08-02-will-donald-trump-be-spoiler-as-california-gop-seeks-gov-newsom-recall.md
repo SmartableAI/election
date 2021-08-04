@@ -3,25 +3,25 @@ category: news
 title: "Will Donald Trump be spoiler as California GOP seeks Gov. Newsom recall?"
 excerpt: "California could witness a stunning turnabout in a nation of deeply polarized politics if the liberal state dumps Democratic Gov. Gavin Newsom and elects a Republican to fill his job in a"
 publishedDateTime: 2021-08-02T12:35:00Z
-originalUrl: "https://www.eastbaytimes.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
-webUrl: "https://www.eastbaytimes.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
-ampWebUrl: "https://www.eastbaytimes.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+originalUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
+webUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
+ampWebUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/08/California_Recall_13549.jpg?w=1024&#038;h=682"
+  - url: "https://www.dailynews.com/wp-content/uploads/2021/08/California_Recall_13549.jpg?w=1024&#038;h=682"
     width: 1024
     height: 682
     isCached: true
@@ -59,7 +59,18 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Will Trump be spoiler as California GOP seeks Newsom recall?"
+    excerpt: "California Republicans see a chance of ousting embattled Democratic Gov. Gavin Newsom in a September recall election."
+    publishedDateTime: 2021-08-03T23:00:00Z
+    webUrl: "https://www.miamiherald.com/news/article253180268.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/article253180268.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article253180268.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 55
 
-secured: "O83SEksh1ix4jXhPFmV/OcUWhHjqaV3HF9ffTlfF/yv8YwRSJ5zdZW0tJKbpWJrjjwdgnvYBoEZYpl2p4Ukqkg/ZCK09lHu5AGZ8bVsQXIcejvbEQEzEAnhcMVwyQ0SoGNdjhIpHE+xYbIvLXq3JNSoOHcQjpzTxL2gsQr2ZG1eIGmQtR3z2orm/hpC7nfYR6F6Ar+zhCxO5wuwWDhGlWki3En5ZvCJ2Ah3K8AZxXLdKtgY4lMmaYPCOOvJXkuviLGPrmp0sl9i+fhGUhNZw89r4VsHdIgsEAmBmA8LKcz/t9ZKgSqE/lfut9WO5rSyeDcwZgpXE8OjVEvi7RxoMd80sspx2uimY2PkRoBhhqfC6zC/o0AQkVBm9WD3SqrkBmweMzErOQQo/ev6VG/EGt0dwI1543h0saYANHlPKpBkwFtK0aoYArT2l1+XE4CXlIH50ohWt8KEm6vmsRHoYEM8nRGe8hkKeZAdQnMjYCLwLIOtFjJ96Ut2ZeGf5L/xCyfpfb0XPMC/v+pkDYFZLMg==;qqzPsOwmBW3Tkb4oT/s5Ew=="
+secured: "aC8fUeso6XkVVcOCyl7goXee/Da3r/EKmvHmebhSBgdeIeY/jK9Wg8DsG6GzCodRW/XKhdH70C9VQpXTtm7KVFTpwikOoy2Ah2sJF2VpNxgBsaTwZss5sn5SnmhtwlpmcNgLhRXzVLHSYPFV+K77XMZsPvg5Zt9ytWMtBAe6CS4oqsgixME1yEkwI4t/bVD//+dtZTfIOxOq76hXxXYNXCMsWqWVbmYskMb1G+WnT6fSv3Fm2r3sW6g1VnWoAozu/yJl5NuSKKZMmY0/p+1WDseKfOcvbd6JtjSPppMFn8+nVh31z4Zp7M+FYz92utXfeVZXo31sR5kkDDjfHKpr/L69oEuQhBjIHit8RVOMDWM=;gsHsh0ehN2vDl+mlVxIckQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2
 webUrl: "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9"
 type: article
 quality: 103
-heat: 123
+heat: 103
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "President Joe Biden: Andrew Cuomo should resign"
-    excerpt: "President Joe Biden on Tuesday afternoon called on New York Gov. Andrew M. Cuomo, a one-time ally and close political confidant, to step down. \"I think he should resign,\" Biden said when asked by repo"
-    publishedDateTime: 2021-08-03T20:19:00Z
-    webUrl: "https://www.newsday.com/news/region-state/cuomo-james-harassment-reaction-1.50324499"
-    ampWebUrl: "https://www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 75
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50324512.1628025843!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "+KRJCJ8IBuIsy3aW7qlaPpnF1crmMvndZKtQO7QGn/hkMwdFuvbPSFgb29eO4W7nND4u7+T8fv5hB0dlhPl0+T8j4+KOkACTHThVp1gWTVvd9jtFpQdupjD8yKd25fHbsFgSJhuHDoATtrvkXnQvR2CI5esNe5OuDDf1TquDEHKtWXhJOYfdgvjMiif75BtqvT3VVmARsruxodBY0mOxvuWsyeybVj0vh1DFGqRsUBETX78FSiY2BojKBct4aBqAi1L3opPkJv8SrJG5tKwVthtpDCiBWMhQUs2Jr/AK/IqmtPpvtO630HN9Oc0f5SzBXDq7i75L1xmRB6mYTlAYCdrunlU2pASCixrumSzWNTk=;7o5zgHOS71VAnqbl2x/cKg=="
 ---

@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Is Kamala Harris really the most unpopular vice president in modern history?"
+    excerpt: "Republicans have struggled in many ways to craft a coherent message attacking President Biden. And in the absence of that, they’ve often turned to the next best thing: Going after his second-in-command,"
+    publishedDateTime: 2021-08-03T19:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/08/03/is-kamala-harris-really-most-unpopular-vice-president-modern-history/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PAZIGWHQVII6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "READOUT: Vice President Kamala Harris Joins SBA Administrator Isabella Casillas Guzman for a ..."
     excerpt: "On July 29, 2021, Vice President Kamala Harris and SBA Administrator Isabella Casillas Guzman met with small business owners and advocates to discuss critical Biden-Harris economic aid to help small businesses in rural,"
     publishedDateTime: 2021-07-30T15:07:00Z
@@ -356,16 +370,16 @@ related:
   - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
     excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
     publishedDateTime: 2021-07-27T22:58:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/f1692ed174ff4526aa24fa4e2411e6f5/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/f1692ed174ff4526aa24fa4e2411e6f5/HARRIS-VOTING.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/fa4baa391ff1941571c4e042df917a5a/HARRIS-VOTING.jpg"
         width: 650
-        height: 434
+        height: 433
         isCached: true
   - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
     excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."

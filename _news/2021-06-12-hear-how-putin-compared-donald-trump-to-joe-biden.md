@@ -458,6 +458,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Covid: Biden to continue Trump's Title 42 migrant expulsions"
+    excerpt: "The Biden administration has said it will indefinitely extend a Trump-era pandemic policy that allows the US to swiftly expel undocumented migrants. The policy known as Title 42 is aimed at preventing the spread of Covid-19 in holding facilities,"
+    publishedDateTime: 2021-08-03T18:23:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-58077311"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-58077311.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-58077311.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F7B/production/_119774302_gettyimages-1234112014.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z

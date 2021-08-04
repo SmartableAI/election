@@ -3,8 +3,8 @@ category: news
 title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
 excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
 publishedDateTime: 2021-07-27T22:58:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f1692ed174ff4526aa24fa4e2411e6f5/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f1692ed174ff4526aa24fa4e2411e6f5/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
 type: article
 quality: 53
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f1692ed174ff4526aa24fa4e2411e6f5/HARRIS-VOTING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/fa4baa391ff1941571c4e042df917a5a/HARRIS-VOTING.jpg"
     width: 650
-    height: 434
+    height: 433
     isCached: true
 
 related:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.reuters.com/resizer/eQyBrmUjFluk6uxjvOCM_oQCPW0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AOYOQ2LCZJFNFLFQOMZS7PIAM.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Is Kamala Harris really the most unpopular vice president in modern history?"
+    excerpt: "Republicans have struggled in many ways to craft a coherent message attacking President Biden. And in the absence of that, they’ve often turned to the next best thing: Going after his second-in-command,"
+    publishedDateTime: 2021-08-03T19:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/08/03/is-kamala-harris-really-most-unpopular-vice-president-modern-history/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PAZIGWHQVII6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "READOUT: Vice President Kamala Harris Joins SBA Administrator Isabella Casillas Guzman for a ..."
     excerpt: "On July 29, 2021, Vice President Kamala Harris and SBA Administrator Isabella Casillas Guzman met with small business owners and advocates to discuss critical Biden-Harris economic aid to help small businesses in rural,"
@@ -495,6 +509,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "d25KOixoNCDHQlnkpdEbnfZzWqYtWpmQEBkm2EgD1H2pQjmbPKB7ELOCRRkh5Sy4VKsOXuPvOG43AeXNJxEjV1ZhDp/LA+zl2Tq0/cAX2F7EMSWfctaghLSJpB4bFrtp2FoT/boCbxxmKBxr7h32+AdbdJD+dfVTP9L5IG/1G1WhYy8GI5QXN7gUAnIbHa8f+hsoRyvj8+v+W2wrA/xU2AfHy2W3RKzkaEYZ36BnATJtgOOjc9NnAk7wVljS1ZZNXe56+hbMCOh0RGf99JKvF+W32AJhmDS/mDdtiGT4HotuN7OlJFZPpyNxvJbJtbsnwIr31qFcJxPAArb6kpm1s6KuSf6sTlMuRuoExrzG5xE=;dNYdpb0aE3RBByTM9aTD8w=="
+secured: "JVExO66Zx9Sa/Oea4br/xaxmLoqzjT2qiKWZ8ytmrzh8gHyu5Pa88JVcjJMINcnRB5qZptBvRt6vHkOQ3KBHfHORpieWjGn+EvGWhSJpNq+GzMP0BD5uZeT+LQeeuAzSc3LIJ1VYr7zF19VaIaid/xR3Td1Gi32p3CLdB1btjbke/jAkDfPvLSYw3lIMQrtSMw8oV03Y2Z7OU+wZ7Iq54s70C4EMecJRVKyWr9ESd4ncpSlSdQ7jJq0+pu4yqGfA7k9YPBeiqXPHjZi3REZMFoZmWA7XEe3RRS2LSeJCPRon5QLq2TYUhUpGl4TcpWGnYsNUv2CehBfq9a9X7flqytJcwc6Yr/GCcWZNvVHOjxk=;E8yRz2IJdmdesfEFt1hdxw=="
 ---
 

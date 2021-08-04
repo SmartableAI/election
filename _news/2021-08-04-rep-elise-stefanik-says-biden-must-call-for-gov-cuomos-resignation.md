@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki says Biden will weigh in on ‘abhorrent’ Cuomo accusations ‘later’"
-    excerpt: "President Biden is preparing to give public remarks on a devastating report that found Gov. Andrew Cuomo sexually harassed 11 women, White House Press Secretary Jen Psaki said."
-    publishedDateTime: 2021-08-03T19:13:00Z
-    webUrl: "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/"
-    ampWebUrl: "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/amp/"
+  - title: "Biden blasted for having called NY Gov. Andrew Cuomo the 'gold standard' of leadership"
+    excerpt: "President Joe Biden is facing criticism for referring to New York Gov. Andrew Cuomo as the “gold standard” of leadership in the past following a report from New York’s Attorney General concluding the governor sexually harassed multiple women."
+    publishedDateTime: 2021-08-03T22:15:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjf5yKhU0Aw/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-cuomo-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fc9c59f-f638-41c9-967a-fbeb72bb4377/c98ea31a-14fe-45e8-8171-39c5518bb33a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "gMa6avX3BBZHpNZF09OF0vrSZq+w89oPIj1BSE/hFKbic7KFmymVacCPCzaXsR0g/4ivleW+e3GD9tqsSOyhoc2Wr3OSwvywFISaxuUqMgwZZGjSgOPEwT+P/wAqWvNerdZlpt5yKKctTEGbucNpNH9kUpgq/QWNKHq84odgNlusHscbxPRTaSybIhXnKNYhtUYQvF4ONA1Q7LYLWxVQfqedhy/BjILeqBnDPQftPgHWoTJsFFVpygBbqU4eK7KMe9gzUmm7Db4Jn/nztDJVGvJONpEAVFcK0QyWDoAee4jZCzwhQoDLcd4kqa3ZFRCinreekel6ydt3HY4gAE9nbwBIK76tw/uRj4Zu3d1nR3o=;kAAx1g9TlMXwyaEmYtaVEQ=="

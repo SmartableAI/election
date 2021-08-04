@@ -43,6 +43,20 @@ related:
         width: 3000
         height: 2001
         isCached: true
+  - title: "Trump-commuted exec settles $4 mln fraud lawsuit with feds"
+    excerpt: "The former chief executive officer of Tennessee pain management company Comprehensive Pain Specialists has agreed to a permanent exclusion from Medicare and other federal healthcare programs to settle a lawsuit that he submitted false claims to the government for reimbursement."
+    publishedDateTime: 2021-08-03T21:51:00Z
+    webUrl: "https://www.reuters.com/legal/government/trump-commuted-exec-settles-4-mln-fraud-lawsuit-with-feds-2021-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/eAVCHt0XL4FzEfho4ojVLr7Jzog=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BYEA4NIQOJKIRIEUBUSDAZJW7I.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Will Donald Trump Jr. Run For Office? Trump's Son Leads GOP Favorability Poll"
     excerpt: "Donald Trump Jr., son of former President Donald Trump, topped a GOP favorability poll that pitted him against six other Republican figures. In a poll conducted by Tony Fabrizio of Fabrizio Lee & Associates between July 6 to 8,"
     publishedDateTime: 2021-07-27T02:16:00Z

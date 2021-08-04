@@ -46,19 +46,30 @@ related:
   - title: "Will Donald Trump be spoiler as California GOP seeks Gov. Newsom recall?"
     excerpt: "California could witness a stunning turnabout in a nation of deeply polarized politics if the liberal state dumps Democratic Gov. Gavin Newsom and elects a Republican to fill his job in a"
     publishedDateTime: 2021-08-02T12:35:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+    webUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/"
+    ampWebUrl: "https://www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/02/will-trump-be-spoiler-as-california-gop-seeks-newsom-recall/amp/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 74
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/08/California_Recall_13549.jpg?w=1024&#038;h=682"
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/California_Recall_13549.jpg?w=1024&#038;h=682"
         width: 1024
         height: 682
         isCached: true
+  - title: "Will Trump be spoiler as California GOP seeks Newsom recall?"
+    excerpt: "California Republicans see a chance of ousting embattled Democratic Gov. Gavin Newsom in a September recall election."
+    publishedDateTime: 2021-08-03T23:00:00Z
+    webUrl: "https://www.miamiherald.com/news/article253180268.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/article253180268.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article253180268.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 55
 
 secured: "iSKxVbYEJejEGzE45GOl2ZMRxayGEiN0DBgWrBJgkjNCgZGC/HptrSV4cVFtpRbQCWQ4zPPA+4jnMVTL0u/9y5NYaaCMrUVNetgRdDCvWHR8chls4tQB5eLa3cO1a3s9rHd13cYxwozTKTVUS53+4Bc72wMnq4b3/b5fLsrpGtSsC3/XdcIki4Tkb8ZbYGYmmArGHYJ1YnscDfoz6INPFJDO22CYWmh6jbaZCBzVunTuEuZULnQZtSWWaQoC+WwQs3b1tf1aDqm3D3DXV3Qy5okl+C7HZ1XlG11cghUMNqF4YGpvPYHPJjmomwEC28LmjUJ7xAvjqjHNjqpzNq82kltB9UIfJNizlbfC/RJe1P4=;1UbhtajWgLT20e4sFE7gyA=="
 ---

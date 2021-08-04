@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on COVID-19 Vaccinations"
 excerpt: "President Joe Biden removes a protective face mask before delivering remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
 publishedDateTime: 2021-08-03T21:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/52afce32f18f5ec6a604edd0e671cf2a/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/52afce32f18f5ec6a604edd0e671cf2a/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/03fc7b3319e08e361562a791b560e6ad/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/03fc7b3319e08e361562a791b560e6ad/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/52afce32f18f5ec6a604edd0e671cf2a/BIDENCORONAVIRUS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/03fc7b3319e08e361562a791b560e6ad/BIDENCORONAVIRUS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -509,6 +509,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Uf5sfJafuAHcF0yMg7SG7e9gDNFQaqDq779g5RJRTyRHu8/3bQGkf+bgh2pee9tb3Ef3/5i1YOti/hRW6mk+QmQ8uWIRpK7My5IiqHXtkip1Td0I6wtEbC3KDJlPBsyamTWumUrSn9WvIpW5oLL1pJ0xOfAit6jhqB9kvj5ENlppr4R0zPoGyNru8pfQrfvcaCyHfQKPRQejNn6Oyg+B/fJOjoW7wC4lR2G7s6MSrFvItfkbhlynt6ChugHUdbFXf1N2yrU5oby0Z+RR/CDlwe077RGCW0Q+NvwGPSleVVDrU4vbGbRwQf/BxqGx3FzvtYr/Eqv962gyBvQHu1e2YMUXZf6U3S8OM+oKWwXbX7U=;N+giy7k3wUaJAELrfLzqNw=="
+secured: "nMEvDSxc4NxB1vbqL+PlZ0LSB1lclbY56cudmpwcPJtmFQ7KLiZ41mKgGwAVwzqdwd3lNdOvntkBSc20eyxVncceFIFq1zqOe2P1lb2T1ktwN3OCjktGCfoESArHdT5FBxwvfITs+hzDMRnpSuLL0ZEIedcaX8J2cSQDJ8fUEqH8d3fTkT+FSvseUqXUrn1sNTHwpR7x+4XxxXrYxgc4SsbzP/+UJMNS4XzVVZdLROrPbQ02/YMKKHVWL7ZWKL3BY08ZDx3ARPtqmSwL4jBbX263jeLRb3blFYVSFhTvQxssQbzNCHTtdxOeyp2BVBfzg+UcY9uPKjDy9uFRwKNimhtfjqUzm+9kXpvyqJd9r5g=;mdHuZqm9i8u+CJYTe7zw8A=="
 ---
 

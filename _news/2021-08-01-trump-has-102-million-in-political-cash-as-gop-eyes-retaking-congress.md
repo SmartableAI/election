@@ -224,6 +224,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump-Endorsed Candidate Mike Carey Wins GOP Primary in Ohio"
+    excerpt: "Coal lobbyist Mike Carey will face off against Democratic state Rep. Allison Russo."
+    publishedDateTime: 2021-08-04T00:38:00Z
+    webUrl: "https://www.wsj.com/articles/trump-endorsed-candidate-mike-carey-wins-gop-primary-in-ohio-11628041111"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-endorsed-candidate-mike-carey-wins-gop-primary-in-ohio-11628041111"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-endorsed-candidate-mike-carey-wins-gop-primary-in-ohio-11628041111"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-379890/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump warns GOP on infrastructure deal: ‘Don’t let Radical Left play you’"
     excerpt: "Former President Donald Trump warned Republicans about being played as “losers” by Democrats during the bipartisan infrastructure negotiations."
     publishedDateTime: 2021-07-26T15:49:00Z
