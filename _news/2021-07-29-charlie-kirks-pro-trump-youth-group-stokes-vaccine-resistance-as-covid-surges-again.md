@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandate
 webUrl: "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/"
 type: article
 quality: 98
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
+    excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
+    publishedDateTime: 2021-08-04T02:39:00Z
+    webUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
+    ampWebUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "Beshear Uses Ex-Trump Official's Words in Urging COVID Shots"
     excerpt: "Kentucky’s Democratic governor is highlighting a warning from a Trump administration health official in urging people to get the COVID-19 vaccine."
     publishedDateTime: 2021-07-22T19:04:00Z

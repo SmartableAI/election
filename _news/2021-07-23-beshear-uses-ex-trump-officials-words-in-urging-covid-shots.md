@@ -37,6 +37,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
+    excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
+    publishedDateTime: 2021-08-04T02:39:00Z
+    webUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
+    ampWebUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
+        isCached: true
 
 secured: "qftWthEjVCyANaoBptP0x4D6SNN8PVfCjaGID65B1AKV+vdkKtFBpWTFQ+uXONN6VW0TeYW5UCy8b0km4luV/4iQ4nvmFmXpU8JM+VjKL81k8mBYR6RiT2skzp29D+yokDTRxDy+USUaFfutoag+BJAQcYWHkMXsFC79cqH7llKzPkxSY9eOPreEkHI3/LPi8DsZvDKpgP5eyVI9ix3cL0nkSnD9jByoxKS2LwWE0vYpiwu50ZnkPl7QPzrMHSD+5tRuajcfe+CdyKOUW5zykk16+j49b0Ibwp2cWxqBnR5be59NM89ZQbOL8Mzo6a9o2ybWQ7xZyWq/G6BbKenLCm2/7rmEj654hWwwopd4LbM=;RL0cKsUAM3HNxpnyiO3eBg=="
 ---

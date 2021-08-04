@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
         width: 650
         height: 975
+        isCached: true
+  - title: "Cuomo Harassment Allegations: Joe Biden Calls On New York Governor To Resign"
+    excerpt: "President Joe Biden responds to new report that found that New York Gov. Andrew Cuomo sexually harassed multiple current and former female employees."
+    publishedDateTime: 2021-08-03T22:56:00Z
+    webUrl: "https://www.ibtimes.com/cuomo-harassment-allegations-joe-biden-calls-new-york-governor-resign-3265623"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/29/us-president-joe-biden-unveiled-new-requirements-for.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
     excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"

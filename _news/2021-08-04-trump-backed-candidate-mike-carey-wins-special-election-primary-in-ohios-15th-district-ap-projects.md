@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Carey, endorsed by Trump, will win Ohio GOP special primary, CNN projects"
+    excerpt: "Mike Carey, a coal lobbyist who was endorsed by former President Donald Trump, will win the Republican special primary in Ohio's 15th Congressional District, CNN projects.\n    \n"
+    publishedDateTime: 2021-08-04T01:45:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803152112-02-mike-carey-0626-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Mike Carey, Backed by Trump, Wins Republican House Primary in Ohio"
     excerpt: "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status."
     publishedDateTime: 2021-08-04T01:03:00Z

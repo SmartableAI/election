@@ -27,20 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump's 'golden ticket' is on trial in Ohio, where a special election is again testing his political prowess"
-    excerpt: "The potency of Donald Trump playing in GOP primaries faces a crucial test Tuesday in a special election contest Republicans say is a toss-up."
-    publishedDateTime: 2021-08-02T22:23:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-special-election-kingmaker-status-2021-8"
+  - title: "As Trump Claims Victory in Ohio, Progressive Democrats' Influence Takes a Hit"
+    excerpt: "Moderate democrats could take former state Senator Nina Turner's loss on Tuesday as an indication that voters aren't looking for the party to shift farther left."
+    publishedDateTime: 2021-08-04T03:44:00Z
+    webUrl: "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854"
+    ampWebUrl: "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
     images:
-      - url: "https://i.insider.com/61086c91372268001a5951db?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://d.newsweek.com/en/full/1861807/nina-turner-concession-speech.jpg"
+        width: 2500
+        height: 1667
         isCached: true
+  - title: "Mike Carey, backed by Donald Trump, wins primary for House seat in Ohio"
+    excerpt: "COLUMBUS, Ohio >> A pair of special congressional primaries Tuesday in Ohio could serve as litmus tests for the moods of the Republican and Democratic parties heading into next year’s midterm elections."
+    publishedDateTime: 2021-08-04T01:21:00Z
+    webUrl: "https://www.staradvertiser.com/2021/08/03/breaking-news/mike-carey-backed-by-donald-trump-wins-primary-for-house-seat-in-ohio/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/08/03/breaking-news/mike-carey-backed-by-donald-trump-wins-primary-for-house-seat-in-ohio/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/08/03/breaking-news/mike-carey-backed-by-donald-trump-wins-primary-for-house-seat-in-ohio/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 75
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_11571659-9bacf8ad4b4e49b89418f146eafba451.jpg"
+        width: 760
+        height: 538
+        isCached: true
+  - title: "Trump-backed Carey, centrist Brown win Ohio US House races"
+    excerpt: "Mike Carey, a coal lobbyist backed by former President Donald Trump, beat a bevy of Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown"
+    publishedDateTime: 2021-08-04T03:28:00Z
+    webUrl: "https://www.djournal.com/news/nation-world/trump-backed-carey-centrist-brown-win-ohio-us-house-races/article_646af4b3-872d-5be0-b805-3a63cf4e062c.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/3/3c/33ceaa60-25e6-586e-855e-f17f3dd40ed6/6109a7a3847aa.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Trump-Backed Candidate Wins Republican U.S. House Primary in Ohio"
+    excerpt: "Former President Donald Trump's endorsed candidate Mike Carey won a crowded primary contest on Tuesday for the Republican nomination to a seat in the U.S. House of Representatives from Ohio's 15th district,"
+    publishedDateTime: 2021-08-04T01:13:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-03/trump-backed-candidate-wins-republican-us-house-primary-in-ohio"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "TivolssuHctVtBEI/5r+7fr5RNAigp/PKm+WStTpkZaUMmp7HgcUdVsmiRRZ2EiWglAUUb+0C/p+nt6yVZ0Kkwbb/OyRLer5/PCtiQ32GIrJPHcIkFM9HXFfKTJWzJWTsz6ngsSMtYfuFLjpUyqZNwuf3aCM7u0N2cy81X1+/5gjIlKl8RvD35Jnww99wWw3mefIpvzbhrFfYrhfo05EicztC91x4Xzmm8rD8ncLn3WsIUfdbWsFPaSvP5wqfvMlq0K0CGbsrKdbZChh91M+zEgBeFhBAObM1Zyo/Jhc4Aviv/BO7BxlFeu5xCzYBK0PpuWOaeEns4Y4J70zsqtGqqpHHwdW4EX4d1uC7Tr91wQ=;5vDaazvHVijN7fg6fTSoQw=="
 ---

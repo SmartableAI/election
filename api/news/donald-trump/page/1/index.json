@@ -2,25 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-04-mike-carey-backed-by-trump-wins-republican-house-primary-in-ohio.md",
-      "title": "Mike Carey, Backed by Trump, Wins Republican House Primary in Ohio",
-      "excerpt": "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status.",
+      "path": "_news/2021-08-04-as-trump-claims-victory-in-ohio-progressive-democrats-influence-takes-a-hit.md",
+      "title": "As Trump Claims Victory in Ohio, Progressive Democrats' Influence Takes a Hit",
+      "excerpt": "Moderate democrats could take former state Senator Nina Turner's loss on Tuesday as an indication that voters aren't looking for the party to shift farther left.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.html",
+      "webUrl": "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854",
+      "originalUrl": "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
+      "highlight": null,
+      "heat": 202,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/08/04/lens/03ohio-elections-carey-print/03ohio-elections-carey-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://d.newsweek.com/en/full/1861807/nina-turner-concession-speech.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.html",
-      "publishedDateTime": "2021-08-03T18:03:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854?amp=1",
+      "publishedDateTime": "2021-08-03T20:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,8 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -309,7 +304,7 @@
       "originalUrl": "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-special-election-kingmaker-status-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -986,7 +981,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 431,
+      "heat": 451,
       "tags": null,
       "images": [
         {
@@ -1404,7 +1399,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {

@@ -190,6 +190,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "In Ohio House special elections, progressives take a loss; Trump scores a win"
+    excerpt: "In a defeat for the party’s left wing, Democratic primary voters in Ohio Tuesday picked an establishment-backed candidate over an ally of progressive hero Bernie Sanders to fill a vacant"
+    publishedDateTime: 2021-08-04T03:19:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/in-ohio-house-special-elections-progressives-take-a-loss-trump-scores-a-win/article_2f259dc4-756e-5e32-85b2-f526c91ac9d8.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 67
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Justice Department Says IRS Must Give Trump Tax Returns To Congress"
     excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T17:51:00Z

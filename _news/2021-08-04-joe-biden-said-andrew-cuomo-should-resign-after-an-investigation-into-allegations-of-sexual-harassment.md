@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cu
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cuomo-resign"
 type: article
 quality: 109
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, Wolf, top Dems say Cuomo should go; NY Gov remains defiant"
+    excerpt: "NEW YORK — New York Gov. Andrew Cuomo faced mounting pressure Tuesday to resign, including from President Joe Biden and other onetime Democratic allies, after an investigation found he"
+    publishedDateTime: 2021-08-04T03:54:00Z
+    webUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant"
+    ampWebUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
+    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 75
+    images:
+      - url: "https://s24526.pcdn.co/wp-content/uploads/2021/08/127399379_web1_127399379-001d9c15dc9f465086b11321454c17a0.jpg.optimal.jpg"
+        width: 640
+        height: 446
+        isCached: true
   - title: "President Joe Biden: Andrew Cuomo should resign"
     excerpt: "President Joe Biden on Tuesday afternoon called on New York Gov. Andrew M. Cuomo, a one-time ally and close political confidant, to step down. \"I think he should resign,\" Biden said when asked by repo"
     publishedDateTime: 2021-08-03T20:19:00Z
@@ -73,6 +89,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "qmnfBxzulg/TnuusoQQAo/CjlWM8E6b8UzQfC1jFROP1oLoCJVd1ZQc81SVvpEDsJ9S9k14xAj/kdWAgSlo/3ypZzhAXy5wcoRESryDOKJEkooYiliNlZqSO4X+2+ylaHoZujr6rt1/d1jUTRel+CacwL99TRw4sCDLOg51qXBiCsJBzWRr/DObmqP8aEkTe0HXUUVE/jUlmsD7VSasL3q3psuETv03GsOCn6J4xzmzS0+lRw3mrp2Ml9Xmc87mPppnhCls+0lKyFEm7OGPNin9PCx8/EfMaXIeh9eMmZzSq3Gv20FdF7jTycCM9ncNsKagXisN8mFPbOO1MA/CjXTcievBQyMBjNnEP6db1WH0=;Cteg02RFpAHbKIougn3kCQ=="
+secured: "333ZpyqLzMF8QpCXRlipoueSO7mLjec0hgTxM1s+DUVqx5RlF9lamZogZflyczFTDzQcZwJI4UKyQWO68Ea508Re/zfYV2JQu9Qso3q5ptSKUS5QPwxe+YX0ENyzFfou5a9gLu+j+BgPBaR6OQJ7n3B5MRVl8Q8CCe+bPJZSCHuFIGdmqVR/TLWGnaxcp/+lkr1UxmigCchwwQ7wLUNVYzmaRlWgKbrOgixriFURNL452KXHOkh+qLQYOAHMpa2lCItsvMsSOjrvjAed8xET7rP8PFgGNIhJYrpgwRyAY4VXkJyxyVF5hknnvjWnMmTQTxUYfA8h7K9SQowANKxzZxcz58+xOGMc7d+nVE2CNCLmDQnI0kiwzDWBg+peOYoylLfXmSdZKUJMFhcd9drxpWTj90gw4weft+1+g+HhlwVybt/00zm8uMyxBK9UlJD0NHjnSY78huxusKUqBai/sa9flZgW5IpSDGvqFohXGw18MNXfOXBJgSBAg44q2KxyrK5mc6gSHbDjON+9tgOuCg==;kh6a8Pq1NGsYlYEkkWeYgw=="
 ---
 

@@ -89,15 +89,22 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Trump-Backed Candidate Wins Republican U.S. House Primary in Ohio"
-    excerpt: "Former President Donald Trump's endorsed candidate Mike Carey won a crowded primary contest on Tuesday for the Republican nomination to a seat in the U.S. House of Representatives from Ohio's 15th district,"
-    publishedDateTime: 2021-08-04T01:13:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-03/trump-backed-candidate-wins-republican-us-house-primary-in-ohio"
+  - title: "Senior living exec ordered to pay back defrauded investors $79 million after Donald Trump commutes prison sentence"
+    excerpt: "Former Sunwest Management CEO Jon Harder dodged nine years of prison time when then-President Donald Trump commuted his sentence in January."
+    publishedDateTime: 2021-08-03T05:16:00Z
+    webUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html"
+    ampWebUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 53
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5MAZLYNOC5BNNJ7ETFZ7W3BVQI.jpg"
+        width: 960
+        height: 706
+        isCached: true
 
 secured: "trHzm7/GrilAooJXAIoa5EtCNF0L7d0eNTZW3+W4ejsKS99u/4mNqVscsrrS+pe2i7KUc1EWPwlb3CduAakfqS6iy7ar4qh9lVRhelTI0YeqyAnIhvaDkzXm3B78cwc9WCND940eL5X2kEliLI+0yjjFvhQLNaW3u8QZ1s7InQXZsO82AFQtcC5EhjetzkkGjeP3bDiAhOZkLViVhrNN+aIX3dsHtQgKPaF/FENcU7FgDU2L/9ntSjKusC6fvV0WGxfr+7B1SAtZw+KskxZ7UVmPzmPSpYY+icPBgE3JMPQj8vPv99x6ruQB+ISX0jMyBIqi3Od22yxdEhbg81UQVXYq+GTjuqURpZRVfUNMT7jGXoOgfffTO5D7F6d86jWnwR2MDhaZy4Op38yYI2XydMZpNnUxVQoHhJYs7IqS0kqRwHfktfO7VeaZ6dmtvu8siSvd+3n8px2AcgktkdnDF4iYf929lDMBtazTrEm+Jh/DgKGV4IShz5rzYYMCdfAAORS3O52yrhHoyaiO36KjfA==;rlwj3/aHg7ccABjiqTOV1A=="
 ---

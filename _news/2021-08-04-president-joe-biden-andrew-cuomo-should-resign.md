@@ -43,6 +43,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Biden, Wolf, top Dems say Cuomo should go; NY Gov remains defiant"
+    excerpt: "NEW YORK — New York Gov. Andrew Cuomo faced mounting pressure Tuesday to resign, including from President Joe Biden and other onetime Democratic allies, after an investigation found he"
+    publishedDateTime: 2021-08-04T03:54:00Z
+    webUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant"
+    ampWebUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
+    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 75
+    images:
+      - url: "https://s24526.pcdn.co/wp-content/uploads/2021/08/127399379_web1_127399379-001d9c15dc9f465086b11321454c17a0.jpg.optimal.jpg"
+        width: 640
+        height: 446
+        isCached: true
   - title: "2 years after El Paso shooting, Biden says U.S. 'must confront hate-fueled violence'"
     excerpt: "President Joe Biden on Tuesday will commemorate the second anniversary of the 2019 mass shooting at a Walmart in El Paso, Texas where 23 people died in what was believed to be a hate crime."
     publishedDateTime: 2021-08-03T13:41:00Z

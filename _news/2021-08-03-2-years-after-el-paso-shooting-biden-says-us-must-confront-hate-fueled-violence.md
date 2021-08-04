@@ -43,6 +43,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Biden, Wolf, top Dems say Cuomo should go; NY Gov remains defiant"
+    excerpt: "NEW YORK — New York Gov. Andrew Cuomo faced mounting pressure Tuesday to resign, including from President Joe Biden and other onetime Democratic allies, after an investigation found he"
+    publishedDateTime: 2021-08-04T03:54:00Z
+    webUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant"
+    ampWebUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
+    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 75
+    images:
+      - url: "https://s24526.pcdn.co/wp-content/uploads/2021/08/127399379_web1_127399379-001d9c15dc9f465086b11321454c17a0.jpg.optimal.jpg"
+        width: 640
+        height: 446
+        isCached: true
   - title: "President Joe Biden: Andrew Cuomo should resign"
     excerpt: "President Joe Biden on Tuesday afternoon called on New York Gov. Andrew M. Cuomo, a one-time ally and close political confidant, to step down. \"I think he should resign,\" Biden said when asked by repo"
     publishedDateTime: 2021-08-03T20:19:00Z

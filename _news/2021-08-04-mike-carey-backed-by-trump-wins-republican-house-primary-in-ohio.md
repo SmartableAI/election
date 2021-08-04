@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.htm
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.html"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Carey, endorsed by Trump, will win Ohio GOP special primary, CNN projects"
+    excerpt: "Mike Carey, a coal lobbyist who was endorsed by former President Donald Trump, will win the Republican special primary in Ohio's 15th Congressional District, CNN projects.\n    \n"
+    publishedDateTime: 2021-08-04T01:45:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803152112-02-mike-carey-0626-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump-backed candidate Mike Carey wins special election primary in Ohio's 15th District, AP projects"
     excerpt: "The Republican race was closely watched in its final days, following the loss last week of a Trump-endorsed candidate in a special House election in Texas."
     publishedDateTime: 2021-08-04T01:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?a
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1"
 type: article
 quality: 125
-heat: 805
+heat: 885
 published: true
 
 provider:
@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris' Asia Trip To Focus On Defending Rules In South China Sea"
+    excerpt: "Vice President Kamala Harris will focus on defending international rules in the South China Sea, strengthening US regional leadership and expanding security cooperation during her trip to Vietnam and Singapore this month,"
+    publishedDateTime: 2021-08-04T02:55:00Z
+    webUrl: "https://www.ndtv.com/world-news/kamala-harris-asia-trip-to-focus-on-defending-rules-in-south-china-sea-2502051"
+    ampWebUrl: "https://www.ndtv.com/world-news/kamala-harris-asia-trip-to-focus-on-defending-rules-in-south-china-sea-2502051?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/kamala-harris-asia-trip-to-focus-on-defending-rules-in-south-china-sea-2502051?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 75
+    images:
+      - url: "https://c.ndtvimg.com/2020-11/b0i1j088_kamala-harris-afp650_625x300_10_November_20.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "US Vice-President Kamala Harris will visit Singapore and Vietnam next month"
     excerpt: "Harris will be the first US vice-president to visit Vietnam, during a trip designed to strengthen ties with ‘two critical Indo-Pacific partners’."
     publishedDateTime: 2021-07-30T14:25:00Z
@@ -200,6 +216,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/OFHvjPSli9HM6BLeWVKRZYWfIjc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6GPTACAZWQGX5CBP7AVVNF4GGE.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris to defend international rules in South China Sea during Asia trip"
+    excerpt: "The US vice-president will also focus on strengthening US regional leadership and expanding security cooperation during her trip to Vietnam and Singapore."
+    publishedDateTime: 2021-08-04T02:55:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3143719/kamala-harris-defend-international-rules-south"
+    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3143719/kamala-harris-defend-international-rules-south"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3143719/kamala-harris-defend-international-rules-south"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 71
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/04/fad37ed6-f486-11eb-97f9-89051db5b6c1_image_hires_095855.jpg?itok=NXOBReww&v=1628042348"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris is the highest-ranking mom ever in U.S. politics. Here's why that matters"
     excerpt: "That’s where Vice President Kamala Harris’ mother comes in. It’s no secret that the vice president was heavily influenced by Gopalan Harris, an Indian immigrant scientist and single mom who raised Kamala and her sister in the East Bay in the ’60s and ’70s."
@@ -281,6 +313,22 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Meghan Markle may use friendship with Kamala Harris and Obamas to 'promote her political ambitions'"
+    excerpt: "Meghan Markle may use her friendship with US Vice-President Kamala Harris and the Obamas to “promote her own political ambitions”, according to a royal biographer. In a column for The Sun, published ahead of Meghan’s 40th birthday on 4 August,"
+    publishedDateTime: 2021-08-04T01:51:00Z
+    webUrl: "https://www.geo.tv/latest/363356-meghan-markle-may-use-friendship-with-kamala-harris-and-obamas-to-promote-her-political-ambitions"
+    ampWebUrl: "https://www.geo.tv/amp/363356-meghan-markle-may-use-friendship-with-kamala-harris-and-obamas-to-promote-her-political-ambitions"
+    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/363356-meghan-markle-may-use-friendship-with-kamala-harris-and-obamas-to-promote-her-political-ambitions"
+    type: article
+    provider:
+      name: Geo News
+      domain: www.geo.tv
+    quality: 61
+    images:
+      - url: "https://www.geo.tv/assets/uploads/updates/2021-08-04/l_363356_071047_updates.jpg"
+        width: 700
+        height: 390
+        isCached: true
   - title: "Kamala Harris slammed as she causes confusion over mask mandate after demanding reporters cover faces"
     excerpt: "KAMALA Harris was criticized for sending mixed messages about the mask mandate after demanding reporters cover their faces at the White House. Harris ordered journalists to mask up on Tuesday an"
     publishedDateTime: 2021-07-28T13:01:00Z
@@ -352,6 +400,20 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/202108035df91932050250868_th_1024x0.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Kamala Harris to push back on China's South China Sea claims"
+    excerpt: "The US vice-president will focus on defending international rules in the region during her Aug 22-26 Asia trip."
+    publishedDateTime: 2021-08-04T01:19:00Z
+    webUrl: "https://www.malaysiakini.com/world/585760"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 55
+    images:
+      - url: "https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/08/c43ac65ee6a702e1d4be240b58aa7a17.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
     excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"

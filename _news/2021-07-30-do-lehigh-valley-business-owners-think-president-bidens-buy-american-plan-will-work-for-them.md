@@ -128,6 +128,20 @@ related:
         width: 650
         height: 975
         isCached: true
+  - title: "Cuomo Harassment Allegations: Joe Biden Calls On New York Governor To Resign"
+    excerpt: "President Joe Biden responds to new report that found that New York Gov. Andrew Cuomo sexually harassed multiple current and former female employees."
+    publishedDateTime: 2021-08-03T22:56:00Z
+    webUrl: "https://www.ibtimes.com/cuomo-harassment-allegations-joe-biden-calls-new-york-governor-resign-3265623"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/29/us-president-joe-biden-unveiled-new-requirements-for.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "Ey3PlpQ8rd+TcfMTXb5CUv+izxlzKqs/JBm9I7oQ+BEx0nR78lfrep+Fb9cVS28VqX/VytaDZt4N1Yq4scuQVCqsp8j6pfCc93LkjTOOb4IB3fgEtJknKX1AAh1CkSJ2jH44HbdLry2zeyLX6GwSf3/jjdfSy34KTbMSm5Qrz1mxxvnmkg8rLtQCNBR3XPdQMceEIWOWC6xj8OBYXgNgeiyNH1nAMlOfFsIt4YyekjvMSY7KK7lBH8dPhX4TSorCr0wKWd41jpIargfOGkQWeP4KDqdlHNE6iny06QBggb13Dd3l7bVE080M/orp7GzNwqNlk0hMZu7rEOO+IsK38qU4FiEg16eJgTZ8gaQ6FMU=;Ib/JQXb+z2Kgo+pUaR9i7w=="
 ---
