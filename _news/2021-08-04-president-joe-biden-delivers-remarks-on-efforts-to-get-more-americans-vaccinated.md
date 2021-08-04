@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on Efforts to get more Americans Vaccinated"
 excerpt: "President Joe Biden delivers remarks on the efforts to get more Americans vaccinated and efforts to stop the spread of the Delta variant, in East Room of the White House in Washington, DC on Tuesday,"
 publishedDateTime: 2021-08-03T21:41:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f6848b251dc9d3c49116d1a220aba2e6/President-Joe-Biden-Delivers-Remarks-on-Efforts-to-get-more-Americans-Vaccinated/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f6848b251dc9d3c49116d1a220aba2e6/President-Joe-Biden-Delivers-Remarks-on-Efforts-to-get-more-Americans-Vaccinated/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/34fa92f3627b3aad2ade5cd96b65b01e/President-Joe-Biden-Delivers-Remarks-on-Efforts-to-get-more-Americans-Vaccinated/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/34fa92f3627b3aad2ade5cd96b65b01e/President-Joe-Biden-Delivers-Remarks-on-Efforts-to-get-more-Americans-Vaccinated/"
 type: article
 quality: 50
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f6848b251dc9d3c49116d1a220aba2e6/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/34fa92f3627b3aad2ade5cd96b65b01e/BIDEN-VACCINE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -214,6 +214,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "xR0HCqngv682tof1AVmpyZFVyC4m+I956i3pdABY1mFoovoJb5WO9He8JKE2g6YtMtXAsyhjn8MqEyXMHYcWcRvvo3q8IiRYnTT2PMXGX6mLlaiUChlFKOxHrC/I0AroSdjCQecAzxLWhRDTV7fuOiRKyQg5SZgV2SsJ4sMBYIX0tjbYC+cmf9PNYM9Q/9P3cCL9t9pK4LX8lNNGMRtzBs9ty7Hl+TDMN8tyVG5Zk9808Z/kTaxOwDOcLKJEdCAqcEmTVMiw/KvbVmi8fwe8tm/YcRrVJNmGchVmNl1xCFGFBn8U4hN8h0dovgANGJESJHKCaLPxMUDZ1SyVYI0hMwviMeyJNUNzbFl9lEMYYtlQyVAuoYFvVczRbAxzFHeTNYDoid5fGw+5KiYIlmTnCDz3tGt6uFaVItU1MqQDSuxVVl0MOaPOC188EIa3thM7SjX9Q17i6y04JeQdFKqNq+KLhtsUkYQqUZbFphrblRlobyGTMIO9O6l2XIB3yMu+zeSGsDtCBPILALs3dUFR4g==;dJjXnpWLcGh9R08Of/7vIQ=="
+secured: "D6t4NNqAMPFsJQp1do9SPQQ853d3yQGgDbhKSh1yggVSFT6XKF41JEFUPNkJTTxUoB0Arzc9Sz7eEkoVagciFIHHTA1IfXhDrdH2/TEjDd7l9oGJHMgwmIGzw5RgUHagpLrEskd/MPapikMaPtZ6rAswiYyvgcqzNB9RT2XjSm8aLD5C9ZvryZ34irTHKELQRquSoWNm7Xtw5ttwY0UyeOk5NdHuuZ1c/K8H8spm3mmkCSAgW7sfRye/sTuM65PpugtveJ+0HUU83Ao2zjHKdVxyI/E/oUmCGG6iPFFqq4fLLQkSRwz8f0JgGd+i/jyzG7Cjft6bOe5DuS2rHzSnDEcMGioVMs5seNSzkME8DLc=;kzKFgVhGckC611xmJZi9Mw=="
 ---
 

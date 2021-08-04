@@ -148,15 +148,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump Raises Big Money in Early 2021, but Doesn't Spend Much"
-    excerpt: "A fundraising group run by former President Donald Trump raised $62 million in the first half of the year but only spent $3 million, with the biggest chunk of money going to a pro-Trump research center and more than $65,"
-    publishedDateTime: 2021-08-01T03:35:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "O3z5lfg63DkUhgdYcE3a/D+a5lJPY8lR6LDJPJl8NMjZiR2tF+lzY6kFEIWzDzibAix6WIvBo6kryrgl86yDAdCas+oKO2wZTbrIG2mXc/leHsvjliLYyN63eFj+hwcjPvyIi1AsVqQ2fhJtGK3j92H781421vVAy3bNxb72ODD84B89RDYiLaFRuDtju9a7VWJO+GIIoXyARJ333LUzOyJyMqzqqImUe/11EvJ8U39jturlu2fTVBz/g+ncbSNT85kcf/cSlP0ZXAynhZoFiA++zMKEMETLgECOlZYk6CBpJNmrVpN2aioDrNQbtAL8U84xc7025oZ7vpj+vRRluM4aOEABGNy2OzjR2u/BD8I=;PXzdsfgUHabxKB0Jx9YkVg=="
 ---

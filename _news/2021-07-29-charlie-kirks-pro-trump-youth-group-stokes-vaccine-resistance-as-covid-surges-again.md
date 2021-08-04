@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
-    excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
-    publishedDateTime: 2021-08-04T02:39:00Z
-    webUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
-    ampWebUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+  - title: "CDC extents Trump-era policy expelling migrants over COVID-19 fears"
+    excerpt: "The Biden administration has extended a Trump-era policy that allows border officials to expel migrants entering the United States due to COVID-19 fears."
+    publishedDateTime: 2021-08-03T09:56:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: UPI.com
+      domain: upi.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
-        width: 1024
-        height: 662
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6411627980154/2021/1/921233e611540bc932a2d3593bd47559/v1.5/CDC-extends-Trump-era-policy-expelling-migrants-over-COVID-19-fears.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Beshear Uses Ex-Trump Official's Words in Urging COVID Shots"
     excerpt: "Kentucky’s Democratic governor is highlighting a warning from a Trump administration health official in urging people to get the COVID-19 vaccine."

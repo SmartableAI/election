@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BM1GJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1GJ"
 type: article
 quality: 125
-heat: 1625
+heat: 1645
 published: true
 
 provider:
@@ -510,6 +510,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/08/0a4cc03c-e6e5-4853-8789-4c564090c01c/thumbnail/1200x630/49dba0a727310217607c2a6ea76e3672/gettyimages-1232578231.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden's ATF nominee on shaky ground in Senate"
+    excerpt: "President Biden's ATF nominee is in trouble in the Senate, where Republicans are opposing him over his work for gun control groups and a handful of Democrats have yet to offer their support."
+    publishedDateTime: 2021-08-04T10:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/566233-bidens-atf-nominee-on-shaky-ground-in-senate"
+    ampWebUrl: "https://thehill.com/homenews/senate/566233-bidens-atf-nominee-on-shaky-ground-in-senate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/566233-bidens-atf-nominee-on-shaky-ground-in-senate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/chipmandavid_09252019getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."

@@ -165,17 +165,6 @@ related:
         width: 4990
         height: 3327
         isCached: true
-  - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
-    excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
-    publishedDateTime: 2021-04-30T04:32:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Trump-Backed Candidate Heads to Runoff in Texas Special Congressional Election"
     excerpt: "A Texas Republican backed by former President Donald Trump has advanced to a runoff election to fill a U.S. House of Representatives vacancy left by the death of her husband, while Democrats appeared in danger of being shut out of the contest."
     publishedDateTime: 2021-05-02T13:38:00Z

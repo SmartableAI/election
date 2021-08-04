@@ -39,6 +39,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Help or 'get out of the way.' Biden criticizes governors in Texas and Florida over handling of COVID-19"
+    excerpt: "Biden singled out Florida and Texas, both GOP-led hot spots that have pushed back against coronavirus restrictions in recent days."
+    publishedDateTime: 2021-08-04T10:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/03/get-out-of-the-way-biden-wades-into-state-level-fights-over-covid-measures/5473118001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5473118001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5473118001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/04/USAT/c67fd80a-cd82-4896-b1e4-23c951fa9387-AP_Biden_3.jpg?auto=webp&crop=4355,2450,x0,y221&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Says US To See New Covid Restrictions 'In All Probability'"
     excerpt: "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases."
     publishedDateTime: 2021-07-31T03:58:00Z

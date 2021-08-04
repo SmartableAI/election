@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden shows he's ready to make drastic moves in Covid-19 fight -- even if he's not sure they're legal"
+    excerpt: "Even President Joe Biden doesn't know whether his new federal eviction moratorium for renters is legal and sustainable. But crushing humanitarian and political pressure left him no choice but to take a chance on an emergency move.\n    \n"
+    publishedDateTime: 2021-08-04T11:29:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_r6dbsmXB-U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/covid-emergency-moves-evictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/covid-emergency-moves-evictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803172644-03-biden-0803-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden announces measures to incentivize Covid-19 vaccinations, including a requirement for federal employees"
     excerpt: "President Joe Biden on Thursday is set to announce a number of new steps his administration will take to try to get more Americans vaccinated and slow the spread of coronavirus, including requiring that all federal employees must attest to being vaccinated against Covid-19 or face strict protocols.\n"
     publishedDateTime: 2021-07-29T20:52:09Z

@@ -191,6 +191,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "10 Things in Politics: Cuomo facing Biden's call to resign"
+    excerpt: "And the Biden administration reversed itself on extending a ban on evictions."
+    publishedDateTime: 2021-08-04T10:09:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-cuomo-report-sexual-harassment-democrats-biden"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-cuomo-report-sexual-harassment-democrats-biden?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-cuomo-report-sexual-harassment-democrats-biden?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/610a502e372268001a5989fb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
     excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
     publishedDateTime: 2021-04-30T12:21:00Z

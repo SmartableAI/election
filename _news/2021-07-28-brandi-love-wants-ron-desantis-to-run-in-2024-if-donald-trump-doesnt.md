@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-don
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
-    excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
-    publishedDateTime: 2021-07-29T10:24:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 53
   - title: "Iran Deflects Blame for Tanker Attack With Rant Against Trump"
     excerpt: "Iranian leaders referenced Israeli and U.S. attacks on Iranian vessels during the Trump administration while also denying ties to the fatal strike in the Arabian Sea."
     publishedDateTime: 2021-08-02T18:27:00Z

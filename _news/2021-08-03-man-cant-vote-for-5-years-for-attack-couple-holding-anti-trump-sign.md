@@ -27,33 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Two U.S. companies seek extension of Trump-era solar tariffs"
-    excerpt: "Two small U.S. solar manufacturers on Monday asked federal trade officials to extend tariffs on solar panel imports imposed by the Trump administration that have divided the fast-growing renewable energy sector."
-    publishedDateTime: 2021-08-02T14:52:00Z
-    webUrl: "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/"
+  - title: "Justice Dept. says IRS must give Trump tax returns to Congress"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T19:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
     images:
-      - url: "https://www.reuters.com/resizer/AXhRXChBvbq8EZk2zRdpUsQstoA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WVH62A75WVKUVDZ7OE6CYWGY4Y.jpg"
+      - url: "https://www.chicagotribune.com/resizer/VhQx2UqxW-UAnFNI9gPPPnBNLgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZD2KL25SNEXYSKVW22435JKHQ.aspx"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
-  - title: "Trump grapples with maintaining political relevancy"
-    excerpt: "Former President Trump has been working to maintain leadership in the Republican Party since his defeat in the 2020 election. However, over the past few weeks, he's seen several political fires pop up,"
-    publishedDateTime: 2021-08-02T23:27:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-tax-returns-political-relevance-analysis-sarah-westwood/"
+  - title: "Justice Department says IRS must provide Trump's tax returns to Congress"
+    excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump's tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T19:33:00Z
+    webUrl: "https://www.cbsnews.com/news/justice-department-says-irs-must-give-trump-tax-returns-congress/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/justice-department-says-irs-must-give-trump-tax-returns-congress/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/justice-department-says-irs-must-give-trump-tax-returns-congress/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 124
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/08/02/b7b3c385-a9e5-4f4f-9dd1-9416c225c844/thumbnail/1200x630/8cad43c543a1629a905d3c714a6fecdd/cbsn-fusion-doj-drops-bombshells-on-former-president-trump-as-he-tries-to-maintain-political-relevance-thumbnail-765074-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/08/214bf190-6024-4d7a-a645-d3a47739c90f/thumbnail/1200x630/4dd1e53fb3aa5cc8469f58b7ceb151a3/gettyimages-1230553516.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "S.C. Lawmaker Mounts Challenge to Rep. Tom Rice, Says Trump Impeachment Vote Broke 'Trust'"
+    excerpt: "\"I think the people...deserve someone they can trust again, and I think I'm that person,\" state Representative Russell Fry said."
+    publishedDateTime: 2021-07-30T13:36:00Z
+    webUrl: "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645"
+    ampWebUrl: "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1858741/russell-fry-challenges-tom-rice-primaries.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
+  - title: "Trump Paid $680,000 to Defense Lawyers in Second Impeachment"
+    excerpt: "Former president Donald Trump used nearly $700,000 in campaign funds to pay the lawyers who defended him at his second impeachment trial, according to filings with the Federal Election Commission."
+    publishedDateTime: 2021-08-02T19:10:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-02/trump-paid-680-000-to-defense-lawyers-in-second-impeachment"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieVcTm9JY2Gw/v1/1200x686.jpg"
+        width: 1200
+        height: 686
         isCached: true
   - title: "Power Up: Despite DOJ waive of executive privilege, compelling Trump-era officials to testify still a wildcard"
     excerpt: "While the DOJ's announcement opens the door for former Trump administration officials to be called to testify in the events leading up to January 6, Democrats don't have a strong track record of enforcing those subpoenas."
@@ -69,37 +103,72 @@ related:
         width: 1440
         height: 1859
         isCached: true
-  - title: "CDC extents Trump-era policy expelling migrants over COVID-19 fears"
-    excerpt: "The Biden administration has extended a Trump-era policy that allows border officials to expel migrants entering the United States due to COVID-19 fears."
-    publishedDateTime: 2021-08-03T09:56:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/03/Centers-for-Disease-Control-and-Prevent-extend-Title-42-to-expel-migrants-due-to-COVID-19-pandemic/6411627980154/"
+  - title: "Justice Department says IRS must give Trump's tax returns to Congress"
+    excerpt: "The Justice Department on Friday said the Treasury Department must hand over former President Trump's tax returns to the House Ways and Means Committee, putting an apparent end to the yearslong battle over the records."
+    publishedDateTime: 2021-07-31T05:24:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-tax-returns-irs-congress-justice-department/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
+  - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
+    excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
+    publishedDateTime: 2021-07-23T23:38:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/23/susan-wright-jake-ellzey-clash-in-low-turnout-congressional-contest-influenced-by-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 63
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6411627980154/2021/1/921233e611540bc932a2d3593bd47559/v1.5/CDC-extends-Trump-era-policy-expelling-migrants-over-COVID-19-fears.jpg"
-        width: 800
-        height: 532
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zp8RnDoX54ji-1jEmPaqcmBJbng=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HQIGQ74FORGH5ASQDJPO5ZM3WY.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Senior living exec ordered to pay back defrauded investors $79 million after Donald Trump commutes prison sentence"
-    excerpt: "Former Sunwest Management CEO Jon Harder dodged nine years of prison time when then-President Donald Trump commuted his sentence in January."
-    publishedDateTime: 2021-08-03T05:16:00Z
-    webUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html"
-    ampWebUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
+  - title: "Justice Department Says IRS Must Give Trump Tax Returns To Congress"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T17:51:00Z
+    webUrl: "https://www.newson6.com/story/61043c333c941b0bf48e9438/justice-department-says-irs-must-give-former-president-trumps-tax-returns-to-congress"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
+      name: News on 6
+      domain: newson6.com
+    quality: 55
+    images:
+      - url: "https://hot-town-images.s3.us-east-1.amazonaws.com/kotv/production/2020/March/17/face-masks-recommended-though-trump-says-he-wont-wear-one.1584442094000-0.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump: Won't sue to halt officials' testifying"
+    excerpt: "Former President Donald Trump said this week that he will not move to stop former Justice Department officials from testifying before two committees that are investigating his administration's efforts to subvert the results of the presidential election,"
+    publishedDateTime: 2021-08-04T09:14:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/04/trump-wont-sue-to-halt-officials-testifying/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
+    excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T22:38:00Z
+    webUrl: "https://floridapolitics.com/archives/444921-irs-trump-tax-returns-congress/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
     quality: 53
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5MAZLYNOC5BNNJ7ETFZ7W3BVQI.jpg"
-        width: 960
-        height: 706
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Donald-Trump.jpeg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "eXJ6EoiVwApLredN1Lk4n7Vw1F6uLISRutuHDU8pHI4yjaSMHWexaM3JoBi+Dwzd+/9M3whhkf9/dlaFdjIGa17lUZqi8GjNIwlxRibVq2APUxh4vdwVFXB9cMXumV9JOM7Ziu+IkCaJzudZnd2wwMbaKJG8ie9qwU2LXqJPGJnZTujbSCFkuh9AS3hrKXkomMx2LDQs1jtSuuVzayKq6/mVR7/ql986XFmyen269NTZMxZn1mzhHGEeglPTC6spRtNOAevDhqKdT/YeKvT7Xr9hgqpBJMD731F3LefmmlxqZP1fnL5p9n1lRynVM6U+V71FR4Ff4HTIOtuTJ7I/7qaibJ1eVg0tKrOYqveCqEo=;2E8j+39TCJ/BLZTL+kvtVQ=="

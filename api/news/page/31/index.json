@@ -2,158 +2,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_news/2021-06-09-joe-biden-clone-conspiracy-theory-spreads-on-facebook.md",
-      "title": "Joe Biden 'Clone' Conspiracy Theory Spreads on Facebook",
-      "excerpt": "An outlandish theory suggesting the president is \"a lookalike, double or clone\" is starting to spread across social media platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909",
-      "originalUrl": "https://www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1816464/joe-biden-speaks-about-may-job-report.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909?amp=1",
-      "publishedDateTime": "2021-06-09T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-his-jail-time.md",
-      "title": "Kwame Kilpatrick Explains 'Catalyst' Behind Donald Trump Cutting His Jail Time",
-      "excerpt": "The former Detroit mayor said he dropped to his knees when he learned that Trump was freeing him from prison in one of his last acts in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920",
-      "originalUrl": "https://www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1816483/kwame-kilpatrick.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920?amp=1",
-      "publishedDateTime": "2021-06-09T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-tucker-carlson-how-did-kamala-harris-wind-up-effectively-in-charge-of-the-united-states.md",
-      "title": "Tucker Carlson: How Did Kamala Harris Wind Up Effectively In Charge Of The United States?",
-      "excerpt": "Two years ago, during the Democratic presidential primaries, Kamala Harris appeared on CNN to explain where she stood in the race. At that moment, Harris had just been memorably humiliated by Tulsi Gabbard of Hawaii during a televised debate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/545273.jpg",
-          "width": 1162,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html",
-      "publishedDateTime": "2021-06-09T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-09-biden-ends-gop-infrastructure-talks-but-new-group-emerges.md",
       "title": "Biden ends GOP infrastructure talks, but new group emerges",
       "excerpt": "President Joe Biden has ended talks with a group of Republican senators on a big infrastructure package and has started to reach out to senators in a new bipartisan effort",
@@ -1356,6 +1204,167 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-vp-kamala-harris-visits-latin-america-to-tackle-migration-corruption.md",
+      "title": "VP Kamala Harris visits Latin America to tackle migration, corruption",
+      "excerpt": "The Biden administration is expected to announce new measures to fight smuggling and trafficking, and hopes to announce additional anti-corruption efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 785,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/XEP7DeqoJKwujD5O3LaMf_lrGGw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/M3GSUD6GWY6XRPWDLTTJWDLHGE.jpg",
+          "width": 1200,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-06T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-vice-president-kamala-harris-plane-forced-to-return-over-technical-issue.md",
+      "title": "Vice President Kamala Harris’ plane forced to return over ‘technical issue’",
+      "excerpt": "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx",
+          "width": 1200,
+          "height": 758,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-06T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-kamala-harris-plane-forced-to-turn-back-because-of-technical-issue.md",
+      "title": "Kamala Harris’ plane forced to turn back because of ‘technical issue’",
+      "excerpt": "A plane carrying Vice President Kamala Harris was forced to return to Joint Base Andrews in Maryland Sunday about 25 minutes after it had taken off for a trip to Guatemala and Mexico.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vM3t3eP5vfg/kamala-harris-plane-technical-issue",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vM3t3eP5vfg/kamala-harris-plane-technical-issue",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f435c28d-a781-48cf-8acb-5c51c8465a28/a33bccfb-e734-4dd0-ac2f-794c42400a0a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-plane-technical-issue.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-plane-technical-issue.amp",
+      "publishedDateTime": "2021-06-06T12:22:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
       ]
     }
   ],

@@ -2,119 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
-      "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
-      "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
-      "publishedDateTime": "2021-07-31T07:22:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-down-the-drain-millions-face-eviction-after-biden-lets-protections-expire.md",
-      "title": "'Down the drain’: Millions face eviction after Biden lets protections expire",
-      "excerpt": "The federal eviction moratorium in place since September is set to expire Saturday, after the Biden administration refused to extend it and Democrats in Congress couldn't muster the votes to intervene.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
-      "originalUrl": "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/40/99/4793f7c7413585b384ff270145fb/7-30-21-evictions1-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
-      "publishedDateTime": "2021-07-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-31-kamala-harris-to-travel-to-vietnam-singapore-next-month-amid-china-tensions-us-border-crisis.md",
       "title": "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis",
       "excerpt": "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border.",
@@ -390,6 +277,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-justice-dept-says-irs-must-give-trump-tax-returns-to-congress.md",
+      "title": "Justice Dept. says IRS must give Trump tax returns to Congress",
+      "excerpt": "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/VhQx2UqxW-UAnFNI9gPPPnBNLgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZD2KL25SNEXYSKVW22435JKHQ.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp",
+      "publishedDateTime": "2021-07-30T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -820,58 +759,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-30-sc-lawmaker-mounts-challenge-to-rep-tom-rice-says-trump-impeachment-vote-broke-trust.md",
-      "title": "S.C. Lawmaker Mounts Challenge to Rep. Tom Rice, Says Trump Impeachment Vote Broke 'Trust'",
-      "excerpt": "\"I think the people...deserve someone they can trust again, and I think I'm that person,\" state Representative Russell Fry said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645",
-      "originalUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1858741/russell-fry-challenges-tom-rice-primaries.jpg",
-          "width": 2500,
-          "height": 1669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1",
-      "publishedDateTime": "2021-07-30T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-30-how-matt-damons-stillwater-explores-ugly-americans-in-the-post-trump-era.md",
       "title": "How Matt Damon’s ‘Stillwater’ explores ‘ugly Americans’ in the post-Trump era",
       "excerpt": "With an empathetic eye and cross-cultural cast led by Matt Damon and Camille Cottin, 'Stillwater' director Tom McCarthy tried to upend expectations for his dramatic thriller.",
@@ -880,7 +767,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1354,6 +1241,114 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-charlie-kirks-pro-trump-youth-group-stokes-vaccine-resistance-as-covid-surges-again.md",
+      "title": "Charlie Kirk’s pro-Trump youth group stokes vaccine resistance as covid surges again",
+      "excerpt": "Charlie Kirk’s Turning Point USA and its affiliates are urging students to resist mandates and spreading baseless claims about “medical raids,” part of a bid for donations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TIVJHDHUOYI6VN4WFXIJSYTETQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-biden-shifts-onus-for-pandemic-onto-the-unvaccinated-as-he-readies-federal-worker-vaccine-requirement.md",
+      "title": "Biden shifts onus for pandemic onto the unvaccinated as he readies federal worker vaccine requirement",
+      "excerpt": "President Joe Biden, who for months used techniques like public service announcements and grassroots campaigns to persuade Americans to get vaccinated, is adopting a tougher approach as caseloads surge: vaccine requirements and blame.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6ZlqZAWWO3A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6ZlqZAWWO3A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210727161530-02-biden-odni-0727-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-pandemic-unvaccinated/index.html",
+      "publishedDateTime": "2021-07-29T04:17:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

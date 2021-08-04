@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-04-as-trump-claims-victory-in-ohio-progressive-democrats-influence-takes-a-hit.md",
-      "title": "As Trump Claims Victory in Ohio, Progressive Democrats' Influence Takes a Hit",
-      "excerpt": "Moderate democrats could take former state Senator Nina Turner's loss on Tuesday as an indication that voters aren't looking for the party to shift farther left.",
+      "path": "_news/2021-08-04-ohio-special-election-underscores-donald-trumps-grip-on-republicans.md",
+      "title": "Ohio special election underscores Donald Trump’s grip on Republicans",
+      "excerpt": "Donald Trump’s grip on the Republican party was bolstered on Tuesday when a coal lobbyist endorsed by the former president defeated 10 fellow Republicans in a closely watched special election in Ohio.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854",
-      "originalUrl": "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854",
+      "webUrl": "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "originalUrl": "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 980,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1861807/nina-turner-concession-speech.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32a40317-b720-4507-994e-dd960558b7ae.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854?amp=1",
-      "publishedDateTime": "2021-08-03T20:44:00-07:00",
+      "ampWebUrl": "https://amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "publishedDateTime": "2021-08-03T19:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "The Financial Times",
+        "domain": "ft.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -201,6 +201,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-03-trump-supporter-loses-voting-rights-for-5-years-after-attacking-elderly-couple-critical-of-the-president.md",
+      "title": "Trump supporter loses voting rights for 5 years after attacking elderly couple critical of the president",
+      "excerpt": "Mark A. Ulsake pleaded guilty to two felony counts of threats of violence in connection with the attack on Nov. 8, when he allegedly swung a golf club at the elderly man and woman and punched the man in the head.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html",
+      "originalUrl": "https://www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pilotonline.com/resizer/EPW8g7qaSeUmL81vKX1KrdHHjpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/42UI4D6ENUI3SNJKQQILLONSAM.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html?outputType=amp",
+      "publishedDateTime": "2021-08-03T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virginian-Pilot",
+        "domain": "pilotonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-trump-stokes-anti-muslim-sentiment-censured-in-us-abroad.md",
       "title": "Trump stokes anti-Muslim sentiment; censured in US, abroad",
       "excerpt": "Stoking the same anti-Islam sentiments he fanned on the campaign trail, President Donald Trump on Wednesday retweeted a string of inflammatory videos from a fringe British political group purporting to show violence being committed by Muslims.",
@@ -296,58 +339,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-03-donald-trumps-golden-ticket-is-on-trial-in-ohio-where-a-special-election-is-again-testing-his-political-prowess.md",
-      "title": "Donald Trump's 'golden ticket' is on trial in Ohio, where a special election is again testing his political prowess",
-      "excerpt": "The potency of Donald Trump playing in GOP primaries faces a crucial test Tuesday in a special election contest Republicans say is a toss-up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-special-election-kingmaker-status-2021-8",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-special-election-kingmaker-status-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61086c91372268001a5951db?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-03-meghan-mccain-i-skipped-mary-trump-interview-because-shes-too-irrelevant-for-my-time.md",
       "title": "Meghan McCain: I skipped Mary Trump interview because she's 'too irrelevant for my time'",
       "excerpt": "Soon-to-be-former “The View” co-host Meghan McCain skipped an interview with guest Mary Trump on Monday's program, saying the former president's niece wasn't worth her time.",
@@ -402,58 +393,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-two-us-companies-seek-extension-of-trump-era-solar-tariffs.md",
-      "title": "Two U.S. companies seek extension of Trump-era solar tariffs",
-      "excerpt": "Two small U.S. solar manufacturers on Monday asked federal trade officials to extend tariffs on solar panel imports imposed by the Trump administration that have divided the fast-growing renewable energy sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/",
-      "originalUrl": "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/AXhRXChBvbq8EZk2zRdpUsQstoA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WVH62A75WVKUVDZ7OE6CYWGY4Y.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -825,7 +764,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6/2021/07/31/086cad9c-f185-11eb-a452-4da5fe48582d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -929,7 +868,7 @@
       "originalUrl": "https://abcnews.go.com/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -953,58 +892,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-former-top-justice-dept-officials-notes-say-trump-asked-him-to-call-election-corrupt.md",
-      "title": "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\"",
-      "excerpt": "The House Oversight and Reform Committee released notes from acting deputy attorney general Richard Donoghue Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 471,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/297a2ce4-c8c2-414f-b43c-aaa933aa7c4a/thumbnail/1200x630/b4fd056bcbc7a3c7547a74f44a8105f6/cbsn-fusion-trump-org-expects-charges-to-be-filed-thurs-thumbnail-744929-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "publishedDateTime": "2021-07-31T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1082,6 +969,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-31-justice-dept-says-irs-must-give-trump-tax-returns-to-congress.md",
+      "title": "Justice Dept. says IRS must give Trump tax returns to Congress",
+      "excerpt": "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/VhQx2UqxW-UAnFNI9gPPPnBNLgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZD2KL25SNEXYSKVW22435JKHQ.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp",
+      "publishedDateTime": "2021-07-30T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-how-ashli-babbitt-went-from-capitol-rioter-to-trump-embraced-martyr.md",
       "title": "How Ashli Babbitt went from Capitol rioter to Trump-embraced ‘martyr’",
       "excerpt": "Babbitt was shot and killed Jan. 6 by a police officer as she and hundreds of others stormed the Capitol in an effort to overturn to the 2020 presidential election. In the months since, Trump and his allies have waged a fevered campaign to rewrite the narrative of one of the darkest days in the nation's history.",
@@ -1134,58 +1073,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-30-sc-lawmaker-mounts-challenge-to-rep-tom-rice-says-trump-impeachment-vote-broke-trust.md",
-      "title": "S.C. Lawmaker Mounts Challenge to Rep. Tom Rice, Says Trump Impeachment Vote Broke 'Trust'",
-      "excerpt": "\"I think the people...deserve someone they can trust again, and I think I'm that person,\" state Representative Russell Fry said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645",
-      "originalUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1858741/russell-fry-challenges-tom-rice-primaries.jpg",
-          "width": 2500,
-          "height": 1669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sc-lawmaker-mounts-challenge-rep-tom-rice-says-trump-impeachment-vote-broke-trust-1614645?amp=1",
-      "publishedDateTime": "2021-07-30T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-30-how-matt-damons-stillwater-explores-ugly-americans-in-the-post-trump-era.md",
       "title": "How Matt Damon’s ‘Stillwater’ explores ‘ugly Americans’ in the post-Trump era",
       "excerpt": "With an empathetic eye and cross-cultural cast led by Matt Damon and Camille Cottin, 'Stillwater' director Tom McCarthy tried to upend expectations for his dramatic thriller.",
@@ -1194,7 +1081,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1554,6 +1441,110 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-brandi-love-wants-ron-desantis-to-run-in-2024-if-donald-trump-doesnt.md",
+      "title": "Brandi Love Wants Ron DeSantis To Run in 2024 if Donald Trump Doesn't",
+      "excerpt": "\"Even I can admit that Donald Trump has an obnoxious arrogance about him that rubs some people the wrong way,\" the adult film actress told Newsweek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
+      "originalUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1857361/ron-desantis-brandi-love.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
+      "publishedDateTime": "2021-07-28T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-audio-shows-a-profanity-laced-voicemail-that-dc-officer-michael-fanone-got-from-a-trump-supporter-while-he-was-testifying-to-congress.md",
+      "title": "Audio shows a profanity-laced voicemail that DC officer Michael Fanone got from a Trump supporter while he was testifying to Congress",
+      "excerpt": "The DC police officer had told Congress on Tuesday that he was beaten unconscious and almost killed by Capitol rioters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
+      "originalUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610121ec0d35a90018258b3e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
+      "publishedDateTime": "2021-07-28T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

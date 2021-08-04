@@ -527,6 +527,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's ATF nominee on shaky ground in Senate"
+    excerpt: "President Biden's ATF nominee is in trouble in the Senate, where Republicans are opposing him over his work for gun control groups and a handful of Democrats have yet to offer their support."
+    publishedDateTime: 2021-08-04T10:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/566233-bidens-atf-nominee-on-shaky-ground-in-senate"
+    ampWebUrl: "https://thehill.com/homenews/senate/566233-bidens-atf-nominee-on-shaky-ground-in-senate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/566233-bidens-atf-nominee-on-shaky-ground-in-senate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/chipmandavid_09252019getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "UPDATE 1-Biden aides to host meeting on supply chain issues -White House"
     excerpt: "White House press secretary Jen Psaki said the meeting would be hosted by President Joe Biden’s national security adviser, Jake Sullivan, and a top economic aide, Brian Deese. The meeting will be held on April 12 and include chipmakers and automakers ..."
     publishedDateTime: 2021-04-01T23:49:00Z

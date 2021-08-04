@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "First Thing: Biden urges Cuomo to quit amid allegations of serial sexual harassment"
+    excerpt: "New York governor denies having ‘inappropriately touched’ 11 women as calls for his resignation mount. Plus: How a successful journalist realised she had to get rid of Twitter, for good"
+    publishedDateTime: 2021-08-04T09:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/339ceb2729f1c35c7fc197ef7c5a3068fc675e17/67_0_3366_2021/master/3366.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=73516b15c05b3561c101a7dbff8b4e90"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden Said Andrew Cuomo Should Resign After An Investigation Into Allegations Of Sexual Harassment"
     excerpt: "I think he should resign,\" Biden said of Cuomo at a news conference Tuesday. President Joe Biden called on Gov. Andrew Cuomo to resign but refused to say whether he believes the governor should be prosecuted,"
     publishedDateTime: 2021-08-03T22:15:00Z
@@ -83,22 +99,6 @@ related:
       - url: "https://s24526.pcdn.co/wp-content/uploads/2021/08/127399379_web1_127399379-001d9c15dc9f465086b11321454c17a0.jpg.optimal.jpg"
         width: 640
         height: 446
-        isCached: true
-  - title: "2 years after El Paso shooting, Biden says U.S. 'must confront hate-fueled violence'"
-    excerpt: "President Joe Biden on Tuesday will commemorate the second anniversary of the 2019 mass shooting at a Walmart in El Paso, Texas where 23 people died in what was believed to be a hate crime."
-    publishedDateTime: 2021-08-03T13:41:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 68
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7221627994073/2021/1/4a5485e3b2e2c7b48e48e9f5958f43aa/v1.5/2-years-after-El-Paso-shooting-Biden-says-US-must-confront-hate-fueled-violence.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
     excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."

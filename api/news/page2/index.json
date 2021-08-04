@@ -167,58 +167,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-02-two-us-companies-seek-extension-of-trump-era-solar-tariffs.md",
-      "title": "Two U.S. companies seek extension of Trump-era solar tariffs",
-      "excerpt": "Two small U.S. solar manufacturers on Monday asked federal trade officials to extend tariffs on solar panel imports imposed by the Trump administration that have divided the fast-growing renewable energy sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/",
-      "originalUrl": "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/AXhRXChBvbq8EZk2zRdpUsQstoA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WVH62A75WVKUVDZ7OE6CYWGY4Y.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-02-white-house-once-again-makes-covid-19-the-focus-of-bidens-schedule.md",
       "title": "White House once again makes Covid-19 the focus of Biden's schedule",
       "excerpt": "The White House is making a concerted effort to return the focus of President Joe Biden's schedule to Covid-19 this week as the year-and-a-half-long pandemic again consumes his agenda amid a new spike in cases.\n    \n",
@@ -231,7 +179,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -717,7 +665,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1133,7 +1081,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6/2021/07/31/086cad9c-f185-11eb-a452-4da5fe48582d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1237,7 +1185,7 @@
       "originalUrl": "https://abcnews.go.com/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1281,21 +1229,25 @@
       ]
     },
     {
-      "path": "_news/2021-07-31-former-top-justice-dept-officials-notes-say-trump-asked-him-to-call-election-corrupt.md",
-      "title": "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\"",
-      "excerpt": "The House Oversight and Reform Committee released notes from acting deputy attorney general Richard Donoghue Friday.",
+      "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
+      "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
+      "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 471,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/297a2ce4-c8c2-414f-b43c-aaa933aa7c4a/thumbnail/1200x630/b4fd056bcbc7a3c7547a74f44a8105f6/cbsn-fusion-trump-org-expects-charges-to-be-filed-thurs-thumbnail-744929-640x360.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1303,16 +1255,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/",
-      "publishedDateTime": "2021-07-31T09:03:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
+      "publishedDateTime": "2021-07-31T07:22:44-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1329,7 +1281,64 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-down-the-drain-millions-face-eviction-after-biden-lets-protections-expire.md",
+      "title": "'Down the drain’: Millions face eviction after Biden lets protections expire",
+      "excerpt": "The federal eviction moratorium in place since September is set to expire Saturday, after the Biden administration refused to extend it and Democrats in Congress couldn't muster the votes to intervene.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
+      "originalUrl": "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/40/99/4793f7c7413585b384ff270145fb/7-30-21-evictions1-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
+      "publishedDateTime": "2021-07-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

@@ -523,6 +523,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's ATF nominee on shaky ground in Senate"
+    excerpt: "President Biden's ATF nominee is in trouble in the Senate, where Republicans are opposing him over his work for gun control groups and a handful of Democrats have yet to offer their support."
+    publishedDateTime: 2021-08-04T10:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/566233-bidens-atf-nominee-on-shaky-ground-in-senate"
+    ampWebUrl: "https://thehill.com/homenews/senate/566233-bidens-atf-nominee-on-shaky-ground-in-senate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/566233-bidens-atf-nominee-on-shaky-ground-in-senate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/chipmandavid_09252019getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z

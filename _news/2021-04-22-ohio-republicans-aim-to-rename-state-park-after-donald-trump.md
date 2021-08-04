@@ -27,99 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Says All the States That Voted for Him Had No Election Fraud"
-    excerpt: "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards."
-    publishedDateTime: 2021-04-20T01:32:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
+  - title: "Ohio special election underscores Donald Trump’s grip on Republicans"
+    excerpt: "Donald Trump’s grip on the Republican party was bolstered on Tuesday when a coal lobbyist endorsed by the former president defeated 10 fellow Republicans in a closely watched special election in Ohio."
+    publishedDateTime: 2021-08-04T02:04:00Z
+    webUrl: "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b"
+    ampWebUrl: "https://amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
+      name: The Financial Times
+      domain: ft.com
+    quality: 140
     images:
-      - url: "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg"
-        width: 1366
-        height: 911
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32a40317-b720-4507-994e-dd960558b7ae.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
-  - title: "Boehner says he voted for Trump, didn't push back on election claims because he's retired"
-    excerpt: "Former House Speaker John Boehner (R-Ohio) revealed in an interview with TIME that he voted for former President Trump in the 2020 election but&nbs"
-    publishedDateTime: 2021-04-13T14:19:00Z
-    webUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes"
-    ampWebUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 131
-    images:
-      - url: "https://thehill.com/sites/default/files/boehner_trump040721.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Pro-Trump Author Eric Metaxas Calls Deniers of 2020 Election Fraud 'Enemies of This Country'"
-    excerpt: "Eric Metaxas, a New York Times bestselling Christian author and staunch supporter of former President Donald Trump, said deniers of baseless conspiracy theories that the results of the 2020 election were fraudulent are \"enemies of this country."
-    publishedDateTime: 2021-04-18T20:07:00Z
-    webUrl: "https://www.newsweek.com/pro-trump-author-eric-metaxas-calls-deniers-2020-election-fraud-enemies-this-country-1584527"
-    ampWebUrl: "https://www.newsweek.com/pro-trump-author-eric-metaxas-calls-deniers-2020-election-fraud-enemies-this-country-1584527?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pro-trump-author-eric-metaxas-calls-deniers-2020-election-fraud-enemies-this-country-1584527?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 129
-    images:
-      - url: "https://d.newsweek.com/en/full/1779580/eric-metaxas.jpg"
-        width: 1024
-        height: 578
-        isCached: true
-  - title: "As economy spikes, Republicans are still waiting for the ‘Biden depression’ that Trump predicted"
-    excerpt: "Throughout last year’s campaign, President Donald Trump issued a series of increasingly dark predictions about what would happen if Joe Biden were elected. “If he gets in, you will have a depression the likes of which you’ve never seen."
-    publishedDateTime: 2021-04-22T20:36:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNUSWAEX2QI6XDYKGOCM6T5TTE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Boehner lashes out at Trump, saying he 'abused' voters' trust"
-    excerpt: "Boehner on NSA Whistleblower: 'He's a Traitor' Former House Speaker John Boehner on Monday kept up his harsh criticism of President Donald Trump's role in the Jan. 6 riots, saying he \"abused\" the ..."
-    publishedDateTime: 2021-04-12T21:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/john-boehner-01-ap-iwb-210412_1618236535797_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump rejects speechwriter's resignation"
-    excerpt: "Melania Trump's speechwriter has offered her resignation amid plagiarism claims, and has apologized for the \"chaos\" she has caused for the Trump family. CBS News senior political editor Steve Chaggaris and politics writer for The Atlantic Molly Ball join CBSN to discuss."
-    publishedDateTime: 2021-04-19T23:46:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-rejects-speechwriters-resignation-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
+  - title: "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\""
+    excerpt: "The House Oversight and Reform Committee released notes from acting deputy attorney general Richard Donoghue Friday."
+    publishedDateTime: 2021-07-31T16:03:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-2020-election-corrupt-calls-jeffrey-rosen-richard-donoghue/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 125
+    quality: 131
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/19/8feff424-79c4-48c2-a7c8-c25681720cea/thumbnail/1200x630/bdb2a34ced04bea350ebb6b1dfe6f115/cbsn-0720-rncday3-melaniatrumpsmistake-1095416-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/297a2ce4-c8c2-414f-b43c-aaa933aa7c4a/thumbnail/1200x630/b4fd056bcbc7a3c7547a74f44a8105f6/cbsn-fusion-trump-org-expects-charges-to-be-filed-thurs-thumbnail-744929-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -139,258 +75,85 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump: Molly Forbes who stood up to golf plans dies at 96"
-    excerpt: "Molly Forbes and her son captured headlines with their opposition to Mr Trump's development next to their home."
-    publishedDateTime: 2021-04-22T10:26:00Z
-    webUrl: "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442"
-    ampWebUrl: "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442.amp"
+  - title: "Donald Trump holds rally in Ohio"
+    excerpt: "Watch \"Donald Trump holds rally in Ohio\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-27T18:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210627183639-donald-trump-holds-rally-in-ohio/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41CD/production/_118154861_mollygetty.png"
-        width: 1024
-        height: 576
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/27/cb1a6bb0-49db-4c73-8b26-16b13b968b62/thumbnail/1200x630/9941f3dab08ba65820f6bc62def4cb5b/cbsn-fusion-trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27-thumbnail-742507-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "House passes bill aimed at stopping future Trump travel ban"
-    excerpt: "The House passed legislation on Wednesday that would limit executive authority to issue future travel bans like the one imposed by former President Trump against several Muslim-majority countries."
-    publishedDateTime: 2021-04-21T21:01:00Z
-    webUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban"
-    ampWebUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
+  - title: "GOP’s Jake Ellzey wins US House seat over Trump-backed rival"
+    excerpt: "Republican Jake Ellzey of Texas won a U.S. House seat on Tuesday night over a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T07:51:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/travelban_lax_062917getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e911589/2147483647/strip/true/crop/5265x3521+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc9%2Fee%2F172605c243879686e09f9d9ed5d4%2Fgettyimages-1234238969.jpg"
+        width: 320
+        height: 214
         isCached: true
-  - title: "Rick Scott navigates Trump, winning back the Senate — and his own ambitions"
-    excerpt: "As chairman of the National Republican Senatorial Committee, the Florida senator is putting himself front and center as he leads the battle to win the majority in 2022."
-    publishedDateTime: 2021-04-18T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
+  - title: "Donald Trump raises a $100m war chest"
+    excerpt: "Donald Trump entered July with a war chest of more than $100m from his 2021 political committees, raising more than other Republicans in online donations during the first half of this year, new federal campaign finance filings show."
+    publishedDateTime: 2021-08-01T13:12:00Z
+    webUrl: "https://www.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89?curator=upstract.com"
+    ampWebUrl: "https://amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/489fc33c-cd94-4fe1-80dc-ce97f1211b89"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FPDDKZTYRII6XFEJR562ZVI6OU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff300bf76-b7e7-4135-aaa1-aafc581be249.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
-  - title: "Proposal to Rename State Park for Donald Trump Panned by Ohio State Agency"
-    excerpt: "A proposal to rename an Ohio state park for former President Donald Trump is not supported by Ohio's Department of Natural Resources as the agency defended the park's current name, Mosquito Creek Lake."
-    publishedDateTime: 2021-04-22T15:00:00Z
-    webUrl: "https://www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713"
-    ampWebUrl: "https://www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713?amp=1"
+  - title: "As Trump Claims Victory in Ohio, Progressive Democrats' Influence Takes a Hit"
+    excerpt: "Moderate democrats could take former state Senator Nina Turner's loss on Tuesday as an indication that voters aren't looking for the party to shift farther left."
+    publishedDateTime: 2021-08-04T03:44:00Z
+    webUrl: "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854"
+    ampWebUrl: "https://www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-claims-victory-ohio-progressive-democrats-influence-takes-hit-1615854?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 123
+    quality: 122
     images:
-      - url: "https://d.newsweek.com/en/full/1781713/former-us-president-donald-trump.jpg"
-        width: 3000
-        height: 1945
+      - url: "https://d.newsweek.com/en/full/1861807/nina-turner-concession-speech.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Mike Lindell Says He Had Dream About Trump One Year Before Meeting Him, Credits God"
-    excerpt: "MyPillow CEO Mike Lindell on Saturday said that he had a dream about Donald Trump in 2015, one year before the two met for the first time. During his address at the conservative Freedom Conference held in Broken Arrow,"
-    publishedDateTime: 2021-04-17T20:17:00Z
-    webUrl: "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445"
-    ampWebUrl: "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1"
+  - title: "Trump officials can testify to Congress about his role in Capitol attack, DoJ says"
+    excerpt: "Move declines to assert executive privilege for then acting attorney general Jeffrey Rosen, clearing path for others to testify"
+    publishedDateTime: 2021-07-27T19:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/27/trump-officials-testify-us-capitol-attack-house-doj"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 119
     images:
-      - url: "https://d.newsweek.com/en/full/1779436/mike-lindell.jpg"
-        width: 2500
-        height: 1580
-        isCached: true
-  - title: "Fox News Hosts 'Joined Forces' With Giuliani to Spread Trump Voter Fraud Lies, Lawsuit Says"
-    excerpt: "Smartmatic's motion states that Fox News and its hosts \"joined forces\" with Rudy Giuliani and Sidney Powell, two attorneys representing the re-election campaign of then-President Donald Trump, knowing that the attorneys would make false claims against ..."
-    publishedDateTime: 2021-04-13T23:57:00Z
-    webUrl: "https://www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425"
-    ampWebUrl: "https://www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1777348/symantec-fox-news-lawsuit-giuliana-trump-election.jpg"
-        width: 3000
-        height: 1996
-        isCached: true
-  - title: "Donald Trump Supporters Protest Pirate Festival Cancellation With 'Trumparilla' Boat Parade"
-    excerpt: "Each year, in Tampa, Florida, hundreds of boaters hit the waves to celebrate the Gasparilla Pirate Festival, which also hosts a land parade. Although the event had been called off this year due to the coronavirus pandemic,"
-    publishedDateTime: 2021-04-19T15:41:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1779836/trump-supports-florida-boat.jpg"
-        width: 1024
-        height: 728
-        isCached: true
-  - title: "Senate Republicans unveil a $568 billion infrastructure package that would keep the Trump tax cuts"
-    excerpt: "The plan would set up user-fees to tax people rather than corporations. Democrats are likely to oppose it since it's a quarter of Biden's proposal."
-    publishedDateTime: 2021-04-22T16:08:00Z
-    webUrl: "https://www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/607889014206150018175bc2?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
-    excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
-    publishedDateTime: 2021-04-14T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 107
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 918
-        isCached: true
-  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
-    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
-    publishedDateTime: 2021-04-14T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump goes after Bill Clinton in response to attack ad"
-    excerpt: "A new attack ad against Donald Trump mashes up a number of his questionable quotes targeting women. In response, Trump tweeted that maybe Bill Clinton should run for president instead of his wife Hillary."
-    publishedDateTime: 2021-04-17T12:17:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-goes-after-bill-clinton-in-response-to-attack-ad-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/17/ae74e810-d969-4f9f-99b9-3a4ef41bf4be/thumbnail/1200x630/fcd4fb0d9539667368fa4dc650eb9345/0517-cbsn-wtd-trumpattackswibill-1064583-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump gains endorsement of the NRA"
-    excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
-    publishedDateTime: 2021-04-17T15:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/17/cb5d15c5-812c-4091-8fa7-22e568000775/thumbnail/1200x630/debff44a0ccfb1c8355835c4d00530a5/eve-trump-nra-1066566-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump faces backlash over comments about judge"
-    excerpt: "Beast's Betsy Woodruff joins CBSN to discuss the backlash against Donald Trump, who accused a federal judge overseeing the lawsuit regarding Trump University of being unfair based on his Mexican heritage."
-    publishedDateTime: 2021-04-18T06:30:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/18/dcd664ed-ddac-4240-9f14-82e0330c3f7d/thumbnail/1200x630/21d8318cba3361fb95ab75f817569175/cbsn-trumps-trouble-0616-1073915-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hillary Clinton calls Donald Trump a \"fraud\""
-    excerpt: "Hillary Clinton called Donald Trump a \"fraud\" for allegedly ripping off students at Trump University. This comes as President Obama jumps into the 2016 presidential race, slamming Trump's proposals as \"crazy."
-    publishedDateTime: 2021-04-18T02:26:00Z
-    webUrl: "https://www.cbsnews.com/video/hillary-clinton-calls-donald-trump-a-fraud-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/18/8a9fcd20-3b61-4e0d-a1f4-2c29ec2255de/thumbnail/1200x630/8e2fac14c92f5dffbdebed282a1d343e/cbsn-0601-clintontrumphhy-1071908-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fact Check-No evidence Donald Trump said he plays ‘very little golf’"
-    excerpt: "Social media posts attributing a quotation about playing “very little golf” to former U.S. President Donald Trump are false. Reuters did not find any evidence of Trump ever saying this."
-    publishedDateTime: 2021-04-19T16:15:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-trump-golf-idUSL1N2MC1Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "German carmakers the focus of Trump's ire"
-    excerpt: "Posted . Shares in German carmakers BMW, Daimler and Volkswagen have fallen after United States President-elect Donald Trump"
-    publishedDateTime: 2021-04-19T05:00:00Z
-    webUrl: "https://www.reuters.com/video/watch/id4FJ?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/587d1ffee4b0b24306ef38d2-1484595198557?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump's campaign chair resigns"
-    excerpt: "Donald Trump's campaign had yet another staffing change on Friday. Paul Manafort, Trump's campaign chair, handed in his resignation. Manafort's exit shakes up an already jittery campaign that is plummeting in the polls."
-    publishedDateTime: 2021-04-21T03:29:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trumps-campaign-chair-resigns-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/21/e490e4cf-8f4c-409b-9d9b-9a9c3fef4ff1/thumbnail/1200x630/5c0587cfd0886d7c68da051d69776619/eve-manafort-trump-0819-1109632-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/8bb0778aeff287e95a46360195a1c4d361925200/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9faed1b3256dadc1ca07910aba418d2a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Ohio Republicans aim to rename state park after Donald Trump"
     excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
@@ -406,75 +169,458 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Trump says \"the shackles are off\""
-    excerpt: "In a tweetstorm, Donald Trump criticized Paul Ryan and the Republican Party and claimed \"the shackles are off.\" CBS News Chief White House Correspondent Major Garrett is following the Trump campaign with the latest."
-    publishedDateTime: 2021-04-23T03:13:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-says-the-shackles-are-off-1/"
+  - title: "Rep. Jordan acknowledges speaking with Trump on Jan. 6"
+    excerpt: "The Ohio Republican’s comments during a television interview make it more likely he will be called as a witness by the House select committee probing the attack on the Capitol by a pro-Trump mob."
+    publishedDateTime: 2021-07-28T18:20:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/rep-jordan-appears-to-acknowledge-speaking-with-trump-on-jan-6/2021/07/28/63f358d4-efa3-11eb-a452-4da5fe48582d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OMZ2YJHPUYI6XJCSJWS74SCYFU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Two U.S. companies seek extension of Trump-era solar tariffs"
+    excerpt: "Two small U.S. solar manufacturers on Monday asked federal trade officials to extend tariffs on solar panel imports imposed by the Trump administration that have divided the fast-growing renewable energy sector."
+    publishedDateTime: 2021-08-02T14:52:00Z
+    webUrl: "https://www.reuters.com/business/energy/us-solar-company-files-request-extend-trump-era-solar-tariffs-2021-08-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/AXhRXChBvbq8EZk2zRdpUsQstoA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WVH62A75WVKUVDZ7OE6CYWGY4Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Trump grapples with maintaining political relevancy"
+    excerpt: "Former President Trump has been working to maintain leadership in the Republican Party since his defeat in the 2020 election. However, over the past few weeks, he's seen several political fires pop up,"
+    publishedDateTime: 2021-08-02T23:27:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-tax-returns-political-relevance-analysis-sarah-westwood/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/23/90f9aee8-4a69-4373-a2e0-db98a68f15b0/thumbnail/1200x630/00a4fc769e58414c28af39574f65af03/1011-cbsn-trumpunshackled-1147591-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/08/02/b7b3c385-a9e5-4f4f-9dd1-9416c225c844/thumbnail/1200x630/8cad43c543a1629a905d3c714a6fecdd/cbsn-fusion-doj-drops-bombshells-on-former-president-trump-as-he-tries-to-maintain-political-relevance-thumbnail-765074-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump says he's optimistic that the GOP will take back Congress in 2022 midterm elections and the White House in 2024"
-    excerpt: "Former President Trump said at the Republican National Committee's donor retreat over the weekend that he's optimistic Republicans will retake Congress in 2022 and reclaim the White House in 2024 and reiterated falsehoods about voter fraud in 2020."
-    publishedDateTime: 2021-04-12T23:49:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-says-hes-optimistic-that-the-gop-will-take-back-congress-in-2022-midterm-elections/"
+  - title: "Trump is a barometer for Republican views of Supreme Court"
+    excerpt: "The U.S. Supreme Court has been issuing rulings that tend to favor conservatives, but its approval ratings have dropped among Republicans as well as Democrats, according to an analysis by my Reuters colleagues and a recent Gallup poll,"
+    publishedDateTime: 2021-08-03T17:34:00Z
+    webUrl: "https://www.reuters.com/legal/government/trump-is-barometer-republican-views-supreme-court-2021-08-03/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/12/0fafe1a2-52d1-4b8c-bbad-773dd9aad4c2/thumbnail/1200x630/f422c01c755616e5c70b15612ab66af3/cbsn-fusion-former-president-donald-trump-says-hes-optimistic-that-the-republican-party-will-take-back-congress-in-2022-midterm-elections-and-the-white-house-in-2024-thumbnail-690432-640x360.jpg"
+      - url: "https://www.reuters.com/resizer/Nrj245oENVfkltnOtVQkYLRf79Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M2V7XF6XKZN7NN2BWXPCYUJPTA.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "Trump Says Georgia Election Law Is ‘Far Too Weak’"
-    excerpt: "The former president’s message to Republicans is that using election laws to screw over the opposition isn’t just acceptable – it’s mandatory."
-    publishedDateTime: 2021-04-21T00:56:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
+  - title: "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas"
+    excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
+    publishedDateTime: 2021-07-28T01:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election/2021/07/26/359ad936-ee49-11eb-bf80-e3877d9c5f06_story.html"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE7VWFHOLMI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Republican Jake Ellzey wins North Texas US House seat over Trump-backed Susan Wright"
+    excerpt: "Republican Jake Ellzey won a North Texas U.S. House seat on Tuesday night over Susan Wright, a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
+    publishedDateTime: 2021-07-28T13:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2021/07/28/republican-jake-ellzey-wins-north-texas-us-house-seat-over-trump-backed-susan-wright/5398452001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
+  - title: "Donald Trump's 'golden ticket' is on trial in Ohio, where a special election is again testing his political prowess"
+    excerpt: "The potency of Donald Trump playing in GOP primaries faces a crucial test Tuesday in a special election contest Republicans say is a toss-up."
+    publishedDateTime: 2021-08-02T22:23:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-special-election-kingmaker-status-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/61086c91372268001a5951db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
+    excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
+    publishedDateTime: 2021-07-28T00:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 95
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump's kingmaker status faces test in Ohio special election"
+    excerpt: "Make America Great Again, a super PAC chaired by Trump's former campaign manager, quietly purchased $300,000 in Ohio television advertising. The buy was intended to provide a late-stage boost to another Trump-backed candidate facing a crowded field of Republicans in a special election on Tuesday Low-turnout special elections aren't perfect measures of Trump's strength and he remains a powerhouse in GOP politics,"
+    publishedDateTime: 2021-08-02T17:36:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
     quality: 90
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/653/417/69698d5d9cda3fce4bd2251e096f119f23-trump-hannity.1x.rsocial.w1200.jpg"
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "‘Just say the election was corrupt and leave the rest to me,’ Trump urged Justice official"
+    excerpt: "The pressure is all the more notable because just weeks earlier, Trump’s own Attorney General William Barr, had declared that the department had found no evidence of widespread fraud that could have overturned the results."
+    publishedDateTime: 2021-07-30T17:34:00Z
+    webUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/just-say-the-election-was-corrupt-and-leave-the-rest-to-me-trump-urged-justice-official.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 80
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AUZBFCZUOJCZJHVRM2XPSARO4I.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
+  - title: "Justice Dept says IRS must provide Trump's tax returns to Congress"
+    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying"
+    publishedDateTime: 2021-07-30T17:45:00Z
+    webUrl: "https://gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.html"
+    ampWebUrl: "https://gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/justice-dept-says-irs-must-provide-trumps-tax-returns-to-congress/article_fa53084a-f15d-11eb-9d8e-7fd4c18fcd95.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/4/98/49812c62-f15e-11eb-a8c1-ff34e8e4f8cf/61043b67c05ee.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump tax returns must be turned over to House panel, DOJ says"
+    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns."
+    publishedDateTime: 2021-07-30T17:47:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/trump-tax-returns-must-be-turned-over-to-house-panel-doj-says-2410225/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/trump-tax-returns-must-be-turned-over-to-house-panel-doj-says-2410225/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/trump-tax-returns-must-be-turned-over-to-house-panel-doj-says-2410225/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/07/15430642_web1_15430504-2383b3a8b5634abe9ce7c8f456b2a3e6.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Mike Carey, backed by Donald Trump, wins primary for House seat in Ohio"
+    excerpt: "COLUMBUS, Ohio >> A pair of special congressional primaries Tuesday in Ohio could serve as litmus tests for the moods of the Republican and Democratic parties heading into next year’s midterm elections."
+    publishedDateTime: 2021-08-04T01:21:00Z
+    webUrl: "https://www.staradvertiser.com/2021/08/03/breaking-news/mike-carey-backed-by-donald-trump-wins-primary-for-house-seat-in-ohio/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/08/03/breaking-news/mike-carey-backed-by-donald-trump-wins-primary-for-house-seat-in-ohio/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/08/03/breaking-news/mike-carey-backed-by-donald-trump-wins-primary-for-house-seat-in-ohio/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 75
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_11571659-9bacf8ad4b4e49b89418f146eafba451.jpg"
+        width: 760
+        height: 538
+        isCached: true
+  - title: "Trump-backed Carey, centrist Brown win Ohio US House races"
+    excerpt: "Mike Carey, a coal lobbyist backed by former President Donald Trump, beat a bevy of Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown pulled out a victory for the Democratic establishment in Cleveland,"
+    publishedDateTime: 2021-08-04T09:22:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/21/66/21306790/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Trump-backed Carey wins House primary in Ohio"
+    excerpt: "Mike Carey topped a formidable field of 11 GOP primary contenders for the seat vacated by Republican Steve Stivers in May, even fending off Stivers’ own pick, state Rep. Jeff LaRe, and three"
+    publishedDateTime: 2021-08-04T07:36:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/03/trump-backed-carey-wins-house-primary-in-ohio/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/03/trump-backed-carey-wins-house-primary-in-ohio/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/03/trump-backed-carey-wins-house-primary-in-ohio/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-ouse-Ohio_86934196.jpg?w=1023&#038;h=724"
+        width: 1023
+        height: 724
+        isCached: true
+  - title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
+    excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
+    publishedDateTime: 2021-08-04T02:39:00Z
+    webUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
+    ampWebUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
+        isCached: true
+  - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
+    excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
+    publishedDateTime: 2021-04-30T04:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Trump's Kingmaker Status Faces Test in Ohio Special Election"
+    excerpt: "The midsummer race for Ohio’s traditionally Republican 15th Congressional District wouldn’t typically get much national attention."
+    publishedDateTime: 2021-08-02T05:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-02/trumps-kingmaker-status-faces-test-in-ohio-special-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Before lung cancer, Kathy Griffin overcame addiction, suicide attempt, Trump scandal"
+    excerpt: "The comedian opens up in a new interview about how she abused pills and thought about suicide, as she lost work and friends over her Trump head photoshoot."
+    publishedDateTime: 2021-08-02T19:22:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/02/before-lung-cancer-kathy-griffin-overcame-addiction-suicide-attempt-trump-scandal"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/02/before-lung-cancer-kathy-griffin-overcame-addiction-suicide-attempt-trump-scandal/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/02/before-lung-cancer-kathy-griffin-overcame-addiction-suicide-attempt-trump-scandal/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 68
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/People_Kathy_Griffin_52936.jpg?w=1024&#038;h=770"
+        width: 1024
+        height: 770
+        isCached: true
+  - title: "In Ohio House special elections, progressives take a loss; Trump scores a win"
+    excerpt: "In a defeat for the party’s left wing, Democratic primary voters in Ohio Tuesday picked an establishment-backed candidate over an ally of progressive hero Bernie Sanders to fill a vacant"
+    publishedDateTime: 2021-08-04T03:19:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/in-ohio-house-special-elections-progressives-take-a-loss-trump-scores-a-win/article_2f259dc4-756e-5e32-85b2-f526c91ac9d8.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 67
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
-    excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."
-    publishedDateTime: 2021-04-20T15:56:00Z
-    webUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
+  - title: "Paxton gets all-important endorsement from Donald Trump over fellow Republican George P. Bush"
+    excerpt: "Former President Donald Trump has backed Attorney General Ken Paxton for reelection, passing over primary challenger George P. Bush in bestowing the highly sought-after endorsement. \"It is going to take a PATRIOT like Ken Paxton to advance America First policies in order to Make America Great Again,"
+    publishedDateTime: 2021-07-27T16:35:00Z
+    webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
+    ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-attorney-general-paxton-2022-donald-trump-16342340.php"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 67
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 64
     images:
-      - url: "https://www.nydailynews.com/resizer/thv70YWnM_eo0AYGd6KJThFR_zk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JE4YEY4NUVHUPBE3YYBCXWCQ7Q.jpg"
-        width: 1200
-        height: 900
+      - url: "https://s.hdnux.com/photos/01/21/13/45/21281144/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "George W. Bush Condemns the Trump-Era Republican Party"
-    excerpt: "Bush Condemns Trump’s GOP Former President George W. Bush derided his Republican Party on Tuesday for what he said it has become in the era of Donald Trump and misinformation, describing the GOP as \"isolationist, protectionist and, to a certain extent ..."
-    publishedDateTime: 2021-04-20T17:47:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-20/george-w-bush-condemns-the-trump-era-republican-party"
+  - title: "A Progressive Perspective: Incredibly, tens of millions of Americans continue to support Donald Trump"
+    excerpt: "I find it mind-boggling that more that almost 75 million Americans supported Donald Trump in 2020 and the majority of his supporters would vote for him again in 2024 if"
+    publishedDateTime: 2021-08-02T19:45:00Z
+    webUrl: "https://www.trentonian.com/local-news/a-progressive-perspective-incredibly-tens-of-millions-of-americans-continue-to-support-donald-trump/article_298cb732-f3ca-11eb-83bf-5bbcf7b693e5.html"
+    ampWebUrl: "https://www.trentonian.com/local-news/a-progressive-perspective-incredibly-tens-of-millions-of-americans-continue-to-support-donald-trump/article_298cb732-f3ca-11eb-83bf-5bbcf7b693e5.amp.html"
+    cdnAmpWebUrl: "https://www-trentonian-com.cdn.ampproject.org/c/s/www.trentonian.com/local-news/a-progressive-perspective-incredibly-tens-of-millions-of-americans-continue-to-support-donald-trump/article_298cb732-f3ca-11eb-83bf-5bbcf7b693e5.amp.html"
+    type: article
+    provider:
+      name: The Trentonian
+      domain: trentonian.com
+    quality: 60
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trentonian.com/content/tncms/assets/v3/editorial/6/d5/6d5516ad-69ad-5d13-82d5-2ef4e193a868/6104294b6a78b.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kim Janey clarifies references to slavery and Trump in response to question about vaccine passports in Boston"
+    excerpt: "The acting Boston mayor says she has no plans for a New York City-style vaccine mandate for restaurants, gyms, and other indoor venues."
+    publishedDateTime: 2021-08-03T21:53:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/08/03/kim-janey-vaccine-passports/"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/08/03/kim-janey-vaccine-passports/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/08/03/kim-janey-vaccine-passports/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 56
+    images:
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/08/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_clark_grove_06-6109b56880895-scaled.jpg"
+        width: 2560
+        height: 1699
+        isCached: true
+  - title: "Is Trump's grip strong?"
+    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
+    publishedDateTime: 2021-08-02T09:37:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Trump's political cash hits $102M"
+    excerpt: "Former President Donald Trump has proved himself his party's most powerful fundraiser in the first six months of the year, amassing a political treasure chest of $102 million by the end of June, according to filings made public Saturday."
+    publishedDateTime: 2021-08-02T10:30:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/trumps-political-cash-hits-102m/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Trump to object to release of tax returns"
+    excerpt: "Former President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal"
+    publishedDateTime: 2021-08-02T21:25:00Z
+    webUrl: "https://www.unionleader.com/news/national/trump-to-object-to-release-of-tax-returns/article_dfe187cb-401c-5433-bb6c-d038cb77e193.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
+    excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
+    publishedDateTime: 2021-07-29T10:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-29/us-refusal-to-defend-lawmaker-in-capitol-riot-a-signal-to-trump-experts?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 53
+  - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
+    excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
+    publishedDateTime: 2021-07-29T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/carl-p-leubsdorf-the-candidate-trump-endorsed-in-a-texas-race-lost-what-does-that/article_a85239e8-9169-56a5-b913-aa757f3adf35.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Raises Big Money in Early 2021, but Doesn't Spend Much"
+    excerpt: "A fundraising group run by former President Donald Trump raised $62 million in the first half of the year but only spent $3 million, with the biggest chunk of money going to a pro-Trump research center and more than $65,"
+    publishedDateTime: 2021-08-01T03:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-31/trump-raises-big-money-in-early-2021-but-doesnt-spend-much"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Trump to Object to Release of Tax Returns - Lawyer"
+    excerpt: "Former U.S. President Donald Trump will challenge a recent U.S. Justice Department order that his tax returns should be turned over to a House of Representatives committee, one of his personal lawyers signaled on Monday."
+    publishedDateTime: 2021-08-02T21:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-02/trump-to-object-to-release-of-tax-returns-lawyer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Trump-Backed Candidate Wins Republican U.S. House Primary in Ohio"
+    excerpt: "Former President Donald Trump's endorsed candidate Mike Carey won a crowded primary contest on Tuesday for the Republican nomination to a seat in the U.S. House of Representatives from Ohio's 15th district,"
+    publishedDateTime: 2021-08-04T01:13:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-03/trump-backed-candidate-wins-republican-us-house-primary-in-ohio"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
+    excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
+    publishedDateTime: 2021-08-03T10:19:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 32
+  - title: "A.M. Roundup: Stefanik blames Pelosi for Jan. 6 insurrection led by Trump supporters"
+    excerpt: "Elise Stefanik on Tuesday joined other Republican leaders in blaming Speaker of the House Nancy Pelosi for the Jan. 6 insurrection at the U.S. Capitol. The insurrection was conducted by supporters of former President Donald J."
+    publishedDateTime: 2021-07-28T09:30:00Z
+    webUrl: "https://www.chron.com/capitol/article/A-M-Roundup-Stefanik-blames-Pelosi-for-Jan-6-16344475.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 28
 
 secured: "fARIU+K2tH4vIRau2saBrIpu+Q5eh0WkrFgoNpdnW+yU7Cw0OBIloObTOYZXeOhUUhf041fr3SJJ58GJgPyuer/ZOD8XH7wZVAUEFFNbL4HD8ZGd7vaRtxEMZT4jC6aGTJXCIPYvS8MdoUlfnXsczeM7aTRta9wzVCf6wd29kIuTqzeIi8uspOGOIzjY0zJjfdNpUPsh+JucUpWvUkXLl88KiIOXhWHQmyWR89rdQSjxi5o2Z9QI8lnFxfdboXKxt2i7x8S2GtVxmsB3puS0/tJvAZdZYKj9Uma2cYnfE6OhqNUjHHqAF8L1Uy+To9SgHBxkiH6b0sSS79FgBwNaWsyWlq9yRkZiMvlGxoUIAEA=;au1eh4MwjhpH2VC4lPE3Qw=="
 ---

@@ -69,20 +69,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Is Trump's grip strong?"
-    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
-    publishedDateTime: 2021-08-02T09:37:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "g9IsZIjA2LBWkYQkLOBpQBnYlIs76xdrI2CcmLmWXjcUsXZ86pCGtjVag36eGLm1bc+upXYF1WkDvz/9WiZscR7ydKunnCWG4O+AG3252Xv2ooMImj3XigoiBuTJ7hVItAkCy6FoDx1qFROMIMLghD1sPR/Lla+LllxkDDE2ZGFGP8TyLnYvfpvmxD1d2dGkTTfBE05zQWAKWSbkOhL1i6vBKilwyhQKPbOCCAukMhPCdqcBtlVP8ZYV9OjB+/FgzCIK4TFiTfug76uZObfiXQQz1N5YwtlLDb8OyTuIQkLXEDzAb2Y1Imi5lpyCdP8d6eL6+ETVfHf340toKd7mOgusXhmNfr1/cShxbKtcha8=;F8Ap6f3Atrfnv2l4bWL5/w=="
 ---

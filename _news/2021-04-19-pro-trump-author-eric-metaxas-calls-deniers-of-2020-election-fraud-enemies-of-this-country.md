@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ohio Republicans want to rename state park for Donald Trump"
-    excerpt: "The bill sponsored by Rep. Mike Loychik to rename Mosquito State Park to Donald J. Trump State Park is the latest attempt by Ohio Republicans to honor the former president."
-    publishedDateTime: 2021-04-20T17:53:00Z
-    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/YLuHmrMqB44AmyDZD9U8R6ujN28=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQALKA4NVFF5TIJWDB7XEDACXA.JPG"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Donald Trump: Molly Forbes who stood up to golf plans dies at 96"
     excerpt: "Molly Forbes and her son captured headlines with their opposition to Mr Trump's development next to their home."
     publishedDateTime: 2021-04-22T10:26:00Z
@@ -380,20 +364,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
-    publishedDateTime: 2021-04-21T15:36:00Z
-    webUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/4e3a416081f744298ea773bfbd3eb964/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Trump says \"the shackles are off\""
     excerpt: "In a tweetstorm, Donald Trump criticized Paul Ryan and the Republican Party and claimed \"the shackles are off.\" CBS News Chief White House Correspondent Major Garrett is following the Trump campaign with the latest."
     publishedDateTime: 2021-04-23T03:13:00Z
@@ -437,22 +407,6 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/653/417/69698d5d9cda3fce4bd2251e096f119f23-trump-hannity.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
-    publishedDateTime: 2021-04-21T20:54:00Z
-    webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
     excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."

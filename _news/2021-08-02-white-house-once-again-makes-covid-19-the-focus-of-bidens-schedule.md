@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726120518-joe-biden-mustafa-al-kadhimi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden shows he's ready to make drastic moves in Covid-19 fight -- even if he's not sure they're legal"
+    excerpt: "Even President Joe Biden doesn't know whether his new federal eviction moratorium for renters is legal and sustainable. But crushing humanitarian and political pressure left him no choice but to take a chance on an emergency move.\n    \n"
+    publishedDateTime: 2021-08-04T11:29:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_r6dbsmXB-U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/covid-emergency-moves-evictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/covid-emergency-moves-evictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803172644-03-biden-0803-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

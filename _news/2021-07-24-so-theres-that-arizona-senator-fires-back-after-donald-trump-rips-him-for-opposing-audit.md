@@ -174,22 +174,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 85
-  - title: "Trump tax returns must be turned over to House panel, DOJ says"
-    excerpt: "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns."
-    publishedDateTime: 2021-07-30T17:47:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/trump-tax-returns-must-be-turned-over-to-house-panel-doj-says-2410225/"
-    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/trump-tax-returns-must-be-turned-over-to-house-panel-doj-says-2410225/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/trump-tax-returns-must-be-turned-over-to-house-panel-doj-says-2410225/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 75
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/07/15430642_web1_15430504-2383b3a8b5634abe9ce7c8f456b2a3e6.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Donald Trump returning to Arizona for first post-presidency rally in state"
     excerpt: "Former President Donald Trump's 2020 loss, the Jan. 6 riot and the ballot review have helped upend Arizona's political climate."
     publishedDateTime: 2021-07-24T14:09:00Z

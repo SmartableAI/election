@@ -75,22 +75,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "GOP’s Jake Ellzey wins US House seat over Trump-backed rival"
-    excerpt: "Republican Jake Ellzey of Texas won a U.S. House seat on Tuesday night over a rival backed by Donald Trump, dealing the former president a defeat in a test of his endorsement power since leaving office."
-    publishedDateTime: 2021-07-28T07:51:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-28/gops-jake-ellzey-wins-us-house-seat-over-trump-backed-rival?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e911589/2147483647/strip/true/crop/5265x3521+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc9%2Fee%2F172605c243879686e09f9d9ed5d4%2Fgettyimages-1234238969.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Trump loyalists missing but not forgotten as Jan. 6 hearings begin: The Note"
     excerpt: "Jordan and McCarthy -- both of whom have said they spoke with former President Donald Trump as events unfolded Jan. 6 -- are two potential witnesses in an investigation that could extend deep into the former president's inner circle of formal and informal advisers."
     publishedDateTime: 2021-07-27T10:01:00Z
@@ -148,34 +132,6 @@ related:
     quality: 105
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/463II5UFL4I6THLT4K5GXPY3TM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Rep. Jordan acknowledges speaking with Trump on Jan. 6"
-    excerpt: "The Ohio Republican’s comments during a television interview make it more likely he will be called as a witness by the House select committee probing the attack on the Capitol by a pro-Trump mob."
-    publishedDateTime: 2021-07-28T18:20:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/rep-jordan-appears-to-acknowledge-speaking-with-trump-on-jan-6/2021/07/28/63f358d4-efa3-11eb-a452-4da5fe48582d_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OMZ2YJHPUYI6XJCSJWS74SCYFU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
-    excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
-    publishedDateTime: 2021-07-28T00:55:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/mo-brooks-swalwell-lawsuit-trump/2021/07/27/de10122a-ee3a-11eb-bf80-e3877d9c5f06_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 95
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -294,15 +250,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "A.M. Roundup: Stefanik blames Pelosi for Jan. 6 insurrection led by Trump supporters"
-    excerpt: "Elise Stefanik on Tuesday joined other Republican leaders in blaming Speaker of the House Nancy Pelosi for the Jan. 6 insurrection at the U.S. Capitol. The insurrection was conducted by supporters of former President Donald J."
-    publishedDateTime: 2021-07-28T09:30:00Z
-    webUrl: "https://www.chron.com/capitol/article/A-M-Roundup-Stefanik-blames-Pelosi-for-Jan-6-16344475.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 28
 
 secured: "x3VJZliWqgZYaOraGjiz1IO+LINJ4JeEpVoxvLhaIbXU8VUSxJdlDM52iyZqKDePPOAV0BKfoZkwk2lftdJBkYA6qKolMP0hJx8qLuHVEZPRhjGNqWM7YDc+op1nVRCXYaCUK5qq5ug+v7ifDY+56C9C8usj8H1O/qCrrGZ8gjQT1+46Qfy8WP2j+1HYONKdEBVrhZ4rR2WLOx4LCuVu3rpscWMM8jLmMd3GU4DvCiQtzUD2I2vYK+bse4U/OaOVJ8OstfgW/dq8gYEfRDQ3MQau8aPjodepuNfnHkiMLZk688nZ5CeJ47ouZM3o4cN76705arwJBd6OT2bz2TiJn2uDqgljn8/aeCczlMaANhj7rZB6d4rhYPIMPnT9RQAGxkYAbvkw2g55BssmTg7zMNRt1IU5kstxr8hc9knwqav8lFhoE4yqTgdqCNRipOQuOE1FL9XpdSqCv2RYmmhTfPJBJiYokLRW6+KNagXsWPTWIg5Mhq3uot0dIMurFHWzH1ckje4JNVWcVTkIvGEgpA==;te9L5XeZ38QY0AKEDotJvg=="
 ---
