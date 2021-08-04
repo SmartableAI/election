@@ -127,6 +127,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Trump-backed coal lobbyist wins Republican congressional primary in Ohio"
+    excerpt: "Ex-president hails Mike Carey’s victory in special election seen as test of Trump’s continuing hold on party"
+    publishedDateTime: 2021-08-04T01:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/03/ohio-special-election-congress-mike-carey-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/ohio-special-election-congress-mike-carey-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/ohio-special-election-congress-mike-carey-donald-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/8d2fb6b183917f48aa13c04d25e2289769b03fc1/0_74_3600_2159/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=87f503c73443764885bda36027624a87"
+        width: 600
+        height: 360
+        isCached: true
   - title: "As Trump Claims Victory in Ohio, Progressive Democrats' Influence Takes a Hit"
     excerpt: "Moderate democrats could take former state Senator Nina Turner's loss on Tuesday as an indication that voters aren't looking for the party to shift farther left."
     publishedDateTime: 2021-08-04T03:44:00Z
@@ -143,6 +159,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Coal lobbyist Mike Carey, backed by Trump, wins primary for House seat in Ohio"
+    excerpt: "A pair of special congressional primaries in Ohio could serve as litmus tests heading into next year’s midterm elections."
+    publishedDateTime: 2021-08-04T03:28:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-ohio-primaries-midterms-20210803-tdrxqdmo4bbjra36dwp42dsv5q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-ohio-primaries-midterms-20210803-tdrxqdmo4bbjra36dwp42dsv5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-ohio-primaries-midterms-20210803-tdrxqdmo4bbjra36dwp42dsv5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/urv00xSrUpqG7suRUuNG15mS_4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHNQF4TMGWMO56GGHIINYVW5P4.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Lucrative fundraising points to small but strong Republican anti-Trump resistance"
+    excerpt: "Cashflow suggests while Trump retains an iron grip on party, there is still significant money behind efforts to wrest it free"
+    publishedDateTime: 2021-08-04T08:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/04/republican-anti-trump-resistance-lucrative-fundraising"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/04/republican-anti-trump-resistance-lucrative-fundraising"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/04/republican-anti-trump-resistance-lucrative-fundraising"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/7bfd432dc027f1073a4a8d445fa61efd24792531/0_198_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=35fca44280ae9e9b832aee47889ab8e1"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump officials can testify to Congress about his role in Capitol attack, DoJ says"
     excerpt: "Move declines to assert executive privilege for then acting attorney general Jeffrey Rosen, clearing path for others to testify"
     publishedDateTime: 2021-07-27T19:22:00Z
@@ -158,6 +206,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/8bb0778aeff287e95a46360195a1c4d361925200/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9faed1b3256dadc1ca07910aba418d2a"
         width: 600
         height: 360
+        isCached: true
+  - title: "Ohio Republican Primary Highlights Need for Trump to Unify GOP if He Wants to Oust Cheney"
+    excerpt: "Trump's warned against having multiple people challenge Cheney, as it could giver her better chances at winning her primary election."
+    publishedDateTime: 2021-08-04T01:59:00Z
+    webUrl: "https://www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889"
+    ampWebUrl: "https://www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1861644/donald-trump-cheney-ohio-republican-primary.jpg"
+        width: 2500
+        height: 1665
         isCached: true
   - title: "Ohio Republicans aim to rename state park after Donald Trump"
     excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
@@ -214,6 +278,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/08/02/b7b3c385-a9e5-4f4f-9dd1-9416c225c844/thumbnail/1200x630/8cad43c543a1629a905d3c714a6fecdd/cbsn-fusion-doj-drops-bombshells-on-former-president-trump-as-he-tries-to-maintain-political-relevance-thumbnail-765074-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump-backed candidate wins Republican U.S. House primary in Ohio"
+    excerpt: "Former President Donald Trump's endorsed candidate Mike Carey won a crowded primary contest on Tuesday for the Republican nomination to a seat in the U.S. House of Representatives from Ohio's 15th district,"
+    publishedDateTime: 2021-08-04T00:07:00Z
+    webUrl: "https://www.reuters.com/world/us/trump-backed-candidate-wins-republican-us-house-primary-ohio-2021-08-04/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=48"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Trump is a barometer for Republican views of Supreme Court"
     excerpt: "The U.S. Supreme Court has been issuing rulings that tend to favor conservatives, but its approval ratings have dropped among Republicans as well as Democrats, according to an analysis by my Reuters colleagues and a recent Gallup poll,"
@@ -598,15 +676,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Trump-Backed Candidate Wins Republican U.S. House Primary in Ohio"
-    excerpt: "Former President Donald Trump's endorsed candidate Mike Carey won a crowded primary contest on Tuesday for the Republican nomination to a seat in the U.S. House of Representatives from Ohio's 15th district,"
-    publishedDateTime: 2021-08-04T01:13:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-08-03/trump-backed-candidate-wins-republican-us-house-primary-in-ohio"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
     excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
     publishedDateTime: 2021-08-03T10:19:00Z
@@ -626,6 +695,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "zC3L+OR5dSz6i/hOMgI4/Ycm8DPp4OM4WB8pw9zq2KMIVO9G1BDmxQai5rotJsGw7wjekvc3n0EXxlMsqyTMKmW5LovmJpdTIX+pgORvr0LqPWTaSyWkxJvALAU5+wjs6MHhjaGHJqSjDwpH/3kwHLRXP42eVeL/cN/YYN3k+18vBNPsekAJBJ15LZccV8ZH+/WGwOk28kyvF0R1outOi/4H49c8EmKOUs4A55cR80/YXBIiAsU7T6WnKg46H8uAwq+c2866swlVWrnKqIzJ3utJSbsFvaqlb/3irv2Qc+p+lF9GHPRLJnKFgkIv98DJUNnb+6P6TXChBO+35j69gNAlw4gSaSxVe6urN1QuT8E=;xxCTA4T23GwF6Ca+obrc0g=="
+secured: "I8YI7rZ90l0mm0t/ICTi6RMYs5d7PWLG2DjFGs6o3TUquRuIOqzrdjkeGtnAlrpagHpSF/FR6L54EEFJPl9FqeQea6AaP0mnLOO0s1wIvJ007gZnpDvSn9k7aSH7Q4NKI9EhuWD2FLDVebcrWDVSDYP4IdDG63Ui2K0ZehZ97MVhCDS5+HbGpV00rFgEqIh6DbHCBeR9XwaHWKHjR3fllWx9GZMmrtG2C/MordHuuf1xjjL7xHBtZvNvNwV0xa8+mfRIrfiKwb44OTIKSKzNH0mLgcL87YNCRfNvj3KX/DmG+rJF7yFcVV02K0ysrj8aWZsNQAUy0noTejidgAi9kpUVuHCOqb8UaiIhoyxsF0gbkqN7c1qdXQ/Y71iT4TqGM+Wn6V800CqA0rEy0/cRivnJcwKfD8wvI5ql3mJ7oqZdjvPGvAYdWsgrCQMj/qmgbDtAXrxWxrmokx4n01+TszZtoxYiRQ/X+GPkKi1lMP0BKfUIYyDtIVaVyWPWJCFGdOrJYnrsq++Dei2pk9N76A==;+QpwSYF4TDT3BbvAZZS+Ug=="
 ---
 

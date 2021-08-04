@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump asks court to end House pursuit of his tax returns from IRS"
+    excerpt: "Former President Donald Trump's legal team formally stepped into a long-running fight over a US House request for his tax returns, claiming Trump's financial history is being unfairly pursued for political reasons by Democrats and seeking to end House Ways and Means Committee investigations into the"
+    publishedDateTime: 2021-08-04T13:44:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sLXOSwV-b_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/trump-tax-returns-response/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/trump-tax-returns-response/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration sues Texas over Gov. Abbott's migrant transport order"
     excerpt: "The Biden administration is taking Texas Gov. Greg Abbott to court over an executive order he issued earlier this week targeting the transport of migrants recently released from US Customs and Border Protection custody.\n    \n"
     publishedDateTime: 2021-07-30T22:23:24Z

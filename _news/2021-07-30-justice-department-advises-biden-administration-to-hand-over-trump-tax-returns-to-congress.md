@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 980
+heat: 1000
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706131626-03-texas-block-biden-immigration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump asks court to end House pursuit of his tax returns from IRS"
+    excerpt: "Former President Donald Trump's legal team formally stepped into a long-running fight over a US House request for his tax returns, claiming Trump's financial history is being unfairly pursued for political reasons by Democrats and seeking to end House Ways and Means Committee investigations into the"
+    publishedDateTime: 2021-08-04T13:44:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sLXOSwV-b_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/trump-tax-returns-response/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/trump-tax-returns-response/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210724214527-01-donald-trumo-arizona-0724-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

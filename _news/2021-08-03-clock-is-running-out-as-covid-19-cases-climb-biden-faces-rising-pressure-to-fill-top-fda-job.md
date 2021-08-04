@@ -39,6 +39,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden tells Florida, Texas leaders: Help on COVID-19 or 'get out of the way'"
+    excerpt: "U.S. President Joe Biden on Tuesday urged Republican leaders in Florida and Texas - home to roughly a third of all new U.S. COVID-19 cases - to follow public health guidelines on the pandemic or \"get out of the way\" as the country struggles to contain the rapid spread"
+    publishedDateTime: 2021-08-04T00:27:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vaccines/white-house-to-florida-texas-leaders-help-on-covid-19-or-get-out-of-the-way-idUSKBN2F41CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F41CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F41CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210803&t=2&i=1570828817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH720T7"
+        width: 886
+        height: 545
+        isCached: true
   - title: "Help or 'get out of the way.' Biden criticizes governors in Texas and Florida over handling of COVID-19"
     excerpt: "Biden singled out Florida and Texas, both GOP-led hot spots that have pushed back against coronavirus restrictions in recent days."
     publishedDateTime: 2021-08-04T10:53:00Z

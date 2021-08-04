@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on Efforts to get more Americans Vaccinated"
 excerpt: "President Joe Biden delivers remarks on the efforts to get more Americans vaccinated and efforts to stop the spread of the Delta variant, in East Room of the White House in Washington, DC on Tuesday,"
 publishedDateTime: 2021-08-03T21:41:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/34fa92f3627b3aad2ade5cd96b65b01e/President-Joe-Biden-Delivers-Remarks-on-Efforts-to-get-more-Americans-Vaccinated/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/34fa92f3627b3aad2ade5cd96b65b01e/President-Joe-Biden-Delivers-Remarks-on-Efforts-to-get-more-Americans-Vaccinated/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bcab9bb4f3d6cd9fb2bdc1d5dc6339ac/President-Joe-Biden-Delivers-Remarks-on-Efforts-to-get-more-Americans-Vaccinated/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bcab9bb4f3d6cd9fb2bdc1d5dc6339ac/President-Joe-Biden-Delivers-Remarks-on-Efforts-to-get-more-Americans-Vaccinated/"
 type: article
 quality: 50
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/34fa92f3627b3aad2ade5cd96b65b01e/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bcab9bb4f3d6cd9fb2bdc1d5dc6339ac/BIDEN-VACCINE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -214,6 +214,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "D6t4NNqAMPFsJQp1do9SPQQ853d3yQGgDbhKSh1yggVSFT6XKF41JEFUPNkJTTxUoB0Arzc9Sz7eEkoVagciFIHHTA1IfXhDrdH2/TEjDd7l9oGJHMgwmIGzw5RgUHagpLrEskd/MPapikMaPtZ6rAswiYyvgcqzNB9RT2XjSm8aLD5C9ZvryZ34irTHKELQRquSoWNm7Xtw5ttwY0UyeOk5NdHuuZ1c/K8H8spm3mmkCSAgW7sfRye/sTuM65PpugtveJ+0HUU83Ao2zjHKdVxyI/E/oUmCGG6iPFFqq4fLLQkSRwz8f0JgGd+i/jyzG7Cjft6bOe5DuS2rHzSnDEcMGioVMs5seNSzkME8DLc=;kzKFgVhGckC611xmJZi9Mw=="
+secured: "XelATqERaLlMlWRlEKw3hmdaE1vXJTkCE/h3kfwdypfdnQ2qcwiWUYGhykDmE0C4zf0yh6Z3e2D9xOP6JVdwjKj8705YbQ3Omc+tjtovE3Xk68DUmN2RCXcuSUqCvD1k+Ku9QMvoZ9a0xAGy2OrJZAzc+pEBpoDoQfJVFm5zpRGsA2c61MFGkT+/jqOpK5wMDHEKR2B61PmsZ57Yw4cL6PvJ3WvD8PTpuxy4Nrg6K3vZBEkm+PXcFG+wieuzeL/48kCoHmTRp5A61ETq+rpz9WqIoz1MRZtYPlgTomtPDivl9/EL7Q3P6ZzAlMHMGzihVFDRR7LiZzzG6e91TJghdxAE3IiNVnl1z9dcjtr80d4=;67pI/1908sBqBoU6MMna+A=="
 ---
 

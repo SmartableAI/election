@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden tells Florida, Texas leaders: Help on COVID-19 or 'get out of the way'"
+    excerpt: "U.S. President Joe Biden on Tuesday urged Republican leaders in Florida and Texas - home to roughly a third of all new U.S. COVID-19 cases - to follow public health guidelines on the pandemic or \"get out of the way\" as the country struggles to contain the rapid spread"
+    publishedDateTime: 2021-08-04T00:27:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vaccines/white-house-to-florida-texas-leaders-help-on-covid-19-or-get-out-of-the-way-idUSKBN2F41CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F41CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F41CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210803&t=2&i=1570828817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH720T7"
+        width: 886
+        height: 545
+        isCached: true
   - title: "Biden Says US To See New Covid Restrictions 'In All Probability'"
     excerpt: "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases."
     publishedDateTime: 2021-07-31T03:58:00Z
@@ -73,6 +89,6 @@ related:
       domain: usatoday.com
     quality: 72
 
-secured: "oWCkqhukU7ETjtxjuNeU5a0mfQRcN7mzpnKKErY9HSYEt97b+hhR2H3+yvlOawz7kfBNmQrG4583rf4pNH5G4PxqZqZwLcskOwkh+JDSd7p8Z+Yb0ogC0Ylc+NpaZtgndEYOSLSe77/4ShumwmjClWV/BFkaoItDvpqMLg4XHfkya4eqmoKdUu6ZjjySxzSkLBgIrfr6D0I/9iVbWWEg14e2D+5a8wZ8OKZEwDNSsaHPVgPFeU3VF/5/EbfIPbPVvEfNriEH3ZtpohV3zrfQ5hOlOT03dpw5wEm/dyiEib5YqnS5o+FEZMaoqudcCP7CbbQJ44UfF+j+Gi3uDinDid8y2IgPxccEFFT+6efR408=;2XQRQ+sdFYlw4k7ftbfQTQ=="
+secured: "BsYbqoAMWz1BpjNrv8cJbXLRQae607o8Dl9JeU3lf25tk8dyXkSPl0RP/K/p4/IU3GclrElBT87/P3helTJ7dvj1Qh07xbvOc+bve346M7pQ3IRUcF6nV5nqsubML06OaujWEsDrFAo15+dP0RXWK6Ia6HmTsoOmKFeh5O5AbOTYBw78DYdBLXLu9835tqKjIS0ZMKNLO+d9hLbHnPgiWfP/Y9XEVCcgNY2nO2gTEwEuHBSPZi2/8D3xdk4W6NG3TRYVUZymDGiHGklXdXQEHxtuEIgrL31APbG0wK1UZoqOoNgRBsFnb9uHCtjLCC+FESk7FdFWUeEZx0Lgjyphz/dFM6S6fy3LW0IAC9yw3pifh2Y5wORYxhknRqWeEKngFMEiZKXyvcwAl1fgwXhJno5TuoS+1mCi6YNXP2zH39YW5NbrBWtiCkt2tzIknHxANTEE/94EUeaUfaN0YVQVREO4YPFdmNVq95qZNZRsTWiJ5D/P2zyW+YK1QfbiCV9mN1Ik5EVmPtsDaQYeIIyPGw==;GuizAP6/8dDjL8IB5t26cg=="
 ---
 
