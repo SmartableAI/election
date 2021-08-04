@@ -2,6 +2,158 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-17-addison-rae-slammed-for-greeting-ex-president-trump-at-event.md",
+      "title": "Addison Rae slammed for greeting ex-President Trump at event",
+      "excerpt": "Once the TikToker got his attention, the two shook hands and she mentioned that she just “had to say hi” and that it was “so nice to meet you.” Social media users were not",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/",
+      "originalUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/addison-ray-trump-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/",
+      "publishedDateTime": "2021-07-16T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-joe-biden-taps-jane-hartley-as-ambassador-to-the-uk.md",
+      "title": "Joe Biden taps Jane Hartley as ambassador to the UK",
+      "excerpt": "Joe Biden has tapped Jane Hartley, a Democratic fundraiser and former ambassador to France, as the US envoy to the UK, according to people familiar with the matter. Hartley’s selection comes after weeks of uncertainty over Biden’s intentions with regard to the post.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
+      "originalUrl": "https://www.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d02cc86-f021-4ab3-8310-1aa3e19cddb6.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
+      "publishedDateTime": "2021-07-16T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-bad-hair-days-return-biden-drops-showerhead-rule-trump-demanded-for-more-water-perfect-coiffure.md",
+      "title": "Bad hair days return? Biden drops showerhead rule Trump demanded for more water, 'perfect' coiffure",
+      "excerpt": "President Joe Biden's administration is reversing a Trump-era rule that allowed more water to flow through showerheads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/24/USAT/f0dfce74-db67-49bb-8c0e-2000322cef95-showerhead.png?auto=webp&crop=1044,587,x5,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7992908002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7992908002",
+      "publishedDateTime": "2021-07-16T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-biden-social-media-platforms-killing-people-with-misinfo.md",
       "title": "Biden: Social media platforms 'killing people' with misinfo",
       "excerpt": "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines",
@@ -1162,172 +1314,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.md",
-      "title": "'Ingraham Angle' on Biden calling UN probe on US, South African riots",
-      "excerpt": "They even invited the UN to come in and grade their anti-racism efforts. This is completely insane. But again, they're a bunch of self loathing idiots. They're happiest when America is down on our knees,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots",
-      "originalUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8021675e-3986-406b-af91-de3a1cf6840a/4a0e5c30-8d16-4858-87f3-93d3c87f3eff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ingraham-angle-on-biden-calling-un-probe-on-us-south-african-riots.amp",
-      "publishedDateTime": "2021-07-15T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls.md",
-      "title": "Poll: Without Trump in the race, DeSantis dominates 2024 GOP White House hopefuls",
-      "excerpt": "Donald Trump remains the king of the GOP. Florida Gov. Ron DeSantis is looking like the crown prince. For months, DeSantis’ stature has been expanding within the party, marked by growing buzz among grassroots activists and GOP consultants who admire the pugilistic style of politics he wields against progressives and the media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
-      "originalUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/aa/ab/9503fd984efb9e26be00ba54c31e/ap21148637808493-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-10-things-in-politics-kamala-harris-toxic-work-culture.md",
-      "title": "10 Things in Politics: Kamala Harris' toxic work culture",
-      "excerpt": "And Republicans are getting antsy about infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 545,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/605c34990d155e0019ef69ef?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-kamala-harris-office-culture?amp",
-      "publishedDateTime": "2021-07-15T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.md",
+      "title": "Missouri Senate GOP primary a race to spotlight loyalty to Trump",
+      "excerpt": "Trump ally Rep. Billy Long is the latest Republican to jump into the 2022 Missouri Senate primary campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7-Ij5hEa4Bs/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7-Ij5hEa4Bs/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.amp",
+      "publishedDateTime": "2021-08-04T11:04:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-trump-big-winner-progressives-big-losers-in-twin-ohio-congressional-primaries.md",
       "title": "Trump big winner, progressives big losers in twin Ohio congressional primaries",
       "excerpt": "Former President Trump wasn’t on the ballot, but he was one of the winners as the candidate he backed won a GOP primary in a special House election in Ohio’s 15th Congressional District.",
@@ -110,6 +166,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-trump-lawyers-ask-judge-to-block-release-of-tax-returns.md",
+      "title": "Trump Lawyers Ask Judge to Block Release of Tax Returns",
+      "excerpt": "The former president’s attorneys argue the congressional request is rooted solely in the desire for political gain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "originalUrl": "https://www.wsj.com/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-380104/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "publishedDateTime": "2021-08-04T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -230,7 +343,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 168,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1276,7 +1389,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 395,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1517,110 +1630,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/first-lady-jill-biden-foot-procedure-walter-reed.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-jill-biden-foot-procedure-walter-reed.amp",
       "publishedDateTime": "2021-07-29T13:59:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-inside-lil-waynes-new-154m-la-mansion-he-bought-after-trump-pardon.md",
-      "title": "Inside Lil Wayne’s new $15.4M LA mansion he bought after Trump pardon",
-      "excerpt": "Located next door to Kylie Jenner, the luxury abode was constructed in 2019 and is made up of seven bedrooms and eight bathrooms.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/",
-      "originalUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/lil-wayne-house-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/amp/",
-      "publishedDateTime": "2021-07-29T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-mccarthy-says-country-would-be-better-off-if-biden-had-done-nothing-since-taking-office.md",
-      "title": "McCarthy says country would be better off if Biden had 'done nothing' since taking office",
-      "excerpt": "House Minority Leader Kevin McCarthy said President Biden's policies have put the \"country in crisis\" and Americans would be better off if Biden had done absolutely \"nothing\" since taking office. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xsDr4GeJkGw/mccarthy-us-better-off-biden-done-nothing-office",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xsDr4GeJkGw/mccarthy-us-better-off-biden-done-nothing-office",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-us-better-off-biden-done-nothing-office.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-us-better-off-biden-done-nothing-office.amp",
-      "publishedDateTime": "2021-07-29T12:17:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

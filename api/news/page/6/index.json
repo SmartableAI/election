@@ -2,6 +2,174 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-25-rep-ronny-jackson-ex-white-house-doc-predicts-biden-will-be-forced-to-resign.md",
+      "title": "Rep. Ronny Jackson, ex-White House doc, predicts Biden will be forced to resign",
+      "excerpt": "Rep. Ronny Jackson, the former White House physician-turned-congressman, says he’s “terrified for our country” in the wake of President Joe Biden’s disastrous town hall this week — and that he doubts whether the commander in chief has the cognitive ability to make it through a full term.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGqwaTdg3pE/ronny-jackson-biden-forced-resign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGqwaTdg3pE/ronny-jackson-biden-forced-resign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ronny-jackson-biden-forced-resign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronny-jackson-biden-forced-resign.amp",
+      "publishedDateTime": "2021-07-25T09:42:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way.md",
+      "title": "Gov. Abbott rips Biden's 'reprehensible' attacks on Texas voting bill: He's 'willing to lie' to 'get his way'",
+      "excerpt": "Texas Gov. Greg Abbott on Sunday slammed President Biden’s \"completely reprehensible\" attacks on the Republicans’ election integrity bill in his state, saying the president is \"willing to lie\" to the American people in order to further his political agenda.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dP-gSL8n0o/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dP-gSL8n0o/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c8b95a1-c62d-4173-87cd-c638388816c5/edb70e4b-9f68-44ba-bb58-8d8ead8455bd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way.amp",
+      "publishedDateTime": "2021-07-25T08:43:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-trump-slams-critical-race-theory-as-flagrant-racism-that-has-no-place-in-our-country.md",
+      "title": "Trump slams Critical Race Theory as ‘flagrant racism’ that has ‘no place’ in our country",
+      "excerpt": "Former President Donald Trump warned critical race theory is \"flagrant racism\" being forced into \"every facet of our society\" during a speech to conservatives Saturday in Phoenix.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CCwu0ns-j5s/trump-slams-critical-race-theory-as-flagrant-racism",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CCwu0ns-j5s/trump-slams-critical-race-theory-as-flagrant-racism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/019b67a6-b2f0-4873-a7b9-c958122fb58b/a1187a2e-908b-4e45-8484-71e762ec0800/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
+      "publishedDateTime": "2021-07-25T07:12:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-donald-trump-rips-mike-pence-for-not-having-courage-on-16-to-reject-election-results.md",
       "title": "Donald Trump Rips Mike Pence for Not Having 'Courage' on 1/6 to Reject Election Results",
       "excerpt": "\"I only wish that my friend, Mike Pence, had that additional courage to send the results back to the legislatures,\" Trump said.",
@@ -1152,174 +1320,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-democrats-rally-for-biden-public-lands-pick-despite-scrutiny-from-republicans.md",
-      "title": "Democrats rally for Biden public lands pick despite scrutiny from Republicans",
-      "excerpt": "A bitterly divided U.S. Senate panel deadlocked Thursday on President Joe Biden’s pick to oversee vast government-owned lands in the West.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P0LbJcZzo6U/tracy-stone-manning-confirmation-status-latest",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P0LbJcZzo6U/tracy-stone-manning-confirmation-status-latest",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac88bcf-166c-49da-8022-ab4f08f8adad/aadffa86-f4d3-43c0-a951-262b029df08c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp",
-      "publishedDateTime": "2021-07-22T11:05:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-administration-preparing-sanctions-on-cuban-regime.md",
-      "title": "Biden administration preparing sanctions on Cuban regime",
-      "excerpt": "The Biden administration is preparing to sanction individual members of the Cuban regime and a government special forces unit known as the Boinas Negras for human rights abuses, according to a source familiar with the plans.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-gXQHaXKWQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-gXQHaXKWQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210711210014-cuba-flag-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/biden-cuba-sanctions/index.html",
-      "publishedDateTime": "2021-07-22T10:24:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-hunter-biden-to-meet-with-potential-art-buyers-at-two-shows-amid-ethics-concerns.md",
-      "title": "Hunter Biden to meet with potential art buyers at two shows amid ethics concerns ",
-      "excerpt": "Hunter Biden is expected to meet with potential buyers at two of his art shows after the White House formed an agreement with the gallery to address ethics concerns.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0j_4QlIRt5I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0j_4QlIRt5I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708171703-hunter-biden-0522-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html",
-      "publishedDateTime": "2021-07-22T10:12:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

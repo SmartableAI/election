@@ -45,6 +45,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Majority of Americans don't think Biden will run in 2024: poll"
+    excerpt: "Fifty-four percent of Americans say they think that President Biden won't run for reelection in 2024, according to a new poll."
+    publishedDateTime: 2021-08-04T19:34:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4hKX5zYJRtE/will-biden-will-run-in-2024-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/will-biden-will-run-in-2024-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-will-run-in-2024-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden says Cuomo should resign following damning sexual harassment report"
     excerpt: "President Biden says Cuomo should resign. Gov. Cuomo sexually harassed current and past staff members."
     publishedDateTime: 2021-08-03T20:55:10Z
@@ -58,6 +74,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7da2adab-7141-4f0e-a23e-a48537b34302/d8b2f2f3-4e32-4066-98ab-1a4350e6527a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Psaki dismisses concerns over legality of Biden's renewed eviction moratorium"
+    excerpt: "White House press secretary Jen Psaki dismissed concerns about the constitutionality of the extension of the eviction moratorium."
+    publishedDateTime: 2021-08-04T19:08:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-zwqGhnHwY/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/194cfd99-d8dd-4036-81fc-e39671e8b9ad/617f57d9-b89d-4869-86d6-d3bf28cf1184/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -188,6 +220,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cf5cb1c-d5e9-45fd-b1a8-8b05f1559f00/9d26c49a-dc88-4028-8313-4a83dcedf3a7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "DeSantis To Biden On COVID Restrictions: \"I'm Standing In Your Way\""
+    excerpt: "Biden shared his disapproval of Florida's response to the coronavirus pandemic during a speech Tuesday, lamenting that \"just two states, Florida and Texas, account for one-third of all new COVID-19 cases in the entire country."
+    publishedDateTime: 2021-08-04T19:29:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/04/desantis_fires_back_at_biden_on_covid_restictions_im_standing_in_your_way.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/04/desantis_fires_back_at_biden_on_covid_restictions_im_standing_in_your_way.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/04/desantis_fires_back_at_biden_on_covid_restictions_im_standing_in_your_way.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/549916.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "Glenn Greenwald: The Biden Administration Is Launching A \"Second War On Terror\" Against American Citizens"
     excerpt: "Glenn Greenwald discusses reporting that FBI agents were involved more closely in an alleged 2020 plot to kidnap the governor of Michigan than they previously admitted. JESSE WATTERS: \"BuzzFeed\" is reporting there are twice as many FBI agents involved in this plot than there were plotters."

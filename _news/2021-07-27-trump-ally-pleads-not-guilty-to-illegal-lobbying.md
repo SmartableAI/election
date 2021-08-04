@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice official accused Trump of using DOJ to push election fraud claims in draft resignation letter"
+    excerpt: "House investigators have interviewed a former Justice Department official who drafted -- but never sent -- a resignation letter over what he said were former President Donald Trump's \"direct instructions\" to use the department to support his false election fraud claims.\n    \n"
+    publishedDateTime: 2021-08-04T19:29:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w7kSYJcD6Lo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/justice-resignation-threats-trump-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/justice-resignation-threats-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210804142129-patrick-hovakimian-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trade groups wrestle with supporting GOP lawmakers who embrace Trump's election lie"
     excerpt: "For dentists, the rupture over Rep. Paul Gosar of Arizona played out in a series of spirited public letters, culminating in a decision to suspend donations."
     publishedDateTime: 2021-07-26T17:33:00Z

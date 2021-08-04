@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-05-desantis-shot-in-covid-feud-with-biden-i-dont-want-to-hear-a-blip-from-you.md",
+      "title": "DeSantis’ shot in COVID feud with Biden: ‘I don’t want to hear a blip ... from you’",
+      "excerpt": "Gov. Ron DeSantis lashed out at President Joe Biden a day after Biden told the Republican governor to “get out of the way” of mask mandates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/politics-government/article253259453.html",
+      "originalUrl": "https://www.miamiherald.com/news/politics-government/article253259453.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/ca109304-95eb-412d-bef5-05c75ed6bdcb/d0ed0834-5025-46cb-9e94-94b57654d942/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article253259453.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253259453.html",
+      "publishedDateTime": "2021-08-04T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.md",
+      "title": "Missouri Senate GOP primary a race to spotlight loyalty to Trump",
+      "excerpt": "Trump ally Rep. Billy Long is the latest Republican to jump into the 2022 Missouri Senate primary campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7-Ij5hEa4Bs/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7-Ij5hEa4Bs/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.amp",
+      "publishedDateTime": "2021-08-04T11:04:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-trump-big-winner-progressives-big-losers-in-twin-ohio-congressional-primaries.md",
       "title": "Trump big winner, progressives big losers in twin Ohio congressional primaries",
       "excerpt": "Former President Trump wasn’t on the ballot, but he was one of the winners as the candidate he backed won a GOP primary in a special House election in Ohio’s 15th Congressional District.",
@@ -110,6 +209,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-trump-lawyers-ask-judge-to-block-release-of-tax-returns.md",
+      "title": "Trump Lawyers Ask Judge to Block Release of Tax Returns",
+      "excerpt": "The former president’s attorneys argue the congressional request is rooted solely in the desire for political gain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "originalUrl": "https://www.wsj.com/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-380104/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "publishedDateTime": "2021-08-04T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -325,7 +481,7 @@
       "originalUrl": "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1120,
+      "heat": 1140,
       "tags": null,
       "images": [
         {
@@ -597,7 +753,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 168,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1153,158 +1309,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-harris-border-role-faces-new-scrutiny-after-report-of-likely-historic-surge-in-unaccompanied-children.md",
-      "title": "Harris’ border role faces new scrutiny after report of likely historic surge in unaccompanied children",
-      "excerpt": "A report from the Associated Press released Monday night seemed to paint a grim picture of the conditions at the border just over four months since Harris’ appointment to the role.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2t1mpoJ3XQ/harris-border-role-faces-new-scrutiny",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2t1mpoJ3XQ/harris-border-role-faces-new-scrutiny",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-border-role-faces-new-scrutiny.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-border-role-faces-new-scrutiny.amp",
-      "publishedDateTime": "2021-08-03T00:36:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-americas-recovery-is-joe-bidens-presidency-vulnerable-to-inflation.md",
-      "title": "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?",
-      "excerpt": "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
-      "originalUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F212df0d0-e94b-11eb-8b52-d9a1d750df18-standard.png?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
-      "publishedDateTime": "2021-08-02T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-trump-stokes-anti-muslim-sentiment-censured-in-us-abroad.md",
-      "title": "Trump stokes anti-Muslim sentiment; censured in US, abroad",
-      "excerpt": "Stoking the same anti-Islam sentiments he fanned on the campaign trail, President Donald Trump on Wednesday retweeted a string of inflammatory videos from a fringe British political group purporting to show violence being committed by Muslims.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-government-and-politics-europe-migration-united-states-government-32dbf5643327442eab350bd87ff57242",
-      "originalUrl": "https://apnews.com/article/technology-government-and-politics-europe-migration-united-states-government-32dbf5643327442eab350bd87ff57242",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/9c3f605796f649369323fe2c0c54acc4/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

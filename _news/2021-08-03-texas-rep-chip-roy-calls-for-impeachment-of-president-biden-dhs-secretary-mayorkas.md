@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-rep-chip-roy-impeach-presiden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas.amp"
 type: article
 quality: 168
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden has 'no plans' to call Cuomo to ask for resignation, won't weigh in on New York impeachment: Psaki"
+    excerpt: "White House press secretary Jen Psaki said Wednesday that President Biden has \"no plans\" to personally call embattled New York Gov. Andrew Cuomo and ask for his resignation."
+    publishedDateTime: 2021-08-04T18:26:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9zV5DK66Smg/biden-cuomo-call-sexual-harassment-impeachment-resignation-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-call-sexual-harassment-impeachment-resignation-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-call-sexual-harassment-impeachment-resignation-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "i2D5T28ov9fk0hOCcVpvjJOheV8ja8DJ9SJxfN8KLQDa+0eYSQ3woeSwlbrZSd/EBJRw6jPdKGQ1lg+xvYZ1O7fwWQwM5i+8KVpYNWGnTEpQKwhjLtwcXRGvV2hxv1PqTVzEUFIvONPjiBfA9gfKDjGNMEFMIob9vMHKrSQyXtRj2ordbyYLK/GRpQwM3nO58Fc2g1XSu9NTChd0phgx1I46uD+4gndlfe97nO95Cx3XFRG+f2rcepjwnwap3cpUDzuT70J9c1VS26TEJD9LGTZ54ZNI273Mlp4h63+MiND32kmcqMlxQqMrNqj9JTcwOJhwN6TmraAiRL5Dh3YBXiFLsP5/NgRG4XOjLZN084c=;5qILtBGl+ACB1H2LFRwfWA=="
 ---

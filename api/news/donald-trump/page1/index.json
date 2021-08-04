@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-trump-lawyers-ask-judge-to-block-release-of-tax-returns.md",
+      "title": "Trump Lawyers Ask Judge to Block Release of Tax Returns",
+      "excerpt": "The former president’s attorneys argue the congressional request is rooted solely in the desire for political gain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "originalUrl": "https://www.wsj.com/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-380104/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
+      "publishedDateTime": "2021-08-04T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-cuomo-jams-democrats-with-trump-playbook-the-note.md",
       "title": "Cuomo jams Democrats with Trump playbook: The Note",
       "excerpt": "Gov. Andrew Cuomo is clinging to office by running plays made familiar by former President Trump, mixing indignant denials with what-aboutism and an instinct to fight.",
@@ -62,7 +119,7 @@
       "originalUrl": "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1120,
+      "heat": 1140,
       "tags": null,
       "images": [
         {
@@ -1493,58 +1550,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-brandi-love-wants-ron-desantis-to-run-in-2024-if-donald-trump-doesnt.md",
-      "title": "Brandi Love Wants Ron DeSantis To Run in 2024 if Donald Trump Doesn't",
-      "excerpt": "\"Even I can admit that Donald Trump has an obnoxious arrogance about him that rubs some people the wrong way,\" the adult film actress told Newsweek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
-      "originalUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1857361/ron-desantis-brandi-love.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
-      "publishedDateTime": "2021-07-28T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

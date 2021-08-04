@@ -121,6 +121,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Trump fires back at Justice Dept in bid to keep his tax returns secret"
+    excerpt: "Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to turn his tax returns over to a House of Representatives committee, part of his long campaign to keep details of his wealth secret."
+    publishedDateTime: 2021-08-04T13:47:00Z
+    webUrl: "https://www.reuters.com/article/legal-usa-trump-taxes-idUSKBN2F51J7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F51J7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F51J7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210804&t=2&i=1570975161&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH730XG"
+        width: 791
+        height: 545
+        isCached: true
   - title: "Trump-backed coal lobbyist wins Republican congressional primary in Ohio"
     excerpt: "Ex-president hails Mike Carey’s victory in special election seen as test of Trump’s continuing hold on party"
     publishedDateTime: 2021-08-04T01:16:00Z
@@ -300,6 +316,20 @@ related:
       - url: "https://www.reuters.com/resizer/Nrj245oENVfkltnOtVQkYLRf79Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M2V7XF6XKZN7NN2BWXPCYUJPTA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
+    excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
+    publishedDateTime: 2021-08-04T15:31:00Z
+    webUrl: "https://www.npr.org/2021/08/04/1024688876/trump-tries-in-court-to-block-the-release-of-his-tax-returns-to-congress"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 104
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/04/gettyimages-1327493808_wide-29d914504321dc23b2076da3fed2eeb60fb9d51d.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas"
     excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
@@ -659,20 +689,6 @@ related:
       name: Tri-City Herald
       domain: tri-cityherald.com
     quality: 55
-  - title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
-    excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" Former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
-    publishedDateTime: 2021-08-04T15:34:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1024688876/trump-tries-in-court-to-block-the-release-of-his-tax-returns-to-congress"
-    type: article
-    provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
-    quality: 54
-    images:
-      - url: "https://media.npr.org/assets/img/2021/08/04/gettyimages-1327493808-fdbc6432a07e381301074419ee148f2f39d60eda.jpg?s=6"
-        width: 948
-        height: 711
-        isCached: true
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z

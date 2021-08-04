@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-don
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ron DeSantis doesn’t want to ‘hear a blip’ from Joe Biden on COVID-19"
+    excerpt: "Ron DeSantis blasted President Joe Biden in Panama City, saying the President “rejects science” in pushing masks and proof of vaccination and warning Biden not to offer unsolicited advice on COVID-19 response."
+    publishedDateTime: 2021-08-04T18:09:00Z
+    webUrl: "https://floridapolitics.com/archives/445927-blip/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/Biden-DeSantis.jpg"
+        width: 1417
+        height: 725
+        isCached: true
   - title: "Iran Deflects Blame for Tanker Attack With Rant Against Trump"
     excerpt: "Iranian leaders referenced Israeli and U.S. attacks on Iranian vessels during the Trump administration while also denying ties to the fatal strike in the Arabian Sea."
     publishedDateTime: 2021-08-02T18:27:00Z

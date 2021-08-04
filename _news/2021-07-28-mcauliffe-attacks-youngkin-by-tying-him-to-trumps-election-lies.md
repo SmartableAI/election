@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/mcauliffe-youngkin-virgi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/mcauliffe-youngkin-virginia-ads/index.html"
 type: article
 quality: 190
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Justice official accused Trump of using DOJ to push election fraud claims in draft resignation letter"
+    excerpt: "House investigators have interviewed a former Justice Department official who drafted -- but never sent -- a resignation letter over what he said were former President Donald Trump's \"direct instructions\" to use the department to support his false election fraud claims.\n    \n"
+    publishedDateTime: 2021-08-04T19:29:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w7kSYJcD6Lo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/justice-resignation-threats-trump-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/justice-resignation-threats-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210804142129-patrick-hovakimian-file-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

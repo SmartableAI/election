@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-05-desantis-shot-in-covid-feud-with-biden-i-dont-want-to-hear-a-blip-from-you.md",
+      "title": "DeSantis’ shot in COVID feud with Biden: ‘I don’t want to hear a blip ... from you’",
+      "excerpt": "Gov. Ron DeSantis lashed out at President Joe Biden a day after Biden told the Republican governor to “get out of the way” of mask mandates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/politics-government/article253259453.html",
+      "originalUrl": "https://www.miamiherald.com/news/politics-government/article253259453.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/ca109304-95eb-412d-bef5-05c75ed6bdcb/d0ed0834-5025-46cb-9e94-94b57654d942/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article253259453.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253259453.html",
+      "publishedDateTime": "2021-08-04T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-first-thing-biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment.md",
       "title": "First Thing: Biden urges Cuomo to quit amid allegations of serial sexual harassment",
       "excerpt": "New York governor denies having ‘inappropriately touched’ 11 women as calls for his resignation mount. Plus: How a successful journalist realised she had to get rid of Twitter, for good",
@@ -1457,49 +1500,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-americas-number-one-aging-athlete-joe-biden-letters.md",
-      "title": "America’s number one aging athlete: Joe Biden (Letters)",
-      "excerpt": "Joe Biden is just doing what aging athletes have discovered. He prioritizes quality over quantity, and uses his experience to “read defenses” and make the right calls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html",
-      "originalUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg",
-          "width": 6720,
-          "height": 4480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html?outputType=amp",
-      "publishedDateTime": "2021-07-23T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

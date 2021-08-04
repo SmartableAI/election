@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
-excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" Former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
-publishedDateTime: 2021-08-04T15:34:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/1024688876/trump-tries-in-court-to-block-the-release-of-his-tax-returns-to-congress"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/1024688876/trump-tries-in-court-to-block-the-release-of-his-tax-returns-to-congress"
+excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
+publishedDateTime: 2021-08-04T15:31:00Z
+originalUrl: "https://www.npr.org/2021/08/04/1024688876/trump-tries-in-court-to-block-the-release-of-his-tax-returns-to-congress"
+webUrl: "https://www.npr.org/2021/08/04/1024688876/trump-tries-in-court-to-block-the-release-of-his-tax-returns-to-congress"
 type: article
-quality: 54
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Northcountrypublicradio.org
-  domain: northcountrypublicradio.org
+  name: NPR
+  domain: npr.org
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://media.npr.org/assets/img/2021/08/04/gettyimages-1327493808-fdbc6432a07e381301074419ee148f2f39d60eda.jpg?s=6"
-    width: 948
-    height: 711
+  - url: "https://media.npr.org/assets/img/2021/08/04/gettyimages-1327493808_wide-29d914504321dc23b2076da3fed2eeb60fb9d51d.jpg?s=1400"
+    width: 1400
+    height: 787
     isCached: true
 
 related:
@@ -120,6 +124,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff300bf76-b7e7-4135-aaa1-aafc581be249.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Trump fires back at Justice Dept in bid to keep his tax returns secret"
+    excerpt: "Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to turn his tax returns over to a House of Representatives committee, part of his long campaign to keep details of his wealth secret."
+    publishedDateTime: 2021-08-04T13:47:00Z
+    webUrl: "https://www.reuters.com/article/legal-usa-trump-taxes-idUSKBN2F51J7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F51J7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F51J7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210804&t=2&i=1570975161&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH730XG"
+        width: 791
+        height: 545
         isCached: true
   - title: "Trump-backed coal lobbyist wins Republican congressional primary in Ohio"
     excerpt: "Ex-president hails Mike Carey’s victory in special election seen as test of Trump’s continuing hold on party"
@@ -732,6 +752,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "p0YQbq1TUo92qiwaF7TMVXwyVmLGfPYfQoG6WHUQGAXXQp27L/+K9YIrx7llH37oGIJEe3aG6XQk02NhpEzllcqRcKrdqTv6CgDXsUOKl1Qggi0hqH0nxCgImBSLB47wZiDKNV6g+I2L6NKuKHEnvZBEk6HD1IBDhyLaA5zakdg4KWd4lxUCJb27RQMu0xSjjN40JTaaUKl3d8v4g5UJ7uXUsnAw2/vkFeZOyGJl2rCA4tTBV/S4ZqHV72oYnPV8QDNzHo3DKU1UlS4mYz2wmzke5OqvI7ww8M8JoGGZrypP8GCE2nsnu9zUkvgUi7XnZ9NDzJSf8axPcR61u3gzjpuP8QPnO4bGt2BdpY68mJ8=;Vdz7qObRFsx9bwm1XW2u/w=="
+secured: "VJ8k9nzabEB7TDp0TOEib9XRYoWHkzqIZS6u9hYv3p2NeN1SEPE2Ci4AF/ujyXRVopZMIaJR8Efb0t/2xDDD+CngIrWT7DL7+A55gZyfA+aTL1aCoQloi84e/ipGSbxcX+SvIO6fLZBVuYl1zliKklOnttyu12lbnEj+KRlHBlrwM55eVP5PbDLJdQeXquZjr2oPJL99fm9tzSS9h2jywZvnLIfmvbDaQqOzaAl5l3PTONRDfD5RSgKnKn60SOv7DQG/92HoYRzHXs19j4m1TI7yuCFNfMC4pcxy9L/t3rgU5JqmhLZNg57g1LmVuJWG1xKAFO92azs0dnlNNmA0IHI+wbgkGQbiBlpeNvmMmlI=;iRPGQFMo636+aTGe0Jca8g=="
 ---
 
