@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-10-joe-biden-urges-vladimir-putin-to-take-action-against-ransomware-hackers.md",
+      "title": "Joe Biden urges Vladimir Putin to ‘take action’ against ransomware hackers",
+      "excerpt": "Joe Biden warned Vladimir Putin that Russia would face consequences if it failed to act against hackers behind a spate of ransomware attacks, saying the US would take “any necessary action” to protect its people and infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "originalUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcffef3b2-c492-4f1a-9be1-d0f51eca2b41.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "publishedDateTime": "2021-07-09T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-your-world-on-biden-withdrawing-troops-florida-recovery-efforts.md",
       "title": "'Your World' on Biden withdrawing troops, Florida recovery efforts",
       "excerpt": "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there.",
@@ -1515,54 +1567,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-biden-high-speed-internet-is-now-a-necessity-like-water-and-electricity.md",
-      "title": "Biden: High-Speed Internet Is \"Now A Necessity Like Water And Electricity\"",
-      "excerpt": "President Biden spoke in favor of a bipartisan infrastructure deal in La Crosse, Wisconsin on Tuesday. \"This is a generational investment to modernize our infrastructure, creating millions of good-paying jobs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/546905.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
-      "publishedDateTime": "2021-06-29T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

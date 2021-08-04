@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-07-08-mo-brooks-2020-election-stolen-from-donald-trump-kick-ass-speech-distorted.md",
+      "title": "Mo Brooks: 2020 election stolen from Donald Trump, ‘kick ass’ speech distorted",
+      "excerpt": "Mo Brooks, in a sworn affidavit, said he still believes the 2020 presidential election was stolen from Donald Trump. In a federal court filing, Brooks also told the back story on his “kick ass” speech on Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html",
+      "originalUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GN5BWKR53RC6NNJDRX37PHFFX4.jpg",
+          "width": 3924,
+          "height": 2616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html?outputType=amp",
+      "publishedDateTime": "2021-07-07T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-trump-says-hes-filing-class-action-lawsuits-against-facebook-twitter-and-google.md",
       "title": "Trump says he's filing class action lawsuits against Facebook, Twitter and Google",
       "excerpt": "Former President Donald Trump is expected to announce class action lawsuits against Facebook and Twitter during a press conference this morning at his Bedminster, New Jersey, golf club, multiple sources familiar with the matter tell ABC News.",
@@ -1267,54 +1310,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-jd-vance-walks-back-trump-criticism-after-launching-senate-bid.md",
-      "title": "J.D. Vance walks back Trump criticism after launching Senate bid",
-      "excerpt": "After officially launching his campaign, Vance told Tucker Carlson that he did not fit into the establishment or Trumpian wings of the GOP.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/",
-      "originalUrl": "https://nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/jd-vance-trump-04.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/amp/",
-      "publishedDateTime": "2021-07-06T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

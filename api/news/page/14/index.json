@@ -2,6 +2,63 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-09-mr-pence-lost-it-new-book-details-vps-fight-with-trump.md",
+      "title": "'Mr. Pence lost it': New book details VP's fight with Trump",
+      "excerpt": "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CtxyWf8Z_nI/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CtxyWf8Z_nI/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709090520-george-conway-newday-07092021-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/07/09/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/09/george-conway-mike-pence-trump-meeting-book-newday-vpx.cnn",
+      "publishedDateTime": "2021-07-09T12:21:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-biden-to-deliver-major-voting-rights-speech-tuesday-in-philadelphia.md",
       "title": "Biden to deliver major voting rights speech Tuesday in Philadelphia",
       "excerpt": "President Joe Biden is set to give an anticipated major speech on voting rights Tuesday in Philadelphia, the White House announced Friday.\n    \n",
@@ -1282,49 +1339,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-mo-brooks-2020-election-stolen-from-donald-trump-kick-ass-speech-distorted.md",
-      "title": "Mo Brooks: 2020 election stolen from Donald Trump, ‘kick ass’ speech distorted",
-      "excerpt": "Mo Brooks, in a sworn affidavit, said he still believes the 2020 presidential election was stolen from Donald Trump. In a federal court filing, Brooks also told the back story on his “kick ass” speech on Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html",
-      "originalUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GN5BWKR53RC6NNJDRX37PHFFX4.jpg",
-          "width": 3924,
-          "height": 2616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html?outputType=amp",
-      "publishedDateTime": "2021-07-07T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

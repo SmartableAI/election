@@ -254,6 +254,54 @@
       ]
     },
     {
+      "path": "_news/2021-08-03-reporter-to-psaki-is-biden-concerned-that-burden-of-vaccine-id-will-fall-heaviest-on-minorities.md",
+      "title": "Reporter to Psaki: Is Biden \"Concerned\" That \"Burden\" Of Vaccine ID Will Fall Heaviest On Minorities?",
+      "excerpt": "White House press secretary Jen Psaki is asked about the burden put on African-Americans and other minority communities by mandating proof of vaccination by 'Daily Caller' White House correspondent Shelby Talcott at Tuesday's press briefing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/549838.jpg",
+          "width": 920,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.amp.html",
+      "publishedDateTime": "2021-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-white-house-says-cdc-cannot-renew-ban-on-evictions-despite-biden-support-live.md",
       "title": "White House says CDC cannot renew ban on evictions despite Biden support – live",
       "excerpt": "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news",
@@ -1462,54 +1510,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-biden-gives-odd-response-about-sucking-blood-out-of-kids-to-question-about-defunding-police.md",
-      "title": "Biden Gives Odd Response About \"Sucking Blood Out Of Kids\" To Question About Defunding Police",
-      "excerpt": "President Biden caused confusion and concern with a bizarre answer to a question about progressive Democrats who campaigned to \"defund the police\" on Thursday evening. \"Are there people in the Democratic Party who want to defund the police?",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/548899.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
-      "publishedDateTime": "2021-07-23T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

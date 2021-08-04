@@ -2,6 +2,54 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-09-tucker-carlson-how-did-kamala-harris-wind-up-effectively-in-charge-of-the-united-states.md",
+      "title": "Tucker Carlson: How Did Kamala Harris Wind Up Effectively In Charge Of The United States?",
+      "excerpt": "Two years ago, during the Democratic presidential primaries, Kamala Harris appeared on CNN to explain where she stood in the race. At that moment, Harris had just been memorably humiliated by Tulsi Gabbard of Hawaii during a televised debate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/545273.jpg",
+          "width": 1162,
+          "height": 870,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html",
+      "publishedDateTime": "2021-06-09T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-gop-reps-say-biden-admin-downplaying-border-crisis-only-empowers-bad-actors.md",
       "title": "GOP reps say Biden admin downplaying border crisis only 'empowers bad actors'",
       "excerpt": "Republican members of the House of Representatives blasted the Biden administration for downplaying the crisis at the southern border, saying the decision \"empowers bad actors.\"",
@@ -1603,54 +1651,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show.md",
-      "title": "Fauci denied being ‘muzzled’ by Trump early in pandemic, emails show",
-      "excerpt": "As COVID-19 started becoming a threat last year, Dr. Anthony Fauci started receiving emails from people asking if he was being censored by the Trump administration. He denied the assertions.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/",
-      "originalUrl": "https://nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/fauci-trump-033.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/amp/",
-      "publishedDateTime": "2021-06-01T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

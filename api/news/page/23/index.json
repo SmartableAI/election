@@ -2,6 +2,62 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-06-24-biden-nominee-called-for-population-control-to-protect-environment-we-must-breed-fewer-consuming-humans.md",
+      "title": "Biden nominee called for population control to protect environment: 'We must breed fewer consuming humans'",
+      "excerpt": "Tracy Stone-Manning, Biden’s controversial nominee to head up BLM, has come under fire in recent weeks for her connection to a tree spiking incident – an ecoterrorism tactic – in Idaho in the 1980s, where she traded her court testimony for legal immunity.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RKcuE_cPB1s/tracy-stone-manning-population-control",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RKcuE_cPB1s/tracy-stone-manning-population-control",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a8d02e0-6353-4004-92bf-0a8ee41fdfcf/9f8714a9-27c7-459b-a17a-4d744db886fd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tracy-stone-manning-population-control.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-population-control.amp",
+      "publishedDateTime": "2021-06-24T10:00:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-biden-mocked-gun-rights-advocates-who-say-they-need-assault-weapons-to-fight-the-government-you-need-f-15s-and-maybe-some-nuclear-weapons.md",
       "title": "Biden mocked gun-rights advocates who say they need assault weapons to fight the government: 'You need F-15s and maybe some nuclear weapons'",
       "excerpt": "President Joe Biden made the joke in a White House speech outlining his administration's plan to combat gun violence in the US.",
@@ -1284,58 +1340,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-biden-13-wage-for-federal-firefighters-ridiculously-low.md",
-      "title": "Biden: $13 wage for federal firefighters 'ridiculously low'",
-      "excerpt": "Before a meeting with homeland security and federal emergency management officials, the president told reporters he promised to end the $13 an hour salary paid to federal firefighters. \"I just realized - I didn't realize this,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5311063001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5311063001",
-      "publishedDateTime": "2021-06-22T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

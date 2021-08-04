@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Senate readies vote on anti-voter ID Biden judicial nominee after contentious confirmation hearing"
+    excerpt: "Myrna Pérez has a career as an activist against state voter ID laws and was previously denied a post on the Election Assistance Commission."
+    publishedDateTime: 2021-08-04T15:00:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hoSrx2KDqeM/biden-judicial-nominee-anti-voter-id-myrna-perez"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-anti-voter-id-myrna-perez.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-anti-voter-id-myrna-perez.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8507e3a-8a31-494f-95cf-b9df7c7afc00/444fca91-a3e1-49d4-b95d-583b6f20058a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Poll shows support slipping for Biden, Jan. 6th investigation"
     excerpt: "Support for President Joe Biden is taking a hit according to a new poll, amid a number of crises from illegal immigration to a reemergence of coronavirus and accompanying restrictions."
     publishedDateTime: 2021-08-03T21:47:00Z

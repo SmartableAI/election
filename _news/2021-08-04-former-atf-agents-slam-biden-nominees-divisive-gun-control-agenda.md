@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/former-atf-agents-slam-biden-nomine
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden ATF nominee Chipman failed to disclose Chinese state TV hit used as propaganda by the communist state"
+    excerpt: "EXCLUSIVE: President Biden's nominee to head the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) failed to disclose to the Senate a media appearance on Chinese state TV, which may have been used as propaganda by the communist state to cover up a mass stabbing of children. "
+    publishedDateTime: 2021-08-04T15:49:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyhZhsV2sWc/biden-atf-chipman-senate-china-propaganda"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-atf-chipman-senate-china-propaganda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-chipman-senate-china-propaganda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32eb7cbf-b336-4d76-b468-20c975733e88/87d46112-8a3c-435b-bc26-cab352d0de6b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "xmQTh5MJGECUHk6OLaPmrz/Q9AWYNYSU3rvWNaSzujzbwARILzK6pXGWBOIgm8IoRIeoRZHnoqxnwnnBgNGzu5tHn3vhp5qZ/mURVxgdydUQ5BUmUeh9ZLiX+pX3u5G4RUzxfsTg+RGUwu6X9fk9qvZfGLH+yMXHvReHES+EcYfjBOeRbnhxK6rqniLIluN0FwnJYM72xtkGbpRlIq8k+ghThuYgLAVeHU2OYtfvw4njXmF/cCg2fPBVZMfV09v8A2ztyNOPv8ix640ko4087g2733PD/y8d/sz9wJZrCmaDG57oFK2WpHX3zmVu4OKgMlr6vRdjNKMMdT8HAy9o8aRLSNVXjCWlp8RhHH176Cc=;TOHbJyb+G1p+zRwNgNdPGg=="
 ---

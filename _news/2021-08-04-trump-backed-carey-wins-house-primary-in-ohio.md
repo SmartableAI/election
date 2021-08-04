@@ -455,21 +455,21 @@ related:
         width: 760
         height: 538
         isCached: true
-  - title: "Trump-backed Carey, centrist Brown win Ohio US House races"
-    excerpt: "Mike Carey, a coal lobbyist backed by former President Donald Trump, beat a bevy of Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown pulled out a victory for the Democratic establishment in Cleveland,"
-    publishedDateTime: 2021-08-04T09:22:00Z
-    webUrl: "https://www.ourmidland.com/news/article/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
-    ampWebUrl: "https://www.ourmidland.com/news/amp/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
-    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
+  - title: "Trump’s lawyers fight order to give Congress tax returns"
+    excerpt: "Former President Donald Trump’s lawyers told a federal court Wednesday to block the Treasury Department from giving his tax returns to the House Ways and Means Committee, arguing lawmakers are wading into uncharted territory in a bid to embarrass the ex-president."
+    publishedDateTime: 2021-08-04T15:56:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
     type: article
     provider:
-      name: Our Midland MI
-      domain: ourmidland.com
+      name: Washington Times
+      domain: washingtontimes.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/21/21/66/21306790/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/02/Election_2021_Trump_Ohio_59092.jpg-6c212_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
     excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
@@ -628,6 +628,31 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump-backed Carey, centrist Brown win Ohio US House races"
+    excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
+    publishedDateTime: 2021-08-04T15:15:00Z
+    webUrl: "https://www.tri-cityherald.com/news/nation-world/national/article253236008.html"
+    ampWebUrl: "https://amp.tri-cityherald.com/news/nation-world/national/article253236008.html"
+    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/news/nation-world/national/article253236008.html"
+    type: article
+    provider:
+      name: Tri-City Herald
+      domain: tri-cityherald.com
+    quality: 55
+  - title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
+    excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" Former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
+    publishedDateTime: 2021-08-04T15:34:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1024688876/trump-tries-in-court-to-block-the-release-of-his-tax-returns-to-congress"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 54
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/04/gettyimages-1327493808-fdbc6432a07e381301074419ee148f2f39d60eda.jpg?s=6"
+        width: 948
+        height: 711
         isCached: true
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"

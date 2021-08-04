@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a609792-e0aa-4756-97db-ba0e3880e19a/b30deb6c-d2d1-4a00-b7dc-d68cf274f80d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration reportedly planning to vaccinate migrants at border to prevent COVID spread"
+    excerpt: "With the number of migrants coming across the border continuing to surge, the Biden administration is reportedly preparing to vaccinate migrants coming into U.S. custody -- amid continued fears of a risk of COVID-19 spreading between migrants, law enforcement and the American public."
+    publishedDateTime: 2021-08-04T15:47:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wvlQ3A0WItY/covid-spread-biden-planning-vaccinate-migrants-border"
+    ampWebUrl: "https://www.foxnews.com/politics/covid-spread-biden-planning-vaccinate-migrants-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/covid-spread-biden-planning-vaccinate-migrants-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea40f38-5c87-45e1-9db4-d10e1571ec67/f9a1b54b-3116-4eb8-9e4b-4204e771e7b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
