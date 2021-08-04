@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Trump's kingmaker status faces test in Ohio special election"
-excerpt: "Make America Great Again, a super PAC chaired by Trump's former campaign manager, quietly purchased $300,000 in Ohio television advertising. The buy was intended to provide a late-stage boost to another Trump-backed candidate facing a crowded field of Republicans in a special election on Tuesday Low-turnout special elections aren't perfect measures of Trump's strength and he remains a powerhouse in GOP politics,"
-publishedDateTime: 2021-08-02T17:36:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
-webUrl: "https://www.chron.com/news/article/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+title: "Trump: Won't sue to halt officials' testifying"
+excerpt: "Former President Donald Trump said this week that he will not move to stop former Justice Department officials from testifying before two committees that are investigating his administration's efforts to subvert the results of the presidential election,"
+publishedDateTime: 2021-08-04T09:14:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/aug/04/trump-wont-sue-to-halt-officials-testifying/"
+webUrl: "https://www.arkansasonline.com/news/2021/aug/04/trump-wont-sue-to-halt-officials-testifying/"
 type: article
-quality: 90
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -119,6 +117,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump's kingmaker status faces test in Ohio special election"
+    excerpt: "Make America Great Again, a super PAC chaired by Trump's former campaign manager, quietly purchased $300,000 in Ohio television advertising. The buy was intended to provide a late-stage boost to another Trump-backed candidate facing a crowded field of Republicans in a special election on Tuesday Low-turnout special elections aren't perfect measures of Trump's strength and he remains a powerhouse in GOP politics,"
+    publishedDateTime: 2021-08-02T17:36:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-kingmaker-status-faces-test-in-Ohio-16356587.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Justice Department says IRS must give Trump's tax returns to Congress"
     excerpt: "The Justice Department on Friday said the Treasury Department must hand over former President Trump's tax returns to the House Ways and Means Committee, putting an apparent end to the yearslong battle over the records."
     publishedDateTime: 2021-07-31T05:24:00Z
@@ -213,20 +227,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump: Won't sue to halt officials' testifying"
-    excerpt: "Former President Donald Trump said this week that he will not move to stop former Justice Department officials from testifying before two committees that are investigating his administration's efforts to subvert the results of the presidential election,"
-    publishedDateTime: 2021-08-04T09:14:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/aug/04/trump-wont-sue-to-halt-officials-testifying/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
     excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T22:38:00Z
@@ -262,6 +262,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "iPk04dNsGRiFYZh5s8NKK8b7iwuSJnHcmxEbIf2I3tv9NNGvxLkP6fyMsYPvcr93y7e64dIsFo8HAcxXAIameeU06DAv5r+AlAPWdrGqE+SmGb0lllk5HZ10R1OU91M22a1ECl31RJL/hvO0YcQfaLPmFrhsCIINSBVy4hZ+TGem8GxYsZFYk6fUE30FmQ8RW664B/oUHr55qicqfmnm9gvhdzbiy+EnjiRV6U8Opd73rFDJDUXNjWEiCA7Ejm/IonPUhIltqfUd0TeGN5de5bRKGFugup7Pym9CZG2XaHM9EkiLYX/RvpXS9CjmD9YiEpMWrs7gIJguIy6LS8DX6kwByRDoQu/CFbedxkdykb3xy4epQJcQeMyzEW0L0DB+Dqu+RBwVHwt4fmd7YLUrZ/Ys9utu/sQ5ZlvaPrd7HeyEL7MB7y8cSkrRLzXY/K2qhlfzf+5RH0WoEaojCkwnXvKl+Cq8JFunXiFXrolFoDRjv8/q3dtu0VSZnj2dC0cWbyeaRI+KkSaP8Ef+HuXVEg==;ajlSP4cZt0Qwk/ZEWLgW5A=="
+secured: "C+nuHxjQ+p4zwkCAX8ifsxtrsYeNCpc9tNmN23GuRskoCHIV4keouZ8e542TqdHB9d/RoJdu90MCzmWUQjxKVIRvfPrs3PsfwJYLIVPRutiTcU/+xFQNAU1hk+eMsw6oNWeHLUQtv8j3vYtddXeEO6/K373ACzNLCbHk+E76+BHAtqvZzDbSZ/CTrDXEsG8pP96QxdHe+Dxc7DcebP0su/+A+xNtAixggfWhgL1Udm04vuirmedrOSUPPHvWm7sL9llIFdtjIhafiOwyERY/CdE3gSMWE0es7wZVP3tBqO11DhQa+3UxxgS4D9jhgtyFJXJQB7HTyRxAeEztDnpsuefhUngViuC1lf+ilhA/uj8=;q+es8R37nUmS8ylqzlABCg=="
 ---
 

@@ -45,6 +45,17 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Biden calls on Cuomo to quit after damning sexual harassment report"
+    excerpt: "New York governor accused of sexual harassment by 11 women in report published by state attorney general"
+    publishedDateTime: 2021-08-03T16:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Biden, Wolf, top Dems say Cuomo should go; NY Gov remains defiant"
     excerpt: "NEW YORK — New York Gov. Andrew Cuomo faced mounting pressure Tuesday to resign, including from President Joe Biden and other onetime Democratic allies, after an investigation found he"
     publishedDateTime: 2021-08-04T03:54:00Z

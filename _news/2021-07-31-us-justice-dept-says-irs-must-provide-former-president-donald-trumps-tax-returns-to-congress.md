@@ -1,34 +1,28 @@
 ---
 category: news
-title: "U.S. Justice Dept says IRS must provide former President Donald Trump's tax returns to Congress"
+title: "U.S. Justice Dept Says IRS Must Provide Former President Donald Trump's Tax Returns to Congress"
 excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
-publishedDateTime: 2021-07-30T20:40:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
-webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F02MK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F02MK"
+publishedDateTime: 2021-07-30T17:31:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
 type: article
-quality: 113
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570501474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T1ET"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Former top Justice Dept. official's notes say Trump asked him to call election \"corrupt\""
@@ -233,6 +227,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump: Won't sue to halt officials' testifying"
+    excerpt: "Former President Donald Trump said this week that he will not move to stop former Justice Department officials from testifying before two committees that are investigating his administration's efforts to subvert the results of the presidential election,"
+    publishedDateTime: 2021-08-04T09:14:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/04/trump-wont-sue-to-halt-officials-testifying/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
     excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T22:38:00Z
@@ -257,6 +265,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pXJjvsCssn8n5Y62dGJSHpTHvPaOX2fAEN1n9mYZijXzLhwRjMmIHwVGn44Dnj+DEARYZ+iKPJK8xtYOVT6IbFK4B5nWYwoMyN+k60IgJ+9TmJvLfjHWHs+4apxQ9OxiuRFdkMCgkdqdYjoWO6hMHrXdDZy8S7tzspfemLbMmDHc5oaa0eOJXUIsjNS0N/bxzys3G9l5vP9uu09uk9LAqg8qTt2MGTub02xCQ38JBhw9if8bcIATfbkL1MhGa7VY0/hmN05GL4d+Lpd+E6zEHDyVeMVjIPghffKhruQM03gwKHPw0czcmmUpXI1KnoqQYlsOPJtgluXGLiMK/fvzewJdwcMJZZ7dSYDMm3+b79M=;eHoVm6y6Lo980CWhJ/Alew=="
+secured: "VH3dJLv26vwbU/90sGSU6E57Xv3nJPcyK/OmkMaesWSqBTLoQLmdRCI2OH0NkhsOSZhGJ+COBy2y7JiwFRBv2ZWx4oyh2MbhZSHZf6N8JV1oz7cGxzutn+q+42dgsvVQOEwnpBU5a9sI8RRwoHGjYTKDszvGHuF1srXsHcHODTtiYScJ3f4o+4OgarNxStXUWreeY61dDAFM/yMvX53nqTt1DFOrPoL5lnDYyROVy1k+70Ly+yDApUrexf+Yt0YNbcN7Ir3P93afOa+2eB27YMHOEFpGSMrCx0l2hNamv5N/XfcGDT8uNrupAlAoQ9lyXSDTW0aJw31eFhTUXp7/5ODnurXTqmK2EnGnAvgNh/YM9/0zix3brn68QLukvnkrZWMpcVvbN8DaqcXVpLQEzVyquKXvqth88pKZJHYp7yUV7C11SxYtkdOzHS/wClpqxpn+N0bV1viyd/imi0hfhVSbLQ+kFOA2Yt8GqEEkvQQHS8MZf8+F19tQeUYTSMsnVZvOzXT6F0+O8ufnt7N17g==;lonJQ4RFoCSx9gOCcA1mlQ=="
 ---
 

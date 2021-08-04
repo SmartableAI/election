@@ -1,30 +1,28 @@
 ---
 category: news
-title: "President Joe Biden: Andrew Cuomo should resign"
-excerpt: "President Joe Biden on Tuesday afternoon called on New York Gov. Andrew M. Cuomo, a one-time ally and close political confidant, to step down. \"I think he should resign,\" Biden said when asked by repo"
-publishedDateTime: 2021-08-03T20:19:00Z
-originalUrl: "https://www.newsday.com/news/region-state/cuomo-james-harassment-reaction-1.50324499"
-webUrl: "https://www.newsday.com/news/region-state/cuomo-james-harassment-reaction-1.50324499"
-ampWebUrl: "https://www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
-cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
+title: "Biden calls on Cuomo to quit after damning sexual harassment report"
+excerpt: "New York governor accused of sexual harassment by 11 women in report published by state attorney general"
+publishedDateTime: 2021-08-03T16:20:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+webUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Newsday
-  domain: newsday.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cdn.newsday.com/polopoly_fs/1.50324512.1628025843!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-    width: 1280
-    height: 719
-    isCached: true
 
 related:
   - title: "Joe Biden Said Andrew Cuomo Should Resign After An Investigation Into Allegations Of Sexual Harassment"
@@ -43,17 +41,6 @@ related:
         width: 625
         height: 415
         isCached: true
-  - title: "Biden calls on Cuomo to quit after damning sexual harassment report"
-    excerpt: "New York governor accused of sexual harassment by 11 women in report published by state attorney general"
-    publishedDateTime: 2021-08-03T16:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
   - title: "President Biden Calls on New York Gov. Andrew Cuomo to Resign After Sexual Harassment Report"
     excerpt: "New York Gov. Andrew Cuomo is facing mounting pressure to resign, including from President Joe Biden and other onetime Democratic allies"
     publishedDateTime: 2021-08-04T06:53:00Z
@@ -84,6 +71,22 @@ related:
         width: 640
         height: 446
         isCached: true
+  - title: "President Joe Biden: Andrew Cuomo should resign"
+    excerpt: "President Joe Biden on Tuesday afternoon called on New York Gov. Andrew M. Cuomo, a one-time ally and close political confidant, to step down. \"I think he should resign,\" Biden said when asked by repo"
+    publishedDateTime: 2021-08-03T20:19:00Z
+    webUrl: "https://www.newsday.com/news/region-state/cuomo-james-harassment-reaction-1.50324499"
+    ampWebUrl: "https://www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 75
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50324512.1628025843!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "2 years after El Paso shooting, Biden says U.S. 'must confront hate-fueled violence'"
     excerpt: "President Joe Biden on Tuesday will commemorate the second anniversary of the 2019 mass shooting at a Walmart in El Paso, Texas where 23 people died in what was believed to be a hate crime."
     publishedDateTime: 2021-08-03T13:41:00Z
@@ -110,6 +113,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "h+P59SOle0m5n0sz1iSKi8gYd/hmyvQvtu9TbLk3lr2DSsOgyaqKmsTStVfEmEK01Ohcpj4jD60COk8LDTQK3zSci7WDe56OiIwqlr4nhlgK9ud4c8hiLoX8eOdYLnSJvnbgqD/AsH2Ly7D2gNGf/xUk9aTJIldlMulBgAh/WOGPQq6BzGqBgjTlYvqQTefFS/UJ8x5njNz4QSYBuqhNCZ9a7vf134NX8/RPQ/BNSbojSE056rujsGE3wYzXvVHqPGaNC/yd+BiDj7c9rpDSljepAqgRjRJA2LzBn9Ww/eat55oCAedxxF1ILJEsBxnTbKI5bdx7dblV9lemFM0ArH7ZaHGsEvJUlnaiZnSFsPU=;/1oG7iIcHcheaGErW0fMkQ=="
+secured: "gMuHIJQiAbNA8r/lVgYumjXLu5kKetR9a9EZ10XDYx48gCasiIfRZecaRr7M5UlJ++1xa6pSJeaXWTJOhNRzpk9Hu33JJrAMdSto1Osb5M1o9jG6QxXuU3PAJzoQEUN5al2hQKqQdUsbucibGb1PhvHqyQBxxMzLXrg3td90uKUaeJz3K90y4RhP4IBjZKD1ZwqWkwIZJeDuDtG61HC7VVjFJ9tVVUP0zhvBNlaV6eUV8ZZYGWQPEVMfW1jIo50k6FQYH04XoOy9Ant+sXZUiurmws4ewc8hAhoqd5JcFRlScT+qp6Lx2xEUGb6pgWpTYmO7Sw5xM41yJTNPuusSL2Sow4dFjYQclnWBWcnczn+HkYfphIX5I8dYYX9Yt4pIrd0gQ/Rd/lI4eEM8j7EGVACPhx0Yk3RdqBcCuyI0qzgmx58jwWLOpucG6ZzdccKF0tFtsat/ZJqDBfFpqDm6DNt46tPQ0j16LBYUwFb9uL/mjTRGtxeWe/DJ3y/r2pny5BW21toJKBP490NmO1/GPg==;3ntL00vDBICsU6KNUm8uzg=="
 ---
 

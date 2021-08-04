@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on COVID-19 Vaccinations"
 excerpt: "President Joe Biden answers questions from reporters following remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
 publishedDateTime: 2021-08-03T21:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4856a74f0cb71eefe84466a2e67e312b/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4856a74f0cb71eefe84466a2e67e312b/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/44d2e5f5577424cb3f1277b9f4abf0af/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/44d2e5f5577424cb3f1277b9f4abf0af/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4856a74f0cb71eefe84466a2e67e312b/BIDENCORONAVIRUS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/44d2e5f5577424cb3f1277b9f4abf0af/BIDENCORONAVIRUS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -509,6 +509,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GiaIs5bUtyEaCbzFpVQvogKsmQAacSmQk2vCAEsixiF75EOk+MDsdXCAGZmAtOB8Gb+Y89ZaUvw5TDcqd4NC4E7mcHx03ml64Xql8UQWtkMbsuuH0lvMYEf0zxaDWhPIZdlpKRoeAB0Jvc9lJxoIvjtlHTQeZhDbNSn5qQ2ayl3igWuR9RIwjrOUXk/TMPvbCP1Mch+VzUoD04D39ha7hSbprHbvvgeAFbFwwfSAmw2NEO9yfqXy+UVc/bLHaiKe0zIv9cUstLJYPYf2ieY+w9hAl0pTAxveFRSncB5d+XiT5HkA208p47mpxmXAg4eRPLZmQGsSLa0+qudXyPgSuq3HUXe67Nvq4XH0UiPjkyw=;7ItLUa7PV463x+Q7UR0YRA=="
+secured: "k02AIttCh9SRzNdiHPQ9b2lzN2xQl9kymK1ON7nDrD0qgztb2tRfAgF05NuXc+do2IL73xn+yjlV6r35xs6Wh2G+ABjJSjZLZMTRdM07LcMyrkTZcfvauLOL5sA2XN8BWpycMGKB7ftLHj8GUawsYb2bi5zTqH8/a0n5mSqOD2+37e0+XjvQ6a+L4Fz/dGsWRTsCDV3Sux2apNAe0Uc54f+2Viyh4X/r8F0mdFU36ZSK9NjdLuIOwmjmmtYCsUkfAWspmcOj8JYr8OJj2mze5YWyAag3XEX8xftlR8aU+cab/V28sL9YWm1s9C93SbRLsQLl/5mTkC6Ut5M6JmHB4vOWVaD3x1MwX1zsEcv07dg=;JrOsj3x26jBrzuKN4yqriw=="
 ---
 

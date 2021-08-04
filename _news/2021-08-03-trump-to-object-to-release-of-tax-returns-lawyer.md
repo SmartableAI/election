@@ -87,22 +87,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "U.S. Justice Dept says IRS must provide former President Donald Trump's tax returns to Congress"
-    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
-    publishedDateTime: 2021-07-30T20:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F02MK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F02MK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 113
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570501474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T1ET"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Inside the push to get Trump back on social media now that his favorite sites have banned him"
     excerpt: "\"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while',\" the CEO of a new conservative social media platform told Insider after he showed Trump how to use its app."
     publishedDateTime: 2021-07-24T13:44:00Z
@@ -241,6 +225,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump: Won't sue to halt officials' testifying"
+    excerpt: "Former President Donald Trump said this week that he will not move to stop former Justice Department officials from testifying before two committees that are investigating his administration's efforts to subvert the results of the presidential election,"
+    publishedDateTime: 2021-08-04T09:14:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/04/trump-wont-sue-to-halt-officials-testifying/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
     excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
     publishedDateTime: 2021-07-30T22:38:00Z
@@ -255,6 +253,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "U.S. Justice Dept Says IRS Must Provide Former President Donald Trump's Tax Returns to Congress"
+    excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
+    publishedDateTime: 2021-07-30T17:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 43
 
 secured: "jTzh15IQL6guAvVaJWunu8vzAObwltg56zcGi/dIcrRQ7BXQjZNuAElyR3jlr5YxHI9U/VQaa+0xWZQDrcs3Ae/5T7gEgRS/cDnPDByzqGwlSyQM6teTiATWMRAsMp/sG6OcjYGkJ7I6HWU9YMXakfJ5JryLP7a61C4S3fjEC026Uq7I8ZRcy/ELN9kmaFO9G0FShhRTTRCPrPYUCBFPKmUIRJxVPV6mC6aLnboeSEhIMQ+y3y/BNe6U7voTLnXvPhQyjqJQcHr0kQ17iYIyVUKdyVtjsVPUNqlagf7EKXSnAykqRYBiwFSLpesWEaafgZXb5VZkOjeCUJO0dJA4Pmv44y67qQUgVXrUxnUAhAOHkBfke106qnoTmEPoWxA/lT6OKGgRg6VO0hSBynN2jSW34zxcwSb39hucdM1s8J+Fhj1Fx3UvMwXKqnP5B9bN6S3m1JnJ3ojplbahmUGHpykurxhOI+c7wNOIFqxys7jEb3bp88shtetJUXt9LySwhNmoH5vHKS5Z9oBNWYIWsw==;0td850BykygZKy04sSHUQQ=="
 ---

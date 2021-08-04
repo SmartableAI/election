@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cu
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cuomo-resign"
 type: article
 quality: 109
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Biden calls on Cuomo to quit after damning sexual harassment report"
+    excerpt: "New York governor accused of sexual harassment by 11 women in report published by state attorney general"
+    publishedDateTime: 2021-08-03T16:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "President Biden Calls on New York Gov. Andrew Cuomo to Resign After Sexual Harassment Report"
     excerpt: "New York Gov. Andrew Cuomo is facing mounting pressure to resign, including from President Joe Biden and other onetime Democratic allies"
     publishedDateTime: 2021-08-04T06:53:00Z

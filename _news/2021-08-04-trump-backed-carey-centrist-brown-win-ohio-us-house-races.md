@@ -2,26 +2,28 @@
 category: news
 title: "Trump-backed Carey, centrist Brown win Ohio US House races"
 excerpt: "Mike Carey, a coal lobbyist backed by former President Donald Trump, beat a bevy of Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown pulled out a victory for the Democratic establishment in Cleveland,"
-publishedDateTime: 2021-08-04T05:20:00Z
-originalUrl: "https://apnews.com/article/joe-biden-donald-trump-ohio-elections-steve-stivers-6042e4fd64086301ed9162b51f75a0ff"
-webUrl: "https://apnews.com/article/joe-biden-donald-trump-ohio-elections-steve-stivers-6042e4fd64086301ed9162b51f75a0ff"
+publishedDateTime: 2021-08-04T09:22:00Z
+originalUrl: "https://www.ourmidland.com/news/article/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
+webUrl: "https://www.ourmidland.com/news/article/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
+ampWebUrl: "https://www.ourmidland.com/news/amp/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
+cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Ohio-primaries-may-signal-mood-of-2022-midterm-16359635.php"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Our Midland MI
+  domain: ourmidland.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/086ff5fdd89547edbc2c380cd24cd868/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.hdnux.com/photos/01/21/21/66/21306790/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -92,6 +94,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "ByTeFcQIItklvcsoGv4MYK2/KDk899nN5jZ0voi/VzTQfE0Xp5hOZURlDED2QZeC+V5JI2QxCYSyO6Z/IFF4YP0mbnbBbYnkeYBH7tHlfg1hkiUx8Z0sQzFP+l4wLjxcWmjDeqv1CLRGwVielslGCGGtaVwkRhtyq+1KYe2A7QbIekjRYq/hSywbxUwZz+71lfZWB/Vhe7z6CuwmDTZLA8kvQ6uJX1KxMhU7iAUOV/bY1w8wvamgjMIuc+6shz1F2ptOiJaYv6McNMiGjegW4QIv9GGjCAuxdLbtP6pQPbbIJAX39GseIyu6upagItFfqHaojjaGs2cgLb0OZm1oSOMnFwm/z7viP3JvQ04jS98=;4Xn/GouZu80Af1RIyLFqLw=="
+secured: "pexyKsebpvZejPjiju4KkR3BP7vKLhw9pBDxBkwvrkmb0VMNbBFERg3xHHmbnibcaEszu072KmJ/aXwU3Segum7176VWXaP+cLlH9elogKuGJ5WbaM059XndtWUKaiJh8s00zO69jRBvsyOpoPfawagSX4Ek2SOmfiSx8hHr1juL4FpnLAIfEzaYAxl9BTAKHqaFrTITByOfE1eJE6J8VYy0FRomUTy2FAZcOhDyg3+PeQVSimNjwAcN9vZUiitYcpprXhahPaKbqX/0JkenmMhcxj6pvcrxSFac4KZ4C7IO4KPgxPg6UMzss4rn6SzNdISmTmFnEidIFjMf2tMEqnCqwbqINdKFIZsLSDjx58o=;IZAhhvxHyDJ+B8+r62AGxg=="
 ---
 
