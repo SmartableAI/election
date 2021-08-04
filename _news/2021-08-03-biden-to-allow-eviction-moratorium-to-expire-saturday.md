@@ -89,6 +89,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Nina Turner Learns the Hard Way That Democrats Like Joe Biden"
+    excerpt: "Nina Turner compared voting for Joe Biden last year to eating a “bowl of shit,” so it shouldn’t exactly be a surprise that she lost her bid for Congress after the race became about her disdain for the Democratic establishment."
+    publishedDateTime: 2021-08-04T07:20:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4b5/772/ea571572746b3f374d77126a28047c0699-GettyImages-1234163163.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
     excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
     publishedDateTime: 2021-08-02T12:31:00Z

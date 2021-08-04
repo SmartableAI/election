@@ -1,29 +1,31 @@
 ---
 category: news
-title: "2 years after El Paso shooting, Biden says U.S. 'must confront hate-fueled violence'"
-excerpt: "President Joe Biden on Tuesday will commemorate the second anniversary of the 2019 mass shooting at a Walmart in El Paso, Texas where 23 people died in what was believed to be a hate crime."
-publishedDateTime: 2021-08-03T13:41:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
-webUrl: "https://www.upi.com/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
+title: "President Biden Calls on New York Gov. Andrew Cuomo to Resign After Sexual Harassment Report"
+excerpt: "New York Gov. Andrew Cuomo is facing mounting pressure to resign, including from President Joe Biden and other onetime Democratic allies"
+publishedDateTime: 2021-08-04T06:53:00Z
+originalUrl: "https://time.com/6087311/andrew-cuomo-resign-sexual-harassment-biden/"
+webUrl: "https://time.com/6087311/andrew-cuomo-resign-sexual-harassment-biden/"
 type: article
-quality: 68
+quality: 94
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Time
+  domain: time.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/7221627994073/2021/1/4a5485e3b2e2c7b48e48e9f5958f43aa/v1.5/2-years-after-El-Paso-shooting-Biden-says-US-must-confront-hate-fueled-violence.jpg"
-    width: 800
-    height: 534
+  - url: "https://api.time.com/wp-content/uploads/2021/08/new-york-gov-andrew-cuomo.jpeg"
+    width: 5760
+    height: 3840
     isCached: true
 
 related:
@@ -42,20 +44,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-10/1/16/campaign_images/buzzfeed-prod-web-04/republicans-are-planning-to-vote-on-kavanaugh-by--2-6753-1538427207-6_dblbig.jpg"
         width: 625
         height: 415
-        isCached: true
-  - title: "President Biden Calls on New York Gov. Andrew Cuomo to Resign After Sexual Harassment Report"
-    excerpt: "New York Gov. Andrew Cuomo is facing mounting pressure to resign, including from President Joe Biden and other onetime Democratic allies"
-    publishedDateTime: 2021-08-04T06:53:00Z
-    webUrl: "https://time.com/6087311/andrew-cuomo-resign-sexual-harassment-biden/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 94
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/08/new-york-gov-andrew-cuomo.jpeg"
-        width: 5760
-        height: 3840
         isCached: true
   - title: "Biden, Wolf, top Dems say Cuomo should go; NY Gov remains defiant"
     excerpt: "NEW YORK — New York Gov. Andrew Cuomo faced mounting pressure Tuesday to resign, including from President Joe Biden and other onetime Democratic allies, after an investigation found he"
@@ -89,6 +77,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "2 years after El Paso shooting, Biden says U.S. 'must confront hate-fueled violence'"
+    excerpt: "President Joe Biden on Tuesday will commemorate the second anniversary of the 2019 mass shooting at a Walmart in El Paso, Texas where 23 people died in what was believed to be a hate crime."
+    publishedDateTime: 2021-08-03T13:41:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/03/joe-biden-el-paso-shooting/7221627994073/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 68
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7221627994073/2021/1/4a5485e3b2e2c7b48e48e9f5958f43aa/v1.5/2-years-after-El-Paso-shooting-Biden-says-US-must-confront-hate-fueled-violence.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
     excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."
     publishedDateTime: 2021-08-03T22:03:00Z
@@ -99,6 +103,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "jqbG7tA+gPZ5xszxZCfU4pqee+IegrLaCYgF+QOCVG75B5VJlMW/R760fhNIqGrTeKSG1T93SQUNkjkS/6Q3HIo/6RdEc14fa62gcRoimie7vltig6wRAknK9LuSYlRxcIBCwY6mY54zKQ6eVCO5BFPRO6wMsa1iraJXmPs4MgD7kMHzjil8Qu2hk6EzxeKlrBHDBuMuAI/iMjJoC7UIpW+VmD43QrsdqB5l9sPU/cLQzC4waHSqyW3JR9E23GdO/7tn+EHnIAUGdfxrdPsxXbWBkJqG/Po8sumZzzMx2PVRBeODSTq5r/DiZqeZydOPB9j2+CkveIhBDnxvWb17VNOPVgJuX7JR6NP89MpIVRw=;gdfEirBpOIteg/MFM8uBzA=="
+secured: "/vomC2Crfy7K3hoAWSfFQSEzu5S5s1QcKKu6LQ1usUC5DJeP+ZVnEDrGgOEtTUUErKwAudjeCzyJLi1TJlab5sTTsl1DOVonJjynuPGgKagWMEO9IyFQM27nm1U3OWRqYF22KiHpYRmh4nTvcAvlpSMEq+kHpVimNyJx3Tv6st1sJspJUVVrXjlJz7A+TL1CqFLqGirXDohPvLr7kOCWEwl5cLdEvuDUlhQrvj0Xa7J6hCk2pMawDpWjOyL7tCqhtdo41/78j0Ue7gJgdXDd+JzOONuUmw6ESwlg8ysQqEpKUnquPL+1ivlBjst9bUBSvKaSEOrw2OgIz0nCrz357mtGv5Wrz4AXU8AdE5l8nFM=;qS0v7ophvUba24Efz/DWVQ=="
 ---
 

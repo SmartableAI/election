@@ -39,6 +39,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump-backed Carey, centrist Brown win Ohio US House races"
+    excerpt: "Mike Carey, a coal lobbyist backed by former President Donald Trump, beat a bevy of Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown pulled out a victory for the Democratic establishment in Cleveland,"
+    publishedDateTime: 2021-08-04T05:20:00Z
+    webUrl: "https://apnews.com/article/joe-biden-donald-trump-ohio-elections-steve-stivers-6042e4fd64086301ed9162b51f75a0ff"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/086ff5fdd89547edbc2c380cd24cd868/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Mike Carey, backed by Donald Trump, wins primary for House seat in Ohio"
     excerpt: "COLUMBUS, Ohio >> A pair of special congressional primaries Tuesday in Ohio could serve as litmus tests for the moods of the Republican and Democratic parties heading into next year’s midterm elections."
     publishedDateTime: 2021-08-04T01:21:00Z
@@ -55,17 +69,22 @@ related:
         width: 760
         height: 538
         isCached: true
-  - title: "Trump-backed Carey, centrist Brown win Ohio US House races"
-    excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
-    publishedDateTime: 2021-08-04T05:47:00Z
-    webUrl: "https://www.sunherald.com/news/nation-world/article253236008.html"
-    ampWebUrl: "https://amp.sunherald.com/news/nation-world/article253236008.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/nation-world/article253236008.html"
+  - title: "Trump-backed Carey wins House primary in Ohio"
+    excerpt: "Mike Carey topped a formidable field of 11 GOP primary contenders for the seat vacated by Republican Steve Stivers in May, even fending off Stivers’ own pick, state Rep. Jeff LaRe, and three"
+    publishedDateTime: 2021-08-04T07:36:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/03/trump-backed-carey-wins-house-primary-in-ohio/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/03/trump-backed-carey-wins-house-primary-in-ohio/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/03/trump-backed-carey-wins-house-primary-in-ohio/amp/"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 55
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/08/sjm-ouse-Ohio_86934196.jpg?w=1023&#038;h=724"
+        width: 1023
+        height: 724
+        isCached: true
   - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
     excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
     publishedDateTime: 2021-08-03T10:19:00Z

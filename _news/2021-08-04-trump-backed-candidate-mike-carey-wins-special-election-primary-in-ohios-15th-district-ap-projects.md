@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Democratic Insider and a Republican Backed by Trump Win Ohio House Races"
+    excerpt: "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status."
+    publishedDateTime: 2021-08-04T04:51:00Z
+    webUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/03/us/politics/03ohio-elections-brown/03ohio-elections-brown-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "wzUS9Cp+OsnH50QX0PGI8aULmxnUDeN+sytrkl05XRwQcpl+xEbJ/nOk1QaqSrPr7jkj4QdY1/5s/hPLfG7FIvSPACw0CM9OcBwD00J4JQKMr52cqEUZvz/9oa5LwQ1583YupF8VkwizelckV/RdoG9Z710wgXePThkX2ZipZ8Z3fqj/ZEfTw9q4hW/RQ5w9t2Xft5D1dngAdipMyLPiSwARkDDXz9/xs8/NtmzQsx+x2Oo79JJ89itOy2oF2S/10xbHrVZ92aSIjmh9sya7FG20BZj+oB9Wh+Zs1BL7VZg7bUwyEpVV5UQT8vS376ZMKgoDZMqO12hxOLhgJEiP/ARBKUapLDSee5r5AaInHNs=;CFDGAM9pqhMnjXPB6VAr4w=="
 ---

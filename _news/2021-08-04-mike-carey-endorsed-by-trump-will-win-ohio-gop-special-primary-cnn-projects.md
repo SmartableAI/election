@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html"
 type: article
 quality: 171
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3496349/210803-mike-carey-ac-629p.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Democratic Insider and a Republican Backed by Trump Win Ohio House Races"
+    excerpt: "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status."
+    publishedDateTime: 2021-08-04T04:51:00Z
+    webUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/03/us/politics/03ohio-elections-brown/03ohio-elections-brown-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "Y8xApn79p7PLjCXYK6kWamMxokOFezLR2iTvxRg+Etln3VqoVhc6NX+507gQxBTb8F/AsXmzRmSFvY/vrGcg5TB8EsDxsmo6csDTqu08obEC6hVxCv9uGbJFE3dnfM1u/yy25U1/IXv9kbd+GJfRStEGJBiFa1qMMXhQOu0Y87ilU+8Onfw4sqEMx1TFZGZDi/H5i5/izaEhuco1b5QsYtP6QEggbm+BcX5wMIP+Uu7VqMN8sbpu+UqcNbulP9U9Ap2Iof5MQ4NPry9XweFUewR02lacX11WMl6Mpjr6HysGZFJtLtiTfW70CumiaeGyxD/jTX+8FM9/7Q2nu4qW6CHNrYeTe72Z40HTieVGqMo=;C77KGy+gfHyQYfn+/dkWqA=="

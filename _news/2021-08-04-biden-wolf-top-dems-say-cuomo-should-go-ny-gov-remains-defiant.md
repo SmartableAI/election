@@ -43,6 +43,20 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "President Biden Calls on New York Gov. Andrew Cuomo to Resign After Sexual Harassment Report"
+    excerpt: "New York Gov. Andrew Cuomo is facing mounting pressure to resign, including from President Joe Biden and other onetime Democratic allies"
+    publishedDateTime: 2021-08-04T06:53:00Z
+    webUrl: "https://time.com/6087311/andrew-cuomo-resign-sexual-harassment-biden/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 94
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/08/new-york-gov-andrew-cuomo.jpeg"
+        width: 5760
+        height: 3840
+        isCached: true
   - title: "President Joe Biden: Andrew Cuomo should resign"
     excerpt: "President Joe Biden on Tuesday afternoon called on New York Gov. Andrew M. Cuomo, a one-time ally and close political confidant, to step down. \"I think he should resign,\" Biden said when asked by repo"
     publishedDateTime: 2021-08-03T20:19:00Z

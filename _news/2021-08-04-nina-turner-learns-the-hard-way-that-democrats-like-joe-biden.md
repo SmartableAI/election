@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Biden says New York Governor Cuomo should resign"
-excerpt: "U.S. President Joe Biden said on Tuesday that New York Governor Andrew Cuomo should resign in light of the findings of an investigation into sexual harassment allegations."
-publishedDateTime: 2021-08-03T19:51:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-says-new-york-governor-cuomo-should-resign-2021-08-03/"
-webUrl: "https://www.reuters.com/world/us/biden-says-new-york-governor-cuomo-should-resign-2021-08-03/"
+title: "Nina Turner Learns the Hard Way That Democrats Like Joe Biden"
+excerpt: "Nina Turner compared voting for Joe Biden last year to eating a “bowl of shit,” so it shouldn’t exactly be a surprise that she lost her bid for Congress after the race became about her disdain for the Democratic establishment."
+publishedDateTime: 2021-08-04T07:20:00Z
+originalUrl: "https://nymag.com/intelligencer/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+webUrl: "https://nymag.com/intelligencer/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/Nq28S3fMjfcOPXgn9m1nOVKW_3Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U3LD7ZQLBNPH3AT5I626SLGSA4.jpg"
+  - url: "https://pyxis.nymag.com/v1/imgs/4b5/772/ea571572746b3f374d77126a28047c0699-GettyImages-1234163163.1x.rsocial.w1200.jpg"
     width: 1200
-    height: 628
+    height: 632
     isCached: true
 
 related:
@@ -61,6 +59,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden says New York Governor Cuomo should resign"
+    excerpt: "U.S. President Joe Biden said on Tuesday that New York Governor Andrew Cuomo should resign in light of the findings of an investigation into sexual harassment allegations."
+    publishedDateTime: 2021-08-03T19:51:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-says-new-york-governor-cuomo-should-resign-2021-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/Nq28S3fMjfcOPXgn9m1nOVKW_3Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U3LD7ZQLBNPH3AT5I626SLGSA4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden to allow eviction moratorium to expire Saturday"
     excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
     publishedDateTime: 2021-07-29T17:49:00Z
@@ -92,22 +104,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Nina Turner Learns the Hard Way That Democrats Like Joe Biden"
-    excerpt: "Nina Turner compared voting for Joe Biden last year to eating a “bowl of shit,” so it shouldn’t exactly be a surprise that she lost her bid for Congress after the race became about her disdain for the Democratic establishment."
-    publishedDateTime: 2021-08-04T07:20:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/4b5/772/ea571572746b3f374d77126a28047c0699-GettyImages-1234163163.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
         isCached: true
   - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
     excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
@@ -154,6 +150,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "eF7AI0oMJa/dvHcxH1zVWRXWRuPhnewoZGYwvcFfRP7JxjrF/KgGJHKpZvcEQ6Ykvkm5/eETNib98VqSiaxXQ+R0BBm7FIK8/thxIcipLrRxfhldXQvFv9Z4GegbInBmCgxPq5j9+aM/y+LtJIvg/sTaCeIcQwE2BlQi0ZdgAzSs51PABfIq37d8y5asbQwjrmuZuI2Cvk7cDEBIZoCognQt/Z4DBiZLAIqWVe+Bpb6ZRAkpDLJe1+7KvYeX//YzWgcSCUwSWX86XheLdhrdlxUxP9NWode9PeLbT6FTGJTLuxmxd5HAOK35cMU/tY/jzU54aYF50F5h+seibxlo3t0EOHJMfBvQT137wmBtsgZTymK1Wo2kOwswiM3NNUwTr/2hVNagXNiyTnj2+8kWLk521i3pttLAS+XqBhRILE/XD39KpUIaBKMloKcY+CM4UxzdgmbpnKLwZiGxvJznJ9e4kGrfTyX6exWfQkf4LuWdLMp3xqBfd8hk9liiEW55fjVayk99TnIutvdQ1TC80w==;I4h0Hne7sagx3pM10WujSQ=="
+secured: "IC9sYALf7z3RNuRqXWy1eGGvx7sDOg7tNPLwwz4CmH2B4Of88k2sSW+xgcYyC0yCEgCwRi9lEoWoY3Cy6clRV9gD9uVD8CC618Koqm0OG0MjsbGVzA+BqYNvk4GSpl3QZLo2MCLoVfdRSQXMKtsUNUH3AKOUG5H0XlcFUJm7nu7OM7GASWTzTzfno1CzgFSKfMJgnIX1G3o5ZLa1haxyyFOy4psQphD1QBEU4HJrkw9AqhlR1gOPEj1G5jwVwR4bdX1hWVQ0j5utURQnMKBoKYUU/2lIHWHNfesjflvBt+K1TD6nt8Pgtxrv6YOsSGfhUCKRnEvF/B6r3SqWBEWCMwwnFfCFEKHRxxFvhK5MoeE=;sPfbRaVrSz4UfDbNe897sA=="
 ---
 

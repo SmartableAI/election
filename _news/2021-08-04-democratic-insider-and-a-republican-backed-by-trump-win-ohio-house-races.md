@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Mike Carey, Backed by Trump, Wins Republican House Primary in Ohio"
+title: "Democratic Insider and a Republican Backed by Trump Win Ohio House Races"
 excerpt: "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status."
-publishedDateTime: 2021-08-04T01:03:00Z
-originalUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.html"
-webUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.html"
-ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.html"
+publishedDateTime: 2021-08-04T04:51:00Z
+originalUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.html"
+webUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.html"
+ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
 type: article
-quality: 135
+quality: 134
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/08/04/lens/03ohio-elections-carey-print/03ohio-elections-carey-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/08/03/us/politics/03ohio-elections-brown/03ohio-elections-brown-facebookJumbo.jpg"
     width: 1050
-    height: 550
+    height: 549
     isCached: true
 
 related:
@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Mike Carey, Backed by Trump, Wins Republican House Primary in Ohio"
+    excerpt: "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status."
+    publishedDateTime: 2021-08-04T01:03:00Z
+    webUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/04/lens/03ohio-elections-carey-print/03ohio-elections-carey-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump-backed candidate Mike Carey wins special election primary in Ohio's 15th District, AP projects"
     excerpt: "The Republican race was closely watched in its final days, following the loss last week of a Trump-endorsed candidate in a special House election in Texas."
     publishedDateTime: 2021-08-04T01:42:00Z
@@ -64,23 +80,7 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Democratic Insider and a Republican Backed by Trump Win Ohio House Races"
-    excerpt: "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status."
-    publishedDateTime: 2021-08-04T04:51:00Z
-    webUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/08/03/us/politics/03ohio-elections-brown/03ohio-elections-brown-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
 
-secured: "Em6lgx/FDiOD/lQyBhZPVJj988HG54v/xksZvkn4ekc+E49vtKv69cjPKDQypewi5ue4WfaIATkRSvnXPyubWVdzn//TmUjXdhXkIobKla8hsZBGtj8wHVgXjGud2EZECUFH9kr5b7fmIU8X38SDhoi1J5Y9Mpai0MRM4TuFs14o6doMkTBK+PeTaNIukjtpfxEe9DaMWfcvZtkDFb0MLFNBicLlzB1Lwd4qB9VSngKMUbsitFCXNFVzZHCPE6y9hxecMNs/hLmkDbUaEIbv7C9/c3K7xfEFzwY0CZGF/GmraXPTf/5ZaEFimbvDp0w9CF1Wzeghff2TwiIscHF3yYySgha+IiGcQZdY1NTIpUY=;DBcR02Z7rZ42s4aNpgl1Qg=="
+secured: "q2chtnJejCmVNjQZinG37eGHgXtO5V7H6FoXlxW/Wm6utKVnIsUKNXMloEqBTqmGz81hsnVR3Hbpn62Q+DJzBvhx4jsqVNdKUQly7UY7AGdMmLeI9AWt/pT5tm1/PX9/v+v8JtFoNGBvEFg8clicLVu7zqb2ZXBRXCO59+fDEfKvk4b7Qj+wlVApEhnSUH7b3jtOsIPKGkB+P7EgQPM4jvk+iHvp4T5uUoLVqXjsi5ozyB7VN3hOdgndbKakVRDUQjLMLaybDVvLjlz7UYBaftBpdHO9TfW/pJvC4RpQv+hyh6BeQywtTYT4WyWAwVTHomZlpgZDnVlpzQut5A/dZhmTbUdoK1HVvAWGZ+DFlsc=;M497teBY2dgwvVNh2MTIoA=="
 ---
 

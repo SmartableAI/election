@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cu
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cuomo-resign"
 type: article
 quality: 109
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "President Biden Calls on New York Gov. Andrew Cuomo to Resign After Sexual Harassment Report"
+    excerpt: "New York Gov. Andrew Cuomo is facing mounting pressure to resign, including from President Joe Biden and other onetime Democratic allies"
+    publishedDateTime: 2021-08-04T06:53:00Z
+    webUrl: "https://time.com/6087311/andrew-cuomo-resign-sexual-harassment-biden/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 94
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/08/new-york-gov-andrew-cuomo.jpeg"
+        width: 5760
+        height: 3840
+        isCached: true
   - title: "Biden, Wolf, top Dems say Cuomo should go; NY Gov remains defiant"
     excerpt: "NEW YORK — New York Gov. Andrew Cuomo faced mounting pressure Tuesday to resign, including from President Joe Biden and other onetime Democratic allies, after an investigation found he"
     publishedDateTime: 2021-08-04T03:54:00Z
