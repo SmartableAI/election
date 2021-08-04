@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's top health officials sending mixed messages on Covid-19 response"
+    excerpt: "As the status of Covid-19 in the US has changed quickly in the last few weeks with the rise of the highly contagious Delta variant, the messages coming from public health officials inside the Biden administration have sometimes been muddled or contradictory.\n    \n"
+    publishedDateTime: 2021-08-04T20:02:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hRsxklE0D80/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/biden-administration-mixed-messaging-covid-delta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/biden-administration-mixed-messaging-covid-delta/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623003752-us-coronavirus-wednesday-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden wants Putin to behave. So why not go after his money?"
     excerpt: "Kremlin critics say the U.S. president needs to do more than take incremental measures. But insiders warn that aiming for Putin’s pocketbook could be dangerous."
     publishedDateTime: 2021-07-27T19:00:00Z

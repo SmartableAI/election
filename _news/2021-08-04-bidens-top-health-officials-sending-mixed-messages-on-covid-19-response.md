@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden to accept award from Kosovo on behalf of his son Beau"
-excerpt: "President Joe Biden on Sunday will accept an award from the President of Kosovo on behalf of his son Beau Biden for his work helping to strengthen the war-torn country's justice system, according to a White House official.\n    \n"
-publishedDateTime: 2021-07-30T16:30:02Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iCiv3nbhU0M/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iCiv3nbhU0M/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-kosovo-award-beau/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-kosovo-award-beau/index.html"
+title: "Biden's top health officials sending mixed messages on Covid-19 response"
+excerpt: "As the status of Covid-19 in the US has changed quickly in the last few weeks with the rise of the highly contagious Delta variant, the messages coming from public health officials inside the Biden administration have sometimes been muddled or contradictory.\n    \n"
+publishedDateTime: 2021-08-04T20:02:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hRsxklE0D80/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hRsxklE0D80/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/biden-administration-mixed-messaging-covid-delta/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/biden-administration-mixed-messaging-covid-delta/index.html"
 type: article
-quality: 175
-heat: 235
-published: true
+quality: 174
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119173542-biden-dusa-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623003752-us-coronavirus-wednesday-0623-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Biden's top health officials sending mixed messages on Covid-19 response"
-    excerpt: "As the status of Covid-19 in the US has changed quickly in the last few weeks with the rise of the highly contagious Delta variant, the messages coming from public health officials inside the Biden administration have sometimes been muddled or contradictory.\n    \n"
-    publishedDateTime: 2021-08-04T20:02:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hRsxklE0D80/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/biden-administration-mixed-messaging-covid-delta/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/biden-administration-mixed-messaging-covid-delta/index.html"
+  - title: "Biden to accept award from Kosovo on behalf of his son Beau"
+    excerpt: "President Joe Biden on Sunday will accept an award from the President of Kosovo on behalf of his son Beau Biden for his work helping to strengthen the war-torn country's justice system, according to a White House official.\n    \n"
+    publishedDateTime: 2021-07-30T16:30:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iCiv3nbhU0M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-kosovo-award-beau/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-kosovo-award-beau/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623003752-us-coronavirus-wednesday-0623-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119173542-biden-dusa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "V4HHgI+vIKttPo+sy5DvVyuMNQBEBvSkclxYUH92jtLwqzYjV+JH6Jf5l9VNo8r2flQ3bJqJdkLoQil0Qg1u5KldxpZvXsPBRi4zQxX4RnR3nQAry9hhojnUhLHl3mFH3UxhKelIQ9d7HBurB7oOHBCP3JHUqNzuoIJsr1QEQWV1Hc4FXmyiNEDAI96Cu939wP/k7tqr5rZ3lHkvgXPotagk4Cw3aY1jtbBdwSZIbqx7CJWLeKZVvC4qoqX1XQLPmPyUHsERA4UnRw6vtMlOm0wTBn84EgpgFilNKzmAVj068y7vzSrmhG4sdWUOp82cOoRzux/CCfqEvR3Tg3covkt/v+9OaumP/wR9hUdTin4=;oSEVbG5c0oLABPyfnxrjjg=="
+secured: "l0lNqgybbK1AHanezbCnKQaJjB6zTQkFHP88XpFUpMNMCjQkHuJyRmUTqKiCRp6S+YwCd8yY9mIZ3wiCCNnnylAAJ+LszBWvf+TXBp4aJ5A0v+NbgrlPx1tK9fcGclsdqkDRPfi0hz+u4mBtC+QyVzFEmBIoM21aL6LBSo3ZD6YxGvg0Q0t3XofoVfFqOo+0SPReoc3VQU+KiwrZYR5YttkT715r4swpmrbRMPvszstdduu7QGtXkNZ1saTnYLXtjCDs0jn87G/wSxy8wAirohtqkIIwVjTDAbFks4LfER9mFkx67495cHXkwwYYq90sG+EdWo8/qQCRut2sdISN6Z8nnxgKOMMF6RwwXwS05Yo=;j5ZLqqB04sR6vUeNf6dBmg=="
 ---
 

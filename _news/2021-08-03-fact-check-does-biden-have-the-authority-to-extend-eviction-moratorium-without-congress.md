@@ -431,6 +431,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden changes his tune by getting confrontational with GOP governors over Covid spike"
+    excerpt: "When Republican governors began prematurely lifting coronavirus restrictions in their states earlier this spring, President Joe Biden and his team largely kept their heads down, ramping up vaccine distribution while steering clear of rhetorical battles with political adversaries.\n    \n"
+    publishedDateTime: 2021-08-04T21:26:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/THBCpvdRGC0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/joe-biden-gets-confrontational-with-gop-governors-over-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/joe-biden-gets-confrontational-with-gop-governors-over-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210804075846-04-biden-0803-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration developing plan to require all foreign visitors to be vaccinated "
+    excerpt: "The Biden administration is developing a plan to mandate vaccinations for almost all foreign visitors to the US, a White House official confirms to CNN, though some exceptions are expected.\n    \n"
+    publishedDateTime: 2021-08-04T21:32:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WUw6Be4uNAI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/vaccines-foreign-visitors-to-us/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/vaccines-foreign-visitors-to-us/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803220854-01-vaccine-vial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden meets with key Democratic negotiator as White House presses to keep agenda on track"
     excerpt: "President Joe Biden will meet with Arizona Sen. Kyrsten Sinema on Tuesday at the White House as he pushes to secure a path forward for his sweeping dual track agenda, according to a source familiar with the schedule.\n    \n"
     publishedDateTime: 2021-07-28T02:18:19Z

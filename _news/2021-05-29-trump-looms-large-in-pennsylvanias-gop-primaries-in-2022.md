@@ -195,6 +195,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump asks judge to block release of tax returns, blasts Biden Justice Dept. for authorizing release"
+    excerpt: "Attorneys for Donald Trump on Wednesday blasted a Justice Department ruling that directed the Treasury Department to turn over his tax returns to Congress, formally asking a court to block their release and arguing that records of former presidents as well as presidents should be similarly protected from subpoenas by lawmakers."
+    publishedDateTime: 2021-08-04T19:08:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/trump-fights-release-tax-returns/2021/08/04/4541df74-f524-11eb-9068-bf463c8c74de_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AQSZWXVJQI6XEDIX5DDZDDU3Y.jpg&w=1440"
+        width: 1440
+        height: 940
+        isCached: true
   - title: "Melania Didn't Expect Trump To Win Presidency In 2016, Cohen Reveals"
     excerpt: "\"Melania played a very limited role during the campaign not believing Donald would actually win,\" the former Trump lawyer told the Business Insider for its 2016 oral history of how he took over the Republican Party."
     publishedDateTime: 2021-07-23T02:15:00Z

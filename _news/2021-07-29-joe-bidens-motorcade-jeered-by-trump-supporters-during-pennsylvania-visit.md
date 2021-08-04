@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
 type: article
 quality: 148
-heat: 588
+heat: 608
 published: true
 
 provider:
@@ -183,6 +183,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BLDVNYHQ74I6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump asks judge to block release of tax returns, blasts Biden Justice Dept. for authorizing release"
+    excerpt: "Attorneys for Donald Trump on Wednesday blasted a Justice Department ruling that directed the Treasury Department to turn over his tax returns to Congress, formally asking a court to block their release and arguing that records of former presidents as well as presidents should be similarly protected from subpoenas by lawmakers."
+    publishedDateTime: 2021-08-04T19:08:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/trump-fights-release-tax-returns/2021/08/04/4541df74-f524-11eb-9068-bf463c8c74de_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AQSZWXVJQI6XEDIX5DDZDDU3Y.jpg&w=1440"
+        width: 1440
+        height: 940
         isCached: true
   - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
     excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."

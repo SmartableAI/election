@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-desantis-to-biden-i-dont-want-to-hear-blip-about-covid-from-you-until-you-do-your-job-and-secure-border.md",
+      "title": "DeSantis to Biden: 'I don't want to hear blip about COVID from you' until you do your job and secure border",
+      "excerpt": "Florida Gov. Ron DeSantis blasted President Joe Biden on Wednesday telling him to do his job and secure the southern border and not say “blip” about the coronavirus until he does.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x8zMRXcz6wU/desantis-biden-do-job-secure-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x8zMRXcz6wU/desantis-biden-do-job-secure-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907e1608-1228-4e6c-974d-a50b0739f4eb/ebc82b9e-a42e-4cbc-9d42-56fb5dadf1c0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/desantis-biden-do-job-secure-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-biden-do-job-secure-border.amp",
+      "publishedDateTime": "2021-08-04T13:19:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-desantis-shot-in-covid-feud-with-biden-i-dont-want-to-hear-a-blip-from-you.md",
       "title": "DeSantis’ shot in COVID feud with Biden: ‘I don’t want to hear a blip ... from you’",
       "excerpt": "Gov. Ron DeSantis lashed out at President Joe Biden a day after Biden told the Republican governor to “get out of the way” of mask mandates.",
@@ -438,7 +494,7 @@
       "originalUrl": "https://abc7news.com/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -689,54 +745,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-biden-to-abbott-desantis-if-you-wont-help-with-pandemic-at-least-get-out-of-the-way.md",
-      "title": "Biden To Abbott, DeSantis: If You Won't Help With Pandemic, \"At Least Get Out Of The Way\"",
-      "excerpt": "President Joe Biden called out the governors of Texas and Florida, Greg Abbott and Ron DeSantis, for not helping curb the COVID-19 pandemic. \"Just two states, Florida and Texas, account for one-third of all new COVID-19 cases in the entire country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/549816.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.amp.html",
-      "publishedDateTime": "2021-08-03T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },

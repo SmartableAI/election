@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump ally launches election audit plan in Pennsylvania"
-excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state's 2020 election"
-publishedDateTime: 2021-07-07T21:32:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+title: "Trump asks judge to block release of tax returns, blasts Biden Justice Dept. for authorizing release"
+excerpt: "Attorneys for Donald Trump on Wednesday blasted a Justice Department ruling that directed the Treasury Department to turn over his tax returns to Congress, formally asking a court to block their release and arguing that records of former presidents as well as presidents should be similarly protected from subpoenas by lawmakers."
+publishedDateTime: 2021-08-04T19:08:00Z
+originalUrl: "https://www.washingtonpost.com/local/legal-issues/trump-fights-release-tax-returns/2021/08/04/4541df74-f524-11eb-9068-bf463c8c74de_story.html"
+webUrl: "https://www.washingtonpost.com/local/legal-issues/trump-fights-release-tax-returns/2021/08/04/4541df74-f524-11eb-9068-bf463c8c74de_story.html"
 type: article
-quality: 140
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_f6f7ba56d9154e51bcd011f93df3a5bf_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AQSZWXVJQI6XEDIX5DDZDDU3Y.jpg&w=1440"
+    width: 1440
+    height: 940
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1858183/president-joe-biden-speaks-macungie-pennsylvania.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump ally launches election audit plan in Pennsylvania"
+    excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state's 2020 election"
+    publishedDateTime: 2021-07-07T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f6f7ba56d9154e51bcd011f93df3a5bf_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Joe Biden Pushing Federal Judge Nominees Through At Faster Pace Than Trump, Obama"
     excerpt: "Nan Aron, the outgoing president of the liberal Alliance for Justice, said she was \"pleased with both the pace and high quality of the Biden nominees.\""
@@ -182,20 +196,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BLDVNYHQ74I6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump asks judge to block release of tax returns, blasts Biden Justice Dept. for authorizing release"
-    excerpt: "Attorneys for Donald Trump on Wednesday blasted a Justice Department ruling that directed the Treasury Department to turn over his tax returns to Congress, formally asking a court to block their release and arguing that records of former presidents as well as presidents should be similarly protected from subpoenas by lawmakers."
-    publishedDateTime: 2021-08-04T19:08:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/trump-fights-release-tax-returns/2021/08/04/4541df74-f524-11eb-9068-bf463c8c74de_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AQSZWXVJQI6XEDIX5DDZDDU3Y.jpg&w=1440"
-        width: 1440
-        height: 940
         isCached: true
   - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
     excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."
@@ -343,6 +343,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "klD1CBHMhLRNs8NW60zkcAz+wv8ABSFNmlNnS0u+QcZJ3dliluDUDuI3c1z6xDSf+ipBKJ5bD1vA29Kt1HEyBklSkt52UPG3Z/N70oaJ0i/wT+p4EDb1kb6O9e52cQQZnPjZ9rNSQWFCB8AYuls6inPF+KdVqu7xZZc36AGyoRXlHGsu2VEMxsIi/DQgPfHrC78oLvRi53nNzcz28gY/dOENNnLC7IfBRqiuPJeYQHceQ70qrR067bFOIn1h3CazfOZekhu86KecrJb/PROqWz2j/PFMop6iq77zMWsEJPsjTPYyG3fdqTIg5L8pvRUmGFempto18bp5Yq4SwMLD5HemGJ4KjAWQG7wlqHATSLCGiP9vP+20Zj1yaqZOJmHCf6zAFJ7AVGNTM1y2UhHO2e7iU5BD9DXuEaTVyvShsv5ZobO6bRyfwxbj2hkl204JO+CqOSrQpr+cbOddUIEQ2jV9MqrPKh/slF/W/5EEc1r6F5Qz1tXHNn0EFEENMg+O8d6YsNx38uiXsBheSJAiWg==;XqFaM+ocF1tb2yXJSVFeSg=="
+secured: "tw62HNYqzQGqV76uSkupF0N4dJhMkbn3VB8UdKivWkN7tD3kJiNEP1hE0jbE/H/Wq2NEjH1mdNvihfQeQXDduOv8pBGs+0m7ivq28a5rquQDkdaXT1xUA6QGBUTt+uyTeYp/OvWngme6ftujxTuPrIhCryf4UVUCQG3l4nNybwrW756ekzDsdbBlEkIfwwOtFqcG3mS8IWmaNAs/L/yAbFiolvQvJj2unfDhdvlNo6wSelskz6RrGfMXgJ1hj+KKv/UxJCDRtxCJmDoQdFB/ftv2iyf9w8o587bY1Osa5y5oJSWNSc5WtNFpHye2/iJMljvRU6/8XoBfzwD20BVzjBkUKsWfp3mr3KiGK5gpI8A=;UOVQke3BxIbVjqidkidQrw=="
 ---
 

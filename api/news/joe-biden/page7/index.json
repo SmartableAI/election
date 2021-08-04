@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-05-20-president-joe-biden-to-visit-cleveland-next-week-marking-second-ohio-trip-this-year.md",
-      "title": "President Joe Biden to visit Cleveland next week, marking second Ohio trip this year",
-      "excerpt": "President Joe Biden will visit Cleveland next week, marking his second trip to Ohio this year. White House officials said Wednesday that Biden will deliver remarks about the economy during his trip May 27.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
-      "originalUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/110829cb56c19181e8e5ed866a9c55ca2ff254a7/c=0-92-1763-1084/local/-/media/2021/04/28/Somerset/6e297bd498304b83f7e13c262caa39a7.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cincinnati.com/amp/5173738001",
-      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5173738001",
-      "publishedDateTime": "2021-05-19T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-05-19-what-an-old-politician-understands-biden-turns-the-age-issue-to-advantage.md",
       "title": "‘What an old politician understands’ — Biden turns the age issue to advantage",
       "excerpt": "Biden has seemed a changed man, calmer yet bolder. He savors the job, yet governs like a guy who knows the hurdles are high and time is short.",
@@ -1576,6 +1533,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-joe-biden-laughs-at-notion-that-april-jobs-numbers-are-disappointing-despite-61-unemployment-rate.md",
+      "title": "Joe Biden Laughs at Notion That April Jobs Numbers Are Disappointing, Despite 6.1% Unemployment Rate",
+      "excerpt": "The president tried to appear optimistic about the jobs report. When he mentioned the commentators' reaction he laughed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693",
+      "originalUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1791377/biden-jobs-speech.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-laughs-jobs-1589693?amp=1",
+      "publishedDateTime": "2021-05-07T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

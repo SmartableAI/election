@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden stays close to home as he plots blue-collar focused presidential travel"
-excerpt: "Want to see President Joe Biden in person? Consider a move to Pennsylvania.\n    \n"
-publishedDateTime: 2021-07-28T19:36:10Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+title: "Biden changes his tune by getting confrontational with GOP governors over Covid spike"
+excerpt: "When Republican governors began prematurely lifting coronavirus restrictions in their states earlier this spring, President Joe Biden and his team largely kept their heads down, ramping up vaccine distribution while steering clear of rhetorical battles with political adversaries.\n    \n"
+publishedDateTime: 2021-08-04T21:26:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/THBCpvdRGC0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/THBCpvdRGC0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/joe-biden-gets-confrontational-with-gop-governors-over-covid/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/joe-biden-gets-confrontational-with-gop-governors-over-covid/index.html"
 type: article
-quality: 172
+quality: 168
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150625-01-biden-pa-0728-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210804075846-04-biden-0803-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -287,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden stays close to home as he plots blue-collar focused presidential travel"
+    excerpt: "Want to see President Joe Biden in person? Consider a move to Pennsylvania.\n    \n"
+    publishedDateTime: 2021-07-28T19:36:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5SBG8eEDJZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/joe-biden-travel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728150625-01-biden-pa-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration may challenge Texas governor's order targeting migrants"
     excerpt: "The Biden administration is considering challenging Texas Gov. Greg Abbott's Wednesday executive order targeting migrants over concerns that his actions will cripple infrastructure in border communities, including potential legal action, a senior administration official told CNN.\n    \n"
     publishedDateTime: 2021-07-29T18:53:18Z
@@ -412,22 +428,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/150923125213-translator-afghanistan-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden changes his tune by getting confrontational with GOP governors over Covid spike"
-    excerpt: "When Republican governors began prematurely lifting coronavirus restrictions in their states earlier this spring, President Joe Biden and his team largely kept their heads down, ramping up vaccine distribution while steering clear of rhetorical battles with political adversaries.\n    \n"
-    publishedDateTime: 2021-08-04T21:26:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/THBCpvdRGC0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/joe-biden-gets-confrontational-with-gop-governors-over-covid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/joe-biden-gets-confrontational-with-gop-governors-over-covid/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210804075846-04-biden-0803-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -736,6 +736,6 @@ related:
         height: 550
         isCached: true
 
-secured: "HJnDUSoyfSzzP6juesvdSmzKNojBZEZ0MsrEfg+fj3/dGtMJB0Vw6Kv+qDU0eh2r+xR+UjOMuOB0O10G0g10D9Y/rsmhUOtpQW/jMbTSi7KzAe3dd4+vvUt8ckT6b+Pfug7t/6DcSinzMTX0Ge1w3O1NbE+KCKzIsX6NvfXMLqIQs6cFg+oX8yyURVjXH8Nel4KgJJHYXIzTasreJlrRm5I1ChoVLpHThINfbnAWRvz379VFSHVAjEPbl9MW6u36sQR2yDPvjpkMZ1Tm0Qil4pt9RNTtX3kaiOlBMl9+XCGinyliVEWinCG7SwQtstj0PmK66jKxA3368d7yOfRWfvcETiM9cZmCJSOiG1kWvWs=;Q9nV708joAGk6/EdjanK8Q=="
+secured: "wiBouicgSJ3cKimkKEtCQmNMaCRndDAoSJnr/rjEEF1upM+B2vuT6LS8Nn8IOa6GUrMIDWPvu8jlALFCZCkPhTdW/vUSV1wkNVBcqOhKyzZbo0R+SipOFi+xsGYDeWTQ6an3aXt7abOVNSa0WQ/yrRNygd04/VD1wbFBC/wIe7iBJk2JCitT8hYljQIDMvEbAlidRTWN3n/ZVliklIKhNpN42h899Jw4t0c14cjJhSMwNWSkBavWhsbikRc42LWRZl+b+XkPcm+Qp43QkxAKeeCyZQhPWakjCn6knjvmJbegAT0F4arHlsJ3W1VBfvK1GP8Cz3Naa5n9LdzR+vxfnVFMhVjEm7fiAxCXsQwekbs=;ZnZfppwiecgntWtYignKXw=="
 ---
 
