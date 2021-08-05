@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Graham, Cuellar suggest new Biden border czar amid surge under Harris' watch: 'Something has to change'"
-excerpt: "Sen. Lindsey Graham and Rep. Henry Cuellar on Friday called on President Biden to appoint former Homeland Security Secretary Jeh Johnson to run the administration's border response amid continued problems in Cuellar's border district and surging migrant numbers. "
-publishedDateTime: 2021-07-30T16:36:55Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sT4i0h-ag-k/graham-cuellar-new-biden-border-czar-surge-harris-watch"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sT4i0h-ag-k/graham-cuellar-new-biden-border-czar-surge-harris-watch"
-ampWebUrl: "https://www.foxnews.com/politics/graham-cuellar-new-biden-border-czar-surge-harris-watch.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-cuellar-new-biden-border-czar-surge-harris-watch.amp"
+title: "Biden's Crisis of Confidence of His Own Making"
+excerpt: "As the COVID-19 situation worsens, President Joe Biden finds himself mired in a crisis of confidence of his own making. Read Full Article »"
+publishedDateTime: 2021-08-05T12:47:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/08/05/bidens_crisis_of_confidence_of_his_own_making_548749.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/08/05/bidens_crisis_of_confidence_of_his_own_making_548749.html#!"
 type: article
-quality: 184
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
-  - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://assets.realclear.com/images/54/549913_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -95,6 +89,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f371314-bc6e-455c-94da-41634cdccb49/342c2920-4867-42c0-9a4b-9341cfe4dba5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Graham, Cuellar suggest new Biden border czar amid surge under Harris' watch: 'Something has to change'"
+    excerpt: "Sen. Lindsey Graham and Rep. Henry Cuellar on Friday called on President Biden to appoint former Homeland Security Secretary Jeh Johnson to run the administration's border response amid continued problems in Cuellar's border district and surging migrant numbers. "
+    publishedDateTime: 2021-07-30T16:36:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sT4i0h-ag-k/graham-cuellar-new-biden-border-czar-surge-harris-watch"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-cuellar-new-biden-border-czar-surge-harris-watch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-cuellar-new-biden-border-czar-surge-harris-watch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Kamala Harris emphasizes 'root causes' of border surge, says problem is 'complex'"
     excerpt: "Vice President Kamala Harris is emphasizing what she describes as the root causes of the migrant surge at the border, calling the issue \"complex\" as she continues to face criticism for her handling of the crisis."
@@ -290,20 +300,6 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 70
-  - title: "Biden's Crisis of Confidence of His Own Making"
-    excerpt: "As the COVID-19 situation worsens, President Joe Biden finds himself mired in a crisis of confidence of his own making. Read Full Article »"
-    publishedDateTime: 2021-08-05T12:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/05/bidens_crisis_of_confidence_of_his_own_making_548749.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/549913_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Biden's Toothless Response to China's War on U.S."
     excerpt: "These acts of war destabilize our nation, weaken our economy, and kill our citizens. Instead of countering these attacks and holding China accountable, President Joe Biden whispers diplomacy and blames past administrations."
     publishedDateTime: 2021-07-26T00:00:00Z
@@ -314,6 +310,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "m6ja6S5804/fIvULZTmO3YVNTPekutPMB8XAiH6SD2qTd27BBJnVcZQ0P+wD/forhESPEqYvnoC4QLUtxk7nMGb7TrFoeknehyRxaGqMymh4ioRCkAVc2jvShQK1Ml5vEX659XaVZfFzhcjsambk2UvXxwi7xtW3Rbe06Mn7Y58tCvuIfJ46dUBWEfawOF6ZI6V5PR6MImoQuGYjubDlNHvEa1qNwA/r4gEbG0tk3yX6l+a09W4d36xxd5lqzUttJpPBExZMGXUWys1ZNHRDMi7i4bA200quZVJ/uM1ADIBAxEjRP8CK2RKPpFmn9ZhBEE2tBLcpENUDfMsICOYKmuBpoDj8Jr6ebew4ok8b3Co=;IfzXODuj7/sDtxUO65M7bg=="
+secured: "CkAnetPhK63c9m90XcfuuBElMgMaTLPc+zj26Lmcg8usaXmlukU3uiGds5KI/zNbcFEs1YkJqFolJdh1XkcCGZ0sqUK3fVAXNVbtGn1o8l+M7oAs4cFSSdQeUbEkcACIb/+68Zy27fNqV3LwgV6xC31AARTWopSioebwM6ahgsaYUHdb2cUMAD+f5wnqATrpVo2XGA+9k4JUN29JiWdl2OcRj7oa6SW+jOwOa5SLlXoFUbhURw2PefFi8+kgPI59G6SF0Ft+xt+U8kEls2jlZc2oL8VljrAoLGebmlEPoZkD9WWU6Q0NFNbmVLO8Wy60kC6AIuwALNhuPBn4XmYzegpDI1j0VT5X439Ace4kp0c=;VW3QbcJbeGZsbBk0BIprpQ=="
 ---
 

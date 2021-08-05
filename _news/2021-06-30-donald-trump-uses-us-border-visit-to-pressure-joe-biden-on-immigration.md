@@ -471,22 +471,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden seeks to boost fuel economy to thwart Trump rollback"
-    excerpt: "The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026"
-    publishedDateTime: 2021-08-05T09:53:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b1643d4496c44d66bff117cc5057f0e5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -2462,6 +2446,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden seeks to boost fuel economy to thwart Trump rollback"
+    excerpt: "The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026. Both regulatory standards and a voluntary target will be included in an executive order the president plans to sign Thursday."
+    publishedDateTime: 2021-08-05T13:43:00Z
+    webUrl: "https://www.seattletimes.com/business/biden-seeks-to-boost-fuel-economy-to-thwart-trump-rollback/"
+    ampWebUrl: "https://www.seattletimes.com/business/biden-seeks-to-boost-fuel-economy-to-thwart-trump-rollback/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-seeks-to-boost-fuel-economy-to-thwart-trump-rollback/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 70
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z

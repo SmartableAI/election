@@ -3,8 +3,8 @@ category: news
 title: "Biden Administration Should Look in Mirror Before Casting Stones Over Vaccinations"
 excerpt: "It was always going to be a Herculean task to inoculate, with an untried vaccine, a multi-ethnic nation of 330 million people across a vast continent -- in"
 publishedDateTime: 2021-08-05T11:36:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.amp.html"
 type: article
@@ -93,6 +93,6 @@ related:
         height: 405
         isCached: true
 
-secured: "pFEQLwc7eGauK+ZfflrutEl0rdMGB3T9uMyFqkaU3f/mWBLqzPGuyaoMPbz7G+LL9kdQm8cLxJQtSA0fpSEEv+Rl5MT4D7z8JBcf7DlyBPEseYx/4JhUHAvtMDG+ZGUdEbBvS8msrwFIGZ9q96b0XL1+l4bJdoyzZvQcy2lElDf4T262/St5r+kDPK+i/sgvS5uQGbuLvf8lTwYI2hgzEXuJuVlysSgHybcQz8jffEPQnzrvNcAWfTu0ht9HSMBa90w9+vF8n1yOtyyJAISAtegUBcBv6JQWxL59aN8tECJndbdApo/oY4+0sd+hFd5nExkFUUJTRJhye2IQGuKsYa4KpIYFdD4etxFD94UZKAI=;UdJGK9eeSxRwWKUksTh7bA=="
+secured: "RRPD2rYSwI8qRvaWXI2ipMbpEidejLjE8qzjqmm6LWWBZwy2omj0bR+nXiwywYPrQ6kBEspa4VFfjluZ3N3CcWLvloUTvsFHrXWWkcn3wyyj4pDkGxjvBa9nHzMGQCl0WcT2zT74gW+yk2LvQi/QZeGjZaZ1ZJotE2roCx9ZmlGmdmCCOErGLNz+zcTKU4Nh7FnMDGbg03jLsA+oNk2mu/BIK2iqHmrmdEl5XjZQAse5ZopcwEt5mmdRrFzxSHYUbc/OLzVmqIaplO9YBRK885OBu7b1ZCSIVtEe4bx3zadIImEh91l81pZidZXBtYtFx+olVgSRzZ37FoNXLyXWVmaQ5F5c90TXuJRXTXLV5Q8=;ftSJzCs+cl9jwrA32SG2jQ=="
 ---
 

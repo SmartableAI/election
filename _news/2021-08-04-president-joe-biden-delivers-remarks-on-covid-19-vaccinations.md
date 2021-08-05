@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on COVID-19 Vaccinations"
 excerpt: "President Joe Biden answers questions from reporters following remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
 publishedDateTime: 2021-08-03T21:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/87cb475efa3e39e32de0fc06d0af2b9f/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/87cb475efa3e39e32de0fc06d0af2b9f/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4856a74f0cb71eefe84466a2e67e312b/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4856a74f0cb71eefe84466a2e67e312b/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/87cb475efa3e39e32de0fc06d0af2b9f/BIDENCORONAVIRUS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4856a74f0cb71eefe84466a2e67e312b/BIDENCORONAVIRUS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -525,6 +525,6 @@ related:
         height: 630
         isCached: true
 
-secured: "pfvHu+fuS4Tj8rlefkoG2ArrJAivhn5IEttMv2xQnQdJPNr3q9eiPSbEfKAGzYgL7mVRgi6CGbMozEoJUyW19vzxAfb+J17cpZC+EaIODt8VUPv9e7zMMFrg2hfOeI7Db8SKzhf/wIsoe0Po1DY94LCwu7neSqVc306/OZW+1ndwV8QXPnKLcreR6Zc1FAdw8wrupT5LBfOwQ9408ZMSIdjc5UGIIWXHeIsniQgXPG0nlRCyoPlbvDt7/2pQoqFzOV9tjAmfnjGTktrpEUP1+WXXKgEqEK/ViGkaBBtBFoVZrsvDu5n1+jJqtZggjw2MphWq2jfr5gBv8sAsWsU5BiBm/Q17X2Fh25wCfxsXY+A=;0KZPNn7Si3aPXHyiy25HYA=="
+secured: "4MRa+PBBt2cdt2sPL9LB1KgNVcXgbiqvFGKmFqiop69Y4Vb7fZ1Jr8wu2gUKjljzCtoJKitQe144HRcKn7dQoi2GpNoN1r0qb3RJHgcr6q+bxkKlzx2GXbytlCd+9XMEAHJVvlE7hJXtapokwu340C4ggB7NkuIjOWDhttKDnbbc5nKnK1FI6Junzo/q26ttwP6ffulEqU5w0CkvtCs+bfzfxtTCnCfYhxkNUH7cCSCmWeagWHzWCHA3CC8n8KZEl245UcC19kSR4K3wjx/oE4yHfEbp0Th2HzHFnClWHTkRIInwfovqzRBcGlX5htdgF5VgkR0ZlUdTz9DoWeGBXB7o6kP9fkEeJT6LB3toEqs=;RM50uwg9O8gVRVzxpL3Xng=="
 ---
 

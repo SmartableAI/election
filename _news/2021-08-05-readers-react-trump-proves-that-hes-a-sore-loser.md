@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Is Trump's grip strong?"
-excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
-publishedDateTime: 2021-08-02T09:37:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
-webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
+title: "Readers React: Trump proves that he’s a sore loser"
+excerpt: "Do we need any more proof that Donald Trump is a sore loser? He’s conducting rallies to reinforce his claim of a stolen election; his base of supporters continues to swallow his completely disproven lies."
+publishedDateTime: 2021-08-05T13:30:00Z
+originalUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html"
+webUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html"
+ampWebUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html?outputType=amp"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Morning Call PA
+  domain: mcall.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-    width: 800
-    height: 400
+  - url: "https://www.mcall.com/resizer/2AchICjkGTE4GffSfvlJRTMgG-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZLTFS5JTR5HNLE3COWB3DHBNAE.jpg"
+    width: 1200
+    height: 948
     isCached: true
 
 related:
@@ -605,22 +607,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Readers React: Trump proves that he’s a sore loser"
-    excerpt: "Do we need any more proof that Donald Trump is a sore loser? He’s conducting rallies to reinforce his claim of a stolen election; his base of supporters continues to swallow his completely disproven lies."
-    publishedDateTime: 2021-08-05T13:30:00Z
-    webUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html"
-    ampWebUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 75
-    images:
-      - url: "https://www.mcall.com/resizer/2AchICjkGTE4GffSfvlJRTMgG-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZLTFS5JTR5HNLE3COWB3DHBNAE.jpg"
-        width: 1200
-        height: 948
-        isCached: true
   - title: "Trump-backed Carey, centrist Brown win Ohio US House races | Charlotte Observer"
     excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
     publishedDateTime: 2021-08-05T03:23:00Z
@@ -753,6 +739,20 @@ related:
         width: 2560
         height: 1699
         isCached: true
+  - title: "Is Trump's grip strong?"
+    excerpt: "This was a week of setbacks for Donald Trump in his attempt to maintain a firm hold on the Republican Party till 2024 and beyond."
+    publishedDateTime: 2021-08-02T09:37:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/02/is-trumps-grip-strong/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Trump's political cash hits $102M"
     excerpt: "Former President Donald Trump has proved himself his party's most powerful fundraiser in the first six months of the year, amassing a political treasure chest of $102 million by the end of June, according to filings made public Saturday."
     publishedDateTime: 2021-08-02T10:30:00Z
@@ -879,6 +879,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "LiQ1dIeBMamUf05mJWFn6pi/7P25mCI+e7Z+WUC5bEpO487nghNp1MwZnCSZi5vAfxdOaDppidJsfPCwfQUCkUeHQI0OriRUcfep8o+VcodSgE6Rm18464vejp+lMangBpIowJpoeI9gcpTEj0tUT5xtPKjJgF2JtQdvKc4dJLDK1VP0QPGkXyAJ0f76sRpIg7DHoLBKmeyr+cIaOEhxP20vjHG5wqjGGGXWzWaN7ZtDUG/RMVpfNMbfJJI+VD/beRrVip6syt0hYMkDSZy5RMDlQyibvBZBDGUfbFx9pnSmfqZIixyON/GSCZvdlOeUaqFvXRiOK5NKwSns/DOCPmfqj7uzlf/U6Dov0muuUEo=;DMU7rNQyhRnzY2j+Ro6SEQ=="
+secured: "agVEIsoq/YCTesPeDk7K3O+NEZ8kmlT3msdmy+TZ1eXZOH/c7d6X5wQMembw3Z2Q84QhudCG0ixoRrxUHAgh32ZaQMkImkYnALhlM5fJtzatqy6oCpm7ncX0S3eTD/S96VnYFsjdnGHF3yL42avkQJnErnghR3+L4CtDKAWLdigLl0uCRxAvhnBGpapIJIvFExDTKFoHK1oeEgriTFcMR8o3yP6eMciUSqRlfNRis2BSDU2oNntWgDvcXwzyK0aSMXBpvP/yVx9YmgjEOGZX7ksgmfZiH4V2LOfsDYIZUiy88gCOSx4qAAAkWIm7iIEg7Ed62IkikSSWl5ScpH4S7prGFQm2G+qhwnTggylNtJs=;AB8iT6Kkbvwdanna8XpvCg=="
 ---
 

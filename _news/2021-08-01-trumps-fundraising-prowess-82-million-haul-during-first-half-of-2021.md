@@ -34,12 +34,17 @@ related:
   - title: "How Trump Reeled In Over $100 Million, Televangelist Style"
     excerpt: "Michael D'Antonio writes that thanks to former President Donald Trump channeling his inner televangelist and selling his supporters the hope of saving American politics, his political organizations are now sitting on nearly $102 million in donations."
     publishedDateTime: 2021-08-05T11:52:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/05/how_trump_reeled_in_over_100_million_televangelist_style_548723.html"
+    webUrl: "https://www.realclearpolitics.com/2021/08/05/how_trump_reeled_in_over_100_million_televangelist_style_548723.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/549985_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "8dOgiwWKNs+DDPvmusUSuk+Hi4GoQs4nxoJ1aEpu5MfhlPlDouynhdEKpNEyIg6u+t9cWT5Et3VPAV1Go8X5EEv4+gsP3p51ArZF7IAxOjSS7Nzs2sJnmWdHY1t7Za1jkm83qFbehNPKX25zAiHe9chLD7RXBdX3lc3mbvVRCL9Ek0OAle0C/E1JYBQ1Nl9bqwPgoqsJLugXrGJo7QmHcU0W0nQepmPP3NBHnoZv+CZyen0t043pXfTiD3SVOD+MtQGvAsRPjc4v+6dkq6WcCkMXfgKNbI8C4Dk/JJqMWovGqRhQU0+pw1N3dMDPs5kHNN+deMMBXLzotEBXwHLvBSNh+mhx9KbxuCODMGvE2pg=;yYQhrwaJwu3pMj4BzbbsEw=="
 ---

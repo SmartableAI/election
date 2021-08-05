@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/andrewsolender/2021/08/05/pence-endor
 webUrl: "https://www.forbes.com/sites/andrewsolender/2021/08/05/pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot/"
 type: article
 quality: 100
-heat: 100
+heat: 120
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     height: 675
     isCached: true
 
-secured: "AeAaTdznC281ZVG94zVuhiZt0Q4M5J4H+c7Bzic78CPMXilxlWbqhqzh/lOAbIYgrf4rh1SPZs6WUYRwn/Z8Er7noSboSDg9A7bfWKhBWAm8Ky8pyVIqtjziYQaDrDf/sM1BLuxSV/QXmwbEAv1XsKJQ23UVhlgX6fB9w8n7mb85TTjFYwpj71xh6srgSFYLmysQhZFKx/FW/S5twxMUYsVL1bkYqVUAFpdMvFWPEUpcfxJlpYuPXoz4U8n/O6aLGCZwhJRMkb/l5HOcuIrhbr8P80aE2hUUenhTM5PJw9WTYcRNh137m74k6xvQsuz2bAxsyXldzGZk7gSiDKhDSeSMgWjxvKHtR/Mkxk5UjkU=;avNeQp06LNbYq6GCnUVzaA=="
+related:
+  - title: "Pence Defends Proposed Texas GOP Voting Bill, Encourages COVID-19 Vaccination In Houston"
+    excerpt: "The former vice president spoke in Houston before an annual conference of college conservatives organized by the Young America's Foundation."
+    publishedDateTime: 2021-08-05T13:55:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/news/politics/2021/08/05/405080/pence-defends-trump-administration-blasts-biden-and-encourages-covid-19-vaccination/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/politics/2021/08/05/405080/pence-defends-trump-administration-blasts-biden-and-encourages-covid-19-vaccination/amp/"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/politics/2021/08/05/405080/pence-defends-trump-administration-blasts-biden-and-encourages-covid-19-vaccination/amp/"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 66
+    images:
+      - url: "https://cdn.hpm.io/wp-content/uploads/2021/08/05085219/AP21197769781009-1000x667.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+
+secured: "O30yVTh59xt3QilTpmampfzdYDfB7A6hTcSC3GSQ5iTNTBPzcOtlyoArdAeh0U6ElF1hY/IxAurdVXgCjwk93ES/sdgRE1Fhyzrf4uQ8JcELBZ9bmDnsEUexNkKRsniYGPym84VeSBGRln+amOY4X/f3hsfG/D7pos7ZUYP3uf9ePZ8dqbSDi/yqupXJOoWJZPtqapIVzLS78vtJwmY82DILEUucwptkTILhJnoNAbty9B3dw5ryQXzXCTAee0xXGEOMCOCwdcs9WcPycL0aZ8d+YBLEPmNYbHHHZ1iLVuayFPwKJgyv11RzTnVyDwvEApsXNPXsZvXmqWBUkD0FDaz3OEP7Fqy38D+uwi+UFTY=;lTuXhu2MnIfVpalEMmOHgg=="
 ---
 

@@ -1,34 +1,24 @@
 ---
 category: news
 title: "Biden seeks to boost fuel economy to thwart Trump rollback"
-excerpt: "The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026"
-publishedDateTime: 2021-08-05T09:53:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
+excerpt: "The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026. Both regulatory standards and a voluntary target will be included in an executive order the president plans to sign Thursday."
+publishedDateTime: 2021-08-05T13:43:00Z
+originalUrl: "https://www.seattletimes.com/business/biden-seeks-to-boost-fuel-economy-to-thwart-trump-rollback/"
+webUrl: "https://www.seattletimes.com/business/biden-seeks-to-boost-fuel-economy-to-thwart-trump-rollback/"
+ampWebUrl: "https://www.seattletimes.com/business/biden-seeks-to-boost-fuel-economy-to-thwart-trump-rollback/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-seeks-to-boost-fuel-economy-to-thwart-trump-rollback/?amp=1"
 type: article
-quality: 140
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_b1643d4496c44d66bff117cc5057f0e5_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -2641,6 +2631,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "ciJPAd3GrsaoBPJG+nzxh9HGcdD7FVDe/e2Fe4ACxRlIeJCgWoXhkcO1auCg7cC8QV+B9vTUVqyAdWiJBdqSXqnZaFUcAjQF7kVuVY8CcHbsdrkhH+6X4sWI6z+TxeojcxSXc4LvQTIcjqPo3WA9Dr7CcUztBOAvd6kqg+grsnzkBvI+SsxVHCTMmHQ7WirvzEdlwm51F/5EZiG0nryab5a6x7RGIM3RnYn8BlhNeofEaXMAGCGqw7lOnuS8W3qXaav1bo2da8C1lAK0RHZbc6++3i3yMPSX4u9fVwN865qTJDeQCW3wVfDhcZgbbr+5f2J/92IbxKkXTMJ4HU0RSM891lMkd9ZzNlxc9nwiVc8=;+cyw4tvcjNWAlUsUsYrchg=="
+secured: "z1o2zL+Km7+UTlVj5/7pwdR9khIkpPBecJ8jIn+s98zFTu7boIdRl6gcCfQrplFWIcuJaqNyRg22ZyF3aOYkj6TP+USVQVRVGgzs6bHBiL9ecRrQZeQ7Rpr2CPLof9Cr/xaD6FXr8wVQ8BJ78OE6/ghnd2p8s2wvvQOXf7YTCY8tw4PY6PNtjj1NzfASGCbhaa4g33sul6k6W7K4N1qCsEQrA3gTJILdItNbStcV4DMkKjexkXZoCArleReFKI+4mNEduJyYSgiRFQOwTERJA8dWEJvgpc3QraGNjpGHoPeIY1UtaxlQdwOTVXjTUd34SJV76VETEzNbgYSGH40RcaBwLKiGhwnO7qAviBJ3iAAQ2rP/KIgON0f4ICER/ms4imb7xLe63drtdvWAhRms/U/760VsE9h/EKfz8NlhcmKHE5jR0ckQusBveC8AkvbcrgZDLQYyVB7zJHPRR5kpAMP2Z8G7tUEDuqj3yvyC+BF9IrUM07Fx3zeQVhCBj64RQxt3MmUnQsriu0Ax0W/pUA==;Cn85R+R5PkEUCRo/3DyJog=="
 ---
 

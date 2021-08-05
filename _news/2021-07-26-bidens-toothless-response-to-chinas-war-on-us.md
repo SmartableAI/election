@@ -294,6 +294,20 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 70
+  - title: "Biden's Crisis of Confidence of His Own Making"
+    excerpt: "As the COVID-19 situation worsens, President Joe Biden finds himself mired in a crisis of confidence of his own making. Read Full Article »"
+    publishedDateTime: 2021-08-05T12:47:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/05/bidens_crisis_of_confidence_of_his_own_making_548749.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/549913_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "JuLMewr4IfpvuK7jJyD9zuDIUGVQz1vfmmpNodU1vG5g9eXFfyUetUz6agiyn4taOaehKZ/5F+yqscEq+maDKkhZmrIi7w0zcRXYjEZ0lg8jR2nq0GqoP2Q96Iqa+w2tP7PaSfbiMMoBEZ7X02S3sVGGaoaXYP/QP5CCnHJHHGZigPd13WbO8IwgfnRh4kRPBKNkDeBYs+W+B7jVwcn7Y2v5Hb2TKk8xxMNXi7SMWnCpxrcc/H1iUxVo1tERrnw0FLfO7VyNB6sZLn126f6GjLrBpBvH9AtfoMWjgQH64bR503DCoKP/Ue0GsF5YPtLUgqKMzMQcGvlDk8dDZ2gY4jZ9GES3Wuby2x1w0z1c7Fw=;hMexm1cPgPLm+hG2YOkRsw=="
 ---

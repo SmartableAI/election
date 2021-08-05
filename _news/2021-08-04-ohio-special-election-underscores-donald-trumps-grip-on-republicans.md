@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b"
 type: article
 quality: 140
-heat: 1300
+heat: 1320
 published: true
 
 provider:
@@ -594,6 +594,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9601628100048/2021/1/e5d6807c81422fc6d6e6cd5aae9ad154/v1.5/Donald-Trump-asks-court-to-block-release-of-tax-returns-to-Congress.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Readers React: Trump proves that he’s a sore loser"
+    excerpt: "Do we need any more proof that Donald Trump is a sore loser? He’s conducting rallies to reinforce his claim of a stolen election; his base of supporters continues to swallow his completely disproven lies."
+    publishedDateTime: 2021-08-05T13:30:00Z
+    webUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html"
+    ampWebUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-omalley-trump-sore-loser-big-lie-20210805-c6didtdnqbdw5mo3a4ragdghoe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 75
+    images:
+      - url: "https://www.mcall.com/resizer/2AchICjkGTE4GffSfvlJRTMgG-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZLTFS5JTR5HNLE3COWB3DHBNAE.jpg"
+        width: 1200
+        height: 948
         isCached: true
   - title: "Trump-backed Carey, centrist Brown win Ohio US House races | Charlotte Observer"
     excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
