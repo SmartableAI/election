@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden Administration Should Look in Mirror Before Casting Stones Over Vaccinations"
+    excerpt: "It was always going to be a Herculean task to inoculate, with an untried vaccine, a multi-ethnic nation of 330 million people across a vast continent -- in"
+    publishedDateTime: 2021-08-05T11:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/54/549931_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "pPrjCHHzguWE7L/Ru/ae+I2RbvtJ/StYMSiOn1dwB2x/+FGKu66wHNZqJqEV2msmv/0a3d6z2oldh/RyVxkvnsCHPhpeUb4uN+TPYbY6u/xEFnTmADzVL4LqT2mMHy2RJBY1kNpmX2n6AlnttffRAAiZ4YnJb5zeNYhip0ALdriHVQlccRn3HVlNo5swMRje51e2h6KA1r+W0wrEry0J34wfpM+w27vaY5EcPbCyckKOwDSTw0EhdKJZn6wmnVh9ZU20UHysvbtKdpYTaC/rfQGfYOiSTY8Rm360fBdJFHClnJi6LOxOpmQIR65VlaqXzy6i9LQB2jhv96VXVZhugERRXb0xiHB9osVKqnAd5WI=;MI1psKQCvXDsQzEI2H4v+g=="
 ---

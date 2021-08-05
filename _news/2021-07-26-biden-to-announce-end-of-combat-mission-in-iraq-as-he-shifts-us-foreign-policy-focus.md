@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DeSantis turns his ire on Biden instead of Covid-19 as it rages in Florida "
+    excerpt: "Florida's Republican Gov. Ron DeSantis has a message for President Joe Biden: He's not getting out of the way even as his rejection of masking and public health guidance risks fueling his state's raging Covid-19 cases.\n    \n"
+    publishedDateTime: 2021-08-05T04:35:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rrK23ZLrN0A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/ron-desantis-joe-biden-donald-trump-covid-politics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/ron-desantis-joe-biden-donald-trump-covid-politics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803170348-ron-desantis-roundtable-07-13-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden shows he's ready to make drastic moves in Covid-19 fight -- even if he's not sure they're legal"
     excerpt: "Even President Joe Biden doesn't know whether his new federal eviction moratorium for renters is legal and sustainable. But crushing humanitarian and political pressure left him no choice but to take a chance on an emergency move.\n    \n"
     publishedDateTime: 2021-08-04T11:29:34Z

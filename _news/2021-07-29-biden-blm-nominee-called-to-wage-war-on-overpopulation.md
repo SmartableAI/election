@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tracy-stone-manning-wage-war-overpo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-wage-war-overpopulation.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/345bd750-f595-4b27-94c7-a3e55f0b3d44/b8dd0d8b-c53a-45f3-ab9d-4ef7f5d16684/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden Administration Should Look in Mirror Before Casting Stones Over Vaccinations"
+    excerpt: "It was always going to be a Herculean task to inoculate, with an untried vaccine, a multi-ethnic nation of 330 million people across a vast continent -- in"
+    publishedDateTime: 2021-08-05T11:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/54/549931_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "tpgLXPL6IArhLJGcjWZe2BrPvY8EadTZQdss/7esMaYXbDbi3zsA8l5zYWVXaca27WxsH2OMMVBA+P4tC9bDwTfvfhiqnXH/ZlC1vLvJB72LEsh0p99jTlPHe1jDU8y39QyYMDEsAKtcVgiRZ31dBmc/PMYxYf+7tJZ98sGGjz8RhrZjM7aoqOPWHPXGb/sKPaf+PExgrC3vQFoQjNY8DuncDIQS9cdXuLbdeo1xTk81AY3YBZBA7gwlNYMI2NhxxM6byQetIh8NuHCn02n14hnXRWROetmtG1QvGDMisN0suDjUM0M7fhyPT5yqy++FkxrG1H1iyRmZwHZ5uJXNYpePdcNahX2LF+SWHOjkX/Y=;jBWQVaNBa6fZ+u3u4g5A/Q=="

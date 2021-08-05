@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-02-trumps-similarities-to-cult-leader-jim-jones-explained-by-rep-speier.md",
+      "title": "Trump's Similarities To Cult Leader Jim Jones Explained By Rep. Speier",
+      "excerpt": "Both Trump and notorious cult leader Jim Jones used their charisma to connect with disillusioned Americans, says Speier The Jonestown Massacre occurred on Nov. 18, 1978 Speier was shot five times and left for dead that year She said Trump still influences members of the US Congress Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236",
+      "originalUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/04/former-us-president-donald-trump-blasted-his-two.jpg",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-similarities-cult-leader-jim-jones-explained-rep-speier-3264236?amp=1",
+      "publishedDateTime": "2021-08-01T20:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-will-trump-be-spoiler-as-california-gop-seeks-newsom-recall.md",
+      "title": "Will Trump be spoiler as California GOP seeks Newsom recall?",
+      "excerpt": "California Republicans see a chance of ousting embattled Democratic Gov. Gavin Newsom in a September recall election",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_fc4f5c1526744e9286fcdbc5f06b694d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eastern-governors-model-california-gop-comeback-79204135",
+      "publishedDateTime": "2021-08-01T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash.md",
       "title": "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash",
       "excerpt": "President Joe Biden on Thursday announced new measures to stop the spread of COVID-19 and the new Delta variant in the United States that will impact millions of federal workers, contractors and private citizens.",
@@ -108,62 +212,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-biden-officials-say-us-is-still-better-off-than-earlier-in-pandemic-despite-new-steps-to-fight-delta-variant.md",
-      "title": "Biden officials say US is still better off than earlier in pandemic despite new steps to fight Delta variant",
-      "excerpt": "Biden administration officials on Sunday sought to message urgent steps taken last week to contain an increase in Delta variant Covid-19 cases as necessary to keep Americans safe, even as they said the country remains in a far better place than earlier in the pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXkLLOiOXd0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXkLLOiOXd0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210422100217-pete-buttigieg-0409-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/01/politics/delta-variant-biden-administration-covid-vaccine-requirements/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/01/politics/delta-variant-biden-administration-covid-vaccine-requirements/index.html",
-      "publishedDateTime": "2021-08-01T12:42:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -279,7 +327,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1249,62 +1297,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
       "publishedDateTime": "2021-07-30T10:27:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-biden-says-western-wildfires-demand-urgent-action-in-meeting-with-governors.md",
-      "title": "Biden says Western wildfires demand 'urgent action' in meeting with governors ",
-      "excerpt": "President Joe Biden said Friday the wildfires intensifying in the West demand \"urgent action\" as he met with seven governors to discuss how states are responding to the wildfires and how the federal government can best assist.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_fkjRS_29g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_fkjRS_29g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210729155622-01-biden-0723-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governors/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governors/index.html",
-      "publishedDateTime": "2021-07-30T10:20:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

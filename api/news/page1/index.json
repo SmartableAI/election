@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-05-biden-to-announce-new-emissions-standards-target-that-50-of-vehicles-sold-in-us-by-2030-are-electric.md",
+      "title": "Biden to announce new emissions standards, target that 50% of vehicles sold in US by 2030 are electric",
+      "excerpt": "President Joe Biden will sign an executive order Thursday that points the US auto market toward electric vehicles, announcing a new target that half of vehicles sold in the country by 2030 will be battery electric, fuel-cell electric or plug-in hybrid.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L09KXlPPWHU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L09KXlPPWHU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708143919-01-stellantis-electric-vehicle-strategy-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html",
+      "publishedDateTime": "2021-08-05T03:08:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot.md",
+      "title": "Pence Endorses Covid Vaccines To Young Conservatives Gathering: ‘I Got The Shot’",
+      "excerpt": "Pence and other Trump administration alumni have been steadfast advocates for the vaccines even as others in their movement remain skeptical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewsolender/2021/08/05/pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot/",
+      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2021/08/05/pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610b91c5307b5f6c6c8a6113%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1969%26cropY1%3D99%26cropY2%3D1207",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-will-mcconnell-lift-roadblock-of-biden-for-infrastructure.md",
       "title": "Will McConnell lift roadblock of Biden for infrastructure?",
       "excerpt": "Senate Republican leader Mitch McConnell had vowed to be “100% focused” on stopping President Joe Biden’s agenda",
@@ -1206,106 +1314,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-infowars-pundit-ejected-from-texas-rangers-game-for-trump-won-flag.md",
-      "title": "InfoWars pundit ejected from Texas Rangers game for 'Trump Won' flag",
-      "excerpt": "Two spectators, one of whom reportedly was a former personality on the right-wing radio show InfoWars, hung a banner that read “Trump Won, Save America” from the upper stands during a Texas Rangers game on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/23/14/21312281/5/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/amp/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/texas/amp/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
-      "publishedDateTime": "2021-08-03T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-psaki-says-biden-will-weigh-in-on-abhorrent-cuomo-accusations-later.md",
-      "title": "Psaki says Biden will weigh in on ‘abhorrent’ Cuomo accusations ‘later’",
-      "excerpt": "President Biden is preparing to give public remarks on a devastating report that found Gov. Andrew Cuomo sexually harassed 11 women, White House Press Secretary Jen Psaki said.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/",
-      "originalUrl": "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-cuomo-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/amp/",
-      "publishedDateTime": "2021-08-03T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

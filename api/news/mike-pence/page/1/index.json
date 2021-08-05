@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-05-pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot.md",
+      "title": "Pence Endorses Covid Vaccines To Young Conservatives Gathering: ‘I Got The Shot’",
+      "excerpt": "Pence and other Trump administration alumni have been steadfast advocates for the vaccines even as others in their movement remain skeptical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewsolender/2021/08/05/pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot/",
+      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2021/08/05/pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610b91c5307b5f6c6c8a6113%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1969%26cropY1%3D99%26cropY2%3D1207",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-pence-to-take-part-in-symposium-with-college-of-the-ozarks.md",
       "title": "Pence To Take Part In Symposium With College Of The Ozarks",
       "excerpt": "Vice President Micheal Pence poses for his official portrait at The White House, in Washington, D.C., on Tuesday, October 24, 2017. (Official White House Photo by D. Myles Cullen)Former Vice-President",
@@ -1414,58 +1466,6 @@
       "ampWebUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1",
       "publishedDateTime": "2021-06-25T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-mike-pence-brands-critical-race-theory-state-sanctioned-racism.md",
-      "title": "Mike Pence Brands Critical Race Theory 'State-Sanctioned Racism'",
-      "excerpt": "Former Vice President Mike Pence has called for the elimination of critical race theory during a speech in which he outlined his vision for the future of the Republican Party. Pence said on Thursday that the GOP \"must stop the efforts to rewrite American history through initiatives like the 1619 Project ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033",
-      "originalUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1829732/former-vice-president-mike-pence.jpg",
-          "width": 2814,
-          "height": 1876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033?amp=1",
-      "publishedDateTime": "2021-06-25T02:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

@@ -444,16 +444,16 @@ related:
   - title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
     excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
     publishedDateTime: 2021-07-27T22:58:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/fa4baa391ff1941571c4e042df917a5a/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/2bd02af0f29694b7cb978e8edd538da2/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/fa4baa391ff1941571c4e042df917a5a/HARRIS-VOTING.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/2bd02af0f29694b7cb978e8edd538da2/HARRIS-VOTING.jpg"
         width: 650
-        height: 433
+        height: 434
         isCached: true
   - title: "‘Weird making her border czar didn’t work’: Kamala Harris thrashed as polling shows she’s historically ‘unpopular’ VP"
     excerpt: "Kamala Harris has become the most unpopular vice president six months into an administration in years, according to recent unfavorable polling for the former senator."
@@ -615,6 +615,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "P7Z9QGAaii6vZh4DnbQ74X/R2imCRWxQlNaFxlp/aR3VgeXdjosN1K7XuwkOhzLY/Yx0AegpkAT9BeBlkhHnHT2/rSBrfFm7no8KiQGMbpGcPfV932IqXKdWB4A658Q/byztGp/kVaPybWipnjG3RsCHse2e8BxDGdc5ZBdKNZpW4tSCzLdUGkwK6FAuYNBEv9vhSjsHxeGduLm9y5HIwYQ1UKnkpSVJ2oTuqb6i1i28uNaOa0DSafH8gFKShe9TwmZiuYA02snfb+9MsqdoYBEo0/USSgG8UL+ctk22meifsAKwGSvAsrOpbz5bq5OU271wqYU6Ts6Etokk5773mZBTjKxJ/nCsp88LWRKWt0A=;PIN7PAIfEWvNtRiAlKDN5A=="
+secured: "Dv2453ABOFEBSqqs2aCvCZ0qmRxZ6fLYmW8w0aXauIMyrAoT9DHjFToFtJfuIIYtn+6RkzN7+xQcd8ije3GKCHbj39X9I9A6Dlld+FBwDuP7t/h2MkuWrfRlEZ7BlHJg7PQeC1u8mzjcwmh23GIR78duMzKprn7WLXL3o0U/9PNkFjTBGkSFgaYgRhqAv+PthHoswifiQO4kyUyQqkrsakFJirj4xpQ4+25n7GGf9kRDon+zKIC+d+pgYBnUCdVI7RxBuz7ECrydD8eX/6vUwUVCHnf376RV4jxGk1J/0NFvPpfW0tPTnDTC0BsvckRdcCe1yKHe2/IYX6FGIzPE9huhzi50K6Aqw5VmZjHn1RfDny7RMqwOPNlHPN1fwJXL+h1f7RnbJSrRNEQsQg9qB6JNlG+toL5EWxmzXwdkkWXqh6stWgWqW10WKKw3XNw/tlRk3PFFup9TLB+R4Zu3MIM2OvoFJs/K7muICqcdEOcMwtTlCd97V7lDfZ2haNN5OPdRQLtm/S8vg3sstQH5vA==;E5GL+iA2py2K5qE7ucposQ=="
 ---
 

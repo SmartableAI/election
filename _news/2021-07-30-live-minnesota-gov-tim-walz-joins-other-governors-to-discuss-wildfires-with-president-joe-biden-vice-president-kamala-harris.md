@@ -3,16 +3,16 @@ category: news
 title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
 excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
 publishedDateTime: 2021-07-30T15:15:00Z
-originalUrl: "https://www.grandforksherald.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
-webUrl: "https://www.grandforksherald.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+originalUrl: "https://www.inforum.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+webUrl: "https://www.inforum.com/news/nation/7133736-LIVE-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Grand Forks Herald
-  domain: grandforksherald.com
+  name: INFORUM
+  domain: inforum.com
 
 topics:
   - Election
@@ -1666,6 +1666,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "A8NUIGMgHUgb7Bs8kZI4BXZk2URZegncMwo/iRpFS7yM30YPoX4Enk0GFSrO52UZt4GKF1CMtz88MLHfuENQqVls4PrPq12pzjJNfWAEEZ+glx2I8nPxZ5yQgui6Q7mQH67XhveLHQLc0OLt9dLz64EZsTP07jZETyX4X2y9Q8c614VS71pCzH5wBa67/6w+hsylNE0SgvOlge578VdsiPboJ9gKBImzbKDdNEDZMjBt00PYjygLgueYvsytGPqxlkXfn6dAQxOWft7DawJEdmEgWtop7+0yNylyR1hP/IeJIT6Bjc3DgNLWPf2iHF0ctoqHPLZKstvHRd4dsTB8ZU7761W6Y7Kfq9lMag4p4qd4KvhlZWNyLKlvVn7JaZhzLFFDJkwYUkseYzH1Z7OzNDH6Yb0lKe3CJaihd65uWrfp/5sPz+AG1tY+5rD3PU7KuRSZZUymOcZOV3BJsws5+JhtCZOgO+sKFYIwFE2Rci6DwPohfVh2519yxE9EfrY2Koy/CVq55aLgu1roIkQE3w==;dBIgQZOJkQtKmTvAJ5lOlw=="
+secured: "YCNElddbZNl9CExoqWE0xLly44XM2maRJHK65aEt1o37XWw0C5Wh8WWi4em96iMvXvHJPylUnBKuVVsrbncltSw3jB3MoA9BUka2N33XfSntv3afyZUWBhZrC+5N0UjlJQ6Dj6niscke5QJ2AP7SEUT3bdDMzgyA9Fbr/EIY484ugtbjA8i9MIdM4dXmOAubxfg2Wh6PsRc7amIVwcU18Enqdzuv7jhlfPMDzARz4uWzRdWBydr8mc3EVbPBwj4D+zQxyZD1y9lUeODBNKrEYK1m7wEyQ98hFNYk3qGxbc3kxBTKTLiigSJfHjtUZD6/BkzXB0z92Rahm5tdMxaL4p0+Z06sneaMcAhJQE9pp30=;3/QkUXGQEKoHQ4ml+rgF2g=="
 ---
 
