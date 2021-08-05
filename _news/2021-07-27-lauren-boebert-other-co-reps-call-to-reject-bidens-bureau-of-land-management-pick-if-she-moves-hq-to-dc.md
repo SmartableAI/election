@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "'Governor who?': Biden pokes DeSantis in response to latest tussle with Florida Republican"
+    excerpt: "President Joe Biden continued his administration’s war of words with Florida Gov. Ron DeSantis over coronavirus restrictions by pretending he didn’t know who the governor was when asked a question by a reporter."
+    publishedDateTime: 2021-08-05T21:11:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6n_ApS2uiKw/governor-who-biden-pokes-desantis-in-response-to-latest-tussle-with-governor"
+    ampWebUrl: "https://www.foxnews.com/politics/governor-who-biden-pokes-desantis-in-response-to-latest-tussle-with-governor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/governor-who-biden-pokes-desantis-in-response-to-latest-tussle-with-governor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6446800-b856-416b-b1b1-8e6dc8f66afb/e6da4b99-f6e0-4a37-905e-2ed85088c982/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden considering vaccine mandate for federal workers, says unvaccinated not as 'smart' as he thought"
     excerpt: "President Biden said Tuesday he is considering requiring all federal employees to be vaccinated and questioned the intelligence of those that have yet to do so."
     publishedDateTime: 2021-07-27T20:49:07Z

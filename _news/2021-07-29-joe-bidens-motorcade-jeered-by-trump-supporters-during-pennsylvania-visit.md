@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1"
 type: article
 quality: 148
-heat: 608
+heat: 628
 published: true
 
 provider:
@@ -245,6 +245,22 @@ related:
       - url: "https://thumb.spokesman.com/zKPJ6r7ny07rWOMrluwk-XFzYRg=/480x0/media.spokesman.com/photos/2021/07/31/6105dc62419a8.hires.jpg"
         width: 480
         height: 320
+        isCached: true
+  - title: "Lithium-Mining Stocks Are Flying. Thank President Biden."
+    excerpt: "Shares of lithium miners are soaring Thursday. One reported upside earnings, but the government is to thank for today's sector-wide rise."
+    publishedDateTime: 2021-08-05T21:55:00Z
+    webUrl: "https://www.barrons.com/articles/lithium-miner-stocks-president-biden-51628185958"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lithium-miner-stocks-president-biden-51628185958"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lithium-miner-stocks-president-biden-51628185958"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 75
+    images:
+      - url: "https://images.barrons.com/im-381005/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump ally launches election audit plan in Pennsylvania"
     excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state’s 2020 election."

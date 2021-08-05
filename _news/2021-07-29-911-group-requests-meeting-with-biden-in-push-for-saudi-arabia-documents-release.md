@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/9-11-group-meeting-biden-saudi-arab
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/9-11-group-meeting-biden-saudi-arabia-documents-release.amp"
 type: article
 quality: 170
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Orthodox rabbis slam Biden for naming lesbian rabbi to religious freedom coalition"
+    excerpt: "Orthodox rabbis slam President Biden for naming a lesbian rabbi to USCIRF, the U.S. Commission on International Religious Freedom."
+    publishedDateTime: 2021-08-05T21:36:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TQEl3MAd1xM/rabbis-slam-biden-lesbian-rabbi-religious-freedom-coalition"
+    ampWebUrl: "https://www.foxnews.com/politics/rabbis-slam-biden-lesbian-rabbi-religious-freedom-coalition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rabbis-slam-biden-lesbian-rabbi-religious-freedom-coalition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ba87f3c-a28d-4db0-9091-321bceab4194/26944eeb-de39-451e-8cab-f02ca10c91aa/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "+xdow7EJ5iGLssqkCQqsbWTeBlf7xBbMxrupCzMfX84HF1Wc7xEg4pfQMvhUixAdC42tC2mHauxJyXoBHuAiYRzo4cZBVHieNcp4x0rga1CWl1QCoITB/V2sNXYjigyEXim19GA5O0EmFPdvkQHHLcIpCQK2vQ+VZ6VVNdELPVvQWN0R+PW5iATWcIwCeZbewMn3JmU8zLnHv5/HRt04T8xZ9g+wEWSP7bgD0wZ/n6LR6q9XwwDcMZc6BVwFu51kyugx/843Qb1xyMeSsEfbjeuuDlT9THKwUsXepyZewcoSM7uPUtwN75HkPMcFAnfoU3jCA8CNrcossplejOKO/31rETwgpsvGimMKlN1VrZQ=;LdeC2Vb/q5hmRNqI53CL/g=="
 ---

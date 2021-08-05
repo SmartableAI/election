@@ -653,6 +653,22 @@ related:
         width: 1200
         height: 948
         isCached: true
+  - title: "What's A 'Trump Card?' Donald Trump, Republican PAC Wants Supporters To Carry"
+    excerpt: "The former president wants his supporters to carry Trump cards to show their support for him and his 'Save America' movement."
+    publishedDateTime: 2021-08-05T19:16:00Z
+    webUrl: "https://www.ibtimes.com/whats-trump-card-donald-trump-republican-pac-wants-supporters-carry-3267471"
+    ampWebUrl: "https://www.ibtimes.com/whats-trump-card-donald-trump-republican-pac-wants-supporters-carry-3267471?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-trump-card-donald-trump-republican-pac-wants-supporters-carry-3267471?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump-backed Carey, centrist Brown win Ohio US House races | Charlotte Observer"
     excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
     publishedDateTime: 2021-08-05T03:23:00Z
@@ -909,11 +925,11 @@ related:
   - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
     excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
     publishedDateTime: 2021-08-03T10:19:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 32
   - title: "A.M. Roundup: Stefanik blames Pelosi for Jan. 6 insurrection led by Trump supporters"
     excerpt: "Elise Stefanik on Tuesday joined other Republican leaders in blaming Speaker of the House Nancy Pelosi for the Jan. 6 insurrection at the U.S. Capitol. The insurrection was conducted by supporters of former President Donald J."

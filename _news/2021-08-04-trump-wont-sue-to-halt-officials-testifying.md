@@ -126,6 +126,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Graham says he has told Trump to ‘speak up’ on COVID vaccines"
+    excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine,"
+    publishedDateTime: 2021-08-05T21:33:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/graham-says-he-has-told-trump-to-speak-up-on-covid-vaccines/7QDPAMR5ENEMDE5U2BXQCIG7AA/"
+    ampWebUrl: "https://www.ajc.com/news/nation-world/graham-says-he-has-told-trump-to-speak-up-on-covid-vaccines/7QDPAMR5ENEMDE5U2BXQCIG7AA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/graham-says-he-has-told-trump-to-speak-up-on-covid-vaccines/7QDPAMR5ENEMDE5U2BXQCIG7AA/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 75
+    images:
+      - url: "https://www.ajc.com/resizer/FHnn4gxjCSZdyS8DplfbklOnjSE=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-03-2021/t_9b17f24a0f4b4e7aa457e0dde4c83503_name_c207040272dd4eb591813159a72036a7.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Graham says he’s told Trump to ‘speak up’ on COVID vaccines"
     excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine,"
     publishedDateTime: 2021-08-05T19:37:00Z

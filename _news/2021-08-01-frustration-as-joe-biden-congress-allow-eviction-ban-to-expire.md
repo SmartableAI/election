@@ -170,6 +170,20 @@ related:
         width: 935
         height: 518
         isCached: true
+  - title: "President Joe Biden Delivers Remarks on Clean Energy"
+    excerpt: "President Joe Biden delivers remarks on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
+    publishedDateTime: 2021-08-05T21:31:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/237e58cb894b763d8ded57d8b8273a83/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/237e58cb894b763d8ded57d8b8273a83/WHITE-HOUSEBIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Frustration as Biden, Congress allow eviction ban to expire"
     excerpt: "The rare division between President Biden and congressional Democrats carried potential lasting political ramifications."
     publishedDateTime: 2021-08-01T17:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-l
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election-1615146?amp=1"
 type: article
 quality: 134
-heat: 374
+heat: 394
 published: true
 
 provider:
@@ -165,6 +165,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden.jpg"
         width: 935
         height: 518
+        isCached: true
+  - title: "President Joe Biden Delivers Remarks on Clean Energy"
+    excerpt: "President Joe Biden delivers remarks on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
+    publishedDateTime: 2021-08-05T21:31:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/237e58cb894b763d8ded57d8b8273a83/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/237e58cb894b763d8ded57d8b8273a83/WHITE-HOUSEBIDEN.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Frustration as Joe Biden, Congress allow eviction ban to expire"
     excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."

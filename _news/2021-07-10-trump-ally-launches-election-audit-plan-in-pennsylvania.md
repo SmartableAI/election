@@ -251,6 +251,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Lithium-Mining Stocks Are Flying. Thank President Biden."
+    excerpt: "Shares of lithium miners are soaring Thursday. One reported upside earnings, but the government is to thank for today's sector-wide rise."
+    publishedDateTime: 2021-08-05T21:55:00Z
+    webUrl: "https://www.barrons.com/articles/lithium-miner-stocks-president-biden-51628185958"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lithium-miner-stocks-president-biden-51628185958"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lithium-miner-stocks-president-biden-51628185958"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 75
+    images:
+      - url: "https://images.barrons.com/im-381005/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Why is President Biden heading back to Pennsylvania? It’s more than the state where he was born"
     excerpt: "We’re the Keystone State,’ said Tom Wolf, the Democratic governor of Pennsylvania. ‘We’re a microcosm of the U.S. population. We’re old, we’re young, we’re big. And it’s the birthplace of Joe Biden.’"
     publishedDateTime: 2021-07-28T09:14:00Z

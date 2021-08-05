@@ -241,6 +241,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Lithium-Mining Stocks Are Flying. Thank President Biden."
+    excerpt: "Shares of lithium miners are soaring Thursday. One reported upside earnings, but the government is to thank for today's sector-wide rise."
+    publishedDateTime: 2021-08-05T21:55:00Z
+    webUrl: "https://www.barrons.com/articles/lithium-miner-stocks-president-biden-51628185958"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lithium-miner-stocks-president-biden-51628185958"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lithium-miner-stocks-president-biden-51628185958"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 75
+    images:
+      - url: "https://images.barrons.com/im-381005/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump ally launches election audit plan in Pennsylvania"
     excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state’s 2020 election."
     publishedDateTime: 2021-07-10T13:44:00Z

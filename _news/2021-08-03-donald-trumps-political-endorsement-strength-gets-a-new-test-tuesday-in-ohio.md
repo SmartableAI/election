@@ -3,16 +3,16 @@ category: news
 title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
 excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
 publishedDateTime: 2021-08-03T10:19:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+originalUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -647,6 +647,22 @@ related:
         width: 1200
         height: 948
         isCached: true
+  - title: "What's A 'Trump Card?' Donald Trump, Republican PAC Wants Supporters To Carry"
+    excerpt: "The former president wants his supporters to carry Trump cards to show their support for him and his 'Save America' movement."
+    publishedDateTime: 2021-08-05T19:16:00Z
+    webUrl: "https://www.ibtimes.com/whats-trump-card-donald-trump-republican-pac-wants-supporters-carry-3267471"
+    ampWebUrl: "https://www.ibtimes.com/whats-trump-card-donald-trump-republican-pac-wants-supporters-carry-3267471?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-trump-card-donald-trump-republican-pac-wants-supporters-carry-3267471?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump-backed Carey, centrist Brown win Ohio US House races | Charlotte Observer"
     excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
     publishedDateTime: 2021-08-05T03:23:00Z
@@ -924,6 +940,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "0jpvFj2igctBK+swwzhgT4Prz2HamIB3/+zNyo5s83PiU64N/sSUzMbMUzGLdxU0X1lM884qyaAeozsxb5DKsYcbzx9kTz+DFjT1N9KJhytQjS+U6M7IMe8XCl1yIv7qIswBcXlv5lOks7NJk8udW07JG+prBhnoERP+8RJYyh4z+Ilh3aUllzkH3jwFH0l1oHd/I6dU4vR9/rJHB7ubtwDdReUdEez1bEodZQa6DYBrm/0cMHZBzPdWpFswoYwM2DdyYHEkiJ/+C3qg35pOPhukcYA375XTixpRzcoUNd1mNnd0kOmB/rKmBzVWUakXZhZi6w72+kpNXTtLHkRW9nlrEcX6ZB/qLh0KOQwgFVHWwxIu6amUfgh/XEsWX/tr0UcvFLqEgSlMS3PXwiZ2xjWuyYRxAiUR/fH3/pXR1+Z7BZCKhiTAb5F6rDZilCck7aSw51hPJt2jYMc4C1Yeu2c4UC5BxttYYGheYdr+fsOhxnIVTk1VCodj9SbF24rbUp5/q8j8csjZqig/tsd5Ww==;KLXihFjYrwJ5NsTZiSfVCQ=="
+secured: "cRxEaesp5/ZYFU+xg4rcDfwwSai0eqjImf2Ra7AGNMC+Nl3Mk2zJQTVkjJi/NKBvDbm/DbF0/qYV5nJaRnmGw20BraxIjttTPNnl0O3uG6Yjta0GB7H/63fBRQkYtKAEQvs0tyunpInvGG2oAUR6ZjjHjCU7q8YtSfp9WlC3xTN/o/oUhdtLz3FT7Fd4sFcsb/iLVPjFqD+r3R5eWVUqdEkiNd7myD7ieuRT+xIWJBwyOF8hpjBT+Y2sMkYasfT/jhq30K1Ys7GDcFwInFvuoTJo8Zx0Z2rHmPYFn5qPuM3NK7efwhiPADzVhFSBtqiC8TNBJO7EbDZqVie8SkOXAdOAHtGHHPBzfOxRuFx6gKsBKArJcBIo3sVZ2TSYeiIZXZ5a4NjHN+SuWYCpVV3dGIJn8arz19a8/ahQao/pw88VKbbZseUqnlKMcRZrQiLJRWqlk/CGci9XQAoBV1Y+kci4jkpMFeh3YHuIV/tsc3bskPbm+DMqJxgVU5i0l+ORKf2v8UA6KtbLM06sXWVN7Q==;gJor4sLcrp3SqE3RstHCIQ=="
 ---
 
