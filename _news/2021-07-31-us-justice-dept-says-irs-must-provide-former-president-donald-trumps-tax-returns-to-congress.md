@@ -1,28 +1,34 @@
 ---
 category: news
-title: "U.S. Justice Dept Says IRS Must Provide Former President Donald Trump's Tax Returns to Congress"
+title: "U.S. Justice Dept says IRS must provide former President Donald Trump's tax returns to Congress"
 excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying the panel has offered \"sufficient reasons\" for requesting the material."
-publishedDateTime: 2021-07-30T17:31:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-30/us-justice-dept-says-irs-must-provide-former-president-donald-trumps-tax-returns-to-congress?context=amp"
+publishedDateTime: 2021-07-30T20:40:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
+webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN2F02MK"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F02MK"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F02MK"
 type: article
-quality: 43
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210730&t=2&i=1570501474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6T1ET"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Trump advisor says there is 'zero' chance the former president will pick Pence as his running mate if he runs in 2024"
@@ -72,6 +78,6 @@ related:
         height: 628
         isCached: true
 
-secured: "VH3dJLv26vwbU/90sGSU6E57Xv3nJPcyK/OmkMaesWSqBTLoQLmdRCI2OH0NkhsOSZhGJ+COBy2y7JiwFRBv2ZWx4oyh2MbhZSHZf6N8JV1oz7cGxzutn+q+42dgsvVQOEwnpBU5a9sI8RRwoHGjYTKDszvGHuF1srXsHcHODTtiYScJ3f4o+4OgarNxStXUWreeY61dDAFM/yMvX53nqTt1DFOrPoL5lnDYyROVy1k+70Ly+yDApUrexf+Yt0YNbcN7Ir3P93afOa+2eB27YMHOEFpGSMrCx0l2hNamv5N/XfcGDT8uNrupAlAoQ9lyXSDTW0aJw31eFhTUXp7/5ODnurXTqmK2EnGnAvgNh/YM9/0zix3brn68QLukvnkrZWMpcVvbN8DaqcXVpLQEzVyquKXvqth88pKZJHYp7yUV7C11SxYtkdOzHS/wClpqxpn+N0bV1viyd/imi0hfhVSbLQ+kFOA2Yt8GqEEkvQQHS8MZf8+F19tQeUYTSMsnVZvOzXT6F0+O8ufnt7N17g==;lonJQ4RFoCSx9gOCcA1mlQ=="
+secured: "dQPkuoSX6vIwtTHNMvJKe8nHQRQaPWBnmQAPfV39wSUfVH3P6+QwpjX7kXNdAi086cWr0j25kgpt7rJxSvZDdQ2SjwN4HjsEVRvj+/KYvOykLWfB+JU41aMV2VKxflWn5BtY38LV7USbALvnEOExadBAmDdFhFyHrhgK4fvkNLQTmad21Yfzo4G9b1PHr6bb8zGGaWSn0el/wjJgdqWC8ECkqwgRxScU32eW98mtwJMEFVMgRtXiFyUkS4EHobeJllsPhVtcfz7GaPgYT1hueOU2J+DuGPfBkHQHRoCDnfg8YsSPSBMBoUwQTTdKMpW40YXovbxmU34RlcX4pNJxLBZFxqBpV8WHYzCcO1n9pGw=;rvo7+P9ymfcLW8PWrlEjgg=="
 ---
 

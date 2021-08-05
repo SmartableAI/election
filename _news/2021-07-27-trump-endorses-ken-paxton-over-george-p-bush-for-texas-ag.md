@@ -316,7 +316,7 @@ related:
   - title: "Is Donald Trump Or Covid-19 Receiving More Attention On Television News?"
     excerpt: "Which is receiving more attention on television news - Donald Trump or Covid-19? The timeline below shows total daily mentions of Donald Trump since the start of last year, showing that since May of this year he has maintained a relatively stable and high profile presence on television news,"
     publishedDateTime: 2021-08-03T12:56:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/08/03/is_donald_trump_or_covid-19_receiving_more_attention_on_television_news.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/03/is_donald_trump_or_covid-19_receiving_more_attention_on_television_news.html#!"
     type: article
     provider:
       name: RealClearPolitics

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-co
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -189,6 +189,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Donald-Trump.jpeg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Trump Calls The Fight To Get Tax Returns A Political Attempt To Retaliate Against Him"
+    excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" the former president's lawyers say in a new motion."
+    publishedDateTime: 2021-08-04T22:08:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1024688876/trump-calls-the-fight-to-get-tax-returns-a-political-attempt-to-retaliate-against-him"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 48
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/04/gettyimages-1327493808-fdbc6432a07e381301074419ee148f2f39d60eda.jpg?s=6"
+        width: 948
+        height: 711
         isCached: true
 
 secured: "3i7l/2157b7sBcNqcGclgUXfapXBf9QS4o7DnlSD8oPIa5u9BCwNLXNIfe2e9CvZFFRHQSUv7BwX028fcQp3CbcdBUBD6UGQlbnt1YRzHZh2xOcQAONa+Kuh5XaPvj4oignS8OZpgzwbpwkh5+MV8tFXPjdDOyh1IEsHogXL6etrZSgsczaL67PxHGN7XvK9jG2XFHFtaKv9FKXUj1aPZ6Rtf+itTmyihs2j0c0N15tsAJ8kJjEQXWrGC5kx3r13JKfwpJxk3aDhHwqzjQWWLCq4FTVKU5QJKJJY6P7zgdN5be8q/BHA+AcSv/nYMN8gxFTQ4IATBgYURQ6UggRfwfIyIEm7xODoWvgZS0hWzvw=;WTKmbQBQsDAAO2aBat+eUg=="

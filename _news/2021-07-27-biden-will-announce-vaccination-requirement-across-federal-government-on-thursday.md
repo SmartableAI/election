@@ -527,6 +527,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration proposes $750 million sale to Taiwan in a move likely to anger Beijing"
+    excerpt: "The Biden administration has informed Congress of a proposed $750 million weapons sale to Taiwan in a move likely to further inflame tensions with Beijing.\n    \n"
+    publishedDateTime: 2021-08-04T23:03:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_BxG9y7IlW4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/biden-administration-taiwan-arms-sales/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/biden-administration-taiwan-arms-sales/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden admin buys extra Pfizer doses to prepare for possibility of children vaccine needs and booster shots"
     excerpt: "The Biden administration purchased an additional 200 million doses of Pfizer-BioNTech's Covid-19 vaccine to prepare for potential additional vaccine needs in the US, an administration official familiar with the contract tells CNN.\n    \n"
     publishedDateTime: 2021-07-23T14:38:43Z

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pictures: At Disney's Magic Kingdom, new Joe Biden animatronic"
+    excerpt: "In the Magic Kingdom at Walt Disney World, the President Joe Biden animatronic makes its debut at The Hall of Presidents attraction, Tuesday, August 3, 2021, during a soft opening. The Liberty Square attraction officially reopened Wednesday after being closed for refurbishment since January."
+    publishedDateTime: 2021-08-04T20:47:00Z
+    webUrl: "https://www.orlandosentinel.com/travel/attractions/the-daily-disney/os-pictures-disney-hall-of-presidents-biden-20210804-xeh7utp4mffnhgvkqmmkhamq7q-photogallery.html"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 55
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/n14FHR8xokYM_vuhTbfLwXqbpzw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UEZRM7CHSJEH5OCKWVO4QY3NIY.jpg"
+        width: 1200
+        height: 947
+        isCached: true
 
 secured: "GEtu4IknQqugBx/V7m1OZJJKNUG781OLFQg/88u+zxEPmUka39ieAwNHJmCXh4F4DXjZHTBa7yy+Al0a7LF7C9yCcW+7hrjlT1s2xb3ZhcY2xZFhX3VMmH7oVeZevbL63tn07d5TtyDdngHagob/U7T6xn6WFmkEVQKmTDaQWYA/MOViAG3OmoChtMoLmFx0koqoznTAvh37IF2sgydkj2pf23qEIEdn+8g7F2oiRoTlnyiF3fZ0SowBhhI9D7KZJBV4reHo6hBrd9mvg5keevnfJBRtYreuUKSmlulMBgoMFkeZPtrjYyWGUHRqTc6bc35HUasJ5xxBrXZmeXTeyaF8DCfweucUscBgkVsPea/ephoYBR1MHd0C5LaEsfyPYitsa1/tiWg5b0MTwmODwVtUbv9D5b32dWs8ntyb9DdY45ydaokA6gtVp1SEQPUpa47nmqc1MSCjgJixxfPpcLtExmrX+a8u4jgNgkvpS2ot6Nm+SvxZ9w3tm4Suh+J5CVoRRr94iYQ+mDL3A53a8Q==;h2Xy4coDPgrVai9D/Qtp2A=="
 ---

@@ -190,6 +190,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump Calls The Fight To Get Tax Returns A Political Attempt To Retaliate Against Him"
+    excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" the former president's lawyers say in a new motion."
+    publishedDateTime: 2021-08-04T22:08:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1024688876/trump-calls-the-fight-to-get-tax-returns-a-political-attempt-to-retaliate-against-him"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 48
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/04/gettyimages-1327493808-fdbc6432a07e381301074419ee148f2f39d60eda.jpg?s=6"
+        width: 948
+        height: 711
+        isCached: true
 
 secured: "Ognq0TACgLNIGu6yy7IpfjknMmUFKgcGl32phcVMUc6wRoXqJ2TkOPpL+YzXixYVOMIQWifYsr8+l0+OHCsIqbuXWB2JGZ5Hw+6i3NF3QzRN2wEDtTkGa/Aq0scCrIN5RE3GuvP/yBKdTx+Umawnq84UvKDvObN/zlx/bIgDtUbckszTpyEqskGCHZdLEsaPz5bfXhdzvbTJeuN0NjYSQ3q1USuMIa2a/Ftnfq8FoH1cxQlFG80AsueeN+jK4Z7ehii5hNOYM2D1pZO7t4thUhjpcCasrZ76V4p93i8SV2wDqcF4HYtV0jve5xZjUMKSqV1xCLSFbHkKpmcjMjPWK5HL+sV2vcToLdQ1vfj+UhU=;pcebp8K1XE/IOHs+8VUYbQ=="
 ---

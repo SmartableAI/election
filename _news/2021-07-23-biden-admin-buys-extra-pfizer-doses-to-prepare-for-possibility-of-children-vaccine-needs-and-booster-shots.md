@@ -543,6 +543,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration proposes $750 million sale to Taiwan in a move likely to anger Beijing"
+    excerpt: "The Biden administration has informed Congress of a proposed $750 million weapons sale to Taiwan in a move likely to further inflame tensions with Beijing.\n    \n"
+    publishedDateTime: 2021-08-04T23:03:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_BxG9y7IlW4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/04/politics/biden-administration-taiwan-arms-sales/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/04/politics/biden-administration-taiwan-arms-sales/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump officials can testify on former President's actions leading up to insurrection, Justice Department decides "
     excerpt: "The Justice Department formally declined to assert executive privilege for potential testimony of at least some witnesses related to the January 6 Capitol attack, a person briefed on the matter said.\n    \n"
     publishedDateTime: 2021-07-27T12:30:29Z

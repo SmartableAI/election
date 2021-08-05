@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?a
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1"
 type: article
 quality: 125
-heat: 905
+heat: 925
 published: true
 
 provider:
@@ -500,6 +500,20 @@ related:
       - url: "https://static.mothership.sg/1/2021/07/kamala-harris-singapore-visit.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris to promote Biden-Harris administration's 'America is Back' in upcoming visit to Singapore, Vietnam"
+    excerpt: "US Vice President Kamala Harris will be making her next few overseas engagements this month in her upcoming visits to Singapore and Vietnam. Harris is expected to promote the new administrations message in her trips to"
+    publishedDateTime: 2021-08-04T09:37:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-to-promote-Biden-Harris-administrations-America-is-Back-in-upcoming-visit-to-Singapore-Vietnam-1614317"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 49
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210804a15b42ee98d421cff_th_1024x0.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Kamala Harris immigration: VP introduces strategy to address root causes of migration"
     excerpt: "The task of leading the Biden administrations efforts to stem migration following the record number of migrants this year falls on Vice President Kamala Harris. This week, Harris introduced the strategy to tackle the"

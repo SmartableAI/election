@@ -525,6 +525,22 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Donald Trump asks court to block release of tax returns to Congress"
+    excerpt: "Former President Donald Trump has gone to court to prevent congressional Democrats from obtaining his tax returns."
+    publishedDateTime: 2021-08-04T18:25:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/04/donald-trump-tax-returns-congress/9601628100048/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/04/donald-trump-tax-returns-congress/9601628100048/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/04/donald-trump-tax-returns-congress/9601628100048/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9601628100048/2021/1/e5d6807c81422fc6d6e6cd5aae9ad154/v1.5/Donald-Trump-asks-court-to-block-release-of-tax-returns-to-Congress.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
     excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
     publishedDateTime: 2021-04-30T04:32:00Z
@@ -694,6 +710,17 @@ related:
       name: Tri-City Herald
       domain: tri-cityherald.com
     quality: 55
+  - title: "Trump-backed Carey, centrist Brown win Ohio US House races"
+    excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
+    publishedDateTime: 2021-08-04T22:06:00Z
+    webUrl: "https://www.theolympian.com/news/nation-world/article253236008.html"
+    ampWebUrl: "https://amp.theolympian.com/news/nation-world/article253236008.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/nation-world/article253236008.html"
+    type: article
+    provider:
+      name: The Olympian
+      domain: theolympian.com
+    quality: 55
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z
@@ -740,11 +767,11 @@ related:
   - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
     excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
     publishedDateTime: 2021-08-03T10:19:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+    webUrl: "https://www.freep.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 32
 
 secured: "7qVJXvzBoDaeDsGZbhgoFYZ5PDO9azMU2r9b6xa701QpHfqqWB43tcjZzNvudpvtUeiUdmAA4RNqGWxcsO8AVLIEiXy3F9XZq6AUZ4dpM7Lv4cTFxL3IESsVxC1NwfAzqWN1dtM63hafMvrEM9zzhK2+Hr3c+adcjXkb/4W1tUIKLjMYxEaTWh0boYlvx8HKu3WrYiuI4nrYqsrUVNxt4k553znutX67Lg2wZIfOp3lvQGqWEy2odMa/UANNHptKm1hQRhEzt1XQLgATaG/KX5LpciCj4e4RbwBDaknL7OANENkrc21NsWw1HaCvST2DTM5NS7EipR0Qt6sh2h4zkwBlsSgzGp7uN9PdhE5tNtA=;r2ZHFIycgBSZUKksj5zeSg=="

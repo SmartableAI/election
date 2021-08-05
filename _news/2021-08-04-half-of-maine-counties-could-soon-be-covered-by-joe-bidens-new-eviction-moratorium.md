@@ -98,6 +98,17 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
+  - title: "Biden’s new evictions moratorium faces legality doubts"
+    excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
+    publishedDateTime: 2021-08-04T23:35:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "+2KW0u2mcfTnpEDEVe71OOjP//BIsjqBeSy6i1roj+McRN5qROptA0XotJtpnZPKPhkDeQWuAINxJ/VClQtP2oE9Wmir5uxaIUT26NG6whk8n99SmLZ+5O5cFIw/i5UjrTpwPirZSDuXrtaWCUk9gy7bpDh3kKU+6/PJ5f/ZYlIb1aVjnD1C6nbrwO8YR0Ik5vDbyV698QRRII6YczDsHV/4ZIWwub/QpV3nEX38yZSON39SZBkW/H+oTR5jyRdRSR9v+BCRmIzbo9/wpr2iHu9zzf/4Rgzsg5odxg7BH2ep/hJToD1A2NQZsf231SrR9bKGrpcD/DogwqyKliiWErhdL73OxI2tOlwsHvS+lFdHKZ6oXLx1LcNbNytYZJBV2YZgWq8m85U8HuOYeBbFl+QHSELz/hq4dPigq17ezJFhP0SlUqWTCTYt8tOPyO/WlwU9IOM3hpFYzMODC0aD+wmK6Ts91Sa24qNM7CINbb/0/vLbzjG9AZFTjUBYR8ADQsc12Fh04ka7sJ+qso8WGA==;Eh4mrwcw9qD9SvJ2KKZjkg=="
 ---
