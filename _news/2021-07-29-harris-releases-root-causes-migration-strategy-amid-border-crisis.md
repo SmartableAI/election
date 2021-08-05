@@ -220,6 +220,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Female Kamala Harris allies hold ‘crisis dinner’ on veep’s negative, ‘sexist’ press"
+    excerpt: "The purpose of the dinner was to urgently create a plan to defend the Vice President Kamala Harris and her chief of staff Tina Flournoy amid claims of a toxic office, Axios reports."
+    publishedDateTime: 2021-08-05T16:12:00Z
+    webUrl: "https://nypost.com/2021/08/05/female-kamala-harris-allies-hold-crisis-dinner-on-veeps-negative-sexist-press/"
+    ampWebUrl: "https://nypost.com/2021/08/05/female-kamala-harris-allies-hold-crisis-dinner-on-veeps-negative-sexist-press/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/05/female-kamala-harris-allies-hold-crisis-dinner-on-veeps-negative-sexist-press/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-crisis-dinner-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris immediately puts on mask, forces reporters to as CDC pivot spurs confusion"
     excerpt: "Vice President Kamala Harris on Tuesday went beyond new CDC mask guidelines by putting on a face covering and forcing reporters and guests to do so as well — even though Washington did not"
     publishedDateTime: 2021-07-27T22:26:00Z

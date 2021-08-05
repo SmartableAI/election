@@ -3,16 +3,16 @@ category: news
 title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
 excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
 publishedDateTime: 2021-08-03T10:19:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
-webUrl: "https://www.freep.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -832,6 +832,20 @@ related:
       name: Tri-City Herald
       domain: tri-cityherald.com
     quality: 55
+  - title: "6 questions Donald Trump's tax returns may answer"
+    excerpt: "Congress is about to receive access to Former President Donald Trump's highly sought after tax returns and everyone wants a peek at what's inside. In the latest episode of The"
+    publishedDateTime: 2021-08-05T14:49:00Z
+    webUrl: "https://www.djournal.com/news/national/6-questions-donald-trumps-tax-returns-may-answer/video_b34d3ce4-7692-5e98-a02a-9bde9e8d8d5b.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/b/34/b34d3ce4-7692-5e98-a02a-9bde9e8d8d5b/610c018e4880f.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Trump-backed Carey, centrist Brown win Ohio US House races"
     excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
     publishedDateTime: 2021-08-04T22:06:00Z
@@ -910,6 +924,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "HCVHqom+gaO60yhYPduBpxMu7A7KxWsBordW4bs5QpTAUdTm0uP71n+WGFjNyZDOl1zCbGREwj/0Lw/6ACiBFUyRYINB/c54EkO2IRzrTOHFtrthvKiUD0WbubPbc+7lCz0WAkTFRZyL6eZSYhp7Qofb5I7TcpB/d8YAvXvCkOJlFQ4agNQR7x66ThGbpGN2oeuscbPQAEcyd6m9mXPt5BiFAR+haP2GZnPUe4kWD1yFZURTs0iXP4Avew3wYpKjg9FhxmvLNmPy+OTkzY4IPVuUkNxiPvviE6tfOKc5n8t+xwUH0zDTz01NdM1RZDoalepkn5SyGYpEivSqSyH5pu4oMGmL8EqMLRnItNjLC5hdbGAbQS4EjgMQza9D7xLjvHY3978epLy4gpa4ryUZwXYMrVZbJa8vlHabEVnFUmoCz2ZxzFCd25aMJQNhwqjhbkCq39DlLVe4M/kidFxHFaEVP1VPxNZiGRrF5qfNul3oylijxh6hSYeR/14aMrI1y0BOjMPfbiJ30l34v+u+cA==;4lgzRpKh0feAJ7UTm0gUGw=="
+secured: "0jpvFj2igctBK+swwzhgT4Prz2HamIB3/+zNyo5s83PiU64N/sSUzMbMUzGLdxU0X1lM884qyaAeozsxb5DKsYcbzx9kTz+DFjT1N9KJhytQjS+U6M7IMe8XCl1yIv7qIswBcXlv5lOks7NJk8udW07JG+prBhnoERP+8RJYyh4z+Ilh3aUllzkH3jwFH0l1oHd/I6dU4vR9/rJHB7ubtwDdReUdEez1bEodZQa6DYBrm/0cMHZBzPdWpFswoYwM2DdyYHEkiJ/+C3qg35pOPhukcYA375XTixpRzcoUNd1mNnd0kOmB/rKmBzVWUakXZhZi6w72+kpNXTtLHkRW9nlrEcX6ZB/qLh0KOQwgFVHWwxIu6amUfgh/XEsWX/tr0UcvFLqEgSlMS3PXwiZ2xjWuyYRxAiUR/fH3/pXR1+Z7BZCKhiTAb5F6rDZilCck7aSw51hPJt2jYMc4C1Yeu2c4UC5BxttYYGheYdr+fsOhxnIVTk1VCodj9SbF24rbUp5/q8j8csjZqig/tsd5Ww==;KLXihFjYrwJ5NsTZiSfVCQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tracy-stone-manning-wage-war-overpo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-wage-war-overpopulation.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/345bd750-f595-4b27-94c7-a3e55f0b3d44/b8dd0d8b-c53a-45f3-ab9d-4ef7f5d16684/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Multiple Utah counties oppose Biden BLM pick Stone-Manning over eco-terrorism ties"
+    excerpt: "Eight counties in the Beehive State as well as the Utah State Association of County Commissions and Councils (USACCC) passed resolutions against Stone-Manning’s nomination to lead the agency that oversees millions of acres of federal land."
+    publishedDateTime: 2021-08-05T17:44:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RaDDDBsEscQ/multiple-utah-counties-oppose-stone-manning"
+    ampWebUrl: "https://www.foxnews.com/politics/multiple-utah-counties-oppose-stone-manning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/multiple-utah-counties-oppose-stone-manning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/345bd750-f595-4b27-94c7-a3e55f0b3d44/b8dd0d8b-c53a-45f3-ab9d-4ef7f5d16684/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720

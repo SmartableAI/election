@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "‘A gargantuan task’: How will Biden satisfy both progressives, moderates on infrastructure?"
+    excerpt: "President Joe Biden is caught between retaining support of centrist Democrats, Republicans for an infrastructure deal while satisfying his party’s liberal faction."
+    publishedDateTime: 2021-08-05T17:39:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/article253279158.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/article253279158.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/article253279158.html"
+    type: article
+    provider:
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
+    quality: 45
 
 secured: "aV4kCZuudeJWRYipDyGwcqzaeVPrUMobMizJmjhHzJk+B0DZR/7zCNFByxseofvqLbCejTJVkgRGC0iNjtceWlvToSNltWsHTApHbi+P1jqkruR1lrPWWGgFj0im5M8C/0yZVRoU3NDnPIMA35WWMmvYzVp/zk+ba+ejc4V2YqwHLfouLGIYAdLwVy9b1dn7mdnnZ12+B+e3rQKov9OA+OpPtbAWb9t8BPA94Mw83R+JcZTjhriRHOkniuU0MSoSgAO05U6zPZ6aRhXANYxVgC8Y4TP/qh2Tv0KRjz1WmeIKofhE0RC9z339ICwnJDXSfwwZNMeCdWS8aCaXF9Bdcn514EhXmHJX9Bi7WfUcsL2lOYCU2kO84B8E6FCICx+qu0Yl37AiwRAl81/QXhTLpifJcMENH6SpWqNk6a/2k8ZNN9S2oUF0WDdwT5RvCg8O3HxWfChVgbnvmAftyAbIY0ygMe1wWomDUxr/N2PD1QW2qNJb8thgLDsfRs9uVXOIcdm66cKf7uMu3Rq86JkdSw==;XOOButkMz9HqsqUmTdrhdQ=="
 ---

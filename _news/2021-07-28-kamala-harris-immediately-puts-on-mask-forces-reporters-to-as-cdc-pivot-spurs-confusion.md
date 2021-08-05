@@ -236,6 +236,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Female Kamala Harris allies hold ‘crisis dinner’ on veep’s negative, ‘sexist’ press"
+    excerpt: "The purpose of the dinner was to urgently create a plan to defend the Vice President Kamala Harris and her chief of staff Tina Flournoy amid claims of a toxic office, Axios reports."
+    publishedDateTime: 2021-08-05T16:12:00Z
+    webUrl: "https://nypost.com/2021/08/05/female-kamala-harris-allies-hold-crisis-dinner-on-veeps-negative-sexist-press/"
+    ampWebUrl: "https://nypost.com/2021/08/05/female-kamala-harris-allies-hold-crisis-dinner-on-veeps-negative-sexist-press/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/05/female-kamala-harris-allies-hold-crisis-dinner-on-veeps-negative-sexist-press/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/kamala-harris-crisis-dinner-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris under water in latest polling amid surging border crisis and veep office gripes"
     excerpt: "The polls have not been kind to Vice President Kamala Harris of late, with the Real Clear Average of surveys now putting her at an under-water favorability of 44.3 percent."
     publishedDateTime: 2021-07-23T20:35:00Z

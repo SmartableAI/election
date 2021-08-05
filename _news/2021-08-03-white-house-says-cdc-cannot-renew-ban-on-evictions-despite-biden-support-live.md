@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-po
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
 type: article
 quality: 121
-heat: 281
+heat: 321
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Tesla just got snubbed by Biden’s electric vehicle summit"
+    excerpt: "President Joe Biden will be celebrating ambitious electric vehicles goals by automakers at the White House on Thursday. But he’ll be doing so without the world’s largest maker of EVs:"
+    publishedDateTime: 2021-08-05T17:49:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Tesla-Results_03544.jpg?w=1024&#038;h=623"
+        width: 1024
+        height: 623
+        isCached: true
   - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
     excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
     publishedDateTime: 2021-08-02T12:31:00Z
@@ -152,6 +168,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-7.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Joe Biden wins voluntary pledges from auto makers"
+    excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
+    publishedDateTime: 2021-08-05T14:00:00Z
+    webUrl: "https://floridapolitics.com/archives/446203-joe-biden-wins-voluntary-pledges-from-auto-makers/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden-1.jpg"
+        width: 813
+        height: 526
         isCached: true
 
 secured: "r/Y+g9pd2POJIjg1khDwVSBW80LGV85aKa+uJMN2lBi7boJcmtTS1H4aUQlMCKQf2SKsdPyRDV71+WVV1oarjRlEjd+Tk5Nnbx72xOAZ7WWQWPxkwIfOSTGuyYFxx37ydHkaComJppXPiWsgmA+LchY3Z3W5pHpM2PFuvZdoRMl87LPNGg9E8ocXDU6xCVddzHnMLl09iLfW7pfAtidi9tmsHi6MeBiaEbDv/I+uQq9cEI9qI3hfT8ivkaLjzmKSUUZHd3ZiHFyul+XC1wUyEXkSz9zeU1tbgCRcSVlzDUY1BMd7Lqxk1uZYTlmko+/vljFotpKFli1ENtK3NEcIN3ynlEWlTnQqzau/0WIGFrlYx+20PRPh1zrwRGnCUZfcLsNi6i/kc5Tk55M1PuaMs+2+9g5M+MbKRkNcWydCzsy6Yep+ukWCB3DejTQYwa/I3Ev08fj77Sz/6CQe5gOPRqYbDvE1CvUL+UNTBKZmNt4rtuMQzp6i6zHsqQhNUeKZnxwEs5znnvzqaZnaM7Br2g==;2T1/6jHLzED/lp9BCBOd/Q=="

@@ -119,6 +119,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Tesla just got snubbed by Biden’s electric vehicle summit"
+    excerpt: "President Joe Biden will be celebrating ambitious electric vehicles goals by automakers at the White House on Thursday. But he’ll be doing so without the world’s largest maker of EVs:"
+    publishedDateTime: 2021-08-05T17:49:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Tesla-Results_03544.jpg?w=1024&#038;h=623"
+        width: 1024
+        height: 623
+        isCached: true
   - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
     excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
     publishedDateTime: 2021-08-02T12:31:00Z
@@ -148,6 +164,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-5.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Joe Biden wins voluntary pledges from auto makers"
+    excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
+    publishedDateTime: 2021-08-05T14:00:00Z
+    webUrl: "https://floridapolitics.com/archives/446203-joe-biden-wins-voluntary-pledges-from-auto-makers/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden-1.jpg"
+        width: 813
+        height: 526
         isCached: true
 
 secured: "ELKysTv3eqy9dk9F08T4EzhyBaecDC7TKtPuaYQD+jF1Ik88uFh1e1UZ/cJSkm+QYrej6hIGchzwxAWPfpK/Cra2m9DCo4TjChuQlFpG1I5CAJzZAvJdcmKFr9STg2XEzExMpqhqNLZBMU3nV1MpzXLA/pWtQasiMomeO43U27PsGSWAn+wY2Qr2SOeBLQHjhm8604gUBrhcOq7Vw2A64DKK3cB+6uZZQ/T/r8I8QiTrMXjrqBZgK3lViehOIEVa4RrqmK+zR23989Lniwx0KtnWu/zQPRRGV5PjWjjc0o3FOUpTB5Rxq1Q493G7UZmKsn7CaNzGTCR01kQJMqOl2mhczwB2fSx6PTuIfDiiDyJc1jwCFurHpERUwZK1oN65q/BdW9ywG78YUkihwjGyFWCkYIFudZnG16OPpFhc4+23F61kNsdaWgsl2syEKE7mVVORO710ETJkFdhi8seLpxk2uP+arQNQqm7msvXhYy1jtfRMKl3prS/H4qYrNNY6BB+sy/QDMelshnuyc+PuHg==;GpeQre+7YumWsqjEMRXt9Q=="

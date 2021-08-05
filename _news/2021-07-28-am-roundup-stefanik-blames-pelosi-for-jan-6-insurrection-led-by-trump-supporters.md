@@ -832,6 +832,20 @@ related:
       name: Tri-City Herald
       domain: tri-cityherald.com
     quality: 55
+  - title: "6 questions Donald Trump's tax returns may answer"
+    excerpt: "Congress is about to receive access to Former President Donald Trump's highly sought after tax returns and everyone wants a peek at what's inside. In the latest episode of The"
+    publishedDateTime: 2021-08-05T14:49:00Z
+    webUrl: "https://www.djournal.com/news/national/6-questions-donald-trumps-tax-returns-may-answer/video_b34d3ce4-7692-5e98-a02a-9bde9e8d8d5b.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/b/34/b34d3ce4-7692-5e98-a02a-9bde9e8d8d5b/610c018e4880f.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Trump-backed Carey, centrist Brown win Ohio US House races"
     excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
     publishedDateTime: 2021-08-04T22:06:00Z
@@ -903,11 +917,11 @@ related:
   - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
     excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
     publishedDateTime: 2021-08-03T10:19:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 32
 
 secured: "7qVJXvzBoDaeDsGZbhgoFYZ5PDO9azMU2r9b6xa701QpHfqqWB43tcjZzNvudpvtUeiUdmAA4RNqGWxcsO8AVLIEiXy3F9XZq6AUZ4dpM7Lv4cTFxL3IESsVxC1NwfAzqWN1dtM63hafMvrEM9zzhK2+Hr3c+adcjXkb/4W1tUIKLjMYxEaTWh0boYlvx8HKu3WrYiuI4nrYqsrUVNxt4k553znutX67Lg2wZIfOp3lvQGqWEy2odMa/UANNHptKm1hQRhEzt1XQLgATaG/KX5LpciCj4e4RbwBDaknL7OANENkrc21NsWw1HaCvST2DTM5NS7EipR0Qt6sh2h4zkwBlsSgzGp7uN9PdhE5tNtA=;r2ZHFIycgBSZUKksj5zeSg=="

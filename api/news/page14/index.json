@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-10-budd-trump-endorsement-really-accelerated-gop-run-for-senate-in-north-carolina.md",
+      "title": "Budd: Trump endorsement ‘really accelerated’ GOP run for Senate in North Carolina",
+      "excerpt": "Rep. Ted Budd says former President Trump’s endorsement of his 2022 campaign for Senate in North Carolina “really clarified things” in the battle for the Republican nomination.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nStggexb5jk/budd-trump-endorsement-really-accelerated-gop-run-for-senate-in-north-carolina",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nStggexb5jk/budd-trump-endorsement-really-accelerated-gop-run-for-senate-in-north-carolina",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/budd-trump-endorsement-really-accelerated-gop-run-for-senate-in-north-carolina.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/budd-trump-endorsement-really-accelerated-gop-run-for-senate-in-north-carolina.amp",
+      "publishedDateTime": "2021-07-10T07:22:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-west-says-trumps-backing-of-abbott-doesnt-hurt-his-primary-challenge-against-texas-governor.md",
       "title": "West says Trump’s backing of Abbott ‘doesn’t hurt’ his primary challenge against Texas governor",
       "excerpt": "Outgoing Texas GOP chair Allen West insists that former President Trump’s endorsement of Gov. Greg Abbott “doesn’t hurt” his 2022 primary challenge against the two-term Republican governor.",
@@ -1311,58 +1367,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-trump-says-global-warming-efforts-dont-work-because-rest-of-the-world-is-filthy.md",
-      "title": "Trump Says Global Warming Efforts Don't Work Because 'Rest of the World' is 'Filthy'",
-      "excerpt": "Trump blamed China and India for creating massive air pollution from coal plants while the U.S. focuses on \"stupid\" windmills that provide renewable energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
-      "originalUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1841386/oreilly-trump-global-warming-climate-change-filthy.jpg",
-          "width": 2500,
-          "height": 1554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
-      "publishedDateTime": "2021-07-08T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?"
 excerpt: "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold."
 publishedDateTime: 2021-08-03T04:00:00Z
-originalUrl: "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa?faodatalab=2021-08-03-1"
-webUrl: "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa?faodatalab=2021-08-03-1"
+originalUrl: "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
+webUrl: "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 ampWebUrl: "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 type: article
@@ -147,6 +147,6 @@ related:
         height: 815
         isCached: true
 
-secured: "7cwaOSXfEX+00cSK0hPO0LYfJN3AdKsh0tIqpgX3Z4bkICvn4TxETpGdikaTn2jnWQstFDyUE7XmRM5VyTsiwpMrwN1aQfBn3Kq6OU2QHUWt6RHorarJz2EpRAuWzypOOLlikYBIyrZPLAErap0BXSbIbiu4eKpCKzyCyykchfrAIfDZL1q4HXp4PTPN+6G6rQMaI/O1nscBBwD7riLFZ0wDENCQ/6tWIQY7mvWrLE74rsioY6hVE0VhvcJ7Qjo0AlT8SA/5s1+bou9Qbg0jiTjx6iMmV8zPJOe4sYnaWw6WNYF/QiZ1M0HsyjDqtZrsj7UBKHxwVbIG/8MWyAG64qu8bpvs+D7m9hlAE7eDCUA=;zxg21O/M83gC9E6tgBtmmw=="
+secured: "PGHJHFXjBSlmmUscbWQdJm6Apq85g89Rc4wOgwBisseF6nAreiCkQnkxuoBpQdk6WoP4TFYR+f65g4i/9XPIeqxslc2ZeQJRiJYaUMAq69oyBzZ9yo7PKz3/DJlprWF/EveZ0Spjzvsl/+RxqTx9AlQAS3bUAtBCQqIVrwNovWPdErquixn/FlpXY/yTdQGbvxWXGDmNiiXC+m2+sBYqKw3xJ4e0RuJc4RoL6En+qvPWqFa134dliUmTizKDx9gUK2+4Z7vs9qTlHw4NgvuZVF7QK2CrZcOgyMK5hKsn2NttepK5Psoh0jRNi08g2824DgXKRGBD0hoveC+qCALq4XMSmghyF10ejNgM6AH0P8k=;geWDfMiJiESGzmbWxhEqQA=="
 ---
 

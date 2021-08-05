@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
 excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
 publishedDateTime: 2021-08-04T21:35:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/85defdc930587bb51781b58eff714759/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/85defdc930587bb51781b58eff714759/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c620310052655dd1e2d3cce54fbe0139/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c620310052655dd1e2d3cce54fbe0139/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/85defdc930587bb51781b58eff714759/BIDEN-UNION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c620310052655dd1e2d3cce54fbe0139/BIDEN-UNION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 712
         isCached: true
 
-secured: "V36PuNwam8cBqb1/ra+94/aZej2suLYOuE68dNzUI1CFrgNYmoQeD1ZBsd2zDXzmIGRw3iKFb09pSIcHq+kn6p9prpMTvuANZglMY1U8KmCJ7YtpngpEYNZ6/hynflWvVyDbrHucSZCBu6/nGeppL1xtk5M4mDrdwW4Q45rep5dXAEZrB3GJERYrHa0k+jCupIUgzxZMKpk74iPA1s89cvTG3X9OEX/PmvUs2YbWdpsuDIiUHLhuPXwNJ5lKQu6zq5FvjkC4FVdDAH4Odulo1ipNVjeD4vRsoAPo9tCG1v0HuNG7KeOFhCdw7rEzS2fZPt1UfsnN6CD83vk6QiJAn6tylvDBVL9me0QzjLVesUYRpn+oBS4XTuKOMh627F96k6JbgO8uBou0QiIplK5g7jSRC7gL/dB7z1tG4TZExUmfKYfXc+EQtxEL3JCm4qivf01L9EOamQJeDExypIVx6zw7Y8kc6+nxBLkEcAw+8ZyenP69D2lwWv6AmFSzhEEmHq5F+lewU8RmDDVGvfsgrQ==;/920dhHueS/41yphmXQZuQ=="
+secured: "CuuyCOtKn3U+KM+juz1G0c6J8NyFdKEgsyz/IuXOyGJA/gFV1TKLBzPkh+DTPNjB2HLv2O06/DGx6nHzYx2AgOMjlxkBAVCV7o1eROFPiR0zC4TpCAIKGTn2dCbuG85UfMU1UYQX+4UP1Fx6OzIEqMABNk5JXr70QY/k6F0a4UHjCDFFsLFCQr3w95SgxbeHdiCtySbbjY+VzgrDpkiMFnYuHvFWYCX6cek0xKJc5/9gjEsrC8RvLkfyeClMcuItZ+VinJyeJpv1F7c27uC/nAnMN5lH3epOpJFMu9a3R+fE3AwnO+1S5ogCnsLFiyEsOFlixaKya+aSIpGQ+mOY8Raun/L6LPEHNbOKH8CpvEY=;rg0Qp3FnugZwcr43wEfMOA=="
 ---
 

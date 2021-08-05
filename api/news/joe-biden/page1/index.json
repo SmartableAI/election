@@ -10,7 +10,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -253,8 +253,8 @@
       "title": "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?",
       "excerpt": "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold.",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa?faodatalab=2021-08-03-1",
-      "originalUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa?faodatalab=2021-08-03-1",
+      "webUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "originalUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
       "featuredContent": null,
       "highlight": null,
       "heat": 285,
@@ -357,7 +357,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610847fc8f0811859febbb4d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -664,63 +664,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-down-the-drain-millions-face-eviction-after-biden-lets-protections-expire.md",
-      "title": "'Down the drain’: Millions face eviction after Biden lets protections expire",
-      "excerpt": "The federal eviction moratorium in place since September is set to expire Saturday, after the Biden administration refused to extend it and Democrats in Congress couldn't muster the votes to intervene.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
-      "originalUrl": "https://www.politico.com/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/40/99/4793f7c7413585b384ff270145fb/7-30-21-evictions1-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/31/eviction-moratorium-rental-assistance-biden-501917",
-      "publishedDateTime": "2021-07-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1504,6 +1447,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-americas-number-one-aging-athlete-joe-biden-letters.md",
+      "title": "America’s number one aging athlete: Joe Biden (Letters)",
+      "excerpt": "Joe Biden is just doing what aging athletes have discovered. He prioritizes quality over quantity, and uses his experience to “read defenses” and make the right calls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html",
+      "originalUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg",
+          "width": 6720,
+          "height": 4480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html?outputType=amp",
+      "publishedDateTime": "2021-07-23T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

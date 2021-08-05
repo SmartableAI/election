@@ -2146,6 +2146,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Biden seeks to boost fuel economy to thwart Trump rollback"
+    excerpt: "The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
+    publishedDateTime: 2021-08-05T17:40:00Z
+    webUrl: "https://www.myjournalcourier.com/news/article/Biden-seeks-to-boost-fuel-economy-to-thwart-Trump-16365651.php"
+    ampWebUrl: "https://www.myjournalcourier.com/news/amp/Biden-seeks-to-boost-fuel-economy-to-thwart-Trump-16365651.php"
+    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/Biden-seeks-to-boost-fuel-economy-to-thwart-Trump-16365651.php"
+    type: article
+    provider:
+      name: Journal-Courier
+      domain: myjournalcourier.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Hear how Putin compared Donald Trump to Joe Biden"
     excerpt: "In an interview with NBC, Russian President Vladimir Putin discussed the relationship between his country and the US, and compared President Biden to his predecessor Donald Trump. CNN's Kaitlan Collin"
     publishedDateTime: 2021-06-11T23:09:00Z

@@ -47,6 +47,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "‘A gargantuan task’: How will Biden satisfy both progressives, moderates on infrastructure?"
+    excerpt: "President Joe Biden is caught between retaining support of centrist Democrats, Republicans for an infrastructure deal while satisfying his party’s liberal faction."
+    publishedDateTime: 2021-08-05T17:39:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/article253279158.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/article253279158.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/article253279158.html"
+    type: article
+    provider:
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
+    quality: 45
 
 secured: "iOM8NMOGFi09oQNSD+izqCj82a6aIJF2Cy5agz+CqdQXzGGn0MXiHpmzqI5X+ZZ58BefP503uZkaPpGHVT4d5FGVNGNuvypUw/czF8p7YCWicnpUTmLAKC/hBGuzLS0RR+mLofiDCUIABH52Sp/X3dGZfQ+hcRijh4pyfOEWz+THYAGSgoiguTA+v8WL91Kvk/YBwj4yI1g9aF1w4pySJmxilFPbFODZ3vWt+eL3A6hwBqj44Wp4jU70UaVlEKvokgFjy6SF/T5tAcbh5d4/QplJWTOG4/c3mmF8x7eI64ED2i2NORBv1dKhrQLYpKSijSqotiFuBvexBcHaLl5IWSt3v9qCqcpBq95MGtr6nGY=;VIw82YlNULwvW85TRBkr/g=="
 ---
