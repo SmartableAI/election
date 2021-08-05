@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
 excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
 publishedDateTime: 2021-08-04T21:35:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/a0fdcee357fd488ff359dabdb8d4eb53/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/a0fdcee357fd488ff359dabdb8d4eb53/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/85defdc930587bb51781b58eff714759/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/85defdc930587bb51781b58eff714759/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/a0fdcee357fd488ff359dabdb8d4eb53/BIDEN-UNION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/85defdc930587bb51781b58eff714759/BIDEN-UNION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 712
         isCached: true
 
-secured: "fG9j3C7nJEksX6gBPFd3syb6KkedXmMRlOUtRCtvrdmXRrUjgcH4diibbHP2HZc+PTallFeX4rqX5Zuf38838QdA0739IwMolECZ0ij+aAuXJP1P/UEaf/9TYMMsaa9nLxI/AcdRdM5tVSQsWzM3R5+lXGKN5SkoJDB9WVi9l6BrU6nKjB+dJ1ScLTn4ydyvCeV4klfkDX9k5WlWqtGWZTEMwIM3K/poHjli+2oNRHCEHPXSbyHxuM6NvDhA5XKWhEHl2NITtBYH8QFI4SUianDoA70yN3qlowKk4VJC1YUh7/KFVvSG926A4H9iGs77frTY7qoT64msXtB2mVah5o5iP07XClCsfUANFnDthFE=;JZbO/pVEJBeSm/jyR054Rg=="
+secured: "BLOVcjBKaxZtWErfkR8XAmgzVkfzdmuPiCXV+4bbUBV7B4kK8XjFolYNI2v5M4RKft4wq+p/yiFf361F32n3ZI7aJKN/5ILceYjyzJqhD+qPbwHneWlwAY8OI6/PLprZ10sIebpDmJQ2Q7+/bKl68ivTUMh2ZJSYY6wZrBeLOxIKdDszue5fwUxCpiB+dJUUBuaCEJc2+22pwsC+Dz5i36OrWdXJKpCKsnB0ByKSOvicYLawK1MBjQ/0+eIC10pHeNQjiKzZX6+YSeKpCqQduu0dhfhuruHMJ2t4bII3lUgAPpmL4w83kHR+XilUFayU/0KMdynpPFBBF5EoSfWIQBm2HlO398NBdhwY++l9oxs=;cZeHrup3AGE5O6vvzLwh7A=="
 ---
 

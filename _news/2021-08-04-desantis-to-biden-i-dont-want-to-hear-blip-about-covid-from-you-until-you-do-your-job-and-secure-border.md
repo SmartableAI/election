@@ -34,7 +34,7 @@ related:
   - title: "Biden To Abbott, DeSantis: If You Won't Help With Pandemic, \"At Least Get Out Of The Way\""
     excerpt: "President Joe Biden called out the governors of Texas and Florida, Greg Abbott and Ron DeSantis, for not helping curb the COVID-19 pandemic. \"Just two states, Florida and Texas, account for one-third of all new COVID-19 cases in the entire country."
     publishedDateTime: 2021-08-03T22:39:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.amp.html"
     type: article

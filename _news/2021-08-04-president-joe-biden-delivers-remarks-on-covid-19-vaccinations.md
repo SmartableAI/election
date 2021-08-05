@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Delivers Remarks on COVID-19 Vaccinations"
-excerpt: "President Joe Biden speaks to reporters after delivering remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
+excerpt: "President Joe Biden answers questions from reporters following remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
 publishedDateTime: 2021-08-03T21:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/e1ecb1831b772e8b64402b397e4d932c/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/e1ecb1831b772e8b64402b397e4d932c/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4856a74f0cb71eefe84466a2e67e312b/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4856a74f0cb71eefe84466a2e67e312b/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/e1ecb1831b772e8b64402b397e4d932c/BIDENCORONAVIRUS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4856a74f0cb71eefe84466a2e67e312b/BIDENCORONAVIRUS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -525,6 +525,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0uQX3mWTjo2jEMC3xn69nHnKf2NXY3oA6rkqPOnMI6QstgbY1hWw+frsrl4pOW72RsGxGBBSNsZjoJFCsHbXcGFJCqsNW14WqD9Bj8MyID1lJC9Mzwfx3Dh23ebDM4D1VLUMWL3Qpd2fC1uGVg0Xm3I6ip8xYP6/+iTkG11fi0x2mhts07Sp8ZYNpFQ+wjO04L3w/xoPSY3jDuYdIVYOoUOmxymQ2iEY4JVX4qj6DkTqeyyiklN7bpdNQE7Y9Mh7aO2+PZzBExWxi9eMa7nbigEwIpZ1iGZxigngIeaw/fcp93lzgnl+tXYoWkbyNd5B8bjT+4xJXuML+UoAmf0pdgEma3jb/x9XCWE65jZ+syw=;vDyYL7SeoVAe+LKkeek2mA=="
+secured: "uv4VSHKP/kNbmuKV3gMFHFAK0jOKwu4V5n6faBLA8FgPi8h7jP8ZYObK2cEqTYwFehdRrwFhG3kDisMypVJC7SheSfBeygZy0vCZdpE/wVlq7133sIZX7ZNxGI4KCqtX4w8lX9QeT0IgBp/f+d3EmpmHs7RXXnyKpkxG/ITpy0wOSSWrYqvhc2rrOT/pzikv4HSKRMf242zUWhCe4GDIffTwru9qvpnwYWLdaXLTmjEo29hFx5oR77FsjBAudJ3SPkoAQ2NPeq/OorFSXRAgKOVnYIfL1eSR0h3VJkAXVm/iam6gvMtPQLeJYq2MT+MzIM9ea1hBx1dD3PgcidmvZO+aj3eC21vUW+emLO/Ezwk=;iq6E0vCqt1H3ZPK7FXFLfA=="
 ---
 

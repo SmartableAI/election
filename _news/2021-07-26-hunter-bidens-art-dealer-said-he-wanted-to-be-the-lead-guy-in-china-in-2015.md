@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "DeSantis: Biden Has Imported The COVID Virus By Having A Wide-Open Southern Border"
+    excerpt: "Gov. DeSantis on Wednesday: \"Joe Biden has taken to himself to try to single out Florida over COVID. This is a guy who ran for President saying he was going to 'shut down the virus.' And what has he done?"
+    publishedDateTime: 2021-08-04T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/04/desantis_biden_has_imported_the_covid_virus_by_having_a_wide-open_southern_border.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/04/desantis_biden_has_imported_the_covid_virus_by_having_a_wide-open_southern_border.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/04/desantis_biden_has_imported_the_covid_virus_by_having_a_wide-open_southern_border.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/54/549948.jpg"
+        width: 940
+        height: 704
+        isCached: true
 
 secured: "mowBrb1K3TeG17pyH5+0+f0pVQ+DSnl45rfassLdRrPUXfczzyhvBvwMHRhU5aRGmCyuKFiRPZJ32cWkQ3CF+sh4VOFzokZgSy1r5zMyXD8w3+GZFck7yPWiJ85KFoPiJqR424faM1EAsehVQPUgxmoCY+K35oqdWasxFAZDQItrBpmsmUOWzegpbA8WDLj8G1y17mnCFfA6vpPDDH+ZzremB9HbiUoHPFsH3xFYF5EM5LrcyxnfQEtuSqcM3QyqPRV0TFQeGo/bzhCq/qTiENt5DfKcp8krLDEv1Oe3I2m36oNRO6wc0U7dOjFFHIuTpyJCXCS80hxFoPGiUdQg7CmUzAvFtaEfmTS3NhKylr4=;+mrod/jKdkkGY4GXOfV+rA=="
 ---

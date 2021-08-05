@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/229112bc-59cf-4d79-95a1-744d8ef54cf7/01aa0773-3630-4ae6-9a8e-1bde53d65d9e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "DeSantis: Biden Has Imported The COVID Virus By Having A Wide-Open Southern Border"
+    excerpt: "Gov. DeSantis on Wednesday: \"Joe Biden has taken to himself to try to single out Florida over COVID. This is a guy who ran for President saying he was going to 'shut down the virus.' And what has he done?"
+    publishedDateTime: 2021-08-04T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/04/desantis_biden_has_imported_the_covid_virus_by_having_a_wide-open_southern_border.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/04/desantis_biden_has_imported_the_covid_virus_by_having_a_wide-open_southern_border.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/04/desantis_biden_has_imported_the_covid_virus_by_having_a_wide-open_southern_border.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/54/549948.jpg"
+        width: 940
+        height: 704
         isCached: true
 
 secured: "K81ttxyehJcYOBe/iZhgLVF29nZ0S9wvymvXQuzvBUcmZBVA4DbeWq2aGah0tpUlwRrupjVjw9Z1NX+/l34dUbVvF8+npa1kP1gZGL7fe9oNo4fI6XNqnwwa5f1HtbJo4AUDNfugM+umTbPKNTipT6d67r8oHT2HAGxQyhqkiBIkpuSDFwnl0f50aiyrPVB9SUlkk42lHuXq3lCIzS4z3e75GsREmIshjKfeH/y/ZsQyee8KaMzhgeDeBkolpe46AqwQGpzon5UXjE4DDIZN7+RjNNIO2rP0KIq383F9/XunyN3IzrqisIvKFYDtZNLk9i3lYKOgOHTIm+TkT4A8+WNhy/0x8xw+K9ea/Nniu54=;RvIvPBOkeMq01q2i9UKXVQ=="
