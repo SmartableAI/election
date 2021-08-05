@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-immigration-root-cause
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp"
 type: article
 quality: 200
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -271,6 +271,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a438a65-2889-4397-8c15-b437778b0471/b24e1bc5-8241-4c63-94d7-0c268063263c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Cruz: People \"Pissed\" About What Is Happening At The Border, Biden and Harris Don't Care"
+    excerpt: "Sen. Ted Cruz said the Biden administration has contempt for Americans making individual choices for their own family: \"Sean you are exactly right, people across the state of Texas, across the country are pissed,"
+    publishedDateTime: 2021-08-05T15:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/05/cruz_people_pissed_about_what_is_happening_at_the_border_biden_and_harris_dont_care.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 71
+    images:
+      - url: "https://assets.realclear.com/images/54/549994.png"
+        width: 500
+        height: 375
         isCached: true
   - title: "Why Biden & Harris Won't Address 'Root Causes' of Migrant Surge"
     excerpt: "Yet neither President Joe Biden nor Vice President Kamala Harris, who he's put in charge oâ¦"

@@ -527,6 +527,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden nominates first LGBT federal appeals court nominee"
+    excerpt: "President Joe Biden is nominating a Vermont judge who played a critical role in paving the way for the legalization of same-sex marriage to become the first openly LGBT woman to serve on any federal c"
+    publishedDateTime: 2021-08-05T14:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nominates-lgbt-federal-appeals-court-nominee-79290915"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-lgbt-federal-appeals-court-nominee-79290915"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-lgbt-federal-appeals-court-nominee-79290915"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_697604439d47487f86780a0eda110c1e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z

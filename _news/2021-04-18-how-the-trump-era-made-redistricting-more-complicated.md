@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump is building a shadow Republican Party"
-    excerpt: "On Monday, a cohort of former Trump administration officials launched the America First Policy Institute, a think tank organization aimed at promoting \"liberty, free enterprise, national greatness, American military superiority, foreign-policy engagement in the American interest, and the primacy of American"
-    publishedDateTime: 2021-04-14T16:00:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pmzrGKeX1BI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412085826-trump-for-lockhart-op-ed-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Ex-Trump aides form new policy group with $20 million initial budget"
     excerpt: "Washington (CNN)A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party. The newly minted nonprofit is ..."
     publishedDateTime: 2021-04-13T23:27:00Z

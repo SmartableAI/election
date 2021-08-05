@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-14-did-donald-trump-lose-a-revealing-fox-news-interview-leads-to-a-challenging-question-for-its-host.md",
+      "title": "'Did Donald Trump lose?’: A revealing Fox News interview leads to a challenging question for its host",
+      "excerpt": "Fox News host Pete Hegseth declined to answer the question in a fiery interview with Texas state Rep. James Talarico (D).",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/14/did-donald-trump-lose-revealing-fox-news-interview-leads-challenging-question-its-host/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/14/did-donald-trump-lose-revealing-fox-news-interview-leads-challenging-question-its-host/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WW36VWVWPEI6NJTXWYEPXM5K6Y.jpg&w=1440",
+          "width": 1440,
+          "height": 948,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues.md",
       "title": "Angela Merkel’s White House Visit Ends Trump-Era Hostilities, but Trans-Atlantic Drift Continues",
       "excerpt": "German Chancellor Angela Merkel’s farewell visit to Washington this week will broadcast a new, friendlier tone between the U.S. and Europe after the acrimony of the Trump era but will likely do little to reverse the long-term divergence of interests in the countries’ relationship.",
@@ -1483,58 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism.md",
-      "title": "The Memo: 'Hillbilly Elegy' author binds himself to Trump after past criticism",
-      "excerpt": "Now, as a candidate for the Republican Senate nomination in Ohio, he is a big Trump fan. How and why Vance moved from one position to the other is a topic of red-hot debate only days after the “Hillbilly Elegy” author declared his candidacy for the seat that is being vacated by Sen.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/the-memo/561768-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism",
-      "originalUrl": "https://thehill.com/homenews/the-memo/561768-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/vancejd_090618getty_vance.jpeg",
-          "width": 980,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/the-memo/561768-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/561768-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism?amp",
-      "publishedDateTime": "2021-07-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

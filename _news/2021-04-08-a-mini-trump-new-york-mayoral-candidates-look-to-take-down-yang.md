@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump is building a shadow Republican Party"
-    excerpt: "On Monday, a cohort of former Trump administration officials launched the America First Policy Institute, a think tank organization aimed at promoting \"liberty, free enterprise, national greatness, American military superiority, foreign-policy engagement in the American interest, and the primacy of American"
-    publishedDateTime: 2021-04-14T16:00:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pmzrGKeX1BI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412085826-trump-for-lockhart-op-ed-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "How the Trump era made redistricting more complicated"
     excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
     publishedDateTime: 2021-04-18T22:04:57Z

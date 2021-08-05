@@ -42,6 +42,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Chris Hayes: This Trump Loyalist “Aimed A Nuclear Weapon” At U.S. Democracy"
+    excerpt: "CHRIS HAYES: Good evening from New York. I'm Chris Hayes. The coup came closer to succeeding than we ever knew. And we know that Donald Trump plotted with his associates to overturn American democracy."
+    publishedDateTime: 2021-08-05T15:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/05/chris_hayes_this_trump_loyalist_aimed_a_nuclear_weapon_at_us_democracy.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/05/chris_hayes_this_trump_loyalist_aimed_a_nuclear_weapon_at_us_democracy.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/05/chris_hayes_this_trump_loyalist_aimed_a_nuclear_weapon_at_us_democracy.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 83
+    images:
+      - url: "https://assets.realclear.com/images/54/549888.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "1Fl2jCZS+tdWh0gAxl2Hna30qf6nXcnuO+idf+ma18rgDyxMkJGONIGuGh7vK7djpPLbuBEimr+/lkqwMHTuIfsPUkB7TwYI5XWAuvMJLKzHXalcV1gBLYBU3yhjZpJuJ5qKHQuzL0G4kqSEVdYooDJaQlu9+c6GAn5qrJE+QcG1oZYjMd6Ds19WiKJTBaonk4Cs9qwRTFJhmc9H35cmN75uG/Obbjl1WNc+E3klZH1GHAKdsYPuX/5XptP/7y97ba+LWF9QigPrwzY1IYoJGiV71iV82VcX/S+U1zAmajUyz1cJ7TI+GcYrcqVVaXPhOSvCqoBfwh2wgh+NS8mCV/o9UiS90AEMayLBDvy15mblSddqGWXJAcpTc67uTKlg/lVZTlR9tCVwBx1qM1RQsgPR35Te/6B69AYU1fpO/IOtuMgvc3H6COnsS6/9xxTHqRHxLwwkG3awxun683zr1NPClPF3vySDFyl0vL1FlC8QxKkG+W9Q31O5QWy0Tr2Y0xx+FZMVnrVdXla855n8cw==;xN7AA+2e797yLBkELT5P2w=="
 ---

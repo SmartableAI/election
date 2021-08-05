@@ -189,6 +189,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "What a Trump-endorsed candidate's primary win means for the Republican Party"
+    excerpt: "A Republican endorsed by former President Trump won a special election primary in Ohio. Former coal lobbyist Mike Carey will face off against Democrat Allison Russo in November to represent Ohio’s 15th Congressional District."
+    publishedDateTime: 2021-08-05T13:19:00Z
+    webUrl: "https://www.cbsnews.com/video/what-a-trump-endorsed-candidates-primary-win-means-for-the-republican-party/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/what-a-trump-endorsed-candidates-primary-win-means-for-the-republican-party/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/what-a-trump-endorsed-candidates-primary-win-means-for-the-republican-party/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/08/05/578aed84-310b-4f1a-9dcd-346e37ae422f/thumbnail/1200x630/c813c058c1860f95c3c88e5dd6668f2d/085-cbsnam-ohioelection-766535-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Coal lobbyist Mike Carey, backed by Trump, wins primary for House seat in Ohio"
     excerpt: "A pair of special congressional primaries in Ohio could serve as litmus tests heading into next year’s midterm elections."
     publishedDateTime: 2021-08-04T03:28:00Z
@@ -595,6 +611,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Racist, pro-Trump vandal targets Sikh temple on Long Island"
+    excerpt: "Along with a racial slur, the vandal sprayed messages including 'Trump 2024' at the New Hyde Park house of worship, officials said Thursday."
+    publishedDateTime: 2021-08-05T15:50:00Z
+    webUrl: "https://www.nydailynews.com/new-york/nyc-crime/ny-racist-vandalism-sikh-temple-long-island-donald-trump-20210805-hovi7lbvebabnkcxbhs72gc43e-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/nyc-crime/ny-racist-vandalism-sikh-temple-long-island-donald-trump-20210805-hovi7lbvebabnkcxbhs72gc43e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/nyc-crime/ny-racist-vandalism-sikh-temple-long-island-donald-trump-20210805-hovi7lbvebabnkcxbhs72gc43e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/eW1HK_D897bSD2Kf78ITUX63iKs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/24EQ74IXSFGEVMSB55RTCGVEUA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Readers React: Trump proves that he’s a sore loser"
     excerpt: "Do we need any more proof that Donald Trump is a sore loser? He’s conducting rallies to reinforce his claim of a stolen election; his base of supporters continues to swallow his completely disproven lies."
     publishedDateTime: 2021-08-05T13:30:00Z
@@ -883,6 +915,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "9pr3rw8McYtqDIp4p7h7R55LlkAhBmwfjfJTcr4hqxT3xiMN2iRTSTFykl2RdEOEyeT9DWg/AGqJKqAua32P/iJ9CCr9nBluI2uVMRdR7BPaaH4oC/xc32tt2efN5u5Byk+yAjsuZyerZtdC+sHjNJzROxpWYZMMKrz6VMwK0UyNucCg49YglNHvZqMipS/+03nbpTrcGDrRh1hc8e0kCjcQDbgxwMurqB4C0UGL14YwpImdhyZ6aoN01b6n4+gr40XiW+1N2867AGtlTI8aqH06XU01NrReMgdwq29WIToSne1Jm5RNCa4f23fuIv1GDdhRdn4+CXbUAnHxxqFvzlk4NyOTUs8hCRTCJb8HyJE=;uzftR8PwtM1+irnQfccVLg=="
+secured: "mbbtC8SfGPB05K9b7K3jE/1yC1G/uNlW0MrVsJxiVsHj5v/i7amdr9LSkOqYDK56/2BJU18UHRLs/S6hZCntBW74alo90JH1q5HXIXpvmF9+weqvpnE7Xffxvojof8w6ALiCdxsLyWkhDt98M6Qpx3iJjmqym5v/iCquixr9A7Jr1mI9uTJZxfjpcSszu71uZu4SZrqiTi33ihwM3da4W9u1TJKV9+HJIvMGY+vN6N8lc42YT2khvLYtOmuOa5xInG4bjeWwW7SQ9ToeBuGcYLcp4Aq0suvcInyi0JmwuRogm7s/P9AKDaSmlZymu7B/WloIEsnoV2yKfHJ187m8c446Ckh6DXeSh0UNsN58RLiaJZEz/FPGgMdicIIl8dGxso418xhe6ZcGFPWRqlMEDuXN+AT+CwCXfychX4mL/csZ2lZ8pAwHvTQw4cC0fr99gKVv0/TjhXlQs+FyOYBHjnnFvjpc7o4iX1fou0pL83xKkRfwG0FUQCggUPsznQTH/Cp+Axlf8MicVNx9V3cdvg==;myOQ7KLRYHUEQ0S4Oam/QQ=="
 ---
 

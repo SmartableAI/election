@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump snubs Bush by endorsing Paxton in Texas AG race"
-    excerpt: "Former President Donald Trump has endorsed Texas Attorney General Ken Paxton in his bid for re-election, snubbing George P. Bush despite his firm support after Trump has belittled some members of the Bush family.\n    \n"
-    publishedDateTime: 2021-07-27T13:35:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q1G0IFZMBog/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/donald-trump-george-p-bush-ken-paxton-endorsement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/donald-trump-george-p-bush-ken-paxton-endorsement/index.html"
+  - title: "The Point: You shouldn't miss this massive bombshell in Trump's ongoing election fraud lie"
+    excerpt: "Unless you have been living on another planet for the past six months, you know by now that Donald Trump leaned on state and national officials in the final days of his presidency to force investigations into made-up claims of widespread election fraud in the 2020 race.\n    \n"
+    publishedDateTime: 2021-08-05T14:57:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4zvf6u2BLY4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump is building a shadow Republican Party"
+    excerpt: "On Monday, a cohort of former Trump administration officials launched the America First Policy Institute, a think tank organization aimed at promoting \"liberty, free enterprise, national greatness, American military superiority, foreign-policy engagement in the American interest, and the primacy of American"
+    publishedDateTime: 2021-04-14T16:00:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pmzrGKeX1BI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210727082321-ken-paxton-07-11-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412085826-trump-for-lockhart-op-ed-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

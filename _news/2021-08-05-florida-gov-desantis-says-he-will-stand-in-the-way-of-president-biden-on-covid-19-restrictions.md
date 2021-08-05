@@ -3,8 +3,8 @@ category: news
 title: "Florida Gov. DeSantis says he will 'stand in the way' of President Biden on COVID-19 restrictions"
 excerpt: "The friction between Biden and DeSantis comes as the country confronts a fourth wave of the virus, one that has hit especially hard in Florida."
 publishedDateTime: 2021-08-04T21:27:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/08/04/florida-governor-ron-desantis-tells-biden-he-standing-your-way/5489876001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/08/04/florida-governor-ron-desantis-tells-biden-he-standing-your-way/5489876001/"
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/08/04/florida-governor-ron-desantis-tells-biden-he-standing-your-way/5489876001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/08/04/florida-governor-ron-desantis-tells-biden-he-standing-your-way/5489876001/?scrolla=5eb6d68b7fedc32c19ef33b4"
 ampWebUrl: "https://amp.usatoday.com/amp/5489876001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5489876001"
 type: article
@@ -130,6 +130,6 @@ related:
         height: 640
         isCached: true
 
-secured: "3HrzZ4ZOOT3FhnPfRIEns6F/R3Q/3JeKHRFJt4nIlbbcZYgoEuM73BlkiOlBrmjzq5b4WapwxD3fBCUCsAd8og58x032KZyoxQky8LatB0ZS2M6MKzcgZagxlbc7vqe+m4mEBifi1adsiqWHbHsfHDdyjR2MFXc6rGUzOXZLddOsjJs5YuYUo6W3yATSl79nssgWtvHeIExLHZVl4Hn4wpr0XUUnnr0v+y8/Z51mn9kbLiQ6SyCF+uR3sHKPuJEdkxvbdTMADBxLGPDzRtRFzWFP6VxHUG3vJ0Jbu95iEPE13v6TcsowfPtU038YLs1s5tVtgalrjheUlmcDvJ23WSCpWNrLxfKXL3YMq5FPNA2sPgyjddXo7NGFwZvS28NAoUYScySvynuTIasrBXjIAKBNdHCkdQxbE+/RHAT3mJy/ypOzUyiBnRdLi6uqxHLwdQ1E3dEpcLbmhstEP5Sz0PhJ51tZSgIxfhilFcnGaTsElXnwnWVSLIqOmx9p1IBKH936KiMCW6lEA5rsVFq5xw==;GS3NIZ+EzVGTyn5gNC31NQ=="
+secured: "zEwxPA/su6z+SJqtw3fiRIQnkdc/VMC5K0qDQo93xgWoRbmfA3RPJKUgASRKrLtep/rWfb/34XH2uVJ5/nOsBh76uV4yCoF2ThEcqVtLITIKAHhjPrMVKO9Uu9c3mm9ZyhL2TET05jr//qtAZJzJHFb5W0zhGMcwJup7Hc/AcFezFG6eb/WVnDzhCw6etHYxnFJglg5TgpsnRsKRaRCSzQE/MBqD5PpGBNpSpcvURaczI7NXgkeEBGG398MnpK+81MZUrXqkWPTsjYKwc2BNEdaFGzPoXx9GaBOwBMBOaGycKOxXIwgTJPTXU6Hdi+Who99mPW2vdHsMRuY2u9fxgrWEDP0Tsq5MbC54HL8jYys=;ZqRQuUdDocxDmrF6aMjtZQ=="
 ---
 

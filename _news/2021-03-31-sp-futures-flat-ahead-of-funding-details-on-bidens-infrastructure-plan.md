@@ -543,6 +543,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden nominates first LGBT federal appeals court nominee"
+    excerpt: "President Joe Biden is nominating a Vermont judge who played a critical role in paving the way for the legalization of same-sex marriage to become the first openly LGBT woman to serve on any federal c"
+    publishedDateTime: 2021-08-05T14:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nominates-lgbt-federal-appeals-court-nominee-79290915"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-lgbt-federal-appeals-court-nominee-79290915"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-lgbt-federal-appeals-court-nominee-79290915"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_697604439d47487f86780a0eda110c1e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "UPDATE 1-Biden aides to host meeting on supply chain issues -White House"
     excerpt: "White House press secretary Jen Psaki said the meeting would be hosted by President Joe Biden’s national security adviser, Jake Sullivan, and a top economic aide, Brian Deese. The meeting will be held on April 12 and include chipmakers and automakers ..."
     publishedDateTime: 2021-04-01T23:49:00Z

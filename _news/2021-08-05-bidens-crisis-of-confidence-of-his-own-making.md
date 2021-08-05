@@ -282,6 +282,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Cruz: People \"Pissed\" About What Is Happening At The Border, Biden and Harris Don't Care"
+    excerpt: "Sen. Ted Cruz said the Biden administration has contempt for Americans making individual choices for their own family: \"Sean you are exactly right, people across the state of Texas, across the country are pissed,"
+    publishedDateTime: 2021-08-05T15:04:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/08/05/cruz_people_pissed_about_what_is_happening_at_the_border_biden_and_harris_dont_care.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 71
+    images:
+      - url: "https://assets.realclear.com/images/54/549994.png"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Why Biden & Harris Won't Address 'Root Causes' of Migrant Surge"
     excerpt: "Yet neither President Joe Biden nor Vice President Kamala Harris, who he's put in charge oâ¦"
     publishedDateTime: 2021-04-12T12:16:00Z
