@@ -311,10 +311,24 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump asks judge to block release of tax returns"
+    excerpt: "Former president Donald Trump on Aug. 4 challenged a Justice Department ruling that directed the Treasury Department to turn over his tax returns to Congress."
+    publishedDateTime: 2021-08-05T01:13:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-asks-judge-to-block-release-of-tax-returns/2021/08/04/efb138ca-fe5f-46fd-ae21-e79db4ce279c_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/610b2b14cff47e000128e1f3/2021-08-04T234409Z_1_OVEOVEAQN_RTRMADC_0_USA-TRUMP-TAXES.jpg&w=1080"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump hits back at DOJ in bid to keep taxes secret"
     excerpt: "Politics Trump hits back at DOJ in bid to keep taxes secret. Posted . Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to t"
     publishedDateTime: 2021-08-05T00:32:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEOVEAQN"
+    webUrl: "https://www.reuters.com/video/watch/trump-hits-back-at-doj-in-bid-to-keep-ta-idOVEOVEAQN?chan=6g5ka85"
     type: article
     provider:
       name: Reuters
@@ -568,6 +582,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9601628100048/2021/1/e5d6807c81422fc6d6e6cd5aae9ad154/v1.5/Donald-Trump-asks-court-to-block-release-of-tax-returns-to-Congress.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Trump-backed Carey, centrist Brown win Ohio US House races | Charlotte Observer"
+    excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
+    publishedDateTime: 2021-08-05T03:23:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253236008.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253236008.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253236008.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/03606077-ea9d-4fc5-a815-c89a87dc71ac/0c5bec93-9ce6-4726-809c-5596e214d714/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
     excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
-excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
-publishedDateTime: 2021-08-04T02:39:00Z
-originalUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
-webUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
-ampWebUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+title: "Trump-backed Carey, centrist Brown win Ohio US House races | Charlotte Observer"
+excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
+publishedDateTime: 2021-08-05T03:23:00Z
+originalUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253236008.html"
+webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253236008.html"
+ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253236008.html"
+cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253236008.html"
 type: article
-quality: 75
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Charlotte Observer
+  domain: charlotteobserver.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
-    width: 1024
-    height: 662
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/03606077-ea9d-4fc5-a815-c89a87dc71ac/0c5bec93-9ce6-4726-809c-5596e214d714/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -563,6 +559,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
+    excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
+    publishedDateTime: 2021-08-04T02:39:00Z
+    webUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
+    ampWebUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "Donald Trump asks court to block release of tax returns to Congress"
     excerpt: "Former President Donald Trump has gone to court to prevent congressional Democrats from obtaining his tax returns."
     publishedDateTime: 2021-08-04T18:25:00Z
@@ -578,22 +590,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9601628100048/2021/1/e5d6807c81422fc6d6e6cd5aae9ad154/v1.5/Donald-Trump-asks-court-to-block-release-of-tax-returns-to-Congress.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "Trump-backed Carey, centrist Brown win Ohio US House races | Charlotte Observer"
-    excerpt: "Mike Carey, a Donald Trump-backed coal lobbyist, topped Republicans in central Ohio, while Cuyahoga County Council member Shontel Brown scored a victory for the Democratic establishment in Cleveland,"
-    publishedDateTime: 2021-08-05T03:23:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article253236008.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article253236008.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article253236008.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 71
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/03606077-ea9d-4fc5-a815-c89a87dc71ac/0c5bec93-9ce6-4726-809c-5596e214d714/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
     excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
@@ -851,6 +847,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "I8YI7rZ90l0mm0t/ICTi6RMYs5d7PWLG2DjFGs6o3TUquRuIOqzrdjkeGtnAlrpagHpSF/FR6L54EEFJPl9FqeQea6AaP0mnLOO0s1wIvJ007gZnpDvSn9k7aSH7Q4NKI9EhuWD2FLDVebcrWDVSDYP4IdDG63Ui2K0ZehZ97MVhCDS5+HbGpV00rFgEqIh6DbHCBeR9XwaHWKHjR3fllWx9GZMmrtG2C/MordHuuf1xjjL7xHBtZvNvNwV0xa8+mfRIrfiKwb44OTIKSKzNH0mLgcL87YNCRfNvj3KX/DmG+rJF7yFcVV02K0ysrj8aWZsNQAUy0noTejidgAi9kpUVuHCOqb8UaiIhoyxsF0gbkqN7c1qdXQ/Y71iT4TqGM+Wn6V800CqA0rEy0/cRivnJcwKfD8wvI5ql3mJ7oqZdjvPGvAYdWsgrCQMj/qmgbDtAXrxWxrmokx4n01+TszZtoxYiRQ/X+GPkKi1lMP0BKfUIYyDtIVaVyWPWJCFGdOrJYnrsq++Dei2pk9N76A==;+QpwSYF4TDT3BbvAZZS+Ug=="
+secured: "+K0xZW2eXIolT24gvaOpZBUXtDWWxntlSoWH8SynmaGGgSdUpbfGWKMviOBdyyWXXIdz9HYXpRpnYDnKO/YuGkcS1cC/XI7Mr2vyiubCgLV1yXA5sjOoghjdDb/UuWOf3QrZRuEHvajNS8w481bcTmcWS5tBcJ0KjGsTwhzysZ/bk9glLUas/m9LAfBXcg/8dI4OEX1XyOHo3s2Jp4gH1kvB0H4LYkddt21DNXsgzLBkJG0DxGaqVmiE/UKir+/4qoiQ7kc/N603wxsLKjIE/R9eiJTlM07p4z4pNfbm+1Yz7bHYh9CaUmyUlngAWwy1sQCDWUc3MmKtvwboUCpAFv8vdPm5Q8b2oaAFHJEV+J4=;7eaS5YUbQ1utJWNWJ0n86Q=="
 ---
 

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
-excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
-publishedDateTime: 2021-08-04T02:39:00Z
-originalUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
-webUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
-ampWebUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+title: "Trump asks judge to block release of tax returns"
+excerpt: "Former president Donald Trump on Aug. 4 challenged a Justice Department ruling that directed the Treasury Department to turn over his tax returns to Congress."
+publishedDateTime: 2021-08-05T01:13:00Z
+originalUrl: "https://www.washingtonpost.com/video/politics/trump-asks-judge-to-block-release-of-tax-returns/2021/08/04/efb138ca-fe5f-46fd-ae21-e79db4ce279c_video.html"
+webUrl: "https://www.washingtonpost.com/video/politics/trump-asks-judge-to-block-release-of-tax-returns/2021/08/04/efb138ca-fe5f-46fd-ae21-e79db4ce279c_video.html"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
-    width: 1024
-    height: 662
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/610b2b14cff47e000128e1f3/2021-08-04T234409Z_1_OVEOVEAQN_RTRMADC_0_USA-TRUMP-TAXES.jpg&w=1080"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -323,20 +321,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Trump asks judge to block release of tax returns"
-    excerpt: "Former president Donald Trump on Aug. 4 challenged a Justice Department ruling that directed the Treasury Department to turn over his tax returns to Congress."
-    publishedDateTime: 2021-08-05T01:13:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/trump-asks-judge-to-block-release-of-tax-returns/2021/08/04/efb138ca-fe5f-46fd-ae21-e79db4ce279c_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/610b2b14cff47e000128e1f3/2021-08-04T234409Z_1_OVEOVEAQN_RTRMADC_0_USA-TRUMP-TAXES.jpg&w=1080"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Trump hits back at DOJ in bid to keep taxes secret"
     excerpt: "Politics Trump hits back at DOJ in bid to keep taxes secret. Posted . Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to t"
     publishedDateTime: 2021-08-05T00:32:00Z
@@ -562,6 +546,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/02/Election_2021_Trump_Ohio_59092.jpg-6c212_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
+    excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
+    publishedDateTime: 2021-08-04T02:39:00Z
+    webUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773"
+    ampWebUrl: "https://www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/vindman-blames-trump-600000-covid-19-deaths-us-3265773?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
         isCached: true
   - title: "Donald Trump asks court to block release of tax returns to Congress"
     excerpt: "Former President Donald Trump has gone to court to prevent congressional Democrats from obtaining his tax returns."
@@ -851,6 +851,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "I8YI7rZ90l0mm0t/ICTi6RMYs5d7PWLG2DjFGs6o3TUquRuIOqzrdjkeGtnAlrpagHpSF/FR6L54EEFJPl9FqeQea6AaP0mnLOO0s1wIvJ007gZnpDvSn9k7aSH7Q4NKI9EhuWD2FLDVebcrWDVSDYP4IdDG63Ui2K0ZehZ97MVhCDS5+HbGpV00rFgEqIh6DbHCBeR9XwaHWKHjR3fllWx9GZMmrtG2C/MordHuuf1xjjL7xHBtZvNvNwV0xa8+mfRIrfiKwb44OTIKSKzNH0mLgcL87YNCRfNvj3KX/DmG+rJF7yFcVV02K0ysrj8aWZsNQAUy0noTejidgAi9kpUVuHCOqb8UaiIhoyxsF0gbkqN7c1qdXQ/Y71iT4TqGM+Wn6V800CqA0rEy0/cRivnJcwKfD8wvI5ql3mJ7oqZdjvPGvAYdWsgrCQMj/qmgbDtAXrxWxrmokx4n01+TszZtoxYiRQ/X+GPkKi1lMP0BKfUIYyDtIVaVyWPWJCFGdOrJYnrsq++Dei2pk9N76A==;+QpwSYF4TDT3BbvAZZS+Ug=="
+secured: "6SLKoAmYJnaa7cVsq/rf9JrQea5YKYT4qAc1r+J80tHdTF6yF0ybMB0IgHsWF00CI+e2/LSNOZUpCxZPsrs1on0PcY3ndyOewf5e6DGP/kKgQvqhJdHzokAlrdluRThHIDGjoNj/jqdGc9xnpId9hHPD3DYuEySWMLraQBhWR3SO3HWd0i/fXRr6JtyMHrt18CY4HwaeOIgkJhsfK1twAASRdi9TUlRfgDzIOoyWmVDstVYgf5oiQiURRGhQFn1pM8aR2DZ7Twd75Xpp3pn30onpBZCLH269Nesqt2jktCrcKX9EMp3y6XYn/9AXX96qJBsJlOKJzkyE6cA6IbEh1CePJdC/3W5FzbAdstAjd3A=;ecw8kSBCTgD4ZhEPtOfbjw=="
 ---
 
