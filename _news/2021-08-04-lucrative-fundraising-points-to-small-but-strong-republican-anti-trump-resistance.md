@@ -307,6 +307,34 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump hits back at DOJ in bid to keep taxes secret"
+    excerpt: "Politics Trump hits back at DOJ in bid to keep taxes secret. Posted . Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to t"
+    publishedDateTime: 2021-08-05T00:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEOVEAQN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210804&i=OVEOVEAQN&r=OVEOVEAQN&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Trump hits back at DOJ to keep taxes secret"
+    excerpt: "Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to turn his tax returns over to a House of Representatives committee, part of his long campaign to keep details of his wealth secret."
+    publishedDateTime: 2021-08-05T00:09:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP8Bl?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/610b23bae4b085d3b6c35fe3-1628119994625?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
     excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
     publishedDateTime: 2021-08-04T15:31:00Z
@@ -728,6 +756,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 53
+  - title: "GOP Senate aspirants hail Trump, conservatism during Neosho watermelon feed"
+    excerpt: "A majority of the likely Republican aspirants vying for Roy Blunt’s U.S. Senate seat on Tuesday night touted their strong ties to former President Donald Trump and"
+    publishedDateTime: 2021-08-05T01:00:00Z
+    webUrl: "https://www.joplinglobe.com/news/local_news/gop-senate-aspirants-hail-trump-conservatism-during-neosho-watermelon-feed/article_f636aa82-f54f-11eb-87e6-4ffce8b13413.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 53
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
     excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
     publishedDateTime: 2021-07-29T09:30:00Z

@@ -200,6 +200,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Anti-Trump protesters opposed to Winged Foot honoring the former president"
+    excerpt: "Anti-Donald Trump protesters gathered at the entrance to Winged Foot Golf Club in Mamaroneck to protest a banquet honoring the former president."
+    publishedDateTime: 2021-08-05T00:46:00Z
+    webUrl: "https://www.lohud.com/videos/news/local/westchester/2021/08/05/anti-trump-protesters-winged-foot-golf-club/5491965001/"
+    type: article
+    provider:
+      name: The Journal News
+      domain: lohud.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/04/PWES/3b149625-d67d-4b7f-b0d8-2e7edc8bff24-sh080421Trump007.JPG?quality=10"
+        width: 5105
+        height: 2565
+        isCached: true
 
 secured: "qKh8BNr161IxT0QrpX2Vd7pDw5Q6o088mLi6/+jl7IjuxpyTDadAXbdAbsn35sDzbvB5HRHwhuhZkgt/ug8hpd/61acArHxa3Xk7bHv37+QHHVjU57Wh28Lji89tjMbIl9di7MUheREYEVv/ziUEHRiVMsFEOBfVnZX+kg8vjuWD1lgWl9STorEkNZKkQ1OHZAFxWUwRKZj+H+nw9KPG+rVv/3v6fM6GgI8TZlguScy9dAn0xcb1grsK2KTuwNJv+I4YqgP0G3SQL+E4myOdKMhrZ+I7EgbRQFnUztOQzZ+SvzCuSPxxaYozRXsZd3DRQaajvzZMDd4W2QqFTSpDUEc1RBQURMX571GW5yggCIU=;zF2Gw9ScNn296rVoIzukLA=="
 ---

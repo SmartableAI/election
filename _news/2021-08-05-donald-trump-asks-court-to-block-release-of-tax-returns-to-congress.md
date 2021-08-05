@@ -319,6 +319,34 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump hits back at DOJ in bid to keep taxes secret"
+    excerpt: "Politics Trump hits back at DOJ in bid to keep taxes secret. Posted . Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to t"
+    publishedDateTime: 2021-08-05T00:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEOVEAQN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210804&i=OVEOVEAQN&r=OVEOVEAQN&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Trump hits back at DOJ to keep taxes secret"
+    excerpt: "Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to turn his tax returns over to a House of Representatives committee, part of his long campaign to keep details of his wealth secret."
+    publishedDateTime: 2021-08-05T00:09:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP8Bl?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/610b23bae4b085d3b6c35fe3-1628119994625?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
     excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
     publishedDateTime: 2021-08-04T15:31:00Z
@@ -724,6 +752,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 53
+  - title: "GOP Senate aspirants hail Trump, conservatism during Neosho watermelon feed"
+    excerpt: "A majority of the likely Republican aspirants vying for Roy Blunt’s U.S. Senate seat on Tuesday night touted their strong ties to former President Donald Trump and"
+    publishedDateTime: 2021-08-05T01:00:00Z
+    webUrl: "https://www.joplinglobe.com/news/local_news/gop-senate-aspirants-hail-trump-conservatism-during-neosho-watermelon-feed/article_f636aa82-f54f-11eb-87e6-4ffce8b13413.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 53
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
     excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
     publishedDateTime: 2021-07-29T09:30:00Z
@@ -775,6 +817,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "/y3q6ISqanQFjjfXd+MqDEKtlLSD0RppXWhwhkQvexVfYFWcVYqB1inJeIzNsWRsxED6MKsVges8QAei6+hL9PAe1W6SzfbFLXIis8CQvXlzBQVpGI5fFPWJhINAB+RD+pN4W87vgYXEPTLGayV3Xx9eFxaXRwlZpDdjHxM9jCxH8trQUgZiV56XyagL/FSVlmx/6riUOmBemF7Wk3iynsiV6JxQ5T5kaxCAwwi+2+SFYAT+97iRVWZV0Fr+QiH9XlqpHIliljmsJ3l16df0KFYf5YrZORZ2cm20D+th3hBcKSb4jCEcpTDQoHKTGhStc0dsD1rthGNRZKZC6WiDjK0NQ+LJNofSy5JBGpyrB0Y=;LrqhSK0EifAmOk/iM4E1sg=="
+secured: "3LSda1u5Qy5fIFVcTOy8kSNAkgKBPkdyrk+A5CiPwCooio3z+3MZabW/Yw67pn+jn9R8didPdi7GkBprOQCuQTrD72T8a6gusn5NAFq3jeUPBHQfsZWRofKk3HGWsRoWuKB8XyuNlniIUFlcgYxeDT3KgQ3fBum6qblcoW/h37WBhYjlg3a60V6fzNJZ8fLdBUlMU9mXPuXp1GXvZ+PT/Lf/1fHSkPne5TYlxWtU2a9lWb4rwkkc8ns4CZUBfiJiVPsSC/Ik3TFhZr7YDVOKxSBCzFkrQoir/ZpMX/RTszCg/eqFDACyhW640siPXiZZKWSUFe3GZH8MuqmocCfqylTYOPpnC+DCfKkhM9BSaY+xOG56iS6tGa6xmqUuyMFWLTL1BECmk/LC3Z9LWVGXLoEHiCVtnJ1R615OATXUKnoMmvKt1TbRv/P6d08CVejwB9AW2yxQCgT84dmMDEY5nz9lR+chHzYG3k/bcAmimTlBWD/M+tt4R4+eBtXOw/j38ppLm+0eBxAk5ogAuUacmA==;f6E4UM1AGetdR/Y56Bs+0Q=="
 ---
 

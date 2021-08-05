@@ -63,6 +63,22 @@ related:
         width: 886
         height: 545
         isCached: true
+  - title: "Florida Gov. DeSantis says he will 'stand in the way' of President Biden on COVID-19 restrictions"
+    excerpt: "The friction between Biden and DeSantis comes as the country confronts a fourth wave of the virus, one that has hit especially hard in Florida."
+    publishedDateTime: 2021-08-04T21:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/04/florida-governor-ron-desantis-tells-biden-he-standing-your-way/5489876001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5489876001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5489876001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/04/NTNH/f03490aa-3669-43eb-81ca-a1380a4d933a-002_080421_Gov_DeSantis_press_conf_PC.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Says US To See New Covid Restrictions 'In All Probability'"
     excerpt: "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases."
     publishedDateTime: 2021-07-31T03:58:00Z

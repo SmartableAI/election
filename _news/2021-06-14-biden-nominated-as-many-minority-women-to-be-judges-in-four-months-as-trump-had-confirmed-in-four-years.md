@@ -1979,6 +1979,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump, Biden brands benefit from big wins in Ohio special elections"
+    excerpt: "Two special primary elections in Ohio on Tuesday signal that both President Biden and his GOP predecessor, Donald Trump, are still the leaders of their respective parties."
+    publishedDateTime: 2021-08-04T23:36:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/4/trump-biden-brands-benefit-big-wins-ohio-special-e/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/4/trump-biden-brands-benefit-big-wins-ohio-special-e/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/4/trump-biden-brands-benefit-big-wins-ohio-special-e/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 105
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/02/election_2021_house_ohio_88691_c0-319-3600-2419_s1200x700.jpg?8fbbd7a3ea52137c58db0381ab6ca4bad3baf07d"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden's capital gains tax plan could backfire, says 8VC founder Joe Lonsdale"
     excerpt: "President Joe Biden's $3.5 trillion tax plan includes a hike on the capital gains tax to 39.6% in order to increase revenue. Joe Lonsdale, founding partner at 8VC and Palantir co-founder, joined \"Squawk Box\" on Thursday to discuss why he thinks the proposal may actually do the economy more harm than good."
     publishedDateTime: 2021-05-06T16:18:00Z

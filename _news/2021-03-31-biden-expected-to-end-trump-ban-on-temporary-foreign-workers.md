@@ -1973,6 +1973,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump, Biden brands benefit from big wins in Ohio special elections"
+    excerpt: "Two special primary elections in Ohio on Tuesday signal that both President Biden and his GOP predecessor, Donald Trump, are still the leaders of their respective parties."
+    publishedDateTime: 2021-08-04T23:36:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/4/trump-biden-brands-benefit-big-wins-ohio-special-e/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/4/trump-biden-brands-benefit-big-wins-ohio-special-e/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/4/trump-biden-brands-benefit-big-wins-ohio-special-e/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 105
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/02/election_2021_house_ohio_88691_c0-319-3600-2419_s1200x700.jpg?8fbbd7a3ea52137c58db0381ab6ca4bad3baf07d"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden nominated as many minority women to be judges in four months as Trump had confirmed in four years"
     excerpt: "Sixty five percent of the federal judges confirmed under Donald Trump were non-Hispanic White men. President Biden has launched an early effort to reverse that trend, nominating 11 diverse women to the federal bench."
     publishedDateTime: 2021-06-14T14:10:00Z

@@ -57,6 +57,22 @@ related:
         width: 886
         height: 545
         isCached: true
+  - title: "Florida Gov. DeSantis says he will 'stand in the way' of President Biden on COVID-19 restrictions"
+    excerpt: "The friction between Biden and DeSantis comes as the country confronts a fourth wave of the virus, one that has hit especially hard in Florida."
+    publishedDateTime: 2021-08-04T21:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/04/florida-governor-ron-desantis-tells-biden-he-standing-your-way/5489876001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5489876001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5489876001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/04/NTNH/f03490aa-3669-43eb-81ca-a1380a4d933a-002_080421_Gov_DeSantis_press_conf_PC.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Help or 'get out of the way.' Biden criticizes governors in Texas and Florida over handling of COVID-19"
     excerpt: "Biden singled out Florida and Texas, both GOP-led hot spots that have pushed back against coronavirus restrictions in recent days."
     publishedDateTime: 2021-08-04T10:53:00Z

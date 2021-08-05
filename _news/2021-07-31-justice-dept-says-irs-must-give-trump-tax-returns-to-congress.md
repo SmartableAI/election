@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-co
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -189,6 +189,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Donald-Trump.jpeg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Anti-Trump protesters opposed to Winged Foot honoring the former president"
+    excerpt: "Anti-Donald Trump protesters gathered at the entrance to Winged Foot Golf Club in Mamaroneck to protest a banquet honoring the former president."
+    publishedDateTime: 2021-08-05T00:46:00Z
+    webUrl: "https://www.lohud.com/videos/news/local/westchester/2021/08/05/anti-trump-protesters-winged-foot-golf-club/5491965001/"
+    type: article
+    provider:
+      name: The Journal News
+      domain: lohud.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/04/PWES/3b149625-d67d-4b7f-b0d8-2e7edc8bff24-sh080421Trump007.JPG?quality=10"
+        width: 5105
+        height: 2565
         isCached: true
   - title: "Trump Calls The Fight To Get Tax Returns A Political Attempt To Retaliate Against Him"
     excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" the former president's lawyers say in a new motion."
