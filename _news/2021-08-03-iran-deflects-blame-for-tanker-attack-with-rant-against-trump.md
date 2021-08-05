@@ -53,6 +53,20 @@ related:
         width: 1417
         height: 725
         isCached: true
+  - title: "Ron DeSantis fundraising off ‘standing in Joe Biden’s way’"
+    excerpt: "Ron DeSantis offered fiery comments about President Joe Biden at an event in Panama City Wednesday, and by evening it was clear why. An email from the “Friends of Ron DeSantis” political committee featured the pugnacious chief executive crowing that he’s “standing in Biden’s way."
+    publishedDateTime: 2021-08-05T01:02:00Z
+    webUrl: "https://floridapolitics.com/archives/446065-ron-desantis-fundraising-off-standing-in-joe-bidens-way/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/DeSantis-2-1.jpg"
+        width: 1024
+        height: 760
+        isCached: true
 
 secured: "CRYcxXAT85iw0zg1cmNYwHWg98zjcAtEki+St4jdpSkgkzrsKxA865PjZDIN/aoTeJ3Y9vcFYffkz26waM6ev5HIUgZtFCUI4KgUVMJJ4awZqBAs1nsdf+U3mctj87ep4CGbqRTyAegA1vsf3lL2Z5LLWq1vqtgNSG6taq+qyJs4cFojj8nloYYqYxmwi+lahrsGz/OgFuKig59wIKPvbzVHoUyKCSVoDHT3rkqO31RUfvZpcBTzVqiQTkcVDuYkwPFFUOTkYzdx/QssV3Xt7PTlupYTIkxEQ5BYGUKaeSF3IEytEPNst3LfHjbPH1XMPWuLbuBqLuXYMMoJdLmv2rV4WIXmKpi7sa8koA+CFP/25Ahw3DH9sOEFn2PVBOfGHCjrsCnjPtR188Fe5kO6ekxkoXW/7eBep+LHV2vGSYpjwe3mABeHcdMqK5YUiZSD2mmM7f5PaZB3rEkCE7Nbzj7GUfwhJoix5XBuM7TFRgeN9vDH5W5Zye9SXXjHVItSl/BY1zvkwoi14AQxU2MOvQ==;piuy57hDwOB/5+cuyks8oQ=="
 ---

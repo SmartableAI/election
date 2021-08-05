@@ -115,6 +115,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Graham says he’s told Trump to ‘speak up’ on COVID vaccines"
+    excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine,"
+    publishedDateTime: 2021-08-05T19:37:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/Gvh-nUPoqnm-pR5NFHyXQQnrL8Y=/480x0/media.spokesman.com/photos/2021/08/02/61085dac20f33.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Gavin Newsom can connect recall to Trump supporters in official voter guide, court says"
     excerpt: "Gavin Newsom can describe the recall as a Republican-led effort in California’s official statewide voter guide, a Sacramento judge said in a tentative ruling on Wednesday. The decision is a win for Newsom,"
     publishedDateTime: 2021-08-04T17:52:00Z

@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Graham says he’s told Trump to ‘speak up’ on COVID vaccines"
+    excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine,"
+    publishedDateTime: 2021-08-05T19:37:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/Gvh-nUPoqnm-pR5NFHyXQQnrL8Y=/480x0/media.spokesman.com/photos/2021/08/02/61085dac20f33.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Susan Wright, Jake Ellzey clash in low turnout congressional contest influenced by Donald Trump"
     excerpt: "In the heat of the Texas summer and an unusual time for an election, Republicans Jake Ellzey and Susan Wright are trying to convince voters"
     publishedDateTime: 2021-07-23T23:38:00Z

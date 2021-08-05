@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-don
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/04/Biden-DeSantis.jpg"
         width: 1417
         height: 725
+        isCached: true
+  - title: "Ron DeSantis fundraising off ‘standing in Joe Biden’s way’"
+    excerpt: "Ron DeSantis offered fiery comments about President Joe Biden at an event in Panama City Wednesday, and by evening it was clear why. An email from the “Friends of Ron DeSantis” political committee featured the pugnacious chief executive crowing that he’s “standing in Biden’s way."
+    publishedDateTime: 2021-08-05T01:02:00Z
+    webUrl: "https://floridapolitics.com/archives/446065-ron-desantis-fundraising-off-standing-in-joe-bidens-way/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/DeSantis-2-1.jpg"
+        width: 1024
+        height: 760
         isCached: true
   - title: "Iran Deflects Blame for Tanker Attack With Rant Against Trump"
     excerpt: "Iranian leaders referenced Israeli and U.S. attacks on Iranian vessels during the Trump administration while also denying ties to the fatal strike in the Arabian Sea."

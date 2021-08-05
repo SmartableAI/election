@@ -50,7 +50,7 @@ related:
   - title: "How Joe Biden's Border Crisis Could Doom the Democrats"
     excerpt: "Often President Biden's policies seem incoherent or contradictory, but nowhere are the consequences clearer than immigration. Many Americans may have welcomed the end of Trump's incendiary comments about undocumented newcomers,"
     publishedDateTime: 2021-08-04T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/04/how_joe_bidens_border_crisis_could_doom_the_democrats_548656.html"
+    webUrl: "https://www.realclearpolitics.com/2021/08/04/how_joe_bidens_border_crisis_could_doom_the_democrats_548656.html#!"
     type: article
     provider:
       name: RealClearPolitics

@@ -288,6 +288,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Top Democratic women blame Kamala Harris' low approval on media's 'sexist overtones': Report"
+    excerpt: "Top Democratic Party women complain that Vice President Kamala Harris' low approval rating is due to sexist media coverage and [making] sure the press knows this\" is key to bolstering her image, according to a new report."
+    publishedDateTime: 2021-08-05T19:38:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef42f2dd-8f02-433f-b2f6-c9d20a43a02e/39c6ecca-82bf-4ed2-9799-2fd206d8751f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz: People \"Pissed\" About What Is Happening At The Border, Biden and Harris Don't Care"
     excerpt: "Sen. Ted Cruz said the Biden administration has contempt for Americans making individual choices for their own family: \"Sean you are exactly right, people across the state of Texas, across the country are pissed,"
     publishedDateTime: 2021-08-05T15:04:00Z

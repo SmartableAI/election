@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
-excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
-publishedDateTime: 2021-07-30T22:38:00Z
-originalUrl: "https://floridapolitics.com/archives/444921-irs-trump-tax-returns-congress/"
-webUrl: "https://floridapolitics.com/archives/444921-irs-trump-tax-returns-congress/"
+title: "Graham says he’s told Trump to ‘speak up’ on COVID vaccines"
+excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine,"
+publishedDateTime: 2021-08-05T19:37:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/"
+webUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
 type: article
-quality: 53
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Florida Politics
-  domain: floridapolitics.com
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Donald-Trump.jpeg"
-    width: 800
-    height: 533
+  - url: "https://thumb.spokesman.com/Gvh-nUPoqnm-pR5NFHyXQQnrL8Y=/480x0/media.spokesman.com/photos/2021/08/02/61085dac20f33.hires.jpg"
+    width: 480
+    height: 320
     isCached: true
 
 related:
@@ -126,22 +128,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Graham says he’s told Trump to ‘speak up’ on COVID vaccines"
-    excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine,"
-    publishedDateTime: 2021-08-05T19:37:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/Gvh-nUPoqnm-pR5NFHyXQQnrL8Y=/480x0/media.spokesman.com/photos/2021/08/02/61085dac20f33.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Gavin Newsom can connect recall to Trump supporters in official voter guide, court says"
     excerpt: "Gavin Newsom can describe the recall as a Republican-led effort in California’s official statewide voter guide, a Sacramento judge said in a tentative ruling on Wednesday. The decision is a win for Newsom,"
     publishedDateTime: 2021-08-04T17:52:00Z
@@ -202,6 +188,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Justice Department says IRS must give Donald Trump tax returns to Congress"
+    excerpt: "The Justice Department, in a reversal, says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records."
+    publishedDateTime: 2021-07-30T22:38:00Z
+    webUrl: "https://floridapolitics.com/archives/444921-irs-trump-tax-returns-congress/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 53
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Donald-Trump.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Anti-Trump protesters opposed to Winged Foot honoring the former president"
     excerpt: "Anti-Donald Trump protesters gathered at the entrance to Winged Foot Golf Club in Mamaroneck to protest a banquet honoring the former president."
     publishedDateTime: 2021-08-05T00:46:00Z
@@ -231,6 +231,6 @@ related:
         height: 711
         isCached: true
 
-secured: "/0mnbdz2mCf4vnA80pya+PLBJofelEE1CoTh7ER4epQwac0+6nhSF51iJFMi+TZdcVfnwzNKxOT+hsCklIWVG+GtT0HJ+UvWwGaQMeWlZsQYIjXYTyrggXYq98b+EvPNkB18O3spe7J+qMKGML9S8EbpwJoWRH1ykMcRp/kkIEYwnxJIn6Kvm9E3arhu0v6XEOdCeA2fFeJIas3sMIkn7TPMLkTZwkUxV6/bcpPpMISLCI8pBLDGsS2dGnA4R0i0/n2Z6CXslbDGFivVFDmDDiSIjQzzCHqRvLJKFkGJaLSuwN7KULuuD2Obb3bXO/pbXyzsNSE/y9sJN6jBEzIKqt5Hywu8O8cMFLDuQP+OUPs=;RfpFHOfEWgApUlaDkJ43PA=="
+secured: "0TRnbPZ38OsR/ovU7x9ZyoD8bMaLKHLIyl2MnRq1A1yinHyUlJsY3I7PTFlPfo2poIpOIxAlJZ7W0u0SyBdcs8LTY1WGsymOHBpF75nbAgzzRw9mKBDzTu/WvudwAalQy5vVY0ZuPfTVgStj6HfAc70Mp/BPRm99K03nPWI31aIOog88KCIRRR67dLJqkY1LqIrnebkK2vuqgI21k1nH8zByP9Q7p1rBro8bsKX4fc/AymLGI4wCz1hF5/vF4OQwrdcAxfduK/Fe6dfRYYNXZo0n6OrLf7GvDxN+TzOLnsSmdMfWGt3PCvNrTNRltpT/ivdot/djnV+rriQkhZQRvhZ2C1NmaRK/lXcAOoGrSKY=;dPE9JQdw/yCC70Fibk/qNg=="
 ---
 

@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Kamala Harris to visit Asia as US-Mexico border crisis worsens"
-excerpt: "Kamala Harris announced an August trip to Singapore and Vietnam despite data showing that the migration crisis is worsening on the US-Mexico border."
-publishedDateTime: 2021-07-30T15:55:00Z
-originalUrl: "https://nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/"
-webUrl: "https://nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/"
-ampWebUrl: "https://nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/amp/"
+title: "Top Democratic women blame Kamala Harris' low approval on media's 'sexist overtones': Report"
+excerpt: "Top Democratic Party women complain that Vice President Kamala Harris' low approval rating is due to sexist media coverage and [making] sure the press knows this\" is key to bolstering her image, according to a new report."
+publishedDateTime: 2021-08-05T19:38:00Z
+originalUrl: "https://www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret"
+webUrl: "https://www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret"
+ampWebUrl: "https://www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret.amp"
 type: article
-quality: 135
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/file-immigration-border5.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef42f2dd-8f02-433f-b2f6-c9d20a43a02e/39c6ecca-82bf-4ed2-9799-2fd206d8751f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -188,6 +192,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris to visit Asia as US-Mexico border crisis worsens"
+    excerpt: "Kamala Harris announced an August trip to Singapore and Vietnam despite data showing that the migration crisis is worsening on the US-Mexico border."
+    publishedDateTime: 2021-07-30T15:55:00Z
+    webUrl: "https://nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/"
+    ampWebUrl: "https://nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/30/kamala-harris-to-visit-asia-as-us-mexico-border-crisis-worsens/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/file-immigration-border5.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Meghan McCain on hypothetical Kamala Harris run to replace Biden: 'Ron DeSantis would put her in the ground'"
     excerpt: "\"The View\" co-host Meghan McCain predicted Monday that Vice President Kamala Harris would lose to Republican Florida Gov. Ron DeSantis if she ran to replace President Joe Biden in 2024."
     publishedDateTime: 2021-08-02T18:44:00Z
@@ -268,22 +288,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Top Democratic women blame Kamala Harris' low approval on media's 'sexist overtones': Report"
-    excerpt: "Top Democratic Party women complain that Vice President Kamala Harris' low approval rating is due to sexist media coverage and [making] sure the press knows this\" is key to bolstering her image, according to a new report."
-    publishedDateTime: 2021-08-05T19:38:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef42f2dd-8f02-433f-b2f6-c9d20a43a02e/39c6ecca-82bf-4ed2-9799-2fd206d8751f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
     excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
     publishedDateTime: 2021-07-22T21:15:00Z
@@ -356,6 +360,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "FTalPGGzTLTvKVogF/fvBGvxeFPIflZ2NDsv4YgPii3o93I2jfx76WPcuow8lebM1Uo0ywsJ2KkyrTGz+U0LzQZAtsvZeUW6hrYECdhgHcDPgVfjKadU6N21h0CieRcNF0ADSyewoGAHsfa4tb4ItavDLB0F1iwyRvZn8d9B+PMv8PeY7doRkBzJ7ye6LQqQ8rExQHSkHGDi9AbwSJH01ywqLYNusoUMaUm5bscenyaEm//V0jlewW7+e+BlxZn0Rwy64Uq4NgL+vLm1hqnY7CvRSdOxUh+5lm0ju+y7ajAOewd2apr8kyvk74QeyZBoPFApMlLd276Hr+R0DcALLCEdUJV0UnBohLXqPAa8giRHTUg3MRLtW7AU3cTYJi+5pNcW/DE+7cNxTiPXeDY+iT7d4DPLeUUaIfRAgcINU9yA52A43NQA8EFi67KyByemwokjy0svIMS/+6Y2SpkGavx6q5pnOdoKx5GxkMJwz/2fGCrf+oqSxGCnXOTyxNxS0ibVrm67zZL8aYahs/4MVA==;fPG48XgyLGstdpxp648NLw=="
+secured: "Ov32hMf4Mr6Rns1lGct6NgluX8ArsX2PYZWSa+UEQRsFgWsoqQFST646oQ6OPiI6HXVaiDQzMZ/2IDagZ+pHU+MaNiU7oCaB6f4EFgRCAyeWWLO8HBau4+X0BQVa7rqNm5dbLuHgmhdkA5q8Yrrb/Jvt36c7R5F1ANuRIy+zMibtRfpfQsZpYYudt/hXQU/WTBhG1PWQHSq39hVbcpWfXfsd0nAWW0UTfRElbjMFPdanEt8YwUe7VzUld01IP1kmWhGbm4+UQOgTIwZVzYd4kzOtj81xqUuEPkDTrK7l7/ujG/NpdDQnsfgLQdt4v/KBd3NvgUpJ8RQtmpeF5pGDfqnSrW5qz1HWhWKecj0MWl4=;ij9NE5nqPq9ruW4UCzyYuw=="
 ---
 

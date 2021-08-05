@@ -268,6 +268,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Top Democratic women blame Kamala Harris' low approval on media's 'sexist overtones': Report"
+    excerpt: "Top Democratic Party women complain that Vice President Kamala Harris' low approval rating is due to sexist media coverage and [making] sure the press knows this\" is key to bolstering her image, according to a new report."
+    publishedDateTime: 2021-08-05T19:38:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-low-approval-due-to-sexist-overtones-in-media-top-democratic-women-fret.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef42f2dd-8f02-433f-b2f6-c9d20a43a02e/39c6ecca-82bf-4ed2-9799-2fd206d8751f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris tells DACA recipients that administration will take 'action' after program is ruled unlawful"
     excerpt: "Vice President Kamala Harris on Thursday told recipients of the Deferred Action for Childhood Arrivals (DACA) that the Biden administration will take \"action\" in response to a court ruling that determined the 2012 program is illegal and she renewed calls for Congress to pass a pathway to citizenship."
     publishedDateTime: 2021-07-22T21:15:00Z
@@ -340,6 +356,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "miXlfkXSBlkQNPOwbc38FHpWdzmODSOdKuxW/HkTQwVGlNmZZzEkwn16BkRhaJpw2+dT1TmDYyJMG/jLLx4AiI6B7pl7DBzMYJIA/NTOevMpmNBATfVVrw1EirIXFD4/+noqL5sof/5R6sCc/oiOlWMpWyZk8CvjLodSv7vqe6cwbvYBLtaVscUgVhFafEnwC7bGbi2pVWIjn6VkEf0kKNpX+FfwpnrDdT+pVIJo55h3qDClsGV2CD2qfGDg/zxNQsbe1QMXBh6z9kSRynLdu2xeLjn86mbT6qhJ7n9Hee5PINaieiLbprOSz715PzWXGJc/D1urhdJ5oKQNtM+RTjrZZj/XiXR4ZubTY//1S48=;LtAndtg19nbK0bmzOlKg/w=="
+secured: "TGOhJqsJN1bpeZAdlVVkWNX24QfsKFtu5+NUVZ2NVJfoAKlDs8AHgfhXvcv9U0MQAWWPzRpL2e9OzmVymveEqB6M5bTZwSaz6aoMaUHEd6G80I33Lxw59CvflJkOQBGA8KfL/HC1+x2hT3bDZ5prBcqtpE7BnClUAIXfBe6Pp8/JVfMQuKV1TOSGwwnFpyFwhxDA9v24jl5ns2/OWP/cDB6FygexnDD78OLRpwP+US/l8djsrpjxOvrck/3UQJhBFYq59YnnWXdgrLF1zgdCTjtmPZKpWQ298oO/Z9yZ9tHbHINcSOSWzVpur38ErXpS+Og468I8pjuiCxl8892K4h4bfX9FfUBShdtVDUtaOQMXTHoLpG5hc+AgrYzNBbrgfySDmzmBEEaeJZlhYRmzBNx+QNbmemLHW+Dgb355MrqjN1mBcQlZxAzMpLXp0HSceIolSHOlYP0AjoR0lPbyUvnM5PmyYvGzWwoWVKescdHPOI+Ehh7IutQrRegyu+2xAYWmbne6L8g2JiGIN3XhxA==;zkiEYsehDY+qMM1VReHMhQ=="
 ---
 

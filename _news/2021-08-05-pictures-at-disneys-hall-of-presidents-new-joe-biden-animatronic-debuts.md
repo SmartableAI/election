@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Pictures: At Disney's Magic Kingdom, new Joe Biden animatronic"
+title: "Pictures: At Disney's Hall of Presidents, new Joe Biden animatronic debuts"
 excerpt: "In the Magic Kingdom at Walt Disney World, the President Joe Biden animatronic makes its debut at The Hall of Presidents attraction, Tuesday, August 3, 2021, during a soft opening. The Liberty Square attraction officially reopened Wednesday after being closed for refurbishment since January."
 publishedDateTime: 2021-08-04T20:47:00Z
 originalUrl: "https://www.orlandosentinel.com/travel/attractions/the-daily-disney/os-pictures-disney-hall-of-presidents-biden-20210804-xeh7utp4mffnhgvkqmmkhamq7q-photogallery.html"
 webUrl: "https://www.orlandosentinel.com/travel/attractions/the-daily-disney/os-pictures-disney-hall-of-presidents-biden-20210804-xeh7utp4mffnhgvkqmmkhamq7q-photogallery.html"
 type: article
-quality: 55
+quality: 53
 heat: -1
 published: false
 
@@ -55,7 +55,7 @@ related:
         width: 650
         height: 480
         isCached: true
-  - title: "Pictures: At Disney's Hall of Presidents, new Joe Biden animatronic debuts"
+  - title: "Pictures: At Disney's Magic Kingdom, new Joe Biden animatronic"
     excerpt: "In the Magic Kingdom at Walt Disney World, the President Joe Biden animatronic makes its debut at The Hall of Presidents attraction, Tuesday, August 3, 2021, during a soft opening. The Liberty Square attraction officially reopened Wednesday after being closed for refurbishment since January."
     publishedDateTime: 2021-08-04T20:47:00Z
     webUrl: "https://www.orlandosentinel.com/travel/attractions/the-daily-disney/os-pictures-disney-hall-of-presidents-biden-20210804-xeh7utp4mffnhgvkqmmkhamq7q-photogallery.html"
@@ -63,13 +63,13 @@ related:
     provider:
       name: Orlando Sentinel
       domain: orlandosentinel.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.orlandosentinel.com/resizer/n14FHR8xokYM_vuhTbfLwXqbpzw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UEZRM7CHSJEH5OCKWVO4QY3NIY.jpg"
         width: 1200
         height: 947
         isCached: true
 
-secured: "9C69Z949d/RIEC8eP8+w4LoextEO+rbq2FmEa2cKYvQnlGZDNfTm6Vxs0AUC/Ky5Mj48gAoSBuphSYXOOxzxXLzomgGUGo8BCTuOV5rhB1vG/dq0y7ic0djlh0bgrJ5CoOJgzZa6cUrippAbjy68PoXNPREuHapf5Ceju06KF9NtrOKmSKcMnP2Z+Iky0NKup87b0+IH+Q8t9vJXSAZjKHQ/R6NRCNrTiK8EyzExS4kAVmzKQMRbx4M+UY2FbVoJ5qtm4Awl0JsSwd5e7lFaGtxpPPplDmshdptzJvFZjSeGkj5BFnpCqVBW3sIyOq1t5eW2ud2NB44b859F5BmNqaN3PC8DwAdAWAUP5swt1rw=;rFlmICgcmPmKOxe4sD/muQ=="
+secured: "iZpqu66IRfi+RJHyViLG4Kxkm2xfSdO/dAVkYwd26S13RkqmrdHuWPCKZJQrsMwFrI+RN9v/unh4w8jUYWOrSUyeWEEP8gKhivkz1UGDMtX0cOJ+qYPOaCjW8yF38XHrKVo0oaTFBRU7ZKiY0WMOE6ROdsL6i12WZkyqb9km0UIJR/Nc9jmu10WdcqhPc2WPpYOBvf6FgC5PkoVjxw81Z2D1CLOP275CfcM8H+oou+tnM0zwp6iNte7u+z5n4uoH8slbiVyOJHLhbdC4CXbzhfdJtHCgmRD7KAPMEcatvgdkHIt8GdB24qza35yBx9tjqg6beV/6C5lEvAJEkqS4oL1xE81okU7KszXkODQ7oQU=;WfOMoZfkxHZmJA8QWRCvPg=="
 ---
 

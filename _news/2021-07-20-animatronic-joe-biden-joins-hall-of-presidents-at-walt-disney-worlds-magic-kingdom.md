@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.indystar.com/amp/8027480002"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002"
 type: article
 quality: 69
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       name: Orlando Sentinel
       domain: orlandosentinel.com
     quality: 55
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/n14FHR8xokYM_vuhTbfLwXqbpzw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UEZRM7CHSJEH5OCKWVO4QY3NIY.jpg"
+        width: 1200
+        height: 947
+        isCached: true
+  - title: "Pictures: At Disney's Hall of Presidents, new Joe Biden animatronic debuts"
+    excerpt: "In the Magic Kingdom at Walt Disney World, the President Joe Biden animatronic makes its debut at The Hall of Presidents attraction, Tuesday, August 3, 2021, during a soft opening. The Liberty Square attraction officially reopened Wednesday after being closed for refurbishment since January."
+    publishedDateTime: 2021-08-04T20:47:00Z
+    webUrl: "https://www.orlandosentinel.com/travel/attractions/the-daily-disney/os-pictures-disney-hall-of-presidents-biden-20210804-xeh7utp4mffnhgvkqmmkhamq7q-photogallery.html"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 53
     images:
       - url: "https://www.orlandosentinel.com/resizer/n14FHR8xokYM_vuhTbfLwXqbpzw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UEZRM7CHSJEH5OCKWVO4QY3NIY.jpg"
         width: 1200

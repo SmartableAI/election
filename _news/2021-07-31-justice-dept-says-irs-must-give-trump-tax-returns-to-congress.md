@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-co
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -115,6 +115,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/03/PDTN/a30fdcb2-4d55-4130-a6a6-c46011fa9e91-Mark_Anthony_Ulsaker_booking.jpg?auto=webp&crop=977,549,x311,y505&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Graham says he’s told Trump to ‘speak up’ on COVID vaccines"
+    excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine,"
+    publishedDateTime: 2021-08-05T19:37:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/Gvh-nUPoqnm-pR5NFHyXQQnrL8Y=/480x0/media.spokesman.com/photos/2021/08/02/61085dac20f33.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Gavin Newsom can connect recall to Trump supporters in official voter guide, court says"
     excerpt: "Gavin Newsom can describe the recall as a Republican-led effort in California’s official statewide voter guide, a Sacramento judge said in a tentative ruling on Wednesday. The decision is a win for Newsom,"
