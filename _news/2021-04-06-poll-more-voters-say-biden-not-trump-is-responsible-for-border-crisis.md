@@ -479,6 +479,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden seeks to boost fuel economy to thwart Trump rollback"
+    excerpt: "The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026"
+    publishedDateTime: 2021-08-05T09:53:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-seeks-boost-fuel-economy-thwart-trump-rollback-79285210"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b1643d4496c44d66bff117cc5057f0e5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden keeps Trump-era cap on refugee admissions, breaking earlier pledge"
     excerpt: "Instead, the president is adjusting the allocation limits and lifting restrictions on resettlements from Somalia, Syria and Yemen"
     publishedDateTime: 2021-04-16T17:19:00Z

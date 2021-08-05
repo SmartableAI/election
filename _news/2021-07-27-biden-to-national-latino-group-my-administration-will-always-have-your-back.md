@@ -704,6 +704,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "As Iran's hard-line new president takes office, Biden faces tough choices"
+    excerpt: "Analysis: Iran is gambling that hardball tactics will force concessions from the U.S., but the regime risks overplaying its hand, experts say."
+    publishedDateTime: 2021-08-05T08:31:00Z
+    webUrl: "https://www.nbcnews.com/news/world/iran-s-hard-line-new-president-takes-office-biden-faces-n1275990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275990"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275990"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3496722/210804-ebrahim-raisi-cover-se-515p.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
   - title: "Despite social media bans, Trump has been the G.O.P.’s top fund-raiser this year."
     excerpt: "Despite departing from office and being barred from the leading social media platforms, former President Donald J. Trump was the Republican Party’s most dominant fund-raiser in the first half of 2021 and ended June with a war chest of more than $100 million,"
     publishedDateTime: 2021-08-02T14:02:00Z

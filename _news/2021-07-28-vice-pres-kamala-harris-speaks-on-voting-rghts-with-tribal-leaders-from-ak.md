@@ -195,6 +195,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Can Kamala Harris Solve the Vice-President Paradox?"
+    excerpt: "“I think it’s okay if we shake hands,” Kamala Harris told me last week. The vice president came out from behind her West Wing desk to greet me, her eyes smiling above her face mask. The last time I was in this particular office, the occupant was Mike ..."
+    publishedDateTime: 2021-08-05T09:01:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/08/kamala-harris-interview/619657/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/619657/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619657/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/18nUcsRZHOjjwh_d1UCydPS8DwE=/570x321/media/img/mt/2021/08/kamala_pspella/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "US Vice-President Kamala Harris will visit Singapore and Vietnam next month"
     excerpt: "Harris will be the first US vice-president to visit Vietnam, during a trip designed to strengthen ties with ‘two critical Indo-Pacific partners’."
     publishedDateTime: 2021-07-30T14:25:00Z
@@ -599,6 +615,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "C8M4ionkDujT0ce7ctKsmmOCARUd3/5Srf+yM1g+lEfQr+HS0Ms6Qf4F69QIDMC/z9O5pEOk7gasK1iMTNVx7h9xLIzW79jHRWWk29ODGISUtr6vUWw941JRxPgDR7UmHll8KnGQ4333gvH37S5EviGd93ZfwV+ZEtfXPM0lC7TvfwOZgCRbW2VPhYWdKVkCwlIgbLWwJx5kt6qggLoBv1XfUp+yaqyIWWbDVNVxKxkO2d1zBA0pcKJjKUp5y4W4Z22Q52Qja6ECpI+tg6LkviHELbXIYvpoVMH41dM04KymbotsP3t07RyJmx5yA7Hx98k45TdReHJ8cE4ZbF17Lc4nHVF1TBNOrdmgv9TdQ3k=;ZA/DmZ8fIfuwjm2Uj9eyOw=="
+secured: "XK3PlPJ4m1aTeFQSXkeBULEPNmFxkEbXBc6G3XEgiZFTH0ZsTrnVOqCHkNmxK74NIPLp4bvfT9QJ3+SCTL5Tgxsu/mlNlScOPVo9rrrTMl65lV5Z5dzsxHxxveBlnUsolHf8ZggLAYneXX2V4KlJWKy2EVvGD9EgzIv0BHTJZN046RkJisNFLWQvmGZVXiMQJmlG34DNDk4MoG7kJ9feU1oL/Ul/q5CB6DVJGGNEpsZZWU9OWLOP9UdGHt7Ru6NyQm6n1ePO35wI9pEFaHv+Blzo2l8v1Bk2yHqbNUbuSkXtOkXvKlsvcHeHUsbjbxHrbsdg08LOiO7H/ViF3M7eAwUAQQv10Mo1NU+fMPg7WUuGX5lDQyl3Ze3O29ZYPFvVG3dilwbsMtqoFIJYuCdVBDW8oCNQnZPsMYLE1KAhbFOkIYWF+raRd8C98ljafmSIYiSK5w6T3ZWA0vvBU2Y9rZFg7NYUFVrmasow5jtsGDMtnG/5t7+qQZtndFacY4mcRYPwJDLbVbIx2r0gYUmGjw==;3gARb1EG1qwrrr3r/1aOyg=="
 ---
 

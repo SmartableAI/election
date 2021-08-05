@@ -197,6 +197,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Can Kamala Harris Solve the Vice-President Paradox?"
+    excerpt: "“I think it’s okay if we shake hands,” Kamala Harris told me last week. The vice president came out from behind her West Wing desk to greet me, her eyes smiling above her face mask. The last time I was in this particular office, the occupant was Mike ..."
+    publishedDateTime: 2021-08-05T09:01:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/08/kamala-harris-interview/619657/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/619657/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619657/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/18nUcsRZHOjjwh_d1UCydPS8DwE=/570x321/media/img/mt/2021/08/kamala_pspella/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "Frederick man sentenced to seven months in federal prison for threatening Biden, Harris during 2020 campaign"
     excerpt: "A Maryland man was sentenced Tuesday to seven months in federal prison for making death threats against U.S. President Joe Biden and Vice President Kamala Harris when they were candidates during the 2020 campaign."
     publishedDateTime: 2021-07-27T23:47:00Z

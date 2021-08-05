@@ -143,6 +143,22 @@ related:
         width: 791
         height: 545
         isCached: true
+  - title: "Top Republicans move to protect Trump from Capitol attack fallout"
+    excerpt: "Some party leaders blamed the former president in the charged moments after the insurrection – but are now embarking on a campaign of revisionism"
+    publishedDateTime: 2021-08-05T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/05/us-capitol-attack-republicans-trump-fallout"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/05/us-capitol-attack-republicans-trump-fallout"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/05/us-capitol-attack-republicans-trump-fallout"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ed75733b6a4009eeb98f26567ad12bcab5fec289/0_387_5803_3482/master/5803.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e003a993e4a2c41e8ef2fb9bc86f5449"
+        width: 600
+        height: 360
+        isCached: true
   - title: "As Trump Claims Victory in Ohio, Progressive Democrats' Influence Takes a Hit"
     excerpt: "Moderate democrats could take former state Senator Nina Turner's loss on Tuesday as an indication that voters aren't looking for the party to shift farther left."
     publishedDateTime: 2021-08-04T03:44:00Z

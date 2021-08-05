@@ -3,8 +3,8 @@ category: news
 title: "Biden To Abbott, DeSantis: If You Won't Help With Pandemic, \"At Least Get Out Of The Way\""
 excerpt: "President Joe Biden called out the governors of Texas and Florida, Greg Abbott and Ron DeSantis, for not helping curb the COVID-19 pandemic. \"Just two states, Florida and Texas, account for one-third of all new COVID-19 cases in the entire country."
 publishedDateTime: 2021-08-03T22:39:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/03/biden_if_some_governors_wont_help_with_pandemic_at_least_get_out_of_the_way.amp.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 405
         isCached: true
 
-secured: "hTC1wGPXjPC3rxnWQdukiLUwWgTp5JIehonlPS/nPlv8doN0Cd8mzWLt3I4nmxQaHczeXe+RrHovdd/BEc/CGr1mnqJ1gz6xNCnAKVhxY7neiKO81Vepx5j4rgchoDH2rD051UKYqY0dwv7F57ExbcrT0TSmkU7pUWtuPXwUdVoUfC24MpMwLK1JS17AEifUETK30M7OZhEI67qaqqC4WYE5UCYYLwIVeB/hW7ADuwRN2fyrXQhHQFz/PQakyq+f9MKJjbIm4k6lGiYhgvD+MlPbVP506Tg59rP+spTeR/OM/zGE+Tx1dLVwguGYKDiifad8C+QHwvRKIcz6UHDV9SjYYwxVT39FyqbumI4Wrn0NRWNPpHtRl92re6jeJJv4B/JLqUtH44EcKxJfUwxqV20JcRFB5MhMr56Ei7hyCTwbBkv+a/brViqpF74RNBIwnlgDnJd907kfnEEdEwslohq/8u6qcNxpPin2oCT6H363qK6MCDHOcKAQG7tZUWGBdV/Owu/abcpp41KdDmdwtA==;kYFswIg+X6XKngVLp8AgqA=="
+secured: "GNQwohgArv4+ReLAnp9sQgmwhOfaAJIKOpIM2icI28lU3EjoTwsQ4E5qISLmSjMGDi/Y8i5HPCxdlAFYUW3Xa7LYNAwsDWjShU6Omun/Bls8myTuoOL++dAARDDztnTvHVSgGS58g2qRl8AELM6RzNB5XCi3k1CkP1uBkA9h4tuC9/86S2tB5qayYG7/VEsKygFtmyh1OHH9O0qKXxzE4jNaU9zqpi2qYsbYGA7PaCBZuPwRXNlpXOpwbzCFiep/PRpQXnb3cwczzoLEo2vVTW/1UyOJWwH8Vv6vGzLrcqUmlnDxlYL3bywJ6eHnhrqsrY7yD2aJU64ykQCBzO29u0UhcLRdULV8ODsZk1Gr12o=;422p1DzP+Sju7IJxrAt4vA=="
 ---
 

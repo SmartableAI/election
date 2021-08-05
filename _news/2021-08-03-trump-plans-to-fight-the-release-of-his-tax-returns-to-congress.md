@@ -688,6 +688,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "As Iran's hard-line new president takes office, Biden faces tough choices"
+    excerpt: "Analysis: Iran is gambling that hardball tactics will force concessions from the U.S., but the regime risks overplaying its hand, experts say."
+    publishedDateTime: 2021-08-05T08:31:00Z
+    webUrl: "https://www.nbcnews.com/news/world/iran-s-hard-line-new-president-takes-office-biden-faces-n1275990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275990"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275990"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3496722/210804-ebrahim-raisi-cover-se-515p.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
   - title: "Biden to national Latino group: 'My administration will always have your back'"
     excerpt: "President Joe Biden addressed the nation's Latinos during a conference by UnidosUS, the nation's largest Latino advocacy group."
     publishedDateTime: 2021-07-26T19:53:00Z

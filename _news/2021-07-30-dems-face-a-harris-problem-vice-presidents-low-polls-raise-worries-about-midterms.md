@@ -199,6 +199,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Can Kamala Harris Solve the Vice-President Paradox?"
+    excerpt: "“I think it’s okay if we shake hands,” Kamala Harris told me last week. The vice president came out from behind her West Wing desk to greet me, her eyes smiling above her face mask. The last time I was in this particular office, the occupant was Mike ..."
+    publishedDateTime: 2021-08-05T09:01:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/08/kamala-harris-interview/619657/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/619657/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619657/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/18nUcsRZHOjjwh_d1UCydPS8DwE=/570x321/media/img/mt/2021/08/kamala_pspella/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "US Vice-President Kamala Harris will visit Singapore and Vietnam next month"
     excerpt: "Harris will be the first US vice-president to visit Vietnam, during a trip designed to strengthen ties with ‘two critical Indo-Pacific partners’."
     publishedDateTime: 2021-07-30T14:25:00Z
