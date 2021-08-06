@@ -239,6 +239,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's immigration plan runs into on-the-ground realities"
+    excerpt: "The president of Guatemala had a private piece of advice for Vice President Kamala Harris when she visited earlier this summer, on her goal of slowing the rush of hopeful migrants to the US border with Mexico.\n    \n"
+    publishedDateTime: 2021-08-06T10:42:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ArxkjdqI6nE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/us-mexico-border-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/us-mexico-border-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805144301-us-mexico-border-0708-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why the infrastructure bill is more important than ever for Biden "
+    excerpt: "The bipartisan infrastructure bill making its precarious way through the Senate was always a cornerstone of Joe Biden's presidency. Now, it's even more vital for an administration badly needing wins as the White House struggles to navigate multiple crises.\n    \n"
+    publishedDateTime: 2021-08-06T04:03:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EdJk4uGXWdc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805094717-02-joe-biden-0729-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration sues Texas over Gov. Abbott's migrant transport order"
     excerpt: "The Biden administration is taking Texas Gov. Greg Abbott to court over an executive order he issued earlier this week targeting the transport of migrants recently released from US Customs and Border Protection custody.\n    \n"
     publishedDateTime: 2021-07-30T22:23:24Z

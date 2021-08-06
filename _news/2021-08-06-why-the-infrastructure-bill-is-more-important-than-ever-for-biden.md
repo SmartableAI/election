@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
-excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
-publishedDateTime: 2021-06-01T20:50:02Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+title: "Why the infrastructure bill is more important than ever for Biden "
+excerpt: "The bipartisan infrastructure bill making its precarious way through the Senate was always a cornerstone of Joe Biden's presidency. Now, it's even more vital for an administration badly needing wins as the White House struggles to navigate multiple crises.\n    \n"
+publishedDateTime: 2021-08-06T04:03:57Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EdJk4uGXWdc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EdJk4uGXWdc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
 type: article
-quality: 172
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117174214-arctic-national-wildlife-refuge-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805094717-02-joe-biden-0729-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -255,22 +255,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Why the infrastructure bill is more important than ever for Biden "
-    excerpt: "The bipartisan infrastructure bill making its precarious way through the Senate was always a cornerstone of Joe Biden's presidency. Now, it's even more vital for an administration badly needing wins as the White House struggles to navigate multiple crises.\n    \n"
-    publishedDateTime: 2021-08-06T04:03:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EdJk4uGXWdc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805094717-02-joe-biden-0729-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration announces resources to support people with long Covid"
     excerpt: "The Biden administration on Monday released guidance and resources to support people experiencing long-term effects of Covid-19, known as \"long Covid,\" as the condition shapes up to be a major, long-term public health issue.\n    \n"
     publishedDateTime: 2021-07-26T15:39:34Z
@@ -300,6 +284,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611161821-02-merrick-garland-doj-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
+    excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
+    publishedDateTime: 2021-06-01T20:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117174214-arctic-national-wildlife-refuge-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -816,6 +816,6 @@ related:
         height: 550
         isCached: true
 
-secured: "bee1loZXt/qeQfLwloyFI8Fbi3FKXSHH0bdlaR6VUTcgboRtc+O/u18ml2ZGOGNZLpWLz7hWa0FcUBviftkh7XOMBIH8foKWcBj5WlN/oCq2Depv3ESdUB6fXPitGV7yOnYbB4l9lPzaGRu5fD0zEU32846cIzgu/nt2bPj/Pgh81dhUIzKI+mMqMQSF8in2be88q2TGqRjXsjxI9fElP++6dpdRcDBxmDtt0ZEgYn13gUHIAABOWPy9k70ng3y04JEjmUDds7Fc5iaLFWAxuN4M39Ume+zEg2xc6MITRPENcSukKiXV1JLwMg6ttjxRnQZgL8vyAuWFkWBOrsqyGjg8M7x1Zn0k6mnx2kKgChc=;vjiGpm3rGNacKYlYB830iw=="
+secured: "rPWtX3hw2ZMLNmyAxqGxbU9LF3qDjIusmxvikYIBvp9j0fBPG9TzBfe+Lg48CLWta76cNh03qf3N73tATeHbrYW8RG1Ldh/DtnkRBWMRlhtY3fssxAaf6IQtRL17TBJlNmMttkLvsnEF9VVKeHsD96Mx/RL+n4XZN4NpKi3kZTVI3v/fAery1G05eEiaR2GjfrBB7JG9PJNis0S5E/9LMryezB3dZmHYGRDmqv9VYMlXNwsQ4DKzFB7KpYNWU/TANSCjSkJ5LBgVt/DXMlFEl12kthanz9Dx0sT7A8Hk8xTcic/9441z2TT5XgO+QI8yWPVsUF9H4xR5RICyN1/6URcixT38Vxkg7vKdyR3qKVo=;P/rDJlERc1sA+nAFDVnYOg=="
 ---
 

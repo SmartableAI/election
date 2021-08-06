@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Trump’s lawyers fight order to give Congress tax returns"
-excerpt: "Former President Donald Trump’s lawyers told a federal court Wednesday to block the Treasury Department from giving his tax returns to the House Ways and Means Committee, arguing lawmakers are wading into uncharted territory in a bid to embarrass the ex-president."
-publishedDateTime: 2021-08-04T15:56:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
-webUrl: "https://www.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
+title: "Graham says he's told Trump to 'speak up' on virus vaccines"
+excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine, which"
+publishedDateTime: 2021-08-06T11:57:00Z
+originalUrl: "https://www.newstribune.com/news/national/story/2021/aug/06/graham-says-hes-told-trump-to-speak-up-on-virus-vaccines/882442/"
+webUrl: "https://www.newstribune.com/news/national/story/2021/aug/06/graham-says-hes-told-trump-to-speak-up-on-virus-vaccines/882442/"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: News Tribune
+  domain: newstribune.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/02/Election_2021_Trump_Ohio_59092.jpg-6c212_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
-    width: 1200
-    height: 700
+  - url: "https://media-cdn.wehco.com/img/photos/2021/08/06/199065138_199065138-bf035664cf3c48a28589e8a06d70a4d8885515895_t1070_h89a6f4a7f0b736ebd04bb117e892dc338f6b9030.jpg"
+    width: 1070
+    height: 714
     isCached: true
 
 related:
@@ -589,6 +587,22 @@ related:
         width: 1023
         height: 724
         isCached: true
+  - title: "Trump’s lawyers fight order to give Congress tax returns"
+    excerpt: "Former President Donald Trump’s lawyers told a federal court Wednesday to block the Treasury Department from giving his tax returns to the House Ways and Means Committee, arguing lawmakers are wading into uncharted territory in a bid to embarrass the ex-president."
+    publishedDateTime: 2021-08-04T15:56:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/4/trumps-lawyers-fight-order-give-congress-tax-retur/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/02/Election_2021_Trump_Ohio_59092.jpg-6c212_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Vindman Blames Trump For 600,000 COVID-19 Deaths In US"
     excerpt: "Alexander Vindman has blamed former President Donald Trump for hundreds of thousands of coronavirus-related deaths in the United States. Vindman made waves in 2019 when he served as a key witness in Trump’s impeachment hearings."
     publishedDateTime: 2021-08-04T02:39:00Z
@@ -879,20 +893,6 @@ related:
       name: The Olympian
       domain: theolympian.com
     quality: 55
-  - title: "Graham says he's told Trump to 'speak up' on virus vaccines"
-    excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine, which"
-    publishedDateTime: 2021-08-06T11:57:00Z
-    webUrl: "https://www.newstribune.com/news/national/story/2021/aug/06/graham-says-hes-told-trump-to-speak-up-on-virus-vaccines/882442/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 55
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/08/06/199065138_199065138-bf035664cf3c48a28589e8a06d70a4d8885515895_t1070_h89a6f4a7f0b736ebd04bb117e892dc338f6b9030.jpg"
-        width: 1070
-        height: 714
-        isCached: true
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z
@@ -969,6 +969,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "HFQsSTAcUQggcwhhvtp85jc+htgTnnxhWLpQ1el7XEQjLipDQICiPkREORkdpjdUMR+CFSWrYIWh5z2kG3WfcdJG5GH5+AJsuotJ1d8JW4kkt2pgkUyNWuY04UaISiBp+hBe23OIjPNcaSozB+Eqb8FIlPhecPVhrTiGXzLtbx3MZWWlc+q/da48muXWD0aYOdIHMzGe2c9AYuVnPib/YVbTSGR7L94xGNpRiIUGUsw7X8dZq3rrvNik2h28CG60y8GT48rOE+0dM7BTzxOut9MI6o0s+13rRI83XO+A/sgTCl/6MimvE5SgOf0h8ULEUfNErmRcynMPVioisSKBH21gAVFS/wIDxXjP/tDBJiw=;PPxuz948wSYY6h832eUkEA=="
+secured: "DqqDlK6C944HDN6zpbC3szLRyPqJq3d5wV7eU2M3JPdGEuHubTzG1iyzWJmY6zNURPsrUf7GjB1ibwPpeEdDkIEltqexEI44QvsY+j8aL1yFI9kw988lknuTX3RAJXFirhru13GEfIP7n47pDIxg4rydjPn3fpHQsJwapLjMcWb7bqiPwvu8HU53QH1zjK4bsgwN7i4Zdiq+XfPDd0aJvbbnIf/0xUrVZoa6UhRpgTyQ5Wo4MaUz8VIZZc1V6g2NsYKMNCHk8NjG3SV1gISnwyCvGHJWDXAfm7eD0bITq0pBcqxbGNq1XwagmLNfDsqvIe5R6h7QiU0/YfDxYT037dihwUhrVmqtxAFKCUh0o/U=;yb8aUBvCorzjsGleNX7BTQ=="
 ---
 

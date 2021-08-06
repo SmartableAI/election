@@ -887,6 +887,20 @@ related:
       name: The Olympian
       domain: theolympian.com
     quality: 55
+  - title: "Graham says he's told Trump to 'speak up' on virus vaccines"
+    excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine, which"
+    publishedDateTime: 2021-08-06T11:57:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/aug/06/graham-says-hes-told-trump-to-speak-up-on-virus-vaccines/882442/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 55
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/08/06/199065138_199065138-bf035664cf3c48a28589e8a06d70a4d8885515895_t1070_h89a6f4a7f0b736ebd04bb117e892dc338f6b9030.jpg"
+        width: 1070
+        height: 714
+        isCached: true
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z

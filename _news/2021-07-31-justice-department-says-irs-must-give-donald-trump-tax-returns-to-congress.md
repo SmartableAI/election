@@ -142,22 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Graham says he’s told Trump to ‘speak up’ on COVID vaccines"
-    excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine,"
-    publishedDateTime: 2021-08-05T19:37:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/Gvh-nUPoqnm-pR5NFHyXQQnrL8Y=/480x0/media.spokesman.com/photos/2021/08/02/61085dac20f33.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Gavin Newsom can connect recall to Trump supporters in official voter guide, court says"
     excerpt: "Gavin Newsom can describe the recall as a Republican-led effort in California’s official statewide voter guide, a Sacramento judge said in a tentative ruling on Wednesday. The decision is a win for Newsom,"
     publishedDateTime: 2021-08-04T17:52:00Z
@@ -218,6 +202,17 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Graham says he’s told Trump to ‘speak up’ on COVID vaccines"
+    excerpt: "COLUMBIA, S.C. As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine, which the South Carolina Republican ..."
+    publishedDateTime: 2021-08-06T11:54:00Z
+    webUrl: "https://www.bnd.com/news/article253283313.html"
+    ampWebUrl: "https://amp.bnd.com/news/article253283313.html"
+    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article253283313.html"
+    type: article
+    provider:
+      name: BND
+      domain: bnd.com
+    quality: 55
   - title: "Anti-Trump protesters opposed to Winged Foot honoring the former president"
     excerpt: "Anti-Donald Trump protesters gathered at the entrance to Winged Foot Golf Club in Mamaroneck to protest a banquet honoring the former president."
     publishedDateTime: 2021-08-05T00:46:00Z

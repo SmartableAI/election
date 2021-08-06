@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Graham says he’s told Trump to ‘speak up’ on COVID vaccines"
-excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine,"
-publishedDateTime: 2021-08-05T19:37:00Z
-originalUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/"
-webUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/"
-ampWebUrl: "https://www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
-cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/05/graham-says-hes-told-trump-to-speak-up-on-covid-va/?amp-content=amp"
+excerpt: "COLUMBIA, S.C. As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday that he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine, which the South Carolina Republican ..."
+publishedDateTime: 2021-08-06T11:54:00Z
+originalUrl: "https://www.bnd.com/news/article253283313.html"
+webUrl: "https://www.bnd.com/news/article253283313.html"
+ampWebUrl: "https://amp.bnd.com/news/article253283313.html"
+cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article253283313.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: BND
+  domain: bnd.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://thumb.spokesman.com/Gvh-nUPoqnm-pR5NFHyXQQnrL8Y=/480x0/media.spokesman.com/photos/2021/08/02/61085dac20f33.hires.jpg"
-    width: 480
-    height: 320
-    isCached: true
 
 related:
   - title: "Justice Dept. says IRS must give Trump tax returns to Congress"
@@ -256,6 +250,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "0TRnbPZ38OsR/ovU7x9ZyoD8bMaLKHLIyl2MnRq1A1yinHyUlJsY3I7PTFlPfo2poIpOIxAlJZ7W0u0SyBdcs8LTY1WGsymOHBpF75nbAgzzRw9mKBDzTu/WvudwAalQy5vVY0ZuPfTVgStj6HfAc70Mp/BPRm99K03nPWI31aIOog88KCIRRR67dLJqkY1LqIrnebkK2vuqgI21k1nH8zByP9Q7p1rBro8bsKX4fc/AymLGI4wCz1hF5/vF4OQwrdcAxfduK/Fe6dfRYYNXZo0n6OrLf7GvDxN+TzOLnsSmdMfWGt3PCvNrTNRltpT/ivdot/djnV+rriQkhZQRvhZ2C1NmaRK/lXcAOoGrSKY=;dPE9JQdw/yCC70Fibk/qNg=="
+secured: "Lhv/Cv80IFAl9mS/IyhfI+EhG5xW0piMMHmUSgfUDwhGe0KEi/3BBpEPlk2KcWaDBVDvScLURFCZ2cFb8YFXV5DiiRsy4Bx++Ww3AoQBRRhZ0lHneqANoJeQz/OtFWCTJMtqfxAJd0ztCc8UAlXlCNsM+lWWtpiaSwtR2gadEIP7Cst01SVkvgQQksX/RAr9nqd+meWzlH3Mv6t3VSKnWJaYei2GQAAqWhyMCej46aOtbGNUlZiZDPseoNRtwJ07kaXxrZ/oPsungw58ujc9znlgtP6dZkpuI7AYLWLaZJpO9QHRBJYiBgEQGT6560RIexNCON1gfaF8DxyDZ1w4FvrQE47lrxFt2LJ3ylSQ9Y9Dlc8tG2S2GDuuy42X9TkH7YB7w/F5eecghfji6FSts5/keeJVnVPnU58VQodl3od4fdvwKyNaJ2c8H31aWZRtCzt0OWUQoGkNInHxvqJL6g90Oio7hZVqvAgnhwFDv7ltNHoLDkEMflaA3oQIArfjU8UrrnUECJpGgAejyEwT1w==;szYA/sY+3xP4NDo7ZyRgiw=="
 ---
 

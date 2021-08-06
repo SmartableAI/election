@@ -883,6 +883,20 @@ related:
       name: The Olympian
       domain: theolympian.com
     quality: 55
+  - title: "Graham says he's told Trump to 'speak up' on virus vaccines"
+    excerpt: "As he recovers from a breakthrough infection of the coronavirus, Sen. Lindsey Graham said Thursday he has urged former President Donald Trump to press his supporters to get the COVID-19 vaccine, which"
+    publishedDateTime: 2021-08-06T11:57:00Z
+    webUrl: "https://www.newstribune.com/news/national/story/2021/aug/06/graham-says-hes-told-trump-to-speak-up-on-virus-vaccines/882442/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 55
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/08/06/199065138_199065138-bf035664cf3c48a28589e8a06d70a4d8885515895_t1070_h89a6f4a7f0b736ebd04bb117e892dc338f6b9030.jpg"
+        width: 1070
+        height: 714
+        isCached: true
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z
@@ -959,6 +973,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "yFyl/uQlucvsfVdnUyfqleBofLdz2/w6xkxknLMcko33VhCPWd0+NqhMGJWquH2JGx8sm11HDbJXVFkWw8GHi14VeFdp5hX5iURyB9uxePLld7D9g6xfFCwFrOc3DzXC+HFdRJhj7dm8WYSuzXpetcCxnUtfOfuNYh4KUDnl+SZV6h56EUrClAgtXbX6Xpr+8PKl2qXRYf8M/h1d/4SDei7oq3MMdyNK9fjC97DaXv2kGfsoCNHHi3Yfq1q1J1DlEc++N1itDLlPwVu5q0RQRx280UhFlqN5uA7yVtn6xq5D9tgpyNUbs5o4nQDfSAU0GD6TNCz9pr5a378rDcEsOK5CFQumYz54hxWujB4Czxc=;5pew2LjK6//NhHjwrbpdtg=="
+secured: "yukD1t7RDScnN3/PBrIXbz9lJlml+x5yJRRWkQt9yQo+iUvsMXTm7agBb/QIsM3rtLvaXeqnZN7y9ThzNcNLFzYoW3dEuljT6362qFDIFbxmGb1iPS6kQZd782Oo8EkygG7wpx9ThQBl7If+L+w+N00e3rFx0cnfSgEekZzWwta1pbo89FWcdLD6+S9FTEsCx/8xqc4IePAiBGFhQ/nfksEJ7+zMuAEDfx7PpKRLakiwYpOtStOnyoU+hsOHRuyoJg2WcmyIqcRDLyeltH77QsA6vy7mG1HDZXTm+K1WO0FqIRUbVyfyPDDzzoKRwxEDgQLk8jPEWrxW1Df0k+UYgwF/EK2zSTombxddMt/mzJIgzErriiUHV0cubkNgOWM8i42TwJmPVHfpCK2xZG9QbSaV+av/acKS705qJ3JQQX9WbKDb+3CSxPXw4jeMiq1SJCB5DPSaEZRovKum3xyxd0k02KN2NmzzW2lVIqB3r2glacGeAjhqQbqFTbzYB3PY03ODK/FohznPbfE1IkMM1A==;yB9ogbsShCw6IdpwEHRKqA=="
 ---
 
