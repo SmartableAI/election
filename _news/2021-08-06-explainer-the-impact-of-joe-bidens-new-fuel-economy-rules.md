@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash"
-excerpt: "President Joe Biden on Thursday announced new measures to stop the spread of COVID-19 and the new Delta variant in the United States that will impact millions of federal workers, contractors and private citizens."
-publishedDateTime: 2021-08-01T22:13:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F"
-webUrl: "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
+title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
+publishedDateTime: 2021-08-06T07:04:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
 type: article
-quality: 124
-heat: 284
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210729&t=2&i=1570403906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6S1J9"
-    width: 817
-    height: 545
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
+  - title: "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash"
+    excerpt: "President Joe Biden on Thursday announced new measures to stop the spread of COVID-19 and the new Delta variant in the United States that will impact millions of federal workers, contractors and private citizens."
+    publishedDateTime: 2021-08-01T22:13:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210729&t=2&i=1570403906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6S1J9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden tells Florida, Texas leaders: Help on COVID-19 or 'get out of the way'"
     excerpt: "U.S. President Joe Biden on Tuesday urged Republican leaders in Florida and Texas - home to roughly a third of all new U.S. COVID-19 cases - to follow public health guidelines on the pandemic or \"get out of the way\" as the country struggles to contain the rapid spread"
     publishedDateTime: 2021-08-04T00:27:00Z
@@ -95,22 +107,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
-    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-    publishedDateTime: 2021-08-06T07:04:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "'Clock is running out.' As COVID-19 cases climb, Biden faces rising pressure to fill top FDA job"
     excerpt: "Five months ago, former heads of the Food and Drug Administration urged Joe Biden to make filling that position a priority but it's still vacant."
     publishedDateTime: 2021-08-03T09:00:00Z
@@ -146,6 +142,6 @@ related:
         height: 640
         isCached: true
 
-secured: "7Ot/bpt7Y3P0xNsbEBOLZTDPm4YyVqFgoPiZuHsFB+Kr2PHmO7dk73ku11xOgWFVJfS4iwV4g7PD3VPZ5yIiKXfjiFEPqdcCP+n2iVOeUAagGL2yfhWKoUz2a1PHbW7mluvmaD3sI3REL9xEbe+2gaGK2826d3v4yAJ5LYkuIzrplwBQ70dslu6nTkZKZGF2O6U6cGYshjW1hhrjmG64XpSFzUaI/zh7FI3l5qxPwJ9II1+oRXupEFlLV9rXHV571pb1hrqtfx3EkEXjXsXYGmwvDm0MM9aOkHQIFR5A5OMrXSktul4eIMRqJcfujUUZ6BjyF/TkfbnPZ4lK2Mxe75XnCnltmrAurQX00CyLbIM=;2TKKd8+nZpYTg8JohLh9iw=="
+secured: "6U0MECC99W4MqsECJPj3ZenzBjp9vxRiSRzxNCQBPtwJiBC8BQWz+h4FRxwD1Ev03eD97/Ej1vxUaQYY0/9EI8KY60dbuODsH0y/yhZ5nWBRYVm8m9R0V8MchSpvCitCWgfEddQdjBcPpYp5kFySWAJNaD4tzbinJVFx/J9F+1QulEsRFkrfoBTZIFd0V8dqeO9Y0pt0BCnx63ZG8m+v1LTe+m7OACEeTe9kftc58valk7RfxxvqrKIbowN8AyCub/14F0BQYD3rLvngV7v2vs3avV3qbvGwLKy6p3iMcg7cwg+S4xzD4sJG5G3Cj5Y1KbDMCG1MLqyhN0lr3klx9wbC6bZKwvqY9BuFqJ3QDGQ=;SRTbbnu6aIZ4qNZ34Cf3Fg=="
 ---
 

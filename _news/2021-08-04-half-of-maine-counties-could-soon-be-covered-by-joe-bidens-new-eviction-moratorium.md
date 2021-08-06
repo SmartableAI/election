@@ -105,6 +105,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
+    publishedDateTime: 2021-08-06T07:04:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "'Clock is running out.' As COVID-19 cases climb, Biden faces rising pressure to fill top FDA job"
     excerpt: "Five months ago, former heads of the Food and Drug Administration urged Joe Biden to make filling that position a priority but it's still vacant."
     publishedDateTime: 2021-08-03T09:00:00Z
