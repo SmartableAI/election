@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "January 6 committee considers whether to seek Trump White House call logs as investigators eye next steps"
+    excerpt: "The select committee investigating the January 6 insurrection is weighing whether to pursue call logs from the Trump White House on the day of the riot, a move that could present a potentially thorny dilemma for President Joe Biden who would ultimately have to determine whether the records should be"
+    publishedDateTime: 2021-08-06T20:46:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ESrLhZ9rCAA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/january-6-committee-investigation-white-house-phone-logs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/january-6-committee-investigation-white-house-phone-logs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Explosive select committee hearing does little to change the minds of Trump-loyal Republicans about January 6"
     excerpt: "Some of Donald Trump's fiercest allies in Congress are continuing to downplay or ignore the January 6 insurrection, taking cues from the former President even after four police officers testified Tuesday, in front of the House select committee investigating the deadly Capitol attack, about their harrowing"
     publishedDateTime: 2021-07-28T00:40:12Z

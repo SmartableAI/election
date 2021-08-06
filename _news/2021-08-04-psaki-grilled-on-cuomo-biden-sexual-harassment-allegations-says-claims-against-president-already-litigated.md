@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden blasted for having called NY Gov. Andrew Cuomo the 'gold standard' of leadership"
-    excerpt: "President Joe Biden is facing criticism for referring to New York Gov. Andrew Cuomo as the “gold standard” of leadership in the past following a report from New York’s Attorney General concluding the governor sexually harassed multiple women."
-    publishedDateTime: 2021-08-03T22:15:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjf5yKhU0Aw/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp"
+  - title: "Ohio Rep. Bob Gibbs seeks articles of impeachment against Biden"
+    excerpt: "An Ohio congressman on Friday asked his GOP House colleagues to consider filing articles of impeachment against President Biden for an \"unconstitutional\" order to extend the eviction moratorium and for his \"dereliction\" of duty in securing the southern border. "
+    publishedDateTime: 2021-08-06T20:15:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fc9c59f-f638-41c9-967a-fbeb72bb4377/c98ea31a-14fe-45e8-8171-39c5518bb33a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Rep. Elise Stefanik says Biden must call for Gov. Cuomo's resignation"
-    excerpt: "New York GOP Rep. Elise Stefanik joined \"America Reports\" following the breaking news that the New York Attorney general found that Governor Andrew Cuomo sexually harassed multiple women, violating state and federal laws."
-    publishedDateTime: 2021-08-03T19:51:00Z
-    webUrl: "https://www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik"
-    ampWebUrl: "https://www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik.amp"
+  - title: "Texas Rep. Chip Roy calls for impeachment of President Biden, DHS Secretary Mayorkas"
+    excerpt: "Texas Rep. Chip Roy is calling for the impeachment of both President Biden and Homeland Security Secretary Alejandro Mayorkas over their response to the flow of illegal immigrants across the southern border over the past six months."
+    publishedDateTime: 2021-08-03T22:24:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oJ4-UR44xfg/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/262bdae6-ea59-45c3-aad1-1b68d408f5fc/e68c58ee-1373-49d8-be38-6369a2b383a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/Chip-Roy-Biden-Mayorkas.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

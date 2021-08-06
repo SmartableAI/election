@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominations-germany/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200820021111-eric-garcetti-0320-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to announce three new ambassador picks, including two top donors"
+    excerpt: "President Joe Biden is announcing a new round of ambassador picks, which includes two top donors to his 2020 presidential campaign.\n    \n"
+    publishedDateTime: 2021-08-06T20:49:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DbbNPoESiBg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/biden-ambassadors-donors-switzerland-argentina-equatorial-guinea/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/biden-ambassadors-donors-switzerland-argentina-equatorial-guinea/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806161345-biden-ambassador-picks-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

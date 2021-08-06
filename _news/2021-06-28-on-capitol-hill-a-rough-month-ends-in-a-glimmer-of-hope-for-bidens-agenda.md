@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden extends student loan payment pause to January 31"
+    excerpt: "The Biden administration is extending the pause on federal student loan payments one last time until January 31.\n    \n"
+    publishedDateTime: 2021-08-06T20:16:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/betihx9hp58/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/student-loan-pause-extended/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/student-loan-pause-extended/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200707101823-us-college-graduation-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration expected to extend the eviction moratorium through July"
     excerpt: "The Biden administration is expected to extend  the federal eviction ban that was set to expire at the end of June by a month, according to officials familiar with the matter.\n    \n"
     publishedDateTime: 2021-06-23T21:59:58Z

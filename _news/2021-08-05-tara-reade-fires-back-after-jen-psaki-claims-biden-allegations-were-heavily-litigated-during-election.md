@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp"
 type: article
 quality: 134
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Fox News
@@ -30,24 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Psaki says Biden will weigh in on ‘abhorrent’ Cuomo accusations ‘later’"
-    excerpt: "President Biden is preparing to give public remarks on a devastating report that found Gov. Andrew Cuomo sexually harassed 11 women, White House Press Secretary Jen Psaki said."
-    publishedDateTime: 2021-08-03T19:13:00Z
-    webUrl: "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/"
-    ampWebUrl: "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-cuomo-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "nnHf8c/1ZJoLNXzMFWeuIrDnP1g43EL/ImGb1LcxEL5UwWs8w3+iGu2kOVD5WKxo7sK5hQ+HnxVE2QJuwWD3Rc78DoEO00+uioUsY+0buAn+BS3Dw4ZGUtLEqKISRpmI/lUQK0jMPtuKODADmsYmi2gQy/96HNDKqwnvqC63wunhWVKijWRhxvJbhW2FEjnhaLTrAbkaseA4C76X28Oclk6fePJAdMd/F40QokbfO5tpwzgOfejtTk5eoZlviM3XRFAhFk1BPxSkWSQaa0zoewn7MJ75lRVx0mCnNeCZmnmTl09YuO3Dk6sFJzJUgTPT6pZprU8+1nO9lZMqsHK9Lhh/XA59zNILL5dMApyu4dLLTCKyA3bTilUgb4EMfTrfV6ADWPCSMJT9Ms1WKGZnWDDOjTHn6lkxZIrsbBczp4KMggdSJCEld2fwcV29MDFCIqpBKVoiNIRA1z8qodMRg61um76PxhlqdiQBibpJ37qhRi31E5Od5Ck7x5UP9rP4BMgw7jpHhCwnolhLdTLi4Q==;WzA+gN6OH35uRxk5ZOAReg=="
 ---

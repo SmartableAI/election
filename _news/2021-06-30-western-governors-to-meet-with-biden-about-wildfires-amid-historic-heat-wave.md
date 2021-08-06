@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to announce three new ambassador picks, including two top donors"
+    excerpt: "President Joe Biden is announcing a new round of ambassador picks, which includes two top donors to his 2020 presidential campaign.\n    \n"
+    publishedDateTime: 2021-08-06T20:49:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DbbNPoESiBg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/biden-ambassadors-donors-switzerland-argentina-equatorial-guinea/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/biden-ambassadors-donors-switzerland-argentina-equatorial-guinea/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806161345-biden-ambassador-picks-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden unveils unprecedented government-wide strategy to encourage US citizenship"
     excerpt: "The Biden administration is introducing an unprecedented effort to encourage eligible immigrants to apply for US citizenship, according to a US Citizenship and Immigration Services official.\n    \n"
     publishedDateTime: 2021-07-02T12:09:31Z

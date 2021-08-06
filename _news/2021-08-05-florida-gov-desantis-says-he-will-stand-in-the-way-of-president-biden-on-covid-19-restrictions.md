@@ -47,6 +47,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "‘Governor who?’ DeSantis Questions What Else Joe Biden has Forgotten"
+    excerpt: "DeSantis’s comments are the latest in this week’s back-and-forth between President Biden and the 42-year-old Republican governor."
+    publishedDateTime: 2021-08-06T21:44:00Z
+    webUrl: "https://www.nationalreview.com/news/governor-who-desantis-questions-what-else-joe-biden-has-forgotten/"
+    ampWebUrl: "https://www.nationalreview.com/news/governor-who-desantis-questions-what-else-joe-biden-has-forgotten/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/governor-who-desantis-questions-what-else-joe-biden-has-forgotten/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://www.nationalreview.com/wp-content/uploads/2021/06/Ron-DeSantis-4.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
+        isCached: true
   - title: "DeSantis’ shot in COVID feud with Biden: ‘I don’t want to hear a blip ... from you’"
     excerpt: "Gov. Ron DeSantis lashed out at President Joe Biden a day after Biden told the Republican governor to “get out of the way” of mask mandates."
     publishedDateTime: 2021-08-04T19:50:00Z

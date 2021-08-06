@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-call-sexual-harassment-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-call-sexual-harassment-impeachment-resignation-psaki.amp"
 type: article
 quality: 158
-heat: -1
-published: false
+heat: 178
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Texas Rep. Chip Roy calls for impeachment of President Biden, DHS Secretary Mayorkas"
-    excerpt: "Texas Rep. Chip Roy is calling for the impeachment of both President Biden and Homeland Security Secretary Alejandro Mayorkas over their response to the flow of illegal immigrants across the southern border over the past six months."
-    publishedDateTime: 2021-08-03T22:24:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oJ4-UR44xfg/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas.amp"
+  - title: "Psaki says Biden will weigh in on ‘abhorrent’ Cuomo accusations ‘later’"
+    excerpt: "President Biden is preparing to give public remarks on a devastating report that found Gov. Andrew Cuomo sexually harassed 11 women, White House Press Secretary Jen Psaki said."
+    publishedDateTime: 2021-08-03T19:13:00Z
+    webUrl: "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/"
+    ampWebUrl: "https://nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/psaki-says-biden-will-weigh-in-on-cuomo-accusations-later/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/Chip-Roy-Biden-Mayorkas.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-cuomo-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "CfTui6XAh2pWNwcQXrfVARDIfAnFPxgGLmTroYRC3e4WyXcaoZ1XtwqEbPNBdzopQucA1nDnmOKO/5nybVZtrZKkLCScugQjPiRUj6GP4W8oAWMxJbFAM8GaX2K7zcqd9dK5/O1ODkRgdY1u1iJWMXtUxnkhrDuOpiWVL/Q9c/nER8hzNS8Xz1KjLQ5neUDx0FzKv6izHs/M9Sjt6T8Q+ZzsIbj0FugOiLZc5Ahpq0naBOZCayzQUH7+1vZC+yvEUcbPvxq0Kg7C0gO0Ptp9hJx1ZYUYFBKgs07bsWovgRI+FZeJDpKz2sR3IT4/AYet1WKzLzatZVD3oqFK7b+G+dT1jv5ydrUZ+c6Ov0eOYE8=;aeJAW7wQv+oDFRQXHbbIvw=="

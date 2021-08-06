@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/04/NTNH/f03490aa-3669-43eb-81ca-a1380a4d933a-002_080421_Gov_DeSantis_press_conf_PC.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘Governor who?’ DeSantis Questions What Else Joe Biden has Forgotten"
+    excerpt: "DeSantis’s comments are the latest in this week’s back-and-forth between President Biden and the 42-year-old Republican governor."
+    publishedDateTime: 2021-08-06T21:44:00Z
+    webUrl: "https://www.nationalreview.com/news/governor-who-desantis-questions-what-else-joe-biden-has-forgotten/"
+    ampWebUrl: "https://www.nationalreview.com/news/governor-who-desantis-questions-what-else-joe-biden-has-forgotten/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/governor-who-desantis-questions-what-else-joe-biden-has-forgotten/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://www.nationalreview.com/wp-content/uploads/2021/06/Ron-DeSantis-4.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
         isCached: true
   - title: "DeSantis’ shot in COVID feud with Biden: ‘I don’t want to hear a blip ... from you’"
     excerpt: "Gov. Ron DeSantis lashed out at President Joe Biden a day after Biden told the Republican governor to “get out of the way” of mask mandates."

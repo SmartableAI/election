@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to announce three new ambassador picks, including two top donors"
+    excerpt: "President Joe Biden is announcing a new round of ambassador picks, which includes two top donors to his 2020 presidential campaign.\n    \n"
+    publishedDateTime: 2021-08-06T20:49:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DbbNPoESiBg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/biden-ambassadors-donors-switzerland-argentina-equatorial-guinea/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/biden-ambassadors-donors-switzerland-argentina-equatorial-guinea/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806161345-biden-ambassador-picks-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Western governors to meet with Biden about wildfires amid historic heat wave"
     excerpt: "President Joe Biden on Wednesday will meet with governors from Western states about the threat of wildfires and announce new wildfire response initiatives amid a record-breaking heat wave in the region, a senior administration official said.\n    \n"
     publishedDateTime: 2021-06-30T11:39:08Z

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Governor who?’ DeSantis Questions What Else Joe Biden has Forgotten"
+    excerpt: "DeSantis’s comments are the latest in this week’s back-and-forth between President Biden and the 42-year-old Republican governor."
+    publishedDateTime: 2021-08-06T21:44:00Z
+    webUrl: "https://www.nationalreview.com/news/governor-who-desantis-questions-what-else-joe-biden-has-forgotten/"
+    ampWebUrl: "https://www.nationalreview.com/news/governor-who-desantis-questions-what-else-joe-biden-has-forgotten/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/governor-who-desantis-questions-what-else-joe-biden-has-forgotten/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://www.nationalreview.com/wp-content/uploads/2021/06/Ron-DeSantis-4.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
+        isCached: true
   - title: "‘Governor who?’: Joe Biden dismisses Ron DeSantis’ tirade"
     excerpt: "Ron DeSantis ‘ lengthy rebuttal to President Joe Biden ‘s rebuke of his pandemic response, Biden dismissed DeSantis’ speech in a five-word rebuttal Thursday. “Governor who?” Biden said, laughing off a reporter’s request for comment."
     publishedDateTime: 2021-08-05T22:31:00Z
