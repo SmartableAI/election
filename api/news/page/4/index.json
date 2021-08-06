@@ -2,162 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-08-01-leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6.md",
-      "title": "‘Leave the rest to me’: New DOJ memos show there’s more to learn about Trump and Jan. 6",
-      "excerpt": "Trump’s efforts to try to subvert the election were pervasive, unrelenting and fuel for the attack on the Capitol. A full accounting still hasn’t been done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6/2021/07/31/086cad9c-f185-11eb-a452-4da5fe48582d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6/2021/07/31/086cad9c-f185-11eb-a452-4da5fe48582d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NLUBOSCXTII6XLGFSLJIDGQ4ZM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-31T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-rudy-giuliani-says-i-committed-no-crime-while-working-for-trump.md",
-      "title": "Rudy Giuliani says ‘I committed no crime’ while working for Trump",
-      "excerpt": "Former New York mayor, under federal investigation over dealings in Ukraine, makes unprompted assertion to NBC",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0dbcef0657f58b41c50322c42d24b5e22dc4c973/0_181_5441_3264/master/5441.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e9da3ca75d6e51a8de0355b0691d5146",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "publishedDateTime": "2021-07-31T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-agency-trump-is-due-1m-tax-refund-for-chicago-skyscraper.md",
-      "title": "Agency: Trump is due $1M tax refund for Chicago skyscraper",
-      "excerpt": "An Illinois tax agency has ruled that former President Donald Trump is due a $1 million refund on the 2011 tax bill on his downtown Chicago skyscraper, but local officials are trying to block the refu",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_f675273772e641d6a964e73ebdd1752f_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
-      "publishedDateTime": "2021-07-31T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
       "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
       "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
@@ -541,6 +385,49 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-you-dont-have-to-die-biden-urges-americans-to-get-vaccinated-and-calls-for-incentives-as-it-happened.md",
+      "title": "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – as it happened",
+      "excerpt": "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "publishedDateTime": "2021-07-30T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1304,6 +1191,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-30-biden-to-allow-eviction-moratorium-to-expire-saturday.md",
+      "title": "Biden to allow eviction moratorium to expire Saturday",
+      "excerpt": "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
+      "originalUrl": "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
+      "publishedDateTime": "2021-07-29T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-biden-blm-nominee-called-to-wage-war-on-overpopulation.md",
       "title": "Biden BLM nominee called to 'wage war on overpopulation'",
       "excerpt": "Tracy Stone-Manning, the president’s nominee for BLM director, wrote an essay published by the High Country News in February 1991 on how to preserve the grizzly bear population in the US.",
@@ -1357,6 +1287,59 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-joe-bidens-motorcade-jeered-by-trump-supporters-during-pennsylvania-visit.md",
+      "title": "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit",
+      "excerpt": "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258",
+      "originalUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 628,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1858183/president-joe-biden-speaks-macungie-pennsylvania.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1",
+      "publishedDateTime": "2021-07-29T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
       ]
     }
   ],

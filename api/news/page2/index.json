@@ -2,105 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-08-04-pence-to-take-part-in-symposium-with-college-of-the-ozarks.md",
-      "title": "Pence To Take Part In Symposium With College Of The Ozarks",
-      "excerpt": "Vice President Micheal Pence poses for his official portrait at The White House, in Washington, D.C., on Tuesday, October 24, 2017. (Official White House Photo by D. Myles Cullen)Former Vice-President",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/",
-      "originalUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1028/2021/08/04110751/Mike-Pence-MEDIA-300-dpi-819x1024.jpg",
-          "width": 819,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/amp/",
-      "cdnAmpWebUrl": "https://www-ktts-com.cdn.ampproject.org/c/s/www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/amp/",
-      "publishedDateTime": "2021-08-04T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTTS",
-        "domain": "ktts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-boston-mayor-uses-slavery-trump-to-shoot-down-questions-about-vaccine-passports.md",
-      "title": "Boston mayor uses slavery, Trump to shoot down questions about vaccine passports",
-      "excerpt": "Acting Boston Mayor Kim Janey shot down talks of enforcing vaccine passports in the city, comparing such papers to the Jim Crow era and former President Donald Trump’s birtherism theories.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a29dc84-ff99-4991-ad67-439ad4c35eec/a0545df5-b69a-4b20-8cda-e2fb50bc90f7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "publishedDateTime": "2021-08-04T06:28:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-04-trump-lawyers-ask-judge-to-block-release-of-tax-returns.md",
       "title": "Trump Lawyers Ask Judge to Block Release of Tax Returns",
       "excerpt": "The former president’s attorneys argue the congressional request is rooted solely in the desire for political gain.",
@@ -207,58 +108,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-first-thing-biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment.md",
-      "title": "First Thing: Biden urges Cuomo to quit amid allegations of serial sexual harassment",
-      "excerpt": "New York governor denies having ‘inappropriately touched’ 11 women as calls for his resignation mount. Plus: How a successful journalist realised she had to get rid of Twitter, for good",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/339ceb2729f1c35c7fc197ef7c5a3068fc675e17/67_0_3366_2021/master/3366.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=73516b15c05b3561c101a7dbff8b4e90",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment",
-      "publishedDateTime": "2021-08-04T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -892,6 +741,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-04-biden-set-to-comment-on-cuomo-as-white-house-calls-report-findings-abhorrent.md",
+      "title": "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’",
+      "excerpt": "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "publishedDateTime": "2021-08-03T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-19-ags-to-epa-roll-back-trumps-clean-water-rule-asap.md",
       "title": "19 AGs to EPA: Roll back Trump's clean-water rule ASAP",
       "excerpt": "A coalition of 19 attorneys general led by California, Washington and New York urged the Environmental Protection Agency in a letter to repeal a Trump-era rule that they say curtails their authority to deny permits for projects that could harm their waterways.",
@@ -1301,6 +1202,105 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-trump-stokes-anti-muslim-sentiment-censured-in-us-abroad.md",
+      "title": "Trump stokes anti-Muslim sentiment; censured in US, abroad",
+      "excerpt": "Stoking the same anti-Islam sentiments he fanned on the campaign trail, President Donald Trump on Wednesday retweeted a string of inflammatory videos from a fringe British political group purporting to show violence being committed by Muslims.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-government-and-politics-europe-migration-united-states-government-32dbf5643327442eab350bd87ff57242",
+      "originalUrl": "https://apnews.com/article/technology-government-and-politics-europe-migration-united-states-government-32dbf5643327442eab350bd87ff57242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/9c3f605796f649369323fe2c0c54acc4/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-biden-says-voting-system-under-assault-protecting-it-is-single-most-important-thing.md",
+      "title": "Biden says voting system ‘under assault, protecting it is ‘single most important thing’",
+      "excerpt": "President Biden on Monday warned his fellow Democrats that the voting system was under assault and protecting it was the “single most important thing to do.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b878e947-4a88-43a4-b2b2-3116ef63ccd5/e836207c-1f0f-4cc6-9963-c0a64f5254fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
+      "publishedDateTime": "2021-08-02T19:09:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

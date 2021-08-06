@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-ho
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
 type: article
 quality: 121
-heat: -1
-published: false
+heat: 281
+published: true
 
 provider:
   name: The Guardian
@@ -31,22 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
-    excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
-    publishedDateTime: 2021-08-02T18:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610847fc8f0811859febbb4d"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
+  - title: "First Thing: Biden urges Cuomo to quit amid allegations of serial sexual harassment"
+    excerpt: "New York governor denies having ‘inappropriately touched’ 11 women as calls for his resignation mount. Plus: How a successful journalist realised she had to get rid of Twitter, for good"
+    publishedDateTime: 2021-08-04T09:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 121
+    quality: 119
     images:
-      - url: "https://i.guim.co.uk/img/media/b003b22fbe95982e4d1f1773949a0e3dc7761a94/0_233_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c07d08b5eac45494f0af0b3b64420e54"
+      - url: "https://i.guim.co.uk/img/media/339ceb2729f1c35c7fc197ef7c5a3068fc675e17/67_0_3366_2021/master/3366.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=73516b15c05b3561c101a7dbff8b4e90"
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden Said Andrew Cuomo Should Resign After An Investigation Into Allegations Of Sexual Harassment"
+    excerpt: "I think he should resign,\" Biden said of Cuomo at a news conference Tuesday. President Joe Biden called on Gov. Andrew Cuomo to resign but refused to say whether he believes the governor should be prosecuted,"
+    publishedDateTime: 2021-08-03T22:15:00Z
+    webUrl: "https://www.buzzfeednews.com/article/ryancbrooks/joe-biden-andrew-cuomo-resign"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cuomo-resign"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cuomo-resign"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 109
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-10/1/16/campaign_images/buzzfeed-prod-web-04/republicans-are-planning-to-vote-on-kavanaugh-by--2-6753-1538427207-6_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Biden calls on Cuomo to quit after damning sexual harassment report"
+    excerpt: "New York governor accused of sexual harassment by 11 women in report published by state attorney general"
+    publishedDateTime: 2021-08-03T16:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Biden says New York Governor Cuomo should resign"
     excerpt: "U.S. President Joe Biden said on Tuesday that New York Governor Andrew Cuomo should resign in light of the findings of an investigation into sexual harassment allegations."
     publishedDateTime: 2021-08-03T19:51:00Z
@@ -61,141 +88,67 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Biden signs law honoring officers who fought U.S. Capitol attackers"
-    excerpt: "President Joe Biden on Thursday honored police officers who defended the U.S. Capitol against insurrectionists on Jan. 6 by signing legislation that awarded them Congressional Gold Medals and urging the country not to rewrite the history of that day."
-    publishedDateTime: 2021-08-05T21:43:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
+  - title: "President Biden Calls on New York Gov. Andrew Cuomo to Resign After Sexual Harassment Report"
+    excerpt: "New York Gov. Andrew Cuomo is facing mounting pressure to resign, including from President Joe Biden and other onetime Democratic allies"
+    publishedDateTime: 2021-08-04T06:53:00Z
+    webUrl: "https://time.com/6087311/andrew-cuomo-resign-sexual-harassment-biden/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Time
+      domain: time.com
+    quality: 94
     images:
-      - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
-        width: 1200
-        height: 628
+      - url: "https://api.time.com/wp-content/uploads/2021/08/new-york-gov-andrew-cuomo.jpeg"
+        width: 5760
+        height: 3840
         isCached: true
-  - title: "Biden to allow eviction moratorium to expire Saturday"
-    excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
-    publishedDateTime: 2021-07-29T17:49:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+  - title: "Biden, Wolf, top Dems say Cuomo should go; NY Gov remains defiant"
+    excerpt: "NEW YORK — New York Gov. Andrew Cuomo faced mounting pressure Tuesday to resign, including from President Joe Biden and other onetime Democratic allies, after an investigation found he"
+    publishedDateTime: 2021-08-04T03:54:00Z
+    webUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant"
+    ampWebUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
+    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: The Times Leader
+      domain: timesleader.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s24526.pcdn.co/wp-content/uploads/2021/08/127399379_web1_127399379-001d9c15dc9f465086b11321454c17a0.jpg.optimal.jpg"
+        width: 640
+        height: 446
         isCached: true
-  - title: "Biden to allow eviction moratorium to expire Saturday"
-    excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
-    publishedDateTime: 2021-08-03T07:54:00Z
-    webUrl: "https://www.registercitizen.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    ampWebUrl: "https://www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+  - title: "President Joe Biden: Andrew Cuomo should resign"
+    excerpt: "President Joe Biden on Tuesday afternoon called on New York Gov. Andrew M. Cuomo, a one-time ally and close political confidant, to step down. \"I think he should resign,\" Biden said when asked by repo"
+    publishedDateTime: 2021-08-03T20:19:00Z
+    webUrl: "https://www.newsday.com/news/region-state/cuomo-james-harassment-reaction-1.50324499"
+    ampWebUrl: "https://www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
     type: article
     provider:
-      name: The Register Citizen
-      domain: registercitizen.com
+      name: Newsday
+      domain: newsday.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50324512.1628025843!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
-  - title: "Nina Turner Learns the Hard Way That Democrats Like Joe Biden"
-    excerpt: "Nina Turner compared voting for Joe Biden last year to eating a “bowl of shit,” so it shouldn’t exactly be a surprise that she lost her bid for Congress after the race became about her disdain for the Democratic establishment."
-    publishedDateTime: 2021-08-04T07:20:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+  - title: "Student loan debt: Sen. Elizabeth Warren and Rep. Ayanna Pressley again urge President Joe Biden to extend payment pause, cancel $50K in debt"
+    excerpt: "The lawmakers also pressed Biden to extend a moratorium on payments and interest. The pause on student loan payments is set to expire in September."
+    publishedDateTime: 2021-07-27T16:50:00Z
+    webUrl: "https://www.masslive.com/politics/2021/07/student-loan-debt-sen-elizabeth-warren-and-rep-ayanna-pressley-again-urge-president-joe-biden-to-extend-payment-pause-cancel-50k-in-debt.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/07/student-loan-debt-sen-elizabeth-warren-and-rep-ayanna-pressley-again-urge-president-joe-biden-to-extend-payment-pause-cancel-50k-in-debt.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/07/student-loan-debt-sen-elizabeth-warren-and-rep-ayanna-pressley-again-urge-president-joe-biden-to-extend-payment-pause-cancel-50k-in-debt.html?outputType=amp"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: MassLive
+      domain: masslive.com
+    quality: 40
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/4b5/772/ea571572746b3f374d77126a28047c0699-GettyImages-1234163163.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "Tesla just got snubbed by Biden’s electric vehicle summit"
-    excerpt: "President Joe Biden will be celebrating ambitious electric vehicles goals by automakers at the White House on Thursday. But he’ll be doing so without the world’s largest maker of EVs:"
-    publishedDateTime: 2021-08-05T17:49:00Z
-    webUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/"
-    ampWebUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Tesla-Results_03544.jpg?w=1024&#038;h=623"
-        width: 1024
-        height: 623
-        isCached: true
-  - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
-    excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
-    publishedDateTime: 2021-08-02T12:31:00Z
-    webUrl: "https://www.app.com/story/news/politics/2021/08/01/aoc-points-democrats-biden-letting-eviction-moratorium-expire/5447218001/"
-    ampWebUrl: "https://amp.app.com/amp/5447218001"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5447218001"
-    type: article
-    provider:
-      name: app.com
-      domain: app.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/226581c8-4dfb-47e7-b88a-bb4301b3b749-Alexandria_Ocasio-Cortez_14.JPG?auto=webp&crop=1280,720,x0,y23&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden will allow eviction moratorium to expire Saturday"
-    excerpt: "As of July 5, roughly 3.6 million people in the U.S. said they faced eviction in the next two months, according to the U.S. Census Bureau."
-    publishedDateTime: 2021-07-29T16:09:00Z
-    webUrl: "https://bangordailynews.com/2021/07/29/national-politics/joe-biden-will-allow-eviction-moratorium-to-expire-saturday/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-5.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Joe Biden’s ‘summer of joy’ turns grim as delta infections skyrocket"
-    excerpt: "President Joe Biden promised a “summer of joy” on July 4 as he declared America’s independence from COVID-19. Three weeks later that sense of victory is evaporating in the face of a resurgent pandemic."
-    publishedDateTime: 2021-07-28T19:26:00Z
-    webUrl: "https://bangordailynews.com/2021/07/28/news/nation/joe-bidens-summer-of-joy-turns-grim-as-delta-infections-skyrocket/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-7.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Joe Biden wins voluntary pledges from auto makers"
-    excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
-    publishedDateTime: 2021-08-05T14:00:00Z
-    webUrl: "https://floridapolitics.com/archives/446203-joe-biden-wins-voluntary-pledges-from-auto-makers/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden-1.jpg"
-        width: 813
-        height: 526
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MBHKPG6635GIFGM7Z4NYMRD264.JPG"
+        width: 4500
+        height: 3000
         isCached: true
 
 secured: "tXCkCAsJgisia5X+da9uuefeFUzRfzsDTEywK6c/1HslCfQ0qTbddpR1ZhGxq/Rx/ZdP79dwJb1xY7N4LRprVVrPVeFyDbES/FDeuZxTkOXJ7Tn5lo02gKqY9U+3SMCFH2hrF/XsXAFtJqbtiAw+/ntUHAdburKSNxYLDUZuEfC12kZejuHCGprYX7QuBXDe2FtraMLRelDFTcCIsXiQhb+NWNyLVrHFa7Mwc2owXptCzJ1ITi8ysGlxfDla2r5ZopGO4Kebi18fyqKb3VBA+O4YRnm21zz/YflONVSUOon/KD+Wo0WfUK0uAkMTVxvqprudkP6tuh5b/Bv9nsSUPvKioD9V5F0V1e/uQ1JdaCoNbVUoXgQExXUMsSNd2921DdsXEa0aXpuZ0MWCvyRmo6QceVAKMfei0LEI3b+lgM4QNfwxWUaN7t0M7NV9t1BCPqk6gFiKhz60S//rPzl4HEyVn6meWaqN5vJDA02uKMiEW9BBTY4+NczP3zJTd9Vs5swLuBD8xHRFPCRC3PgQ+g==;eFJy+Vv8LWiXKS9EPRCz3Q=="

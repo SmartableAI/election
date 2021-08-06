@@ -1,33 +1,27 @@
 ---
 category: news
-title: "New Mexico Rep. Yvette Herrell letter urges Kamala Harris to visit U.S.-Mexico border"
-excerpt: "Yvette Herrell, whose district includes nearly 180 miles of the U.S. border with Mexico, called the current border situation a “crisis.”"
-publishedDateTime: 2021-05-26T00:06:00Z
-originalUrl: "https://www.usatoday.com/story/news/2021/05/25/yvette-herrell-urged-kamala-harris-immigration-conditions-new-mexico-border/7429745002/"
-webUrl: "https://www.usatoday.com/story/news/2021/05/25/yvette-herrell-urged-kamala-harris-immigration-conditions-new-mexico-border/7429745002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7429745002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7429745002"
+title: "Kamala Harris Knows She’s Trapped"
+excerpt: "I think it’s okay if we shake hands,” Kamala Harris told me last week. The vice president came out from behind her West Wing desk to greet me, her eyes smiling above her face mask. The last time I was in this particular office,"
+publishedDateTime: 2021-08-06T14:00:00Z
+originalUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/"
+webUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/"
 type: article
-quality: 118
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Government Executive
+  domain: govexec.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/04/13/PNM2/7c5b73e1-94f3-4abc-827e-407b8e999d0b-IMG_0096.JPG?auto=webp&crop=5486,3086,x0,y251&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://cdn.govexec.com/media/img/cd/2021/08/05/080621harris/open-graph.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -62,6 +56,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/rhQWtAZnWt_ZCL1GFDmdGWZpDAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FY7H2WUX7U7JB4YBU5N4Y5BTTI.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "New Mexico Rep. Yvette Herrell letter urges Kamala Harris to visit U.S.-Mexico border"
+    excerpt: "Yvette Herrell, whose district includes nearly 180 miles of the U.S. border with Mexico, called the current border situation a “crisis.”"
+    publishedDateTime: 2021-05-26T00:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/05/25/yvette-herrell-urged-kamala-harris-immigration-conditions-new-mexico-border/7429745002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7429745002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7429745002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/13/PNM2/7c5b73e1-94f3-4abc-827e-407b8e999d0b-IMG_0096.JPG?auto=webp&crop=5486,3086,x0,y251&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
@@ -299,20 +309,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris Knows She’s Trapped"
-    excerpt: "I think it’s okay if we shake hands,” Kamala Harris told me last week. The vice president came out from behind her West Wing desk to greet me, her eyes smiling above her face mask. The last time I was in this particular office,"
-    publishedDateTime: 2021-08-06T14:00:00Z
-    webUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 55
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2021/08/05/080621harris/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T20:49:00Z
@@ -366,6 +362,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "wCqXY8wFHahUfgE/aZl/lCb1UvOT3mxOmi5t41BGGaEVMCasgeu/sFEOy9FR+mJzgb5EHxtRFEJ9A3MjfYzhBpH6n7c10wkAR6fX01FLpiKkJ1Kc8wNOBvJ/AtlusDVF+KgJihVOmINhVwl1Zd1o2Q8ynWEazx4fSAWTl0s76SC1kWQT6TXH9GWA1tE4DdDHFd6uWgUeooBLqOGdXCatgxtR/8MvvZkifx5RTNwOvRNhWeKaCob1iUlvMl5ERmbAwU0alP3fUnxmFCT4IXaggN4RZj4BAYJ9T5OK85rZaxVGg4affkWFez06gbgAFw47jYsJiZrgxgY3p9WwzGSsQAoojPshbuuR5FDjghZ0M8AyBFvZ5nNlWnMNrmk97azp18dowk92in+ftm+cDSgHNAO6HOwY/8ZT9Em5UDaWFTFGHBBzL/YVugDf8EMKKN9+uRJSCjsOpZIMucpqQ9jmAoRI7zXFvZSQDHCxZszaFZRD1RFj4TwvjsfStIUQd3+XUJPT4vqEbnE/mSlbihvzwg==;iXi8fjSeC5hBtEU08CNGZw=="
+secured: "DB1yxPDovrmYTNq34IUq6SdRxN31a9om/qHDsPYj1YI21Vmm9nECOLl0zsKLFPhitV6jCvR0TffEtn7YzrNRycXwhasYCFyMM4EN79MQPTUWDL5v6al1lkYJ/OJxHUMsExFXBNlK6WKZrcZSHgfn1xY8VvcTlU6tUdHdksR2n7pRn1Ba6FB0kBuzqg3OA/sTEt0eqNU8mEf+GNKecL1VZKabo6rUcizz1oTvq6okQqIjDoZE04ri+LJkidYucTtvl9ZJn9Ual3Xg+tJeHbbFoewpuctZK1ZES36Ym0/bksDy2yEnZqa/0sn8GsCshBM23IxyK7Mo2fE/o0fXL5F1mMDdecuxSvYuDhrR388mF5o=;sqmngXEA5ySxa7bgc7objA=="
 ---
 

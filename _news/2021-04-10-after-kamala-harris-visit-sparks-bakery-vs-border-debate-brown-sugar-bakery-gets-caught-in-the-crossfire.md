@@ -299,6 +299,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris Knows She’s Trapped"
+    excerpt: "I think it’s okay if we shake hands,” Kamala Harris told me last week. The vice president came out from behind her West Wing desk to greet me, her eyes smiling above her face mask. The last time I was in this particular office,"
+    publishedDateTime: 2021-08-06T14:00:00Z
+    webUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 55
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2021/08/05/080621harris/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T20:49:00Z

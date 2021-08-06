@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden to tout strong July jobs numbers – US politics live"
+    excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
+    publishedDateTime: 2021-08-06T14:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/5bbf7160556a0c06b00e62b1b89370960f759717/0_12_3412_2047/master/3412.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f2a7c1e0abff4a6f33d85bc9a4b4b77"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
+    excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
+    publishedDateTime: 2021-08-02T18:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610847fc8f0811859febbb4d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/b003b22fbe95982e4d1f1773949a0e3dc7761a94/0_233_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c07d08b5eac45494f0af0b3b64420e54"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden nominates one-time union lawyers for FLRA posts"
     excerpt: "President Joe Biden has tapped two government officials and former union lawyers to serve at the Federal Labor Relations Authority, who if confirmed by the Senate, will give the three-member panel a Democratic majority and its first general counsel since the Obama administration."
     publishedDateTime: 2021-08-05T19:46:00Z
@@ -39,17 +71,121 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – as it happened"
-    excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
-    publishedDateTime: 2021-07-30T18:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+  - title: "Biden signs law honoring officers who fought U.S. Capitol attackers"
+    excerpt: "President Joe Biden on Thursday honored police officers who defended the U.S. Capitol against insurrectionists on Jan. 6 by signing legislation that awarded them Congressional Gold Medals and urging the country not to rewrite the history of that day."
+    publishedDateTime: 2021-08-05T21:43:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
+    excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
+    publishedDateTime: 2021-08-05T20:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/05/joe-biden-half-of-new-vehicles-sold-in-us-to-be-electric-by-2030-video"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 87
+    quality: 104
+    images:
+      - url: "https://i.guim.co.uk/img/media/745804975cbd89d98ae105f2c45c603f6403b50c/0_270_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33d267e28606147d6cde84d90626b143"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Activist says Southwest told her to cover Biden sign because ‘many’ were offended"
+    excerpt: "Jenny Grondahl flew from Phoenix to San Diego, carrying a souvenir: a cardboard sign she wanted to frame when she got home to Southern California. It read “Arizonenses Con Biden” with a cactus and was made by an artist named Javier Torres."
+    publishedDateTime: 2021-08-06T02:13:00Z
+    webUrl: "https://www.washingtonpost.com/travel/2021/08/05/southwest-airline-biden-sign-dress-code/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NSPBHSBOCZALRLC5ECVA4NBNZA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden to allow eviction moratorium to expire Saturday"
+    excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
+    publishedDateTime: 2021-08-03T07:54:00Z
+    webUrl: "https://www.registercitizen.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+    ampWebUrl: "https://www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+    type: article
+    provider:
+      name: The Register Citizen
+      domain: registercitizen.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Nina Turner Learns the Hard Way That Democrats Like Joe Biden"
+    excerpt: "Nina Turner compared voting for Joe Biden last year to eating a “bowl of shit,” so it shouldn’t exactly be a surprise that she lost her bid for Congress after the race became about her disdain for the Democratic establishment."
+    publishedDateTime: 2021-08-04T07:20:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4b5/772/ea571572746b3f374d77126a28047c0699-GettyImages-1234163163.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Tesla just got snubbed by Biden’s electric vehicle summit"
+    excerpt: "President Joe Biden will be celebrating ambitious electric vehicles goals by automakers at the White House on Thursday. But he’ll be doing so without the world’s largest maker of EVs:"
+    publishedDateTime: 2021-08-05T17:49:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Tesla-Results_03544.jpg?w=1024&#038;h=623"
+        width: 1024
+        height: 623
+        isCached: true
+  - title: "Biden’s new evictions moratorium faces legality doubts"
+    excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
+    publishedDateTime: 2021-08-04T23:35:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Joe Biden wins voluntary pledges from auto makers"
+    excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
+    publishedDateTime: 2021-08-05T14:00:00Z
+    webUrl: "https://floridapolitics.com/archives/446203-joe-biden-wins-voluntary-pledges-from-auto-makers/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden-1.jpg"
+        width: 813
+        height: 526
+        isCached: true
   - title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
     excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
     publishedDateTime: 2021-08-04T21:35:00Z
@@ -64,6 +200,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
+    excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."
+    publishedDateTime: 2021-08-03T22:03:00Z
+    webUrl: "https://www.c-span.org/video/?c4972380/user-clip-joe-biden-calls-gov-cuomo-resign"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Ef+abOBkpe/UYl0KSX5WlOvg3rj7r1br8x1VqSMjsrR280d1UXLXwJRK4O7qdm15fwXY+NW0RhEi0+2YG9sIiA35UVfwXyeXJX55Q1/Pc3RG1kLo1Sd5wG15b2z2WvXalLb6vpImcRkGLblhbEZuuG4v25vv3Qtmk0IAT3NkQjUKlYqzwoReBNUI9bpkgxkZrz3AkUFKTMB4EFoEJYQNKVGW1UySb89nc5NJ6S8JAwQGfB94cHkNXyZfqyjBs1f84/z1c3ICUODc+O2MyThM/PINloQ1ndONjM+TAbcQGTMaW69+r8sO+b0Kyd/S8Xu1GYmWXTCVwuRVDungkpqEUQ4wPg+nB8BDTfrpYFn2YDw=;Q16xAVXbJwAqDY26mo/nOQ=="
 ---

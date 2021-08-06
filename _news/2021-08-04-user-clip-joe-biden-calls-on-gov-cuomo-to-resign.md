@@ -19,94 +19,194 @@ topics:
   - Joe Biden
 
 related:
-  - title: "First Thing: Biden urges Cuomo to quit amid allegations of serial sexual harassment"
-    excerpt: "New York governor denies having ‘inappropriately touched’ 11 women as calls for his resignation mount. Plus: How a successful journalist realised she had to get rid of Twitter, for good"
-    publishedDateTime: 2021-08-04T09:55:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment"
+  - title: "Joe Biden to tout strong July jobs numbers – US politics live"
+    excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
+    publishedDateTime: 2021-08-06T14:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/339ceb2729f1c35c7fc197ef7c5a3068fc675e17/67_0_3366_2021/master/3366.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=73516b15c05b3561c101a7dbff8b4e90"
+      - url: "https://i.guim.co.uk/img/media/5bbf7160556a0c06b00e62b1b89370960f759717/0_12_3412_2047/master/3412.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f2a7c1e0abff4a6f33d85bc9a4b4b77"
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden Said Andrew Cuomo Should Resign After An Investigation Into Allegations Of Sexual Harassment"
-    excerpt: "I think he should resign,\" Biden said of Cuomo at a news conference Tuesday. President Joe Biden called on Gov. Andrew Cuomo to resign but refused to say whether he believes the governor should be prosecuted,"
-    publishedDateTime: 2021-08-03T22:15:00Z
-    webUrl: "https://www.buzzfeednews.com/article/ryancbrooks/joe-biden-andrew-cuomo-resign"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cuomo-resign"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/joe-biden-andrew-cuomo-resign"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 109
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-10/1/16/campaign_images/buzzfeed-prod-web-04/republicans-are-planning-to-vote-on-kavanaugh-by--2-6753-1538427207-6_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "Biden calls on Cuomo to quit after damning sexual harassment report"
-    excerpt: "New York governor accused of sexual harassment by 11 women in report published by state attorney general"
-    publishedDateTime: 2021-08-03T16:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+  - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
+    excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
+    publishedDateTime: 2021-08-02T18:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610847fc8f0811859febbb4d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/b003b22fbe95982e4d1f1773949a0e3dc7761a94/0_233_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c07d08b5eac45494f0af0b3b64420e54"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden nominates one-time union lawyers for FLRA posts"
+    excerpt: "President Joe Biden has tapped two government officials and former union lawyers to serve at the Federal Labor Relations Authority, who if confirmed by the Senate, will give the three-member panel a Democratic majority and its first general counsel since the Obama administration."
+    publishedDateTime: 2021-08-05T19:46:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/biden-nominates-one-time-union-lawyers-flra-posts-2021-08-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
-  - title: "President Biden Calls on New York Gov. Andrew Cuomo to Resign After Sexual Harassment Report"
-    excerpt: "New York Gov. Andrew Cuomo is facing mounting pressure to resign, including from President Joe Biden and other onetime Democratic allies"
-    publishedDateTime: 2021-08-04T06:53:00Z
-    webUrl: "https://time.com/6087311/andrew-cuomo-resign-sexual-harassment-biden/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 94
     images:
-      - url: "https://api.time.com/wp-content/uploads/2021/08/new-york-gov-andrew-cuomo.jpeg"
-        width: 5760
-        height: 3840
+      - url: "https://www.reuters.com/resizer/du4QhEZC4jrV6Zr3vSHX7gPEuWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2GP7SQRADFM2RJWPTVIHVQ44MQ.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Biden, Wolf, top Dems say Cuomo should go; NY Gov remains defiant"
-    excerpt: "NEW YORK — New York Gov. Andrew Cuomo faced mounting pressure Tuesday to resign, including from President Joe Biden and other onetime Democratic allies, after an investigation found he"
-    publishedDateTime: 2021-08-04T03:54:00Z
-    webUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant"
-    ampWebUrl: "https://www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1505290/biden-wolf-top-dems-say-cuomo-should-go-ny-gov-remains-defiant/amp"
+  - title: "Biden signs law honoring officers who fought U.S. Capitol attackers"
+    excerpt: "President Joe Biden on Thursday honored police officers who defended the U.S. Capitol against insurrectionists on Jan. 6 by signing legislation that awarded them Congressional Gold Medals and urging the country not to rewrite the history of that day."
+    publishedDateTime: 2021-08-05T21:43:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
     type: article
     provider:
-      name: The Times Leader
-      domain: timesleader.com
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
+    excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
+    publishedDateTime: 2021-08-05T20:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/05/joe-biden-half-of-new-vehicles-sold-in-us-to-be-electric-by-2030-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
+    images:
+      - url: "https://i.guim.co.uk/img/media/745804975cbd89d98ae105f2c45c603f6403b50c/0_270_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33d267e28606147d6cde84d90626b143"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Activist says Southwest told her to cover Biden sign because ‘many’ were offended"
+    excerpt: "Jenny Grondahl flew from Phoenix to San Diego, carrying a souvenir: a cardboard sign she wanted to frame when she got home to Southern California. It read “Arizonenses Con Biden” with a cactus and was made by an artist named Javier Torres."
+    publishedDateTime: 2021-08-06T02:13:00Z
+    webUrl: "https://www.washingtonpost.com/travel/2021/08/05/southwest-airline-biden-sign-dress-code/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NSPBHSBOCZALRLC5ECVA4NBNZA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden to allow eviction moratorium to expire Saturday"
+    excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
+    publishedDateTime: 2021-08-03T07:54:00Z
+    webUrl: "https://www.registercitizen.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+    ampWebUrl: "https://www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+    type: article
+    provider:
+      name: The Register Citizen
+      domain: registercitizen.com
     quality: 75
     images:
-      - url: "https://s24526.pcdn.co/wp-content/uploads/2021/08/127399379_web1_127399379-001d9c15dc9f465086b11321454c17a0.jpg.optimal.jpg"
-        width: 640
-        height: 446
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "President Joe Biden: Andrew Cuomo should resign"
-    excerpt: "President Joe Biden on Tuesday afternoon called on New York Gov. Andrew M. Cuomo, a one-time ally and close political confidant, to step down. \"I think he should resign,\" Biden said when asked by repo"
-    publishedDateTime: 2021-08-03T20:19:00Z
-    webUrl: "https://www.newsday.com/news/region-state/cuomo-james-harassment-reaction-1.50324499"
-    ampWebUrl: "https://www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/cuomo-james-harassment-reaction-1.50324499"
+  - title: "Nina Turner Learns the Hard Way That Democrats Like Joe Biden"
+    excerpt: "Nina Turner compared voting for Joe Biden last year to eating a “bowl of shit,” so it shouldn’t exactly be a surprise that she lost her bid for Congress after the race became about her disdain for the Democratic establishment."
+    publishedDateTime: 2021-08-04T07:20:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/nina-turner-learns-the-hard-way-that-democrats-like-biden.html"
     type: article
     provider:
-      name: Newsday
-      domain: newsday.com
+      name: New York Magazine
+      domain: nymag.com
     quality: 75
     images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50324512.1628025843!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://pyxis.nymag.com/v1/imgs/4b5/772/ea571572746b3f374d77126a28047c0699-GettyImages-1234163163.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Tesla just got snubbed by Biden’s electric vehicle summit"
+    excerpt: "President Joe Biden will be celebrating ambitious electric vehicles goals by automakers at the White House on Thursday. But he’ll be doing so without the world’s largest maker of EVs:"
+    publishedDateTime: 2021-08-05T17:49:00Z
+    webUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/"
+    ampWebUrl: "https://www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/08/05/tesla-just-got-snubbed-by-bidens-electric-vehicle-summit/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Tesla-Results_03544.jpg?w=1024&#038;h=623"
+        width: 1024
+        height: 623
+        isCached: true
+  - title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
+    excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
+    publishedDateTime: 2021-08-04T20:41:00Z
+    webUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Congress-Infrastructure-2.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Biden’s new evictions moratorium faces legality doubts"
+    excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
+    publishedDateTime: 2021-08-04T23:35:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Joe Biden wins voluntary pledges from auto makers"
+    excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
+    publishedDateTime: 2021-08-05T14:00:00Z
+    webUrl: "https://floridapolitics.com/archives/446203-joe-biden-wins-voluntary-pledges-from-auto-makers/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden-1.jpg"
+        width: 813
+        height: 526
+        isCached: true
+  - title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
+    excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
+    publishedDateTime: 2021-08-04T21:35:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/fe434ad2e733d4a54d9932d2797b8888/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/fe434ad2e733d4a54d9932d2797b8888/BIDEN-UNION.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "AYZMUmBMRnppKy+YT3kzOcDw9PaRPbogw7ctoVEzSdlEZpnhwRWs8BEut4lJl3WOVdmWC4vK2XD6PaD1ozofJOzl+SPgB4n4XlujHTy2oK3kJI1+1Q4EAj4zyz8FNnOOX7grdpq76XTNbVbUq1GTQ9ZwVOWfY5hIq+s1w2TNQRTySEs103dKNFRFX7qscmFw7xpw5bu30i4FqvF/Re2EW7Ls91Ml2AMPU8Jo1QwGdWeSK7YOHTySnplFP8cxmI4n29yVEyruhDDHY3oNneoz/B76eZuz2cZ8nf2Ar5UsoioyKddWgauwQGcTvck1CrWm9+K/f/J54n0ZY+dA3Le74gpmvf5jH1Uan0Ajpk++RwSnEjjGZm9PTBWrx5VX0vzXtnLbZQHxgrPk09gMzNpNLR3LMOtgzIBiWazDvHNgmMDOUV85kXEqDiFPB0KCFTOkyDWWdP2byAXFkFSNwPukKj4wIpu87SHoGVkoxnINtgXfUz2j9bwkLu0DTAOS6XUsunTtHxhxLCxHKEQRzPZSNA==;Tpk0pONsvn/lldmOQBNjJQ=="

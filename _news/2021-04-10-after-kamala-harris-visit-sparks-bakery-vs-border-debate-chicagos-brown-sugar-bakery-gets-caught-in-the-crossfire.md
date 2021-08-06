@@ -311,6 +311,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris Knows She’s Trapped"
+    excerpt: "I think it’s okay if we shake hands,” Kamala Harris told me last week. The vice president came out from behind her West Wing desk to greet me, her eyes smiling above her face mask. The last time I was in this particular office,"
+    publishedDateTime: 2021-08-06T14:00:00Z
+    webUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 55
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2021/08/05/080621harris/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z

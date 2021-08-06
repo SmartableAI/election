@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden signs law honoring officers who fought U.S. Capitol attackers"
-excerpt: "President Joe Biden on Thursday honored police officers who defended the U.S. Capitol against insurrectionists on Jan. 6 by signing legislation that awarded them Congressional Gold Medals and urging the country not to rewrite the history of that day."
-publishedDateTime: 2021-08-05T21:43:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
-webUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
+title: "Joe Biden to tout strong July jobs numbers – US politics live"
+excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
+publishedDateTime: 2021-08-06T14:06:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
-quality: 105
-heat: -1
-published: false
+quality: 125
+heat: 385
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,28 +25,12 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
-    width: 1200
-    height: 628
+  - url: "https://i.guim.co.uk/img/media/5bbf7160556a0c06b00e62b1b89370960f759717/0_12_3412_2047/master/3412.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f2a7c1e0abff4a6f33d85bc9a4b4b77"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "Joe Biden to tout strong July jobs numbers – US politics live"
-    excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
-    publishedDateTime: 2021-08-06T14:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/5bbf7160556a0c06b00e62b1b89370960f759717/0_12_3412_2047/master/3412.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f2a7c1e0abff4a6f33d85bc9a4b4b77"
-        width: 600
-        height: 360
-        isCached: true
   - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
     excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
     publishedDateTime: 2021-08-02T18:52:00Z
@@ -72,6 +58,20 @@ related:
     quality: 105
     images:
       - url: "https://www.reuters.com/resizer/du4QhEZC4jrV6Zr3vSHX7gPEuWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2GP7SQRADFM2RJWPTVIHVQ44MQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Biden signs law honoring officers who fought U.S. Capitol attackers"
+    excerpt: "President Joe Biden on Thursday honored police officers who defended the U.S. Capitol against insurrectionists on Jan. 6 by signing legislation that awarded them Congressional Gold Medals and urging the country not to rewrite the history of that day."
+    publishedDateTime: 2021-08-05T21:43:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
         width: 1200
         height: 628
         isCached: true
@@ -214,6 +214,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Bl/JeyHL95JIvIn5gMyRk2kiqZvxCBUqP3bg+WN6d1F2TopIf7BPDPHVWFl1UJFXJ8NF8AH5g2L2CeJoPhY4+hNJH+77v2jU1vdrmSOnMRzN9zt1NNuWaSg7DLLmCD29/vyl+3EpfGgPBvB3Zt3TbmWRUN99SIi/MhYpXNvJ7D6h7DsmS9wKA5EEnW7WhinZ7Q7JXkLtNwM0kn9nB1Nu0gsC5Hxb62Wc2kLV2ypodg7Emt0mgku1ltEcnzwvtuoeF9kdaY81/G5TEpzCCglEz0XCsBVI8HnVfa8hWHcqhrikOvqcYYYsatvNY55Ws9LJQ/rmP86Q0P1YwImDzlGkIksxl9gAJEw6R/KUoAYHxik=;UBMOeuT2oG+ndKWem27SIQ=="
+secured: "BU9JkHDy+UA7UAaTnC10epofiNufaXHlvRy9mntSZRgXqJmX6BYqgJzl3IMSsy9pwO6ecmveP0kUMrUiSKj46c8ym8YUqVo4nk5im4Q1xBs9r8HR1pOfgxRimHp4Xsnah9ZbdvlxPkikapeH1zGFzkYAFSDgdrGhRuRGXSY1WNBpXiUKI7r8E7sVCOaoe/8+qmkVh4ZeF+gpAL+sEXMLozUFBaRu8Zr1aeprMuZM80Lx4/ONSnJ/rF8X9zthzpHaXFn52LwjTBWz3Yvjq3ILqhavlu6sZVAuwukyFmL1Gt2VTW5gkJPeaHc5LWcXkSzTUcZVrHKXlvkaItjotFQu56pWVhxVVOObgL7T2jXHiXE=;goRqVCXQfXKxTFV26QjZCA=="
 ---
 

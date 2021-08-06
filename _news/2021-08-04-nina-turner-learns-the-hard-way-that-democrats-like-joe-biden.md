@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden to tout strong July jobs numbers – US politics live"
+    excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
+    publishedDateTime: 2021-08-06T14:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/5bbf7160556a0c06b00e62b1b89370960f759717/0_12_3412_2047/master/3412.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f2a7c1e0abff4a6f33d85bc9a4b4b77"
+        width: 600
+        height: 360
+        isCached: true
   - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
     excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
     publishedDateTime: 2021-08-02T18:52:00Z
@@ -43,33 +59,17 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’"
-    excerpt: "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit"
-    publishedDateTime: 2021-08-03T18:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden says New York Governor Cuomo should resign"
-    excerpt: "U.S. President Joe Biden said on Tuesday that New York Governor Andrew Cuomo should resign in light of the findings of an investigation into sexual harassment allegations."
-    publishedDateTime: 2021-08-03T19:51:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-says-new-york-governor-cuomo-should-resign-2021-08-03/"
+  - title: "Biden nominates one-time union lawyers for FLRA posts"
+    excerpt: "President Joe Biden has tapped two government officials and former union lawyers to serve at the Federal Labor Relations Authority, who if confirmed by the Senate, will give the three-member panel a Democratic majority and its first general counsel since the Obama administration."
+    publishedDateTime: 2021-08-05T19:46:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/biden-nominates-one-time-union-lawyers-flra-posts-2021-08-05/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.reuters.com/resizer/Nq28S3fMjfcOPXgn9m1nOVKW_3Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U3LD7ZQLBNPH3AT5I626SLGSA4.jpg"
+      - url: "https://www.reuters.com/resizer/du4QhEZC4jrV6Zr3vSHX7gPEuWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2GP7SQRADFM2RJWPTVIHVQ44MQ.jpg"
         width: 1200
         height: 628
         isCached: true
@@ -87,21 +87,33 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Biden to allow eviction moratorium to expire Saturday"
-    excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
-    publishedDateTime: 2021-07-29T17:49:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php"
+  - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
+    excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
+    publishedDateTime: 2021-08-05T20:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/05/joe-biden-half-of-new-vehicles-sold-in-us-to-be-electric-by-2030-video"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://i.guim.co.uk/img/media/745804975cbd89d98ae105f2c45c603f6403b50c/0_270_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33d267e28606147d6cde84d90626b143"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Activist says Southwest told her to cover Biden sign because ‘many’ were offended"
+    excerpt: "Jenny Grondahl flew from Phoenix to San Diego, carrying a souvenir: a cardboard sign she wanted to frame when she got home to Southern California. It read “Arizonenses Con Biden” with a cactus and was made by an artist named Javier Torres."
+    publishedDateTime: 2021-08-06T02:13:00Z
+    webUrl: "https://www.washingtonpost.com/travel/2021/08/05/southwest-airline-biden-sign-dress-code/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NSPBHSBOCZALRLC5ECVA4NBNZA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden to allow eviction moratorium to expire Saturday"
     excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
@@ -135,50 +147,31 @@ related:
         width: 1024
         height: 623
         isCached: true
-  - title: "AOC blames Democrats for letting eviction moratorium expire, says Biden wasn't 'forthright'"
-    excerpt: "We cannot in good faith blame House Republicans when Democrats have the majority,' New York Rep. Ocasio-Cortez said Sunday."
-    publishedDateTime: 2021-08-02T12:31:00Z
-    webUrl: "https://www.app.com/story/news/politics/2021/08/01/aoc-points-democrats-biden-letting-eviction-moratorium-expire/5447218001/"
-    ampWebUrl: "https://amp.app.com/amp/5447218001"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/5447218001"
+  - title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
+    excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
+    publishedDateTime: 2021-08-04T20:41:00Z
+    webUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
     type: article
     provider:
-      name: app.com
-      domain: app.com
-    quality: 65
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/226581c8-4dfb-47e7-b88a-bb4301b3b749-Alexandria_Ocasio-Cortez_14.JPG?auto=webp&crop=1280,720,x0,y23&format=pjpg&width=1200"
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Congress-Infrastructure-2.jpg"
         width: 1200
-        height: 675
+        height: 799
         isCached: true
-  - title: "Joe Biden will allow eviction moratorium to expire Saturday"
-    excerpt: "As of July 5, roughly 3.6 million people in the U.S. said they faced eviction in the next two months, according to the U.S. Census Bureau."
-    publishedDateTime: 2021-07-29T16:09:00Z
-    webUrl: "https://bangordailynews.com/2021/07/29/national-politics/joe-biden-will-allow-eviction-moratorium-to-expire-saturday/"
+  - title: "Biden’s new evictions moratorium faces legality doubts"
+    excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
+    publishedDateTime: 2021-08-04T23:35:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
     type: article
     provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-5.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Joe Biden’s ‘summer of joy’ turns grim as delta infections skyrocket"
-    excerpt: "President Joe Biden promised a “summer of joy” on July 4 as he declared America’s independence from COVID-19. Three weeks later that sense of victory is evaporating in the face of a resurgent pandemic."
-    publishedDateTime: 2021-07-28T19:26:00Z
-    webUrl: "https://bangordailynews.com/2021/07/28/news/nation/joe-bidens-summer-of-joy-turns-grim-as-delta-infections-skyrocket/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden-7.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Joe Biden wins voluntary pledges from auto makers"
     excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
     publishedDateTime: 2021-08-05T14:00:00Z
@@ -193,6 +186,29 @@ related:
         width: 813
         height: 526
         isCached: true
+  - title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
+    excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
+    publishedDateTime: 2021-08-04T21:35:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/fe434ad2e733d4a54d9932d2797b8888/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/fe434ad2e733d4a54d9932d2797b8888/BIDEN-UNION.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
+    excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."
+    publishedDateTime: 2021-08-03T22:03:00Z
+    webUrl: "https://www.c-span.org/video/?c4972380/user-clip-joe-biden-calls-gov-cuomo-resign"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "HilMii30/bEW252XXtGgBVt2bkhcm8/Kh69qcsFWagibU04L2IW7r1chWgk24n6f06XoIn75L0AyJ1zYzSgmEJeaqiFAOq0uZRAu5pwsEEgyH04USIOCsA5tGN3fnwhPECd0A6dwDiGTzNLsZK68FPNBZEsOLVpxhOySI3E0wEZcfnOcn5stETpg5s8ebxRqlukGjJ9PnZj1k0D58PF9gg+NITvl8beG9hE51kUQNiU4IcuSbwpsZ6g65vI4TgTbr4zLsNl4JW7jJUOsPtfQtmzs0bMiimaaZteY1n6LY7hAyJGmK38bs/ntqkuNzREcubXlj7glozK7K0t4llI5fT4q8Dc5NmQ/ETxnCylu/3XXR8XnrKdfRiDUichYchZrUDzmqQYPPEVm29qjr8+2+3jI90yr5Vsb5Kttj3J8DQ+M1wLCxXp5ERyKObWuBtZJbB+fo7FZitvlwJyAc0riisjAVMrhLM8pxgNqRW8pjqjZ3Oa+n+Tg1tn+3oCZ3h2pWEiUXsTJKpy53xMtu/rpAw==;t1A1/78tm4NISQd5CxrGEQ=="
 ---

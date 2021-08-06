@@ -2,101 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-28-buttigieg-to-visit-port-of-baltimore-to-tout-bidens-infrastructure-deal-thursday.md",
-      "title": "Buttigieg to visit Port of Baltimore to tout Biden’s infrastructure deal Thursday",
-      "excerpt": "U.S. Transportation Secretary Pete Buttigieg will visit the Port of Baltimore Thursday to tout the benefits of President Biden’s bipartisan infrastructure deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html",
-      "originalUrl": "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/h6Rm5NBj7Ozf4K1WOjI2vNjcCiU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJD6BCIZURG63GMQBACHLFPMHY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html?outputType=amp",
-      "publishedDateTime": "2021-07-27T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-officer-trump-helped-create-this-monstrosity.md",
-      "title": "Officer: Trump 'helped create this monstrosity'",
-      "excerpt": "In testimony before the panel probing the attack on the U.S. Capitol, a police sergeant blasted former President Donald Trump's description of the scene as \"a loving crowd\". (July 27)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/27/officer-trump-helped-create-monstrosity/5389523001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/24e97548-973a-41c4-a28a-d6a8d389859d_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-27-joe-bidens-wheres-mom-remarks-go-viral-as-critics-jump-on-apparent-confusion.md",
       "title": "Joe Biden's 'Where's Mom?' Remarks Go Viral as Critics Jump on Apparent Confusion",
       "excerpt": "The president called Representative Jim Langevin \"Paul\" at an event celebrating the Americans with Disabilities Act.",
@@ -1306,6 +1211,110 @@
       "topics": [
         "Election",
         "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-i-alone-can-fix-it-carol-leonnig-and-philip-rucker-on-their-trump-bestseller.md",
+      "title": "I Alone Can Fix It: Carol Leonnig and Philip Rucker on their Trump bestseller",
+      "excerpt": "The Washington Post reporters have unleashed a second startling story of incompetence and malevolence in the White House",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
+      "originalUrl": "https://www.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8cc42eb3c56aa9ffb79ab92e2f7e56f65ffdea68/0_0_4000_2399/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5217cfdf1e9c460dce0e880b25dcd4e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
+      "publishedDateTime": "2021-07-24T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-ap-fact-check-trump-is-relentless-in-election-fabrications.md",
+      "title": "AP FACT CHECK: Trump is relentless in election fabrications",
+      "excerpt": "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 860,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_ed96847b6f054e7392989f75fa9f50f7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "publishedDateTime": "2021-07-24T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Donald Trump"
       ]
     }

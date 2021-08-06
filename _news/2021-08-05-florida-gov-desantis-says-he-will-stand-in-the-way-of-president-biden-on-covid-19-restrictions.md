@@ -31,106 +31,52 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash"
-    excerpt: "President Joe Biden on Thursday announced new measures to stop the spread of COVID-19 and the new Delta variant in the United States that will impact millions of federal workers, contractors and private citizens."
-    publishedDateTime: 2021-08-01T22:13:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
+  - title: "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race"
+    excerpt: "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\""
+    publishedDateTime: 2021-08-06T15:41:00Z
+    webUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923"
+    ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210729&t=2&i=1570403906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6S1J9"
-        width: 817
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1864686/joe-biden-ron-desantis-split.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "Biden tells Florida, Texas leaders: Help on COVID-19 or 'get out of the way'"
-    excerpt: "U.S. President Joe Biden on Tuesday urged Republican leaders in Florida and Texas - home to roughly a third of all new U.S. COVID-19 cases - to follow public health guidelines on the pandemic or \"get out of the way\" as the country struggles to contain the rapid spread"
-    publishedDateTime: 2021-08-04T00:27:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vaccines/white-house-to-florida-texas-leaders-help-on-covid-19-or-get-out-of-the-way-idUSKBN2F41CD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2F41CD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2F41CD"
+  - title: "DeSantis’ shot in COVID feud with Biden: ‘I don’t want to hear a blip ... from you’"
+    excerpt: "Gov. Ron DeSantis lashed out at President Joe Biden a day after Biden told the Republican governor to “get out of the way” of mask mandates."
+    publishedDateTime: 2021-08-04T19:50:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253259453.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253259453.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253259453.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 69
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210803&t=2&i=1570828817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH720T7"
-        width: 886
-        height: 545
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/ca109304-95eb-412d-bef5-05c75ed6bdcb/d0ed0834-5025-46cb-9e94-94b57654d942/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Help or 'get out of the way.' Biden criticizes governors in Texas and Florida over handling of COVID-19"
-    excerpt: "Biden singled out Florida and Texas, both GOP-led hot spots that have pushed back against coronavirus restrictions in recent days."
-    publishedDateTime: 2021-08-04T10:53:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/03/get-out-of-the-way-biden-wades-into-state-level-fights-over-covid-measures/5473118001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5473118001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5473118001"
+  - title: "‘Governor who?’: Joe Biden dismisses Ron DeSantis’ tirade"
+    excerpt: "Ron DeSantis ‘ lengthy rebuttal to President Joe Biden ‘s rebuke of his pandemic response, Biden dismissed DeSantis’ speech in a five-word rebuttal Thursday. “Governor who?” Biden said, laughing off a reporter’s request for comment."
+    publishedDateTime: 2021-08-05T22:31:00Z
+    webUrl: "https://floridapolitics.com/archives/446354-governor-who-joe-biden-dismisses-ron-desantis-tirade/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/04/USAT/c67fd80a-cd82-4896-b1e4-23c951fa9387-AP_Biden_3.jpg?auto=webp&crop=4355,2450,x0,y221&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden Says US To See New Covid Restrictions 'In All Probability'"
-    excerpt: "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases."
-    publishedDateTime: 2021-07-31T03:58:00Z
-    webUrl: "https://www.barrons.com/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
-    ampWebUrl: "https://www.barrons.com/amp/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 75
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP2386071646288012197218104372370316208947---1.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
-    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-    publishedDateTime: 2021-08-06T07:04:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "'Clock is running out.' As COVID-19 cases climb, Biden faces rising pressure to fill top FDA job"
-    excerpt: "Five months ago, former heads of the Food and Drug Administration urged Joe Biden to make filling that position a priority but it's still vacant."
-    publishedDateTime: 2021-08-03T09:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/03/covid-19-cases-rise-biden-faces-pressure-fill-vacant-fda-job/5452301001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 72
-  - title: "Biden’s new evictions moratorium faces legality doubts"
-    excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
-    publishedDateTime: 2021-08-04T23:35:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Florida Politics
+      domain: floridapolitics.com
     quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden-jul-16.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
     excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
     publishedDateTime: 2021-08-04T15:52:00Z
@@ -144,6 +90,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/22OhioStreet060420_NAW2-1.jpg"
         width: 1024
         height: 640
+        isCached: true
+  - title: "Joe Biden to Ron DeSantis: ‘If you aren’t going to help, at least get out of the way’"
+    excerpt: "Biden called bans against mask and vaccine mandates the 'worst of all.' The White House issued a warning to Gov. Ron DeSantis Tuesday after Florida saw a record number of new hospitalizations related to COVID-19."
+    publishedDateTime: 2021-08-03T22:25:00Z
+    webUrl: "https://floridapolitics.com/archives/445575-joe-biden-to-ron-desantis-if-you-arent-going-to-help-at-least-get-out-of-the-way/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 48
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/1000-54.jpeg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "zEwxPA/su6z+SJqtw3fiRIQnkdc/VMC5K0qDQo93xgWoRbmfA3RPJKUgASRKrLtep/rWfb/34XH2uVJ5/nOsBh76uV4yCoF2ThEcqVtLITIKAHhjPrMVKO9Uu9c3mm9ZyhL2TET05jr//qtAZJzJHFb5W0zhGMcwJup7Hc/AcFezFG6eb/WVnDzhCw6etHYxnFJglg5TgpsnRsKRaRCSzQE/MBqD5PpGBNpSpcvURaczI7NXgkeEBGG398MnpK+81MZUrXqkWPTsjYKwc2BNEdaFGzPoXx9GaBOwBMBOaGycKOxXIwgTJPTXU6Hdi+Who99mPW2vdHsMRuY2u9fxgrWEDP0Tsq5MbC54HL8jYys=;ZqRQuUdDocxDmrF6aMjtZQ=="

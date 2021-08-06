@@ -25,6 +25,22 @@ topics:
   - Joe Biden
 
 related:
+  - title: "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’"
+    excerpt: "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit"
+    publishedDateTime: 2021-08-03T18:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132"
+        width: 600
+        height: 360
+        isCached: true
   - title: "First Thing: Biden urges Cuomo to quit amid allegations of serial sexual harassment"
     excerpt: "New York governor denies having ‘inappropriately touched’ 11 women as calls for his resignation mount. Plus: How a successful journalist realised she had to get rid of Twitter, for good"
     publishedDateTime: 2021-08-04T09:55:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-10/1/16/campaign_images/buzzfeed-prod-web-04/republicans-are-planning-to-vote-on-kavanaugh-by--2-6753-1538427207-6_dblbig.jpg"
         width: 625
         height: 415
+        isCached: true
+  - title: "Biden says New York Governor Cuomo should resign"
+    excerpt: "U.S. President Joe Biden said on Tuesday that New York Governor Andrew Cuomo should resign in light of the findings of an investigation into sexual harassment allegations."
+    publishedDateTime: 2021-08-03T19:51:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-says-new-york-governor-cuomo-should-resign-2021-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/Nq28S3fMjfcOPXgn9m1nOVKW_3Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U3LD7ZQLBNPH3AT5I626SLGSA4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "President Biden Calls on New York Gov. Andrew Cuomo to Resign After Sexual Harassment Report"
     excerpt: "New York Gov. Andrew Cuomo is facing mounting pressure to resign, including from President Joe Biden and other onetime Democratic allies"
@@ -103,15 +133,22 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
-    excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."
-    publishedDateTime: 2021-08-03T22:03:00Z
-    webUrl: "https://www.c-span.org/video/?c4972380/user-clip-joe-biden-calls-gov-cuomo-resign"
+  - title: "Student loan debt: Sen. Elizabeth Warren and Rep. Ayanna Pressley again urge President Joe Biden to extend payment pause, cancel $50K in debt"
+    excerpt: "The lawmakers also pressed Biden to extend a moratorium on payments and interest. The pause on student loan payments is set to expire in September."
+    publishedDateTime: 2021-07-27T16:50:00Z
+    webUrl: "https://www.masslive.com/politics/2021/07/student-loan-debt-sen-elizabeth-warren-and-rep-ayanna-pressley-again-urge-president-joe-biden-to-extend-payment-pause-cancel-50k-in-debt.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/07/student-loan-debt-sen-elizabeth-warren-and-rep-ayanna-pressley-again-urge-president-joe-biden-to-extend-payment-pause-cancel-50k-in-debt.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/07/student-loan-debt-sen-elizabeth-warren-and-rep-ayanna-pressley-again-urge-president-joe-biden-to-extend-payment-pause-cancel-50k-in-debt.html?outputType=amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MBHKPG6635GIFGM7Z4NYMRD264.JPG"
+        width: 4500
+        height: 3000
+        isCached: true
 
 secured: "gMuHIJQiAbNA8r/lVgYumjXLu5kKetR9a9EZ10XDYx48gCasiIfRZecaRr7M5UlJ++1xa6pSJeaXWTJOhNRzpk9Hu33JJrAMdSto1Osb5M1o9jG6QxXuU3PAJzoQEUN5al2hQKqQdUsbucibGb1PhvHqyQBxxMzLXrg3td90uKUaeJz3K90y4RhP4IBjZKD1ZwqWkwIZJeDuDtG61HC7VVjFJ9tVVUP0zhvBNlaV6eUV8ZZYGWQPEVMfW1jIo50k6FQYH04XoOy9Ant+sXZUiurmws4ewc8hAhoqd5JcFRlScT+qp6Lx2xEUGb6pgWpTYmO7Sw5xM41yJTNPuusSL2Sow4dFjYQclnWBWcnczn+HkYfphIX5I8dYYX9Yt4pIrd0gQ/Rd/lI4eEM8j7EGVACPhx0Yk3RdqBcCuyI0qzgmx58jwWLOpucG6ZzdccKF0tFtsat/ZJqDBfFpqDm6DNt46tPQ0j16LBYUwFb9uL/mjTRGtxeWe/DJ3y/r2pny5BW21toJKBP490NmO1/GPg==;3ntL00vDBICsU6KNUm8uzg=="
 ---

@@ -2,114 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-07-22-fact-check-did-joe-biden-spread-misinformation-on-covid-vaccines.md",
-      "title": "Fact Check: Did Joe Biden Spread Misinformation on COVID Vaccines?",
-      "excerpt": "The president claimed at a CNN town hall that people vaccinated against COVID do not get hospitalized, need ICU treatment, or die because of the disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181",
-      "originalUrl": "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1852446/president-joe-biden-cnn-town-hall-covidvaccine.jpg",
-          "width": 2500,
-          "height": 1670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1",
-      "publishedDateTime": "2021-07-22T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-bob-dole-says-hes-still-a-trumper-but-sort-of-trumped-out.md",
-      "title": "Bob Dole says he's still 'a Trumper' but 'sort of Trumped out'",
-      "excerpt": "Bob Dole, the longtime US senator from Kansas and 1996 Republican presidential nominee, said that while he is still \"a Trumper,\" he is \"sort of Trumped out,\" in an interview published Thursday by USA Today.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i6lWtdyeMsg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i6lWtdyeMsg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721154705-bob-dole-file-restricted-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/bob-dole-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/bob-dole-donald-trump/index.html",
-      "publishedDateTime": "2021-07-22T08:40:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-22-hes-no-sell-out-biden-speaks-to-half-empty-room-at-cnn-town-hall.md",
       "title": "He’s no sell-out: Biden speaks to half-empty room at CNN town hall",
       "excerpt": "President Biden on Wednesday spoke to a half-empty auditorium while doing a live CNN “town hall” event in Ohio.",
@@ -1351,6 +1243,118 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-former-trump-adviser-tom-barrack-pleading-not-guilty-to-acting-as-uae-agent-attorney.md",
+      "title": "Former Trump adviser Tom Barrack pleading 'not guilty' to acting as UAE agent: attorney",
+      "excerpt": "Barrack, who served as Trump’s 2017 inaugural committee chair, was arrested and charged on Tuesday with being an agent of the United Arab Emirates between April 2016 and April 2018.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSjFd7H-Q_A/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSjFd7H-Q_A/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/340/340/marta.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent.amp",
+      "publishedDateTime": "2021-07-20T16:08:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-donald-trumps-favorite-athlete-just-mocked-the-big-lie-to-the-man-who-beat-him.md",
+      "title": "Donald Trump's favorite athlete just mocked the 'Big Lie' to the man who beat him",
+      "excerpt": "Tuesday was not a good day for Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210720124442-brady-buccaneers-white-hous-0720-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
+      "publishedDateTime": "2021-07-20T15:32:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

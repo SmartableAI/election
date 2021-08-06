@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race"
+    excerpt: "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\""
+    publishedDateTime: 2021-08-06T15:41:00Z
+    webUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923"
+    ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1864686/joe-biden-ron-desantis-split.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Florida Gov. DeSantis says he will 'stand in the way' of President Biden on COVID-19 restrictions"
+    excerpt: "The friction between Biden and DeSantis comes as the country confronts a fourth wave of the virus, one that has hit especially hard in Florida."
+    publishedDateTime: 2021-08-04T21:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/04/florida-governor-ron-desantis-tells-biden-he-standing-your-way/5489876001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/5489876001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5489876001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/04/NTNH/f03490aa-3669-43eb-81ca-a1380a4d933a-002_080421_Gov_DeSantis_press_conf_PC.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "DeSantis’ shot in COVID feud with Biden: ‘I don’t want to hear a blip ... from you’"
     excerpt: "Gov. Ron DeSantis lashed out at President Joe Biden a day after Biden told the Republican governor to “get out of the way” of mask mandates."
     publishedDateTime: 2021-08-04T19:50:00Z
@@ -40,6 +72,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/ca109304-95eb-412d-bef5-05c75ed6bdcb/d0ed0834-5025-46cb-9e94-94b57654d942/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
+    excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
+    publishedDateTime: 2021-08-04T15:52:00Z
+    webUrl: "https://bangordailynews.com/2021/08/04/politics/half-of-maine-counties-could-soon-be-covered-by-joe-bidens-new-eviction-moratorium/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/22OhioStreet060420_NAW2-1.jpg"
+        width: 1024
+        height: 640
         isCached: true
   - title: "Joe Biden to Ron DeSantis: ‘If you aren’t going to help, at least get out of the way’"
     excerpt: "Biden called bans against mask and vaccine mandates the 'worst of all.' The White House issued a warning to Gov. Ron DeSantis Tuesday after Florida saw a record number of new hospitalizations related to COVID-19."

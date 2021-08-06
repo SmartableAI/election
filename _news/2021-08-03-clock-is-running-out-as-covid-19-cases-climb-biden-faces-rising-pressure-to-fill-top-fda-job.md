@@ -55,22 +55,6 @@ related:
         width: 886
         height: 545
         isCached: true
-  - title: "Florida Gov. DeSantis says he will 'stand in the way' of President Biden on COVID-19 restrictions"
-    excerpt: "The friction between Biden and DeSantis comes as the country confronts a fourth wave of the virus, one that has hit especially hard in Florida."
-    publishedDateTime: 2021-08-04T21:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/04/florida-governor-ron-desantis-tells-biden-he-standing-your-way/5489876001/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/5489876001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5489876001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/04/NTNH/f03490aa-3669-43eb-81ca-a1380a4d933a-002_080421_Gov_DeSantis_press_conf_PC.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Help or 'get out of the way.' Biden criticizes governors in Texas and Florida over handling of COVID-19"
     excerpt: "Biden singled out Florida and Texas, both GOP-led hot spots that have pushed back against coronavirus restrictions in recent days."
     publishedDateTime: 2021-08-04T10:53:00Z
@@ -118,31 +102,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Biden’s new evictions moratorium faces legality doubts"
-    excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
-    publishedDateTime: 2021-08-04T23:35:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
-  - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
-    excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
-    publishedDateTime: 2021-08-04T15:52:00Z
-    webUrl: "https://bangordailynews.com/2021/08/04/politics/half-of-maine-counties-could-soon-be-covered-by-joe-bidens-new-eviction-moratorium/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 49
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/22OhioStreet060420_NAW2-1.jpg"
-        width: 1024
-        height: 640
         isCached: true
 
 secured: "60AQnMNZQaLAxUysuvS6g9+kYRTAIS6WIH9Ntdw7+ZPpO+6YoatdO6lvIfK3bhlRDbwOh/NnXr3baPZYKyx7RfsD2TOVz5wZEqcfHUmZBvCO3I1HQRJ8uhRNo362dvxJFzfEchw2Ptu/qfIh4/p8UhOAGjwuZ8/G+hjzpskZaSsBNtrLv2BPyRHzAG3FQyFn4BPQFQkXEvqmgRDoffZ0L6Jx4iOt3xy0cq75NfxbNCMjoztHL1fC14MILZqga/UzM+24hNI2sYQyf1zdOwNnGKXPT2fyN8euLFg3RYpEcWtnUMqPDj9qRrxLZwMd9jmkmiDPKmJ0BuD1RxH2U8cYYybKuM7IDBApesBAVJ7/IeIlHIypXuOrYvz/5k3v3/ItKejKV20LSNFULMyvXTxk6XzCzjKOjqp9eXhs92AegybG3hyxLYkjC1K9zZyl/kHMV7YmWdenCkUIvN6VqUiq4RcXe6ernMem3qwIxiCb+9Gm5ZQZI+HwY4teOPMSwbHU4YDK51ssxT5MicYsZYQ5+A==;e+0ujEoYbEfFvgbTjRmSsg=="

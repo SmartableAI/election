@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
-excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
-publishedDateTime: 2021-08-04T15:52:00Z
-originalUrl: "https://bangordailynews.com/2021/08/04/politics/half-of-maine-counties-could-soon-be-covered-by-joe-bidens-new-eviction-moratorium/"
-webUrl: "https://bangordailynews.com/2021/08/04/politics/half-of-maine-counties-could-soon-be-covered-by-joe-bidens-new-eviction-moratorium/"
+title: "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race"
+excerpt: "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\""
+publishedDateTime: 2021-08-06T15:41:00Z
+originalUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923"
+webUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923"
+ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 125
+heat: 225
+published: true
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/22OhioStreet060420_NAW2-1.jpg"
-    width: 1024
-    height: 640
+  - url: "https://d.newsweek.com/en/full/1864686/joe-biden-ron-desantis-split.jpg"
+    width: 2400
+    height: 1600
     isCached: true
 
 related:
-  - title: "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race"
-    excerpt: "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\""
-    publishedDateTime: 2021-08-06T15:41:00Z
-    webUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923"
-    ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1864686/joe-biden-ron-desantis-split.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Florida Gov. DeSantis says he will 'stand in the way' of President Biden on COVID-19 restrictions"
     excerpt: "The friction between Biden and DeSantis comes as the country confronts a fourth wave of the virus, one that has hit especially hard in Florida."
     publishedDateTime: 2021-08-04T21:27:00Z
@@ -87,6 +77,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
+    excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
+    publishedDateTime: 2021-08-04T15:52:00Z
+    webUrl: "https://bangordailynews.com/2021/08/04/politics/half-of-maine-counties-could-soon-be-covered-by-joe-bidens-new-eviction-moratorium/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/22OhioStreet060420_NAW2-1.jpg"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "Joe Biden to Ron DeSantis: ‘If you aren’t going to help, at least get out of the way’"
     excerpt: "Biden called bans against mask and vaccine mandates the 'worst of all.' The White House issued a warning to Gov. Ron DeSantis Tuesday after Florida saw a record number of new hospitalizations related to COVID-19."
     publishedDateTime: 2021-08-03T22:25:00Z
@@ -102,6 +106,6 @@ related:
         height: 667
         isCached: true
 
-secured: "+2KW0u2mcfTnpEDEVe71OOjP//BIsjqBeSy6i1roj+McRN5qROptA0XotJtpnZPKPhkDeQWuAINxJ/VClQtP2oE9Wmir5uxaIUT26NG6whk8n99SmLZ+5O5cFIw/i5UjrTpwPirZSDuXrtaWCUk9gy7bpDh3kKU+6/PJ5f/ZYlIb1aVjnD1C6nbrwO8YR0Ik5vDbyV698QRRII6YczDsHV/4ZIWwub/QpV3nEX38yZSON39SZBkW/H+oTR5jyRdRSR9v+BCRmIzbo9/wpr2iHu9zzf/4Rgzsg5odxg7BH2ep/hJToD1A2NQZsf231SrR9bKGrpcD/DogwqyKliiWErhdL73OxI2tOlwsHvS+lFdHKZ6oXLx1LcNbNytYZJBV2YZgWq8m85U8HuOYeBbFl+QHSELz/hq4dPigq17ezJFhP0SlUqWTCTYt8tOPyO/WlwU9IOM3hpFYzMODC0aD+wmK6Ts91Sa24qNM7CINbb/0/vLbzjG9AZFTjUBYR8ADQsc12Fh04ka7sJ+qso8WGA==;Eh4mrwcw9qD9SvJ2KKZjkg=="
+secured: "UEu//dwBnAGaOg7So6qO+u03IVUlFjzhPvXcYbKa/gIwtNIZkJIBTJkZXd3ykSVHYQyFhBAnXmnshFY1rBBzycpFKN/PT36LTutD1sGn2ylTko+RZ+vSY7qSTEtqwJDOSIPgk0NzA5ATmsBZQmOnyvWVpHVvTw4bA7zb90QjMkuB8gVlhIzv5dr3Djn5SatS1xdVDYYcbzwNNDruUq2+H9HKlAiFu6lGQRSZ+r9WaNMlhv1J7sGb70BwJCvUMu8P/oYXPFNvWQNgzvAJklDrJC/WRV53+ozcUTZaQV0gvAtFlwTfZncs4lyOnRjAgL9hxJExzl4vY8t5GqAp4sscaWNJS2HjkYv4MMzq/haYi3w=;axI79W/GJhX7nv3Wg3hj4Q=="
 ---
 

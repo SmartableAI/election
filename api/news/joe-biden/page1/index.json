@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-06-activist-says-southwest-told-her-to-cover-biden-sign-because-many-were-offended.md",
-      "title": "Activist says Southwest told her to cover Biden sign because ‘many’ were offended",
-      "excerpt": "Jenny Grondahl flew from Phoenix to San Diego, carrying a souvenir: a cardboard sign she wanted to frame when she got home to Southern California. It read “Arizonenses Con Biden” with a cactus and was made by an artist named Javier Torres.",
+      "path": "_news/2021-08-06-ron-desantis-and-joe-biden-brawl-a-potential-preview-of-ugly-2024-race.md",
+      "title": "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race",
+      "excerpt": "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/travel/2021/08/05/southwest-airline-biden-sign-dress-code/",
-      "originalUrl": "https://www.washingtonpost.com/travel/2021/08/05/southwest-airline-biden-sign-dress-code/",
+      "webUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923",
+      "originalUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NSPBHSBOCZALRLC5ECVA4NBNZA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://d.newsweek.com/en/full/1864686/joe-biden-ron-desantis-split.jpg",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T19:13:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1",
+      "publishedDateTime": "2021-08-06T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-06-joe-biden-half-of-new-vehicles-sold-in-us-to-be-electric-by-2030-video.md",
-      "title": "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video",
-      "excerpt": "Joe Biden says half of new vehicles sold in US to be electric by 2030",
+      "path": "_news/2021-08-06-joe-biden-to-tout-strong-july-jobs-numbers-us-politics-live.md",
+      "title": "Joe Biden to tout strong July jobs numbers – US politics live",
+      "excerpt": "Figures show US economy added 943,000 jobs in July – follow the day’s politics news",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/video/2021/aug/05/joe-biden-half-of-new-vehicles-sold-in-us-to-be-electric-by-2030-video",
-      "originalUrl": "https://www.theguardian.com/us-news/video/2021/aug/05/joe-biden-half-of-new-vehicles-sold-in-us-to-be-electric-by-2030-video",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 385,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/745804975cbd89d98ae105f2c45c603f6403b50c/0_270_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33d267e28606147d6cde84d90626b143",
-          "width": 1200,
-          "height": 630,
+          "url": "https://i.guim.co.uk/img/media/5bbf7160556a0c06b00e62b1b89370960f759717/0_12_3412_2047/master/3412.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f2a7c1e0abff4a6f33d85bc9a4b4b77",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T13:58:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
+      "publishedDateTime": "2021-08-06T07:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -138,58 +138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-biden-nominates-one-time-union-lawyers-for-flra-posts.md",
-      "title": "Biden nominates one-time union lawyers for FLRA posts",
-      "excerpt": "President Joe Biden has tapped two government officials and former union lawyers to serve at the Federal Labor Relations Authority, who if confirmed by the Senate, will give the three-member panel a Democratic majority and its first general counsel since the Obama administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/biden-nominates-one-time-union-lawyers-flra-posts-2021-08-05/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/biden-nominates-one-time-union-lawyers-flra-posts-2021-08-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/du4QhEZC4jrV6Zr3vSHX7gPEuWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2GP7SQRADFM2RJWPTVIHVQ44MQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -319,101 +267,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-05-desantis-shot-in-covid-feud-with-biden-i-dont-want-to-hear-a-blip-from-you.md",
-      "title": "DeSantis’ shot in COVID feud with Biden: ‘I don’t want to hear a blip ... from you’",
-      "excerpt": "Gov. Ron DeSantis lashed out at President Joe Biden a day after Biden told the Republican governor to “get out of the way” of mask mandates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/politics-government/article253259453.html",
-      "originalUrl": "https://www.miamiherald.com/news/politics-government/article253259453.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/ca109304-95eb-412d-bef5-05c75ed6bdcb/d0ed0834-5025-46cb-9e94-94b57654d942/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article253259453.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253259453.html",
-      "publishedDateTime": "2021-08-04T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-first-thing-biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment.md",
-      "title": "First Thing: Biden urges Cuomo to quit amid allegations of serial sexual harassment",
-      "excerpt": "New York governor denies having ‘inappropriately touched’ 11 women as calls for his resignation mount. Plus: How a successful journalist realised she had to get rid of Twitter, for good",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/339ceb2729f1c35c7fc197ef7c5a3068fc675e17/67_0_3366_2021/master/3366.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=73516b15c05b3561c101a7dbff8b4e90",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/04/biden-urges-cuomo-to-quit-amid-allegations-of-serial-sexual-harassment",
-      "publishedDateTime": "2021-08-04T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-08-04-psaki-says-biden-will-weigh-in-on-abhorrent-cuomo-accusations-later.md",
       "title": "Psaki says Biden will weigh in on ‘abhorrent’ Cuomo accusations ‘later’",
       "excerpt": "President Biden is preparing to give public remarks on a devastating report that found Gov. Andrew Cuomo sexually harassed 11 women, White House Press Secretary Jen Psaki said.",
@@ -459,6 +312,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-biden-set-to-comment-on-cuomo-as-white-house-calls-report-findings-abhorrent.md",
+      "title": "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’",
+      "excerpt": "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "publishedDateTime": "2021-08-03T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -611,58 +516,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-white-house-says-cdc-cannot-renew-ban-on-evictions-despite-biden-support-live.md",
-      "title": "White House says CDC cannot renew ban on evictions despite Biden support – live",
-      "excerpt": "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610847fc8f0811859febbb4d",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden?page=with:block-610847fc8f0811859febbb4d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 341,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b003b22fbe95982e4d1f1773949a0e3dc7761a94/0_233_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c07d08b5eac45494f0af0b3b64420e54",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/02/democrats-us-politics-live-covid-coronavirus-joe-biden",
-      "publishedDateTime": "2021-08-02T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -840,7 +693,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -984,6 +837,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-31-you-dont-have-to-die-biden-urges-americans-to-get-vaccinated-and-calls-for-incentives-as-it-happened.md",
+      "title": "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – as it happened",
+      "excerpt": "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "publishedDateTime": "2021-07-30T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-inslee-newsom-ask-biden-for-more-resources-to-battle-wildfires-blowing-past-every-record.md",
       "title": "Inslee, Newsom Ask Biden for More Resources to Battle Wildfires 'Blowing Past' Every Record",
       "excerpt": "California Governor Gavin Newsom said last year, a record 130,000 acres were burned, but that record was shattered in 2021 with 504,000 acres currently burned.",
@@ -1023,6 +919,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-biden-to-allow-eviction-moratorium-to-expire-saturday.md",
+      "title": "Biden to allow eviction moratorium to expire Saturday",
+      "excerpt": "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
+      "originalUrl": "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
+      "publishedDateTime": "2021-07-29T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1336,49 +1275,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-28-buttigieg-to-visit-port-of-baltimore-to-tout-bidens-infrastructure-deal-thursday.md",
-      "title": "Buttigieg to visit Port of Baltimore to tout Biden’s infrastructure deal Thursday",
-      "excerpt": "U.S. Transportation Secretary Pete Buttigieg will visit the Port of Baltimore Thursday to tout the benefits of President Biden’s bipartisan infrastructure deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html",
-      "originalUrl": "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/h6Rm5NBj7Ozf4K1WOjI2vNjcCiU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJD6BCIZURG63GMQBACHLFPMHY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-buttigieg-baltimore-20210727-fnkdl7d5fzfmdd7kmxz6gsbdpa-story.html?outputType=amp",
-      "publishedDateTime": "2021-07-27T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-07-27-joe-bidens-wheres-mom-remarks-go-viral-as-critics-jump-on-apparent-confusion.md",
       "title": "Joe Biden's 'Where's Mom?' Remarks Go Viral as Critics Jump on Apparent Confusion",
       "excerpt": "The president called Representative Jim Langevin \"Paul\" at an event celebrating the Americans with Disabilities Act.",
@@ -1513,6 +1409,110 @@
         "name": "Sentinel & Enterprise",
         "domain": "sentinelandenterprise.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-biden-and-kadhimi-seal-agreement-to-end-us-combat-mission-in-iraq.md",
+      "title": "Biden and Kadhimi seal agreement to end US combat mission in Iraq",
+      "excerpt": "President and PM meet at Oval Office and announce schedule to shift mission entirely to training and advisory role by end of this year",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
+      "originalUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/128af502e617b1e5bf969afb2545849df37b1c60/0_0_4385_2630/master/4385.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef0434ac01738e54ec3dca6dd172c5dc",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
+      "publishedDateTime": "2021-07-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be-seen.md",
+      "title": "Biden: Pathway to citizenship in reconciliation package 'remains to be seen'",
+      "excerpt": "President Biden on Sunday said it “remains to be seen” if a pathway to citizenship will be included in the Democrats’ forthcoming reconciliation package.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
+      "originalUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_072121getty_fox.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
+      "publishedDateTime": "2021-07-25T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
