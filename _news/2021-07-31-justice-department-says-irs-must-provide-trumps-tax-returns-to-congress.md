@@ -250,6 +250,15 @@ related:
         width: 948
         height: 711
         isCached: true
+  - title: "Rural Nevada lawmakers vote to name county complex for Trump"
+    excerpt: "A proclamation by commission Chairwoman Vida Keller credited Trump with filling hundreds of federal judicial positions and enforcing U.S. immigration laws."
+    publishedDateTime: 2021-08-05T23:57:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/05/rural-nevada-lawmakers-vote-to-name-county-complex/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "P1cmeJIiESMYCtOAnTBCpTbFO+FfeN031xv2/HCqRwpKXDBnzkHXKIWnRqlFP3PMJFQIeJWQzgBEbMAOV/BEr1gZPtvtOeU3qGmrqxWEH0lH1stQ1UPP92pdfS4lRXRwb5HIN5Wqy8tWpH4WDeRqrTJQJ9Ex4F2xVSMJKR0r7MkR8UEyfU4DOhtAnKwqFFQw6F73riGmmhoIs5adwjTYPjbhhbOMcKqph1+3hIy4/o3Hi0Snfr30AY40g57xjZf0pqPjWdK01BWrsh0fb/6WhmP2iDO1IyK3uwOq/kYtRiKtCTVnXotxHNCnpGn1/H6/sAAX/BK0wkSCSObOgf7gjiqP6kPQr+C3c4ohoC314DkvxfrCELdaumbhgCFoiBZPaxKfFS4a4VNNGDdFcw0+ZrcwM1TH/xCMitrLnaUV4jtYCKj++dIfXvgqZ9YTzVZwx/ngWLGa7a5mYcBHrdrb+1Ad4y4VWZdL4RfxLGtKAlA1es++iAUx7fLUWqEkb/ldkbCTlICFIImzoCSA4zcdJA==;nh3OKApyQMQwF68kC5VloQ=="
 ---

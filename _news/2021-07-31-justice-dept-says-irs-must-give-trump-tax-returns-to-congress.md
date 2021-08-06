@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-co
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-taxes-congress-doj-20210730-psptccsozvabtl64fw473miu4m-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -250,6 +250,15 @@ related:
         width: 948
         height: 711
         isCached: true
+  - title: "Rural Nevada lawmakers vote to name county complex for Trump"
+    excerpt: "A proclamation by commission Chairwoman Vida Keller credited Trump with filling hundreds of federal judicial positions and enforcing U.S. immigration laws."
+    publishedDateTime: 2021-08-05T23:57:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/05/rural-nevada-lawmakers-vote-to-name-county-complex/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "3i7l/2157b7sBcNqcGclgUXfapXBf9QS4o7DnlSD8oPIa5u9BCwNLXNIfe2e9CvZFFRHQSUv7BwX028fcQp3CbcdBUBD6UGQlbnt1YRzHZh2xOcQAONa+Kuh5XaPvj4oignS8OZpgzwbpwkh5+MV8tFXPjdDOyh1IEsHogXL6etrZSgsczaL67PxHGN7XvK9jG2XFHFtaKv9FKXUj1aPZ6Rtf+itTmyihs2j0c0N15tsAJ8kJjEQXWrGC5kx3r13JKfwpJxk3aDhHwqzjQWWLCq4FTVKU5QJKJJY6P7zgdN5be8q/BHA+AcSv/nYMN8gxFTQ4IATBgYURQ6UggRfwfIyIEm7xODoWvgZS0hWzvw=;WTKmbQBQsDAAO2aBat+eUg=="
 ---

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-05-biden-offers-temporary-safe-haven-to-hong-kong-residents-in-us.md",
+      "title": "Biden offers temporary 'safe haven' to Hong Kong residents in U.S.",
+      "excerpt": "President Joe Biden on Thursday offered temporary \"safe haven\" to Hong Kong residents in the United States, allowing potentially thousands of people to extend their stay in the country in response to Beijing's crackdown on democracy in the Chinese territory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/biden-offers-temporary-safe-haven-hong-kong-residents-u-s-n1276041",
+      "originalUrl": "https://www.nbcnews.com/news/world/biden-offers-temporary-safe-haven-hong-kong-residents-u-s-n1276041",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3496937/210805-biden-mb-1636.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1276041",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276041",
+      "publishedDateTime": "2021-08-05T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-bidens-atf-pick-faces-grim-confirmation-prospects-as-key-democrats-withhold-support.md",
       "title": "Biden's ATF pick faces grim confirmation prospects as key Democrats withhold support",
       "excerpt": "President Joe Biden's pick of David Chipman to serve as the head of the ATF is nearing collapse, with members of the Senate Democratic Caucus withholding support and the chamber unlikely to hold a vote to advance the nomination before the August recess.\n    \n",
@@ -70,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 220,
+      "heat": 240,
       "tags": null,
       "images": [
         {
@@ -688,7 +745,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1100,
+      "heat": 1120,
       "tags": null,
       "images": [
         {
@@ -1603,62 +1660,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/hunter-biden-to-meet-potential-art-buyers/index.html",
       "publishedDateTime": "2021-07-22T10:12:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-bob-dole-says-hes-still-a-trumper-but-sort-of-trumped-out.md",
-      "title": "Bob Dole says he's still 'a Trumper' but 'sort of Trumped out'",
-      "excerpt": "Bob Dole, the longtime US senator from Kansas and 1996 Republican presidential nominee, said that while he is still \"a Trumper,\" he is \"sort of Trumped out,\" in an interview published Thursday by USA Today.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i6lWtdyeMsg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i6lWtdyeMsg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721154705-bob-dole-file-restricted-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/bob-dole-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/bob-dole-donald-trump/index.html",
-      "publishedDateTime": "2021-07-22T08:40:19-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

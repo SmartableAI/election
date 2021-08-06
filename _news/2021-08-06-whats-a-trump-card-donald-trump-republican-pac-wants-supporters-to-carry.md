@@ -929,11 +929,11 @@ related:
   - title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
     excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
     publishedDateTime: 2021-08-03T10:19:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+    webUrl: "https://www.freep.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 32
   - title: "A.M. Roundup: Stefanik blames Pelosi for Jan. 6 insurrection led by Trump supporters"
     excerpt: "Elise Stefanik on Tuesday joined other Republican leaders in blaming Speaker of the House Nancy Pelosi for the Jan. 6 insurrection at the U.S. Capitol. The insurrection was conducted by supporters of former President Donald J."
@@ -945,6 +945,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "Pt0LVvwDgsGIl+RbFGrVlDwrf9Dq4bGb9mxQXBvwTjWOf5//zcpsWr5zaChfrmbTzQFHMGipkm94hN5zWcwjKsiQvCqU085kKMQ0er7z4vJNhH+A/jCgZlOT7IvRmuAuK8hc3o6FVarLY1bVo6W3YVxWoeoHfGoM99zOw81nlQ6UQq1WA7s8AP9JLsEyGq+5P8NjfwFm9m0FrnWlzfZlsyhhL8dckvEyYPXK//y+ct4fn/wWovUniWIGcNKlLXi/ViBxFmnissltcUz0vPlwlMV4K7B4Q1Qpxy3Cw/S5PPfZ428E5yCS6rMxEG6FQs/aThAS27u2HznZtTf+b9uWhay9oH6vmGXohWe9LgyS6EM=;3mpRf0nXIL9hbgYZTQzbDQ=="
+secured: "TUc7u82z0arRWz4fI2iy77gvCPif9+PhP2eokedpCMQLZpYd0iaGRp2X0sj7rVDRRRLwSwgcup1rgLqV87cJnJivIQ81OzLkyS7pcVnNZ7zRSbWr6RK6d+5MH96GGgnl3qCsO6s4XXrjcHF48hciRXg1OyzaA2IiEEW9J0QXwJCWgV8mfG8jWne6A0f0fIZQrNGuLdi27W0crk02ruFRE015fRNr513vBZYqkN/qDmS8cy0i9UQrNDCeOJUOWYBqBsHdWeLTQVMlQ96ErnqW8QZ2Omk0yiFt01qf8MjamLk//eY55qwoObQ0e8FB222pmI2DhHQN56rUj3wJf4zqVEtdeNyXjCXBLnvHRAfs1pASgLMgneDbuGpGRVWbtjw56eGgFHLzxaL4+OYkinvRfCL4sGrUsdqv7zJcBbPWlm329oJkGosCqu99RmC0rFzOjdVSA7k/Iw/VZFNfxgL5HcyGDWhH5Cr6d3MrkeySqxEiORbZjirUGerMlZUcK4ivKjvhtv0If9N6Le902Bo7zw==;zqja3ALDqU7GJfwz0rgS5w=="
 ---
 

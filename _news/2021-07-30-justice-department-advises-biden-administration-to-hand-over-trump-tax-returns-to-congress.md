@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 1100
+heat: 1120
 published: true
 
 provider:
@@ -540,6 +540,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden signs bill to award Congressional Gold Medal to police who responded to insurrection"
+    excerpt: "President Joe Biden signed a bill into law at the White House on Thursday to award congressional gold medals to the police forces that responded to the insurrection at the US Capitol on January 6.\n    \n"
+    publishedDateTime: 2021-08-05T22:48:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/epz19o69f1Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/joe-biden-capitol-police-officers-award/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/joe-biden-capitol-police-officers-award/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805184511-bidencongressional-gold-medal-0805-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

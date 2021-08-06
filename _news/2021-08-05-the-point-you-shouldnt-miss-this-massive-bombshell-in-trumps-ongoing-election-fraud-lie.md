@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-ros
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html"
 type: article
 quality: 180
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210715110555-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: The full picture of Trump's attempted coup is only starting to emerge"
+    excerpt: "President Donald Trump -- back in the final days of his presidency -- didn't exactly make a secret of his effort to overturn the election he'd just lost and so it's very easy to get tired of thinking about it, now that he's out of office and his official powers have been clipped.\n    \n"
+    publishedDateTime: 2021-08-05T23:15:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mlI9sqBfFzQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/what-matters-trump-doj-coup/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/what-matters-trump-doj-coup/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209115346-01-trump-jan-6-speech-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

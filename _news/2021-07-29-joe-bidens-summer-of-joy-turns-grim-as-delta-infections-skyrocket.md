@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden signs law honoring officers who fought U.S. Capitol attackers"
+    excerpt: "President Joe Biden on Thursday honored police officers who defended the U.S. Capitol against insurrectionists on Jan. 6 by signing legislation that awarded them Congressional Gold Medals and urging the country not to rewrite the history of that day."
+    publishedDateTime: 2021-08-05T21:43:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden to allow eviction moratorium to expire Saturday"
     excerpt: "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month."
     publishedDateTime: 2021-07-29T17:49:00Z

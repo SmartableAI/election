@@ -3,8 +3,8 @@ category: news
 title: "Biden Administration Should Look in Mirror Before Casting Stones Over Vaccinations"
 excerpt: "It was always going to be a Herculean task to inoculate, with an untried vaccine, a multi-ethnic nation of 330 million people across a vast continent -- in"
 publishedDateTime: 2021-08-05T11:36:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/08/05/biden_administration_should_look_in_mirror_before_casting_stones_over_vaccinations_146196.amp.html"
 type: article
@@ -109,6 +109,6 @@ related:
         height: 405
         isCached: true
 
-secured: "RRPD2rYSwI8qRvaWXI2ipMbpEidejLjE8qzjqmm6LWWBZwy2omj0bR+nXiwywYPrQ6kBEspa4VFfjluZ3N3CcWLvloUTvsFHrXWWkcn3wyyj4pDkGxjvBa9nHzMGQCl0WcT2zT74gW+yk2LvQi/QZeGjZaZ1ZJotE2roCx9ZmlGmdmCCOErGLNz+zcTKU4Nh7FnMDGbg03jLsA+oNk2mu/BIK2iqHmrmdEl5XjZQAse5ZopcwEt5mmdRrFzxSHYUbc/OLzVmqIaplO9YBRK885OBu7b1ZCSIVtEe4bx3zadIImEh91l81pZidZXBtYtFx+olVgSRzZ37FoNXLyXWVmaQ5F5c90TXuJRXTXLV5Q8=;ftSJzCs+cl9jwrA32SG2jQ=="
+secured: "mHdPJuFsOrUIiVHZhj+X0muEvF/aVQ7yjuTue+ag9NxKP5ebKz+vwuq12dVKnzxS7gWisbNrw+AjRCeJO4AnRxnB4blgaFDCVX2+fU/5PyZq4RKmptxENEAXdRjmENYv/zAb/TB50vO15M5NQd4QTMd8K9WYvW030OSL9I6ig2vt4oHV5YtfabUlWTiq+WXlPPmm2I1znEYfqNqZmdSwFz9l7wu/U3Tb3ajlOC/zs4bd/j7W6WTLh+ESEc70GTnz2h8ZfMM/lkXkqmlNiJ22Cw1pZzu//5kyT3c2zGgse6wIXr+CPygijaryRPZGDI3aaxH0H8IaG7i0AKHnQRfzDcqPogH+jpHMAHFWotqT8Pc=;85CJu6CtXFEg9bRo9hNqJg=="
 ---
 

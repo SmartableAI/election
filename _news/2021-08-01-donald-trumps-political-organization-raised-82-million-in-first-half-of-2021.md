@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The full picture of Trump's attempted coup is only starting to emerge"
+    excerpt: "President Donald Trump -- back in the final days of his presidency -- didn't exactly make a secret of his effort to overturn the election he'd just lost and so it's very easy to get tired of thinking about it, now that he's out of office and his official powers have been clipped.\n    \n"
+    publishedDateTime: 2021-08-05T23:15:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mlI9sqBfFzQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/what-matters-trump-doj-coup/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/what-matters-trump-doj-coup/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209115346-01-trump-jan-6-speech-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "C6bkTfEld8fDa+NDCs0KWKFOGEd+yvxB6hAxqKbSMzBKrEGtqIFfExhEHsrXgVg596kwkZkfI4oBkDM1aGd0cq0nbka2Wr8zadD7+Pajgn9xDH6dmtxvmgmzqOMGx6mOEjEPRuzvQXphHRyMOH+8btxE44hUe+zb+BBQPj7n+PNC2o1q6RGSJu91mypxCYgcTxYjvIiM4knck33K04Dk7ioXCgRmhxVwr8MQWChzo+0gaVwpRCdnUGBCfyNJXX8Rk9VKMLbROvMea72v9yf6xC1KYizAw2hu9WrCLvVBhc0itxRHYGnp9a/hLYm7HQ2POtjGmJDFKnMsSUN/NTQXgA61EkSM5tEfnkEqh3KBoIw=;8Bhon2DEsMnJ31X4FZSMhA=="
 ---

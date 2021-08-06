@@ -3,16 +3,16 @@ category: news
 title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
 excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
 publishedDateTime: 2021-08-03T10:19:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+originalUrl: "https://www.freep.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+webUrl: "https://www.freep.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -940,6 +940,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "cRxEaesp5/ZYFU+xg4rcDfwwSai0eqjImf2Ra7AGNMC+Nl3Mk2zJQTVkjJi/NKBvDbm/DbF0/qYV5nJaRnmGw20BraxIjttTPNnl0O3uG6Yjta0GB7H/63fBRQkYtKAEQvs0tyunpInvGG2oAUR6ZjjHjCU7q8YtSfp9WlC3xTN/o/oUhdtLz3FT7Fd4sFcsb/iLVPjFqD+r3R5eWVUqdEkiNd7myD7ieuRT+xIWJBwyOF8hpjBT+Y2sMkYasfT/jhq30K1Ys7GDcFwInFvuoTJo8Zx0Z2rHmPYFn5qPuM3NK7efwhiPADzVhFSBtqiC8TNBJO7EbDZqVie8SkOXAdOAHtGHHPBzfOxRuFx6gKsBKArJcBIo3sVZ2TSYeiIZXZ5a4NjHN+SuWYCpVV3dGIJn8arz19a8/ahQao/pw88VKbbZseUqnlKMcRZrQiLJRWqlk/CGci9XQAoBV1Y+kci4jkpMFeh3YHuIV/tsc3bskPbm+DMqJxgVU5i0l+ORKf2v8UA6KtbLM06sXWVN7Q==;gJor4sLcrp3SqE3RstHCIQ=="
+secured: "R3AR5fZyfR02kOs2vio2IRv5jfqdqBFkjAPfiRxJNFB62ExUqdYRLPaDHE7A9OHVH2hS9XArp/GYVdPHp+5XbhB0QQsbMCvxpAxMyO2ZTCyrop+IYJ3sQGwQ1QsXpU5aUg1LQCW2dTqrSlnMceKwiAKtIKOwlWqFfRtIz7Sm4OR73eTcQmLzREpbyir3V5XJVF16YKVSZ6/vlp58I3+rvjRcXhn4Cpgt7TWInLHkbO/k0xhbJsFhsxhpaRzEdJaIpVjvnAKfLbdh7XEyYYCmYYP4/yXcy+Rb+w7cjGjZmXrWzHHnX/VgcBOnztkKTdSTCwf/QLq1DpLUfxZ0qFWslVfDkombEbobhijlB3T0dDiXKjRkxlId0ovH18jYcHYxwwdPKw75er89VCdu4WDFrNUZwHERZsnlZdwh+NuJhhrdfxeyptgbu2vqWb1DzJqqeka5z+liXwWgEtvL3hACay8noqzy2FhGIe14KgfbioVnhwSKm8T3l8jT5HBC6CuibBNJ7xFzE7iMefYKC+ZzJQ==;TznCMElqbdxBjthWSEgPzQ=="
 ---
 

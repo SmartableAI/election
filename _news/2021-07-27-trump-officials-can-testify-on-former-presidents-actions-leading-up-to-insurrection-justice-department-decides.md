@@ -559,6 +559,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden signs bill to award Congressional Gold Medal to police who responded to insurrection"
+    excerpt: "President Joe Biden signed a bill into law at the White House on Thursday to award congressional gold medals to the police forces that responded to the insurrection at the US Capitol on January 6.\n    \n"
+    publishedDateTime: 2021-08-05T22:48:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/epz19o69f1Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/joe-biden-capitol-police-officers-award/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/joe-biden-capitol-police-officers-award/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805184511-bidencongressional-gold-medal-0805-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden admin buys extra Pfizer doses to prepare for possibility of children vaccine needs and booster shots"
     excerpt: "The Biden administration purchased an additional 200 million doses of Pfizer-BioNTech's Covid-19 vaccine to prepare for potential additional vaccine needs in the US, an administration official familiar with the contract tells CNN.\n    \n"
     publishedDateTime: 2021-07-23T14:38:43Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Donald Trump to Fight Release of Tax Returns, His Lawyer Says"
-excerpt: "An attorney for the former president objects to the Treasury Department’s intention to turn over tax records to a congressional committee."
-publishedDateTime: 2021-08-02T20:12:00Z
-originalUrl: "https://www.wsj.com/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
-webUrl: "https://www.wsj.com/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
+excerpt: "An attorney for the former president objected to the Treasury Department’s intention to turn over tax records to a congressional committee."
+publishedDateTime: 2021-08-03T02:55:00Z
+originalUrl: "https://www.wsj.com/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917?mod=latest_headlines"
 ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
 type: article
@@ -65,6 +65,6 @@ related:
         height: 640
         isCached: true
 
-secured: "/kmh+8mVPzJv4IzEoiC2jQYwpn8vO8SbZUkj2Yfx0HZF19GeTyWVE+eGovwjhI35pik2nOQIZT59XcDGTSdutJfoKqJBCTAE8mL8uav0oTPLqnjwe0TfM+RNoamnJVqqGlnAnVJPkD5+Qo8cQDZsUpJ7SJWDXs73hTs+8XTkbBzD0gnF8VQ72uEHwlUjM7TZDKDF6vmwHV5nxXmoPqF/E9tadBcm/RhRSMMsVZFRencUT6N4R6b/UFPurspHo0Y4aWpvqngWRvLokAkZ+0fg0iURZvf6C3i5mcm5oKZwdHt6HHBoCIf9SOKupgZIKcJv2rAqevCi+W/6ZP5a7VpL5QMPuQRP4ushZv3qFUWdeOeeSlo/q6xQ+yIk+sAxAMirjo1PFAfdEsJDcriNMXWd9rkget52a5jQdlqi3xovb1p9PGtuPxspWR/C4gABBaluY71DvANqARsWrhZLpwEyD9mIigwN/166vtVhWitLlDFD/WK6VRzssE1ckqMLrXMWZuUooDPYlWAhG+gLW4K3mg==;dd67qc/qyf+PxyKzhybh7Q=="
+secured: "YrupBTUZhue5NPFuPd+Bo/ee54x3WaRa/9mUgf3FdbbZLAIW4kKKYpFOnsCSTTpgeYsDJrusudlVQgmuZA+RQv1Cla5lbaUq/HyAQ6tiKz1KnCeKDkG8xLmxLfKdMyc/sdV33PjYAzpk0wc5KuYHC0yOOJtQKDxexdY3lmeWsA0UHYQYsVD3OIaaLqlcV5dG0F5qCJK8OaLAFh7l0ZBldF2gM0AcFk7KnQ4AlCObuo9GN6e2cVh41trAoMgYrdTViT6gGDfLspjEYuszrLVk3UWujKO8C9P2eJ5MBCI2PN5pNdEX4AiSiaC85IZzyN7e8xvaW9LXtlVI5BWAQB/reepxjVQl3Q7nHWzfi1zKUuE=;x/vnEfGK+JrWYeV7ilBB6w=="
 ---
 

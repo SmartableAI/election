@@ -48,9 +48,9 @@ related:
         height: 640
         isCached: true
   - title: "Donald Trump to Fight Release of Tax Returns, His Lawyer Says"
-    excerpt: "An attorney for the former president objects to the Treasury Department’s intention to turn over tax records to a congressional committee."
-    publishedDateTime: 2021-08-02T20:12:00Z
-    webUrl: "https://www.wsj.com/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
+    excerpt: "An attorney for the former president objected to the Treasury Department’s intention to turn over tax records to a congressional committee."
+    publishedDateTime: 2021-08-03T02:55:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917?mod=latest_headlines"
     ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-to-fight-release-of-tax-returns-his-lawyer-says-11627937917"
     type: article
