@@ -3,16 +3,16 @@ category: news
 title: "Donald Trump's political endorsement strength gets a new test Tuesday in Ohio"
 excerpt: "Ohio's Mike Carey, a Trump-backed candidate, faces a crowded Republican primary Tuesday, just seven days after another Trump candidate lost in Texas."
 publishedDateTime: 2021-08-03T10:19:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
-webUrl: "https://www.freep.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/08/03/donald-trumps-political-strength-tested-ohio-gop-primary-election/5454883001/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -940,6 +940,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "R3AR5fZyfR02kOs2vio2IRv5jfqdqBFkjAPfiRxJNFB62ExUqdYRLPaDHE7A9OHVH2hS9XArp/GYVdPHp+5XbhB0QQsbMCvxpAxMyO2ZTCyrop+IYJ3sQGwQ1QsXpU5aUg1LQCW2dTqrSlnMceKwiAKtIKOwlWqFfRtIz7Sm4OR73eTcQmLzREpbyir3V5XJVF16YKVSZ6/vlp58I3+rvjRcXhn4Cpgt7TWInLHkbO/k0xhbJsFhsxhpaRzEdJaIpVjvnAKfLbdh7XEyYYCmYYP4/yXcy+Rb+w7cjGjZmXrWzHHnX/VgcBOnztkKTdSTCwf/QLq1DpLUfxZ0qFWslVfDkombEbobhijlB3T0dDiXKjRkxlId0ovH18jYcHYxwwdPKw75er89VCdu4WDFrNUZwHERZsnlZdwh+NuJhhrdfxeyptgbu2vqWb1DzJqqeka5z+liXwWgEtvL3hACay8noqzy2FhGIe14KgfbioVnhwSKm8T3l8jT5HBC6CuibBNJ7xFzE7iMefYKC+ZzJQ==;TznCMElqbdxBjthWSEgPzQ=="
+secured: "Z6z7ANzXu4YgxwGAGyy6o6e6U1GGFy3YzyDuCFonqmW90vOBf0JdkjfsNwaVb6N0BqYPZodGJEj/2CPEPMHJdy5zt239yCK/SgghP5z/fSgv1v/UNibbWw+ojtrGoJ0MOWDk6nwqLyV0Yc9Raeqjxef2VGclERPL+9vI8wZ9TGbNkuujANIIBdVAYQbVqA9iPwbeyVok9UM/jyLePMw9aBLwKxpm0w/MWu6i21VKR9bq+hweQOHVt+hsv33UZ6uolgSe0dPrARsccoumuSvHcguEi4cMEZwh/+iSoKPJ7v4RmHEB5cabkWDt9O7R5UrOaGlJbhSQEd59Mj687kvksAIz6PagWrX/GZYXO33/7GuA3nYJ0NRO7qwjTx/TZKCHByM7x6vLxwp7cjE6wpRlIUb4kFQJe/KkW6jTMbHoTgGUiQIV9nbWn45xSYEy0zhTs0EbeUBm9hAvTLlLH8OsoWBiZcsDrwlKfMxO+3Qe0YKsjigdQSwOrvIE5tJkucnN3/cCuAAKpWKTnPbYMXU/Gg==;Mr5jkcZIdMvhI9PXegLUEg=="
 ---
 

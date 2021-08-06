@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence Defends Proposed Texas GOP Voting Bill, Encourages COVID-19 Vaccination In Houston"
+    excerpt: "The former vice president spoke in Houston before an annual conference of college conservatives organized by the Young America’s Foundation."
+    publishedDateTime: 2021-08-05T23:00:00Z
+    webUrl: "https://www.keranews.org/texas-news/2021-08-05/pence-defends-proposed-texas-gop-voting-bill-encourages-covid-19-vaccination-in-houston"
+    ampWebUrl: "https://www.keranews.org/texas-news/2021-08-05/pence-defends-proposed-texas-gop-voting-bill-encourages-covid-19-vaccination-in-houston?_amp=true"
+    cdnAmpWebUrl: "https://www-keranews-org.cdn.ampproject.org/c/s/www.keranews.org/texas-news/2021-08-05/pence-defends-proposed-texas-gop-voting-bill-encourages-covid-19-vaccination-in-houston?_amp=true"
+    type: article
+    provider:
+      name: KERA News
+      domain: keranews.org
+    quality: 66
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/8deb5a8/2147483647/strip/true/crop/1536x946+0+39/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F54%2F6679fdaa4734a099335f027cc4fc%2Fap21197769781009-1536x1024.jpg"
+        width: 880
+        height: 542
+        isCached: true
 
 secured: "A3rbaMztjG7tP+uuUID5puqzF+jX8FtFG9Nj+flk/4dHX33oBvcSZxKqtzKZs9uCxf2vSJ24Aek8QtRlbptd8FZDJEGZGMsB7jkb8brQTRucPwPrWbENN3CMG7QUZI0+A35tkNADmAPKw4vCNFGy+IPSM6y5y2oC0nmM6QDIY0/8i2j6SZQgJ7HK9LbdRefKNWmY9AkqHhjmhiUx0p0l6YwIuHT1HXoJU0R1jIrTg8ao3or8rPOeaOy5FJLd03aeMKNHUZfuKe3eWtE+7JVjUYzNtRkuHyXIzZmHxQqDU0TXRDee8jA2NA8da1Gjc/wJuhWdk7ZNi226NE/XOqEjiFRVcUo5y83Jy9x4tCx9ipNZkUGMfKnB9gbRhKxK9a3PGAgTgaI/PYGYH1/2Q7v3vVVIxdrGZ1hevN6p8NBVV8r7Iu6fd7BMy3HnieRZEKqEQO9/hLXd3S0OplkJljWIZ+0zgyIgr96+yvUaa9nq/RJqRIGgTxnF7Vej/2FOCK4e67lbYEdfbV9vTyndgLNK3Q==;mBxLrqfhmefPsH2gLaUyvw=="
 ---

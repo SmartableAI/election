@@ -380,6 +380,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-05-mike-pence-if-youre-eligible-to-get-a-coronavirus-vaccine-get-one.md",
+      "title": "Mike Pence: If You’re Eligible to Get a Coronavirus Vaccine, Get One",
+      "excerpt": "HOUSTON–Former Vice President Mike Pence is urging everyone to get vaccinated against the coronavirus, if you haven’t already. Pence spoke to a group of conservatives at the Young America’s Foundation in Houston,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wibc.com/news/national/mike-pence-if-youre-eligible-to-get-a-coronavirus-vaccine-get-one/",
+      "originalUrl": "https://www.wibc.com/news/national/mike-pence-if-youre-eligible-to-get-a-coronavirus-vaccine-get-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2021/08/05121038/GettyImages-1234014877-1.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WIBC",
+        "domain": "wibc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-bidens-atf-pick-faces-grim-confirmation-prospects-as-key-democrats-withhold-support.md",
       "title": "Biden's ATF pick faces grim confirmation prospects as key Democrats withhold support",
       "excerpt": "President Joe Biden's pick of David Chipman to serve as the head of the ATF is nearing collapse, with members of the Senate Democratic Caucus withholding support and the chamber unlikely to hold a vote to advance the nomination before the August recess.\n    \n",
@@ -720,7 +763,7 @@
       "originalUrl": "https://www.forbes.com/sites/andrewsolender/2021/08/05/pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1277,63 +1320,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-trump-lawyers-ask-judge-to-block-release-of-tax-returns.md",
-      "title": "Trump Lawyers Ask Judge to Block Release of Tax Returns",
-      "excerpt": "The former president’s attorneys argue the congressional request is rooted solely in the desire for political gain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
-      "originalUrl": "https://www.wsj.com/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-380104/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049",
-      "publishedDateTime": "2021-08-04T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }
