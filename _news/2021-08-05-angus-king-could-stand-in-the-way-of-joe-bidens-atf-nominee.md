@@ -25,19 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
-    excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
-    publishedDateTime: 2021-08-05T20:58:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/aug/05/joe-biden-half-of-new-vehicles-sold-in-us-to-be-electric-by-2030-video"
+  - title: "Biden nominates one-time union lawyers for FLRA posts"
+    excerpt: "President Joe Biden has tapped two government officials and former union lawyers to serve at the Federal Labor Relations Authority, who if confirmed by the Senate, will give the three-member panel a Democratic majority and its first general counsel since the Obama administration."
+    publishedDateTime: 2021-08-05T19:46:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/biden-nominates-one-time-union-lawyers-flra-posts-2021-08-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/du4QhEZC4jrV6Zr3vSHX7gPEuWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2GP7SQRADFM2RJWPTVIHVQ44MQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – as it happened"
+    excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
+    publishedDateTime: 2021-07-30T18:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 104
+    quality: 87
+  - title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
+    excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
+    publishedDateTime: 2021-08-04T21:35:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/85defdc930587bb51781b58eff714759/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
     images:
-      - url: "https://i.guim.co.uk/img/media/745804975cbd89d98ae105f2c45c603f6403b50c/0_270_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33d267e28606147d6cde84d90626b143"
-        width: 1200
-        height: 630
+      - url: "https://cdnph.upi.com/pv/upi/85defdc930587bb51781b58eff714759/BIDEN-UNION.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "Ef+abOBkpe/UYl0KSX5WlOvg3rj7r1br8x1VqSMjsrR280d1UXLXwJRK4O7qdm15fwXY+NW0RhEi0+2YG9sIiA35UVfwXyeXJX55Q1/Pc3RG1kLo1Sd5wG15b2z2WvXalLb6vpImcRkGLblhbEZuuG4v25vv3Qtmk0IAT3NkQjUKlYqzwoReBNUI9bpkgxkZrz3AkUFKTMB4EFoEJYQNKVGW1UySb89nc5NJ6S8JAwQGfB94cHkNXyZfqyjBs1f84/z1c3ICUODc+O2MyThM/PINloQ1ndONjM+TAbcQGTMaW69+r8sO+b0Kyd/S8Xu1GYmWXTCVwuRVDungkpqEUQ4wPg+nB8BDTfrpYFn2YDw=;Q16xAVXbJwAqDY26mo/nOQ=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-06-activist-says-southwest-told-her-to-cover-biden-sign-because-many-were-offended.md",
+      "title": "Activist says Southwest told her to cover Biden sign because ‘many’ were offended",
+      "excerpt": "Jenny Grondahl flew from Phoenix to San Diego, carrying a souvenir: a cardboard sign she wanted to frame when she got home to Southern California. It read “Arizonenses Con Biden” with a cactus and was made by an artist named Javier Torres.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/travel/2021/08/05/southwest-airline-biden-sign-dress-code/",
+      "originalUrl": "https://www.washingtonpost.com/travel/2021/08/05/southwest-airline-biden-sign-dress-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NSPBHSBOCZALRLC5ECVA4NBNZA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-trump-backer-elliot-broidy-accused-of-orchestrating-covert-campaign-against-qatar.md",
       "title": "Trump backer Elliot Broidy accused of orchestrating covert campaign against Qatar",
       "excerpt": "A top GOP donor and Donald Trump ally was paid millions of dollars by the United Arab Emirates to engineer a smear campaign against rival Persian Gulf state Qatar, according to an explosive",
@@ -170,7 +222,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/video/2021/aug/05/joe-biden-half-of-new-vehicles-sold-in-us-to-be-electric-by-2030-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -246,6 +298,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-biden-nominates-one-time-union-lawyers-for-flra-posts.md",
+      "title": "Biden nominates one-time union lawyers for FLRA posts",
+      "excerpt": "President Joe Biden has tapped two government officials and former union lawyers to serve at the Federal Labor Relations Authority, who if confirmed by the Senate, will give the three-member panel a Democratic majority and its first general counsel since the Obama administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/biden-nominates-one-time-union-lawyers-flra-posts-2021-08-05/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/biden-nominates-one-time-union-lawyers-flra-posts-2021-08-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/du4QhEZC4jrV6Zr3vSHX7gPEuWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2GP7SQRADFM2RJWPTVIHVQ44MQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1198,105 +1302,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
       "publishedDateTime": "2021-08-04T09:27:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-pence-to-take-part-in-symposium-with-college-of-the-ozarks.md",
-      "title": "Pence To Take Part In Symposium With College Of The Ozarks",
-      "excerpt": "Vice President Micheal Pence poses for his official portrait at The White House, in Washington, D.C., on Tuesday, October 24, 2017. (Official White House Photo by D. Myles Cullen)Former Vice-President",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/",
-      "originalUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1028/2021/08/04110751/Mike-Pence-MEDIA-300-dpi-819x1024.jpg",
-          "width": 819,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/amp/",
-      "cdnAmpWebUrl": "https://www-ktts-com.cdn.ampproject.org/c/s/www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/amp/",
-      "publishedDateTime": "2021-08-04T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTTS",
-        "domain": "ktts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-boston-mayor-uses-slavery-trump-to-shoot-down-questions-about-vaccine-passports.md",
-      "title": "Boston mayor uses slavery, Trump to shoot down questions about vaccine passports",
-      "excerpt": "Acting Boston Mayor Kim Janey shot down talks of enforcing vaccine passports in the city, comparing such papers to the Jim Crow era and former President Donald Trump’s birtherism theories.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a29dc84-ff99-4991-ad67-439ad4c35eec/a0545df5-b69a-4b20-8cda-e2fb50bc90f7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "publishedDateTime": "2021-08-04T06:28:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

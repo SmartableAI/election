@@ -25,35 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Will Bernie Sanders, Kamala Harris and President Biden campaign for Newsom? 'Stay tuned,' aide says"
-    excerpt: "With California's recall election now just six weeks away, and polls showing the race tightening for Governor Newsom, Democrats are hoping to get some big name endorsements."
-    publishedDateTime: 2021-08-04T02:14:00Z
-    webUrl: "https://abc7news.com/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/"
-    ampWebUrl: "https://abc7news.com/amp/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/"
+  - title: "Biden nominates one-time union lawyers for FLRA posts"
+    excerpt: "President Joe Biden has tapped two government officials and former union lawyers to serve at the Federal Labor Relations Authority, who if confirmed by the Senate, will give the three-member panel a Democratic majority and its first general counsel since the Obama administration."
+    publishedDateTime: 2021-08-05T19:46:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/biden-nominates-one-time-union-lawyers-flra-posts-2021-08-05/"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 76
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/10928574_080321-kgo-ap-gavin-newsom-img.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.reuters.com/resizer/du4QhEZC4jrV6Zr3vSHX7gPEuWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2GP7SQRADFM2RJWPTVIHVQ44MQ.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "WATCH: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
-    excerpt: "Minnesota Gov. Tim Walz joined six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris on Friday. Watch a stream here."
-    publishedDateTime: 2021-07-30T15:15:00Z
-    webUrl: "https://www.postbulletin.com/news/nation/7133736-WATCH-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+  - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – as it happened"
+    excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
+    publishedDateTime: 2021-07-30T18:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     type: article
     provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 51
+      name: The Guardian
+      domain: theguardian.com
+    quality: 87
+  - title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
+    excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
+    publishedDateTime: 2021-08-04T20:41:00Z
+    webUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
     images:
-      - url: "https://www.fccnn.com/incoming/7133742-bgagzb-U.S.-President-Biden-and-Vice-President-Harris-meet-on-infrastructure-with-a-bipartisan-group-of-governors-and-mayors-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Biden%20and%20Vice%20President%20Harris%20meet%20on%20infrastructure%20with%20a%20bipartisan%20group%20of%20governors%20and%20mayors%20at%20the%20White%20House%20in%20Washington"
-        width: 1140
-        height: 712
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Congress-Infrastructure-2.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "3L7UFHgMwNpQoDPq1PhgPRef6GBEhr4WfakGuVFkYfEF3qniTeNfWUNIuwNVJr5OLIYt/VqDX/3fyjR9ZZvsbOypxMpYd1yP7B2TCf44kHBknFOg6r5t1VubMuulX2GBVkEsikIm2x5Q+Ko2+vsMB2a2LQZpGE9RTFPIHAc3Evtv7sfFpp2Joef7i6+773PwCJPh9t/gXJLu0xSVJ+l6bBkAc9VCA3eUv98GlhdWlrwnLw/ThL3Og2ueipna5YJA44V4V+zIkJcy5t48X3PTMLqwpmV3UEC/IUtVygDEBQpFnAnx+OMCMz3imqmYJPkNL3N0XaTzLqt8v8jSw0MHIbJJHNvX1VxbgdvpDpiy/VE=;6BrOvaEEEnjQX8yL2sw6Cg=="

@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
-    excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
-    publishedDateTime: 2021-08-04T21:35:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/85defdc930587bb51781b58eff714759/President-Joe-Biden-Visits-Plumbers-and-Gasfitters-UA-Local-5-Training-Facility/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 51
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/85defdc930587bb51781b58eff714759/BIDEN-UNION.jpg"
-        width: 650
-        height: 433
-        isCached: true
 
 secured: "4Z4zS7lxemEbQlxNC4M4Z1dNwSrMhz0MEuZNC/KuV4sDEBVWIyRKvjOdMfb3ArV6BFc+DJ63z+E3CLCby2RhDhNuE6wVfXKFvR7NIjt9h2OyCIHyNXE3VloLMxpp/6R2/dmdvhELwpqUIYnvahNyAbafrt16uTvOlye86o6+yjTuRhWzbcCgYynGXmgdz4+/UkNcknWVaHl5As+arLAeI9COeck/qkse9TVDL05L6V7bgNKO0S61cztiwRAtKkcGdFZf3R4vHJCRE6NyXq1+hWK6TjqE849JqKw/M8gjcpqvg7I+I2JXXXKprnn5CAE4xcRPBLeIDywhdRxiqn0dR2BtvK3ziML7+/gq94u7eWAq91KnkSUeocX/7LZV9uvG5R83eX8oncOQrx/gGNXrIdD5IXtlcapJgUQNeTJ3kGVf7ReYwtKNgfFWDMOB/cPoj3tVdwBNzK7TY3TbEP23TqMkTAZcgFq+MqqgTJzfsjaIVNqSLwn4D9NqRHzXzmbp+Wl6jTt8xS+vvXaRyf/RMQ==;AgEL8HhxvgonlRB7wTzrdg=="
 ---
