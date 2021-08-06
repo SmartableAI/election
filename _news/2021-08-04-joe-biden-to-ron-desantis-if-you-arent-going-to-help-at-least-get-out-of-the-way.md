@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "‘Governor who?’: Joe Biden dismisses Ron DeSantis’ tirade"
+    excerpt: "Ron DeSantis ‘ lengthy rebuttal to President Joe Biden ‘s rebuke of his pandemic response, Biden dismissed DeSantis’ speech in a five-word rebuttal Thursday. “Governor who?” Biden said, laughing off a reporter’s request for comment."
+    publishedDateTime: 2021-08-05T22:31:00Z
+    webUrl: "https://floridapolitics.com/archives/446354-governor-who-joe-biden-dismisses-ron-desantis-tirade/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden-jul-16.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "2n4Y8t14sNNn2b5pI6SkvlVLfikyGCl1jn9pONxCB6Zu5NrXZcW/vo6mDdjsDmc6R2cDJ/ZlbUvVG+Y3LkOQiucs6d5knxXech57HPANP67bERItEZK8C7hVcI+YbGEWAFVUPo0HG7bbYUGtMtsjbhtRLHhbu/rZpYfy2nlXQZLtloIVYcZBLyXA7+WsM9HTnDqtMKuVbFLUPWAzMkQIyERlCKqAoqJJrbGrECFt3SOcUfJnZUtu/GxlKzmOyfIpPCw8tYo+ufhUyXePDP0bkFwd7dRnf2QA38gzDOsPkXIymZkupbcrV9tcdc6OEBpV+PQFzZoHCgyx1r7d0R08euJTuIIMnyijSroomaGz3KWtXnMN+P8h0QVMOidHI7C3UG0lLOQmByQjyc1Rc0Bf8nYJzkfAOrbihHJDyimzFY2ccox/zLVU9dlyNqfDoYAH+KylcH2CPYxu+k9UnTbqZ8b8Gp40+cMoYu5jfi2UMFIc895YofFSuVEYiIKKNDZYhXinnfG9vGpXa+W797Cjvg==;vCbyDmNr2rpxOGxvH6bpZw=="
 ---

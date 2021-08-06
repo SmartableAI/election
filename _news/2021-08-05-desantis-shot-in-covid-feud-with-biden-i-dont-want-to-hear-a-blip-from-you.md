@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article25325945
 cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253259453.html"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "‘Governor who?’: Joe Biden dismisses Ron DeSantis’ tirade"
+    excerpt: "Ron DeSantis ‘ lengthy rebuttal to President Joe Biden ‘s rebuke of his pandemic response, Biden dismissed DeSantis’ speech in a five-word rebuttal Thursday. “Governor who?” Biden said, laughing off a reporter’s request for comment."
+    publishedDateTime: 2021-08-05T22:31:00Z
+    webUrl: "https://floridapolitics.com/archives/446354-governor-who-joe-biden-dismisses-ron-desantis-tirade/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden-jul-16.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Joe Biden to Ron DeSantis: ‘If you aren’t going to help, at least get out of the way’"
     excerpt: "Biden called bans against mask and vaccine mandates the 'worst of all.' The White House issued a warning to Gov. Ron DeSantis Tuesday after Florida saw a record number of new hospitalizations related to COVID-19."
     publishedDateTime: 2021-08-03T22:25:00Z
