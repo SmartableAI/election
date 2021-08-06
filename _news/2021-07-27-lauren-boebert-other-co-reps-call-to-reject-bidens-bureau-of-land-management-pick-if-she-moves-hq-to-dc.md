@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Hannity: The US is the land of the free, not the land of Joe Biden's government mandates"
+    excerpt: "Fox News host Sean Hannity slammed the Biden administration for their confusing messaging surrounding COVID-19 and Dr. Fauci's grim outlook."
+    publishedDateTime: 2021-08-06T02:36:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9cf900f7-6d97-41ff-ae6d-031b06b5dee1/fffd013c-7234-412c-a688-3d0c846a746f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "STE/av2eUu325XqLtk7zVqr5jI55/wrjZ+hrry4X+4HBmWb8gv4NIbCjoiaLzKfbYsFlUZJTniE/4GPgO+Vd4qqd6lLX0dg1Ha+LeORUhPN0me7WMIQbUwbprYcgFiFucLCYIJRGvkmUtMvZfVpRQgEUc/dc12ARAgOq3S487fbMTOw+gtMEXmN46UoVucxbhQpKv77sw7pT1YQ41chg2lug2Nrc0GcgWOqDCx7UGiA9tqCiUqakqMKZgSQpJDDoTuXM2s9jhjbrjQ+C6YgRsNDIIuex06tRFwhr+n4MIj6VJkdIxU1v8f5FHU1d+2xgUC+WH+3EuM3Q7o79Bw5n4ETt4HX9K5yCItWfZ3osUUk=;M0w6ELuBDh9a2nML/lAx/Q=="
 ---

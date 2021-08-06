@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Pompeo accuses Biden admin of working to make Iran America's 'senior partner' in Middle East"
-excerpt: "Former Secretary of State Mike Pompeo accused the Biden administration of working to make Iran America’s “senior partner” in the Middle East."
-publishedDateTime: 2021-07-20T12:37:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FcBA0fuDVtA/pompeo-biden-admin-iran-partnership-middle-east"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FcBA0fuDVtA/pompeo-biden-admin-iran-partnership-middle-east"
-ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-admin-iran-partnership-middle-east.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-iran-partnership-middle-east.amp"
+title: "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’"
+excerpt: "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have led off the presidential nominating calendar."
+publishedDateTime: 2021-07-17T02:06:00Z
+originalUrl: "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state"
+webUrl: "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state"
+ampWebUrl: "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp"
 type: article
-quality: 164
+quality: 144
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Mike Pence
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
@@ -95,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pompeo accuses Biden admin of working to make Iran America's 'senior partner' in Middle East"
+    excerpt: "Former Secretary of State Mike Pompeo accused the Biden administration of working to make Iran America’s “senior partner” in the Middle East."
+    publishedDateTime: 2021-07-20T12:37:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FcBA0fuDVtA/pompeo-biden-admin-iran-partnership-middle-east"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-admin-iran-partnership-middle-east.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-iran-partnership-middle-east.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump rips Biden, Big Tech and critical race theory at CPAC"
     excerpt: "Former President Donald Trump has taken the stage to deliver the keynote address at the three-day Conservative Political Action Conference in Dallas."
     publishedDateTime: 2021-07-11T20:02:00Z
@@ -110,22 +127,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-061.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’"
-    excerpt: "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have led off the presidential nominating calendar."
-    publishedDateTime: 2021-07-17T02:06:00Z
-    webUrl: "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Noem, at CPAC, argues country needs to 'fix damage' Biden is doing"
     excerpt: "Republican. Kristi Noem of South Dakota kept up her vocal criticism of President Biden and his Democratic administration on Sunday, as she showcased her conservative credentials in front of a large gathering of activists and fellow leaders in Texas."
@@ -144,6 +145,6 @@ related:
         height: 405
         isCached: true
 
-secured: "/WpytkopuTlQCX4tRl82Ztp5KmNEmQXtlfBS+T3hxuDH6IIB7G6qdwUULh6GB54TEqgBbDzO0yi07DGZMIhKr1Xk58BNgnQ3k5X6tpWYnZDYBv9ZmiNYU0rX5PxKiIZ50RKyGJUQ/shfVYRFVzZfpDwPTUwPS6dX2REdqH5MQg/q3/m9qu6DSam3vv8I2yOuH9gTZtOsp4LUdI3LfNzcOR1VFOf/+915rg5d2iDyjl2H+jIS+VEbJFObXajyrxE5Cqa3W5JT+BDx04rCM2DFR9cttC5EnaCZzJfKn0Ke8CwwvVKM6Km4BViBuw14//ub7xO0oQ04W/taJajFnepF/huBn+281j3dIwKEOXNYqNY=;MSpQmBGcj9tMBJBjdUKz2A=="
+secured: "8RtpUts7T3k1h1dVl2wQU4763aHjC/1CtA8T2uWQiho0YxA0cszfFaGYybfxoeo03T7X5kHaHFSb4BrmQeSdmXtpDKvhQaRzkwg+738boiPWdJYQLFKDMe1JkzCyfoHsGOf1q5MEgw5tkCsy++v4Elwxb00H+wWnJi0OGU7nYJpXQKDsvPpMiTu8Rf5PojXpWf/CFcxl7P7FXt0zNRDaMXkAoshHMz0YCxli7dwc4NWCYNMUjLQvH7buC1h3IQzyRXUwFBkQ+Y3xP56PuGASQRUuDTE2qj0jxBk0NRNOQUrCdDXaGitiwTZC8zOZwTAEFXUi006LYGFrjSLts0EQpT2wrJ2QGtfv2m9aiJSn3CA=;nkZf7T7ouEP+ASc+YnsfQw=="
 ---
 

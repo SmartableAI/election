@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’"
+    excerpt: "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have led off the presidential nominating calendar."
+    publishedDateTime: 2021-07-17T02:06:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "SoPmD2SKEzgI+BuOUrodas0LRVU0YUsrwEl1Sb0VMPFsYwmdpdz2XQ5X0LPF9o+PbUYk74lmh8jW9TvWp7vVlODMfNbHqwd/VdPoI2LgH88EG8rVg9nQbg4dKWx4xCicJ4ghMul7V5XeWBW3noNBFNiH0zxV85RrCEYcK/aU5gVbFr3zypz+0OEmZ7QhPbiNyj60JbTIpdUpZ0kNVt4FB8jvJTbDuviFVe/QrBApQAt/5dbg0D28cKA8GE8qCk9nen9d6cp62Z3ERpiFK8ZgkKT7vA9xEhZA9Uq9RIxGWPZv5wcnblbUhwnkgWAS8UEBTZZB4W5yhJypcWreoXAbpDE0bo8jMTSOcRfAmvNtd4J7Ds7mheiSq8OsdTP2ssKc/R8SU/vC2ounXBMq74YJSKh6LuhWHe9mcxwetXl4RQ6izMrlNK2dCLi+KCgE7ngDDRR1+x4uzeS3ul4ON8lTiB863YrSPLkQoZlkK112FoaKImC7EaqcbucP0OZhbg3sCYBzMD2Zuk85OuSsRXheMQ==;4aAVeVHuL4CWd8goMNRFgA=="
 ---

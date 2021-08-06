@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden considering vaccine mandate for federal workers, says unvaccinated not as 'smart' as he thought"
-excerpt: "President Biden said Tuesday he is considering requiring all federal employees to be vaccinated and questioned the intelligence of those that have yet to do so."
-publishedDateTime: 2021-07-27T20:49:07Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnlHCmuLiOQ/biden-federal-vaccine-mandate"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnlHCmuLiOQ/biden-federal-vaccine-mandate"
-ampWebUrl: "https://www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
+title: "Hannity: The US is the land of the free, not the land of Joe Biden's government mandates"
+excerpt: "Fox News host Sean Hannity slammed the Biden administration for their confusing messaging surrounding COVID-19 and Dr. Fauci's grim outlook."
+publishedDateTime: 2021-08-06T02:36:00Z
+originalUrl: "https://www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates"
+webUrl: "https://www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates"
+ampWebUrl: "https://www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates.amp"
 type: article
-quality: 160
+quality: 126
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ea5077-c2bf-418d-aa26-66f4b2f1dea9/188ffa1c-573c-47cd-a16d-bb08437ce582/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9cf900f7-6d97-41ff-ae6d-031b06b5dee1/fffd013c-7234-412c-a688-3d0c846a746f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -79,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden considering vaccine mandate for federal workers, says unvaccinated not as 'smart' as he thought"
+    excerpt: "President Biden said Tuesday he is considering requiring all federal employees to be vaccinated and questioned the intelligence of those that have yet to do so."
+    publishedDateTime: 2021-07-27T20:49:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnlHCmuLiOQ/biden-federal-vaccine-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-federal-vaccine-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ea5077-c2bf-418d-aa26-66f4b2f1dea9/188ffa1c-573c-47cd-a16d-bb08437ce582/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
     excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
     publishedDateTime: 2021-07-27T17:23:14Z
@@ -95,23 +112,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Hannity: The US is the land of the free, not the land of Joe Biden's government mandates"
-    excerpt: "Fox News host Sean Hannity slammed the Biden administration for their confusing messaging surrounding COVID-19 and Dr. Fauci's grim outlook."
-    publishedDateTime: 2021-08-06T02:36:00Z
-    webUrl: "https://www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates"
-    ampWebUrl: "https://www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-this-is-the-land-of-the-free-not-the-land-of-vaccine-mandates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9cf900f7-6d97-41ff-ae6d-031b06b5dee1/fffd013c-7234-412c-a688-3d0c846a746f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
-secured: "OVNeN3Uu1ixO/TASiOov6qHc/nDflIb0gqIDe4wuBwX2ORFVup4l210S1gDEZk83MeM3xETgj2epYgWWF13swc5mpjISJnw8Jgv0fe+qLJSdi0mrtUSFz/W7hsMv3HpcOQM3AupnXCAKnl+3EfBWlE/a03BzZBV6NBUD9o9011Zm26rI50RLaeZl+OKKhYSDCScUZGoF/0tgMyA9Ct+BpQoIBQg7kj6iEro/5wOQkvnA4NPO6BByXdwT0UtaUiIaqssH8OVIY6KcN7AJdy9LLYFAEbbL2di782PxQjm2S5lFonVs656xsWYlvTpjVexvj7qGv/qShJ1cgB6/DFTzCLkkbvy/iH6+TJi/9HKW3uE=;pIO64SiWeDUr6wbMlqWeiQ=="
+secured: "7ucUjlSpgMoYUJDHA0jFKUHv+GFqgunAf/KuZvvBJFRbBehWhtnZFIZoiFIAwvek/J0yhe8fS0nnYtKfytnlj1X077hcZ64SXPXVGtw8QB+ii5ug8oc5DHB6SQbEdWgJCnpN7ig+nYYqBq2UdF90Hfj9QHSTB0ihAu9fW+srewrg5V3jh+auNa6TxIXChwsn0aBlt/MoaIcep9Nj+caskjgZrQpe7f6TKkVauP9EzsUvR7e7x9YsS2S6qMKwAZHustbMdPXuG4IQNJniMxSv6nXfd15XlU/K4yW28/wADO1gBzgb2n9nt5IrwjNewL3lO9zx1Sj3kBotn61je2QwaorZrOAQi6ryi0ExiOoAvQw=;0RHYkKlOsTyimcVpKN5ntg=="
 ---
 
