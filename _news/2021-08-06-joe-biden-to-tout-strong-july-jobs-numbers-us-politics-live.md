@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden to tout strong July jobs numbers – US politics live"
 excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
-publishedDateTime: 2021-08-06T14:06:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+publishedDateTime: 2021-08-06T14:40:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/5bbf7160556a0c06b00e62b1b89370960f759717/0_12_3412_2047/master/3412.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f2a7c1e0abff4a6f33d85bc9a4b4b77"
+  - url: "https://i.guim.co.uk/img/media/26b75722c336bad8c50309926af68f13cf3dc72f/0_134_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eada90142314f96d2869c871b0200db3"
     width: 600
     height: 360
     isCached: true
@@ -214,6 +214,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "BU9JkHDy+UA7UAaTnC10epofiNufaXHlvRy9mntSZRgXqJmX6BYqgJzl3IMSsy9pwO6ecmveP0kUMrUiSKj46c8ym8YUqVo4nk5im4Q1xBs9r8HR1pOfgxRimHp4Xsnah9ZbdvlxPkikapeH1zGFzkYAFSDgdrGhRuRGXSY1WNBpXiUKI7r8E7sVCOaoe/8+qmkVh4ZeF+gpAL+sEXMLozUFBaRu8Zr1aeprMuZM80Lx4/ONSnJ/rF8X9zthzpHaXFn52LwjTBWz3Yvjq3ILqhavlu6sZVAuwukyFmL1Gt2VTW5gkJPeaHc5LWcXkSzTUcZVrHKXlvkaItjotFQu56pWVhxVVOObgL7T2jXHiXE=;goRqVCXQfXKxTFV26QjZCA=="
+secured: "rfqYUNMFSseXSLOWjKsBRGpOKBYfpAu1eWSy1cDF6OraCH8ewbBg0+rFHWUyJZ+yfQSi1q3XWJx0G6PrlUvVPPwahIrtC5/vzCVICGaxEbHnI4TyyVrpB1m0tNoFsPeUEPkHZXJ1a8XyWUe7k9nFiW0urmU42Qow0S5kkqWpVZaXj6ZRW7qozxr1RImYaPcevm/lIf3DUfU+OJ9fPslrR28my14ynBiiYemATV9PMAmKFHlNkWAvzd9/PO0tVZlk5GzcUpUWzIBOmKrnNRFN7mXrpvcUXNYEIu5vh9oauPya/3poQeyWyDYAuuXZmTzA93HurSwCBVjVlrR6DUhFirt/HSh3NSr3Q/CDQM5RroU=;fHDZ8y65IH879Jbbx4Qi4Q=="
 ---
 

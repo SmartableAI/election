@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-06-29-biden-thinking-about-2022-and-2024-president-hits-battleground-states.md",
+      "title": "Biden thinking about 2022 and 2024? President hits battleground states",
+      "excerpt": "President Biden is traveling to two battleground states this week, in what a Democratic strategist says are visits that serve \"dual purposes.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZOno49RZJY/biden-2022-2024-hits-battleground-states",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZOno49RZJY/biden-2022-2024-hits-battleground-states",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp",
+      "publishedDateTime": "2021-06-29T09:30:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-jill-biden-in-discussions-to-attend-olympics-opening-ceremony-in-tokyo.md",
       "title": "Jill Biden in discussions to attend Olympics Opening Ceremony in Tokyo",
       "excerpt": "The East Wing has been in discussions about first lady Jill Biden attending the Opening Ceremony for the Olympics in Tokyo next month, a White House official tells CNN.\n    \n",
@@ -1303,62 +1359,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-trump-returns-to-campaign-trail-to-target-gop-rep-anthony-gonzalez-who-voted-for-impeachment.md",
-      "title": "Trump returns to campaign trail to target GOP Rep. Anthony Gonzalez, who voted for impeachment",
-      "excerpt": "Former President Donald Trump returned to the campaign trail in Ohio on Saturday night to throw his support behind Republican congressional candidate Max Miller in an attempt to oust Rep. Anthony Gonzalez.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c05fe5f4-6103-421a-a4ef-a620c94ae839/fc823f7f-0317-4c31-9483-f0fb4f733fd1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
-      "publishedDateTime": "2021-06-26T19:03:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

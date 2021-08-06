@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-06-23-joe-biden-supports-the-death-penalty-for-dzhokhar-tsarnaev-do-you.md",
+      "title": "Joe Biden supports the death penalty for Dzhokhar Tsarnaev. Do you?",
+      "excerpt": "Massachusetts abolished the death penalty in 1984, but it may be on the table for the Boston Marathon bomber. Read more on Boston.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/",
+      "originalUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/OCOUYSD7N4USHEHTIE4CHUXUKE-60d22438edab8-scaled.jpg",
+          "width": 2560,
+          "height": 1774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/?amp=1",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/?amp=1",
+      "publishedDateTime": "2021-06-22T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston.com",
+        "domain": "boston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides-over-debate.md",
       "title": "Republicans block 'rotten' election reform bill in Senate as VP Harris presides over debate",
       "excerpt": "Senate Republicans Tuesday blocked sweeping legislation on election and campaign finance reforms that Democrats said is crucial is ensuring voting rights and saving democracy but Republican blasted as a partisan federal takeover of elections.",
@@ -1299,63 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-judge-jeanine-says-joe-biden-is-a-puppet-says-putin-would-have-mopped-the-floor-with-him.md",
-      "title": "Judge Jeanine says Joe Biden is a 'puppet'; says Putin would have 'mopped the floor with him'",
-      "excerpt": "Jeanine Pirro slammed Joe Biden Saturday on “Justice with Judge Jeanine” for being a “puppet” in the White House, asking who was really “pulling the strings.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin",
-      "originalUrl": "https://www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e30aa55a-581b-4e8e-a19a-2ef46197f456/be3cc359-3c8f-48a8-ad02-67d997552d51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin.amp",
-      "publishedDateTime": "2021-06-19T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-07-carlson-the-only-threat-to-hungarian-democracy-is-joe-biden.md",
+      "title": "Carlson: The Only Threat to Hungarian Democracy Is Joe Biden",
+      "excerpt": "When Tucker Carlson embarked on a weeklong publicity tour of Viktor Orbán’s Hungary, Fox News personality Glenn Greenwald cast the decision as the kind of intrepid reporting we should all admire. “Is it now considered immoral or something for journalists to visit other countries to report on what they see and hear there?",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/d20/eac/39b3bfb35ff2c0d192dbf652b09eab40f1-tucker-carlson.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
+      "publishedDateTime": "2021-08-06T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-ron-desantis-and-joe-biden-brawl-a-potential-preview-of-ugly-2024-race.md",
       "title": "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race",
       "excerpt": "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\"",
@@ -58,15 +101,15 @@
       "title": "Joe Biden to tout strong July jobs numbers – US politics live",
       "excerpt": "Figures show US economy added 943,000 jobs in July – follow the day’s politics news",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718",
       "featuredContent": null,
       "highlight": null,
       "heat": 385,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/5bbf7160556a0c06b00e62b1b89370960f759717/0_12_3412_2047/master/3412.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f2a7c1e0abff4a6f33d85bc9a4b4b77",
+          "url": "https://i.guim.co.uk/img/media/26b75722c336bad8c50309926af68f13cf3dc72f/0_134_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eada90142314f96d2869c871b0200db3",
           "width": 600,
           "height": 360,
           "title": null,
@@ -78,7 +121,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
-      "publishedDateTime": "2021-08-06T07:06:00-07:00",
+      "publishedDateTime": "2021-08-06T07:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1274,62 +1317,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-boston-mayor-uses-slavery-trump-to-shoot-down-questions-about-vaccine-passports.md",
-      "title": "Boston mayor uses slavery, Trump to shoot down questions about vaccine passports",
-      "excerpt": "Acting Boston Mayor Kim Janey shot down talks of enforcing vaccine passports in the city, comparing such papers to the Jim Crow era and former President Donald Trump’s birtherism theories.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a29dc84-ff99-4991-ad67-439ad4c35eec/a0545df5-b69a-4b20-8cda-e2fb50bc90f7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "publishedDateTime": "2021-08-04T06:28:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

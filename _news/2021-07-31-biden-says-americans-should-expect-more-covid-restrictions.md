@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a609792-e0aa-4756-97db-ba0e3880e19a/b30deb6c-d2d1-4a00-b7dc-d68cf274f80d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration begins flying migrants expelled via Title 42 into Mexico amid COVID fears"
+    excerpt: "The Biden administration has started flying migrants removed under Title 42 health protections deep into the Mexican interior amid fears over not just rising border numbers, but also an increase in COVID-19 cases related to the delta variant."
+    publishedDateTime: 2021-08-06T16:45:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BrqU4fl7nHE/biden-migrants-expelled-title-42-mexico-covid-fears"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-migrants-expelled-title-42-mexico-covid-fears.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrants-expelled-title-42-mexico-covid-fears.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93f5fa13-ac74-4790-a3c7-d30fac83942b/43215d9f-d3a1-448b-a8eb-da3616e567eb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

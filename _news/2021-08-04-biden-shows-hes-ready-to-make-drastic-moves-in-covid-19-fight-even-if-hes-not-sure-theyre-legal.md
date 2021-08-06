@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden touts economic recovery but warns of Delta after US added 943,000 jobs in July"
+    excerpt: "President Joe Biden on Friday touted the country's economic recovery from the coronavirus pandemic after the US added 943,000 jobs in July and the unemployment rate fell to 5.4%.\n    \n"
+    publishedDateTime: 2021-08-06T17:53:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vjtXwbmPUFA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/biden-july-jobs-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/biden-july-jobs-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806113618-01-biden-jobs-report-0806-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
     excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
     publishedDateTime: 2021-07-27T22:14:22Z

@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 686
         isCached: true
+  - title: "Readers React: Does Pence want to be tied to Trump after Jan. 6?"
+    excerpt: "Reader: After the events on Jan. 6, I can’t believe that Mike Pence wants his name linked with that of Trump’s."
+    publishedDateTime: 2021-08-06T16:30:00Z
+    webUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-longo-trump-pence-election-signs-20210806-ho3ijyczabavtkvcgefbbkbivu-story.html"
+    ampWebUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-longo-trump-pence-election-signs-20210806-ho3ijyczabavtkvcgefbbkbivu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-longo-trump-pence-election-signs-20210806-ho3ijyczabavtkvcgefbbkbivu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 90
+    images:
+      - url: "https://www.mcall.com/resizer/jzyjAQaU9__-BKE4ZVu-n64vL2c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HAXREPKFSLZAG4IV37LMXYTWOU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Justice Department says IRS must give Trump's tax returns to Congress"
     excerpt: "The Justice Department on Friday said the Treasury Department must hand over former President Trump's tax returns to the House Ways and Means Committee, putting an apparent end to the yearslong battle over the records."
     publishedDateTime: 2021-07-31T05:24:00Z

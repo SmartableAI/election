@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "9/11 families say Biden unwelcome at 20th anniversary memorial for refusal to release key documents"
+    excerpt: "Nearly 2,000 people who were directly affected by 9/11 are calling on President Biden to not participate in any 20th anniversary ceremonies unless he declassifies government documents"
+    publishedDateTime: 2021-08-06T17:02:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NGkGdltasJU/9-11-ceremonies-biden-skip-transparency-families"
+    ampWebUrl: "https://www.foxnews.com/politics/9-11-ceremonies-biden-skip-transparency-families.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/9-11-ceremonies-biden-skip-transparency-families.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/937586cb-51d5-4189-99dc-f347ab58144d/d576d870-754f-457c-b8cb-89578abfdc25/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden considering vaccine mandate for federal workers, says unvaccinated not as 'smart' as he thought"
     excerpt: "President Biden said Tuesday he is considering requiring all federal employees to be vaccinated and questioned the intelligence of those that have yet to do so."
     publishedDateTime: 2021-07-27T20:49:07Z

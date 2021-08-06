@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden touts economic recovery but warns of Delta after US added 943,000 jobs in July"
+    excerpt: "President Joe Biden on Friday touted the country's economic recovery from the coronavirus pandemic after the US added 943,000 jobs in July and the unemployment rate fell to 5.4%.\n    \n"
+    publishedDateTime: 2021-08-06T17:53:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vjtXwbmPUFA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/biden-july-jobs-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/biden-july-jobs-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806113618-01-biden-jobs-report-0806-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden shows he's ready to make drastic moves in Covid-19 fight -- even if he's not sure they're legal"
     excerpt: "Even President Joe Biden doesn't know whether his new federal eviction moratorium for renters is legal and sustainable. But crushing humanitarian and political pressure left him no choice but to take a chance on an emergency move.\n    \n"
     publishedDateTime: 2021-08-04T11:29:34Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726120518-joe-biden-mustafa-al-kadhimi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden touts economic recovery but warns of Delta after US added 943,000 jobs in July"
+    excerpt: "President Joe Biden on Friday touted the country's economic recovery from the coronavirus pandemic after the US added 943,000 jobs in July and the unemployment rate fell to 5.4%.\n    \n"
+    publishedDateTime: 2021-08-06T17:53:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vjtXwbmPUFA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/biden-july-jobs-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/biden-july-jobs-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806113618-01-biden-jobs-report-0806-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

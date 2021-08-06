@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 686
         isCached: true
+  - title: "Readers React: Does Pence want to be tied to Trump after Jan. 6?"
+    excerpt: "Reader: After the events on Jan. 6, I can’t believe that Mike Pence wants his name linked with that of Trump’s."
+    publishedDateTime: 2021-08-06T16:30:00Z
+    webUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-longo-trump-pence-election-signs-20210806-ho3ijyczabavtkvcgefbbkbivu-story.html"
+    ampWebUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-longo-trump-pence-election-signs-20210806-ho3ijyczabavtkvcgefbbkbivu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-longo-trump-pence-election-signs-20210806-ho3ijyczabavtkvcgefbbkbivu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 90
+    images:
+      - url: "https://www.mcall.com/resizer/jzyjAQaU9__-BKE4ZVu-n64vL2c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HAXREPKFSLZAG4IV37LMXYTWOU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Power Up: Despite DOJ waive of executive privilege, compelling Trump-era officials to testify still a wildcard"
     excerpt: "While the DOJ's announcement opens the door for former Trump administration officials to be called to testify in the events leading up to January 6, Democrats don't have a strong track record of enforcing those subpoenas."
     publishedDateTime: 2021-07-28T10:07:00Z

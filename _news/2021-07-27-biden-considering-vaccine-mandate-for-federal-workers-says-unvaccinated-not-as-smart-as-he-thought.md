@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "9/11 families say Biden unwelcome at 20th anniversary memorial for refusal to release key documents"
+    excerpt: "Nearly 2,000 people who were directly affected by 9/11 are calling on President Biden to not participate in any 20th anniversary ceremonies unless he declassifies government documents"
+    publishedDateTime: 2021-08-06T17:02:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NGkGdltasJU/9-11-ceremonies-biden-skip-transparency-families"
+    ampWebUrl: "https://www.foxnews.com/politics/9-11-ceremonies-biden-skip-transparency-families.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/9-11-ceremonies-biden-skip-transparency-families.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/937586cb-51d5-4189-99dc-f347ab58144d/d576d870-754f-457c-b8cb-89578abfdc25/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
     excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
     publishedDateTime: 2021-07-27T17:23:14Z

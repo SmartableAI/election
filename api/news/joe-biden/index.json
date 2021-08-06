@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-07-carlson-the-only-threat-to-hungarian-democracy-is-joe-biden.md",
+      "title": "Carlson: The Only Threat to Hungarian Democracy Is Joe Biden",
+      "excerpt": "When Tucker Carlson embarked on a weeklong publicity tour of Viktor Orbán’s Hungary, Fox News personality Glenn Greenwald cast the decision as the kind of intrepid reporting we should all admire. “Is it now considered immoral or something for journalists to visit other countries to report on what they see and hear there?",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/d20/eac/39b3bfb35ff2c0d192dbf652b09eab40f1-tucker-carlson.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
+      "publishedDateTime": "2021-08-06T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-ron-desantis-and-joe-biden-brawl-a-potential-preview-of-ugly-2024-race.md",
       "title": "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race",
       "excerpt": "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\"",
@@ -58,15 +101,15 @@
       "title": "Joe Biden to tout strong July jobs numbers – US politics live",
       "excerpt": "Figures show US economy added 943,000 jobs in July – follow the day’s politics news",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718",
       "featuredContent": null,
       "highlight": null,
       "heat": 385,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/5bbf7160556a0c06b00e62b1b89370960f759717/0_12_3412_2047/master/3412.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f2a7c1e0abff4a6f33d85bc9a4b4b77",
+          "url": "https://i.guim.co.uk/img/media/26b75722c336bad8c50309926af68f13cf3dc72f/0_134_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eada90142314f96d2869c871b0200db3",
           "width": 600,
           "height": 360,
           "title": null,
@@ -78,7 +121,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
-      "publishedDateTime": "2021-08-06T07:06:00-07:00",
+      "publishedDateTime": "2021-08-06T07:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1454,58 +1497,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be-seen.md",
-      "title": "Biden: Pathway to citizenship in reconciliation package 'remains to be seen'",
-      "excerpt": "President Biden on Sunday said it “remains to be seen” if a pathway to citizenship will be included in the Democrats’ forthcoming reconciliation package.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
-      "originalUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_072121getty_fox.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
-      "publishedDateTime": "2021-07-25T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

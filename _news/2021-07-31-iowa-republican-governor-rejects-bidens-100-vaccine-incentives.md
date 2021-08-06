@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-va
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6446800-b856-416b-b1b1-8e6dc8f66afb/e6da4b99-f6e0-4a37-905e-2ed85088c982/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "9/11 families say Biden unwelcome at 20th anniversary memorial for refusal to release key documents"
+    excerpt: "Nearly 2,000 people who were directly affected by 9/11 are calling on President Biden to not participate in any 20th anniversary ceremonies unless he declassifies government documents"
+    publishedDateTime: 2021-08-06T17:02:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NGkGdltasJU/9-11-ceremonies-biden-skip-transparency-families"
+    ampWebUrl: "https://www.foxnews.com/politics/9-11-ceremonies-biden-skip-transparency-families.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/9-11-ceremonies-biden-skip-transparency-families.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/937586cb-51d5-4189-99dc-f347ab58144d/d576d870-754f-457c-b8cb-89578abfdc25/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
