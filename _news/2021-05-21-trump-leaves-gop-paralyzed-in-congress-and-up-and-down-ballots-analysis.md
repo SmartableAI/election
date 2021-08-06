@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "10 Things in Politics: What Trump's not spending his cash stash on"
+    excerpt: "And Biden mocked Gov. Ron DeSantis as their feud grows"
+    publishedDateTime: 2021-08-06T09:37:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-campaign-cash-spending"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-campaign-cash-spending?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-campaign-cash-spending?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/60ec48dd61b8600019f168fe?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 495
+        isCached: true
   - title: "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP"
     excerpt: "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,"
     publishedDateTime: 2021-05-15T18:23:00Z

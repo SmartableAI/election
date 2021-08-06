@@ -479,6 +479,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Deadbeat Donald? 5 big things that Trump could be spending his massive stash of political money on — but isn't."
+    excerpt: "Trump has raked in millions of dollars in political donations since leaving the White House, but he's not spending so far on 2022 and Rudy Giuliani."
+    publishedDateTime: 2021-08-06T08:00:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-not-spending-political-money-candidates-rudy-charity-police-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/610c64d52a24d0001861fcbb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ohio Republicans aim to rename state park after Donald Trump"
     excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
     publishedDateTime: 2021-04-21T20:54:00Z

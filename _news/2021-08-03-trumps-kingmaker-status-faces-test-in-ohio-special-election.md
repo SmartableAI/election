@@ -463,6 +463,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Deadbeat Donald? 5 big things that Trump could be spending his massive stash of political money on — but isn't."
+    excerpt: "Trump has raked in millions of dollars in political donations since leaving the White House, but he's not spending so far on 2022 and Rudy Giuliani."
+    publishedDateTime: 2021-08-06T08:00:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-not-spending-political-money-candidates-rudy-charity-police-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/610c64d52a24d0001861fcbb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "‘Just say the election was corrupt and leave the rest to me,’ Trump urged Justice official"
     excerpt: "The pressure is all the more notable because just weeks earlier, Trump’s own Attorney General William Barr, had declared that the department had found no evidence of widespread fraud that could have overturned the results."
     publishedDateTime: 2021-07-30T17:34:00Z
