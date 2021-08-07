@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden sees worst record of confirmed ambassador appointees in recent history"
+    excerpt: "White House officials are concerned about the lack of Senate-confirmed appointees under President Biden in comparison to previous administrations, reports said Friday."
+    publishedDateTime: 2021-08-06T23:14:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4x_lbfLy2U/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05ed5b94-9873-4765-adf4-89018893ada3/7fb51efb-1ef3-4da6-9489-a5f31741f590/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Republicans march with protesters for Cuban freedom as they pushed Biden for more support"
     excerpt: "Several Republican lawmakers rallied with Cuban Americans who marched in D.C. on Monday to encourage the Biden administration to support the Cuban people in their fight for freedom."
     publishedDateTime: 2021-07-27T00:12:17Z

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Justice Department advises Biden administration to hand over Trump tax returns to Congress"
-excerpt: "The Justice Department told the Treasury Department that it \"must\" turn over former President Donald Trump's tax returns to the House Ways and Means Committee, which first requested them more than two years ago.\n    \n"
-publishedDateTime: 2021-07-30T17:29:16Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
+title: "How a Trump environmental lawyer tried to weaponize the Justice Department to help the President"
+excerpt: "Jeffrey Clark, a Donald Trump-appointed environment law chief at the Justice Department at the center of the former President's efforts to overturn the election, received a high-level intelligence briefing around New Year's 2021 that did little to stop his efforts to prove foreign interference had cost"
+publishedDateTime: 2021-08-06T23:25:21Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mrRE0jO67GA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mrRE0jO67GA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/doj-clark-trump-election/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/doj-clark-trump-election/index.html"
 type: article
-quality: 180
-heat: 1200
-published: true
+quality: 162
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805190917-jeffrey-clark-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Justice Department advises Biden administration to hand over Trump tax returns to Congress"
+    excerpt: "The Justice Department told the Treasury Department that it \"must\" turn over former President Donald Trump's tax returns to the House Ways and Means Committee, which first requested them more than two years ago.\n    \n"
+    publishedDateTime: 2021-07-30T17:29:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden nominates Khizr Khan, a Gold Star father and Trump critic, to religious freedom post"
     excerpt: "President Joe Biden announced Friday that he was appointing Khizr Khan, a Gold Star father who drew then-candidate Donald Trump's ire when he spoke at the 2016 Democratic National Convention, to the United States Commission on International Religious Freedom.\n    \n"
     publishedDateTime: 2021-07-31T00:03:51Z
@@ -607,22 +623,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How a Trump environmental lawyer tried to weaponize the Justice Department to help the President"
-    excerpt: "Jeffrey Clark, a Donald Trump-appointed environment law chief at the Justice Department at the center of the former President's efforts to overturn the election, received a high-level intelligence briefing around New Year's 2021 that did little to stop his efforts to prove foreign interference had cost"
-    publishedDateTime: 2021-08-06T23:25:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mrRE0jO67GA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/doj-clark-trump-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/doj-clark-trump-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805190917-jeffrey-clark-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden admin buys extra Pfizer doses to prepare for possibility of children vaccine needs and booster shots"
     excerpt: "The Biden administration purchased an additional 200 million doses of Pfizer-BioNTech's Covid-19 vaccine to prepare for potential additional vaccine needs in the US, an administration official familiar with the contract tells CNN.\n    \n"
     publishedDateTime: 2021-07-23T14:38:43Z
@@ -848,6 +848,6 @@ related:
         height: 550
         isCached: true
 
-secured: "90KKY2kEtkFF2i+FrziT/HaDuGwUVrH0a7BcdQj1wUnGzcaHYAL505EB9jhR0sHqDtdbdnKgSBgWWiTegtuu6pnGPhLLygMRQvbhhz3M7GVXa7YKWMCQEMqhFjdGKMpsEeI6OAfzu0QVurZ4ZFNS/TWB0rSzaPlwUMFzxnkDikWMevNd30xsDDjEGKYw7FIfuNU4MfODjzxobPZcTrrqOZAsTUczMi0vnih1nV/MDVCpHguAlH+FS13qVod06YPDlgivgdBXWN6ar92kYfEs7qWy5vePOGoKfVhMCQXwi4oxiBriOXWo/77C9oHWrx4Q2dtiNlXiCKYu0Yq9VZ7upmXMWGonQpsz7PrqJ5R1ue0=;n8dXuPPLOeuiQl/S4Qj3Vg=="
+secured: "YUYTh1Nq274e7hUIChQStu1Q6hYRPRKOdjmc0er6ovO2CFjPBrU77A2ZDrp/ncpXDmRHmXuktB98hgtNV8oHOVCTLMy5BEbQRir5rYUxDM3JeLjPvEBOewTPHqaK9HvTWzTQMhGLfnOZyn1BgtKIM315BrheFxLTEm0L3H1pNQxbDgbxz477xyV0uO/sBc5lkWNWzn9USAGci8scCfU8MPDFjJrFcRNjHPdMO6tJfipDbV58LBlZ/qMKANVPur55iArRlKWpg7n4GiK5JEMEDlvQIShf+LSqsuoIFlpDwJihtqXcHFgKdgZ0QpadTUG8h6p7JhgfkUBYSJqPRUhWy+CVuRfE9/KTGZqagCN+a3c=;/JUYZjjL+gDXlzixEE7T/A=="
 ---
 

@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expected to unveil new Belarus sanctions"
+    excerpt: "The Biden administration is expected to unveil new Belarus sanctions and a new executive order amid continued crackdowns by the regime of strongman leader Alexander Lukashenko.\n    \n"
+    publishedDateTime: 2021-08-06T23:03:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0YcFTZl0OE8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/belarus-biden-admin-sanctions-expected/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/belarus-biden-admin-sanctions-expected/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728140245-biden-tsikhanouskaya-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's immigration plan runs into on-the-ground realities"
     excerpt: "The president of Guatemala had a private piece of advice for Vice President Kamala Harris when she visited earlier this summer, on her goal of slowing the rush of hopeful migrants to the US border with Mexico.\n    \n"
     publishedDateTime: 2021-08-06T10:42:29Z
@@ -604,6 +620,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805184511-bidencongressional-gold-medal-0805-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How a Trump environmental lawyer tried to weaponize the Justice Department to help the President"
+    excerpt: "Jeffrey Clark, a Donald Trump-appointed environment law chief at the Justice Department at the center of the former President's efforts to overturn the election, received a high-level intelligence briefing around New Year's 2021 that did little to stop his efforts to prove foreign interference had cost"
+    publishedDateTime: 2021-08-06T23:25:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mrRE0jO67GA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/doj-clark-trump-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/doj-clark-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805190917-jeffrey-clark-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

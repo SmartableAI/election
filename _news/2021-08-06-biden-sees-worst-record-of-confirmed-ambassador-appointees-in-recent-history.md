@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
-excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
-publishedDateTime: 2021-07-27T17:23:14Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
-ampWebUrl: "https://www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
+title: "Biden sees worst record of confirmed ambassador appointees in recent history"
+excerpt: "White House officials are concerned about the lack of Senate-confirmed appointees under President Biden in comparison to previous administrations, reports said Friday."
+publishedDateTime: 2021-08-06T23:14:11Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4x_lbfLy2U/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4x_lbfLy2U/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history"
+ampWebUrl: "https://www.foxnews.com/politics/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history.amp"
 type: article
-quality: 158
+quality: 172
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53f033bb-8692-4708-9f6c-d8982d1428e3/29053f5d-da13-42bc-867f-a6996ea7f4e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05ed5b94-9873-4765-adf4-89018893ada3/7fb51efb-1ef3-4da6-9489-a5f31741f590/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -44,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden sees worst record of confirmed ambassador appointees in recent history"
-    excerpt: "White House officials are concerned about the lack of Senate-confirmed appointees under President Biden in comparison to previous administrations, reports said Friday."
-    publishedDateTime: 2021-08-06T23:14:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4x_lbfLy2U/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sees-worst-record-of-confirmed-ambassador-appointees-in-recent-history.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05ed5b94-9873-4765-adf4-89018893ada3/7fb51efb-1ef3-4da6-9489-a5f31741f590/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -127,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Lauren Boebert, other CO reps call to reject Biden's Bureau of Land Management pick if she moves HQ to DC"
+    excerpt: "Three Republican Colorado representatives are calling on the state's two senators to reject President Biden's nominee to lead to Bureau of Land Management if she does not commit to keeping its headquarters in Colorado."
+    publishedDateTime: 2021-07-27T17:23:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0Ro3009kgU/lauren-boebert-colorado-bureau-land-management"
+    ampWebUrl: "https://www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lauren-boebert-colorado-bureau-land-management.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53f033bb-8692-4708-9f6c-d8982d1428e3/29053f5d-da13-42bc-867f-a6996ea7f4e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Hannity: The US is the land of the free, not the land of Joe Biden's government mandates"
     excerpt: "Fox News host Sean Hannity slammed the Biden administration for their confusing messaging surrounding COVID-19 and Dr. Fauci's grim outlook."
     publishedDateTime: 2021-08-06T02:36:00Z
@@ -144,6 +144,6 @@ related:
         height: 405
         isCached: true
 
-secured: "STE/av2eUu325XqLtk7zVqr5jI55/wrjZ+hrry4X+4HBmWb8gv4NIbCjoiaLzKfbYsFlUZJTniE/4GPgO+Vd4qqd6lLX0dg1Ha+LeORUhPN0me7WMIQbUwbprYcgFiFucLCYIJRGvkmUtMvZfVpRQgEUc/dc12ARAgOq3S487fbMTOw+gtMEXmN46UoVucxbhQpKv77sw7pT1YQ41chg2lug2Nrc0GcgWOqDCx7UGiA9tqCiUqakqMKZgSQpJDDoTuXM2s9jhjbrjQ+C6YgRsNDIIuex06tRFwhr+n4MIj6VJkdIxU1v8f5FHU1d+2xgUC+WH+3EuM3Q7o79Bw5n4ETt4HX9K5yCItWfZ3osUUk=;M0w6ELuBDh9a2nML/lAx/Q=="
+secured: "5PY0bvt9NmM/rHOwIut3syYHphFOeqSVUYC34KAvVlJBXVz4bTEWbRbgiKvaIM1temcl4NBXMoAiudboNkRH0sH2YbtXRyqJ+qjydukRYxPbTpMobqMR/jMD5BnwRGPMNhPVgDV8LVQahhyjqazSMFCnWGrXVVIHVL8c1Q45EggpVaiGCvwX+yeYsBbws/051zhZgrII5eDpICfEHu1fJW+mBwrqmqM9EG/EXIodeI/PfIr/f4llETtYBEbwQUNwZJOGVN8kq9LLPY9SSgqazC4T+I5u7VQOKZVbgrcJ94R2Xx+7JYss9Td2iT4CUSeOe09rZZUSr/tnpXqSEQ0ZIqr20XJdJrHNrJ7NDA6tiHY=;cJ0ybhsaIkiUebzW0dSbZg=="
 ---
 
