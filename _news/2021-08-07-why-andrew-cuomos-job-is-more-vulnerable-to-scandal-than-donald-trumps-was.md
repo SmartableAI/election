@@ -2,27 +2,29 @@
 category: news
 title: "Why Andrew Cuomo's job is more vulnerable to scandal than Donald Trump's was"
 excerpt: "Andrew Cuomo. Cuomo went from being talked about as a potential presidential candidate in the spring of 2020 – thanks in large part to his handling of the COVID-19 pandemic in New York state – to media ridicule and possible state senate impeachment now,"
-publishedDateTime: 2021-08-07T01:05:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+publishedDateTime: 2021-08-07T00:05:00Z
+originalUrl: "https://www.chron.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+webUrl: "https://www.chron.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+ampWebUrl: "https://www.chron.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
 type: article
-quality: 102
+quality: 72
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Cuomo jams Democrats with Trump playbook: The Note"
@@ -42,6 +44,6 @@ related:
         height: 558
         isCached: true
 
-secured: "UOi17oLgkPPHVlu1cInleEWHyHIRG1NvLFyh35yHbLTJj4TdKRezGOFYEROWlDueBZNRZ/zrjG8D86vPgoZ4ZTGKRPupUr/U7hSCfysHvA3KDICZmHq50ycuAwkdv/dE45yzkue6Onk6lI00xpb6ix6+QdfHBxkhSysIs4/zhUTXPKjj2WsPkRloulBduC6DgO+X4B9YK3BDESzciAB5Ylgk7AR8PA7IRn7D6q9LkzR2wReAznIFI46ZS3pg6wsNCxikaak2THOP7uFWYjfjKBi81iy87eZweEC76079kUhIn62M6gJouJO2lMSmaaKMKqdr25kHxIK4u1BWvYdg6qNdMa0E25okOR6n46Nbz3M=;kuNQSrFfgVAkxo5aG+SvXQ=="
+secured: "wobtFS5Lr64iKN48JruY60/2c6TQxHdsGxPKnpvyis9NShSVUH7+hZBkbMUDFxzISab+E9F06ncaKLrAs9iITmSrC56We2gAp0inQVu5n3eZpVmUvxGqOV0rot3Dn6AqU6p06jRHqnl1wgJeYg2kFPtVhvCBOpqJBqk2xgRIioXeTtschQSqNKqfEuzn7uAd7id1dSAolTWFv8UMKWHaYsp/YL3c6z8bWzsJLTAEJnE1ZLOQGfeQdOzxTR+rlOONcTXHrZ86sPXLtpbVyGad3Go9165HPYEJg4eHLFyyOWsavQ4g7/lainyatXi/tsqTeFjhXtSi3WjZBQm0w0b6mD+akCcl2/zVNsb00pJ8iV4=;1VEz1TwPUeq/yR04z113sw=="
 ---
 

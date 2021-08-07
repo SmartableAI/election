@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden touts LGBTQ diversity in announcing sixth round of judicial nominees"
-    excerpt: "President Joe Biden on Thursday announced four judicial nominees, including two barrier-breaking nominations of LGBTQ judges, marking his sixth round of judicial nominees since taking office as his administration seeks to maintain a rapid pace of nominations and confirmations.\n    \n"
-    publishedDateTime: 2021-08-05T14:37:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WHFzKZz_Z_Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
+  - title: "'This is way beyond collaborative': Young leaders see their feedback reflected in Biden's plans"
+    excerpt: "When Joe Biden campaigned for the presidency, he called himself a bridge to a new generation of leaders in the Democratic Party. While some frustrations remain, young leaders are saying the President Biden's administration is making good progress on Candidate Biden's pledge.\n    \n"
+    publishedDateTime: 2021-07-22T12:58:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SpDLuA6RRNQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/build-back-better-young-americans/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803165508-01-biden-0803-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden extends temporary safe haven to Hong Kong residents in US amid China crackdown "
-    excerpt: "President Joe Biden on Thursday signed a memorandum extending temporary safe haven to certain Hong Kong residents in the US amid ongoing repression and undermining of democracy by China.\n    \n"
-    publishedDateTime: 2021-08-05T14:44:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jihOUX8COAY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/deferred-enforced-departure-hong-kong-china/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/deferred-enforced-departure-hong-kong-china/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716145103-white-house-file-0306-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to announce new emissions standards, target that 50% of vehicles sold in US by 2030 are electric"
-    excerpt: "President Joe Biden will sign an executive order Thursday that points the US auto market toward electric vehicles, announcing a new target that half of vehicles sold in the country by 2030 will be battery electric, fuel-cell electric or plug-in hybrid.\n    \n"
-    publishedDateTime: 2021-08-05T10:08:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L09KXlPPWHU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708143919-01-stellantis-electric-vehicle-strategy-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721154356-01-biden-0721-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

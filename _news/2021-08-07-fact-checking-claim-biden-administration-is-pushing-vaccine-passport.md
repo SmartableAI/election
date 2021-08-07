@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden touts LGBTQ diversity in announcing sixth round of judicial nominees"
-excerpt: "President Joe Biden on Thursday announced four judicial nominees, including two barrier-breaking nominations of LGBTQ judges, marking his sixth round of judicial nominees since taking office as his administration seeks to maintain a rapid pace of nominations and confirmations.\n    \n"
-publishedDateTime: 2021-08-05T14:37:53Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WHFzKZz_Z_Y/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WHFzKZz_Z_Y/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
+title: "Fact-checking claim Biden administration is pushing vaccine passport"
+excerpt: "Amid confusion over mask mandates, booster shots, and new guidance for those vaccinated, some Republicans have thrown fuel on the fire with false and misleading claims.\n    \n"
+publishedDateTime: 2021-08-07T16:30:17Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
 type: article
-quality: 173
-heat: -1
-published: false
+quality: 175
+heat: 275
+published: true
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803165508-01-biden-0803-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726095519-france-covid-pass-law-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Fact-checking claim Biden administration is pushing vaccine passport"
-    excerpt: "Amid confusion over mask mandates, booster shots, and new guidance for those vaccinated, some Republicans have thrown fuel on the fire with false and misleading claims.\n    \n"
-    publishedDateTime: 2021-08-07T16:30:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
+  - title: "Biden touts LGBTQ diversity in announcing sixth round of judicial nominees"
+    excerpt: "President Joe Biden on Thursday announced four judicial nominees, including two barrier-breaking nominations of LGBTQ judges, marking his sixth round of judicial nominees since taking office as his administration seeks to maintain a rapid pace of nominations and confirmations.\n    \n"
+    publishedDateTime: 2021-08-05T14:37:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WHFzKZz_Z_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726095519-france-covid-pass-law-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803165508-01-biden-0803-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 773
         isCached: true
 
-secured: "djtp0/waLTpVfdiuI7i4TSHzYQ8BEAOhnGpyKxERjmh/g7LCMeu8zoHKmIRKQeYNarsQ0vnCFjyF0/8ctHQKbl1HHtim0FDl8Z3B9T23L7jgVTUak8n1evUttTYPBymzBmiasXlPe9Io2ZAClpi8mkDpkbTv+sZdJz7iX2lfWEpfRjko1qqIQUv7NAYo3PqE1FVz0i3NpgDRPObyM3R91EJI0qi2mfuj5bCX/sc6905fL9Axvnq6SgSHAqQ7FmhiZy/nR12Uwhn+KHVJfeSxCUtYw+Wjy+HSYt0RBrl7qq/2X9prp82flDgwe7lN3R8b560rwOB0/R2/3DSn5k/xsRuNY/pWYeVUqoqP2JJVoyI=;pi5Z06mZQwCjjpU8JPDbJQ=="
+secured: "wYdWqd2FmFbLEJDzwXRe5bg97hZRKqA9r5KfEiCclO3OCiiyc2j/UKhN+KhzJ5QzfFq0mcBRnnvoOqZC7EYsZzbRTw7P+TCZx6FTDd/i1Hjs7BJPMemoe60/gb2TZrhQqMRnMcrZpUY6pW/yy3ocS5Lqm2vObIpwKlDDXwR/66K953C4Uu/vJE2z5JF7uS3oKvTwirehFJZT1kX1IWB4TRNLMxDtUPYzwl0o9vRqY4dlFPZ9Ee2ZWwfi9QkkXU2kvT2ueDKoaMcexO/KCPg/IN8JtmigYOQvTgly3ixr6oS6Koqm1vUnX+i1mlAnbmQWtL1xrfoRkCm+CKMfWrSatZb/faxGZ+qWwpb90wKZupA=;xf2HL11RhoiyFcEdcy6aLw=="
 ---
 
