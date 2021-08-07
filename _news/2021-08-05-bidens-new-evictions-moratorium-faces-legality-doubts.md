@@ -199,6 +199,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Awards January 6 Police Officers Congressional Gold Medals"
+    excerpt: "President Joe Biden, surrounded by U.S. House Speaker Nancy Pelosi (D-CA), members of the U.S. Capitol Police and their families, signs H.R. 3325 into law in the Rose Garden of the White House in Washington,"
+    publishedDateTime: 2021-08-05T23:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/WHITE-HOUSEBIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
     excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."
     publishedDateTime: 2021-08-03T22:03:00Z

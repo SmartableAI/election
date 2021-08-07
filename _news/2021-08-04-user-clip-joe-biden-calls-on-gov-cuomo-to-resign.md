@@ -208,6 +208,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Awards January 6 Police Officers Congressional Gold Medals"
+    excerpt: "President Joe Biden, surrounded by U.S. House Speaker Nancy Pelosi (D-CA), members of the U.S. Capitol Police and their families, signs H.R. 3325 into law in the Rose Garden of the White House in Washington,"
+    publishedDateTime: 2021-08-05T23:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/WHITE-HOUSEBIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "AYZMUmBMRnppKy+YT3kzOcDw9PaRPbogw7ctoVEzSdlEZpnhwRWs8BEut4lJl3WOVdmWC4vK2XD6PaD1ozofJOzl+SPgB4n4XlujHTy2oK3kJI1+1Q4EAj4zyz8FNnOOX7grdpq76XTNbVbUq1GTQ9ZwVOWfY5hIq+s1w2TNQRTySEs103dKNFRFX7qscmFw7xpw5bu30i4FqvF/Re2EW7Ls91Ml2AMPU8Jo1QwGdWeSK7YOHTySnplFP8cxmI4n29yVEyruhDDHY3oNneoz/B76eZuz2cZ8nf2Ar5UsoioyKddWgauwQGcTvck1CrWm9+K/f/J54n0ZY+dA3Le74gpmvf5jH1Uan0Ajpk++RwSnEjjGZm9PTBWrx5VX0vzXtnLbZQHxgrPk09gMzNpNLR3LMOtgzIBiWazDvHNgmMDOUV85kXEqDiFPB0KCFTOkyDWWdP2byAXFkFSNwPukKj4wIpu87SHoGVkoxnINtgXfUz2j9bwkLu0DTAOS6XUsunTtHxhxLCxHKEQRzPZSNA==;Tpk0pONsvn/lldmOQBNjJQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Vice Pres Kamala Harris Speaks on Voting Rghts with Tribal Leaders from AK"
 excerpt: "Vice President Kamala Harris hosts a conversation on voting rights with Tribal leaders and other Native leaders from Alaska Native and American Indian communities in the Eisenhower Executive Office Building of the White House in Washington,"
 publishedDateTime: 2021-07-27T22:58:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/2bd02af0f29694b7cb978e8edd538da2/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/2bd02af0f29694b7cb978e8edd538da2/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/a9a697555277243f64e2dbf0553eb3d1/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/a9a697555277243f64e2dbf0553eb3d1/Vice-Pres-Kamala-Harris-Speaks-on-Voting-Rghts-with-Tribal-Leaders-from-AK/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/2bd02af0f29694b7cb978e8edd538da2/HARRIS-VOTING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/a9a697555277243f64e2dbf0553eb3d1/HARRIS-VOTING.jpg"
     width: 650
     height: 434
     isCached: true
@@ -615,6 +615,6 @@ related:
       domain: c-span.org
     quality: 28
 
-secured: "0tjDD7G06FWF8SSNuaa2hSUf9V5B85/vZ1H7G0C2g/qhUxW60X6kQXSUP2lfY24VbwZ228p7So4Rd9cGTMZXzcCybKX7xog4ZUJvdBy5YkZzNqfZ5lXUiTUeRPdCLa/VaYP1/XxQVIXHLKZgImGah+UGCEY++74zLqB1K9LcpK8041yKAOocsDqJQv+Q7Lrku8b73QkEnznZBON5tpF95KsL6ovOhd0BnMAWHTKavUfBQ9Y31S3N0oLZ3VeUwscNAX0IWqFRSmfX0x8xjz3SW4PfirKCJoyFj5hQ5qxKlSTFakp/ppstpLg7eCxe8Im2QIX0hQzZBYU57xlUtzbHckiR2etT/bRwR+t+5NBiBIXCy36eD0TDkD25lMHYGFA3b3mpPoo2wzpxCnv7BGrGezBN3zZ0nS7WgBn15Xs604bt1GSn6/EOzAMxUDJX3z/uHjiXgK041MWe7pSBAZy9X1eOHgsiEGstYmyViJoF7Bxm/cqkTIsYmLnWb+qp3wcF/I5M3av/nj73KRkWTRBP+g==;1siALLlpsyRQd3a5l2XPsg=="
+secured: "9E+za2Bk5JVMYC3fYpg6Jtxg8uc1BFb9rd4CKNuW1anruYcbYl49bjedfVCBps4mbSQz23+qfu2TQNeHWuTZ9ZbEa2rPUt+9uvjUqpmsI6FfXxe64qcvfxKpPELAXD8oPhL8D6NFZG2OEROIUv13INyzrQ6egGTu6qPKxeDBygZxksH4i+Crbf6zjaSmuqaShkxdNlkEb4207hn4NWqLw+k1eszDbgdwGkWs26NozCZl2TAXuMX8bqYVacmqpotBFssbh+zLyF6yNUWt+zEE9iLwOvxZfFbNWpB2S6e+Tajo9lesjzKxaBOxBpz8CStigJsQe9ygPQ8Gxaq19ZUD6l0g7OC8yrQFbKfeBCHTBmU=;YPnIw3x7mlQvIt7wi3Kedg=="
 ---
 

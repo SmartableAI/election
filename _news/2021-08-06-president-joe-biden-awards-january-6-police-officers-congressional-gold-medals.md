@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Joe Biden to tout strong July jobs numbers – US politics live"
-excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
-publishedDateTime: 2021-08-06T14:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+title: "President Joe Biden Awards January 6 Police Officers Congressional Gold Medals"
+excerpt: "President Joe Biden, surrounded by U.S. House Speaker Nancy Pelosi (D-CA), members of the U.S. Capitol Police and their families, signs H.R. 3325 into law in the Rose Garden of the White House in Washington,"
+publishedDateTime: 2021-08-05T23:40:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
 type: article
-quality: 125
-heat: 405
-published: true
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/26b75722c336bad8c50309926af68f13cf3dc72f/0_134_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eada90142314f96d2869c871b0200db3"
-    width: 600
-    height: 360
+  - url: "https://cdnph.upi.com/pv/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/WHITE-HOUSEBIDEN.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
+  - title: "Joe Biden to tout strong July jobs numbers – US politics live"
+    excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
+    publishedDateTime: 2021-08-06T14:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/26b75722c336bad8c50309926af68f13cf3dc72f/0_134_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eada90142314f96d2869c871b0200db3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
     excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
     publishedDateTime: 2021-08-02T18:52:00Z
@@ -204,20 +214,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "President Joe Biden Awards January 6 Police Officers Congressional Gold Medals"
-    excerpt: "President Joe Biden, surrounded by U.S. House Speaker Nancy Pelosi (D-CA), members of the U.S. Capitol Police and their families, signs H.R. 3325 into law in the Rose Garden of the White House in Washington,"
-    publishedDateTime: 2021-08-05T23:40:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 51
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/WHITE-HOUSEBIDEN.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
     excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."
     publishedDateTime: 2021-08-03T22:03:00Z
@@ -228,6 +224,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "kEofHeBQxXHCnc0msCRGPVhjr2Pps5BVGH2EE3MQogmtCNJ0F25yI4DxpAcBWe21CwwPMmJuPqQKzeRb2WXJ+HbJdgeCjwckebEwelEAW9AJsr1gJ7Sbsf6Cidww6fJkaROWdxyqhGZdLOHjHClW/wXS5KfeNmZDrhogh3wv4VxFgepG1aDGJpTG0RAQioZ7OgFPn2gQ9tWmBPKqSDZf9foaOtVd1u9KeZxr4O/3VuBPWpFuOLJjFfneSjsAOMDJZG3R9yAlL2/xR3D9IAh6n53Bn5f+ov+VFHEcr5VtlADQ41wdMFw0E3p+kzAIjUo8ccMmscfUQ+Yx5ZG0Jf0v/9ogekFHGFOxJju4/pepg35B7AUp65XHjIlOJF0HUiva0KEKdTawYXm1DEvRke1X85cI1xlMuX8vTO+GI57u5ixPq9bvS9ORaTqC0HoSufsNu7aw2MhGnBRpUMytpMoTq+bVXiD70EgEPkyxpbA4HKrsvfx8kaY6m5aIAcfDf8UJLvyzAkwIEUuQWYfX8QX+Cw==;BoD+Mst009jZqTCiSvRylw=="
+secured: "AS9KQlajAHcBQO41tFq5KEiKeypOAk0zMMg68TB9gd3MoMBAEdv9ftEBT05+3L+nz1Kl9vFuvh8h8v+FfFNrzNUy+bIJzX2SYbFyZnwT/K1ZGRCDlgFAVwTNRYVLxyzJ+9a6y8H2kCx5pWTbNcMegbboNZb5RTYFpokVMC86zoEBdXjjF2TDsDg0H/W3Rj4KMJzFC/rvXwgZN5zirsUZdfHUJotou8Uud6WLMwfOLnF5tJ5IcOs9Y/rHphgRD3WuKQ4cQl3338/QU931sVm8kcQXZQYLaToXvBFe0EG8aN6OO5K9LqmXpVe/B6Yf5vrXto+BEfRT+SNpJKDSB+U9EFtyF/5rDX1FpeXyiMfsFNM=;rSj6DMVdjHDWeHVMSJW3zQ=="
 ---
 
