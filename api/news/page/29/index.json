@@ -2,6 +2,62 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-06-14-comer-jordan-send-letter-demanding-more-sunlight-on-kerrys-role-in-biden-admin.md",
+      "title": "Comer, Jordan send letter demanding more sunlight on Kerry's role in Biden admin",
+      "excerpt": "House Republicans Jim Jordan and James Comer are demanding answers from U.S. special envoy for climate John Kerry about his role.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEXZyUufKtY/john-kerry-biden-jim-jordan-china-comer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEXZyUufKtY/john-kerry-biden-jim-jordan-china-comer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb93b34e-8221-4b4f-bf73-ff1988a82d9f/7215d31c-6422-49ea-897a-513f1af09ae9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/john-kerry-biden-jim-jordan-china-comer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-biden-jim-jordan-china-comer.amp",
+      "publishedDateTime": "2021-06-14T08:06:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-will-joe-biden-polices-raise-american-household-income-charlotte-observer.md",
       "title": "Will Joe Biden polices raise American household income? | Charlotte Observer",
       "excerpt": "A typical household’s income will grow an additional $36,000 over the next 10 years, says the Biden administration, because of its economic policies. But outside economists disagree with the White House’s assessment.",
@@ -1262,58 +1318,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-feds-will-repeal-or-replace-trump-era-decision-to-lift-logging-road-building-restrictions-in-alaskas-tongass-national-forest.md",
-      "title": "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest",
-      "excerpt": "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7662402002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002",
-      "publishedDateTime": "2021-06-11T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

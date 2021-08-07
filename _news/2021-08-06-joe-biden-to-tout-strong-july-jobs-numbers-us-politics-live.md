@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden to tout strong July jobs numbers – US politics live"
 excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
-publishedDateTime: 2021-08-06T14:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718"
+publishedDateTime: 2021-08-06T13:19:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d3db38f089093df87639f"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d3db38f089093df87639f"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
@@ -228,6 +228,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "kEofHeBQxXHCnc0msCRGPVhjr2Pps5BVGH2EE3MQogmtCNJ0F25yI4DxpAcBWe21CwwPMmJuPqQKzeRb2WXJ+HbJdgeCjwckebEwelEAW9AJsr1gJ7Sbsf6Cidww6fJkaROWdxyqhGZdLOHjHClW/wXS5KfeNmZDrhogh3wv4VxFgepG1aDGJpTG0RAQioZ7OgFPn2gQ9tWmBPKqSDZf9foaOtVd1u9KeZxr4O/3VuBPWpFuOLJjFfneSjsAOMDJZG3R9yAlL2/xR3D9IAh6n53Bn5f+ov+VFHEcr5VtlADQ41wdMFw0E3p+kzAIjUo8ccMmscfUQ+Yx5ZG0Jf0v/9ogekFHGFOxJju4/pepg35B7AUp65XHjIlOJF0HUiva0KEKdTawYXm1DEvRke1X85cI1xlMuX8vTO+GI57u5ixPq9bvS9ORaTqC0HoSufsNu7aw2MhGnBRpUMytpMoTq+bVXiD70EgEPkyxpbA4HKrsvfx8kaY6m5aIAcfDf8UJLvyzAkwIEUuQWYfX8QX+Cw==;BoD+Mst009jZqTCiSvRylw=="
+secured: "7SqwwgTYMXmxqIHc3oi0MFMJBszHgPeLjG0qFGycFyl267mRdAgZxgik0iziRW6swmw1CAo5nJOOlO3VtbLfVSyPknMGDdyfmuPCoVD4Hc2cgoCltkCAF4iRErGHBRBRlaGcD/bpskI/engust9Jh15rj8SSkQdaCQoZ8Ai2y6yBPodKU7Y9wmYu2jEocJReWh3DoEOU7jyAliJZpCSSGk/PcpPBb/4IyiaJaIIfNVKxKhPgdaFHUI2ymXNnropCe99ECd8sF2oEZ2Rd7W8w4GkG7BVy7RY0IppvTRHL5YWDP5VrJ/FW3PNm+ilp2U2XrSuozhWM2gzLDGICna41q/MfH/A7U87Eyt7jWiq9ARw=;DKrbbNXuYbwJFjw4xn4ypA=="
 ---
 

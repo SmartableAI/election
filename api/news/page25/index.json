@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-06-23-ted-cruz-defends-texas-rep-chip-roy-as-donald-trump-attacks-him.md",
+      "title": "Ted Cruz defends Texas Rep. Chip Roy as Donald Trump attacks him",
+      "excerpt": "Donald Trump may be gunning for Congressman Chip Roy, but U.S. Sen. Ted Cruz is making it clear he’s going to fight to defend Roy, his former chief of staff. A month after Trump publicly blasted Roy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/55/21/21156979/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php",
+      "publishedDateTime": "2021-06-23T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley.md",
       "title": "GOP in flux, Mike Pence plans speech at Reagan Library in Simi Valley",
       "excerpt": "The former vice president was once a GOP presidential frontrunner. But after Jan. 6 and slammed by Trump, it’s an uphill climb as he considers the presidency.",
@@ -1276,63 +1328,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-nina-simones-grandaughter-says-kamala-harris-bullied-her-mother-to-the-point-she-almost-killed-herself.md",
-      "title": "Nina Simone's grandaughter says Kamala Harris 'bullied' her mother to the point she 'almost killed herself'",
-      "excerpt": "Legendary singer Nina Simone’s granddaughter accused Vice President Harris of causing the family to lose control of Simone's estate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WRhdHghQ0k8/nina-simone-kamala-harris-granddaughter-estate-california",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WRhdHghQ0k8/nina-simone-kamala-harris-granddaughter-estate-california",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/7665a381-Kamala-Harris-Guatemala-Press-Conference-AP.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-20T14:19:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],
