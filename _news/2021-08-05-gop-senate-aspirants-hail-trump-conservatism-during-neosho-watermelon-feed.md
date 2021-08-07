@@ -929,6 +929,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 53
+  - title: "Trump's firm hold on Republican Party evident at key state rally in Northwest Georgia"
+    excerpt: "Look no further than the T-shirts greeting arrivals at one of the state's biggest GOP gatherings for evidence of the former president's enduring grip on the party. Shirts and signs proclaiming \"Trump Won\" were there for the taking."
+    publishedDateTime: 2021-08-07T21:32:00Z
+    webUrl: "https://www.timesfreepress.com/news/local/story/2021/aug/07/republican-rally/551790/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 48
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/08/07/1628371254_080721GOPRally031_gs_t1070_hf41fd234e35d483687be006436394b0c53e2d7d0.jpg"
+        width: 1070
+        height: 713
+        isCached: true
   - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
     excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
     publishedDateTime: 2021-07-29T09:30:00Z

@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Trump-backed candidate wins Republican U.S. House primary in Ohio"
-excerpt: "Former President Donald Trump's endorsed candidate Mike Carey won a crowded primary contest on Tuesday for the Republican nomination to a seat in the U.S. House of Representatives from Ohio's 15th district,"
-publishedDateTime: 2021-08-04T00:07:00Z
-originalUrl: "https://www.reuters.com/world/us/trump-backed-candidate-wins-republican-us-house-primary-ohio-2021-08-04/"
-webUrl: "https://www.reuters.com/world/us/trump-backed-candidate-wins-republican-us-house-primary-ohio-2021-08-04/"
+title: "Trump's firm hold on Republican Party evident at key state rally in Northwest Georgia"
+excerpt: "Look no further than the T-shirts greeting arrivals at one of the state's biggest GOP gatherings for evidence of the former president's enduring grip on the party. Shirts and signs proclaiming \"Trump Won\" were there for the taking."
+publishedDateTime: 2021-08-07T21:32:00Z
+originalUrl: "https://www.timesfreepress.com/news/local/story/2021/aug/07/republican-rally/551790/"
+webUrl: "https://www.timesfreepress.com/news/local/story/2021/aug/07/republican-rally/551790/"
 type: article
-quality: 105
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Times Free Press
+  domain: timesfreepress.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=48"
-    width: 1200
-    height: 628
+  - url: "https://media.timesfreepress.com/img/photos/2021/08/07/1628371254_080721GOPRally031_gs_t1070_hf41fd234e35d483687be006436394b0c53e2d7d0.jpg"
+    width: 1070
+    height: 713
     isCached: true
 
 related:
@@ -324,6 +320,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/08/02/b7b3c385-a9e5-4f4f-9dd1-9416c225c844/thumbnail/1200x630/8cad43c543a1629a905d3c714a6fecdd/cbsn-fusion-doj-drops-bombshells-on-former-president-trump-as-he-tries-to-maintain-political-relevance-thumbnail-765074-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump-backed candidate wins Republican U.S. House primary in Ohio"
+    excerpt: "Former President Donald Trump's endorsed candidate Mike Carey won a crowded primary contest on Tuesday for the Republican nomination to a seat in the U.S. House of Representatives from Ohio's 15th district,"
+    publishedDateTime: 2021-08-04T00:07:00Z
+    webUrl: "https://www.reuters.com/world/us/trump-backed-candidate-wins-republican-us-house-primary-ohio-2021-08-04/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=48"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Trump is a barometer for Republican views of Supreme Court"
     excerpt: "The U.S. Supreme Court has been issuing rulings that tend to favor conservatives, but its approval ratings have dropped among Republicans as well as Democrats, according to an analysis by my Reuters colleagues and a recent Gallup poll,"
@@ -933,20 +943,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump's firm hold on Republican Party evident at key state rally in Northwest Georgia"
-    excerpt: "Look no further than the T-shirts greeting arrivals at one of the state's biggest GOP gatherings for evidence of the former president's enduring grip on the party. Shirts and signs proclaiming \"Trump Won\" were there for the taking."
-    publishedDateTime: 2021-08-07T21:32:00Z
-    webUrl: "https://www.timesfreepress.com/news/local/story/2021/aug/07/republican-rally/551790/"
-    type: article
-    provider:
-      name: Times Free Press
-      domain: timesfreepress.com
-    quality: 48
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2021/08/07/1628371254_080721GOPRally031_gs_t1070_hf41fd234e35d483687be006436394b0c53e2d7d0.jpg"
-        width: 1070
-        height: 713
-        isCached: true
   - title: "Carl P. Leubsdorf: The candidate Trump endorsed in a Texas race lost. What does that mean?"
     excerpt: "The unexpected loser in Tuesday’s special Texas congressional election was Susan Wright, the widow of the North Texas suburban district's former Republican representative. But the bigger loser may hav"
     publishedDateTime: 2021-07-29T09:30:00Z
@@ -998,6 +994,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "YEOdO2EDkN/rpBe4hXNEtrRcZkfVo4QIoBXmaAPTkODtARW6aaskwxV84UN4kq2NA4zL7HwChTt1blQuNkxvJej4zxCHh9qfo97T/AtM/Iaf3dqBXbPiMU4CxnycZsciGtTNZF12JbeLYhc2cw0rgpZQiIX4f5X4hUw6iDZywJxI8pr8cduDIo3klQc0caF7k/XNa17G84mnldjSSRwCMytxtzRDIzpsbqi0ebc/MRtvi8XsNO9ujQgPsnJ64EFEwysIYEW6c+SOx8C614JWoE6JhA0XR1cqofnQpuBZSOUJyNJ2Kfw7E69vIdpR+B+inpAeIKCIA3Ju8c9zgw244VW1ASRyBQsGBNp+qJhhNaA=;jpjlPSWeP0sKdFuNdBhV/A=="
+secured: "V/j/HpsYJ1nYPh1W+sMAQwQ8MKbLshxugRuD6nGhb+1KykPi9hcEWV2YD9qpj0gb38LaaqpTbZunDoCdVYuJbHWVRQmcfk0vFb8AJb8c+YnVOwIGkSqU35iQiQDf498s9wrTic3eOVUcIlgj4y105E+RxM/soYIN3b+UCj2atQe1evzyjQovxOv1xOZM75cu3s0L2VpITsqHMUvwER1qsb2UmyOTITc7xPCJ/7IIf74ta/rbLgZmQXbl5fGHmThbQRFC1bqVXqVEzl0J/1OH1dP1zHq9cv6YF2OA9MbDYPoIbl7lAFkqHSsuR1D5IgMVbQ8B/bQeXCuJRj9GYF6/OjysjJCsGamiwhvOZ5G7t8Y=;89rP/HYb2E64z3zymuvPdg=="
 ---
 
