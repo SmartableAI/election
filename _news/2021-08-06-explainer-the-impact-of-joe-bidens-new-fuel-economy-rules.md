@@ -1,27 +1,29 @@
 ---
 category: news
-title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
+title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
 excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-publishedDateTime: 2021-08-06T07:01:00Z
-originalUrl: "https://apnews.com/f696bf5096a1dafb3fdd834ecc834660"
-webUrl: "https://apnews.com/f696bf5096a1dafb3fdd834ecc834660"
+publishedDateTime: 2021-08-06T11:21:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/f952e3a282314d48badff3aa29424c7f/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -99,6 +101,6 @@ related:
       domain: usatoday.com
     quality: 72
 
-secured: "0eJK3sI2Ys0g1WBiC8TvUYVj4T+HyeRlRLtkLdoNtq/GTIpiWIAiOm/hUZaC8qnOjaMoFdyDDLbV//vYriiGNL/5n3DJBFYRVQaYvgr8FYarmgWzzT2EnBlaTbOCUJezW0p72+4G2X924ZRDvnvQkLP1QbwulWwge7QsRZ1oMZpOkzDRYkz9+EKC9/G8NOcEFS19tkGW8e00huBQUrb5bJUGT7sqNzWORQTtnwo5uDx4QGwwbzTBDnjjpExcF6lyJ9swCfImLOdwiGSiqZm9yMMRN/jQ9Zr+QjwOlTbq6qaGcCx5gL+tOiSVaOshwOUvz5MP3Nu2fOK1dIOuQMeFN9MMbL6pQMG4rS8Bi1U8sJ4=;SMjKTyBwvW10J2gG3FkJGg=="
+secured: "YzWKlqG4JStedqv1pNug6pfYwIf4I/VvQQSWqorcrM4HT/0I84a5lvzZz8AS0D8X1P2u260F+PkBj8Brv96h/J57tnjgXCL60XV3O2B+twuv2rK7ZwfjQ+NQlnkhZSVEdfYaGM4Ddt9P0sSnMOB5Ry5w2P1m5IWMyR8SUI94mT+M2YU5Bjbx8i63EXE+vHqU+cJ9nOvO6uxLz72LnvOMJn1bHDdkSsaa4rE0auEyooKSAiGCrFMugLZ7JBzaFXAhvI+0h42VD2Aj2f6jUoKhybpKFeiTGGXGIL6MFJtLegNiWRvOuCfmudczYPERt5yvJVRChLd7G8C1aidmVj6ID54jnGT5Ogy/2ZS/0NSft1Y=;xf9Ajn5iyv99VqMhrUi2ww=="
 ---
 
