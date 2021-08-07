@@ -907,6 +907,17 @@ related:
         width: 1070
         height: 714
         isCached: true
+  - title: "Craft touts Trump ties in possible preview of bid for gov"
+    excerpt: "Former United Nations Ambassador Kelly Craft has lavished praise on former President Donald Trump in a speech that could preview a run for governor in Kentucky in 2023."
+    publishedDateTime: 2021-08-07T05:56:00Z
+    webUrl: "https://www.sacbee.com/news/article253328598.html"
+    ampWebUrl: "https://amp.sacbee.com/news/article253328598.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253328598.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 55
   - title: "GOP Senate aspirants hail Trump, conservatism during Neosho watermelon feed"
     excerpt: "A majority of the likely Republican aspirants vying for Roy Blunt’s U.S. Senate seat on Tuesday night touted their strong ties to former President Donald Trump and"
     publishedDateTime: 2021-08-05T01:00:00Z

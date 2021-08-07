@@ -893,6 +893,17 @@ related:
       name: The Olympian
       domain: theolympian.com
     quality: 55
+  - title: "Craft touts Trump ties in possible preview of bid for gov"
+    excerpt: "Former United Nations Ambassador Kelly Craft has lavished praise on former President Donald Trump in a speech that could preview a run for governor in Kentucky in 2023."
+    publishedDateTime: 2021-08-07T05:56:00Z
+    webUrl: "https://www.sacbee.com/news/article253328598.html"
+    ampWebUrl: "https://amp.sacbee.com/news/article253328598.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253328598.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 55
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z

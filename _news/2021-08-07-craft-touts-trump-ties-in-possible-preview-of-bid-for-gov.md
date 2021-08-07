@@ -1,34 +1,24 @@
 ---
 category: news
-title: "Ohio Republican Primary Highlights Need for Trump to Unify GOP if He Wants to Oust Cheney"
-excerpt: "Trump's warned against having multiple people challenge Cheney, as it could giver her better chances at winning her primary election."
-publishedDateTime: 2021-08-04T01:59:00Z
-originalUrl: "https://www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889"
-webUrl: "https://www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889"
-ampWebUrl: "https://www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889?amp=1"
+title: "Craft touts Trump ties in possible preview of bid for gov"
+excerpt: "Former United Nations Ambassador Kelly Craft has lavished praise on former President Donald Trump in a speech that could preview a run for governor in Kentucky in 2023."
+publishedDateTime: 2021-08-07T05:56:00Z
+originalUrl: "https://www.sacbee.com/news/article253328598.html"
+webUrl: "https://www.sacbee.com/news/article253328598.html"
+ampWebUrl: "https://amp.sacbee.com/news/article253328598.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253328598.html"
 type: article
-quality: 116
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://d.newsweek.com/en/full/1861644/donald-trump-cheney-ohio-republican-primary.jpg"
-    width: 2500
-    height: 1665
-    isCached: true
 
 related:
   - title: "Ohio special election underscores Donald Trump’s grip on Republicans"
@@ -254,6 +244,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/8bb0778aeff287e95a46360195a1c4d361925200/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9faed1b3256dadc1ca07910aba418d2a"
         width: 600
         height: 360
+        isCached: true
+  - title: "Ohio Republican Primary Highlights Need for Trump to Unify GOP if He Wants to Oust Cheney"
+    excerpt: "Trump's warned against having multiple people challenge Cheney, as it could giver her better chances at winning her primary election."
+    publishedDateTime: 2021-08-04T01:59:00Z
+    webUrl: "https://www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889"
+    ampWebUrl: "https://www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ohio-republican-primary-highlights-need-trump-unify-gop-if-he-wants-oust-cheney-1615889?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1861644/donald-trump-cheney-ohio-republican-primary.jpg"
+        width: 2500
+        height: 1665
         isCached: true
   - title: "Ohio Republicans aim to rename state park after Donald Trump"
     excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
@@ -897,17 +903,6 @@ related:
         width: 1070
         height: 714
         isCached: true
-  - title: "Craft touts Trump ties in possible preview of bid for gov"
-    excerpt: "Former United Nations Ambassador Kelly Craft has lavished praise on former President Donald Trump in a speech that could preview a run for governor in Kentucky in 2023."
-    publishedDateTime: 2021-08-07T05:56:00Z
-    webUrl: "https://www.sacbee.com/news/article253328598.html"
-    ampWebUrl: "https://amp.sacbee.com/news/article253328598.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article253328598.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 55
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z
@@ -984,6 +979,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "eA512Gz7gcg+A4j9akK+oc+FFd1hZe+fpIBrZrKfOULGfnE51hTYgmjNqyRc97GpAszRKi1yCWK4zyU39LkbbAlqtuNiCwhuOuAFfUlVGrDO3hrSEX7Qaz1CBx8AX5qQi7juMsPkXSsQjj9OnBAh/l3QV8ebN3LvucOIQ2ReBL1yVaVR4QKusN5pRhCaLqSWASYXxfjb7cNmOF8TbkBIPgx4vQf7d0q60kkAjLJ9VRCw+Jsm73gefiTbuniETW8e3kiYJYXmgP3SGHTyN+2MKDma6xaZAAkL9yV8B/QLpFdCAUv/sKJ9IFw2tUWfLQk3+KCix/GcrAeDgDVk2b1jEMQCkgm3lATsyR3unx6iUK5qm36nMAeyMKA/ZAExZYZUBFQquJzxtka3Rml6bFTENJKATbJFbxqIBM7kFLmO95kwyuR45G58PB849pkpDKHrO5pk4lgmnJ1PJXb5slXELRhj5TuqEN4E3kOIec5MIG7D++mH4ONjQfm7nhIBheyGjxuqzS1W4kTAMfw6UcRH4A==;90hi45u4ptLv9vKNg4q0yQ=="
+secured: "fJlKidKBrpmAD5uzixc1JUrOXSYet/ydCxd2A1P4sz2i3dEVSWXUPLHq9fQzG4sybCwLMdLvle/6EJVmfzZP9fvq2QNrohqasKGchNCApiU/MZzvujZScQbeDsR98FQGzc/1zVnm6kGtmtpjLetUwuRBJyIL3NSSohx0AtXN5K7Ls2oNJJ5zaneNAZSOBDQ4JN8cfcETMtQeCtele72ib8qxw70ixk1Dsridr0+FcjceIqVHVHg4tssz/zBVgTu9f9HNcrlBCmrhnyhLhw9Td+NQsxC7eXhQNOzj0c5pJdoJhFVaK8QimuTWtpo/NvuJAN9UY/ARG7CCyeOM9fHk6npdHCxEibm9JGoAlhdbzMxuAUFO1l3Gd1c2FS1Ekd9+ehedR8svV5TPDQd4KkvSZH0yQt4RYVW4tIIMffhCtufvnLsuaRDoyVNjxZm/o2JQYzwCw+qqmDWwbc7AbkMniN5g4wtRcnbjxy9CIscxXNJ34pveKl5jNzu5Y8RriaJ8hY0Y1ru5LPSLErs4c6fBvQ==;k/qjmNOnCqehxiUXiM/VcQ=="
 ---
 
