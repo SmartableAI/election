@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-07-trumps-recurring-donation-tactics-led-to-128m-in-refunds-but-his-pac-is-still-using-pre-checked-boxes-to-steer-supporters-into-unwitting.md",
+      "title": "Trump's recurring donation tactics led to $12.8m in refunds, but his PAC is still using pre-checked boxes to steer supporters into unwitting payments",
+      "excerpt": "Trump and the GOP refunded millions to donors in the first half of 2021 after using the controversial fundraising tactic, per The New York Times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
+      "originalUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610e7ba12a24d00018624384?width=1200&format=jpeg",
+          "width": 695,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
+      "publishedDateTime": "2021-08-07T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-trump-backer-elliot-broidy-accused-of-orchestrating-covert-campaign-against-qatar.md",
       "title": "Trump backer Elliot Broidy accused of orchestrating covert campaign against Qatar",
       "excerpt": "A top GOP donor and Donald Trump ally was paid millions of dollars by the United Arab Emirates to engineer a smear campaign against rival Persian Gulf state Qatar, according to an explosive",
@@ -440,49 +492,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-trump-supporter-loses-voting-rights-for-5-years-after-attacking-elderly-couple-critical-of-the-president.md",
-      "title": "Trump supporter loses voting rights for 5 years after attacking elderly couple critical of the president",
-      "excerpt": "Mark A. Ulsake pleaded guilty to two felony counts of threats of violence in connection with the attack on Nov. 8, when he allegedly swung a golf club at the elderly man and woman and punched the man in the head.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html",
-      "originalUrl": "https://www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pilotonline.com/resizer/EPW8g7qaSeUmL81vKX1KrdHHjpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/42UI4D6ENUI3SNJKQQILLONSAM.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html?outputType=amp",
-      "publishedDateTime": "2021-08-03T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virginian-Pilot",
-        "domain": "pilotonline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's recurring donation tactics led to $12.8m in refunds, but his PAC is still using pre-checked boxes to steer supporters into unwitting payments"
+    excerpt: "Trump and the GOP refunded millions to donors in the first half of 2021 after using the controversial fundraising tactic, per The New York Times."
+    publishedDateTime: 2021-08-07T13:52:00Z
+    webUrl: "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/610e7ba12a24d00018624384?width=1200&format=jpeg"
+        width: 695
+        height: 347
+        isCached: true
   - title: "Trump supporter loses voting rights for 5 years after attacking elderly couple critical of the president"
     excerpt: "Mark A. Ulsake pleaded guilty to two felony counts of threats of violence in connection with the attack on Nov. 8, when he allegedly swung a golf club at the elderly man and woman and punched the man in the head."
     publishedDateTime: 2021-08-03T14:27:00Z
