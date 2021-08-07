@@ -3,8 +3,8 @@ category: news
 title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
 excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
 publishedDateTime: 2021-08-06T07:01:00Z
-originalUrl: "https://apnews.com/article/lifestyle-technology-joe-biden-business-environment-and-nature-f696bf5096a1dafb3fdd834ecc834660"
-webUrl: "https://apnews.com/article/lifestyle-technology-joe-biden-business-environment-and-nature-f696bf5096a1dafb3fdd834ecc834660"
+originalUrl: "https://apnews.com/f696bf5096a1dafb3fdd834ecc834660"
+webUrl: "https://apnews.com/f696bf5096a1dafb3fdd834ecc834660"
 type: article
 quality: 105
 heat: -1
@@ -99,6 +99,6 @@ related:
       domain: usatoday.com
     quality: 72
 
-secured: "HfHTtYMHbozdUW42ky04vcUxqChdXX/U87xsoEEMFXV0W3b0BNZlsx3cucA3LYSVI/yzaLB73Rob+HB3B+26G2M+vVHTPLzLxrRDReUglIRQfA3YgEtrR36Qj0t13a4O4b/4Apwj55vpafQBjSFGb2Z0jxymL+EhlSisdnix7Xo0E0rHgirgwA8ZZRpl6Oyr1On60NazdNTNN4mKy8+BOB6qVfGEDdz2ERyioEGUT0cfwz+whT6aSjmR3vywR3cIKmqrEdstT660gM1STRlwdxMq91g7rk2NZU7MwI5Ol3eUX+tHSLzvFWl5cnMK3F9Wv0y/HgvOqfwokWzRfgU3uCZy6oNZj43Sfd3UEZDj7Zo=;Jy1BJmBfv4zabmHLNquzVQ=="
+secured: "cgwdCQCs4SOqDfTzkA3X0bj5YoSW8u7JQoIWQot2LjnpV3bgVEdK/QO5xqYXlGu68yccVx8VaiE2B3UBr99xDAqVW485zbWp9H1kk5GSjz5FsjxW5fs64fA/pMesgXsv7I6Eo+oMfpy2z9I/goGbhix4BFeNbV3GOZhLcklDTomliJ/Nhl0zAqTGjk6j8Er7z6CEXBNvQQUnxPnX4arR+aWm7qhx7O8U0FwwsB6jyGuWeK6At+13VsBCYlS+WclzjG7mBckPcjRer0NbifkQiFN7FWAUVzTxTrM5wcfiDrk0CV2H2NawVn0yAdPGY2Z79mw9AdOoXJ411vnWVKfgbOVrygSR45S13YWG7qKaZCg=;UNlnfUlG1CS4/S8XfW4kyg=="
 ---
 

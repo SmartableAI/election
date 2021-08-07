@@ -66,7 +66,7 @@ related:
   - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
     publishedDateTime: 2021-08-06T07:01:00Z
-    webUrl: "https://apnews.com/article/lifestyle-technology-joe-biden-business-environment-and-nature-f696bf5096a1dafb3fdd834ecc834660"
+    webUrl: "https://apnews.com/f696bf5096a1dafb3fdd834ecc834660"
     type: article
     provider:
       name: Associated Press
