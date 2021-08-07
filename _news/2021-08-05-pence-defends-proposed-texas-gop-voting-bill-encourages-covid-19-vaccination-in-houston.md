@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence is joining other GOP officials in pushing the COVID-19 vaccine, telling young conservatives: 'I got the shot'"
+    excerpt: "Pence joins the ranks of other GOP officials who are asking their Republican base to get vaccinated."
+    publishedDateTime: 2021-08-06T22:46:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5fdcae1cc910a400192e8440?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pence Endorses Covid Vaccines To Young Conservatives Gathering: ‘I Got The Shot’"
     excerpt: "Pence and other Trump administration alumni have been steadfast advocates for the vaccines even as others in their movement remain skeptical."
     publishedDateTime: 2021-08-05T07:23:00Z

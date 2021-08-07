@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-07-pence-is-joining-other-gop-officials-in-pushing-the-covid-19-vaccine-telling-young-conservatives-i-got-the-shot.md",
+      "title": "Pence is joining other GOP officials in pushing the COVID-19 vaccine, telling young conservatives: 'I got the shot'",
+      "excerpt": "Pence joins the ranks of other GOP officials who are asking their Republican base to get vaccinated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fdcae1cc910a400192e8440?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8?amp",
+      "publishedDateTime": "2021-08-06T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-pence-urges-young-conservatives-to-go-get-covid-vaccine-shot.md",
       "title": "Pence urges young conservatives 'to go get' COVID vaccine shot",
       "excerpt": "Former Vice President Mike Pence, who was very much the public face of the Trump administration's efforts to help drug makers quickly produce an effective coronavirus vaccine through Operation Warp Speed, is urging young conservatives to get vaccinated.",
@@ -89,58 +141,6 @@
         "name": "WIBC",
         "domain": "wibc.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot.md",
-      "title": "Pence Endorses Covid Vaccines To Young Conservatives Gathering: ‘I Got The Shot’",
-      "excerpt": "Pence and other Trump administration alumni have been steadfast advocates for the vaccines even as others in their movement remain skeptical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewsolender/2021/08/05/pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot/",
-      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2021/08/05/pence-endorses-covid-vaccines-to-young-conservatives-gathering-i-got-the-shot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610b91c5307b5f6c6c8a6113%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1969%26cropY1%3D99%26cropY2%3D1207",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
