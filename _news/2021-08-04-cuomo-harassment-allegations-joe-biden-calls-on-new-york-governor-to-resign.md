@@ -104,6 +104,38 @@ related:
         width: 500
         height: 344
         isCached: true
+  - title: "Biden praises Olympians for inspiring Americans with courage"
+    excerpt: "President Joe Biden praised U.S. Olympians for navigating the difficulties of a coronavirus-tarnished games with “moral courage” that made Americans’ “hearts"
+    publishedDateTime: 2021-08-07T23:04:00Z
+    webUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/"
+    ampWebUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
+    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
+    type: article
+    provider:
+      name: TexomasHomepage.com
+      domain: texomashomepage.com
+    quality: 75
+    images:
+      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/08/b44b54581a0c49048a645e4cd20e36d1.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
+    excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
+    publishedDateTime: 2021-08-07T22:12:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 72
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5T3B72GJKZHL5LEKWA44VBCXGY.jpeg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
     excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
     publishedDateTime: 2021-08-05T21:34:00Z

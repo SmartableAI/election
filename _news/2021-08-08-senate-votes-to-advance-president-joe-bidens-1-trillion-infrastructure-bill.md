@@ -1,29 +1,29 @@
 ---
 category: news
-title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
-excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
-publishedDateTime: 2021-08-05T21:34:00Z
-originalUrl: "https://www.sacbee.com/news/california/article253260458.html"
-webUrl: "https://www.sacbee.com/news/california/article253260458.html"
-ampWebUrl: "https://amp.sacbee.com/news/california/article253260458.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article253260458.html"
+title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
+excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
+publishedDateTime: 2021-08-07T22:12:00Z
+originalUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html"
+webUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html"
+ampWebUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
+cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
 type: article
-quality: 67
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Oregonian
+  domain: oregonlive.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/2bd4a008-4ddf-4ddd-9d09-3dd56470f28a/9dddc9e8-1ec8-4d37-a254-9021a763ce3b/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5T3B72GJKZHL5LEKWA44VBCXGY.jpeg"
+    width: 1024
+    height: 681
     isCached: true
 
 related:
@@ -118,21 +118,21 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
-    excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
-    publishedDateTime: 2021-08-07T22:12:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
+  - title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
+    excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
+    publishedDateTime: 2021-08-05T21:34:00Z
+    webUrl: "https://www.sacbee.com/news/california/article253260458.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article253260458.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article253260458.html"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 72
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 67
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5T3B72GJKZHL5LEKWA44VBCXGY.jpeg"
-        width: 1024
-        height: 681
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/2bd4a008-4ddf-4ddd-9d09-3dd56470f28a/9dddc9e8-1ec8-4d37-a254-9021a763ce3b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden touts 'Buy American' to boost US businesses"
     excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
@@ -205,6 +205,6 @@ related:
         height: 815
         isCached: true
 
-secured: "UWjsLFLbDR+wEP1pin29MThFR6USNYrdgzD3LO4Rantk7c60a0yRuw5QDH4hrXtcIQHa88pXqfWzb8VSsF9TrE2/uOhFEMKM+aqJ8W+SAc/QgTQhjphZwxIorJLJOGJHgE5jg/3e8aQEK5FQHiypOvoWuWkyb3/OXiPpIGPvhxq0OnYgFJsCADSkRLrSPAPsNiyYiCU0E28P2ANwoSTZLTsjM51SE36KvuOdCZOo8hAHAEXX0VQm+3jLcUQBL36g0o1BMjUy2REARxSSmdAsT85MRXsqylpRTN3AP5QBEPC4cdDxZmZKG2M28NzuUrBei/VkCKWd2srMGMFX69asDjgRQMi7kIUEDSAvaIzEJqfVU5bxGdrYbOtCctsD2oEesdkKX4XD7Kge3Uia5wLmZj/i2RbjeoWqrgAhn2OG74tRVrnaGk8HTGg+TC04huktVOL+l7W6uxkKKk9jM2pZg1uiMK2/8q995aqwgicqEmg5QDZlf0WY9V/JwfVQRcTX6+BwnUZDu8bTUmd7jDJNvA==;eLnPNZBwY4aT2n0LZpI85Q=="
+secured: "qD7BKg0TuHsyG3NKCj58ORGJ7qXpOlrx8PoVmEV+RE3evfzMLNR9LSo/+Ni4YG3nrBt9HQWGl63bmWKBCc3AMq6/qgGMnWOIV55mNAjz28KgGSyBeQaUSn4s329vs0AV3gjvRPYHRt4Dx8uBl+rgRENrQkThIbkjq6GN4/kYxXKheRbuVZDS8dv2ZsX7NP/M1tRBIeaTMgNJn412CuNTrO7U0lbfYypkJn+QtIYW/BBMRjkPMvdLCHUmRgXxDCJ5InNsBOgNdGuK9WDTjc/8Fi2B/2SR/HJ8yRUUHdst+pPmfnAd9apfnD7IBVIsaHLQHXAfiz9XjFLUjGAUiz4F3NyxsofAbkhTgqg98oX7xVs=;q1Ufxl+6c/KGwYYuUllNTg=="
 ---
 

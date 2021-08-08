@@ -1,29 +1,29 @@
 ---
 category: news
-title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
-excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
-publishedDateTime: 2021-08-05T21:34:00Z
-originalUrl: "https://www.sacbee.com/news/california/article253260458.html"
-webUrl: "https://www.sacbee.com/news/california/article253260458.html"
-ampWebUrl: "https://amp.sacbee.com/news/california/article253260458.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article253260458.html"
+title: "Biden praises Olympians for inspiring Americans with courage"
+excerpt: "President Joe Biden praised U.S. Olympians for navigating the difficulties of a coronavirus-tarnished games with “moral courage” that made Americans’ “hearts"
+publishedDateTime: 2021-08-07T23:04:00Z
+originalUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/"
+webUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/"
+ampWebUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
+cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
 type: article
-quality: 67
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: TexomasHomepage.com
+  domain: texomashomepage.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/2bd4a008-4ddf-4ddd-9d09-3dd56470f28a/9dddc9e8-1ec8-4d37-a254-9021a763ce3b/1280x720/match/image.jpg"
+  - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/08/b44b54581a0c49048a645e4cd20e36d1.jpg?w=1280"
     width: 1280
-    height: 720
+    height: 853
     isCached: true
 
 related:
@@ -102,22 +102,6 @@ related:
         width: 500
         height: 344
         isCached: true
-  - title: "Biden praises Olympians for inspiring Americans with courage"
-    excerpt: "President Joe Biden praised U.S. Olympians for navigating the difficulties of a coronavirus-tarnished games with “moral courage” that made Americans’ “hearts"
-    publishedDateTime: 2021-08-07T23:04:00Z
-    webUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/"
-    ampWebUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
-    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
-    type: article
-    provider:
-      name: TexomasHomepage.com
-      domain: texomashomepage.com
-    quality: 75
-    images:
-      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/08/b44b54581a0c49048a645e4cd20e36d1.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
     excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
     publishedDateTime: 2021-08-07T22:12:00Z
@@ -133,6 +117,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5T3B72GJKZHL5LEKWA44VBCXGY.jpeg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
+    excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
+    publishedDateTime: 2021-08-05T21:34:00Z
+    webUrl: "https://www.sacbee.com/news/california/article253260458.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article253260458.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article253260458.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/2bd4a008-4ddf-4ddd-9d09-3dd56470f28a/9dddc9e8-1ec8-4d37-a254-9021a763ce3b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden touts 'Buy American' to boost US businesses"
     excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
@@ -205,6 +205,6 @@ related:
         height: 815
         isCached: true
 
-secured: "UWjsLFLbDR+wEP1pin29MThFR6USNYrdgzD3LO4Rantk7c60a0yRuw5QDH4hrXtcIQHa88pXqfWzb8VSsF9TrE2/uOhFEMKM+aqJ8W+SAc/QgTQhjphZwxIorJLJOGJHgE5jg/3e8aQEK5FQHiypOvoWuWkyb3/OXiPpIGPvhxq0OnYgFJsCADSkRLrSPAPsNiyYiCU0E28P2ANwoSTZLTsjM51SE36KvuOdCZOo8hAHAEXX0VQm+3jLcUQBL36g0o1BMjUy2REARxSSmdAsT85MRXsqylpRTN3AP5QBEPC4cdDxZmZKG2M28NzuUrBei/VkCKWd2srMGMFX69asDjgRQMi7kIUEDSAvaIzEJqfVU5bxGdrYbOtCctsD2oEesdkKX4XD7Kge3Uia5wLmZj/i2RbjeoWqrgAhn2OG74tRVrnaGk8HTGg+TC04huktVOL+l7W6uxkKKk9jM2pZg1uiMK2/8q995aqwgicqEmg5QDZlf0WY9V/JwfVQRcTX6+BwnUZDu8bTUmd7jDJNvA==;eLnPNZBwY4aT2n0LZpI85Q=="
+secured: "dAYKmzja64vX6jEIJ1C/vaEXYSG1tx0+MiX9NzmqSPDlWziW3Np6GMSrMKb8dsrcN44l/dc8MKOuOxa4DxkCr7jREkdMEvYPstSh5RWct9lpnr2xOUFbFg0sh4QpSqrSRL3SAkom+qOIwgMw54eb+XLfRh6mtMqxh309on685aAhY7gvnX00K/3C6joPndAtSnYkYNsAK8Ps6CYDflAlRVK+WhfuwMlkRetIKvbe3Nwy1ygbsExdNUpY0BCZ14lWCTaoxFr3vipjW9ro74znzsw+yIfXmVL53aMNatz7NoUhZpYQupKRDlI1E+s5h0pDYeNDqeQtW2VL80zvwN9VzfBSh3gioJWkx5unohyrRgU=;M5PSIx1Wv4opVbZVfDLv2Q=="
 ---
 

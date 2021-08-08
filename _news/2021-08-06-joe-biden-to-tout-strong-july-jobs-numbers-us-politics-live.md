@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden to tout strong July jobs numbers – US politics live"
 excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
-publishedDateTime: 2021-08-06T14:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d490a8f0892081f6ce718"
+publishedDateTime: 2021-08-06T13:19:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d3db38f089093df87639f"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d3db38f089093df87639f"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
@@ -228,6 +228,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "OM1BrG9I5jW/dsRaI7ArF0WPYO8fkyrwyZDldQbBsKpM0TKl/rU1UjK1EkxzHx7UgjBM6Y00hkS65JAlRovWdcDXumvHkXiRBBbxZdgUMX5FDpCB1CLy/zexq0oBHL10FwOkdz40zLkR1FQM7gCBiqMkSyBNTIn/TUAN7w65EK7oooamaOCislDq9plMTVz6+cu3sMW9NwieeHIQplEzX1uTb0zSWNxDVWo7uHmmn749rTWEORdUDavlwuzKhv3qSztvJwgiAxcCMrQ3BV6WfA1DnD5IVxmT05/NYj8yIsZwWh5JgnkA1BYt2AVYlJtbn9+d4uX1QU2d9hzUnTdfN+bQEFgfTr+k1zVTlTCXBFSeGn7rKC5Kyqbp/qlpVRrATM94D3SNBwZibRUDMSH3Z0LVtzkA9FMfqnaNyqWRBUdDeajmAhNNsxAnuFiFIy9NPsUGzPfO3U/0cUv36z0+LJa9sAwKPoz04b015+IL/BN40o913cYslnqwZvBNSyB8BYtNwmBE8916n/fLCes1QQ==;9YXkjTBQQB5eYBO8916RTQ=="
+secured: "nZnnTuBXAt66owqGwoqMlRlISJKWcBT1LFaqlj126ScNxW7cSvFhdqOEgAmo/t4tVYgUdjUU3D45+HNdXCuw5mdhveuYLhwuqHEYFL77XfRjnLwRjA0CUekhZ8Vx4/jdZwGKdOOJBIxqV+4KCLI8PrIrEopTAyS3Q2RZYLk9UBkgOt/ukkmRY8y+U/ETIq1HmjVm3ncrSiImj4+OuzdtvfPFM1qUfQ0qRH0fy0DBdl1erkVLdPaKPueTDcF4vTlqcUWtC00YBJpdXNwRc0Kyhg+X9xeZhufsMDy1cjSUNZmSKUqmkpT6h5kPO9Fy2+fsgbZ6wuZg+87aOHggYBFkmWiixtHmgHuwDqhsWzVHeo8=;cxUu/TrtD68Fk2lUG87TKA=="
 ---
 
