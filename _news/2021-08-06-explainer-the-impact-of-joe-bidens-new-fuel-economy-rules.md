@@ -3,28 +3,26 @@ category: news
 title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
 excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
 publishedDateTime: 2021-08-06T11:21:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+originalUrl: "https://www.houstonchronicle.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+webUrl: "https://www.houstonchronicle.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash"
@@ -101,6 +99,6 @@ related:
       domain: usatoday.com
     quality: 72
 
-secured: "vmO4JzF44G/iKKXnPViqDNau8oSvA+h7k0suT8PKURFXJ2IN/BkYTHm+6u94QzZaeV9HbpLLDp+rPph03CUqgs/E38tRdOlRPOd35ZdZ/6l5DiMR3e9/kgGevGSwF9oUwaAk39slj+9b8eGCL8OksDLYFjwUxUCn0OY9pV9v5yxAyI0gS+RW+i4wJAhgLIosBR4a02/nWTAtVa55WWAmwNqiqUb/TR76JsvUK6GTB0p05ssPGbyTS7izN1eq9PHD6nH5yEUdRAsXFXIgqjJr02hGAIGCKzJam6EpKGWS5BkXOQanQVqiv3QjygGhxLm+B2G5+yn5hm4tzpAFQqJiS5QFIaucFvg3brqm9aSYy17dBa8ocN01nHJqTVraxXrQHj0RvR6DRWTY1cLRYS5RuclQOv80WWc1EfYBuLrelfvnTwJ9Sk+4XzP0BJiNgqdYZkddyr2Qt2vj+aomx+Icbu7GnA8igj9lwH9P9kIMR8yUOM3qkDXSOc4Jsohve6AnM56fMwsNsaU8Y7ItReJrxg==;6UhbyTYaXpYe7HABnnoFyQ=="
+secured: "Cry6xFXv9mZwe7iFSW3swA3mpAlbuhWnHiktFH//oaq52/Rw+9KcCULLG3/+GMRWt0iIGaI7PtouPWQjtGF3yQRWvO4qhbxdkD8NEV10u9Y1tUdSd9wugbUdkQibrz4QbTK4qkMhB08umRgtDqs1gMos0gcgGTIWnH4bTvgBCuh28j+vpqZteD6rhJ2qszsFrIcOPlaq9afhl9YZ07izovZ3Y/dXiOT6Enz6cbYTPM9RCrHbGcr4KgIKftxernrkqLLCFzE4xUTN6hLeh0KDlc7QzKjCBh7xnjRAQbjzx+jIImXW/ccwOU/03VSI2pQEQqGDMzfudgGz9oXb7Ry+245DaCbMnbi/N8LaXzhM1Rq6Xrb+c7rxiOQa2w1KvrxAu6IccVTvnc6VJymoid3sMMq9ZUmgJ02AoB91phDNESP/bKcRZNGi/ESuubb8+zeePGldQbsv6lbxhnjmWcviW19MUtxTAGw4FORfnO8vlXP86u9LyPHZz8sTbSOqCf7dGa4aAQszpJnAVngNQOBWtQ==;MnLwQR/BVMp3CWJv0Xeu3g=="
 ---
 

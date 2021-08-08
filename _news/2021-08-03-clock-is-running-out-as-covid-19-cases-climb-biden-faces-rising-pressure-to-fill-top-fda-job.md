@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
+    publishedDateTime: 2021-08-06T11:21:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
   - title: "Biden Says US To See New Covid Restrictions 'In All Probability'"
     excerpt: "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases."
     publishedDateTime: 2021-07-31T03:58:00Z
@@ -86,22 +97,6 @@ related:
       - url: "https://www.barrons.com/asset/external-media/afp/AFP2386071646288012197218104372370316208947---1.jpg"
         width: 768
         height: 512
-        isCached: true
-  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
-    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-    publishedDateTime: 2021-08-06T11:21:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "60AQnMNZQaLAxUysuvS6g9+kYRTAIS6WIH9Ntdw7+ZPpO+6YoatdO6lvIfK3bhlRDbwOh/NnXr3baPZYKyx7RfsD2TOVz5wZEqcfHUmZBvCO3I1HQRJ8uhRNo362dvxJFzfEchw2Ptu/qfIh4/p8UhOAGjwuZ8/G+hjzpskZaSsBNtrLv2BPyRHzAG3FQyFn4BPQFQkXEvqmgRDoffZ0L6Jx4iOt3xy0cq75NfxbNCMjoztHL1fC14MILZqga/UzM+24hNI2sYQyf1zdOwNnGKXPT2fyN8euLFg3RYpEcWtnUMqPDj9qRrxLZwMd9jmkmiDPKmJ0BuD1RxH2U8cYYybKuM7IDBApesBAVJ7/IeIlHIypXuOrYvz/5k3v3/ItKejKV20LSNFULMyvXTxk6XzCzjKOjqp9eXhs92AegybG3hyxLYkjC1K9zZyl/kHMV7YmWdenCkUIvN6VqUiq4RcXe6ernMem3qwIxiCb+9Gm5ZQZI+HwY4teOPMSwbHU4YDK51ssxT5MicYsZYQ5+A==;e+0ujEoYbEfFvgbTjRmSsg=="
