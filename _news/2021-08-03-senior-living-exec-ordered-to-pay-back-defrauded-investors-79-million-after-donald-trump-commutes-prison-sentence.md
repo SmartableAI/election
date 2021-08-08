@@ -43,6 +43,22 @@ related:
         width: 695
         height: 347
         isCached: true
+  - title: "Lyons: Trump willing to lend a 'helping hand' in Mass."
+    excerpt: "The chairman of the Massachusetts Republican Party is an unabashed Trump supporter and is newly touting his \"one-on-one\" meeting with Trump on Thursday."
+    publishedDateTime: 2021-08-08T20:19:00Z
+    webUrl: "https://www.telegram.com/story/news/2021/08/08/president-donald-trump-massachusetts-republican-party-chairman-jim-lyons/5532142001/"
+    ampWebUrl: "https://amp.telegram.com/amp/5532142001"
+    cdnAmpWebUrl: "https://amp-telegram-com.cdn.ampproject.org/c/s/amp.telegram.com/amp/5532142001"
+    type: article
+    provider:
+      name: Telegram
+      domain: telegram.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/08/NTEG/b2fa4bb2-ba76-4418-abf1-72ecbbeb1696-Lyons_Trump_Updated.jpg?auto=webp&crop=432,243,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump supporter loses voting rights for 5 years after attacking elderly couple critical of the president"
     excerpt: "Mark A. Ulsake pleaded guilty to two felony counts of threats of violence in connection with the attack on Nov. 8, when he allegedly swung a golf club at the elderly man and woman and punched the man in the head."
     publishedDateTime: 2021-08-03T14:27:00Z

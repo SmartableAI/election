@@ -1100,6 +1100,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Ex-Justice Dept. head described Trump’s election pressure campaign"
+    excerpt: "Former President Donald Trump mounted an intense pressure campaign on the U.S. Justice Department to overturn his election defeat in his final weeks in office, the department's head"
+    publishedDateTime: 2021-08-08T20:00:00Z
+    webUrl: "https://www.unionleader.com/news/national/ex-justice-dept-head-described-trump-s-election-pressure-campaign/article_292c9b72-660b-53d4-b197-93aa27d72401.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Guantanamo Bay Trends After Claims Trump Wanted COVID-Infected Americans Sent To Detention Camp"
     excerpt: "Former President Donald Trump is under fire Monday ahead of the release of a new book, “Nightmare Scenario: Inside the Trump Administration’s Response to the Pandemic That Changed History,” which claims he had suggested sending Americans infected with COVID-19 to Guantanamo Bay,"
     publishedDateTime: 2021-06-21T19:14:00Z

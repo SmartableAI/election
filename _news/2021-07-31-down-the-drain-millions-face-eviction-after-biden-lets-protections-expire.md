@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden's seen a (slight) decline in his approval ratings"
+    excerpt: "Poll of the week: A new Quinnipiac University poll finds that President Joe Biden's approval rating stands at 46%, while his disapproval rating sits at 43%. His approval rating in Quinnipiac's previous poll was 49%.\n    \n"
+    publishedDateTime: 2021-08-08T16:01:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BwUyNSG9in4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/08/politics/biden-approval-ratings-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/08/politics/biden-approval-ratings-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806113712-02-biden-jobs-report-0806-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden touts LGBTQ diversity in announcing sixth round of judicial nominees"
     excerpt: "President Joe Biden on Thursday announced four judicial nominees, including two barrier-breaking nominations of LGBTQ judges, marking his sixth round of judicial nominees since taking office as his administration seeks to maintain a rapid pace of nominations and confirmations.\n    \n"
     publishedDateTime: 2021-08-05T14:37:53Z

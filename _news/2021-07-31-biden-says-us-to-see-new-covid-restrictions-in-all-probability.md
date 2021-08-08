@@ -100,6 +100,22 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
+  - title: "New US infections climb back to winter levels, about 100K every day; Joe Biden continues student loan freeze. Latest COVID-19 updates"
+    excerpt: "The new daily average for U.S. infections has climbed back to about 100,000 as of Saturday, according to CDC data. Latest COVID-19 updates"
+    publishedDateTime: 2021-08-08T10:01:00Z
+    webUrl: "https://www.indystar.com/story/news/health/2021/08/08/us-infections-100-k-cdc-florida-joe-biden/5524511001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5524511001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5524511001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/07/USAT/9b5111b6-4db8-479f-bf46-764f916a6611-AP21219002679733.jpg?auto=webp&crop=4502,2533,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "IsrlzZL3N1tGOjR0ZFe+FXDO8It+PlXLwOyDNtyBbAgH7AGWrJBjTgPfDC5bNuScrDBU2wJlmEqhlpgBlgqgWRXh3GICt3Aj7suBMXBsjA6rvLg/8VwhOi/jjitYgwaOSGWxu/96ATcGyuqyHO9YioEXcjYtmmbLrq7hnyFxLu3ijw4QUG0IRYBr4xMBi+6Rwxun0lZALP4cCAiEKG5IEtEyHsWc87/f2Lv0gIx/VHpq4VPcgtDaWQv2/G5hL67nny+7SGHIqflgbySIF3HSXVY55cVQGZRzuwF91rY+oaXDI/q7s8ectPVfHtmHnA3RIGfuoxq7hGSbsOSOfIt9Xsoro/RLqG9D/hYgKZo5xK8=;wzDJ62yDC/taCeF3+HVUsw=="
 ---

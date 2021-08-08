@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Panic attack: Democrats fear Trump"
+    excerpt: "Former President Donald Trump still holds sway over the political marketplace and the Democrats know that. They’re nervous about it, even paranoid. Mr. Trump’s been out of office for almost seven months — and in no way took the typical route of most former presidents who linger on the sidelines and write a book."
+    publishedDateTime: 2021-08-08T20:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/8/inside-beltway-panic-attack-democrats-fear-trump/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/8/inside-beltway-panic-attack-democrats-fear-trump/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/8/inside-beltway-panic-attack-democrats-fear-trump/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/08/BELTWAY_Election_2021_Trump_Ohio_59092.jpg-6c212_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "tPT5kqVo7w0WIx1u4aa71YMiOaNumtytPHuWBEhXaWyVAQ04SkNtwbx61A/mSS+ZATPY/oU+mwfNVrtt3NLeqBrV0cxu34GB5JAz4h0SRzJA8I3KM5eUHoXL4QQ/xLAmeOEEj8CUJ4EHoG0QFTBhCWCN4S2NPXmqZaDYzW/dHz/aZ1YyveH3UO3lsINLBQg4bs0Ye1TaZKhsqjvuKuL6XwSn3i/8dz73IqbwGxsMQXSNO4dpNABMKkl7E/mYocZ1xnTTiK2hp7yZwLtkyF+ukPVXZgeIixfI5WfkLk26BFf48TjOP8SvGlP9lUZkHJVeH4y6mTBXmxCglfGGodbEgk0IuMmW553ggQtdgi8Sn6Q=;/hfMUGap+KtEB7TGfaNfCg=="
 ---

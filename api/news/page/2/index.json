@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-05-pence-urges-young-conservatives-to-go-get-covid-vaccine-shot.md",
+      "title": "Pence urges young conservatives 'to go get' COVID vaccine shot",
+      "excerpt": "Former Vice President Mike Pence, who was very much the public face of the Trump administration's efforts to help drug makers quickly produce an effective coronavirus vaccine through Operation Warp Speed, is urging young conservatives to get vaccinated.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
+      "publishedDateTime": "2021-08-05T09:16:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-mike-pence-if-youre-eligible-to-get-a-coronavirus-vaccine-get-one.md",
       "title": "Mike Pence: If You’re Eligible to Get a Coronavirus Vaccine, Get One",
       "excerpt": "HOUSTON–Former Vice President Mike Pence is urging everyone to get vaccinated against the coronavirus, if you haven’t already. Pence spoke to a group of conservatives at the Young America’s Foundation in Houston,",
@@ -917,7 +974,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1277,49 +1334,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports.md",
-      "title": "Janey invokes slavery, Trump birtherism over question on vaccine passports",
-      "excerpt": "Acting Mayor Kim Janey wouldn’t say whether she’s considering following New York City’s lead and mandating proof of vaccines for various indoor activities — but she did reference slavery, the Jim",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
-      "originalUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/MAYORsc003.jpg?w=1024&#038;h=727",
-          "width": 1024,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
-      "publishedDateTime": "2021-08-03T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

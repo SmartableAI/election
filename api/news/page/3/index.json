@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-04-janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports.md",
+      "title": "Janey invokes slavery, Trump birtherism over question on vaccine passports",
+      "excerpt": "Acting Mayor Kim Janey wouldn’t say whether she’s considering following New York City’s lead and mandating proof of vaccines for various indoor activities — but she did reference slavery, the Jim",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
+      "originalUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/MAYORsc003.jpg?w=1024&#038;h=727",
+          "width": 1024,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
+      "publishedDateTime": "2021-08-03T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-biden-blasted-for-having-called-ny-gov-andrew-cuomo-the-gold-standard-of-leadership.md",
       "title": "Biden blasted for having called NY Gov. Andrew Cuomo the 'gold standard' of leadership",
       "excerpt": "President Joe Biden is facing criticism for referring to New York Gov. Andrew Cuomo as the “gold standard” of leadership in the past following a report from New York’s Attorney General concluding the governor sexually harassed multiple women.",
@@ -1281,63 +1324,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-drone-footage-of-migrants-at-texas-bridge-an-absolute-catastrophe-from-biden-republican-says.md",
-      "title": "Drone footage of migrants at Texas bridge an 'absolute catastrophe' from Biden, Republican says",
-      "excerpt": "Troubling drone footage emerged online Sunday that reportedly showed up to 1,000 migrants being held by border patrol in Mission, Texas, prompted criticism from Republicans who said the footage underscores the crisis at the border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe",
-      "originalUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp",
-      "publishedDateTime": "2021-08-02T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],
