@@ -63,17 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+  - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-    publishedDateTime: 2021-08-06T11:21:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    publishedDateTime: 2021-08-06T07:01:00Z
+    webUrl: "https://apnews.com/article/lifestyle-technology-joe-biden-business-environment-and-nature-f696bf5096a1dafb3fdd834ecc834660"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: Associated Press
+      domain: apnews.com
     quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/f952e3a282314d48badff3aa29424c7f/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Biden Says US To See New Covid Restrictions 'In All Probability'"
     excerpt: "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases."
     publishedDateTime: 2021-07-31T03:58:00Z

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'You made me so damn proud': Biden praises Olympic athletes and extends invite to the White House"
+    excerpt: "President Joe Biden and first lady Jill Biden will meet with members of the 2020 US Olympic Team Saturday in a livestreamed virtual reception.\n    \n"
+    publishedDateTime: 2021-08-08T12:08:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sdRHwfloIXI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705211845-america-divided-fourth-of-july-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
     excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
     publishedDateTime: 2021-07-27T22:14:22Z
@@ -142,6 +158,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "As Covid goes, so goes Joe Biden’s presidency"
+    excerpt: "In a new CNBC poll, approval of President Biden's handling of the coronavirus is 53 percent, down from 62 percent in April, when cases were falling."
+    publishedDateTime: 2021-08-08T13:07:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/as-covid-goes-so-goes-joe-biden-s-presidency-118138949659"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo118138949659"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo118138949659"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1628427876601_mtp_clip_a2_210808_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Conservative hostility to Biden vaccine push surges with Covid cases on the rise"
     excerpt: "Some in the GOP have felt compelled to reiterate support for getting the shot, with McConnell saying he was \"totally perplexed\" by the ongoing resistance."

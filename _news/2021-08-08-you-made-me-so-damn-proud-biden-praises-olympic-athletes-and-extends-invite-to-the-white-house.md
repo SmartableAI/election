@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
-excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
-publishedDateTime: 2021-07-27T22:14:22Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+title: "'You made me so damn proud': Biden praises Olympic athletes and extends invite to the White House"
+excerpt: "President Joe Biden and first lady Jill Biden will meet with members of the 2020 US Olympic Team Saturday in a livestreamed virtual reception.\n    \n"
+publishedDateTime: 2021-08-08T12:08:51Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sdRHwfloIXI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sdRHwfloIXI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html"
 type: article
-quality: 158
+quality: 162
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705211845-america-divided-fourth-of-july-2021-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "'You made me so damn proud': Biden praises Olympic athletes and extends invite to the White House"
-    excerpt: "President Joe Biden and first lady Jill Biden will meet with members of the 2020 US Olympic Team Saturday in a livestreamed virtual reception.\n    \n"
-    publishedDateTime: 2021-08-08T12:08:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sdRHwfloIXI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705211845-america-divided-fourth-of-july-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden shows he's ready to make drastic moves in Covid-19 fight -- even if he's not sure they're legal"
     excerpt: "Even President Joe Biden doesn't know whether his new federal eviction moratorium for renters is legal and sustainable. But crushing humanitarian and political pressure left him no choice but to take a chance on an emergency move.\n    \n"
     publishedDateTime: 2021-08-04T11:29:34Z
@@ -124,6 +108,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803172644-03-biden-0803-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
+    excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
+    publishedDateTime: 2021-07-27T22:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -192,6 +192,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "P8XOdhqV6YiEdBj51lJ1nQQYxMz9GgylxbdVxC9jcU/0ZhIMCKrireBqtfo7uB26oStz7dGhfBlsRQ1h3iXolfyCq/Z/DbBwBC+j7KcRcDj3CgMK0of9hPjY97moc/zzgVDU6RokZssRcn77O1hOf2pg07mDwhLXrGvdsy+SoQ3N7/TmXg7mHH4CatVtSzHT8fU2IXEJrGNH7ZZt+WYcf1WMZc9Qn1RgWG8uXYPtjnt9EvfIRt6gLfxV0NkIoFBywBbAD8N76516z3mP11l+ujQHoEC0MYFnPpfUMsv6hq7RSxY4hkJ2VnJ2QsPA2PSwRo0GUCol3gcAtpc9Edb9pL1Vjwm57M9D/Yl7QOTRto4=;gRS2Ce53QNplOB1RI5M43g=="
+secured: "h5GtBGz2lEHrOI83cLNqDxVmFL4k4V45IiQBMZxOQ0jl1E3LuHAcOrba5DzBRRCj8KOndLWPjeWh8QjmG6/BsYZhSPgfRq5rDelBmprUemoWpu20cvMVOmCXWlmFPaLe0br+gaicitd+ruCLXC9C3LNWoCsHDIBIgTYxrclGRnU2gCARegd9sjtjViZ089CtrnbkxRX4XT2dOFxdh+NBC5bXNnaMV73No+8y8HzHV2aApmuzxL+TRPXeUxuvIUc8ZvwGwWAneQ7BJ7jfnEyZyFvl8NZHQRftxCwYxXrMsaLEmvpHTuTLDwt/FvQiT13/WFeuHUPnKRmHJ2L+p/O1xGjg41pUa3Z5QP1OJ7rEo3A=;dIJWfQB/ZiVem2A8yPhWFQ=="
 ---
 

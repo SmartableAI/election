@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
-excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
-publishedDateTime: 2021-07-27T22:14:22Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+title: "As Covid goes, so goes Joe Biden’s presidency"
+excerpt: "In a new CNBC poll, approval of President Biden's handling of the coronavirus is 53 percent, down from 62 percent in April, when cases were falling."
+publishedDateTime: 2021-08-08T13:07:00Z
+originalUrl: "https://www.nbcnews.com/meet-the-press/video/as-covid-goes-so-goes-joe-biden-s-presidency-118138949659"
+webUrl: "https://www.nbcnews.com/meet-the-press/video/as-covid-goes-so-goes-joe-biden-s-presidency-118138949659"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo118138949659"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo118138949659"
 type: article
-quality: 158
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1628427876601_mtp_clip_a2_210808_1920x1080.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -127,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
+    excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
+    publishedDateTime: 2021-07-27T22:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-unpo1Mtn1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/bipartisan-senators-biden-letter-covid-origins-intelligence-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203122008-who-wuhan-virus-lab-0203-0-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden announces measures to incentivize Covid-19 vaccinations, including a requirement for federal employees"
     excerpt: "President Joe Biden on Thursday is set to announce a number of new steps his administration will take to try to get more Americans vaccinated and slow the spread of coronavirus, including requiring that all federal employees must attest to being vaccinated against Covid-19 or face strict protocols.\n"
     publishedDateTime: 2021-07-29T20:52:09Z
@@ -159,22 +176,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "As Covid goes, so goes Joe Biden’s presidency"
-    excerpt: "In a new CNBC poll, approval of President Biden's handling of the coronavirus is 53 percent, down from 62 percent in April, when cases were falling."
-    publishedDateTime: 2021-08-08T13:07:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/as-covid-goes-so-goes-joe-biden-s-presidency-118138949659"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo118138949659"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo118138949659"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1628427876601_mtp_clip_a2_210808_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Conservative hostility to Biden vaccine push surges with Covid cases on the rise"
     excerpt: "Some in the GOP have felt compelled to reiterate support for getting the shot, with McConnell saying he was \"totally perplexed\" by the ongoing resistance."
     publishedDateTime: 2021-07-20T01:27:00Z
@@ -192,6 +193,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "P8XOdhqV6YiEdBj51lJ1nQQYxMz9GgylxbdVxC9jcU/0ZhIMCKrireBqtfo7uB26oStz7dGhfBlsRQ1h3iXolfyCq/Z/DbBwBC+j7KcRcDj3CgMK0of9hPjY97moc/zzgVDU6RokZssRcn77O1hOf2pg07mDwhLXrGvdsy+SoQ3N7/TmXg7mHH4CatVtSzHT8fU2IXEJrGNH7ZZt+WYcf1WMZc9Qn1RgWG8uXYPtjnt9EvfIRt6gLfxV0NkIoFBywBbAD8N76516z3mP11l+ujQHoEC0MYFnPpfUMsv6hq7RSxY4hkJ2VnJ2QsPA2PSwRo0GUCol3gcAtpc9Edb9pL1Vjwm57M9D/Yl7QOTRto4=;gRS2Ce53QNplOB1RI5M43g=="
+secured: "4HQ+ype9g4OsV9jgRJHuMaR+magIsvnV1eJzUCtrtVITI1N7necFZ2JIk0/k1hXo+N5GjdAnKsJQa2+c35znph6FNrUwSjhPGr9rhmf01fRivrP0cOe8kymvVCokmBaG/Fjfy3WaFJHoIdBm8ZhSd0JPZFAISHh0yvTPUmHI818SwNa35TZPtQ0YeRIU974b4IytHBAHzm2UdcJqT1SGJP0pw2SWHRivlxWixzQvucwjPg12AzvwTBubblqQ1p3T9WpEfbbFCTu1SYsv1Fdh0hpuJGf33/ceDh+ghWqQzwbx5Sm97TnMXQKNLuodf+JMwIRwX4L80zAhtgCYIR27iLxiiYCx+749D1U+ZsZ1ouo=;QN/2LdXsvcq78z+6YuDD+Q=="
 ---
 

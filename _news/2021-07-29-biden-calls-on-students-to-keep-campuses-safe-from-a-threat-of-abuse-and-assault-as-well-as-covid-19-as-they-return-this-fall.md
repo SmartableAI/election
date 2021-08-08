@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'You made me so damn proud': Biden praises Olympic athletes and extends invite to the White House"
+    excerpt: "President Joe Biden and first lady Jill Biden will meet with members of the 2020 US Olympic Team Saturday in a livestreamed virtual reception.\n    \n"
+    publishedDateTime: 2021-08-08T12:08:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sdRHwfloIXI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705211845-america-divided-fourth-of-july-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden shows he's ready to make drastic moves in Covid-19 fight -- even if he's not sure they're legal"
     excerpt: "Even President Joe Biden doesn't know whether his new federal eviction moratorium for renters is legal and sustainable. But crushing humanitarian and political pressure left him no choice but to take a chance on an emergency move.\n    \n"
     publishedDateTime: 2021-08-04T11:29:34Z
@@ -142,6 +158,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "As Covid goes, so goes Joe Biden’s presidency"
+    excerpt: "In a new CNBC poll, approval of President Biden's handling of the coronavirus is 53 percent, down from 62 percent in April, when cases were falling."
+    publishedDateTime: 2021-08-08T13:07:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/as-covid-goes-so-goes-joe-biden-s-presidency-118138949659"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo118138949659"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo118138949659"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1628427876601_mtp_clip_a2_210808_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Conservative hostility to Biden vaccine push surges with Covid cases on the rise"
     excerpt: "Some in the GOP have felt compelled to reiterate support for getting the shot, with McConnell saying he was \"totally perplexed\" by the ongoing resistance."
