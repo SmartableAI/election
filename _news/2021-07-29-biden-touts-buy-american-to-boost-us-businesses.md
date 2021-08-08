@@ -162,20 +162,6 @@ related:
         width: 650
         height: 975
         isCached: true
-  - title: "Immigrant detentions soar despite Joe Biden’s campaign promises"
-    excerpt: "Alexander Martinez says he fled from homophobia, government persecution and the notorious MS-13 gang in El Salvador only to run into abuse and harassment in America’s immigration detention"
-    publishedDateTime: 2021-08-06T04:00:00Z
-    webUrl: "https://www.denverpost.com/2021/08/05/immigrant-detentions-joe-biden-campaign-promises/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 55
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21213567247499.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Cuomo Harassment Allegations: Joe Biden Calls On New York Governor To Resign"
     excerpt: "President Joe Biden responds to new report that found that New York Gov. Andrew Cuomo sexually harassed multiple current and former female employees."
     publishedDateTime: 2021-08-03T22:56:00Z

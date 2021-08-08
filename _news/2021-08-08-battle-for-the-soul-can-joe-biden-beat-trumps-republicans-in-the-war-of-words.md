@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
-excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
-publishedDateTime: 2021-08-04T20:41:00Z
-originalUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
-webUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
+title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
+excerpt: "The president appeals to the ‘civil religion’ of Washington and Kennedy. His opponents use weasel words and seek to limit democracy. The stakes could not be higher"
+publishedDateTime: 2021-08-08T05:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+webUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 135
+heat: 235
+published: true
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Congress-Infrastructure-2.jpg"
-    width: 1200
-    height: 799
+  - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
-    excerpt: "The president appeals to the ‘civil religion’ of Washington and Kennedy. His opponents use weasel words and seek to limit democracy. The stakes could not be higher"
-    publishedDateTime: 2021-08-08T05:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 135
-    images:
-      - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden says Congress should extend eviction ban"
     excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins CBSN AM to discuss the latest."
     publishedDateTime: 2021-08-01T20:48:00Z
@@ -56,6 +46,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
+    excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
+    publishedDateTime: 2021-08-04T20:41:00Z
+    webUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Congress-Infrastructure-2.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Immigrant detentions soar despite Joe Biden’s campaign promises"
     excerpt: "Alexander Martinez says he fled from homophobia, government persecution and the notorious MS-13 gang in El Salvador only to run into abuse and harassment in America’s immigration detention"
@@ -95,6 +99,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Ef+abOBkpe/UYl0KSX5WlOvg3rj7r1br8x1VqSMjsrR280d1UXLXwJRK4O7qdm15fwXY+NW0RhEi0+2YG9sIiA35UVfwXyeXJX55Q1/Pc3RG1kLo1Sd5wG15b2z2WvXalLb6vpImcRkGLblhbEZuuG4v25vv3Qtmk0IAT3NkQjUKlYqzwoReBNUI9bpkgxkZrz3AkUFKTMB4EFoEJYQNKVGW1UySb89nc5NJ6S8JAwQGfB94cHkNXyZfqyjBs1f84/z1c3ICUODc+O2MyThM/PINloQ1ndONjM+TAbcQGTMaW69+r8sO+b0Kyd/S8Xu1GYmWXTCVwuRVDungkpqEUQ4wPg+nB8BDTfrpYFn2YDw=;Q16xAVXbJwAqDY26mo/nOQ=="
+secured: "CHxHUee/UBqfThZ1TmIaipJZUv4cSlhmB/f2fwVS4IMzcaw8S4chEqkNHyVSvWXoPBe/tTSdd8wIT1KBRDORx2Zjt4M+tQkx4zYpB8m/Y6D5zGycqqThQeh/dJFyXgu2pVS6C2k4OehvFhXhDD3nYr3UjRsgI4tT/qG1udt86hLsDfJ3+wpzPGpgUqX96hK9M59QhNmvlMyEpIJaYiYj21339IE2Yc8qYQKmOeURK5+W+yavtO4BHDGYrduSLMw0ySw1MDWxmUU3hqmsAD/5tL9ehKF4MLQzE3fS6h31Di3xy/MKtdhEmYfXjWi4CvbH9bGIU8LmCJQmhUoiC0Juo+46fUX4oNwp+H/WF/iwjkY=;uxhDP5m2HWTROCAcTfUrsA=="
 ---
 

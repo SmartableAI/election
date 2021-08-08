@@ -157,20 +157,6 @@ related:
         width: 1024
         height: 623
         isCached: true
-  - title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
-    excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
-    publishedDateTime: 2021-08-04T20:41:00Z
-    webUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Congress-Infrastructure-2.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Joe Biden wins voluntary pledges from auto makers"
     excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
     publishedDateTime: 2021-08-05T14:00:00Z

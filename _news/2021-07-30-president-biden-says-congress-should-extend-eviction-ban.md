@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden says Congress should extend eviction ban"
-    excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins CBSN AM to discuss the latest."
-    publishedDateTime: 2021-08-01T20:48:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-urges-congress-to-extend-eviction-ban/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Frustration as Biden, Congress allow eviction ban to expire"
     excerpt: "Anger and frustration is mounting as President Joe Biden shows no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight"
     publishedDateTime: 2021-07-31T19:07:00Z
@@ -165,20 +149,6 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden.jpg"
         width: 935
         height: 518
-        isCached: true
-  - title: "President Joe Biden Delivers Remarks on Clean Energy"
-    excerpt: "President Joe Biden drives a Jeep Wrangler Unlimited 4xe Rubicon around the White House grounds during an event on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday,"
-    publishedDateTime: 2021-08-05T21:31:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9c578ff9d779a7b8233785c560ace8b8/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/9c578ff9d779a7b8233785c560ace8b8/WHITE-HOUSEBIDEN.jpg"
-        width: 650
-        height: 433
         isCached: true
   - title: "Frustration as Joe Biden, Congress allow eviction ban to expire"
     excerpt: "Anger and frustration mounted as President Joe Biden showed no signs of reversing plans to allow a nationwide eviction moratorium to expire at midnight Saturday — one Democratic lawmaker even camping outside the Capitol in protest as millions of Americans were about to be forced from their homes."

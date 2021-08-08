@@ -401,15 +401,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
-  - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
-    excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
-    publishedDateTime: 2021-08-01T18:36:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-01/kosovo-awards-rule-of-law-medal-to-bidens-late-son-beau"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "yjrFXtpG05G8oWTTgydwXGCqwjzJ601VSIMAPTVS79bPwI/t5fU/P40atKHvvbDclbg7TJ1Q3BMqppoIrKpe4claSTiz1072xXedYpBvMaefeTASPbZ+Wada9GWd80dY67H6n5uVrToG/xiP1uwZguYIwLI66/6ZaM4cIKNnE2hEp+WaxYGsncKi/lk0gzeDXK9mvKuyg3L1Kd3W3DwtOxfBW1O6zRo6vybgkiOsgw40noOoV7kR+ZY1sAA+otSzabI1I7AmKpRys2Mgjgt3gF9O/JhNWrFvymbQKXSApnE9Mi4iIkHsNqQ051srlrcC+y2bHNBOfE9OI6mstHldMaObt/sWd+5TeN235JFvFXNUtpYUfZCbrAtLQ8lSS03eRFY7JiHHgN7j9Ru92/iOEG5tlIZSPqYKy8iYLQPONlVwZa5nNNNiG7XUucuLHKZjUMRjpy+PudsTHX/LZuXQAZum6LFlklKyuZfHOYt1xNSc7O8jIGGErsKIVaWYO9sGPXTwB1ORE3ytmnvtJUmVnA==;328BIqJut3y9uQjP5BQOAQ=="
 ---

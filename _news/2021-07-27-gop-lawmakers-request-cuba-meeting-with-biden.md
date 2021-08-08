@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/564956-gop-lawmakers-req
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp"
 type: article
 quality: 125
-heat: 645
+heat: 625
 published: true
 
 provider:
@@ -402,15 +402,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
-  - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
-    excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
-    publishedDateTime: 2021-08-01T18:36:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-01/kosovo-awards-rule-of-law-medal-to-bidens-late-son-beau"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "J9jrGSDSzggeLIjmqnz88DnoQzh+kECESz2G4HH8e4JCnhkU3W2IfkDMCRcd14PZr1rJh+B+pDjXwoBikGyEN3UuhOvvbrbCudyGzthoIqsad4vynh2pJPeMR+DSYya2SUo88mTaIZL4jgH64o5CqKKr3p62xB2ekqoJMAlKKH98APTN38nY6I2655k7GsjCVFQUcCJUN+ZCdy81dq7Irg74a/oMywAMulfahLYj/Hxk4+vkmI2dh5kIH59030OIwmEJSw+j4EtX1CkqYT0lmgphlP7js/+2sPfUntvffDHiadprWEKP91AxiDcMCJc2gUO2Vff7RuW+l8KN68aIjPEsWw8BL1BgsYb1HXJCsVLEa56+aH0q3PjvRGKHuc9IDE+8NJdQcMCC/HjW8M+LxSnK9LQW7B4sSwOX9RIXoZtnnlHGm6+bF8iw43CMEysa4ecMaiLgKUjVoMDoE8u9q5uuVuBKbpU5CiPHzP7Fkzwrl9EFrXm0kHnBY8HSBYE9lAVGiEvZ21nO5LpNv+d8DQ==;qsjJKAbnOcC04oRnxs1eXQ=="
 ---

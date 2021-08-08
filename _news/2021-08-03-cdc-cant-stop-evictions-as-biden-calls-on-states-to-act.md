@@ -397,15 +397,6 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
-  - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
-    excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
-    publishedDateTime: 2021-08-01T18:36:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-01/kosovo-awards-rule-of-law-medal-to-bidens-late-son-beau"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "8zMo8bEb672FM+huEOw7hbsLc4FimDK7qbe4KJr5AyJycWuV5dkTho1iFbFp0ZlbYO14ZgwrWl1duVcpiFVSwKzhONIbOWoR1bT7KgJjfo5FyuyMf7RbZbRxDvbPipUs96u9ihaDT8zRdQ3Z/mibdu0g0TkkO6jLdhkQcUj0Au//1pC0sNq7Cgy7lC3gsnzP7lfqDdzYXWUHLgE7wXJ84PqDN0SIi3qFPNlHEiZ7rSJN3I8p5Ox8txjrhYXzvqeAP+Vg/3DbWttx8t4kn9Uv9t+Scb1nk9bY0KtF7Nk4q8T9siL01uyKcZ6lA1TWRbApXFkSHbJJvPDPn7pItIm/QUHesnNPuEr4MVQ0rcTxZIM=;J9F74KOxfntUC0zw7UOIdQ=="
 ---
