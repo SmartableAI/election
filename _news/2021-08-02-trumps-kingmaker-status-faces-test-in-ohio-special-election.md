@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Boasts of 'Tremendous Win' in Texas Special Election Where His Endorsed Candidate Lost"
+    excerpt: "Trump suggested on Saturday that his endorsement of losing candidate Susan Wright for Texas' 6th congressional district was successful."
+    publishedDateTime: 2021-08-08T15:09:00Z
+    webUrl: "https://www.newsweek.com/trump-boasts-tremendous-win-texas-special-election-where-his-endorsed-candidate-lost-1617288"
+    ampWebUrl: "https://www.newsweek.com/trump-boasts-tremendous-win-texas-special-election-where-his-endorsed-candidate-lost-1617288?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-boasts-tremendous-win-texas-special-election-where-his-endorsed-candidate-lost-1617288?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 129
+    images:
+      - url: "https://d.newsweek.com/en/full/1865575/donald-trump-texas.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Ohio Republicans want to rename state park for Donald Trump"
     excerpt: "The bill sponsored by Rep. Mike Loychik to rename Mosquito State Park to Donald J. Trump State Park is the latest attempt by Ohio Republicans to honor the former president."
     publishedDateTime: 2021-04-20T17:53:00Z
@@ -907,6 +923,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 55
+  - title: "Refunds from Trump campaign rising"
+    excerpt: "The aggressive fundraising tactics that former President Donald Trump deployed late in last year's presidential campaign have continued to spur an avalanche of refunds into 2021, with Trump, the Republican Party and their shared accounts returning $12."
+    publishedDateTime: 2021-08-08T15:23:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/aug/08/refunds-from-trump-campaign-rising/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z
