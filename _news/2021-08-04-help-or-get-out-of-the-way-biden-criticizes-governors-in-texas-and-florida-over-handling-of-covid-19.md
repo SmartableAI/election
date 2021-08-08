@@ -79,6 +79,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
+    publishedDateTime: 2021-08-06T11:21:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "'Clock is running out.' As COVID-19 cases climb, Biden faces rising pressure to fill top FDA job"
     excerpt: "Five months ago, former heads of the Food and Drug Administration urged Joe Biden to make filling that position a priority but it's still vacant."
     publishedDateTime: 2021-08-03T09:00:00Z
@@ -88,17 +104,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
-  - title: "EXPLAINER: the Impact of Joe Biden's New Fuel Economy Rules"
-    excerpt: "President Joe Biden wants to erase Donald Trump’s rollback of automobile pollution and fuel economy standards."
-    publishedDateTime: 2021-08-06T07:01:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-08-06/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-08-06/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-08-06/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "BsYbqoAMWz1BpjNrv8cJbXLRQae607o8Dl9JeU3lf25tk8dyXkSPl0RP/K/p4/IU3GclrElBT87/P3helTJ7dvj1Qh07xbvOc+bve346M7pQ3IRUcF6nV5nqsubML06OaujWEsDrFAo15+dP0RXWK6Ia6HmTsoOmKFeh5O5AbOTYBw78DYdBLXLu9835tqKjIS0ZMKNLO+d9hLbHnPgiWfP/Y9XEVCcgNY2nO2gTEwEuHBSPZi2/8D3xdk4W6NG3TRYVUZymDGiHGklXdXQEHxtuEIgrL31APbG0wK1UZoqOoNgRBsFnb9uHCtjLCC+FESk7FdFWUeEZx0Lgjyphz/dFM6S6fy3LW0IAC9yw3pifh2Y5wORYxhknRqWeEKngFMEiZKXyvcwAl1fgwXhJno5TuoS+1mCi6YNXP2zH39YW5NbrBWtiCkt2tzIknHxANTEE/94EUeaUfaN0YVQVREO4YPFdmNVq95qZNZRsTWiJ5D/P2zyW+YK1QfbiCV9mN1Ik5EVmPtsDaQYeIIyPGw==;GuizAP6/8dDjL8IB5t26cg=="
 ---

@@ -1,28 +1,30 @@
 ---
 category: news
-title: "EXPLAINER: the Impact of Joe Biden's New Fuel Economy Rules"
-excerpt: "President Joe Biden wants to erase Donald Trump’s rollback of automobile pollution and fuel economy standards."
-publishedDateTime: 2021-08-06T07:01:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2021-08-06/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules"
-webUrl: "https://www.usnews.com/news/business/articles/2021-08-06/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules"
-ampWebUrl: "https://www.usnews.com/news/business/articles/2021-08-06/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-08-06/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules?context=amp"
+title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
+publishedDateTime: 2021-08-06T11:21:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash"
@@ -99,6 +101,6 @@ related:
       domain: usatoday.com
     quality: 72
 
-secured: "ZwvsO3bml0zOD7jOvcPhk1LUKeGHSmXL9Gh7nqoe0+MrYSPZENJCtajMPogW0CkrTDz3N0mvWu4Ft/Mg7zBgx85ckvo8F5rJ/VnbZQzgDeu7SgzyQOxYg5eyR4RzCbP6JT0Dwm+BicKma3PWaeGJ2+EQnhIrCzJwQs3AUCwE3RUpLqlyinM7VVbUmMM/8BW9B39dICJR/fpZaDNA35UejYxTyZHKdx5oD1yYwMy0VdtoKcIFQcpa1y4ERAhVXHeLI1CXTM90Wlk+tIp3ur5Yl0i31KDeGXaD+ygGJtshpssc+klyxM1uDmvmg2rFFw5JvzmBenFEv6yWe8pl9wQYN0ABWdiS44Gv7X9MxG0nCBKDPGmvQVyUc/4GnB2ljN1iil2ApSIajOBo8UF6cN3uv+bqkKSJPcugi7gtiHbyFwyjRo2ZSpPMZZE3hpGr4CtkIe8dU9Y0MjFJdzFmu87+M7TzTLZI9b4CBfbu164oBhuFk44V+aVJKjy73p77qCiXPjb/CTEBVLRT/BVdMzrgyg==;XwJms3lneu/V5cgWuELytw=="
+secured: "W9R1mr7djCtyCXPocPvDoBhtgPv21kgs08fQ8jMRk/iPAfpLKFHjQQEXe/mdXtJP/I0BSpduXwLq1+tTuOL+cGcIK2R5EEkUAHee3jp+7oIILpXVBYscaz4hKfyLbK3aPHnFitIdFY4FJbMZSX3uc3Tj3fOvKQnUcMl/WIWsH8ZuyU8rWjNUbfH4LhPdSoSaTmH3dgKitfLe788RpaTNbx/nK00juPeb0DHB4nszDWGeRRcG1Yib3jBThJTXdigvDTqyvuXxYpe73X2v0+EPstbYmsGC5Wo7ICaBccfDcQiUyaTRlU+X28mPDgFiReQ2IQ3nvfRvk70lCEFz4srA1m1Z5LDI7s4zYGzSq/dbhms=;6m2Gn38JFTgo6IVX/G9OAA=="
 ---
 

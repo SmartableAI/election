@@ -3,16 +3,16 @@ category: news
 title: "WATCH: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
 excerpt: "Minnesota Gov. Tim Walz joined six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris on Friday. Watch a stream here."
 publishedDateTime: 2021-07-30T15:15:00Z
-originalUrl: "https://www.brainerddispatch.com/news/nation/7133736-WATCH-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
-webUrl: "https://www.brainerddispatch.com/news/nation/7133736-WATCH-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+originalUrl: "https://www.postbulletin.com/news/nation/7133736-WATCH-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+webUrl: "https://www.postbulletin.com/news/nation/7133736-WATCH-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Brainerd Dispatch
-  domain: brainerddispatch.com
+  name: Post-Bulletin
+  domain: postbulletin.com
 
 topics:
   - Election
@@ -42,6 +42,6 @@ related:
         height: 720
         isCached: true
 
-secured: "di7S3LHIdYPrvIQQ8FfY8XlAzXJ0y6t/JggVTiO48Kla0j1+EBbxxVNDoDbP9fnPQIu6G7sV6mZD37ugl1njw1/j195BQQFO9py8a6seaW1QpK5ARTJgostMkXCzoqfLxz5yJhk5sWcfP84JgKSBnNhNvnK1a8t1XF6xbw3HSEyxM89aMxloCiVsCiocP9aAZjntGX/XQT8noMuMy0qNcv7Vr2UW/V574PE/aK1c+PbT0Z/knkMJ6Yq411HE8CwoFKITa8dxN3auMZ7qGrVgdI1spYWmSyqaWgTu4wxBmd5ZwhIAu/ZujHOY+NQbck7k3aHxOmK5LUrrL7dK7DaoRkYFIMbFtY9WBzRPy3oZ3Gc=;GGckA8L9E42jsKj6pmjr/Q=="
+secured: "gKNpAoj3smYPJMh63j7IyfJxSsW0iPZmppDqT0b8fPDLlWVoPSFKxDbla3SMNRqLqMZPkkGlCtIEh6fb0KR9x8qKNxCU2Bcr6M+ekDFeB926aYAmM1tgMM3Y83FoSBrfpCezXT1koW7EK4eud7SFYAt529AdY1GofSYwwRZy1RfM1at8Gt9S4R8vvevD+PFlNnuSSrF1zOvPGOf4fjx4eF3AJFMYlbEbEc6kXO0+0nuLbMtfmGr8OdIUBBEu4IKjOU6XYXCI61/joDsAZwG3HW1aYOQXzWLLDnSEC2WMmIzQzDdb+Eu1wmJ1rMYoL0ytO0gpuAZpowGS8b5IRQ0N4OavnQ6XUUbmYp7+LwAj/ns=;3AOhXSmmEI57pu0G+F98Ew=="
 ---
 

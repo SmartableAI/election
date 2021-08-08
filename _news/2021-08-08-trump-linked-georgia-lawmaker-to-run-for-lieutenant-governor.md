@@ -1,36 +1,42 @@
 ---
 category: news
-title: "Ex-Illinois Governor, Who Trump Freed from Jail, Files Lawsuit to Run for Office Again"
-excerpt: "\"The issues are very clear,\" former Illinois Governor Rod Blagojevich said to reporters Monday. \"It's about right to vote and it's about due process.\""
-publishedDateTime: 2021-08-02T22:31:00Z
-originalUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491"
-webUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491"
-ampWebUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
+title: "Trump-linked Georgia lawmaker to run for lieutenant governor"
+excerpt: "Burt Jones has filed to run for lieutenant governor in Georgia, launching another Republican candidacy that will be closely tied to denying Donald Trump's 2020 loss of Georgia's 16 electoral votes. Jones,"
+publishedDateTime: 2021-08-08T03:44:00Z
+originalUrl: "https://www.modbee.com/news/politics-government/national-politics/article253340213.html"
+webUrl: "https://www.modbee.com/news/politics-government/national-politics/article253340213.html"
+ampWebUrl: "https://amp.modbee.com/news/politics-government/national-politics/article253340213.html"
+cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/politics-government/national-politics/article253340213.html"
 type: article
-quality: 117
-heat: 197
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Modesto Bee
+  domain: modbee.com
 
 topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://d.newsweek.com/en/full/1860656/rod-blagojevich.jpg"
-    width: 3000
-    height: 2001
-    isCached: true
-
 related:
+  - title: "Ex-Illinois Governor, Who Trump Freed from Jail, Files Lawsuit to Run for Office Again"
+    excerpt: "\"The issues are very clear,\" former Illinois Governor Rod Blagojevich said to reporters Monday. \"It's about right to vote and it's about due process.\""
+    publishedDateTime: 2021-08-02T22:31:00Z
+    webUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491"
+    ampWebUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1860656/rod-blagojevich.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
   - title: "Trump-commuted exec settles $4 mln fraud lawsuit with feds"
     excerpt: "The former chief executive officer of Tennessee pain management company Comprehensive Pain Specialists has agreed to a permanent exclusion from Medicare and other federal healthcare programs to settle a lawsuit that he submitted false claims to the government for reimbursement."
     publishedDateTime: 2021-08-03T21:51:00Z
@@ -77,18 +83,7 @@ related:
         width: 1024
         height: 707
         isCached: true
-  - title: "Trump-linked Georgia lawmaker to run for lieutenant governor"
-    excerpt: "Burt Jones has filed to run for lieutenant governor in Georgia, launching another Republican candidacy that will be closely tied to denying Donald Trump's 2020 loss of Georgia's 16 electoral votes. Jones,"
-    publishedDateTime: 2021-08-08T03:44:00Z
-    webUrl: "https://www.modbee.com/news/politics-government/national-politics/article253340213.html"
-    ampWebUrl: "https://amp.modbee.com/news/politics-government/national-politics/article253340213.html"
-    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/politics-government/national-politics/article253340213.html"
-    type: article
-    provider:
-      name: Modesto Bee
-      domain: modbee.com
-    quality: 55
 
-secured: "RlDZ2tdj+2aMzImAOBkJBstFJsj6M4S79TtNpKTxQijKU5pN6+JDsBXx51QDpnPFQoDSFtDsXGae1eWXzqJITr36fBHPizxFuFk0vMbTUXq9FlSLay2Ep/8n+UavEMV4eG40mRgdVUNFPG0muw9nI/LZTMetvWUWEHnM9qK2pSF6quCi70CqxXu9voaC35rEqQO6bvKQ5/lGkFZUZtzMb1D81PlOkOBSCpAYa7WTTG63rezYAwckFUKATKtDnhkVzjqamkX5BE7Nc/anF1Df4QSbaB015N8Nq5QTk4f+yjxtAzEvvr61wJXtdj3LGcA9CSi4vw2lkzDOP4wkSiavtIt+amv10eNfaph4fWUWJSqLFFXrX8H9THoBWQaZUDE+ld10qIWHXRrbciy9bwVeYrIMzKO6qQz6RGdI4lV0fq5fuGdhZUDsyK+abFzHWXJomO/dlTIyqfl4x9obDrqVh/05ARFrYtajjKUVTKfPx88u7nS1DFI0/F78uhELzYz1QmVRi5Xgik4FiCW85sczrQ==;HwHc20SLv8adI0fHDkNgng=="
+secured: "KtAIm6r2DI3tI+R5fjNJmQL2brezBmPIma7gXfse1PqvwWp9gPzNoq0bxnKtK1/Bi9KicDxGUPReV2qjfexAJQZLBeQUU/6571tx1wW2sWzn+oWAwJmntQxJP/0ySLSuo3W+nFqmoLoN7qmmIfvyiBXvmqZDpsRv4iPW8UI73h2uNTF2DRQqZWe3xdBwONhzDetZ9GUBXqzwhIvn9WehIqChKNF7p32SMUku2TYW9whYrMCNMQP/IPTybOU0vJnvWrOHMhLdv5cdmLIZAB1hu/YcN+Ak+ifckQMQB4Z4TroYsiUuqEsZlStISHUbk/bIJTbakpSoCo4BvBLXs1FAdFDBAhR0yXf10KC8VvGgAyUACyFu/Y/BvIu8cWgR5XT4N9NlrFzGCdUbIoiq3Ebf9125N53WBiMiy35MDsUVC4rAlr4ZpHdzKAFaNhrOKGYIWZJ62d2pUt6E/bpuTFdyFNpwby9czdRrLV4fXWeEpAVsseUYKVacOaZ+Ks5Ttw9ztVr/lgiVs2cbEOmBPWps3w==;+1DajG0wqOrlrDTi9KxBLA=="
 ---
 

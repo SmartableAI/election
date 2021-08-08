@@ -77,6 +77,17 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump-linked Georgia lawmaker to run for lieutenant governor"
+    excerpt: "Burt Jones has filed to run for lieutenant governor in Georgia, launching another Republican candidacy that will be closely tied to denying Donald Trump's 2020 loss of Georgia's 16 electoral votes. Jones,"
+    publishedDateTime: 2021-08-08T03:44:00Z
+    webUrl: "https://www.modbee.com/news/politics-government/national-politics/article253340213.html"
+    ampWebUrl: "https://amp.modbee.com/news/politics-government/national-politics/article253340213.html"
+    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/politics-government/national-politics/article253340213.html"
+    type: article
+    provider:
+      name: Modesto Bee
+      domain: modbee.com
+    quality: 55
 
 secured: "VlK7RHoYN2edbFLMGIGSUbgW49SNoCJ6TjxcQGQcuZRBq0K7bH4FUfu16AnfGESQcDp5W+AWOdaaLMLdWom8Rqt4jIkEPHeHLjTmmqDgrWtvSNbfm0ZwWMuQXnNsvWqC0gcRrPjKiai6mIo1wZrlh7g7oQkKZSrYRrQ6kYhaq7hPoRYGI6HRZeUCc5pMIdXYZgZ25pnFH6fbEhzNc18avYxFWU181m13rcrhieNOMxeQFDfVWHuKsvkOWAfVlpqU+lHQ6+zfPjE7eZ9bLo+P1J3vKkixOn+7WS4c9o5l6ezlDQ2l9srvd6y8Qxwlw80wcPYU62HKJtLBKCECpsIa+YWpO/YiygHUwrSSyREXBweyWEH+mKn8xzG+7tF5JZSLuZSWFV5hH7WXnY7udY5t4vvVugTlQWoieREOKJzz5PkGUXqtt1M3RwzPqtv2YgeeNW7f8veWxR70aJ49fFv/7amfit6PJqlEVUoh3e1bc9Ub8/C5iE/lH3k02QhxwjVtsJQMhkb0+Stckm2R4Mg6BQ==;UlV6qVnce82k8idKQB8fEQ=="
 ---
