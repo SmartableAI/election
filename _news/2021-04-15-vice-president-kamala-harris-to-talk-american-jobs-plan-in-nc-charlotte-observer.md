@@ -342,6 +342,15 @@ related:
       name: Politifact
       domain: politifact.com
     quality: 44
+  - title: "Mexico's Lopez Obrador to Talk Vaccines With Harris"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador will discuss COVID-19 vaccines with U.S. Vice President Kamala Harris on Monday, amid recent caseload spikes in both nations driven by highly contagious new variants of the coronavirus."
+    publishedDateTime: 2021-08-08T18:20:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-08/mexicos-lopez-obrador-to-talk-vaccines-with-harris"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris will be pitching the administration’s infrastructure package during two stops in North Carolina. Here’s where she’ll be."
     publishedDateTime: 2021-04-14T22:12:00Z
