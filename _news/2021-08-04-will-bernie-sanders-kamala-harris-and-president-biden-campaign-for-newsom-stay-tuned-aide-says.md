@@ -30,12 +30,12 @@ related:
   - title: "WATCH: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
     excerpt: "Minnesota Gov. Tim Walz joined six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris on Friday. Watch a stream here."
     publishedDateTime: 2021-07-30T15:15:00Z
-    webUrl: "https://www.postbulletin.com/news/nation/7133736-WATCH-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
+    webUrl: "https://www.brainerddispatch.com/news/nation/7133736-WATCH-Minnesota-Gov.-Tim-Walz-joins-other-governors-to-discuss-wildfires-with-President-Joe-Biden-Vice-President-Kamala-Harris"
     type: article
     provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 51
+      name: Brainerd Dispatch
+      domain: brainerddispatch.com
+    quality: 41
     images:
       - url: "https://www.fccnn.com/incoming/7133742-bgagzb-U.S.-President-Biden-and-Vice-President-Harris-meet-on-infrastructure-with-a-bipartisan-group-of-governors-and-mayors-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Biden%20and%20Vice%20President%20Harris%20meet%20on%20infrastructure%20with%20a%20bipartisan%20group%20of%20governors%20and%20mayors%20at%20the%20White%20House%20in%20Washington"
         width: 1140
