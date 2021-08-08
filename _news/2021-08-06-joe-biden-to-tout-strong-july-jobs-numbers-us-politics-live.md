@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden to tout strong July jobs numbers – US politics live"
 excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
-publishedDateTime: 2021-08-06T12:47:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d36898f0892081f6ce595"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d36898f0892081f6ce595"
+publishedDateTime: 2021-08-06T13:19:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d44038f089093df87641e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d44038f089093df87641e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
@@ -214,6 +214,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "i0SWOmq0RMEEeIcNjki5mWKwWEZi5gfKmEGqNapgCSOMWLkLd3tBfaRuH1xgySo47cBSZ+LXZ4tFjJGdNqJDu161L0GXTSHZyV05HoJuqKTouySj/qnLetn0WAleJYv401RaUW4vmIK4ZCCObZySeRZ3/+PSoTf3tYn8VTR6GqXwQcCLc5dItHuljRbranqYlCCT0koJ60FNUjAtJQ5K8CnD8aWHxXOvS9cx/5Ri/CNXmxm9m/wJd+u2CfSBV65nJBoeoG860cxQou3kjrcjf3tcOeWST01XxMd6qtC6f2hJyiDEBYkfVD1m6u70+8vwk6Rr62ROVHYMMviO3tYAqxKbTQvdyZqUHQulpTuwPbQ=;yZg1NmwuN6cDqJTBT9gIhQ=="
+secured: "rOsx8qi8vF6JEHdw05PN4i3sLa6D3LtaFr5p/4sNJQ4H8NF3/rG+E2WZRl1+CWg5bFtRDWh2g1h3yepYMJbR0BZ5l+7TQRRH0UVBURc5cEjJOdHH8ta1jDb8f+pWBpHyEk9clgbsaO35IkRv0Ynm1my7ZklUBN8Sj/D/JxkfohzwGglKliXd14Lfdl4wjEn7WlzJeH4bhcafQtnYB6Q4xtpJ9am1uU1X/kaisb+bRh2B2lTIxCZFpBQPkhr3Aj2X6Gdj4E/Dp1eCtIkMmtlqvQnPlo+UUiRpGbzV6tjuL0YohE9FXwXyR9kMB6hRYjunuwEIQ1lXiVhLjG/zLpBVIV0SKa+RgRp/Fs9qJeOEQD8=;XqJXxJpUPrm47sMQ0mIoPw=="
 ---
 

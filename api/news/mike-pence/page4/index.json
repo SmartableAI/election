@@ -2,6 +2,54 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-08-former-vice-president-mike-pence-to-publish-memoir.md",
+      "title": "Former Vice President Mike Pence to publish memoir",
+      "excerpt": "Former Vice President Mike Pence is set to chronical his experience in the Trump White House with a two-book deal he signed with Simon & Schuster Wednesday. The publisher said Pence will pen ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/",
+      "originalUrl": "https://nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-signs-double-book-deal-331.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/amp/",
+      "publishedDateTime": "2021-04-07T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-mike-pences-advocacy-group-to-hone-in-unaccompanied-minor-surge-at-border.md",
       "title": "Mike Pence's Advocacy Group to Hone in Unaccompanied Minor Surge at Border",
       "excerpt": "Former Vice President Mike Pence launched an advocacy organization on Wednesday that said its goal is to \"promote the pro-freedom policies\" in place during former President Donald Trump's administration and protect those policies from individuals on the ...",

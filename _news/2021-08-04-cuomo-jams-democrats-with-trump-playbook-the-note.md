@@ -33,15 +33,20 @@ images:
 related:
   - title: "Why Andrew Cuomo's job is more vulnerable to scandal than Donald Trump's was"
     excerpt: "Andrew Cuomo. Cuomo went from being talked about as a potential presidential candidate in the spring of 2020 – thanks in large part to his handling of the COVID-19 pandemic in New York state – to media ridicule and possible state senate impeachment now,"
-    publishedDateTime: 2021-08-07T01:05:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+    publishedDateTime: 2021-08-07T00:05:00Z
+    webUrl: "https://www.chron.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
     type: article
     provider:
       name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 102
+      domain: chron.com
+    quality: 72
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "f+ZSbh8l0kOFAAY4ONYtRT2NgnEM24LbcoS5oQGXhD24FH5dii555DkFP2TY7rk8TuLpgO/A/RLgEu6AF/vejA/zsCcMBi4EK3lYqzgjzMxicHFz2TyW7q/QPGfpQlc7yX053CCCXnk+QNUPXFsKRCQyZE+mg+Uj9yqq33vLvXigctUSm/C9y2HqspN9u4hgFfygtR/C0Klbn5mUvraMNsDHTAbuz3fHYcqN/1mQpWJGmWsZlzwApZXMMjAcaLYXkKP+8ovqR3lhX0f0XNjdPCzPDtDkpJEKv/rIc6dDH4Gybc3dUJqn+8qZ0d4/h4WsE46sN22/Faf+E0fDrmIZsLk5IxB5Jbvj8qObCX4vx51yHFDrjlqGHqyxuj7VyVmvdBcfZ5hokeBA/f89/03WslgPN4yLMX+iMuQcVrOGEqK4ZDeuZ7vGJsIpVblXOjrujwjIL3o0pMibMw25DYvtaoXcH/HD+xzEzZgYQwvW6eOKxdhxgLfq2QiimQ5pLZ8zzZRx12bLiAz1E5PS+NL14Q==;o5e4QFdFl6MCuROEHytXVA=="
 ---

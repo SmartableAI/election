@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate Judiciary interviewing former DOJ officials on Trump post-election efforts"
+    excerpt: "The Justice Department recently told former Trump officials they could answer questions from Congress on the former president's efforts to overturn the election."
+    publishedDateTime: 2021-08-08T17:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/senate-judiciary-interviewing-former-doj-officials-trump-post-election-efforts-n1276303"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276303"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276303"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3497631/210808-jeffrey-rosen-al-1239.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "FS9zf+gn8ID4UICAxQmbcChJ7bkDK2XjLW6cQuFreCwEjpk2KxzerDkAyE9h4rqpz6sxQ+uuzNrCLz7u40E5ApcZmywHjrDDg7Ds3pYVveZSPLaa1U1SBiGbTVgO8dAjQvbI6ySGzMyU9Hq9Jd8zhvz04u8Gc5D3UJr6XvlvgaRNy6aEOEeC+7u5rg7wUUsTw9Fe9KCWambCpVlBoDPiizQiz6NiwMASZFKiZfRNZX8uytJpUwkONxZlZL+0RhiIFu1TqEzqi0ILtD1xYg0FbkL/O/Q3p2VvJrIeqIsjImK5NmPWm1r1OXUVwAEeE0UkznmXrmfupb7enDqxEF4nTYMbmSaB6lnaRYGIwBlP5ko=;AkyJkKcUdToWy2ND0Iik0w=="
 ---

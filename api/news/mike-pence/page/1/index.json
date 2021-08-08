@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-09-pence-cruz-desantis-will-headline-ricketts-event.md",
+      "title": "Pence, Cruz, DeSantis will headline Ricketts event",
+      "excerpt": "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis form an all-star lineup of guests who will join Gov. Pete Ricketts at a Nebraska Steak Fry scheduled in Nebraska City on Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://journalstar.com/news/state-and-regional/govt-and-politics/pence-cruz-desantis-will-headline-ricketts-event/article_3fcf2e16-1950-5aac-b134-d35f59f5176d.html",
+      "originalUrl": "https://journalstar.com/news/state-and-regional/govt-and-politics/pence-cruz-desantis-will-headline-ricketts-event/article_3fcf2e16-1950-5aac-b134-d35f59f5176d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/0/09/0090e635-b8c5-558b-891e-c3766153eb1f/61100ac772738.image.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://journalstar.com/news/state-and-regional/govt-and-politics/pence-cruz-desantis-will-headline-ricketts-event/article_3fcf2e16-1950-5aac-b134-d35f59f5176d.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/news/state-and-regional/govt-and-politics/pence-cruz-desantis-will-headline-ricketts-event/article_3fcf2e16-1950-5aac-b134-d35f59f5176d.amp.html",
+      "publishedDateTime": "2021-08-08T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-pence-is-joining-other-gop-officials-in-pushing-the-covid-19-vaccine-telling-young-conservatives-i-got-the-shot.md",
       "title": "Pence is joining other GOP officials in pushing the COVID-19 vaccine, telling young conservatives: 'I got the shot'",
       "excerpt": "Pence joins the ranks of other GOP officials who are asking their Republican base to get vaccinated.",
@@ -1433,58 +1476,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-pence-was-more-worried-about-covid-19-privately-than-in-his-public-appearances-and-was-rattled-by-his-press-secretary-contracting-the-virus.md",
-      "title": "Pence was more worried about COVID-19 privately than in his public appearances and was 'rattled' by his press secretary contracting the virus: book",
-      "excerpt": "According to the book \"Nightmare Scenario,\" a close advisor's infection gave Pence \"a firsthand glimpse at how quickly the disease could spread.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
-      "originalUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f76e9290ab50d00184adba4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
-      "publishedDateTime": "2021-06-30T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

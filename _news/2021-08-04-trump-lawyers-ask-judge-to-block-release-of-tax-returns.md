@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-re
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump is still the leader of Republican Party, RNC chair says"
+    excerpt: "Former President Donald Trump is still calling the shots for the GOP, as is evident by his more than $100 million war chest, a party honcho said Sunday."
+    publishedDateTime: 2021-08-08T16:54:00Z
+    webUrl: "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/"
+    ampWebUrl: "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-rally-053.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump: Schools have to open and children need to be educated"
     excerpt: "Former President Donald Trump addressed the importance of in-person learning with Fox News host Dan Bongino Saturday evening, saying, \"Children have to go back to school.\""
     publishedDateTime: 2021-08-08T04:20:00Z

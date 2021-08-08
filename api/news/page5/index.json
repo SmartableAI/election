@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-30-how-matt-damons-stillwater-explores-ugly-americans-in-the-post-trump-era.md",
+      "title": "How Matt Damon’s ‘Stillwater’ explores ‘ugly Americans’ in the post-Trump era",
+      "excerpt": "With an empathetic eye and cross-cultural cast led by Matt Damon and Camille Cottin, 'Stillwater' director Tom McCarthy tried to upend expectations for his dramatic thriller.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ca52305/2147483647/strip/true/crop/3819x2554+5+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe1%2F4f%2F7a46098741c599d87260f84528ef%2Flm-20200908-unit-01040-r2.jpg",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/movies/story/2021-07-30/stillwater-matt-damon-america-trump?_amp=true",
+      "publishedDateTime": "2021-07-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-biden-defends-previously-saying-vaccinated-dont-need-masks-that-was-true-at-the-time.md",
+      "title": "Biden defends previously saying vaccinated don't need masks: 'That was true at the time'",
+      "excerpt": "President Biden was involved in a heated exchange with Fox News reporter Peter Doocy after he pressed Biden on whether or not vaccinated Americans still need to wear masks.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eec26b2c-3cfe-4b36-bb76-dfd0652fbbc6/c35c575c-353d-457f-bcbf-31c72016050c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
+      "publishedDateTime": "2021-07-29T14:52:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-first-lady-jill-biden-undergoing-foot-procedure-at-walter-reed.md",
       "title": "First lady Jill Biden undergoing foot procedure at Walter Reed",
       "excerpt": "First lady Jill Biden injured herself in Hawaii last weekend while walking on a beach when an indeterminate \"object\" lodged itself in her foot, according to the White House.",
@@ -1214,110 +1322,6 @@
         "name": "Lehigh Valley Live",
         "domain": "lehighvalleylive.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-audio-shows-a-profanity-laced-voicemail-that-dc-officer-michael-fanone-got-from-a-trump-supporter-while-he-was-testifying-to-congress.md",
-      "title": "Audio shows a profanity-laced voicemail that DC officer Michael Fanone got from a Trump supporter while he was testifying to Congress",
-      "excerpt": "The DC police officer had told Congress on Tuesday that he was beaten unconscious and almost killed by Capitol rioters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
-      "originalUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/610121ec0d35a90018258b3e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
-      "publishedDateTime": "2021-07-28T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-biden-if-us-has-real-shooting-war-it-could-be-result-of-cyber-attacks.md",
-      "title": "Biden: If U.S. has 'real shooting war' it could be result of cyber attacks",
-      "excerpt": "President Joe Biden on Tuesday warned that if the United States ended up in a \"real shooting war\" with a \"major power\" it could be the result of a significant cyber attack on the country, highlighting what Washington sees as growing threats posed by Russia and China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/sRkmzaJO11OAE2I883BVrfRIvZw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CKSQMSZKH5K35D7ZNSHQTPNZDY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

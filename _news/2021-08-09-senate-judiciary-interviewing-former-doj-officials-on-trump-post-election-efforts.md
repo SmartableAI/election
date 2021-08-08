@@ -1,36 +1,53 @@
 ---
 category: news
-title: "The Point: You shouldn't miss this massive bombshell in Trump's ongoing election fraud lie"
-excerpt: "Unless you have been living on another planet for the past six months, you know by now that Donald Trump leaned on state and national officials in the final days of his presidency to force investigations into made-up claims of widespread election fraud in the 2020 race.\n    \n"
-publishedDateTime: 2021-08-05T14:57:00Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4zvf6u2BLY4/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4zvf6u2BLY4/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html"
+title: "Senate Judiciary interviewing former DOJ officials on Trump post-election efforts"
+excerpt: "The Justice Department recently told former Trump officials they could answer questions from Congress on the former president's efforts to overturn the election."
+publishedDateTime: 2021-08-08T17:22:00Z
+originalUrl: "https://www.nbcnews.com/politics/donald-trump/senate-judiciary-interviewing-former-doj-officials-trump-post-election-efforts-n1276303"
+webUrl: "https://www.nbcnews.com/politics/donald-trump/senate-judiciary-interviewing-former-doj-officials-trump-post-election-efforts-n1276303"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276303"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276303"
 type: article
-quality: 180
-heat: 260
-published: true
+quality: 145
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3497631/210808-jeffrey-rosen-al-1239.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
+  - title: "The Point: You shouldn't miss this massive bombshell in Trump's ongoing election fraud lie"
+    excerpt: "Unless you have been living on another planet for the past six months, you know by now that Donald Trump leaned on state and national officials in the final days of his presidency to force investigations into made-up claims of widespread election fraud in the 2020 race.\n    \n"
+    publishedDateTime: 2021-08-05T14:57:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4zvf6u2BLY4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump is building a shadow Republican Party"
     excerpt: "On Monday, a cohort of former Trump administration officials launched the America First Policy Institute, a think tank organization aimed at promoting \"liberty, free enterprise, national greatness, American military superiority, foreign-policy engagement in the American interest, and the primacy of American"
     publishedDateTime: 2021-04-14T16:00:43Z
@@ -79,23 +96,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Senate Judiciary interviewing former DOJ officials on Trump post-election efforts"
-    excerpt: "The Justice Department recently told former Trump officials they could answer questions from Congress on the former president's efforts to overturn the election."
-    publishedDateTime: 2021-08-08T17:22:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/senate-judiciary-interviewing-former-doj-officials-trump-post-election-efforts-n1276303"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276303"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276303"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 145
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3497631/210808-jeffrey-rosen-al-1239.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
-secured: "Jf98XQAvLdFM9xyTifxSIkjzBzsoF+z2uXX+/T3g3vEJ4DIEGzb+pRqKvrqO64Ygt7SBNKjUBJHY9anvJE3se4dYlP1e2Wus7evW9HN6/cnC8FeV1rDRIbGS+iVt4WXasCkVk9/qOBiscS+2zW5Nr3fpeHZBWqoIlZSIO6w6mNawtBs915BNeyRfg9X0OB+K+8QJzGV6HtCN1vM7K2BAVSgbv/VLQmUsV6U5yK+mWvHPHbpgHK8oG1pTAAK7or05IFnq0b5k+bHth8fdMg0LjLI5v3Rrxv0PvpX2BKAudDscRT5IqRdmXfBi7WLAFJpsyj3/SA9Ido58C0pt+eJeOa0qvEoJOfVI2RVoO3yNS2Y=;fZdK2LoTanL5O5WS4DWsNA=="
+secured: "Hr+bJg+TGDhrLftGg2WtEDu12AYmYoh2e/q6qDE1bv0sj6BifHbcjLPQizApcZOGSvyqzFPNoeQjL94WkRVp0wu1KdFyibR7257hPM777kGHfiNSS1Plk+gf42rD0eMNS3cVWn7gghpedqvahE6sCZT+0dbROreg5nT/liaVzhtdW/Bv6ZTI7dWSiTbWaWaaFtqK0wSCNsfrolvbXRD6zXKg2zFa08QFV8zfT+KrSi8zCzD0v7eBZUNvZa/dnnGx3OXEeHGnO2+pE0Wccz9tSCTvuxNe6ELijFnYu9c3ZxeplHzoGL1p2wt+THdlGbjKV40yzvZiSSYoQarromhFj8PwwNjgWO8p/4c+v/meD5s=;TQkRqMkpj965qvv0+5xotg=="
 ---
 

@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Donald Trump is still the leader of Republican Party, RNC chair says"
+    excerpt: "Former President Donald Trump is still calling the shots for the GOP, as is evident by his more than $100 million war chest, a party honcho said Sunday."
+    publishedDateTime: 2021-08-08T16:54:00Z
+    webUrl: "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/"
+    ampWebUrl: "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-rally-053.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "AkorPaAYrzmy37dpTYwXUm2zHTtwCXBptle+2MEqNFcT8YiAdu7uS1lklVu/NuZgikgVgpkf0ynf1nW8/8yghwKB7O7c0JzHHRNqPgT9ATAlxm5UthaPLP3RMj7HKpWiY2Q08zl1T8LqlgRrIViTEntvbtx19OrHwvETOaIkju+y87AmvW0OwdiNizGu0fLmZmw0/niN/vUmLEW1/86Po8FSCY2Y4RL1AHwAQKmbWws6Vcb+uN1+2pifG2FR5pftaJw22ZIsdMvok7GWphmkYSQ5pJi64Pz5C5DnHVna6GO4AbvCCESJpKtHffSPZte3urlfE66e5pO5OBRI2h7T4D+nI2OjJ3ZAyttx9dCwsLA=;aUFYV0GZDLm8Wi1Ut9/RRg=="
 ---
