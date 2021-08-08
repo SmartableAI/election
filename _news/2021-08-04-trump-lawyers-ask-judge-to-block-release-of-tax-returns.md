@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-re
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Trump: Schools have to open and children need to be educated"
+    excerpt: "Former President Donald Trump addressed the importance of in-person learning with Fox News host Dan Bongino Saturday evening, saying, \"Children have to go back to school.\""
+    publishedDateTime: 2021-08-08T04:20:00Z
+    webUrl: "https://www.foxnews.com/media/schools-have-to-open-and-children-need-to-be-educated-trump-says"
+    ampWebUrl: "https://www.foxnews.com/media/schools-have-to-open-and-children-need-to-be-educated-trump-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/schools-have-to-open-and-children-need-to-be-educated-trump-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2cb0665-c8f1-4267-8a19-1fda81fc12b9/9a4fbdef-7743-4350-b143-81d84474582f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "MKZPdtQ1ZEXvFb4j19d7H3wzXifAGSB21NOylmOohF6PnSz3go2ntgR49zU2xdJhRxKka92jiydAwioq7zy5f4w1ZBJR4+AJ1P+CTiNacYYqvOIZ0rHeE7cuXmBPp2ry1KrAQzpba+tHs71AcSTp5IgaxNfR+XaSvc9vn6ZrhiokwFLVbzbi5Lm1vJR0I3vv7y+URkaO+PY98+fx29pANIpiaL0CHUEVhOD6uDSXasoF/klcYM5sXVc9MKs6cMPkpywqLHCIvWCPHlHNNaKw780Tj/Ff+H5QDe7D3SLbEQ320GlKHq+Rh/x0wpPQN6LCuElvu5biYRru1JTsjzP1a67+JRKSos9UBTznb8E+M9+oTQhobBrLPSHNVK5JmFTRO/VjphIuhdZYPn9/xV1kSdE2ba4xAEq68i3WHx+CxqvjoCWtCyAEkGxnYmGxHuX6krpMwepstX0lB9CvSoywafgZi9IIl0XtMzcIiyTJ46UJs+GMkXb10/zMgSkxf/96q7QFRz1aPyV21wmzeBW2EQ==;QjeTKhleZ6C8dtUtRQk65A=="
 ---
