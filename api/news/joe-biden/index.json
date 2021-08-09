@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover.md",
+      "title": "Grim Afghan news raises risk for Biden of Taliban takeover",
+      "excerpt": "A rapidly deteriorating security situation in Afghanistan weeks before the official end of the U.S. military mission is putting pressure on President Biden as he sticks to his plan to pull America out of its longest war.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
+      "originalUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/security-patrol_herat_afghanistan_080621getty_afghanistan.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
+      "publishedDateTime": "2021-08-09T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-biden-covid-origin-investigation-expected-to-end-soon-charlotte-observer.md",
       "title": "Biden COVID origin investigation expected to end soon | Charlotte Observer",
       "excerpt": "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ...",
@@ -571,58 +623,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-03-pakistans-security-adviser-complains-joe-biden-has-not-called-imran-khan.md",
-      "title": "Pakistan’s security adviser complains Joe Biden has not called Imran Khan",
-      "excerpt": "Pakistan’s national security adviser has complained over US president Joe Biden’s failure to contact Prime Minister Imran Khan as Washington seeks help to stop the Taliban taking over Afghanistan following US troop withdrawals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/f3d50eb9-5b2f-4472-ad7e-1a216e8e9ae1",
-      "originalUrl": "https://www.ft.com/content/f3d50eb9-5b2f-4472-ad7e-1a216e8e9ae1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fefa1b988-77e3-4674-a926-3d2abfdf3a82.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/f3d50eb9-5b2f-4472-ad7e-1a216e8e9ae1",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f3d50eb9-5b2f-4472-ad7e-1a216e8e9ae1",
-      "publishedDateTime": "2021-08-03T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-08-03-americas-recovery-is-joe-bidens-presidency-vulnerable-to-inflation.md",
       "title": "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?",
       "excerpt": "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold.",
@@ -897,7 +897,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 224,
       "tags": null,
       "images": [
         {

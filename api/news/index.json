@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-man-sentenced-for-shooting-black-girl-at-iowa-trump-rally.md",
+      "title": "Man sentenced for shooting Black girl at Iowa Trump rally",
+      "excerpt": "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/man-sentenced-shooting-black-girl-iowa-trump-rally-79369550",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/man-sentenced-shooting-black-girl-iowa-trump-rally-79369550",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/man-sentenced-shooting-black-girl-iowa-trump-rally-79369550",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/man-sentenced-shooting-black-girl-iowa-trump-rally-79369550",
+      "publishedDateTime": "2021-08-09T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover.md",
+      "title": "Grim Afghan news raises risk for Biden of Taliban takeover",
+      "excerpt": "A rapidly deteriorating security situation in Afghanistan weeks before the official end of the U.S. military mission is putting pressure on President Biden as he sticks to his plan to pull America out of its longest war.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
+      "originalUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/security-patrol_herat_afghanistan_080621getty_afghanistan.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
+      "publishedDateTime": "2021-08-09T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-trump-says-he-will-do-something-about-homelessness.md",
+      "title": "Trump says he will do ‘something’ about homelessness",
+      "excerpt": "President Donald Trump began a California visit on Tuesday, saying he will do \"something\" about homelessness but offering no specifics beyond the mention of creating a task force.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
+      "originalUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/334c3ffb31f34c3aa8a178bb26ae6f1f/3000.jpeg",
+          "width": 3000,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-biden-covid-origin-investigation-expected-to-end-soon-charlotte-observer.md",
       "title": "Biden COVID origin investigation expected to end soon | Charlotte Observer",
       "excerpt": "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ...",
@@ -205,7 +352,7 @@
       "originalUrl": "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1010,7 +1157,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1159,157 +1306,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-ohio-rep-bob-gibbs-seeks-articles-of-impeachment-against-biden.md",
-      "title": "Ohio Rep. Bob Gibbs seeks articles of impeachment against Biden",
-      "excerpt": "An Ohio congressman on Friday asked his GOP House colleagues to consider filing articles of impeachment against President Biden for an \"unconstitutional\" order to extend the eviction moratorium and for his \"dereliction\" of duty in securing the southern border. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp",
-      "publishedDateTime": "2021-08-06T13:15:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-carlson-the-only-threat-to-hungarian-democracy-is-joe-biden.md",
-      "title": "Carlson: The Only Threat to Hungarian Democracy Is Joe Biden",
-      "excerpt": "When Tucker Carlson embarked on a weeklong publicity tour of Viktor Orbán’s Hungary, Fox News personality Glenn Greenwald cast the decision as the kind of intrepid reporting we should all admire. “Is it now considered immoral or something for journalists to visit other countries to report on what they see and hear there?",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/d20/eac/39b3bfb35ff2c0d192dbf652b09eab40f1-tucker-carlson.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/tucker-carlson-viktor-orban-interview-fox-news-hungary-biden-interference.html",
-      "publishedDateTime": "2021-08-06T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-ron-desantis-and-joe-biden-brawl-a-potential-preview-of-ugly-2024-race.md",
-      "title": "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race",
-      "excerpt": "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923",
-      "originalUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1864686/joe-biden-ron-desantis-split.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1",
-      "publishedDateTime": "2021-08-06T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

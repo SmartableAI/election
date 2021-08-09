@@ -45,14 +45,14 @@ related:
         isCached: true
   - title: "Pence, Cruz, DeSantis to headline Ricketts steak fry event"
     excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept."
-    publishedDateTime: 2021-08-09T19:40:00Z
-    webUrl: "https://www.chron.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+    publishedDateTime: 2021-08-09T21:40:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -62,7 +62,7 @@ related:
   - title: "Mike Pence, Ted Cruz, Ron DeSantis will headline Ricketts event in Nebraska City"
     excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis form an all-star lineup of guests who will join Gov. Pete Ricketts at a Nebraska Steak Fry scheduled in Nebraska City on Sept."
     publishedDateTime: 2021-08-09T18:40:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/article_a46c8c65-e0e5-5608-b71b-6ee9c0563c62.html"
+    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/mike-pence-ted-cruz-ron-desantis-will-headline-ricketts-event-in-nebraska-city/article_a46c8c65-e0e5-5608-b71b-6ee9c0563c62.html"
     type: article
     provider:
       name: Omaha.com

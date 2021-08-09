@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
 type: article
 quality: 124
-heat: 264
+heat: 224
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
-    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-    publishedDateTime: 2021-08-06T11:21:00Z
-    webUrl: "https://www.timesunion.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "'Clock is running out.' As COVID-19 cases climb, Biden faces rising pressure to fill top FDA job"
     excerpt: "Five months ago, former heads of the Food and Drug Administration urged Joe Biden to make filling that position a priority but it's still vacant."
     publishedDateTime: 2021-08-03T09:00:00Z
@@ -104,17 +88,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
-  - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
-    excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
-    publishedDateTime: 2021-08-08T04:28:00Z
-    webUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
-    ampWebUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
   - title: "New US infections climb back to winter levels, about 100K every day; Joe Biden continues student loan freeze. Latest COVID-19 updates"
     excerpt: "The new daily average for U.S. infections has climbed back to about 100,000 as of Saturday, according to CDC data. Latest COVID-19 updates"
     publishedDateTime: 2021-08-08T10:01:00Z

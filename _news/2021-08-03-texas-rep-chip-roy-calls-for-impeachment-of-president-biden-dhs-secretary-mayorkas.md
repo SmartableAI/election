@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's controversial EPA nominee to face Senate, expected to address allegations of past racist comments"
+    excerpt: "President Biden’s controversial nominee to hold a leadership position at the Environmental Protection Agency (EPA) is expected to face tough questions on his past comments about civil rights laws and support for reparations set to faces the Senate soon during his confirmation hearing."
+    publishedDateTime: 2021-08-09T20:20:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A95wl3x630Q/biden-epa-nominee-address-allegations-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-epa-nominee-address-allegations-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-epa-nominee-address-allegations-racism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/402fd5d2-59ec-48df-9708-940138d5ec89/67f32827-ee50-4b97-9c0e-47148a82b3ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Psaki grilled on Cuomo, Biden sexual harassment allegations, says claims against president already ‘litigated’"
     excerpt: "White House press secretary Jen Psaki fended off questions about sexual misconduct allegations leveled against President Biden Wednesday following the commander-in-chief’s decision to call on embattled New York Gov. Andrew Cuomo to resign following a harassment probe."
     publishedDateTime: 2021-08-04T23:34:51Z

@@ -43,22 +43,6 @@ related:
         width: 3000
         height: 2001
         isCached: true
-  - title: "Man Who Voted for Trump in Place of Missing Wife Appears in Court on Charges of Her Murder"
-    excerpt: "On top of murder and submitting a fraudulent vote, the man could also be charged with tampering with his wife's deceased body as well as evidence."
-    publishedDateTime: 2021-08-09T19:19:00Z
-    webUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635"
-    ampWebUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1866603/man-fraudulently-votes-trump-missing-wife.jpg"
-        width: 2500
-        height: 1665
-        isCached: true
   - title: "Trump-commuted exec settles $4 mln fraud lawsuit with feds"
     excerpt: "The former chief executive officer of Tennessee pain management company Comprehensive Pain Specialists has agreed to a permanent exclusion from Medicare and other federal healthcare programs to settle a lawsuit that he submitted false claims to the government for reimbursement."
     publishedDateTime: 2021-08-03T21:51:00Z

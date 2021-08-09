@@ -91,22 +91,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
-    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-    publishedDateTime: 2021-08-06T11:21:00Z
-    webUrl: "https://www.timesunion.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "'Clock is running out.' As COVID-19 cases climb, Biden faces rising pressure to fill top FDA job"
     excerpt: "Five months ago, former heads of the Food and Drug Administration urged Joe Biden to make filling that position a priority but it's still vacant."
     publishedDateTime: 2021-08-03T09:00:00Z
@@ -116,17 +100,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
-  - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
-    excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
-    publishedDateTime: 2021-08-08T04:28:00Z
-    webUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
-    ampWebUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "tILc70ktGKqL2yE0UftYS+2GZZ1kJy4wABu6w2Pi9oeCvamImkJ9VCAWqHTCRUhnQMcFP+MMEsseozQ5cGjWqaxoduELxkwXeplvrYrYYczBC0QyUKhoPhBwWHJPdz8vng30Rq7RwDaiXisPucicU40T2sDgojpTaU8iY0WLpzaqqd2PFzy3oaDv6Isvs6THweJWA1oF9fi20FQ6WjYB1LVMbU/L4tfyefImAw03WBZwoy4obF+/iBPLFv47EnGpKYHvvmZGEn8GbkSzu3f+vZUtgg4v0p2zSQ0ayahPvKgOhugpCrHq6XNmBWcDVB0yF6fa1bxup5+n2laULKmwo58e8VgEWuJrGfHfVwGLJ7c=;BQ1BDlY5Wrb/dQMYsdiDcg=="
 ---

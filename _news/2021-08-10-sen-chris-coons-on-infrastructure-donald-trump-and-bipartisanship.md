@@ -1010,6 +1010,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Prosecutors offer plea deal to Cowboys for Trump founder"
+    excerpt: "Federal prosecutors have offered a confidential plea agreement to Cowboys for Trump founder Couy Griffin that might resolve misdemeanor criminal charges against him linked to"
+    publishedDateTime: 2021-08-09T20:48:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/us/prosecutors-offer-plea-deal-to-cowboys-for-trump-founder/article_247a9695-b198-5f52-853a-4f5a9ea67e0b.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z
@@ -1100,6 +1114,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "9/dPmtNtkMnxG4CZlBXrRABT0YK3LfMhxzakpCsSUXZbNVJeTxLQOjQQbVcLVGPv3d5UQCEgzwIvm5pq2FW+wpIKbfRgBe54/UouDpwNLwjsn1iWA48VrDxk9jSsfnbeRdJLhzWCG9683h/s2aox59jgmxvvbESfGeEPKppD84rmRjBbgu9gSF8EptdDT2u6vTXRfrkUlqMZKAW2WvAXX6auo117ie23CP+ViZXG6TPa4T2GSQAznAht8YHj9bX42Ie9EYNBcYH1e100sMxC92z5NKLbjTeqhqkVe7TcRgq6mTarF3xFVggFfKTfaTMCFT6a3vxcBVRnxGTiaN9TPT6ABF3bb+IKA+Y/R4lJWag=;26qmOOq9hZmrxFjol4ecQA=="
+secured: "Zxs/ym6t2uSqu3hkd3PlJn6AFSGx+R0jV3HhRjPd+C24WGvrhYBa9KcSoHQXSdqADMcxI145jseBETvNPqT8r2Xwif9pdoJI6xRLBR6KUsleTJL0lDDEItBP90U4Jpa0mcf6gWMsrnbMa4VivyiqlEj0AJQz/kZI7xihz5yPeYrh3k1YWVe2+S0rknrO3kHuD2kH2spxKi7qZqWidMJ1+lYhhUjFjfSOEQSOmzbORnGUXaZuV/ia0fq9HdUrZqnhLJwJtlf739kzvxI9n0QQbhEpJQZwY/VqD9GUAf6d4brAYRQbD/G7ELGgqdHij9I1RawHaePbxyEQJwM+TplF2wlZ1NkHYIPdfK4cgJiQoJJ4zhF9YIw9oz6owiGCJHgnWq0YwZRyZCs76W4be9oT8JgH7z6GzgRvfbrHw2Cd6QPc/VZYj6NdEw9Cm7Qd88Uy88YYVzCj8P3hy3fu1j1tumGMjJt9y4bpLPhEob8h5NmD5vEP9t1COQOH15NXsEQtiUD17u4/RJn+FJR0VDea7w==;xRshDit0cdR67TygbDqSuw=="
 ---
 

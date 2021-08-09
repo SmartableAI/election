@@ -996,6 +996,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 55
+  - title: "Prosecutors offer plea deal to Cowboys for Trump founder"
+    excerpt: "Federal prosecutors have offered a confidential plea agreement to Cowboys for Trump founder Couy Griffin that might resolve misdemeanor criminal charges against him linked to"
+    publishedDateTime: 2021-08-09T20:48:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/us/prosecutors-offer-plea-deal-to-cowboys-for-trump-founder/article_247a9695-b198-5f52-853a-4f5a9ea67e0b.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sen. Chris Coons On Infrastructure, Donald Trump, And Bipartisanship"
     excerpt: "One of those burning the midnight oil was Democratic Sen. Chris Coons. What’s in the bill? And what are the next steps for it to pass? Copyright 2021. To see more, visit."
     publishedDateTime: 2021-08-09T18:57:00Z

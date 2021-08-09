@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/Chip-Roy-Biden-Mayorkas.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's controversial EPA nominee to face Senate, expected to address allegations of past racist comments"
+    excerpt: "President Biden’s controversial nominee to hold a leadership position at the Environmental Protection Agency (EPA) is expected to face tough questions on his past comments about civil rights laws and support for reparations set to faces the Senate soon during his confirmation hearing."
+    publishedDateTime: 2021-08-09T20:20:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A95wl3x630Q/biden-epa-nominee-address-allegations-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-epa-nominee-address-allegations-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-epa-nominee-address-allegations-racism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/402fd5d2-59ec-48df-9708-940138d5ec89/67f32827-ee50-4b97-9c0e-47148a82b3ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
