@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
+    publishedDateTime: 2021-08-09T16:26:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/09/trump-told-california-to-sweep-the-forest-floors-whats-bidens-plan-to-combat-wildfires/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 60
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
     excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
     publishedDateTime: 2021-08-04T20:41:00Z

@@ -2,29 +2,27 @@
 category: news
 title: "Why Andrew Cuomo's job is more vulnerable to scandal than Donald Trump's was"
 excerpt: "Andrew Cuomo. Cuomo went from being talked about as a potential presidential candidate in the spring of 2020 – thanks in large part to his handling of the COVID-19 pandemic in New York state – to media ridicule and possible state senate impeachment now,"
-publishedDateTime: 2021-08-07T02:05:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-webUrl: "https://www.seattlepi.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+publishedDateTime: 2021-08-07T01:05:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
 type: article
-quality: 72
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Cuomo jams Democrats with Trump playbook: The Note"
@@ -60,6 +58,6 @@ related:
         height: 700
         isCached: true
 
-secured: "JuChok0vY1SWsTkEjKV/GFMK7xplceQia9dUKbg5AiEh9m85IqoA4m6cv5I/VlHs3IVp3Q2X6eU+0MsApuztkirn0Y909dt8roWXh61W18XYwcckTJmeSj+H2m03cRKXasPDycQLjE44qX9EoJU7zCcdq2/u3sKIKxNh1oBkjKspHLjJEF3lOXBoXi8C4mmESpg2QrDobMjYje1CkBOrGASook/f7lK5u0f7OqD/Dxg2UNdxyydSJC76Qyv3SRCCNDftFhgytCCRk1lPw9dI5HM+pWLXUJqCyOjKi6bHpmG0wAF8PiE+M4XRDp+MCejbK2RpMUBIeShGD0jWCRNHtx31pOitDcIcTauNGBedLfc=;4keT9bua3/p0C6JBfJhoZw=="
+secured: "V/d76lLz7BAq7VXa83r9mG8JTi22v1Xzk8wFaLQVfMrcS5cU1dodzlL9cV///Om9mUM1acGwd9UQGM7M5vLBpiKY3vWMz0PFUYctADDSwewnZtjeml82CERsAXS1HLhfeuCW121r9uolqimO0ysCMiNpqgkXsyTbP6y4l1sxBMsJ7X2tvjPiKPcoa91mjAfDz7emOjwuthcuNig8vuF5FCTnrg02j988lMS2hcc/Bn3u+S/flxSp6uXWvCBVMCVhhxg/wo3cFwS7+DUttcju5mnHgZZm0Wu48IOR1dbqAebyanBeORwSMM7emsXuMECry5UE0mU2kRrb6d5gr9YGgPhyFHbemsDNs5FiKbKch8w=;NoPVf0D4TazSfECQmCA+tQ=="
 ---
 

@@ -715,6 +715,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Readers React: Trump-era investigations are black holes"
+    excerpt: "Reader: Two investigations, one into Hunter Biden's computer, are taking a very long time and costing millions of dollars."
+    publishedDateTime: 2021-08-09T17:30:00Z
+    webUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-brand-government-black-hole-20210809-uvanptgxwjgejp54lekneh2i54-story.html"
+    ampWebUrl: "https://www.mcall.com/opinion/readers-react/mc-opi-let-brand-government-black-hole-20210809-uvanptgxwjgejp54lekneh2i54-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-brand-government-black-hole-20210809-uvanptgxwjgejp54lekneh2i54-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 75
+    images:
+      - url: "https://www.mcall.com/resizer/cufuzjIwe1JBxC_soDNvCTG9ph4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VEMPKPB2SII3SFJDGWYVPG3CUE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "What's A 'Trump Card?' Donald Trump, Republican PAC Wants Supporters To Carry"
     excerpt: "The former president wants his supporters to carry Trump cards to show their support for him and his 'Save America' movement."
     publishedDateTime: 2021-08-05T19:16:00Z
