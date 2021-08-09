@@ -87,21 +87,21 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
-    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-    publishedDateTime: 2021-08-06T11:21:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+  - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
+    excerpt: "President Joe Biden wants to erase Donald Trump’s rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal"
+    publishedDateTime: 2021-08-06T07:08:00Z
+    webUrl: "https://www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
+    ampWebUrl: "https://www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/amp/"
+    cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/amp/"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: KNWA News
+      domain: nwahomepage.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2021/08/222fae4caa454b008ee4bf715be228b2.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "New US infections climb back to winter levels, about 100K every day; Joe Biden continues student loan freeze. Latest COVID-19 updates"
     excerpt: "The new daily average for U.S. infections has climbed back to about 100,000 as of Saturday, according to CDC data. Latest COVID-19 updates"

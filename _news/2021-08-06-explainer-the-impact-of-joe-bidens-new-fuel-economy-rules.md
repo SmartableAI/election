@@ -1,29 +1,29 @@
 ---
 category: news
-title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
-excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-publishedDateTime: 2021-08-06T11:21:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
+excerpt: "President Joe Biden wants to erase Donald Trump’s rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal"
+publishedDateTime: 2021-08-06T07:08:00Z
+originalUrl: "https://www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
+webUrl: "https://www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
+ampWebUrl: "https://www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/amp/"
+cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: KNWA News
+  domain: nwahomepage.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2021/08/222fae4caa454b008ee4bf715be228b2.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -117,6 +117,6 @@ related:
         height: 675
         isCached: true
 
-secured: "opr/2Ix1GWLP5eh8Up68tLxLffO/rBmDR3WuHG2iDsBBLiy3HXDaCJ//wFJrdZojSnCeZdHIDYQv7IxYInfnda/hQ42GXRYfJVBkGTXN+kscdxqu48BzkH5Fl4OQEs7RSLSkWsM02iPjWQ15+2ye0DZhXqEHnPi6x0UYKHbz9Hv4rEb8iJUZIBjNvaSvFGEEXOr2bMzwS9uzsEHkS+9vhqCHPR/RR6c3JII8oOgxxrPHa8T3B2naFPRuL17p8avDfJ8vVg3rBFoAdALs+4/ESmU5cbars61Qkb0flsMHTEfSbetVHPFGr/52RRnHhhGHOix19k2Y9cdgBfcXpMzheIHWFJSHWVO4YovD1Usl/RWML+lTBAu2685iqC7O3+LSW1C8BC72+0LMdpwr0bCTg3GSKfssKkDNZZkXpRiJCxrUVgLLwLxYQ6t/RKzqveaLOYnApWm9YCXv8ObBAWNkX/TRirRSajdu5BIddEkSf7UekY6wcSGsroX96g8aNTdZo3F6ldqP3MClTcVS6/yi9g==;0SK3/7Zwr4Hkw5NmsupFmA=="
+secured: "Q7Y8NcvrjR6BfcxC5puGpBqNH6ESrtSeXXoDj10H3jqwlfQQgcmr9Zw85TlWjZIMiL44psLx7UrD/GP/yWBqoAEiAJgZavwKj8hdximNWaxRo5JiA4fFPxXh7xSUuiiZw4pq706T1GnFRK90oWt6qb6NX7z0iU6ZhLK5LuIABOJJvP9yQ/PAdCvQEHBJ03lLjHnsZgU7LvJPwYT7CKLDsoJD6TzaW4Ng0ml1WQSqxvDNMdREH1CH8PFEwPsirrRQ2OhKx1q88Zg8VqvN2v2sAaEegGF73NOZEswO9M16OVYSuYbTGRF/eW9e1eopX631SMKxalykuvjIOsOuKeMsummdRVXzWeCZkrxTUppnuDc=;rZty/nE1OnQzLauXX8HHaA=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Delivers Remarks on Clean Energy"
-excerpt: "President Joe Biden greets Representative Debbie Dingell (D-MI) after delivering remarks on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
+excerpt: "President Joe Biden answers questions from reporters after driving a Wrangler Unlimited 4xe Rubicon around the White House grounds during an event on electric vehicles in Washington, DC, on Thursday,"
 publishedDateTime: 2021-08-05T21:31:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/25146f20c659daff20caefba651425ee/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/25146f20c659daff20caefba651425ee/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/3804ea110e6521f07da5b34e5b241dda/WHITE-HOUSEBIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/25146f20c659daff20caefba651425ee/WHITE-HOUSEBIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -109,6 +109,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "f67H2daBV1SyRg3OKOm28B+Ov2uc6WtrSvYD8Gjabrxudw8AA+4hY95zooaHwi+2w6cxLjJ76e0bFMvwG0S8P2idmoCoSB+4YkqsvETpbdZ9Ov18MFR5EyfcsoXvqOUVwNevofvNXp0tkd3FWwbnhqgHrjIJIMQ0MJeRHr/UGUJkBDIM3AJdyvkN7CTwb79vxvSH14+tLRANCT4ttxza3Np7V2ab8RA+ZiZ9hfF9XfqAUWbyjnJAmryt4cu7Yg9iz+zgjw+nJ9lPhpucN7ootvo1yFlecFIf7RumlIINMjIIo1g0izqaXWM0vzP9Qd9/yOvgVJvrixUdwBKDtcN9wK5pYGRTeA4QJ3uoyOey0G8=;lERUx0spLqYwgYw4yrbq6g=="
+secured: "WIrCn7pizc82oVjbS845OhO7BcyFVUa6riiy605suzcJf3lo6QuXAoSWm7un7kQv/ZApHokye/A42C4ShtsYt4VmGKm9ASCHFdZkjPowlnCxbCX7sURwpkauvh92YjG+adUXPrhFJR2DejaZdfF/R13EKbPe3EY4Aa/McI0pBhl85ziaoWJUlpZlyVSdNSHNuXXg1tlkL0TCPuEEynSV7/ka68M9R53MOnDfgWjIbjDl2I4oJFRQ0kFRkiGGowVpRmSX6fzZWch65id6xdPYsERQ8pRvdATPyoQS771X41i6aCsAbZDaY/cMBLg2ATNwp+f1Bzw3jD/wztXdYCGSebwNRWgSy0FweMJGGc0E6Oc=;R3n/CNWtk2cR8bar/h3qKw=="
 ---
 
