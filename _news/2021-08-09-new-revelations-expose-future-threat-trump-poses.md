@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Senate Judiciary interviewing former DOJ officials on Trump post-election efforts"
-excerpt: "The Justice Department recently told former Trump officials they could answer questions from Congress on the former president's efforts to overturn the election."
-publishedDateTime: 2021-08-08T17:22:00Z
-originalUrl: "https://www.nbcnews.com/politics/donald-trump/senate-judiciary-interviewing-former-doj-officials-trump-post-election-efforts-n1276303"
-webUrl: "https://www.nbcnews.com/politics/donald-trump/senate-judiciary-interviewing-former-doj-officials-trump-post-election-efforts-n1276303"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276303"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276303"
+title: "New revelations expose future threat Trump poses"
+excerpt: "A burst of new disclosures exposing the extraordinary efforts by ex-President Donald Trump to steal power after his election defeat constitute a grave warning about the future and his potential bid to recapture the White House.\n    \n"
+publishedDateTime: 2021-08-09T04:04:28Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CRvVWWHq6tE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CRvVWWHq6tE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/donald-trump-justice-department-elections-republicans/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/donald-trump-justice-department-elections-republicans/index.html"
 type: article
-quality: 145
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3497631/210808-jeffrey-rosen-al-1239.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210715110555-trump-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -64,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "New revelations expose future threat Trump poses"
-    excerpt: "A burst of new disclosures exposing the extraordinary efforts by ex-President Donald Trump to steal power after his election defeat constitute a grave warning about the future and his potential bid to recapture the White House.\n    \n"
-    publishedDateTime: 2021-08-09T04:04:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CRvVWWHq6tE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/donald-trump-justice-department-elections-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/donald-trump-justice-department-elections-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210715110555-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Donald Trump's political organization raised $82 million in first half of 2021"
     excerpt: "Donald Trump's political organization raised nearly $82 million during the first half of this year and entered July with $102 million in cash reserves -- an unprecedented war chest at this stage in the election cycle for a former president, according to figures released by his team Saturday night.\n "
     publishedDateTime: 2021-08-01T01:40:45Z
@@ -112,7 +95,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate Judiciary interviewing former DOJ officials on Trump post-election efforts"
+    excerpt: "The Justice Department recently told former Trump officials they could answer questions from Congress on the former president's efforts to overturn the election."
+    publishedDateTime: 2021-08-08T17:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/senate-judiciary-interviewing-former-doj-officials-trump-post-election-efforts-n1276303"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276303"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276303"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3497631/210808-jeffrey-rosen-al-1239.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
-secured: "Hr+bJg+TGDhrLftGg2WtEDu12AYmYoh2e/q6qDE1bv0sj6BifHbcjLPQizApcZOGSvyqzFPNoeQjL94WkRVp0wu1KdFyibR7257hPM777kGHfiNSS1Plk+gf42rD0eMNS3cVWn7gghpedqvahE6sCZT+0dbROreg5nT/liaVzhtdW/Bv6ZTI7dWSiTbWaWaaFtqK0wSCNsfrolvbXRD6zXKg2zFa08QFV8zfT+KrSi8zCzD0v7eBZUNvZa/dnnGx3OXEeHGnO2+pE0Wccz9tSCTvuxNe6ELijFnYu9c3ZxeplHzoGL1p2wt+THdlGbjKV40yzvZiSSYoQarromhFj8PwwNjgWO8p/4c+v/meD5s=;TQkRqMkpj965qvv0+5xotg=="
+secured: "hVshmk5G7I4YlM5fneAxI6U24o3781i3fgKw+0skb+g1ctWm+8yCSydmqPdTd80Bj48z0/mFge4igkPGXhORpOcpWjLueV7HFIv33ZA98iL9/bX9Vq1b3NCuDyUbNKRJSqt9aVXbQdXn8QMtZ5fgO3w54sU/IA+OGAenm9FJm7FbZ0NcMZtfZZzyekm6YP+ZTSbm4MJVr+br4kJep878mlNRexyQaPJZFOGcjxy8EDY8xOi5/uBhuw2/fgPJq03EJ1GthsOvozcm5ejnehGebGiCRXMsFnaRRjZ5BEkVYXznQ2rePaD8BK+EZVmPdgFOA+LSzNPCjYa9/o4ffFflh9Xv5Os5cGKQzPIOj0OWDKE=;2t+QMBW7jsZsyRZOhPwGyQ=="
 ---
 

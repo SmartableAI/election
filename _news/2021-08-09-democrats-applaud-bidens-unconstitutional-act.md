@@ -1,27 +1,27 @@
 ---
 category: news
-title: "President Joe Biden Delivers Remarks on Clean Energy"
-excerpt: "President Joe Biden greets Representative Debbie Dingell (D-MI) after delivering remarks on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
-publishedDateTime: 2021-08-05T21:31:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+title: "Democrats applaud Biden's unconstitutional act"
+excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden's Centers for Disease Control and Prevention to extend an eviction moratorium sure to be struck down in the courts,"
+publishedDateTime: 2021-08-09T05:00:00Z
+originalUrl: "https://www.semissourian.com/story/2899199.html"
+webUrl: "https://www.semissourian.com/story/2899199.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Southeast Missourian
+  domain: semissourian.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/3804ea110e6521f07da5b34e5b241dda/WHITE-HOUSEBIDEN.jpg"
-    width: 650
-    height: 433
+  - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
+    width: 1000
+    height: 523
     isCached: true
 
 related:
@@ -85,19 +85,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Democrats applaud Biden's unconstitutional act"
-    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden's Centers for Disease Control and Prevention to extend an eviction moratorium sure to be struck down in the courts,"
-    publishedDateTime: 2021-08-09T05:00:00Z
-    webUrl: "https://www.semissourian.com/story/2899199.html"
+  - title: "President Joe Biden Delivers Remarks on Clean Energy"
+    excerpt: "President Joe Biden greets Representative Debbie Dingell (D-MI) after delivering remarks on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
+    publishedDateTime: 2021-08-05T21:31:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
     type: article
     provider:
-      name: Southeast Missourian
-      domain: semissourian.com
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
-        width: 1000
-        height: 523
+      - url: "https://cdnph.upi.com/pv/upi/3804ea110e6521f07da5b34e5b241dda/WHITE-HOUSEBIDEN.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
     excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
@@ -109,6 +109,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "f67H2daBV1SyRg3OKOm28B+Ov2uc6WtrSvYD8Gjabrxudw8AA+4hY95zooaHwi+2w6cxLjJ76e0bFMvwG0S8P2idmoCoSB+4YkqsvETpbdZ9Ov18MFR5EyfcsoXvqOUVwNevofvNXp0tkd3FWwbnhqgHrjIJIMQ0MJeRHr/UGUJkBDIM3AJdyvkN7CTwb79vxvSH14+tLRANCT4ttxza3Np7V2ab8RA+ZiZ9hfF9XfqAUWbyjnJAmryt4cu7Yg9iz+zgjw+nJ9lPhpucN7ootvo1yFlecFIf7RumlIINMjIIo1g0izqaXWM0vzP9Qd9/yOvgVJvrixUdwBKDtcN9wK5pYGRTeA4QJ3uoyOey0G8=;lERUx0spLqYwgYw4yrbq6g=="
+secured: "6PCnSj5yTqq3xF6V3ek0GubNskRyA1W0+k9meSK4sXHbS3NVk5kmB3Lohg2qubwYQcW/bTqxaEA1HHvVjLxexwjZ6pIEJ1mfjnhp07osB7yx4UTzPPlv1pS0AnCh5ytFN6EGT1IoI5g6cL3cNLi2Ae107UtAv3Il8gNcPUoKy0FToiCHdAaxdDA2b3S11KStQVuYnmKmnAPhjbl+eC6qGzfwEfs4tl2f401cy4DE7wfCWCzymYd6efu/QauZmCkm0hrzyQHqMvzsyQj8W0SKsvnPHWutj+uXnnXLAG4UAmFgEjhvoghlV0jLqMZwECcdqUpthKh23roiJxc3sYGRWUQb5gQbBVLdDs5FoxGh20A=;jNRop6bRu8/CuajHqud34g=="
 ---
 

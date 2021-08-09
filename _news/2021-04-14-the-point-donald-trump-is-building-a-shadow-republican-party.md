@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New revelations expose future threat Trump poses"
+    excerpt: "A burst of new disclosures exposing the extraordinary efforts by ex-President Donald Trump to steal power after his election defeat constitute a grave warning about the future and his potential bid to recapture the White House.\n    \n"
+    publishedDateTime: 2021-08-09T04:04:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CRvVWWHq6tE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/donald-trump-justice-department-elections-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/donald-trump-justice-department-elections-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210715110555-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Donald Trump's political organization raised $82 million in first half of 2021"
     excerpt: "Donald Trump's political organization raised nearly $82 million during the first half of this year and entered July with $102 million in cash reserves -- an unprecedented war chest at this stage in the election cycle for a former president, according to figures released by his team Saturday night.\n "
     publishedDateTime: 2021-08-01T01:40:45Z

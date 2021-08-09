@@ -72,18 +72,32 @@ related:
         height: 799
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Clean Energy"
-    excerpt: "President Joe Biden signs an executive order on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
+    excerpt: "President Joe Biden greets Representative Debbie Dingell (D-MI) after delivering remarks on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
     publishedDateTime: 2021-08-05T21:31:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5342ba33f28bc5377a5fd5ad40c14d1f/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5342ba33f28bc5377a5fd5ad40c14d1f/WHITE-HOUSEBIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3804ea110e6521f07da5b34e5b241dda/WHITE-HOUSEBIDEN.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Democrats applaud Biden's unconstitutional act"
+    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden's Centers for Disease Control and Prevention to extend an eviction moratorium sure to be struck down in the courts,"
+    publishedDateTime: 2021-08-09T05:00:00Z
+    webUrl: "https://www.semissourian.com/story/2899199.html"
+    type: article
+    provider:
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 55
+    images:
+      - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
+        width: 1000
+        height: 523
         isCached: true
   - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
     excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."

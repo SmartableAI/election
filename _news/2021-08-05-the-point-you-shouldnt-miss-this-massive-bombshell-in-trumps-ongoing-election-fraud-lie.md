@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-ros
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html"
 type: article
 quality: 180
-heat: 260
+heat: 280
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412085826-trump-for-lockhart-op-ed-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New revelations expose future threat Trump poses"
+    excerpt: "A burst of new disclosures exposing the extraordinary efforts by ex-President Donald Trump to steal power after his election defeat constitute a grave warning about the future and his potential bid to recapture the White House.\n    \n"
+    publishedDateTime: 2021-08-09T04:04:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CRvVWWHq6tE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/donald-trump-justice-department-elections-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/donald-trump-justice-department-elections-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210715110555-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

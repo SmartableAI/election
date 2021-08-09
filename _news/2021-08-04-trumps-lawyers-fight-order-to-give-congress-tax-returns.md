@@ -409,6 +409,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here’s why Trump’s border wall won’t work"
+    excerpt: "Donald Trump pledged during his presidential campaign to build a wall on the southern border of the U.S. that would stop “illegal” immigration from Mexico and Central America, and also block the entry of drugs."
+    publishedDateTime: 2021-08-09T05:44:00Z
+    webUrl: "https://apnews.com/article/lifestyle-travel-immigration-56d7094f0b554925abbd3d81f8ca74c8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
     excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
     publishedDateTime: 2021-08-04T15:31:00Z

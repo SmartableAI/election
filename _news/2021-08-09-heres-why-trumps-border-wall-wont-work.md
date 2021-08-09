@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Donald Trump's 'golden ticket' is on trial in Ohio, where a special election is again testing his political prowess"
-excerpt: "The potency of Donald Trump playing in GOP primaries faces a crucial test Tuesday in a special election contest Republicans say is a toss-up."
-publishedDateTime: 2021-08-02T22:23:00Z
-originalUrl: "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-special-election-kingmaker-status-2021-8"
-webUrl: "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-special-election-kingmaker-status-2021-8"
+title: "Here’s why Trump’s border wall won’t work"
+excerpt: "Donald Trump pledged during his presidential campaign to build a wall on the southern border of the U.S. that would stop “illegal” immigration from Mexico and Central America, and also block the entry of drugs."
+publishedDateTime: 2021-08-09T05:44:00Z
+originalUrl: "https://apnews.com/article/lifestyle-travel-immigration-56d7094f0b554925abbd3d81f8ca74c8"
+webUrl: "https://apnews.com/article/lifestyle-travel-immigration-56d7094f0b554925abbd3d81f8ca74c8"
 type: article
-quality: 98
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/61086c91372268001a5951db?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -411,20 +407,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Here’s why Trump’s border wall won’t work"
-    excerpt: "Donald Trump pledged during his presidential campaign to build a wall on the southern border of the U.S. that would stop “illegal” immigration from Mexico and Central America, and also block the entry of drugs."
-    publishedDateTime: 2021-08-09T05:44:00Z
-    webUrl: "https://apnews.com/article/lifestyle-travel-immigration-56d7094f0b554925abbd3d81f8ca74c8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
     excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
     publishedDateTime: 2021-08-04T15:31:00Z
@@ -466,6 +448,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/07/28/USAT/50f365df-ba48-489b-b9fa-c5b8d380a4a7-d80e6d56-51b6-4e9c-a944-126c3821efb9_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Donald Trump's 'golden ticket' is on trial in Ohio, where a special election is again testing his political prowess"
+    excerpt: "The potency of Donald Trump playing in GOP primaries faces a crucial test Tuesday in a special election contest Republicans say is a toss-up."
+    publishedDateTime: 2021-08-02T22:23:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-mike-carey-ohio-gop-special-election-kingmaker-status-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/61086c91372268001a5951db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Justice Dept: Republican Rep. Mo Brooks may be sued over Jan. 6 speech to Trump supporters"
     excerpt: "Fiery comments before Capitol breach are not “within the scope of employment” or protected from lawsuits, Justice Dept. says."
@@ -1058,6 +1054,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "sl2kmCeVvti704NOwuJKxER7pKri3ZSoM1YnNaCye0usBKV7iixpydQDSABl8exE2e8OhA8El7YpbZ/JXheN1oVfFezVucoRDVNQ/I6Zj2pbVLb8PHe0fQg6xepxl3xF2x3No3jr4LdGWQUhjAuFvmZy4H2rIED88R4aYYYTM09N838s2IHERdwOsZwwkoZG1ggwAo740mLcsS8iZfarnSi3Sztfl9HpxnGkgucvysGigD7pNpnNwl2lmNOc3+CPbQ+8mj+2tJ42/UDuuDyEBiMopqZSBBIrhrqLK59kcl4Nlkvw07a9La+3QpIK75XmQ1C4GrhaESYnElumdTCYmeH8NcGG3yQFii1DnUxCJejWfliuBK09RhS2SWruJCeek5WBql/lEv/5VSEPyTbijb8lSgnzHctYz/qGaCngMR/yRz5ooNzBWfgpVIFXglDrY06+buI8Kitw9v+BNFVMyQER/eNUSQdPBjT0fTrK8wXS8/yokRN4I1QXu9GljM44yq07PQwEhmpy5a3Fo9wLAQ==;WDFq1xVPMQ/v3XRn2MblYg=="
+secured: "lvMC5UEaImKsjQI5En5fa1axHPYyHImvQadwfjBju+5/p+wQfm26BllVN/cZUotJqvO9AeqdTQmXraDI7djnsEfttMnkwNRSOgcK++8h6l6tRuKxtIJ9emDaQzxUY1gYsADCwNCtP8tvnJ7arvxfXsF7yin1iYAOpIumNlphDFc41zN+ybDnfPqYQdmtny3LFo52EcrKDBlKG0FC7Aqds8YKFKwcxJwx8rSOc9RLEo4iY3X9epn/IqS+pW4vOhw/E3N3Hv9kRFKBef4fSRJEsYj6AqaaDyrEfTTieY2/hw4OYNwAPiDTk/ZG53rtM4gWhPozuJfzDlwS2MsnGPYCS6q0T7V2++mkHBorTq7bLaA=;Pat1mwCZ28CKhlKff84WXw=="
 ---
 
