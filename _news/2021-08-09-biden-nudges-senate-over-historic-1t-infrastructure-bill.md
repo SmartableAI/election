@@ -1,20 +1,20 @@
 ---
 category: news
-title: "‘A gargantuan task’: How will Biden satisfy both progressives, moderates on infrastructure?"
-excerpt: "President Joe Biden is caught between retaining support of centrist Democrats, Republicans for an infrastructure deal while satisfying his party’s liberal faction."
-publishedDateTime: 2021-08-05T17:39:00Z
-originalUrl: "https://www.bellinghamherald.com/news/politics-government/article253279158.html"
-webUrl: "https://www.bellinghamherald.com/news/politics-government/article253279158.html"
-ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/article253279158.html"
-cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/article253279158.html"
+title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
+excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."
+publishedDateTime: 2021-08-08T23:12:00Z
+originalUrl: "https://www.sacbee.com/news/business/article253303958.html"
+webUrl: "https://www.sacbee.com/news/business/article253303958.html"
+ampWebUrl: "https://amp.sacbee.com/news/business/article253303958.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article253303958.html"
 type: article
-quality: 45
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Bellingham Herald
-  domain: bellinghamherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -53,18 +53,18 @@ related:
         width: 796
         height: 545
         isCached: true
-  - title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
-    excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."
-    publishedDateTime: 2021-08-08T23:12:00Z
-    webUrl: "https://www.sacbee.com/news/business/article253303958.html"
-    ampWebUrl: "https://amp.sacbee.com/news/business/article253303958.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article253303958.html"
+  - title: "‘A gargantuan task’: How will Biden satisfy both progressives, moderates on infrastructure?"
+    excerpt: "President Joe Biden is caught between retaining support of centrist Democrats, Republicans for an infrastructure deal while satisfying his party’s liberal faction."
+    publishedDateTime: 2021-08-05T17:39:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/article253279158.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/article253279158.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/article253279158.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 55
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
+    quality: 45
 
-secured: "IJCBjSa9hhvJCQpU4nuuPRzFr2kmO+nOTRyIYgUQZOGrQYr9XGabeoNdRH4/fgtQFsKRb7OCWQdPB3G/8HvkaQIgKmcSUQmuBHosNNu/4qfNBNvO0DKS3UDAS3NSxxB0lll+BO9nkSaM70JAEIaFg8f6EWsuw6tAscdj69IQzu+qn0I+hr6HVeIFjur0lrarIlB2Teph/HJV2ZDX91Aa129oBnHLJ6HjZOSVgnOWxWy52qV4YtpuYLqFZE2AY8tr54hdkGhnDwBXxo6AtMa5SxrlaQvDWKDV5YsKjzUSlG6pYVFmCCLE/k90TakAXJQUH4ivTIt+gIQJd/q4hdWmEVbUkAxDlebxbq8iCL/nqOH6d9pm8PLHVTfAeWl++VMA20pXzeNbyU7oox2iaZhw4U5e6u7WiAqWfTDGxOnnyL6yJsip7KV2GYBar5/X0eoTfqCta1gQ9Fq5cYtr8BD0t3JYq859nH0OtnPFzU0tn37xWww2xcx0AH7jHdi28KfuSPMcQZeAILM6TKhK3rDeRg==;q8/+CJdR39Yg99hrOxTInw=="
+secured: "HiT2c4+mpm007FKswoD0w8M/I9PQDjj+L+EzC8gWpOc/64lA8VTUapImoZoTYCktyeV1MS6tYL60GDTBjI2XOhQHQvN176AMrkZntQOquwnzTGO1GCW9seR/jGnastQ3nb94+rbRe7T48eyvhwPftlu4+qI67zoIb/MI+1qUV4pvzIK0kQ3V63De7iWGYFeRCZAgzf2eTh3TX4u69Wz+R3YyKzeJjrmMPnoeo8kw030fQFLDGrd6zMktNJbTSALcriwa8z78pkQDXkMXuSoTepBvYdGLVq6i2NKqtawmBzYykdp9xKH4SlpdYMDdp3f1T7I5AVnXssBL4/FBMgnAJlUFJTKKYcEZzJskJHldKGvEuh9FYtXeKOc5+xhEEO728c/XHuRsAHcYc1vDCFWHqFn8OFwO/3BtA4acy+qTJyy2PNxfy/LHUhxo0C7+NZ+qiMzH63fm6eGsWwewkmMgrOwADIGuPnFZVQBIkUjL8FxOqv/wHG/WD/Y3In+S69Bz+OJpJpWEUCuc0rVcNSp31w==;ZIUbsWmlul5Pw3hqKUJaxw=="
 ---
 

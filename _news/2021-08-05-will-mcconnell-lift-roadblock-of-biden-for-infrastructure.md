@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
+    excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."
+    publishedDateTime: 2021-08-08T23:12:00Z
+    webUrl: "https://www.sacbee.com/news/business/article253303958.html"
+    ampWebUrl: "https://amp.sacbee.com/news/business/article253303958.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article253303958.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 55
   - title: "‘A gargantuan task’: How will Biden satisfy both progressives, moderates on infrastructure?"
     excerpt: "President Joe Biden is caught between retaining support of centrist Democrats, Republicans for an infrastructure deal while satisfying his party’s liberal faction."
     publishedDateTime: 2021-08-05T17:39:00Z

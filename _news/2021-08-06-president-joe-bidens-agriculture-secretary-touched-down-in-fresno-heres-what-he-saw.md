@@ -134,6 +134,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Student debt | Borrowers relieved as President Biden extends loan repayments"
+    excerpt: "Atlanta filmmaker, Jeremy Thao, said the pause on student loans repayment helped him during the pandemic when he lost film work."
+    publishedDateTime: 2021-08-08T23:25:00Z
+    webUrl: "https://www.11alive.com/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 72
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/a0f1d29b-515a-4486-ad7b-d43953d35f49/a0f1d29b-515a-4486-ad7b-d43953d35f49_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Biden touts 'Buy American' to boost US businesses"
     excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
     publishedDateTime: 2021-07-28T21:45:00Z
@@ -161,6 +177,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
         width: 650
         height: 975
+        isCached: true
+  - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
+    excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
+    publishedDateTime: 2021-08-08T23:39:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1025943104/president-biden-tells-u-s-olympic-squad-it-restored-the-soul-of-america"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 53
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
+        width: 948
+        height: 711
         isCached: true
   - title: "Cuomo Harassment Allegations: Joe Biden Calls On New York Governor To Resign"
     excerpt: "President Joe Biden responds to new report that found that New York Gov. Andrew Cuomo sexually harassed multiple current and former female employees."

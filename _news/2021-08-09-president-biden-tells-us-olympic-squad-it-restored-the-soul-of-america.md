@@ -1,27 +1,27 @@
 ---
 category: news
-title: "US President Joe Biden meets Latino community leaders"
-excerpt: "US President Joe Biden meets with Latino community leaders to discuss his economic agenda, immigration reform and the need to protect the right to vote in the State Dining Room of the White House in Washington,"
-publishedDateTime: 2021-08-03T18:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9daa8c8e52c6061fd4c202bc0d671d07/US-President-Joe-Biden-meets-Latino-community-leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9daa8c8e52c6061fd4c202bc0d671d07/US-President-Joe-Biden-meets-Latino-community-leaders/"
+title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
+excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
+publishedDateTime: 2021-08-08T23:39:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/1025943104/president-biden-tells-u-s-olympic-squad-it-restored-the-soul-of-america"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/1025943104/president-biden-tells-u-s-olympic-squad-it-restored-the-soul-of-america"
 type: article
-quality: 55
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
-    width: 650
-    height: 975
+  - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
+    width: 948
+    height: 711
     isCached: true
 
 related:
@@ -178,19 +178,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
-    excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
-    publishedDateTime: 2021-08-08T23:39:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1025943104/president-biden-tells-u-s-olympic-squad-it-restored-the-soul-of-america"
+  - title: "US President Joe Biden meets Latino community leaders"
+    excerpt: "US President Joe Biden meets with Latino community leaders to discuss his economic agenda, immigration reform and the need to protect the right to vote in the State Dining Room of the White House in Washington,"
+    publishedDateTime: 2021-08-03T18:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9daa8c8e52c6061fd4c202bc0d671d07/US-President-Joe-Biden-meets-Latino-community-leaders/"
     type: article
     provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
-    quality: 53
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
-        width: 948
-        height: 711
+      - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
+        width: 650
+        height: 975
         isCached: true
   - title: "Cuomo Harassment Allegations: Joe Biden Calls On New York Governor To Resign"
     excerpt: "President Joe Biden responds to new report that found that New York Gov. Andrew Cuomo sexually harassed multiple current and former female employees."
@@ -221,6 +221,6 @@ related:
         height: 815
         isCached: true
 
-secured: "myEdaFfA7US+0U9FBKAIw6EKSbs7HuZq9UcyoaDYUURUVGaCn9Ts6YH9mRy+bdsGjNqs+odfi0JPUogkXJdx9gdZMR5sW6G6bUamu9PDhaDt/2jhTwpIFZaUZmceK9pvKzZUFxKNiY/gi6x/ZsoHZyW6npBJ5Li6Bq/8xFrFyyHlG6nzjlAJhRW9x3QBriKiXjg0eFmLfVGyTeKOnnkrp4ylt1olwbbqeDvpmDe1nAZWlua7UhCWeTAHQCJMyhMPWqEQ4F3jxIfKPpNWEnjDFBMnYjS4TWVgqYzDQ7KRkWH36R84xFfUfph90oscAjJg/X9AHYvm+2LzuBu8FuF4LAb6iX/K9c5dkLiBeY0HY18=;aDGQ1gf9dM01HVZovJIvrw=="
+secured: "yzB+eLfottzLfaufbyHBPl1RsNZAo04VovbCHBGBLj8RoUrK7Nv07qznB6dBjoTntjeTwGCIHvSA/f+i0xXjpy4r7klN7ddhTuLl9fGSwE4DUUQGgR/+vO+UAHRh9qIdfz4Au8ONiKMHaat2ZESb083RWtHtpJDSNDejRiJfiGhMTS4rcOFBajvr/UFV8gcObqSH8rm3LEKn23+7tbYyLDxhwzzPRzllBVzRLYbpouHB7nnD5eZKWKxAhHn0EqZmATpt0l+76HF1XyaFh6QoNLxm6/TFyLD55tp5zoPDeJp4g2MvMYaaNSkf/yXzzNHNUjfAO89c1LYH+oS9l68mVK/xv4msPoJSe2KMGYQg6R8=;UAq5i+NqfNzbnFalT3tlhg=="
 ---
 

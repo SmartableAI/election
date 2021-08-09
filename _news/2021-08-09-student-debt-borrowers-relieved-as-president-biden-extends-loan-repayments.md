@@ -1,27 +1,29 @@
 ---
 category: news
-title: "US President Joe Biden meets Latino community leaders"
-excerpt: "US President Joe Biden meets with Latino community leaders to discuss his economic agenda, immigration reform and the need to protect the right to vote in the State Dining Room of the White House in Washington,"
-publishedDateTime: 2021-08-03T18:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9daa8c8e52c6061fd4c202bc0d671d07/US-President-Joe-Biden-meets-Latino-community-leaders/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9daa8c8e52c6061fd4c202bc0d671d07/US-President-Joe-Biden-meets-Latino-community-leaders/"
+title: "Student debt | Borrowers relieved as President Biden extends loan repayments"
+excerpt: "Atlanta filmmaker, Jeremy Thao, said the pause on student loans repayment helped him during the pandemic when he lost film work."
+publishedDateTime: 2021-08-08T23:25:00Z
+originalUrl: "https://www.11alive.com/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+webUrl: "https://www.11alive.com/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+ampWebUrl: "https://www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
 type: article
-quality: 55
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
-    width: 650
-    height: 975
+  - url: "https://media.11alive.com/assets/WXIA/images/a0f1d29b-515a-4486-ad7b-d43953d35f49/a0f1d29b-515a-4486-ad7b-d43953d35f49_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -132,22 +134,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Student debt | Borrowers relieved as President Biden extends loan repayments"
-    excerpt: "Atlanta filmmaker, Jeremy Thao, said the pause on student loans repayment helped him during the pandemic when he lost film work."
-    publishedDateTime: 2021-08-08T23:25:00Z
-    webUrl: "https://www.11alive.com/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 72
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/a0f1d29b-515a-4486-ad7b-d43953d35f49/a0f1d29b-515a-4486-ad7b-d43953d35f49_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
     excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
     publishedDateTime: 2021-08-05T21:34:00Z
@@ -177,6 +163,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b8872a3d-8c49-4786-9a9e-6a13b0d00e90_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "US President Joe Biden meets Latino community leaders"
+    excerpt: "US President Joe Biden meets with Latino community leaders to discuss his economic agenda, immigration reform and the need to protect the right to vote in the State Dining Room of the White House in Washington,"
+    publishedDateTime: 2021-08-03T18:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9daa8c8e52c6061fd4c202bc0d671d07/US-President-Joe-Biden-meets-Latino-community-leaders/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
+        width: 650
+        height: 975
         isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
@@ -221,6 +221,6 @@ related:
         height: 815
         isCached: true
 
-secured: "myEdaFfA7US+0U9FBKAIw6EKSbs7HuZq9UcyoaDYUURUVGaCn9Ts6YH9mRy+bdsGjNqs+odfi0JPUogkXJdx9gdZMR5sW6G6bUamu9PDhaDt/2jhTwpIFZaUZmceK9pvKzZUFxKNiY/gi6x/ZsoHZyW6npBJ5Li6Bq/8xFrFyyHlG6nzjlAJhRW9x3QBriKiXjg0eFmLfVGyTeKOnnkrp4ylt1olwbbqeDvpmDe1nAZWlua7UhCWeTAHQCJMyhMPWqEQ4F3jxIfKPpNWEnjDFBMnYjS4TWVgqYzDQ7KRkWH36R84xFfUfph90oscAjJg/X9AHYvm+2LzuBu8FuF4LAb6iX/K9c5dkLiBeY0HY18=;aDGQ1gf9dM01HVZovJIvrw=="
+secured: "bOw1zQPfP72HFjbyh/8LeT6YOvtO/JYKNrSqj33kKzPei0PgAZ1+H/pRqa9r6kNbWd9tW1aJEfGBoTb3DJI8nBssr8cEYR6F+xvQVaLcJTMU+LBrvEQ15sH4Z5jwblmI/ei1dvb2cH1LnA8zLtoF6IdAlwOLN3mqf7gMZ+fv5fX0eARwr7KqvL4FBHhols+hoy6qNvv1OS16IaAxuDJeMlEGbsimRk7aEdSAkqf/YrFGSB6qOmHD/mlIywv44C6S3NohTZocIC0yYeaTMMKVhjOItPg6bYzcemciaiJw6/N+Fn+klU6pKqerS9UdmnkNaTNNfhInFFCGw+UwZmsgRqd0PG9UjP6ARt1rbL08O34=;IgJ29getTbvu3PZYh4Ndww=="
 ---
 
