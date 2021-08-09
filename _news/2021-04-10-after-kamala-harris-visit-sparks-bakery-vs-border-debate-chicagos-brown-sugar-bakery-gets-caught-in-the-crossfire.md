@@ -325,6 +325,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Mexico President to Discuss Border Reopening With U.S.'s Harris"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador said on Monday he will speak with U.S. Vice President Kamala Harris later in the day about fully re-opening the U.S.-Mexico border. The two will also speak on migration and vaccines against the coronavirus,"
+    publishedDateTime: 2021-08-09T14:43:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-09/mexico-president-to-discuss-border-reopening-with-uss-harris"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-09/mexico-president-to-discuss-border-reopening-with-uss-harris?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-09/mexico-president-to-discuss-border-reopening-with-uss-harris?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z

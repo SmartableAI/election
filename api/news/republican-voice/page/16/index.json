@@ -2,6 +2,62 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-04-30-biden-claims-weve-now-gotten-control-of-migrant-surge-at-southern-border-amid-criticism.md",
+      "title": "Biden claims 'we've now gotten control' of migrant surge at southern border, amid criticism",
+      "excerpt": "President Biden, in an interview this week, claimed that his administration has \"now gotten control\" of the high number of migrants surging at the southern border -- while again blaming the Trump administration for the crisis that overwhelmed officials in recent months.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LTluZE7NV9I/biden-claims-control-migrant-surge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LTluZE7NV9I/biden-claims-control-migrant-surge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e67ffbe5-2bb3-479b-9dc1-24505bb3bacf/5c55c28e-ad94-4fb5-8434-0f3fa509ec88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-claims-control-migrant-surge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claims-control-migrant-surge.amp",
+      "publishedDateTime": "2021-04-30T08:31:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-biden-says-its-tough-call-to-mandate-covid-19-vaccine-for-military.md",
       "title": "Biden says it's 'tough call' to mandate COVID-19 vaccine for military",
       "excerpt": "President Biden has not ruled out requiring military personnel to get a COVID-19 vaccine, saying it will be a \"tough call.\"",
@@ -1587,62 +1643,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
       "publishedDateTime": "2021-04-21T16:26:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-dojs-police-reform-agenda-dangerous-law-enforcement-advocates.md",
-      "title": "Biden DOJ's police reform agenda 'dangerous': law enforcement advocates",
-      "excerpt": "The Biden Justice Department's decision to return to the Obama administration’s heavy use of consent decrees is being criticized by law enforcement officials and advocates who fear it will handicap police and erode community-police relations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kA3KGQN1WAM/biden-police-reform-dangerous-law-enforcement-advocates-say",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kA3KGQN1WAM/biden-police-reform-dangerous-law-enforcement-advocates-say",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7a99bcd-a967-4c58-b1a9-9628b69255c9/e340ddad-00f7-4953-842b-bef590b03c64/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-police-reform-dangerous-law-enforcement-advocates-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-reform-dangerous-law-enforcement-advocates-say.amp",
-      "publishedDateTime": "2021-04-21T12:52:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

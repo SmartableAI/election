@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-05-biden-touts-clean-car-drive-as-part-of-a-blue-collar-blueprint-for-economy.md",
+      "title": "Biden touts clean car drive as part of a ‘blue-collar blueprint’ for economy",
+      "excerpt": "President Biden touted his latest executive order in a Thursday press event, saying the push for a clean car overhaul follows the “blue-collar blueprint” of his infrastructure plan.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n1F-QDK_pMY/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n1F-QDK_pMY/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf423bad-60a1-4772-8c27-372de6cf790f/ebc7a96f-8818-4f28-8b9a-9cde907d81ba/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan.amp",
+      "publishedDateTime": "2021-08-05T13:59:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-biden-grants-safe-haven-to-hongkongers-in-us-amid-china-crackdown.md",
       "title": "Biden grants ‘safe haven’ to Hongkongers in US amid China crackdown",
       "excerpt": "President signs memo allowing people from Hong Kong currently residing in US to live and work in country for 18 months",
@@ -1177,7 +1233,7 @@
       "originalUrl": "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1560,
+      "heat": 1580,
       "tags": null,
       "images": [
         {
@@ -1250,62 +1306,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/will-cuomo-resign-what-matters/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/will-cuomo-resign-what-matters/index.html",
       "publishedDateTime": "2021-08-03T18:52:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-mike-carey-endorsed-by-trump-will-win-ohio-gop-special-primary-cnn-projects.md",
-      "title": "Mike Carey, endorsed by Trump, will win Ohio GOP special primary, CNN projects",
-      "excerpt": "Mike Carey, a coal lobbyist who was endorsed by former President Donald Trump, will win the Republican special primary in Ohio's 15th Congressional District, CNN projects.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210803152112-02-mike-carey-0626-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html",
-      "publishedDateTime": "2021-08-03T18:45:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-a
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html?outputType=amp"
 type: article
 quality: 75
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 6720
     height: 4480
     isCached: true
+
+related:
+  - title: "What has Joe Biden done for us lately? (Letters)"
+    excerpt: "Remember moderate Democrat Joe Biden’s lackluster 2020 Campaign, which willingly reduced public appearances and probing press questions, citing COVID concerns? With little opportunity to assess aging Biden,"
+    publishedDateTime: 2021-08-09T15:30:00Z
+    webUrl: "https://www.masslive.com/opinion/2021/08/what-has-joe-biden-done-for-us-lately-letters.html"
+    ampWebUrl: "https://www.masslive.com/opinion/2021/08/what-has-joe-biden-done-for-us-lately-letters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/08/what-has-joe-biden-done-for-us-lately-letters.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
+        width: 6720
+        height: 4480
+        isCached: true
 
 secured: "mz3e8h4laA7UFCWpYFXmC58t4w/bJu+q3Nr8OFv17eLUhgxV7aWzziVQT7VIZ1mPgx8CajcqGQz4M3hDRdnxZImo4oksvrry2khRN71KgF6KdQLx27ciAp4FOvKTeGtMWzsE9iXKE6dXf5oT01YYSJspX1VPwzwJVQGY1fsCuF+q6i+N0lhO+ueF6Y/oDT4PXsbeOMVxOeFqm/2xSPrYugNjmgNyAj0pEX8J0YZuvAtPSH/H9o4P6u4KHpTmM72w0nBx56AHl5BA6yhXW9F5J0ZXRMstUbWgXIY4/RD4VHcJ/fJaqMMdXh+8v2FqLZoygndZhD6ICt+oPzBLqaFviOw3AKuESij2L0mbebRtwvUMfHzj46LUxaSJyvc/mBAoENbiXCcjzayOFzH0K/6K1Salbld0Hazhp33OqPwMvboiz4coFSqbNBT23QlwDXAzHxKXFmCSxPFpvoQ7IIjVoCqP2IUNCZ86bmwlGUKVavFmRxZ8wz9STT0xvRHcgjUPszg9NAQIlsngA/ryIex8kg==;/cfEnGPx5aOe7rKYZRayCw=="
 ---

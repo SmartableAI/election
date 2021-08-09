@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
+    publishedDateTime: 2021-08-09T15:38:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/09/trump-told-cali-rake-leaves-whats-bidens-plan-wildfires/5538438001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5538438001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5538438001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Immigrant detentions soar despite Joe Biden’s campaign promises"
     excerpt: "Alexander Martinez says he fled from homophobia, government persecution and the notorious MS-13 gang in El Salvador only to run into abuse and harassment in America’s immigration detention"
     publishedDateTime: 2021-08-06T04:00:00Z

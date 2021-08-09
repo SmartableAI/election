@@ -2,6 +2,54 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-24-partner-of-capitol-cop-who-died-calls-trump-mastermind-of-jan-6-riot.md",
+      "title": "Partner of Capitol cop who died calls Trump ‘mastermind’ of Jan. 6 riot",
+      "excerpt": "Sandra Garza, who spent 11 years with Sicknick, wrote in an essay published on CNN that her sadness “turned to rage” as she watched “Republican members of Congress lie on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
+      "originalUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/sandra-garza-24.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
+      "publishedDateTime": "2021-06-23T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-trump-rule-tightening-eb-5-visa-program-struck-down-by-federal-judge.md",
       "title": "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge",
       "excerpt": "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued.",
@@ -1570,63 +1618,6 @@
       "ampWebUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
       "publishedDateTime": "2021-06-17T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-trump-on-covid-origins-i-believe-it-was-a-terrible-accident-but-i-believe-it-came-from-the-lab.md",
-      "title": "Trump on COVID origins: 'I believe it was a terrible accident, but I believe it came from the lab'",
-      "excerpt": "Former President Donald Trump said Wednesday that he believes the coronavirus pandemic is the result of a \"terrible accident\" during an exclusive interview on \"Hannity.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-covid-wuhan-lab-terrible-accident",
-      "originalUrl": "https://www.foxnews.com/media/trump-covid-wuhan-lab-terrible-accident",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/304f1f6c-a9f9-4654-9320-4de5e9f88ab1/bc19c429-e77d-4c81-97cf-e885b590a2a1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-covid-wuhan-lab-terrible-accident.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-covid-wuhan-lab-terrible-accident.amp",
-      "publishedDateTime": "2021-06-16T20:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

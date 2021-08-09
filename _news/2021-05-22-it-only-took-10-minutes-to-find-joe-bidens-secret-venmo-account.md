@@ -208,6 +208,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's ambitious electric vehicles agenda: Here's what it would take to make it happen"
+    excerpt: "President Joe Biden has set out an ambitious agenda for widespread use of clean cars. It faces political and industry headwinds."
+    publishedDateTime: 2021-08-09T14:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/09/electric-vehicle-subsidies-set-to-be-pushed-through-by-democrats/5536978001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 77
   - title: "Biden's ambitious clean cars agenda: Here's what it would take to make it happen"
     excerpt: "President Joe Biden has set out an ambitious agenda for widespread use of clean cars: Here's what it would take to make it happen"
     publishedDateTime: 2021-08-09T11:10:00Z

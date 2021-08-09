@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden issues executive order targeting Belarusian regime"
+    excerpt: "President Joe Biden issued a sweeping executive order Monday to target those in the Belarusian regime involved in the repression of human rights and democracy in the former Soviet state.\n    \n"
+    publishedDateTime: 2021-08-09T15:32:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ymysv6Ie-JE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/belarus-executive-order-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/belarus-executive-order-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728140245-biden-tsikhanouskaya-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden extends temporary safe haven to Hong Kong residents in US amid China crackdown "
     excerpt: "President Joe Biden on Thursday signed a memorandum extending temporary safe haven to certain Hong Kong residents in the US amid ongoing repression and undermining of democracy by China.\n    \n"
     publishedDateTime: 2021-08-05T14:44:34Z

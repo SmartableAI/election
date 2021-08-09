@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-n
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -196,6 +196,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's ambitious electric vehicles agenda: Here's what it would take to make it happen"
+    excerpt: "President Joe Biden has set out an ambitious agenda for widespread use of clean cars. It faces political and industry headwinds."
+    publishedDateTime: 2021-08-09T14:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/09/electric-vehicle-subsidies-set-to-be-pushed-through-by-democrats/5536978001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 77
   - title: "It Only Took 10 Minutes to Find Joe Biden's Secret Venmo Account"
     excerpt: "Buzzfeed reporter Ryan Mac explains how he and colleagues tracked down a Venmo account belonging to President Joe Biden, using a feature that connects your account to your contacts like family and friends."
     publishedDateTime: 2021-05-21T23:14:00Z

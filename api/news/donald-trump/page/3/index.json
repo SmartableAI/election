@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-23-democrats-outraged-after-the-fbi-said-it-got-more-than-4500-tips-about-brett-kavanaugh-and-referred-the-relevant-ones-to-the-trump-white.md",
+      "title": "Democrats outraged after the FBI said it got more than 4,500 tips about Brett Kavanaugh — and referred the 'relevant' ones to the Trump White House",
+      "excerpt": "When Kavanaugh was a Supreme Court nominee, the FBI conducted just 10 interviews after receiving thousands of tips, the agency said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7",
+      "originalUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60fa223cfc253600181ffb47?width=1200&format=jpeg",
+          "width": 1034,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7?amp",
+      "publishedDateTime": "2021-07-22T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-pelosi-weighs-adding-kinzinger-a-second-anti-trump-republican-to-the-jan-6-inquiry.md",
       "title": "Pelosi weighs adding Kinzinger, a second anti-Trump Republican, to the Jan. 6 inquiry.",
       "excerpt": "The speaker has already given one of the eight Democratic seats on the panel to Representative Liz Cheney, Republican of Wyoming.",
@@ -1487,54 +1539,6 @@
       "provider": {
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-kevin-mccarthy-set-to-meet-with-trump-at-bedminster-club.md",
-      "title": "Kevin McCarthy set to meet with Trump at Bedminster club",
-      "excerpt": "House Minority Leader Kevin McCarthy is slated to meet with former President Donald Trump in Bedminster, N.J. on Thursday, Trump said in a statement ahead of the gathering.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/",
-      "originalUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/mccarthy-trump-46.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/",
-      "publishedDateTime": "2021-07-15T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

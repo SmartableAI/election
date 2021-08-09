@@ -309,6 +309,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mexico President to Discuss Border Reopening With U.S.'s Harris"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador said on Monday he will speak with U.S. Vice President Kamala Harris later in the day about fully re-opening the U.S.-Mexico border. The two will also speak on migration and vaccines against the coronavirus,"
+    publishedDateTime: 2021-08-09T14:43:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-08-09/mexico-president-to-discuss-border-reopening-with-uss-harris"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-08-09/mexico-president-to-discuss-border-reopening-with-uss-harris?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-08-09/mexico-president-to-discuss-border-reopening-with-uss-harris?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T20:49:00Z

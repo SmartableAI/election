@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-09-melania-trump-blasts-historian-after-misleading-rose-garden-criticism.md",
+      "title": "Melania Trump blasts historian after ‘misleading’ Rose Garden criticism",
+      "excerpt": "Former First Lady Melania Trump is firing back after NBC resident historian Michael Beschloss criticized her renovation of the Rose Garden.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/",
+      "originalUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/melania-trump-rose-garden-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/amp/",
+      "publishedDateTime": "2021-08-09T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-trump-called-sen-bill-hagerty-prior-to-request-for-more-debate-on-infrastructure-bill.md",
       "title": "Trump Called Sen. Bill Hagerty Prior to Request for More Debate on Infrastructure Bill",
       "excerpt": "\"I think he's doing Trump's bidding. I don't think there's any doubt about it,\" said Senator Jon Tester of Montana.",
@@ -538,7 +586,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary",
       "featuredContent": null,
       "highlight": null,
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -706,7 +754,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1247,62 +1295,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.amp",
       "publishedDateTime": "2021-08-05T15:09:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-biden-touts-clean-car-drive-as-part-of-a-blue-collar-blueprint-for-economy.md",
-      "title": "Biden touts clean car drive as part of a ‘blue-collar blueprint’ for economy",
-      "excerpt": "President Biden touted his latest executive order in a Thursday press event, saying the push for a clean car overhaul follows the “blue-collar blueprint” of his infrastructure plan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n1F-QDK_pMY/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n1F-QDK_pMY/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf423bad-60a1-4772-8c27-372de6cf790f/ebc7a96f-8818-4f28-8b9a-9cde907d81ba/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan.amp",
-      "publishedDateTime": "2021-08-05T13:59:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

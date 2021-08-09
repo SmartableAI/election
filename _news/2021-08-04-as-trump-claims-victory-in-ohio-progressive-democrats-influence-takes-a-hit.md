@@ -527,6 +527,22 @@ related:
         width: 3600
         height: 2400
         isCached: true
+  - title: "Trump DOJ official Jeffrey Clark pushed acting AG to interfere in Georgia election: report"
+    excerpt: "A proposed letter from DOJ's Jeffrey Clark to Georgia officials calls for a probe into alleged voter fraud. ABC News first reported on the draft."
+    publishedDateTime: 2021-08-09T14:13:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2021/08/08/trump-doj-official-urged-acting-ag-pressure-georgia-election/5531371001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5531371001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5531371001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/21/USAT/e7258ef3-99e5-4513-87fd-73d0a5ecb6b3-AP_Trump_Politics.jpg?auto=webp&crop=3523,1982,x0,y179&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Ohio Republicans aim to rename state park after Donald Trump"
     excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
     publishedDateTime: 2021-04-21T20:54:00Z

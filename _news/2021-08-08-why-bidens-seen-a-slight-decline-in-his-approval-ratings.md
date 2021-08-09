@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden issues executive order targeting Belarusian regime"
+    excerpt: "President Joe Biden issued a sweeping executive order Monday to target those in the Belarusian regime involved in the repression of human rights and democracy in the former Soviet state.\n    \n"
+    publishedDateTime: 2021-08-09T15:32:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ymysv6Ie-JE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/belarus-executive-order-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/belarus-executive-order-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728140245-biden-tsikhanouskaya-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden touts LGBTQ diversity in announcing sixth round of judicial nominees"
     excerpt: "President Joe Biden on Thursday announced four judicial nominees, including two barrier-breaking nominations of LGBTQ judges, marking his sixth round of judicial nominees since taking office as his administration seeks to maintain a rapid pace of nominations and confirmations.\n    \n"
     publishedDateTime: 2021-08-05T14:37:53Z

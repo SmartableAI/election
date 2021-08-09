@@ -45,15 +45,20 @@ related:
         isCached: true
   - title: "Why Andrew Cuomo's job is more vulnerable to scandal than Donald Trump's was"
     excerpt: "Andrew Cuomo. Cuomo went from being talked about as a potential presidential candidate in the spring of 2020 – thanks in large part to his handling of the COVID-19 pandemic in New York state – to media ridicule and possible state senate impeachment now,"
-    publishedDateTime: 2021-08-07T01:05:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+    publishedDateTime: 2021-08-07T02:05:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 102
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 72
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "Iva1Q1MsIR92dv7mhFSm1ddBgEkTGUR/PnoOJiAfXJLP7xSthGmYKpS8o/GIVAidh3nCTjcwumC5Q8hdEgMJwLfAB5oe8hRBAIlUrX9gdhDn3KLiYNY/8SzDDecCj8XkvhrqtslzK65pic3rex8O327Z55J7C6PTdvZGHuOhKS9ZXwQ3QA/SLqdjpUux86aqKEfHJPXxBHJ57G47g+v9XWx0Xy8+7uo2eWfEKW1kowAcBPoxdsX/NuQegb5HO0TeQTVSHhTlM5CjcDPQu0LCm2So/iOwMwKLB/05vNwywPS/6aoho9LvhdS/Y4ZAkDB61tUjnoCKvZteunzM0Z4G2UQsRDR+ksfn/PsltfyuUMA=;PKyZycVgbvKb+h47yWcSKQ=="
 ---
