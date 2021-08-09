@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
-    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-    publishedDateTime: 2021-08-06T07:01:00Z
-    webUrl: "https://apnews.com/article/lifestyle-technology-joe-biden-business-environment-and-nature-f696bf5096a1dafb3fdd834ecc834660"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/f952e3a282314d48badff3aa29424c7f/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Biden Says US To See New Covid Restrictions 'In All Probability'"
     excerpt: "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases."
     publishedDateTime: 2021-07-31T03:58:00Z
@@ -114,6 +100,17 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
+  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
+    publishedDateTime: 2021-08-06T06:03:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
 
 secured: "3DZhVSHPXIOU0eOxBMKycPJX7FAO9cQ6iWgrl5zD/ex+uOS7pcCvGmwOiiW5YrNN0g4Jv+dSxoPX22j/x6HW7PRncxVzIBSQhCycY1qXOJvBAyFXszNK0ZiCeDxf8pfG59o2Bb7YeDQDDWX8R5+wC4IZ0/yLrlTNmcpkZKnwPyrvJvWISGtOYr3T5w8sI1qcObnjV6kqquXM/QZpKo/VSI6/dHa1/4YO/TCFWzAYiaH4RdItorxED+3Q2FJHG1HAf4Ezh3/KR8u6YIoukXUucrIToV/yFaJypXSY/6KKjjm0VKZq4wmni1f9Zh7B0xIN9dC55Ikeg/y32gxwonDapLCYrQ7Py93ibKUUwJ8+droj0vK2UqxWbtrfUEpqjEoPaEkTRaDkKAOzXPFo3cel3P31w6ypWrJ71I5TQDEbGITU1MyEqCF2+5cxaORs3Nrmy1F/y5/StppiXEjFfz1DhJUWTRQUS9+4XQNm0s0vgvBwr5HH2d1CuDGQjISev4+0lxL1Lp5NI7j7qzCrr2RnYw==;Gf2GAv4s79+qtJVwB5yoNw=="
 ---

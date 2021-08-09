@@ -72,16 +72,16 @@ related:
         height: 799
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Clean Energy"
-    excerpt: "President Joe Biden drives a Jeep Wrangler Unlimited 4xe Rubicon around the White House grounds during an event on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday,"
+    excerpt: "President Joe Biden signs an executive order on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
     publishedDateTime: 2021-08-05T21:31:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9c578ff9d779a7b8233785c560ace8b8/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5342ba33f28bc5377a5fd5ad40c14d1f/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9c578ff9d779a7b8233785c560ace8b8/WHITE-HOUSEBIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/5342ba33f28bc5377a5fd5ad40c14d1f/WHITE-HOUSEBIDEN.jpg"
         width: 650
         height: 433
         isCached: true
