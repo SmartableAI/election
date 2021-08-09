@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Democrats applaud Biden's unconstitutional act"
-excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden's Centers for Disease Control and Prevention to extend an eviction moratorium sure to be struck down in the courts,"
-publishedDateTime: 2021-08-09T05:00:00Z
-originalUrl: "https://www.semissourian.com/story/2899199.html"
-webUrl: "https://www.semissourian.com/story/2899199.html"
+title: "Democrats applaud Biden’s unconstitutional act"
+excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden’s CDC to extend an eviction moratorium sure to be"
+publishedDateTime: 2021-08-09T13:32:00Z
+originalUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
+webUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Southeast Missourian
-  domain: semissourian.com
+  name: Williamsport Sun-Gazette
+  domain: sungazette.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
-    width: 1000
-    height: 523
+  - url: "http://d14e0irai0gcaa.cloudfront.net/www.sungazette.com/images/2016/10/17135124/fblike1.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -86,16 +86,16 @@ related:
         height: 683
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Clean Energy"
-    excerpt: "President Joe Biden greets Representative Debbie Dingell (D-MI) after delivering remarks on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
+    excerpt: "President Joe Biden drives a Jeep Wrangler Unlimited 4xe Rubicon around the White House grounds during an event on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday,"
     publishedDateTime: 2021-08-05T21:31:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9c578ff9d779a7b8233785c560ace8b8/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/3804ea110e6521f07da5b34e5b241dda/WHITE-HOUSEBIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9c578ff9d779a7b8233785c560ace8b8/WHITE-HOUSEBIDEN.jpg"
         width: 650
         height: 433
         isCached: true
@@ -109,6 +109,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6PCnSj5yTqq3xF6V3ek0GubNskRyA1W0+k9meSK4sXHbS3NVk5kmB3Lohg2qubwYQcW/bTqxaEA1HHvVjLxexwjZ6pIEJ1mfjnhp07osB7yx4UTzPPlv1pS0AnCh5ytFN6EGT1IoI5g6cL3cNLi2Ae107UtAv3Il8gNcPUoKy0FToiCHdAaxdDA2b3S11KStQVuYnmKmnAPhjbl+eC6qGzfwEfs4tl2f401cy4DE7wfCWCzymYd6efu/QauZmCkm0hrzyQHqMvzsyQj8W0SKsvnPHWutj+uXnnXLAG4UAmFgEjhvoghlV0jLqMZwECcdqUpthKh23roiJxc3sYGRWUQb5gQbBVLdDs5FoxGh20A=;jNRop6bRu8/CuajHqud34g=="
+secured: "yvKT28iUE4GzCdJ7OPnv+5J2bQ4oGqwHUMAXk+2ro1jsAVJMDYwoOpchf8xuYbICqOTeDvljVCcYoqKXwICyJWgMYW5lATC6Crmc7yKyrkWBYCtP82BrHJLFcCYrPUyDMnjKI0/pPIVlBCNNwm06zAWmeZfy/9pE2Kvnltn+RzYioz6BQtvBZnjFCYI39YiTV9i567MUtKHPo8KFobGO2ISagx8eubFI2VwhuHC5dxguUvQilzZTdhDQiw19BKwsSEj0OhqSiADUllmAJ6S1qKiyGZRiSx8z4Xwa1VVGQLzfuy/IrvGl2PGnPCmfrGXY8QzvXK6Gfcnvb/27GtW97iIRbnNvXQbV6/oCjINq8Ms=;ABXMEskkGaAaKfYXmBzWTQ=="
 ---
 

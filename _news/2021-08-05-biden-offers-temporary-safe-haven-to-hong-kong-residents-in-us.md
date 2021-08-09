@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Final warning': Lawmakers, Biden administration sound alarm over UN climate report and urge swift action"
+    excerpt: "Lawmakers and top climate officials in President Joe Biden's administration sounded the alarm on Monday in response to a new report from the United Nations' Intergovernmental Panel on Climate Change, urging nations to swiftly limit global warming to 1.5 degrees Celsius.\n    \n"
+    publishedDateTime: 2021-08-09T12:57:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zuzO88Hxck0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/un-climate-report-us-lawmakers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/un-climate-report-us-lawmakers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210809083701-un-climate-report-us-lawmakers-exxonmobil-texas-0728-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Down the drain’: Millions face eviction after Biden lets protections expire"
     excerpt: "The federal eviction moratorium in place since September is set to expire Saturday, after the Biden administration refused to extend it and Democrats in Congress couldn't muster the votes to intervene."
     publishedDateTime: 2021-07-31T11:00:00Z

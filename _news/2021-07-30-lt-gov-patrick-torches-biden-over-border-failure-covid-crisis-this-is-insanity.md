@@ -222,6 +222,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Oh, Joe: Biden mistakenly says 350M Americans vaccinated"
+    excerpt: "Biden, 78, is often accused of being in mental decline and then-President Donald Trump made his cognitive fitness a central campaign issue last year."
+    publishedDateTime: 2021-08-06T18:56:00Z
+    webUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/"
+    ampWebUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-vaccine-600.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Gutfeld: Biden struck 'right tone' in COVID speech, but returned to 'us versus them political bifurcation'"
     excerpt: "The panel on \"The Five\" reacted Thursday to President Biden's White House address on the federal government's COVID-19 standards and his personal reservations about Americans who remain unvaccinated."
     publishedDateTime: 2021-07-29T22:37:00Z

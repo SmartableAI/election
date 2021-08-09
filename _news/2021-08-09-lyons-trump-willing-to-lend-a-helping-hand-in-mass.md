@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Senior living exec ordered to pay back defrauded investors $79 million after Donald Trump commutes prison sentence"
-    excerpt: "Former Sunwest Management CEO Jon Harder dodged nine years of prison time when then-President Donald Trump commuted his sentence in January."
-    publishedDateTime: 2021-08-03T05:16:00Z
-    webUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html"
-    ampWebUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 53
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5MAZLYNOC5BNNJ7ETFZ7W3BVQI.jpg"
-        width: 960
-        height: 706
-        isCached: true
 
 secured: "FOH9HEVa0HSx9zh05Yi0KjN2MDCh0AWEqi4pTjziHwIO6B4pg9avVi9M9DUzS691MW7HjDdAxXyR+CYk4GX4Bfos1tXk8xkA2Jckhx8v5d1YMWIX0wHgTPIx9Q2+1RmpCMi7/tfz/jL8OrqWIEqST73l3drFEr0+fXwqXUpYyE45VhWm43tov4y4+wDkXXs3FWm+C9LvoL4Ti0PVGeKWZgdOU9S9I7jqqFIbElWQKenYTN7OyOzrhEisAWK4VFWOI9qYtBJqrgTwKIf++canARhghuTsmES+E6WUlMamWJCv859EhBV1j6vg1+ArKaWoiQZPU8lAkUJUceGE8X4ZRw+ETVKdN3R0cDy6B41cPeo=;ewIodftkcCJqd5X8A5EfHQ=="
 ---

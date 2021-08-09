@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Fact-checking claim Biden administration is pushing vaccine passport"
-excerpt: "Amid confusion over mask mandates, booster shots, and new guidance for those vaccinated, some Republicans have thrown fuel on the fire with false and misleading claims.\n    \n"
-publishedDateTime: 2021-08-07T16:30:17Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
+title: "'Final warning': Lawmakers, Biden administration sound alarm over UN climate report and urge swift action"
+excerpt: "Lawmakers and top climate officials in President Joe Biden's administration sounded the alarm on Monday in response to a new report from the United Nations' Intergovernmental Panel on Climate Change, urging nations to swiftly limit global warming to 1.5 degrees Celsius.\n    \n"
+publishedDateTime: 2021-08-09T12:57:59Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zuzO88Hxck0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zuzO88Hxck0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/un-climate-report-us-lawmakers/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/un-climate-report-us-lawmakers/index.html"
 type: article
-quality: 175
-heat: 315
-published: true
+quality: 158
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726095519-france-covid-pass-law-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210809083701-un-climate-report-us-lawmakers-exxonmobil-texas-0728-file-restricted-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Fact-checking claim Biden administration is pushing vaccine passport"
+    excerpt: "Amid confusion over mask mandates, booster shots, and new guidance for those vaccinated, some Republicans have thrown fuel on the fire with false and misleading claims.\n    \n"
+    publishedDateTime: 2021-08-07T16:30:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210726095519-france-covid-pass-law-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden's seen a (slight) decline in his approval ratings"
     excerpt: "Poll of the week: A new Quinnipiac University poll finds that President Joe Biden's approval rating stands at 46%, while his disapproval rating sits at 43%. His approval rating in Quinnipiac's previous poll was 49%.\n    \n"
     publishedDateTime: 2021-08-08T16:01:13Z
@@ -95,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "'Final warning': Lawmakers, Biden administration sound alarm over UN climate report and urge swift action"
-    excerpt: "Lawmakers and top climate officials in President Joe Biden's administration sounded the alarm on Monday in response to a new report from the United Nations' Intergovernmental Panel on Climate Change, urging nations to swiftly limit global warming to 1.5 degrees Celsius.\n    \n"
-    publishedDateTime: 2021-08-09T12:57:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zuzO88Hxck0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/un-climate-report-us-lawmakers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/un-climate-report-us-lawmakers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210809083701-un-climate-report-us-lawmakers-exxonmobil-texas-0728-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden offers temporary 'safe haven' to Hong Kong residents in U.S."
     excerpt: "President Joe Biden on Thursday offered temporary \"safe haven\" to Hong Kong residents in the United States, allowing potentially thousands of people to extend their stay in the country in response to Beijing's crackdown on democracy in the Chinese territory."
     publishedDateTime: 2021-08-05T16:53:00Z
@@ -144,6 +144,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Gq4jNcuq/UoGxI+e9pxBg0A/u+1im0xPXRMvxBWT4rS3lcOgCvi4DOyPHTSZQrR/tYvRQWxNBcU2dVz2fyELFjkiS3S7+DPKuFpk1tuWCh3DAjPLhH8MnCJdpWNufzOgp1T93ZpAhwrq5ScmD6lUm3hV4j09Glg7DRtUg2gVji3QDZP5slzWwxanSI3r54x5/04LVv80o5EnusNbv2uf5IKKqlwqqiahVXfIkTe1HQ/tkiHReH9dfyjDcHMvAg26cBLvbycCmHoAab1jLjeSMOX9KvHZRkH+c+ligRPPpE6DK+BDGUw1F6++cH6DQI5ud7ZL1bl7k4mgSanMdIvc/+6BZ5yF6c33z0kYfAhkoDE=;NF2YdLu349Gh6rNfpq4i7Q=="
+secured: "F9awHha1Q4aX6OG8KzSbXzW7ngYh1NvEtCYuGEryLXtYbTl8UBeyX0skg1KipT3kcrIUzu2H/K1Wxha+mj1/yJFSin7xLFheNsiMmZJ8DUg46gzpUiM/BynVXNC3loivyGZ13oeX1muDJlKApaCbqEmC8qqmHYxzvbYvPsbD0LzPdvg8KbmBPdi9FVhKkDQQcMteNF4I9brbVIWIp1gE98fyog9kPTMN1jCzbMkvte3UG0g1NCbgkjUQQKHHSCXEAeT9WbDu4OpEOVd1ZLDun1c1iNAT46tiArSNdY5wHEvpcEuZc/x5tsKyc9C4PCtD81sygMo1vojhkgt3LpCALS1GV2JkwSEPE8fBhmFLm9s=;Sk1QI+EWbRQTkjwtL5E04w=="
 ---
 

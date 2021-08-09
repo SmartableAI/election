@@ -1,36 +1,49 @@
 ---
 category: news
-title: "Biden says Americans should expect more COVID restrictions"
-excerpt: "President Biden warned Friday that increased COVID-related restrictions could again become a possibility as the U.S. sees spiking coronavirus cases nationwide."
-publishedDateTime: 2021-07-31T00:41:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions"
-ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
+title: "Oh, Joe: Biden mistakenly says 350M Americans vaccinated"
+excerpt: "Biden, 78, is often accused of being in mental decline and then-President Donald Trump made his cognitive fitness a central campaign issue last year."
+publishedDateTime: 2021-08-06T18:56:00Z
+originalUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/"
+webUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/"
+ampWebUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
 type: article
-quality: 175
-heat: 495
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-vaccine-600.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
+  - title: "Biden says Americans should expect more COVID restrictions"
+    excerpt: "President Biden warned Friday that increased COVID-related restrictions could again become a possibility as the U.S. sees spiking coronavirus cases nationwide."
+    publishedDateTime: 2021-07-31T00:41:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Majority of Americans don't think Biden will run in 2024: poll"
     excerpt: "Fifty-four percent of Americans say they think that President Biden won't run for reelection in 2024, according to a new poll."
     publishedDateTime: 2021-08-04T19:34:10Z
@@ -205,22 +218,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Oh, Joe: Biden mistakenly says 350M Americans vaccinated"
-    excerpt: "Biden, 78, is often accused of being in mental decline and then-President Donald Trump made his cognitive fitness a central campaign issue last year."
-    publishedDateTime: 2021-08-06T18:56:00Z
-    webUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/"
-    ampWebUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-vaccine-600.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Lt. Gov. Patrick torches Biden over border failure, COVID crisis: 'This is insanity'"
     excerpt: "President Biden's border crisis is spiraling out of control while coronavirus cases are spiking throughout the US."
     publishedDateTime: 2021-07-29T19:12:00Z
@@ -286,6 +283,6 @@ related:
         height: 606
         isCached: true
 
-secured: "LC5sEMavX7QV+t3pSw6U1/ktKqbpGhLU2Hq/spqRUdZEO+qPLwEQ00VS7xub1c8EF6ES+2ZDsD+atqVUasE1sOC/d8HdVfEWFtP8TqCgxndCmMqjJoMyAnXeI2Ldyifx5dJG/yqeCypYLKONzyWqc1rQ3hrycMIdnSPUxSrwgeUnpU6leEiXBnupzuKGuT3SuN3NBj0X/hqzsvhTGYZ8VSCKAlfM1mQ0lKKzaZu1apyw15ESNRSwNsLSbhh1oPasSgJ5+NOQT8mRlajyvx3S0cEHp9jPTOHhNGUDb9iUO5WJj+MFvj8M+Gkn+6ZOHhnq82R/TrayTfvPV+JINX2UpvZzD8oC2GQk6sUGxbL3NXE=;VgiUKWkqPIrS0RbqGL3okQ=="
+secured: "DW/XCWUtyrTdgkc6rafSVMxBq0KbKgvjnDLr7EX6HYMrbMEShZGH4z7c7a0rKi9p4jWxyvjPdcdJHkSSdfQ8kxUDF+TB+StMBWhzPFKQZQF/c1GqVlFEhuTyv4eC1VjzwatUecItKQFx2sq9HJOrnKlI6ALHRarZQm+HHC4X+k2IX720g8rVxqj7/0bVPw/9E3vjXkU2Ceij/77A5I1uLxXaIaRzgY5GG7GriG17VdL0N2516H1IOkFMU6xE9PSlR2JxN2cmsGyJhjAstFRqJu20acSFWed4G+LdRpXU1QTDszrYzY1UpdOQh7Ews7mP+z0r+AF1oCQiPd27xCsj3Su3yJBeKFNsIP5KFXf6p/A=;u+vpUjI8QAjcneKYV8Sgdg=="
 ---
 

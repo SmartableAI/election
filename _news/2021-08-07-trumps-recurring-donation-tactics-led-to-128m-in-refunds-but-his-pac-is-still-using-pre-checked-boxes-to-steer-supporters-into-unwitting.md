@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-pre-checked-box-donation-tacti
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp"
 type: article
 quality: 86
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.pilotonline.com/resizer/EPW8g7qaSeUmL81vKX1KrdHHjpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/42UI4D6ENUI3SNJKQQILLONSAM.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Senior living exec ordered to pay back defrauded investors $79 million after Donald Trump commutes prison sentence"
-    excerpt: "Former Sunwest Management CEO Jon Harder dodged nine years of prison time when then-President Donald Trump commuted his sentence in January."
-    publishedDateTime: 2021-08-03T05:16:00Z
-    webUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html"
-    ampWebUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 53
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5MAZLYNOC5BNNJ7ETFZ7W3BVQI.jpg"
-        width: 960
-        height: 706
         isCached: true
 
 secured: "yP8NE7aSUMqMb7QqLoGOUEubGn7AIMcs9KRHTulk9SXPXRYxgfUcsq9/31TpEdKkgYlPyr+O/LwaUvnaqmLoxUKGUm4n0fWQ/ua4+oQxe0/MhpvVw7kWf9YYLWENiFcg6yo/b360GilOq5LRS7oJ6V4GSmmSXv8YS0I6eHGsLDIbOHhq9K3CErrUHV2FelhpeDAxCiDDOHsjWli8SR6HxIVt81HJHF0armWsVLvQzwW/RXp/IAwAs9IwWZtHbQnW9veUIDCihRIJxyg70V93MXZ+Nhgpt5gKpcuoGVXb5cO+U3R0DKDmt9qbj7aADuRw0+kzyV83RGk2UlotWkE7/NeaNu8B4rTw4tPYg2NgYuU=;ak1LkSx4beTMbNWMRu8+dg=="

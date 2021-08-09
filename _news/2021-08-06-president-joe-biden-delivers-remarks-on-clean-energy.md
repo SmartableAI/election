@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Delivers Remarks on Clean Energy"
-excerpt: "President Joe Biden greets Representative Debbie Dingell (D-MI) after delivering remarks on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
+excerpt: "President Joe Biden drives a Jeep Wrangler Unlimited 4xe Rubicon around the White House grounds during an event on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday,"
 publishedDateTime: 2021-08-05T21:31:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9c578ff9d779a7b8233785c560ace8b8/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9c578ff9d779a7b8233785c560ace8b8/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/3804ea110e6521f07da5b34e5b241dda/WHITE-HOUSEBIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/9c578ff9d779a7b8233785c560ace8b8/WHITE-HOUSEBIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -85,19 +85,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Democrats applaud Biden's unconstitutional act"
-    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden's Centers for Disease Control and Prevention to extend an eviction moratorium sure to be struck down in the courts,"
-    publishedDateTime: 2021-08-09T05:00:00Z
-    webUrl: "https://www.semissourian.com/story/2899199.html"
+  - title: "Democrats applaud Biden’s unconstitutional act"
+    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden’s CDC to extend an eviction moratorium sure to be"
+    publishedDateTime: 2021-08-09T13:32:00Z
+    webUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
     type: article
     provider:
-      name: Southeast Missourian
-      domain: semissourian.com
+      name: Williamsport Sun-Gazette
+      domain: sungazette.com
     quality: 55
     images:
-      - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
-        width: 1000
-        height: 523
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.sungazette.com/images/2016/10/17135124/fblike1.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
     excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
@@ -109,6 +109,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "AI/5ljZXD6+BJQBTmM8FbpM0/SCiiIpxIAMsyf8FtIGxietk3QBdr/XLduoWW4L1OV9jlVcke6CssW1lJn86bEQLLg1KvzoWOJ73hfKgRdHycH15EnA7CXd5AeOBvs3H0TTQiBWb7EI6E5AaXTj3UQlcqaxg3TDoYWa8xRuDL6kstmoL/BQs2oXf/xjKzjBcttTWczXriuNuxBHIPeximoSntFNdYNPPa0RFRmrMBihHWzEcohI3Df0dBh102TehrAuFkt90P3Km0V0Wckwsut9RThbznU5fazDwmu+J674JwcXBbZjhIC8s67lqxuxVhUGnYiReZEGnNFJAX/Ynrn0z3to7hBUNWkbdj9R6ZP2uz4oivg5Z4Q89o/KxdjZWqUauM8uu8hbx+z5xafKlORriFaC/tRytN5jVQqncv679VuyFikeBeQNIivKI5s2LpfUM00QhuZji2uxMIVzPq4CrMziQp/Rb5+SvQp9BHeNi89wRNmuCN3VM8vsvBXKt4rRSR30gxJERcvDaDupv/A==;VdduAwhvRx6ksxXnT4dFIw=="
+secured: "mtVmjpAo5AGjE3fRPYyCIamFJ0UrngHjRUB4riySDN7VghKE3SUerGKJYzNHJl1vpLjcyoPV3i4b7TZ1DTrHiIdyAl+Kk1u5UH2xhhj0awjafKGkD7b0hcfZFNc0kbHef4rXOTitr46CYH+e1O0Nc2fC4k1rgV/fejOIGQji81aQQc358fOBXMSG99aISUSKZhCEjiA1X9pEdRpJaW7jff1qZ4lJYRBWMgLN9crd3NREpEJoB1H+BThANyZ5kZ2liR322Vfy/7Uzfmtwu8Fg7ase/MddKGSILyorq3x7IgXgS09bWKzW/5TFym/4f86dOQgxYLtee8SpAOB3PUXW8q/9ZqicSqr6jum0nKBaxKk=;pR6i4RMU9PF3hAtYIwjeYQ=="
 ---
 
