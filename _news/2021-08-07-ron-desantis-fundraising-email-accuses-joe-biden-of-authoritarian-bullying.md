@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race"
-excerpt: "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\""
-publishedDateTime: 2021-08-06T15:41:00Z
-originalUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923"
-webUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923"
-ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
+title: "Ron DeSantis fundraising email accuses Joe Biden of ‘authoritarian bullying’"
+excerpt: "In a seven-paragraph fundraising pitch, DeSantis’ political committee, Friends of Ron DeSantis, accused the Democratic President of “authoritarian bullying.” “Joe Biden might want Governor DeSantis to get out of the way so he can impose his radical agenda,"
+publishedDateTime: 2021-08-06T22:54:00Z
+originalUrl: "https://floridapolitics.com/archives/446566-ron-desantis-fundraising-email-accuses-joe-biden-of-authoritarian-bullying/"
+webUrl: "https://floridapolitics.com/archives/446566-ron-desantis-fundraising-email-accuses-joe-biden-of-authoritarian-bullying/"
 type: article
-quality: 125
-heat: 265
-published: true
+quality: 52
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Florida Politics
+  domain: floridapolitics.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1864686/joe-biden-ron-desantis-split.jpg"
-    width: 2400
-    height: 1600
+  - url: "https://floridapolitics.com/wp-content/uploads/2021/01/DeSantis-Policy-Orientation.jpg"
+    width: 1001
+    height: 510
     isCached: true
 
 related:
+  - title: "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race"
+    excerpt: "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\""
+    publishedDateTime: 2021-08-06T15:41:00Z
+    webUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923"
+    ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1864686/joe-biden-ron-desantis-split.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Florida Gov. DeSantis says he will 'stand in the way' of President Biden on COVID-19 restrictions"
     excerpt: "The friction between Biden and DeSantis comes as the country confronts a fourth wave of the virus, one that has hit especially hard in Florida."
     publishedDateTime: 2021-08-04T21:27:00Z
@@ -93,20 +103,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Ron DeSantis fundraising email accuses Joe Biden of ‘authoritarian bullying’"
-    excerpt: "In a seven-paragraph fundraising pitch, DeSantis’ political committee, Friends of Ron DeSantis, accused the Democratic President of “authoritarian bullying.” “Joe Biden might want Governor DeSantis to get out of the way so he can impose his radical agenda,"
-    publishedDateTime: 2021-08-06T22:54:00Z
-    webUrl: "https://floridapolitics.com/archives/446566-ron-desantis-fundraising-email-accuses-joe-biden-of-authoritarian-bullying/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 52
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/DeSantis-Policy-Orientation.jpg"
-        width: 1001
-        height: 510
-        isCached: true
   - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
     excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
     publishedDateTime: 2021-08-04T15:52:00Z
@@ -136,6 +132,6 @@ related:
         height: 667
         isCached: true
 
-secured: "t7BWSvgT4aJAvtM4Q9obUCvwK3TnAuyICYeWl+ROpVWr4pedicYGS8kZ/LOEEEHybWw3oGWPbw+So8DUgDEa1JcC+zAKler7kRWwMDHoUiTUIw/XXYbVlb53HJ4N5gfy549Xjo57sNs65vITZGWSIHVBS4wtCtM5aWMkVfh751XUErK/Wso5Rw9P6a0whAk7H07Qep8XRDcbmkm6FENbE0rKqCzybJrcX7x9+lFAdAbnGgjQR6iyCgEWDsCzOl6i6La4bxttKgmYG0VXoj8OmYPmASoeQPWwJHVOxdqLoKua7UAEeEQ7rY29Abj8dmyRL0y23bcxRnqX32pZirVJSASjLdLWCUl6deozEDljYyc=;d2zuyKi2nQg12Lu7qTnOOg=="
+secured: "lut013GEalQIqyrbsFf3FjtCNRYU+IPM1kqlE5DiD6808caVPP6h3d6ETg2gxXSN2s6v0tnAYkc5ucQcRLdp4B8+PyHJJE3H9NdZNeOoEYPnU9ELwXRvDexHOjZnqe5p6ho5FfKn89JfGjBiGqcjmK9LHh4wy4spRgser+R+YjX5w5uX6wx0Dfg4aoMHaOZfvyLPaayeLftRfk6XAmdaf/3ZQ4yIayqwmnG1q55OPLhgsD1kCKMJcw6vfoTGCzTSHDfC32+L4esHd/DMo2gNq4jhtPJx3repMB8xyqL8ThximWLYVfM+t9VsQfS4BugbkNGkv5nbQ9eSMdO2dxPd7eij40rl36KUYM94PV6mwBw=;XE/CpRNKWM+r3kUH4kcERw=="
 ---
 

@@ -679,6 +679,22 @@ related:
         width: 1200
         height: 948
         isCached: true
+  - title: "Trump Will Run For President In 2024, Still Leads GOP: Top Republicans"
+    excerpt: "Trump is yet to announce his plans for the 2024 election. However, he has helped the Republican party raise funding for the midterms elections in 2022."
+    publishedDateTime: 2021-08-09T02:01:00Z
+    webUrl: "https://www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079"
+    ampWebUrl: "https://www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "What's A 'Trump Card?' Donald Trump, Republican PAC Wants Supporters To Carry"
     excerpt: "The former president wants his supporters to carry Trump cards to show their support for him and his 'Save America' movement."
     publishedDateTime: 2021-08-05T19:16:00Z

@@ -91,6 +91,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
+    publishedDateTime: 2021-08-06T11:21:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "'Clock is running out.' As COVID-19 cases climb, Biden faces rising pressure to fill top FDA job"
     excerpt: "Five months ago, former heads of the Food and Drug Administration urged Joe Biden to make filling that position a priority but it's still vacant."
     publishedDateTime: 2021-08-03T09:00:00Z
@@ -100,17 +116,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
-  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
-    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-    publishedDateTime: 2021-08-06T06:03:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 55
 
 secured: "3DZhVSHPXIOU0eOxBMKycPJX7FAO9cQ6iWgrl5zD/ex+uOS7pcCvGmwOiiW5YrNN0g4Jv+dSxoPX22j/x6HW7PRncxVzIBSQhCycY1qXOJvBAyFXszNK0ZiCeDxf8pfG59o2Bb7YeDQDDWX8R5+wC4IZ0/yLrlTNmcpkZKnwPyrvJvWISGtOYr3T5w8sI1qcObnjV6kqquXM/QZpKo/VSI6/dHa1/4YO/TCFWzAYiaH4RdItorxED+3Q2FJHG1HAf4Ezh3/KR8u6YIoukXUucrIToV/yFaJypXSY/6KKjjm0VKZq4wmni1f9Zh7B0xIN9dC55Ikeg/y32gxwonDapLCYrQ7Py93ibKUUwJ8+droj0vK2UqxWbtrfUEpqjEoPaEkTRaDkKAOzXPFo3cel3P31w6ypWrJ71I5TQDEbGITU1MyEqCF2+5cxaORs3Nrmy1F/y5/StppiXEjFfz1DhJUWTRQUS9+4XQNm0s0vgvBwr5HH2d1CuDGQjISev4+0lxL1Lp5NI7j7qzCrr2RnYw==;Gf2GAv4s79+qtJVwB5yoNw=="
 ---

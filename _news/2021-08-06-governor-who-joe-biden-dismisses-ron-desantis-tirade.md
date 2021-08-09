@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ron DeSantis fundraising email accuses Joe Biden of ‘authoritarian bullying’"
+    excerpt: "In a seven-paragraph fundraising pitch, DeSantis’ political committee, Friends of Ron DeSantis, accused the Democratic President of “authoritarian bullying.” “Joe Biden might want Governor DeSantis to get out of the way so he can impose his radical agenda,"
+    publishedDateTime: 2021-08-06T22:54:00Z
+    webUrl: "https://floridapolitics.com/archives/446566-ron-desantis-fundraising-email-accuses-joe-biden-of-authoritarian-bullying/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/DeSantis-Policy-Orientation.jpg"
+        width: 1001
+        height: 510
+        isCached: true
   - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
     excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
     publishedDateTime: 2021-08-04T15:52:00Z

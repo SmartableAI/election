@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Ohio Republicans aim to rename state park after Donald Trump"
-excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
-publishedDateTime: 2021-04-21T20:54:00Z
-originalUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+title: "Trump Will Run For President In 2024, Still Leads GOP: Top Republicans"
+excerpt: "Trump is yet to announce his plans for the 2024 election. However, he has helped the Republican party raise funding for the midterms elections in 2022."
+publishedDateTime: 2021-08-09T02:01:00Z
+originalUrl: "https://www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079"
+webUrl: "https://www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079"
+ampWebUrl: "https://www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079?amp=1"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -525,6 +529,22 @@ related:
         width: 3600
         height: 2400
         isCached: true
+  - title: "Ohio Republicans aim to rename state park after Donald Trump"
+    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
+    publishedDateTime: 2021-04-21T20:54:00Z
+    webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Justice Dept says IRS must provide Trump's tax returns to Congress"
     excerpt: "The U.S. Justice Department on Friday ordered the Internal Revenue Service to hand over former President Donald Trump's tax returns to a House of Representatives committee, saying"
     publishedDateTime: 2021-07-30T17:45:00Z
@@ -668,22 +688,6 @@ related:
       - url: "https://www.mcall.com/resizer/2AchICjkGTE4GffSfvlJRTMgG-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZLTFS5JTR5HNLE3COWB3DHBNAE.jpg"
         width: 1200
         height: 948
-        isCached: true
-  - title: "Trump Will Run For President In 2024, Still Leads GOP: Top Republicans"
-    excerpt: "Trump is yet to announce his plans for the 2024 election. However, he has helped the Republican party raise funding for the midterms elections in 2022."
-    publishedDateTime: 2021-08-09T02:01:00Z
-    webUrl: "https://www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079"
-    ampWebUrl: "https://www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-will-run-president-2024-still-leads-gop-top-republicans-3269079?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "What's A 'Trump Card?' Donald Trump, Republican PAC Wants Supporters To Carry"
     excerpt: "The former president wants his supporters to carry Trump cards to show their support for him and his 'Save America' movement."
@@ -1040,6 +1044,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "fARIU+K2tH4vIRau2saBrIpu+Q5eh0WkrFgoNpdnW+yU7Cw0OBIloObTOYZXeOhUUhf041fr3SJJ58GJgPyuer/ZOD8XH7wZVAUEFFNbL4HD8ZGd7vaRtxEMZT4jC6aGTJXCIPYvS8MdoUlfnXsczeM7aTRta9wzVCf6wd29kIuTqzeIi8uspOGOIzjY0zJjfdNpUPsh+JucUpWvUkXLl88KiIOXhWHQmyWR89rdQSjxi5o2Z9QI8lnFxfdboXKxt2i7x8S2GtVxmsB3puS0/tJvAZdZYKj9Uma2cYnfE6OhqNUjHHqAF8L1Uy+To9SgHBxkiH6b0sSS79FgBwNaWsyWlq9yRkZiMvlGxoUIAEA=;au1eh4MwjhpH2VC4lPE3Qw=="
+secured: "j63z9fPAJWsfZv0mZKxPSbcFX8bb/rQ117XfwJao8J5UA2KcXO+qS8EVoYtSNqI6ZakUvuaAiNFpK7CKJZs/33su9j1vvsUQIaZxHlwLokMiGSopS7Hj1rURQqQhCk+LxBYkaMaRzRb7j+GxQoTDdHgipnMO1luy17R8hIhy31xT5+o6rj7r5xNCOvbU54TSpk0w9EmZugWYk9vd4EYn+nIHd5X26Pj5at8cryAeJxaHZqf6IVqu9mU2Kk/5w2+RDxa+wLIsZrMC+5I+GqqkjpLrzbr7c6I0f73OY9J4FfTCfClKsKBPaSSg6hC5Ujh4bfXVg8ufce4Ej3tqyF7qlTjbqceeU0BRL9T+lJRaMMs=;EGKHiD0IGD360sr8J9jc+w=="
 ---
 

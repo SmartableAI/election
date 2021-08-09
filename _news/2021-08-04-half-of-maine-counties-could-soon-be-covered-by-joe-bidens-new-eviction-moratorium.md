@@ -103,6 +103,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Ron DeSantis fundraising email accuses Joe Biden of ‘authoritarian bullying’"
+    excerpt: "In a seven-paragraph fundraising pitch, DeSantis’ political committee, Friends of Ron DeSantis, accused the Democratic President of “authoritarian bullying.” “Joe Biden might want Governor DeSantis to get out of the way so he can impose his radical agenda,"
+    publishedDateTime: 2021-08-06T22:54:00Z
+    webUrl: "https://floridapolitics.com/archives/446566-ron-desantis-fundraising-email-accuses-joe-biden-of-authoritarian-bullying/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 52
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/DeSantis-Policy-Orientation.jpg"
+        width: 1001
+        height: 510
+        isCached: true
   - title: "Joe Biden to Ron DeSantis: ‘If you aren’t going to help, at least get out of the way’"
     excerpt: "Biden called bans against mask and vaccine mandates the 'worst of all.' The White House issued a warning to Gov. Ron DeSantis Tuesday after Florida saw a record number of new hospitalizations related to COVID-19."
     publishedDateTime: 2021-08-03T22:25:00Z
