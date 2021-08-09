@@ -101,6 +101,54 @@
       ]
     },
     {
+      "path": "_news/2021-08-09-harris-to-talk-vaccines-with-mexican-president-amid-covid-case-surge.md",
+      "title": "Harris to talk vaccines with Mexican president amid COVID case surge",
+      "excerpt": "Vice President Kamala Harris is expected to speak Monday with Mexican President Andres Manuel Lopez Obrador to discuss COVID-19 vaccine distribution.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/09/harris-to-talk-vaccines-with-mexican-president-amid-covid-surge/",
+      "originalUrl": "https://nypost.com/2021/08/09/harris-to-talk-vaccines-with-mexican-president-amid-covid-surge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/mexico-kamala-vaccines-60.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/09/harris-to-talk-vaccines-with-mexican-president-amid-covid-surge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/09/harris-to-talk-vaccines-with-mexican-president-amid-covid-surge/amp/",
+      "publishedDateTime": "2021-08-09T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-melania-trump-blasts-historian-after-misleading-rose-garden-criticism.md",
       "title": "Melania Trump blasts historian after ‘misleading’ Rose Garden criticism",
       "excerpt": "Former First Lady Melania Trump is firing back after NBC resident historian Michael Beschloss criticized her renovation of the Rose Garden.",
@@ -374,7 +422,7 @@
       "originalUrl": "https://journalstar.com/news/state-and-regional/govt-and-politics/pence-cruz-desantis-will-headline-ricketts-event/article_3fcf2e16-1950-5aac-b134-d35f59f5176d.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -853,7 +901,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1221,7 +1269,7 @@
       "originalUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1245,58 +1293,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-joe-biden-to-tout-strong-july-jobs-numbers-us-politics-live.md",
-      "title": "Joe Biden to tout strong July jobs numbers – US politics live",
-      "excerpt": "Figures show US economy added 943,000 jobs in July – follow the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d36898f0892081f6ce595",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d36898f0892081f6ce595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/26b75722c336bad8c50309926af68f13cf3dc72f/0_134_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eada90142314f96d2869c871b0200db3",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
-      "publishedDateTime": "2021-08-06T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

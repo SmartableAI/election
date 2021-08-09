@@ -203,6 +203,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden signs sweeping executive order against Belarus"
+    excerpt: "President Joe Biden on Monday issued a wide-ranging executive order against the Belarusian regime, accusing it of repressing human rights and democracy."
+    publishedDateTime: 2021-08-09T18:43:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/09/belarus-executive-order-sanctions/2011628531475/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/09/belarus-executive-order-sanctions/2011628531475/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/09/belarus-executive-order-sanctions/2011628531475/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2011628531475/2021/1/a198bee97a17c4081da67dcd9b7ecf90/v1.5/Biden-signs-sweeping-executive-order-against-Belarus.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
     excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."
     publishedDateTime: 2021-05-26T17:51:00Z

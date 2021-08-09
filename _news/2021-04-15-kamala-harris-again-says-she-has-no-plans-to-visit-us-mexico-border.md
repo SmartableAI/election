@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/03/280320211616957436-1-scaled.jpg"
         width: 1280
         height: 854
+        isCached: true
+  - title: "Mexico's president to discuss travel restrictions, vaccines with U.S. Vice President Harris."
+    excerpt: "Mexico President Andrés Manuel López Obrador said he would have a conversation with U.S. Vice President Kamala Harris on COVID-19 travel restrictions"
+    publishedDateTime: 2021-08-09T18:23:00Z
+    webUrl: "https://www.elpasotimes.com/story/news/2021/08/09/vp-kamala-harris-to-discuss-covid-19-travel-restrictions-vaccines-with-mexico-president-amlo/5538692001/"
+    ampWebUrl: "https://amp.elpasotimes.com/amp/5538692001"
+    cdnAmpWebUrl: "https://amp-elpasotimes-com.cdn.ampproject.org/c/s/amp.elpasotimes.com/amp/5538692001"
+    type: article
+    provider:
+      name: El Paso Times
+      domain: elpasotimes.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/09/PTX1/1cdfdd17-e780-4dbb-a79e-198196a9513e-AMLO_Juarez_GN1835.JPG?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris receives 'Missing Children'-inspired milk carton roast for absence on border crisis"
     excerpt: "Vice President Kamala Harris’ absence from the crisis at the southern U.S. border with Mexico has landed her on a “Missing Children”-inspired milk carton."

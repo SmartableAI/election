@@ -160,6 +160,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Senators urge Biden administration to protect LGBTQ asylum-seekers"
+    excerpt: "A group of senators urged the State Department to take steps to better support LGBTQ asylum-seekers.The <a href=\""
+    publishedDateTime: 2021-08-09T18:49:00Z
+    webUrl: "https://www.nbcnews.com/nbc-out/out-politics-and-policy/senators-urge-biden-administration-protect-lgbtq-asylum-seekers-rcna1614"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1614"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1614"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-08/210809-amy-klobuchar-mn-1006-2c1efb.jpg"
+        width: 2500
+        height: 1535
+        isCached: true
 
 secured: "bF6RbDTjQ7glnoucLWbbmmGnGCkPFS8XBcA8s2CboPjwN29oWZZtu8/ki2bdCe1suUjCcZ8phi/TFJaX2d9kk1M/HVi9cnSbi6Qb9QaAcilPQQyj9bX5okEQLwu8cyugLTHZBIhEonSgx39Uok92OyB1wGyEXD4z6yU8ThDUkRDSKArhoAtHakjn1ACS8RVH7h9LNeXb30PsW8t6aosyuvO32SOAA2cOxGlGt21w52w6AxGeT2ya2fGb/cLrVF5AUIL7bxX8oIGwkQPpMu004RvG4fHQIg0CB4xvtaU+CS9hEA7OqMqvS9RIhhbwdHDMNoSjNpSr9GeeOn5E2SBX/0LcdrZxNDddrX1EJF3JMko=;LTgGO3Rk23DM6JJauJqrGg=="
 ---

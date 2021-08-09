@@ -999,6 +999,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Sen. Chris Coons On Infrastructure, Donald Trump, And Bipartisanship"
+    excerpt: "One of those burning the midnight oil was Democratic Sen. Chris Coons. What’s in the bill? And what are the next steps for it to pass? Copyright 2021. To see more, visit."
+    publishedDateTime: 2021-08-09T18:57:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1026173117/sen-chris-coons-on-infrastructure-donald-trump-and-bipartisanship"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://www.northcountrypublicradio.org//support/images/uw/creatives/Buzzy_300x250.jpg"
+        width: 709
+        height: 591
+        isCached: true
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z

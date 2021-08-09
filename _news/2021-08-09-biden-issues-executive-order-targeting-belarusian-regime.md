@@ -143,6 +143,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Senators urge Biden administration to protect LGBTQ asylum-seekers"
+    excerpt: "A group of senators urged the State Department to take steps to better support LGBTQ asylum-seekers.The <a href=\""
+    publishedDateTime: 2021-08-09T18:49:00Z
+    webUrl: "https://www.nbcnews.com/nbc-out/out-politics-and-policy/senators-urge-biden-administration-protect-lgbtq-asylum-seekers-rcna1614"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1614"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1614"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-08/210809-amy-klobuchar-mn-1006-2c1efb.jpg"
+        width: 2500
+        height: 1535
+        isCached: true
   - title: "'Down the drain’: Millions face eviction after Biden lets protections expire"
     excerpt: "The federal eviction moratorium in place since September is set to expire Saturday, after the Biden administration refused to extend it and Democrats in Congress couldn't muster the votes to intervene."
     publishedDateTime: 2021-07-31T11:00:00Z

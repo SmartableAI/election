@@ -3,10 +3,10 @@ category: news
 title: "Kamala Harris Utterly Flubbing Her Job as Veep"
 excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
 publishedDateTime: 2021-08-09T11:33:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
+webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Kamala Harris
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/55/550314_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Harris’ border role faces new scrutiny after report of likely historic surge in unaccompanied children"
@@ -37,6 +43,6 @@ related:
         height: 340
         isCached: true
 
-secured: "Vyw5hXE93+ldDXKHTdbojMfpBi6oBBnaYneyqSaXQDjKKDJAQuTq/SqjUzxrJFr6IkNMPwBI7lS7rLu1aSPWHYaWjdb6ARPpwM212izwZERt5g5pOETSx97pHFJacRPD2En/fDoUMJoG4jJz99FYbwHzhHwspIvSr3UQ2OWyBR4Eofp+dboulFkWRTPcW1JmuD7Q/HU5jCHqNYNjnHeCMXuH3CBzSnWR1O4sCCWhO3sESrZnrg3DN9SgHpTugRWxfylFRRSAbW88RL3mRY02V5wqPS3Al/HCHHm+m1/6sOQAoec6jfob5iUb01VtXhIJfG4b8OfQMOqieqFscX4ke+Sn7+l7B+dbO+Atlzejs1s=;eWU15dGRSPhpzmoZaydkYA=="
+secured: "ZrXCssAQDF7Xf84Bzf1sbetovowJbgHeNFKdrtGwhaltnJ9ka+xKVvfMDnF3/N04WJq3AjeJaOB7vtFBDaqg4ePnYfW9wrNXIhfVuXPzRI//1sXVNJHmkE3sdWb8GPEui2vKiToDGtmFyKv2SbywB/P728+if6vYSkgItHIy8MEqin9bnatjXNRXL5d7ec4g/ab3A71/n6tR24afTzw/az2GNVkaRSg7ge7eZMMtiPzmeWBzGDYK8R5K/w6NW9N/BLz3UaaaXSJJ1WgTLBnXZlglWQ8+8SVgaryfuc7/z6YH/NkI8/9yEUsNN+GnOVoyOOv8eDBjgYmhqHSnxMjZJsTPxHbeEwvml1zJIQhJzpc=;hHmYuS+cE3xc5An09ubQsw=="
 ---
 

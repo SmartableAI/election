@@ -215,6 +215,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden signs sweeping executive order against Belarus"
+    excerpt: "President Joe Biden on Monday issued a wide-ranging executive order against the Belarusian regime, accusing it of repressing human rights and democracy."
+    publishedDateTime: 2021-08-09T18:43:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/08/09/belarus-executive-order-sanctions/2011628531475/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/08/09/belarus-executive-order-sanctions/2011628531475/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/08/09/belarus-executive-order-sanctions/2011628531475/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2011628531475/2021/1/a198bee97a17c4081da67dcd9b7ecf90/v1.5/Biden-signs-sweeping-executive-order-against-Belarus.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Joe Biden exaggerates U.S. rank in world coronavirus vaccinations"
     excerpt: "During a speech in Cleveland, President Joe Biden earned applause with a line about how well the United States has been doing in vaccinating people against the coronavirus. \"We've created more places to get vaccinated"
     publishedDateTime: 2021-05-28T17:45:00Z
