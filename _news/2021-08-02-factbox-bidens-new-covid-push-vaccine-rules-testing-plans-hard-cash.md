@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EZ2WZ"
 type: article
 quality: 124
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -104,16 +104,27 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
+  - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
+    excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
+    publishedDateTime: 2021-08-08T04:28:00Z
+    webUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
+    ampWebUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "New US infections climb back to winter levels, about 100K every day; Joe Biden continues student loan freeze. Latest COVID-19 updates"
     excerpt: "The new daily average for U.S. infections has climbed back to about 100,000 as of Saturday, according to CDC data. Latest COVID-19 updates"
     publishedDateTime: 2021-08-08T10:01:00Z
-    webUrl: "https://www.indystar.com/story/news/health/2021/08/08/us-infections-100-k-cdc-florida-joe-biden/5524511001/"
-    ampWebUrl: "https://amp.indystar.com/amp/5524511001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5524511001"
+    webUrl: "https://www.jsonline.com/story/news/health/2021/08/08/us-infections-100-k-cdc-florida-joe-biden/5524511001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5524511001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5524511001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
     quality: 44
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/07/USAT/9b5111b6-4db8-479f-bf46-764f916a6611-AP21219002679733.jpg?auto=webp&crop=4502,2533,x0,y228&format=pjpg&width=1200"

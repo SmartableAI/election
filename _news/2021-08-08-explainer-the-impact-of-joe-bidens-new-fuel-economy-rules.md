@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Biden Says US To See New Covid Restrictions 'In All Probability'"
-excerpt: "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases."
-publishedDateTime: 2021-07-31T03:58:00Z
-originalUrl: "https://www.barrons.com/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
-webUrl: "https://www.barrons.com/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
-ampWebUrl: "https://www.barrons.com/amp/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
+title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
+excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
+publishedDateTime: 2021-08-08T04:28:00Z
+originalUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
+webUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
+ampWebUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP2386071646288012197218104372370316208947---1.jpg"
-    width: 768
-    height: 512
-    isCached: true
 
 related:
   - title: "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash"
@@ -75,6 +69,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden Says US To See New Covid Restrictions 'In All Probability'"
+    excerpt: "US President Joe Biden said on Friday \"in all probability\" new guidelines or restrictions would be imposed in the United States in response to a resurgence of Covid-19 cases."
+    publishedDateTime: 2021-07-31T03:58:00Z
+    webUrl: "https://www.barrons.com/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
+    ampWebUrl: "https://www.barrons.com/amp/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/biden-says-us-to-see-new-covid-restrictions-in-all-probability-01627689608"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 75
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP2386071646288012197218104372370316208947---1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
     publishedDateTime: 2021-08-06T11:21:00Z
@@ -100,17 +110,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
-  - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
-    excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
-    publishedDateTime: 2021-08-08T04:28:00Z
-    webUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
-    ampWebUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
   - title: "New US infections climb back to winter levels, about 100K every day; Joe Biden continues student loan freeze. Latest COVID-19 updates"
     excerpt: "The new daily average for U.S. infections has climbed back to about 100,000 as of Saturday, according to CDC data. Latest COVID-19 updates"
     publishedDateTime: 2021-08-08T10:01:00Z
@@ -128,6 +127,6 @@ related:
         height: 675
         isCached: true
 
-secured: "IsrlzZL3N1tGOjR0ZFe+FXDO8It+PlXLwOyDNtyBbAgH7AGWrJBjTgPfDC5bNuScrDBU2wJlmEqhlpgBlgqgWRXh3GICt3Aj7suBMXBsjA6rvLg/8VwhOi/jjitYgwaOSGWxu/96ATcGyuqyHO9YioEXcjYtmmbLrq7hnyFxLu3ijw4QUG0IRYBr4xMBi+6Rwxun0lZALP4cCAiEKG5IEtEyHsWc87/f2Lv0gIx/VHpq4VPcgtDaWQv2/G5hL67nny+7SGHIqflgbySIF3HSXVY55cVQGZRzuwF91rY+oaXDI/q7s8ectPVfHtmHnA3RIGfuoxq7hGSbsOSOfIt9Xsoro/RLqG9D/hYgKZo5xK8=;wzDJ62yDC/taCeF3+HVUsw=="
+secured: "KrCw/mymGVEsAQ9O2P7JCkIlvqBPnALUiDWO4vdG3yzi5USaYyCCOgVPIgPvFK+myH+pcvleRHkYfoipbnFqRLpS+EQvPABPwnlXcNulHM7oiwd0VWat9IAZh3WL8Yab/peGlu8ozZGXrStztlcVTl9h9g3+bfEzsz5r6cPS2Dzy98qUYPBOa6Oqu1CsdcpiuLOhJW21CNH4rfCP8M1tgViU4EyUBmZYEI//G6sbs/YCnVHrQKcu3Dh0s246kf5C2N0G6Wzi400+N5Tior72+0EIXjKT3Grk5x/gCf+iC2zSH/NPny6KznsQoMJoA2/cfPxgV8nHoDQGqfcxhj9qMJldFyiBxpQlVEruvZ73hOG7iWuYnTxb9F0ifrYQD1Mwk0j70jU066vSJdXadmZE5c+djOIq8USBBKTYLcmWL2qzDCMoFM0XdwUX9zEW/PAgHf3tDvODop/i8AsneQSILkdxJIb3XlgWCzQ+iH3L/GD/32DXJ7YKqsXeo+osYwTL8PdZR5M5UoNrmLkUWGDbTw==;Ju2IMR2njQ9C8hjL8YKmtQ=="
 ---
 

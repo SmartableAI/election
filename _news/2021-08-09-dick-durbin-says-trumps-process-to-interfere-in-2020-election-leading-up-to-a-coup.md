@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/dick-durbin-says-trumps-process-interfere-2
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313?amp=1"
 type: article
 quality: 132
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 2500
     height: 1658
     isCached: true
+
+related:
+  - title: "Trump's acting attorney general testified for 7 hours on the former president's efforts to overturn the election, Sen. Dick Durbin says"
+    excerpt: "Senate Majority Whip Dick Durbin said Jeffrey Rosen \"was very open\" and \"told us a lot\" in his testimony."
+    publishedDateTime: 2021-08-09T10:00:00Z
+    webUrl: "https://www.businessinsider.com/jeffrey-rosen-testified-7-hours-trump-overturn-election-efforts-durbin-2021-8"
+    ampWebUrl: "https://www.businessinsider.com/jeffrey-rosen-testified-7-hours-trump-overturn-election-efforts-durbin-2021-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jeffrey-rosen-testified-7-hours-trump-overturn-election-efforts-durbin-2021-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/6110f43138aff700189078bc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "NZ4IxjSHCzvq6TNp9IJOssBe/HCLec1dLrcnoOl0vLmfccPM49D2CwzvNCPYsVuR41ypNTWb/YYvlsuKJqFobi8SGA2pIbmoBECPkcOVynkcHvFGk1CsbDBDgUVG3kmqtrVAvPMU9awFT6d5BNRrmht6kb2Mvb1mq/cCXtNgbb792JZk4SiVJIhM/pRsTGTGv9SMjv0AH6n1Ey2W6+mNRfgn6VqmH7aaitvuL8Pxq3kd/05fnmB+sT+zOqDorxgz8UuZKpCYiS7sXu3eGl9JFme9IMoxo4mCNjHTSUXdIP/NHk+CEPKWFHriE3ZjnvBTIemVgk5oNB0YIP3+aw1es5C2wcqxDc6gBN2j+iDKd74=;KQ/i6cl73aM7oYG2/t6D7g=="
 ---

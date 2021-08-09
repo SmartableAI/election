@@ -1,31 +1,27 @@
 ---
 category: news
-title: "President Biden to sign Alaska tourism act to allow cruise ships to visit the state this year"
-excerpt: "President Joe Biden is set to sign a bill that will allow cruise ships to visit Alaska, Press Secretary Jen Psaki said Monday."
-publishedDateTime: 2021-05-24T20:49:00Z
-originalUrl: "https://www.usatoday.com/story/travel/cruises/2021/05/24/cruise-ships-bill-biden-alaska/7417266002/"
-webUrl: "https://www.usatoday.com/story/travel/cruises/2021/05/24/cruise-ships-bill-biden-alaska/7417266002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7417266002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7417266002"
+title: "Biden's ambitious clean cars agenda: Here's what it would take to make it happen"
+excerpt: "President Joe Biden has set out an ambitious agenda for widespread use of clean cars: Here's what it would take to make it happen"
+publishedDateTime: 2021-08-09T11:10:00Z
+originalUrl: "https://www.freep.com/story/money/cars/2021/08/09/electric-vehicle-subsidies-set-to-be-pushed-through-by-democrats/5511101001/"
+webUrl: "https://www.freep.com/story/money/cars/2021/08/09/electric-vehicle-subsidies-set-to-be-pushed-through-by-democrats/5511101001/"
+ampWebUrl: "https://amp.freep.com/amp/5511101001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5511101001"
 type: article
-quality: 114
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2019/08/05/USAT/c82ac5f8-beea-404d-8438-5647821efbe1-alaska-getty.jpg?auto=webp&crop=2115,1190,x1,y226&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/08/06/PDTF/920a043b-badf-4c47-b982-57f8b80b1315-AP21217727875103.jpeg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -143,6 +139,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Biden to sign Alaska tourism act to allow cruise ships to visit the state this year"
+    excerpt: "President Joe Biden is set to sign a bill that will allow cruise ships to visit Alaska, Press Secretary Jen Psaki said Monday."
+    publishedDateTime: 2021-05-24T20:49:00Z
+    webUrl: "https://www.usatoday.com/story/travel/cruises/2021/05/24/cruise-ships-bill-biden-alaska/7417266002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7417266002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7417266002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/05/USAT/c82ac5f8-beea-404d-8438-5647821efbe1-alaska-getty.jpg?auto=webp&crop=2115,1190,x1,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden extolls global role to Coast Guard grads"
     excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
     publishedDateTime: 2021-05-19T18:40:00Z
@@ -212,22 +224,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden's ambitious clean cars agenda: Here's what it would take to make it happen"
-    excerpt: "President Joe Biden has set out an ambitious agenda for widespread use of clean cars: Here's what it would take to make it happen"
-    publishedDateTime: 2021-08-09T11:10:00Z
-    webUrl: "https://www.freep.com/story/money/cars/2021/08/09/electric-vehicle-subsidies-set-to-be-pushed-through-by-democrats/5511101001/"
-    ampWebUrl: "https://amp.freep.com/amp/5511101001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5511101001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/06/PDTF/920a043b-badf-4c47-b982-57f8b80b1315-AP21217727875103.jpeg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "President Joe Biden Departs White House for Connecticut"
     excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
     publishedDateTime: 2021-05-19T13:31:00Z
@@ -285,6 +281,6 @@ related:
         height: 432
         isCached: true
 
-secured: "ft6MdD4uOnqdfrqSi/dUcpjgGUNta+WE7MxKW57tK3yaMDOiyuXjCZjcCCUv8KB2XfBDU5V1fdxrzGo8X8xygHNhQJgr3iIvsqEtvQC1Kd8tZJ1U0iJssFPQ+9iL83iiHO7TgmDWbXSeG27y0TxfQcZRhKhdpEyDcNuB5Dr5ZODK3MfE2Y2EhqrWe7RnEFoDzIaryOqdRsCFR1g5atYX9jzU7jLYDEYAEP5pERzOnZa9v6T20mVOgmOzmihiMSxBGbmgCDB4yzqIjSFkK7pCcjwAE1IS69HoYe3XzzkBCDbUlJ2xStJTmmh1HUMbYEESu4UycfL7M+npnQhciGZ28cRYjtFwSd3qjofElQ1uq3kKFTOah3f53rg+jG8TMGfw52EL7B8nNsHh3zYkIyuiJZGUN4ml3/wrHXXNHNyOShff/pAxHiBGWwHsWMu6ngrEjgJYjSTyR2KY2ErZh3ZDqQMUDMULtarP8AII4KheOmH07kWsJ3uCOtAVawXz6qf/j3K2tUeFyeBgA046rL8ZqQ==;933sl/g+l4uyQBcfRoc5FQ=="
+secured: "lXjPK4F+y4292F2jKdescsJC/MlUTg9cRAsHNxVLbS1PAkXsZs7UL5HgarYXEphyCwCUQIGbXbeDvfvJgp0OZOKjrywQBmswkWkbrkdaRgLU6HnUff/n7L/0HcwgCudUXXg+1e4Eq/oC38KUE8XsNeDGNKyS6LExxhPMjMH5coNbDPUJ3a3ixkR3/piwGcfns8US21b0ePBCUhB5w7lStIF1qpEJ+hq2k99fHt7IuZCh/PHsH6K157eK0lpkrbDAJc7yvAPAYUJcxduJAxXjsUpjBYJ3yiFv2tHEiBGpHaT3FZkcMKbrFr7iTwlWzA4oB6y41uGXy96lzh9mfmqtHLo9ppopnHoVe8oZpm3GK9c=;Im9MGBSrrqQZ+uB4IPeDSw=="
 ---
 

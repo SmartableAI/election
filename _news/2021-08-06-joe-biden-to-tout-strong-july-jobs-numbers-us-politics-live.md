@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden to tout strong July jobs numbers – US politics live"
 excerpt: "Figures show US economy added 943,000 jobs in July – follow the day’s politics news"
-publishedDateTime: 2021-08-06T13:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d44038f089093df87641e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d44038f089093df87641e"
+publishedDateTime: 2021-08-06T12:47:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d36898f0892081f6ce595"
+webUrl: "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d36898f0892081f6ce595"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
@@ -230,6 +230,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "1zuTkFLuadaR3sQ0OyPPSKRIL74JKW4pY5TRJhoroct9wKscYXQ3so/jYF7pyuSWP3h8CdeeS3i8Zy0Xt/CynAJZ14fkN7fY9aVuiKY6C2yKwcfE9AekOVxAAUORNRuIeGsahN8Xz3msZe4sz0SDCEs0hetnSJpzJG1SlmX1uFwwa8U9gLxjtWUNpM0I7J/xVndEMNLwu3AxpmTVcRjujm/9OCwXEqdNyE2L/9aLl7+8+gRowdM+aXnA5uOkbGPzh+60XeEkEJSfNzOLfmRTaaFhKLkLxDuUUwr4wFY4E70a4PRLoBzkonmyLPFfW0rFY9a/teCClzfEzMLSzcPjmEdmgtaer1ERGWNFgSZEirF2noqPUC+o/rKxWNUtp81sda42eJNwXV9a/NCjUgERKc+4QOrUyAa5S8nlnXTyDUb6gjKMbOjwSJWRj1xdKxdXwDG7ouGVAE+RWEewhKF+ADmaOWC8mZUTXbex+mwlAiFSm71gjVlii++3l1O702I2PiUlMcCWxekLR17HFL22mA==;i6S8uumDRDm2Rh455HVNvg=="
+secured: "dT97zLMcG/QjCgxj3XCJ+3RSe7JhZ1CTLMagFRJQSNQfjW+mFZqd96tjhvkYMfNYr1qNnf+Fnz/GSvTEa4/q83o5p+YN1hwHDjisSbWFKZs1mCD3sgeFPJrEAHEfVBZZrwOne3UkHpgvjXGxT1gD/8fx67a/0G0gSrmsPFopjEYpwAKFJ+in5vmV/yhRNI2vn1KhGNxuJXnRfnYtbO9aRLwQfkDwu0m4gapP7IU8dKihkR1jlvQl5c5hZX2dQbZL/sj/JJZXPlUuXTxi+JPHw8xhrec7UUmvf/T9+hEAyXUL6H+za9aiuwapmNT3sPtIVMCyAO89kB8Y646Zgl68ExkRCN+UW1CuU8Qkf4HjTAA=;rdX4P0J7XEbqCUjTpaF5rg=="
 ---
 

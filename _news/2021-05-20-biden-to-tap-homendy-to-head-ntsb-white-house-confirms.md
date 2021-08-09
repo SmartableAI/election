@@ -211,6 +211,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden's ambitious clean cars agenda: Here's what it would take to make it happen"
+    excerpt: "President Joe Biden has set out an ambitious agenda for widespread use of clean cars: Here's what it would take to make it happen"
+    publishedDateTime: 2021-08-09T11:10:00Z
+    webUrl: "https://www.freep.com/story/money/cars/2021/08/09/electric-vehicle-subsidies-set-to-be-pushed-through-by-democrats/5511101001/"
+    ampWebUrl: "https://amp.freep.com/amp/5511101001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5511101001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/06/PDTF/920a043b-badf-4c47-b982-57f8b80b1315-AP21217727875103.jpeg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Joe Biden Departs White House for Connecticut"
     excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
     publishedDateTime: 2021-05-19T13:31:00Z

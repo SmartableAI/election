@@ -3,18 +3,18 @@ category: news
 title: "New US infections climb back to winter levels, about 100K every day; Joe Biden continues student loan freeze. Latest COVID-19 updates"
 excerpt: "The new daily average for U.S. infections has climbed back to about 100,000 as of Saturday, according to CDC data. Latest COVID-19 updates"
 publishedDateTime: 2021-08-08T10:01:00Z
-originalUrl: "https://www.indystar.com/story/news/health/2021/08/08/us-infections-100-k-cdc-florida-joe-biden/5524511001/"
-webUrl: "https://www.indystar.com/story/news/health/2021/08/08/us-infections-100-k-cdc-florida-joe-biden/5524511001/"
-ampWebUrl: "https://amp.indystar.com/amp/5524511001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5524511001"
+originalUrl: "https://www.jsonline.com/story/news/health/2021/08/08/us-infections-100-k-cdc-florida-joe-biden/5524511001/"
+webUrl: "https://www.jsonline.com/story/news/health/2021/08/08/us-infections-100-k-cdc-florida-joe-biden/5524511001/"
+ampWebUrl: "https://amp.jsonline.com/amp/5524511001"
+cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5524511001"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - Election
@@ -116,7 +116,18 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 72
+  - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
+    excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
+    publishedDateTime: 2021-08-08T04:28:00Z
+    webUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
+    ampWebUrl: "https://www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
-secured: "3DZhVSHPXIOU0eOxBMKycPJX7FAO9cQ6iWgrl5zD/ex+uOS7pcCvGmwOiiW5YrNN0g4Jv+dSxoPX22j/x6HW7PRncxVzIBSQhCycY1qXOJvBAyFXszNK0ZiCeDxf8pfG59o2Bb7YeDQDDWX8R5+wC4IZ0/yLrlTNmcpkZKnwPyrvJvWISGtOYr3T5w8sI1qcObnjV6kqquXM/QZpKo/VSI6/dHa1/4YO/TCFWzAYiaH4RdItorxED+3Q2FJHG1HAf4Ezh3/KR8u6YIoukXUucrIToV/yFaJypXSY/6KKjjm0VKZq4wmni1f9Zh7B0xIN9dC55Ikeg/y32gxwonDapLCYrQ7Py93ibKUUwJ8+droj0vK2UqxWbtrfUEpqjEoPaEkTRaDkKAOzXPFo3cel3P31w6ypWrJ71I5TQDEbGITU1MyEqCF2+5cxaORs3Nrmy1F/y5/StppiXEjFfz1DhJUWTRQUS9+4XQNm0s0vgvBwr5HH2d1CuDGQjISev4+0lxL1Lp5NI7j7qzCrr2RnYw==;Gf2GAv4s79+qtJVwB5yoNw=="
+secured: "tILc70ktGKqL2yE0UftYS+2GZZ1kJy4wABu6w2Pi9oeCvamImkJ9VCAWqHTCRUhnQMcFP+MMEsseozQ5cGjWqaxoduELxkwXeplvrYrYYczBC0QyUKhoPhBwWHJPdz8vng30Rq7RwDaiXisPucicU40T2sDgojpTaU8iY0WLpzaqqd2PFzy3oaDv6Isvs6THweJWA1oF9fi20FQ6WjYB1LVMbU/L4tfyefImAw03WBZwoy4obF+/iBPLFv47EnGpKYHvvmZGEn8GbkSzu3f+vZUtgg4v0p2zSQ0ayahPvKgOhugpCrHq6XNmBWcDVB0yF6fa1bxup5+n2laULKmwo58e8VgEWuJrGfHfVwGLJ7c=;BQ1BDlY5Wrb/dQMYsdiDcg=="
 ---
 
