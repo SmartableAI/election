@@ -84,16 +84,16 @@ related:
         height: 683
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Clean Energy"
-    excerpt: "President Joe Biden answers questions from reporters after driving a Wrangler Unlimited 4xe Rubicon around the White House grounds during an event on electric vehicles in Washington, DC, on Thursday,"
+    excerpt: "President Joe Biden greets Representative Debbie Dingell (D-MI) after delivering remarks on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
     publishedDateTime: 2021-08-05T21:31:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/25146f20c659daff20caefba651425ee/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3804ea110e6521f07da5b34e5b241dda/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/25146f20c659daff20caefba651425ee/WHITE-HOUSEBIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3804ea110e6521f07da5b34e5b241dda/WHITE-HOUSEBIDEN.jpg"
         width: 650
         height: 433
         isCached: true

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
-excerpt: "President Joe Biden wants to erase Donald Trump’s rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal"
-publishedDateTime: 2021-08-06T07:08:00Z
-originalUrl: "https://www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
-webUrl: "https://www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/"
-ampWebUrl: "https://www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/amp/"
-cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/business-news/explainer-the-impact-of-joe-bidens-new-fuel-economy-rules/amp/"
+title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
+publishedDateTime: 2021-08-06T11:21:00Z
+originalUrl: "https://www.timesunion.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+webUrl: "https://www.timesunion.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: KNWA News
-  domain: nwahomepage.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2021/08/222fae4caa454b008ee4bf715be228b2.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -117,6 +117,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Q7Y8NcvrjR6BfcxC5puGpBqNH6ESrtSeXXoDj10H3jqwlfQQgcmr9Zw85TlWjZIMiL44psLx7UrD/GP/yWBqoAEiAJgZavwKj8hdximNWaxRo5JiA4fFPxXh7xSUuiiZw4pq706T1GnFRK90oWt6qb6NX7z0iU6ZhLK5LuIABOJJvP9yQ/PAdCvQEHBJ03lLjHnsZgU7LvJPwYT7CKLDsoJD6TzaW4Ng0ml1WQSqxvDNMdREH1CH8PFEwPsirrRQ2OhKx1q88Zg8VqvN2v2sAaEegGF73NOZEswO9M16OVYSuYbTGRF/eW9e1eopX631SMKxalykuvjIOsOuKeMsummdRVXzWeCZkrxTUppnuDc=;rZty/nE1OnQzLauXX8HHaA=="
+secured: "ONizK6FpL2muhZHicrldUtuvMqCpnaBzDYxod1H68IhsuqIris62+KbJ8FlUiO8nZhv2+8Vd+CK7F4uSC4TizcAC/cLniAPWHp6QRpf78CjHVh1Nd104DYfhDxnkEo/Q3UrfW7rdh2y4Z1+9T7v5+JmLn7w8Gl4Tx9hyQjMg+6lOk0rL+f/wOMa0FZUCPKZQGyyvM9iqFalIIceMwiq03AEkGEtqkQOS/i7e7LJ0i01quGgUyBAOktb7Wd1GQDcolBl4/QCez0BoTQmnNS5l2PHKTcDzQg/MGVpU1RxmV2WYMRjSGS980ANksqVQZTJekv9jLkasGI7UPTXUBQ8bTPtgIxG++43ywYmPRf7yhek=;IwHNSIJWAeybd2UC0l10sA=="
 ---
 

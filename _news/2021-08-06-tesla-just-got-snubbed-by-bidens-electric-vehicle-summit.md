@@ -147,6 +147,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
+    excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
+    publishedDateTime: 2021-08-09T09:31:00Z
+    webUrl: "https://www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html"
+    ampWebUrl: "https://www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VFEV2NBMTBHOHB4I5YZI433DC4.jpg"
+        width: 5000
+        height: 3000
+        isCached: true
   - title: "Biden’s new evictions moratorium faces legality doubts"
     excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
     publishedDateTime: 2021-08-04T23:35:00Z

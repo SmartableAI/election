@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Biden’s new evictions moratorium faces legality doubts"
-excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
-publishedDateTime: 2021-08-04T23:35:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/"
-webUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
+title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
+excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
+publishedDateTime: 2021-08-09T09:31:00Z
+originalUrl: "https://www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html"
+webUrl: "https://www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html"
+ampWebUrl: "https://www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html?outputType=amp"
+cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html?outputType=amp"
 type: article
-quality: 55
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Penn Live
+  domain: pennlive.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VFEV2NBMTBHOHB4I5YZI433DC4.jpg"
+    width: 5000
+    height: 3000
+    isCached: true
 
 related:
   - title: "Joe Biden to tout strong July jobs numbers – US politics live"
@@ -157,22 +163,17 @@ related:
         width: 1024
         height: 623
         isCached: true
-  - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
-    excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
-    publishedDateTime: 2021-08-09T09:31:00Z
-    webUrl: "https://www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html"
-    ampWebUrl: "https://www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html?outputType=amp"
+  - title: "Biden’s new evictions moratorium faces legality doubts"
+    excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
+    publishedDateTime: 2021-08-04T23:35:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/doubts-surround-legality-of-new-temporary-eviction-ban/?amp=1"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 71
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VFEV2NBMTBHOHB4I5YZI433DC4.jpg"
-        width: 5000
-        height: 3000
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Joe Biden wins voluntary pledges from auto makers"
     excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
     publishedDateTime: 2021-08-05T14:00:00Z
@@ -225,6 +226,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Zr0xgyXOIPOHUDMXi33jnpxxbVtuRw2sJRvdYKd9PaRcpcvQL2FzWh8Yv8KksYGEy3TfJS5jLQtwNwA46qHQZHUpWrh8NdouKcNzQMq/faGwOvQpUoI9B6dSMRrO/FvlQlWa4F2M5GkG0rqXcDFO1kCX8+nFGN4XLt4hJMn1n+8NLaRXRf4YO7aOklRIzvHuJ7cvvLj4H0O2dpH4CzdTy8lUJuG8oD1QoEFWD/FxmjCVqOGC4UYvO1idDQN/5aaqTcnpPwlNu59jUr0Cd97+CyMHRGfpFXhhn8e9Th8URG3VW86FfdNI1NwRQVlicM5IRcuM48jPT/KrhzvHMO3yVYzq2kF7RFhgg3drUCUSa7xzISKuHbnMbJKkohDX8EG6yzz+JkPYUBvCS6C6RykMZpnFn1zu/FR/AlIsd7ylTL15B8aMDqUozbnGi/uHw+DygLmUBfneeyHRnrWRgJ8M01NsUKUtwL3H1ftal6I9XuW4D2F/TVwqqFDU5iZXArDna2835TRa7sjAxaLgR28ADw==;eHRj0W0VHxlXRv9gL3lUuQ=="
+secured: "QiBzhb+DZ0+yFkOs/CEwUznWrILrQPrg6V4u7wJ4SHFvgGk36UhLrByW0nNb+B/VL2cRPyUJIzQz4gM9vWVWyIAhcB7nFrE7SyT/7l/9Pjn1cEGvSiByhTqC2Nq61AFlAfspqGxv3PEwTvZKSaHSzxeIvguqHi6aLTF49yS2oGmgy2G1sYCqwFKXIL0f3CHU03awQO53Ey/QySZXrPg9/NMVLn/XR1S5FpRmyXaGE75bgj+Qf8+57961CGogmQN+Ss+9NjY4+Ak7Rjs10qvG1Rt31OOF+kGHTOovXnn5/DKGZ4/7+EqUqSgZ9efccZirGaeemPMU7NFZO9n3LG5CjBAdzyOftZGGBMPHsYDUDzE=;OHShwXbHJPUCp/cVGsC6Xw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -150,6 +150,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Tesla-Results_03544.jpg?w=1024&#038;h=623"
         width: 1024
         height: 623
+        isCached: true
+  - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
+    excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
+    publishedDateTime: 2021-08-09T09:31:00Z
+    webUrl: "https://www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html"
+    ampWebUrl: "https://www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2021/08/911-families-want-biden-to-stay-out-of-pa-ny-memorial-events-today-in-pa.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VFEV2NBMTBHOHB4I5YZI433DC4.jpg"
+        width: 5000
+        height: 3000
         isCached: true
   - title: "Biden’s new evictions moratorium faces legality doubts"
     excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
