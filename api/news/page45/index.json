@@ -2,6 +2,62 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-05-13-sen-blackburn-to-introduce-bill-to-reinstate-trumps-migrant-protection-protocols.md",
+      "title": "Sen. Blackburn to introduce bill to reinstate Trump's Migrant Protection Protocols",
+      "excerpt": "Sen. Marsha Blackburn, R-Tenn., is introducing a bill this week that would seek to reinstate the Trump-era Migrant Protection Protocols in response to a crisis at the southern border that has overwhelmed the immigration system in recent months.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fnr0waE9b-U/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fnr0waE9b-U/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b5befee-1abd-4a1a-979c-98e89ad5cad4/10cf370a-f3d0-45ac-83cb-d424eb50e093/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols.amp",
+      "publishedDateTime": "2021-05-13T06:00:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-liz-cheney-willing-to-do-whatever-it-takes-to-prevent-trump-win-in-2024.md",
       "title": "Liz Cheney willing to do ‘whatever it takes’ to prevent Trump win in 2024",
       "excerpt": "Fresh off her ouster from House Republican leadership, Rep. Liz Cheney is maintaining her crusade to do “whatever it takes” to oppose former President Donald Trump.",
@@ -1287,63 +1343,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner.md",
-      "title": "Trump endorses Florida Senate President Simpson for agriculture commissioner",
-      "excerpt": "Wilton has been a great supporter and worked hard to get many good Conservatives elected in Florida,\" the former president said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
-      "originalUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/95/ac/7f66be1541e29a09699304d68144/ap21061728747528-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

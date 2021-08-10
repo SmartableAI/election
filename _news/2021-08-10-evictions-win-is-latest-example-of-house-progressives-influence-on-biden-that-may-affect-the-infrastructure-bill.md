@@ -1,36 +1,40 @@
 ---
 category: news
-title: "Will McConnell lift roadblock of Biden for infrastructure?"
-excerpt: "Senate Republican leader Mitch McConnell had vowed to be “100% focused” on stopping President Joe Biden’s agenda"
-publishedDateTime: 2021-08-05T04:13:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
-webUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
+title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
+excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
+publishedDateTime: 2021-08-10T11:29:00Z
+originalUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
+webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
 type: article
-quality: 125
-heat: 205
-published: true
+quality: 13
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
   - Joe Biden
 
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d780b5e9d5574b8788053aa12c3bd597_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
 related:
+  - title: "Will McConnell lift roadblock of Biden for infrastructure?"
+    excerpt: "Senate Republican leader Mitch McConnell had vowed to be “100% focused” on stopping President Joe Biden’s agenda"
+    publishedDateTime: 2021-08-05T04:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d780b5e9d5574b8788053aa12c3bd597_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'Every step of the way': McConnell pledges battle over Biden infrastructure plan"
     excerpt: "WASHINGTON (Reuters) -President Joe Biden on Thursday faced the prospect of all-out political war with Republicans over his $2 trillion blueprint to revitalize America’s infrastructure, with a top Democrat also offering only partial support over how to ..."
     publishedDateTime: 2021-04-01T23:34:00Z
@@ -69,16 +73,7 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 45
-  - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
-    excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
-    publishedDateTime: 2021-08-10T11:29:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 13
 
-secured: "aV4kCZuudeJWRYipDyGwcqzaeVPrUMobMizJmjhHzJk+B0DZR/7zCNFByxseofvqLbCejTJVkgRGC0iNjtceWlvToSNltWsHTApHbi+P1jqkruR1lrPWWGgFj0im5M8C/0yZVRoU3NDnPIMA35WWMmvYzVp/zk+ba+ejc4V2YqwHLfouLGIYAdLwVy9b1dn7mdnnZ12+B+e3rQKov9OA+OpPtbAWb9t8BPA94Mw83R+JcZTjhriRHOkniuU0MSoSgAO05U6zPZ6aRhXANYxVgC8Y4TP/qh2Tv0KRjz1WmeIKofhE0RC9z339ICwnJDXSfwwZNMeCdWS8aCaXF9Bdcn514EhXmHJX9Bi7WfUcsL2lOYCU2kO84B8E6FCICx+qu0Yl37AiwRAl81/QXhTLpifJcMENH6SpWqNk6a/2k8ZNN9S2oUF0WDdwT5RvCg8O3HxWfChVgbnvmAftyAbIY0ygMe1wWomDUxr/N2PD1QW2qNJb8thgLDsfRs9uVXOIcdm66cKf7uMu3Rq86JkdSw==;XOOButkMz9HqsqUmTdrhdQ=="
+secured: "dayK6+toqLZYrEpgBz4wE/TKRqvMjY37saUH7XwCGzd+NdMVw5Yp9eDkw+EAytF0ZJucSYJ6k2By2Y6iwGRvdXvBsluUTj7E/uqZpIoIS7qRg8H/bQtKwy2i7bWNNC26nFct5uTzL59JHmVEuDaiVK50txYUpB1D9BC/tBiQAvYEjVmp3/4U7Gs2b9BAup4G1KH9NbsuUQKOag9HVKoXEO4+KMUb9PzRAaC+7cwOrQ5AsStfU6IX3Wts1CYbXdrMi2xMejIYi8j4GgDf0mHPs78hv0TAWYzPSQIvD0Fl7Wr+XtR+/asB9NSP1yoQti+ukDgQiTlwXLK5uNFMwMvV3ZS/D73jN0nNNhx/cNPkbFELWk6wQeIeYc8twJ7RYwDU8xqmtqRDMHRF6p8YfGiuGeiJpSDazpM/brwblH8k+grrrfGrj+QJcMmdtPUrd51Iojl8Err819tduQfhcZmb17CvFrhUh54cHKnShfjPhfzJx3CEpitAxRIfb8qrZOdeGugLT1k8jzYQClC+d3uW+g==;ok1uSsOZdEEmgCj5QxtyKw=="
 ---
 

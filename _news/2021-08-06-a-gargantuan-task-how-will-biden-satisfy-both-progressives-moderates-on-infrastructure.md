@@ -64,6 +64,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 55
+  - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
+    excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
+    publishedDateTime: 2021-08-10T11:29:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 13
 
 secured: "IJCBjSa9hhvJCQpU4nuuPRzFr2kmO+nOTRyIYgUQZOGrQYr9XGabeoNdRH4/fgtQFsKRb7OCWQdPB3G/8HvkaQIgKmcSUQmuBHosNNu/4qfNBNvO0DKS3UDAS3NSxxB0lll+BO9nkSaM70JAEIaFg8f6EWsuw6tAscdj69IQzu+qn0I+hr6HVeIFjur0lrarIlB2Teph/HJV2ZDX91Aa129oBnHLJ6HjZOSVgnOWxWy52qV4YtpuYLqFZE2AY8tr54hdkGhnDwBXxo6AtMa5SxrlaQvDWKDV5YsKjzUSlG6pYVFmCCLE/k90TakAXJQUH4ivTIt+gIQJd/q4hdWmEVbUkAxDlebxbq8iCL/nqOH6d9pm8PLHVTfAeWl++VMA20pXzeNbyU7oox2iaZhw4U5e6u7WiAqWfTDGxOnnyL6yJsip7KV2GYBar5/X0eoTfqCta1gQ9Fq5cYtr8BD0t3JYq859nH0OtnPFzU0tn37xWww2xcx0AH7jHdi28KfuSPMcQZeAILM6TKhK3rDeRg==;q8/+CJdR39Yg99hrOxTInw=="
 ---

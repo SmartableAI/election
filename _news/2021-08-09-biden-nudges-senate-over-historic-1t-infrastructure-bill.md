@@ -64,6 +64,15 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 45
+  - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
+    excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
+    publishedDateTime: 2021-08-10T11:29:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 13
 
 secured: "HiT2c4+mpm007FKswoD0w8M/I9PQDjj+L+EzC8gWpOc/64lA8VTUapImoZoTYCktyeV1MS6tYL60GDTBjI2XOhQHQvN176AMrkZntQOquwnzTGO1GCW9seR/jGnastQ3nb94+rbRe7T48eyvhwPftlu4+qI67zoIb/MI+1qUV4pvzIK0kQ3V63De7iWGYFeRCZAgzf2eTh3TX4u69Wz+R3YyKzeJjrmMPnoeo8kw030fQFLDGrd6zMktNJbTSALcriwa8z78pkQDXkMXuSoTepBvYdGLVq6i2NKqtawmBzYykdp9xKH4SlpdYMDdp3f1T7I5AVnXssBL4/FBMgnAJlUFJTKKYcEZzJskJHldKGvEuh9FYtXeKOc5+xhEEO728c/XHuRsAHcYc1vDCFWHqFn8OFwO/3BtA4acy+qTJyy2PNxfy/LHUhxo0C7+NZ+qiMzH63fm6eGsWwewkmMgrOwADIGuPnFZVQBIkUjL8FxOqv/wHG/WD/Y3In+S69Bz+OJpJpWEUCuc0rVcNSp31w==;ZIUbsWmlul5Pw3hqKUJaxw=="
 ---
