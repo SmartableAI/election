@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-pre-checked-box-donation-tacti
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp"
 type: article
 quality: 86
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/08/08/NTEG/b2fa4bb2-ba76-4418-abf1-72ecbbeb1696-Lyons_Trump_Updated.jpg?auto=webp&crop=432,243,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Shooter Sentenced to 10 Years for Firing Into Car, Wounding Black Girl at Iowa Trump Rally"
+    excerpt: "A 26-year-old Army veteran has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager."
+    publishedDateTime: 2021-08-10T06:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 65
+    images:
+      - url: "https://media.nbcnewyork.com/2021/06/GettyImages-1180123646-1.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

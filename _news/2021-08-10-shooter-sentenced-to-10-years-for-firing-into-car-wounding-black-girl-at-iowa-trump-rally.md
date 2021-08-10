@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Lyons: Trump willing to lend a 'helping hand' in Mass."
-excerpt: "The chairman of the Massachusetts Republican Party is an unabashed Trump supporter and is newly touting his \"one-on-one\" meeting with Trump on Thursday."
-publishedDateTime: 2021-08-08T20:19:00Z
-originalUrl: "https://www.telegram.com/story/news/2021/08/08/president-donald-trump-massachusetts-republican-party-chairman-jim-lyons/5532142001/"
-webUrl: "https://www.telegram.com/story/news/2021/08/08/president-donald-trump-massachusetts-republican-party-chairman-jim-lyons/5532142001/"
-ampWebUrl: "https://amp.telegram.com/amp/5532142001"
-cdnAmpWebUrl: "https://amp-telegram-com.cdn.ampproject.org/c/s/amp.telegram.com/amp/5532142001"
+title: "Shooter Sentenced to 10 Years for Firing Into Car, Wounding Black Girl at Iowa Trump Rally"
+excerpt: "A 26-year-old Army veteran has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager."
+publishedDateTime: 2021-08-10T06:34:00Z
+originalUrl: "https://www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/?amp"
 type: article
-quality: 75
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Telegram
-  domain: telegram.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/08/08/NTEG/b2fa4bb2-ba76-4418-abf1-72ecbbeb1696-Lyons_Trump_Updated.jpg?auto=webp&crop=432,243,x0,y0&format=pjpg&width=1200"
+  - url: "https://media.nbcnewyork.com/2021/06/GettyImages-1180123646-1.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -43,19 +43,19 @@ related:
         width: 695
         height: 347
         isCached: true
-  - title: "Shooter Sentenced to 10 Years for Firing Into Car, Wounding Black Girl at Iowa Trump Rally"
-    excerpt: "A 26-year-old Army veteran has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager."
-    publishedDateTime: 2021-08-10T06:34:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/?amp"
+  - title: "Lyons: Trump willing to lend a 'helping hand' in Mass."
+    excerpt: "The chairman of the Massachusetts Republican Party is an unabashed Trump supporter and is newly touting his \"one-on-one\" meeting with Trump on Thursday."
+    publishedDateTime: 2021-08-08T20:19:00Z
+    webUrl: "https://www.telegram.com/story/news/2021/08/08/president-donald-trump-massachusetts-republican-party-chairman-jim-lyons/5532142001/"
+    ampWebUrl: "https://amp.telegram.com/amp/5532142001"
+    cdnAmpWebUrl: "https://amp-telegram-com.cdn.ampproject.org/c/s/amp.telegram.com/amp/5532142001"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 65
+      name: Telegram
+      domain: telegram.com
+    quality: 75
     images:
-      - url: "https://media.nbcnewyork.com/2021/06/GettyImages-1180123646-1.jpg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://www.gannett-cdn.com/presto/2021/08/08/NTEG/b2fa4bb2-ba76-4418-abf1-72ecbbeb1696-Lyons_Trump_Updated.jpg?auto=webp&crop=432,243,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -76,6 +76,6 @@ related:
         height: 800
         isCached: true
 
-secured: "FOH9HEVa0HSx9zh05Yi0KjN2MDCh0AWEqi4pTjziHwIO6B4pg9avVi9M9DUzS691MW7HjDdAxXyR+CYk4GX4Bfos1tXk8xkA2Jckhx8v5d1YMWIX0wHgTPIx9Q2+1RmpCMi7/tfz/jL8OrqWIEqST73l3drFEr0+fXwqXUpYyE45VhWm43tov4y4+wDkXXs3FWm+C9LvoL4Ti0PVGeKWZgdOU9S9I7jqqFIbElWQKenYTN7OyOzrhEisAWK4VFWOI9qYtBJqrgTwKIf++canARhghuTsmES+E6WUlMamWJCv859EhBV1j6vg1+ArKaWoiQZPU8lAkUJUceGE8X4ZRw+ETVKdN3R0cDy6B41cPeo=;ewIodftkcCJqd5X8A5EfHQ=="
+secured: "XymJSPBABsdyNbjYnA9LmT2jvicduxf/6gaexIIOhV4QX3PxhygMHnkyc5LQdIKMbWt/iFwrnMEyJlSlNBz5P5kLO6+hTkzpggvbrjfGdxhEKd+4ZUcYYsnpqOT2TghMhcU2qohsNpDlnhVvg3ggMyJKIxF+PEpMTLROCrlZSjha3U0TtzEyQDd9gfS+4vhlUDdYTbGkBN0EWjcuU3WXeDqiQew5jjP0WLvmGxBSZh2jGvIsWANwiG0E7jEKj1eja6XWd5dEHSmyw4svlTpzrMIU+92uQJpycss/+wMSVNxDs1IJitzg0paoHx+QXn22kaJqNDyQWhvi44y5l8e03wMZgG4k3+Y4r+tP23JSJkc=;uv9llTF7XtUGNxzNWyl29g=="
 ---
 

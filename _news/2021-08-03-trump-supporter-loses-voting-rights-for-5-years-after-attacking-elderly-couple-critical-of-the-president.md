@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Shooter Sentenced to 10 Years for Firing Into Car, Wounding Black Girl at Iowa Trump Rally"
+    excerpt: "A 26-year-old Army veteran has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager."
+    publishedDateTime: 2021-08-10T06:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/shooter-sentenced-10-years-firing-into-car-wounding-black-girl-iowa-trump-rally/3212466/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 65
+    images:
+      - url: "https://media.nbcnewyork.com/2021/06/GettyImages-1180123646-1.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "RVSCgdJr97DNHmRg+7irlsx0pTFd74eVQQesmwuppbUb5DX0c+CLUwQhVuSNzP4uXUdgrsivzEdSp7aUFg8zQn1lfNRLuw3vwJ4cwbH1wznCu4N/f8xJDh2xeEUF1fSxsN/SyTcJLTJjYAO9h870CXLpGKiDy0wNfiBQDBVAgXQyEo9xrcVG5bUrhD1nyxJxdgAQR4jwWhzk9BkT6XErBXvoVCO7lJuYkEX6NpEN/NvcmOKn+ojrNoJuLVz4rt7YC73ChnVYxGX0ZsJ/oHJl4P0HhrYOQ0YjgokK2d5aW3/fsZRzJOYKsx8XfW0iAF8tKaEgGpZAwffd16u33xcw/UKS6paUdBXGN5kyeUoTlK4=;dgKpJU8DTLmFd3M+rU7myg=="
 ---
