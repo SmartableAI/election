@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
+    excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
+    publishedDateTime: 2021-08-10T18:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/651db1d74421abccf904baf648d518c4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/651db1d74421abccf904baf648d518c4/HARRIS-HEALTH-CARE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
     excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
     publishedDateTime: 2021-05-09T08:51:00Z

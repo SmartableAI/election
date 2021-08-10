@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Delivers Remarks on Clean Energy"
-excerpt: "President Joe Biden drives a Jeep Wrangler Unlimited 4xe Rubicon around the White House grounds during an event on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday,"
+excerpt: "President Joe Biden signs an executive order on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
 publishedDateTime: 2021-08-05T21:31:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9c578ff9d779a7b8233785c560ace8b8/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9c578ff9d779a7b8233785c560ace8b8/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/5342ba33f28bc5377a5fd5ad40c14d1f/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/5342ba33f28bc5377a5fd5ad40c14d1f/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9c578ff9d779a7b8233785c560ace8b8/WHITE-HOUSEBIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/5342ba33f28bc5377a5fd5ad40c14d1f/WHITE-HOUSEBIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Biden delivers remarks on the Infrastructure Act"
+    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks on the passage of the Senate's bipartisan Infrastructure Investment and Jobs Act in the East Room of the White House in Washington,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d454b789edba3fa918c29838db56d5ff/President-Biden-delivers-remarks-on-the-Infrastructure-Act/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d454b789edba3fa918c29838db56d5ff/Biden-Infrastructure.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
     excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
     publishedDateTime: 2021-08-01T18:36:00Z
@@ -139,6 +153,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "rCDUU9WWifATgZWL+6i3felGbzUToW6+xbc7M+Y0ZBTfhmGKAB+XKIAIYdUgOYis9QqOOFutrlvOnmuWSYmi/CNEhB5olMAlTuPxwcmfxSvXp146aV7qvxTPvc8CpONp0TX1inttJJ2ymrwGcdLqs4ZjABm2GP+gEQCZ0PccND0XaMj4nVyTsfnbr7sFo/tTYxV9Lo5BYROyM+vqNFoqJ4/r8+UVu2fmAk605MK3CKGInyJ+RFKRwcT2YdlLxXXajVKk1+bUh21zjXVesN7uaVaAj0lPB5hHGQgeCodNi1S3kzpTDGzmFKTwUpDmO7SKIyyl47J1SeL+MYdmls/of5kcpOSct8huZ7t8lA5bbK3QJinKNKMrXPNUtyiSI2TD1tIl+xpEBEeY+7Vtc/l0c2KgoHr4tGkpOmw54a/7rKD7nxbR50IUFMf+FtFYf/JW74tfB/5vIwjJIiXlsdC7NkMudWS6cS+t7m3G3IOM5sVfv15J5FgmtgL3pM1mx8wIoAgn2Vnqrj2Ot4bA9pG69g==;/+30pLADhCTBIqFxE46AUA=="
+secured: "9RkHO+bs+mASixWevThiWZKUfkMXFFjwqpW+1oxd56m3TAIN49QUA85ZpaGOCcXpXbVj+ouQda5Z0rzvTA4jPfeXLfSrVcyAXA6tjrzj+T4mQhmPhQL6haeCAtiZSGAJPUFN5fIy9RCSQWUMC+LH+V9e/oCfLRIiCi/ymt1vucuMjFJMLliK6f4LT821lMiuV+VHHY3f2PYX1kRmjaEZC4RPZsCMUu65RqkdJYv9raF7qvq/q0n4sQzxvHgk1VVetQWTQaxshlzrJiMOJ7Rx3khXN+31UG8z/wv9i8iEAIS4wAHhZZ4/6FdKrhiP2xin4TF+KEqNj9YTaBl/wHo3jEuDdV4r5E8c5iKeeRNJmcQ=;TJcT77NoNFaEUcba8XyitQ=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cuomo washes out coverage of Biden legislative win with resignation announcement"
+    excerpt: "Just as the Senate passed a $1.2 trillion infrastructure bill in a legislative triumph for President Biden, the news cycle was overtaken by New York Gov. Andrew Cuomo announcing his retirement."
+    publishedDateTime: 2021-08-10T18:09:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sWYXqn12iwU/cuomo-coverage-biden-infrastructure-resignation-announcement"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-coverage-biden-infrastructure-resignation-announcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-coverage-biden-infrastructure-resignation-announcement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas Rep. Chip Roy calls for impeachment of President Biden, DHS Secretary Mayorkas"
     excerpt: "Texas Rep. Chip Roy is calling for the impeachment of both President Biden and Homeland Security Secretary Alejandro Mayorkas over their response to the flow of illegal immigrants across the southern border over the past six months."
     publishedDateTime: 2021-08-03T22:24:04Z

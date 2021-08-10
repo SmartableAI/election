@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b"
 type: article
 quality: 140
-heat: 1720
+heat: 1740
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1866859/couy-griffin-cowboys-trump-capitol-riot.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Dominion sues Trump-friendly broadcasters over fraud claims"
+    excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election wa"
+    publishedDateTime: 2021-08-10T17:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79385184"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79385184"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79385184"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_357c21d0ff7349e8b17ccf46ae6c13bb_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump-backed coal lobbyist wins Republican congressional primary in Ohio"
     excerpt: "Ex-president hails Mike Carey’s victory in special election seen as test of Trump’s continuing hold on party"

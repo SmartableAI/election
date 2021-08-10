@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Harris’ spouse to represent US at Paralympic Games in Tokyo"
-excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the later this month."
-publishedDateTime: 2021-08-10T17:00:00Z
-originalUrl: "https://www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
-webUrl: "https://www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
-ampWebUrl: "https://www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/amp"
-cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/amp"
+excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month"
+publishedDateTime: 2021-08-10T19:00:00Z
+originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
+webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
+ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo?_amp=true"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Times Leader
-  domain: timesleader.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/c85a5bf/2147483647/strip/true/crop/5455x3648+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6b%2Fde%2Fb2e7b72bd3eab017afa49b6e8eea%2F7cc37b2021fa43ed9b199155f71acacc"
+    width: 320
+    height: 214
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fAxh/srYtUbqxnhmVLC+OcXXlR0rKA5AiQIKSjr3CrQriB5gaC5fE2+d0UwMMK12Eof2bkaVw+98//dyfLClKGg0ey6ux/q5ZteSIO7JeIQ/gV/qNOwNT4OnfHay/yF43BPq+bH5DVIVUG5zGRNDmzvsRHq/gPuiixVunIdG7OOO/Zx/4hGQ3camX3/ZYzT1oumAB+6BnRay277IS7chevfPDbMM4tt2SArn6gc8XZZl1nhmRM6XyBT8EBdPNhTSW6CJycyvZIpxBgvZuXx+wDZf8FcSyyZR+BxpC18CDnbKSi/rT7cA6ufoPi+meHZ5rVv4zH3bWZF7I3/AEv8eTAq6Q+7oE8lugjIrqTT31NU=;NdRWxHn4h66bxMYqHv31Mw=="
+secured: "QUwN+zJ53GDHRJCbzrC28ZeedV6Kdg7kgI9whV7Mxliriu/kBgEdGo6RaURiBtx9lus1IE67ptmxA6LQpSMP7vAXbwPYa9+GYP/zyoLdYFTThHhJe8+IW/UjZR5V3KOOXRCD5Dz0QUB45Z0yLb1XUNt6GEIBaugw7ebaU9mcmMqsOUJ2Hy6Y+dGvTcx9bYtPf9OB/cjqpvKjB4pKw6BOmCtF3PvGYSnDqMJ9FeHoXy3O77t2aEPaOxjvqrJnO59ncqz7r8TiAj0xOyrd9t4u/TlJ19IP+YUMCWGi7hhzJ2ACB0tWKYsKrkkt0qc9mQexeYGJzK0xK+ND1rHTnEKDhAQiisnYCEn0oqdOFxqbOa8=;a28olf3l2j9azQRGWYfPsg=="
 ---
 

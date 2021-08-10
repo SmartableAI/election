@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Harris’ spouse to represent US at Paralympic Games in Tokyo"
-    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the later this month."
-    publishedDateTime: 2021-08-10T17:00:00Z
-    webUrl: "https://www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
-    ampWebUrl: "https://www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/amp"
+    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month"
+    publishedDateTime: 2021-08-10T19:00:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo?_amp=true"
     type: article
     provider:
-      name: The Times Leader
-      domain: timesleader.com
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
     quality: 75
     images:
-      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c85a5bf/2147483647/strip/true/crop/5455x3648+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6b%2Fde%2Fb2e7b72bd3eab017afa49b6e8eea%2F7cc37b2021fa43ed9b199155f71acacc"
+        width: 320
+        height: 214
         isCached: true
   - title: "Harris' spouse to represent US at Paralympic Games in Tokyo"
     excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"

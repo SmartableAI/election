@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says he 'respects' Cuomo decision to resign, say disgraced gov did 'a hell of a job'"
+    excerpt: "President Biden on Tuesday backed embattled Gov. Andrew Cuomo's decision to resign amid a scathing investigation into sexual harassment allegations while saying the New York governor did “a hell of a job.\""
+    publishedDateTime: 2021-08-10T19:46:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-lvC99EzNRg/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden accuser Tara Reade reacts to Cuomo's resignation, calls for 'real investigation' into president"
     excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, weighed in on the stunning resignation of Democratic New York Gov. Andrew Cuomo amid his sexual harassment scandal."
     publishedDateTime: 2021-08-10T17:25:00Z

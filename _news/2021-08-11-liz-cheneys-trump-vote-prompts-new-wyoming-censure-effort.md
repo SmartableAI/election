@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Liz Cheney’s Trump vote prompts new Wyoming censure effort"
+title: "Liz Cheney's Trump vote prompts new Wyoming censure effort"
 excerpt: "Some local Republican Party officials in Wyoming have announced that they will no longer recognize Liz Cheney as a party member because of her vote to impeach Donald Trump"
-publishedDateTime: 2021-08-10T17:44:00Z
-originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort"
-webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort"
-ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort?_amp=true"
+publishedDateTime: 2021-08-10T17:47:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
+webUrl: "https://abcnews.go.com/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/7c7c256/2147483647/strip/true/crop/5000x3344+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F6c%2Fd9a79a4c06abc7003973cf06132b%2F26f031426c0b407f9ca2b6ac53dcfc1e"
-    width: 320
-    height: 214
+  - url: "https://s.abcnews.com/images/Politics/WireAP_2deff29e289b449f993398aae204943e_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -92,6 +96,6 @@ related:
         height: 701
         isCached: true
 
-secured: "k3OvIHkluqB8iPAahLRR5ZClUR2c12S26FUae1cElSYu2KbPcz+jJtwQvxD6aF5bExd0+guHOZ/pufoh2jwrR3a8sp6A1bROivC0mn/qF9X6VLOmHwCZUsybw1DUjfDb3opePZXvgp19h/h7w91wJsMyh/MlmFhfkYbaONph5DSJClXzbjiCvr5z6hoRvzWNipt7LMlmBL/9s1YWyMuKznpGpJqa3U+P/y9Bl+9pS5XVv3j/F91Yx2b1mC3NkNK4/zBXoTlfV/G9Np3szzYPJlLkZQtlM5XXP2X8DQVALYVYuR6lM4zcwGKZQ9pDP0cifPypsHokGyR0byGRtiyf0PAmccs0vYm+ClFUPhH7D/8=;Vz6inXbkbRLjmrHR+5FXTQ=="
+secured: "BpyiezL/M0iWmGSmdLt/tn8bH+QV0v8zZLihprsMH2pCQ29NNBJuY8iKhBN5TTwe/obNEAmXS3dhyxKEALT9OQHySUi6P7u/13ddqR+uPoZ0vYAzQI+Hv11tXgnjVEDOsw1oUwCBpY2OhyNEb+/vrzEoM9vm0/Qirm6Girepn3O81Tj5HFOeHhV6wSMf6nHuTuuLZVlqnxf6AjI7JRJKPIJCT2L//wSV50chdnf0/fp682CI1H2Hop2gGqAurmTfpDIaSZvLN9vpAGCsj1LIry8OoJu352BkF4Ac6R59RP313xgnybil/UQ2r+ZzwOiIgFWwQ6I81RODDc6wyB/CRyHsC7FVdxqB89ZFSQtQOvA=;OEcSatnrJkTskNHKscHpng=="
 ---
 

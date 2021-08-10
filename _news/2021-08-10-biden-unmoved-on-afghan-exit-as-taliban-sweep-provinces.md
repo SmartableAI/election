@@ -80,6 +80,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
+    excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-10/biden-says-he-does-not-believe-he-can-intervene-in-states-banning-mask-mandates"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
 
 secured: "gv53q88sP9EVsn27+C737levohFZXZbYwEGW2aQkpd+6rrqrAk+hMIB3fecSQ4F5nCLfpH7rejkN5FsyNZ6g2wmq7ufkIbL1xYbI5Yyy4SM7ukgYACJgTtC/vHN/uduZZoeFDGLtDVouA4GltEbMrBp6uJemOuJ+dto7AHKhrCqJRh2G/qpaRyRg73tyRpWSIM6tnab4nT7nUfIbStTv/oFvy6jzRWGsHXl8vWKQVXpAvp4ppUWgtpG4lQr4thvYl2Ls4pvwhPO+3jRF3jKIzGGBCQnYMowixfCFK+nm+qKetUDH57v42c3jv2dDH9mJ17UF8+/Xxl06K5nS4Zed0BVL/QgAH/KVkFjIqjYlPzE=;AEhKKKpuIxOWKY9jRzAWjg=="
 ---

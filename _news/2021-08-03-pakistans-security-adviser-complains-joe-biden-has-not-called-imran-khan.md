@@ -85,6 +85,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 55
+  - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
+    excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-10/biden-says-he-does-not-believe-he-can-intervene-in-states-banning-mask-mandates"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
 
 secured: "71e5QxiLmj1VmeMDSa8zd9TUS+Xz3K1Pn4oOnrmq2/ahAcKX8DYgsXAmuu4P43qpVZiv7xB7LlRvXZIuudWqvkS3gAw4E0PZdZk20m4eeDtWkv3DWXkA0eSG0wtPnoapcc4ZPJ6ZS+dAl24uvYkXGOQpeA48fRtQlfYljjtpIuBhD/Q0jIaX0onA7ARrlhFev6LThquJ6Ai6w6B8oLaaye4bV+e5n9hqkWLrBTO9VK4FcYbj6fw7jbbvM7kXRqY8cmBGFdp6V+ROBYbX/zDjQAxB+ykuIplQ2RmoZMFa1JtC9FPLDMqpNFXZ3aAk5vphuL39xJhljT7ggxGltOxSauV50qm48OS84UgG6sXNMvVR0ccuMAqnBrEepRDVWfFxYyiktQXd4tDn1C5TL7SoD5GcQJQdn9izoKy8VfqNmcHSl7voIYTNrAVdDt6djCR34o79m+iMeSq+pF9cajCh8rTjr4V9bCLavHApAGD85WdPEwsUcQqkvque1zus14KYh/e1yfDXhYiyZxxrW9BT2A==;ITxEZXNhNacCA7MEnjcv5A=="
 ---

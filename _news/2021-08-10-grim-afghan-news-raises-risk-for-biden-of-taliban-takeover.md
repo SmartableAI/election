@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-ri
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 55
+  - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
+    excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-10/biden-says-he-does-not-believe-he-can-intervene-in-states-banning-mask-mandates"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
 
 secured: "J0QaSC+lth6vKrGtNny48DWnEgblqAEyZM5OeASktQybyumrIdDZqAODTUwzdv+3gCgV+vyPHSNEssG5Q7gMraAGpnN1M/JZmQAYhIZS3guuq648eAJfpKy7R+Lxgg839zXJtlnwK/o7SJuTQ3uR0SMzeG2+NL5wliWpBdRcIqRTQPCLam4s7gk1NRvqi0ufurJ0W8zs1tmqJZovHS39PdhEvx5YGOLD7BvOq35JNOBcbmxCnyKb2I0j/TjjRTTmbn5Q1nsQtyBoyt0oY0Dx8hg2yOPud8YzhcGw9RRxM/Qinq2g7u41ODUGh6quEaKG67Z23d+Q+MfubauapMbd2MAPX7T3Ao83TbH8zmeo3Ic=;FeSNvt6VdCTZ0ftke6yLSg=="
 ---

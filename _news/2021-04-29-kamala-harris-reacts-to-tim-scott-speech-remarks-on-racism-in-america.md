@@ -376,6 +376,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Radical Nation: Biden & Harris's Dangerous Plan for America"
+    excerpt: "The following is an exclusive excerpt from Sean Spicer's new book, Radical Nation: Joe Biden & Kamala Harris's Dangerous Plan for America, available on October 26. Read Full Artic"
+    publishedDateTime: 2021-08-10T18:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/10/radical_nation_biden_amp_harriss_dangerous_plan_for_america_549096.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/55/550407_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "VP Kamala Harris: We Must Focus On \"Root Causes\" Of Migration Crisis In Central America"
     excerpt: "Vice President Kamala Harris spoke about the migration crisis in Latin America during remarks to the 51st annual Washington Conference on Tuesday. It is one of the first times she has discussed the idea in detail since the administration announced she would be spearheading efforts to stop a surge of immigrants on the Southern border."
     publishedDateTime: 2021-05-04T15:15:00Z
