@@ -215,6 +215,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden imposes sanctions against Belarus’ Lukashenko regime"
+    excerpt: "President Joe Biden on Monday said the United States is levying new sanctions against Belarus, marking the one-year anniversary of Alexander Lukashenko's election as president in an election that the U."
+    publishedDateTime: 2021-08-09T23:23:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/09/biden-imposes-sanctions-against-belarus-lukashenko/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/09/biden-imposes-sanctions-against-belarus-lukashenko/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/09/biden-imposes-sanctions-against-belarus-lukashenko/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/WZm4Fbr03FfShuCSoqnxa1nt1gg=/480x0/media.spokesman.com/photos/2021/08/09/6111b5ab75ec9.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Biden signs sweeping executive order against Belarus"
     excerpt: "President Joe Biden on Monday issued a wide-ranging executive order against the Belarusian regime, accusing it of repressing human rights and democracy."
     publishedDateTime: 2021-08-09T18:43:00Z

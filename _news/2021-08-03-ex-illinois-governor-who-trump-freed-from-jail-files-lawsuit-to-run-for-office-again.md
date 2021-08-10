@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-f
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
 type: article
 quality: 117
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -87,6 +87,17 @@ related:
     provider:
       name: Modesto Bee
       domain: modbee.com
+    quality: 55
+  - title: "Trump-linked Georgia lawmaker to run for lieutenant governor"
+    excerpt: "Burt Jones has filed to run for lieutenant governor in Georgia, launching another Republican candidacy that will be closely tied to denying Donald Trump's 2020 loss of Georgia's 16 electoral votes. Jones,"
+    publishedDateTime: 2021-08-09T23:32:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253340213.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article253340213.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253340213.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
     quality: 55
 
 secured: "RlDZ2tdj+2aMzImAOBkJBstFJsj6M4S79TtNpKTxQijKU5pN6+JDsBXx51QDpnPFQoDSFtDsXGae1eWXzqJITr36fBHPizxFuFk0vMbTUXq9FlSLay2Ep/8n+UavEMV4eG40mRgdVUNFPG0muw9nI/LZTMetvWUWEHnM9qK2pSF6quCi70CqxXu9voaC35rEqQO6bvKQ5/lGkFZUZtzMb1D81PlOkOBSCpAYa7WTTG63rezYAwckFUKATKtDnhkVzjqamkX5BE7Nc/anF1Df4QSbaB015N8Nq5QTk4f+yjxtAzEvvr61wJXtdj3LGcA9CSi4vw2lkzDOP4wkSiavtIt+amv10eNfaph4fWUWJSqLFFXrX8H9THoBWQaZUDE+ld10qIWHXRrbciy9bwVeYrIMzKO6qQz6RGdI4lV0fq5fuGdhZUDsyK+abFzHWXJomO/dlTIyqfl4x9obDrqVh/05ARFrYtajjKUVTKfPx88u7nS1DFI0/F78uhELzYz1QmVRi5Xgik4FiCW85sczrQ==;HwHc20SLv8adI0fHDkNgng=="

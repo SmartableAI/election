@@ -215,6 +215,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden imposes sanctions against Belarus’ Lukashenko regime"
+    excerpt: "President Joe Biden on Monday said the United States is levying new sanctions against Belarus, marking the one-year anniversary of Alexander Lukashenko's election as president in an election that the U."
+    publishedDateTime: 2021-08-09T23:23:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/aug/09/biden-imposes-sanctions-against-belarus-lukashenko/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/aug/09/biden-imposes-sanctions-against-belarus-lukashenko/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/aug/09/biden-imposes-sanctions-against-belarus-lukashenko/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/WZm4Fbr03FfShuCSoqnxa1nt1gg=/480x0/media.spokesman.com/photos/2021/08/09/6111b5ab75ec9.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
     excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."
     publishedDateTime: 2021-05-26T17:51:00Z

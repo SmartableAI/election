@@ -281,6 +281,22 @@ related:
         width: 2500
         height: 1665
         isCached: true
+  - title: "Sen. Marsha Blackburn Says Many Non-Republican Voters Tell Her They 'Miss' Trump's Policies"
+    excerpt: "Tennessee Senator Marsha Blackburn claimed on Monday that many non-Republican voters have been telling her they \"miss\" former President Trump's policies. The Republican congresswoman made the comment during a Monday appearance on Fox Business' Kudlow."
+    publishedDateTime: 2021-08-09T23:48:00Z
+    webUrl: "https://www.newsweek.com/sen-marsha-blackburn-says-many-non-republican-voters-tell-her-they-miss-trumps-policies-1617713"
+    ampWebUrl: "https://www.newsweek.com/sen-marsha-blackburn-says-many-non-republican-voters-tell-her-they-miss-trumps-policies-1617713?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sen-marsha-blackburn-says-many-non-republican-voters-tell-her-they-miss-trumps-policies-1617713?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1866852/marsha-blackburn.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Rep. Jordan acknowledges speaking with Trump on Jan. 6"
     excerpt: "The Ohio Republican’s comments during a television interview make it more likely he will be called as a witness by the House select committee probing the attack on the Capitol by a pro-Trump mob."
     publishedDateTime: 2021-07-28T18:20:00Z

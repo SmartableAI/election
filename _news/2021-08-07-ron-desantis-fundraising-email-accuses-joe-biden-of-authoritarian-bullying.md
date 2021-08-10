@@ -114,6 +114,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Ron DeSantis political committee fundraises off Joe Biden ‘confusion’"
+    excerpt: "President Joe Biden may have been joking when he referred to Ron DeSantis as “Governor who?”, but the Friends of Ron DeSantis political committee is taking it seriously … and using it to make some quick cash."
+    publishedDateTime: 2021-08-09T23:18:00Z
+    webUrl: "https://floridapolitics.com/archives/446989-desantis-biden-confusion/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/01/Biden-DeSantis.png"
+        width: 992
+        height: 744
+        isCached: true
   - title: "Half of Maine counties could soon be covered by Joe Biden’s new eviction moratorium"
     excerpt: "Once a county is designated as seeing “substantial” or “high” transmission, residents are protected from evictions for at least two weeks."
     publishedDateTime: 2021-08-04T15:52:00Z

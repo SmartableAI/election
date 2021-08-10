@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "9/11 families won't welcome Biden to memorial event unless he declassifies evidence"
+    excerpt: "Families of hundreds of 9/11 victims wrote a scathing letter demanding Biden declassify evidence"
+    publishedDateTime: 2021-08-09T23:03:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xm8iSjnhqJk/9-11-families-wont-welcome-biden-to-memorial-event-unless-he-declassifies-evidence"
+    ampWebUrl: "https://www.foxnews.com/politics/9-11-families-wont-welcome-biden-to-memorial-event-unless-he-declassifies-evidence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/9-11-families-wont-welcome-biden-to-memorial-event-unless-he-declassifies-evidence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d0cafea-a7d0-47c8-ae01-bb53bf374711/fd985713-0970-4012-a2d2-2829c133ff34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Texas Rep. Chip Roy calls for impeachment of President Biden, DHS Secretary Mayorkas"
     excerpt: "Texas Rep. Chip Roy is calling for the impeachment of both President Biden and Homeland Security Secretary Alejandro Mayorkas over their response to the flow of illegal immigrants across the southern border over the past six months."
     publishedDateTime: 2021-08-03T22:24:04Z

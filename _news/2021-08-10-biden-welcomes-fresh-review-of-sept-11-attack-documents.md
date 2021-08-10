@@ -103,6 +103,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Ron DeSantis political committee fundraises off Joe Biden ‘confusion’"
+    excerpt: "President Joe Biden may have been joking when he referred to Ron DeSantis as “Governor who?”, but the Friends of Ron DeSantis political committee is taking it seriously … and using it to make some quick cash."
+    publishedDateTime: 2021-08-09T23:18:00Z
+    webUrl: "https://floridapolitics.com/archives/446989-desantis-biden-confusion/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/01/Biden-DeSantis.png"
+        width: 992
+        height: 744
+        isCached: true
   - title: "Ron DeSantis fundraising email accuses Joe Biden of ‘authoritarian bullying’"
     excerpt: "In a seven-paragraph fundraising pitch, DeSantis’ political committee, Friends of Ron DeSantis, accused the Democratic President of “authoritarian bullying.” “Joe Biden might want Governor DeSantis to get out of the way so he can impose his radical agenda,"
     publishedDateTime: 2021-08-06T22:54:00Z

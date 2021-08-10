@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "9/11 families won't welcome Biden to memorial event unless he declassifies evidence"
+    excerpt: "Families of hundreds of 9/11 victims wrote a scathing letter demanding Biden declassify evidence"
+    publishedDateTime: 2021-08-09T23:03:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xm8iSjnhqJk/9-11-families-wont-welcome-biden-to-memorial-event-unless-he-declassifies-evidence"
+    ampWebUrl: "https://www.foxnews.com/politics/9-11-families-wont-welcome-biden-to-memorial-event-unless-he-declassifies-evidence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/9-11-families-wont-welcome-biden-to-memorial-event-unless-he-declassifies-evidence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d0cafea-a7d0-47c8-ae01-bb53bf374711/fd985713-0970-4012-a2d2-2829c133ff34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's controversial EPA nominee to face Senate, expected to address allegations of past racist comments"
     excerpt: "President Biden’s controversial nominee to hold a leadership position at the Environmental Protection Agency (EPA) is expected to face tough questions on his past comments about civil rights laws and support for reparations set to faces the Senate soon during his confirmation hearing."
     publishedDateTime: 2021-08-09T20:20:39Z

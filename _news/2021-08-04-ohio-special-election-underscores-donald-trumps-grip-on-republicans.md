@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b"
 type: article
 quality: 140
-heat: 1640
+heat: 1660
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1861644/donald-trump-cheney-ohio-republican-primary.jpg"
         width: 2500
         height: 1665
+        isCached: true
+  - title: "Sen. Marsha Blackburn Says Many Non-Republican Voters Tell Her They 'Miss' Trump's Policies"
+    excerpt: "Tennessee Senator Marsha Blackburn claimed on Monday that many non-Republican voters have been telling her they \"miss\" former President Trump's policies. The Republican congresswoman made the comment during a Monday appearance on Fox Business' Kudlow."
+    publishedDateTime: 2021-08-09T23:48:00Z
+    webUrl: "https://www.newsweek.com/sen-marsha-blackburn-says-many-non-republican-voters-tell-her-they-miss-trumps-policies-1617713"
+    ampWebUrl: "https://www.newsweek.com/sen-marsha-blackburn-says-many-non-republican-voters-tell-her-they-miss-trumps-policies-1617713?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sen-marsha-blackburn-says-many-non-republican-voters-tell-her-they-miss-trumps-policies-1617713?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1866852/marsha-blackburn.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Ohio Republicans aim to rename state park after Donald Trump"
     excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."

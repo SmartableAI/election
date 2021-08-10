@@ -83,6 +83,17 @@ related:
         width: 1024
         height: 707
         isCached: true
+  - title: "Trump-linked Georgia lawmaker to run for lieutenant governor"
+    excerpt: "Burt Jones has filed to run for lieutenant governor in Georgia, launching another Republican candidacy that will be closely tied to denying Donald Trump's 2020 loss of Georgia's 16 electoral votes. Jones,"
+    publishedDateTime: 2021-08-09T23:32:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253340213.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article253340213.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253340213.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 55
 
 secured: "KtAIm6r2DI3tI+R5fjNJmQL2brezBmPIma7gXfse1PqvwWp9gPzNoq0bxnKtK1/Bi9KicDxGUPReV2qjfexAJQZLBeQUU/6571tx1wW2sWzn+oWAwJmntQxJP/0ySLSuo3W+nFqmoLoN7qmmIfvyiBXvmqZDpsRv4iPW8UI73h2uNTF2DRQqZWe3xdBwONhzDetZ9GUBXqzwhIvn9WehIqChKNF7p32SMUku2TYW9whYrMCNMQP/IPTybOU0vJnvWrOHMhLdv5cdmLIZAB1hu/YcN+Ak+ifckQMQB4Z4TroYsiUuqEsZlStISHUbk/bIJTbakpSoCo4BvBLXs1FAdFDBAhR0yXf10KC8VvGgAyUACyFu/Y/BvIu8cWgR5XT4N9NlrFzGCdUbIoiq3Ebf9125N53WBiMiy35MDsUVC4rAlr4ZpHdzKAFaNhrOKGYIWZJ62d2pUt6E/bpuTFdyFNpwby9czdRrLV4fXWeEpAVsseUYKVacOaZ+Ks5Ttw9ztVr/lgiVs2cbEOmBPWps3w==;+1DajG0wqOrlrDTi9KxBLA=="
 ---
