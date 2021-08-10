@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Liz Cheney’s Trump vote prompts new Wyoming censure effort"
+    excerpt: "Some local Republican Party officials in Wyoming have announced that they will no longer recognize Liz Cheney as a party member because of her vote to impeach Donald Trump"
+    publishedDateTime: 2021-08-10T17:44:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7c7c256/2147483647/strip/true/crop/5000x3344+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F6c%2Fd9a79a4c06abc7003973cf06132b%2F26f031426c0b407f9ca2b6ac53dcfc1e"
+        width: 320
+        height: 214
+        isCached: true
 
 secured: "NS4+9b0+BbDCtVNral2USryBn8WwbUOWQGfMeci1QZkBFY6jYteSkyVGndh0Lv+1donJCUJeBaufydr0eB6AZhX+pvVEZiOYtyGRUyr1+Uje3gij1djLPTy9OdmR7yEN04vAzGMhX/ye/OuLiwbqjWPkbDPzW1PqmnRFkmaZwFuH6zatSAXWFrf/dk+msW5tobKL6suJxSyt5+mn4g30uPe2ZwoBZxYFjxMbZZdEHdqMcgd48yESqWjPmsdUU/ncS0ybSFKB5TSUcGK8doIsFe9f7CCu2V/EReO5V5eLh4NcZMMyrM1havFCMxbERPU5JJNT4ytMZ7wlcuGIgdRXgmyUub0BCvnhLB/533AkrSC3M8niRbWWQiCrT1EUwoXzLDHgxj/11+Yy9Sjf7xVzm2dUQAPJOC/fUah+AmqltKsNznMzMwaC5TgrwXwi8FCwvtw+CJ0a+b0CdcVgcqBru3jPvFYN0TwJMFH0VYXMWwGjsJI0a7fi0vX2/Loqhf9FLuaYPXe4u/z5aOHIcHYJ1A==;FzxmffG7fHDp7MK/9O8ixA=="
 ---

@@ -1078,6 +1078,20 @@ related:
         width: 709
         height: 591
         isCached: true
+  - title: "Twitter Suspends Pro-Trump US Lawmaker For Covid Misinformation"
+    excerpt: "Twitter said Tuesday it had suspended the account of controversial US lawmaker Marjorie Taylor Greene, a staunch supporter of former Republican president Donald Trump, for a week over a \"misleading\" tweet on coronavirus vaccines."
+    publishedDateTime: 2021-08-10T15:48:00Z
+    webUrl: "https://www.ibtimes.com/twitter-suspends-pro-trump-us-lawmaker-covid-misinformation-3270612"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/10/republican-congresswoman-marjorie-taylor-greene-has-been-suspended.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z

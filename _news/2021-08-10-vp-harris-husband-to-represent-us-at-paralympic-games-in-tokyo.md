@@ -9,7 +9,7 @@ ampWebUrl: "https://www.11alive.com/amp/article/sports/olympics/doug-emhoff-repr
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris’ spouse to represent US at Paralympic Games in Tokyo"
+    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the later this month."
+    publishedDateTime: 2021-08-10T17:00:00Z
+    webUrl: "https://www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
+    ampWebUrl: "https://www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/amp"
+    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1505962/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/amp"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 75
+    images:
+      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Harris' spouse to represent US at Paralympic Games in Tokyo"
     excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
     publishedDateTime: 2021-08-10T13:02:00Z

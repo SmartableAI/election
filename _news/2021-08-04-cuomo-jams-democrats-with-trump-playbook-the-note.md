@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playb
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Andrew Cuomo is more vulnerable to scandal than Donald Trump was"
+    excerpt: "New York Gov. Andrew Cuomo is taking a Trump-like response to misconduct accusations, but Cuomo faces three big obstacles that Trump did not."
+    publishedDateTime: 2021-08-10T16:04:00Z
+    webUrl: "https://www.businessinsider.com/andrew-cuomo-is-more-vulnerable-to-scandal-than-donald-trump-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5faf9b0e402d49001924efbc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Panic attack: Democrats fear Trump"
     excerpt: "Former President Donald Trump still holds sway over the political marketplace and the Democrats know that. They’re nervous about it, even paranoid. Mr. Trump’s been out of office for almost seven months — and in no way took the typical route of most former presidents who linger on the sidelines and write a book."
     publishedDateTime: 2021-08-08T20:38:00Z

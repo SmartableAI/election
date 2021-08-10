@@ -53,6 +53,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Senate passes $1 trillion bipartisan infrastructure plan, delivering a cornerstone of Biden’s agenda"
+    excerpt: "With a robust vote after weeks of fits and starts, the Senate approved a $1 trillion bipartisan infrastructure plan on Tuesday, a rare coalition of Democrats and Republicans joining to overcome skeptics and deliver a cornerstone of President Joe Biden’s agenda."
+    publishedDateTime: 2021-08-10T17:05:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-senate-infrastructure-bill-20210810-xngoltwnhjdw7djgsnkbnwxvpe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-senate-infrastructure-bill-20210810-xngoltwnhjdw7djgsnkbnwxvpe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-senate-infrastructure-bill-20210810-xngoltwnhjdw7djgsnkbnwxvpe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
+    images:
+      - url: "https://www.chicagotribune.com/resizer/9A4Psas_2pSRGH1fQ836JMh-l0o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SZJ2IW6LTWM26RC3DJTFFZHVXA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump blames McConnell for infrastructure bill’s passage: ‘Most overrated man in politics’"
     excerpt: "Former President Donald Trump slammed Senate Minority Leader Mitch McConnell on Tuesday for helping pass the White House’s $1.2 trillion infrastructure bill, saying the Kentucky Republican is the “most overrated man in politics."
     publishedDateTime: 2021-08-10T15:22:00Z

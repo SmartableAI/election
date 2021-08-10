@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525164345-david-chipman-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House seeks to reassure Democrats anxious over inflation concerns in Biden's agenda"
+    excerpt: "A top economic aide to President Joe Biden moved to reassure moderate Democratic moderates that the new $3.5 trillion budget bill would not fuel long-term inflation as they begin pivoting toward the next obstacle to the administration's economic agenda.\n    \n"
+    publishedDateTime: 2021-08-10T16:59:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pP60sRnxWLI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/10/politics/white-house-inflation-memo/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/10/politics/white-house-inflation-memo/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208095509-brian-deese-file-0122-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

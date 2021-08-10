@@ -59,6 +59,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Senate passes $1 trillion bipartisan infrastructure plan, delivering a cornerstone of Biden’s agenda"
+    excerpt: "With a robust vote after weeks of fits and starts, the Senate approved a $1 trillion bipartisan infrastructure plan on Tuesday, a rare coalition of Democrats and Republicans joining to overcome skeptics and deliver a cornerstone of President Joe Biden’s agenda."
+    publishedDateTime: 2021-08-10T17:05:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-senate-infrastructure-bill-20210810-xngoltwnhjdw7djgsnkbnwxvpe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-senate-infrastructure-bill-20210810-xngoltwnhjdw7djgsnkbnwxvpe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-senate-infrastructure-bill-20210810-xngoltwnhjdw7djgsnkbnwxvpe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
+    images:
+      - url: "https://www.chicagotribune.com/resizer/9A4Psas_2pSRGH1fQ836JMh-l0o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SZJ2IW6LTWM26RC3DJTFFZHVXA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
     excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."
     publishedDateTime: 2021-08-08T23:12:00Z
@@ -91,6 +107,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "OcilDA7gbVhceOXTJClr8Ex4JIOU9jravYNheTNYRmqAASiYgFvSq7MnM9GS4FooG+F0IepDmRYTKCPcdg/qFSx0Xm6LzTp5qEJ+WY5g3iyl3ho4i49oGl291O4kstS5y9+WPHl4gRCVJeVJL6OnAIgG3SPvDdIYYQItDnezDTxFCQBAC6rQGO4+g6FMV6jPUEz1wXEsSIe8u3tBB3WiAC+i1ugWvuK+4lo7fSOt3vHxb6TmDsT7rq2b94cRAn9Z6hRMMo//a+Gu18tDJFBzp2fYHTN/LU7su39tyKm2UpJVDMn4pwcMRH93cvZ0eZPkHBbpfTn8OHPEDAxbY/H/wtV2MobJd5GmIn4cJQFsSEc=;4inf1+MwEsZ9/2s9Tm23mg=="
+secured: "+/vAfYu2DyBSAxdS5kwSCn0Kjrtzg0Iq0wQXgfX7LBc3g1nr3b1y6lkVZ5oeR21+qog2w83WCRKDS9dPy/eJIdrhb0pQnlChchS5bIyOzEr3SWlnInV6TNvVSuqgN56XPKmIxbxiNSwhtUy+LQIrz81lxiULmpO9x6EyG/U0fDGiKuLCZZyGjT/+74sGzLuMAlRLz+RzCt2lEm8OoHv98Cw7hsENc+DDdJbKVYv25iBaBGXL8s4HUWS8NUqb3G13O2PGDojmCpHSbhanKKYk5l7cPYAShBURpoQdrjFLkM90+Pe3W84F65kgUy6dVE0bpXXMlChtufEIxAfkEoTnulsENM3Gy4YbYhmGQ06uqMnCZHXftH/Vt6Nw0uzhxUIdcx21ayhnPub33dty6TfUd3eggbntBP1UXhurAufqZglCjImmgfM4fcp0NTww+dQUdI3eKEmJmAkvY5heUbXutbppM16/i//aIWS1JdGxHr+KyCcQap0iJvi/+4WMFKugNGQVSBFLXoVGw4fv0N9PiQ==;YHucIRgVDQYBBXgqPzetnQ=="
 ---
 

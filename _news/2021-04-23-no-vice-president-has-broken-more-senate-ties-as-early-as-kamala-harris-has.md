@@ -671,6 +671,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "WATCH LIVE: Biden, Harris give remarks at White House following passage of bipartisan infrastructure plan"
+    excerpt: "President Joe Biden and Vice President Kamala Harris will give remarks at the White House Tuesday following the Senate's passage of a $1 trillion bipartisan infrastructure plan."
+    publishedDateTime: 2021-08-10T16:37:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-biden-harris-give-remarks-at-white-house-following-passage-of-bipartisan-infrastructure-plan"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-biden-harris-give-remarks-at-white-house-following-passage-of-bipartisan-infrastructure-plan"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-biden-harris-give-remarks-at-white-house-following-passage-of-bipartisan-infrastructure-plan"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 123
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/08/GettyImages-1234490654-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "What Biden has done on climate change has activists applauding -- and waiting"
     excerpt: "Biden has doubled down on climate change, hosting an international virtual summit with 40 world leaders this Earth Day."
     publishedDateTime: 2021-04-22T16:54:00Z
@@ -1628,6 +1644,15 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 50
+  - title: "President Biden and Vice President Harris on Passage of Infrastructure Deal"
+    excerpt: "T13:30:00-04:00 Biden and Vice President Harris deliver remarks at the White House after the Senate approved 69-30 a $1.2 infrastructure package. President Biden and Vice President Harris deliver remarks at the White House after the Senate approved 69-30 a $1."
+    publishedDateTime: 2021-08-10T16:46:00Z
+    webUrl: "https://www.c-span.org/video/?514029-1/president-biden-vice-president-harris-passage-infrastructure-deal"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 48
   - title: "LIVE: Minnesota Gov. Tim Walz joins other governors to discuss wildfires with President Joe Biden, Vice President Kamala Harris"
     excerpt: "Minnesota Gov. Tim Walz will join six other governors in a discussion on wildfires with President Joe Biden and Vice President Kamala Harris at 10:45 a.m. Watch a stream here."
     publishedDateTime: 2021-07-30T15:15:00Z

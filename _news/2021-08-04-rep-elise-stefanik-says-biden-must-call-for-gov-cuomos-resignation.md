@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden accuser Tara Reade reacts to Cuomo's resignation, calls for 'real investigation' into president"
+    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, weighed in on the stunning resignation of Democratic New York Gov. Andrew Cuomo amid his sexual harassment scandal."
+    publishedDateTime: 2021-08-10T17:25:00Z
+    webUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden"
+    ampWebUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "gMa6avX3BBZHpNZF09OF0vrSZq+w89oPIj1BSE/hFKbic7KFmymVacCPCzaXsR0g/4ivleW+e3GD9tqsSOyhoc2Wr3OSwvywFISaxuUqMgwZZGjSgOPEwT+P/wAqWvNerdZlpt5yKKctTEGbucNpNH9kUpgq/QWNKHq84odgNlusHscbxPRTaSybIhXnKNYhtUYQvF4ONA1Q7LYLWxVQfqedhy/BjILeqBnDPQftPgHWoTJsFFVpygBbqU4eK7KMe9gzUmm7Db4Jn/nztDJVGvJONpEAVFcK0QyWDoAee4jZCzwhQoDLcd4kqa3ZFRCinreekel6ydt3HY4gAE9nbwBIK76tw/uRj4Zu3d1nR3o=;kAAx1g9TlMXwyaEmYtaVEQ=="
 ---

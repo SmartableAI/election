@@ -383,6 +383,20 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "US Senate Passes Biden's Massive Infrastructure Bill"
+    excerpt: "The US Senate approved Joe Biden's historic $1.2 trillion infrastructure plan on Tuesday, paving the way for a major victory to the president if it wins final passage in the lower chamber of Congress."
+    publishedDateTime: 2021-08-10T16:25:00Z
+    webUrl: "https://www.ibtimes.com/us-senate-passes-bidens-massive-infrastructure-bill-3270617"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/10/the-ambitious-plan-provides-for-550-billion-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden public lands nominee linked to 1989 sabotage draws Republican ire"
     excerpt: "The animosity toward her nomination reflects anger among some Republicans over Tracy Stone-Manning's role in the 2020 election."
     publishedDateTime: 2021-06-12T14:13:00Z

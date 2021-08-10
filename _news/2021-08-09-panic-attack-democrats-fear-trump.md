@@ -43,6 +43,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Why Andrew Cuomo is more vulnerable to scandal than Donald Trump was"
+    excerpt: "New York Gov. Andrew Cuomo is taking a Trump-like response to misconduct accusations, but Cuomo faces three big obstacles that Trump did not."
+    publishedDateTime: 2021-08-10T16:04:00Z
+    webUrl: "https://www.businessinsider.com/andrew-cuomo-is-more-vulnerable-to-scandal-than-donald-trump-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5faf9b0e402d49001924efbc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why Andrew Cuomo's job is more vulnerable to scandal than Donald Trump's was"
     excerpt: "Andrew Cuomo. Cuomo went from being talked about as a potential presidential candidate in the spring of 2020 – thanks in large part to his handling of the COVID-19 pandemic in New York state – to media ridicule and possible state senate impeachment now,"
     publishedDateTime: 2021-08-07T00:05:00Z

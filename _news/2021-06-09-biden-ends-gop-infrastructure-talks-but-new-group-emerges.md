@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
 type: article
 quality: 125
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -370,6 +370,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/20/46/03/21127399/3/rawImage.jpg"
         width: 1800
         height: 1200
+        isCached: true
+  - title: "US Senate Passes Biden's Massive Infrastructure Bill"
+    excerpt: "The US Senate approved Joe Biden's historic $1.2 trillion infrastructure plan on Tuesday, paving the way for a major victory to the president if it wins final passage in the lower chamber of Congress."
+    publishedDateTime: 2021-08-10T16:25:00Z
+    webUrl: "https://www.ibtimes.com/us-senate-passes-bidens-massive-infrastructure-bill-3270617"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/10/the-ambitious-plan-provides-for-550-billion-in.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "President Joe Biden calls on Republicans to boost $980B infrastructure offer; Democrats remain ready to go it alone"
     excerpt: "The White House on Monday called on Republicans to bump their recent $980 billion offer on an infrastructure package, noting President Joe Biden shaved his initial proposal by almost $1 trillion in a move to seal a historic investment in jobs,"

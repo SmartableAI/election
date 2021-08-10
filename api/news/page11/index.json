@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-19-msnbc-guest-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.md",
+      "title": "MSNBC guest attacks Biden as 'hypocritical' for failing to end filibuster",
+      "excerpt": "MSNBC host Tiffany Cross and her guests criticized President Joe Biden for \"failing\" to end the filibuster while fighting Republican election reform bills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92f4cc0c-cb4d-4f07-9c3a-50c1dc6bdafe/53331b72-c653-4a88-9b8b-ff321e9b3112/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.amp",
+      "publishedDateTime": "2021-07-18T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-18-harris-visits-walter-reed-for-routine-doctor-appointment-days-after-meeting-with-infected-texas-democrats.md",
       "title": "Harris visits Walter Reed for 'routine' doctor appointment days after meeting with infected Texas Democrats",
       "excerpt": "Vice President Kamala Harris is going for what a White House official told Fox News is a \"routine doctor's appointment\" at Walter Reed Medical Center on Sunday.",
@@ -1239,58 +1296,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-joe-biden-taps-jane-hartley-as-ambassador-to-the-uk.md",
-      "title": "Joe Biden taps Jane Hartley as ambassador to the UK",
-      "excerpt": "Joe Biden has tapped Jane Hartley, a Democratic fundraiser and former ambassador to France, as the US envoy to the UK, according to people familiar with the matter. Hartley’s selection comes after weeks of uncertainty over Biden’s intentions with regard to the post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "originalUrl": "https://www.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d02cc86-f021-4ab3-8310-1aa3e19cddb6.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "publishedDateTime": "2021-07-16T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
