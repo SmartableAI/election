@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Dominion sues Trump-friendly broadcasters over fraud claims"
-excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election wa"
-publishedDateTime: 2021-08-10T17:48:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79385184"
-webUrl: "https://abcnews.go.com/Politics/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79385184"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79385184"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79385184"
+excerpt: "Vote-counting machine maker Dominion Voting Systems filed defamation lawsuits Tuesday against right-wing broadcasters and a prominent"
+publishedDateTime: 2021-08-10T20:26:00Z
+originalUrl: "https://mynorthwest.com/3079867/dominion-sues-trump-friendly-broadcasters-over-fraud-claims/"
+webUrl: "https://mynorthwest.com/3079867/dominion-sues-trump-friendly-broadcasters-over-fraud-claims/"
+ampWebUrl: "https://mynorthwest.com/3079867/dominion-sues-trump-friendly-broadcasters-over-fraud-claims/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3079867/dominion-sues-trump-friendly-broadcasters-over-fraud-claims/amp/"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_357c21d0ff7349e8b17ccf46ae6c13bb_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://mynorthwest.com/wp-content/uploads/2021/08/ap_357c21d0ff7349e8b17ccf46ae6c13bb.jpg"
+    width: 1280
+    height: 870
     isCached: true
 
 related:
@@ -1194,6 +1190,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "erq/mS8RufpsLdGyN6IcuYAOgpDBeQrPCkIo5tz2GqYMwpb2PBgPoZiRrOJvXMk8yUMtBaB/GX44ypIuhSUNFPAt/1SVi925lv4ZQZTAzX37oi86q93thsGLVoQZqYgi16nbqO9TBuHhF1nbgzT2J6jotRBw4YOejPgmis0A65tBfxJnMshyu1FLbFn1SyGMFV8q/LS+8TDuaj1zm3p7RqKTS2Mbh3hU5mdhtBaIjNOIaPpXRXFUY8ngDC2/jmzbVe1q4HSko3wWcAkIEioiBy6w5LcbT/UYkjUxl41//hBTq9TcGLpdROTNo1vb5iGQv01YQGR/nQJ6gzayIcWENpj8H+zKgmhPGKn06XsVfGc=;CgdcNRLVb3rZILesWtHCtw=="
+secured: "CArP/vWYk+4cG5+7CIKcNnWPKa2DBGoKDUEllu5HCrZMMN09dQ9Q37EiFRKoWw/f9pxsG1ccsxkHQBf7zEXVZprHQjEoExbxDTew7Uv2UG2sWtFnCE5ir90PK6gA+gDeDnIYHPdpCVb1dYF0Ja91eUxPgjPEN2Gr/16qKgjkW5tA3MbrO4FD7jR44M0QiGcvmdZUyRU65xTO8sBmZdDIvyqMvmkG01o5zxPRBQA4y94Derz9r1DT6BEbp7FhMMMidH4kWD9sa2N/DDk58YgnrddMUVHjbNuxyZy78kxexfBBylj6hmMqo44ICx+/FxrBB4SM61aKHgJP5//HjSQbzzEQnEJoPgNLvpCTSoI2G0U=;SwTOR7fL8C8niS/EHsXZNw=="
 ---
 

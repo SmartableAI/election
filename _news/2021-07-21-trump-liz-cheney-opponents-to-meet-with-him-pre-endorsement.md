@@ -47,22 +47,6 @@ related:
         width: 747
         height: 545
         isCached: true
-  - title: "Liz Cheney's Trump vote prompts new Wyoming censure effort"
-    excerpt: "Some local Republican Party officials in Wyoming have announced that they will no longer recognize Liz Cheney as a party member because of her vote to impeach Donald Trump"
-    publishedDateTime: 2021-08-10T17:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2deff29e289b449f993398aae204943e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Capitol attack committee chair vows to investigate Trump: ‘Nothing is off limits’"
     excerpt: "Bennie Thompson tells Guardian he will pursue wide-ranging inquiry to uncover root causes of January 6 attack"
     publishedDateTime: 2021-07-21T05:52:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7f36ff5a311da4632e8863ef0fdc85fa162284ef/0_217_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=09fdd6c7dcbed93b2a2bab5a95923954"
         width: 600
         height: 360
+        isCached: true
+  - title: "Liz Cheney’s Trump vote prompts new Wyoming censure effort"
+    excerpt: "Some local Republican Party officials in Wyoming have announced they will no longer recognize Liz Cheney as a party member because of"
+    publishedDateTime: 2021-08-10T21:10:00Z
+    webUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/"
+    ampWebUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 75
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+        width: 452
+        height: 282
         isCached: true
   - title: "Donald Trump Jr Reacts To Prince Harry Memoir Announcement, Gets Slammed On Twitter"
     excerpt: "Donald Trump Jr. seemingly threw shade at Prince Harry on Twitter following the announcement that the Duke of Sussex is publishing a memoir."

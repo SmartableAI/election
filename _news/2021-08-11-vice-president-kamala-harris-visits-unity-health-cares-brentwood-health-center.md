@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
 excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
 publishedDateTime: 2021-08-10T18:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/651db1d74421abccf904baf648d518c4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/651db1d74421abccf904baf648d518c4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/57a86ff633df2b4522be0d816b953da4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/57a86ff633df2b4522be0d816b953da4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/651db1d74421abccf904baf648d518c4/HARRIS-HEALTH-CARE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/57a86ff633df2b4522be0d816b953da4/HARRIS-HEALTH-CARE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -152,6 +152,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "xLw8Tf04zx5Tzvjmaerja3EFpQpSFr+/SiUX5F3Nuoiu+c/jngVgOZPaKbOtgxVYqEepsXui4olwOyt2aCO0B4DwUE/oItN7HBk3/sOONKVoam0jH8K8k4RAHkseykKzy/ZJkHNX+Ver3YezssdXrWmvqOP8WoudXzg+mbUkWCc1co6dA4NoCVbtq533KUc7rvgI1nenBDTy5XhH7n2swHa3L+XT8u/yMmYedxTu2byv1Yrvq/3VAOrd9iKUE98Amj7f9XpZWghV78WItLmhZU60V9g1q/vaRuOPZxZnsUOQ/jmKyFQLZlNoZ3AFBlhonEM1fuhEzpPWe35/zDdBEOaNq097DAArKUhEbgow4TI=;LCTyeRo0aStQHufXwvFKsw=="
+secured: "PVgjnaKRnPfDhnElKqxN8pU1Q7XjhcLT2OXdRWXEJyF3E5PMUJo33POtDR6SQGvBN1KHUXZnxicXYEDWqrNOYVj+LAeh8bsyZiE3tB2XwZ4AMIiWq7F68fnzFWz/TRi8UMj5XUKlnhESvZc4uTLdqy2V/zjbiqkqxWRvOwHgxU04c/WyYUFP0V8Sii/TERLv+49qOn7aQ85IcwQJDeo6SXncJ0ZsWyrJSNn076PT7ASl+MtdXoxtCibUgGGLI1TmxI6pP4By8z1HmcbZBhMAW2FtV6AMvWv06yf6W7dRKbtAOLmlhRsW/eQVJVyB4K5+se2RhDXdo7Zc6BgyKxTAeFCKiwbR6YDGWLBPa+AX0WQ=;KuM2E5FAPZTGXwxeyye9WA=="
 ---
 

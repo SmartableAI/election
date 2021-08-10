@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-11-times-up-co-founder-robbie-kaplan-sued-donald-trump-and-nazis-but-shes-also-helped-at-least-3-targets-of-sex-misconduct-claims.md",
+      "title": "Time's Up co-founder Robbie Kaplan sued Donald Trump and Nazis. But she's also helped at least 3 targets of sex misconduct claims.",
+      "excerpt": "Robbie Kaplan is well-known for her progressive legal work. But her work for clients accused of sexual misconduct cover-ups has reared its head.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/times-up-lawyer-roberta-robbie-kaplans-sex-misconduct-clients-cuomo-2021-8",
+      "originalUrl": "https://www.businessinsider.com/times-up-lawyer-roberta-robbie-kaplans-sex-misconduct-clients-cuomo-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6112dd38d00b150018b4041f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-china-hawk-mike-gallagher-bridges-gops-establishment-trump-wings.md",
       "title": "China hawk Mike Gallagher bridges GOP’s establishment, Trump wings",
       "excerpt": "Mike Gallagher never intended to be in Washington for the long haul. Since being elected in 2016, the Wisconsin Republican has advocated for congressional reforms such as term limits and lobbying restrictions for officeholders.",
@@ -1431,58 +1483,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-trump-has-more-than-100-million-in-political-cash-after-first-six-months-of-2021.md",
-      "title": "Trump has more than $100 million in political cash after first six months of 2021",
-      "excerpt": "Former president Donald Trump's political groups raised $82 million in the first half of 2021, new filings show, and have $102 million in the bank.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/07/31/trump-committees-fundraising-2021-fec/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/31/trump-committees-fundraising-2021-fec/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESPLBIXSG4I6XANSTNYGDJMC3A.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-31T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,166 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-03-inside-the-rise-of-new-york-ag-letitia-james-as-she-takes-on-cuomo-trump.md",
+      "title": "Inside the rise of New York AG Letitia James as she takes on Cuomo, Trump",
+      "excerpt": "New York Attorney General Letitia James’s office released the results of an extensive investigation into allegations of sexual harassment against Gov. Andrew Cuomo on Tuesday potentially derailing his political career and continuing to launch her own as some speculate she has eyes on a higher office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PeOgvuqVCUQ/letitia-james-ag-rises-taking-on-cuomo-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PeOgvuqVCUQ/letitia-james-ag-rises-taking-on-cuomo-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7da2adab-7141-4f0e-a23e-a48537b34302/d8b2f2f3-4e32-4066-98ab-1a4350e6527a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/letitia-james-ag-rises-taking-on-cuomo-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/letitia-james-ag-rises-taking-on-cuomo-trump.amp",
+      "publishedDateTime": "2021-08-03T12:39:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-infowars-pundit-ejected-from-texas-rangers-game-for-trump-won-flag.md",
+      "title": "InfoWars pundit ejected from Texas Rangers game for 'Trump Won' flag",
+      "excerpt": "Two spectators, one of whom reportedly was a former personality on the right-wing radio show InfoWars, hung a banner that read “Trump Won, Save America” from the upper stands during a Texas Rangers game on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/23/14/21312281/5/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/amp/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/texas/amp/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
+      "publishedDateTime": "2021-08-03T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-biden-set-to-comment-on-cuomo-as-white-house-calls-report-findings-abhorrent.md",
+      "title": "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’",
+      "excerpt": "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
+      "publishedDateTime": "2021-08-03T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-19-ags-to-epa-roll-back-trumps-clean-water-rule-asap.md",
       "title": "19 AGs to EPA: Roll back Trump's clean-water rule ASAP",
       "excerpt": "A coalition of 19 attorneys general led by California, Washington and New York urged the Environmental Protection Agency in a letter to repeal a Trump-era rule that they say curtails their authority to deny permits for projects that could harm their waterways.",
@@ -1174,163 +1334,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash.md",
-      "title": "Factbox: Biden's new COVID push: vaccine rules, testing plans, hard cash",
-      "excerpt": "President Joe Biden on Thursday announced new measures to stop the spread of COVID-19 and the new Delta variant in the United States that will impact millions of federal workers, contractors and private citizens.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-biden-measures/factbox-bidens-new-covid-push-vaccine-rules-testing-plans-hard-cash-idUSL1N2P533F",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210729&t=2&i=1570403906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6S1J9",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2EZ2WZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EZ2WZ",
-      "publishedDateTime": "2021-08-01T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-cnns-brian-stelter-compares-donald-trump-supporters-to-jonestown-cult-members.md",
-      "title": "CNN's Brian Stelter compares Donald Trump supporters to Jonestown cult members",
-      "excerpt": "CNN anchor Brian Stelter used his Sunday show \"Reliable Sources\" to feature a segment comparing Donald Trump supporters to Jonestown cult members. Stelter spoke with Rep. Jackie Speier, D-Calif., to help explain the similarities between Trump supporters and Jonestown cultists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult",
-      "originalUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33702a68-88a4-4cc6-9da8-7375bb1e813d/d32ddc55-20b0-4c79-80d2-5645d00de2e6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp",
-      "publishedDateTime": "2021-08-01T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-abc-political-director-calls-out-biden-admins-confusing-covid-messaging-were-seeing-this-backslide.md",
-      "title": "ABC political director calls out Biden admin's 'confusing' COVID messaging: 'We're seeing this backslide'",
-      "excerpt": "ABC political director and analyst Rick Klein called out the Biden administration for what he called \"mixed messaging\" following the president's new COVID-19 guidance, which Klein argued was a \"backslide\" from comments the president made a few weeks earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
-      "originalUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

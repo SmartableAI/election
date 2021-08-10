@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate Judiciary chairman wants to interview former Trump chief of staff Mark Meadows"
+    excerpt: "The Trump White House is facing increased scrutiny on Capitol Hill as a powerful committee chairman wants to interview then-President Donald Trump's former chief of staff to determine the extent of the pressure the Justice Department faced to try to overturn Joe Biden's victory.\n    \n"
+    publishedDateTime: 2021-08-10T20:10:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c9U0Vh7raAo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/10/politics/durbin-meadows-trump-senate-voter-fraud-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/10/politics/durbin-meadows-trump-senate-voter-fraud-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002125747-03-mark-meadows-1002-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "FTDa/35MSNnLdzwmLw450EW6tH5zTk9M1/Mm/U1h4LuA/tPiaRKifhE5ZvaMZyKeGtThoDCTkbxWeySGS8/eU0Di3uNsIL5aMlVMLGaWUkg7LrfuFXsHhxzXPVlg0agxWL3hReipFW2HPxapZ8nXxtorgOZFOB1/5KmkCOLat/j/Tf7/WjwR8GMqT5FZ2pbpzHObavHlBufoXBhBJ+u7w+tClib8uwN71nxbp71Q1g8VVUpMgWWGLQAuyrkOLEhZvSpQ1aJICVgzTMXbyO+0lzCcIQUDuOXE2zBIY13wxCFeJGnxCgR8QaRAka0/DnQvcKTYHGt/R450Sjp4JZekIvZhZqfLFlp1qDXAs2P1gH0=;L/qJVuuOdTMZmM6ZYQM/5g=="
 ---

@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Harris’ spouse to represent US at Paralympic Games in Tokyo"
-excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month"
-publishedDateTime: 2021-08-10T19:00:00Z
-originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
-webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
-ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo?_amp=true"
+excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month."
+publishedDateTime: 2021-08-10T21:23:00Z
+originalUrl: "https://www.myrtlebeachonline.com/news/article253387368.html"
+webUrl: "https://www.myrtlebeachonline.com/news/article253387368.html"
+ampWebUrl: "https://amp.myrtlebeachonline.com/news/article253387368.html"
+cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/article253387368.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: The Sun News
+  domain: myrtlebeachonline.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/c85a5bf/2147483647/strip/true/crop/5455x3648+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6b%2Fde%2Fb2e7b72bd3eab017afa49b6e8eea%2F7cc37b2021fa43ed9b199155f71acacc"
-    width: 320
-    height: 214
-    isCached: true
 
 related:
   - title: "VP Harris' husband to represent US at Paralympic Games in Tokyo"
@@ -58,6 +52,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QUwN+zJ53GDHRJCbzrC28ZeedV6Kdg7kgI9whV7Mxliriu/kBgEdGo6RaURiBtx9lus1IE67ptmxA6LQpSMP7vAXbwPYa9+GYP/zyoLdYFTThHhJe8+IW/UjZR5V3KOOXRCD5Dz0QUB45Z0yLb1XUNt6GEIBaugw7ebaU9mcmMqsOUJ2Hy6Y+dGvTcx9bYtPf9OB/cjqpvKjB4pKw6BOmCtF3PvGYSnDqMJ9FeHoXy3O77t2aEPaOxjvqrJnO59ncqz7r8TiAj0xOyrd9t4u/TlJ19IP+YUMCWGi7hhzJ2ACB0tWKYsKrkkt0qc9mQexeYGJzK0xK+ND1rHTnEKDhAQiisnYCEn0oqdOFxqbOa8=;a28olf3l2j9azQRGWYfPsg=="
+secured: "qw/8BgPQ5qrE4JSHwFPy95v0WcEl8bythhnWGLziHbZrRGBpWuP3IdZjDbMftEjj73TXQinGeoQsNeua4IqNgBsVKzJQWYnNKvZ1GC+Vw64xWbTtuLHCdZWEALfJnwW/xtllu6IiKPRLbSu26zN83FZurElWVO0NF+pgeb6kk0+BX8spsurIuN+8WIiR6TkitUigsOnBaDhSAZS7ilk54VE7U7FR541Mbb6tOzq31qBU/fLqWdjPBEIqoZiDkgx9ys3lyNdbCSDcrjZnVw+WwVC60AyppqPbQT59BnxVLDzEyu313X8bc6r8fv/HlDZdAXRYQ7gT8HfQWCAyZuU+fWnM+U2fQnmMgkpljDhpTh2BtTVRKfwrhbBvrdCKtIJ5RK2tLancTMNZHBThbxM9lLSuiFrBaWpVSWcwAXisa4CxsqS2ApbA/J3k5NfNANW+GkdMwlqHr3ch7uDltSBkjwJrnR0phZVHemj+Tti4JFhjnYzSFYU+A3GC/aC3Pj3bivF0sYxy5RIazMUH5dxymw==;RwRb6JPSbTk8Vg+DJ00DPg=="
 ---
 

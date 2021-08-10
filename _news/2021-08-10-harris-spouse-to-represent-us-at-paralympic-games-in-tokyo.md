@@ -42,21 +42,16 @@ related:
         height: 641
         isCached: true
   - title: "Harris’ spouse to represent US at Paralympic Games in Tokyo"
-    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month"
-    publishedDateTime: 2021-08-10T19:00:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-10/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo?_amp=true"
+    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month."
+    publishedDateTime: 2021-08-10T21:23:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/article253387368.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/article253387368.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/article253387368.html"
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 75
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/c85a5bf/2147483647/strip/true/crop/5455x3648+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6b%2Fde%2Fb2e7b72bd3eab017afa49b6e8eea%2F7cc37b2021fa43ed9b199155f71acacc"
-        width: 320
-        height: 214
-        isCached: true
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 55
 
 secured: "Y77G8hl2eMYtZ2Az9IsIZkenCYsuRepK8elxf4hofjRIhbU/jBcTY5MTegK5IbW6I4XYb7wUkmMoQSrp+IUOxgyAGFuAgEnPZ3Lpfcuqjbr1n0a3o60NBiI0hUXUCeHEoyQR1EGpHGDhHFMzAvddLiPI7YkdQHTK8LN972D/osOyMILvTG1lB1BMDSIr/YLMiG7GODgBfsYvLP4UuQihzfQjVg+UF/dq7Gesthpft9fVYx/lDeUtQ+9UaA/UJE6StvQ3s5kBg0iaoUMoVaE4Bb0xREodjukuLONb2R97YJosGOk56M57rslTm4xB1/TACz8J56zrBNpLxjBrTZ2jXlIDdIszhd8b855eRxYEVuaMdc3UYNKHs031E7jZya5fvdYZ01C9C/jV0fxHqLpifKv6Kxk9/gUih+MHvq50mVNgpycZFtBw49RIoUlg3BhJPobH7tDxeQqtyRmSJ21ARBdP1Z/dF3VLwyWoQ8aUNUXJab6ieQU9UZfSe3LDVgGgqaH2TVVyRBOF6MU6eaorjw==;hFaJFJhpZUrqp5HQBO+Fyw=="
 ---

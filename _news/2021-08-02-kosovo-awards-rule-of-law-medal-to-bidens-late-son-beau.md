@@ -155,6 +155,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Delivers Remarks on Infrastructure"
+    excerpt: "President Joe Biden delivers remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    publishedDateTime: 2021-08-10T21:00:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5eb8cd8d222deeeda77b255ee4923cc5/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5eb8cd8d222deeeda77b255ee4923cc5/WHITE-HOUSEINFRASTRUCTURE.jpg"
+        width: 650
+        height: 974
+        isCached: true
 
 secured: "vGOVU/xol/ATCOgXw+Uw+i+BcaUIlHUn98kZLkbhb6rEbk/tQKTzZ1KJDP4vrJ3ReXxtDNHuyDXZEjjuzqOOGibHuyN0X3Xb4KL3/tyjIwdysMOL4QjRIcNn0FVxpGa9KDx9gITbqMj4KSomU7Gpw2vrNA1580lSTYRplDLKNasHU7MZ24KN8KNh0MPzzJ7eLSms44siTxXMAT/03IxcQgSNcJb22EOQsj90M7kXZOINymfgBLX/AlMb3LQFophXAb9p0BvSmg8mANQjzdCWdAr1QCsEOsrM6l9fvCtdgRGj1KipBnB4zWae+4/halxHK53s0t1Zwr46jNUlPMcmeRBNGhvcfDuornL2AHPES3hGN3e7jkVIM9jCESI2ezxGF7arHobWLdP84Q4B5kQxNS/qqiGbzFgqrF7NhQd4j1d7mCeRZnBcIJcO4N7HKM2jNkoASBzqqsL4Gy2yPdIvfSPpXd3t0hDdCN0FUUvHeRx/JpPT6/zvuKcFqmGdQxrXRwPQD4ajMDIrj490hzZi4A==;xD9eArfKvwXJTyULi0ObnQ=="
 ---

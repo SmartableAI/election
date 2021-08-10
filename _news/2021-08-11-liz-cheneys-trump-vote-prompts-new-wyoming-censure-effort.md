@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Liz Cheney's Trump vote prompts new Wyoming censure effort"
-excerpt: "Some local Republican Party officials in Wyoming have announced that they will no longer recognize Liz Cheney as a party member because of her vote to impeach Donald Trump"
-publishedDateTime: 2021-08-10T17:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
-webUrl: "https://abcnews.go.com/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/liz-cheneys-trump-vote-prompts-wyoming-censure-effort-79385041"
+title: "Liz Cheney’s Trump vote prompts new Wyoming censure effort"
+excerpt: "Some local Republican Party officials in Wyoming have announced they will no longer recognize Liz Cheney as a party member because of"
+publishedDateTime: 2021-08-10T21:10:00Z
+originalUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/"
+webUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/"
+ampWebUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_2deff29e289b449f993398aae204943e_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+    width: 452
+    height: 282
     isCached: true
 
 related:
@@ -96,6 +92,6 @@ related:
         height: 701
         isCached: true
 
-secured: "BpyiezL/M0iWmGSmdLt/tn8bH+QV0v8zZLihprsMH2pCQ29NNBJuY8iKhBN5TTwe/obNEAmXS3dhyxKEALT9OQHySUi6P7u/13ddqR+uPoZ0vYAzQI+Hv11tXgnjVEDOsw1oUwCBpY2OhyNEb+/vrzEoM9vm0/Qirm6Girepn3O81Tj5HFOeHhV6wSMf6nHuTuuLZVlqnxf6AjI7JRJKPIJCT2L//wSV50chdnf0/fp682CI1H2Hop2gGqAurmTfpDIaSZvLN9vpAGCsj1LIry8OoJu352BkF4Ac6R59RP313xgnybil/UQ2r+ZzwOiIgFWwQ6I81RODDc6wyB/CRyHsC7FVdxqB89ZFSQtQOvA=;OEcSatnrJkTskNHKscHpng=="
+secured: "qMgmpzVobwDKzC4aHmvttdnxFPPKq/97909eUn5JqElDfDZf/BOePM8LMvRuAt1xQiUtlNrnTvoWaRGKQAI4rNXko5L3RlZRrRtbhquirjL5wMsZhcSvVaw9dp8Vy1Dyx8VOw2SQd8T5y/WkK5VyZhhGH3Ea767U0VT4kRI3T4DfqRVzueUj+F20rIAnN2DSVN63l+CER6TV93cg/DYoJNz6PAZ7S2tIuOU86poRPdmwdOaBEL9ZL3guUcSMODuFl1v/7eIsOgm7btGtQ/PXIGDBf2O5MBI6r8CZYZS3YuAFrIWbvpge0CmZwUQ4WAkKrJs3eAYoX6gOd0CPr7+E6jmtPgjGO+2jV/Uwhs77bmw=;QdkDK7Nnp5XLXCHC4ZXPvw=="
 ---
 

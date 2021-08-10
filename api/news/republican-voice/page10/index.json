@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-12-judge-halts-bidens-race-based-aid-for-farmers-says-challenge-is-likely-to-succeed.md",
+      "title": "Judge halts Biden's race-based aid for farmers, says challenge is 'likely to succeed'",
+      "excerpt": "A Wisconsin federal judge ordered a temporary halt to a $4 billion race-based federal relief program for farmers on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/720/405/Food-and-Farm-Robots-_Garc.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
+      "publishedDateTime": "2021-06-12T12:44:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-biden-pick-for-navy-secretary-is-cuban-born-carlos-del-toro-a-22-year-navy-veteran.md",
       "title": "Biden pick for Navy secretary is Cuban-born Carlos Del Toro, a 22-year Navy veteran",
       "excerpt": "President Biden said Friday he plans to nominate Carlos Del Toro for secretary of the Navy. ",
@@ -1576,62 +1632,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
       "publishedDateTime": "2021-06-07T16:07:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-white-house-says-biden-keeps-d-day-memory-close-to-his-heart-despite-anniversary-snub.md",
-      "title": "White House says Biden keeps D-Day memory 'close to his heart' despite anniversary snub",
-      "excerpt": "The White House on Monday defended President Biden after he failed to acknowledge the 77th anniversary of D-Day on Sunday, saying he values the role of the men and women who serve, and that his memory of them is \"close to his heart.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XlRfcUeL2uE/white-house-reaction-biden-d-day-anniversary-snub",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XlRfcUeL2uE/white-house-reaction-biden-d-day-anniversary-snub",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp",
-      "publishedDateTime": "2021-06-07T11:55:05-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
