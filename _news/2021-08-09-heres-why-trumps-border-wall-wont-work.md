@@ -439,6 +439,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump honors resolve of the nation’s Air Force"
+    excerpt: "President Donald Trump honored the resolve of the nation's Air Force on Friday, warning foes and international terrorist groups that the U.S. military would respond to any threats."
+    publishedDateTime: 2021-08-10T03:25:00Z
+    webUrl: "https://apnews.com/article/politics-donald-trump-ap-top-news-north-america-melania-trump-2e136b305b684a8caf0fbdef624d306d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/media:d5b38472870d4d258afed696c6d45704/3000.jpeg"
+        width: 3000
+        height: 2068
+        isCached: true
   - title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
     excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
     publishedDateTime: 2021-08-04T15:31:00Z

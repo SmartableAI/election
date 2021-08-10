@@ -457,6 +457,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Trump honors resolve of the nation’s Air Force"
+    excerpt: "President Donald Trump honored the resolve of the nation's Air Force on Friday, warning foes and international terrorist groups that the U.S. military would respond to any threats."
+    publishedDateTime: 2021-08-10T03:25:00Z
+    webUrl: "https://apnews.com/article/politics-donald-trump-ap-top-news-north-america-melania-trump-2e136b305b684a8caf0fbdef624d306d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/media:d5b38472870d4d258afed696c6d45704/3000.jpeg"
+        width: 3000
+        height: 2068
+        isCached: true
   - title: "Texas voters brush aside Trump endorsement and name Jake Ellzey the winner in a House special election in Texas"
     excerpt: "The vacancy stemmed from the February death of Rep. Ron Wright, whose widow Susan was endorsed by Trump but who has lagged in fundraising and campaigning."
     publishedDateTime: 2021-07-28T01:50:00Z

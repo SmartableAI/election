@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Trump hits back at DOJ in bid to keep taxes secret"
-excerpt: "Politics Trump hits back at DOJ in bid to keep taxes secret. Posted . Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to t"
-publishedDateTime: 2021-08-05T00:32:00Z
-originalUrl: "https://www.reuters.com/video/watch/trump-hits-back-at-doj-in-bid-to-keep-ta-idOVEOVEAQN?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/trump-hits-back-at-doj-in-bid-to-keep-ta-idOVEOVEAQN?chan=6g5ka85"
+title: "Trump honors resolve of the nation’s Air Force"
+excerpt: "President Donald Trump honored the resolve of the nation's Air Force on Friday, warning foes and international terrorist groups that the U.S. military would respond to any threats."
+publishedDateTime: 2021-08-10T03:25:00Z
+originalUrl: "https://apnews.com/article/politics-donald-trump-ap-top-news-north-america-melania-trump-2e136b305b684a8caf0fbdef624d306d"
+webUrl: "https://apnews.com/article/politics-donald-trump-ap-top-news-north-america-melania-trump-2e136b305b684a8caf0fbdef624d306d"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210804&i=OVEOVEAQN&r=OVEOVEAQN&t=2"
-    width: 960
-    height: 540
+  - url: "https://storage.googleapis.com/afs-prod/media/media:d5b38472870d4d258afed696c6d45704/3000.jpeg"
+    width: 3000
+    height: 2068
     isCached: true
 
 related:
@@ -415,6 +411,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Trump hits back at DOJ in bid to keep taxes secret"
+    excerpt: "Politics Trump hits back at DOJ in bid to keep taxes secret. Posted . Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to t"
+    publishedDateTime: 2021-08-05T00:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-hits-back-at-doj-in-bid-to-keep-ta-idOVEOVEAQN?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210804&i=OVEOVEAQN&r=OVEOVEAQN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump hits back at DOJ to keep taxes secret"
     excerpt: "Former President Donald Trump on Wednesday challenged in court last week's U.S. Justice Department order to turn his tax returns over to a House of Representatives committee, part of his long campaign to keep details of his wealth secret."
     publishedDateTime: 2021-08-05T00:09:00Z
@@ -442,20 +452,6 @@ related:
       - url: "https://apnews.com/images/ShareLogo2.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Trump honors resolve of the nation’s Air Force"
-    excerpt: "President Donald Trump honored the resolve of the nation's Air Force on Friday, warning foes and international terrorist groups that the U.S. military would respond to any threats."
-    publishedDateTime: 2021-08-10T03:25:00Z
-    webUrl: "https://apnews.com/article/politics-donald-trump-ap-top-news-north-america-melania-trump-2e136b305b684a8caf0fbdef624d306d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/media:d5b38472870d4d258afed696c6d45704/3000.jpeg"
-        width: 3000
-        height: 2068
         isCached: true
   - title: "Trump Tries In Court To Block The Release Of His Tax Returns To Congress"
     excerpt: "\"The requests single out President Trump because he is a Republican and a political opponent,\" former President Donald Trump's lawyers say. \"They were made to retaliate against President Trump.\""
@@ -1164,6 +1160,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "Ea9JeSNTNiiMrLHXR6KpDsXeDJSBD6+NnOQzgxLqn0Zn20KpmfWtBUh1YI2HLpvEU3K0O3WB+wLxXJMh0l5EgELTtilf/ZueWJDAoNgJwrRaB5+IkIT5N6yaTBvGO/VN/8d4taKE4v/5/r53pC5aW4PzHUghfPzTLt7P+wg0X20sMx6o0S4QOzkY/yaGPiUN/K68GeLDb4FGynVf1ikVZhItiR0wHyMLrU1yjcl1fGy0YjeXuYKoftsz+03PJQWNF+PZ3kLqN2MFP5x7C3QVsIFaVIgf3L2icDM0qbBrNFSgzKu5Z7A/9V0ZjbzFvAxFCgxsr/EyoEOXeLXuvr+C9DaaRodtYP6YUadCqLSyosw=;ESycRvXqxtd5CuoQNgPz5Q=="
+secured: "357/WGCfIGghLJUgReuG+tkm3AWiys3XckkBtEzA31zP3yQbSVXBPAdHAlVkLk/Q5a0zsKAxRZa09DQ+Qu6kmij7N9k0M/76Vuif5N2JlqcibcHswcfs4hM6ldPUT0WiMclOQFVlBpt0mG7eiBYb+opUyTDZiQIQcdHkfNgyeFkHKIwFTNjiNewQOGj3kwiz2UWM5ca+sRnPhUXM2tKrsE3cSORnnOovya0PEqYMsCAIfJo+1mhCY0usqXiLOZsHoaJfMIW6xdFDjKX+Igv7CGPSCj7RAs9GF5rVbqAWJ/jZxSyQFsPJiKSufKdE6XV/Q8G26pZ43AvEflHdICNVZKnGz9XsIt8AWaaNnQuga0s=;m+dNNUwysxLX43/JnGc1Gg=="
 ---
 
