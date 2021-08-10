@@ -2,51 +2,31 @@
 category: news
 title: "Man sentenced for shooting Black girl at Iowa Trump rally"
 excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
-publishedDateTime: 2021-08-09T21:51:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/man-sentenced-shooting-black-girl-iowa-trump-rally-79369550"
-webUrl: "https://abcnews.go.com/US/wireStory/man-sentenced-shooting-black-girl-iowa-trump-rally-79369550"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/man-sentenced-shooting-black-girl-iowa-trump-rally-79369550"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/man-sentenced-shooting-black-girl-iowa-trump-rally-79369550"
+publishedDateTime: 2021-08-10T04:50:00Z
+originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally"
+webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally"
+ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
 type: article
-quality: 125
-heat: 265
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/dfe408c/2147483647/strip/true/crop/5150x3444+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff3%2F73%2Fc52d529a5c7aef00c2b6b68f5f30%2Fe5e0390469b54193a0ae4e33394b6505"
+    width: 320
+    height: 214
     isCached: true
 
 related:
-  - title: "Man Who Voted for Trump in Place of Missing Wife Appears in Court on Charges of Her Murder"
-    excerpt: "On top of murder and submitting a fraudulent vote, the man could also be charged with tampering with his wife's deceased body as well as evidence."
-    publishedDateTime: 2021-08-09T19:19:00Z
-    webUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635"
-    ampWebUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1866603/man-fraudulently-votes-trump-missing-wife.jpg"
-        width: 2500
-        height: 1665
-        isCached: true
   - title: "Trump targeted by protesters at Winged Foot Golf Club in Mamaroneck"
     excerpt: "Former President Donald Trump was reportedly being honored at a tribute banquet at the Mamaroneck golf course, where people gathered to protest."
     publishedDateTime: 2021-08-05T00:44:00Z
@@ -63,82 +43,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Former President Donald Trump to hold rally in Cullman. What to know before you go"
-    excerpt: "Former President Donald Trump is scheduled to speak at a \"Save America\" rally in Cullman, Alabama, on Aug. 21, 2021."
-    publishedDateTime: 2021-08-05T11:01:00Z
-    webUrl: "https://www.montgomeryadvertiser.com/story/news/politics/2021/08/05/donald-trump-rally-cullman-alabama-tickets-details/5491027001/"
-    ampWebUrl: "https://amp.montgomeryadvertiser.com/amp/5491027001"
-    cdnAmpWebUrl: "https://amp-montgomeryadvertiser-com.cdn.ampproject.org/c/s/amp.montgomeryadvertiser.com/amp/5491027001"
-    type: article
-    provider:
-      name: Montgomery Advertiser
-      domain: montgomeryadvertiser.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/21/USAT/e7258ef3-99e5-4513-87fd-73d0a5ecb6b3-AP_Trump_Politics.jpg?auto=webp&crop=3523,1982,x0,y179&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Jake Ellzey beat Susan Wright for Congress by keeping it local amid Donald Trump, national circus"
-    excerpt: "Political consultants from both major parties are effective at taking national talking points and selling them to voters who speak the same language — whether it’s building a border wall, election integrity,"
-    publishedDateTime: 2021-08-02T10:30:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/08/02/jake-ellzey-beat-susan-wright-for-congress-by-keeping-it-local-amid-donald-trump-national-circus/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 62
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/dwxLtuVlsCCkLJul4tszk2pSuII=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/DEF5T2BZYVHAJNJS6ABB3AUB2Q.JPG"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump supporter loses voting rights for 5 years after attacking elderly couple critical of the president"
-    excerpt: "Mark A. Ulsake pleaded guilty to two felony counts of threats of violence in connection with the attack on Nov. 8, when he allegedly swung a golf club at the elderly man and woman and punched the man in the head."
-    publishedDateTime: 2021-08-03T14:27:00Z
-    webUrl: "https://www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html"
-    ampWebUrl: "https://www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/nation-world/vp-nw-trump-supporter-loses-right-to-vote-20210803-n3m7t3wjbzajhd5lbrsbhqwmuq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 58
-    images:
-      - url: "https://www.pilotonline.com/resizer/EPW8g7qaSeUmL81vKX1KrdHHjpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/42UI4D6ENUI3SNJKQQILLONSAM.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Senior living exec ordered to pay back defrauded investors $79 million after Donald Trump commutes prison sentence"
-    excerpt: "Former Sunwest Management CEO Jon Harder dodged nine years of prison time when then-President Donald Trump commuted his sentence in January."
-    publishedDateTime: 2021-08-03T05:16:00Z
-    webUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html"
-    ampWebUrl: "https://www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2021/08/senior-living-exec-ordered-to-pay-back-defrauded-investors-79-million-after-donald-trump-commutes-prison-sentence.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 53
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5MAZLYNOC5BNNJ7ETFZ7W3BVQI.jpg"
-        width: 960
-        height: 706
-        isCached: true
-  - title: "Senior living exec ordered to repay defrauded investors $79M although Donald Trump commuted prison sentence"
-    excerpt: "Oregon senior-living developer Jon Harder, guilty of defrauding 1,200 investors out of about $120 million, must pay more than $79 million in restitution, a federal judge ruled. Harder's sentence was commuted in January by then-President Donald Trump."
-    publishedDateTime: 2021-08-03T02:27:00Z
-    webUrl: "https://www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/"
-    ampWebUrl: "https://www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
-secured: "nk28lstpH802RidjY29tbvI7MDt7rfTJimvz6NnojkOxsuPm0nEnS6SL+sSR1FtS3gd7io9ST9wY1TAeJwDihj0GwN2yC1jF/qFQbSG5XDcURH66m20d96FHL/gioN9oLlVgbAv5iglNaKuQIAZlYIfTFX8lP2uVDX1lnWiPVsluNWLYGHXVAJHmn5q782Ug3TQHPlK9VhU1M/ky6xQGu4r77NAPBx/xOvUZkoAVUlTGRnf+RLWJsSiqZu5nFGFoRsOj9Cn7d+lQao84UjuNWnp+AlcXT/daCMQ0a2+s3HenW8IZrOnI0cf7PuR2dWidzt1Ff6tu6I+bRGT2Z/UjFHEgotwzldGO1WlFEr6jV74=;aLXHO5mg42lOPEZO+aqa2A=="
+secured: "PGetBAb3LeOugMXLDG0uYT1cUo2taWPRP+5zSn3AP4neL+xKGwMNe7E830hffmMjoljFvNaG4c0BgUBHc1yMpu+2iLuSUU9400vTuW2huFrtmnDaIvXnHLDyHyzd6QRtGQR14HR7omiYHbeqKjzj9gyvW3SWiQVMTRFmwVBmEoZkbSdgOnj8SesepwSzSayQXUSS3nUTelQikzsxXRdGJ0OsF71OhvtgNI8UuN4lKnu5vLhi7UcBcEONFP0WgW77jZRZ0197ft0yX3rYe4pKQ3j++QNZxa4+MGJCAEQL8p05h3FXRwW9o24kwf6M3jyOCuGolR+BOa3KTwB2K8qN5bD59X6auTNayb5ra5YEYSo=;//MlxuDBscfKcaf0HOzi5Q=="
 ---
 

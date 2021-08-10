@@ -45,6 +45,22 @@ related:
         width: 3000
         height: 2001
         isCached: true
+  - title: "Man Who Voted for Trump in Place of Missing Wife Appears in Court on Charges of Her Murder"
+    excerpt: "On top of murder and submitting a fraudulent vote, the man could also be charged with tampering with his wife's deceased body as well as evidence."
+    publishedDateTime: 2021-08-09T19:19:00Z
+    webUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635"
+    ampWebUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1866603/man-fraudulently-votes-trump-missing-wife.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
   - title: "Nevada county bid to honor Trump goes from road to buildings"
     excerpt: "Lawmakers in a rural Nevada county who decided 3-2 last month not to name a road for former President Donald Trump now are considering putting his name on their court, jail and sheriff’s office. Lyon County commissioners have scheduled debate Thursday on a bid to name the Justice Complex in Yerington after Trump,"
     publishedDateTime: 2021-08-02T22:40:00Z
@@ -90,14 +106,14 @@ related:
     quality: 55
   - title: "Trump-linked Georgia lawmaker to run for lieutenant governor"
     excerpt: "Burt Jones has filed to run for lieutenant governor in Georgia, launching another Republican candidacy that will be closely tied to denying Donald Trump's 2020 loss of Georgia's 16 electoral votes. Jones,"
-    publishedDateTime: 2021-08-09T23:32:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253340213.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article253340213.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253340213.html"
+    publishedDateTime: 2021-08-10T05:10:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article253340213.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article253340213.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article253340213.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 55
 
 secured: "2XJMebwDTGXS4DIAWc5O+J09x7CDqoDXMRSYVxlfE7V0TPfDj2dkYUyCNSe90fqSo0EeZNtmFssXXuc74VH8xztGKasilzv5uUB90ddyY8RHub7I210wZmfBnWIu+7fPkILPwPeSxr6JYyv2YChs5VQpTR6oFN+CrxxVzEAlNV1gevQcnZZ5A9wqRnLqJIT1LvUEGadkNN6P/U1VASMQnXptDhPTRJaHCrb7COkA2Vj4pl75dw2y7HV9MKs/uxVudP38cYcmlMz9xBasfK0v8US+ixxE21P1ixP7hJ4pgMAB/zVZY7Gz7GLMUqs1fYnPvAxIx6i/CwP7roSPMpDKJ3LoK/ItOzvd13wNR50jWfI=;BlIQdFP9w5QiTDeWbgeMLg=="

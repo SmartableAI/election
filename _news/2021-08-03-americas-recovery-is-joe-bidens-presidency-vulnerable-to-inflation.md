@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -181,6 +181,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
         width: 650
         height: 975
+        isCached: true
+  - title: "Joe Voisine: Biden’s vax incentives promote inflation"
+    excerpt: "Rewarding the unvaccinated with a $100 shot, a chance at a $1 million lottery, and let’s not forget free beer. What’s next? Free tattoos, ear rings, free rent if you get vaccinated as soon as possible?"
+    publishedDateTime: 2021-08-10T04:00:00Z
+    webUrl: "https://www.sunjournal.com/2021/08/10/joe-voisine-bidens-vax-incentives-promote-inflation/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/11/2018/12/sunjournal-social.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."

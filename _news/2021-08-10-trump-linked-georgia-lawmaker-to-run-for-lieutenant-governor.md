@@ -2,19 +2,19 @@
 category: news
 title: "Trump-linked Georgia lawmaker to run for lieutenant governor"
 excerpt: "Burt Jones has filed to run for lieutenant governor in Georgia, launching another Republican candidacy that will be closely tied to denying Donald Trump's 2020 loss of Georgia's 16 electoral votes. Jones,"
-publishedDateTime: 2021-08-09T23:32:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253340213.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article253340213.html"
-ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article253340213.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article253340213.html"
+publishedDateTime: 2021-08-10T05:10:00Z
+originalUrl: "https://www.kansascity.com/news/politics-government/national-politics/article253340213.html"
+webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article253340213.html"
+ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article253340213.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article253340213.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - Election
@@ -36,6 +36,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1860656/rod-blagojevich.jpg"
         width: 3000
         height: 2001
+        isCached: true
+  - title: "Man Who Voted for Trump in Place of Missing Wife Appears in Court on Charges of Her Murder"
+    excerpt: "On top of murder and submitting a fraudulent vote, the man could also be charged with tampering with his wife's deceased body as well as evidence."
+    publishedDateTime: 2021-08-09T19:19:00Z
+    webUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635"
+    ampWebUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1866603/man-fraudulently-votes-trump-missing-wife.jpg"
+        width: 2500
+        height: 1665
         isCached: true
   - title: "Trump-commuted exec settles $4 mln fraud lawsuit with feds"
     excerpt: "The former chief executive officer of Tennessee pain management company Comprehensive Pain Specialists has agreed to a permanent exclusion from Medicare and other federal healthcare programs to settle a lawsuit that he submitted false claims to the government for reimbursement."
@@ -95,6 +111,6 @@ related:
       domain: modbee.com
     quality: 55
 
-secured: "F2MK/5zsaR6td2AAD7jj3nBHpOopLCfBBH/Rw8ZDTx+seF7cP+JJk7KGqBLiYErAiwtCpGPt6ZmUh71XSefawPAprQx2CBbwanoCMjuEke8N0jtf5WbXdS22nVeY1Md3ycVs1tdwqGeKAhpeFmHBqcdXNQhb38IqQGUOvAoOvwTTbF7zGBUeGRlGgiZMIWLJDMk/yjWqB/JmWLnTtgZi4yZtJix/kXomEKbEmiuUtaRgyOiJYCiwBmq4F1PJZaEQdi57M4Pj4Q7zX5nQ7zuSe8AjkPQWuVve7JXwtoK/cdty9p86//OlpmqMKJNDcdMAyzwwN4w1581mjuCiGvmwzOHvsLBHyCc7eC/jIRiHBt9gPy6ChqD321Vs44U+ra91eNYzZOuvm5r1zA2z88lFrRQDQPEU23TyE6UXP0bY4xdP3YLTi8IWnE5cuEFhowSeNMQEaSs9Mlc/ypT82MoAkTHHurt17QrIhuZfLzCayjQEE1fADnnoYgwDs3RZClYOfvRoZOO/4dSys9X4Xbp0vA==;yEKD7r6zVMZOQWx3UBMQ8A=="
+secured: "dcPnXnsRsfuAztDHGS6yRfYLX0nZ7a/4CkWVwb2q4BASgLwYUrsVPwGX4531avSFs8OJgkNBI53GC5Jp5tEq/EDZzgSqqdAs8PTg0/FrKKZ1cowIhbqQUpblLlP4XsUgYCdQiOZ5blSJCuzde1IZQGP751OpDC9IMWT2jWKWfKOkaV1EnyWmbwhVbV8lcQB5zLt3jrySr9wlnT5+zfrEkxAVt6KUA3XM+kkj7dp8llR0757t9dRKm7g+r+TKUPONa14ed8ZTOn3AFtwC50/pwLIldephCpmyZZZ1LjxukDhjppVTppwxfuEFxKgO26I4uf4sAzqJOO4vWIbmkyghBQdmWJSjAwviv3QDmFDEfGRBe7SdmWgSh2siFys7iWdMxj+u9Gn5yUvwSllJJfyxCXt4uCD75zgfBW04b4fPDl7W+LSyoz0C9fS5rAapVZZOAwd9/uwi/ZJdaUBOY9BegFGvI9adQaYWDPbYLzW2UEHt7rr/ng365yv0MHFiz2gUiab/5fu9mCDeW5drqYRFtQ==;EPLbN59Y350g4QC0gaQQbg=="
 ---
 

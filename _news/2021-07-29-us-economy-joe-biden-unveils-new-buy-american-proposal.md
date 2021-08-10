@@ -182,6 +182,20 @@ related:
         width: 650
         height: 975
         isCached: true
+  - title: "Joe Voisine: Biden’s vax incentives promote inflation"
+    excerpt: "Rewarding the unvaccinated with a $100 shot, a chance at a $1 million lottery, and let’s not forget free beer. What’s next? Free tattoos, ear rings, free rent if you get vaccinated as soon as possible?"
+    publishedDateTime: 2021-08-10T04:00:00Z
+    webUrl: "https://www.sunjournal.com/2021/08/10/joe-voisine-bidens-vax-incentives-promote-inflation/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/11/2018/12/sunjournal-social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
     publishedDateTime: 2021-08-08T23:39:00Z

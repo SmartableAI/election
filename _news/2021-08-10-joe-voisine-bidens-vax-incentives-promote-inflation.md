@@ -1,29 +1,27 @@
 ---
 category: news
-title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
-excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
-publishedDateTime: 2021-08-05T21:34:00Z
-originalUrl: "https://www.sacbee.com/news/california/article253260458.html"
-webUrl: "https://www.sacbee.com/news/california/article253260458.html"
-ampWebUrl: "https://amp.sacbee.com/news/california/article253260458.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article253260458.html"
+title: "Joe Voisine: Biden’s vax incentives promote inflation"
+excerpt: "Rewarding the unvaccinated with a $100 shot, a chance at a $1 million lottery, and let’s not forget free beer. What’s next? Free tattoos, ear rings, free rent if you get vaccinated as soon as possible?"
+publishedDateTime: 2021-08-10T04:00:00Z
+originalUrl: "https://www.sunjournal.com/2021/08/10/joe-voisine-bidens-vax-incentives-promote-inflation/"
+webUrl: "https://www.sunjournal.com/2021/08/10/joe-voisine-bidens-vax-incentives-promote-inflation/"
 type: article
-quality: 67
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Sun Journal
+  domain: sunjournal.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/2bd4a008-4ddf-4ddd-9d09-3dd56470f28a/9dddc9e8-1ec8-4d37-a254-9021a763ce3b/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://multifiles.pressherald.com/uploads/sites/11/2018/12/sunjournal-social.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -150,6 +148,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
+    excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
+    publishedDateTime: 2021-08-05T21:34:00Z
+    webUrl: "https://www.sacbee.com/news/california/article253260458.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article253260458.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article253260458.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/2bd4a008-4ddf-4ddd-9d09-3dd56470f28a/9dddc9e8-1ec8-4d37-a254-9021a763ce3b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden touts 'Buy American' to boost US businesses"
     excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
     publishedDateTime: 2021-07-28T21:45:00Z
@@ -177,20 +191,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
         width: 650
         height: 975
-        isCached: true
-  - title: "Joe Voisine: Biden’s vax incentives promote inflation"
-    excerpt: "Rewarding the unvaccinated with a $100 shot, a chance at a $1 million lottery, and let’s not forget free beer. What’s next? Free tattoos, ear rings, free rent if you get vaccinated as soon as possible?"
-    publishedDateTime: 2021-08-10T04:00:00Z
-    webUrl: "https://www.sunjournal.com/2021/08/10/joe-voisine-bidens-vax-incentives-promote-inflation/"
-    type: article
-    provider:
-      name: Sun Journal
-      domain: sunjournal.com
-    quality: 55
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/11/2018/12/sunjournal-social.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
@@ -235,6 +235,6 @@ related:
         height: 815
         isCached: true
 
-secured: "UWjsLFLbDR+wEP1pin29MThFR6USNYrdgzD3LO4Rantk7c60a0yRuw5QDH4hrXtcIQHa88pXqfWzb8VSsF9TrE2/uOhFEMKM+aqJ8W+SAc/QgTQhjphZwxIorJLJOGJHgE5jg/3e8aQEK5FQHiypOvoWuWkyb3/OXiPpIGPvhxq0OnYgFJsCADSkRLrSPAPsNiyYiCU0E28P2ANwoSTZLTsjM51SE36KvuOdCZOo8hAHAEXX0VQm+3jLcUQBL36g0o1BMjUy2REARxSSmdAsT85MRXsqylpRTN3AP5QBEPC4cdDxZmZKG2M28NzuUrBei/VkCKWd2srMGMFX69asDjgRQMi7kIUEDSAvaIzEJqfVU5bxGdrYbOtCctsD2oEesdkKX4XD7Kge3Uia5wLmZj/i2RbjeoWqrgAhn2OG74tRVrnaGk8HTGg+TC04huktVOL+l7W6uxkKKk9jM2pZg1uiMK2/8q995aqwgicqEmg5QDZlf0WY9V/JwfVQRcTX6+BwnUZDu8bTUmd7jDJNvA==;eLnPNZBwY4aT2n0LZpI85Q=="
+secured: "F0BYMJgQuTjY3npnER21hKhwOZmRQJnr9j3zMI2A+GZIcJtiBZNQjyAaVXL7BbugpNwHk5UOunlFGS8Jj6mVJi2jJS89F4o9kRaFhGD/W2e/R5rp+q9o0c9ruj/F140Bv/tkCkRb/8ZSndkmZyGb/Q5tEDza6eQpmz0N3NXxJVXBpDpg8sR3AAra+s34+6HwD5gQkCiUUr5TCJ5nmFDiFDAhZidZUd8kkAcTZ4rUUHbmcNa6G+BSHuhm/dTTHMWHa+jPUxnqPTb4VPdi8M9MrfomBPsgxGGPBaYC8VwyceoBR1Qtj+yjg/MxLDQvktl9M2NwYNHbSoK2ULsMhvSyDTaBqEErbaPt0b1Oz9x5T9Y=;0kN+vKn+4YUupeenyaHSsQ=="
 ---
 
