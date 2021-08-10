@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-harris-lopez-obrador-speak-on-boosting-central-american-economies.md",
+      "title": "Harris, Lopez Obrador speak on boosting Central American economies",
+      "excerpt": "U.S. Vice President Kamala Harris and Mexican President Andres Manuel Lopez Obrador spoke by phone on Monday and agreed on the need to focus on strengthening the economies of Central America, particularly through investment in agriculture and climate resilience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-mexico-harris-idUSL1N2PH00I",
+      "originalUrl": "https://www.reuters.com/article/usa-mexico-harris-idUSL1N2PH00I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2PH00I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2PH00I",
+      "publishedDateTime": "2021-08-09T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-harris-to-talk-vaccines-with-mexican-president-amid-covid-case-surge.md",
       "title": "Harris to talk vaccines with Mexican president amid COVID case surge",
       "excerpt": "Vice President Kamala Harris is expected to speak Monday with Mexican President Andres Manuel Lopez Obrador to discuss COVID-19 vaccine distribution.",
@@ -1565,54 +1608,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-oreilly-biden-is-out-to-get-vp-kamala-harris-biden-doesnt-like-her.md",
-      "title": "O'Reilly: Biden Is Out To Get VP Kamala Harris, \"Biden Doesn't Like Her\"",
-      "excerpt": "\"The First\" host Bill O'Reilly said President Joe Biden is \"out to get\" Vice President Kamala Harris due to her primary debate performance where she basically accused him of being a racist with the \"that little girl was me\" line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/547161.jpg",
-          "width": 1006,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html",
-      "publishedDateTime": "2021-06-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

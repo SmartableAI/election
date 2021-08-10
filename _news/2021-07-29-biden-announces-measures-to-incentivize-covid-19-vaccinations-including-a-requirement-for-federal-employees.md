@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Widow of police officer who died by suicide after Capitol riot presses Biden for line of duty benefits"
+    excerpt: "As President Joe Biden welcomed the families of police officers who had defended the US Capitol on January 6 to the Rose Garden last week, a legal battle was pending before the Police and Firefighters' Retirement and Relief Board in Washington on behalf of Erin Smith, the widow of Metropolitan Police"
+    publishedDateTime: 2021-08-10T00:36:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_ytXIzTz2z8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/smith-washington-dc-officer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/smith-washington-dc-officer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210809125206-dc-police-officer-salute-0110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bipartisan senators urge Biden to continue intel community probe of Covid origins for as long as it takes"
     excerpt: "A group of bipartisan lawmakers is urging President Joe Biden to continue investigating the origins of the coronavirus pandemic until the intelligence community has a high degree of confidence in its conclusion about where and how it started, even if that effort exceeds the ongoing 90-day review set"
     publishedDateTime: 2021-07-27T22:14:22Z

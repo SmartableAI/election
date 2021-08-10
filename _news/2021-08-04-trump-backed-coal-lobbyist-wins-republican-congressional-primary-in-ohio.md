@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Cowboys for Trump Founder Offered Plea Deal in Capitol Riot Case"
+    excerpt: "Couy Griffin was charged with one count of knowingly entering or remaining in any restricted building or grounds without lawful entry on January 17."
+    publishedDateTime: 2021-08-10T01:46:00Z
+    webUrl: "https://www.newsweek.com/cowboys-trump-founder-offered-plea-deal-capitol-riot-case-1617723"
+    ampWebUrl: "https://www.newsweek.com/cowboys-trump-founder-offered-plea-deal-capitol-riot-case-1617723?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cowboys-trump-founder-offered-plea-deal-capitol-riot-case-1617723?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1866859/couy-griffin-cowboys-trump-capitol-riot.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "As Trump Claims Victory in Ohio, Progressive Democrats' Influence Takes a Hit"
     excerpt: "Moderate democrats could take former state Senator Nina Turner's loss on Tuesday as an indication that voters aren't looking for the party to shift farther left."
     publishedDateTime: 2021-08-04T03:44:00Z

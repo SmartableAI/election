@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale-see-the-photos.md",
+      "title": "Hunter Biden relaxes with family in Malibu as he readies for high-priced art sale: See the photos",
+      "excerpt": "President Joe Biden's son Hunter Biden was seen in Malibu Sunday afternoon with family and friends ahead of meeting with potential buyers of his controversial art.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc0_gPcBM2g/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc0_gPcBM2g/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d6e1904-5f76-4296-8d43-5d253226be8c/187fcfeb-e169-46cd-accd-ef3072a9eada/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
+      "publishedDateTime": "2021-08-09T18:50:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-trump-couture-ex-president-unveils-new-version-of-maga-hat-he-just-designed.md",
       "title": "Trump couture: Ex-president unveils new version of MAGA hat he ‘just designed’",
       "excerpt": "In an email to supporters, former President Donald Trump announced a new version of the “Make America Great Again” hats and claimed he had “just designed” it.",
@@ -1589,62 +1645,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-biden-says-voting-system-under-assault-protecting-it-is-single-most-important-thing.md",
-      "title": "Biden says voting system ‘under assault, protecting it is ‘single most important thing’",
-      "excerpt": "President Biden on Monday warned his fellow Democrats that the voting system was under assault and protecting it was the “single most important thing to do.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b878e947-4a88-43a4-b2b2-3116ef63ccd5/e836207c-1f0f-4cc6-9963-c0a64f5254fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
-      "publishedDateTime": "2021-08-02T19:09:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

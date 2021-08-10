@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Widow of police officer who died by suicide after Capitol riot presses Biden for line of duty benefits"
+    excerpt: "As President Joe Biden welcomed the families of police officers who had defended the US Capitol on January 6 to the Rose Garden last week, a legal battle was pending before the Police and Firefighters' Retirement and Relief Board in Washington on behalf of Erin Smith, the widow of Metropolitan Police"
+    publishedDateTime: 2021-08-10T00:36:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_ytXIzTz2z8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/09/politics/smith-washington-dc-officer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/smith-washington-dc-officer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210809125206-dc-police-officer-salute-0110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden announces measures to incentivize Covid-19 vaccinations, including a requirement for federal employees"
     excerpt: "President Joe Biden on Thursday is set to announce a number of new steps his administration will take to try to get more Americans vaccinated and slow the spread of coronavirus, including requiring that all federal employees must attest to being vaccinated against Covid-19 or face strict protocols.\n"
     publishedDateTime: 2021-07-29T20:52:09Z

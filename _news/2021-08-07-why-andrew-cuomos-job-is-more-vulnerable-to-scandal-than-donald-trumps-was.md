@@ -2,27 +2,29 @@
 category: news
 title: "Why Andrew Cuomo's job is more vulnerable to scandal than Donald Trump's was"
 excerpt: "Andrew Cuomo. Cuomo went from being talked about as a potential presidential candidate in the spring of 2020 – thanks in large part to his handling of the COVID-19 pandemic in New York state – to media ridicule and possible state senate impeachment now,"
-publishedDateTime: 2021-08-07T01:05:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+publishedDateTime: 2021-08-07T00:05:00Z
+originalUrl: "https://www.greenwichtime.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+webUrl: "https://www.greenwichtime.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+ampWebUrl: "https://www.greenwichtime.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
 type: article
-quality: 102
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Greenwich Time
+  domain: greenwichtime.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Cuomo jams Democrats with Trump playbook: The Note"
@@ -58,6 +60,6 @@ related:
         height: 700
         isCached: true
 
-secured: "V/d76lLz7BAq7VXa83r9mG8JTi22v1Xzk8wFaLQVfMrcS5cU1dodzlL9cV///Om9mUM1acGwd9UQGM7M5vLBpiKY3vWMz0PFUYctADDSwewnZtjeml82CERsAXS1HLhfeuCW121r9uolqimO0ysCMiNpqgkXsyTbP6y4l1sxBMsJ7X2tvjPiKPcoa91mjAfDz7emOjwuthcuNig8vuF5FCTnrg02j988lMS2hcc/Bn3u+S/flxSp6uXWvCBVMCVhhxg/wo3cFwS7+DUttcju5mnHgZZm0Wu48IOR1dbqAebyanBeORwSMM7emsXuMECry5UE0mU2kRrb6d5gr9YGgPhyFHbemsDNs5FiKbKch8w=;NoPVf0D4TazSfECQmCA+tQ=="
+secured: "E4PWIP6oZC20R8Jaq6X53BThISn04E7EvfrpC2Rqds3y8afi1D+k8a8MzyyRYr//T5XtEdu8k2OrQXGmGHOhudLJn8CKAAM3cklvIRZfotolwBxt/pZvdK8AT2iFGY7lW+z850HkAopkyr+A5q3ASF9SLrUhu3f0houvKitx5XnBWH8QR3XCs1kzoAjrC71id42y69yTf2TovkPmdcU8Ifzk8mgepR4qEDM8O5cCiM/ejkHCguXgWd4lsTJiODRWwcHVqxa3nU8bWdTdy2ykTgGmkGF4byHFSr/H2LWrtoyj94Bkq7CN8yL+fE2xGotAyfdJXzHGOCtLZX3zo2EH/hXVnYi1+6OKtFUQ8Xu5EpY=;lxj5zCyDkflHvKY/UctxWg=="
 ---
 

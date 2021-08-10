@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Cowboys for Trump Founder Offered Plea Deal in Capitol Riot Case"
+    excerpt: "Couy Griffin was charged with one count of knowingly entering or remaining in any restricted building or grounds without lawful entry on January 17."
+    publishedDateTime: 2021-08-10T01:46:00Z
+    webUrl: "https://www.newsweek.com/cowboys-trump-founder-offered-plea-deal-capitol-riot-case-1617723"
+    ampWebUrl: "https://www.newsweek.com/cowboys-trump-founder-offered-plea-deal-capitol-riot-case-1617723?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cowboys-trump-founder-offered-plea-deal-capitol-riot-case-1617723?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1866859/couy-griffin-cowboys-trump-capitol-riot.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump-backed coal lobbyist wins Republican congressional primary in Ohio"
     excerpt: "Ex-president hails Mike Carey’s victory in special election seen as test of Trump’s continuing hold on party"
     publishedDateTime: 2021-08-04T01:16:00Z

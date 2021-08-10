@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale-see-the-photos.md",
+      "title": "Hunter Biden relaxes with family in Malibu as he readies for high-priced art sale: See the photos",
+      "excerpt": "President Joe Biden's son Hunter Biden was seen in Malibu Sunday afternoon with family and friends ahead of meeting with potential buyers of his controversial art.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc0_gPcBM2g/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc0_gPcBM2g/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d6e1904-5f76-4296-8d43-5d253226be8c/187fcfeb-e169-46cd-accd-ef3072a9eada/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
+      "publishedDateTime": "2021-08-09T18:50:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-trump-cant-say-hasta-la-vista-to-celebrity-apprentice.md",
+      "title": "Trump can’t say ‘Hasta la vista’ to ‘Celebrity Apprentice’",
+      "excerpt": "President Donald Trump can't seem to bring himself to say \"Hasta la vista, baby\" to \"Celebrity Apprentice.\" Twice in the past month, Trump, who once hosted the NBC reality TV show, has taken pot shots at the current host,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
+      "originalUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/media:a7dd2932954c4bd5a98a8a1fcccfe5cb/3000.jpeg",
+          "width": 3000,
+          "height": 1994,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-trump-couture-ex-president-unveils-new-version-of-maga-hat-he-just-designed.md",
       "title": "Trump couture: Ex-president unveils new version of MAGA hat he ‘just designed’",
       "excerpt": "In an email to supporters, former President Donald Trump announced a new version of the “Make America Great Again” hats and claimed he had “just designed” it.",
@@ -47,6 +146,49 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-harris-lopez-obrador-speak-on-boosting-central-american-economies.md",
+      "title": "Harris, Lopez Obrador speak on boosting Central American economies",
+      "excerpt": "U.S. Vice President Kamala Harris and Mexican President Andres Manuel Lopez Obrador spoke by phone on Monday and agreed on the need to focus on strengthening the economies of Central America, particularly through investment in agriculture and climate resilience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-mexico-harris-idUSL1N2PH00I",
+      "originalUrl": "https://www.reuters.com/article/usa-mexico-harris-idUSL1N2PH00I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2PH00I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2PH00I",
+      "publishedDateTime": "2021-08-09T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -1137,175 +1279,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-new-york-times-trump-2020-campaign-refunds-millions-to-donors-after-using-aggressive-fundraising-tactic.md",
-      "title": "New York Times: Trump 2020 campaign refunds millions to donors after using aggressive fundraising tactic ",
-      "excerpt": "Former President Donald Trump and the Republican Party have refunded nearly $13 million to donors in the first half of the year, after deploying fundraising tactics in the 2020 election that duped donors into giving more money than they intended or believed they were, The New York Times reported.\n  ",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D_q1oJ1baXM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D_q1oJ1baXM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210807131902-donald-trump-pennsylvania-09-22-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html",
-      "publishedDateTime": "2021-08-07T11:14:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-fact-checking-claim-biden-administration-is-pushing-vaccine-passport.md",
-      "title": "Fact-checking claim Biden administration is pushing vaccine passport",
-      "excerpt": "Amid confusion over mask mandates, booster shots, and new guidance for those vaccinated, some Republicans have thrown fuel on the fire with false and misleading claims.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210726095519-france-covid-pass-law-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html",
-      "publishedDateTime": "2021-08-07T09:30:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-rose-mcgowan-tears-into-alyssa-milano-joe-biden-times-up-ceo-amid-cuomo-scandal-your-time-is-up.md",
-      "title": "Rose McGowan tears into Alyssa Milano, Joe Biden, Time's Up CEO amid Cuomo scandal: 'Your time is up'",
-      "excerpt": "Rose McGowan ripped Alyssa Milano, Time's Up President Tina Tchen, and President Biden when referring to Andrew Cuomo's sex harassment scandal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal",
-      "originalUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/cuomo-mcgowan-milano-getty.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal.amp",
-      "publishedDateTime": "2021-08-07T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],
