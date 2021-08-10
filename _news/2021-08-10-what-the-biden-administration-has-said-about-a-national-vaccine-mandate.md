@@ -1,27 +1,33 @@
 ---
 category: news
-title: "President Joe Biden Awards January 6 Police Officers Congressional Gold Medals"
-excerpt: "President Joe Biden, surrounded by U.S. House Speaker Nancy Pelosi (D-CA), members of the U.S. Capitol Police and their families, signs H.R. 3325 into law in the Rose Garden of the White House in Washington,"
-publishedDateTime: 2021-08-05T23:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
+title: "What the Biden Administration Has Said About a National Vaccine Mandate"
+excerpt: "While the administration is looking into ways it can encourage vaccinations at state and local levels, officials deny they're pursuing a national mandate."
+publishedDateTime: 2021-08-10T15:31:00Z
+originalUrl: "https://www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965"
+webUrl: "https://www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965"
+ampWebUrl: "https://www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965?amp=1"
 type: article
-quality: 51
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/WHITE-HOUSEBIDEN.jpg"
-    width: 650
-    height: 433
+  - url: "https://d.newsweek.com/en/full/1867400/vaccine-biden-administartion-national-mandate.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/26b75722c336bad8c50309926af68f13cf3dc72f/0_134_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eada90142314f96d2869c871b0200db3"
         width: 600
         height: 360
-        isCached: true
-  - title: "What the Biden Administration Has Said About a National Vaccine Mandate"
-    excerpt: "While the administration is looking into ways it can encourage vaccinations at state and local levels, officials deny they're pursuing a national mandate."
-    publishedDateTime: 2021-08-10T15:31:00Z
-    webUrl: "https://www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965"
-    ampWebUrl: "https://www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1867400/vaccine-biden-administartion-national-mandate.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
     excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
@@ -232,6 +222,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Awards January 6 Police Officers Congressional Gold Medals"
+    excerpt: "President Joe Biden, surrounded by U.S. House Speaker Nancy Pelosi (D-CA), members of the U.S. Capitol Police and their families, signs H.R. 3325 into law in the Rose Garden of the White House in Washington,"
+    publishedDateTime: 2021-08-05T23:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/WHITE-HOUSEBIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
     excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."
     publishedDateTime: 2021-08-03T22:03:00Z
@@ -242,6 +246,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "TXO3eoBgl6Qa27YJNCULx/w5L/fBFED7G7bFQ40yqQduE9/czl3EU6q8T9W39Mbep7teQ0K6IRYd9uNv6Sf+o21hwJYuq6J7bvdYPPYkjdyh6pZ/jtUv8wj0rZxk+l4MYmAxRUw7VxSBj/qJZI6xwW8zMgxxZ4mHur1ImWxeZYD6p/Q9suAL29nME122wtbBevU3aOsCCMzWaFRI1odgVw4i40fbZM2/Rzs3NlwqiTaS3wPXaYxRs20FfzfIrJYNS8NIQdj/sCtPD7U9Ahi6euFehrqEvIqN+QZ0eYID7j3IWqQ8RIwHNGfJa0IEwxD4R0YjRI3J74dCY8bY2+KTzEnwWK47sAHKgyPhdeCBSNu9qPtppExIZSvzw4nEgrkjU38b0bfIBa3MXWCuvoEePyo9mEpohNF/4USHQEiL7seZgJVd6GrgowMSStadJRAFxLcmF/Ix/fvHvOWmKplu1Tkg9fmk1AsUe5wI1o8ZiuvDg0sxgz5H9jotE3qaayTp6yebJPiuiVbrhpPF2kK+hw==;UIjt+hHJ2QPsguJDYWWt4Q=="
+secured: "bj+j7S05tJqeB1wLzBVsG3CNk0fEoWIWmaF4BukDTtR6n+yj5rZrKmkvq5qfXS1ChE03SR9JQtK8os30ZZviNd4Xli8xPKCapz3MjGPHRdT3jMMLGQoQP20oiaOzlKaHT752rKm+otIE8ht84WAOy/zz2XliEX+YK33KckzV0aOTx5FxjdWH7UYpdOGjiWRfDcRqP/MwAKMlZP9nwFFZ8nr+8fE5b8gW6/P8DWS06ojTINlJ2NVyD708CxEkW5qibNm8khn8gRNWgX7PVH1w9zp3/u33sLf+1nHvCn50Q/3znoWNzCn2Wzhzqm0hVNkRiTm//fLHVcuiMNwYJuFydJ87lvM4//WKCUF7GcADRS0=;RQyi1RlIP7Dxwx8Bpy+jyQ=="
 ---
 

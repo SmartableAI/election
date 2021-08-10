@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/harris-sp
 webUrl: "https://www.stltoday.com/news/national/govt-and-politics/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/article_7c1cc6c0-9ff0-59a2-bf69-f6b56ec9ce2d.html"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 630
     isCached: true
 
-secured: "6wxOqZhJ1oFrjOh9hnb+jzom/c6K+NHaddz3Gliob5g4ajCIFXuHiFamUdWRzI/3krN7fcdCm5Pe6dEf5IYMN37bgWq+lmm/ScAfW+BLqQtfcqERQxCjTy8TsXHCcjYFlIpaBKDeRZdCG4oc3H9KOeMMdhx626eFDInlTuU7DEljLX1MmQa5E1WM0gGA+E/P5OFj9mPC503ZuwdWNlw8lH4a452XuAuYb8jWCNa+knpAmXjR1vyGhzkBUD/TC/p5WKXpN1u9MGe0b/Pwd2MrQ+PM2HXTAHQ3YPy0IByzGTIAwurKWH2ZeTC4wJzArnBAmJ50qlXLkBXudfOuH4gPOveK/AxrPkO+8iTPjOJg+1k=;smRENj56mK4qWWmpmhJQhw=="
+related:
+  - title: "VP Harris' husband to represent US at Paralympic Games in Tokyo"
+    excerpt: "About 4,400 athletes with physical disabilities from 160 countries will compete in more than 20 sporting events under strict public health measures."
+    publishedDateTime: 2021-08-10T14:53:00Z
+    webUrl: "https://www.11alive.com/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c"
+    ampWebUrl: "https://www.11alive.com/amp/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/CCT/images/14f5a6dc-2338-4ed0-ba93-64bf5799ffd3/14f5a6dc-2338-4ed0-ba93-64bf5799ffd3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+
+secured: "Y77G8hl2eMYtZ2Az9IsIZkenCYsuRepK8elxf4hofjRIhbU/jBcTY5MTegK5IbW6I4XYb7wUkmMoQSrp+IUOxgyAGFuAgEnPZ3Lpfcuqjbr1n0a3o60NBiI0hUXUCeHEoyQR1EGpHGDhHFMzAvddLiPI7YkdQHTK8LN972D/osOyMILvTG1lB1BMDSIr/YLMiG7GODgBfsYvLP4UuQihzfQjVg+UF/dq7Gesthpft9fVYx/lDeUtQ+9UaA/UJE6StvQ3s5kBg0iaoUMoVaE4Bb0xREodjukuLONb2R97YJosGOk56M57rslTm4xB1/TACz8J56zrBNpLxjBrTZ2jXlIDdIszhd8b855eRxYEVuaMdc3UYNKHs031E7jZya5fvdYZ01C9C/jV0fxHqLpifKv6Kxk9/gUih+MHvq50mVNgpycZFtBw49RIoUlg3BhJPobH7tDxeQqtyRmSJ21ARBdP1Z/dF3VLwyWoQ8aUNUXJab6ieQU9UZfSe3LDVgGgqaH2TVVyRBOF6MU6eaorjw==;hFaJFJhpZUrqp5HQBO+Fyw=="
 ---
 

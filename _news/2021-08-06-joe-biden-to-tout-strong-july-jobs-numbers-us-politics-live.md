@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "What the Biden Administration Has Said About a National Vaccine Mandate"
+    excerpt: "While the administration is looking into ways it can encourage vaccinations at state and local levels, officials deny they're pursuing a national mandate."
+    publishedDateTime: 2021-08-10T15:31:00Z
+    webUrl: "https://www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965"
+    ampWebUrl: "https://www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-biden-administration-has-said-about-national-vaccine-mandate-1617965?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1867400/vaccine-biden-administartion-national-mandate.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
     excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
     publishedDateTime: 2021-08-02T18:52:00Z

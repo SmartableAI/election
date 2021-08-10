@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557086703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH30381"
         width: 796
         height: 545
+        isCached: true
+  - title: "Trump blames McConnell for infrastructure bill’s passage: ‘Most overrated man in politics’"
+    excerpt: "Former President Donald Trump slammed Senate Minority Leader Mitch McConnell on Tuesday for helping pass the White House’s $1.2 trillion infrastructure bill, saying the Kentucky Republican is the “most overrated man in politics."
+    publishedDateTime: 2021-08-10T15:22:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 65
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/22/Virus_Outbreak_Congress_Outlook_02559.jpg-6909b_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
     excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."

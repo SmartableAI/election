@@ -1,24 +1,30 @@
 ---
 category: news
-title: "‘A gargantuan task’: How will Biden satisfy both progressives, moderates on infrastructure?"
-excerpt: "President Joe Biden is caught between retaining support of centrist Democrats, Republicans for an infrastructure deal while satisfying his party’s liberal faction."
-publishedDateTime: 2021-08-05T17:39:00Z
-originalUrl: "https://www.bellinghamherald.com/news/politics-government/article253279158.html"
-webUrl: "https://www.bellinghamherald.com/news/politics-government/article253279158.html"
-ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/article253279158.html"
-cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/article253279158.html"
+title: "Trump blames McConnell for infrastructure bill’s passage: ‘Most overrated man in politics’"
+excerpt: "Former President Donald Trump slammed Senate Minority Leader Mitch McConnell on Tuesday for helping pass the White House’s $1.2 trillion infrastructure bill, saying the Kentucky Republican is the “most overrated man in politics."
+publishedDateTime: 2021-08-10T15:22:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
+webUrl: "https://www.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: The Bellingham Herald
-  domain: bellinghamherald.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
+
+images:
+  - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/22/Virus_Outbreak_Congress_Outlook_02559.jpg-6909b_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+    width: 1200
+    height: 700
+    isCached: true
 
 related:
   - title: "Will McConnell lift roadblock of Biden for infrastructure?"
@@ -53,22 +59,6 @@ related:
         width: 796
         height: 545
         isCached: true
-  - title: "Trump blames McConnell for infrastructure bill’s passage: ‘Most overrated man in politics’"
-    excerpt: "Former President Donald Trump slammed Senate Minority Leader Mitch McConnell on Tuesday for helping pass the White House’s $1.2 trillion infrastructure bill, saying the Kentucky Republican is the “most overrated man in politics."
-    publishedDateTime: 2021-08-10T15:22:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 65
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/22/Virus_Outbreak_Congress_Outlook_02559.jpg-6909b_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
     excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."
     publishedDateTime: 2021-08-08T23:12:00Z
@@ -80,6 +70,17 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 55
+  - title: "‘A gargantuan task’: How will Biden satisfy both progressives, moderates on infrastructure?"
+    excerpt: "President Joe Biden is caught between retaining support of centrist Democrats, Republicans for an infrastructure deal while satisfying his party’s liberal faction."
+    publishedDateTime: 2021-08-05T17:39:00Z
+    webUrl: "https://www.bellinghamherald.com/news/politics-government/article253279158.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/article253279158.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/article253279158.html"
+    type: article
+    provider:
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
+    quality: 45
   - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
     excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
     publishedDateTime: 2021-08-10T11:29:00Z
@@ -90,6 +91,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "IJCBjSa9hhvJCQpU4nuuPRzFr2kmO+nOTRyIYgUQZOGrQYr9XGabeoNdRH4/fgtQFsKRb7OCWQdPB3G/8HvkaQIgKmcSUQmuBHosNNu/4qfNBNvO0DKS3UDAS3NSxxB0lll+BO9nkSaM70JAEIaFg8f6EWsuw6tAscdj69IQzu+qn0I+hr6HVeIFjur0lrarIlB2Teph/HJV2ZDX91Aa129oBnHLJ6HjZOSVgnOWxWy52qV4YtpuYLqFZE2AY8tr54hdkGhnDwBXxo6AtMa5SxrlaQvDWKDV5YsKjzUSlG6pYVFmCCLE/k90TakAXJQUH4ivTIt+gIQJd/q4hdWmEVbUkAxDlebxbq8iCL/nqOH6d9pm8PLHVTfAeWl++VMA20pXzeNbyU7oox2iaZhw4U5e6u7WiAqWfTDGxOnnyL6yJsip7KV2GYBar5/X0eoTfqCta1gQ9Fq5cYtr8BD0t3JYq859nH0OtnPFzU0tn37xWww2xcx0AH7jHdi28KfuSPMcQZeAILM6TKhK3rDeRg==;q8/+CJdR39Yg99hrOxTInw=="
+secured: "OcilDA7gbVhceOXTJClr8Ex4JIOU9jravYNheTNYRmqAASiYgFvSq7MnM9GS4FooG+F0IepDmRYTKCPcdg/qFSx0Xm6LzTp5qEJ+WY5g3iyl3ho4i49oGl291O4kstS5y9+WPHl4gRCVJeVJL6OnAIgG3SPvDdIYYQItDnezDTxFCQBAC6rQGO4+g6FMV6jPUEz1wXEsSIe8u3tBB3WiAC+i1ugWvuK+4lo7fSOt3vHxb6TmDsT7rq2b94cRAn9Z6hRMMo//a+Gu18tDJFBzp2fYHTN/LU7su39tyKm2UpJVDMn4pwcMRH93cvZ0eZPkHBbpfTn8OHPEDAxbY/H/wtV2MobJd5GmIn4cJQFsSEc=;4inf1+MwEsZ9/2s9Tm23mg=="
 ---
 
