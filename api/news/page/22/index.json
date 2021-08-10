@@ -2,6 +2,63 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-06-29-dr-saphier-on-trump-interview-everything-with-covid-was-politicized-from-the-start.md",
+      "title": "Dr. Saphier on Trump interview: Everything with COVID was 'politicized' from the start",
+      "excerpt": "Fox News medical contributor Dr. Nicole Saphier joined \"Fox & Friends\" and ripped Democrat politicians for politicizing the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/dr-saphier-coronavirus-origins-trump-interview",
+      "originalUrl": "https://www.foxnews.com/media/dr-saphier-coronavirus-origins-trump-interview",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f6b1c7f-3595-4a40-a537-40e6b6cab726/e4559f27-f407-4ad3-ac1c-606959360f29/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/dr-saphier-coronavirus-origins-trump-interview.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/dr-saphier-coronavirus-origins-trump-interview.amp",
+      "publishedDateTime": "2021-06-29T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-biden-thinking-about-2022-and-2024-president-hits-battleground-states.md",
       "title": "Biden thinking about 2022 and 2024? President hits battleground states",
       "excerpt": "President Biden is traveling to two battleground states this week, in what a Democratic strategist says are visits that serve \"dual purposes.\"",
@@ -1307,58 +1364,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail.md",
-      "title": "‘He’s not a quitter’: faithful out in force as Trump gets back to the campaign trail",
-      "excerpt": "Thousands of adoring fans turned out in Ohio to remind America that Trump’s cult of personality never went away",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e54afdb99fc6555ba85677903e1075aceafb8031/0_45_2512_1508/master/2512.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ea2ec4f2d8b75e66cd31d0139721260",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
-      "publishedDateTime": "2021-06-26T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

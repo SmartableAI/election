@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-03-americas-recovery-is-joe-bidens-presidency-vulnerable-to-inflation.md",
+      "title": "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?",
+      "excerpt": "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "originalUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F212df0d0-e94b-11eb-8b52-d9a1d750df18-standard.png?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
+      "publishedDateTime": "2021-08-02T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-trump-stokes-anti-muslim-sentiment-censured-in-us-abroad.md",
       "title": "Trump stokes anti-Muslim sentiment; censured in US, abroad",
       "excerpt": "Stoking the same anti-Islam sentiments he fanned on the campaign trail, President Donald Trump on Wednesday retweeted a string of inflammatory videos from a fringe British political group purporting to show violence being committed by Muslims.",
@@ -1252,58 +1304,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-rudy-giuliani-says-i-committed-no-crime-while-working-for-trump.md",
-      "title": "Rudy Giuliani says ‘I committed no crime’ while working for Trump",
-      "excerpt": "Former New York mayor, under federal investigation over dealings in Ukraine, makes unprompted assertion to NBC",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0dbcef0657f58b41c50322c42d24b5e22dc4c973/0_181_5441_3264/master/5441.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e9da3ca75d6e51a8de0355b0691d5146",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "publishedDateTime": "2021-07-31T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

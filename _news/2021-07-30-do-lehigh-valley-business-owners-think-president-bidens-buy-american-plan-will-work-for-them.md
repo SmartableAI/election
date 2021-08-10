@@ -234,6 +234,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Joe Biden’s American Rescue Plan offers a healthcare insurance benefit, but time is running out to sign up for it"
+    excerpt: "President Joe Biden signed the American Rescue Plan back in March, and while the $1,400 stimulus checks were the big focus for many Americans, the bill has provided many other benefits — including healthcare."
+    publishedDateTime: 2021-08-09T21:57:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 49
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWZ6PLG35BG5HAX4FAH7H4MIJ4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "Ey3PlpQ8rd+TcfMTXb5CUv+izxlzKqs/JBm9I7oQ+BEx0nR78lfrep+Fb9cVS28VqX/VytaDZt4N1Yq4scuQVCqsp8j6pfCc93LkjTOOb4IB3fgEtJknKX1AAh1CkSJ2jH44HbdLry2zeyLX6GwSf3/jjdfSy34KTbMSm5Qrz1mxxvnmkg8rLtQCNBR3XPdQMceEIWOWC6xj8OBYXgNgeiyNH1nAMlOfFsIt4YyekjvMSY7KK7lBH8dPhX4TSorCr0wKWd41jpIargfOGkQWeP4KDqdlHNE6iny06QBggb13Dd3l7bVE080M/orp7GzNwqNlk0hMZu7rEOO+IsK38qU4FiEg16eJgTZ8gaQ6FMU=;Ib/JQXb+z2Kgo+pUaR9i7w=="
 ---

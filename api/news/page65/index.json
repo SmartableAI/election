@@ -2,6 +2,62 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-04-04-biden-adviser-brian-deese-tells-fox-news-sunday-economy-still-has-long-way-to-go-needs-new-spending-plan.md",
+      "title": "Biden adviser Brian Deese tells 'Fox News Sunday' economy still has 'long way to go,' needs new spending plan",
+      "excerpt": "National Economic Council Director Brian Deese said Sunday that President Biden's new spending plan is still sorely needed despite a strong March jobs report and a variety of other positive economic signs in recent months. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ERHj-FNN0FY/fox-news-sunday-brian-deese-interview-biden-spending-infrastructure-plan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ERHj-FNN0FY/fox-news-sunday-brian-deese-interview-biden-spending-infrastructure-plan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fox-news-sunday-brian-deese-interview-biden-spending-infrastructure-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-sunday-brian-deese-interview-biden-spending-infrastructure-plan.amp",
+      "publishedDateTime": "2021-04-04T06:27:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-progressives-calls-growing-for-biden-to-cancel-50k-of-student-loan-debt-do-it.md",
       "title": "Progressives' Calls Growing for Biden to Cancel $50K of Student Loan Debt: 'Do It!'",
       "excerpt": "Calls from progressive Democratic lawmakers for President Joe Biden to cancel $50,000 of student loan debt continue to mount in recent days. Although Biden has previously pushed back against the idea publicly, White House Chief of Staff Ron Klain told ...",
@@ -1294,62 +1350,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-fact-check-biden-and-kemp-misleadingly-describe-parts-of-georgia-elections-law.md",
-      "title": "Fact check: Biden and Kemp misleadingly describe parts of Georgia elections law",
-      "excerpt": "There are a lot of misleading claims being made about Georgia's controversial elections law.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210401182037-kemp-biden-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html",
-      "publishedDateTime": "2021-04-02T07:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

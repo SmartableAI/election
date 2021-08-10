@@ -223,6 +223,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Joe Biden’s American Rescue Plan offers a healthcare insurance benefit, but time is running out to sign up for it"
+    excerpt: "President Joe Biden signed the American Rescue Plan back in March, and while the $1,400 stimulus checks were the big focus for many Americans, the bill has provided many other benefits — including healthcare."
+    publishedDateTime: 2021-08-09T21:57:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 49
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWZ6PLG35BG5HAX4FAH7H4MIJ4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
     excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"
     publishedDateTime: 2021-07-29T19:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://static.politico.com/40/99/4793f7c7413585b384ff270145fb/7-30-21-evictions1-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Senate to vote on massive infrastructure package that is centerpiece of Biden agenda"
+    excerpt: "The legislation faces hurdles in the House before it can be sent to Biden’s desk and cement a major bipartisan achievement."
+    publishedDateTime: 2021-08-10T13:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/senate-vote-massive-infrastructure-package-centerpiece-biden-agenda-n1276134"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276134"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276134"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3497973/210810-construction-capitol-jm-0934.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "Gq4jNcuq/UoGxI+e9pxBg0A/u+1im0xPXRMvxBWT4rS3lcOgCvi4DOyPHTSZQrR/tYvRQWxNBcU2dVz2fyELFjkiS3S7+DPKuFpk1tuWCh3DAjPLhH8MnCJdpWNufzOgp1T93ZpAhwrq5ScmD6lUm3hV4j09Glg7DRtUg2gVji3QDZP5slzWwxanSI3r54x5/04LVv80o5EnusNbv2uf5IKKqlwqqiahVXfIkTe1HQ/tkiHReH9dfyjDcHMvAg26cBLvbycCmHoAab1jLjeSMOX9KvHZRkH+c+ligRPPpE6DK+BDGUw1F6++cH6DQI5ud7ZL1bl7k4mgSanMdIvc/+6BZ5yF6c33z0kYfAhkoDE=;NF2YdLu349Gh6rNfpq4i7Q=="

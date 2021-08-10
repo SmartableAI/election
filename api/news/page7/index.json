@@ -2,6 +2,54 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-28-trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident.md",
+      "title": "Trump, lawmakers honor Sen. Mike Enzi after sudden death from bike accident",
+      "excerpt": "From former President Donald Trump to Rep. Liz Cheney to Sen. Tim Kaine, many on both sides of the aisle remembered the life and accomplishments of Senator Mike Enzi.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/",
+      "originalUrl": "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/Sen.-Mike-Enzi.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/",
+      "publishedDateTime": "2021-07-27T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-officer-trump-helped-create-this-monstrosity.md",
       "title": "Officer: Trump 'helped create this monstrosity'",
       "excerpt": "In testimony before the panel probing the attack on the U.S. Capitol, a police sergeant blasted former President Donald Trump's description of the scene as \"a loving crowd\". (July 27)",
@@ -1263,58 +1311,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-i-alone-can-fix-it-carol-leonnig-and-philip-rucker-on-their-trump-bestseller.md",
-      "title": "I Alone Can Fix It: Carol Leonnig and Philip Rucker on their Trump bestseller",
-      "excerpt": "The Washington Post reporters have unleashed a second startling story of incompetence and malevolence in the White House",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
-      "originalUrl": "https://www.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/8cc42eb3c56aa9ffb79ab92e2f7e56f65ffdea68/0_0_4000_2399/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5217cfdf1e9c460dce0e880b25dcd4e",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
-      "publishedDateTime": "2021-07-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-biden-calls-for-healthcare-upgrades-as-aca-enrollment-period-nears-end.md",
+      "title": "Biden calls for healthcare upgrades as ACA enrollment period nears end",
+      "excerpt": "The White House said Tuesday that more than 2 million Americans have signed up for healthcare coverage through the Affordable Care Act during the special enrollment period, which began earlier this year and ends Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/1551628599124/2021/1/e37dc134d7c4c6c658c2118e2e398eb5/v1.5/Biden-calls-for-healthcare-upgrades-as-ACA-enrollment-period-nears-end.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
+      "publishedDateTime": "2021-08-10T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover.md",
       "title": "Grim Afghan news raises risk for Biden of Taliban takeover",
       "excerpt": "A rapidly deteriorating security situation in Afghanistan weeks before the official end of the U.S. military mission is putting pressure on President Biden as he sticks to his plan to pull America out of its longest war.",
@@ -631,7 +674,7 @@
       "originalUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1452,58 +1495,6 @@
       "ampWebUrl": "https://www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-masking-again-another-step-our-journey-defeating-this-virus-1613707?amp=1",
       "publishedDateTime": "2021-07-27T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-joe-bidens-wheres-mom-remarks-go-viral-as-critics-jump-on-apparent-confusion.md",
-      "title": "Joe Biden's 'Where's Mom?' Remarks Go Viral as Critics Jump on Apparent Confusion",
-      "excerpt": "The president called Representative Jim Langevin \"Paul\" at an event celebrating the Americans with Disabilities Act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502",
-      "originalUrl": "https://www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1856267/biden-gives-pen-tyree-brown.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-where-mom-remarks-go-viral-critics-confusion-langevin-jim-name-wrong-1613502?amp=1",
-      "publishedDateTime": "2021-07-27T08:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-biden-calls-for-healthcare-upgrades-as-aca-enrollment-period-nears-end.md",
+      "title": "Biden calls for healthcare upgrades as ACA enrollment period nears end",
+      "excerpt": "The White House said Tuesday that more than 2 million Americans have signed up for healthcare coverage through the Affordable Care Act during the special enrollment period, which began earlier this year and ends Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/1551628599124/2021/1/e37dc134d7c4c6c658c2118e2e398eb5/v1.5/Biden-calls-for-healthcare-upgrades-as-ACA-enrollment-period-nears-end.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
+      "publishedDateTime": "2021-08-10T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-trump-allied-state-senator-burt-jones-launches-run-georgia-lieutenant-governor.md",
       "title": "Trump-allied state senator Burt Jones launches run Georgia lieutenant governor",
       "excerpt": "Georgia State Sen. Burt Jones on Tuesday is announcing his run for lieutenant governor of the state, setting the Trump-supported local official up for a GOP primary battle with another state senator seeking the office who's been attacked by the former president.",
@@ -1227,62 +1270,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-bidens-to-meet-virtually-with-team-usa-athletes.md",
-      "title": "Bidens to meet virtually with Team USA athletes",
-      "excerpt": "President Joe Biden and first lady Jill Biden will meet with members of the 2020 US Olympic Team Saturday in a livestreamed virtual reception.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sdRHwfloIXI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sdRHwfloIXI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210705211845-america-divided-fourth-of-july-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html",
-      "publishedDateTime": "2021-08-07T12:46:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

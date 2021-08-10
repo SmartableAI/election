@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-29-biden-blm-nominee-called-to-wage-war-on-overpopulation.md",
+      "title": "Biden BLM nominee called to 'wage war on overpopulation'",
+      "excerpt": "Tracy Stone-Manning, the president’s nominee for BLM director, wrote an essay published by the High Country News in February 1991 on how to preserve the grizzly bear population in the US.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1TOJ-8u3Kw4/tracy-stone-manning-wage-war-overpopulation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1TOJ-8u3Kw4/tracy-stone-manning-wage-war-overpopulation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/345bd750-f595-4b27-94c7-a3e55f0b3d44/b8dd0d8b-c53a-45f3-ab9d-4ef7f5d16684/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tracy-stone-manning-wage-war-overpopulation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-wage-war-overpopulation.amp",
+      "publishedDateTime": "2021-07-29T09:57:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-joe-bidens-motorcade-jeered-by-trump-supporters-during-pennsylvania-visit.md",
       "title": "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit",
       "excerpt": "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass.",
@@ -1282,54 +1338,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident.md",
-      "title": "Trump, lawmakers honor Sen. Mike Enzi after sudden death from bike accident",
-      "excerpt": "From former President Donald Trump to Rep. Liz Cheney to Sen. Tim Kaine, many on both sides of the aisle remembered the life and accomplishments of Senator Mike Enzi.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/",
-      "originalUrl": "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/Sen.-Mike-Enzi.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-lawmakers-honor-sen-mike-enzi-after-sudden-death-from-bike-accident/amp/",
-      "publishedDateTime": "2021-07-27T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

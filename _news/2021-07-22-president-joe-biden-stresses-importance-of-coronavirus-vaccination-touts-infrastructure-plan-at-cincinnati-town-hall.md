@@ -207,6 +207,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "President Joe Biden Supports COVID-⁠19 Vaccines for Service Members"
+    excerpt: "On Monday, President Joe Biden released a Statement on COVID-⁠19 vaccines for service members. I strongly support Secretary Austin’s message to the Force today on the Department of Defense’s plan to add the COVID-19 vaccine to the list of required vaccinations for our service members not later than mid-September."
+    publishedDateTime: 2021-08-10T12:57:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/31988-president-joe-biden-supports-covid-19-vaccines-for-service-members?tmpl=component"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 55
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
+        isCached: true
 
 secured: "U0EV49bJs+EMzU/1du15zEoZ/Ownyx5IkQyZ4BL5GgJrse3fAatP9AkS5ps4VAUfFW7ulAEu2MUcyqwD06S9urZWxpGEn3h5hL3BqtprHDml5YlsdTdj8qdbFzl4595jtPi/qq5LvgCzvG8Afp/6iFDP719kCox539GvKEuApWzp4JW3ZdAQLJzdRsT5THzOJ/2j+oReL6QpDHMTN1Wpl06xU2tg/syOxHElpQBM3rFVu0N02bM6Lqpw5aeCYLuVcFCC+x9wvUomrfAX6eSmeotGVMGC29bfzxmLiaQ62YrbPAS5NlGXHlGBWfzWPKwc0NOEKjTyOpveLVz0cQNLxG86Hg8LGgRmgm9JSRRFchQ=;3/ovXbV7yblx7pWUcbg1yA=="
 ---

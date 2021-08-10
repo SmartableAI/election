@@ -2,6 +2,62 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-05-27-gop-governors-on-hannity-biden-making-them-pay-the-price-for-being-fiscally-responsible.md",
+      "title": "GOP governors on 'Hannity': Biden making them 'pay the price' for being fiscally responsible",
+      "excerpt": "Members of the Republican Governors Association joined “Hannity” on Wednesday for a town hall event.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8NeWSZtA6M/gop-governors-biden-making-pay-the-price-being-fiscally-responsible",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8NeWSZtA6M/gop-governors-biden-making-pay-the-price-being-fiscally-responsible",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c16c75bf-6b82-41de-988f-ad0d93240512/1108879e-c4e2-425e-b1a4-215178cd8c85/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
+      "publishedDateTime": "2021-05-27T03:57:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-seth-meyers-calls-trump-the-david-blaine-of-crime.md",
       "title": "Seth Meyers Calls Trump the ‘David Blaine of Crime’",
       "excerpt": "If he ever goes to trial, he’ll just regurgitate a frog that has ‘not guilty’ written on its back,” Meyers joked on Wednesday night.",
@@ -1291,63 +1347,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-george-floyds-family-to-meet-with-biden-and-harris-at-white-house.md",
-      "title": "George Floyd's family to meet with Biden and Harris at White House ",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris will meet on Tuesday with the family of George Floyd exactly one year after he was killed by a Minneapolis police officer, sparking nationwide protests against racism and police brutality.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 700,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200608151857-biden-floyd-family-meeting-0608-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
-      "publishedDateTime": "2021-05-25T08:05:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

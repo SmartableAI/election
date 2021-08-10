@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fact-check-joe-biden-spread-misinformation-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-joe-biden-spread-misinformation-covid-vaccines-1612181?amp=1"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -194,6 +194,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F659/production/_119656036_p09qtrg8.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "President Joe Biden Supports COVID-⁠19 Vaccines for Service Members"
+    excerpt: "On Monday, President Joe Biden released a Statement on COVID-⁠19 vaccines for service members. I strongly support Secretary Austin’s message to the Force today on the Department of Defense’s plan to add the COVID-19 vaccine to the list of required vaccinations for our service members not later than mid-September."
+    publishedDateTime: 2021-08-10T12:57:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/31988-president-joe-biden-supports-covid-19-vaccines-for-service-members?tmpl=component"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 55
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
+        width: 679
+        height: 357
         isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
