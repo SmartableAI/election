@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_schumercharles_071421gn6_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Senate OKs Dems' $3.5T budget in latest Biden win"
+    excerpt: "Democrats pushed a $3.5 trillion framework for bolstering family services, health, and environment programs through the Senate, advancing President Joe Biden’s domestic agenda just hours after handing him a triumph on an infrastructure package."
+    publishedDateTime: 2021-08-11T17:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/08/11/senate-oks-dems-35-t-budget-latest-biden-win/8094614002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/39250e13-8548-44c1-8670-4c160f7e299b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Joe Biden touts infrastructure deal, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."

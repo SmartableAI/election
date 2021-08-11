@@ -128,6 +128,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden ATF nominee Chipman accused of racial bias for claiming Black ATF agent cheated on exam"
+    excerpt: "President Biden's embattled ATF nominee David Chipman is once again under fire, this time from a Black former ATF agent who is accusing him of racial bias for falsely claiming he cheated on a promotion exam."
+    publishedDateTime: 2021-08-11T16:11:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i-lL3WSzg7c/biden-atf-chipman-racial-bias-black-agent-cheated"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Chipman-GETTY-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's Foreign Policy Starts at Home"
     excerpt: "Sullivan had been a senior adviser to Vice President Joe Biden and Secretary of State Hillary Clinton and had played a key role in Clinton’s 2016 presidential campaign."
     publishedDateTime: 2021-04-14T14:18:00Z

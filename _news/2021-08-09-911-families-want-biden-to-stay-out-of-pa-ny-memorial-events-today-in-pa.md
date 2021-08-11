@@ -195,6 +195,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Senate Confirms First Biden Ambassador Amid Showdown"
+    excerpt: "The US Senate on Wednesday confirmed the first of President Joe Biden's ambassadors to foreign capitals, approving his pick for Mexico, an unusually long delay amid a showdown with a Republican critic."
+    publishedDateTime: 2021-08-11T17:19:00Z
+    webUrl: "https://www.barrons.com/news/senate-confirms-first-biden-ambassador-amid-showdown-01628698508?refsec=afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/senate-confirms-first-biden-ambassador-amid-showdown-01628698508"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/senate-confirms-first-biden-ambassador-amid-showdown-01628698508"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 75
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP2571411349574539008060861954956347141626-us-democratic-national-convention-day-1-1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Biden’s new evictions moratorium faces legality doubts"
     excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
     publishedDateTime: 2021-08-04T23:35:00Z

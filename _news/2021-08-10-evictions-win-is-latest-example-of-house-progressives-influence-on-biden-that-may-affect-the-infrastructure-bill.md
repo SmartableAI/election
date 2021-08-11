@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "WATCH LIVE: Biden remarks after major wins on infrastructure spending"
+    excerpt: "The Senate approved a $1T bill that would boost federal spending for major improvements of roads, bridges, internet access and other public works across the US."
+    publishedDateTime: 2021-08-11T17:42:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/president-biden-to-address-build-back-better-plan/507-c2fc0af7-669d-481e-84ee-513a527dc3d1"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/president-biden-to-address-build-back-better-plan/507-c2fc0af7-669d-481e-84ee-513a527dc3d1"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/president-biden-to-address-build-back-better-plan/507-c2fc0af7-669d-481e-84ee-513a527dc3d1"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/4e04e287-a4ba-4563-8498-01052b016446/4e04e287-a4ba-4563-8498-01052b016446_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Trump blames McConnell for infrastructure bill’s passage: ‘Most overrated man in politics’"
     excerpt: "Former President Donald Trump slammed Senate Minority Leader Mitch McConnell on Tuesday for helping pass the White House’s $1.2 trillion infrastructure bill, saying the Kentucky Republican is the “most overrated man in politics."
     publishedDateTime: 2021-08-10T15:22:00Z
@@ -105,6 +121,15 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 45
+  - title: "President Biden Meets With Governors and Mayors on Infrastructure"
+    excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"
+    publishedDateTime: 2021-08-11T17:15:00Z
+    webUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "dayK6+toqLZYrEpgBz4wE/TKRqvMjY37saUH7XwCGzd+NdMVw5Yp9eDkw+EAytF0ZJucSYJ6k2By2Y6iwGRvdXvBsluUTj7E/uqZpIoIS7qRg8H/bQtKwy2i7bWNNC26nFct5uTzL59JHmVEuDaiVK50txYUpB1D9BC/tBiQAvYEjVmp3/4U7Gs2b9BAup4G1KH9NbsuUQKOag9HVKoXEO4+KMUb9PzRAaC+7cwOrQ5AsStfU6IX3Wts1CYbXdrMi2xMejIYi8j4GgDf0mHPs78hv0TAWYzPSQIvD0Fl7Wr+XtR+/asB9NSP1yoQti+ukDgQiTlwXLK5uNFMwMvV3ZS/D73jN0nNNhx/cNPkbFELWk6wQeIeYc8twJ7RYwDU8xqmtqRDMHRF6p8YfGiuGeiJpSDazpM/brwblH8k+grrrfGrj+QJcMmdtPUrd51Iojl8Err819tduQfhcZmb17CvFrhUh54cHKnShfjPhfzJx3CEpitAxRIfb8qrZOdeGugLT1k8jzYQClC+d3uW+g==;ok1uSsOZdEEmgCj5QxtyKw=="
 ---

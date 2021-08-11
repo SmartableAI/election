@@ -111,6 +111,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden ATF nominee Chipman accused of racial bias for claiming Black ATF agent cheated on exam"
+    excerpt: "President Biden's embattled ATF nominee David Chipman is once again under fire, this time from a Black former ATF agent who is accusing him of racial bias for falsely claiming he cheated on a promotion exam."
+    publishedDateTime: 2021-08-11T16:11:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i-lL3WSzg7c/biden-atf-chipman-racial-bias-black-agent-cheated"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Chipman-GETTY-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden gun control moves spark backlash from state attorneys general"
     excerpt: "State attorneys general are signaling that they may take legal action against President Biden's new gun-control policies announced Thursday. The president on Thursday announced a new set of executive actions and legislative proposals aimed at strengthening ..."
     publishedDateTime: 2021-04-09T21:20:00Z

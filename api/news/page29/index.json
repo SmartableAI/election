@@ -2,6 +2,63 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-06-18-axios-mocked-for-blaming-worker-burnout-on-capitol-riot-fallout-from-the-trump-presidency.md",
+      "title": "Axios mocked for blaming worker burnout on Capitol riot, 'fallout from the Trump presidency'",
+      "excerpt": "Many Americans have declined to return to work following coronavirus shutdowns and enhanced unemployment benefits, but Axios feels the labor shortage is largely former President Donald Trump’s fault.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump",
+      "originalUrl": "https://www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump.amp",
+      "publishedDateTime": "2021-06-17T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-biden-administration-to-invest-3-billion-for-covid-19-antiviral-medicines.md",
       "title": "Biden administration to invest $3 billion for Covid-19 antiviral medicines",
       "excerpt": "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n",
@@ -1301,58 +1358,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-watch-live-vice-president-kamala-harris-and-treasury-secretary-janet-yellen-discuss-13-billion-aid-program-for-small-businesses.md",
-      "title": "Watch Live: Vice President Kamala Harris and Treasury Secretary Janet Yellen discuss $1.3 billion aid program for small businesses",
-      "excerpt": "The Rapid Recovery Program will disburse nearly $1.3 billion in funds to community development institutions to help small businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/yellen-harris-rapid-recovery-program-watch-live-stream-today-2021-06-15/",
-      "originalUrl": "https://www.cbsnews.com/news/yellen-harris-rapid-recovery-program-watch-live-stream-today-2021-06-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/20/8e781ad8-5f57-4796-a5a8-b10985ea3bb1/thumbnail/1200x630/12cd6c018ac933052fa2e613a84f161d/cbsn-fusion-vice-president-harris-first-asian-american-vp-thumbnail-720003-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/yellen-harris-rapid-recovery-program-watch-live-stream-today-2021-06-15/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/yellen-harris-rapid-recovery-program-watch-live-stream-today-2021-06-15/",
-      "publishedDateTime": "2021-06-15T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

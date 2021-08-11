@@ -143,6 +143,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Senate OKs Dems' $3.5T budget in latest Biden win"
+    excerpt: "Democrats pushed a $3.5 trillion framework for bolstering family services, health, and environment programs through the Senate, advancing President Joe Biden’s domestic agenda just hours after handing him a triumph on an infrastructure package."
+    publishedDateTime: 2021-08-11T17:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/08/11/senate-oks-dems-35-t-budget-latest-biden-win/8094614002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/39250e13-8548-44c1-8670-4c160f7e299b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden touts infrastructure deal, seeks to ease inflation fears"
     excerpt: "President Joe Biden on Monday touted his administration's economic record and sought to ease worries about inflation as he and congressional Democrats seek massive new spending on infrastructure."
     publishedDateTime: 2021-07-19T19:10:00Z

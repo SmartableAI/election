@@ -2,25 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-08-09-house-democrats-wont-have-a-shot-at-getting-trumps-tax-returns-from-the-irs-until-at-least-november.md",
-      "title": "House Democrats won't have a shot at getting Trump's tax returns from the IRS until at least November",
-      "excerpt": "The Biden administration won't be turning over former President Donald Trump's tax returns to the House until at least November, despite the recent dramatic Justice Department opinion that the IRS \"must\" hand them over.\n    \n",
+      "path": "_news/2021-08-10-trump-couture-ex-president-unveils-new-version-of-maga-hat-he-just-designed.md",
+      "title": "Trump couture: Ex-president unveils new version of MAGA hat he ‘just designed’",
+      "excerpt": "In an email to supporters, former President Donald Trump announced a new version of the “Make America Great Again” hats and claimed he had “just designed” it.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wtEYOuBaWcw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wtEYOuBaWcw/index.html",
+      "webUrl": "https://nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/",
+      "originalUrl": "https://nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 160,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200928113202-02-trump-briefing-taxes-0927-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/donald-trump-hat-21.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +28,51 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/09/politics/trump-taxes-november/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/09/politics/trump-taxes-november/index.html",
-      "publishedDateTime": "2021-08-09T16:08:02-07:00",
+      "ampWebUrl": "https://nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/amp/",
+      "publishedDateTime": "2021-08-09T16:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-harris-lopez-obrador-speak-on-boosting-central-american-economies.md",
+      "title": "Harris, Lopez Obrador speak on boosting Central American economies",
+      "excerpt": "U.S. Vice President Kamala Harris and Mexican President Andres Manuel Lopez Obrador spoke by phone on Monday and agreed on the need to focus on strengthening the economies of Central America, particularly through investment in agriculture and climate resilience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-mexico-harris-idUSL1N2PH00I",
+      "originalUrl": "https://www.reuters.com/article/usa-mexico-harris-idUSL1N2PH00I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2PH00I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2PH00I",
+      "publishedDateTime": "2021-08-09T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,7 +89,7 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Kamala Harris"
       ]
     },
     {
@@ -174,7 +209,7 @@
       "originalUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -940,7 +975,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1258,58 +1293,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-pence-is-joining-other-gop-officials-in-pushing-the-covid-19-vaccine-telling-young-conservatives-i-got-the-shot.md",
-      "title": "Pence is joining other GOP officials in pushing the COVID-19 vaccine, telling young conservatives: 'I got the shot'",
-      "excerpt": "Pence joins the ranks of other GOP officials who are asking their Republican base to get vaccinated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8",
-      "originalUrl": "https://www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fdcae1cc910a400192e8440?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-covid-vaccine-urges-young-conservatives-2021-8?amp",
-      "publishedDateTime": "2021-08-06T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

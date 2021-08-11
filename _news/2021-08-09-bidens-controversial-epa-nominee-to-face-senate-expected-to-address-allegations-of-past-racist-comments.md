@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Cruz blocks State Department nominees, increasing the backlog of unconfirmed Biden officials"
+    excerpt: "Sen. Ted Cruz, R-Texas, blocked the confirmation of dozens of State Department nominees Wednesday morning in an effort to pressure the Biden administration over Russia's Nord Stream 2 pipeline."
+    publishedDateTime: 2021-08-11T17:01:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZ2Y8TK1Vaw/cruz-blocks-state-department-nominees"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-blocks-state-department-nominees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-blocks-state-department-nominees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec808b76-a8a9-4e97-9d0a-ce1ab800572a/dc27a973-9957-4f8d-92e7-f17676657819/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Psaki grilled on Cuomo, Biden sexual harassment allegations, says claims against president already ‘litigated’"
     excerpt: "White House press secretary Jen Psaki fended off questions about sexual misconduct allegations leveled against President Biden Wednesday following the commander-in-chief’s decision to call on embattled New York Gov. Andrew Cuomo to resign following a harassment probe."
     publishedDateTime: 2021-08-04T23:34:51Z

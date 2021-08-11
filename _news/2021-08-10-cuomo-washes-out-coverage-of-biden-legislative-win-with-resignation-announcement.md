@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Cruz blocks State Department nominees, increasing the backlog of unconfirmed Biden officials"
+    excerpt: "Sen. Ted Cruz, R-Texas, blocked the confirmation of dozens of State Department nominees Wednesday morning in an effort to pressure the Biden administration over Russia's Nord Stream 2 pipeline."
+    publishedDateTime: 2021-08-11T17:01:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZ2Y8TK1Vaw/cruz-blocks-state-department-nominees"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-blocks-state-department-nominees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-blocks-state-department-nominees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec808b76-a8a9-4e97-9d0a-ce1ab800572a/dc27a973-9957-4f8d-92e7-f17676657819/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's controversial EPA nominee to face Senate, expected to address allegations of past racist comments"
     excerpt: "President Biden’s controversial nominee to hold a leadership position at the Environmental Protection Agency (EPA) is expected to face tough questions on his past comments about civil rights laws and support for reparations set to faces the Senate soon during his confirmation hearing."
     publishedDateTime: 2021-08-09T20:20:39Z

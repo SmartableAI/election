@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-gun-control-atf-david-chipman
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden ATF nominee Chipman accused of racial bias for claiming Black ATF agent cheated on exam"
+    excerpt: "President Biden's embattled ATF nominee David Chipman is once again under fire, this time from a Black former ATF agent who is accusing him of racial bias for falsely claiming he cheated on a promotion exam."
+    publishedDateTime: 2021-08-11T16:11:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i-lL3WSzg7c/biden-atf-chipman-racial-bias-black-agent-cheated"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Chipman-GETTY-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden gun control moves spark backlash from state attorneys general"
     excerpt: "State attorneys general are signaling that they may take legal action against President Biden's new gun-control policies announced Thursday. The president on Thursday announced a new set of executive actions and legislative proposals aimed at strengthening ..."
