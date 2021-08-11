@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Here's what you need to know about Biden's latest US attorney pick"
+    excerpt: "President Biden on Tuesday nominated Damian Williams to be the new U.S. attorney for Manhattan, one of the most high-profile federal prosecutor positions in the nation."
+    publishedDateTime: 2021-08-11T15:30:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Enz60ZhjnYs/biden-damian-williams-attorney-ny"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-damian-williams-attorney-ny.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-damian-williams-attorney-ny.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/613bd8fb-493d-471e-8298-e37f3ae8c87b/140b716d-59e5-4a14-b691-7900146c813d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "9/11 families won't welcome Biden to memorial event unless he declassifies evidence"
     excerpt: "Families of hundreds of 9/11 victims wrote a scathing letter demanding Biden declassify evidence"
     publishedDateTime: 2021-08-09T23:03:40Z

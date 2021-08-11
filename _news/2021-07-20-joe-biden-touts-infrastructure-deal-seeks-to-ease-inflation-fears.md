@@ -156,16 +156,14 @@ related:
         height: 551
         isCached: true
   - title: "Senate OKs Dems’ $3.5T budget in latest win for Biden"
-    excerpt: "Democrats have pushed a $3.5 trillion framework for bolstering family services, health, and environment programs through the Senate."
-    publishedDateTime: 2021-08-11T09:55:00Z
-    webUrl: "https://www.miamiherald.com/news/article253410570.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/article253410570.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article253410570.html"
+    excerpt: "Senators approved Democrats' budget resolution on a party-line 50-49 vote, a crucial step for a president and party set on training the government's fiscal might on assisting families, creating jobs and fighting climate change."
+    publishedDateTime: 2021-08-11T13:32:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/11/senate-oks-dems-35t-budget-in-latest-win-for-biden/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 55
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "01LSQnvELoJpmCwcS5tMj0iZrmdvtVzdCNYaEHt4cdeytByB38/yP4TIp3BjNJ5kAKIxKfm5NYCsQoMK+eUyxkfPw/IcmrvFxF0sfr0LOSf1RKM5Y2sIdjQnERvivKneOONXzeKx0WlErcNXOA1hSrRFElTZDpG4yBHrchXPSVde0JkxF2EZfICqFp4BURKqE5JYxT5vr45Zxa2d9aBXJ3m9WEPRQgtix+yPEPgY6pzV1p2nt7SVuMqljywtrJjCLW/Bh0uwxv8HeUovF2oQ3WqUcNedJMsrBOjArWoLrLKbmVD9REDkDLUdzvEAOMX68VZsVTSMKVO+FkBBZuozNn4cZ8l2tj0kEg1z7xwiiVfeOxV+9YET2WIrZESjKG2IKN4vAb8XlMr5TMqi/85SMESjRbrHifLjr+Dgym1H1h2vJyn9YyjQQiw7pQ1YYmssUfTJq2a7Z03RZdbJ245UDQq9qvHvaso73eIjmsyedvpCFpowKBEdYU/WTS9dEZ0ESQ49Z9sbNXIWKmwDrF9hpA==;l+E8A3XcPrtjJ8/iEE2Syw=="
 ---

@@ -2,6 +2,283 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-06-17-biden-administration-to-invest-3-billion-for-covid-19-antiviral-medicines.md",
+      "title": "Biden administration to invest $3 billion for Covid-19 antiviral medicines",
+      "excerpt": "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 433,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html",
+      "publishedDateTime": "2021-06-17T13:39:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-arizona-sheriff-says-no-distinct-border-changes-from-biden-administration-despite-sec-mayorkas-meetings.md",
+      "title": "Arizona sheriff says 'no distinct' border changes from Biden administration despite Sec. Mayorkas meetings",
+      "excerpt": "An Arizona sheriff says there have been no changes in policy, messaging or results from the Biden administration on the crisis at the southern border -- despite multiple meetings between sheriffs and Homeland Security Secretary Alejandro Mayorkas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEzJrhg8Ras/arizona-sheriff-border-changes-biden-mayorkas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEzJrhg8Ras/arizona-sheriff-border-changes-biden-mayorkas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abac2688-257e-4275-af2e-a3d4b1e197ec/97c79c78-24d2-437e-a39f-1696bc5f8bfe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/arizona-sheriff-border-changes-biden-mayorkas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-sheriff-border-changes-biden-mayorkas.amp",
+      "publishedDateTime": "2021-06-17T13:00:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-biden-signs-bill-making-juneteenth-a-federal-holiday.md",
+      "title": "Biden signs bill making Juneteenth a federal holiday",
+      "excerpt": "Biden signs legislation making June 19, or Juneteenth, the 12th federal holiday. The day commemorates the end of slavery in this country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/00337fb/2147483647/strip/true/crop/5559x3631+4+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2d%2Ffb%2Ff61d7d364c898cf16707787b85c4%2Fla-photos-1staff-560650-me-0619-juneteenth-leimert-park6-wjs.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true",
+      "publishedDateTime": "2021-06-17T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-white-house-cheers-supreme-court-obamacare-decision-with-nod-to-bidens-big-f-deal-hot-mic-comment.md",
+      "title": "White House cheers Supreme Court ObamaCare decision with nod to Biden's 'big f--- deal' hot mic comment",
+      "excerpt": "The White House cheered the U.S. Supreme Court’s decision to uphold Obamacare, with a nod at President Biden’s 2010 “big f**king deal” reaction to then-President Obama signing the Affordable Care Act into law.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wAENLL8JR5I/white-house-reaction-supreme-court-obamacare-decision-bidens-big-f-deal-hot-mic-comment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wAENLL8JR5I/white-house-reaction-supreme-court-obamacare-decision-bidens-big-f-deal-hot-mic-comment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-reaction-supreme-court-obamacare-decision-bidens-big-f-deal-hot-mic-comment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-reaction-supreme-court-obamacare-decision-bidens-big-f-deal-hot-mic-comment.amp",
+      "publishedDateTime": "2021-06-17T08:30:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-lara-trump-rips-biden-for-only-taking-questions-from-pre-approved-reporters-are-you-kidding-me.md",
+      "title": "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'",
+      "excerpt": "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
+      "publishedDateTime": "2021-06-17T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-fire-and-fury-author-writes-new-trump-book-landslide.md",
       "title": "'Fire and Fury' author writes new Trump book 'Landslide'",
       "excerpt": "The author of “Fire and Fury,” the million-seller from 2018 that helped launched the wave of inside accounts of the Trump White House, will have a last look coming out next month",
@@ -1076,278 +1353,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-chrissy-teigen-apology-all-the-celebs-shes-upset-from-avril-lavigne-to-donald-trump.md",
-      "title": "Chrissy Teigen Apology: All the Celebs She's Upset, From Avril Lavigne to Donald Trump",
-      "excerpt": "After owning up to the Twitter comments she made about Courtney Stodden, Teigen issued a lengthy apology on her blog",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731",
-      "originalUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1821297/chrissy-teigen-oscars.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731?amp=1",
-      "publishedDateTime": "2021-06-15T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-trump-is-furious-with-republican-candidates-who-are-falsely-claiming-they-have-his-endorsement.md",
-      "title": "Trump is furious with Republican candidates who are falsely claiming they have his endorsement",
-      "excerpt": "The former US president's team has reportedly sent cease-and-desist letters to candidates falsely claiming he endorsed them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-furious-with-gop-candidates-falsely-claiming-he-endorsed-them-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-furious-with-gop-candidates-falsely-claiming-he-endorsed-them-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60c8a9ec23393a00188e3309?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-furious-with-gop-candidates-falsely-claiming-he-endorsed-them-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-furious-with-gop-candidates-falsely-claiming-he-endorsed-them-2021-6?amp",
-      "publishedDateTime": "2021-06-15T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-biden-shores-up-allied-support-before-heading-to-geneva-for-putin-summit.md",
-      "title": "Biden shores up allied support before heading to Geneva for Putin summit",
-      "excerpt": "President Joe Biden arrives in Geneva on Tuesday ahead of lengthy and contentious talks with Vladimir Putin, the capstone on a European tour designed to show western solidarity ahead of the momentous summit.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSLo_OPvtYw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSLo_OPvtYw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614181318-13-nato-summit-biden-0614-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html",
-      "publishedDateTime": "2021-06-15T04:49:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-bidens-experience-with-russia-in-key-moments-from-1973-to-now.md",
-      "title": "Biden's experience with Russia, in key moments from 1973 to now",
-      "excerpt": "President Joe Biden will approach his first face-to-face summit with his Russian counterpart on Wednesday with one of the longest foreign policy résumés of an American leader in recent history. Biden's experience with Russian affairs spans more than 38 of his years in federal public office under seven",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iVfQYASeSZo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iVfQYASeSZo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210610113748-2011-biden-russia-timeline-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html",
-      "publishedDateTime": "2021-06-15T04:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-biden-to-nominate-michael-d-smith-as-ceo-of-americorps.md",
-      "title": "Biden to nominate Michael D. Smith as CEO of AmeriCorps",
-      "excerpt": "President Joe Biden will nominate Michael D. Smith to serve as the chief executive officer of AmeriCorps, the nation's main public service program, according to a White House official.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8C-DyNjKdvw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8C-DyNjKdvw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210615053818-michael-smith-file-2016-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/biden-michael-smith-americorps/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-michael-smith-americorps/index.html",
-      "publishedDateTime": "2021-06-15T03:40:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

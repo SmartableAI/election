@@ -43,6 +43,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "The Latest: More candidates emerge for Trump chief of staff"
+    excerpt: "The Latest on the White House chief of staff (all times local): 10 p.m. As President Donald Trump ponders picking a new chief of staff, more names are emerging as possible contenders for the job."
+    publishedDateTime: 2021-08-11T13:34:00Z
+    webUrl: "https://apnews.com/article/donald-trump-politics-michael-pence-north-america-mark-meadows-c76216421a014e0794913b9eae97aa88"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/media:1d786013700b4de28dfc62d50d824d8d/2000.jpeg"
+        width: 2000
+        height: 1234
+        isCached: true
   - title: "Senior living exec ordered to repay defrauded investors $79M although Donald Trump commuted prison sentence"
     excerpt: "Oregon senior-living developer Jon Harder, guilty of defrauding 1,200 investors out of about $120 million, must pay more than $79 million in restitution, a federal judge ruled. Harder's sentence was commuted in January by then-President Donald Trump."
     publishedDateTime: 2021-08-03T02:27:00Z

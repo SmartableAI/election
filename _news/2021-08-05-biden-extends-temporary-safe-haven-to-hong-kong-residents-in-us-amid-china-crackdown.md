@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democratic organizations prepare to defend the Biden agenda during August recess "
+    excerpt: "A range of Democratic committees and organizations are gearing up to defend President Joe Biden's agenda with what they hope will be a cohesive message during Congress' August recess, a sign of how critical Biden's popularity is to the party's success in 2022 and beyond.\n    \n"
+    publishedDateTime: 2021-08-11T15:34:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DJSp6RViDHE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810154841-08-biden-harris-remarks-0810-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's ATF pick faces grim confirmation prospects as key Democrats withhold support"
     excerpt: "President Joe Biden's pick of David Chipman to serve as the head of the ATF is nearing collapse, with members of the Senate Democratic Caucus withholding support and the chamber unlikely to hold a vote to advance the nomination before the August recess.\n    \n"
     publishedDateTime: 2021-08-05T16:06:27Z

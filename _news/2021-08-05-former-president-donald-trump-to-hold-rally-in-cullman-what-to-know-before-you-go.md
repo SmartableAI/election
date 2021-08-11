@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.montgomeryadvertiser.com/amp/5491027001"
 cdnAmpWebUrl: "https://amp-montgomeryadvertiser-com.cdn.ampproject.org/c/s/amp.montgomeryadvertiser.com/amp/5491027001"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Montgomery Advertiser
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "UM Students Outraged by Former Trump Official Alex Azar’s Hire"
+    excerpt: "On its surface, the hiring of a former federal health official would seem like a smart move for the University of Miami. After all, former U.S. Health and Human Services (HHS) Secretary Donna Shalala is already on the faculty;"
+    publishedDateTime: 2021-08-11T12:06:00Z
+    webUrl: "https://www.miaminewtimes.com/news/university-of-miami-hires-former-trump-official-alex-azar-12715473"
+    type: article
+    provider:
+      name: Miami New Times
+      domain: miaminewtimes.com
+    quality: 55
+    images:
+      - url: "https://media2.fdncms.com/mia/imager/u/slideshow/12715773/alex_azar_um_1_.png"
+        width: 1524
+        height: 1081
+        isCached: true
 
 secured: "TOYQJOJNBMkQ1qWrgBRi/IoUCaSSa5FXsfRdjvrmiBhRjg/A4jgxwVpU1nCDrw5w7SdmgRmefR5cre0Kj+n+ZNWrC+jcDS2zayzr7eQQ/joECkHT/yoTZCjKfuO0hdoZFjDIgORVszpDiuqeqv+X2FzgtExxKMneBkTzOTmY9miuopQHuWfC+CCa1cBinDhIP1UVNjuPnJcpo7ufwjdwtYeU/1SS8laNkFz/qIm/6Odt8wws2EfPL+scsPRJKaAVLIq7sNY1OmtkPze9btImXmT++Ry4qsSnCOoV2z2mKcELYQRJUV/+yFVfzfZDESy7cOO5XGgwxYDAdcvwinU0PuALs1gRAht9bLLY3mIyA7rme2WNDnUGnBoO07RXssqrMM/IhdhOdWoP52zDWQkAMiNXZW1oeTu5j/CtVQmrIBywSofmpP100anpfElrc//hdLjvWFamW9WtmmdBYmHvpOvPYv/6asXo14Fxh+xz9X7ry9bcTUtnb3IaB4+Dzrje7Q4eN/EBM2skUfrMwC9q6A==;BRikgFwfjXME6dhlYP32og=="
 ---

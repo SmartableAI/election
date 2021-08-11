@@ -2,19 +2,19 @@
 category: news
 title: "Harris’ spouse to represent US at Paralympic Games in Tokyo"
 excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month."
-publishedDateTime: 2021-08-10T21:23:00Z
-originalUrl: "https://www.myrtlebeachonline.com/news/article253387368.html"
-webUrl: "https://www.myrtlebeachonline.com/news/article253387368.html"
-ampWebUrl: "https://amp.myrtlebeachonline.com/news/article253387368.html"
-cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/article253387368.html"
+publishedDateTime: 2021-08-11T13:06:00Z
+originalUrl: "https://www.bnd.com/news/article253387368.html"
+webUrl: "https://www.bnd.com/news/article253387368.html"
+ampWebUrl: "https://amp.bnd.com/news/article253387368.html"
+cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article253387368.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Sun News
-  domain: myrtlebeachonline.com
+  name: BND
+  domain: bnd.com
 
 topics:
   - Election
@@ -66,6 +66,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qw/8BgPQ5qrE4JSHwFPy95v0WcEl8bythhnWGLziHbZrRGBpWuP3IdZjDbMftEjj73TXQinGeoQsNeua4IqNgBsVKzJQWYnNKvZ1GC+Vw64xWbTtuLHCdZWEALfJnwW/xtllu6IiKPRLbSu26zN83FZurElWVO0NF+pgeb6kk0+BX8spsurIuN+8WIiR6TkitUigsOnBaDhSAZS7ilk54VE7U7FR541Mbb6tOzq31qBU/fLqWdjPBEIqoZiDkgx9ys3lyNdbCSDcrjZnVw+WwVC60AyppqPbQT59BnxVLDzEyu313X8bc6r8fv/HlDZdAXRYQ7gT8HfQWCAyZuU+fWnM+U2fQnmMgkpljDhpTh2BtTVRKfwrhbBvrdCKtIJ5RK2tLancTMNZHBThbxM9lLSuiFrBaWpVSWcwAXisa4CxsqS2ApbA/J3k5NfNANW+GkdMwlqHr3ch7uDltSBkjwJrnR0phZVHemj+Tti4JFhjnYzSFYU+A3GC/aC3Pj3bivF0sYxy5RIazMUH5dxymw==;RwRb6JPSbTk8Vg+DJ00DPg=="
+secured: "Hc17dzbcKn10VifPtUlY8++cuiA/B2+yEnQ/Wo8+CzowdU690j0l4B3CBriGpTlVX0CDpugZtzdfNBeOKjk8n9AIGY24lBw6HMcPTIVGvRO4OXK598wHSVFgL/rStwF4d/TL4rpqKtwIYwEAlZiJZZo3RSKYyWlmidsSb4boX2h3DD3hikkaVaLayJvWq/SFwSDuxq/j2pCeejn414LQtr88IYArWdwMj3FmSY6RC3WT+h8AOlnVucgCbHLeWgTuprrClPk5gEw+LD0CN5c2qtdupw/M3fmIkjm/BzXQVDtJX7qbsU8mmZZfCqyo3zp6tIwPq7mhvIPyDLK4qXvFZJ8DppAHsCHFsOIjL/spd8vWJTJTb82nwlkZQv/FMxUdaLvBfSPP9CKXAqR97Cd9j9hm5xgiEr46hTfIv6g2CixEzintu87xrVTWtOHVK4pvXDiL1uqywcVJcdWxZBXFCJhkNXWw2SlYb8ACvj17bK+pdA5/DOqoKxFqkCCa7tzXr6xK/zJmfuNIJ/y/FHayxQ==;XshIWy4QBqPVQq7LXwPHLQ=="
 ---
 

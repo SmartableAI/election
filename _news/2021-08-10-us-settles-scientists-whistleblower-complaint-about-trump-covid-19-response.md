@@ -23,6 +23,22 @@ topics:
   - Donald Trump
 
 related:
+  - title: "Trump was 'in pain and afraid' from COVID-19, says niece Mary Trump"
+    excerpt: "The former president’s niece made the claim in a new book. Former President Trump was allegedly “in pain and afraid” after he contracted the coronavirus back in early October. Mary claimed that he was struggling to breathe while playing up theatrical his return."
+    publishedDateTime: 2021-08-11T12:15:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_trumpwindcomments_061721getty_1.jpg"
+        width: 1320
+        height: 880
+        isCached: true
   - title: "Trump Was 'In Pain' And 'Afraid' After Bout With COVID-19, New Book Says"
     excerpt: "Former President Donald Trump was “afraid” and “in pain” while he was receiving treatment for a severe COVID-19 infection, his niece Mary Trump has claimed in a new book. In Mary Trump’s upcoming book “ The Reckoning: Our Nation's Trauma and Finding a Way to Heal ,"
     publishedDateTime: 2021-08-11T02:01:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-01-kamala-harris-gender-equality-strengthens-democracy.md",
+      "title": "Kamala Harris: 'Gender equality strengthens democracy'",
+      "excerpt": "Gender equality strengthens democracy' Posted . Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that t",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210701&i=OVEK0M7NL&r=OVEK0M7NL&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-harris-chief-of-staff-tina-flournoy-fought-to-shield-big-tobacco-from-liability-as-philip-morris-exec-memos.md",
       "title": "Harris chief of staff Tina Flournoy fought to shield Big Tobacco from liability as Philip Morris exec: memos",
       "excerpt": "Vice President Kamala Harris' chief of staff, Tina Flournoy, worked to shield Big Tobacco companies from liability for the public health costs resulting from their products, documents reviewed by Fox News show.",
@@ -1593,63 +1645,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-at-naval-academy-graduation-harris-to-focus-on-strengthening-a-fragile-world.md",
-      "title": "At Naval Academy Graduation, Harris to Focus on Strengthening a ‘Fragile’ World",
-      "excerpt": "Vice President Kamala Harris, the school’s first female commencement speaker, is expected to use her speech to address some of the Biden administration’s most urgent challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/28/multimedia/28DC-Harris-01/28DC-Harris-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html",
-      "publishedDateTime": "2021-05-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
       ]
     }
   ],

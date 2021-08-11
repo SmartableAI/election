@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803165508-01-biden-0803-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic organizations prepare to defend the Biden agenda during August recess "
+    excerpt: "A range of Democratic committees and organizations are gearing up to defend President Joe Biden's agenda with what they hope will be a cohesive message during Congress' August recess, a sign of how critical Biden's popularity is to the party's success in 2022 and beyond.\n    \n"
+    publishedDateTime: 2021-08-11T15:34:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DJSp6RViDHE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/democratic-organizations-to-push-biden-agenda-during-recess/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810154841-08-biden-harris-remarks-0810-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Senate OKs Dems’ $3.5T budget in latest win for Biden"
-excerpt: "Democrats have pushed a $3.5 trillion framework for bolstering family services, health, and environment programs through the Senate."
-publishedDateTime: 2021-08-11T09:55:00Z
-originalUrl: "https://www.miamiherald.com/news/article253410570.html"
-webUrl: "https://www.miamiherald.com/news/article253410570.html"
-ampWebUrl: "https://amp.miamiherald.com/news/article253410570.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article253410570.html"
+excerpt: "Senators approved Democrats' budget resolution on a party-line 50-49 vote, a crucial step for a president and party set on training the government's fiscal might on assisting families, creating jobs and fighting climate change."
+publishedDateTime: 2021-08-11T13:32:00Z
+originalUrl: "https://lasvegassun.com/news/2021/aug/11/senate-oks-dems-35t-budget-in-latest-win-for-biden/"
+webUrl: "https://lasvegassun.com/news/2021/aug/11/senate-oks-dems-35t-budget-in-latest-win-for-biden/"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - Election
@@ -166,6 +164,6 @@ related:
         height: 534
         isCached: true
 
-secured: "+i2tJuDrEm2hwP9HoUA2YkwipkVkSa5KL8CKHF4YFa9RiaJ0AzzheH0A0aWDnnVPBk2Wv4cTS5paeEEgkjvwVEY06RCFo/gwuAn826V1HmMFj60xkM5Ozj04n5RTG1ULwFXyKflJnVpeVqwXiUAt61wNLTAjFOyIWXrpT72EQO6d2uzk1fQstBtjqsY7bTK6jEVUt8ge82ukBNNIZfDNCb9h4AYMTfRlXxulQjJ4qV8WlsfDwKzaCKSSXDlRM54nYaj8tBn8thCfFHX50WmYAqKGTizNx8xTPIy87e7bsYQYESaD2RRh1QjO5ljyRaJP1hARtp45JToCAJonzZ4hMqZZRIxTLzIDqiATfBvqJMgYYUyuNYM0kOUw8m5hub+vu1v8QF4mCtQp0RbyHdR3Q+nHeNE5wqnAOfKex40M0l79HeCbdH7t9VTVwR27bSHa0v8H9rtPAgE8tXFxka6LnEK0GpC23P39TiEchdu7xcL4aHIz64Rj8dRPbTUROMJtHggLImHQeUvtxAibZsXxZw==;2I8KMBMn/ZpsjcIm6v73tQ=="
+secured: "vwD1mhzYRoSKUDEZGJCWVDPB0AKo4SpIBbc16xJofHQ0e7GEGYDrKWjFiO2HtFv5+0IBHk40YEG2MBxoaqGUNdyxv4d/iaP6O1JKDE6U9oj6CkoH523to+zKvlvDtoSYZk443LnldGmJhC2mVxBTKj4x8gNlIOgN8esIkT6VzqA+jnp6rtoLSuSq/gtEvg1eT2hpdAUk5AO6gplI3txSMAJDDp6fGRh8aBjK8EGtC5CuFETdnNZPQ0hsWyQmgnl8qCCTy7gjRK29729LAyvWDDfxakH0S/ybXwz+gooGAEhLMzNx4u+LSwtEJlXR78GRpSUQV/svNwlNyDMX4KkBby3/C5BzWREexAIGA2mbkOQ=;SlifvpM2yBVp3d4YLUW2Tw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/trump-was-pain-afraid-after-bout-covid-19-ne
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-was-pain-afraid-after-bout-covid-19-new-book-says-3270851?amp=1"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: International Business Times
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump was 'in pain and afraid' from COVID-19, says niece Mary Trump"
+    excerpt: "The former president’s niece made the claim in a new book. Former President Trump was allegedly “in pain and afraid” after he contracted the coronavirus back in early October. Mary claimed that he was struggling to breathe while playing up theatrical his return."
+    publishedDateTime: 2021-08-11T12:15:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_trumpwindcomments_061721getty_1.jpg"
+        width: 1320
+        height: 880
+        isCached: true
   - title: "U.S. Settles Scientist's Whistleblower Complaint About Trump COVID-19 Response"
     excerpt: "The U.S. government has agreed to compensate a scientist who filed a whistleblower complaint that said former President Donald Trump's administration botched its early response to the coronavirus pandemic,"
     publishedDateTime: 2021-08-09T19:26:00Z

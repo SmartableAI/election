@@ -179,6 +179,22 @@ related:
         width: 1024
         height: 623
         isCached: true
+  - title: "Biden to host 'summit' to rally democracies over autocrats"
+    excerpt: "President Joe Biden will host a virtual ”summit for democracy\" in December, the White House said Wednesday, as he aims to assemble government, civil society and private sector leaders in what he has cast as a global faceoff against rising autocratic forces."
+    publishedDateTime: 2021-08-11T13:31:00Z
+    webUrl: "https://www.mrt.com/news/article/Biden-to-host-summit-to-rally-democracies-over-16379222.php"
+    ampWebUrl: "https://www.mrt.com/news/amp/Biden-to-host-summit-to-rally-democracies-over-16379222.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Biden-to-host-summit-to-rally-democracies-over-16379222.php"
+    type: article
+    provider:
+      name: Midland Reporter-Telegram
+      domain: mrt.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Biden’s new evictions moratorium faces legality doubts"
     excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
     publishedDateTime: 2021-08-04T23:35:00Z

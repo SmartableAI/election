@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471?amp=1"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Latest: More candidates emerge for Trump chief of staff"
+    excerpt: "The Latest on the White House chief of staff (all times local): 10 p.m. As President Donald Trump ponders picking a new chief of staff, more names are emerging as possible contenders for the job."
+    publishedDateTime: 2021-08-11T13:34:00Z
+    webUrl: "https://apnews.com/article/donald-trump-politics-michael-pence-north-america-mark-meadows-c76216421a014e0794913b9eae97aa88"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/media:1d786013700b4de28dfc62d50d824d8d/2000.jpeg"
+        width: 2000
+        height: 1234
+        isCached: true
   - title: "Senior living exec ordered to pay back defrauded investors $79 million after Donald Trump commutes prison sentence"
     excerpt: "Former Sunwest Management CEO Jon Harder dodged nine years of prison time when then-President Donald Trump commuted his sentence in January."
     publishedDateTime: 2021-08-03T05:16:00Z
