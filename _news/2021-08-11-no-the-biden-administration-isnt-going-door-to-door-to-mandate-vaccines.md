@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Biden signs law honoring officers who fought U.S. Capitol attackers"
-excerpt: "President Joe Biden on Thursday honored police officers who defended the U.S. Capitol against insurrectionists on Jan. 6 by signing legislation that awarded them Congressional Gold Medals and urging the country not to rewrite the history of that day."
-publishedDateTime: 2021-08-05T21:43:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
-webUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
+title: "No, the Biden Administration isn't going door-to-door to mandate vaccines."
+excerpt: "Some people on social media are concerned President Joe Biden has ordered a door-to-door campaign to force people to get the Covid-19 vaccine."
+publishedDateTime: 2021-08-11T01:55:00Z
+originalUrl: "https://www.11alive.com/video/news/health/coronavirus/vaccine/no-the-biden-administration-isnt-going-door-to-door-to-mandate-vaccines/536-ddcb9a39-b53a-4873-b6e7-699707580d3b"
+webUrl: "https://www.11alive.com/video/news/health/coronavirus/vaccine/no-the-biden-administration-isnt-going-door-to-door-to-mandate-vaccines/536-ddcb9a39-b53a-4873-b6e7-699707580d3b"
 type: article
-quality: 105
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
-    width: 1200
-    height: 628
+  - url: "https://media.11alive.com/assets/VERIFY/images/7a131803-8d38-42a3-962d-cf9fe1ef39e6/7a131803-8d38-42a3-962d-cf9fe1ef39e6_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -88,6 +84,20 @@ related:
     quality: 105
     images:
       - url: "https://www.reuters.com/resizer/du4QhEZC4jrV6Zr3vSHX7gPEuWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2GP7SQRADFM2RJWPTVIHVQ44MQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Biden signs law honoring officers who fought U.S. Capitol attackers"
+    excerpt: "President Joe Biden on Thursday honored police officers who defended the U.S. Capitol against insurrectionists on Jan. 6 by signing legislation that awarded them Congressional Gold Medals and urging the country not to rewrite the history of that day."
+    publishedDateTime: 2021-08-05T21:43:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-signs-law-honoring-officers-who-fought-us-capitol-attackers-2021-08-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
         width: 1200
         height: 628
         isCached: true
@@ -208,20 +218,6 @@ related:
         width: 813
         height: 526
         isCached: true
-  - title: "No, the Biden Administration isn't going door-to-door to mandate vaccines."
-    excerpt: "Some people on social media are concerned President Joe Biden has ordered a door-to-door campaign to force people to get the Covid-19 vaccine."
-    publishedDateTime: 2021-08-11T01:55:00Z
-    webUrl: "https://www.11alive.com/video/news/health/coronavirus/vaccine/no-the-biden-administration-isnt-going-door-to-door-to-mandate-vaccines/536-ddcb9a39-b53a-4873-b6e7-699707580d3b"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 53
-    images:
-      - url: "https://media.11alive.com/assets/VERIFY/images/7a131803-8d38-42a3-962d-cf9fe1ef39e6/7a131803-8d38-42a3-962d-cf9fe1ef39e6_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
     excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
     publishedDateTime: 2021-08-04T21:35:00Z
@@ -260,6 +256,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Bl/JeyHL95JIvIn5gMyRk2kiqZvxCBUqP3bg+WN6d1F2TopIf7BPDPHVWFl1UJFXJ8NF8AH5g2L2CeJoPhY4+hNJH+77v2jU1vdrmSOnMRzN9zt1NNuWaSg7DLLmCD29/vyl+3EpfGgPBvB3Zt3TbmWRUN99SIi/MhYpXNvJ7D6h7DsmS9wKA5EEnW7WhinZ7Q7JXkLtNwM0kn9nB1Nu0gsC5Hxb62Wc2kLV2ypodg7Emt0mgku1ltEcnzwvtuoeF9kdaY81/G5TEpzCCglEz0XCsBVI8HnVfa8hWHcqhrikOvqcYYYsatvNY55Ws9LJQ/rmP86Q0P1YwImDzlGkIksxl9gAJEw6R/KUoAYHxik=;UBMOeuT2oG+ndKWem27SIQ=="
+secured: "HF6kVYex19s0odPw1yewLo0uHvAQ5x6FqbjMPwQ7GLv5pZ8TAPqcAe5JX70NRH/pLuMAzJ7m/a3kguFwkL6pS6zs9vkZszoKyv5Dd2TROfxNLjIi0gz/P57U+md3H4oRmjxm17WzGYkMqAxbQ3u8bz/WVDA7cA5IRhKSyFiApsgriPdSdQZeMd58/yFdJmCfgPPjk61mL2xiLjJFct4iFmya9py0+/Ag14Y4tqQiGYVe8Eros6sip19k9rgbbTuymTuhMC5RQGFI3pCPrNzKnxhOmWyA1bBrM2uYu1hFOrlLXV8HLKS+mYQtvl8imAuG9F32vDiASpPYPwNETnWYWCOcbZ9ggOviR7P3Ye8TJuI=;Lij8u5XfNruXD2Qhrclmow=="
 ---
 

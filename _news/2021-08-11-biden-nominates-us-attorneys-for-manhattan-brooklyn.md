@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
-excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
-publishedDateTime: 2021-08-10T19:49:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-08-10/biden-says-he-does-not-believe-he-can-intervene-in-states-banning-mask-mandates"
-webUrl: "https://www.usnews.com/news/us/articles/2021-08-10/biden-says-he-does-not-believe-he-can-intervene-in-states-banning-mask-mandates"
+title: "Biden nominates US Attorneys for Manhattan, Brooklyn"
+excerpt: "President Joe Biden on Tuesday announced his nominees to lead high-profile U.S. Attorney offices in Manhattan and Brooklyn."
+publishedDateTime: 2021-08-11T01:56:00Z
+originalUrl: "https://www.bgdailynews.com/news/national/biden-nominates-us-attorneys-for-manhattan-brooklyn/article_2d7d51af-cb1d-56e2-bb38-2c7094a6ae87.html"
+webUrl: "https://www.bgdailynews.com/news/national/biden-nominates-us-attorneys-for-manhattan-brooklyn/article_2d7d51af-cb1d-56e2-bb38-2c7094a6ae87.html"
 type: article
-quality: 31
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bowling Green Daily News
+  domain: bgdailynews.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Grim Afghan news raises risk for Biden of Taliban takeover"
@@ -93,21 +95,16 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 55
-  - title: "Biden nominates US Attorneys for Manhattan, Brooklyn"
-    excerpt: "President Joe Biden on Tuesday announced his nominees to lead high-profile U.S. Attorney offices in Manhattan and Brooklyn."
-    publishedDateTime: 2021-08-11T01:56:00Z
-    webUrl: "https://www.bgdailynews.com/news/national/biden-nominates-us-attorneys-for-manhattan-brooklyn/article_2d7d51af-cb1d-56e2-bb38-2c7094a6ae87.html"
+  - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
+    excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-10/biden-says-he-does-not-believe-he-can-intervene-in-states-banning-mask-mandates"
     type: article
     provider:
-      name: Bowling Green Daily News
-      domain: bgdailynews.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
 
-secured: "FR79J5xt9xW98YAxq/rRdIgSLHqPLKuX6IJ8gvmrR0gQaGnwDFN2GhnIV9WoVND0GICL2H0y9HFmwIJgRg3zgPtGnFg07Bh6c4+3lulaVTThvFwptjbVFOImsZA7TswmOnTHbSMtR7568Eo5E7OSsW+r2wB4BEStSh12OLGJTaYRsb1InPAPuQmqpTAtdqif31uRIVw0wi4HmvHsEpnNPXhZYmjLXoNmC3Tbv0EQOj5PfF7OGWxoRtLIBkJjtnO8qHFSHe/DaqhEffeNzSg/cu6zNIu6XfGBtfkRPprJ6Z04Z+ntnJCwR4ITtZrgLJFihja12z1FS76Hy1HltYVJzTW+pOWO+tLCEx48SsZQ/1hCIq3nE+X+DpMnXqsK3f3Mysi3C6JWRyBgGT0wutlvMSo5O2kNxfEvB18Crqq3v6bgDGViVs9uTj7kSD2hMfI51X/dJKm0iIooG4ycTHAFzKQYjTbRCS+g88J6RGtMs3JxqR6jhN2MljwOrpnbgVzfPIJawpqN5Xb4nwrAPfiDWQ==;b2D5HOHEnvJiS0RaX8gXSw=="
+secured: "4G0dAyNo/mQdDkGWtsy9LVYIF9DYut9uCmKq8PKZrxQLA9W8LBotEMrvJSGVJuZ9YhA5j1e/+woqYR9I1jFguBRrpklVL9m8GcNq5PEnUGIMUiyMyxQmBtUpmVTrugaTTzyIpv2vOKdb5xEuMWHVj7A0/G2ZG/tTnFljo3iIAL/x14OhYsi8ZyJqxFRA4vADNOD5uJ96k7M88ajJKT0OsUHqEveu8TVAxILtJ6VBkwpeFUaDmYA6kQoXkAdhHpi06kaExUtmvacEyziG6FKGk7O9ymFDobYXWHh1OP+9MR6fK8QevJg2MiDZ3wIxqS9RAdPTavSLOIvBoJSaPD7orIFyhVFFy+h+Z2Mu88pSkic=;iRHUjlCtP510nfOexcStJA=="
 ---
 

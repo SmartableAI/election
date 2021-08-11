@@ -218,6 +218,20 @@ related:
         width: 813
         height: 526
         isCached: true
+  - title: "No, the Biden Administration isn't going door-to-door to mandate vaccines."
+    excerpt: "Some people on social media are concerned President Joe Biden has ordered a door-to-door campaign to force people to get the Covid-19 vaccine."
+    publishedDateTime: 2021-08-11T01:55:00Z
+    webUrl: "https://www.11alive.com/video/news/health/coronavirus/vaccine/no-the-biden-administration-isnt-going-door-to-door-to-mandate-vaccines/536-ddcb9a39-b53a-4873-b6e7-699707580d3b"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 53
+    images:
+      - url: "https://media.11alive.com/assets/VERIFY/images/7a131803-8d38-42a3-962d-cf9fe1ef39e6/7a131803-8d38-42a3-962d-cf9fe1ef39e6_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "President Joe Biden Awards January 6 Police Officers Congressional Gold Medals"
     excerpt: "President Joe Biden, surrounded by U.S. House Speaker Nancy Pelosi (D-CA), members of the U.S. Capitol Police and their families, signs H.R. 3325 into law in the Rose Garden of the White House in Washington,"
     publishedDateTime: 2021-08-05T23:40:00Z

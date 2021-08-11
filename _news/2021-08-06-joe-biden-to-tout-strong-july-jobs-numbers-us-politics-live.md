@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -207,6 +207,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden-1.jpg"
         width: 813
         height: 526
+        isCached: true
+  - title: "No, the Biden Administration isn't going door-to-door to mandate vaccines."
+    excerpt: "Some people on social media are concerned President Joe Biden has ordered a door-to-door campaign to force people to get the Covid-19 vaccine."
+    publishedDateTime: 2021-08-11T01:55:00Z
+    webUrl: "https://www.11alive.com/video/news/health/coronavirus/vaccine/no-the-biden-administration-isnt-going-door-to-door-to-mandate-vaccines/536-ddcb9a39-b53a-4873-b6e7-699707580d3b"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 53
+    images:
+      - url: "https://media.11alive.com/assets/VERIFY/images/7a131803-8d38-42a3-962d-cf9fe1ef39e6/7a131803-8d38-42a3-962d-cf9fe1ef39e6_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
     excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."

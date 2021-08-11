@@ -80,6 +80,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Biden nominates US Attorneys for Manhattan, Brooklyn"
+    excerpt: "President Joe Biden on Tuesday announced his nominees to lead high-profile U.S. Attorney offices in Manhattan and Brooklyn."
+    publishedDateTime: 2021-08-11T01:56:00Z
+    webUrl: "https://www.bgdailynews.com/news/national/biden-nominates-us-attorneys-for-manhattan-brooklyn/article_2d7d51af-cb1d-56e2-bb38-2c7094a6ae87.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z
