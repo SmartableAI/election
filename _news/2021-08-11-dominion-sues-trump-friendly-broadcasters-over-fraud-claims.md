@@ -1,34 +1,24 @@
 ---
 category: news
 title: "Dominion sues Trump-friendly broadcasters over fraud claims"
-excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election wa"
-publishedDateTime: 2021-08-11T01:33:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
+excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election was marred by fraud."
+publishedDateTime: 2021-08-11T06:22:00Z
+originalUrl: "https://www.kentucky.com/entertainment/celebrities/article253404220.html"
+webUrl: "https://www.kentucky.com/entertainment/celebrities/article253404220.html"
+ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article253404220.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article253404220.html"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_357c21d0ff7349e8b17ccf46ae6c13bb_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Ohio special election underscores Donald Trump’s grip on Republicans"
@@ -1194,6 +1184,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "zsEgEpmfRPPo47VibGHvKpeIGbY+3d3A4Q7cGM0LldyKXMkk62F8ftKy6e9iWn9+w5vIoDWJsd7K3163A+YsOpW1qATmmdiKNAYGao/X0gvYXKM/SMSnCwqF4Z6L3ZTQCcA+H+MCrKb7Unpn5udnfGYAj8ZPTfet9TDA2ygcuPvOgRfQ1DlUokwhCJI+C3Ivjq3r6NsTwFR2Byhgfe2MGh2xWsUVJjAe+ZOI/Ebw/KVD/w8/VpcWcbSQ9PDXRIh7VIKafhJOQ9Vz9HL+Soegl7XMg44N6wc8hZ/3+T3HIN3yriC96HRHVeUuWyskAIX+GgZ/DD8W8jwBXkacnG/zXY68Rh0nunbQRL6+sWXK54Q=;F5M1XmgjR0crB5uy7TnErA=="
+secured: "X2BNAT8/NGAZ8Y1IGJW8BhK1zgn94F2wApFcdltMh9gxXtpxB2d5qYw4qwcvc8uGWjKEQ4qw8iYJVjW43DJCWOO7TaofrOGgypOSn3cxMzTRE4axXBPDXQZ5SUD7RiH8UcLJstINTyWN7n+Ule+oeyyHjnKUFYmOaBHHDtmcfktDIRMCt/zd6y3EAMWtK8NlItqnS1VELkAkzr2mCFDq4o4n2GVlxPwf8BQTxtz9YmGFVWeWj8Exe1PwouNlGbT6JNfi2fygHpwgVD9aeOiAs32fczk+W6wUK5ecypjcmaL7PMbKPtYdss0etTNT7P1G+6i6OsfTV9AbkZ6e8dkWZXbdyEH/MVwUXAmGsHeJHk+wMJJ+EJZ6mNEjh6aJa5vjzyJIxjzNXZBLgMyvYr5eyee8Goq/9LAlaoyXImF3KsIa9Nr0zVtXpb5ubpWHTDG3+xawBOvEIUsd5asRHqjsirJszfcuKTjR74s44Q/+RXrBzE45FWvl5lr8dzsL2kOo3639a8zwJings5rhjRwDeQ==;U4EVCbjRfNCduqt0PUSlGg=="
 ---
 

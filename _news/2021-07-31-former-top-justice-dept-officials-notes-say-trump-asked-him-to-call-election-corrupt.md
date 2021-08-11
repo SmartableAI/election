@@ -175,22 +175,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Dominion sues Trump-friendly broadcasters over fraud claims"
-    excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election wa"
-    publishedDateTime: 2021-08-11T01:33:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_357c21d0ff7349e8b17ccf46ae6c13bb_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump-backed coal lobbyist wins Republican congressional primary in Ohio"
     excerpt: "Ex-president hails Mike Carey’s victory in special election seen as test of Trump’s continuing hold on party"
     publishedDateTime: 2021-08-04T01:16:00Z
@@ -1104,6 +1088,17 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Dominion sues Trump-friendly broadcasters over fraud claims"
+    excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election was marred by fraud."
+    publishedDateTime: 2021-08-11T06:22:00Z
+    webUrl: "https://www.kentucky.com/entertainment/celebrities/article253404220.html"
+    ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article253404220.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article253404220.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
   - title: "U.S. Refusal to Defend Lawmaker in Capitol Riot a Signal to Trump -Experts"
     excerpt: "The U.S. Justice Department's refusal to defend a Republican congressman accused in a civil lawsuit of helping to incite the Jan. 6 attack on the Capitol could hamper former President Donald Trump's legal defense in the same case,"
     publishedDateTime: 2021-07-29T10:24:00Z

@@ -144,16 +144,16 @@ related:
         height: 433
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Infrastructure"
-    excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    excerpt: "Vice President Kamala Harris introduces President Joe Biden to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
     publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/fdfcd9a3b0c1ccf4d48b276427426fb5/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/fdfcd9a3b0c1ccf4d48b276427426fb5/WHITE-HOUSEINFRASTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -167,6 +167,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9RkHO+bs+mASixWevThiWZKUfkMXFFjwqpW+1oxd56m3TAIN49QUA85ZpaGOCcXpXbVj+ouQda5Z0rzvTA4jPfeXLfSrVcyAXA6tjrzj+T4mQhmPhQL6haeCAtiZSGAJPUFN5fIy9RCSQWUMC+LH+V9e/oCfLRIiCi/ymt1vucuMjFJMLliK6f4LT821lMiuV+VHHY3f2PYX1kRmjaEZC4RPZsCMUu65RqkdJYv9raF7qvq/q0n4sQzxvHgk1VVetQWTQaxshlzrJiMOJ7Rx3khXN+31UG8z/wv9i8iEAIS4wAHhZZ4/6FdKrhiP2xin4TF+KEqNj9YTaBl/wHo3jEuDdV4r5E8c5iKeeRNJmcQ=;TJcT77NoNFaEUcba8XyitQ=="
+secured: "hdeHnUVTfxRSydheHPVBWdq0jgUgqFTpp9lKn7fp1LcWgwocVNva7/rgo95ULGUe3Bi6piKxEGNnYP1mhS8PqIR5Ok8D7ZHjVAVfZTyV8c1FWpX30SnxPjfJK7+Jp3bxc1o+BmezpSe2Lj9Wva2fZrUgSAdCoKaTJPiaTHndeQbQLfzTzts65b5RvXyL6Zimn1Lp56PCeU/KwdqCkHWqIXcZhzqTOfRqFgSew0P5m3c2qX+BG/CfyOnQR0sC9B0+5lwusdyAoTehea1ncdgBKkZuA7+pFL1tQ6Z7L7CZuTe/ngG465WDzW99jq5qeun7j5Km+ojNPsIgdOc21VmtuzIn/ch1avbqpW+S1jL/cj8GrX/v9YCHSGsgLGlR3AC7dCzPsrp/tQg+B7FsHFNMPrZgUOGHTh7TcAQccchPD3Rqe/xrDqYD+b221d1LB+Mi53BlA+LWsiTtYU+LS6uY/YMMomg7q0vxJNtpZPgDNR1SqV6qP898d4tojWq65h03ly9reO7yWm3P8xODYA9Q4A==;QMpn2yGs8PMRXJ7h1vLGUw=="
 ---
 
