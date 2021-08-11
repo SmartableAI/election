@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden urges Afghans to ‘fight for their nation’ as Taliban advance continues"
+    excerpt: "With insurgents now controlling two-thirds of the country, the US president says local forces must rally"
+    publishedDateTime: 2021-08-11T04:44:00Z
+    webUrl: "https://www.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/c33651a21aa9ab372f38ba743fd3ca81b9039e27/0_41_5400_3242/master/5400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c5adbaf550bac5ce62cd3a616ffcf8ab"
+        width: 600
+        height: 360
+        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
     publishedDateTime: 2021-08-06T11:21:00Z

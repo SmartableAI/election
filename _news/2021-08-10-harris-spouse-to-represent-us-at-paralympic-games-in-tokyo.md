@@ -52,6 +52,20 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 55
+  - title: "Kamala Harris' spouse to represent US at Paralympic Games in Tokyo"
+    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
+    publishedDateTime: 2021-08-11T04:30:00Z
+    webUrl: "https://www.smdailyjournal.com/news/national/kamala-harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/article_b5e37f9e-fa1a-11eb-9283-4f4102c988ad.html"
+    type: article
+    provider:
+      name: San Mateo Daily Journal
+      domain: smdailyjournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/d/e5/de533cd0-fa1a-11eb-b108-376880db43cc/6112e3c7c0c14.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "Y77G8hl2eMYtZ2Az9IsIZkenCYsuRepK8elxf4hofjRIhbU/jBcTY5MTegK5IbW6I4XYb7wUkmMoQSrp+IUOxgyAGFuAgEnPZ3Lpfcuqjbr1n0a3o60NBiI0hUXUCeHEoyQR1EGpHGDhHFMzAvddLiPI7YkdQHTK8LN972D/osOyMILvTG1lB1BMDSIr/YLMiG7GODgBfsYvLP4UuQihzfQjVg+UF/dq7Gesthpft9fVYx/lDeUtQ+9UaA/UJE6StvQ3s5kBg0iaoUMoVaE4Bb0xREodjukuLONb2R97YJosGOk56M57rslTm4xB1/TACz8J56zrBNpLxjBrTZ2jXlIDdIszhd8b855eRxYEVuaMdc3UYNKHs031E7jZya5fvdYZ01C9C/jV0fxHqLpifKv6Kxk9/gUih+MHvq50mVNgpycZFtBw49RIoUlg3BhJPobH7tDxeQqtyRmSJ21ARBdP1Z/dF3VLwyWoQ8aUNUXJab6ieQU9UZfSe3LDVgGgqaH2TVVyRBOF6MU6eaorjw==;hFaJFJhpZUrqp5HQBO+Fyw=="
 ---

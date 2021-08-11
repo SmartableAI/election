@@ -9,7 +9,7 @@ ampWebUrl: "https://www.11alive.com/amp/article/sports/olympics/doug-emhoff-repr
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 55
+  - title: "Kamala Harris' spouse to represent US at Paralympic Games in Tokyo"
+    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
+    publishedDateTime: 2021-08-11T04:30:00Z
+    webUrl: "https://www.smdailyjournal.com/news/national/kamala-harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/article_b5e37f9e-fa1a-11eb-9283-4f4102c988ad.html"
+    type: article
+    provider:
+      name: San Mateo Daily Journal
+      domain: smdailyjournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/d/e5/de533cd0-fa1a-11eb-b108-376880db43cc/6112e3c7c0c14.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "G1lMSQGMXJ7UEEb5G1SLWqWWI7tTq71vck9genroY1cMotat5RGnd4+dxf7Es12+srnLd78Q7cTPzRKQLlDjxsJQ6fYMtHxZ1Dv75X4glcE1wdMfLnOsFDWP+xdw8GANroe6W6uazjXuT9xPoNSxm/31BJMjFPGpt3YWzr/dtceI1con49Nbu0TSum4POp+JXAR2/BJPfAtzeFdZIE1HtNOdQ8X9tv1f1R3dO5ca7ASIZ77xuHeNC/LjMszZvhmdF9poPWime106wn3zfm0gRB5GjTZW1z1dWSe0GwaUaGgW03UX9yxF54mkV/pSA0Fe/jmcLZVTDucgfFSfOSrcorIcq8ibd5TTGnhfyPqkN0o=;C1j8A1YlcODh7XNNHLbQKw=="
 ---

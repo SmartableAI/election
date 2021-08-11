@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Harris’ spouse to represent US at Paralympic Games in Tokyo"
-excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month."
-publishedDateTime: 2021-08-10T21:23:00Z
-originalUrl: "https://www.myrtlebeachonline.com/news/article253387368.html"
-webUrl: "https://www.myrtlebeachonline.com/news/article253387368.html"
-ampWebUrl: "https://amp.myrtlebeachonline.com/news/article253387368.html"
-cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/article253387368.html"
+title: "Kamala Harris' spouse to represent US at Paralympic Games in Tokyo"
+excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
+publishedDateTime: 2021-08-11T04:30:00Z
+originalUrl: "https://www.smdailyjournal.com/news/national/kamala-harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/article_b5e37f9e-fa1a-11eb-9283-4f4102c988ad.html"
+webUrl: "https://www.smdailyjournal.com/news/national/kamala-harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/article_b5e37f9e-fa1a-11eb-9283-4f4102c988ad.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Sun News
-  domain: myrtlebeachonline.com
+  name: San Mateo Daily Journal
+  domain: smdailyjournal.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/d/e5/de533cd0-fa1a-11eb-b108-376880db43cc/6112e3c7c0c14.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "VP Harris' husband to represent US at Paralympic Games in Tokyo"
@@ -51,21 +55,18 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Kamala Harris' spouse to represent US at Paralympic Games in Tokyo"
-    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
-    publishedDateTime: 2021-08-11T04:30:00Z
-    webUrl: "https://www.smdailyjournal.com/news/national/kamala-harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/article_b5e37f9e-fa1a-11eb-9283-4f4102c988ad.html"
+  - title: "Harris’ spouse to represent US at Paralympic Games in Tokyo"
+    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month."
+    publishedDateTime: 2021-08-10T21:23:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/article253387368.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/article253387368.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/article253387368.html"
     type: article
     provider:
-      name: San Mateo Daily Journal
-      domain: smdailyjournal.com
+      name: The Sun News
+      domain: myrtlebeachonline.com
     quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/d/e5/de533cd0-fa1a-11eb-b108-376880db43cc/6112e3c7c0c14.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
 
-secured: "qw/8BgPQ5qrE4JSHwFPy95v0WcEl8bythhnWGLziHbZrRGBpWuP3IdZjDbMftEjj73TXQinGeoQsNeua4IqNgBsVKzJQWYnNKvZ1GC+Vw64xWbTtuLHCdZWEALfJnwW/xtllu6IiKPRLbSu26zN83FZurElWVO0NF+pgeb6kk0+BX8spsurIuN+8WIiR6TkitUigsOnBaDhSAZS7ilk54VE7U7FR541Mbb6tOzq31qBU/fLqWdjPBEIqoZiDkgx9ys3lyNdbCSDcrjZnVw+WwVC60AyppqPbQT59BnxVLDzEyu313X8bc6r8fv/HlDZdAXRYQ7gT8HfQWCAyZuU+fWnM+U2fQnmMgkpljDhpTh2BtTVRKfwrhbBvrdCKtIJ5RK2tLancTMNZHBThbxM9lLSuiFrBaWpVSWcwAXisa4CxsqS2ApbA/J3k5NfNANW+GkdMwlqHr3ch7uDltSBkjwJrnR0phZVHemj+Tti4JFhjnYzSFYU+A3GC/aC3Pj3bivF0sYxy5RIazMUH5dxymw==;RwRb6JPSbTk8Vg+DJ00DPg=="
+secured: "9vo7IvLz+V2zfpAbfZMSW2MlbrP/DZVgL3MTKNZBa9XukdzoTeTxeQTMLufufENrq/o7Sb8ofvdvWHeMDkvgtcOpCAwXIWAkeg4yEFPQ+T8g5BJdmVwOL0F0Mzugj575O+8A4JZfp2/IqIQr3/13JzmeLFyQ5lGrN4+L6SMbMGxL3ojlkfnHtJZPTBXxTXdCJ3FflwzKP15QXBxECHgZo9CmiTiwOqxGbTKmGBFYMl09rcRgTytGb0lkfFv0c+ZXVW+llH1GnY6gQ3OIzLuxvKC7LkDTkyvlvuEDL4XBsircGUk8cYWFzOVEdmwId9Q/vDS5HGW0heAzSf99a7CxmlJ0VwoOyioxX9FMnbnd8I0=;INcOQ7I8HLn7NIv7xiNg0A=="
 ---
 

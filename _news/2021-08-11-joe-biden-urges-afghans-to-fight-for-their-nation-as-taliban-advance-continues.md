@@ -1,29 +1,33 @@
 ---
 category: news
-title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
-excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
-publishedDateTime: 2021-08-06T11:21:00Z
-originalUrl: "https://www.timesunion.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-webUrl: "https://www.timesunion.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-ampWebUrl: "https://www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
-cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+title: "Joe Biden urges Afghans to ‘fight for their nation’ as Taliban advance continues"
+excerpt: "With insurgents now controlling two-thirds of the country, the US president says local forces must rally"
+publishedDateTime: 2021-08-11T04:44:00Z
+originalUrl: "https://www.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+webUrl: "https://www.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+ampWebUrl: "https://amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
 type: article
-quality: 75
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+  - url: "https://i.guim.co.uk/img/media/c33651a21aa9ab372f38ba743fd3ca81b9039e27/0_41_5400_3242/master/5400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c5adbaf550bac5ce62cd3a616ffcf8ab"
     width: 600
-    height: 336
+    height: 360
     isCached: true
 
 related:
@@ -59,21 +63,21 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Joe Biden urges Afghans to ‘fight for their nation’ as Taliban advance continues"
-    excerpt: "With insurgents now controlling two-thirds of the country, the US president says local forces must rally"
-    publishedDateTime: 2021-08-11T04:44:00Z
-    webUrl: "https://www.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+  - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
+    excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
+    publishedDateTime: 2021-08-06T11:21:00Z
+    webUrl: "https://www.timesunion.com/news/article/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/EXPLAINER-The-impact-of-Joe-Biden-s-new-fuel-16368601.php"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
     images:
-      - url: "https://i.guim.co.uk/img/media/c33651a21aa9ab372f38ba743fd3ca81b9039e27/0_41_5400_3242/master/5400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c5adbaf550bac5ce62cd3a616ffcf8ab"
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
-        height: 360
+        height: 336
         isCached: true
   - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
     excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
@@ -121,6 +125,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "ONizK6FpL2muhZHicrldUtuvMqCpnaBzDYxod1H68IhsuqIris62+KbJ8FlUiO8nZhv2+8Vd+CK7F4uSC4TizcAC/cLniAPWHp6QRpf78CjHVh1Nd104DYfhDxnkEo/Q3UrfW7rdh2y4Z1+9T7v5+JmLn7w8Gl4Tx9hyQjMg+6lOk0rL+f/wOMa0FZUCPKZQGyyvM9iqFalIIceMwiq03AEkGEtqkQOS/i7e7LJ0i01quGgUyBAOktb7Wd1GQDcolBl4/QCez0BoTQmnNS5l2PHKTcDzQg/MGVpU1RxmV2WYMRjSGS980ANksqVQZTJekv9jLkasGI7UPTXUBQ8bTPtgIxG++43ywYmPRf7yhek=;IwHNSIJWAeybd2UC0l10sA=="
+secured: "fvBiNm4hp16P720H9k0nAzWebHZyGvNtqb69PM9b4pa7cM7RLwI3pbPaIAPeIiTtbRL6O3KX8EoAhYDAjwA5m95Or0JqssKIgBjvykVzliaL4g0u4pQzQIxd5Aa48lSzrXot/z99hMke/KHpEy3ny5MyYO4AvdmQko7lTDp4ssNP5Um2Auqk311CCR73V0svrCziO+VugUCo0aUSZ/E8arkEcQiQK6s7A93HDhvUHcMEsQ8do2UY7n0F14NK0RFWR7lZyGUT6hWxdtLQyVEABqvXqwAkCE4d0m5LXdaeysBlpszVCKZqA2F+rBJrnrf4ebIiYh+JwDxWeCXr1wN2NnwabwM2MltKwN5maKeGrCQ=;3PIhq5u6p3OdtfJ3LMdaHA=="
 ---
 
