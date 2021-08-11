@@ -187,6 +187,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Dominion sues Trump-friendly broadcasters over fraud claims"
+    excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election wa"
+    publishedDateTime: 2021-08-11T01:33:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_357c21d0ff7349e8b17ccf46ae6c13bb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump-backed coal lobbyist wins Republican congressional primary in Ohio"
     excerpt: "Ex-president hails Mike Carey’s victory in special election seen as test of Trump’s continuing hold on party"
     publishedDateTime: 2021-08-04T01:16:00Z
@@ -776,22 +792,6 @@ related:
       - url: "https://www.mcall.com/resizer/cufuzjIwe1JBxC_soDNvCTG9ph4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VEMPKPB2SII3SFJDGWYVPG3CUE.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Dominion sues Trump-friendly broadcasters over fraud claims"
-    excerpt: "Vote-counting machine maker Dominion Voting Systems filed defamation lawsuits Tuesday The suits single out Newsmax, One America News, their executives and the former Overstock.com CEO Patrick Byrne. Dominion says their false claims that the company rigged the election for President Joe Biden have cost it $1."
-    publishedDateTime: 2021-08-11T01:39:00Z
-    webUrl: "https://www.mysanantonio.com/entertainment/article/Dominion-sues-Trump-friendly-broadcasters-over-16377418.php"
-    ampWebUrl: "https://www.mysanantonio.com/entertainment/amp/Dominion-sues-Trump-friendly-broadcasters-over-16377418.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/entertainment/amp/Dominion-sues-Trump-friendly-broadcasters-over-16377418.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "What's A 'Trump Card?' Donald Trump, Republican PAC Wants Supporters To Carry"
     excerpt: "The former president wants his supporters to carry Trump cards to show their support for him and his 'Save America' movement."

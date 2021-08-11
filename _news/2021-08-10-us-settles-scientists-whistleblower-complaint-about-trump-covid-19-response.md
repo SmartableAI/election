@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/us-settle
 webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/us-settles-scientists-whistleblower-complaint-about-trump-covid-19-response"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - Election
   - Donald Trump
+
+related:
+  - title: "Trump Was 'In Pain' And 'Afraid' After Bout With COVID-19, New Book Says"
+    excerpt: "Former President Donald Trump was “afraid” and “in pain” while he was receiving treatment for a severe COVID-19 infection, his niece Mary Trump has claimed in a new book. In Mary Trump’s upcoming book “ The Reckoning: Our Nation's Trauma and Finding a Way to Heal ,"
+    publishedDateTime: 2021-08-11T02:01:00Z
+    webUrl: "https://www.ibtimes.com/trump-was-pain-afraid-after-bout-covid-19-new-book-says-3270851"
+    ampWebUrl: "https://www.ibtimes.com/trump-was-pain-afraid-after-bout-covid-19-new-book-says-3270851?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-was-pain-afraid-after-bout-covid-19-new-book-says-3270851?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "p4MBO0MkMG+MRteguGoVM2ZZKL/nVPtNYkdSGTsRFiCD2f/B3KzxZLxYtosNWV9AOKiSTSSK3YLFzNQOCC7xhZS6tBnmPOAmeX52EhYOZtGlCK55xynbxALnV6JWN5w1qk0uCUSyghcCcX0H0cHRZkXfeSZ/4A/P88/qzHV3V8i2WXcw59dNe/IT/AyQ7b8eSDpcBbOjfnv4ODdbbUvyx82AkdufI6YEla8TBrhCiw/gSY6649YOI7wnNu70HqU36ugBLd3QcaelaeqqkvYoGlf6X0hA6U5MvGRoC9M0gTjXagQaQtDg1cHpPO49d+S85rDfgV9Iz/qPjxOzL8XQ/CNQ6dB55yACwRBkIeCOY4vOuwP9ALEO3wuaahF60DEiNNQ4Mt9zRumMDBDNY/3RxppTXSnuCHJNfauuNIqNetNEO6hvVieMi9d76tAbXYOwheR9OPh2fsgrIAvzSKhP1xyM4sCe8067+nOWKClnVpUVqfv1egtjvu6fQ8lFtEoD26Wpqm2ijQeOH8oeYuBJ8w==;ufg6ycBJ05Ap3m/rRFooCw=="
 ---
