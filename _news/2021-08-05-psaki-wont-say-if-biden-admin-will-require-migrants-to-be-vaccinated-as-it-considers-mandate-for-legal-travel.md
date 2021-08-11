@@ -31,22 +31,143 @@ images:
     isCached: true
 
 related:
-  - title: "Biden nominates Mark Brzezinski to be ambassador to Poland"
-    excerpt: "President Joe Biden has tapped former Obama administration diplomat Mark Brzezinski to serve ambassador to Poland."
-    publishedDateTime: 2021-08-05T00:31:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iU-Aem-yZ2U/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.amp"
+  - title: "Psaki grilled on whether Biden created vaccine hesitancy with 2020 comments slamming Trump"
+    excerpt: "White House press secretary Jen Psaki was grilled on whether or not President Biden encouraged vaccine hesitancy with comments he made last year cautioning he did not “trust” former President Donald Trump"
+    publishedDateTime: 2021-08-11T18:15:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 180
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef36b715-903f-482b-9224-159a93080ef8/c8c9318c-73c7-47f0-8f01-d8ccf8f03424/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki dismisses concerns over legality of Biden's renewed eviction moratorium"
+    excerpt: "White House press secretary Jen Psaki dismissed concerns about the constitutionality of the extension of the eviction moratorium."
+    publishedDateTime: 2021-08-04T19:08:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-zwqGhnHwY/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/194cfd99-d8dd-4036-81fc-e39671e8b9ad/617f57d9-b89d-4869-86d6-d3bf28cf1184/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden prepares plan requiring foreign travelers to be vaccinated amid border crisis"
+    excerpt: "The Biden administration is currently working on a plan to require foreign nationals traveling into the U.S. to be vaccinated against the coronavirus except for some \"limited exceptions.”"
+    publishedDateTime: 2021-08-05T15:26:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Psaki grilled on Cuomo, Biden sexual harassment allegations, says claims against president already ‘litigated’"
+    excerpt: "White House press secretary Jen Psaki fended off questions about sexual misconduct allegations leveled against President Biden Wednesday following the commander-in-chief’s decision to call on embattled New York Gov. Andrew Cuomo to resign following a harassment probe."
+    publishedDateTime: 2021-08-04T23:34:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o8HBXmciIzY/psaki-cuomo-biden-sexual-harassment"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21216625636317-e1628113969608.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism"
+    excerpt: "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats."
+    publishedDateTime: 2021-08-11T08:00:00Z
+    webUrl: "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
+    ampWebUrl: "https://www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
+    images:
+      - url: "https://images.wsj.net/im-383642/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Oh, Joe: Biden mistakenly says 350M Americans vaccinated"
+    excerpt: "Biden, 78, is often accused of being in mental decline and then-President Donald Trump made his cognitive fitness a central campaign issue last year."
+    publishedDateTime: 2021-08-06T18:56:00Z
+    webUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/"
+    ampWebUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-vaccine-600.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tara Reade fires back after Jen Psaki claims Biden allegations were 'heavily litigated' during election"
+    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at White House Press Secretary Jen Psaki claimed that the allegations made against the president were “heavily litigated” during the 2020 election cycle."
+    publishedDateTime: 2021-08-05T02:13:00Z
+    webUrl: "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo"
+    ampWebUrl: "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217a58f3-a01e-4ac1-8f6d-dec17ec267fb/fce8c9ce-aef7-41f3-adbb-2a597c5e53dc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Psaki ‘not aware of plans’ for Joe Biden to attend Hunter’s pricey art show"
+    excerpt: "The first son is asking as much as $500,000 for his paintings from anonymous buyers, which ethics experts say are inflated prices based on his dad’s official position."
+    publishedDateTime: 2021-08-11T19:43:00Z
+    webUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/"
+    ampWebUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/hunter-biden-art-show-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "6 Things Biden Could Do About Covid If He Is Serious"
+    excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
+    publishedDateTime: 2021-08-08T19:31:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/08/6_things_biden_could_do_about_covid_if_he_is_serious_548998.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "CzzeC0dYFJY7fSORt3dVD+sM3az9gheGZaMTX6iFIoyAj47aQswUYItBTloRXJzyZ7RV1UaSjZgUFw4//zQ0IVWS4rcR3XDRaczhaXIwtlO3drTCRepthvJKLyx8mLhUi3oqTlZ9N517QIBkUONZBH74YKWoRLdmfxjqHY8pbco7JhT1reBYx2cKfIux2Ss2MOhFfN5Gc1ulpMm1u+O4foSKW2cVU6xHENHSA3wi317+VAiAoabEgf8b5vbc0nJQS5OR4GHDcxVuoxzKWnDMSNNJkokkZaVfEOrP6MXPldVfF0J7zwZpXaRiTsrl33qeIINYHqOmJpngxDh+XHOx/eMPht7452ypmqtz5Mgstew=;SG3DJtD00jAwzI+9/pcDjQ=="
 ---

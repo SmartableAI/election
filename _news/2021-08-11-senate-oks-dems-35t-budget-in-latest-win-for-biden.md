@@ -177,6 +177,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Senate OKs Dems’ $3.5T budget in latest win for Joe Biden"
+    excerpt: "Democrats pushed a $3.5 trillion framework for bolstering family services, health and environment programs through the Senate early Wednesday, advancing President Joe Biden’s ex"
+    publishedDateTime: 2021-08-11T10:52:00Z
+    webUrl: "https://floridapolitics.com/archives/447520-senate-oks-dems-3-5t-budget-in-latest-win-for-joe-biden/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/1000-54.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "vwD1mhzYRoSKUDEZGJCWVDPB0AKo4SpIBbc16xJofHQ0e7GEGYDrKWjFiO2HtFv5+0IBHk40YEG2MBxoaqGUNdyxv4d/iaP6O1JKDE6U9oj6CkoH523to+zKvlvDtoSYZk443LnldGmJhC2mVxBTKj4x8gNlIOgN8esIkT6VzqA+jnp6rtoLSuSq/gtEvg1eT2hpdAUk5AO6gplI3txSMAJDDp6fGRh8aBjK8EGtC5CuFETdnNZPQ0hsWyQmgnl8qCCTy7gjRK29729LAyvWDDfxakH0S/ybXwz+gooGAEhLMzNx4u+LSwtEJlXR78GRpSUQV/svNwlNyDMX4KkBby3/C5BzWREexAIGA2mbkOQ=;SlifvpM2yBVp3d4YLUW2Tw=="
 ---

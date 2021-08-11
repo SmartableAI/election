@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/first-lady-jill-biden-foot-procedur
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-jill-biden-foot-procedure-walter-reed.amp"
 type: article
 quality: 175
-heat: 315
+heat: 295
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0337103a-b616-4532-916c-8ef38b3991b1/36a36463-8faa-4f4c-a507-fae0829e3058/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden prepares plan requiring foreign travelers to be vaccinated amid border crisis"
-    excerpt: "The Biden administration is currently working on a plan to require foreign nationals traveling into the U.S. to be vaccinated against the coronavirus except for some \"limited exceptions.”"
-    publishedDateTime: 2021-08-05T15:26:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

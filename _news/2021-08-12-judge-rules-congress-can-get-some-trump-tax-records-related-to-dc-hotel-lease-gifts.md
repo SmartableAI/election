@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Trump accounting firm must release some records to Congress"
-excerpt: "The judge stopped short of calling for the handover of all the financial records that Democrats have requested."
-publishedDateTime: 2021-08-11T17:50:00Z
-originalUrl: "https://www.pressherald.com/2021/08/11/trump-accounting-firm-must-release-some-records-to-congress/"
-webUrl: "https://www.pressherald.com/2021/08/11/trump-accounting-firm-must-release-some-records-to-congress/"
+title: "Judge rules Congress can get some Trump tax records related to D.C. hotel lease, gifts"
+excerpt: "The ruling is limiting to a far broader House panel's demand as part of a long-running inquiry into Trump's financial disclosures."
+publishedDateTime: 2021-08-11T19:49:00Z
+originalUrl: "https://www.app.com/story/news/politics/2021/08/11/judge-congress-can-get-some-trump-docs-covering-hotel-lease-gifts/8096428002/"
+webUrl: "https://www.app.com/story/news/politics/2021/08/11/judge-congress-can-get-some-trump-docs-covering-hotel-lease-gifts/8096428002/"
+ampWebUrl: "https://amp.app.com/amp/8096428002"
+cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/8096428002"
 type: article
-quality: 55
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: app.com
+  domain: app.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-    width: 300
-    height: 300
+  - url: "https://www.gannett-cdn.com/presto/2020/07/28/USAT/c85f972b-b954-4c15-8b79-0149c362ba88-3_-_Trump_International_Hotel_Washington_D.C..jpg?auto=webp&crop=1999,1125,x0,y254&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -55,23 +57,21 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Judge rules Congress can get some Trump tax records related to D.C. hotel lease, gifts"
-    excerpt: "The ruling is limiting to a far broader House panel's demand as part of a long-running inquiry into Trump's financial disclosures."
-    publishedDateTime: 2021-08-11T19:49:00Z
-    webUrl: "https://www.app.com/story/news/politics/2021/08/11/judge-congress-can-get-some-trump-docs-covering-hotel-lease-gifts/8096428002/"
-    ampWebUrl: "https://amp.app.com/amp/8096428002"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/8096428002"
+  - title: "Trump accounting firm must release some records to Congress"
+    excerpt: "The judge stopped short of calling for the handover of all the financial records that Democrats have requested."
+    publishedDateTime: 2021-08-11T17:50:00Z
+    webUrl: "https://www.pressherald.com/2021/08/11/trump-accounting-firm-must-release-some-records-to-congress/"
     type: article
     provider:
-      name: app.com
-      domain: app.com
-    quality: 67
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/28/USAT/c85f972b-b954-4c15-8b79-0149c362ba88-3_-_Trump_International_Hotel_Washington_D.C..jpg?auto=webp&crop=1999,1125,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
         isCached: true
 
-secured: "nXhGzf99aZSBHPg0pAfsmcRbKbR1dEScpRUxSlezhga2Okxw4G0T2G7G0lAYuYlLHq7OqCqTScTxdpWHJOg0gjEKirLdVy0kuMOI4IwD07RPUGckJ2m+Oc1nbI43fgDsgGfsC/2bggRe2hOJNboDlDEcwfjc421tklEP8fN3qrQuGqKZghyqANsuH1YrPxRY7qF2TpitnSdkSn6hZENKPZ0umy44tgYDx0asRqOUoNljfj7DTbheYyrvYYWVV56pv1tZyoH6L/zca4v5Cdp/pbWjHZRVnpwXDlOV8jdzu25ShusdF5+dlB7BnAwIC3pCPqEPEjSjuGx2nfqvYpoZuGAm5CNDARufLjJaLIoUlXM=;7AwoGa1iQX2ZHY0ZdzCYlg=="
+secured: "zAp13uJXPlGcdFH5rA+XgpmCLzVJtXPMIw6MV7pSRJOLftiJjKyzLOJpaWQVVZTRRNDppIhSeA6+AI5mfi2s6kMOfLeQd4xL0kYRK9EtzEuCCfjL6urn11ocTSODc30CMzbBE5xuhGnowV+1+bMfAcHwixiCwr3GeSJEyv6IUOIPiV8FJpI4oaqr5fsAXWF+j0f945Ho2RNVfXupTUzFEbvMz7WVG0ejh0zq+cCWNfBnhKUvfKhnUR/rZgAOIETI0TFp/HsP3+dHMW/YtK0hTivPBhHDfMZi7r83Q5l+jHVSmvD8WZsbrpOuICR0MZsLvKaArBey9Om+BtyiuLJfIxlDqat1yX8aZY0qptzgbxQ=;TvS/qd3VEGcnfLeKaqNfZg=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-07-911-families-tell-biden-to-stay-away-from-memorial-service-if-he-doesnt-authorize-release-of-records-related-to-attacks.md",
+      "title": "9/11 families tell Biden to stay away from memorial service if he doesn't authorize release of records related to attacks",
+      "excerpt": "More than 1,600 people affected by the September 11 attacks are asking President Joe Biden to refrain from coming to Ground Zero to mark the 20th anniversary of the event unless he releases documents and information related to the attacks, according to a letter released by the group.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Po5li0GG28/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Po5li0GG28/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911154718-03-joe-biden-0911-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/06/politics/joe-biden-9-11-records-memorial-service/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/joe-biden-9-11-records-memorial-service/index.html",
+      "publishedDateTime": "2021-08-06T17:48:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-pence-is-joining-other-gop-officials-in-pushing-the-covid-19-vaccine-telling-young-conservatives-i-got-the-shot.md",
       "title": "Pence is joining other GOP officials in pushing the COVID-19 vaccine, telling young conservatives: 'I got the shot'",
       "excerpt": "Pence joins the ranks of other GOP officials who are asking their Republican base to get vaccinated.",
@@ -66,7 +122,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -940,63 +996,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-05-tara-reade-fires-back-after-jen-psaki-claims-biden-allegations-were-heavily-litigated-during-election.md",
-      "title": "Tara Reade fires back after Jen Psaki claims Biden allegations were 'heavily litigated' during election",
-      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at White House Press Secretary Jen Psaki claimed that the allegations made against the president were “heavily litigated” during the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "originalUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217a58f3-a01e-4ac1-8f6d-dec17ec267fb/fce8c9ce-aef7-41f3-adbb-2a597c5e53dc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "publishedDateTime": "2021-08-04T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-05-trump-targeted-by-protesters-at-winged-foot-golf-club-in-mamaroneck.md",
       "title": "Trump targeted by protesters at Winged Foot Golf Club in Mamaroneck",
       "excerpt": "Former President Donald Trump was reportedly being honored at a tribute banquet at the Mamaroneck golf course, where people gathered to protest.",
@@ -1052,7 +1051,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {

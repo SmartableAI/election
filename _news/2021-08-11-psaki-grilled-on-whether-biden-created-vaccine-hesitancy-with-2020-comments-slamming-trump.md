@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden prepares plan requiring foreign travelers to be vaccinated amid border crisis"
-excerpt: "The Biden administration is currently working on a plan to require foreign nationals traveling into the U.S. to be vaccinated against the coronavirus except for some \"limited exceptions.”"
-publishedDateTime: 2021-08-05T15:26:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
-ampWebUrl: "https://www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+title: "Psaki grilled on whether Biden created vaccine hesitancy with 2020 comments slamming Trump"
+excerpt: "White House press secretary Jen Psaki was grilled on whether or not President Biden encouraged vaccine hesitancy with comments he made last year cautioning he did not “trust” former President Donald Trump"
+publishedDateTime: 2021-08-11T18:15:11Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump"
+ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
 type: article
-quality: 169
-heat: -1
-published: false
+quality: 180
+heat: 360
+published: true
 
 provider:
   name: Fox News
@@ -25,28 +25,12 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
-  - title: "Psaki grilled on whether Biden created vaccine hesitancy with 2020 comments slamming Trump"
-    excerpt: "White House press secretary Jen Psaki was grilled on whether or not President Biden encouraged vaccine hesitancy with comments he made last year cautioning he did not “trust” former President Donald Trump"
-    publishedDateTime: 2021-08-11T18:15:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Psaki dismisses concerns over legality of Biden's renewed eviction moratorium"
     excerpt: "White House press secretary Jen Psaki dismissed concerns about the constitutionality of the extension of the eviction moratorium."
     publishedDateTime: 2021-08-04T19:08:45Z
@@ -60,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/194cfd99-d8dd-4036-81fc-e39671e8b9ad/617f57d9-b89d-4869-86d6-d3bf28cf1184/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden prepares plan requiring foreign travelers to be vaccinated amid border crisis"
+    excerpt: "The Biden administration is currently working on a plan to require foreign nationals traveling into the U.S. to be vaccinated against the coronavirus except for some \"limited exceptions.”"
+    publishedDateTime: 2021-08-05T15:26:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -169,6 +169,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "fMEQjN2RY7FF+BpldGm+uB+byQQYXXP701YuerkEdbOHs/I1E0DkRjExZR6VhBCFkX6t+oA10ZjL4/DzX1O4JbMnusowxq0RLklOXwJIzQDBKvfRw51sN4fmC1S4BtvjUMkT8b8VdMqcJK0TQHgEwX2wftjLSagePl7OpvjjsS8kuTm6nWiF/tkbPFHUfUOKFF9W/lpTD687gtBw4qan4P8nNKfLD1dbVbjjONycxXUANI+sIZ9MdXYU3gjKRspQJxnT4O0ehKJEPXsN8yvl7jBHu7u4o6h6EUNmGnbgblWNb9aRy5/DFLPGibLWngLNYVpg0aqKeDVMDc4h0Bw238bLt8owsV71SKM0o6dogE4=;hWR+8QAKStbUbHm1mUOlCA=="
+secured: "o6Ce7ua9wq8Q5enaMVQRuagiHr7C9UsC8mRYHPHcjU6I6AFiURwtHVkXrxYFbpUIJlxPKucyvFIlLBASfrfmcC1ULtem78i0t4xbDe2affgKg12YwVN9ubG2i5QumuZIOu1yoNfF040leA67InbzjxTazib1eV0wKB5G303Pq8JXdQgUtI9v3XTXjBBk6h9/SwMaQ742mGyJmijhtZBKISbE5EXN1QaLFXLEPjt+LwZFux3REe9Qn4O2lWEzZtrwNG+52VCd1vs0ZGno50kX8NwsgHBu/4yNCdmzx1UeODPmmNa/tO9jI6SnVXiVl2xBaUn0CT0464HkE5LGyuQqu0Qyf7/aTiCLisVLsECDV60=;7mGZTfhsHgrP/0OKg3T/lg=="
 ---
 

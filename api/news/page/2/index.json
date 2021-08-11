@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-10-trump-cant-say-hasta-la-vista-to-celebrity-apprentice.md",
+      "title": "Trump can’t say ‘Hasta la vista’ to ‘Celebrity Apprentice’",
+      "excerpt": "President Donald Trump can't seem to bring himself to say \"Hasta la vista, baby\" to \"Celebrity Apprentice.\" Twice in the past month, Trump, who once hosted the NBC reality TV show, has taken pot shots at the current host,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
+      "originalUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/media:a7dd2932954c4bd5a98a8a1fcccfe5cb/3000.jpeg",
+          "width": 3000,
+          "height": 1994,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-trump-couture-ex-president-unveils-new-version-of-maga-hat-he-just-designed.md",
       "title": "Trump couture: Ex-president unveils new version of MAGA hat he ‘just designed’",
       "excerpt": "In an email to supporters, former President Donald Trump announced a new version of the “Make America Great Again” hats and claimed he had “just designed” it.",
@@ -105,7 +148,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 188,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -209,7 +252,7 @@
       "originalUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1237,62 +1280,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-911-families-tell-biden-to-stay-away-from-memorial-service-if-he-doesnt-authorize-release-of-records-related-to-attacks.md",
-      "title": "9/11 families tell Biden to stay away from memorial service if he doesn't authorize release of records related to attacks",
-      "excerpt": "More than 1,600 people affected by the September 11 attacks are asking President Joe Biden to refrain from coming to Ground Zero to mark the 20th anniversary of the event unless he releases documents and information related to the attacks, according to a letter released by the group.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Po5li0GG28/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Po5li0GG28/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911154718-03-joe-biden-0911-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/06/politics/joe-biden-9-11-records-memorial-service/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/joe-biden-9-11-records-memorial-service/index.html",
-      "publishedDateTime": "2021-08-06T17:48:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

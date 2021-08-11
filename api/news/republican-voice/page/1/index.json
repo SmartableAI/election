@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-11-psaki-grilled-on-whether-biden-created-vaccine-hesitancy-with-2020-comments-slamming-trump.md",
+      "title": "Psaki grilled on whether Biden created vaccine hesitancy with 2020 comments slamming Trump",
+      "excerpt": "White House press secretary Jen Psaki was grilled on whether or not President Biden encouraged vaccine hesitancy with comments he made last year cautioning he did not “trust” former President Donald Trump",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp",
+      "publishedDateTime": "2021-08-11T11:15:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-manchin-has-serious-concerns-about-dems-35t-spending-plan-signaling-trouble-for-biden-agenda.md",
       "title": "Manchin has 'serious concerns' about Dems' $3.5T spending plan, signaling trouble for Biden agenda",
       "excerpt": "Sen. Joe Manchin on Wednesday morning said he has \"serious concerns\" about his party's massive $3.5 trillion spending plan, signaling that he may intend to block much of the package supported by President Biden over inflation and debt concerns.",
@@ -167,63 +223,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism.md",
-      "title": "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism",
-      "excerpt": "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
-      "originalUrl": "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-383642/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
-      "publishedDateTime": "2021-08-11T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -569,7 +568,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 188,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1051,7 +1050,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1424,63 +1423,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-05-tara-reade-fires-back-after-jen-psaki-claims-biden-allegations-were-heavily-litigated-during-election.md",
-      "title": "Tara Reade fires back after Jen Psaki claims Biden allegations were 'heavily litigated' during election",
-      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at White House Press Secretary Jen Psaki claimed that the allegations made against the president were “heavily litigated” during the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "originalUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217a58f3-a01e-4ac1-8f6d-dec17ec267fb/fce8c9ce-aef7-41f3-adbb-2a597c5e53dc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "publishedDateTime": "2021-08-04T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-05-biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.md",
       "title": "Biden nominates Mark Brzezinski to be ambassador to Poland",
       "excerpt": "President Joe Biden has tapped former Obama administration diplomat Mark Brzezinski to serve ambassador to Poland.",
@@ -1493,7 +1435,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1622,6 +1564,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.amp",
       "publishedDateTime": "2021-08-04T11:04:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-trump-big-winner-progressives-big-losers-in-twin-ohio-congressional-primaries.md",
+      "title": "Trump big winner, progressives big losers in twin Ohio congressional primaries",
+      "excerpt": "Former President Trump wasn’t on the ballot, but he was one of the winners as the candidate he backed won a GOP primary in a special House election in Ohio’s 15th Congressional District.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gbe4eDHTHX4/trump-winner-progressives-losers-ohio-primaries",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gbe4eDHTHX4/trump-winner-progressives-losers-ohio-primaries",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
+      "publishedDateTime": "2021-08-04T09:27:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -31,118 +31,143 @@ images:
     isCached: true
 
 related:
-  - title: "Ohio Rep. Bob Gibbs seeks articles of impeachment against Biden"
-    excerpt: "An Ohio congressman on Friday asked his GOP House colleagues to consider filing articles of impeachment against President Biden for an \"unconstitutional\" order to extend the eviction moratorium and for his \"dereliction\" of duty in securing the southern border. "
-    publishedDateTime: 2021-08-06T20:15:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp"
+  - title: "Psaki grilled on whether Biden created vaccine hesitancy with 2020 comments slamming Trump"
+    excerpt: "White House press secretary Jen Psaki was grilled on whether or not President Biden encouraged vaccine hesitancy with comments he made last year cautioning he did not “trust” former President Donald Trump"
+    publishedDateTime: 2021-08-11T18:15:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 180
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Here's what you need to know about Biden's latest US attorney pick"
-    excerpt: "President Biden on Tuesday nominated Damian Williams to be the new U.S. attorney for Manhattan, one of the most high-profile federal prosecutor positions in the nation."
-    publishedDateTime: 2021-08-11T15:30:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Enz60ZhjnYs/biden-damian-williams-attorney-ny"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-damian-williams-attorney-ny.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-damian-williams-attorney-ny.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/613bd8fb-493d-471e-8298-e37f3ae8c87b/140b716d-59e5-4a14-b691-7900146c813d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Cuomo washes out coverage of Biden legislative win with resignation announcement"
-    excerpt: "Just as the Senate passed a $1.2 trillion infrastructure bill in a legislative triumph for President Biden, the news cycle was overtaken by New York Gov. Andrew Cuomo announcing his retirement."
-    publishedDateTime: 2021-08-10T18:09:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sWYXqn12iwU/cuomo-coverage-biden-infrastructure-resignation-announcement"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-coverage-biden-infrastructure-resignation-announcement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-coverage-biden-infrastructure-resignation-announcement.amp"
+  - title: "Psaki dismisses concerns over legality of Biden's renewed eviction moratorium"
+    excerpt: "White House press secretary Jen Psaki dismissed concerns about the constitutionality of the extension of the eviction moratorium."
+    publishedDateTime: 2021-08-04T19:08:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-zwqGhnHwY/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dismisses-concerns-constitutionality-eviction-moratorium-extension.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/194cfd99-d8dd-4036-81fc-e39671e8b9ad/617f57d9-b89d-4869-86d6-d3bf28cf1184/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "9/11 families won't welcome Biden to memorial event unless he declassifies evidence"
-    excerpt: "Families of hundreds of 9/11 victims wrote a scathing letter demanding Biden declassify evidence"
-    publishedDateTime: 2021-08-09T23:03:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xm8iSjnhqJk/9-11-families-wont-welcome-biden-to-memorial-event-unless-he-declassifies-evidence"
-    ampWebUrl: "https://www.foxnews.com/politics/9-11-families-wont-welcome-biden-to-memorial-event-unless-he-declassifies-evidence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/9-11-families-wont-welcome-biden-to-memorial-event-unless-he-declassifies-evidence.amp"
+  - title: "Biden prepares plan requiring foreign travelers to be vaccinated amid border crisis"
+    excerpt: "The Biden administration is currently working on a plan to require foreign nationals traveling into the U.S. to be vaccinated against the coronavirus except for some \"limited exceptions.”"
+    publishedDateTime: 2021-08-05T15:26:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d0cafea-a7d0-47c8-ae01-bb53bf374711/fd985713-0970-4012-a2d2-2829c133ff34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Texas Rep. Chip Roy calls for impeachment of President Biden, DHS Secretary Mayorkas"
-    excerpt: "Texas Rep. Chip Roy is calling for the impeachment of both President Biden and Homeland Security Secretary Alejandro Mayorkas over their response to the flow of illegal immigrants across the southern border over the past six months."
-    publishedDateTime: 2021-08-03T22:24:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oJ4-UR44xfg/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-rep-chip-roy-impeach-president-biden-dhs-secretary-mayorkas.amp"
+  - title: "Psaki won't say if Biden admin will require migrants to be vaccinated as it considers mandate for legal travel"
+    excerpt: "White House press secretary Jen Psaki did not say Thursday whether the Biden administration will require vaccines for migrants coming across the southern border even as she acknowledged that the administration is considering mandating vaccines for foreign travelers entering the United States."
+    publishedDateTime: 2021-08-05T19:38:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jswom-CdCpw/psaki-biden-migrants-vaccine-covid-foreign-travelers"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-migrants-vaccine-covid-foreign-travelers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-migrants-vaccine-covid-foreign-travelers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/Chip-Roy-Biden-Mayorkas.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Cruz blocks State Department nominees, increasing the backlog of unconfirmed Biden officials"
-    excerpt: "Sen. Ted Cruz, R-Texas, blocked the confirmation of dozens of State Department nominees Wednesday morning in an effort to pressure the Biden administration over Russia's Nord Stream 2 pipeline."
-    publishedDateTime: 2021-08-11T17:01:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZ2Y8TK1Vaw/cruz-blocks-state-department-nominees"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-blocks-state-department-nominees.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-blocks-state-department-nominees.amp"
+  - title: "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism"
+    excerpt: "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats."
+    publishedDateTime: 2021-08-11T08:00:00Z
+    webUrl: "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
+    ampWebUrl: "https://www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
+    images:
+      - url: "https://images.wsj.net/im-383642/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Oh, Joe: Biden mistakenly says 350M Americans vaccinated"
+    excerpt: "Biden, 78, is often accused of being in mental decline and then-President Donald Trump made his cognitive fitness a central campaign issue last year."
+    publishedDateTime: 2021-08-06T18:56:00Z
+    webUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/"
+    ampWebUrl: "https://nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/06/biden-mistakenly-says-350m-americans-are-vaccinated/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/joe-biden-vaccine-600.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tara Reade fires back after Jen Psaki claims Biden allegations were 'heavily litigated' during election"
+    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at White House Press Secretary Jen Psaki claimed that the allegations made against the president were “heavily litigated” during the 2020 election cycle."
+    publishedDateTime: 2021-08-05T02:13:00Z
+    webUrl: "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo"
+    ampWebUrl: "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 134
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec808b76-a8a9-4e97-9d0a-ce1ab800572a/dc27a973-9957-4f8d-92e7-f17676657819/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217a58f3-a01e-4ac1-8f6d-dec17ec267fb/fce8c9ce-aef7-41f3-adbb-2a597c5e53dc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden's controversial EPA nominee to face Senate, expected to address allegations of past racist comments"
-    excerpt: "President Biden’s controversial nominee to hold a leadership position at the Environmental Protection Agency (EPA) is expected to face tough questions on his past comments about civil rights laws and support for reparations set to faces the Senate soon during his confirmation hearing."
-    publishedDateTime: 2021-08-09T20:20:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A95wl3x630Q/biden-epa-nominee-address-allegations-racism"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-epa-nominee-address-allegations-racism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-epa-nominee-address-allegations-racism.amp"
+  - title: "Psaki ‘not aware of plans’ for Joe Biden to attend Hunter’s pricey art show"
+    excerpt: "The first son is asking as much as $500,000 for his paintings from anonymous buyers, which ethics experts say are inflated prices based on his dad’s official position."
+    publishedDateTime: 2021-08-11T19:43:00Z
+    webUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/"
+    ampWebUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
+      name: New York Post
+      domain: nypost.com
+    quality: 133
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/402fd5d2-59ec-48df-9708-940138d5ec89/67f32827-ee50-4b97-9c0e-47148a82b3ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/hunter-biden-art-show-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "6 Things Biden Could Do About Covid If He Is Serious"
+    excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
+    publishedDateTime: 2021-08-08T19:31:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/08/6_things_biden_could_do_about_covid_if_he_is_serious_548998.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "p0W7oAlT6llw3nkcSxxIhJY3FuHSnAaV/1atr2IktQgDLwuRH/GP3nywK6razDKKIExFIbRJmqmqjnv7p1kERvtzoYqwAwiuvua702d7LVqWF17m2ZXdAw+QcYos8ahYQT6Zexcq7+eNIdG2h6zaSkkl1khT+bA6psdTV7cUFf1y7zN5qKCPgzEJf281maL097Ys151RyiajKBh3BphgV3jxyyVlZ61FzHtc3dYD5OxBd7qB10jfAN0yEh/3rmPPiGuovyTpxm4dfF8Gk2+/fnNvfnkzoaKs+Dv2OWqRnlC4PXR5JMEBZ9yIGoEhodIiDV1As5e8bUJccxRJFCQAu/z+zwisUTAmBJX0kGiZ/kU=;j3aAiH8Ae9dndqQ43Pk0Yg=="
 ---

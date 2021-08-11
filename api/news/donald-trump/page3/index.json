@@ -2,54 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-26-trump-says-woke-politics-contributed-to-us-womens-soccer-upset-at-olympics.md",
-      "title": "Trump says ‘woke politics’ contributed to US women’s soccer upset at Olympics",
-      "excerpt": "Former President Donald Trump says “woke politics” contributed to the US Women’s soccer team’s dismal opening performance in the Tokyo 2020 Olympics.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
-      "originalUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
-      "publishedDateTime": "2021-07-25T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-26-video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her.md",
       "title": "Video Shows Man 'Harassing' Michelle Ugenti-Rita Backstage After Trump Supporters Booed Her",
       "excerpt": "Rita, a Republican running for Arizona secretary of state, why she \"killed Senator Kelly Townsend's election integrity bills in the Senate\" in the video.",
@@ -1539,6 +1491,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-bad-hair-days-return-biden-drops-showerhead-rule-trump-demanded-for-more-water-perfect-coiffure.md",
+      "title": "Bad hair days return? Biden drops showerhead rule Trump demanded for more water, 'perfect' coiffure",
+      "excerpt": "President Joe Biden's administration is reversing a Trump-era rule that allowed more water to flow through showerheads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/16/biden-reverses-showerhead-rule-trump-demanded-perfect-hair/7992908002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/24/USAT/f0dfce74-db67-49bb-8c0e-2000322cef95-showerhead.png?auto=webp&crop=1044,587,x5,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7992908002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7992908002",
+      "publishedDateTime": "2021-07-16T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

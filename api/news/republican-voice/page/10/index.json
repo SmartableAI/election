@@ -2,62 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-06-13-biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.md",
-      "title": "Biden congratulates Israel’s incoming PM Naftali Bennett, vows support for 'Israelis, Palestinians'",
-      "excerpt": "President Joe Biden on Sunday congratulated Israel’s incoming Prime Minister Naftali Bennett after Israel’s parliament voted to approve a new government, effectively ending Benjamin Netanyahu’s historic 12 years in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VuCLqcy-Gok/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VuCLqcy-Gok/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ba207a5-e5c3-44d7-ac5a-5bb6e1c12fb7/13469762-5405-4e01-b991-9d0ec4c05076/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp",
-      "publishedDateTime": "2021-06-13T13:00:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-14-media-fawning-over-joe-biden-for-return-to-normalcy-are-missing-destabilizing-effects-ben-domenech.md",
       "title": "Media fawning over Joe Biden for ‘return to normalcy’ are missing 'destabilizing effects': Ben Domenech",
       "excerpt": "The mainstream media has spotlighted President Biden for replacing Trump, The Federalist founder Ben Domenech argued on \"Media Buzz.\"",
@@ -1645,6 +1589,62 @@
       "topics": [
         "Election",
         "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-gop-reps-say-biden-admin-downplaying-border-crisis-only-empowers-bad-actors.md",
+      "title": "GOP reps say Biden admin downplaying border crisis only 'empowers bad actors'",
+      "excerpt": "Republican members of the House of Representatives blasted the Biden administration for downplaying the crisis at the southern border, saying the decision \"empowers bad actors.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alL88IQEJm4/gop-biden-border-crisis-empowers-bad-actors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alL88IQEJm4/gop-biden-border-crisis-empowers-bad-actors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a4c2abd-87f5-4752-be3f-94e17533012e/8087ecda-dc5d-4e4e-8af2-933f901d4dc5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-biden-border-crisis-empowers-bad-actors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-biden-border-crisis-empowers-bad-actors.amp",
+      "publishedDateTime": "2021-06-08T14:58:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

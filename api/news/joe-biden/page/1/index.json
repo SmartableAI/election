@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-12-for-biden-and-senators-a-sense-that-world-was-watching.md",
+      "title": "For Biden and senators, a sense that 'world was watching'",
+      "excerpt": "Biden recalled infrastructure as “probably the least difficult thing to do” when he was a senator — became an exercise in showing how damaged the legislative process has become in partisan Washington and how a president and core group of senators were determined to try to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctpost.com/business/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "originalUrl": "https://www.ctpost.com/business/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ctpost.com/business/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/business/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "publishedDateTime": "2021-08-11T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Connecticut Post",
+        "domain": "ctpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-biden-1-trillion-infrastructure-bill-will-transform-america.md",
       "title": "Biden: $1 trillion infrastructure bill ‘will transform America’",
       "excerpt": "President Joe Biden called the $1 trillion infrastructure bill “historic” and said that it will “transform America.” The bill will make a huge investment in nation’s roads, public transit, water and broadband.",
@@ -654,63 +697,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-tara-reade-fires-back-after-jen-psaki-claims-biden-allegations-were-heavily-litigated-during-election.md",
-      "title": "Tara Reade fires back after Jen Psaki claims Biden allegations were 'heavily litigated' during election",
-      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at White House Press Secretary Jen Psaki claimed that the allegations made against the president were “heavily litigated” during the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "originalUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217a58f3-a01e-4ac1-8f6d-dec17ec267fb/fce8c9ce-aef7-41f3-adbb-2a597c5e53dc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "publishedDateTime": "2021-08-04T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {

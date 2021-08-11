@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-12-for-biden-and-senators-a-sense-that-world-was-watching.md",
+      "title": "For Biden and senators, a sense that 'world was watching'",
+      "excerpt": "Biden recalled infrastructure as “probably the least difficult thing to do” when he was a senator — became an exercise in showing how damaged the legislative process has become in partisan Washington and how a president and core group of senators were determined to try to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctpost.com/business/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "originalUrl": "https://www.ctpost.com/business/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ctpost.com/business/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/business/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "publishedDateTime": "2021-08-11T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Connecticut Post",
+        "domain": "ctpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-psaki-grilled-on-whether-biden-created-vaccine-hesitancy-with-2020-comments-slamming-trump.md",
+      "title": "Psaki grilled on whether Biden created vaccine hesitancy with 2020 comments slamming Trump",
+      "excerpt": "White House press secretary Jen Psaki was grilled on whether or not President Biden encouraged vaccine hesitancy with comments he made last year cautioning he did not “trust” former President Donald Trump",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSjUmFvLMBw/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp",
+      "publishedDateTime": "2021-08-11T11:15:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-biden-struggles-to-find-a-permanent-fda-chief-as-agency-nears-approval-of-covid-19-vaccine.md",
       "title": "Biden struggles to find a permanent FDA chief as agency nears approval of Covid-19 vaccine",
       "excerpt": "The US Food and Drug Administration is on the cusp of approving the nation's first Covid-19 vaccine without a permanent leader at the helm, and a nomination doesn't appear to be in sight.\n    \n",
@@ -552,63 +651,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism.md",
-      "title": "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism",
-      "excerpt": "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
-      "originalUrl": "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-383642/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
-      "publishedDateTime": "2021-08-11T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1284,49 +1326,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-trump-cant-say-hasta-la-vista-to-celebrity-apprentice.md",
-      "title": "Trump can’t say ‘Hasta la vista’ to ‘Celebrity Apprentice’",
-      "excerpt": "President Donald Trump can't seem to bring himself to say \"Hasta la vista, baby\" to \"Celebrity Apprentice.\" Twice in the past month, Trump, who once hosted the NBC reality TV show, has taken pot shots at the current host,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
-      "originalUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/media:a7dd2932954c4bd5a98a8a1fcccfe5cb/3000.jpeg",
-          "width": 3000,
-          "height": 1994,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "US democracy faces a momentous threat, says Joe Biden – but is he up for the fight?"
-excerpt: "The president’s speech in Philadelphia decried Republicans’ assault on voting rights but critics say it offered few answers, especially on Senate rules that let the minority to block reform"
-publishedDateTime: 2021-07-17T11:52:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
-webUrl: "https://www.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
+title: "Senate OKs Dems’ $3.5T budget in latest win for Joe Biden"
+excerpt: "Democrats pushed a $3.5 trillion framework for bolstering family services, health and environment programs through the Senate early Wednesday, advancing President Joe Biden’s ex"
+publishedDateTime: 2021-08-11T10:52:00Z
+originalUrl: "https://floridapolitics.com/archives/447520-senate-oks-dems-3-5t-budget-in-latest-win-for-joe-biden/"
+webUrl: "https://floridapolitics.com/archives/447520-senate-oks-dems-3-5t-budget-in-latest-win-for-joe-biden/"
 type: article
-quality: 119
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Florida Politics
+  domain: floridapolitics.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/5842ee7cfa56347a9cdf4a5b9c2305c5f4cd5ff3/0_50_5702_3423/master/5702.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e3aa1af003f53c344217e2c42ffe4552"
-    width: 600
-    height: 360
+  - url: "https://floridapolitics.com/wp-content/uploads/2021/08/1000-54.jpeg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -92,6 +86,22 @@ related:
     quality: 120
     images:
       - url: "https://i.guim.co.uk/img/media/1d11e17be4bb6a0ef9dcc201039dd764d82158db/0_234_6999_4199/master/6999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52cc80174ae54a594325e76480459b4f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "US democracy faces a momentous threat, says Joe Biden – but is he up for the fight?"
+    excerpt: "The president’s speech in Philadelphia decried Republicans’ assault on voting rights but critics say it offered few answers, especially on Senate rules that let the minority to block reform"
+    publishedDateTime: 2021-07-17T11:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/17/joe-biden-democracy-voting-rights-senate-filibuster"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/5842ee7cfa56347a9cdf4a5b9c2305c5f4cd5ff3/0_50_5702_3423/master/5702.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e3aa1af003f53c344217e2c42ffe4552"
         width: 600
         height: 360
         isCached: true
@@ -173,20 +183,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Senate OKs Dems’ $3.5T budget in latest win for Joe Biden"
-    excerpt: "Democrats pushed a $3.5 trillion framework for bolstering family services, health and environment programs through the Senate early Wednesday, advancing President Joe Biden’s ex"
-    publishedDateTime: 2021-08-11T10:52:00Z
-    webUrl: "https://floridapolitics.com/archives/447520-senate-oks-dems-3-5t-budget-in-latest-win-for-joe-biden/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/1000-54.jpeg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Senate OKs Dems’ $3.5T budget in latest win for Biden"
     excerpt: "Senators approved Democrats' budget resolution on a party-line 50-49 vote, a crucial step for a president and party set on training the government's fiscal might on assisting families, creating jobs and fighting climate change."
     publishedDateTime: 2021-08-11T13:32:00Z
@@ -197,6 +193,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "gRD3Bz9VaIbnDDSyvo8EmovRe2bLsvXBN5XL+tsrEJIDc0+OCF3zFoOfPPJwIjONOS0tGlLzZzE5PeR38JcKgR2hAw7jtKodSPP5/2YvK+qKOY16jwqmNTCQ5gBCoRewP60cPnmbawH7p7La4OPpDKhdV7xvWJuHlbpGki34xM4UArfs3QloxLX5tIl+6l9VtZbDmaMNzT+4QOTMxBwd4zzd5AaR/ZIRkuO8YsdJsoxSpLW5XHfbj05Xm152uuPT/Lt2FW2SVV23h7lSlDvTZ68+0XQclUed9I5o6QqB8eK+z8VOhTsEU1uL+DJxxInRpkzIiSF8GdngBamRJdiA5pQFWKMCmHc8a2kQ2NnX1ngHo2IEe9Of5RLiT4ESibkpMt2wkIQWTzCvYiLlGkWGibX98gQjPEgnVklhnOLWoAZ25T2Me38Ifnq7wKdn30fA2+9riQNnjfT6xdHwhzYq039grNLGbF9hnFqIsks35bmJYzEScu4eJoGnhbhimCll/lP89SuPxFciUgfZlOxDTQ==;aHEYfhLbdtj70c0DAb5j7Q=="
+secured: "9vnBT00hNNT44I7kUbcC5xxqURj2ioWWfvHh/FVtGPwTooWfMpfa3Uydru+3Bt0dhsWlXHz5hJlrMOxIa7T4FJ0S2v8k6OL+bYbes1XqHQwZotv/aabHeU9ETUBDTVW7RF+M9ZLXsKFDe1w/v1p3u8JseSNJOOwT3Bpc6iY/MJvPhgAYwL90DHYcTFJeAaJ2OJZjAS4Lg3RC2owQUModQahcSgmz/4trAm8Z7xYHjgiCVROJzpibA2IyB5NfcKJaSJYLNGRMK3nVxdpY3J4hBYYFcr5Fhj7bp+bHkJZlPx6lFgLtKj3vHQUNkPp32k0Gm1wLTZDrXDwcGDK63rys3MYpziRs4KlZ29fhiyZZtp4=;5D0KOK/zKuELpkatVuyV5A=="
 ---
 

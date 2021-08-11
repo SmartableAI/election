@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Biden prepares plan requiring foreign travelers to be vaccinated amid border crisis"
-excerpt: "The Biden administration is currently working on a plan to require foreign nationals traveling into the U.S. to be vaccinated against the coronavirus except for some \"limited exceptions.”"
-publishedDateTime: 2021-08-05T15:26:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
-ampWebUrl: "https://www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+title: "Psaki ‘not aware of plans’ for Joe Biden to attend Hunter’s pricey art show"
+excerpt: "The first son is asking as much as $500,000 for his paintings from anonymous buyers, which ethics experts say are inflated prices based on his dad’s official position."
+publishedDateTime: 2021-08-11T19:43:00Z
+originalUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/"
+webUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/"
+ampWebUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
 type: article
-quality: 169
+quality: 133
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/hunter-biden-art-show-hp.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -60,6 +57,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/194cfd99-d8dd-4036-81fc-e39671e8b9ad/617f57d9-b89d-4869-86d6-d3bf28cf1184/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden prepares plan requiring foreign travelers to be vaccinated amid border crisis"
+    excerpt: "The Biden administration is currently working on a plan to require foreign nationals traveling into the U.S. to be vaccinated against the coronavirus except for some \"limited exceptions.”"
+    publishedDateTime: 2021-08-05T15:26:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTJI0t9C_q0/biden-admin-plan-foreign-travelers-vaccinated-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-plan-foreign-travelers-vaccinated-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -143,22 +156,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Psaki ‘not aware of plans’ for Joe Biden to attend Hunter’s pricey art show"
-    excerpt: "The first son is asking as much as $500,000 for his paintings from anonymous buyers, which ethics experts say are inflated prices based on his dad’s official position."
-    publishedDateTime: 2021-08-11T19:43:00Z
-    webUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/"
-    ampWebUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/hunter-biden-art-show-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "6 Things Biden Could Do About Covid If He Is Serious"
     excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
     publishedDateTime: 2021-08-08T19:31:00Z
@@ -169,6 +166,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "fMEQjN2RY7FF+BpldGm+uB+byQQYXXP701YuerkEdbOHs/I1E0DkRjExZR6VhBCFkX6t+oA10ZjL4/DzX1O4JbMnusowxq0RLklOXwJIzQDBKvfRw51sN4fmC1S4BtvjUMkT8b8VdMqcJK0TQHgEwX2wftjLSagePl7OpvjjsS8kuTm6nWiF/tkbPFHUfUOKFF9W/lpTD687gtBw4qan4P8nNKfLD1dbVbjjONycxXUANI+sIZ9MdXYU3gjKRspQJxnT4O0ehKJEPXsN8yvl7jBHu7u4o6h6EUNmGnbgblWNb9aRy5/DFLPGibLWngLNYVpg0aqKeDVMDc4h0Bw238bLt8owsV71SKM0o6dogE4=;hWR+8QAKStbUbHm1mUOlCA=="
+secured: "LxSkbqIDpzJo5z/FOc5v9YFGdO6Q8Iw8sV+QqE7VjA3MWsmXGVHVaqscj1fZGDbQV+3PXe7NJ7D8rfSNouRMyroNryYc3p45oNgXxGP686zM0m5eiRbLUtoioK3iU23xRYHOjuuVE9hPieSeKqeH8qp/I2WK1tirLh7UmGN7qI2Y1973o1eNdwcx2LGog68S8B+0N+dj84ERD4+z2dIuXNVO+58DZXxfyq59asDwU06u00HVfz/U2RyK9G3ZQ0zesO8fZ6rBF6e+tn5Vn63fWOAvacSnarWA1VrTN+fI/Vsnj6NOrNy19+5ySKgK9EOIweQF1vky/Oj2hTDVnIboqOlwnIYp0Dta/DRMObhdI3k=;v3vnnIGo1aoZKpF/03FnwQ=="
 ---
 

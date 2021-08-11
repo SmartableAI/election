@@ -127,22 +127,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Psaki grilled on Cuomo, Biden sexual harassment allegations, says claims against president already ‘litigated’"
-    excerpt: "White House press secretary Jen Psaki fended off questions about sexual misconduct allegations leveled against President Biden Wednesday following the commander-in-chief’s decision to call on embattled New York Gov. Andrew Cuomo to resign following a harassment probe."
-    publishedDateTime: 2021-08-04T23:34:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o8HBXmciIzY/psaki-cuomo-biden-sexual-harassment"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-cuomo-biden-sexual-harassment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21216625636317-e1628113969608.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "SzsIVZwGmFH8zaSPKLxM+H331zR+5cGZkIgKExgzMNVqXBCKT2LjlIRdsJHtxbA/GD1Mcx7qB97ym3mFD7LgenPcoxvT+feDiucTqW2/RAbiq/4mW8nem/u/Y5rs4PPCIT3DvCml8KawGre0cWW52RCIksuPbeX3qYOaoGmR+DnfF4nfu4fsPI0MI6Wmd9iFWZH+34iqE55XWZc8oO4PiRhbdfg7ASA5MTY74J/B5QCjAKDo9n5N6Q5Tn3RjPvZWcMDB+AX0PihnMcKGRVIm06fJ757F82b/FIpijizBAmyEoGq3JDzb4KnDgT7KGQR3vRXpC3avQMCCon9z5s5XT8uWrPli1RUG4DTz8VmUaCQ=;bCkUykqbTMOamhc1IfbI3w=="
 ---

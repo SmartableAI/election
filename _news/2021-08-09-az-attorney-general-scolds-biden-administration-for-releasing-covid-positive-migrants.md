@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/az-attorney-general-scolds-biden-ad
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp"
 type: article
 quality: 168
-heat: 188
+heat: 168
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "6 Things Biden Could Do About Covid If He Is Serious"
-    excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
-    publishedDateTime: 2021-08-08T19:31:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/08/6_things_biden_could_do_about_covid_if_he_is_serious_548998.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "TnHrQnXqB45OJV4KH0fFwL+2BhrxP5hx289ARdw0f+tXDVK2qb4nHSY9ZK6frunXzrqK9E5rz745A8lz42CsWoK2wkX2N1Z8RTWk1OiOJGg9YD3FF+9MuKigKf0i4KlK5fxR3r1clMemNkGOT8j+mtoIZrijl/rW02voRokj8gBWAXldYT/NKey4rLxKKXG/kblpFJksDCgx+zfM1Y5P2tVdfUE1AnXia3peG5iwrGPfotXbnh1Cwrrbp56jNzAJx/xssxlxlSwqMj3nLQugjOs+u+AyQmHMK7GxSCzAZIfYBRznTdGI//72kS0IJjhxJ+N00It20HdtQcRAexTzQu7dCI72xZeN9RUIDGy7+4E=;1Xz0Krti5KKlugZczWq1/A=="
 ---
