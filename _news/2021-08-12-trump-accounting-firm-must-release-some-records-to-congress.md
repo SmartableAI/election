@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
+    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
+    publishedDateTime: 2021-08-11T20:25:00Z
+    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
 
 secured: "nXhGzf99aZSBHPg0pAfsmcRbKbR1dEScpRUxSlezhga2Okxw4G0T2G7G0lAYuYlLHq7OqCqTScTxdpWHJOg0gjEKirLdVy0kuMOI4IwD07RPUGckJ2m+Oc1nbI43fgDsgGfsC/2bggRe2hOJNboDlDEcwfjc421tklEP8fN3qrQuGqKZghyqANsuH1YrPxRY7qF2TpitnSdkSn6hZENKPZ0umy44tgYDx0asRqOUoNljfj7DTbheYyrvYYWVV56pv1tZyoH6L/zca4v5Cdp/pbWjHZRVnpwXDlOV8jdzu25ShusdF5+dlB7BnAwIC3pCPqEPEjSjuGx2nfqvYpoZuGAm5CNDARufLjJaLIoUlXM=;7AwoGa1iQX2ZHY0ZdzCYlg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playb
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Trump's latest con victims are his own political donors"
+    excerpt: "In what should qualify as the least surprising story of the year, it turns out former President Donald Trump is lying to his own political donors about what he’s using their money for. The ex-president has raised tens of millions of dollars toward the stated goals of challenging the last election and helping Republicans win in the coming midterms."
+    publishedDateTime: 2021-08-11T21:10:00Z
+    webUrl: "https://www.theday.com/article/20210811/OP01/210819872"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
         isCached: true
 
 secured: "f+ZSbh8l0kOFAAY4ONYtRT2NgnEM24LbcoS5oQGXhD24FH5dii555DkFP2TY7rk8TuLpgO/A/RLgEu6AF/vejA/zsCcMBi4EK3lYqzgjzMxicHFz2TyW7q/QPGfpQlc7yX053CCCXnk+QNUPXFsKRCQyZE+mg+Uj9yqq33vLvXigctUSm/C9y2HqspN9u4hgFfygtR/C0Klbn5mUvraMNsDHTAbuz3fHYcqN/1mQpWJGmWsZlzwApZXMMjAcaLYXkKP+8ovqR3lhX0f0XNjdPCzPDtDkpJEKv/rIc6dDH4Gybc3dUJqn+8qZ0d4/h4WsE46sN22/Faf+E0fDrmIZsLk5IxB5Jbvj8qObCX4vx51yHFDrjlqGHqyxuj7VyVmvdBcfZ5hokeBA/f89/03WslgPN4yLMX+iMuQcVrOGEqK4ZDeuZ7vGJsIpVblXOjrujwjIL3o0pMibMw25DYvtaoXcH/HD+xzEzZgYQwvW6eOKxdhxgLfq2QiimQ5pLZ8zzZRx12bLiAz1E5PS+NL14Q==;o5e4QFdFl6MCuROEHytXVA=="

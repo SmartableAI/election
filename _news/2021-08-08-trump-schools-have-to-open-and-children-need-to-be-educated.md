@@ -32,35 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Lawyers Ask Judge to Block Release of Tax Returns"
-    excerpt: "The former president’s attorneys argue the congressional request is rooted solely in the desire for political gain."
-    publishedDateTime: 2021-08-04T13:24:00Z
-    webUrl: "https://www.wsj.com/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-ask-judge-to-block-release-of-tax-returns-11628087049"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-380104/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Donald Trump is still the leader of Republican Party, RNC chair says"
-    excerpt: "Former President Donald Trump is still calling the shots for the GOP, as is evident by his more than $100 million war chest, a party honcho said Sunday."
-    publishedDateTime: 2021-08-08T16:54:00Z
-    webUrl: "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/"
-    ampWebUrl: "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/"
+  - title: "Donald Trump: 100M people might have died without Operation Warp Speed"
+    excerpt: "I think if we didn’t come up during the Trump administration with the vaccine, you could have 100 million people dead, just like you had in 1917,” Trump said in an interview on"
+    publishedDateTime: 2021-08-08T12:23:00Z
+    webUrl: "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/"
+    ampWebUrl: "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-rally-053.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-002.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

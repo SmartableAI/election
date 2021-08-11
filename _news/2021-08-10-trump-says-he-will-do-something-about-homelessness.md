@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/donald-trump-geoffrey-palmer-california
 webUrl: "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536"
 type: article
 quality: 105
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -71,6 +71,17 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
+    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
+    publishedDateTime: 2021-08-11T20:25:00Z
+    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
 
 secured: "Zqn6ib3b0Nert0av5PO4vPsJ0wRmmxE1yWlfq9bTww/wyRtT8nuuxTiFRHNvAWWKvjTNL82ZI7Sivz0cvoo2tv0gXvqq3VzCmxI0iMaz/EXDJ5pFpwkaMv9C0R9xE3M/R32Z4VG+FxLftsiVAppgNZVkmjflrSpwW78KJpqmLzyMxTwZA6WEtEjjoD4f5OTEZv1V1s3aSQcFi0LxWmGvpZSEPRGREBDFwXs+/vW8r4CqxBy0yQGXGfDcgLQKVkTfpthr0SWYD0C+zGw9/3SalETPFKAINYCU3EgXt7HHS4AH2aqo8xEzHpwCpzOLpUpopOnAmEAKx2HMCV5w7zGDasDnGCeQnbbyrcMXYh8fSws=;sYtaitkFQ9dw6ycGXZ7scA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
 type: article
 quality: 135
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "House Can Have Access to Some of Donald Trump's Financial Records, Judge Rules"
+    excerpt: "U.S. District Judge Amit Mehta's ruling cited separation of power concerns, but the House was entitled to some financial records from 2017 and 2018."
+    publishedDateTime: 2021-08-11T21:04:00Z
+    webUrl: "https://www.newsweek.com/house-can-have-access-some-donald-trumps-financial-records-judge-rules-1618537"
+    ampWebUrl: "https://www.newsweek.com/house-can-have-access-some-donald-trumps-financial-records-judge-rules-1618537?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/house-can-have-access-some-donald-trumps-financial-records-judge-rules-1618537?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1868895/tax-return-form.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"

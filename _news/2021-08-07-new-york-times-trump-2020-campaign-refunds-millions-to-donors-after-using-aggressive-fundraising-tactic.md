@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/trump-refunds-millions-2
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html"
 type: article
 quality: 158
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Scottish Group Seeks Source of Trump’s Funds for Golf Courses"
+    excerpt: "The Trump Company invested hundreds of millions in the properties during a time when the former president was reporting heavy losses on his income tax returns."
+    publishedDateTime: 2021-08-11T21:03:00Z
+    webUrl: "https://www.nytimes.com/2021/08/11/world/europe/scotland-trump-turnberry.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/11/world/europe/scotland-trump-turnberry.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/11/world/europe/scotland-trump-turnberry.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/11/world/11uk-trump/11uk-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "AwbC5cqHM8LVgzSiyPUOZdY5/PUYtIssNDVO4ydzVz+W2i0ptLPM+ur9hIRdk6gaUpL81rc5uh8qwz8iLfidEYZMOPwzVWP69kmuUZRSe5J3440PlEAkz5w35k9osHFxR0gzYGbfUHNAt0jBxbE4/AHknYh3P6rEca7/6jv07TsAKBeglfmglyEICs6x8rpXKBpH5saTEPaP5nsIy2HhsPmpTFZMHXQjg2ZV397qZRv75fB5cAdFvoKkncwiDYbcmp742qtQqbSkezjObWN3eLjG+iOxfJn0MdvkjwU8Qvc3ujWZxnk/rYmFZgMHkqScOHpNbMlK+zPbHbKDTq0AMyPVbZiKSttmCtuF5SkcPlk=;qHl0Tg7LhsrobYEIa3hcEA=="
 ---

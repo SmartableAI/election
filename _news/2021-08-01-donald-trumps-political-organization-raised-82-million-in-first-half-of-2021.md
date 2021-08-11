@@ -111,6 +111,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Former U.S. attorney in Atlanta says Trump wanted him to back election fraud claims."
+    excerpt: "Byung J. Pak, who resigned abruptly on Jan. 4, told senators on Wednesday that he had done so after learning that the president planned to fire him."
+    publishedDateTime: 2021-08-11T20:55:00Z
+    webUrl: "https://www.nytimes.com/2021/08/11/us/politics/byung-pak-trump-atlanta-election-fraud.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/11/us/politics/byung-pak-trump-atlanta-election-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/11/us/politics/byung-pak-trump-atlanta-election-fraud.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 143
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/11/us/politics/11political-briefing-pak/11political-briefing-pak-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1686
+        isCached: true
 
 secured: "C6bkTfEld8fDa+NDCs0KWKFOGEd+yvxB6hAxqKbSMzBKrEGtqIFfExhEHsrXgVg596kwkZkfI4oBkDM1aGd0cq0nbka2Wr8zadD7+Pajgn9xDH6dmtxvmgmzqOMGx6mOEjEPRuzvQXphHRyMOH+8btxE44hUe+zb+BBQPj7n+PNC2o1q6RGSJu91mypxCYgcTxYjvIiM4knck33K04Dk7ioXCgRmhxVwr8MQWChzo+0gaVwpRCdnUGBCfyNJXX8Rk9VKMLbROvMea72v9yf6xC1KYizAw2hu9WrCLvVBhc0itxRHYGnp9a/hLYm7HQ2POtjGmJDFKnMsSUN/NTQXgA61EkSM5tEfnkEqh3KBoIw=;8Bhon2DEsMnJ31X4FZSMhA=="
 ---
