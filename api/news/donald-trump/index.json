@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-11-mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism.md",
+      "title": "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism",
+      "excerpt": "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
+      "originalUrl": "https://www.wsj.com/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-383642/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mcconnell-credits-biden-for-infrastructure-breakthrough-dismisses-trump-criticism-11628672401",
+      "publishedDateTime": "2021-08-11T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-trump-was-in-pain-and-afraid-after-bout-with-covid-19-new-book-says.md",
       "title": "Trump Was 'In Pain' And 'Afraid' After Bout With COVID-19, New Book Says",
       "excerpt": "Former President Donald Trump was “afraid” and “in pain” while he was receiving treatment for a severe COVID-19 infection, his niece Mary Trump has claimed in a new book. In Mary Trump’s upcoming book “ The Reckoning: Our Nation's Trauma and Finding a Way to Heal ,",
@@ -1457,63 +1514,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-cnns-brian-stelter-compares-donald-trump-supporters-to-jonestown-cult-members.md",
-      "title": "CNN's Brian Stelter compares Donald Trump supporters to Jonestown cult members",
-      "excerpt": "CNN anchor Brian Stelter used his Sunday show \"Reliable Sources\" to feature a segment comparing Donald Trump supporters to Jonestown cult members. Stelter spoke with Rep. Jackie Speier, D-Calif., to help explain the similarities between Trump supporters and Jonestown cultists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult",
-      "originalUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33702a68-88a4-4cc6-9da8-7375bb1e813d/d32ddc55-20b0-4c79-80d2-5645d00de2e6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp",
-      "publishedDateTime": "2021-08-01T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

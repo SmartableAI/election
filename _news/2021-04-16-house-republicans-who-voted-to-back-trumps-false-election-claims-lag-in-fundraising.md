@@ -1171,6 +1171,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "This woman could put Trump in jail"
+    excerpt: "Fulton County District Attorney Fani Willis spoke openly with reporters on her investigation into Trump. She doesn't so much anymore."
+    publishedDateTime: 2021-08-11T08:00:00Z
+    webUrl: "https://www.businessinsider.com/fani-willis-trump-georgia-investigation-phone-call-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/61130283ad63f300195016ac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump expected to affirm commitment to GOP, raise possibility of other Republican nominee in 2024 at closed-door speech"
     excerpt: "PALM BEACH, FLA. — Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee — in a closed-door speech to donors Saturday night."
     publishedDateTime: 2021-04-10T21:31:00Z

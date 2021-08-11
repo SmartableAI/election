@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2389
+heat: 2409
 published: true
 
 provider:
@@ -1161,6 +1161,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C5ZNCRE6BQI6XMXVPUXQDATVBU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "This woman could put Trump in jail"
+    excerpt: "Fulton County District Attorney Fani Willis spoke openly with reporters on her investigation into Trump. She doesn't so much anymore."
+    publishedDateTime: 2021-08-11T08:00:00Z
+    webUrl: "https://www.businessinsider.com/fani-willis-trump-georgia-investigation-phone-call-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/61130283ad63f300195016ac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump expected to affirm commitment to GOP, raise possibility of other Republican nominee in 2024 at closed-door speech"
     excerpt: "PALM BEACH, FLA. — Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee — in a closed-door speech to donors Saturday night."

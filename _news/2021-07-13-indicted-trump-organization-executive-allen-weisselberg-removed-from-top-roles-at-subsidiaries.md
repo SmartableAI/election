@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Federal prosecutors came to suspect Trump Org CFO Allen Weisselberg lied"
+    excerpt: "New York federal prosecutors came to suspect the Trump Organization's chief financial officer, Allen Weisselberg, lied in testimony during their investigation of former Trump personal attorney Michael Cohen three years ago, according to four people familiar with prosecutors' thinking.\n    \n"
+    publishedDateTime: 2021-08-11T10:18:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VqvsG_cStZ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701151604-weisselberg-leaves-court-0701-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How the Manhattan DA could pressure Allen Weisselberg to cooperate against Donald Trump  "
     excerpt: "A Mercedes-Benz for his wife, an apartment for his son and school tuition for his grandchildren.\n    \n"
     publishedDateTime: 2021-07-09T23:01:07Z

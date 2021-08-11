@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -159,6 +159,17 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Senate OKs Dems’ $3.5T budget in latest win for Biden"
+    excerpt: "Democrats have pushed a $3.5 trillion framework for bolstering family services, health, and environment programs through the Senate."
+    publishedDateTime: 2021-08-11T09:55:00Z
+    webUrl: "https://www.miamiherald.com/news/article253410570.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/article253410570.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article253410570.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 55
 
 secured: "womCJc4P6B8wDvsRMynVv6Shgu5e86l8X2IdlgiGZx4+lI2XHGhQF1kG7Ig7SYlCp+gvC2QzUoX5qgoVYOFK8968gG/tiKVXVq3+D7eBrbawYJPvkZv/frp68nUmKpJkGsmpRXvynOIVIYYjCFsSaJBZTZRrzx5c+GOWTMs9GoxHh3eLlon9QZI8KTJkJskv3ap3/AMFsBbzDgXdQw1EXaeALI/ujCHM+bceBDISH1gcHkIiZ7JHCEhn2bsAXpaN6rmcIqVYZ4wCFwHnyod+nptU0d1ZhwKT+/1FcpbmmGEKmzufZIDFe/q67ZMK3EwrVU8t3b0UQz/u/Ne5uxftSmelDTXYJM7FGKhE+K6MD4+NNRN9Yt8DYqldVRnNi5vZ945YkbXntPrexdI9rJ5BYMdrzMH10XSL+gjW5xNybTX2SzC0IFx3cYJv9VFYrrgBPXxabNMqN8qzO12J0b10ajKg/BQLWlqXk3wyv6oGkR27uiKohnecNDWG0n1imU8N8bhdIHC/tbckxZS4tDKxmg==;rcKH5WeX4pwq86PplSNuEQ=="
 ---

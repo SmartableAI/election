@@ -2,6 +2,119 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-donald-trump-and-kevin-mccarthy-to-meet-on-thursday-as-16-committee-hearing-looms.md",
+      "title": "Donald Trump and Kevin McCarthy to meet on Thursday as 1/6 committee hearing looms",
+      "excerpt": "House GOP Leader Kevin McCarthy is expected to meet with former President Donald Trump on Thursday, Trump announced in a statement, coming as the California Republican is considering which members of his conference to appoint to a special committee tasked with investigating the deadly January 6 riot",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512104940-kevin-mccarthy-2020-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
+      "publishedDateTime": "2021-07-15T06:36:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls.md",
+      "title": "Poll: Without Trump in the race, DeSantis dominates 2024 GOP White House hopefuls",
+      "excerpt": "Donald Trump remains the king of the GOP. Florida Gov. Ron DeSantis is looking like the crown prince. For months, DeSantis’ stature has been expanding within the party, marked by growing buzz among grassroots activists and GOP consultants who admire the pugilistic style of politics he wields against progressives and the media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/07/15/poll-without-trump-in-the-race-desantis-dominates-2024-gop-white-house-hopefuls-1388365",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/aa/ab/9503fd984efb9e26be00ba54c31e/ap21148637808493-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-theyre-not-going-to-fking-succeed-top-generals-feared-trump-would-attempt-a-coup-after-election-according-to-new-book.md",
       "title": "'They're not going to f**king succeed': Top generals feared Trump would attempt a coup after election, according to new book",
       "excerpt": "The top US military officer, Chairman of the Joint Chiefs Gen. Mark Milley, was so shaken that then-President Donald Trump and his allies might attempt a coup or take other dangerous or illegal measures after the November election that Milley and other top officials informally planned for different ways",
@@ -1016,62 +1129,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-09-how-the-manhattan-da-could-pressure-allen-weisselberg-to-cooperate-against-donald-trump.md",
-      "title": "How the Manhattan DA could pressure Allen Weisselberg to cooperate against Donald Trump  ",
-      "excerpt": "A Mercedes-Benz for his wife, an apartment for his son and school tuition for his grandchildren.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YhcdAg6rLqg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YhcdAg6rLqg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709152352-02-allen-weisselberg-court-0701-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html",
-      "publishedDateTime": "2021-07-09T16:01:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-09-fact-check-trumps-nonsensical-op-ed-on-his-lawsuit-against-social-media-companies.md",
       "title": "Fact check: Trump's nonsensical op-ed on his lawsuit against social media companies",
       "excerpt": "He keeps saying it. It's still wrong.\n    \n",
@@ -1631,62 +1688,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-lobsters-cruises-and-scotch-one-cabinet-secretarys-push-to-sell-bidens-agenda.md",
-      "title": "Lobsters, cruises and scotch: One Cabinet secretary's push to sell Biden's agenda",
-      "excerpt": "Commerce Secretary Gina Raimondo won't hesitate to make the hard ask. She wants to make that clear.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rVqWTu4nCuE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rVqWTu4nCuE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200729235647-03-gina-raimondo-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/politics/gina-raimondo-infrastructure-push/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/gina-raimondo-infrastructure-push/index.html",
-      "publishedDateTime": "2021-07-07T16:35:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }
