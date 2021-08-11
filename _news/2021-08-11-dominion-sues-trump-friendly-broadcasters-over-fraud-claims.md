@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Dominion sues Trump-friendly broadcasters over fraud claims"
-excerpt: "Vote-counting machine maker Dominion Voting Systems filed defamation lawsuits Tuesday against right-wing broadcasters and a prominent"
-publishedDateTime: 2021-08-10T20:26:00Z
-originalUrl: "https://mynorthwest.com/3079867/dominion-sues-trump-friendly-broadcasters-over-fraud-claims/"
-webUrl: "https://mynorthwest.com/3079867/dominion-sues-trump-friendly-broadcasters-over-fraud-claims/"
-ampWebUrl: "https://mynorthwest.com/3079867/dominion-sues-trump-friendly-broadcasters-over-fraud-claims/amp/"
-cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3079867/dominion-sues-trump-friendly-broadcasters-over-fraud-claims/amp/"
+excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election wa"
+publishedDateTime: 2021-08-10T22:19:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/dominion-sues-trump-friendly-broadcasters-fraud-claims-79389955"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: MyNorthwest.com
-  domain: mynorthwest.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://mynorthwest.com/wp-content/uploads/2021/08/ap_357c21d0ff7349e8b17ccf46ae6c13bb.jpg"
-    width: 1280
-    height: 870
+  - url: "https://s.abcnews.com/images/Politics/WireAP_357c21d0ff7349e8b17ccf46ae6c13bb_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1190,6 +1194,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "CArP/vWYk+4cG5+7CIKcNnWPKa2DBGoKDUEllu5HCrZMMN09dQ9Q37EiFRKoWw/f9pxsG1ccsxkHQBf7zEXVZprHQjEoExbxDTew7Uv2UG2sWtFnCE5ir90PK6gA+gDeDnIYHPdpCVb1dYF0Ja91eUxPgjPEN2Gr/16qKgjkW5tA3MbrO4FD7jR44M0QiGcvmdZUyRU65xTO8sBmZdDIvyqMvmkG01o5zxPRBQA4y94Derz9r1DT6BEbp7FhMMMidH4kWD9sa2N/DDk58YgnrddMUVHjbNuxyZy78kxexfBBylj6hmMqo44ICx+/FxrBB4SM61aKHgJP5//HjSQbzzEQnEJoPgNLvpCTSoI2G0U=;SwTOR7fL8C8niS/EHsXZNw=="
+secured: "dmbTxlTHAT3BmUos5OhCBtbpijm+YgIGRImTRDEHSzUlWZrg1TPs+w3dfs3GUVYHEBICgM16M2/yl+oIziO4UDuXqBp1yZ+rrV+2rOV5+GGzESTI0rwiPljvf8Ne1p4xzsAiSuvolVUpUY2OIuv+iAS3Ylkid0UkuuBk/3+WZlOTHhCchoFd0rxAa87MhBJXnUZSr8FZ0mS3nn1O1/xYNyMZqdP9zwdDLbcPC/Cgo0xOs1m+7ab28J0LL3s6YpgPoKHP3jcIRDM0xVEAutykQ70MvtTJwPbE9KdNJ2+gqHSisSFBF1+ujhjwjdtLC0qxQ7ID54WVJGPZxzLWVJPe4xmwfbr0TXpjzvjn9yJfPAc=;WqfB6QOzimC3VM+DNMS5/Q=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-11-msnbc-opinion-piece-argues-why-ron-desantis-is-more-dangerous-than-trump-ahead-of-2024.md",
+      "title": "MSNBC opinion piece argues 'Why Ron DeSantis is more dangerous than Trump' ahead of 2024",
+      "excerpt": "Conservative pundits have long predicted ahead of 2024 that members of the media would insist that Republican Florida Gov. Ron DeSantis would be a “worse” president than President Trump. Well, one MSNBC opinion piece is way ahead of schedule.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump.amp",
+      "publishedDateTime": "2021-08-10T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-times-up-co-founder-robbie-kaplan-sued-donald-trump-and-nazis-but-shes-also-helped-at-least-3-targets-of-sex-misconduct-claims.md",
       "title": "Time's Up co-founder Robbie Kaplan sued Donald Trump and Nazis. But she's also helped at least 3 targets of sex misconduct claims.",
       "excerpt": "Robbie Kaplan is well-known for her progressive legal work. But her work for clients accused of sexual misconduct cover-ups has reared its head.",
@@ -1440,49 +1497,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-kinzinger-mccarthy-and-jordan-should-face-6-january-subpoenas-but-maybe-not-trump.md",
-      "title": "Kinzinger: McCarthy and Jordan should face 6 January subpoenas – but maybe not Trump",
-      "excerpt": "Republican on select committee seeks Capitol attack answers but Collins toes GOP line in saying panel not sufficiently bipartisan",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
-      "publishedDateTime": "2021-08-01T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

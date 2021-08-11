@@ -63,21 +63,21 @@ related:
         width: 747
         height: 545
         isCached: true
-  - title: "Liz Cheney’s Trump vote prompts new Wyoming censure effort"
-    excerpt: "Some local Republican Party officials in Wyoming have announced they will no longer recognize Liz Cheney as a party member because of"
-    publishedDateTime: 2021-08-10T21:10:00Z
-    webUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/"
-    ampWebUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
+  - title: "Liz Cheney's Trump vote prompts new Wyoming censure effort"
+    excerpt: "Some local Republican Party officials in Wyoming have announced they will no longer recognize Liz Cheney as a party member because of her vote to impeach Donald Trump. “In the immortal words of the 45th President of the United States of America,"
+    publishedDateTime: 2021-08-10T23:18:00Z
+    webUrl: "https://www.timesunion.com/news/article/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
+      name: Times Union
+      domain: timesunion.com
     quality: 75
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
-        width: 452
-        height: 282
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Donald Trump Jr Reacts To Prince Harry Memoir Announcement, Gets Slammed On Twitter"
     excerpt: "Donald Trump Jr. seemingly threw shade at Prince Harry on Twitter following the announcement that the Duke of Sussex is publishing a memoir."

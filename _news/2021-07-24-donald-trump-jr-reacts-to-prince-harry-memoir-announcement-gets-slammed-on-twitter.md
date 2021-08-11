@@ -79,21 +79,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Liz Cheney’s Trump vote prompts new Wyoming censure effort"
-    excerpt: "Some local Republican Party officials in Wyoming have announced they will no longer recognize Liz Cheney as a party member because of"
-    publishedDateTime: 2021-08-10T21:10:00Z
-    webUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/"
-    ampWebUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
+  - title: "Liz Cheney's Trump vote prompts new Wyoming censure effort"
+    excerpt: "Some local Republican Party officials in Wyoming have announced they will no longer recognize Liz Cheney as a party member because of her vote to impeach Donald Trump. “In the immortal words of the 45th President of the United States of America,"
+    publishedDateTime: 2021-08-10T23:18:00Z
+    webUrl: "https://www.timesunion.com/news/article/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
+      name: Times Union
+      domain: timesunion.com
     quality: 75
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
-        width: 452
-        height: 282
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "NS4+9b0+BbDCtVNral2USryBn8WwbUOWQGfMeci1QZkBFY6jYteSkyVGndh0Lv+1donJCUJeBaufydr0eB6AZhX+pvVEZiOYtyGRUyr1+Uje3gij1djLPTy9OdmR7yEN04vAzGMhX/ye/OuLiwbqjWPkbDPzW1PqmnRFkmaZwFuH6zatSAXWFrf/dk+msW5tobKL6suJxSyt5+mn4g30uPe2ZwoBZxYFjxMbZZdEHdqMcgd48yESqWjPmsdUU/ncS0ybSFKB5TSUcGK8doIsFe9f7CCu2V/EReO5V5eLh4NcZMMyrM1havFCMxbERPU5JJNT4ytMZ7wlcuGIgdRXgmyUub0BCvnhLB/533AkrSC3M8niRbWWQiCrT1EUwoXzLDHgxj/11+Yy9Sjf7xVzm2dUQAPJOC/fUah+AmqltKsNznMzMwaC5TgrwXwi8FCwvtw+CJ0a+b0CdcVgcqBru3jPvFYN0TwJMFH0VYXMWwGjsJI0a7fi0vX2/Loqhf9FLuaYPXe4u/z5aOHIcHYJ1A==;FzxmffG7fHDp7MK/9O8ixA=="

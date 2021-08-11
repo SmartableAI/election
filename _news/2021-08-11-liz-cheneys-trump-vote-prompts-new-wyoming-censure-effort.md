@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Liz Cheney’s Trump vote prompts new Wyoming censure effort"
-excerpt: "Some local Republican Party officials in Wyoming have announced they will no longer recognize Liz Cheney as a party member because of"
-publishedDateTime: 2021-08-10T21:10:00Z
-originalUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/"
-webUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/"
-ampWebUrl: "https://mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
-cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3080021/liz-cheneys-trump-vote-prompts-new-wyoming-censure-effort/amp/"
+title: "Liz Cheney's Trump vote prompts new Wyoming censure effort"
+excerpt: "Some local Republican Party officials in Wyoming have announced they will no longer recognize Liz Cheney as a party member because of her vote to impeach Donald Trump. “In the immortal words of the 45th President of the United States of America,"
+publishedDateTime: 2021-08-10T23:18:00Z
+originalUrl: "https://www.timesunion.com/news/article/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
+webUrl: "https://www.timesunion.com/news/article/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Liz-Cheney-s-Trump-vote-prompts-new-Wyoming-16377419.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: MyNorthwest.com
-  domain: mynorthwest.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
-    width: 452
-    height: 282
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -92,6 +92,6 @@ related:
         height: 701
         isCached: true
 
-secured: "qMgmpzVobwDKzC4aHmvttdnxFPPKq/97909eUn5JqElDfDZf/BOePM8LMvRuAt1xQiUtlNrnTvoWaRGKQAI4rNXko5L3RlZRrRtbhquirjL5wMsZhcSvVaw9dp8Vy1Dyx8VOw2SQd8T5y/WkK5VyZhhGH3Ea767U0VT4kRI3T4DfqRVzueUj+F20rIAnN2DSVN63l+CER6TV93cg/DYoJNz6PAZ7S2tIuOU86poRPdmwdOaBEL9ZL3guUcSMODuFl1v/7eIsOgm7btGtQ/PXIGDBf2O5MBI6r8CZYZS3YuAFrIWbvpge0CmZwUQ4WAkKrJs3eAYoX6gOd0CPr7+E6jmtPgjGO+2jV/Uwhs77bmw=;QdkDK7Nnp5XLXCHC4ZXPvw=="
+secured: "DvpOm5nZUocTF1uqpEGyFeP5QOaX7Vv6Vr0svRUmhpVxsXQTQ1BR6RmuCykLEg6SL4gA0KmT0MDVJ2xFXg7G8JywQSET/O+IlWsExCxdJAOBhUfC62+ObLVjuLlmbJVrbfFaztcWAj82nSc075H/A1XSFOoMVs3LpbcFEznzD0xNnLjzRUrmu1zyQquxEhI6rxdA2lb1cunzIO3Ni3zZV1dQBySCXlvuTmWlF6xw+9w96gy1+HaNE2MHj97zHFlIPWJDLHCGrmbiDnCRnOl+mvBfDmOmlq/PrzI05wyMfgFQY0oebevnthXFeVn+hOBOHalwEPokgEK1RNKYYyuW+OOLhjqJENEmgKKv1lLr8Uk=;6g8aN7ci/QcA70G9P1BCgQ=="
 ---
 
