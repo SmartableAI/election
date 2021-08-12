@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden’s agenda confronts tripwires everywhere in Congress; here’s the path ahead"
+    excerpt: "The central pieces of President Joe Biden’s $4.1 trillion economic agenda are now moving through Congress on a precarious two-track path that’s further complicated by a September showdown over the debt ceiling."
+    publishedDateTime: 2021-08-12T15:21:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
 
 secured: "TNJS0dyIXvupiQYNs6UDRpH6FcfMQb4Hs2AuZ6ieXje0bG1FCkAD8B1XZWMwwan02ICmtW2pZcN3rLE6zy0y1kCkMA1xkp9TTukxfByv3m+o+MZW8NMWBNni7EfKiJRz94zbNKIYUZbLRSDOeR4Mdyj34WuIsQ2egmHbXhSTa67t5D3PoFaV5dzpAWG30EwaN41QwnM+qLvG1x+PXo2MqIwMDKcNfrwn5Ic2Y7saduKxggDYE+2tkdPTFxyZr7pZns+u03Jh1jjG9pZghgOeb9eISpAt6crM1KM64VfN75l346b+pM9RMzKuOPUGwfNJ0u6hgiQo5HkUIoVIlZxf7+tnOnd7EmOicIPZUTLAhOrKRfsGxGQE/iMW/1F2Wrwjm1v+jL0PC4dIuLmV85uGw8Y8vHlrsDfdF7wvOK12Or1O4dDMGezbb47OXjvrhI99n1yvjgeGMxuJ4CuWHTpCUgbcbvVyEDBadH9Lp9J0z37nYj5rPK5mBwdv5vaiYj309N3F79dS5jY7+Gnda+88Xg==;mr9RhBtW19hMd9w0d8LUYg=="
 ---

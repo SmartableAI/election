@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/az-attorney-general-scolds-biden-ad
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp"
 type: article
 quality: 168
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Afghan ambassador to US slams Biden for political solution to Taliban"
+    excerpt: "The Afghan ambassador to the US criticized the Biden administration for suggesting that lasting peace in her country is possible only through a political solution."
+    publishedDateTime: 2021-08-12T15:09:00Z
+    webUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/"
+    ampWebUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/afghan-ambassador-biden-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "TnHrQnXqB45OJV4KH0fFwL+2BhrxP5hx289ARdw0f+tXDVK2qb4nHSY9ZK6frunXzrqK9E5rz745A8lz42CsWoK2wkX2N1Z8RTWk1OiOJGg9YD3FF+9MuKigKf0i4KlK5fxR3r1clMemNkGOT8j+mtoIZrijl/rW02voRokj8gBWAXldYT/NKey4rLxKKXG/kblpFJksDCgx+zfM1Y5P2tVdfUE1AnXia3peG5iwrGPfotXbnh1Cwrrbp56jNzAJx/xssxlxlSwqMj3nLQugjOs+u+AyQmHMK7GxSCzAZIfYBRznTdGI//72kS0IJjhxJ+N00It20HdtQcRAexTzQu7dCI72xZeN9RUIDGy7+4E=;1Xz0Krti5KKlugZczWq1/A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/trump-refunds-millions-2
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html"
 type: article
 quality: 158
-heat: 178
+heat: 198
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/08/11/world/11uk-trump/11uk-trump-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Andrew Cuomo, Donald Trump, and the Epidemic of New York Strongmen"
+    excerpt: "It’s not an accident that a generation of \"tough guy\" pols emerged from New York in the 1970s and 1980s, amid the myth of the ungovernable city and an epic whitelash."
+    publishedDateTime: 2021-08-12T13:56:00Z
+    webUrl: "https://www.thenation.com/article/politics/cuomo-new-york-tough/"
+    ampWebUrl: "https://www.thenation.com/article/politics/cuomo-new-york-tough/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/cuomo-new-york-tough/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/08/GettyImages-1227407524.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "AwbC5cqHM8LVgzSiyPUOZdY5/PUYtIssNDVO4ydzVz+W2i0ptLPM+ur9hIRdk6gaUpL81rc5uh8qwz8iLfidEYZMOPwzVWP69kmuUZRSe5J3440PlEAkz5w35k9osHFxR0gzYGbfUHNAt0jBxbE4/AHknYh3P6rEca7/6jv07TsAKBeglfmglyEICs6x8rpXKBpH5saTEPaP5nsIy2HhsPmpTFZMHXQjg2ZV397qZRv75fB5cAdFvoKkncwiDYbcmp742qtQqbSkezjObWN3eLjG+iOxfJn0MdvkjwU8Qvc3ujWZxnk/rYmFZgMHkqScOHpNbMlK+zPbHbKDTq0AMyPVbZiKSttmCtuF5SkcPlk=;qHl0Tg7LhsrobYEIa3hcEA=="

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Andrew Cuomo, Donald Trump, and the Epidemic of New York Strongmen"
+    excerpt: "It’s not an accident that a generation of \"tough guy\" pols emerged from New York in the 1970s and 1980s, amid the myth of the ungovernable city and an epic whitelash."
+    publishedDateTime: 2021-08-12T13:56:00Z
+    webUrl: "https://www.thenation.com/article/politics/cuomo-new-york-tough/"
+    ampWebUrl: "https://www.thenation.com/article/politics/cuomo-new-york-tough/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/cuomo-new-york-tough/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/08/GettyImages-1227407524.jpg"
+        width: 1440
+        height: 907
+        isCached: true
 
 secured: "iMexyaq20CVmxT3SZHyMHHpI7yNTtH28WdKbmKZVPFYSxJDKDUCYtz8KzzpJclaClENdZME4HULdiLpDsnTWcd5oawyLC9OiAT2Cb0Hvt/+Pjnb9qsu7afvw0EiWRGaC2BV8OfSc9F+u985hjujT/ledhHgmfZBc65MpVP3q77Kj1cfYs37KhZGzKkyd695spCyE/yeR+kS83dr9gfD+8ssgCu3fVZ0lcWvjS69olmreAGELgk0g/oudrzv00QllaOhT46ARkhtB07mDc0jVXvrBYC4XT+V8v9mXQL5grExZAx5mFNqrXW0hKgaSVN9BARgYwSUwn/gHFUX4Gn8Pd2Vzhzp8XFpvtSkduN1dS0I=;LaYBpnE0oz0RsucenZ+e1A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-wea
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s agenda confronts tripwires everywhere in Congress; here’s the path ahead"
+    excerpt: "The central pieces of President Joe Biden’s $4.1 trillion economic agenda are now moving through Congress on a precarious two-track path that’s further complicated by a September showdown over the debt ceiling."
+    publishedDateTime: 2021-08-12T15:21:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/bidens-agenda-confronts-tripwires-everywhere-in-congress-heres-the-path-ahead/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
 
 secured: "KYPhEutQ1T2KhL44FtcvIdO8aLmKCLLdu0ReqFI0X+T4/AZqWE7V3vfNTqeb07COsufDv4iu8H3mhsmBf4c1r+6nH+drLex9HcLQtfFQQh6Dz9DAiqFO8lddZNGcyzeaH2YlJSLIxYLOY98NMMGrhn9E2n7PdEUIYQtL0cG9lSswt5aZ+oYakc16BkQr2o8gLsVqx9ZElx2/8+Ebq1OA3H2TeU/blzA95cpwjxTZhySaMe8mrC3twknx2D5Uo7vEPKnMwzr6lpi1MVyYbhhGs9NYV6MwNoY99seyQ4otF1EtjD1NYRYyVOE7TWl81+Q5dpSZ7j10oCh1PbBpWM1+yN7pPYSANgOCxhr2e6Ii7luWnBLTEqiKSbr2zyZUzAuqd8Bc0nUtc4xqhoNkHnhEvgVTM8yBpvXnOzZ+RivOcIOiz6uOLXhcLxCWSwdb6BTqYE/4MAISA12/aomlVV7f0bVXR1K9gz24vu7BQNGwRz4zYjjc1IY+JAHrvsoFU/JYu05KBffGGfm4fpFMZzTGpQ==;8nHvMKmoyeO6wxvCTBj+Jg=="
 ---

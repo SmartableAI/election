@@ -77,6 +77,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Biden to urge Congress to lower prescription drug costs"
+    excerpt: "Drugmakers, reeling from reduced doctor visits and demand for some drugs amid the pandemic, have raised prices on more than 500 medicines this year."
+    publishedDateTime: 2021-08-12T15:52:00Z
+    webUrl: "https://www.cnbc.com/2021/08/12/biden-to-urge-congress-to-lower-prescription-drug-costs-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/12/biden-to-urge-congress-to-lower-prescription-drug-costs-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/12/biden-to-urge-congress-to-lower-prescription-drug-costs-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106925583-1628707105007-biden.jpg?v=1628707168"
+        width: 2976
+        height: 1984
+        isCached: true
   - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
     excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
     publishedDateTime: 2021-08-02T18:52:00Z
@@ -198,6 +214,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Biden’s complicated new task: keeping Democrats together"
+    excerpt: "Biden must keep a diverse, sometimes fractious Democratic Party in line behind the fragile compromises that underpin both measures."
+    publishedDateTime: 2021-08-12T15:07:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/12/bidens-complicated-new-task-keeping-democrats-together/8107129002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/8107129002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8107129002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/12/PDTN/8a769abc-47b1-4bf0-91f5-80c3d2ff5bb1-AP21223746515718.jpg?auto=webp&crop=875,492,x24,y144&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Biden’s complicated new task: keeping Democrats together"
     excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
@@ -364,24 +396,6 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 35
-  - title: "Biden to Urge Congress to Lower Prescription Drug Costs"
-    excerpt: "U.S. President Joe Biden on Thursday will call on U.S. lawmakers to enact legislation aimed at lowering drug prices, including allowing Medicare to negotiate drug prices and imposing penalties on drugmakers that hike prices faster than inflation,"
-    publishedDateTime: 2021-08-12T11:37:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-12/biden-to-urge-congress-to-lower-prescription-drug-costs"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Biden’s complicated new task: keeping Democrats together"
-    excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
-    publishedDateTime: 2021-08-12T01:34:00Z
-    webUrl: "https://lasvegassun.com/news/2021/aug/11/bidens-complicated-new-task-keeping-democrats-toge/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
     quality: 35
 
 secured: "DffT8DxFl/BqMh7900yDOwWJ+m2IwZCOwJt1IXVR6vgOI7W0SuLBeI6jV9UiVT6wUk4boZ3WgMjMxJenEPIzQrqdao9h3D7GyirdtAcBIrdSwadMi/oubNRxVNckg32RwPnteb6lwFgVyAv6EXhvBVGcC//70xnimo2ypHlPGlty2FwNqDQRZR94lf2Gjfse7CF9IQFISdjHRuEOFJLnlbcckD4IVABOdas2RUGNvxkm0VnOzH3quXuftSh3ASGHgrylwrGQe8MJOt9aL19y5fvjI1wFmozu7CG0L+U0htfPhUMNzW25Q9yhOX6z3g15CmRTSqy2YQbO6SVQ7s/sQirwJag/va74VEw4OUl5FHI=;p3f9N5aPIFUe3fpCE8fG0w=="

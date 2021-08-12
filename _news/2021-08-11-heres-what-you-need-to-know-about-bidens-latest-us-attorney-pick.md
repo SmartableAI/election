@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden-linked lobbyists see sharp increase in cash streams"
+    excerpt: "Several lobbying firms with connections to President Biden are experiencing a sharp increase in cash as the influence industry has pivoted to access the White House."
+    publishedDateTime: 2021-08-12T15:23:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wf1Pb1pRDlw/joe-biden-linked-lobbyists-increase-cash"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-linked-lobbyists-increase-cash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-linked-lobbyists-increase-cash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e611aad5-b89d-4577-964a-63a1e47067ae/8ab1fb04-b33d-4de5-9dbe-f0367d7f0d3b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cuomo washes out coverage of Biden legislative win with resignation announcement"
     excerpt: "Just as the Senate passed a $1.2 trillion infrastructure bill in a legislative triumph for President Biden, the news cycle was overtaken by New York Gov. Andrew Cuomo announcing his retirement."
     publishedDateTime: 2021-08-10T18:09:03Z

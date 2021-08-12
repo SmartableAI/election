@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Prince Harry's Marine Friend Calls Joe Biden a 'D***head' Over Handling of Afghanistan"
+    excerpt: "Ben McBean, a former Royal Marine and a double amputee, said President Joe Biden knows Afghan troops cannot stop the Taliban alone."
+    publishedDateTime: 2021-08-12T15:45:00Z
+    webUrl: "https://www.newsweek.com/prince-harry-marine-friend-joe-biden-afghanistan-troop-withdrawal-1618694"
+    ampWebUrl: "https://www.newsweek.com/prince-harry-marine-friend-joe-biden-afghanistan-troop-withdrawal-1618694?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/prince-harry-marine-friend-joe-biden-afghanistan-troop-withdrawal-1618694?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1869216/prince-harry-veteran-ben-mcbean.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
     publishedDateTime: 2021-08-06T11:21:00Z

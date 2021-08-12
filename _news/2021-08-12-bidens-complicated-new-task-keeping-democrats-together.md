@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Biden’s complicated new task: keeping Democrats together"
-excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
-publishedDateTime: 2021-08-12T01:34:00Z
-originalUrl: "https://lasvegassun.com/news/2021/aug/11/bidens-complicated-new-task-keeping-democrats-toge/"
-webUrl: "https://lasvegassun.com/news/2021/aug/11/bidens-complicated-new-task-keeping-democrats-toge/"
+excerpt: "Biden must keep a diverse, sometimes fractious Democratic Party in line behind the fragile compromises that underpin both measures."
+publishedDateTime: 2021-08-12T15:07:00Z
+originalUrl: "https://www.detroitnews.com/story/news/politics/2021/08/12/bidens-complicated-new-task-keeping-democrats-together/8107129002/"
+webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/12/bidens-complicated-new-task-keeping-democrats-together/8107129002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/8107129002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8107129002"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Sun
-  domain: lasvegassun.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/08/12/PDTN/8a769abc-47b1-4bf0-91f5-80c3d2ff5bb1-AP21223746515718.jpg?auto=webp&crop=875,492,x24,y144&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Joe Biden to tout strong July jobs numbers – US politics live"
@@ -66,6 +74,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/32/41/21342309/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Biden to urge Congress to lower prescription drug costs"
+    excerpt: "Drugmakers, reeling from reduced doctor visits and demand for some drugs amid the pandemic, have raised prices on more than 500 medicines this year."
+    publishedDateTime: 2021-08-12T15:52:00Z
+    webUrl: "https://www.cnbc.com/2021/08/12/biden-to-urge-congress-to-lower-prescription-drug-costs-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/12/biden-to-urge-congress-to-lower-prescription-drug-costs-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/12/biden-to-urge-congress-to-lower-prescription-drug-costs-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106925583-1628707105007-biden.jpg?v=1628707168"
+        width: 2976
+        height: 1984
         isCached: true
   - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
     excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
@@ -369,16 +393,7 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Biden to Urge Congress to Lower Prescription Drug Costs"
-    excerpt: "U.S. President Joe Biden on Thursday will call on U.S. lawmakers to enact legislation aimed at lowering drug prices, including allowing Medicare to negotiate drug prices and imposing penalties on drugmakers that hike prices faster than inflation,"
-    publishedDateTime: 2021-08-12T11:37:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-12/biden-to-urge-congress-to-lower-prescription-drug-costs"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "1DoiU6dU8BoKrlqAhNcvRPdxzJkwKuAEwxdlciwSJLZlKNym/lngm1Fyo11kyiWY0r3ZYbjr1IijTU7+mFRe5Dey+RZMqSaeTaYLUpTHzdiCMEgpTwZNcyuvJOFH2FdDVaiVaojUreg4MIkvpjoGHvWspqI5iWcKlYwq1VTRRUtwVxHsdQBy7MT9o/8nt38c50FPbgJmUxBsakgOGAgECnj1mZ7YtLZDRRhCjbDZQsBAupZPH54HUGuZBZwH/gVSu41CguLVSc8FrzWlhAluD14Akaf/XK1fRvEvVnMzMPxKjcDCE8XLfr/U7xwnZi6qst1NzZMDho7evQTgZmGU8xQx7Zic6+NqPNCCjVbjKdM9CDfagfAYj9Q/gtRHmjremwP7F5pLkbxKLuhSli676qyrEGUokTUxQKnKl2R19WroEMORdBcgAN0b9OJJL5Zu0VpIIWUIPFbCp+3Av//VG/rTT0uipoirF5Y8FfM0I8m4hzbkKY3Nfrfk7sGdwcutY1GjP24AiuFEglUtpN7Dnw==;dd9I6l5z8P7wvJ07mohLIA=="
+secured: "D4ebnnzhIMCZghMXhxrQaxIe9A2RbQOSUFbYXNK1aSyV8c91q9ioJ5MoM4Gh3DTOSCXucg8zQilvBn5sppCZ+FLWW2w+RiDNnAuQrOkpJtNj/uhXUJST8e0X3Nulzw80XrA2Yt5XqcETPhcQcZgiOquOw5UjAaI2d49vgXCY6KAt0B0K5WH1jDvd/16fQXeqUR3oLUXN2JlUF2moXPwaLBjGDZhhZkBpD9ZdkB79m29/St5rQcGH/ie+YW3sTvV9Zg76eNkIQUztRiwd6YTgkG1e/Q2AjkXFL877RKyH/ikLKkq0+3a0BDuPJSL5oywzbIXItvEjjQej/Mj6O8KZGbvSchYmV1ErmFKT9YL4iQc=;Pi30FBPUYOlHFClEs0YgoQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/613bd8fb-493d-471e-8298-e37f3ae8c87b/140b716d-59e5-4a14-b691-7900146c813d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden-linked lobbyists see sharp increase in cash streams"
+    excerpt: "Several lobbying firms with connections to President Biden are experiencing a sharp increase in cash as the influence industry has pivoted to access the White House."
+    publishedDateTime: 2021-08-12T15:23:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wf1Pb1pRDlw/joe-biden-linked-lobbyists-increase-cash"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-linked-lobbyists-increase-cash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-linked-lobbyists-increase-cash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e611aad5-b89d-4577-964a-63a1e47067ae/8ab1fb04-b33d-4de5-9dbe-f0367d7f0d3b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
