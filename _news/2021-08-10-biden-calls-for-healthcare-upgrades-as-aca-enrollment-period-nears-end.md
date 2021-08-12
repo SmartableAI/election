@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/10/healthcare-enrollment
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "In Call, Biden Commends Japan's Suga for Successful Olympics"
-    excerpt: "Biden also affirmed U.S. support for Japan's hosting of the Paralympics, which start on Aug. 24, it said. \"President Biden applauded the performance of all the athletes and highlighted the success of Japanese and U."
-    publishedDateTime: 2021-08-10T01:51:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-09/in-call-biden-commends-japans-suga-for-successful-olympics"
+  - title: "Biden Reacts to Anti-Mask Protest Video: 'Our Healthcare Workers Are Heroes'"
+    excerpt: "Currently, Tennessee is the ninth least vaccinated state in the U.S., with 46 percent of the population having received one dose."
+    publishedDateTime: 2021-08-12T21:37:00Z
+    webUrl: "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974"
+    ampWebUrl: "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1869761/parents-protest-mask-mandates-florida-school.jpg"
+        width: 2809
+        height: 1964
+        isCached: true
 
 secured: "5iwN2gv+WnMY99t59tCX8PWNnu4Rr1n0ToywiaZ1eX9wR7+p6n+oMdPpLakez0y1wWIKcKhlgTYfWvELyVyh0Gx3Q2cbL3cheAWOhJm72GsvMWCpChCX0hAxhQzcbPEU9+c2MSwl7mkYQMEM4wOGoJKHMLzcAswMaPLEakipO5AWCX87o3Z84036jU2MybTVzBhd0EGUyU9g6Pv1AGigSU1qiqyomDqENQelFj2rEzNF2MtSF14ymd1ElDxpmuzo4tH1PlmSuaubBc9ylUoykScQpkp6ydzvbhHnmkny0ZoRg7tSTjBcvaBmT9Pk7F8fBQx/ETrWeJoKhQdqb1L81/GyqUF9S3OADaCR4ER8WsY=;3wXgubYHLfxNNIeDgoNW9g=="
 ---

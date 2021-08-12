@@ -135,6 +135,22 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
+    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
+    publishedDateTime: 2021-08-11T18:01:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5468863001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
     excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
     publishedDateTime: 2021-08-12T08:30:00Z
@@ -261,6 +277,17 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Van Orden receives Trump endorsement for Wisconsin race"
+    excerpt: "Derrick Van Orden was also endorsed by Trump in 2020 when he lost to Kind by less than 3 points. Trump carried the district by nearly 5 points, making it a prime target for Republicans even before Kind announced this week that he would not be running for a 14th term in 2022."
+    publishedDateTime: 2021-08-12T21:29:00Z
+    webUrl: "https://www.expressnews.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 55
   - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
     excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
     publishedDateTime: 2021-08-01T18:36:00Z
@@ -279,16 +306,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
-    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
-    publishedDateTime: 2021-08-11T18:01:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 26
 
-secured: "vbFSYQXouW6AlrWFliraGhJaCsgGN3FN4ti3BY/QkBYCRcbWemeV4eBxnnfRoTftTxze8SlZnNnWf7k0NEiPgmGOaJlgpdON5U7JLn3qgJtEsF+YF8dSvDbT4P49zBZPjkzOMyvSnDvAvFDvzaf7jwZ+q6R7kPFUwMBQDDZ8jXDUbF7hC3McOIkllhvMv1sQzMUkjSLQ3jOhR5jA+iGmQwVPw6mOpD3hMq0H3YUPIyNqsT/TgJLWPi7J71fYqV2K6VT4yMi71n3nv3gmC1aG2s3/vjBl13Szg0JR6tjox9LY5PmKXhzx0sdcBYSPKqAeXTu+YfFu8RONp7femVhn9487cFsIIZHSPPG7dTlhQI0=;lc4TOJ01cZD5wV0tijPgIg=="
+secured: "Zy0ROnUpqsATxC5KvKb/894ddRRkkPVUwPDJCRJEtNwP6BU4wf/Y81LeA+99PxA/LoHEw69PdbaVTGvCBCuCClzoWgLaHZG9mgtoq1XSLzLJcqgez2zBFt/NxnxU/f7V1dKMiYTriKP3ggNFJG42cvvpwUbIvuWc6B4ijqJjPLWy87kNTIO6NDzcNiEu3iOY5UJua0YXr6tIA6jZhSrpbST6fHSmxX096CXKpSb3+wyCqSh/jLAerH7Iuh+DqMyi7l6dDyFlNYJuu5O/5NFwnoa3qcXm9/BtuefbWa26OgiXzFkjySziR7X6sk/S9HHu7n0MmItEeI3qS9o1xTjrTWDh0IOeMlc55gbWJl9znQDGoRXJltCHFig2qxh+JhI9VP79UgEtU99oYo46CO4dndjJzLn82FaMpAagegPwdSNzC2rn32S8wNkscyp0ZO2b/97ji8t7uONerevkhsPz8hhPaizZwS2P6HQF1HvxcN50Y3NStSSCfqy/FkAEgaT9bfwYztb+TJvVP7j5myVzcQ==;GSd6Jdn86f33M6l1u5lEIA=="
 ---
 

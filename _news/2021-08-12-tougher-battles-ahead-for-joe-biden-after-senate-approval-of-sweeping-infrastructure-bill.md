@@ -3,20 +3,28 @@ category: news
 title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
 excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
 publishedDateTime: 2021-08-11T18:01:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+originalUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+ampWebUrl: "https://amp.statesman.com/amp/5468863001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
 type: article
-quality: 26
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
@@ -255,6 +263,17 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Van Orden receives Trump endorsement for Wisconsin race"
+    excerpt: "Derrick Van Orden was also endorsed by Trump in 2020 when he lost to Kind by less than 3 points. Trump carried the district by nearly 5 points, making it a prime target for Republicans even before Kind announced this week that he would not be running for a 14th term in 2022."
+    publishedDateTime: 2021-08-12T21:29:00Z
+    webUrl: "https://www.expressnews.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 55
   - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
     excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."
     publishedDateTime: 2021-08-12T18:29:00Z
@@ -288,6 +307,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9K0/No/+otaUmbh8TNe4Qu2vE9USMx44rtialX8L2eeOJaqmE+RvNo2ynAvbhJT4i7QMKLUMmGyUL4ipsIrJcwIrezBZu1k5NEDlF7FpYoMa2e73+8MSiFEXjbsUfiw/dzgjrjQXJINkXKGwpjCo1gzQN0Vap8DcaKR/4cdQGczx/cpys08EpwPgregDPHmMiu48KMAA3slfYqO2LxYU2PW02UvDUMGisP9lvv76/vcpIRQ337jeJqtFWEtmzF3prymzGA2YveGhNQIb+mr3FP/su3JpR2DQOjYolhEyOXESiLXBaPAj+I7l80dDpAUBuIgh2d6T4sKSk8Rtqmp3SEd9fOJzGMu6Ev6SqUpdzQctEiid0yFwA0GoX9XERrF/43/EARhrfjeyrMoIqCk/GCtrff4Wg+m9CkdGHgQtn5CWpEJzbjQP/i1boflTm8YXXQFSeFJo4LKDeeJcBpDhYcZj+z8Z+ZDJ7QpPyriSMxqajAl/DZQmftgGZP2GNBnVrN5Xat+Fe6ahqvsHynMEsg==;5lgGF7Koun9/h7BIrJ1Ngg=="
+secured: "Vg85Ef9smYftpBdm+CFrUQ44JBT40/GpIVRJXKTuh/e7QXnRJi7Xo1Cn3+p5Yjfl0H1ipDkZ9xMRKJ9/L0VgabpoSqPUZVc0rYQAetNJWG9BMaeVI9wGmg7mG7NQDM4n52GySUqWR9r85EpvxyPm+Ac2e147qO+PWXFhMMMG8sPaXtn5fc1TcaO29/XolXjTRBUrbPQpwsUAikH650w7+E88EIS0j+fmjbHGI1uWUTkvDBOwCXbt64VBbwo0/rruNy9ign0Dg2+arKDkzg21UjS4zGtTK4hJYiXHfLXFOuKxehwnCSl5nRxlpkWzUizgDvcPalM8cji5oKTnz/GvNXOp6kp4Y5hm+qqpRoZ7kTw=;CNRYaeTi/uE8F7fjoJeEYw=="
 ---
 

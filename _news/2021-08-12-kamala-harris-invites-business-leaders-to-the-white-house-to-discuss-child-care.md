@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Kamala Harris invites business leaders to the White House to discuss child care."
-excerpt: "Senate Democrats passed their “big, bold” $3.5 trillion budget blueprint, Vice President Kamala Harris is bringing business leaders to the White House to build support for one of the plan’s key pillars: child care,"
-publishedDateTime: 2021-08-12T11:54:00Z
-originalUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.html"
-webUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.html"
-ampWebUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.amp.html"
+excerpt: "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget."
+publishedDateTime: 2021-08-12T08:25:00Z
+originalUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html"
+webUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html"
+ampWebUrl: "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html"
 type: article
 quality: 130
 heat: 130
@@ -31,6 +31,6 @@ images:
     height: 550
     isCached: true
 
-secured: "86sRZQKlh/do64XmnUaqqrsU1lS4aVo1kWeHD7yDxT9iLetEwPkohker7ZZBNF1RGlQ+Yug6sgAzmwNOctB+NDK37H5uzP00kz7rYn+t0SWy/4hLx7hD57H78sAwUPW91wSrFAtc79IxF/IW47POkCzBp9QhAdM7msufBb8fpG693PzOT7qBexXDOO8TfwbzzoGctij8Ly/XPQxdf5ePvGFMfeZDUliPH+5aCUw/jocsBbl2yV6SlSBNrL6IKCICAq2mASpjV8r3zbba9f/Mi6wn9GdoxJmSsYl5gCmEhFbIMW1Yunz9HF9daMoDzvp6EOkcly3Ug8XQAeGajsDjPPQV+NwhQ8Y2pSJIhmJsz23TXJkVxWapoJQc3C4gWBT478JQEezY7QZfZM/dyqn2xk7Uef9suzcCf6bA7jK/95YRx0JepStkJPB6hvdgAQ5KL0Co3bh1L65EnMaQSt2y6cJCrlpofppOr7lIN8xaSSAvsA2mSfnbivjSQgdSxVKTnUuTEz2eEvXuqxrUjj9vFQ==;KW7MK7eV35bZ6dqcPhLh0w=="
+secured: "NkomrkuTGOJ2rKpgcooGrYhcyE4iLJhuN2ONR4XE8SsMg8kQXInLnz5dS1Kt3jWUhB6eAe7YQ8QX8Y5s61dEc3eYKnvkIfx7AQ8vrplSkCqWUw49WdYCsmpJX8kQgPrnDMMJORXfIuaihvZTAt4Lzc/KSe3OKwcPY8tNWtsXW05PI6hNe3D6Dao/pDwfpyEcnN5dxUBUd5LNxBV87bCM9En1GLWK82X2OHrl7HXgm0AE44ZpJdCuaXc7qlGos+0K7aZGeorchAJ0oXtBMe27E4eNYTrji4AycksiaGL1TSuS+U8Naw1ue1oVwMv7Yp4oB/MaSaFmtA4qeTJI4bJKAI/lQ+VrditcxHw98Xbd8Mk=;AsWGZUC/nS/oaGY+mgkSqA=="
 ---
 

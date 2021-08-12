@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
-excerpt: "U.S. Vice President Kamala Harris arrives to talks to health care workers before speaking about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington,"
+excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
 publishedDateTime: 2021-08-10T18:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/2d6c1ecb2383532db02c97cd4ae856b8/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/2d6c1ecb2383532db02c97cd4ae856b8/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/57a86ff633df2b4522be0d816b953da4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/57a86ff633df2b4522be0d816b953da4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/2d6c1ecb2383532db02c97cd4ae856b8/HARRIS-HEALTH-CARE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/57a86ff633df2b4522be0d816b953da4/HARRIS-HEALTH-CARE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -52,6 +52,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Harris meets with CEOs to drum up support for child care proposals -White House"
+    excerpt: "Vice President Kamala Harris underscored the importance of affordable childcare for improving U.S. competitiveness during a meeting with top executives of seven companies including Microsoft Corp (MSFT."
+    publishedDateTime: 2021-08-12T19:42:00Z
+    webUrl: "https://www.reuters.com/business/retail-consumer/harris-meet-with-microsoft-etsy-airbnb-gap-others-biden-agenda-white-house-2021-08-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/vWeUXoXPr63S1VwZ6JdVQZ5qbnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R7FAD6C7JRJA5IFP2NRAYAB7SE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Harris' spouse to represent US at Paralympic Games in Tokyo"
     excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
     publishedDateTime: 2021-08-10T13:02:00Z
@@ -92,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "j6lSWpHx0rlEkq4Cjxe+HwOdHE9tA9R0FsU6NPnptv5cNtvR38vqS3GYkRvLN2OjwnMGQ6T2piXsaBcg+igeaNuWNBrOsJibflI2CgHtoK5CuETwEZyfR1O5kHDZKBn28qSkKRgoZiha+oob5juc80YdaqP6T5eGyyvpXfOfL8raqBy1/omDvTSqAtwK+vfManFyvX6ajXm5pn5TTZOwLW/y0L7TPR0l7JXJlP8PWhBBSgLBldhYmY0eoRvaZPcGf4q7dSApP3uC02BCPZTbNElVtFUK9Zj+jZt3SIa+zoPo4b4N3xJB64J3DpWZPSoGOac01DR4VSpCBLQluz1gMgds/DQmNxk0n1bcL3Xf2tw=;ezsUsEwFTWuP0k2onjn1jQ=="
+secured: "+H5U+ZrYt7MBxf4Gib4IcMfvi4FjLHsrPKlHpkcccmMrKgYYMJe/u3flmgWn7QWO8LGnG09ycMkplD27CZoRivoiqwjf1EKHYRCAZ20xMkLVH0m83FISI5C0l53DPFMmGL915TDa6h+qg/fzW7p+iBKKjRiqoQ+IlIRongzjJNFhUL79b+guH7D+rysdlrdXKIQAzw1mcj90OCqUCWqamqRslTu8sQeOAu9NbT0i99D5yNSW8GjwC975gMYoITi+dUySIpGi55Oh/Inee/eeWttVUI0WHz26Mqp4vBClGe3BumosEWsLITO2f6T+HOwZ43UHGq9acr/Ec8mfz4ShHpRuRO9HfaxiyACgOeAtO58=;YYWfH9ZMArTYwebz0qM0kA=="
 ---
 

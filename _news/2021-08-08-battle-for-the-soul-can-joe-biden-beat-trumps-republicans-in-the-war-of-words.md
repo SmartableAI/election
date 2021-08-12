@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
 type: article
 quality: 135
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/4/31/431a004c-b905-520d-a70c-7bafab18b438/60da3a3801a58.image.jpg?resize=1024%2C710"
         width: 1024
         height: 710
+        isCached: true
+  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
+    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
+    publishedDateTime: 2021-08-11T18:01:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5468863001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
     excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
@@ -251,6 +267,17 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Van Orden receives Trump endorsement for Wisconsin race"
+    excerpt: "Derrick Van Orden was also endorsed by Trump in 2020 when he lost to Kind by less than 3 points. Trump carried the district by nearly 5 points, making it a prime target for Republicans even before Kind announced this week that he would not be running for a 14th term in 2022."
+    publishedDateTime: 2021-08-12T21:29:00Z
+    webUrl: "https://www.expressnews.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 55
   - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
     excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."
     publishedDateTime: 2021-08-12T18:29:00Z
@@ -283,15 +310,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
-    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
-    publishedDateTime: 2021-08-11T18:01:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 26
 
 secured: "007/UM5goQKh8nbz7Ldjn6plLPx4uERjOH2tmjkyhQfOPxaMt0E1emvWIjpUfS+wLPkXvLe/8jAFmabnKMI/+2GZL+llXnFAEwrO+gl/vFV7x8WMWsS+CeXv49pB2pJK7NJCc9IBswfioYZ/PWj9GOn9E6sffFO1uylxwJuCdCKmyK8oyQs7mp3jxad4wRDF6xK4OnWKN5dFqvwwnIFAgxXGUtUbrLDJoH1fWbXHlBkyQyR7kt6uyp/zTYiGsor5/eQR8562ncCyXxPKzdGQqZvXlAz9Aeo7mGrHMYrqUa83rqWMsJpN/hpVInsyE18pSoMNQ3l0twTlf+Ep5kL9oKvFGRLj9woFryWJwtVpph3znWTMPNWHHZwqbMk57pBt26SPNfPJ2pFloQAf4wBHcwkQPtSycVVcbBisRbm7AibmNqfc1T29CD/9UQ5QatReYrFuF+m69JolQ69IJF9y22D0GXGzIhu3JwSnBROI5NOBD6LjMpvBZDJ7GOC0pkcXIMuluig3fJYcSStF0G1E1A==;qYBHNr9RUZIlt4HzCOQ8gw=="
 ---

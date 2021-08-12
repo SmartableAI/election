@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-biden-reacts-to-anti-mask-protest-video-our-healthcare-workers-are-heroes.md",
+      "title": "Biden Reacts to Anti-Mask Protest Video: 'Our Healthcare Workers Are Heroes'",
+      "excerpt": "Currently, Tennessee is the ninth least vaccinated state in the U.S., with 46 percent of the population having received one dose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "originalUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1869761/parents-protest-mask-mandates-florida-school.jpg",
+          "width": 2809,
+          "height": 1964,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "publishedDateTime": "2021-08-12T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-bidens-approval-rating-sinks-to-new-low-of-50-amid-economic-fears-polls-show.md",
       "title": "Biden’s approval rating sinks to new low of 50% amid economic fears, polls show",
       "excerpt": "Support for President Joe Biden is taking a hit with his average approval rating sinking to a record low of 50 percent, new polls show.",
@@ -336,49 +388,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-10-biden-calls-for-healthcare-upgrades-as-aca-enrollment-period-nears-end.md",
-      "title": "Biden calls for healthcare upgrades as ACA enrollment period nears end",
-      "excerpt": "The White House said Tuesday that more than 2 million Americans have signed up for healthcare coverage through the Affordable Care Act during the special enrollment period, which began earlier this year and ends Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/1551628599124/2021/1/e37dc134d7c4c6c658c2118e2e398eb5/v1.5/Biden-calls-for-healthcare-upgrades-as-ACA-enrollment-period-nears-end.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/10/healthcare-enrollment-aca/1551628599124/",
-      "publishedDateTime": "2021-08-10T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-08-10-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover.md",
       "title": "Grim Afghan news raises risk for Biden of Taliban takeover",
       "excerpt": "A rapidly deteriorating security situation in Afghanistan weeks before the official end of the U.S. military mission is putting pressure on President Biden as he sticks to his plan to pull America out of its longest war.",
@@ -539,7 +548,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary",
       "featuredContent": null,
       "highlight": null,
-      "heat": 515,
+      "heat": 535,
       "tags": null,
       "images": [
         {
@@ -700,7 +709,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d36898f0892081f6ce595",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 725,
       "tags": null,
       "images": [
         {

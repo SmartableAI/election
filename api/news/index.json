@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-biden-reacts-to-anti-mask-protest-video-our-healthcare-workers-are-heroes.md",
+      "title": "Biden Reacts to Anti-Mask Protest Video: 'Our Healthcare Workers Are Heroes'",
+      "excerpt": "Currently, Tennessee is the ninth least vaccinated state in the U.S., with 46 percent of the population having received one dose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "originalUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1869761/parents-protest-mask-mandates-florida-school.jpg",
+          "width": 2809,
+          "height": 1964,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "publishedDateTime": "2021-08-12T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-assertion-it-couldnt-happen.md",
+      "title": "Speculation about Saigon rooftop replay in Kabul despite Biden assertion it couldn't happen",
+      "excerpt": "Biden administration officials are reportedly worried about a replay of the Vietnam War as they move to evacuate American diplomats from Afghanistan despite Biden’s firm claim that a similar scenario would not unfold.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W53YUu1BOI/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W53YUu1BOI/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9a21eae-3044-43dd-b5f9-7c8d2000669e/afd3b02e-f294-438d-92a6-773e386f7e88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp",
+      "publishedDateTime": "2021-08-12T14:15:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.md",
+      "title": "Biden EPA nominee touted ‘defund the police’ on Chinese state TV",
+      "excerpt": "President Biden’s controversial nominee for a leadership position at the EPA touted the “defund the police” movement during an appearance on Chinese state television last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3ac8cfd-6cc0-4eab-8ee3-3a37e79ac5ab/2c2cc00c-5c03-457f-9374-f7cfdea369c1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
+      "publishedDateTime": "2021-08-12T13:04:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-biden-on-anti-mask-ordinances-this-isnt-about-politics-this-is-about-keeping-our-children-safe.md",
       "title": "Biden on anti-mask ordinances: 'This isn't about politics -- this is about keeping our children safe'",
       "excerpt": "President Joe Biden on Thursday hit out at anti-masking protesters for politicizing the Covid-19 pandemic, saying he was particularly disturbed by scenes at a school board meeting in Tennessee earlier this week.\n    \n",
@@ -66,7 +230,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-companies-idUSKBN2FD18R",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -388,7 +552,7 @@
       "originalUrl": "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -429,63 +593,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.md",
-      "title": "Kamala Harris invites business leaders to the White House to discuss child care.",
-      "excerpt": "Senate Democrats passed their “big, bold” $3.5 trillion budget blueprint, Vice President Kamala Harris is bringing business leaders to the White House to build support for one of the plan’s key pillars: child care,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.amp.html",
-      "publishedDateTime": "2021-08-12T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
       ]
     },
     {
@@ -598,6 +705,63 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.md",
+      "title": "Kamala Harris invites business leaders to the White House to discuss child care.",
+      "excerpt": "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
+      "publishedDateTime": "2021-08-12T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
         "Democratic Voice"
       ]
     },
@@ -1003,7 +1167,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 380,
+      "heat": 400,
       "tags": null,
       "images": [
         {
@@ -1156,170 +1320,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-donald-trump-calls-35t-budget-plan-assault-on-our-nation-after-measure-clears-senate.md",
-      "title": "Donald Trump Calls $3.5T Budget Plan 'Assault on Our Nation' After Measure Clears Senate",
-      "excerpt": "Former President Donald Trump said Americans are being \"robbed\" after the Democrats' $3.5 trillion budget plan \"Good morning, America!",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
-      "originalUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1868613/trump-slams-35t-budget-plan.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
-      "publishedDateTime": "2021-08-11T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-manchin-has-serious-concerns-about-dems-35t-spending-plan-signaling-trouble-for-biden-agenda.md",
-      "title": "Manchin has 'serious concerns' about Dems' $3.5T spending plan, signaling trouble for Biden agenda",
-      "excerpt": "Sen. Joe Manchin on Wednesday morning said he has \"serious concerns\" about his party's massive $3.5 trillion spending plan, signaling that he may intend to block much of the package supported by President Biden over inflation and debt concerns.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPyLn-RVA5E/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPyLn-RVA5E/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
-      "publishedDateTime": "2021-08-11T05:51:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-biden-nominates-mueller-deputy-elizabeth-prelogar-for-us-solicitor-general.md",
-      "title": "Biden nominates Mueller deputy Elizabeth Prelogar for US solicitor general",
-      "excerpt": "President Biden nominated Elizabeth Prelogar to be the next U.S. solicitor general at the Department of Justice, the White House announced Wednesday morning.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0rDI91h05k/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0rDI91h05k/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general.amp",
-      "publishedDateTime": "2021-08-11T05:40:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

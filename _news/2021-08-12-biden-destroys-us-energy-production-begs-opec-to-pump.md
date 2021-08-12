@@ -20,19 +20,19 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden honors 'best in our nation,' awarding Congressional Gold Medals to Jan. 6 Capitol police officers"
-    excerpt: "President Biden hailed the heroism of the Capitol Police during the January 6 Capitol Hill riot Thursday and signed a bill awarding four congressional gold medals to the police"
-    publishedDateTime: 2021-08-05T22:09:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UgU6UR977Ho/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.amp"
+  - title: "Speculation about Saigon rooftop replay in Kabul despite Biden assertion it couldn't happen"
+    excerpt: "Biden administration officials are reportedly worried about a replay of the Vietnam War as they move to evacuate American diplomats from Afghanistan despite Biden’s firm claim that a similar scenario would not unfold."
+    publishedDateTime: 2021-08-12T21:15:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W53YUu1BOI/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen"
+    ampWebUrl: "https://www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/speculation-about-saigon-rooftop-replay-in-kabul-despite-biden-denial-it-could-happen.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0d9ffe7-faec-4354-ae0a-7520d535b814/c20c4c23-ae1d-4281-a370-0e457fd8ee1b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9a21eae-3044-43dd-b5f9-7c8d2000669e/afd3b02e-f294-438d-92a6-773e386f7e88/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

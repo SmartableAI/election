@@ -47,6 +47,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Judge rules Dominion case can proceed against Trump allies"
+    excerpt: "Sidney Powell, Rudy Giuliani and Mike Lindell, allies of former President Donald Trump, all falsely accused the company of rigging the 2020 election."
+    publishedDateTime: 2021-08-12T20:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/12/judge-says-dominion-case-against-powell-giuliani-lindell-can-proceed/8114114002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8114114002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8114114002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/a60a3572-fe47-4ad3-a8ac-ec67bb8bbcc3-AP_Not_Real_News.jpg?auto=webp&crop=5542,3117,x0,y281&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Ally Roger Stone Hit With $5M Defamation Suit From Judicial Watch Founder"
+    excerpt: "Larry Klayman filed the suit after Stone claimed that the Judicial Watch founder was a \"warped former lawyer that the 11th circuit found guilty of molesting his own children.\""
+    publishedDateTime: 2021-08-12T20:55:00Z
+    webUrl: "https://www.newsweek.com/trump-ally-roger-stone-hit-5m-defamation-suit-judicial-watch-founder-1618952"
+    ampWebUrl: "https://www.newsweek.com/trump-ally-roger-stone-hit-5m-defamation-suit-judicial-watch-founder-1618952?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-roger-stone-hit-5m-defamation-suit-judicial-watch-founder-1618952?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1869744/trump-ally-roger-stone.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Man Who Voted for Trump in Place of Missing Wife Appears in Court on Charges of Her Murder"
     excerpt: "On top of murder and submitting a fraudulent vote, the man could also be charged with tampering with his wife's deceased body as well as evidence."
     publishedDateTime: 2021-08-09T19:19:00Z

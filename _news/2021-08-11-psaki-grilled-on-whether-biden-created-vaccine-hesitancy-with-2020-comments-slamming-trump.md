@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
 type: article
 quality: 180
-heat: 380
+heat: 400
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Stephen Miller's group accuses Biden admin of hiding docs on Supreme Court commission"
+    excerpt: "Fox News exclusively obtained the letter AFL sent to the Biden administration regarding documents pertaining to the Presidential Commission on the Supreme Court."
+    publishedDateTime: 2021-08-12T21:11:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/78fDYJFl9lI/biden-supreme-court-commission-america-first-legal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-america-first-legal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9359c2d-9958-4ec7-a829-482f4c382329/b3ff4e74-7195-482f-b18f-15b23d3e7099/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

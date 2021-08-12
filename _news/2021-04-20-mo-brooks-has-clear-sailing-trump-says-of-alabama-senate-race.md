@@ -89,6 +89,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Alabama steps up for Trump"
+    excerpt: "Former President Donald Trump staged and attended 302 of his signature gatherings while he was on the 2016 campaign trail, according to a count by ABC News published Nov. 7, 2016. The research revealed that the largest rally during that campaign era was attended by 30,"
+    publishedDateTime: 2021-08-12T20:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/12/inside-beltway-alabama-steps-trump/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/12/inside-beltway-alabama-steps-trump/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/12/inside-beltway-alabama-steps-trump/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/12/Beltway_12-8_c0-0-1047-610_s1200x700.jpg?791ab168f1c6b1770454e1ceb1b245edd256adf3"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
     excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."
     publishedDateTime: 2021-04-07T11:01:00Z

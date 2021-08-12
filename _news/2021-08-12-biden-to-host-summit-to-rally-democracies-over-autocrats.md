@@ -289,6 +289,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden eyes tougher vaccine rules — without provoking a backlash"
+    excerpt: "As new coronavirus infections soar, Presiden Biden is working to make life more uncomfortable for the unvaccinated without spurring a backlash in a deeply polarized country."
+    publishedDateTime: 2021-08-12T21:48:00Z
+    webUrl: "https://www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html"
+    ampWebUrl: "https://www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 75
+    images:
+      - url: "https://www.dailypress.com/resizer/ApsX35YgR9SkQ93h0UabZRuDlrU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DMIUCWIWEO6J5HTCVUB7ZNYX5Y.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
     excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
     publishedDateTime: 2021-08-09T09:31:00Z
@@ -343,6 +359,34 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2233ee2b-06e8-493f-b8d0-24fe1308db07_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden eyes tougher vaccine rules without provoking backlash"
+    excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that's what it took to get shots in arms. But as new coronavirus infections soar,"
+    publishedDateTime: 2021-08-12T21:16:00Z
+    webUrl: "https://bangordailynews.com/2021/08/12/news/nation/biden-eyes-tougher-vaccine-rules-without-provoking-backlash/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Optimized-Biden-17.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Joe Biden eyes tougher vaccine rules without provoking backlash"
+    excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that’s what it took to get shots in arms. But as new coronavirus infections soar,"
+    publishedDateTime: 2021-08-12T20:45:00Z
+    webUrl: "https://floridapolitics.com/archives/449915-biden-tougher-vaccine-rules/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden-1.jpeg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "No, the Biden Administration isn't going door-to-door to mandate vaccines."
     excerpt: "Some people on social media are concerned President Joe Biden has ordered a door-to-door campaign to force people to get the Covid-19 vaccine."

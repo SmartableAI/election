@@ -1,0 +1,115 @@
+---
+category: news
+title: "Harris meets with CEOs to drum up support for child care proposals -White House"
+excerpt: "Vice President Kamala Harris underscored the importance of affordable childcare for improving U.S. competitiveness during a meeting with top executives of seven companies including Microsoft Corp (MSFT."
+publishedDateTime: 2021-08-12T19:42:00Z
+originalUrl: "https://www.reuters.com/business/retail-consumer/harris-meet-with-microsoft-etsy-airbnb-gap-others-biden-agenda-white-house-2021-08-12/"
+webUrl: "https://www.reuters.com/business/retail-consumer/harris-meet-with-microsoft-etsy-airbnb-gap-others-biden-agenda-white-house-2021-08-12/"
+type: article
+quality: 101
+heat: -1
+published: false
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://www.reuters.com/resizer/vWeUXoXPr63S1VwZ6JdVQZ5qbnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R7FAD6C7JRJA5IFP2NRAYAB7SE.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "Harris to meet with CEOs on child care proposals -White House"
+    excerpt: "U.S. Vice President Kamala Harris will meet with the chief executives of seven companies including Microsoft Corp on Thursday to discuss the Biden administration's child care proposals as the White House seeks broad support for its agenda."
+    publishedDateTime: 2021-08-12T17:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-companies-idUSKBN2FD18R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FD18R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FD18R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210812&t=2&i=1571728730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7B0NU"
+        width: 836
+        height: 545
+        isCached: true
+  - title: "Harris, Lopez Obrador speak on boosting Central American economies"
+    excerpt: "U.S. Vice President Kamala Harris and Mexican President Andres Manuel Lopez Obrador spoke by phone on Monday and agreed on the need to focus on strengthening the economies of Central America, particularly through investment in agriculture and climate resilience,"
+    publishedDateTime: 2021-08-09T23:18:00Z
+    webUrl: "https://www.reuters.com/article/usa-mexico-harris-idUSL1N2PH00I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2PH00I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2PH00I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Harris' spouse to represent US at Paralympic Games in Tokyo"
+    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
+    publishedDateTime: 2021-08-10T13:02:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/article_7c1cc6c0-9ff0-59a2-bf69-f6b56ec9ce2d.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/04/004957dc-1f1b-5d62-be68-9652582dc4a6/611275a22766f.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Harris’ spouse to represent US at Paralympic Games in Tokyo"
+    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo later this month."
+    publishedDateTime: 2021-08-11T13:06:00Z
+    webUrl: "https://www.bnd.com/news/article253387368.html"
+    ampWebUrl: "https://amp.bnd.com/news/article253387368.html"
+    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article253387368.html"
+    type: article
+    provider:
+      name: BND
+      domain: bnd.com
+    quality: 55
+  - title: "Kamala Harris' spouse to represent US at Paralympic Games in Tokyo"
+    excerpt: "Doug Emhoff, the spouse of Vice President Kamala Harris, is taking his first solo trip abroad and will lead a delegation to the Paralympic Games in Tokyo"
+    publishedDateTime: 2021-08-11T04:30:00Z
+    webUrl: "https://www.smdailyjournal.com/news/national/kamala-harris-spouse-to-represent-us-at-paralympic-games-in-tokyo/article_b5e37f9e-fa1a-11eb-9283-4f4102c988ad.html"
+    type: article
+    provider:
+      name: San Mateo Daily Journal
+      domain: smdailyjournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/d/e5/de533cd0-fa1a-11eb-b108-376880db43cc/6112e3c7c0c14.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
+    excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
+    publishedDateTime: 2021-08-10T18:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/57a86ff633df2b4522be0d816b953da4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/57a86ff633df2b4522be0d816b953da4/HARRIS-HEALTH-CARE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+
+secured: "ckwhcVKKD+iE4Z5v5XwY2bgis0oIGo72/+0vsKJGeDNhMkqEwAH1mhozazqAuhTSi3nEe709bpIcihm8Z5LvOh7svI+owIrAFHE/6H4k9O8YvY8v0YlntvW+RI/lOmsg1Xd0rUgIkQvYVyi+H9NddG6hKtcEWxCaYczLA8zsG45oYKeBTgqYf1LuKatNrgxnAUTK8HvsKe/jb1jTGoO2NPhYXyDRJ6/Ijkpcb508QWCdTZ7dw5LwqELUOfotV7EXudcNnH9ZOm2SeSvrI/2pWrYRQwFSZPfa2vRrtyX2EoTk6naEUZ2MTcLur6wGsXOI5qNzoqyEGRmUye4HdHXkO5d9wK6uKADZZhomoiCTRRc=;/yunh+NJSPZdCK2B+Rnc7w=="
+---
+
