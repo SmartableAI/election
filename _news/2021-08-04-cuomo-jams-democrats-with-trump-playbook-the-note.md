@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playb
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
         width: 360
         height: 360
+        isCached: true
+  - title: "Andrew Cuomo, Donald Trump: How are their sexual harassment accusations different?"
+    excerpt: "\"In the end, neither of these men are fit to hold public office, now or in the future. One has done the right thing. The other? Not so much,\" Ethan Strimling writes."
+    publishedDateTime: 2021-08-12T05:00:00Z
+    webUrl: "https://bangordailynews.com/2021/08/12/opinion/contributors/andrew-cuomo-donald-trump-how-are-their-sexual-harassment-accusations-different/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/07/AgreeDisagree-3-1.jpg?fit=2500%2C1521&#038;ssl=1"
+        width: 2500
+        height: 1521
         isCached: true
 
 secured: "f+ZSbh8l0kOFAAY4ONYtRT2NgnEM24LbcoS5oQGXhD24FH5dii555DkFP2TY7rk8TuLpgO/A/RLgEu6AF/vejA/zsCcMBi4EK3lYqzgjzMxicHFz2TyW7q/QPGfpQlc7yX053CCCXnk+QNUPXFsKRCQyZE+mg+Uj9yqq33vLvXigctUSm/C9y2HqspN9u4hgFfygtR/C0Klbn5mUvraMNsDHTAbuz3fHYcqN/1mQpWJGmWsZlzwApZXMMjAcaLYXkKP+8ovqR3lhX0f0XNjdPCzPDtDkpJEKv/rIc6dDH4Gybc3dUJqn+8qZ0d4/h4WsE46sN22/Faf+E0fDrmIZsLk5IxB5Jbvj8qObCX4vx51yHFDrjlqGHqyxuj7VyVmvdBcfZ5hokeBA/f89/03WslgPN4yLMX+iMuQcVrOGEqK4ZDeuZ7vGJsIpVblXOjrujwjIL3o0pMibMw25DYvtaoXcH/HD+xzEzZgYQwvW6eOKxdhxgLfq2QiimQ5pLZ8zzZRx12bLiAz1E5PS+NL14Q==;o5e4QFdFl6MCuROEHytXVA=="

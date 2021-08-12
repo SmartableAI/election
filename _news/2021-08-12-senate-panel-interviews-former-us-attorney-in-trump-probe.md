@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Senate Panel Interviews Former US Attorney in Trump Probe"
-excerpt: "Senators have met privately with a former U.S. attorney in Atlanta who resigned in January as then-President Donald Trump pressured officials to overturn his election defeat."
-publishedDateTime: 2021-08-12T02:51:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
+title: "Senate panel interviews former US attorney in Trump probe"
+excerpt: "The Senate Judiciary Committee met privately Wednesday with a former U.S. attorney in Georgia who resigned in January as then-President Donald Trump waged a pressure campaign on state and federal officials to overturn his presidential defeat — part of a larger probe into Trump’s actions after the November election."
+publishedDateTime: 2021-08-12T03:50:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Senate-panel-interviews-former-US-attorney-in-16380978.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Senate-panel-interviews-former-US-attorney-in-16380978.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Senate-panel-interviews-former-US-attorney-in-16380978.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Senate-panel-interviews-former-US-attorney-in-16380978.php"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -83,6 +83,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "j3BmpM2/s21hZghKSY2PvkMdoBlqnDmeIBTU6T4x6qQgoDYlHw9V4lMnJwOMRIbq4THUXzCLpXyue5m8f7dLPylxYCLovYZlGUWHgl1tkiLJrAJ41faet5shezNRkwbqrsR9DHqsflj4QbEvHD9FpB0bofQx4tmUh3ACerlHM5+iK9+sGHkrXxh0CHJlTrq8x2mo14R677iQV1QsdBqkxI4Gpb7aAR2DedH40xl3AvOhVS8Huljk0Pb37lF/VdfWDL7YSuOHJ3Z3Dw5OMg0aAvS4SOWD3lGCrz6j1CV8Jym7mXr/yCWya02Jy4XHWJpI+gKt9cyw204p6oBydZYMFL72EufN+cDhO1LHwGktGLeQMPRi62mKoVBDEQfKPt0eoMP5wuunMsHIZoD4l1kf3VKaCBtEtxXssvwCIrNuCannzFXnz2wXR5MsOijMTmaxFVjbRzDXEB7XuUjSVvUTSHr+drnWlgQaLnwZZPD+PS088VdUNMpZJ0uXw653r+3PWjdUxCzLv2lmL8ZxHJXi3Q==;Mhn41Q7X1h26VtqwG8F/Ww=="
+secured: "jWVpYaepL7BZ1DD6LABz0E7QGqGZ7UNnDjStgvBxFzH6UobP//TZOHrwIh+vg2hj9gg0x16y0SPEs1wQGKpyVZM0jUEs8UnJcJom7ENJjDPapyEdNJRjxnRb8wcPV/NbQvUiZId16oMI1sovkJ3tZSJ0gkBzRXc33eydD7yngL77lTNyr0tIR/EAW8BcAWEDxOY4JQSlOusG8lgAUQXO9RIko1qhMfPJBcn/wsiRqcu0h6+rzIk/IaJEqHgtppgpx9EUe+KCKap36htM1IKrf6GCXBcB4rn/V4B2socQYvb7/c1QbAoCJhOPamMb0P4BzMl2KBDaHpJ9aFwLpACCDxvEDrDd9jnOAKGisMP0Oy+D7ZuswQp+JgQ+bfG9WXO0t9ERrEP9D5VjcM5zntiNfmz+Lb7EaCR4SV+8N4uZcOHTL7QyeGY8dYxgoXyk0ySNX+nHfax5GIG9HYiUfyVckawe812LTUfcA5ttvq7fS0tlnjMQ646W1zhFD1Y9C1CN/1qUknVlGPXifCAV1pYq0w==;woYHoHBi1htxn2dJ3fpXJw=="
 ---
 

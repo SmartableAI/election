@@ -160,18 +160,32 @@ related:
         height: 433
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Infrastructure"
-    excerpt: "President Joe Biden and Vice President Kamala Harris arrive to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
     publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/722476b8ee5be344d4c34cc24386619f/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/722476b8ee5be344d4c34cc24386619f/WHITE-HOUSEINFRASTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/b952c0881bab8dd7ec71e25362e3441a/WHITE-HOUSEINFRASTRUCTURE.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Ruling goes against Trump"
+    excerpt: "WASHINGTON — House Democrats investigating Donald Trump are entitled to some of the former president’s financial records, a federal judge ruled Wednesday."
+    publishedDateTime: 2021-08-12T04:24:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/11/ruling-goes-against-trump/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 55
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/08/Trump_Financial_Records_86507.jpg-5702b.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
     excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."

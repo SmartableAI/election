@@ -485,6 +485,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-10-pence-cruz-desantis-to-headline-ricketts-steak-fry-event.md",
+      "title": "Pence, Cruz, DeSantis to headline Ricketts steak fry event",
+      "excerpt": "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
+      "publishedDateTime": "2021-08-09T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-biden-covid-origin-investigation-expected-to-end-soon-charlotte-observer.md",
       "title": "Biden COVID origin investigation expected to end soon | Charlotte Observer",
       "excerpt": "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ...",
@@ -897,49 +940,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-09-pence-cruz-desantis-will-headline-ricketts-event.md",
-      "title": "Pence, Cruz, DeSantis will headline Ricketts event",
-      "excerpt": "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis form an all-star lineup of guests who will join Gov. Pete Ricketts at a Nebraska Steak Fry scheduled in Nebraska City on Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://journalstar.com/news/state-and-regional/govt-and-politics/pence-cruz-desantis-will-headline-ricketts-event/article_3fcf2e16-1950-5aac-b134-d35f59f5176d.html",
-      "originalUrl": "https://journalstar.com/news/state-and-regional/govt-and-politics/pence-cruz-desantis-will-headline-ricketts-event/article_3fcf2e16-1950-5aac-b134-d35f59f5176d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/0/09/0090e635-b8c5-558b-891e-c3766153eb1f/61100ac772738.image.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://journalstar.com/news/state-and-regional/govt-and-politics/pence-cruz-desantis-will-headline-ricketts-event/article_3fcf2e16-1950-5aac-b134-d35f59f5176d.amp.html",
-      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/news/state-and-regional/govt-and-politics/pence-cruz-desantis-will-headline-ricketts-event/article_3fcf2e16-1950-5aac-b134-d35f59f5176d.amp.html",
-      "publishedDateTime": "2021-08-08T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lincoln Journal Star",
-        "domain": "journalstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-08-08-donald-trump-is-still-the-leader-of-republican-party-rnc-chair-says.md",
       "title": "Donald Trump is still the leader of Republican Party, RNC chair says",
       "excerpt": "Former President Donald Trump is still calling the shots for the GOP, as is evident by his more than $100 million war chest, a party honcho said Sunday.",
@@ -1208,7 +1208,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary",
       "featuredContent": null,
       "highlight": null,
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {

@@ -45,17 +45,17 @@ related:
         width: 2000
         height: 1234
         isCached: true
-  - title: "Senate Panel Interviews Former US Attorney in Trump Probe"
-    excerpt: "Senators have met privately with a former U.S. attorney in Atlanta who resigned in January as then-President Donald Trump pressured officials to overturn his election defeat."
-    publishedDateTime: 2021-08-12T02:51:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
+  - title: "Senate panel interviews former US attorney in Trump probe"
+    excerpt: "The Senate Judiciary Committee met privately Wednesday with a former U.S. attorney in Georgia who resigned in January as then-President Donald Trump waged a pressure campaign on state and federal officials to overturn his presidential defeat — part of a larger probe into Trump’s actions after the November election."
+    publishedDateTime: 2021-08-12T03:50:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Senate-panel-interviews-former-US-attorney-in-16380978.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Senate-panel-interviews-former-US-attorney-in-16380978.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Senate-panel-interviews-former-US-attorney-in-16380978.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
   - title: "Senior living exec ordered to pay back defrauded investors $79 million after Donald Trump commutes prison sentence"
     excerpt: "Former Sunwest Management CEO Jon Harder dodged nine years of prison time when then-President Donald Trump commuted his sentence in January."
     publishedDateTime: 2021-08-03T05:16:00Z

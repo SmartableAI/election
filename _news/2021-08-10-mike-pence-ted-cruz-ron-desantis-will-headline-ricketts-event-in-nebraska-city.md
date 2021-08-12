@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Pence, Cruz, DeSantis to headline Ricketts steak fry event"
+    excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept."
+    publishedDateTime: 2021-08-09T20:40:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
   - title: "Pence, Cruz, DeSantis will headline Ricketts event"
     excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis form an all-star lineup of guests who will join Gov. Pete Ricketts at a Nebraska Steak Fry scheduled in Nebraska City on Sept."
     publishedDateTime: 2021-08-08T17:15:00Z
@@ -56,22 +67,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/29/pence_palmetto_family_council_22043_c0-172-4186-2613_s1200x700.jpg?3fa410db4037e345abf94878c5dac3f518291556"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Pence, Cruz, DeSantis to headline Ricketts steak fry event"
-    excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept."
-    publishedDateTime: 2021-08-09T21:40:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "8GjLqyZiu65SpNQ3Vwgt/U18ZsWjxFY/58jUuSWv601ViH04g9IxsPNX+HDNWRdwGZegmVLXSgh7HzhhEP6w7RX1PxJyxqcxv3+M+CtqIb/fSNZT22cdADJLv4Rz1eRjq/eai2BGmoj1ClZb2tHnVfSztz6YdubSlCLyRNlYzYJ7vMJiIQdiCIK0G8nIpu2G7NqzRjvayT3yBueM23CxO318edw2aMM3XpmDFjT/EMtNBAMqvfMpR4jQTRol2AoiWnX+xiNa2Yg2Md2Slfatlzn/BomghS9+962nrZsyW/5vslLB+11Dbt2MTZ3IgRi2NSW3ruimSIfiJ4NLdZQus/Yl4P3Ei4lPwQNatFcM3gpC5ZZTKK+oXMbH3uaX10YOsN1A/1KXmbpljdmF98fSA81XmU5WOPBYFAeP4xdsNhsrWI4Zl7FFNcdwB4BTKeMZlzgyUztA7E4kHP6urSsIVldkLZIJo7HZFAtK4HVmYdwNZt3XmMmGIJMXI/yCXuoKWvXw+a05yEcE2Tw+IW4LzA==;y26JvCxYswdmZx5tx9QwrQ=="

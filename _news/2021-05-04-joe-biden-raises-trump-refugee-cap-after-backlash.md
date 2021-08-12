@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3670
+heat: 3690
 published: true
 
 provider:
@@ -1653,6 +1653,20 @@ related:
       - url: "https://www.reuters.com/resizer/_aqN9UEaAQEn4jhw9jk_f3HNaVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UKUUS4YNSJOKVGQ4NQIEBY57CI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Biden Delivers on Trump’s Afghan Exit as Taliban Surges to Power"
+    excerpt: "Donald Trump made the politically popular pledge to bring U.S. troops home from the nation’s longest war. Now Joe Biden is delivering on the promise -- and reaping growing criticism over the grim results that are unfolding in Afghanistan."
+    publishedDateTime: 2021-08-12T04:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-12/biden-delivers-on-trump-s-afghan-exit-as-taliban-surges-to-power"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3iCbVECUldc/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden backers sue 'Trump Train' members, police over campaign bus incident"
     excerpt: "Several people who were traveling last October on a campaign bus for Democratic President Joe Biden that was surrounded by supporters of Republican former President Donald Trump on a Texas highway filed a pair of federal lawsuits on Thursday over the incident."

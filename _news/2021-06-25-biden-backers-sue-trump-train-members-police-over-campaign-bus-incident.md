@@ -1667,6 +1667,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden Delivers on Trump’s Afghan Exit as Taliban Surges to Power"
+    excerpt: "Donald Trump made the politically popular pledge to bring U.S. troops home from the nation’s longest war. Now Joe Biden is delivering on the promise -- and reaping growing criticism over the grim results that are unfolding in Afghanistan."
+    publishedDateTime: 2021-08-12T04:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-12/biden-delivers-on-trump-s-afghan-exit-as-taliban-surges-to-power"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3iCbVECUldc/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
     excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
     publishedDateTime: 2021-04-27T20:49:00Z

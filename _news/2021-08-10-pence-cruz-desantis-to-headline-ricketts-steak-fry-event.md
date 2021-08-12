@@ -2,29 +2,27 @@
 category: news
 title: "Pence, Cruz, DeSantis to headline Ricketts steak fry event"
 excerpt: "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept."
-publishedDateTime: 2021-08-09T21:40:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
-webUrl: "https://www.seattlepi.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+publishedDateTime: 2021-08-09T20:40:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 105
+heat: 165
+published: true
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Pence, Cruz, DeSantis will headline Ricketts event"
@@ -74,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ElaIAw93UX2MrTdxpkVQRCZp/a3ofVmwW78Awp1IZ+SNIhel5pvZMeHx3Bf8xeKZK87qCJ0tqa/A3j6dx4AkjISSyfML7eQVtULCmD01mxTXHJldFMd0aoPXzhwtgGUYi8o9PbDo7Njn0JWAW5pdTA+zAyVXvxvUUzTXHgSOnEgzbnmHEeLw2zrTzYcMdpw7mLmvaILRcLgsp9kP5dJdM9vJ823xg7OgxwQGZpcyj4oZiE8CeB6zrifk1bYPuXsUVGD1aga71nE9GNRnZ4MzFPGh52hKcuiRIXc1zcJn9NmD+HZyKPfqDmeURa4VtSKqjVCNqI+fOEFJce5Jx98AKzUXP/XJc4GvtjSdcyHqCDo=;5EfsECvZYugyW5ZMmwqRUA=="
+secured: "Bwu2ivPx4LwKMjARoEQGLEF8X824xgZ5AnOZXyvrGsA0eyl6TmLFbO7Y5Ac3RB2SFv93hmwtC2s6m6xVk/IEnjsH3ff0dZ1f4dw2xk/GEjsLd3vYqYWRL6qhN+SD9PrbkBPM8W5way7mp9B5dYwjgDOr1bgprvB64LEnC91tKhdqzEn4sCrTFHlbR2jDCCusCZ72T0QTSbbbepSiDS3N82vDhadJa+zc4iGL+CE4WsEyvTgvLNhyFkbo9slgOUevJxiKUUL0VFja3qOiNbUYdWMeCKOGJUNlQ9M6wRDuB/gPvU/b/cs0ebn0RpGwbQryHFHXo87pxRWYOoDLkKSyxy4LqydC/00vF3EnHi/CH+8=;ZoOnzfEs9YGcdLQsNXqp9Q=="
 ---
 

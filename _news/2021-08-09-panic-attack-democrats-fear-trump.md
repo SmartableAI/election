@@ -87,6 +87,20 @@ related:
         width: 360
         height: 360
         isCached: true
+  - title: "Andrew Cuomo, Donald Trump: How are their sexual harassment accusations different?"
+    excerpt: "\"In the end, neither of these men are fit to hold public office, now or in the future. One has done the right thing. The other? Not so much,\" Ethan Strimling writes."
+    publishedDateTime: 2021-08-12T05:00:00Z
+    webUrl: "https://bangordailynews.com/2021/08/12/opinion/contributors/andrew-cuomo-donald-trump-how-are-their-sexual-harassment-accusations-different/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/07/AgreeDisagree-3-1.jpg?fit=2500%2C1521&#038;ssl=1"
+        width: 2500
+        height: 1521
+        isCached: true
 
 secured: "Iva1Q1MsIR92dv7mhFSm1ddBgEkTGUR/PnoOJiAfXJLP7xSthGmYKpS8o/GIVAidh3nCTjcwumC5Q8hdEgMJwLfAB5oe8hRBAIlUrX9gdhDn3KLiYNY/8SzDDecCj8XkvhrqtslzK65pic3rex8O327Z55J7C6PTdvZGHuOhKS9ZXwQ3QA/SLqdjpUux86aqKEfHJPXxBHJ57G47g+v9XWx0Xy8+7uo2eWfEKW1kowAcBPoxdsX/NuQegb5HO0TeQTVSHhTlM5CjcDPQu0LCm2So/iOwMwKLB/05vNwywPS/6aoho9LvhdS/Y4ZAkDB61tUjnoCKvZteunzM0Z4G2UQsRDR+ksfn/PsltfyuUMA=;PKyZycVgbvKb+h47yWcSKQ=="
 ---
