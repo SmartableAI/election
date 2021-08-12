@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-12-cuomo-avenatti-the-lincoln-project-the-medias-anti-trump-idols-whove-collapsed-in-disgrace.md",
+      "title": "Cuomo, Avenatti, The Lincoln Project: The media's anti-Trump idols who've collapsed in disgrace",
+      "excerpt": "Democratic New York Gov. Andrew Cuomo was not only hailed by the media as a hero of the coronavirus pandemic; he was also being floated as a presidential candidate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project",
+      "originalUrl": "https://www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19744884-ba06-42c5-ace0-e4be0c36d8cb/33d50dff-5424-46d5-995b-a2e58056de34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project.amp",
+      "publishedDateTime": "2021-08-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-judge-rules-dominion-defamation-case-against-trump-allies-can-proceed.md",
+      "title": "Judge rules Dominion defamation case against Trump allies can proceed",
+      "excerpt": "A federal judge cleared the way for a defamation case​ by Dominion Voting Systems to proceed against Sidney Powell, Rudy Giuliani and Mike Lindell.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
+      "originalUrl": "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/08/12/0be33b12-830d-4c03-9278-d82c0bb76461/thumbnail/1200x630g1/bed7589c1d9e274f1896636b27e28722/gettyimages-1229757105.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
+      "publishedDateTime": "2021-08-12T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-a-tabloid-ally-of-trump-and-weinstein-reboots-himself.md",
       "title": "A Tabloid Ally of Trump and Weinstein Reboots Himself",
       "excerpt": "Dylan Howard, known for the “catch and kill” deals during the #MeToo reckoning, teams up with an Italian publisher for a paper aimed at the Hamptons crowd.",
@@ -562,7 +671,7 @@
       "originalUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -653,7 +762,7 @@
       "originalUrl": "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -794,58 +903,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-to-go-back-to-school.md",
-      "title": "Trump Claims 100M Could Have Died Without Operation Warp Speed, Says Kids Need to Go Back to School",
-      "excerpt": "\"Could you imagine if I were president right now and we had this massive attack from the coronavirus?\" the former president asked Fox News host Dan Bongino.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291",
-      "originalUrl": "https://www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1658231/donald-trump-taking-off-mask.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291?amp=1",
-      "publishedDateTime": "2021-08-08T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1049,49 +1106,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-05-former-president-donald-trump-to-hold-rally-in-cullman-what-to-know-before-you-go.md",
-      "title": "Former President Donald Trump to hold rally in Cullman. What to know before you go",
-      "excerpt": "Former President Donald Trump is scheduled to speak at a \"Save America\" rally in Cullman, Alabama, on Aug. 21, 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.montgomeryadvertiser.com/story/news/politics/2021/08/05/donald-trump-rally-cullman-alabama-tickets-details/5491027001/",
-      "originalUrl": "https://www.montgomeryadvertiser.com/story/news/politics/2021/08/05/donald-trump-rally-cullman-alabama-tickets-details/5491027001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/21/USAT/e7258ef3-99e5-4513-87fd-73d0a5ecb6b3-AP_Trump_Politics.jpg?auto=webp&crop=3523,1982,x0,y179&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.montgomeryadvertiser.com/amp/5491027001",
-      "cdnAmpWebUrl": "https://amp-montgomeryadvertiser-com.cdn.ampproject.org/c/s/amp.montgomeryadvertiser.com/amp/5491027001",
-      "publishedDateTime": "2021-08-05T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Montgomery Advertiser",
-        "domain": "montgomeryadvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-08-05-trump-targeted-by-protesters-at-winged-foot-golf-club-in-mamaroneck.md",
       "title": "Trump targeted by protesters at Winged Foot Golf Club in Mamaroneck",
       "excerpt": "Former President Donald Trump was reportedly being honored at a tribute banquet at the Mamaroneck golf course, where people gathered to protest.",
@@ -1100,7 +1114,7 @@
       "originalUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1437,7 +1451,7 @@
       "originalUrl": "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 217,
       "tags": null,
       "images": [
         {

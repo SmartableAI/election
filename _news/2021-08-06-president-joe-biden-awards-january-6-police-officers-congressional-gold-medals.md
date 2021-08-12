@@ -324,6 +324,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Joe Biden’s new challenge is keeping together a fractious Democratic Party"
+    excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill. But as the bill moves to consideration in the House alongside a $3."
+    publishedDateTime: 2021-08-12T11:50:00Z
+    webUrl: "https://bangordailynews.com/2021/08/12/national-politics/joe-bidens-new-challenge-is-keeping-together-a-fractious-democratic-party/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 53
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Biden-2.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
     excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
     publishedDateTime: 2021-08-04T21:35:00Z

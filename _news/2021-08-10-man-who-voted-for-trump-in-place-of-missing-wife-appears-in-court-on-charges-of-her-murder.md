@@ -31,90 +31,230 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Illinois Governor, Who Trump Freed from Jail, Files Lawsuit to Run for Office Again"
-    excerpt: "\"The issues are very clear,\" former Illinois Governor Rod Blagojevich said to reporters Monday. \"It's about right to vote and it's about due process.\""
-    publishedDateTime: 2021-08-02T22:31:00Z
-    webUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491"
-    ampWebUrl: "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1"
+  - title: "Judge rules Dominion defamation case against Trump allies can proceed"
+    excerpt: "A federal judge cleared the way for a defamation case​ by Dominion Voting Systems to proceed against Sidney Powell, Rudy Giuliani and Mike Lindell."
+    publishedDateTime: 2021-08-12T13:19:00Z
+    webUrl: "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/08/12/0be33b12-830d-4c03-9278-d82c0bb76461/thumbnail/1200x630g1/bed7589c1d9e274f1896636b27e28722/gettyimages-1229757105.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Claims 100M Could Have Died Without Operation Warp Speed, Says Kids Need to Go Back to School"
+    excerpt: "\"Could you imagine if I were president right now and we had this massive attack from the coronavirus?\" the former president asked Fox News host Dan Bongino."
+    publishedDateTime: 2021-08-08T15:23:00Z
+    webUrl: "https://www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291"
+    ampWebUrl: "https://www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 117
+    quality: 111
     images:
-      - url: "https://d.newsweek.com/en/full/1860656/rod-blagojevich.jpg"
-        width: 3000
-        height: 2001
+      - url: "https://d.newsweek.com/en/full/1658231/donald-trump-taking-off-mask.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Trump-commuted exec settles $4 mln fraud lawsuit with feds"
-    excerpt: "The former chief executive officer of Tennessee pain management company Comprehensive Pain Specialists has agreed to a permanent exclusion from Medicare and other federal healthcare programs to settle a lawsuit that he submitted false claims to the government for reimbursement."
-    publishedDateTime: 2021-08-03T21:51:00Z
-    webUrl: "https://www.reuters.com/legal/government/trump-commuted-exec-settles-4-mln-fraud-lawsuit-with-feds-2021-08-03/"
+  - title: "The Latest: More candidates emerge for Trump chief of staff"
+    excerpt: "The Latest on the White House chief of staff (all times local): 10 p.m. As President Donald Trump ponders picking a new chief of staff, more names are emerging as possible contenders for the job."
+    publishedDateTime: 2021-08-11T13:34:00Z
+    webUrl: "https://apnews.com/article/donald-trump-politics-michael-pence-north-america-mark-meadows-c76216421a014e0794913b9eae97aa88"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Associated Press
+      domain: apnews.com
     quality: 105
     images:
-      - url: "https://www.reuters.com/resizer/eAVCHt0XL4FzEfho4ojVLr7Jzog=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BYEA4NIQOJKIRIEUBUSDAZJW7I.jpg"
-        width: 1200
-        height: 628
+      - url: "https://storage.googleapis.com/afs-prod/media/media:1d786013700b4de28dfc62d50d824d8d/2000.jpeg"
+        width: 2000
+        height: 1234
         isCached: true
-  - title: "Nevada county bid to honor Trump goes from road to buildings"
-    excerpt: "Lawmakers in a rural Nevada county who decided 3-2 last month not to name a road for former President Donald Trump now are considering putting his name on their court, jail and sheriff’s office. Lyon County commissioners have scheduled debate Thursday on a bid to name the Justice Complex in Yerington after Trump,"
-    publishedDateTime: 2021-08-02T22:40:00Z
-    webUrl: "https://www.chron.com/news/article/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Nevada-county-bid-to-honor-Trump-goes-from-road-16358052.php"
+  - title: "Man sentenced for shooting Black girl at Iowa Trump rally"
+    excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
+    publishedDateTime: 2021-08-10T04:50:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dfe408c/2147483647/strip/true/crop/5150x3444+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff3%2F73%2Fc52d529a5c7aef00c2b6b68f5f30%2Fe5e0390469b54193a0ae4e33394b6505"
+        width: 320
+        height: 214
         isCached: true
-  - title: "Will Donald Trump Jr. Run For Office? Trump's Son Leads GOP Favorability Poll"
-    excerpt: "Donald Trump Jr., son of former President Donald Trump, topped a GOP favorability poll that pitted him against six other Republican figures. In a poll conducted by Tony Fabrizio of Fabrizio Lee & Associates between July 6 to 8,"
-    publishedDateTime: 2021-07-27T02:16:00Z
-    webUrl: "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088"
-    ampWebUrl: "https://www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-donald-trump-jr-run-office-trumps-son-leads-gop-favorability-poll-3260088?amp=1"
+  - title: "Judge says accounting firm must hand over Trump financial records"
+    excerpt: "A federal judge on Wednesday ruled that an accounting firm must hand over some of former President Donald Trump's personal financial records to a House committee investigating him."
+    publishedDateTime: 2021-08-11T18:37:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/11/judge-Trump-financial-records/7971628702984/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/11/judge-Trump-financial-records/7971628702984/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/11/judge-Trump-financial-records/7971628702984/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7971628702984/2021/1/b29601c5fbcff241e3e43b3272057ec9/v1.5/Judge-says-accounting-firm-must-hand-over-Trump-financial-records.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "White Army vet who shot Black girl at Trump rally sentenced to 10 years"
+    excerpt: "A white military veteran who shot and wounded a 15-year-old Black girl at a Trump rally last year has been sentenced to ten years."
+    publishedDateTime: 2021-08-11T21:33:00Z
+    webUrl: "https://thegrio.com/2021/08/11/man-who-shot-black-girl-gets-10-years/"
+    ampWebUrl: "https://thegrio.com/2021/08/11/man-who-shot-black-girl-gets-10-years/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/08/11/man-who-shot-black-girl-gets-10-years/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 75
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/08/pjimage-2021-08-10T180930.192.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former President Donald Trump to hold rally in Cullman. What to know before you go"
+    excerpt: "Former President Donald Trump is scheduled to speak at a \"Save America\" rally in Cullman, Alabama, on Aug. 21, 2021."
+    publishedDateTime: 2021-08-05T11:01:00Z
+    webUrl: "https://www.montgomeryadvertiser.com/story/news/politics/2021/08/05/donald-trump-rally-cullman-alabama-tickets-details/5491027001/"
+    ampWebUrl: "https://amp.montgomeryadvertiser.com/amp/5491027001"
+    cdnAmpWebUrl: "https://amp-montgomeryadvertiser-com.cdn.ampproject.org/c/s/amp.montgomeryadvertiser.com/amp/5491027001"
+    type: article
+    provider:
+      name: Montgomery Advertiser
+      domain: montgomeryadvertiser.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/21/USAT/e7258ef3-99e5-4513-87fd-73d0a5ecb6b3-AP_Trump_Politics.jpg?auto=webp&crop=3523,1982,x0,y179&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump-Supporting News Outlets Newsmax, OANN Sued By Dominion In Defamation Lawsuit"
+    excerpt: "Right-wind media outlets Newsmax and OANN are being sued for $1.6 billion each by Dominion Voting Systems in defamation lawsuits."
+    publishedDateTime: 2021-08-10T20:38:00Z
+    webUrl: "https://www.ibtimes.com/trump-supporting-news-outlets-newsmax-oann-sued-dominion-defamation-lawsuit-3270717"
+    ampWebUrl: "https://www.ibtimes.com/trump-supporting-news-outlets-newsmax-oann-sued-dominion-defamation-lawsuit-3270717?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-supporting-news-outlets-newsmax-oann-sued-dominion-defamation-lawsuit-3270717?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 72
+    quality: 69
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/donald-trump-jr-speaking-during-the-first-day.jpg"
-        width: 1024
-        height: 707
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/04/election-2016-rigged-safe-hackers-cyber-attacks-hacking-election-vote-voting-machines_0.jpg"
+        width: 900
+        height: 506
         isCached: true
-  - title: "Trump-linked Georgia lawmaker to run for lieutenant governor"
-    excerpt: "Burt Jones has filed to run for lieutenant governor in Georgia, launching another Republican candidacy that will be closely tied to denying Donald Trump's 2020 loss of Georgia's 16 electoral votes. Jones,"
-    publishedDateTime: 2021-08-08T03:44:00Z
-    webUrl: "https://www.modbee.com/news/politics-government/national-politics/article253340213.html"
-    ampWebUrl: "https://amp.modbee.com/news/politics-government/national-politics/article253340213.html"
-    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/politics-government/national-politics/article253340213.html"
+  - title: "Judge rules Congress can get some Trump tax records related to D.C. hotel lease, gifts"
+    excerpt: "The ruling is limiting to a far broader House panel's demand as part of a long-running inquiry into Trump's financial disclosures."
+    publishedDateTime: 2021-08-11T19:49:00Z
+    webUrl: "https://www.app.com/story/news/politics/2021/08/11/judge-congress-can-get-some-trump-docs-covering-hotel-lease-gifts/8096428002/"
+    ampWebUrl: "https://amp.app.com/amp/8096428002"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/8096428002"
     type: article
     provider:
-      name: Modesto Bee
-      domain: modbee.com
-    quality: 55
-  - title: "Trump-linked Georgia lawmaker to run for lieutenant governor"
-    excerpt: "Burt Jones has filed to run for lieutenant governor in Georgia, launching another Republican candidacy that will be closely tied to denying Donald Trump's 2020 loss of Georgia's 16 electoral votes. Jones,"
-    publishedDateTime: 2021-08-10T05:10:00Z
-    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article253340213.html"
-    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article253340213.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article253340213.html"
+      name: app.com
+      domain: app.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/28/USAT/c85f972b-b954-4c15-8b79-0149c362ba88-3_-_Trump_International_Hotel_Washington_D.C..jpg?auto=webp&crop=1999,1125,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump applied ‘persistent’ pressure to get DOJ to discredit election, his AG tells senators"
+    excerpt: "The testimony is part of a trough of information that investigators are assembling about Trump's frantic efforts to reverse his defeat and use the Justice Department to stay in office."
+    publishedDateTime: 2021-08-12T13:01:00Z
+    webUrl: "https://www.pressherald.com/2021/08/12/trump-applied-persistent-pressure-to-get-doj-to-discredit-election-his-ag-tells-senators/"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 60
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Trump_Justice_Department_92346-1.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Dominion sues Trump-friendly broadcasters over fraud claims"
+    excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election was marred by fraud."
+    publishedDateTime: 2021-08-11T22:06:00Z
+    webUrl: "https://www.sunherald.com/news/business/article253404220.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article253404220.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article253404220.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
     quality: 55
+  - title: "Senate panel interviews former U.S. attorney in Trump probe"
+    excerpt: "The Senate Judiciary Committee met privately Wednesday with a former U.S. attorney in Georgia who resigned in January as then-President Donald Trump waged a pressure campaign on state and federal offi"
+    publishedDateTime: 2021-08-12T12:42:00Z
+    webUrl: "https://triblive.com/news/world/senate-panel-interviews-former-u-s-attorney-in-trump-probe/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 55
+    images:
+      - url: "https://assets-varnish.triblive.com/2021/08/4133458_web1_4133458-6ebcc9be78cf45648a7888e8d7f4450c.jpg"
+        width: 640
+        height: 441
+        isCached: true
+  - title: "Trump accounting firm must release some records to Congress"
+    excerpt: "Mazars will have to turn over largely records relating to Trump’s lease on the Old Post Office in Washington and certain emolument questions."
+    publishedDateTime: 2021-08-11T23:12:00Z
+    webUrl: "https://bangordailynews.com/2021/08/11/news/nation/trump-accounting-firm-must-release-some-records-to-congress/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Trump-Lawsuit.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
+    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
+    publishedDateTime: 2021-08-11T20:25:00Z
+    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+  - title: "Judge: House Entitled to Some of Trump's Financial Records"
+    excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."
+    publishedDateTime: 2021-08-12T00:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/judge-house-entitled-to-some-of-trumps-financial-records"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
+    excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
+    publishedDateTime: 2021-08-12T09:02:00Z
+    webUrl: "https://www.lohud.com/story/news/2021/08/12/trump-tower-white-plains-remove-ex-presidents-brand/5531008001/"
+    type: article
+    provider:
+      name: The Journal News
+      domain: lohud.com
+    quality: 32
 
 secured: "EQoeShctVXbPpdPxQJ00A/gx+7dKWBk+SWS748YCj6A+ewFYG9msJXYfOEXyKIGE46RMZigaBW9SPcEkjdU71EcqUfW73ssXFoYj1k6Wtg+tH61Z0BVHrll7bBxi7sGQ1QYhIdqdLt/dNLB63yQotdwx/ogNOD6iMPpETTXLHI9XL4hPRzzDLMYfkFJdR3gzSnwcUIZ7uhjGum7Nk+A7qUjLIA6dksZEQOkV/DSMH2xBSv9o2ED23ZPNjFmycmvN8K7avxbS7vw5oHsb+U7sXScemiku6hNfPyGRCNIj5xjRRyx9FJVWvww+t042WvI1RiAkgHA5WlG/wiNubpn6mRfRjgdJfGggB815DqEDzXI=;FbSaYwiiu6DY4B4TiCrvBA=="
 ---
