@@ -57,6 +57,17 @@ related:
         width: 2000
         height: 1234
         isCached: true
+  - title: "Senate Panel Interviews Former US Attorney in Trump Probe"
+    excerpt: "Senators have met privately with a former U.S. attorney in Atlanta who resigned in January as then-President Donald Trump pressured officials to overturn his election defeat."
+    publishedDateTime: 2021-08-12T02:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Senior living exec ordered to repay defrauded investors $79M although Donald Trump commuted prison sentence"
     excerpt: "Oregon senior-living developer Jon Harder, guilty of defrauding 1,200 investors out of about $120 million, must pay more than $79 million in restitution, a federal judge ruled. Harder's sentence was commuted in January by then-President Donald Trump."
     publishedDateTime: 2021-08-03T02:27:00Z

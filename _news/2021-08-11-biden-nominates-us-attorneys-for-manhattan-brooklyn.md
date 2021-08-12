@@ -111,6 +111,20 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 55
+  - title: "Biden's complicated new task: keeping Dems together"
+    excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
+    publishedDateTime: 2021-08-12T02:40:00Z
+    webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 55
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/07/27/bideneconomy4374046600_t1070_h62d769030b5428c8067704a70df1574b25cff470.jpg"
+        width: 1070
+        height: 714
+        isCached: true
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z

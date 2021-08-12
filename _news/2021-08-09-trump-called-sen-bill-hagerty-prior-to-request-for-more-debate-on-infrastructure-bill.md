@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471?amp=1"
 type: article
 quality: 117
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 2000
         height: 1234
         isCached: true
+  - title: "Senate Panel Interviews Former US Attorney in Trump Probe"
+    excerpt: "Senators have met privately with a former U.S. attorney in Atlanta who resigned in January as then-President Donald Trump pressured officials to overturn his election defeat."
+    publishedDateTime: 2021-08-12T02:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Senior living exec ordered to pay back defrauded investors $79 million after Donald Trump commutes prison sentence"
     excerpt: "Former Sunwest Management CEO Jon Harder dodged nine years of prison time when then-President Donald Trump commuted his sentence in January."
     publishedDateTime: 2021-08-03T05:16:00Z

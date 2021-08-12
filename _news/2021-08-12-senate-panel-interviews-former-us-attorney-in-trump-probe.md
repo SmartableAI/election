@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Senior living exec ordered to repay defrauded investors $79M although Donald Trump commuted prison sentence"
-excerpt: "Oregon senior-living developer Jon Harder, guilty of defrauding 1,200 investors out of about $120 million, must pay more than $79 million in restitution, a federal judge ruled. Harder's sentence was commuted in January by then-President Donald Trump."
-publishedDateTime: 2021-08-03T02:27:00Z
-originalUrl: "https://www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/"
-webUrl: "https://www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/"
-ampWebUrl: "https://www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/?amp=1"
+title: "Senate Panel Interviews Former US Attorney in Trump Probe"
+excerpt: "Senators have met privately with a former U.S. attorney in Atlanta who resigned in January as then-President Donald Trump pressured officials to overturn his election defeat."
+publishedDateTime: 2021-08-12T02:51:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
 type: article
-quality: 37
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -51,17 +55,6 @@ related:
         width: 2000
         height: 1234
         isCached: true
-  - title: "Senate Panel Interviews Former US Attorney in Trump Probe"
-    excerpt: "Senators have met privately with a former U.S. attorney in Atlanta who resigned in January as then-President Donald Trump pressured officials to overturn his election defeat."
-    publishedDateTime: 2021-08-12T02:51:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-08-11/senate-panel-interviews-former-us-attorney-in-trump-probe?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Senior living exec ordered to pay back defrauded investors $79 million after Donald Trump commutes prison sentence"
     excerpt: "Former Sunwest Management CEO Jon Harder dodged nine years of prison time when then-President Donald Trump commuted his sentence in January."
     publishedDateTime: 2021-08-03T05:16:00Z
@@ -78,7 +71,18 @@ related:
         width: 960
         height: 706
         isCached: true
+  - title: "Senior living exec ordered to repay defrauded investors $79M although Donald Trump commuted prison sentence"
+    excerpt: "Oregon senior-living developer Jon Harder, guilty of defrauding 1,200 investors out of about $120 million, must pay more than $79 million in restitution, a federal judge ruled. Harder's sentence was commuted in January by then-President Donald Trump."
+    publishedDateTime: 2021-08-03T02:27:00Z
+    webUrl: "https://www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/"
+    ampWebUrl: "https://www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/senior-living-exec-ordered-to-repay-defrauded-investors-79m-although-donald-trump-commuted-prison-sentence/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
-secured: "uiHGX+ame63zLgrwiLDKJAEeLW7kTRTNWEg9oVOK8sfgO+RRgTmQ+NeASW7kbtM40Dd3t4jfXbm/J/skBH8Wp1Mm2BvL0i4rZ6nlxeZU1jBDmIyxAj3KgreVYm08syR+OLLVCrnZjQlNn+yRRgi4t0wVIR6AjIJtKDdj7pkzRl/L63LFiWegXvU7pzzD7EVZuFocLwLa6q942QYkZzT8yKGaFlDwsn/fV8SUG3naFvO90jJRlGv70NV1FNN1sJ4f75Lp8CWW2h/KIkAOCjTDpHEwidVRxuLwFC3evUUArFugjuMK8VTPjYIlPJwyOYz+zHb/yR4haSSFOvSm96BXLhil+SLP2K+4a+oBO3LLsVSzrBv+sgH1W06kNPBAPdUhcAiNcH10UhfPczODtQHFTqHpWkbHyIipk4tPckZrAvQRAZFUvh+7UvLkrwSjgX6qh1TigSB9DVkc7I0g9PjG0fMUIneIjWrWrBW0laOBO8i5AlYRIo0bkiiJFomHt9ze/l3jsHkPrYbs03h7lNlGuQ==;Gh1HZs8rY1Su7sTxNJK6ag=="
+secured: "j3BmpM2/s21hZghKSY2PvkMdoBlqnDmeIBTU6T4x6qQgoDYlHw9V4lMnJwOMRIbq4THUXzCLpXyue5m8f7dLPylxYCLovYZlGUWHgl1tkiLJrAJ41faet5shezNRkwbqrsR9DHqsflj4QbEvHD9FpB0bofQx4tmUh3ACerlHM5+iK9+sGHkrXxh0CHJlTrq8x2mo14R677iQV1QsdBqkxI4Gpb7aAR2DedH40xl3AvOhVS8Huljk0Pb37lF/VdfWDL7YSuOHJ3Z3Dw5OMg0aAvS4SOWD3lGCrz6j1CV8Jym7mXr/yCWya02Jy4XHWJpI+gKt9cyw204p6oBydZYMFL72EufN+cDhO1LHwGktGLeQMPRi62mKoVBDEQfKPt0eoMP5wuunMsHIZoD4l1kf3VKaCBtEtxXssvwCIrNuCannzFXnz2wXR5MsOijMTmaxFVjbRzDXEB7XuUjSVvUTSHr+drnWlgQaLnwZZPD+PS088VdUNMpZJ0uXw653r+3PWjdUxCzLv2lmL8ZxHJXi3Q==;Mhn41Q7X1h26VtqwG8F/Ww=="
 ---
 

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Joe Biden urges Afghans to ‘fight for their nation’ as Taliban advance continues"
-excerpt: "With insurgents now controlling two-thirds of the country, the US president says local forces must rally"
-publishedDateTime: 2021-08-11T04:44:00Z
-originalUrl: "https://www.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
-webUrl: "https://www.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
-ampWebUrl: "https://amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+title: "Biden's complicated new task: keeping Dems together"
+excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
+publishedDateTime: 2021-08-12T02:40:00Z
+originalUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
+webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
 type: article
-quality: 120
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Texarkana Gazette
+  domain: texarkanagazette.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/c33651a21aa9ab372f38ba743fd3ca81b9039e27/0_41_5400_3242/master/5400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c5adbaf550bac5ce62cd3a616ffcf8ab"
-    width: 600
-    height: 360
+  - url: "https://media-cdn.wehco.com/img/photos/2021/07/27/bideneconomy4374046600_t1070_h62d769030b5428c8067704a70df1574b25cff470.jpg"
+    width: 1070
+    height: 714
     isCached: true
 
 related:
@@ -62,6 +56,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fefa1b988-77e3-4674-a926-3d2abfdf3a82.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Joe Biden urges Afghans to ‘fight for their nation’ as Taliban advance continues"
+    excerpt: "With insurgents now controlling two-thirds of the country, the US president says local forces must rally"
+    publishedDateTime: 2021-08-11T04:44:00Z
+    webUrl: "https://www.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/aug/11/joe-biden-urges-afghans-to-fight-for-their-nation-as-taliban-advance-continues"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/c33651a21aa9ab372f38ba743fd3ca81b9039e27/0_41_5400_3242/master/5400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c5adbaf550bac5ce62cd3a616ffcf8ab"
+        width: 600
+        height: 360
         isCached: true
   - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
@@ -115,20 +125,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden's complicated new task: keeping Dems together"
-    excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
-    publishedDateTime: 2021-08-12T02:40:00Z
-    webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 55
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/07/27/bideneconomy4374046600_t1070_h62d769030b5428c8067704a70df1574b25cff470.jpg"
-        width: 1070
-        height: 714
-        isCached: true
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z
@@ -139,6 +135,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "rdlVfvPnPjYBYofZEAJK/pExLyS2uNWD3kSRxn5xtRuHRV8fq0RFmdukQdrUCib/sQgRDiyfz4nAZpW/GyB8rwzorgF9RcqCG3VDjqa9B9jqEhwhEPWjmNpTxJeuS7sKjl4kiRyB5hJgKSASg/DicyuDoEJNGAIpnbU/A6HoMw3EaGRiCZ2PFqY4mlmGoLH/YNiFPrwUYFh4MbswnxHw+fVphoHN2DEelg08ejqKs4J1/KtWEapwIeSeCAXxq6rYAQFZ0MfhNibg+hqMhmDyk6u86viQGKyyWXHohYkGAWFv2rfZd7J/9NzOux2RPx6WWHZWEXQYrqdIUem9RVs2lGVsyUO59CHMhiAVoo3vp67vVK3l1/FyiWGYatVXzLQWSazBBejGoVOgJG0QV7wq81t7JWt1ch00/I4P+iz6yHJpxsdwMznUGxiY0HMAeTECgrBANxGyVTGzWbmcilhMoJemTkT/xo+W+QiSWfgj6JfUihCbd+JGikZ4RcLiHiM110g13bp4nEtpQhXWSVMX3Q==;E6sUZbs67i5GPUsnGB93wA=="
+secured: "hE2T5tP5Ii5cGu3SDeDd1TgLdprp5b3tQmG8cBWDJG0TXagb9OLYTXhU/NZIDWMGdoMHUPTKPxIwTJkO33IimkJXgfeD+S8WgRZAjBsnGXQ8jIjD9XaIRe51INr9yXuG/TfDC/Ca8IWpiugAOYJbH9Hi0DmQfwRJxBTrqh8iD050oSabI3JNFbV5ygCHVg5AD+cn2EtYOMDYSK0U1Jo5X3JImLXEBtz/jGAwv06IF/wVz2EFRCzYcR3+4fQ4rJZQjsKee16hH4YwXgMhMVAKE9rCEZl3/4hF+++pfZhW+y62smm0m1SqXyMTjkFVz2eEyRxdhrTtNUEyguhCFYZKKqzbfwFr/FL5UnAug7Fi/HU=;talOEzEdP5D3JFxm9zX1EA=="
 ---
 

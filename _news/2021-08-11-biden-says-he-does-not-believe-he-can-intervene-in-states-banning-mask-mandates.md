@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's complicated new task: keeping Dems together"
+    excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
+    publishedDateTime: 2021-08-12T02:40:00Z
+    webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 55
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/07/27/bideneconomy4374046600_t1070_h62d769030b5428c8067704a70df1574b25cff470.jpg"
+        width: 1070
+        height: 714
+        isCached: true
 
 secured: "FR79J5xt9xW98YAxq/rRdIgSLHqPLKuX6IJ8gvmrR0gQaGnwDFN2GhnIV9WoVND0GICL2H0y9HFmwIJgRg3zgPtGnFg07Bh6c4+3lulaVTThvFwptjbVFOImsZA7TswmOnTHbSMtR7568Eo5E7OSsW+r2wB4BEStSh12OLGJTaYRsb1InPAPuQmqpTAtdqif31uRIVw0wi4HmvHsEpnNPXhZYmjLXoNmC3Tbv0EQOj5PfF7OGWxoRtLIBkJjtnO8qHFSHe/DaqhEffeNzSg/cu6zNIu6XfGBtfkRPprJ6Z04Z+ntnJCwR4ITtZrgLJFihja12z1FS76Hy1HltYVJzTW+pOWO+tLCEx48SsZQ/1hCIq3nE+X+DpMnXqsK3f3Mysi3C6JWRyBgGT0wutlvMSo5O2kNxfEvB18Crqq3v6bgDGViVs9uTj7kSD2hMfI51X/dJKm0iIooG4ycTHAFzKQYjTbRCS+g88J6RGtMs3JxqR6jhN2MljwOrpnbgVzfPIJawpqN5Xb4nwrAPfiDWQ==;b2D5HOHEnvJiS0RaX8gXSw=="
 ---
