@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -186,6 +186,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/08/1000-54.jpeg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Senate Democrats pass $3.5 trillion Biden agenda blueprint"
+    excerpt: "Senate Democrats took a major step toward the biggest expansion in decades of federal efforts to reduce poverty, care for the elderly and protect the environment, passing a $3.5 trillion"
+    publishedDateTime: 2021-08-11T23:29:00Z
+    webUrl: "https://www.register-herald.com/news/senate-democrats-pass-3-5-trillion-biden-agenda-blueprint/article_0099833a-fafc-11eb-bd84-3be32b1e9fdc.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/1/9f/19fbee43-de5f-5297-b60d-72060cf61364/6114491a21af8.image.jpg?resize=785%2C630"
+        width: 785
+        height: 630
         isCached: true
   - title: "Senate OKs Dems’ $3.5T budget in latest win for Biden"
     excerpt: "Senators approved Democrats' budget resolution on a party-line 50-49 vote, a crucial step for a president and party set on training the government's fiscal might on assisting families, creating jobs and fighting climate change."

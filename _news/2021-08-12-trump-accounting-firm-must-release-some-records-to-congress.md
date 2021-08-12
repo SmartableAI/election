@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Trump accounting firm must release some records to Congress"
-excerpt: "The judge stopped short of calling for the handover of all the financial records that Democrats have requested."
-publishedDateTime: 2021-08-11T17:50:00Z
-originalUrl: "https://www.pressherald.com/2021/08/11/trump-accounting-firm-must-release-some-records-to-congress/"
-webUrl: "https://www.pressherald.com/2021/08/11/trump-accounting-firm-must-release-some-records-to-congress/"
+excerpt: "Mazars will have to turn over largely records relating to Trump’s lease on the Old Post Office in Washington and certain emolument questions."
+publishedDateTime: 2021-08-11T23:12:00Z
+originalUrl: "https://bangordailynews.com/2021/08/11/news/nation/trump-accounting-firm-must-release-some-records-to-congress/"
+webUrl: "https://bangordailynews.com/2021/08/11/news/nation/trump-accounting-firm-must-release-some-records-to-congress/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-    width: 300
-    height: 300
+  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Trump-Lawsuit.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -83,6 +83,6 @@ related:
       domain: c-span.org
     quality: 55
 
-secured: "nXhGzf99aZSBHPg0pAfsmcRbKbR1dEScpRUxSlezhga2Okxw4G0T2G7G0lAYuYlLHq7OqCqTScTxdpWHJOg0gjEKirLdVy0kuMOI4IwD07RPUGckJ2m+Oc1nbI43fgDsgGfsC/2bggRe2hOJNboDlDEcwfjc421tklEP8fN3qrQuGqKZghyqANsuH1YrPxRY7qF2TpitnSdkSn6hZENKPZ0umy44tgYDx0asRqOUoNljfj7DTbheYyrvYYWVV56pv1tZyoH6L/zca4v5Cdp/pbWjHZRVnpwXDlOV8jdzu25ShusdF5+dlB7BnAwIC3pCPqEPEjSjuGx2nfqvYpoZuGAm5CNDARufLjJaLIoUlXM=;7AwoGa1iQX2ZHY0ZdzCYlg=="
+secured: "J+NXloakblyTQ/+8IGYbxd6LSf0nYPiYMr+ZQp+MPpQTKXCK5ynd6JxIi4r842AmwD2hTHuMijxvsxHiSC/b/h9TGMjhcQKDkV3GMkCMmOFReqUYX1SrTu5glSFXEVZGzNdRlCw/glM+RC8VUP6s96Vx5g6uFtEwR9wvbOTl5hyHYGRVaICmpUfozYnfqfl08NqrdQUMwxuW9r+HavO6fwJVh5jI3oj2YLQjzZJrSuoMpGyz7erU/MEMCylVAzRRrg5t/FQAMkqAKGlw8l7LVyIy+da2Aoa7k2WxBL3wECGQOdxrzrnPQW0LdlZT0K1ZZzNkjYvTMMUsDJV3OAw1F9xcJoETDJSof8/FWRgT0aE=;BYh5knAWe0XoZxbFY2LHKQ=="
 ---
 

@@ -68,18 +68,18 @@ related:
         height: 675
         isCached: true
   - title: "Trump accounting firm must release some records to Congress"
-    excerpt: "The judge stopped short of calling for the handover of all the financial records that Democrats have requested."
-    publishedDateTime: 2021-08-11T17:50:00Z
-    webUrl: "https://www.pressherald.com/2021/08/11/trump-accounting-firm-must-release-some-records-to-congress/"
+    excerpt: "Mazars will have to turn over largely records relating to Trump’s lease on the Old Post Office in Washington and certain emolument questions."
+    publishedDateTime: 2021-08-11T23:12:00Z
+    webUrl: "https://bangordailynews.com/2021/08/11/news/nation/trump-accounting-firm-must-release-some-records-to-congress/"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
+      name: Bangor Daily News
+      domain: bangordailynews.com
     quality: 55
     images:
-      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-        width: 300
-        height: 300
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Trump-Lawsuit.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "uZlXCgToQnyk3RnH0QWHtTcTnLLVVoXaxkuqAeaXwU2o2Fpk8sSN5HwuJWFA36TF/tSzuWg4d5k4LfIVArJjo/xc1gTBfLCB4Y29f3EHvkoxXBf9X28Yvdz3nlDEpCcyYsJFwSOqfbh4m2crWlhMUl5GyDRYs4paVsJfub7Vgyh6ss7brxQILEwBL4JyYljmYXQqD0knXJScCqTFiqA7WzGOjGGZ/sAaaDJ/y52pT6VNTQHCAinGtEl4RgHDGi+ilwt2nTKffXliG9vARAmZOY1isqXtlQG6m5iFtD8abzLN7YenEbCor4I5+aJ68foAxx3krSB7OKG9EdveLhk83SEq4dn/F1zG2+4uEN7ZgiWwABEKcjxJXtUEEvPdnnnuArn5KmlqzYDzt9atyurvotK7X69+WTceI/l+L6Jb7g+eB830+CMIMtMxyVC/MeojSci0RUhHaHFYtDx1iajCU4dckXVQoV6haAQdmGAjWHM1CpKCLn5ILU4pSAnSq+MzVTszb4B9uul/DF8CRr14pQ==;5oIJMPW7z3I3r5JGbN+5kA=="

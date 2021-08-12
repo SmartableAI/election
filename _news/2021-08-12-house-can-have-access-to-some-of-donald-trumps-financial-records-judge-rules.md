@@ -166,14 +166,14 @@ related:
   - title: "President Joe Biden Delivers Remarks on Infrastructure"
     excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
     publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/b952c0881bab8dd7ec71e25362e3441a/WHITE-HOUSEINFRASTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -187,6 +187,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Rl7egYdCQjRMywdrjqpnZhF4oJVIKIrbDyUri8ZHQ+dQi4afybyZWnER4fBEkEKQohsRLGS1WMGQFFZ2Z1fty+pmLETmo6ufoZ/lcMwIuskwJKZ447LhMPbxXGJ6QrbSoDMtOyaRgOhDzhFma88qkcI6yvTeXdTCmIKQ5YeKbMZFPVaJUOpSCEKDGngkv9DCDeT60jUE+fJljGMl1ORwow9wrnppYM6DFE946qC+ixoGhV0zoJih+Gf+rCl7UgU+aXI0AoTLwNnzBkWG4qfGA7FothxunZzGD6bOhLU10QdRfZw9LNB77Vup3LaWq9lyc6JMhzhroRwGO8g7wVybiHUlZ0zHWnF5uL8fqhBzsRU=;XbhHq3qftD0Fc7fUi0r9hw=="
+secured: "bkcRoxPGdvMCiJ0vbQMdVPRJYmH22QGwQPAkppFQwLqGlWA/SeLGC1gPJaj76ZDRzmsL8PGzul1UaEb2qQHvfpXnaXh+SLG+mzI/KiPKrKphdxwxjSyS121ML0CvxNwkElufxuQt1VAx6nleVEUIK/jHHiDUxL8Mxfk9pvhnt3BajOSpOBLaDl50OV4mhmqAvzhlo51S90ultw96F6jlF/EDnIz/IP9qLDfNJcjesRjBBG9cVu6YlsKWTPe2nXVEzOu7z6u/rd9XdmssnejXOKOlS8BfA9ikOgkOwpySHrjXJPOTQIfWWP1Ea0Lvid6W+polgAmk+jbeIMErHJMaEtSmfxph5p+bAR91ZEfvGIj7ZalsaHL4v7BAaPlU2tDQBoFwJqELXSFpLNshVgpJRLpbZWXSrBylcP2vsN+QuYSdfZYfUTPtLwhqHkAv3VyMncTGgFkmmmfjtXx5SCPzyD+9XoTAiSAvx7JLs9G4hMUR9jocc9i7uWbAmC+Yfq1N6w5ucqOfN6+cBbicSlnG5w==;FtIl5opYYbicbIoQUQKnoA=="
 ---
 

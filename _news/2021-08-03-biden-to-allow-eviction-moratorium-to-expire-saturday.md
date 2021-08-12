@@ -59,6 +59,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden team is seeking ways to address rising energy prices"
+    excerpt: "President Joe Biden's administration is moving at home and abroad to try to address concerns about rising energy prices slowing the nation's recovery from the pandemic-induced recession. National security adviser Jake Sullivan on Wednesday called on the Organization of the Petroleum Exporting Countries to move faster to restore global supply of petroleum to pre-pandemic levels,"
+    publishedDateTime: 2021-08-11T23:03:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/Biden-administration-raises-alarm-on-rising-16379123.php"
+    ampWebUrl: "https://www.houstonchronicle.com/business/amp/Biden-administration-raises-alarm-on-rising-16379123.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/amp/Biden-administration-raises-alarm-on-rising-16379123.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/32/41/21342309/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "White House says CDC cannot renew ban on evictions despite Biden support – live"
     excerpt: "Psaki says Biden backs new 30-day ban on evictions but that the CDC ‘as been unable to find legal authority for a new moratorium’ – follow the latest news"
     publishedDateTime: 2021-08-02T18:52:00Z
@@ -102,20 +118,6 @@ related:
       - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Biden team is seeking ways to address rising energy prices"
-    excerpt: "President Joe Biden's administration is moving at home and abroad to try to address concerns about rising energy prices slowing the nation's recovery from the pandemic-induced recession."
-    publishedDateTime: 2021-08-11T21:14:00Z
-    webUrl: "https://apnews.com/c56b5ffcef37223caaec19e3b3428392"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/b2efb0ccd5ff46729f4968f9322b3638/3000.jpeg"
-        width: 3000
-        height: 1970
         isCached: true
   - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
     excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
@@ -194,20 +196,20 @@ related:
         height: 336
         isCached: true
   - title: "Biden's complicated new task: keeping Democrats together"
-    excerpt: "But as the bill moves to consideration in the House alongside a $3.5 trillion budget that achieves the rest of Biden's agenda, the president is facing an even more complicated task. He must keep a diverse,"
-    publishedDateTime: 2021-08-11T21:54:00Z
-    webUrl: "https://www.nhregister.com/news/article/Biden-s-complicated-new-task-keeping-Democrats-16380857.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Biden-s-complicated-new-task-keeping-Democrats-16380857.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-s-complicated-new-task-keeping-Democrats-16380857.php"
+    excerpt: "If Biden and Democratic leaders in Congress hope to succeed, the months ahead will almost certainly be dominated by a tedious balancing act."
+    publishedDateTime: 2021-08-11T23:41:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/11/bidens-complicated-new-task-keeping-democrats-together/8102527002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/8102527002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8102527002"
     type: article
     provider:
-      name: New Haven Register
-      domain: nhregister.com
+      name: Detroit News
+      domain: detroitnews.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.gannett-cdn.com/presto/2021/08/11/PDTN/4f6009f5-4cce-49e4-9038-5e063f254b50-AP21223746402227.jpg?auto=webp&crop=4816,2709,x0,y244&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Senate Confirms First Biden Ambassador Amid Showdown"
     excerpt: "The US Senate on Wednesday confirmed the first of President Joe Biden's ambassadors to foreign capitals, approving his pick for Mexico, an unusually long delay amid a showdown with a Republican critic."

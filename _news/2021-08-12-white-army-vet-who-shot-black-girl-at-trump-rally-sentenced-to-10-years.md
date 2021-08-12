@@ -43,6 +43,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Dominion sues Trump-friendly broadcasters over fraud claims"
+    excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election was marred by fraud."
+    publishedDateTime: 2021-08-11T22:06:00Z
+    webUrl: "https://www.sunherald.com/news/business/article253404220.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article253404220.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article253404220.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
 
 secured: "ut1iilroUWe8NRURs6LRyyPwTeIcCnh3QwOmv/B9wG2ilPHWzKbmoskQTy40lMTplw4hILpCF22bydCl4xTeYsvhwy6D5WmGjOfntP1eBzY5sUyeO+D1no3uLxD8NZRZFo2EWHpnSXXNowoHppFrSLoQCfR472dU6wmWd3MdXdJTdMWIqbaWsxmJ6jSBty2aY8QXZDWmadYE4o7n9d4gDPqTAY59TrDqY4Ev+rLKsGXnJzp+nTI0LqV0VWIPH+pNUPejXxh/acoyewzlTM7DjFg+elL+38a9IRyKgaWL3o/Y2fauG55v3I7FuWSczc9HDyLeXDSwompPdoZfB3Imf+uDtnOYfIQ5D4DAD32fgAY=;GhvR3M9qa7xSfyXf6T8hWQ=="
 ---

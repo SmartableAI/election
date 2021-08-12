@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-claims-100m-could-have-died-without-o
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291?amp=1"
 type: article
 quality: 111
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dominion sues Trump-friendly broadcasters over fraud claims"
+    excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election was marred by fraud."
+    publishedDateTime: 2021-08-11T22:06:00Z
+    webUrl: "https://www.sunherald.com/news/business/article253404220.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article253404220.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article253404220.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
 
 secured: "HidEVVJYa8hCCUbQCxdBqB3i1TXsiLRHTlmFjAkXtTu7+cCtDddIKs06AGQV1yWmtw9gFJMohQOKsbeUBWePCKx32V1EUdBakOXHEie4nF+pkuezFIJfjBbZLiPRre9t8KbymmtH+ixvT9LcsaiXI0Xs1uM4pAR6dMGqcZyCjEUwPjZNkF1UznfbzDKJs64MuGG/fwh5T2+nAyCP2Ge8EuyFoNZdGwLjHDG/IrmDZDSq9iNanYxeTowqFSKEwUK1c/r2pg3TgJgJXuQe+4wEKEH22zCqFlOH7kZ/7yDO04VNTUZqXLAsW9wQQdXN6TO/W3vAIh21pfCllorl2M72jtbSIylgy8wfiF8zrevV2bo=;e7Lk/mm8mwRJzA/ZrS08DQ=="
 ---

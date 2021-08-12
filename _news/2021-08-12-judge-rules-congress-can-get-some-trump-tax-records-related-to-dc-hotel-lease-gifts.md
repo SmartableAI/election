@@ -58,18 +58,18 @@ related:
         height: 534
         isCached: true
   - title: "Trump accounting firm must release some records to Congress"
-    excerpt: "The judge stopped short of calling for the handover of all the financial records that Democrats have requested."
-    publishedDateTime: 2021-08-11T17:50:00Z
-    webUrl: "https://www.pressherald.com/2021/08/11/trump-accounting-firm-must-release-some-records-to-congress/"
+    excerpt: "Mazars will have to turn over largely records relating to Trump’s lease on the Old Post Office in Washington and certain emolument questions."
+    publishedDateTime: 2021-08-11T23:12:00Z
+    webUrl: "https://bangordailynews.com/2021/08/11/news/nation/trump-accounting-firm-must-release-some-records-to-congress/"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
+      name: Bangor Daily News
+      domain: bangordailynews.com
     quality: 55
     images:
-      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-        width: 300
-        height: 300
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Trump-Lawsuit.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
     excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
