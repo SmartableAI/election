@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Lil Wayne on planning a festival during COVID, DaBaby's troubles and that meeting with Trump"
+    excerpt: "Lil Wayne admits it’s been a rough couple of weeks in the Carter household for sports fandom. First, the 38-year-old rapper, born Dwayne Michael Carter Jr., watched in courtside agony as his good pal Chris Paul’s Phoenix Suns lost in the NBA Finals to the Milwaukee Bucks."
+    publishedDateTime: 2021-08-12T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/entertainment/lil-wayne-on-planning-a-festival-during-covid-dababys-troubles-and-that-meeting-with-trump/article_4d0d88dc-d848-5d91-95b6-43969d13664e.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "p4MBO0MkMG+MRteguGoVM2ZZKL/nVPtNYkdSGTsRFiCD2f/B3KzxZLxYtosNWV9AOKiSTSSK3YLFzNQOCC7xhZS6tBnmPOAmeX52EhYOZtGlCK55xynbxALnV6JWN5w1qk0uCUSyghcCcX0H0cHRZkXfeSZ/4A/P88/qzHV3V8i2WXcw59dNe/IT/AyQ7b8eSDpcBbOjfnv4ODdbbUvyx82AkdufI6YEla8TBrhCiw/gSY6649YOI7wnNu70HqU36ugBLd3QcaelaeqqkvYoGlf6X0hA6U5MvGRoC9M0gTjXagQaQtDg1cHpPO49d+S85rDfgV9Iz/qPjxOzL8XQ/CNQ6dB55yACwRBkIeCOY4vOuwP9ALEO3wuaahF60DEiNNQ4Mt9zRumMDBDNY/3RxppTXSnuCHJNfauuNIqNetNEO6hvVieMi9d76tAbXYOwheR9OPh2fsgrIAvzSKhP1xyM4sCe8067+nOWKClnVpUVqfv1egtjvu6fQ8lFtEoD26Wpqm2ijQeOH8oeYuBJ8w==;ufg6ycBJ05Ap3m/rRFooCw=="
 ---

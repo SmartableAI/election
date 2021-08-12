@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/567303
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Lil Wayne on planning a festival during COVID, DaBaby's troubles and that meeting with Trump"
+    excerpt: "Lil Wayne admits it’s been a rough couple of weeks in the Carter household for sports fandom. First, the 38-year-old rapper, born Dwayne Michael Carter Jr., watched in courtside agony as his good pal Chris Paul’s Phoenix Suns lost in the NBA Finals to the Milwaukee Bucks."
+    publishedDateTime: 2021-08-12T09:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/entertainment/lil-wayne-on-planning-a-festival-during-covid-dababys-troubles-and-that-meeting-with-trump/article_4d0d88dc-d848-5d91-95b6-43969d13664e.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "U.S. Settles Scientist's Whistleblower Complaint About Trump COVID-19 Response"
     excerpt: "The U.S. government has agreed to compensate a scientist who filed a whistleblower complaint that said former President Donald Trump's administration botched its early response to the coronavirus pandemic,"

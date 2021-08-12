@@ -3,8 +3,8 @@ category: news
 title: "Sen. Chris Coons On Infrastructure, Donald Trump, And Bipartisanship"
 excerpt: "One of those burning the midnight oil was Democratic Sen. Chris Coons. What’s in the bill? And what are the next steps for it to pass? Copyright 2021. To see more, visit."
 publishedDateTime: 2021-08-09T18:57:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/1026173117/sen-chris-coons-on-infrastructure-donald-trump-and-bipartisanship"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/1026173117/sen-chris-coons-on-infrastructure-donald-trump-and-bipartisanship"
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/1026173117/seaglefestival.org"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/1026173117/seaglefestival.org"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.northcountrypublicradio.org//support/images/uw/creatives/Buzzy_300x250.jpg"
-    width: 709
-    height: 591
+  - url: "https://the1a.org/wp-content/uploads/sites/4/2021/08/21.8.9-Coons-1600x1067.jpg?s=6"
+    width: 1600
+    height: 1067
     isCached: true
 
 related:
@@ -1185,6 +1185,6 @@ related:
       domain: chron.com
     quality: 28
 
-secured: "Zxs/ym6t2uSqu3hkd3PlJn6AFSGx+R0jV3HhRjPd+C24WGvrhYBa9KcSoHQXSdqADMcxI145jseBETvNPqT8r2Xwif9pdoJI6xRLBR6KUsleTJL0lDDEItBP90U4Jpa0mcf6gWMsrnbMa4VivyiqlEj0AJQz/kZI7xihz5yPeYrh3k1YWVe2+S0rknrO3kHuD2kH2spxKi7qZqWidMJ1+lYhhUjFjfSOEQSOmzbORnGUXaZuV/ia0fq9HdUrZqnhLJwJtlf739kzvxI9n0QQbhEpJQZwY/VqD9GUAf6d4brAYRQbD/G7ELGgqdHij9I1RawHaePbxyEQJwM+TplF2wlZ1NkHYIPdfK4cgJiQoJJ4zhF9YIw9oz6owiGCJHgnWq0YwZRyZCs76W4be9oT8JgH7z6GzgRvfbrHw2Cd6QPc/VZYj6NdEw9Cm7Qd88Uy88YYVzCj8P3hy3fu1j1tumGMjJt9y4bpLPhEob8h5NmD5vEP9t1COQOH15NXsEQtiUD17u4/RJn+FJR0VDea7w==;xRshDit0cdR67TygbDqSuw=="
+secured: "0eV7ozWizhqm7/ZsoPoSZRLNtFGGBxKCNvkkBmxRfdx9T1PGt4Ypazi5raPg6UoaplvIQS5SHLHNsbtjf14JX5TIEqiSyKt9V5G4pFo0srkp9rEcG34M4sKXdeRP95++iGvd7UQGG58jBIQAW2CkUCoOuA6+iXHZ439fUG/1s0DRV1VCX6b/x+OnpeEUazB9WEmeytvIjN6CU21YU9IrGdefHy3S0htH33gePAntEvkpl3FP11SPjTyva0lCTjF11zrcAVBBG+THY/A9P52nvDJEvrElITEP08ICmIbhNYJ6R5DqdAiI9ui3crOG9uJXJUFny8njHSZVvswliN9s8o81qZ3DyhAu4cbU/CNw3ek=;2ThSAIzoJgcHpS0rbWSCbw=="
 ---
 

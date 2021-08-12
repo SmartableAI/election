@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on Infrastructure"
 excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
 publishedDateTime: 2021-08-10T21:00:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/b952c0881bab8dd7ec71e25362e3441a/WHITE-HOUSEINFRASTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -88,6 +88,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
+    excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
+    publishedDateTime: 2021-08-12T08:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/virginia-heffernan-biden-s-build-back-better-just-beat-trump-all-over-again/article_114e6da1-e563-555d-bdaa-88eb685f1b0a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 66
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
@@ -197,6 +211,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "tiGKg5TyAoHuhcVWF8gk4akzkJXGvCEdcsyvIJpA1x/m45ODrM+pxhKvlXGtWjlyzlnw7p6NARe1FA6IwoDbqTGPOrzn98axXF9zwV1XTRPmMcNHWrED1c0fcfBz0YlJg6lINofFCNTa7vTL4Gev4nx4tgdi6pwLvU1lBAtFGiJKFgniPZ22SrKwGecaZX7UcHV7vgLp0LgApLkA+2ftuxWotzEU2ZHssDZLhyGTTOG4NUatNfru+tA2qRS/3L6/HQGa5pPJUDi8D4m27C6OWPt7a4qMe9X8OYRVsbHUo0zHF+KalRzeBYaN3UrUaStx5DhUQBLcLnWF4s5LEKiY8OWymcdbpj6E08ZUzILpqhk=;eLes8L2n+dPspbPPc8gfEg=="
+secured: "Wg5iaPsdsePawVghs8zy/LR7OsZTWg/P8eo4yuQh9ombigIQs7QPnWO6oc77qCqp6rHxhADL5CXOwvqG9/ep55rAZqZrOh+wgafuySgRZ5m2Q+SBuIr/+tlsOaiG/uR/fRlKm329n+P3MNLm1WoWbftU3ucCr0r7nyreX1rjVbDBIeae19spqfdRyImcZrIxoGpnkZ7j0pKm5krTfvh2YvaV0NJNnV67VfB8/4u32BmJqGOFXCXGihqS+cKslRanss9TkF0WWvHqHzC1wAaqFN5ajhBQ0rS1fI4C1fKGfRDzkgEoKwylDD0FFIcunZGXzVJR/d9xTJH32MJ8RnVVqjWsgMzhnRx6BFLI6rzcyDA=;i2N+rMNLYsD07axjZSRUJg=="
 ---
 

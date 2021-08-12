@@ -1062,16 +1062,16 @@ related:
   - title: "Sen. Chris Coons On Infrastructure, Donald Trump, And Bipartisanship"
     excerpt: "One of those burning the midnight oil was Democratic Sen. Chris Coons. What’s in the bill? And what are the next steps for it to pass? Copyright 2021. To see more, visit."
     publishedDateTime: 2021-08-09T18:57:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1026173117/sen-chris-coons-on-infrastructure-donald-trump-and-bipartisanship"
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1026173117/seaglefestival.org"
     type: article
     provider:
       name: Northcountrypublicradio.org
       domain: northcountrypublicradio.org
     quality: 55
     images:
-      - url: "https://www.northcountrypublicradio.org//support/images/uw/creatives/Buzzy_300x250.jpg"
-        width: 709
-        height: 591
+      - url: "https://the1a.org/wp-content/uploads/sites/4/2021/08/21.8.9-Coons-1600x1067.jpg?s=6"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "Twitter Suspends Pro-Trump US Lawmaker For Covid Misinformation"
     excerpt: "Twitter said Tuesday it had suspended the account of controversial US lawmaker Marjorie Taylor Greene, a staunch supporter of former Republican president Donald Trump, for a week over a \"misleading\" tweet on coronavirus vaccines."

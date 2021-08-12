@@ -2,6 +2,106 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-06-30-biden-high-speed-internet-is-now-a-necessity-like-water-and-electricity.md",
+      "title": "Biden: High-Speed Internet Is \"Now A Necessity Like Water And Electricity\"",
+      "excerpt": "President Biden spoke in favor of a bipartisan infrastructure deal in La Crosse, Wisconsin on Tuesday. \"This is a generational investment to modernize our infrastructure, creating millions of good-paying jobs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/546905.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
+      "publishedDateTime": "2021-06-29T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims.md",
+      "title": "Trump calls Barr a 'swamp creature' over criticism of election claims",
+      "excerpt": "Former President Trump fired back at William Barr on Tuesday, calling him a \"swamp creature\" over the former attorney general's criticism of Trump's false claims about las",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
+      "originalUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_103120getty_retreat.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp",
+      "publishedDateTime": "2021-06-29T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-dr-saphier-on-trump-interview-everything-with-covid-was-politicized-from-the-start.md",
       "title": "Dr. Saphier on Trump interview: Everything with COVID was 'politicized' from the start",
       "excerpt": "Fox News medical contributor Dr. Nicole Saphier joined \"Fox & Friends\" and ripped Democrat politicians for politicizing the pandemic.",
@@ -1255,115 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-blinken-visit-to-pope-will-reset-us-vatican-ties-after-trump-years.md",
-      "title": "Blinken visit to pope will reset U.S-Vatican ties after Trump years",
-      "excerpt": "The last time a U.S. secretary of state visited the Vatican, the diplomatic sparks flew and Pope Francis declined to receive Mike Pompeo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
-      "originalUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/EPPgvgYjhTWX2Kn2vwJ6rvMWBgA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3YMTPKREVKH3KVKM5OT6C2T24.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-trump-seeking-to-maintain-gop-sway-holds-first-rally-since-jan-6.md",
-      "title": "Trump, Seeking to Maintain G.O.P. Sway, Holds First Rally Since Jan. 6",
-      "excerpt": "The former president’s speech in Ohio, made on behalf of a challenger to a Republican congressman who voted to impeach Mr. Trump, reflected both his power over the party and his diminished status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/26/multimedia/26Trump-rally-01/26Trump-rally-01-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.amp.html",
-      "publishedDateTime": "2021-06-26T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

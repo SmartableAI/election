@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
+    excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
+    publishedDateTime: 2021-08-12T08:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/virginia-heffernan-biden-s-build-back-better-just-beat-trump-all-over-again/article_114e6da1-e563-555d-bdaa-88eb685f1b0a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 66
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
     publishedDateTime: 2021-08-09T16:26:00Z
@@ -174,14 +188,14 @@ related:
   - title: "President Joe Biden Delivers Remarks on Infrastructure"
     excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
     publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/b952c0881bab8dd7ec71e25362e3441a/WHITE-HOUSEINFRASTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true

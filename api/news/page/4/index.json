@@ -2,6 +2,105 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-05-former-president-donald-trump-to-hold-rally-in-cullman-what-to-know-before-you-go.md",
+      "title": "Former President Donald Trump to hold rally in Cullman. What to know before you go",
+      "excerpt": "Former President Donald Trump is scheduled to speak at a \"Save America\" rally in Cullman, Alabama, on Aug. 21, 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.montgomeryadvertiser.com/story/news/politics/2021/08/05/donald-trump-rally-cullman-alabama-tickets-details/5491027001/",
+      "originalUrl": "https://www.montgomeryadvertiser.com/story/news/politics/2021/08/05/donald-trump-rally-cullman-alabama-tickets-details/5491027001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/21/USAT/e7258ef3-99e5-4513-87fd-73d0a5ecb6b3-AP_Trump_Politics.jpg?auto=webp&crop=3523,1982,x0,y179&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.montgomeryadvertiser.com/amp/5491027001",
+      "cdnAmpWebUrl": "https://amp-montgomeryadvertiser-com.cdn.ampproject.org/c/s/amp.montgomeryadvertiser.com/amp/5491027001",
+      "publishedDateTime": "2021-08-05T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Montgomery Advertiser",
+        "domain": "montgomeryadvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-biden-to-announce-new-emissions-standards-target-that-50-of-vehicles-sold-in-us-by-2030-are-electric.md",
+      "title": "Biden to announce new emissions standards, target that 50% of vehicles sold in US by 2030 are electric",
+      "excerpt": "President Joe Biden will sign an executive order Thursday that points the US auto market toward electric vehicles, announcing a new target that half of vehicles sold in the country by 2030 will be battery electric, fuel-cell electric or plug-in hybrid.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L09KXlPPWHU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L09KXlPPWHU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708143919-01-stellantis-electric-vehicle-strategy-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html",
+      "publishedDateTime": "2021-08-05T03:08:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-will-mcconnell-lift-roadblock-of-biden-for-infrastructure.md",
       "title": "Will McConnell lift roadblock of Biden for infrastructure?",
       "excerpt": "Senate Republican leader Mitch McConnell had vowed to be “100% focused” on stopping President Joe Biden’s agenda",
@@ -1212,105 +1311,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-biden-marks-el-paso-mass-shooting-by-reiterating-gun-control-push-denouncing-hate-fueled-violence.md",
-      "title": "Biden marks El Paso mass shooting by reiterating gun control push, denouncing 'hate-fueled violence'",
-      "excerpt": "President Biden on Tuesday, in marking two years since the El Paso shooting which took the lives of 23 individuals, called for Americans to “stand united against hate and violence,” outlining his administration’s efforts to combat domestic terrorism and end “the plague of gun violence” in the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUyUvdS5jBA/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUyUvdS5jBA/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence.amp",
-      "publishedDateTime": "2021-08-03T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-former-vice-president-mike-pence-announced-as-featured-speaker.md",
-      "title": "Former Vice President Mike Pence announced as featured speaker",
-      "excerpt": "Former Vice President Mike Pence will speak during The National Symposium on Patriotic Education hosted by College of the Ozarks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bransontrilakesnews.com/news/local/article_33ee168e-f475-11eb-9242-57937f2488d5.html",
-      "originalUrl": "https://www.bransontrilakesnews.com/news/local/article_33ee168e-f475-11eb-9242-57937f2488d5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/bransontrilakesnews.com/content/tncms/assets/v3/editorial/a/90/a90422b0-f475-11eb-8c36-bfcdee65b8e9/61096b06db264.image.jpg?resize=504%2C630",
-          "width": 504,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Branson Tri-Lakes News",
-        "domain": "bransontrilakesnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

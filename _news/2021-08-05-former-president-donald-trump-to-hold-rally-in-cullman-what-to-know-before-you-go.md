@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.montgomeryadvertiser.com/amp/5491027001"
 cdnAmpWebUrl: "https://amp-montgomeryadvertiser-com.cdn.ampproject.org/c/s/amp.montgomeryadvertiser.com/amp/5491027001"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1524
         height: 1081
         isCached: true
+  - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
+    excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
+    publishedDateTime: 2021-08-12T09:02:00Z
+    webUrl: "https://www.lohud.com/story/news/2021/08/12/trump-tower-white-plains-remove-ex-presidents-brand/5531008001/"
+    type: article
+    provider:
+      name: The Journal News
+      domain: lohud.com
+    quality: 32
 
 secured: "TOYQJOJNBMkQ1qWrgBRi/IoUCaSSa5FXsfRdjvrmiBhRjg/A4jgxwVpU1nCDrw5w7SdmgRmefR5cre0Kj+n+ZNWrC+jcDS2zayzr7eQQ/joECkHT/yoTZCjKfuO0hdoZFjDIgORVszpDiuqeqv+X2FzgtExxKMneBkTzOTmY9miuopQHuWfC+CCa1cBinDhIP1UVNjuPnJcpo7ufwjdwtYeU/1SS8laNkFz/qIm/6Odt8wws2EfPL+scsPRJKaAVLIq7sNY1OmtkPze9btImXmT++Ry4qsSnCOoV2z2mKcELYQRJUV/+yFVfzfZDESy7cOO5XGgwxYDAdcvwinU0PuALs1gRAht9bLLY3mIyA7rme2WNDnUGnBoO07RXssqrMM/IhdhOdWoP52zDWQkAMiNXZW1oeTu5j/CtVQmrIBywSofmpP100anpfElrc//hdLjvWFamW9WtmmdBYmHvpOvPYv/6asXo14Fxh+xz9X7ry9bcTUtnb3IaB4+Dzrje7Q4eN/EBM2skUfrMwC9q6A==;BRikgFwfjXME6dhlYP32og=="
 ---
