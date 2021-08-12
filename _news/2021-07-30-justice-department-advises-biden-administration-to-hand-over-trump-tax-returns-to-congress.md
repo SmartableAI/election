@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html"
 type: article
 quality: 180
-heat: 1200
+heat: 1180
 published: true
 
 provider:
@@ -252,22 +252,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805144301-us-mexico-border-0708-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Why the infrastructure bill is more important than ever for Biden "
-    excerpt: "The bipartisan infrastructure bill making its precarious way through the Senate was always a cornerstone of Joe Biden's presidency. Now, it's even more vital for an administration badly needing wins as the White House struggles to navigate multiple crises.\n    \n"
-    publishedDateTime: 2021-08-06T04:03:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EdJk4uGXWdc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805094717-02-joe-biden-0729-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

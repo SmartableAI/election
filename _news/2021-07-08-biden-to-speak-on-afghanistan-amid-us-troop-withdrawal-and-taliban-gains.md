@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
 type: article
 quality: 174
-heat: 314
+heat: 354
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Biden says U.S. troop withdrawal from Afghanistan will end Aug. 31"
+    excerpt: "The announcement comes as Taliban fighters have made significant territorial gains in northern Afghanistan in recent days, inching closer to the capital, Kabul."
+    publishedDateTime: 2021-07-08T22:28:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-address-afghanistan-troop-withdrawal-taliban-gains-ground-n1273338"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273338"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273338"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3455045/210308-taliban-afghan-mc-10562.JPG"
+        width: 2500
+        height: 1481
+        isCached: true
   - title: "Biden: U.S. troops will withdraw from Afghanistan by August 31"
     excerpt: "President Joe Biden announced that U.S. troops will withdraw from  Afghanistan by August 31. Biden said, “The U.S. did what we went to do in Afghanistan. To get the terrorists who attacked us on 9/11 and to deliver justice to Osama bin Laden."
     publishedDateTime: 2021-07-08T18:36:00Z
@@ -142,6 +158,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
         width: 2500
         height: 1668
+        isCached: true
+  - title: "Afghanistan Withdrawal Process is ‘On Track,’ Biden Says"
+    excerpt: "President Biden said on Friday that he believed Afghanistan had the capacity to sustain its government despite the Taliban’s territorial gains. His remarks came after American troops departed from Bagram,"
+    publishedDateTime: 2021-07-02T17:26:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007848062/biden-afghanistan-withdrawl.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-afghanistan/02new-washington-briefing-afghanistan-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "YY/fM2mM1ByNsoAQe6m8AGuEVhGln4T3sHNWsZtxuV/8SGGEWyYzgQBVaLr7DDX/Cs1BQfXjpoj5Ay3rW1PNl9eb/l+KpY+/dI6IH/rteQsILBmSJEYgorYldQgHEnxL7RF138H3s6vguy2jzoXastMpBbZ2dQLyvAykjkvmhoN775pPaCwUZvG8mxESzB67UkHnZpm27s823eNa+voJZoewQOwEHxQDjCawBQEuuk3jvTKXpi34mrR0HQE/ucpHEWtg2t2yJ8HRx+5ac7K14uxBKicjv0tniVFE+zSRDwk+pCbvupvyKUS7R7BwEYryPiMGSRlprvh79EwCEQqamBBQNUPYMoZO45cWCQIFz5M=;D5c3XzdsP8QHcRdPN0g5OA=="

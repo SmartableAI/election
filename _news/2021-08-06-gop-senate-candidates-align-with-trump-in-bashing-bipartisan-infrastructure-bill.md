@@ -31,69 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Carey, endorsed by Trump, will win Ohio GOP special primary, CNN projects"
-    excerpt: "Mike Carey, a coal lobbyist who was endorsed by former President Donald Trump, will win the Republican special primary in Ohio's 15th Congressional District, CNN projects.\n    \n"
-    publishedDateTime: 2021-08-04T01:45:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html"
+  - title: "Biden forges ahead where Trump and Obama failed on infrastructure and Afghanistan"
+    excerpt: "Every president since George W. Bush has said it's time to leave Afghanistan and turn to nation building at home.\n    \n"
+    publishedDateTime: 2021-08-12T11:27:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LvOfikeAgF0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803152112-02-mike-carey-0626-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811142120-01-biden-0811-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Mike Carey, Backed by Trump, Wins Republican House Primary in Ohio"
-    excerpt: "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status."
-    publishedDateTime: 2021-08-04T01:03:00Z
-    webUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election.amp.html"
+  - title: "Obama praises Biden's 'bold leadership' on Afghanistan withdrawal"
+    excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
+    publishedDateTime: 2021-04-14T19:46:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414151832-obama-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why the infrastructure bill is more important than ever for Biden "
+    excerpt: "The bipartisan infrastructure bill making its precarious way through the Senate was always a cornerstone of Joe Biden's presidency. Now, it's even more vital for an administration badly needing wins as the White House struggles to navigate multiple crises.\n    \n"
+    publishedDateTime: 2021-08-06T04:03:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EdJk4uGXWdc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/president-joe-biden-senate-infrastructure-politics-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210805094717-02-joe-biden-0729-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to speak following major infrastructure wins in the Senate"
+    excerpt: "President Joe Biden is set to deliver remarks from the White House Wednesday afternoon addressing his recovery agenda following the Senate passage of his infrastructure bill and a budget resolution encompassing much of the rest of his domestic legislative goals.\n    \n"
+    publishedDateTime: 2021-08-11T15:47:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_uce8J3D7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/joe-biden-infrastructure-passage-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152440-06-biden-harris-remarks-0810-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
+    excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
+    publishedDateTime: 2021-04-15T02:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414143405-02-biden-afghanistan-remarks-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden celebrates a bipartisan win after Senate passes massive infrastructure bill"
+    excerpt: "President Joe Biden celebrated the Senate's passage of a historic, sweeping $1.2 trillion bipartisan package on Tuesday, a step toward fulfilling a key item in his legislative agenda that also amounts to the biggest bipartisan win of his presidency so far.\n    \n"
+    publishedDateTime: 2021-08-10T19:22:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NMZ4prelCvc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/10/politics/joe-biden-infrastructure-package-senate-passage/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/10/politics/joe-biden-infrastructure-package-senate-passage/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152029-05-biden-harris-remarks-0810-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden is taking a calculated risk in Afghanistan"
+    excerpt: "While the US is leaving the war, the people of Afghanistan can't. The President's decision could hasten the Taliban's toppling of Afghanistan's tenuous democracy, ushering in a new fundamentalist dark age."
+    publishedDateTime: 2021-04-15T23:19:00Z
+    webUrl: "https://www.cnn.com/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150627-05-biden-afghanistan-remarks-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why Biden Is Right to Leave Afghanistan"
+    excerpt: "The president should ignore the powerful voices in Washington pushing him to reverse course and not end our longest war."
+    publishedDateTime: 2021-05-20T19:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/08/04/lens/03ohio-elections-carey-print/03ohio-elections-carey-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/images/2021/05/19/opinion/19scahill/19scahill-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1689
         isCached: true
-  - title: "Trump-backed candidate Mike Carey wins special election primary in Ohio's 15th District, AP projects"
-    excerpt: "The Republican race was closely watched in its final days, following the loss last week of a Trump-endorsed candidate in a special House election in Texas."
-    publishedDateTime: 2021-08-04T01:42:00Z
-    webUrl: "https://www.nbcnews.com/politics/elections/trump-backed-candidate-mike-carey-wins-special-election-primary-ohio-n1275875"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1275875"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275875"
+  - title: "Biden sets Afghanistan pullout"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
+    publishedDateTime: 2021-04-14T14:01:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_31/3496349/210803-mike-carey-ac-629p.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Democratic Insider and a Republican Backed by Trump Win Ohio House Races"
-    excerpt: "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status."
-    publishedDateTime: 2021-08-04T04:51:00Z
-    webUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.html"
-    ampWebUrl: "https://www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/03/us/politics/ohio-election-mike-carey.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/08/03/us/politics/03ohio-elections-brown/03ohio-elections-brown-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "WR91QzcOXJyWXipuVF2jkJdbaOZXcp1vaYiOt1KIQGH5D5CjJ/1J2ZgTOHeSIjCBdKUUsuFmaHIFb7HA12yXnFeoMmuFfIfHSviWWCoQJkdxt5HfrNqstxw33NUgf79lsGGr0hlNZi4bagkkpz7Zd1AOsRI+azLdA5x5Ckc9ry7+g7kMWC9m3//4+RjVpcprnw2hkA2OwguXfa1QtgbsVBS/rse/Y2J1iPSpuFwA23TrzRBdcBVtJcrQZuaCGcgDwtVIjC9pVtMW+OYvbW1EnU2tf+IjPiYFJdItH9v01yZXEn9+b8yu5xo7Rq9ooyCXX7KkDIUV75WgHZMtGYmDnzJ4OoaquKIO6+6XExWk+xg=;iLMn7MW/+1eTxEcrTtmo8Q=="

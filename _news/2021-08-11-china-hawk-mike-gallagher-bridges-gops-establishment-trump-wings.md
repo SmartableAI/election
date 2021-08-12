@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallaghe
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/"
 type: article
 quality: 75
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 700
     isCached: true
-
-related:
-  - title: "Judge rules Dominion case can proceed against Trump allies"
-    excerpt: "A federal judge cleared the way Wednesday for a defamation case by Dominion Voting Systems to proceed against Sidney Powell, Rudy Giuliani and Mike Lindell, allies of former President Donald Trump who had all falsely accused the company of rigging the 2020 presidential election."
-    publishedDateTime: 2021-08-12T04:17:00Z
-    webUrl: "https://triblive.com/news/world/judge-rules-dominion-case-can-proceed-against-trump-allies/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 55
-    images:
-      - url: "https://assets-varnish.triblive.com/2021/08/4132996_web1_AP21224094742831.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "J3bvJBwYY9utORTyDnzW1KZCDp0r+4HVaRU3+q4POA4ppLYgjdU7Dw5IGtvafDMkWisx+NpMRBlFayWsOimLtuLXu0bYo8dTNVg0PjqT8UaC7qrGB43HTgfeToG+1Dgmii4YUwU56yPWxAz+c8M8ySZ6oDbTC6ANHprpcAfo9TRSQiqnf15bc1sy0giGg/yK2/tX/Z7/g4/FAInmVh20oYRkgNqiBiMelw1XL90GjBiKR474bn5F5dfeYKSK2HRd1VxQtVwUhiEbNJXeYiYCZAOQ7VvI7AeLB9GfS4njtVojOSx1SrlcxbVuXlP6A6BaSVYVbZIJ+7z6sjFHSh1JO6iNUxoXffXhI/1ElNlKl0A=;rDfCFLOYoWzSBI+3ED7YKQ=="
 ---

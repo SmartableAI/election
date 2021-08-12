@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
-    excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
-    publishedDateTime: 2021-08-06T17:54:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806094525-josh-mandel-2014-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump-backed candidate Mike Carey wins special election primary in Ohio's 15th District, AP projects"
     excerpt: "The Republican race was closely watched in its final days, following the loss last week of a Trump-endorsed candidate in a special House election in Texas."
     publishedDateTime: 2021-08-04T01:42:00Z

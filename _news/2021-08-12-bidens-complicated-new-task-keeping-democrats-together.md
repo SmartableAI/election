@@ -203,6 +203,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "President Biden’s complicated new task: keeping Democrats together"
+    excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
+    publishedDateTime: 2021-08-12T11:44:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2PFTKOXIRAA7LGGHI6QX7C3WQ.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Senate Confirms First Biden Ambassador Amid Showdown"
     excerpt: "The US Senate on Wednesday confirmed the first of President Joe Biden's ambassadors to foreign capitals, approving his pick for Mexico, an unusually long delay amid a showdown with a Republican critic."
     publishedDateTime: 2021-08-11T17:19:00Z
@@ -338,6 +354,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Biden to Urge Congress to Lower Prescription Drug Costs"
+    excerpt: "U.S. President Joe Biden on Thursday will call on U.S. lawmakers to enact legislation aimed at lowering drug prices, including allowing Medicare to negotiate drug prices and imposing penalties on drugmakers that hike prices faster than inflation,"
+    publishedDateTime: 2021-08-12T11:37:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-12/biden-to-urge-congress-to-lower-prescription-drug-costs"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "1DoiU6dU8BoKrlqAhNcvRPdxzJkwKuAEwxdlciwSJLZlKNym/lngm1Fyo11kyiWY0r3ZYbjr1IijTU7+mFRe5Dey+RZMqSaeTaYLUpTHzdiCMEgpTwZNcyuvJOFH2FdDVaiVaojUreg4MIkvpjoGHvWspqI5iWcKlYwq1VTRRUtwVxHsdQBy7MT9o/8nt38c50FPbgJmUxBsakgOGAgECnj1mZ7YtLZDRRhCjbDZQsBAupZPH54HUGuZBZwH/gVSu41CguLVSc8FrzWlhAluD14Akaf/XK1fRvEvVnMzMPxKjcDCE8XLfr/U7xwnZi6qst1NzZMDho7evQTgZmGU8xQx7Zic6+NqPNCCjVbjKdM9CDfagfAYj9Q/gtRHmjremwP7F5pLkbxKLuhSli676qyrEGUokTUxQKnKl2R19WroEMORdBcgAN0b9OJJL5Zu0VpIIWUIPFbCp+3Av//VG/rTT0uipoirF5Y8FfM0I8m4hzbkKY3Nfrfk7sGdwcutY1GjP24AiuFEglUtpN7Dnw==;dd9I6l5z8P7wvJ07mohLIA=="

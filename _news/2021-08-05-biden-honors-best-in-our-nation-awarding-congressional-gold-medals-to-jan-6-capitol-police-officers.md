@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-honors-best-in-our-nation-awa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.amp"
 type: article
 quality: 159
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden Destroys U.S. Energy Production, Begs OPEC to Pump"
+    excerpt: "Just hours after being sworn into office on January 20, 2021, President Joe Biden signed an executive order canceling the Keystone XL pipeline. The move killed thousands of union jobs,"
+    publishedDateTime: 2021-08-12T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/12/biden_destroys_us_energy_production_begs_opec_to_pump_549252.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "ua7ubN5FslBSB6mcaWoapENvYR6buYzViO7uLsfoemreBNJe7WVohEZjIZ+ZFgvBmPlYzj6s8XgqQA6Se6H/v0qIkPMU+NSyi1iBrwarFQlIYMPUXAimWObMmCGRqJy1LnWsKhjBN2EkKsPEggircUiHhERZTggUwJXtBeUWigc8Ks62cLgYPJfngUakZUv4n/d5m8l5nV46wP5pIFzOXNFE2zupF9sSGUkozcleRa6njh0Ry8L0KkjPrqvq5TZJno4PudhNKqz6qE9OjRa1OvsQmGH2erLc7zSW+lLwjt4FfwJ5+qrf4P+GemQD4vY6MLKERjua6R3tD1ki9YrpgtDiv5DXWuR5NpJJVpCiSLo=;MWLq8DOdQ65SB0J3akRF7g=="
 ---

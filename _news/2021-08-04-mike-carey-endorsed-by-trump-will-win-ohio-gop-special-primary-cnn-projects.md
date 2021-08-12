@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html"
 type: article
 quality: 171
-heat: 251
+heat: 231
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
-    excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
-    publishedDateTime: 2021-08-06T17:54:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KO4QOhKUq7Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/infrastructure-republican-senate-candidates/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210806094525-josh-mandel-2014-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Mike Carey, Backed by Trump, Wins Republican House Primary in Ohio"
     excerpt: "Mr. Carey, an energy lobbyist, prevailed over a crowded Republican field after the former president’s endorsement shot him to front-runner status."
     publishedDateTime: 2021-08-04T01:03:00Z

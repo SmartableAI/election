@@ -128,6 +128,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Biden says U.S. troop withdrawal from Afghanistan will end Aug. 31"
+    excerpt: "The announcement comes as Taliban fighters have made significant territorial gains in northern Afghanistan in recent days, inching closer to the capital, Kabul."
+    publishedDateTime: 2021-07-08T22:28:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-address-afghanistan-troop-withdrawal-taliban-gains-ground-n1273338"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273338"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273338"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3455045/210308-taliban-afghan-mc-10562.JPG"
+        width: 2500
+        height: 1481
+        isCached: true
   - title: "Biden: U.S. troops will withdraw from Afghanistan by August 31"
     excerpt: "President Joe Biden announced that U.S. troops will withdraw from  Afghanistan by August 31. Biden said, “The U.S. did what we went to do in Afghanistan. To get the terrorists who attacked us on 9/11 and to deliver justice to Osama bin Laden."
     publishedDateTime: 2021-07-08T18:36:00Z
@@ -143,6 +159,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625769093239_nbc_biden_withdrawafg_210708_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Afghanistan Withdrawal Process is ‘On Track,’ Biden Says"
+    excerpt: "President Biden said on Friday that he believed Afghanistan had the capacity to sustain its government despite the Taliban’s territorial gains. His remarks came after American troops departed from Bagram,"
+    publishedDateTime: 2021-07-02T17:26:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007848062/biden-afghanistan-withdrawl.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-afghanistan/02new-washington-briefing-afghanistan-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "LNUg5CioJjkrSTuK2PiqI3dzz8RMlNxMBu9xpffDq/reRHJYjBRbpm3OH3mGYxraPfhzS2v0hxD0WHnhEAe4i3yM6Hv/kGE+IcTujvCmedgvEvj9sNuYPDjVpTEy7rZkstCQ8jLXpZEMf50Exdu3V1XBtq52HF624CLmoOd8ffIemR9jjW5kSIrz5zY2dI9tYdVx7vaahZBX7uQNuKT9xD005wUAPXEu+I+bYUV8EI5aByyXNGLdagvXNGnqCkSJ3n+pz/N9cm0pRfLapx1JiZOjsYM7QeDUrYca9WnTThDeJ4zq7M0LnJxY7YCGRra9XA/Bn9z5P+tjq0XikvtqFviz8zbqCwTnrcbDSnXpAFk=;JZKNqoydNNZRLsAl9pn70w=="

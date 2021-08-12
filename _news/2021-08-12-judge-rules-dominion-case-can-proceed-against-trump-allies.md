@@ -1,47 +1,102 @@
 ---
 category: news
 title: "Judge rules Dominion case can proceed against Trump allies"
-excerpt: "A federal judge cleared the way Wednesday for a defamation case by Dominion Voting Systems to proceed against Sidney Powell, Rudy Giuliani and Mike Lindell, allies of former President Donald Trump who had all falsely accused the company of rigging the 2020 presidential election."
-publishedDateTime: 2021-08-12T04:17:00Z
-originalUrl: "https://triblive.com/news/world/judge-rules-dominion-case-can-proceed-against-trump-allies/"
-webUrl: "https://triblive.com/news/world/judge-rules-dominion-case-can-proceed-against-trump-allies/"
+excerpt: "It is simply not the law that provably false statements cannot be actionable if made in the context of an election,” the judge wrote."
+publishedDateTime: 2021-08-12T11:28:00Z
+originalUrl: "https://www.nbcnews.com/politics/2020-election/judge-rules-dominion-case-can-proceed-against-trump-allies-n1276632"
+webUrl: "https://www.nbcnews.com/politics/2020-election/judge-rules-dominion-case-can-proceed-against-trump-allies-n1276632"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276632"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276632"
 type: article
-quality: 55
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: TribLIVE.com
-  domain: triblive.com
+  name: NBC News
+  domain: nbcnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
+  - Democratic Voice
 
 images:
-  - url: "https://assets-varnish.triblive.com/2021/08/4132996_web1_AP21224094742831.jpg"
-    width: 640
-    height: 427
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3498502/210812-dominion-election-mc-1200.JPG"
+    width: 2500
+    height: 1668
     isCached: true
 
 related:
-  - title: "China hawk Mike Gallagher bridges GOP’s establishment, Trump wings"
-    excerpt: "Mike Gallagher never intended to be in Washington for the long haul. Since being elected in 2016, the Wisconsin Republican has advocated for congressional reforms such as term limits and lobbying restrictions for officeholders."
-    publishedDateTime: 2021-08-10T19:52:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/"
+  - title: "Federal prosecutors came to suspect Trump Org CFO Allen Weisselberg lied"
+    excerpt: "New York federal prosecutors came to suspect the Trump Organization's chief financial officer, Allen Weisselberg, lied in testimony during their investigation of former Trump personal attorney Michael Cohen three years ago, according to four people familiar with prosecutors' thinking.\n    \n"
+    publishedDateTime: 2021-08-11T10:18:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VqvsG_cStZ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: CNN
+      domain: cnn.com
+    quality: 174
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/11/wisconsin_republicans_99295_c0-99-3045-1875_s1200x700.jpg?6dd222043ace9bd30a2cfe94c2947fd8a83f4703"
-        width: 1200
-        height: 700
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701151604-weisselberg-leaves-court-0701-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the Manhattan DA could pressure Allen Weisselberg to cooperate against Donald Trump  "
+    excerpt: "A Mercedes-Benz for his wife, an apartment for his son and school tuition for his grandchildren.\n    \n"
+    publishedDateTime: 2021-07-09T23:01:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YhcdAg6rLqg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709152352-02-allen-weisselberg-court-0701-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Organization Strips Weisselberg of Roles After Indictment"
+    excerpt: "The removal of Allen Weisselberg from dozens of subsidiaries could signal a looming shake-up in former President Donald Trump’s family business."
+    publishedDateTime: 2021-07-13T00:03:00Z
+    webUrl: "https://www.nytimes.com/2021/07/12/nyregion/weisselberg-trump-organization-removed-subsidiaries.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/12/nyregion/weisselberg-trump-organization-removed-subsidiaries.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/nyregion/weisselberg-trump-organization-removed-subsidiaries.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/12/nyregion/12weisselberg/12weisselberg-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Indicted Trump Organization executive Allen Weisselberg removed from top roles at subsidiaries"
+    excerpt: "Weisselberg was quietly removed from leadership posts at over two dozen Trump Organization subsidiaries in Florida."
+    publishedDateTime: 2021-07-13T01:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/indicted-trump-organization-exec-allen-weisselberg-removed-top-roles-subsidiaries-n1273780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490635/210712-allen-weisselberg-jm-2047.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
-secured: "bb+3wWMCg4qinUA371oE/Na5HLN40GrxbfTcvW+H19510K0r1PYrmNpgRwEfibA687+FG55qTwSsy91kguautx0R1ehgySLvA5iHHTonP4YVA4ULl43sjxjlkH568nzRv6enCKlUz5zqruMfKcgptzmz9YCA9Fe0y3eirVIQtt3DVaBPoy/pzAmIjvaew+PLPUSAZ41ag6U12wKCBmRxy13fmQm5ddWEOATiZlKtscVImYeyAf3Cbpzs9sV6YI2RUxCP041OU3hRUlL4rC81iLXZUqwOwQmGj/0vYuztLwIurmvDoYRcPDtgpOOceA62P0gQfQMHH+6DCYriASXqPbgMTXiclDdQqDSKZqlUfYo=;V93poxdUYQMLQjzUtTqT3A=="
+secured: "q7mB6Pa7f0fUWmDl3Mp7vvurDD6r0C5VGJGCquHGFYhX5l/Ou7BXQTkO24A5uzUWq25IHC+lArQa5aCqRF96HhWKRV7ixGhwOvLv9O590ZQolli378SvQFLJVXWKD7FsURhGP392DJ5aH8KKG05bOnDZEvdJtxHaotER2NTBPEzG2zji9X1OFfepIoMRJ2zZ4WLAi5bWNQ1TdjJefteRD3wbV4Krc4LVYQUw+z5UFg9tsA5ddWpg3jrbY5opUfQV/R/IqSybjulQAa1TEMSsDFHPHtmikmqDZAWqgmEVdCoT2THYKjQILYuOOb5fFlZRhtVfOBlqhQDLj9ITgVgFGAsTSegUug4ellggufP/bKY=;Mwvyq1A6xHyc4ySFiP7Xjw=="
 ---
 
