@@ -1,27 +1,27 @@
 ---
 category: news
-title: "President Joe Biden Awards January 6 Police Officers Congressional Gold Medals"
-excerpt: "President Joe Biden, surrounded by U.S. House Speaker Nancy Pelosi (D-CA), members of the U.S. Capitol Police and their families, signs H.R. 3325 into law in the Rose Garden of the White House in Washington,"
-publishedDateTime: 2021-08-05T23:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
+title: "Biden to host 'summit' to rally democracies over autocrats"
+excerpt: "President Joe Biden will host a virtual ”summit for democracy\" in December, the White House said Wednesday, as he aims to assemble government, civil society and private"
+publishedDateTime: 2021-08-12T00:21:00Z
+originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/biden-to-host-summit-to-rally-democracies-over-autocrats/article_5de699a5-d1aa-564c-8714-408bb491054e.html"
+webUrl: "https://www.stltoday.com/news/national/govt-and-politics/biden-to-host-summit-to-rally-democracies-over-autocrats/article_5de699a5-d1aa-564c-8714-408bb491054e.html"
 type: article
-quality: 51
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/WHITE-HOUSEBIDEN.jpg"
-    width: 650
-    height: 433
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/56/b5611a2a-8d4b-5ca8-9f51-3dfef2ab0174/6113c6c606058.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -280,20 +280,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden to host 'summit' to rally democracies over autocrats"
-    excerpt: "President Joe Biden will host a virtual ”summit for democracy\" in December, the White House said Wednesday, as he aims to assemble government, civil society and private"
-    publishedDateTime: 2021-08-12T00:21:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/biden-to-host-summit-to-rally-democracies-over-autocrats/article_5de699a5-d1aa-564c-8714-408bb491054e.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/56/b5611a2a-8d4b-5ca8-9f51-3dfef2ab0174/6113c6c606058.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "No, the Biden Administration isn't going door-to-door to mandate vaccines."
     excerpt: "Some people on social media are concerned President Joe Biden has ordered a door-to-door campaign to force people to get the Covid-19 vaccine."
     publishedDateTime: 2021-08-11T01:55:00Z
@@ -322,6 +308,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Awards January 6 Police Officers Congressional Gold Medals"
+    excerpt: "President Joe Biden, surrounded by U.S. House Speaker Nancy Pelosi (D-CA), members of the U.S. Capitol Police and their families, signs H.R. 3325 into law in the Rose Garden of the White House in Washington,"
+    publishedDateTime: 2021-08-05T23:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/President-Joe-Biden-Awards-January-6-Police-Officers-Congressional-Gold-Medals/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/01a3bcc6b88dd369cb7f6cbfaf73a93e/WHITE-HOUSEBIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "User Clip: Joe Biden Calls on Gov. Cuomo to Resign"
     excerpt: "After the New York attorney general released a report on Gov. Andrew Cuomo's sexual harassment of women, President Joe Biden is now calling on the fellow Democrat to resign."
     publishedDateTime: 2021-08-03T22:03:00Z
@@ -341,6 +341,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "TXO3eoBgl6Qa27YJNCULx/w5L/fBFED7G7bFQ40yqQduE9/czl3EU6q8T9W39Mbep7teQ0K6IRYd9uNv6Sf+o21hwJYuq6J7bvdYPPYkjdyh6pZ/jtUv8wj0rZxk+l4MYmAxRUw7VxSBj/qJZI6xwW8zMgxxZ4mHur1ImWxeZYD6p/Q9suAL29nME122wtbBevU3aOsCCMzWaFRI1odgVw4i40fbZM2/Rzs3NlwqiTaS3wPXaYxRs20FfzfIrJYNS8NIQdj/sCtPD7U9Ahi6euFehrqEvIqN+QZ0eYID7j3IWqQ8RIwHNGfJa0IEwxD4R0YjRI3J74dCY8bY2+KTzEnwWK47sAHKgyPhdeCBSNu9qPtppExIZSvzw4nEgrkjU38b0bfIBa3MXWCuvoEePyo9mEpohNF/4USHQEiL7seZgJVd6GrgowMSStadJRAFxLcmF/Ix/fvHvOWmKplu1Tkg9fmk1AsUe5wI1o8ZiuvDg0sxgz5H9jotE3qaayTp6yebJPiuiVbrhpPF2kK+hw==;UIjt+hHJ2QPsguJDYWWt4Q=="
+secured: "mJez17MaW11MBIN1hE3lc5JFKpbF4Sa8+0g93QWSqcDqZVgc5at+SYNzGD9ug+ytOY6jpM970thRjkPp11JgT9o6koCFJ9QjFYB1jTup/HF67VISQegLzJKJpSAYbgGgEUAU2lcBlf2s37lJ+d+pyTmISIHVNPEWppZTN8LW1xa7JlIl1javhvaF4Ak4I/XMnRlJh7OH2/7Cuvg+Crea4v6o3Qx558fMDXMqeXKpha4dRkT95JcaQHHiylnzg9ocvDXFvgYT8WKZ6wY4d5qlm+9tE/TXQZyvk/WD/8C4YxAbVV9x61H12E/Z6gTqWCFZd3YszMClkIQWWq2a6PZbxMsDaBaPKWvRMxRRQEoPYkI=;14Y3BHYbsEBBTO7JOXnyOA=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Parents of 368 migrant children separated at border under Trump have still not been found, court filing says"
-excerpt: "Attorneys are still trying to reach the parents of 368 migrant children who had been separated at the US-Mexico border under the Trump administration, down from 391 last month, according to a federal court filing Wednesday.\n    \n"
-publishedDateTime: 2021-06-30T22:58:27Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ssZzTDMamVA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ssZzTDMamVA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/migrant-children-separated-border-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/migrant-children-separated-border-trump/index.html"
+title: "Parents of 337 migrant children separated at border under Trump still have not been found, court filing says"
+excerpt: "Attorneys are still trying to reach the parents of 337 migrant children who were separated at the US-Mexico border under the Trump administration, down from 368 in June, according to a federal court filing Wednesday.\n    \n"
+publishedDateTime: 2021-08-11T23:05:44Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QdfoskSVv0I/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QdfoskSVv0I/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/separated-migrant-families/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/separated-migrant-families/index.html"
 type: article
 quality: 156
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505183243-reunificacion-bryan-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811184835-teen-migrants-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,23 +63,23 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Parents of 337 migrant children separated at border under Trump still have not been found, court filing says"
-    excerpt: "Attorneys are still trying to reach the parents of 337 migrant children who were separated at the US-Mexico border under the Trump administration, down from 368 in June, according to a federal court filing Wednesday.\n    \n"
-    publishedDateTime: 2021-08-11T23:05:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QdfoskSVv0I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/separated-migrant-families/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/separated-migrant-families/index.html"
+  - title: "Parents of 368 migrant children separated at border under Trump have still not been found, court filing says"
+    excerpt: "Attorneys are still trying to reach the parents of 368 migrant children who had been separated at the US-Mexico border under the Trump administration, down from 391 last month, according to a federal court filing Wednesday.\n    \n"
+    publishedDateTime: 2021-06-30T22:58:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ssZzTDMamVA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/migrant-children-separated-border-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/migrant-children-separated-border-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811184835-teen-migrants-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505183243-reunificacion-bryan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
 
-secured: "MXWaxaRUKYduI6x1x0B0eqC9sQPQezR0KajjmCVrxHdwJ55+3NLuFeXkCiAlYKkxhPMP6L6/wcciELTMUKdQHEV+CpZIigDfv6MDo2lj0SKNK9gG7CXruRGJgWEMRYY73PqD2/FPXBCn2gHKjDGHbt0lJibxggzrHQlfNqygYGqyhVYpTXmYMfPfj0XykTng+LelDLg0yvNQ5PAUOE5CPNlMVcAB3lqaBnOj8lIEjhQpSSFDoB0fiYXRp8+nArrVWZf/toPFwPv2Ftcu9HRrdA4rGQU3cCyBy/22oEQZdYOFKobmvEiYAC1KTvAvuOoAUM0DgTtG7moeKwHkGC3yMLorTBHQNITdPxFCPMgtlwk=;+EUbvmjdFBpJh+xyoCWSWQ=="
+secured: "V2AZtcR4uY0bXnsuD25yBdiUJA3u3ZME9ALxnEBLXRlVe9H4wK50m6K6luVatoRat0sbMiwkg8ASTawWpCxlzM17zJuQmicHDsyu/+pOqbsmDlVTD7AWc3e5E682nq4xg8Asicx0dcJpGUZQ/zuDstBeXTKJLPnR65EME9oFSZLUfbwWzolBfO3nGLsu7Eu+wZQGm3+nS0isuVh5L6lBijpYHCpIi2BQpPsspI2YTWzp4eP7PhLOX9uti2vLmzO+4TJ7FJrIowM7jeWuC2waJ8c+8TsfCCEnFA6Qo8oH9rkFxbJmvdS/1eRZFFUGZRy//g0nIrqItEUnQVOVlXzayze2HR8OSMI5uH525Lvy+9k=;GdJamk5uaMhGT74KJ1Zsgw=="
 ---
 

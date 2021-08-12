@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Psaki ‘not aware of plans’ for Joe Biden to attend Hunter’s pricey art show"
-excerpt: "The first son is asking as much as $500,000 for his paintings from anonymous buyers, which ethics experts say are inflated prices based on his dad’s official position."
-publishedDateTime: 2021-08-11T19:43:00Z
-originalUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/"
-webUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/"
-ampWebUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
+title: "Biden won’t release Delaware visitor logs despite 17 trips home"
+excerpt: "White House Press Secretary Jen Psaki said Wednesday that President Biden won’t release visitor logs from his Delaware residences, despite making 17 trips home in six months."
+publishedDateTime: 2021-08-12T00:20:02Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mat7QE4KDq4/biden-wont-release-delaware-visitor-logs-despite-17-trips-home"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mat7QE4KDq4/biden-wont-release-delaware-visitor-logs-despite-17-trips-home"
+ampWebUrl: "https://www.foxnews.com/politics/biden-wont-release-delaware-visitor-logs-despite-17-trips-home.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wont-release-delaware-visitor-logs-despite-17-trips-home.amp"
 type: article
-quality: 133
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/hunter-biden-art-show-hp.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -39,22 +42,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 180
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden won’t release Delaware visitor logs despite 17 trips home"
-    excerpt: "White House Press Secretary Jen Psaki said Wednesday that President Biden won’t release visitor logs from his Delaware residences, despite making 17 trips home in six months."
-    publishedDateTime: 2021-08-12T00:20:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mat7QE4KDq4/biden-wont-release-delaware-visitor-logs-despite-17-trips-home"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-wont-release-delaware-visitor-logs-despite-17-trips-home.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wont-release-delaware-visitor-logs-despite-17-trips-home.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
@@ -172,6 +159,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki ‘not aware of plans’ for Joe Biden to attend Hunter’s pricey art show"
+    excerpt: "The first son is asking as much as $500,000 for his paintings from anonymous buyers, which ethics experts say are inflated prices based on his dad’s official position."
+    publishedDateTime: 2021-08-11T19:43:00Z
+    webUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/"
+    ampWebUrl: "https://nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/psaki-not-aware-of-plans-for-joe-biden-to-attend-hunters-pricey-art-show/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/hunter-biden-art-show-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "6 Things Biden Could Do About Covid If He Is Serious"
     excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
     publishedDateTime: 2021-08-08T19:31:00Z
@@ -182,6 +185,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "EkSS7IfsXpU60ERLNiDG2M2A2hnNtw4GPbpO3pjcfBxAxPz5uX+aabKIQodf/3kkqkODS39LjvSLB4p+uZO7pHt4cwdvf5PX4d+oBj0CDCVm3VvwxkcU9hxVvDLSXxmqMVFnCGFCIRQQAm+jh6djuuuBFpgoAFljoW8ot+MsAdV/HA1+AAI9M/57OSdUvdNoBk+OptCBSCjGzODL3/JVBp8e4Ap1GclRoXACVhXl7niqPtGyswzLBNzAL6oYNcEhJXSwEhjqd2I/4//YAEF0cJf8LKNzZ2L58V8zfiglLy3fFrNW31wYBFd5SEAJ3RBRjPX6O2qVDEsFWt5l+IYPw/+M/O1XjjZXpJN2akvv1aNX5bjp+qdE/jkd8swSXz4UMU1D5gyy8UVKm1g27/FMnz9+UssYuePXnlsPtWdldYEJ2pBw4NpWPHmkUfuAZtDTDgNaLed0P3lKLcWTDhoTuNBAm7hzY2UoiiIzRaL15AOpgCmxsYDyA4mqLR8MEZAJevy/nz++IzzMYz30MMpTyg==;JnCqCl9Qx+MKCcofItIteA=="
+secured: "Ddh9Rk4egkFidE1UaW8wLnXZ4ZO3V71ewLL6rfkwFJPv2RySYo4aPH3sYRRYaXiDdzMleybR7N174kusrZWA8hQEGpLgy24YhgJFO8Q89xfF6hQVMllPB5c020xOugz6qXTpOoUTwqFSVZrqotPWS7EvNYspitJ0uDJP/Q5P9E3SUAl1cWlHPCQtVLK/h8NjKxJB49I1ni+Hw219VeDpslTMbOMK7X1gadCr2ckety/jqrrAbbtC1QLsvgmFrL2BiIuDo9F7DN5Vj3OX+zqO+yUFPG8lZGAeyyT6Bqn5Ghi3Q3fBe2e9A8LtWF4Cc+1sTFsXGp14yY9mxEE88dqMBqXvbwgb7B+lkgv9gB/+OcY=;O2cREm8rcluOKvEFmmPMkA=="
 ---
 

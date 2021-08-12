@@ -211,22 +211,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden's complicated new task: keeping Democrats together"
-    excerpt: "If Biden and Democratic leaders in Congress hope to succeed, the months ahead will almost certainly be dominated by a tedious balancing act."
-    publishedDateTime: 2021-08-11T23:41:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/11/bidens-complicated-new-task-keeping-democrats-together/8102527002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/8102527002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8102527002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/11/PDTN/4f6009f5-4cce-49e4-9038-5e063f254b50-AP21223746402227.jpg?auto=webp&crop=4816,2709,x0,y244&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
     excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
     publishedDateTime: 2021-08-09T09:31:00Z
@@ -282,6 +266,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to host 'summit' to rally democracies over autocrats"
+    excerpt: "President Joe Biden will host a virtual ”summit for democracy\" in December, the White House said Wednesday, as he aims to assemble government, civil society and private"
+    publishedDateTime: 2021-08-12T00:21:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/biden-to-host-summit-to-rally-democracies-over-autocrats/article_5de699a5-d1aa-564c-8714-408bb491054e.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/56/b5611a2a-8d4b-5ca8-9f51-3dfef2ab0174/6113c6c606058.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "No, the Biden Administration isn't going door-to-door to mandate vaccines."
     excerpt: "Some people on social media are concerned President Joe Biden has ordered a door-to-door campaign to force people to get the Covid-19 vaccine."
     publishedDateTime: 2021-08-11T01:55:00Z
@@ -332,6 +330,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Biden’s complicated new task: keeping Democrats together"
+    excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
+    publishedDateTime: 2021-08-12T01:34:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/11/bidens-complicated-new-task-keeping-democrats-toge/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
     quality: 35
 
 secured: "h6gYE2p04Wkqh495aKHbKiPPa4SJILsbf9jsetyNenBQhQChx/CaxiiS3XGxo60yKoejyaGXl+7Q/0EpC/kkuxUPaluozkK1+3Omjk351JF8etvtWLwykz69bfIusk3h2L9cuEodEOM5/IhwsAwcvm2F+YCGJBHPOKbA3dII9GhwEmOjktg9zG1HdDMer4BP/TzUj9gO4f9YGHdmvcTh+Oy2FUf77JvckuLGIP3jwe7nzG2WjwCnFNUsu4mW5665AhyUCUcPd+qVoLfAqJNRr37ZjwGS7djiegGqnSu72lnmHNtKZAub4V4qsX5+/A0q4fHSBtMbvG20n5F+16G/VwLPBX51qCccTllV7TiXeDk=;BBYnNkrZ8Y8sfZy9WuTdSA=="

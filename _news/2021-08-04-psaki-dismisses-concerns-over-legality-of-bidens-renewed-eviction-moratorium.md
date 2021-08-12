@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden won’t release Delaware visitor logs despite 17 trips home"
+    excerpt: "White House Press Secretary Jen Psaki said Wednesday that President Biden won’t release visitor logs from his Delaware residences, despite making 17 trips home in six months."
+    publishedDateTime: 2021-08-12T00:20:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mat7QE4KDq4/biden-wont-release-delaware-visitor-logs-despite-17-trips-home"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-wont-release-delaware-visitor-logs-despite-17-trips-home.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wont-release-delaware-visitor-logs-despite-17-trips-home.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden prepares plan requiring foreign travelers to be vaccinated amid border crisis"
     excerpt: "The Biden administration is currently working on a plan to require foreign nationals traveling into the U.S. to be vaccinated against the coronavirus except for some \"limited exceptions.”"
     publishedDateTime: 2021-08-05T15:26:58Z

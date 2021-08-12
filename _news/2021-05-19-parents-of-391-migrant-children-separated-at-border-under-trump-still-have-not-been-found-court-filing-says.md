@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Parents of 337 migrant children separated at border under Trump still have not been found, court filing says"
+    excerpt: "Attorneys are still trying to reach the parents of 337 migrant children who were separated at the US-Mexico border under the Trump administration, down from 368 in June, according to a federal court filing Wednesday.\n    \n"
+    publishedDateTime: 2021-08-11T23:05:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QdfoskSVv0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/separated-migrant-families/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/separated-migrant-families/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811184835-teen-migrants-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "3w6BMKpZXWrERrsEdwUZzymvRcmoikxD9AxvaJr64c63la1o/DCMDLVulXAh1oYlh/DMvde7RIjEL92zwU87CkSYbdCR52wrJkTf5hr8dhO4ZdlkolHulFYrIBp7L/VRJG1iGA4OxmOr/Wv1SkhuETofJzqrUilR5gfUjtkZsQoHMC5bAG2gDefhTWqURxsWGFBH0oiIMjk6q4ULXwQlB7lMnGcIjymnyFcuZqvzlvHIG9MDTEOA1KCdHDz58nWXxjfKfiVcy4Qw+0VWBf/u4anWnfT/aWtafaVpFT0aJgychhthLMknrGRliHpadX9jom5Z1778nHmFvxm+NmxrUQCCFKHRE72X8IrBMxaKDc0=;WAql/VNgjfjH7aOP0jeYtA=="
 ---

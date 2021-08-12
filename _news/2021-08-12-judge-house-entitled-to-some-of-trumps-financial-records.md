@@ -1,20 +1,22 @@
 ---
 category: news
-title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
-excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
-publishedDateTime: 2021-08-11T20:25:00Z
-originalUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
-webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
-ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
-cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+title: "Judge: House Entitled to Some of Trump's Financial Records"
+excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."
+publishedDateTime: 2021-08-12T00:18:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/judge-house-entitled-to-some-of-trumps-financial-records"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/judge-house-entitled-to-some-of-trumps-financial-records"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -81,16 +83,18 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Judge: House Entitled to Some of Trump's Financial Records"
-    excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."
-    publishedDateTime: 2021-08-12T00:18:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/judge-house-entitled-to-some-of-trumps-financial-records"
+  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
+    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
+    publishedDateTime: 2021-08-11T20:25:00Z
+    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
 
-secured: "uZlXCgToQnyk3RnH0QWHtTcTnLLVVoXaxkuqAeaXwU2o2Fpk8sSN5HwuJWFA36TF/tSzuWg4d5k4LfIVArJjo/xc1gTBfLCB4Y29f3EHvkoxXBf9X28Yvdz3nlDEpCcyYsJFwSOqfbh4m2crWlhMUl5GyDRYs4paVsJfub7Vgyh6ss7brxQILEwBL4JyYljmYXQqD0knXJScCqTFiqA7WzGOjGGZ/sAaaDJ/y52pT6VNTQHCAinGtEl4RgHDGi+ilwt2nTKffXliG9vARAmZOY1isqXtlQG6m5iFtD8abzLN7YenEbCor4I5+aJ68foAxx3krSB7OKG9EdveLhk83SEq4dn/F1zG2+4uEN7ZgiWwABEKcjxJXtUEEvPdnnnuArn5KmlqzYDzt9atyurvotK7X69+WTceI/l+L6Jb7g+eB830+CMIMtMxyVC/MeojSci0RUhHaHFYtDx1iajCU4dckXVQoV6haAQdmGAjWHM1CpKCLn5ILU4pSAnSq+MzVTszb4B9uul/DF8CRr14pQ==;5oIJMPW7z3I3r5JGbN+5kA=="
+secured: "SjQm16deNAkrYwFj1/Hy1abCNDceyUSpD5TU0JQJPnMqbX+NCmQrs9JHxIWHeZQGvtbEzD9K/WHEC6M5VrWsT8Sn3y96XKyKXN3qS1f0Gb6Qdr3D+jVY7xUK0P4Ii1duTn7KVO/TQr5s0GoJqx3R760D05WooRFGMRBaBo9xx2x5lBjqc8s+p3zEvWLTzkFIflsvyrKPcdG31IkcPh6dC5pfdux3KBF9fkUW0ApSMSv7xWkvIqjO+uFDHRzg8tjW22izzNkkX+nGkWkN4IRYh/e0LpFmjGYmu4lGQ7VS6jYwAZRQrv3NMsAIvuJxzJz5knYST1TC8HhUMYwIGPJR+6cht/n1qS83oGWIOYuJLPalUtBblZVyXYXhPjNECWAjygo48yvweaqk7lFAQ6VpR/4/+WLGXUkKgiz/Gjg7zNTq/A2EAcJYj9p04ms0qZ0SIvo91FwkdSD+5Qbl7IDvYN8joZAb624TyCmfSv20O7O020s0NWYzKc4XEqDvmi3bQbPLGcMXNnFMHYh6kaD1KA==;JZJhfyuLtmQS4bHO8CBKAg=="
 ---
 

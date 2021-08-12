@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/donald-trump-geoffrey-palmer-california
 webUrl: "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536"
 type: article
 quality: 105
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 55
+  - title: "Judge: House Entitled to Some of Trump's Financial Records"
+    excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."
+    publishedDateTime: 2021-08-12T00:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/judge-house-entitled-to-some-of-trumps-financial-records"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Zqn6ib3b0Nert0av5PO4vPsJ0wRmmxE1yWlfq9bTww/wyRtT8nuuxTiFRHNvAWWKvjTNL82ZI7Sivz0cvoo2tv0gXvqq3VzCmxI0iMaz/EXDJ5pFpwkaMv9C0R9xE3M/R32Z4VG+FxLftsiVAppgNZVkmjflrSpwW78KJpqmLzyMxTwZA6WEtEjjoD4f5OTEZv1V1s3aSQcFi0LxWmGvpZSEPRGREBDFwXs+/vW8r4CqxBy0yQGXGfDcgLQKVkTfpthr0SWYD0C+zGw9/3SalETPFKAINYCU3EgXt7HHS4AH2aqo8xEzHpwCpzOLpUpopOnAmEAKx2HMCV5w7zGDasDnGCeQnbbyrcMXYh8fSws=;sYtaitkFQ9dw6ycGXZ7scA=="
 ---

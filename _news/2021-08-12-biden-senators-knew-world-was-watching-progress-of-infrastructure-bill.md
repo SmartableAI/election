@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Will McConnell lift roadblock of Biden for infrastructure?"
-excerpt: "Senate Republican leader Mitch McConnell had vowed to be “100% focused” on stopping President Joe Biden’s agenda"
-publishedDateTime: 2021-08-05T04:13:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
-webUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
+title: "Biden, senators knew ‘world was watching’ progress of infrastructure bill"
+excerpt: "For the president and a group of bipartisan lawmakers, the recent infrastructure deal was about more than building roads; it was about building confidence in the legislative process."
+publishedDateTime: 2021-08-12T01:10:00Z
+originalUrl: "https://www.yorkdispatch.com/story/news/2021/08/11/biden-senators-knew-world-watching-progress-infrastructure-bill/118129404/"
+webUrl: "https://www.yorkdispatch.com/story/news/2021/08/11/biden-senators-knew-world-watching-progress-infrastructure-bill/118129404/"
+ampWebUrl: "https://amp.yorkdispatch.com/amp/118129404"
+cdnAmpWebUrl: "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/118129404"
 type: article
-quality: 125
-heat: 305
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The York Dispatch
+  domain: yorkdispatch.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d780b5e9d5574b8788053aa12c3bd597_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.gannett-cdn.com/-mm-/24d5cefd693ff6ee924c1244734278201dbff648/c=0-106-1600-1006/local/-/media/2021/08/11/YorkDispatch/B991037004Z.1_20210811210246_000_GIG388C20.2-0.jpg?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
+  - title: "Will McConnell lift roadblock of Biden for infrastructure?"
+    excerpt: "Senate Republican leader Mitch McConnell had vowed to be “100% focused” on stopping President Joe Biden’s agenda"
+    publishedDateTime: 2021-08-05T04:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d780b5e9d5574b8788053aa12c3bd597_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'Every step of the way': McConnell pledges battle over Biden infrastructure plan"
     excerpt: "WASHINGTON (Reuters) -President Joe Biden on Thursday faced the prospect of all-out political war with Republicans over his $2 trillion blueprint to revitalize America’s infrastructure, with a top Democrat also offering only partial support over how to ..."
     publishedDateTime: 2021-04-01T23:34:00Z
@@ -78,22 +90,6 @@ related:
       - url: "https://media.khou.com/assets/CCT/images/4e04e287-a4ba-4563-8498-01052b016446/4e04e287-a4ba-4563-8498-01052b016446_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Biden, senators knew ‘world was watching’ progress of infrastructure bill"
-    excerpt: "For the president and a group of bipartisan lawmakers, the recent infrastructure deal was about more than building roads; it was about building confidence in the legislative process."
-    publishedDateTime: 2021-08-12T01:10:00Z
-    webUrl: "https://www.yorkdispatch.com/story/news/2021/08/11/biden-senators-knew-world-watching-progress-infrastructure-bill/118129404/"
-    ampWebUrl: "https://amp.yorkdispatch.com/amp/118129404"
-    cdnAmpWebUrl: "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/118129404"
-    type: article
-    provider:
-      name: The York Dispatch
-      domain: yorkdispatch.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/24d5cefd693ff6ee924c1244734278201dbff648/c=0-106-1600-1006/local/-/media/2021/08/11/YorkDispatch/B991037004Z.1_20210811210246_000_GIG388C20.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump blames McConnell for infrastructure bill’s passage: ‘Most overrated man in politics’"
     excerpt: "Former President Donald Trump slammed Senate Minority Leader Mitch McConnell on Tuesday for helping pass the White House’s $1.2 trillion infrastructure bill, saying the Kentucky Republican is the “most overrated man in politics."
@@ -152,6 +148,6 @@ related:
       domain: cincinnati.com
     quality: 13
 
-secured: "aV4kCZuudeJWRYipDyGwcqzaeVPrUMobMizJmjhHzJk+B0DZR/7zCNFByxseofvqLbCejTJVkgRGC0iNjtceWlvToSNltWsHTApHbi+P1jqkruR1lrPWWGgFj0im5M8C/0yZVRoU3NDnPIMA35WWMmvYzVp/zk+ba+ejc4V2YqwHLfouLGIYAdLwVy9b1dn7mdnnZ12+B+e3rQKov9OA+OpPtbAWb9t8BPA94Mw83R+JcZTjhriRHOkniuU0MSoSgAO05U6zPZ6aRhXANYxVgC8Y4TP/qh2Tv0KRjz1WmeIKofhE0RC9z339ICwnJDXSfwwZNMeCdWS8aCaXF9Bdcn514EhXmHJX9Bi7WfUcsL2lOYCU2kO84B8E6FCICx+qu0Yl37AiwRAl81/QXhTLpifJcMENH6SpWqNk6a/2k8ZNN9S2oUF0WDdwT5RvCg8O3HxWfChVgbnvmAftyAbIY0ygMe1wWomDUxr/N2PD1QW2qNJb8thgLDsfRs9uVXOIcdm66cKf7uMu3Rq86JkdSw==;XOOButkMz9HqsqUmTdrhdQ=="
+secured: "3fQy0/3Ze23MZP2dVRFU0g4HW2QRiG9Un/fWgd/xaOVimuHeRs2myNGt29o5SCl+XHD6Y/uiTuMUC8nUmboH6JZrSmpVsWbq6WNSH48goc/gG95OrcZTWdLkEa5fQtCcVZFWfe3vFn6kanyyEj5Xoqi3OODNMkhySmnWb91Qb8nSlaFfxnZZnxLSHAnToX4szm+zEMsfTeF/0gpa4vfNZBLsO4JW940XL/Y6vfa4d1ThqM8nkL9wU3JnqjEkKEhvsq+DVM6lZA6HpTtsPgwJGIJxcqtSc2qlz22xHhrywiMRKcqGnzfeOWXmdC2RkCp9KJeNYlSB6BSjRrs3n27yisHbpFPttVIUdDe4dp1bffU=;75L40WJV1D7uV+5RKLg25w=="
 ---
 

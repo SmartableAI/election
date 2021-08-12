@@ -209,22 +209,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden's complicated new task: keeping Democrats together"
-    excerpt: "If Biden and Democratic leaders in Congress hope to succeed, the months ahead will almost certainly be dominated by a tedious balancing act."
-    publishedDateTime: 2021-08-11T23:41:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/11/bidens-complicated-new-task-keeping-democrats-together/8102527002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/8102527002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8102527002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/11/PDTN/4f6009f5-4cce-49e4-9038-5e063f254b50-AP21223746402227.jpg?auto=webp&crop=4816,2709,x0,y244&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Senate Confirms First Biden Ambassador Amid Showdown"
     excerpt: "The US Senate on Wednesday confirmed the first of President Joe Biden's ambassadors to foreign capitals, approving his pick for Mexico, an unusually long delay amid a showdown with a Republican critic."
     publishedDateTime: 2021-08-11T17:19:00Z
@@ -296,6 +280,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to host 'summit' to rally democracies over autocrats"
+    excerpt: "President Joe Biden will host a virtual ”summit for democracy\" in December, the White House said Wednesday, as he aims to assemble government, civil society and private"
+    publishedDateTime: 2021-08-12T00:21:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/biden-to-host-summit-to-rally-democracies-over-autocrats/article_5de699a5-d1aa-564c-8714-408bb491054e.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/56/b5611a2a-8d4b-5ca8-9f51-3dfef2ab0174/6113c6c606058.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "President Joe Biden Visits Plumbers and Gasfitters UA Local 5 Training Facility"
     excerpt: "U.S. President Joe Biden visits Plumbers & Gasfitters Local 5 Training Facility in Lanham, Maryland on Wednesday, August 4, 2021. The President met with union members from the United Association, trainers and apprentices."
     publishedDateTime: 2021-08-04T21:35:00Z
@@ -332,6 +330,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Biden’s complicated new task: keeping Democrats together"
+    excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
+    publishedDateTime: 2021-08-12T01:34:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/11/bidens-complicated-new-task-keeping-democrats-toge/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
     quality: 35
 
 secured: "HF6kVYex19s0odPw1yewLo0uHvAQ5x6FqbjMPwQ7GLv5pZ8TAPqcAe5JX70NRH/pLuMAzJ7m/a3kguFwkL6pS6zs9vkZszoKyv5Dd2TROfxNLjIi0gz/P57U+md3H4oRmjxm17WzGYkMqAxbQ3u8bz/WVDA7cA5IRhKSyFiApsgriPdSdQZeMd58/yFdJmCfgPPjk61mL2xiLjJFct4iFmya9py0+/Ag14Y4tqQiGYVe8Eros6sip19k9rgbbTuymTuhMC5RQGFI3pCPrNzKnxhOmWyA1bBrM2uYu1hFOrlLXV8HLKS+mYQtvl8imAuG9F32vDiASpPYPwNETnWYWCOcbZ9ggOviR7P3Ye8TJuI=;Lij8u5XfNruXD2Qhrclmow=="

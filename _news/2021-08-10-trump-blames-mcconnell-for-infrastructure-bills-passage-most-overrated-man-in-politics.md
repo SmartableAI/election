@@ -91,6 +91,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Biden, senators knew ‘world was watching’ progress of infrastructure bill"
+    excerpt: "For the president and a group of bipartisan lawmakers, the recent infrastructure deal was about more than building roads; it was about building confidence in the legislative process."
+    publishedDateTime: 2021-08-12T01:10:00Z
+    webUrl: "https://www.yorkdispatch.com/story/news/2021/08/11/biden-senators-knew-world-watching-progress-infrastructure-bill/118129404/"
+    ampWebUrl: "https://amp.yorkdispatch.com/amp/118129404"
+    cdnAmpWebUrl: "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/118129404"
+    type: article
+    provider:
+      name: The York Dispatch
+      domain: yorkdispatch.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/24d5cefd693ff6ee924c1244734278201dbff648/c=0-106-1600-1006/local/-/media/2021/08/11/YorkDispatch/B991037004Z.1_20210811210246_000_GIG388C20.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
     excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."
     publishedDateTime: 2021-08-08T23:12:00Z

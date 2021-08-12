@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Biden's complicated new task: keeping Democrats together"
-excerpt: "If Biden and Democratic leaders in Congress hope to succeed, the months ahead will almost certainly be dominated by a tedious balancing act."
-publishedDateTime: 2021-08-11T23:41:00Z
-originalUrl: "https://www.detroitnews.com/story/news/politics/2021/08/11/bidens-complicated-new-task-keeping-democrats-together/8102527002/"
-webUrl: "https://www.detroitnews.com/story/news/politics/2021/08/11/bidens-complicated-new-task-keeping-democrats-together/8102527002/"
-ampWebUrl: "https://amp.detroitnews.com/amp/8102527002"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8102527002"
+title: "Biden’s complicated new task: keeping Democrats together"
+excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
+publishedDateTime: 2021-08-12T01:34:00Z
+originalUrl: "https://lasvegassun.com/news/2021/aug/11/bidens-complicated-new-task-keeping-democrats-toge/"
+webUrl: "https://lasvegassun.com/news/2021/aug/11/bidens-complicated-new-task-keeping-democrats-toge/"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2021/08/11/PDTN/4f6009f5-4cce-49e4-9038-5e063f254b50-AP21223746402227.jpg?auto=webp&crop=4816,2709,x0,y244&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Joe Biden to tout strong July jobs numbers – US politics live"
@@ -282,6 +274,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to host 'summit' to rally democracies over autocrats"
+    excerpt: "President Joe Biden will host a virtual ”summit for democracy\" in December, the White House said Wednesday, as he aims to assemble government, civil society and private"
+    publishedDateTime: 2021-08-12T00:21:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/biden-to-host-summit-to-rally-democracies-over-autocrats/article_5de699a5-d1aa-564c-8714-408bb491054e.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/56/b5611a2a-8d4b-5ca8-9f51-3dfef2ab0174/6113c6c606058.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "No, the Biden Administration isn't going door-to-door to mandate vaccines."
     excerpt: "Some people on social media are concerned President Joe Biden has ordered a door-to-door campaign to force people to get the Covid-19 vaccine."
     publishedDateTime: 2021-08-11T01:55:00Z
@@ -334,6 +340,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "UfQcn18fbXXAGzOCkJXPKomVVfb0VjqR5jG1UfWIKAAbDCxhHRwfatVPu+W8S38WFIOH0DL3D6/fEM08NJ3o6/eCtCQrrGXyPoOkfgitpcy+c7MOifAvJLpu1/t0JCNHvZSKIZx5pn+x/Euo4bbtwnqgMtns2sOkqn9nt/4EkH0Gw1oY3SP/6gcGVGkHDmyr+zf8a3B8lpmWqPtngx8mlgkpKnde/KC3QET/gPc759nZi0lr3gJ+DzaLPTSr8k4SOPv0tmNNhdGSItEj+9L4kRBVpXnyUpe+bw/q/AhCFV3sJOY68cAlM82r3zGyAgvOF1jlyTDqxuWgkscHUe6qLYhWMiaq/2ilqv2nXAfUKzA=;oIp888ebVL/IiuJPwhadvQ=="
+secured: "1DoiU6dU8BoKrlqAhNcvRPdxzJkwKuAEwxdlciwSJLZlKNym/lngm1Fyo11kyiWY0r3ZYbjr1IijTU7+mFRe5Dey+RZMqSaeTaYLUpTHzdiCMEgpTwZNcyuvJOFH2FdDVaiVaojUreg4MIkvpjoGHvWspqI5iWcKlYwq1VTRRUtwVxHsdQBy7MT9o/8nt38c50FPbgJmUxBsakgOGAgECnj1mZ7YtLZDRRhCjbDZQsBAupZPH54HUGuZBZwH/gVSu41CguLVSc8FrzWlhAluD14Akaf/XK1fRvEvVnMzMPxKjcDCE8XLfr/U7xwnZi6qst1NzZMDho7evQTgZmGU8xQx7Zic6+NqPNCCjVbjKdM9CDfagfAYj9Q/gtRHmjremwP7F5pLkbxKLuhSli676qyrEGUokTUxQKnKl2R19WroEMORdBcgAN0b9OJJL5Zu0VpIIWUIPFbCp+3Av//VG/rTT0uipoirF5Y8FfM0I8m4hzbkKY3Nfrfk7sGdwcutY1GjP24AiuFEglUtpN7Dnw==;dd9I6l5z8P7wvJ07mohLIA=="
 ---
 

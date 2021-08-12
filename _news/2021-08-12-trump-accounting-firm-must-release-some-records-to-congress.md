@@ -82,6 +82,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 55
+  - title: "Judge: House Entitled to Some of Trump's Financial Records"
+    excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."
+    publishedDateTime: 2021-08-12T00:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/judge-house-entitled-to-some-of-trumps-financial-records"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "J+NXloakblyTQ/+8IGYbxd6LSf0nYPiYMr+ZQp+MPpQTKXCK5ynd6JxIi4r842AmwD2hTHuMijxvsxHiSC/b/h9TGMjhcQKDkV3GMkCMmOFReqUYX1SrTu5glSFXEVZGzNdRlCw/glM+RC8VUP6s96Vx5g6uFtEwR9wvbOTl5hyHYGRVaICmpUfozYnfqfl08NqrdQUMwxuW9r+HavO6fwJVh5jI3oj2YLQjzZJrSuoMpGyz7erU/MEMCylVAzRRrg5t/FQAMkqAKGlw8l7LVyIy+da2Aoa7k2WxBL3wECGQOdxrzrnPQW0LdlZT0K1ZZzNkjYvTMMUsDJV3OAw1F9xcJoETDJSof8/FWRgT0aE=;BYh5knAWe0XoZxbFY2LHKQ=="
 ---
