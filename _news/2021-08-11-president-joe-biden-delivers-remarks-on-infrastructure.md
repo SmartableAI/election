@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on Infrastructure"
 excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
 publishedDateTime: 2021-08-10T21:00:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b952c0881bab8dd7ec71e25362e3441a/WHITE-HOUSEINFRASTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -197,6 +197,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "1lNAjW9Tan77sIBxy821T80IV4zYxoK95LwHtrGDP+CBBXIPdzRfehZGmPGMvFvAHRICROeAk2S/3XolSqzpLN/7CBadZTK6RyGKZ+AdU+mAfPgEiB3mFKZY/tppy71kfsW8LeaV20HrmN2m/rNoQeyLOv8wp2NNTt7aFkKh4OTSCquoZTgepBrHGC64Ilnjx9/6o0MXW8j2x2Uz3wPU3K51pml2ZprWb5DaRa+vNqGCTxX28c+B70mNKWfaQvQBhfA1cDMm8V7trdAl+WAsdrKta6HXaPBIPsGHTpc+1TjnGHZzqXSIHhxDxp9uU20O57wCIIvD4V8Gtt+VBEYLXAVFpOqwsbAN19Wv0lKq7J8=;jkyLvtE3xUmvgWx/85nPdA=="
+secured: "tiGKg5TyAoHuhcVWF8gk4akzkJXGvCEdcsyvIJpA1x/m45ODrM+pxhKvlXGtWjlyzlnw7p6NARe1FA6IwoDbqTGPOrzn98axXF9zwV1XTRPmMcNHWrED1c0fcfBz0YlJg6lINofFCNTa7vTL4Gev4nx4tgdi6pwLvU1lBAtFGiJKFgniPZ22SrKwGecaZX7UcHV7vgLp0LgApLkA+2ftuxWotzEU2ZHssDZLhyGTTOG4NUatNfru+tA2qRS/3L6/HQGa5pPJUDi8D4m27C6OWPt7a4qMe9X8OYRVsbHUo0zHF+KalRzeBYaN3UrUaStx5DhUQBLcLnWF4s5LEKiY8OWymcdbpj6E08ZUzILpqhk=;eLes8L2n+dPspbPPc8gfEg=="
 ---
 
