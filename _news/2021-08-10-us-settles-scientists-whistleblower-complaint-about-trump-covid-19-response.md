@@ -39,6 +39,22 @@ related:
         width: 1320
         height: 880
         isCached: true
+  - title: "Capitol rioter from Maryland: I am a Democrat who didn’t support Trump"
+    excerpt: "A Maryland man who pleaded guilty to joining the Jan. 6 riot at the U.S. Capitol says he is a registered Democrat who wasn’t a supporter of former President Donald Trump and found himself at the scene as an “accidental tourist."
+    publishedDateTime: 2021-08-12T17:39:00Z
+    webUrl: "https://www.baltimoresun.com/news/crime/bs-md-cr-capitol-riot-maryland-20210812-xm3sxiwdgrgktpwopqriyiwzpq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/crime/bs-md-cr-capitol-riot-maryland-20210812-xm3sxiwdgrgktpwopqriyiwzpq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/crime/bs-md-cr-capitol-riot-maryland-20210812-xm3sxiwdgrgktpwopqriyiwzpq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/N0U0p4p2gBeQ3MPNnO4Cqw9a14U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/62WVEGEYDVDNJNF2FQBU4CCZRI.jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Trump Was 'In Pain' And 'Afraid' After Bout With COVID-19, New Book Says"
     excerpt: "Former President Donald Trump was “afraid” and “in pain” while he was receiving treatment for a severe COVID-19 infection, his niece Mary Trump has claimed in a new book. In Mary Trump’s upcoming book “ The Reckoning: Our Nation's Trauma and Finding a Way to Heal ,"
     publishedDateTime: 2021-08-11T02:01:00Z

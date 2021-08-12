@@ -73,6 +73,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump appeals ruling that U.S. House can see financial records"
+    excerpt: "Lawyers for former U.S. President Donald Trump have quickly appealed this week's court ruling that his accounting firm must turn over some of his financial records to a Democratic-led House of Representatives committee."
+    publishedDateTime: 2021-08-12T17:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-mazars/trump-appeals-ruling-that-us-house-can-see-financial-records-idUSKBN2FD1S8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/UOUOEUYW-9C0qKO0w1QqQEP-A6w=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O5BYTKEK2FMHPH3GSJ3XOCH7FI.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
     publishedDateTime: 2021-08-09T15:38:00Z
@@ -88,6 +102,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Biden’s eviction moratorium defies the rule of law"
+    excerpt: "As Biden’s casual disregard for the law shows once again, an independent judiciary is a crucial check on that impulse."
+    publishedDateTime: 2021-08-12T17:25:00Z
+    webUrl: "https://www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/"
+    ampWebUrl: "https://www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 75
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/OCR-L-CDCMASK-0514-02.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Van Orden receives Trump endorsement in battleground WI-3 House race"
+    excerpt: "Former President Donald Trump has officially endorsed Republican Derrick Van Orden in his currently unopposed bid for Wisconsin's 3rd Congressional District, a key swing race in the upcoming midterms."
+    publishedDateTime: 2021-08-12T17:15:00Z
+    webUrl: "https://lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.html"
+    ampWebUrl: "https://lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.amp.html"
+    cdnAmpWebUrl: "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.amp.html"
+    type: article
+    provider:
+      name: La Crosse Tribune
+      domain: lacrossetribune.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/4/31/431a004c-b905-520d-a70c-7bafab18b438/60da3a3801a58.image.jpg?resize=1024%2C710"
+        width: 1024
+        height: 710
         isCached: true
   - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
     excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
@@ -174,16 +220,16 @@ related:
         height: 630
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Infrastructure"
-    excerpt: "President Joe Biden and Vice President Kamala Harris arrive to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    excerpt: "President Joe Biden delivers remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
     publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/722476b8ee5be344d4c34cc24386619f/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/10391478986563b0ecb45185d7975799/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/722476b8ee5be344d4c34cc24386619f/WHITE-HOUSEINFRASTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/10391478986563b0ecb45185d7975799/WHITE-HOUSEINFRASTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -210,6 +256,24 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Van Orden Receives Trump Endorsement for Wisconsin Race"
+    excerpt: "Former President Donald Trump is giving his “Complete and Total Endorsement!”. MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep."
+    publishedDateTime: 2021-08-12T16:28:00Z
+    webUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2021-08-12/van-orden-receives-trump-endorsement-for-wisconsin-race"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
+    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
+    publishedDateTime: 2021-08-11T18:01:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 26
 
 secured: "feiIqp7s8ybw46/JxhHbx68KhUfcxkn+k9QJ5GktQJxkjqfwgER3G1r4wFe53e4MmgJehI892VvECUG8UZOS2ItZEyBqs8JzwmgVP8aaLSgdT77RhvarPZbLD3FtyuRONXdtCHZonpUFctmTojDr/dA11nN1IOadpOo4RyN6iye+D8CgpOkjsp7yL1Z9cFY2y/RmA/8pcVgJ5x/a4YaS0c2ERIPwTDvHO2rpRI07/4IxwJDYBI5lHipJ4Aze92EKFohLZDJIuWeAiyp3JkUKcvsmL7VZYC5XS8CERBPP0RL7tk3/LcjFYiHv3tEgnX3ask7nt6CF/u6APk3XuEfhLrfKIOCuOYdnlJGT7/pFqZA=;h9Fsc3T8XTNj8l3sIw7F0Q=="
 ---

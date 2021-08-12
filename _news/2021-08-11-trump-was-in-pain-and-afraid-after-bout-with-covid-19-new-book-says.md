@@ -47,6 +47,22 @@ related:
         width: 1320
         height: 880
         isCached: true
+  - title: "Capitol rioter from Maryland: I am a Democrat who didn’t support Trump"
+    excerpt: "A Maryland man who pleaded guilty to joining the Jan. 6 riot at the U.S. Capitol says he is a registered Democrat who wasn’t a supporter of former President Donald Trump and found himself at the scene as an “accidental tourist."
+    publishedDateTime: 2021-08-12T17:39:00Z
+    webUrl: "https://www.baltimoresun.com/news/crime/bs-md-cr-capitol-riot-maryland-20210812-xm3sxiwdgrgktpwopqriyiwzpq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/crime/bs-md-cr-capitol-riot-maryland-20210812-xm3sxiwdgrgktpwopqriyiwzpq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/crime/bs-md-cr-capitol-riot-maryland-20210812-xm3sxiwdgrgktpwopqriyiwzpq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/N0U0p4p2gBeQ3MPNnO4Cqw9a14U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/62WVEGEYDVDNJNF2FQBU4CCZRI.jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Lil Wayne on planning a festival during COVID, DaBaby's troubles and that meeting with Trump"
     excerpt: "Lil Wayne admits it’s been a rough couple of weeks in the Carter household for sports fandom. First, the 38-year-old rapper, born Dwayne Michael Carter Jr., watched in courtside agony as his good pal Chris Paul’s Phoenix Suns lost in the NBA Finals to the Milwaukee Bucks."
     publishedDateTime: 2021-08-12T09:30:00Z

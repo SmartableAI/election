@@ -273,6 +273,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Biden calls for vigilance on anniversary of A12"
+    excerpt: "the most lethal terrorist threat to our homeland in recent years has been domestic terrorism rooted in white supremacy.”"
+    publishedDateTime: 2021-08-12T17:30:00Z
+    webUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.html"
+    ampWebUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
+    cdnAmpWebUrl: "https://dailyprogress-com.cdn.ampproject.org/c/s/dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
+    type: article
+    provider:
+      name: The Daily Progress
+      domain: dailyprogress.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/7/ec/7ec4ef88-fb83-11eb-a854-f7fb22fb5d98/5990caee734a7.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
     excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
     publishedDateTime: 2021-08-09T09:31:00Z
@@ -392,6 +408,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Biden Says Having Children Wear Masks Is Not About Politics"
+    excerpt: "U.S. President Joe Biden said on Thursday that having children wear masks is not about politics but about keeping children safe as Republican governors in states such as Florida and Texas are clashing with local officials who are resisting their orders banning school mask mandates."
+    publishedDateTime: 2021-08-12T17:42:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-08-12/biden-says-having-children-wear-masks-is-not-about-politics"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "E9AJzsgOzcWjoF/VdU0nLfwHfqzDDvrwEfX6FPWZsa9EtoT7R2Nqkhl+xXcRB2aMxHfpF2wB14S4BQjyOMvArnnyI0K0aErJSv48d3yQsF9VbyZVjS0CZf82praHkVDAtUFRZN+yiFcmvIRwLO+Tycg47CTp6S5Z5oZKgQ7jWPpJL/twYrFAtKhrlRNTAD1fzYZJLc65qUeVFxbzKi40oynwdUL56Sg9Oj46d88RjqNRzZLWjPDvv+KTsuApwLewl6J2GW9yC5K3Khirj2D4opFpPe83E8hUweZrKKDjT5v+5MftOYyMYqD5fbF/+mzcmCmXboSAIOLqrjzVElxZk3NAVXcTTMU7eprsS5m/vMXJ/hSdqbWpyJyTWpMdrr+6NE2hS55efot8Tle5VyGqbMAV3vcLGejUbcZ5ajDAojV1bm5ymSxO4nQZgKCZM5qOMLxNmYBPIXJgHD40nIcvfZuyQG0WTYIXWwiowSMHGemHkhV593mQwRQUmpkLSA2eoLH1JgjKFI4GRIcq8/MHWA==;CIPEu5mQHpElH0etaNRi2g=="
