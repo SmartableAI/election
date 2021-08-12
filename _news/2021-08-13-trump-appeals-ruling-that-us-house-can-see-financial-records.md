@@ -224,16 +224,16 @@ related:
         height: 433
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Infrastructure"
-    excerpt: "President Joe Biden delivers remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    excerpt: "Vice President Kamala Harris introduces President Joe Biden to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
     publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/10391478986563b0ecb45185d7975799/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0b39f6565abe13f0b3779d83cb9885f8/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/10391478986563b0ecb45185d7975799/WHITE-HOUSEINFRASTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0b39f6565abe13f0b3779d83cb9885f8/WHITE-HOUSEINFRASTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -250,6 +250,20 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2021/08/Trump_Financial_Records_86507.jpg-5702b.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
+    excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."
+    publishedDateTime: 2021-08-12T18:29:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2021/08/12/trump-endorses-van-orden-2022-wisconsin-3rd-congressional-race/8109129002/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 36
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/PMJS/a3cb70ae-78f8-4e3a-adcc-5e6c73fb1f4a-Derrick_Van_Orden.jpg?auto=webp&crop=4765,2680,x1,y150&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
     excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
@@ -279,6 +293,6 @@ related:
       domain: indystar.com
     quality: 26
 
-secured: "hQY6KldshJh54D/KXaRE4C+DvHrOyxPimMOFq2EfyIl+lzW3r5Hkm5Szzb211o7sMivvqklZcqPIfFiBA/6fgVOT+upmsC8/aG2Nn4WzD+MvF0e4SZYOyChJcB7w3llS4+bv6H5W57YXQrF+ABC2U3HTR+dUXF+3LqSRBKketDSCZROEraCbeMA8zAynec83EYBkN01I9S30AvckqwT+AuVNtJAdudqtTudr6HMLX9EC/yK/n83KTWKtRyFdR3aRwUQf85KFc02buUtByCuSBRoDzDBITaEOCDeWjISSEMEl0HGDuVHjvimDzgjQzJwc5FBHFAiTvbhwnVGc9e40w3131wnM+jpRGWGBAkyD7S4=;REFYUGXPI6PCvIUQa4rTbw=="
+secured: "mZWto78vADbCYcztc8cveIh+9btoVYx1nHlEyJYrgLnBvHm6BzadGHGvb5mtaDzhPkmwmQbdVNtXfKFQSTYHJ55EMPhukCM32x2qghbJLWO0AiakqClOCwTyVf0wBZ5PLp57V+qaEJIuIkL6k+BUyQ1ikACULRPpM/Fw/un9KW2IStJ70ReN3AYZsbo8YoDEfEKUM4ByBNcAbeLAWx2Qj22V08C/H1He8IvCsOmXVfLkH4iSILwpSW20JdTIVrqVzGL7/pkyOS+xYFMjyiQ546Uhus6RcQcCPxTpuGxDnmwcAcbHNPD5kpYh4gUD3o+6J2/LEVE1lEOcvpZqbrFOh0rkKEF76z1Cjwe6pA4jXuKMYzF6vDA1lIa/9KZKZsavW3j+G3wan8JaYjWEEjZNG75uKKN8wC1h0XioNddbPtljtI7zFXxtDiJFs9jBU4GY6+fvfW0eV59vX8ww0Uta+eMAvHyf3gX7D1K78a+2RSlndWhyNazGQDZE+rDd0QkiTAmEzHk+FgpjNiUbkwkf2Q==;F21075f8kyOAHGVNQDOihg=="
 ---
 

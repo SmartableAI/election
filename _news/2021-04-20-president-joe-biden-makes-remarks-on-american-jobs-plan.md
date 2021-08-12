@@ -364,6 +364,20 @@ related:
         width: 702
         height: 351
         isCached: true
+  - title: "The Daily 202: Biden says he has no Afghanistan withdrawal regrets. But."
+    excerpt: "Welcome to The Daily 202 newsletter! Tell your friends to sign up here. On this day in 2014, the world lost actress Lauren Bacall. “You know how to whistle, don’t you Steve? You just put your lips together,"
+    publishedDateTime: 2021-08-12T19:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/08/12/daily-202-biden-says-he-has-no-afghanistan-withdrawal-regrets/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/22RUGIX244I6XEI4KJF4RNUPC4.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
   - title: "White House says Biden to meet with Afghanistan's Ghani and Abdullah Abdullah"
     excerpt: "U.S. President Joe Biden will meet at the White House with Afghan President Ashraf Ghani and Abdullah Abdullah, chairman of Afghanistan's High Council for National Reconciliation, on June 25, the White House said on Sunday."
     publishedDateTime: 2021-06-20T14:13:00Z

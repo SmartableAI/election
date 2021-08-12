@@ -73,6 +73,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "GOP activist calls out Rep. Dan Crenshaw for saying 2020 election wasn't stolen from Trump"
+    excerpt: "Appearing at a GOP fundraising dinner in Illinois on Wednesday, U.S. Rep. Dan Crenshaw clashed with a conservative activist after insisting there was not enough election fraud to account for Donald Trump’s loss in the 2020 presdential race."
+    publishedDateTime: 2021-08-12T18:48:00Z
+    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/GOP-activists-call-out-Rep-Dan-Crenshaw-for-16382965.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/amp/GOP-activists-call-out-Rep-Dan-Crenshaw-for-16382965.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/houston/amp/GOP-activists-call-out-Rep-Dan-Crenshaw-for-16382965.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 110
   - title: "Man sentenced for shooting Black girl at Iowa Trump rally"
     excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
     publishedDateTime: 2021-08-10T04:50:00Z

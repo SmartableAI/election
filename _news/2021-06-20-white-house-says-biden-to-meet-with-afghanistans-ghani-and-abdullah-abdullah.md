@@ -368,6 +368,20 @@ related:
         width: 702
         height: 351
         isCached: true
+  - title: "The Daily 202: Biden says he has no Afghanistan withdrawal regrets. But."
+    excerpt: "Welcome to The Daily 202 newsletter! Tell your friends to sign up here. On this day in 2014, the world lost actress Lauren Bacall. “You know how to whistle, don’t you Steve? You just put your lips together,"
+    publishedDateTime: 2021-08-12T19:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/08/12/daily-202-biden-says-he-has-no-afghanistan-withdrawal-regrets/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/22RUGIX244I6XEI4KJF4RNUPC4.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
   - title: "Joe Biden: 'It's time for American troops to come home from Afghanistan' – video"
     excerpt: "The US president has declared that it is time ‘to end America’s longest war’, announcing that nearly 10,000 US and Nato troops would return home in the run-up to the 20th anniversary of 9/11. Joe Biden is the fourth US president to preside over the US-led fight against the Taliban."
     publishedDateTime: 2021-04-14T19:19:00Z

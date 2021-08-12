@@ -63,6 +63,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "GOP activist calls out Rep. Dan Crenshaw for saying 2020 election wasn't stolen from Trump"
+    excerpt: "Appearing at a GOP fundraising dinner in Illinois on Wednesday, U.S. Rep. Dan Crenshaw clashed with a conservative activist after insisting there was not enough election fraud to account for Donald Trump’s loss in the 2020 presdential race."
+    publishedDateTime: 2021-08-12T18:48:00Z
+    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/GOP-activists-call-out-Rep-Dan-Crenshaw-for-16382965.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/amp/GOP-activists-call-out-Rep-Dan-Crenshaw-for-16382965.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/houston/amp/GOP-activists-call-out-Rep-Dan-Crenshaw-for-16382965.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 110
   - title: "The Latest: More candidates emerge for Trump chief of staff"
     excerpt: "The Latest on the White House chief of staff (all times local): 10 p.m. As President Donald Trump ponders picking a new chief of staff, more names are emerging as possible contenders for the job."
     publishedDateTime: 2021-08-11T13:34:00Z

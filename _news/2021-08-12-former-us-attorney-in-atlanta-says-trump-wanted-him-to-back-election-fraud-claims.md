@@ -128,6 +128,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "How the Census Bureau Stood Up to Donald Trump’s Meddling"
+    excerpt: "The failed attempt would have benefited Republicans by sapping electoral strength from Democratic-leaning areas."
+    publishedDateTime: 2021-08-12T19:05:00Z
+    webUrl: "https://www.nytimes.com/2021/08/12/sunday-review/census-redistricting-trump-immigrants.html"
+    ampWebUrl: "https://www.nytimes.com/2021/08/12/sunday-review/census-redistricting-trump-immigrants.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/sunday-review/census-redistricting-trump-immigrants.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/08/15/opinion/12bazelon/12bazelon-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "hkwp/YTkc6wvwJVsn1ceNw0CjMxXD1gLy7bd5BuwiERVb4zDvDJk4ws3vu5dBWl8u0h8hpz/sMwRXQmD0LKMTg8vbmuJY5LgjKNmrsp1D/PQg3kXAXkB4+cONJ+G1Jr4d9w5pTSG9LLAeSsTVq66Kt1unm+NzV9Mk64mhFh5dtRG//T1qn1w3buFyDoVbWNYHLi6jsBcknTI6OlzVuvU3ggQPw3quo7k6+KWotqMyuqaykkpKT+GfC5Mxg4pYq4WcXSUUwydAwRd6q+B+PWV0PMDhnNVCsXgGdxSXuJT8po1M5qM+Bt5h9n3ZfoV8H7sQKnzWvYsd8h9em3UddGgXz2XoMHcJ+w2cfn/exbIiH0=;JI3fF0e0f2SkByn7Qg0AtQ=="
 ---
