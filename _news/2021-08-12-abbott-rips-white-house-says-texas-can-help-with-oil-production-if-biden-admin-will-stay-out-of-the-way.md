@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-biden-white-house-texas
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-white-house-texas-oil.amp"
 type: article
 quality: 157
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden 'put his foot on the neck' of the energy industry, now he wants more oil: Salena Zito"
-    excerpt: "Washington Examiner National Political Reporter Salena Zito criticized Joe Biden Wednesday for calling on OPEC to produce more oil as gas prices soar in the United States, saying what the president is doing is \"befuddling."
-    publishedDateTime: 2021-08-12T05:47:00Z
-    webUrl: "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito"
-    ampWebUrl: "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp"
+  - title: "Biden adviser Anita Dunn leaves the White House"
+    excerpt: "Top Biden adviser Anita Dunn is leaving her position at the White House"
+    publishedDateTime: 2021-08-13T01:03:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 123
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4f279e4-4ad7-4633-9030-97536c831a98/684a0321-1bb5-4bfc-b45e-59a7255a2db1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden gaffe: President calls Michigan’s Whitmer ‘Jennifer’ at White House event, report says"
+    excerpt: "In 2020, when Joe Biden was running for president, Michigan Gov. Gretchen Whitmer was reportedly close to becoming Biden’s running mate. On Wednesday, Biden couldn’t remember her name."
+    publishedDateTime: 2021-08-12T07:45:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ00F6eXVLs/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/154ef32b-53ec-461f-ae3f-aa7902c7de9a/6687b9fd-8827-4f75-b7e3-2d270e06ce07/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "CNN anchor praises Biden adviser Anita Dunn as a 'bada--' trailblazer"
+    excerpt: "CNN's Dana Bash called White House adviser Anita Dunn as a \"trailblazing\" and \"badass\" woman of Washington in her continuing Badass Women of Washington series."
+    publishedDateTime: 2021-08-08T21:40:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-praises-anita-dunn-as-a-bada-trailblazer"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-praises-anita-dunn-as-a-bada-trailblazer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-praises-anita-dunn-as-a-bada-trailblazer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/402fd5d2-59ec-48df-9708-940138d5ec89/67f32827-ee50-4b97-9c0e-47148a82b3ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

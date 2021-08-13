@@ -2,26 +2,26 @@
 category: news
 title: "Biden eyes tougher vaccine rules — without provoking a backlash"
 excerpt: "As new coronavirus infections soar, Presiden Biden is working to make life more uncomfortable for the unvaccinated without spurring a backlash in a deeply polarized country."
-publishedDateTime: 2021-08-12T21:48:00Z
-originalUrl: "https://www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html"
-webUrl: "https://www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html"
-ampWebUrl: "https://www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
+publishedDateTime: 2021-08-13T00:48:00Z
+originalUrl: "https://www.baltimoresun.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html"
+webUrl: "https://www.baltimoresun.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html"
+ampWebUrl: "https://www.baltimoresun.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.dailypress.com/resizer/ApsX35YgR9SkQ93h0UabZRuDlrU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DMIUCWIWEO6J5HTCVUB7ZNYX5Y.aspx"
+  - url: "https://www.baltimoresun.com/resizer/ApsX35YgR9SkQ93h0UabZRuDlrU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DMIUCWIWEO6J5HTCVUB7ZNYX5Y.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -134,6 +134,20 @@ related:
       - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Biden blasts 'political dispute' over masking students"
+    excerpt: "Posted . U.S. President Joe Biden said on Thursday that having children wear masks is not about politics but ab"
+    publishedDateTime: 2021-08-13T00:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP8$N?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/6115b1e9e4b085d396fce8cf-1628811753952?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
     excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
@@ -291,6 +305,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden, other leaders weigh in on Aug. 12 on fourth anniversary"
+    excerpt: "\"[Heather Heyer's] life and activism are reminders that while we have never fully lived up to the promise of America, we have never fully walked away from it either.\""
+    publishedDateTime: 2021-08-13T00:23:00Z
+    webUrl: "https://dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.html"
+    ampWebUrl: "https://dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.amp.html"
+    cdnAmpWebUrl: "https://dailyprogress-com.cdn.ampproject.org/c/s/dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.amp.html"
+    type: article
+    provider:
+      name: The Daily Progress
+      domain: dailyprogress.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/3/7b/37bb0c5c-fbb6-11eb-8ba0-87637a96849e/611595d04121a.image.jpg?resize=1024%2C705"
+        width: 1024
+        height: 705
+        isCached: true
   - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
     excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
     publishedDateTime: 2021-08-09T09:31:00Z
@@ -359,20 +389,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/56/b5611a2a-8d4b-5ca8-9f51-3dfef2ab0174/6113c6c606058.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Biden eyes tougher vaccine rules without provoking backlash"
-    excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that's what it took to get shots in arms. But as new coronavirus infections soar,"
-    publishedDateTime: 2021-08-12T21:16:00Z
-    webUrl: "https://bangordailynews.com/2021/08/12/news/nation/biden-eyes-tougher-vaccine-rules-without-provoking-backlash/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Optimized-Biden-17.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Joe Biden eyes tougher vaccine rules without provoking backlash"
     excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that’s what it took to get shots in arms. But as new coronavirus infections soar,"
@@ -453,6 +469,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Biden eyes tougher vaccine rules without provoking backlash"
+    excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that's what it took to get shots in arms. But as new coronavirus infections soar,"
+    publishedDateTime: 2021-08-13T01:34:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/12/biden-eyes-tougher-vaccine-rules-without-provoking/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
   - title: "Biden Says Having Children Wear Masks Is Not About Politics"
     excerpt: "U.S. President Joe Biden said on Thursday that having children wear masks is not about politics but about keeping children safe as Republican governors in states such as Florida and Texas are clashing with local officials who are resisting their orders banning school mask mandates."
     publishedDateTime: 2021-08-12T17:42:00Z
@@ -463,6 +488,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "KBEv7zUFitLawyG+F/iDgirtiOsjOgAvmt1KsA6YQvCQjE3cq3Q+GTOWHas20NR8YXM4Sv1HXr/59UPlbq+p4LS60eTs4KBfZZSQDykm38l0CXTEDwu0e226IXZ00RRiZEo5tpIBblmURqM+xCf6B4DzP31ighh2/aVmT9YUdWWnB82d2bSQlJdQ/8wfX3REN97PolsYdGMmSkIcgid6Mx/pG+fVMXTXOGLRA6Rg7M/05k4n14bJbukEnlrxkE1CIec9bQsdnSxWThZelL8Yprr6TBJuWiAoIsfCj5cPHNJYIndMO80pHCqlRxWqfkUU3QTp0qynyNPENC+IuBx+mLe1uIqZkk7if8S+XUIgols=;cHILZW5bvL8V21mrANsddQ=="
+secured: "QKT6jAIiXhn4811HpnvS+AyS5PxyI/rML9s/ETCx0qBdtxIit+UVyI9vO5HoRi6YZDBOAukT7ROSUlOrDbxtnGNatEgzvRfZTgXM/xInzPnghSILH0QMD9DRKKcdtY95Nze8t/EqTSD7YM0gjNJMeWsoutGSuHHoHKiBEhHHz/evxjjTILjfFnIU1qcDbXet8hW/JwP/4ZLrTlt9M+yJzV0Bfz6AmSTeqqb+cCGyNLSVQctwUMLkmc66A8lxI1/xq7hOXrRLyO2SfMNh4MrDr7nLKA5/G++aBh8sYKsrLHCqUKX6LfzEOBf32yDOWgxvW8jtBsYu+SFGde9xYanzAM9hiU9gfxOAW4wQp0/w32M=;Eg1Mp7Mf/SE/++32j94tWQ=="
 ---
 

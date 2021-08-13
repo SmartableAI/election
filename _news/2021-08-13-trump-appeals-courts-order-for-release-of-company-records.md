@@ -1,33 +1,27 @@
 ---
 category: news
-title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
-excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
-publishedDateTime: 2021-08-12T23:29:00Z
-originalUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
-webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
-ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+title: "Trump appeals court’s order for release of company records"
+excerpt: "Former U.S. President Donald Trump appealed a court order instructing his accountants to release certain financial records of his business to a congressional committee."
+publishedDateTime: 2021-08-13T01:10:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/washington/trump-appeals-court-s-order-for-release-of-company-records/article_feb5113e-81eb-54c6-bd78-370d5a11154b.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/trump-appeals-court-s-order-for-release-of-company-records/article_feb5113e-81eb-54c6-bd78-370d5a11154b.html"
 type: article
-quality: 133
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
-    width: 3431
-    height: 2282
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
         width: 600
         height: 360
+        isCached: true
+  - title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
+    excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
+    publishedDateTime: 2021-08-12T23:29:00Z
+    webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
+    ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
+        width: 3431
+        height: 2282
         isCached: true
   - title: "Biden says Congress should extend eviction ban"
     excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins CBSN AM to discuss the latest."
@@ -299,20 +309,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Trump appeals court’s order for release of company records"
-    excerpt: "Former U.S. President Donald Trump appealed a court order instructing his accountants to release certain financial records of his business to a congressional committee."
-    publishedDateTime: 2021-08-13T01:10:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/trump-appeals-court-s-order-for-release-of-company-records/article_feb5113e-81eb-54c6-bd78-370d5a11154b.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
     excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."
     publishedDateTime: 2021-08-12T18:29:00Z
@@ -346,6 +342,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "7bvLcSdNu4kGABIJBX1ClrxJZC2Ar6PimTxqzVR95N9M9cUSwKycLRz2q7/GzmV3SA7SeiIkgYnWBYnq9RGXZXQAHxv9djhGShNaZztf6blBOJEACeoH8FaDt7wonbEqPpM67t0MlNGZDk0gcrGtGqwvZTmx2m3kJZDrG9R+GLYXHkulOsqP63jZXKpiWvMvABnLA0PVLD2CwrlytgRnc4R1uZtbXmSCAbwnSdLyd1FB73wcU27aDCGs5e89n3pKEyTK13KpqBhMifiCKEJ3kGwoEYmIT8D6TFrIT552asWB2hQR6EHDwUp7E00L7Znhjb8VXwZmR5OLGEYBNsD8Itt/NNDWxmdeckS5SQhOu1Q=;bjCu9mqXRmx4JS3XO0e7zw=="
+secured: "bxd09+lrGpN9XawT15O/+lgEqNb16qywXIjEsVUYlWbi61ZQ2HtUfmoMjH8dLV2Rzzn4SiT67BRJCe51o897+5+Swf4mREZHdf3QpWiBt05li9bYjG7WXFfqTD+oMWXC6RE7PZljySLS6TYt1ffoaf6ju4Da9TIPfTL+7RthEkG2TJDAM4m5uEY+UAflJ214yVGYNLj/GPEfLgpSXaZtpMa+hk6ZyCslxthWsKrlPz+FoX1UcFgcOIhR22XQ3hS2e6+nU2T2BDnyQogpsNLxlekvA4HdkqsAKoDhb7tppScWAbhAVOd4Pnitqtr19/iGzN1PcAJXSq1n2ruC0MOICJTw1ht8jUmE+ZSNMh3HY6o=;7h6bfHQQFYe2Q36ew2r66A=="
 ---
 

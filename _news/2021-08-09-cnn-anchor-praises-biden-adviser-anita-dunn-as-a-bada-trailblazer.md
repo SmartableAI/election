@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/cnn-praises-anita-dunn-as-a-bada-trail
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-praises-anita-dunn-as-a-bada-trailblazer.amp"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,56 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden adviser Anita Dunn leaves the White House"
+    excerpt: "Top Biden adviser Anita Dunn is leaving her position at the White House"
+    publishedDateTime: 2021-08-13T01:03:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden gaffe: President calls Michigan’s Whitmer ‘Jennifer’ at White House event, report says"
+    excerpt: "In 2020, when Joe Biden was running for president, Michigan Gov. Gretchen Whitmer was reportedly close to becoming Biden’s running mate. On Wednesday, Biden couldn’t remember her name."
+    publishedDateTime: 2021-08-12T07:45:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ00F6eXVLs/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/154ef32b-53ec-461f-ae3f-aa7902c7de9a/6687b9fd-8827-4f75-b7e3-2d270e06ce07/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Abbott rips White House, says Texas can help with oil production if Biden admin will 'stay out of the way'"
+    excerpt: "Abbott posted a short open letter to the White House on Twitter Wednesday, touting that Texas could help bring down the price of gas by producing oil domestically."
+    publishedDateTime: 2021-08-12T15:26:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOQP8bw4VH0/greg-abbott-biden-white-house-texas-oil"
+    ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-biden-white-house-texas-oil.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-white-house-texas-oil.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01fab2ef-1bd8-4397-b573-43bdba5a9177/5b42b959-194a-4246-9d3f-fb1ea3a034c1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "688fiJ975C4fdVn05Q43SJHQkvfCzX8nCDAE4tQRRTj0nRWDSd674CqiQTvExlmEycDkfdfjnnk1uXjZJLRb+doEx4s3NnPXW391kW+vfrPvIktJx8QRaPpKSVdss0TDDLlDfb1xZagn+wbubdEQmrVa883lRDsxkZPfCO+4KS1+KqnPPxkd1pg6vyBd1d8G3WjE4POTT/COwywoXuQZuAlD2WgM6hVPfzOT0QenJ0XGS6Smt6fc2Mri2skVqg6wDZJtJBvkro9klkRtm1gMNMe0badZZSC8+s91DkW48w3Ej4/YL2a2BHxwiWkTFdrbKKUE2vNaZQ3y49iX16jEq+HFnjuQekTB7GTWgzLica0=;BVdx/qnAyLJjSSjzG+Zifg=="
 ---

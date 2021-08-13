@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden gaffe: President calls Michigan’s Whitmer ‘Jennifer’ at White House event, report says"
-excerpt: "In 2020, when Joe Biden was running for president, Michigan Gov. Gretchen Whitmer was reportedly close to becoming Biden’s running mate. On Wednesday, Biden couldn’t remember her name."
-publishedDateTime: 2021-08-12T07:45:47Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ00F6eXVLs/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ00F6eXVLs/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says"
-ampWebUrl: "https://www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
+title: "Biden adviser Anita Dunn leaves the White House"
+excerpt: "Top Biden adviser Anita Dunn is leaving her position at the White House"
+publishedDateTime: 2021-08-13T01:03:09Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house"
+ampWebUrl: "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
 type: article
-quality: 164
-heat: -1
-published: false
+quality: 175
+heat: 235
+published: true
 
 provider:
   name: Fox News
@@ -25,25 +25,25 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/154ef32b-53ec-461f-ae3f-aa7902c7de9a/6687b9fd-8827-4f75-b7e3-2d270e06ce07/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
-  - title: "Biden adviser Anita Dunn leaves the White House"
-    excerpt: "Top Biden adviser Anita Dunn is leaving her position at the White House"
-    publishedDateTime: 2021-08-13T01:03:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp"
+  - title: "Biden gaffe: President calls Michigan’s Whitmer ‘Jennifer’ at White House event, report says"
+    excerpt: "In 2020, when Joe Biden was running for president, Michigan Gov. Gretchen Whitmer was reportedly close to becoming Biden’s running mate. On Wednesday, Biden couldn’t remember her name."
+    publishedDateTime: 2021-08-12T07:45:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ00F6eXVLs/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/154ef32b-53ec-461f-ae3f-aa7902c7de9a/6687b9fd-8827-4f75-b7e3-2d270e06ce07/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 405
         isCached: true
 
-secured: "hsFDSeoYL2kwILl7L9UzBou+G+dFo1rNPDFJlWw59nBUBxeVoFUCkQhss2sq3ypbiF3WJmRurRXXIdJRyzQZL+RTRHjrRHCrbv+BiTnwfiKcmWaCx+O+m70iGeY6MWyIxYLmKw45wUpQ62mj7lzMxrA6Vnl4tTZEV/nfdsqfSOQQYTv0yY9xUhbpfot7ooCQQgotCy9V+7QhPiP+OMcxGcCgFeHdDQt8ZIim7MCMQhTDgnDLl28rDecfroVv4ctoozHBEh6Szrhymsm6uFes7v+Upur5W33tzWH9mCtLwrKPvK50iSmR54XJLfFFO77xQdMfW0OID6MQRlNfNN/gJYp0VY00jJWevFnnUa8hxCk=;1/KlLK3kg6bHEbRVUGlUUg=="
+secured: "PYQWJ06sq8KlLW0E6HiaNHmWUq13FzgNZ56Lj3GZ3hSL/oOB7ipDLNm70Alrfd6TbBkTmZZ6jiKzNICol6dV1XlDwJdAUPROSq8h63/NbU/k7t82OIKYz2RNEDdbttFI6Bw+jOpSZE+SRX0UogDk3qZK3yfNid10J0aNpNWzK5ijCpy+bAHw0cNP9scAaSKHBliYYfLw3mowXKM4S0QEEbBO3ByKwoxuzGeRLHJYGseHJhAlMSSVmmZGa4abXUYpZuw5UA6A0oHEPuf6vZlqsoDHRQBEbVCylbRYNnolYE26kyVIa0Xh7WZb6q5t8Zf4Mim/PgeppcaXrXZPSbwsm8QbYJOVpgoY2Bk9+inntqA=;344kX97mObq/6b40ebTPHw=="
 ---
 

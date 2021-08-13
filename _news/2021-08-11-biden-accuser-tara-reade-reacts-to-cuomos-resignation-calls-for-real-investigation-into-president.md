@@ -32,54 +32,47 @@ images:
     isCached: true
 
 related:
-  - title: "Biden blasted for having called NY Gov. Andrew Cuomo the 'gold standard' of leadership"
-    excerpt: "President Joe Biden is facing criticism for referring to New York Gov. Andrew Cuomo as the “gold standard” of leadership in the past following a report from New York’s Attorney General concluding the governor sexually harassed multiple women."
-    publishedDateTime: 2021-08-03T22:15:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjf5yKhU0Aw/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp"
+  - title: "Biden backs Newsom as California recall election looms, urges residents to 'vote no'"
+    excerpt: "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election."
+    publishedDateTime: 2021-08-13T01:49:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 183
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fc9c59f-f638-41c9-967a-fbeb72bb4377/c98ea31a-14fe-45e8-8171-39c5518bb33a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden says he 'respects' Cuomo decision to resign, say disgraced gov did 'a hell of a job'"
-    excerpt: "President Biden on Tuesday backed embattled Gov. Andrew Cuomo's decision to resign amid a scathing investigation into sexual harassment allegations while saying the New York governor did “a hell of a job.\""
-    publishedDateTime: 2021-08-10T19:46:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-lvC99EzNRg/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-respects-cuomo-decision-resign-sexual-harrassment-allegations.amp"
+  - title: "Biden departs for vacation as multiple crises escalate"
+    excerpt: "Biden departed the White House for a vacation in Wilmington as multiple crises escalated Thursday"
+    publishedDateTime: 2021-08-12T21:56:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPjuYw6QT58/biden-departs-for-vacation-as-multiple-crises-escalate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Rep. Elise Stefanik says Biden must call for Gov. Cuomo's resignation"
-    excerpt: "New York GOP Rep. Elise Stefanik joined \"America Reports\" following the breaking news that the New York Attorney general found that Governor Andrew Cuomo sexually harassed multiple women, violating state and federal laws."
-    publishedDateTime: 2021-08-03T19:51:00Z
-    webUrl: "https://www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik"
-    ampWebUrl: "https://www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/governor-andrew-cuomo-resignation-elise-stefanik.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/262bdae6-ea59-45c3-aad1-1b68d408f5fc/e68c58ee-1373-49d8-be38-6369a2b383a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
+  - title: "It's Up to Democrats to Stop Biden's Radical Agenda"
+    excerpt: "Senate Democrats released a 92-page outline of President Joe Biden's agenda Monday morning. It is nothing short of a blueprint for a far-left, radical remaking of the United States."
+    publishedDateTime: 2021-08-10T11:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/10/its_up_to_democrats_to_stop_bidens_radical_agenda_549108.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "JL3eX76T8FhfksuQFkLeA3LIroevslhWF3EF4LhVLGQyTIsK22sHOU8MkT4ySFkSbl3qnQixa/Gt12lEOlZjE9I93JxrTqksKlnTcEdgUamjkR02elv46Lzzowu02jDmhQQEeNokOucGU48ylxPPTlvqRVeQQiWJM9OR1wV0enU5hFRIXsc+VdV7fnDosvYZVeyJJHQrx8ST95kOZUSdI10oYqJ9qrb5x3nubAnr+HzUJA6QXHVhEbq6IlQ3jjf3SsuTe/9U/dmePFfdQ/8FNtz0c3oJD/1eKslNeI4bcNzol2qyAw2+GoPKuy1LJAfeTzRYnH7P8VezLV1gkQlJPjpgWS+20/m4K0uUmhBorc4=;2dwGe5lRtf/E+474MYedMw=="
 ---

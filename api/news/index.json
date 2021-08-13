@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-biden-backs-newsom-as-california-recall-election-looms-urges-residents-to-vote-no.md",
+      "title": "Biden backs Newsom as California recall election looms, urges residents to 'vote no'",
+      "excerpt": "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 243,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
+      "publishedDateTime": "2021-08-12T18:49:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-biden-adviser-anita-dunn-leaves-the-white-house.md",
+      "title": "Biden adviser Anita Dunn leaves the White House",
+      "excerpt": "Top Biden adviser Anita Dunn is leaving her position at the White House",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
+      "publishedDateTime": "2021-08-12T18:03:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-biden-said-in-july-taliban-overrunning-everything-was-highly-unlikely.md",
       "title": "Biden said in July Taliban 'overrunning everything' was 'highly unlikely'",
       "excerpt": "The Washington Post’s resident fact-checker dinged President Joe Biden on Thursday for claiming that it is “highly unlikely” the Taliban regains control of Afghanistan.",
@@ -374,62 +486,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-abbott-rips-white-house-says-texas-can-help-with-oil-production-if-biden-admin-will-stay-out-of-the-way.md",
-      "title": "Abbott rips White House, says Texas can help with oil production if Biden admin will 'stay out of the way'",
-      "excerpt": "Abbott posted a short open letter to the White House on Twitter Wednesday, touting that Texas could help bring down the price of gas by producing oil domestically.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOQP8bw4VH0/greg-abbott-biden-white-house-texas-oil",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOQP8bw4VH0/greg-abbott-biden-white-house-texas-oil",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01fab2ef-1bd8-4397-b573-43bdba5a9177/5b42b959-194a-4246-9d3f-fb1ea3a034c1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/greg-abbott-biden-white-house-texas-oil.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-white-house-texas-oil.amp",
-      "publishedDateTime": "2021-08-12T08:26:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -865,62 +921,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-12-biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.md",
-      "title": "Biden gaffe: President calls Michigan’s Whitmer ‘Jennifer’ at White House event, report says",
-      "excerpt": "In 2020, when Joe Biden was running for president, Michigan Gov. Gretchen Whitmer was reportedly close to becoming Biden’s running mate. On Wednesday, Biden couldn’t remember her name.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ00F6eXVLs/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ00F6eXVLs/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/154ef32b-53ec-461f-ae3f-aa7902c7de9a/6687b9fd-8827-4f75-b7e3-2d270e06ce07/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gaffe-president-calls-michigans-whitmer-jennifer-at-white-house-event-report-says.amp",
-      "publishedDateTime": "2021-08-12T00:45:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-12-meet-joe-bidens-secret-weapon-the-woman-who-wrangles-with-congress.md",
       "title": "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress",
       "excerpt": "Louisa Terrell, White House director of legislative, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscape",
@@ -970,6 +970,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-joe-biden-put-his-foot-on-the-neck-of-the-energy-industry-now-he-wants-more-oil-salena-zito.md",
+      "title": "Joe Biden 'put his foot on the neck' of the energy industry, now he wants more oil: Salena Zito",
+      "excerpt": "Washington Examiner National Political Reporter Salena Zito criticized Joe Biden Wednesday for calling on OPEC to produce more oil as gas prices soar in the United States, saying what the president is doing is \"befuddling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
+      "originalUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4f279e4-4ad7-4633-9030-97536c831a98/684a0321-1bb5-4bfc-b45e-59a7255a2db1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
+      "publishedDateTime": "2021-08-11T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -1264,62 +1321,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-biden-struggles-to-find-a-permanent-fda-chief-as-agency-nears-approval-of-covid-19-vaccine.md",
-      "title": "Biden struggles to find a permanent FDA chief as agency nears approval of Covid-19 vaccine",
-      "excerpt": "The US Food and Drug Administration is on the cusp of approving the nation's first Covid-19 vaccine without a permanent leader at the helm, and a nomination doesn't appear to be in sight.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7vuztPDnLv4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7vuztPDnLv4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210810154230-07-biden-harris-remarks-0810-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/fda-chief-nomination-struggles/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/fda-chief-nomination-struggles/index.html",
-      "publishedDateTime": "2021-08-11T10:19:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

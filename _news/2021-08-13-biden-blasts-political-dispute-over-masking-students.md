@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Biden calls for vigilance on anniversary of A12"
-excerpt: "the most lethal terrorist threat to our homeland in recent years has been domestic terrorism rooted in white supremacy.”"
-publishedDateTime: 2021-08-12T17:30:00Z
-originalUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.html"
-webUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.html"
-ampWebUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
-cdnAmpWebUrl: "https://dailyprogress-com.cdn.ampproject.org/c/s/dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
+title: "Biden blasts 'political dispute' over masking students"
+excerpt: "Posted . U.S. President Joe Biden said on Thursday that having children wear masks is not about politics but ab"
+publishedDateTime: 2021-08-13T00:54:00Z
+originalUrl: "https://www.reuters.com/video/watch/idP8$N?now=true"
+webUrl: "https://www.reuters.com/video/watch/idP8$N?now=true"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Daily Progress
-  domain: dailyprogress.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/7/ec/7ec4ef88-fb83-11eb-a854-f7fb22fb5d98/5990caee734a7.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/6115b1e9e4b085d396fce8cf-1628811753952?location=LANDSCAPE"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -134,20 +136,6 @@ related:
       - url: "https://www.reuters.com/resizer/UnaXghEVSO2M7DqKxlevlpJp-1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EIFWNXNPPJMLXFM4JVFUB5BDPI.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Biden blasts 'political dispute' over masking students"
-    excerpt: "Posted . U.S. President Joe Biden said on Thursday that having children wear masks is not about politics but ab"
-    publishedDateTime: 2021-08-13T00:54:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP8$N?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/6115b1e9e4b085d396fce8cf-1628811753952?location=LANDSCAPE"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
     excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
@@ -288,6 +276,22 @@ related:
       - url: "https://www.barrons.com/asset/external-media/afp/AFP2571411349574539008060861954956347141626-us-democratic-national-convention-day-1-1.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "Biden calls for vigilance on anniversary of A12"
+    excerpt: "the most lethal terrorist threat to our homeland in recent years has been domestic terrorism rooted in white supremacy.”"
+    publishedDateTime: 2021-08-12T17:30:00Z
+    webUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.html"
+    ampWebUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
+    cdnAmpWebUrl: "https://dailyprogress-com.cdn.ampproject.org/c/s/dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
+    type: article
+    provider:
+      name: The Daily Progress
+      domain: dailyprogress.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/7/ec/7ec4ef88-fb83-11eb-a854-f7fb22fb5d98/5990caee734a7.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden eyes tougher vaccine rules — without provoking a backlash"
     excerpt: "As new coronavirus infections soar, Presiden Biden is working to make life more uncomfortable for the unvaccinated without spurring a backlash in a deeply polarized country."
@@ -488,6 +492,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "x+3j4Ci1sqFiAcizCg0ndHa+xWlzHGyxiIPRVTeKwKX2N8yHv02uNSQkpHJPYyCDnJ5SuW5z6wOl0y1UzMddyrI25RrBymL5jCwYmaW/u6AIkoeSzvq3Sb9SjWjyj0VjFgU1Bz2bXIoZvNuswXiLKoWC+JxcXjy7tIECQzC6TsQyIsGVbKfKEWsO6ZwkXWiIgQmgNmpWgDyBAT9tvIDJuj9NJdOwQLBnAwjayhNSQiwc7qg7fOqbun9Y32JnJuErAVTk2ugQ7bn+ky8d3S1MuSMltDZ7nsca34G3K1Z3gCWjMvnOqJjj4UAhWLRXnpKTlnHmPVYmMqsYdoV9AwYBYRvKFtBlVS/G892ddlOusIw=;SUZTOZOv0ldzZI7wikoz+g=="
+secured: "hdL6evTAdeDQgkyiSxTFxCwCIF7CLZ1GBwDzT5+kGCy+iNdcfrAV9119v6GhuikLC/OOELDY4sgKOqEKCVcPotLDE0+8100ZNAZu7nmxk8SjNNpWrD67oVC9cpgkfhFwN2HZHFZPcYIjZ9ezJ5S+z1PvkG2H4xoPciwhA68KUxiRBPBQ4EQ3/tFbfZjSsh4ow1UugHfAr4xRU1YrGLQAyOUTiSZuFLhn7WN0Z7YOAfthQ0p515n9l9EgNkWfMuJ/i5SlZ/JcxqlWu7qHw+E9Di932hSHlT6iUlRJwPAQG498rM+bC6gv3b8hE3Ny3I7JdgWT8KtXtjl/9aKZjM5DJW1Nigh1SCiQkmykmMrw07M=;l62yBxUHtJn5na5lzUYKtA=="
 ---
 

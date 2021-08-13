@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pennsylvania congressman aided Trump effort to flip Justice Department on Big Lie "
+    excerpt: "While other Republicans garnered more attention in attempting to convince the country that the 2020 election was stolen from former President Donald Trump, Rep. Scott Perry made the critical connection linking the then-president to Jeffrey Clark, a little-known Department of Justice official open to"
+    publishedDateTime: 2021-08-12T23:44:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3LAdmCdFrU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/scott-perry-justice-department-big-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/scott-perry-justice-department-big-lie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812114115-rep-scott-perry-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Interviews with former Justice Department officials provide new details on Trump efforts to undermine election results "
     excerpt: "Two top former Justice Department officials provided interviews to the Senate Judiciary Committee and provided detailed accounts of a tumultuous period in late December and early January during which a senior Justice Department lawyer sought to deploy the department's resources in support of false voting"
     publishedDateTime: 2021-08-07T23:45:35Z

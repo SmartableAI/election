@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Donald Trump Jr. Tried to Come for Erykah Badu and Michael Rappaport Isn’t Having it"
+title: "Donald Trump Jr. Tried to Come for Erykah Badu, and Michael Rapaport Isn’t Having it"
 excerpt: "On Monday, the former First Brat shared a photo on Twitter comparing neo-soul superstar and Dallas native Erykah Badu to a photo of Dave Chappelle dressed as ‘80s music star Rick James, presumably because she was wearing a head piece."
 publishedDateTime: 2021-08-10T23:25:00Z
 originalUrl: "https://www.dallasobserver.com/music/donald-trump-jr-fails-miserably-while-trying-to-come-for-erykah-badu-on-twitter-12192481"
 webUrl: "https://www.dallasobserver.com/music/donald-trump-jr-fails-miserably-while-trying-to-come-for-erykah-badu-on-twitter-12192481"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,7 +25,7 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Jr. Tried to Come for Erykah Badu, and Michael Rapaport Isn’t Having it"
+  - title: "Donald Trump Jr. Tried to Come for Erykah Badu and Michael Rappaport Isn’t Having it"
     excerpt: "On Monday, the former First Brat shared a photo on Twitter comparing neo-soul superstar and Dallas native Erykah Badu to a photo of Dave Chappelle dressed as ‘80s music star Rick James, presumably because she was wearing a head piece."
     publishedDateTime: 2021-08-10T23:25:00Z
     webUrl: "https://www.dallasobserver.com/music/donald-trump-jr-fails-miserably-while-trying-to-come-for-erykah-badu-on-twitter-12192481"
@@ -40,6 +40,6 @@ related:
         height: 1016
         isCached: true
 
-secured: "GY6fXHJV66jihVn0X1bSU7s50QsxHPqX0IcsdhdqTeOpwZXAYHw57BgBRUzBiHdBTNhDKVo43Km4PUJq1p7Pu9xiAshKwpu158peaCoQVLu2Xy7IX32MA3ZfzbvZcYL3rBBTugoPF7+uxo3f9FBmutmEZZJDlpKkSbmNxsg7WDC7gSrQBqKZd2TkGfbGQEYjX9vGX4dWHExALEemCEB8ICQfg8RpVDNYKGXpV2P7woDKKSxZKj+C2GuBF9Rkd8uqQy9qep11uUNRBuwTpoUzwAuDTWiecwcihw2iGlUDm+ZktnP9i7tZVFrqnxjX2nJFxBAk/inQWNBOh581NAAeqPX0GAdYlzQku3x3/cbJvqApxK2XgHOHy3yXvhujKlYyclIyXXuSQdsf9va8EZFFydRKn92dFRNHOoKCymzcHkeD8O8xK29nvY+MNvYafPTgBXt4y5lbc/bHkn4iwmG5Ea8SKfE4UnPzTpuZ7N98WUzpTtvqSOpZeCziShz9ouE1450nhwRoJMvNeH9F2A4jng==;UcZ9oQdFP/S5gE29jyoJJA=="
+secured: "7+Kt2W8LPzOT+o4XxG2FfSuvjwP1OHCxD18y+Tq+aQ+pJhAHDddx4PGM6Z6FvFvSC3Y5idlavKXNCN0FP5Hqf/ynqDBAVa8zDD2WzXSf+C+INpxHli9xERto0C0VJzx4Eagc+R/65FtZryDQ7HKQ7aH0Me9j8yXUBikC80VgKbqapAJClsmaMMdpuohYr2v1EjZA7vMOmeCb8SiVGu/vN9SWVco83oqqJ2KV1j+DF1/q1S/P4VuJ/iQgFjokhgqDI1fIGAV096B1mMySjfouup/YiHt0Tgr0kMnHffyhbFGphLiiZv0Ia7AfEdrQ5/gDZ+i5nNPRI6CTDldMWK7v5bNC7x6bRO2WfFJePHda9QE=;wrRw5jJPnUw+7F0fDS4PRg=="
 ---
 

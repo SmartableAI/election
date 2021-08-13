@@ -277,18 +277,18 @@ related:
       domain: c-span.org
     quality: 55
   - title: "Trump appeals split decision in fight with House over financial records"
-    excerpt: "A long-running court fight between Donald Trump and a House of Representatives committee over his financial records is heading back to an appeals court after a judge"
-    publishedDateTime: 2021-08-12T22:38:00Z
-    webUrl: "https://gazette.com/trump-appeals-split-decision-in-fight-with-house-over-financial-records/article_fb951864-fbbd-11eb-8b6e-07bc48113b28.html"
+    excerpt: "A long-running court fight between Donald Trump and a House of Representatives committee over his financial records is heading back to an appeals court after a judge issued"
+    publishedDateTime: 2021-08-13T00:30:00Z
+    webUrl: "https://www.unionleader.com/news/courts/trump-appeals-split-decision-in-fight-with-house-over-financial-records/article_81c964ab-4f5a-552d-93d3-0eae6040a72e.html"
     type: article
     provider:
-      name: The Gazette
-      domain: gazette.com
+      name: New Hampshire Union Leader
+      domain: unionleader.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/custom/image/3f755dae-418c-11e8-a244-53852639d709.png?resize=600%2C592"
-        width: 600
-        height: 592
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Judge: House Entitled to Some of Trump's Financial Records"
     excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."

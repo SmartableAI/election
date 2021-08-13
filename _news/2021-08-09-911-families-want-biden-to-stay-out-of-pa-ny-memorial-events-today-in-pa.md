@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden blasts 'political dispute' over masking students"
+    excerpt: "Posted . U.S. President Joe Biden said on Thursday that having children wear masks is not about politics but ab"
+    publishedDateTime: 2021-08-13T00:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP8$N?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/6115b1e9e4b085d396fce8cf-1628811753952?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
     excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
     publishedDateTime: 2021-08-05T20:58:00Z
@@ -293,19 +307,35 @@ related:
         isCached: true
   - title: "Biden eyes tougher vaccine rules — without provoking a backlash"
     excerpt: "As new coronavirus infections soar, Presiden Biden is working to make life more uncomfortable for the unvaccinated without spurring a backlash in a deeply polarized country."
-    publishedDateTime: 2021-08-12T21:48:00Z
-    webUrl: "https://www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html"
-    ampWebUrl: "https://www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
+    publishedDateTime: 2021-08-13T00:48:00Z
+    webUrl: "https://www.baltimoresun.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/ct-aud-nw-biden-us-vaccine-rules-20210812-zc74trvvn5fcpiitbtyempj5ge-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 75
     images:
-      - url: "https://www.dailypress.com/resizer/ApsX35YgR9SkQ93h0UabZRuDlrU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DMIUCWIWEO6J5HTCVUB7ZNYX5Y.aspx"
+      - url: "https://www.baltimoresun.com/resizer/ApsX35YgR9SkQ93h0UabZRuDlrU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DMIUCWIWEO6J5HTCVUB7ZNYX5Y.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden, other leaders weigh in on Aug. 12 on fourth anniversary"
+    excerpt: "\"[Heather Heyer's] life and activism are reminders that while we have never fully lived up to the promise of America, we have never fully walked away from it either.\""
+    publishedDateTime: 2021-08-13T00:23:00Z
+    webUrl: "https://dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.html"
+    ampWebUrl: "https://dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.amp.html"
+    cdnAmpWebUrl: "https://dailyprogress-com.cdn.ampproject.org/c/s/dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.amp.html"
+    type: article
+    provider:
+      name: The Daily Progress
+      domain: dailyprogress.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/3/7b/37bb0c5c-fbb6-11eb-8ba0-87637a96849e/611595d04121a.image.jpg?resize=1024%2C705"
+        width: 1024
+        height: 705
         isCached: true
   - title: "Biden’s new evictions moratorium faces legality doubts"
     excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
@@ -359,20 +389,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/56/b5611a2a-8d4b-5ca8-9f51-3dfef2ab0174/6113c6c606058.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Biden eyes tougher vaccine rules without provoking backlash"
-    excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that's what it took to get shots in arms. But as new coronavirus infections soar,"
-    publishedDateTime: 2021-08-12T21:16:00Z
-    webUrl: "https://bangordailynews.com/2021/08/12/news/nation/biden-eyes-tougher-vaccine-rules-without-provoking-backlash/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Optimized-Biden-17.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Joe Biden eyes tougher vaccine rules without provoking backlash"
     excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that’s what it took to get shots in arms. But as new coronavirus infections soar,"
@@ -452,6 +468,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Biden eyes tougher vaccine rules without provoking backlash"
+    excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that's what it took to get shots in arms. But as new coronavirus infections soar,"
+    publishedDateTime: 2021-08-13T01:34:00Z
+    webUrl: "https://lasvegassun.com/news/2021/aug/12/biden-eyes-tougher-vaccine-rules-without-provoking/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
     quality: 35
   - title: "Biden Says Having Children Wear Masks Is Not About Politics"
     excerpt: "U.S. President Joe Biden said on Thursday that having children wear masks is not about politics but about keeping children safe as Republican governors in states such as Florida and Texas are clashing with local officials who are resisting their orders banning school mask mandates."

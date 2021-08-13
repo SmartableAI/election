@@ -284,14 +284,14 @@ related:
   - title: "President Joe Biden Delivers Remarks on Infrastructure"
     excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
     publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/b952c0881bab8dd7ec71e25362e3441a/WHITE-HOUSEINFRASTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -308,6 +308,20 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2021/08/Trump_Financial_Records_86507.jpg-5702b.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Trump appeals court’s order for release of company records"
+    excerpt: "Former U.S. President Donald Trump appealed a court order instructing his accountants to release certain financial records of his business to a congressional committee."
+    publishedDateTime: 2021-08-13T01:10:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/trump-appeals-court-s-order-for-release-of-company-records/article_feb5113e-81eb-54c6-bd78-370d5a11154b.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
     excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden calls for vigilance on anniversary of A12"
-excerpt: "the most lethal terrorist threat to our homeland in recent years has been domestic terrorism rooted in white supremacy.”"
-publishedDateTime: 2021-08-12T17:30:00Z
-originalUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.html"
-webUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.html"
-ampWebUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
-cdnAmpWebUrl: "https://dailyprogress-com.cdn.ampproject.org/c/s/dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
+title: "Biden, other leaders weigh in on Aug. 12 on fourth anniversary"
+excerpt: "\"[Heather Heyer's] life and activism are reminders that while we have never fully lived up to the promise of America, we have never fully walked away from it either.\""
+publishedDateTime: 2021-08-13T00:23:00Z
+originalUrl: "https://dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.html"
+webUrl: "https://dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.html"
+ampWebUrl: "https://dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.amp.html"
+cdnAmpWebUrl: "https://dailyprogress-com.cdn.ampproject.org/c/s/dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.amp.html"
 type: article
 quality: 75
 heat: -1
@@ -21,9 +21,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/7/ec/7ec4ef88-fb83-11eb-a854-f7fb22fb5d98/5990caee734a7.image.jpg?resize=1024%2C682"
+  - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/3/7b/37bb0c5c-fbb6-11eb-8ba0-87637a96849e/611595d04121a.image.jpg?resize=1024%2C705"
     width: 1024
-    height: 682
+    height: 705
     isCached: true
 
 related:
@@ -289,6 +289,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Biden calls for vigilance on anniversary of A12"
+    excerpt: "the most lethal terrorist threat to our homeland in recent years has been domestic terrorism rooted in white supremacy.”"
+    publishedDateTime: 2021-08-12T17:30:00Z
+    webUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.html"
+    ampWebUrl: "https://dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
+    cdnAmpWebUrl: "https://dailyprogress-com.cdn.ampproject.org/c/s/dailyprogress.com/news/august12/biden-calls-for-vigilance-on-anniversary-of-a12/article_05c00490-fb8f-11eb-badb-3b818ea4ae74.amp.html"
+    type: article
+    provider:
+      name: The Daily Progress
+      domain: dailyprogress.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/7/ec/7ec4ef88-fb83-11eb-a854-f7fb22fb5d98/5990caee734a7.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden eyes tougher vaccine rules — without provoking a backlash"
     excerpt: "As new coronavirus infections soar, Presiden Biden is working to make life more uncomfortable for the unvaccinated without spurring a backlash in a deeply polarized country."
     publishedDateTime: 2021-08-13T00:48:00Z
@@ -304,22 +320,6 @@ related:
       - url: "https://www.baltimoresun.com/resizer/ApsX35YgR9SkQ93h0UabZRuDlrU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DMIUCWIWEO6J5HTCVUB7ZNYX5Y.aspx"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Biden, other leaders weigh in on Aug. 12 on fourth anniversary"
-    excerpt: "\"[Heather Heyer's] life and activism are reminders that while we have never fully lived up to the promise of America, we have never fully walked away from it either.\""
-    publishedDateTime: 2021-08-13T00:23:00Z
-    webUrl: "https://dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.html"
-    ampWebUrl: "https://dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.amp.html"
-    cdnAmpWebUrl: "https://dailyprogress-com.cdn.ampproject.org/c/s/dailyprogress.com/news/august12/biden-other-leaders-weigh-in-on-aug-12-on-fourth-anniversary/article_b8ba8e3c-fbab-11eb-a25f-3b9dfb05a47b.amp.html"
-    type: article
-    provider:
-      name: The Daily Progress
-      domain: dailyprogress.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/3/7b/37bb0c5c-fbb6-11eb-8ba0-87637a96849e/611595d04121a.image.jpg?resize=1024%2C705"
-        width: 1024
-        height: 705
         isCached: true
   - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
     excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
@@ -488,6 +488,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "x+3j4Ci1sqFiAcizCg0ndHa+xWlzHGyxiIPRVTeKwKX2N8yHv02uNSQkpHJPYyCDnJ5SuW5z6wOl0y1UzMddyrI25RrBymL5jCwYmaW/u6AIkoeSzvq3Sb9SjWjyj0VjFgU1Bz2bXIoZvNuswXiLKoWC+JxcXjy7tIECQzC6TsQyIsGVbKfKEWsO6ZwkXWiIgQmgNmpWgDyBAT9tvIDJuj9NJdOwQLBnAwjayhNSQiwc7qg7fOqbun9Y32JnJuErAVTk2ugQ7bn+ky8d3S1MuSMltDZ7nsca34G3K1Z3gCWjMvnOqJjj4UAhWLRXnpKTlnHmPVYmMqsYdoV9AwYBYRvKFtBlVS/G892ddlOusIw=;SUZTOZOv0ldzZI7wikoz+g=="
+secured: "ydkgWTB2bNlxqwnC0fG3YYjKZMicpmLRtaMraX+HSnNeHiho3DB4uKaSCuBzpxq+/npp4XQIxfF8Ev96udyDbBAxA8/L0/DRs1d08gMlKmCETpgXHBlN4hqwrJ9s9EuChqQuagfKJF3PRHGp1BpnQ6QJFM1IV+TWzAROs+oGdSBE/DGV/gYEl2tOUdTg0qEaprjV1CAD9rzXVh0vCplySm4W0F+6VzeV25IQQThwt1pXif2ZEWOyhe/8aKm5obtX/AVA1QYYUOShFXICrwKaljrtCX1XJoYxmgOc2I3ZbYJUVViKx7ZuH9GTRkoTNhLJmk1RRDYq5ovNpL72GM20NU1FaQWl0xDkvHGIePMtBZ0=;hzr+HL8Espfb5RzuFX3cpg=="
 ---
 

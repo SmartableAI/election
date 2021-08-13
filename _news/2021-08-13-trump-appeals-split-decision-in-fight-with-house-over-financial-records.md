@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Trump appeals split decision in fight with House over financial records"
-excerpt: "A long-running court fight between Donald Trump and a House of Representatives committee over his financial records is heading back to an appeals court after a judge"
-publishedDateTime: 2021-08-12T22:38:00Z
-originalUrl: "https://gazette.com/trump-appeals-split-decision-in-fight-with-house-over-financial-records/article_fb951864-fbbd-11eb-8b6e-07bc48113b28.html"
-webUrl: "https://gazette.com/trump-appeals-split-decision-in-fight-with-house-over-financial-records/article_fb951864-fbbd-11eb-8b6e-07bc48113b28.html"
+excerpt: "A long-running court fight between Donald Trump and a House of Representatives committee over his financial records is heading back to an appeals court after a judge issued"
+publishedDateTime: 2021-08-13T00:30:00Z
+originalUrl: "https://www.unionleader.com/news/courts/trump-appeals-split-decision-in-fight-with-house-over-financial-records/article_81c964ab-4f5a-552d-93d3-0eae6040a72e.html"
+webUrl: "https://www.unionleader.com/news/courts/trump-appeals-split-decision-in-fight-with-house-over-financial-records/article_81c964ab-4f5a-552d-93d3-0eae6040a72e.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Gazette
-  domain: gazette.com
+  name: New Hampshire Union Leader
+  domain: unionleader.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/custom/image/3f755dae-418c-11e8-a244-53852639d709.png?resize=600%2C592"
-    width: 600
-    height: 592
+  - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -309,6 +309,6 @@ related:
       domain: lohud.com
     quality: 32
 
-secured: "kAcZhDmuLpqBf9XlVV9tPBHxBKG/ecM+dqvQtyqyamnprPHNeEqVzbEUNzx9f5bJwdXp1yhqiVubFf30uSipySa6qIqAQlENRwiMxg8nSW5xN6/8UgMmM2uDo+WjoQOPq4imLMi91BELpxw9ksYXhHitI00STGsyODOyKyUXkTfe0TUR3q2OOGs2seCYjjHEFq8HGflthF5X6BqP43yTNObgjbXSTKLYgR3OqerheSHDV0vVh5YL/nekLmS0KZ4d6CFWNI36PPuvaF90hbbpNU1DhW+DG8EYz11s/wacDR02y6Vq/O9Vs4Agasv1zwazQKdCYtZeHeelH+phZaYEdaI0mMJr7CxPVEISoDoIg9g=;AETB7lCJfDljW6u95hRLWw=="
+secured: "3OctmpM3A2GMen7ZzyWL6yavKsXGYSBRNOnmn3eJiElyNpTnVXDPzWZv/qYSHNF+5x89YtRiXRoJLeD5lpSSANLlZ5fRZ3PpJd0Qslh+RWimo5QKAOYL7wa1OHP2VEHDKH9MclcMPgzN6o68VCayPh3YuktlWC0IBdOl1zBLLg76HyBhqQaKNCuziT+M+PG2H+xP6sMBRBL1KpDDfd9owJerf4B0sxayu8v6c2sPCVXMfyjRLni652PpvKPKWy7WyOlzGXnDSN+RKqNbmD3UyJ1pTBEcufOInOvgaAAOQZgC38jATSskQ4Nvt1BqbuFg3RihPSEuZgk1judePV0+4Bj22LUyQt508X3daEOEJ1A=;FDdBcMTgOfW8LEHeYxxpJg=="
 ---
 
