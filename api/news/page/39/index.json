@@ -2,6 +2,58 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-05-31-pastor-greg-locke-continues-to-insist-trump-won-election-biden-is-still-a-fraud.md",
+      "title": "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'",
+      "excerpt": "Controversial right-wing Pastor Greg Locke on Sunday continued to claim that President Joe Biden \"is still a fraud\" and former President Donald Trump won the 2020 presidential election. Locke, head of the Baptist Global Vision Bible Church in Juliet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230",
+      "originalUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 429,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1810171/greg-locke-continues-insist-trump-won.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1",
+      "publishedDateTime": "2021-05-30T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.md",
       "title": "Biden admin now investigating COVID origin 'because of the public outcry’: Rep. Mike Turner",
       "excerpt": "Rep. Mike Turner, R-Ohio, argued during an exclusive interview with “Sunday Morning Futures” that “everything points to the Wuhan lab” as it pertains to the origin of COVID-19, and added that “we need to get to the bottom of it.”",
@@ -1307,58 +1359,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-biden-to-gop-dont-get-in-the-way-of-infrastructure-plan.md",
-      "title": "Biden to GOP: 'Don't get in the way' of infrastructure plan",
-      "excerpt": "President Joe Biden is warning naysayers in Congress not to “get in the way” of his big infrastructure plans as the White House panned a counteroffer from Republican senators to tap unused COVID-19 relief for a more modest investment in roads,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
-      "publishedDateTime": "2021-05-27T21:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

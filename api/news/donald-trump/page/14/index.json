@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-11-british-elections-send-a-message-to-trump-gop-and-bidens-democrats.md",
+      "title": "British elections send a message to Trump, GOP and Biden’s Democrats",
+      "excerpt": "If Donald Trump were at all self-reflective, he would probably be kicking himself right now as he surveys the results of last week’s British elections. Through his own mistakes and obstinance in his handling of the coronavirus pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1475,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSYQ6HFR7QI6XECZ3ALWXHRXTA.jpg&w=1440",
+          "width": 1440,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-11T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-donald-trump-endorses-texas-lt-gov-dan-patrick-for-reelection.md",
       "title": "Donald Trump endorses Texas Lt. Gov. Dan Patrick for reelection",
       "excerpt": "Former President Donald Trump endorsed Lt. Gov. Dan Patrick for reelection Monday, giving a top ally in Texas an early boost in his bid for a third term next year. \"Lieutenant Governor Dan Patrick is a great fighter for the people of Texas,",
@@ -1493,58 +1545,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-a-great-patriot-trump-defends-giuliani-after-federal-agents-raid-home-and-office.md",
-      "title": "‘A great patriot’: Trump defends Giuliani after federal agents raid home and office",
-      "excerpt": "Investigators execute search warrants at Rudy Giuliani’s Manhattan residence and office as part of Ukraine investigation",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a7ca6fc53b3d122e1c03ee50ff448fe52a299bd4/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d2e04564148c3da82d80b9ca8d6f2b9",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
-      "publishedDateTime": "2021-04-29T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

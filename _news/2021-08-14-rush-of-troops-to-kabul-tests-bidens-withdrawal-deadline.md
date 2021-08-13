@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Joe Biden wins voluntary pledges from auto makers"
-excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
-publishedDateTime: 2021-08-05T14:00:00Z
-originalUrl: "https://floridapolitics.com/archives/446203-joe-biden-wins-voluntary-pledges-from-auto-makers/"
-webUrl: "https://floridapolitics.com/archives/446203-joe-biden-wins-voluntary-pledges-from-auto-makers/"
+title: "Rush of troops to Kabul tests Biden's withdrawal deadline"
+excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug. 31 deadline for fully withdrawing combat forces."
+publishedDateTime: 2021-08-13T21:41:00Z
+originalUrl: "https://www.11alive.com/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
+webUrl: "https://www.11alive.com/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
+ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
+cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Florida Politics
-  domain: floridapolitics.com
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden-1.jpg"
-    width: 813
-    height: 526
+  - url: "https://media.11alive.com/assets/CCT/images/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -377,22 +379,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Rush of troops to Kabul tests Biden's withdrawal deadline"
-    excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug. 31 deadline for fully withdrawing combat forces."
-    publishedDateTime: 2021-08-13T21:41:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
-    images:
-      - url: "https://media.11alive.com/assets/CCT/images/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Wyo drilling rig count triples during Biden leasing pause"
     excerpt: "Oil and gas companies were operating five rigs in Wyoming the week when Biden announced the leasing pause. Fifteen are now operating."
     publishedDateTime: 2021-08-13T19:26:00Z
@@ -450,6 +436,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Joe Biden wins voluntary pledges from auto makers"
+    excerpt: "Biden seeks to boost fuel economy to thwart Donald Trump's rollback The Biden administration wants automakers to raise gas mileage and cut tailpipe pollution between now and model year 2026, and it has won a voluntary commitment Thursday from the industry that electric vehicles will comprise up to half of U."
+    publishedDateTime: 2021-08-05T14:00:00Z
+    webUrl: "https://floridapolitics.com/archives/446203-joe-biden-wins-voluntary-pledges-from-auto-makers/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Joe-Biden-1.jpg"
+        width: 813
+        height: 526
+        isCached: true
   - title: "Biden seeks ways to tackle rising gas prices"
     excerpt: "President Joe Biden says his administration is taking steps at home and abroad to address concerns about rising energy prices and make sure Americans aren't paying more than necessary at the pump. That includes asking OPEC to boost production."
     publishedDateTime: 2021-08-11T21:37:00Z
@@ -576,6 +576,6 @@ related:
       domain: detroitnews.com
     quality: 34
 
-secured: "xD48SqWrZnizKNDk1blMA/vUPvbIUOGkj0SdIwxvtGS/XXNDLub0ntTkk6rxbhhKJSyXBNK+XySq7wMT5MVkzk8WRQcO8cuTeAeAoUruEDvvLeTwnT9+TuRl+vuQANBhhbK3URJtkfjnVZCyJtTyhfcgPW82bPZ8axlOPJtlX/Ev2cjB+UdoOQyBjkb6Uu5RHn24l/BcaKAb2KpH2lqqMJ/eFnM516rxNzm0HOkcrVD+ZGgmdkVc7UGzZthK17W7fBYg/WDJduNLmZe90JdGu+0IvF22ych0OudkIWuSjovIqtUJTRqS2ux7k++w/2zVsSK7wduUMclKSr50Nahc+/wboWJtAOc9YuZHBUN3PvyY/HNmSjoC+kOss2Gb8OiyWsH0enEqFXG6KkAHwFevuCCcypuGWxu9HRWGul81ANYosuTrCe+TH8gnz9JpCJwVPJ9kyxULSLP174NsW54ZrTZqneIpmIFr4VExlTSdA9bXTPe1+DMy+Bp1/w/D1MNn55CatRajc/wBdpmOW4IwlQ==;uLXAV8uKtFanQfx43nqQ5A=="
+secured: "Ax/hrCGtUCvsgXzTMDPa9RubNSB6+0M9NrRBdkpwS/npjILhbKc5VSrtkzs8+tAl808rGOdrOHlTiHy5ViaZe2zn+w2fElOWcGHwrJ0Io3HMbQ+AEh2IlMzsojufys3oak/fxr1rRQWrbG8G27YuuDZ5wtIpUdHOqiQqYJ7pktrKOg7wKebQ9epGEI2jcCTE/Mi+jT4oWKWIROZdnruwtTZbvdQVMEMgbm0nd7PJNOK8pVU0BI19QqgbbaJyVGtCvhevhXr7EK7T7nH4JmGmjZOq/nEVsvqpReH/wyDq2CpprTqIFuqWUPKKmQq70V9go7SJQ4U3EIjKdDUwBRtHPUqKHnA7gI53T7cYaU6iQgM=;6bgalt57f/LFRNO3oHWAaw=="
 ---
 

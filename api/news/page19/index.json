@@ -2,6 +2,62 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-07-biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.md",
+      "title": "Biden meets with Chicago Mayor Lightfoot at airport amid surge in gun violence",
+      "excerpt": "President Biden will meet with Chicago’s mayor on Wednesday, in the wake of an extremely violent holiday weekend in the nation’s third most populous city.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l29PClZJvXo/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l29PClZJvXo/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.amp",
+      "publishedDateTime": "2021-07-07T08:29:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-marjorie-taylor-greene-compares-biden-vaccine-push-to-nazi-era-brown-shirts-weeks-after-apologizing-for-holocaust-comments.md",
       "title": "Marjorie Taylor Greene compares Biden vaccine push to Nazi-era 'brown shirts' weeks after apologizing for Holocaust comments",
       "excerpt": "Rep. Marjorie Taylor Greene on Tuesday compared officials carrying out President Joe Biden's latest Covid-19 vaccination push to Nazi-era \"brown shirts,\" just weeks after apologizing for her comments comparing Capitol Hill mask-wearing rules to the Holocaust.\n    \n",
@@ -1256,58 +1312,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-the-stimulus-helped-these-trump-voters-pay-rent-and-bills-but-they-blame-it-for-a-range-of-economic-ills.md",
-      "title": "The stimulus helped these Trump voters pay rent and bills. But they blame it for a range of economic ills.",
-      "excerpt": "In Ohio’s Appalachian region, people agree their stimulus money went to good use. But they also criticize the program for the worker shortage and rising inflation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TRFC2TWKLEI6XBYIMSMR6KWPFA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-06T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

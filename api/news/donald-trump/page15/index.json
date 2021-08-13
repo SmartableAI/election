@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-29-a-great-patriot-trump-defends-giuliani-after-federal-agents-raid-home-and-office.md",
+      "title": "‘A great patriot’: Trump defends Giuliani after federal agents raid home and office",
+      "excerpt": "Investigators execute search warrants at Rudy Giuliani’s Manhattan residence and office as part of Ukraine investigation",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a7ca6fc53b3d122e1c03ee50ff448fe52a299bd4/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d2e04564148c3da82d80b9ca8d6f2b9",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
+      "publishedDateTime": "2021-04-29T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-cheney-wishful-thinking-by-trump-she-wont-seek-4th-term.md",
       "title": "Cheney: 'Wishful thinking' by Trump she won't seek 4th term",
       "excerpt": "Liz Cheney calls speculation by former President Donald Trump that she won’t seek re-election next year “wishful thinking.”",
@@ -1522,58 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-trump-looking-beyond-seriously-at-2024-run.md",
-      "title": "Trump looking 'beyond seriously' at 2024 run",
-      "excerpt": "Former President Trump in an interview broadcast late Monday teased a run for the White House in 2024 but declined to give a definitive answer on if he has made the decision to pursue the Oval Office for a second time.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run",
-      "originalUrl": "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_trumplgbtqsuit_110420getty_0.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp",
-      "publishedDateTime": "2021-04-20T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

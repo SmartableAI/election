@@ -363,6 +363,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Rush of troops to Kabul tests Biden's withdrawal deadline"
+    excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug. 31 deadline for fully withdrawing combat forces."
+    publishedDateTime: 2021-08-13T21:41:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/CCT/images/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Wyo drilling rig count triples during Biden leasing pause"
     excerpt: "Oil and gas companies were operating five rigs in Wyoming the week when Biden announced the leasing pause. Fifteen are now operating."
     publishedDateTime: 2021-08-13T19:26:00Z
