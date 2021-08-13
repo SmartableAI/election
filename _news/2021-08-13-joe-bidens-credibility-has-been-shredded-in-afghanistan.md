@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s credibility has been shredded in Afghanistan"
 excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
 publishedDateTime: 2021-08-13T11:03:00Z
-originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
-webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
+webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
 ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
 type: article
@@ -174,6 +174,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/troops-afghanistan-gty-rc-210325_1616701125644_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden Official Expresses Concerns for Women in Afghanistan in Deleted Tweet"
+    excerpt: "\"We empowered them to lead, now we are powerless to protect them,\" Molly Montgomery at the State Department wrote."
+    publishedDateTime: 2021-08-13T19:35:00Z
+    webUrl: "https://www.newsweek.com/biden-official-expresses-concerns-women-afghanistan-deleted-tweet-1619321"
+    ampWebUrl: "https://www.newsweek.com/biden-official-expresses-concerns-women-afghanistan-deleted-tweet-1619321?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-official-expresses-concerns-women-afghanistan-deleted-tweet-1619321?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1871243/afghan-women.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden Won't Let 9/11 Attacks Justify U.S. Continuing Afghanistan Deployment"
     excerpt: "President Joe Biden is scheduled to announce a full withdrawal of troops from Afghanistan by September 11, a decision he says will not be influenced by the nearly 20-year-old terrorist attacks. Excerpts released by the White House ahead of Biden's ..."
@@ -569,6 +585,6 @@ related:
         height: 707
         isCached: true
 
-secured: "W4SAxPPe0C27ZamLAZFvacFEts2Y5uAtE4R5MDuzOBRMD2Y6tcRfu1cKHCPlV+S76+zstv8yPWXohS0GF+aYX3YI99EfOlXY3Sf4AZ5C+Ki13PkiLhkTb92gsjlfywgiueeAVfRcMDWN5/VZl5+7joWDK9Cmb4N/0txH6FEgJ7Z/KBcNB0hPIeO+Baegg5DudmDMt6aqJ8dE549S9oCRqyc5THCg1bL4IbxVaqPFTg7Fu9Foza/NQqmfHunQyCLDQ1qLv3YLp7lm20SZ77B6miO1IiuMxxLnqqORykbC51oXVRdpIG3kGpbpQmacIXjTkPn6XR+8s6qSXNVhWgs0hg9vPAdpiqD0OpMCU6CJqLk=;JFGmdvvq3QvIKynq1G8NUw=="
+secured: "cewXvbiRER1ADsGp5Oy15kW2fAOU7OJUxsmVUep7Qiv7KvQ69xKK5OBxDXLQua0fpk+L84Br2nCXHDYAH6VtjEpXaeYLOpcmKMC73lzR2cj71Lmr7D02UY4YzwRti/RBZJ8PYvpvyOdp2AjqRbDSCPqcRW3lexSzPhchinphmn2krh+hN53NBvV30vWMMoq0WAjAmbx30KkQUGtJQNY+4t38mG8s348S3UpOw0PqYTdDZhQ3BSPKiMkjKLN+dpmEIHyCrKfidR8HCy9kRF73CuNvHpj9Mxde55uAzH4G1cB5DCyuZfDO2X96UH3Gc05/S/5sBEYw7/x7j5UKqGfepjTBgstwDWBVvMKJ7t+FnVQ=;pY49/JyLyvpLFu+o2KA8Uw=="
 ---
 

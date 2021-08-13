@@ -865,6 +865,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump endorses Bill Lee re-election"
+    excerpt: "Former President Donald Trump on Friday endorsed GOP Gov. Bill Lee’s re-election bid more than a year out from the 2022 general election. Lee is so far facing only nominal competition in the Republican primary,"
+    publishedDateTime: 2021-08-13T19:17:00Z
+    webUrl: "https://www.nashvillepost.com/politics/elections/trump-endorses-bill-lee-re-election/article_2a6eb1ec-fc6b-11eb-8531-7f508de9f6c4.html"
+    type: article
+    provider:
+      name: Nashville Post
+      domain: nashvillepost.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/8/03/803154b8-fc6b-11eb-ab0e-87338ea2248c/6116c625c407e.image.jpg?crop=1764%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "How to buy new Donald Trump book ‘Frankly, We Did Win This Election: The Inside Story of How Trump Lost,’ by Michael C. Bender"
     excerpt: "A new book about former president Donald Trump hit the shelves on Tuesday, July 13. The book, ‘Frankly, We Did Win This Election: The Inside Story of How Trump Lost,’ is written by Michael C. Bender,"
     publishedDateTime: 2021-07-13T19:58:00Z

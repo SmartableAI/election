@@ -163,6 +163,34 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Moderate Dems add to division over Biden agenda"
+    excerpt: "Posted . Nine moderate Democrats in the U.S. House of Representatives threatened on Friday to withhold support from a"
+    publishedDateTime: 2021-08-13T19:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP8xm?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/6116c0d2e4b075834137bad0-1628881106391?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Record M&A Boom Collides With Biden’s Get-Tough Antitrust Stand"
+    excerpt: "This year’s runaway merger boom is shaping up to run into the Biden administration’s antitrust regime, putting at risk a buying spree that’s led to nearly $1 trillion of pending deals in the U.S. this year."
+    publishedDateTime: 2021-08-13T19:22:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-13/record-m-a-boom-collides-with-biden-s-get-tough-antitrust-stand"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEpZifqrF6C0/v0/1200x730.png"
+        width: 1200
+        height: 730
+        isCached: true
   - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
     excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
     publishedDateTime: 2021-08-05T20:58:00Z
@@ -334,6 +362,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/3/7b/37bb0c5c-fbb6-11eb-8ba0-87637a96849e/611595d04121a.image.jpg?resize=1024%2C705"
         width: 1024
         height: 705
+        isCached: true
+  - title: "Wyo drilling rig count triples during Biden leasing pause"
+    excerpt: "Oil and gas companies were operating five rigs in Wyoming the week when Biden announced the leasing pause. Fifteen are now operating."
+    publishedDateTime: 2021-08-13T19:26:00Z
+    webUrl: "https://trib.com/business/energy/wyo-drilling-rig-count-triples-during-biden-leasing-pause/article_3aa9b26a-eb17-5522-b621-155375eb3654.html"
+    ampWebUrl: "https://trib.com/business/energy/wyo-drilling-rig-count-triples-during-biden-leasing-pause/article_3aa9b26a-eb17-5522-b621-155375eb3654.amp.html"
+    cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/business/energy/wyo-drilling-rig-count-triples-during-biden-leasing-pause/article_3aa9b26a-eb17-5522-b621-155375eb3654.amp.html"
+    type: article
+    provider:
+      name: Casper Star-Tribune
+      domain: trib.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/7/02/70295bc4-73cd-578c-9538-3b10a527d133/5f19e6699082b.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
     excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"

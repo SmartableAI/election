@@ -849,6 +849,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump endorses Bill Lee re-election"
+    excerpt: "Former President Donald Trump on Friday endorsed GOP Gov. Bill Lee’s re-election bid more than a year out from the 2022 general election. Lee is so far facing only nominal competition in the Republican primary,"
+    publishedDateTime: 2021-08-13T19:17:00Z
+    webUrl: "https://www.nashvillepost.com/politics/elections/trump-endorses-bill-lee-re-election/article_2a6eb1ec-fc6b-11eb-8531-7f508de9f6c4.html"
+    type: article
+    provider:
+      name: Nashville Post
+      domain: nashvillepost.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/8/03/803154b8-fc6b-11eb-ab0e-87338ea2248c/6116c625c407e.image.jpg?crop=1764%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "PA dentist and friend of Donald Trump charged with assault for groping a patient, police say"
     excerpt: "Albert Hazzouri Jr., the self-proclaimed \"dentist and personal friend of Donald Trump,\" has been charged with assault after he allegedly groped a patient in his Scranton office."
     publishedDateTime: 2021-07-08T17:04:00Z

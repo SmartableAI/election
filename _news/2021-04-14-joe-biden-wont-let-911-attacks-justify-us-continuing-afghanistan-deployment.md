@@ -146,7 +146,7 @@ related:
   - title: "Joe Biden’s credibility has been shredded in Afghanistan"
     excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
     publishedDateTime: 2021-08-13T11:03:00Z
-    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
     ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     type: article
@@ -190,6 +190,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/troops-afghanistan-gty-rc-210325_1616701125644_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden Official Expresses Concerns for Women in Afghanistan in Deleted Tweet"
+    excerpt: "\"We empowered them to lead, now we are powerless to protect them,\" Molly Montgomery at the State Department wrote."
+    publishedDateTime: 2021-08-13T19:35:00Z
+    webUrl: "https://www.newsweek.com/biden-official-expresses-concerns-women-afghanistan-deleted-tweet-1619321"
+    ampWebUrl: "https://www.newsweek.com/biden-official-expresses-concerns-women-afghanistan-deleted-tweet-1619321?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-official-expresses-concerns-women-afghanistan-deleted-tweet-1619321?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1871243/afghan-women.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden's 2012 Comments About Leaving Afghanistan 'Period' in 2014 Resurface"
     excerpt: "After news broke that President Joe Biden plans to withdraw U.S. troops from Afghanistan by September, people began sharing 2012 comments from Biden vowing that America's military would be withdrawn from the country in 2014. Although Biden has repeatedly ..."

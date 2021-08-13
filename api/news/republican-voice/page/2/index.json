@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-08-former-trump-acting-ag-rosen-testifies-for-nearly-7-hours-before-committee-investigating-election-interference.md",
+      "title": "Former Trump acting AG Rosen testifies for nearly 7 hours before committee investigating election interference",
+      "excerpt": "Former Trump administration acting Attorney General Jeff Rosen testified before senators behind closed doors for nearly seven hours on Saturday in a session focused on possible election interference, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cX3oDNsSwPE/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cX3oDNsSwPE/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference.amp",
+      "publishedDateTime": "2021-08-08T11:58:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-donald-trump-is-still-the-leader-of-republican-party-rnc-chair-says.md",
+      "title": "Donald Trump is still the leader of Republican Party, RNC chair says",
+      "excerpt": "Former President Donald Trump is still calling the shots for the GOP, as is evident by his more than $100 million war chest, a party honcho said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/",
+      "originalUrl": "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-rally-053.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/trump-still-leader-of-republican-party-rnc-chair-ronna-mcdaniel/amp/",
+      "publishedDateTime": "2021-08-08T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-desantis-banging-on-biden-inflates-his-2024-stature-among-gop-voters.md",
       "title": "DeSantis' banging on Biden inflates his 2024 stature among GOP voters",
       "excerpt": "Florida Gov. Ron DeSantis' jousting with President Biden appears to inflates his 2024 stature among GOP voters",
@@ -1524,111 +1628,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp",
       "publishedDateTime": "2021-08-02T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-cnns-brian-stelter-compares-donald-trump-supporters-to-jonestown-cult-members.md",
-      "title": "CNN's Brian Stelter compares Donald Trump supporters to Jonestown cult members",
-      "excerpt": "CNN anchor Brian Stelter used his Sunday show \"Reliable Sources\" to feature a segment comparing Donald Trump supporters to Jonestown cult members. Stelter spoke with Rep. Jackie Speier, D-Calif., to help explain the similarities between Trump supporters and Jonestown cultists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult",
-      "originalUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33702a68-88a4-4cc6-9da8-7375bb1e813d/d32ddc55-20b0-4c79-80d2-5645d00de2e6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp",
-      "publishedDateTime": "2021-08-01T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-abc-political-director-calls-out-biden-admins-confusing-covid-messaging-were-seeing-this-backslide.md",
-      "title": "ABC political director calls out Biden admin's 'confusing' COVID messaging: 'We're seeing this backslide'",
-      "excerpt": "ABC political director and analyst Rick Klein called out the Biden administration for what he called \"mixed messaging\" following the president's new COVID-19 guidance, which Klein argued was a \"backslide\" from comments the president made a few weeks earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
-      "originalUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T12:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

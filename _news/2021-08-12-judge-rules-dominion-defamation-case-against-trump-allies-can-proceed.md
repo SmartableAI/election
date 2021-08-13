@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuli
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -342,6 +342,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Some turbulence on board Donald Trump's private plane"
+    excerpt: "Ruby reflects on this interview from 2000 and why she found it so tricky to engage with Donald Trump – who had just announced his hopes of becoming US President."
+    publishedDateTime: 2021-08-13T18:41:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p09s61sq"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p09s6334.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
     excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."

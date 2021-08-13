@@ -353,6 +353,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Some turbulence on board Donald Trump's private plane"
+    excerpt: "Ruby reflects on this interview from 2000 and why she found it so tricky to engage with Donald Trump – who had just announced his hopes of becoming US President."
+    publishedDateTime: 2021-08-13T18:41:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p09s61sq"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p09s6334.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Judge: House Entitled to Some of Trump's Financial Records"
     excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."
     publishedDateTime: 2021-08-12T00:18:00Z

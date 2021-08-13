@@ -2,6 +2,115 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-07-06-profanity-laced-anti-biden-flag-can-remain-in-place-tennessee-mayor-says.md",
+      "title": "Profanity-Laced Anti-Biden Flag Can Remain in Place, Tennessee Mayor Says",
+      "excerpt": "Dwayne Cole—the mayor of Munford, Tennessee—has said that a city resident flying a profanity-laced flag against President Joe Biden can continue to display it. \"F*ck Biden and f*ck you for voting for him,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976",
+      "originalUrl": "https://www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1838067/fuck-joe-biden-flag-tennessee-free-speech.jpg",
+          "width": 2500,
+          "height": 1645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976?amp=1",
+      "publishedDateTime": "2021-07-05T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-nbc-news-historian-fawns-over-bidens-half-century-of-political-experience-hes-made-very-few-mistakes.md",
+      "title": "NBC News historian fawns over Biden's 'half-century' of political experience: He's made 'very few mistakes'",
+      "excerpt": "NBC News Presidential Historian Michael Beschloss made clear his admiration for President Biden as he praised the latter's Independence Day address to the nation and declared that we were \"lucky\" to have him as president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes",
+      "originalUrl": "https://www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8122e021-ff21-45a8-890a-34f0c3af0978/b429fe34-719c-47cb-a97c-6727f39f312b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes.amp",
+      "publishedDateTime": "2021-07-05T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.md",
       "title": "Ex-acting ICE director: Root cause of border 'chaos' is reversal of Trump’s immigration policies",
       "excerpt": "Former Acting Director of U.S. Immigration and Customs Enforcement (ICE) Ron Vitiello argued on “Fox & Friends First” on Monday that the “root cause of the chaos” at the southern border is the reversal of former President Trump’s immigration policies.",
@@ -1224,110 +1333,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-donald-trump-compares-new-york-tax-fraud-charges-to-a-communist-dictatorship.md",
-      "title": "Donald Trump Compares New York Tax Fraud Charges to a 'Communist Dictatorship'",
-      "excerpt": "\"It's unprecedented, unheard of and totally unacceptable in America for prosecutors to run for office on a promise to get their political enemies,\" Trump said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706",
-      "originalUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1837397/trump-speaks-sarasota-rally-florida.jpg",
-          "width": 3000,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
-      "publishedDateTime": "2021-07-03T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-harris-in-optimistic-speech-says-america-getting-back-to-work.md",
-      "title": "Harris, in optimistic speech, says America 'getting back to work'",
-      "excerpt": "Vice President Harris said Saturday touted the United States’ progress amid the coronavirus pandemic, proclaiming during an optimistic speech that America is “getting back to work.”",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work",
-      "originalUrl": "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/harriskamala_el_paso_06252021_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp",
-      "publishedDateTime": "2021-07-03T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],
