@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Biden eyes tougher vaccine rules without provoking backlash"
-excerpt: "Even as President Joe Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all of his powers"
-publishedDateTime: 2021-08-13T03:00:00Z
-originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
-webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
-ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?_amp=true"
+title: "Biden Eyes Tougher Vaccine Rules Without Provoking Backlash"
+excerpt: "Even as President Joe Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
+publishedDateTime: 2021-08-13T04:16:00Z
+originalUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
+webUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
+ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?context=amp"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/fc3f070/2147483647/strip/true/crop/3955x2645+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2F5b%2F152b7cfe555e119d1ca1afe2fba9%2Fa28adc8badc349f9913383206dca0698"
-    width: 320
-    height: 214
-    isCached: true
 
 related:
   - title: "Joe Biden to tout strong July jobs numbers – US politics live"
@@ -495,6 +493,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "f40T4vowtAnBe2DNCGZoE+FuF6QAWuP0SGIFZ7UtsLCBFt6iyQbYx6p2XeC1gWynPNWYLm/VgiCkHs3BQudtAXNSro7N3uyTG4xHuUptAL1wWc6+11zZqvSadNxSqgQ9TCqGGLv3jr5Zi8OKwX/QHAgZS7LLzW28PGHXpuem0w277Qg7f6aHfnq3HrXjffmCR3HX2fW7LL4tUvgnYQwzb8EWokq8oZUahymoo33zXqvXrVGjM5bnInQ9Hg0LGnCzfuf8QXXZ3ZD/l5OPSiZiCFIpRtJSWV1i+5z3Dp3XXbWMHihYJV3zPBwPqs+B1FhPoYMFoJNO/qvWbgjD17qbmR1OEwqlurCf955CDZbScOo=;rO6axesEDC+yiBniNE+3pg=="
+secured: "yT4z9nFC8klgf00NS6ryCbfIxpE1aXMdkeRSdisfgcr4YGlr2E9ue+Bk7/sGEtM9aMC1a0Rp70vGs2+IkPcgOEI38nk3EHbdMY6yhqfw4T714oZ51V35+1ZxaIe2jDQ/qQJWECYWE5esJryMXVoJxUIYt4eQUdYfSFPy0N0DUtpZjsTT0V/RwixRrCSpfloyLPvEUdIb5reNiOg3pzO4IPYZN+0dxFr7RGZ99Km8uf4wXIWpsHA/Tj+sSfphMFqc1+E5X9wPJAfFqExXK3KJbOV5SOX0o29k7CVgLPJN3/o0LRbDDkRtaJgRBFmtzhdGP1vtWwjEveI3fEYG8EWMRGmjnqr07IKZQy3aAJV3I4Y6rYwCTvka6C+R4dx7rbnt9FpE37I5YjpOF5GHV9VSm3L5a3TQz233CsPPq1beF0/hA+EMDmOnF/PvWEfQD1XnBSd1Tl3oi1tKwKJytrt0yc6jMKC9S2kKFe4RFSYKSgiWfTosZIDczyC5HDlrqlxTITsbM4U2c/M2Q5zzrjRSPg==;Ml8gxP/MJi24nCsyMQ/xXA=="
 ---
 

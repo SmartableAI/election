@@ -319,22 +319,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden eyes tougher vaccine rules without provoking backlash"
-    excerpt: "Even as President Joe Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all of his powers"
-    publishedDateTime: 2021-08-13T03:00:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 75
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/fc3f070/2147483647/strip/true/crop/3955x2645+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2F5b%2F152b7cfe555e119d1ca1afe2fba9%2Fa28adc8badc349f9913383206dca0698"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Biden, other leaders weigh in on Aug. 12 on fourth anniversary"
     excerpt: "\"[Heather Heyer's] life and activism are reminders that while we have never fully lived up to the promise of America, we have never fully walked away from it either.\""
     publishedDateTime: 2021-08-13T00:23:00Z
@@ -406,6 +390,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Biden Eyes Tougher Vaccine Rules Without Provoking Backlash"
+    excerpt: "Even as President Joe Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
+    publishedDateTime: 2021-08-13T04:16:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Joe Biden eyes tougher vaccine rules without provoking backlash"
     excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that’s what it took to get shots in arms. But as new coronavirus infections soar,"
     publishedDateTime: 2021-08-12T20:45:00Z
