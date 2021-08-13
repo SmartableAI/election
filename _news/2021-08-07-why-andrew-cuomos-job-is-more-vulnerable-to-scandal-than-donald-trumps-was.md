@@ -3,18 +3,18 @@ category: news
 title: "Why Andrew Cuomo's job is more vulnerable to scandal than Donald Trump's was"
 excerpt: "Andrew Cuomo. Cuomo went from being talked about as a potential presidential candidate in the spring of 2020 – thanks in large part to his handling of the COVID-19 pandemic in New York state – to media ridicule and possible state senate impeachment now,"
 publishedDateTime: 2021-08-07T00:05:00Z
-originalUrl: "https://www.nhregister.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-webUrl: "https://www.nhregister.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-ampWebUrl: "https://www.nhregister.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
-cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+originalUrl: "https://www.stamfordadvocate.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Why-Andrew-Cuomo-s-job-is-more-vulnerable-to-16370307.php"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: New Haven Register
-  domain: nhregister.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
@@ -102,6 +102,6 @@ related:
         height: 1521
         isCached: true
 
-secured: "qwBiLoX+IArrCeFo8lXuHwpYq/olM4BSChA+7JIY7sjye/MQwN2UaB1e2CN7l2dqSF1f3hsOdfNk6KdRDiSq+syIJdy0YzVSbrrm3pm6d4NCqhCiOCraz/hK9/qLMcTH2JLknNLaZplJJoXYwQYBO6+CQbsKZRRlNONkY5MTY29ADFXTXKE4njN1opa/fwme1IndQQHPOxo9TAQ5+DDn9ljB05oqj1qmZSwTU1qGRqx6DBjEYsLp2+F6LqWCWxean5zCZuzhkejJDVd6dh4kLkOypS3fOvp0S5UCjfgmv3yoSCZzmGxFl5WvERxh0DZDbQ/akFiap2H0R6oWk1RpqndXdvFq0x8WU6w8QlbLRtw=;b/zNfAeI5niudfPgVH2vFA=="
+secured: "FAxnjvA25EBLz/XsY2h8dczyM932rVW0muFpFKQAUK0tU2YZXqRbWFcmymKWOzz0zwxaR38mdjPD4eFumPCI3c0Zqmn4Y+gTuNNTDLUafyZtDfE8rwHFI1Y+Yx6zhkRrgWwC1n9S1xMp5mqWqVyexs+N03Cf1TDz9dkGyUJ+e6kI6N8FJfYwvV8TflAfqIQP+8q0th95ny9HxImzuiD3QaLlm828sx0yayrne//G272Go3pFuR75BF8WFCzeBgvmb9KerAMd5kRKplYSLGbKVqnH4UkL1Jh5uIr/DP7oDbhFnYMzHypBIIUGwrdzLVYvLPFBVRKi1Yhks1ExM0TVZ1is6O61Sl3OBeZBQ3vUkRY=;+iMHZ2IFSIcxa35H9kLOJw=="
 ---
 
