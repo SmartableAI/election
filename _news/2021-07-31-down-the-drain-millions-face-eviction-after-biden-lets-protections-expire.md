@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's new eviction moratorium can remain in place for now, judge rules"
+    excerpt: "A federal judge in Washington, DC, on Friday allowed the Biden administration's revised eviction moratorium to remain in place, but acknowledged the moratorium faces an uncertain legal future.\n    \n"
+    publishedDateTime: 2021-08-13T17:48:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SSmYWWXTEIw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/13/politics/eviction-moratorium/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/eviction-moratorium/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210813101756-eviction-protest-nyc-0811-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden touts LGBTQ diversity in announcing sixth round of judicial nominees"
     excerpt: "President Joe Biden on Thursday announced four judicial nominees, including two barrier-breaking nominations of LGBTQ judges, marking his sixth round of judicial nominees since taking office as his administration seeks to maintain a rapid pace of nominations and confirmations.\n    \n"
     publishedDateTime: 2021-08-05T14:37:53Z

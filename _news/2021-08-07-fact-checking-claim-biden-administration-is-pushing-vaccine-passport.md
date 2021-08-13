@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210728140245-biden-tsikhanouskaya-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's new eviction moratorium can remain in place for now, judge rules"
+    excerpt: "A federal judge in Washington, DC, on Friday allowed the Biden administration's revised eviction moratorium to remain in place, but acknowledged the moratorium faces an uncertain legal future.\n    \n"
+    publishedDateTime: 2021-08-13T17:48:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SSmYWWXTEIw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/13/politics/eviction-moratorium/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/eviction-moratorium/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210813101756-eviction-protest-nyc-0811-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-14-pompeo-slams-bidens-actions-in-afghanistan-amid-taliban-attacks.md",
+      "title": "Pompeo slams Biden’s actions in Afghanistan amid Taliban attacks",
+      "excerpt": "Former Secretary of State Mike Pompeo ripped President Biden over his administration’s “panicked” tactics in Afghanistan, saying in a TV interview that “weakness begets war.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/",
+      "originalUrl": "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/pompeo-biden-afghanistan1.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/",
+      "publishedDateTime": "2021-08-13T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-trump-reinstatement-day-latest-failure-in-predictions-hell-resume-presidency-oust-biden.md",
       "title": "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden",
       "excerpt": "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it.",
@@ -10,7 +58,7 @@
       "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
       "featuredContent": null,
       "highlight": null,
-      "heat": 620,
+      "heat": 700,
       "tags": null,
       "images": [
         {
@@ -51,58 +99,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-made-obamacare-cheaper-now-sign-up-deadline-is-here.md",
-      "title": "Biden made 'Obamacare' cheaper, now sign-up deadline is here",
-      "excerpt": "Midnight on Sunday is the deadline for consumers to take advantage of a special “Obamacare” sign up period, courtesy of President Joe Biden",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-made-obamacare-cheaper-now-sign-deadline-79440858",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-made-obamacare-cheaper-now-sign-deadline-79440858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_c1352563b7554dba9d9e29939bc31c32_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-made-obamacare-cheaper-now-sign-deadline-79440858",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-made-obamacare-cheaper-now-sign-deadline-79440858",
-      "publishedDateTime": "2021-08-13T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     },
@@ -213,6 +209,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-biden-reacts-to-anti-mask-protest-video-our-healthcare-workers-are-heroes.md",
+      "title": "Biden Reacts to Anti-Mask Protest Video: 'Our Healthcare Workers Are Heroes'",
+      "excerpt": "Currently, Tennessee is the ninth least vaccinated state in the U.S., with 46 percent of the population having received one dose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "originalUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1869761/parents-protest-mask-mandates-florida-school.jpg",
+          "width": 2809,
+          "height": 1964,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1",
+      "publishedDateTime": "2021-08-12T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -561,6 +609,49 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-joe-bidens-own-delaware-homies-hit-back-hard-at-vaccine-mandates.md",
+      "title": "Joe Biden’s own Delaware homies hit back hard at vaccine mandates",
+      "excerpt": "Hundreds of Delaware medical professionals and their supporters are bucking a mandate from the state’s largest hospital that all employees get vaccinated against COVID-19 as a condition of employment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/08/04/biden_67143_c0-160-3844-2402_s1200x700.jpg?2e1baba47e212a77841cb42932b8eabe976cc3ff",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/",
+      "publishedDateTime": "2021-08-10T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1424,101 +1515,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-inslee-newsom-ask-biden-for-more-resources-to-battle-wildfires-blowing-past-every-record.md",
-      "title": "Inslee, Newsom Ask Biden for More Resources to Battle Wildfires 'Blowing Past' Every Record",
-      "excerpt": "California Governor Gavin Newsom said last year, a record 130,000 acres were burned, but that record was shattered in 2021 with 504,000 acres currently burned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785",
-      "originalUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1858988/president-biden-speaks-governors-about-wildfires.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785?amp=1",
-      "publishedDateTime": "2021-07-30T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-biden-to-allow-eviction-moratorium-to-expire-saturday.md",
-      "title": "Biden to allow eviction moratorium to expire Saturday",
-      "excerpt": "The Biden administration announced Thursday it will allow a nationwide ban on evictions to expire Saturday, arguing that its hands are tied after the Supreme Court signaled the moratorium would only be extended until the end of the month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
-      "originalUrl": "https://www.chron.com/news/article/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-to-allow-eviction-moratorium-to-expire-16348971.php",
-      "publishedDateTime": "2021-07-29T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

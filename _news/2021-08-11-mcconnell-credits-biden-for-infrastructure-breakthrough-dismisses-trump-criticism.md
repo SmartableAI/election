@@ -160,6 +160,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "‘Do you miss me yet?’: Trump slams Biden over Afghanistan, inflation"
+    excerpt: "Former President Donald Trump lashed out at the Biden administration’s handling of Afghanistan, rising inflation and illegal immigrants, asking: “Do you miss me yet?” The attack came as the"
+    publishedDateTime: 2021-08-13T15:32:00Z
+    webUrl: "https://nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/"
+    ampWebUrl: "https://nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-miss-afghanistan-hp.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Pompeo: Biden failing to execute Afghan withdrawal, Trump warned Taliban of consequences"
     excerpt: "Former Secretary of State Mike Pompeo called out the Biden administration for what he described as poor planning and poor execution of a U.S. troop withdrawal from Afghanistan, which may lead to the nation's capital of Kabul to fall to Taliban insurgents within the next 3 months."
     publishedDateTime: 2021-08-12T22:25:00Z

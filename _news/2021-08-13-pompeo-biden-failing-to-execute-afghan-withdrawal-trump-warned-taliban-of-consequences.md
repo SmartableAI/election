@@ -160,6 +160,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "‘Do you miss me yet?’: Trump slams Biden over Afghanistan, inflation"
+    excerpt: "Former President Donald Trump lashed out at the Biden administration’s handling of Afghanistan, rising inflation and illegal immigrants, asking: “Do you miss me yet?” The attack came as the"
+    publishedDateTime: 2021-08-13T15:32:00Z
+    webUrl: "https://nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/"
+    ampWebUrl: "https://nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/trump-criticizes-joe-biden-over-afghanistan-in-email-blast/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-miss-afghanistan-hp.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "McConnell Credits Biden for Infrastructure Breakthrough, Dismisses Trump Criticism"
     excerpt: "The Senate minority leader credited the president with helping to get the infrastructure bill passed in the Senate, but said he doesn’t anticipate many more opportunities for Republicans to work with Democrats."
     publishedDateTime: 2021-08-11T08:00:00Z

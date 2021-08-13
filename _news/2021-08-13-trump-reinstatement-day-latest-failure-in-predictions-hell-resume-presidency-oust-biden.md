@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-pred
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
 type: article
 quality: 140
-heat: 620
+heat: 700
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "‘Miss me yet?’: Trump mocks Biden, Democrats over mounting domestic and foreign woes"
+    excerpt: "Former President Donald Trump mocked Democrats on Friday over the country’s mounting domestic and international problems, even asking if voters were pining for the days of his administration."
+    publishedDateTime: 2021-08-13T16:31:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/aug/13/miss-me-yet-trump-mocks-biden-democrats-over-mount/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/13/miss-me-yet-trump-mocks-biden-democrats-over-mount/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/13/miss-me-yet-trump-mocks-biden-democrats-over-mount/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 83
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/30/Trump_Justice_Department_56084.jpg-e702c_c0-0-3600-2100_s1200x700.jpg?bd461f07e95b0f5f36779822774ec445b04d6d07"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "President Biden’s complicated new task: keeping Democrats together"
     excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
     publishedDateTime: 2021-08-12T11:44:00Z
@@ -125,6 +141,22 @@ related:
       - url: "https://media.firstcoastnews.com/assets/CCT/images/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "9 Moderate Democrats Threaten to Tank Entire Biden Presidency"
+    excerpt: "Joe Biden’s success to date has owed itself to many factors, the largest of which is the willingness of congressional Democrats to compromise with each other. The narrow margins of the party’s majority means almost any member in either chamber can blow up any bill,"
+    publishedDateTime: 2021-08-13T17:56:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/08/9-moderate-democrats-threaten-to-tank-biden-presidency.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/08/9-moderate-democrats-threaten-to-tank-biden-presidency.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/9-moderate-democrats-threaten-to-tank-biden-presidency.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/ed0/84d/1dffee3bd6c0cf25bac53418bda85f90ba-moderate-democrats-biden-national-intere.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
   - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
     excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
@@ -173,6 +205,22 @@ related:
       - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/Pierside-Vaccinations.jpg"
         width: 960
         height: 640
+        isCached: true
+  - title: "A third of Native Americans aren’t registered to vote. Can President Biden change that?"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T17:18:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article253429449.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
     excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
@@ -321,6 +369,20 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 55
+  - title: "Was Donald Trump Reinstated as President Today?"
+    excerpt: "Mike Lindell and his legion of MAGA diehards are waiting for the former president to take back the White House. There's still time!"
+    publishedDateTime: 2021-08-13T16:55:00Z
+    webUrl: "https://newrepublic.com/article/163272/trump-resinstated-president-maga-qanon-mike-lindell"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 55
+    images:
+      - url: "https://images.newrepublic.com/6a48af4fc22862edb36978efa4bd6cd5eaa2f4c8.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
+        isCached: true
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
     publishedDateTime: 2021-08-08T23:39:00Z

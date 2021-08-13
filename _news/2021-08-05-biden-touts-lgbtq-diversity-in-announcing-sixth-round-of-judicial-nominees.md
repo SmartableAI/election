@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's new eviction moratorium can remain in place for now, judge rules"
+    excerpt: "A federal judge in Washington, DC, on Friday allowed the Biden administration's revised eviction moratorium to remain in place, but acknowledged the moratorium faces an uncertain legal future.\n    \n"
+    publishedDateTime: 2021-08-13T17:48:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SSmYWWXTEIw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/13/politics/eviction-moratorium/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/eviction-moratorium/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210813101756-eviction-protest-nyc-0811-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democratic organizations prepare to defend the Biden agenda during August recess "
     excerpt: "A range of Democratic committees and organizations are gearing up to defend President Joe Biden's agenda with what they hope will be a cohesive message during Congress' August recess, a sign of how critical Biden's popularity is to the party's success in 2022 and beyond.\n    \n"
     publishedDateTime: 2021-08-11T15:34:21Z

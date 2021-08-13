@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-01-trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.md",
+      "title": "Trump’s fundraising prowess: $82 million haul during first half of 2021",
+      "excerpt": "Former President Trump’s various political committees brought in a combined $82 million in fundraising during the first six months of 2021.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhQUibOGiSQ/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhQUibOGiSQ/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
+      "publishedDateTime": "2021-08-01T07:29:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
       "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
       "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
@@ -1556,62 +1612,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way.amp",
       "publishedDateTime": "2021-07-25T08:43:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-trump-slams-critical-race-theory-as-flagrant-racism-that-has-no-place-in-our-country.md",
-      "title": "Trump slams Critical Race Theory as ‘flagrant racism’ that has ‘no place’ in our country",
-      "excerpt": "Former President Donald Trump warned critical race theory is \"flagrant racism\" being forced into \"every facet of our society\" during a speech to conservatives Saturday in Phoenix.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CCwu0ns-j5s/trump-slams-critical-race-theory-as-flagrant-racism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CCwu0ns-j5s/trump-slams-critical-race-theory-as-flagrant-racism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/019b67a6-b2f0-4873-a7b9-c958122fb58b/a1187a2e-908b-4e45-8484-71e762ec0800/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
-      "publishedDateTime": "2021-07-25T07:12:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

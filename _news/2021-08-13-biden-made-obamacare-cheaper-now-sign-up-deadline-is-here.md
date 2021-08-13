@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Biden made 'Obamacare' cheaper, now sign-up deadline is here"
-excerpt: "Midnight on Sunday is the deadline for consumers to take advantage of a special “Obamacare” sign up period, courtesy of President Joe Biden"
-publishedDateTime: 2021-08-13T14:44:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-made-obamacare-cheaper-now-sign-deadline-79440858"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-made-obamacare-cheaper-now-sign-deadline-79440858"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-made-obamacare-cheaper-now-sign-deadline-79440858"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-made-obamacare-cheaper-now-sign-deadline-79440858"
+title: "Biden made ‘Obamacare’ cheaper, now sign-up deadline is here"
+excerpt: "With the Obama health care law undergoing a revival under President Joe Biden, this Sunday is the deadline for consumers to take advantage of a special sign-up period for private coverage made more affordable by his COVID-19 relief law."
+publishedDateTime: 2021-08-13T16:37:00Z
+originalUrl: "https://apnews.com/article/joe-biden-business-health-coronavirus-pandemic-a013d8f36086b28731d5e09844f81558"
+webUrl: "https://apnews.com/article/joe-biden-business-health-coronavirus-pandemic-a013d8f36086b28731d5e09844f81558"
 type: article
-quality: 125
-heat: 185
-published: true
+quality: 105
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_c1352563b7554dba9d9e29939bc31c32_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/89b5cb4ba3564386ae62f8a0749ab694/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -63,23 +57,7 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Joe Biden’s own Delaware homies hit back hard at vaccine mandates"
-    excerpt: "Hundreds of Delaware medical professionals and their supporters are bucking a mandate from the state’s largest hospital that all employees get vaccinated against COVID-19 as a condition of employment."
-    publishedDateTime: 2021-08-10T15:23:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/08/04/biden_67143_c0-160-3844-2402_s1200x700.jpg?2e1baba47e212a77841cb42932b8eabe976cc3ff"
-        width: 1200
-        height: 700
-        isCached: true
 
-secured: "YfxpL+3y8RFc26W++9t/OGqJXidovc/FaNmjlxLV7Td/r3PYKeyFCf3yLLUFJ5msh0ZyKiH9Z6JK53MrxfUahjTKubexjvtPscqQRFtaf/J4XiIzsSbp/ruZkXrM6YkwzCA9oxUxdwssq5yWLGn8HQLSaTqosb02rHGlC1lKqZEbh7eqxpzAgARhIZLX9p8H0diiVh6ktxFwNvfSvdcChD+Cfw3apiwJbT7ilVlhu6pqXnei2n82BjTBKNLEuHfO9Ln7Ej/mDAyME0eRTQaQ6hDvdwtxt5P4II8u/B5TcZ3faa68uvvnuKPxh79fIb6MKydoEkwpEf4P+yeW0qE0sqQZqpP6Ebmn4li9yta1VSs=;1syWRAhp3NUY+QE4syBfzw=="
+secured: "8gUMmxYI0GXX7Hq0Iz4FI12j2fn9Zr+xXcD6OEkg3whGPVvdTZUnZtFxRAnsnylXy0okJm76yAyS7SW8xCtBYWwUZ1b35C7R61g8qmuacZmADR+UocUZgUSkYI3TKypA+LhLkjrxIIOlX+29j9gVpUuR/4tM3pUzk5Tp8ihhthiZpfSGQU8F7ivyxUKVCXgAizqFt0H3AYdnVwWre6G3XxEydFlUh/oAi91XtXEdpQBGFKG37qJ91sK6cbQD+MtEs1S47mrQP2XAQTonNlkitwHvC16zhpj67TtjU1uMW6dZxEt3lbRlPrbATgNnKo5mcNQE+sozSlEkqj1FnLs6XpLipBrMGONipjnJW1AcHV4=;KrZ6pDUCZ8CjGJAbjq1RZA=="
 ---
 
