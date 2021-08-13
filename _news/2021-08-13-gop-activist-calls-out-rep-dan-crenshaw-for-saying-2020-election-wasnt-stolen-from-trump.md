@@ -167,6 +167,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Judy Collins wants to have Donald Trump on her podcast. Here's why"
+    excerpt: "Judy Collins is back on tour, along with fellow singer/songwriter and guitarist Richard Thompson, with Jesse Collin Young, at Tanglewood on Aug. 22."
+    publishedDateTime: 2021-08-13T09:30:00Z
+    webUrl: "https://www.metrowestdailynews.com/story/entertainment/music/2021/08/13/judy-collins-tanglewood-jesse-collin-young-richard-thompson-aug-22/8116696002/"
+    ampWebUrl: "https://amp.metrowestdailynews.com/amp/8116696002"
+    cdnAmpWebUrl: "https://amp-metrowestdailynews-com.cdn.ampproject.org/c/s/amp.metrowestdailynews.com/amp/8116696002"
+    type: article
+    provider:
+      name: The MetroWest Daily News
+      domain: metrowestdailynews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/12/NMWD/a0b7d36f-f202-484a-a9a3-1b50399ec91c-Judy_Collins_Photo_by_Brad_Trent.jpg?auto=webp&crop=1872,1053,x0,y720&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former President Donald Trump to hold rally in Cullman. What to know before you go"
     excerpt: "Former President Donald Trump is scheduled to speak at a \"Save America\" rally in Cullman, Alabama, on Aug. 21, 2021."
     publishedDateTime: 2021-08-05T11:01:00Z

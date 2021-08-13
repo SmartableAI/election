@@ -321,6 +321,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden eyes tougher vaccine rules without provoking backlash"
+    excerpt: "The White House is weighing options to be more assertive at the state and local level, including potential support for school districts imposing rules to prevent spread of the virus"
+    publishedDateTime: 2021-08-13T12:45:00Z
+    webUrl: "https://www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html"
+    ampWebUrl: "https://www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3HKH62Y33FFXLKJXL3SO2TJ4TU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
     excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
     publishedDateTime: 2021-08-09T09:31:00Z
@@ -390,17 +406,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Biden Eyes Tougher Vaccine Rules Without Provoking Backlash"
-    excerpt: "Even as President Joe Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
-    publishedDateTime: 2021-08-13T04:16:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Joe Biden eyes tougher vaccine rules without provoking backlash"
     excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that’s what it took to get shots in arms. But as new coronavirus infections soar,"
     publishedDateTime: 2021-08-12T20:45:00Z

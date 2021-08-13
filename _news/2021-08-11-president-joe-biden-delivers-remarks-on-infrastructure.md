@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on Infrastructure"
 excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
 publishedDateTime: 2021-08-10T21:00:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b952c0881bab8dd7ec71e25362e3441a/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b952c0881bab8dd7ec71e25362e3441a/WHITE-HOUSEINFRASTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -102,6 +102,20 @@ related:
       - url: "https://www.reuters.com/resizer/UOUOEUYW-9C0qKO0w1QqQEP-A6w=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O5BYTKEK2FMHPH3GSJ3XOCH7FI.jpg"
         width: 800
         height: 419
+        isCached: true
+  - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
+    excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
+    publishedDateTime: 2021-08-13T08:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/08/13/dan-crenshaw-heckled-bobby-piton/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
@@ -196,6 +210,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "One-third of Native Americans aren’t registered to vote. Can President Biden change that?"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253429449.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 66
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
@@ -342,6 +372,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ljkKeVpaORcBXg9sm2alPzCszzkQ6B5Gfx58hTouqJWyJM0BrFqf7WT8iq/7i6jVhAH6nV+/WExDa3eJx7PPPdIv1nkfNGb5fPx1uusbvQ53q3C20OHz+3aqrQP593ZNTWbxzl2L/Fq5INXZlquLZ51RZ0AhnQTcChWOvLNQBc54vrToasx1QcmUTDyYXEuOtdQilQl4Ogp6MjbdBgH3oGZLnvXINcvMeyc6pzhyAQkkb8d9RrfGzx8WbDiBD5pUzKBjfbqHeZHntJjYa7+0R17ZNelstTlaBzkXqcUfMhWaUZfcl3X1xS+yWWlelEuECHeHKDe0TTAS932UoYhI5Uxht3YgBg1qzalsGt5QYIEFexzP1hH427husvfDJAZrnwwJChyBM21A1SQVgODX7eowPTgsHf6MFG++/SwxC4gUSEa1l68VK4aLke6FImpCSo5Y65DlXKuFI361E6zUim4cAeSRMlrxx5BgEJEt6FQU9Uwzu3eRfpL1bJSIjNfawCOcZ0r2hZHIyWPO0S5VFw==;rSf9390scUanFxxDAdxKVA=="
+secured: "3D13WRyJnpmhBzqY3y4RGgwZ8ckn0Vh8ALixqkadHh3JZz5pLTFb4F1cPyM4U9PrtEb3gmPwe+5DuwUUoMau1Lv3uE0PVzb/kSeYESn9lofWBVRdSUU38d0N/SHpyuL3ExNRSta1AoQb+LEvVItc/w+TsI/u+ooZrwQptjTIBe973kuNsfvsLLivior4SaoR2xIo/Yss2cT1O8amg3WIVIdupiPfPmNEMLAN1Zq7n5HizObPZuewAd2PLrhwibWyTcdGOMaACa7hc2/vLla0DiFp4/vhaQ9uUvd7X93DqkBr33B7s8D6JfZzgWIvQ01CVA4X+lw3lMVFpmG45nSdAZ3LWWvogXNCMZnu9l4lHWs=;o5E20vm+1T+ZTeQBBHpp/A=="
 ---
 

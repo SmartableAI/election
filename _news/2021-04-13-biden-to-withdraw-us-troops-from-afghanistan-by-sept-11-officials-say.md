@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden’s credibility has been shredded in Afghanistan"
+    excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
+    publishedDateTime: 2021-08-13T11:03:00Z
+    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59ee2303-20bc-436e-af84-5c0b95f486a1.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Biden to withdraw all US forces from Afghanistan by 9/11: Defense official"
     excerpt: "On Location: April 13, 2021 A U.S. defense official confirmed to ABC News Tuesday that President Joe Biden will withdraw all U.S. forces from Afghanistan by Sept. 11, the 20th anniversary of ..."
     publishedDateTime: 2021-04-13T16:38:00Z

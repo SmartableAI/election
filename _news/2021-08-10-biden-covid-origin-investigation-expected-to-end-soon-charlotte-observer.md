@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article253365748.
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html"
 type: article
 quality: 73
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Joe Biden looks to boost Native American voter turnout | Charlotte Observer"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article253429449.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "DGuOhernm913/q6AtYzdliAtWRiyekFQ/CvkJRHw/Q/TW6HQXqZFpkE3nRzlyW0r3iXf6igwL2+rpAGmJR4KMGtrJ2yNMwBjmr302bSt88lBwqPDymbU36RzUoOKUHWhCxvNxV+aHlvaqRCjNoGdNbInmBdILBaeBshcGKnIz9HLTTK2CFvf8qlR1fcae9ZG5keqS/KGN35XHPTXNXETOepq+RrgoPxbACOLn21WPHotej5nAPT3B+42uxG412ZiSw2amdsFceiwqebm4+3Zjw2pK9Kf0FD87hekUwDP1qM8nFZFfPqTEfvAKWpnt+taCXwB1yCZu587BNhiFYpc+bYonYoYRiw7S/EqkFuPbRY=;Oi9iA+MptJQ1roijcxFCyw=="
 ---

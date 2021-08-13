@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -222,6 +222,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3497973/210810-construction-capitol-jm-0934.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Joe Biden’s ‘fall of Saigon’"
+    excerpt: "The situation in Afghanistan is getting uglier with each day in the run-up to the U.S. withdrawal — and so is the political fallout for President JOE BIDEN. The coverage overnight was absolutely brutal: “The Taliban captured another three provincial capitals in southern Afghanistan on Friday,"
+    publishedDateTime: 2021-08-13T10:20:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/08/13/joe-bidens-fall-of-saigon-493964"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b5/04/1f54c49c4bc28ad9fd2dcd972933/210813-biden-getty-1160.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Gq4jNcuq/UoGxI+e9pxBg0A/u+1im0xPXRMvxBWT4rS3lcOgCvi4DOyPHTSZQrR/tYvRQWxNBcU2dVz2fyELFjkiS3S7+DPKuFpk1tuWCh3DAjPLhH8MnCJdpWNufzOgp1T93ZpAhwrq5ScmD6lUm3hV4j09Glg7DRtUg2gVji3QDZP5slzWwxanSI3r54x5/04LVv80o5EnusNbv2uf5IKKqlwqqiahVXfIkTe1HQ/tkiHReH9dfyjDcHMvAg26cBLvbycCmHoAab1jLjeSMOX9KvHZRkH+c+ligRPPpE6DK+BDGUw1F6++cH6DQI5ud7ZL1bl7k4mgSanMdIvc/+6BZ5yF6c33z0kYfAhkoDE=;NF2YdLu349Gh6rNfpq4i7Q=="

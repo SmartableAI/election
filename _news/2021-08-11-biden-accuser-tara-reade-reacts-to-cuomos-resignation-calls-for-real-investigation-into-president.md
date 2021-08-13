@@ -80,6 +80,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden Admits Green New Deal Is a Dream"
+    excerpt: "\"What the IPCC told us is what President Biden has believed all along,\" White House press secretary Jen Psaki noted on Tuesday. \"Climate change is an urgent threat that requires bold action.\" The very next day,"
+    publishedDateTime: 2021-08-13T11:28:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/08/13/biden_admits_green_new_deal_is_a_dream_146243.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/550662_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "It's Up to Democrats to Stop Biden's Radical Agenda"
     excerpt: "Senate Democrats released a 92-page outline of President Joe Biden's agenda Monday morning. It is nothing short of a blueprint for a far-left, radical remaking of the United States."
     publishedDateTime: 2021-08-10T11:58:00Z

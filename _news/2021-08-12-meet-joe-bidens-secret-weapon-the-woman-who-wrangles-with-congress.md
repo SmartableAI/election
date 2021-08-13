@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-wea
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/d20/eac/39b3bfb35ff2c0d192dbf652b09eab40f1-tucker-carlson.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The US secretary of energy explains why Biden won't mandate a switch to electric cars — even though some experts say that's what's needed"
+    excerpt: "The US Secretary of Energy says Biden won't enforce the kind of EV mandate that some experts recommend."
+    publishedDateTime: 2021-08-13T09:14:00Z
+    webUrl: "https://www.businessinsider.com/biden-wont-mandate-evs-some-experts-say-he-should-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/61154c5f3dd01000199d5ff3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fresno Mayor Jerry Dyer will meet Wednesday with Joe Biden. Here’s what they’ll discuss"
     excerpt: "Fresno Mayor Jerry Dyer will meet virtually with President Joe Biden and other leaders nationwide on Wednesday to discuss bipartisan infrastructure investment, White House officials confirmed. The meeting comes one day after Senate Democrats and Republicans came together to approve a $1 trillion infrastructure bill."

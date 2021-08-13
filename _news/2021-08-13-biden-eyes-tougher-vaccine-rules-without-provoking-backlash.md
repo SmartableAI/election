@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Biden Eyes Tougher Vaccine Rules Without Provoking Backlash"
-excerpt: "Even as President Joe Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
-publishedDateTime: 2021-08-13T04:16:00Z
-originalUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
-webUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
-ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-08-13/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?context=amp"
+title: "Biden eyes tougher vaccine rules without provoking backlash"
+excerpt: "The White House is weighing options to be more assertive at the state and local level, including potential support for school districts imposing rules to prevent spread of the virus"
+publishedDateTime: 2021-08-13T12:45:00Z
+originalUrl: "https://www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html"
+webUrl: "https://www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html"
+ampWebUrl: "https://www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html?outputType=amp"
+cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html?outputType=amp"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cleveland.com
+  domain: cleveland.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3HKH62Y33FFXLKJXL3SO2TJ4TU.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Joe Biden to tout strong July jobs numbers – US politics live"
@@ -493,6 +495,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "yT4z9nFC8klgf00NS6ryCbfIxpE1aXMdkeRSdisfgcr4YGlr2E9ue+Bk7/sGEtM9aMC1a0Rp70vGs2+IkPcgOEI38nk3EHbdMY6yhqfw4T714oZ51V35+1ZxaIe2jDQ/qQJWECYWE5esJryMXVoJxUIYt4eQUdYfSFPy0N0DUtpZjsTT0V/RwixRrCSpfloyLPvEUdIb5reNiOg3pzO4IPYZN+0dxFr7RGZ99Km8uf4wXIWpsHA/Tj+sSfphMFqc1+E5X9wPJAfFqExXK3KJbOV5SOX0o29k7CVgLPJN3/o0LRbDDkRtaJgRBFmtzhdGP1vtWwjEveI3fEYG8EWMRGmjnqr07IKZQy3aAJV3I4Y6rYwCTvka6C+R4dx7rbnt9FpE37I5YjpOF5GHV9VSm3L5a3TQz233CsPPq1beF0/hA+EMDmOnF/PvWEfQD1XnBSd1Tl3oi1tKwKJytrt0yc6jMKC9S2kKFe4RFSYKSgiWfTosZIDczyC5HDlrqlxTITsbM4U2c/M2Q5zzrjRSPg==;Ml8gxP/MJi24nCsyMQ/xXA=="
+secured: "NJonNdMgC839dXvplp3yzxqdkNs1oqieFZL55ilFUVV4aj3pAFBrtxjRz2i2RsSnpo9yndbRhib4oSE1+Rm0fgFB3Bb4YWmAWXY9HXcxdhkKxSbV4t/XdS8RSkvITfHUUH5bmIYrU3pFHzGEBBEGZ+zz6hLCOdZqLERTGikJlRsU2catev6dl171HcfToA2OArYSdKMVkJoxbH3C4g3nFJNotzzdt+s5lYMTXPT3+fbfqVZNlEw3S/caNA+MKCCG/ckyWxAusdmF+fJkml/OlcLEAqd6B2yztWDKNqIPHxr/X0y+tn0swPqMk9fPJ9hMTAUnvuYKCdF80Jh2npBa/Y8R2qZAbsgj5NcmTfbImPc=;rJkemomdlOflMXQpZ0RYew=="
 ---
 

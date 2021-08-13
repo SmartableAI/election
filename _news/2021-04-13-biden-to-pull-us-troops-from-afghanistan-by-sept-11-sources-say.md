@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: 825
+heat: 845
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568307985&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6712B"
         width: 817
         height: 545
+        isCached: true
+  - title: "Joe Biden’s credibility has been shredded in Afghanistan"
+    excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
+    publishedDateTime: 2021-08-13T11:03:00Z
+    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59ee2303-20bc-436e-af84-5c0b95f486a1.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
 type: article
 quality: 180
-heat: 420
+heat: 440
 published: true
 
 provider:
@@ -211,6 +211,15 @@ related:
     excerpt: "Here's what Joe Biden should do if he is actually serious about handling the pandemic and not just playing politics. Read Full Article »"
     publishedDateTime: 2021-08-08T19:31:00Z
     webUrl: "https://www.realclearpolitics.com/2021/08/08/6_things_biden_could_do_about_covid_if_he_is_serious_548998.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "This Afghan Rout Is Entirely on Joe Biden"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-08-13T11:28:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/12/this_afghan_rout_is_entirely_on_joe_biden_549316.html"
     type: article
     provider:
       name: RealClearPolitics

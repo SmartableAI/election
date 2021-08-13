@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The US secretary of energy explains why Biden won't mandate a switch to electric cars — even though some experts say that's what's needed"
+    excerpt: "The US Secretary of Energy says Biden won't enforce the kind of EV mandate that some experts recommend."
+    publishedDateTime: 2021-08-13T09:14:00Z
+    webUrl: "https://www.businessinsider.com/biden-wont-mandate-evs-some-experts-say-he-should-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/61154c5f3dd01000199d5ff3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden’s agenda confronts tripwires everywhere in Congress; here’s the path ahead"
     excerpt: "The central pieces of President Joe Biden’s $4.1 trillion economic agenda are now moving through Congress on a precarious two-track path that’s further complicated by a September showdown over the debt ceiling."
     publishedDateTime: 2021-08-12T15:21:00Z

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-how-the-2020-census-explains-donald-trump.md",
+      "title": "How the 2020 census explains Donald Trump ",
+      "excerpt": "Donald Trump got it.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811193752-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
+      "publishedDateTime": "2021-08-13T04:42:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-bad-news-for-trump-adjacent-weirdos-delights-seth-meyers.md",
       "title": "Bad News for ‘Trump-Adjacent Weirdos’ Delights Seth Meyers",
       "excerpt": "Meyers enjoyed seeing Mike Lindell get word on camera that a defamation suit against him over his claims of election fraud would proceed.",
@@ -55,6 +111,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-pennsylvania-congressman-aided-trump-effort-to-flip-justice-department-on-big-lie.md",
+      "title": "Pennsylvania congressman aided Trump effort to flip Justice Department on Big Lie ",
+      "excerpt": "While other Republicans garnered more attention in attempting to convince the country that the 2020 election was stolen from former President Donald Trump, Rep. Scott Perry made the critical connection linking the then-president to Jeffrey Clark, a little-known Department of Justice official open to",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3LAdmCdFrU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3LAdmCdFrU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210812114115-rep-scott-perry-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/12/politics/scott-perry-justice-department-big-lie/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/scott-perry-justice-department-big-lie/index.html",
+      "publishedDateTime": "2021-08-12T16:44:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -127,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 365,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -167,63 +279,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-a-tabloid-ally-of-trump-and-weinstein-reboots-himself.md",
-      "title": "A Tabloid Ally of Trump and Weinstein Reboots Himself",
-      "excerpt": "Dylan Howard, known for the “catch and kill” deals during the #MeToo reckoning, teams up with an Italian publisher for a paper aimed at the Hamptons crowd.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/12/business/dylan-howard-hamptons.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/12/business/dylan-howard-hamptons.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/11/business/11DylanHoward-01/11DylanHoward-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/12/business/dylan-howard-hamptons.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/dylan-howard-hamptons.amp.html",
-      "publishedDateTime": "2021-08-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -353,7 +408,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 202,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -465,7 +520,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 254,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -482,62 +537,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html",
       "publishedDateTime": "2021-08-11T03:18:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-atlanta-us-attorney-who-quit-amid-trumps-attacks-to-speak-to-senate-judiciary-committee.md",
-      "title": "Atlanta US attorney who quit amid Trump's attacks to speak to Senate Judiciary Committee",
-      "excerpt": "The Senate Judiciary Committee on Wednesday will interview Byung \"BJay\" Pak, the former US attorney in Atlanta who departed abruptly from the role amid then-President Donald Trump's attacks on Georgia's election results.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4oD4Lwl5cY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4oD4Lwl5cY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190116174214-us-attorney-bjay-pak-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/pak-trump-georgia-election-testimony/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/pak-trump-georgia-election-testimony/index.html",
-      "publishedDateTime": "2021-08-11T02:02:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -678,80 +677,23 @@
       ]
     },
     {
-      "path": "_news/2021-08-10-reign-of-terror-brilliantly-traces-the-course-from-911-to-president-trump.md",
-      "title": "‘Reign of Terror’ Brilliantly Traces the Course From 9/11 to President Trump",
-      "excerpt": "Spencer Ackerman’s narrative of the last 20 years offers a discerning argument about the American response to 9/11 and the effect it had on the country’s politics.",
+      "path": "_news/2021-08-08-trumps-acting-attorney-general-revealed-frightening-activity-at-justice-department-senate-judiciary-chair-says.md",
+      "title": "Trump's acting attorney general revealed 'frightening' activity at Justice Department, Senate Judiciary chair says",
+      "excerpt": "Senate Judiciary Chairman Dick Durbin said Sunday that former acting Attorney General Jeffrey Rosen revealed in testimony this weekend \"frightening\" information about what had occurred at the Justice Department during the waning days of the Trump administration.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/10/books/review-reign-of-terror-9-11-era-trump-spencer-ackerman.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/10/books/review-reign-of-terror-9-11-era-trump-spencer-ackerman.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rBizwHi6MIE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rBizwHi6MIE/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 132,
+      "heat": 153,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/08/11/books/11bookackerman1/11bookackerman1-facebookJumbo-v3.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/10/books/review-reign-of-terror-9-11-era-trump-spencer-ackerman.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/10/books/review-reign-of-terror-9-11-era-trump-spencer-ackerman.amp.html",
-      "publishedDateTime": "2021-08-10T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-interviews-with-former-doj-officials-provide-new-details-on-trump-efforts-to-undermine-election-results.md",
-      "title": "Interviews with former DOJ officials provide new details on Trump efforts to undermine election results ",
-      "excerpt": "Two top former Justice Department officials provided interviews to the Senate Judiciary Committee and provided detailed accounts of a tumultuous period in late December and early January during which a senior Justice Department lawyer sought to deploy the department's resources in support of false voting",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/II2thVfyS1U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/II2thVfyS1U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210805190917-jeffrey-clark-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210324110033-01-dick-durbin-0323-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -761,9 +703,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/07/politics/jeffrey-clark-richard-donoghue-jeffrey-rosen-justice-department-trump-election-results/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/jeffrey-clark-richard-donoghue-jeffrey-rosen-justice-department-trump-election-results/index.html",
-      "publishedDateTime": "2021-08-08T09:28:42-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/08/politics/dick-durbin-jeffrey-rosen-trump-doj-testimony-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/08/politics/dick-durbin-jeffrey-rosen-trump-doj-testimony-cnntv/index.html",
+      "publishedDateTime": "2021-08-08T09:32:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -847,62 +789,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-07-new-york-times-trump-2020-campaign-refunds-millions-to-donors-after-using-aggressive-fundraising-tactic.md",
-      "title": "New York Times: Trump 2020 campaign refunds millions to donors after using aggressive fundraising tactic ",
-      "excerpt": "Former President Donald Trump and the Republican Party have refunded nearly $13 million to donors in the first half of the year, after deploying fundraising tactics in the 2020 election that duped donors into giving more money than they intended or believed they were, The New York Times reported.\n  ",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D_q1oJ1baXM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D_q1oJ1baXM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210807131902-donald-trump-pennsylvania-09-22-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html",
-      "publishedDateTime": "2021-08-07T11:14:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-07-fact-checking-claim-biden-administration-is-pushing-vaccine-passport.md",
       "title": "Fact-checking claim Biden administration is pushing vaccine passport",
       "excerpt": "Amid confusion over mask mandates, booster shots, and new guidance for those vaccinated, some Republicans have thrown fuel on the fire with false and misleading claims.\n    \n",
@@ -915,7 +801,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1662,6 +1548,118 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
       "publishedDateTime": "2021-07-30T10:27:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-biden-says-western-wildfires-demand-urgent-action-in-meeting-with-governors.md",
+      "title": "Biden says Western wildfires demand 'urgent action' in meeting with governors ",
+      "excerpt": "President Joe Biden said Friday the wildfires intensifying in the West demand \"urgent action\" as he met with seven governors to discuss how states are responding to the wildfires and how the federal government can best assist.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_fkjRS_29g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_fkjRS_29g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210729155622-01-biden-0723-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governors/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-wildfires-governors/index.html",
+      "publishedDateTime": "2021-07-30T10:20:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-biden-to-accept-award-from-kosovo-on-behalf-of-his-son-beau.md",
+      "title": "Biden to accept award from Kosovo on behalf of his son Beau",
+      "excerpt": "President Joe Biden on Sunday will accept an award from the President of Kosovo on behalf of his son Beau Biden for his work helping to strengthen the war-torn country's justice system, according to a White House official.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iCiv3nbhU0M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iCiv3nbhU0M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210119173542-biden-dusa-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-kosovo-award-beau/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-kosovo-award-beau/index.html",
+      "publishedDateTime": "2021-07-30T09:30:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -216,6 +216,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "This Afghan Rout Is Entirely on Joe Biden"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-08-13T11:28:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/12/this_afghan_rout_is_entirely_on_joe_biden_549316.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "CzzeC0dYFJY7fSORt3dVD+sM3az9gheGZaMTX6iFIoyAj47aQswUYItBTloRXJzyZ7RV1UaSjZgUFw4//zQ0IVWS4rcR3XDRaczhaXIwtlO3drTCRepthvJKLyx8mLhUi3oqTlZ9N517QIBkUONZBH74YKWoRLdmfxjqHY8pbco7JhT1reBYx2cKfIux2Ss2MOhFfN5Gc1ulpMm1u+O4foSKW2cVU6xHENHSA3wi317+VAiAoabEgf8b5vbc0nJQS5OR4GHDcxVuoxzKWnDMSNNJkokkZaVfEOrP6MXPldVfF0J7zwZpXaRiTsrl33qeIINYHqOmJpngxDh+XHOx/eMPht7452ypmqtz5Mgstew=;SG3DJtD00jAwzI+9/pcDjQ=="
 ---

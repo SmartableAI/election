@@ -2,63 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-08-02-comedian-john-oliver-slams-bidens-inexcusable-lack-of-plan-to-save-afghan-translators-from-taliban.md",
-      "title": "Comedian John Oliver slams Biden's 'inexcusable' lack of plan to save Afghan translators from Taliban",
-      "excerpt": "Comedian John Oliver roasted President Joe Biden for an \"inexcusable\" lack of a plan to save Afghan translators who assisted the U.S. military and are currently trapped as the Taliban quickly gain ground there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
-      "originalUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74e56eda-375c-4101-a9f3-324be02bfe0e/34369108-f858-4525-a4f9-3556412e89f1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
-      "publishedDateTime": "2021-08-02T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-02-biden-ignores-pelosis-call-to-extend-eviction-ban-despite-kavanaugh-opinion.md",
       "title": "Biden ignores Pelosi's call to extend eviction ban despite Kavanaugh opinion",
       "excerpt": "President Biden and the White House as of Monday morning didn't respond to a statment from House Speaker Nancy Pelosi and her leadership team calling on the executive branch to extend the federal eviction moratorium.",
@@ -1326,6 +1269,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-how-ashli-babbitt-went-from-capitol-rioter-to-trump-embraced-martyr.md",
+      "title": "How Ashli Babbitt went from Capitol rioter to Trump-embraced ‘martyr’",
+      "excerpt": "Babbitt was shot and killed Jan. 6 by a police officer as she and hundreds of others stormed the Capitol in an effort to overturn to the 2020 presidential election. In the months since, Trump and his allies have waged a fevered campaign to rewrite the narrative of one of the darkest days in the nation's history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/dc-md-va/2021/07/30/ashli-babbitt-trump-capitol-martyr/",
+      "originalUrl": "https://www.washingtonpost.com/dc-md-va/2021/07/30/ashli-babbitt-trump-capitol-martyr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TEWBEAHOEQI6XANSTNYGDJMC3A.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

@@ -80,22 +80,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Judge rules Dominion case can proceed against Trump allies"
-    excerpt: "It is simply not the law that provably false statements cannot be actionable if made in the context of an election,” the judge wrote."
-    publishedDateTime: 2021-08-12T11:28:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/judge-rules-dominion-case-can-proceed-against-trump-allies-n1276632"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276632"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276632"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3498502/210812-dominion-election-mc-1200.JPG"
-        width: 2500
-        height: 1668
-        isCached: true
 
 secured: "mbv/RDkcqQHcu7Riz2hlbnOsyUd3wcLHjpeBWDze6j/SZWim07jT7r+Q/OE1bNlz4HbxZCQc93DI7sftQI1c1IaT7GiNMC9/oFITJrxwemvQ9fVu6nV0Dcoe1Z1u1gwsN/k8pzwk3QcdH1GMK/aPR3nQEPkycGpqozcCH55on2sMPxLi7GPJTqObdkRsPKTK6TblyA9v5iovLQwa4BfDz3H5hrA7rINOAr8IlYThAq6OKTIxduEtPw+Q2q6XYAEPu+Wouc87hf9H8x+RGt5eKFVVOUdpAJHGtqE2TOqBpgc1mEeeUZN9UHD7lEsZMs2ucOS6d+7r+lMVeX19pH+O9ibD4eG3MbDOfwcRlRX/g/Nt9E5+e8NPWPE6OG6EXi8Pxoic8YeV+yu4T9x4ugDHxj1yylZdt3VlkqEXJTATS5Uq2ueY/lnrRUKMdsyM3KSb3ykWYqFPJuidYerwUCSk/QQs/NqtsywnVBvRp/02eFdiQq+PNJjvmea1dek/aQXplccM5hE085yHP8w3m8v/5g==;qx8fwilhB3qrtlxxjnqK1A=="
 ---

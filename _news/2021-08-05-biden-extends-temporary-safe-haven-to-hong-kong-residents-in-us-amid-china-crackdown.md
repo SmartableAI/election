@@ -223,6 +223,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden’s ‘fall of Saigon’"
+    excerpt: "The situation in Afghanistan is getting uglier with each day in the run-up to the U.S. withdrawal — and so is the political fallout for President JOE BIDEN. The coverage overnight was absolutely brutal: “The Taliban captured another three provincial capitals in southern Afghanistan on Friday,"
+    publishedDateTime: 2021-08-13T10:20:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/08/13/joe-bidens-fall-of-saigon-493964"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b5/04/1f54c49c4bc28ad9fd2dcd972933/210813-biden-getty-1160.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "pY9e5j1Id7+udtsg0emOCQ9bCRKbOoE+NbSX/aoXvyJPeQ18Fr1dXbjetDgPy2l+xXKuu+r4QPuaATPX79J3HshunX50hiUvR7tcJcJxAer1qq/gCD46oIteHOzHB1uKonZpOWJKp1h3V8CvdCQBTOoGwy333vYBDXOyeqG/LG/zVDWRJxpG8RXVsLmq4kAJjDXEMDGABscprDSJ+2kPqFPENpqJEa473FgKkpgAuv+sauc14Y1jGonxDX4hbUc9j+ONFaOvis/2Ko6cPC0f+TmNd4Vqz1TMC1c9r0UVWaWX4yP9uQH8fPrCvVy9pWtM+ah0hE3mALjwNHEup/G1tBEaDf7HcxbOsE7H6XVmTew=;EPmYvsYBxYZkxtAKxOGaew=="
 ---

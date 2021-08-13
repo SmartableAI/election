@@ -2,106 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-06-18-trump-nominated-judge-to-hear-us-fight-to-stop-aons-purchase-of-willis-towers.md",
-      "title": "Trump-nominated judge to hear U.S. fight to stop Aon’s purchase of Willis Towers",
-      "excerpt": "U.S. District Judge Carl Nichols, who joined the court in 2019, will hear the Justice Department's lawsuit aimed at stopping insurance broker Aon's (AON.N) $30 billion acquisition of Willis Towers Watson (WTY.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/litigation/trump-nominated-judge-hear-us-fight-stop-aons-purchase-willis-towers-2021-06-17/",
-      "originalUrl": "https://www.reuters.com/legal/litigation/trump-nominated-judge-hear-us-fight-stop-aons-purchase-willis-towers-2021-06-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-axios-mocked-for-blaming-worker-burnout-on-capitol-riot-fallout-from-the-trump-presidency.md",
-      "title": "Axios mocked for blaming worker burnout on Capitol riot, 'fallout from the Trump presidency'",
-      "excerpt": "Many Americans have declined to return to work following coronavirus shutdowns and enhanced unemployment benefits, but Axios feels the labor shortage is largely former President Donald Trump’s fault.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump",
-      "originalUrl": "https://www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/axios-mocked-worker-burnout-capitol-riot-trump.amp",
-      "publishedDateTime": "2021-06-17T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-17-lara-trump-rips-biden-for-only-taking-questions-from-pre-approved-reporters-are-you-kidding-me.md",
       "title": "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'",
       "excerpt": "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva.",
@@ -1536,6 +1436,110 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat.md",
+      "title": "Biden revokes Trump executive orders targeting TikTok and WeChat",
+      "excerpt": "President Biden has revoked former President Trump’s executive orders that sought to ban downloads of the Chinese-owned apps TikTok and WeChat in the U.S., according to a fact sheet released by the White House Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
+      "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/tiktok_082619istock.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
+      "publishedDateTime": "2021-06-09T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-hud-to-reinstate-obama-era-fair-housing-rule-gutted-under-trump-minus-the-burdensome-reporting-requirement.md",
+      "title": "HUD to reinstate Obama-era fair housing rule gutted under Trump — minus the ‘burdensome’ reporting requirement",
+      "excerpt": "Biden's housing department is restoring the requirement that communities take steps to reduce racial segregation or risk losing federal funds. But missing from the requirement is the 2015 mandate that communities undergo an extensive analysis of local barriers to integration and submit plans to dismantle them to the Department of Housing and Urban Development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
+      "originalUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7ZU6FWDNYI6XCNEW6XCFKQZHY.jpg&w=1440",
+          "width": 1440,
+          "height": 956,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
+      "publishedDateTime": "2021-06-09T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

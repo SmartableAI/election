@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html"
 type: article
 quality: 185
-heat: 365
+heat: 405
 published: true
 
 provider:
@@ -124,6 +124,38 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152029-05-biden-harris-remarks-0810-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Afghanistan's quick unraveling jolts national security officials, threatens to stain Biden legacy"
+    excerpt: "The security situation in Afghanistan has deteriorated faster than President Joe Biden and his most senior national security officials had anticipated, leaving the White House rushing to stave off the worst effects of a Taliban takeover.\n    \n"
+    publishedDateTime: 2021-08-13T10:00:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e5wA1jnIhsU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/13/politics/biden-legacy-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/biden-legacy-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812072501-us-military-afghanistan-biden-0502-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How two long-term Biden aides led efforts to court Republicans ahead of the Senate infrastructure deal"
+    excerpt: "In touting the $1.2 trillion infrastructure bill hours after it passed the Senate with 19 Republican votes on Tuesday, President Joe Biden took a moment to needle his critics.\n    \n"
+    publishedDateTime: 2021-08-13T10:00:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RUMvbYA0CC8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/13/politics/biden-aides-court-republicans-infrastructure-deal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/biden-aides-court-republicans-infrastructure-deal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811152502-07-wh-infrastructure-ricchetti-terrell-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

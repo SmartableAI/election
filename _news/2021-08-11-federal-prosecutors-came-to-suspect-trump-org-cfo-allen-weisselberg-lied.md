@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html"
 type: article
 quality: 174
-heat: 254
+heat: 234
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/12/nyregion/12weisselberg/12weisselberg-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Judge rules Dominion case can proceed against Trump allies"
-    excerpt: "It is simply not the law that provably false statements cannot be actionable if made in the context of an election,” the judge wrote."
-    publishedDateTime: 2021-08-12T11:28:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/judge-rules-dominion-case-can-proceed-against-trump-allies-n1276632"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1276632"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1276632"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_32/3498502/210812-dominion-election-mc-1200.JPG"
-        width: 2500
-        height: 1668
         isCached: true
   - title: "Indicted Trump Organization executive Allen Weisselberg removed from top roles at subsidiaries"
     excerpt: "Weisselberg was quietly removed from leadership posts at over two dozen Trump Organization subsidiaries in Florida."
