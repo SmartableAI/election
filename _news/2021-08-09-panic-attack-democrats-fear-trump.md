@@ -73,20 +73,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump's latest con victims are his own political donors"
-    excerpt: "In what should qualify as the least surprising story of the year, it turns out former President Donald Trump is lying to his own political donors about what he’s using their money for. The ex-president has raised tens of millions of dollars toward the stated goals of challenging the last election and helping Republicans win in the coming midterms."
-    publishedDateTime: 2021-08-11T21:10:00Z
-    webUrl: "https://www.theday.com/article/20210811/OP01/210819872"
-    type: article
-    provider:
-      name: The Day
-      domain: theday.com
-    quality: 55
-    images:
-      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
-        width: 360
-        height: 360
-        isCached: true
   - title: "Andrew Cuomo, Donald Trump: How are their sexual harassment accusations different?"
     excerpt: "\"In the end, neither of these men are fit to hold public office, now or in the future. One has done the right thing. The other? Not so much,\" Ethan Strimling writes."
     publishedDateTime: 2021-08-12T05:00:00Z

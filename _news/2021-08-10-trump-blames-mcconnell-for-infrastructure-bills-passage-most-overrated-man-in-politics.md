@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
+    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
+    publishedDateTime: 2021-08-11T18:01:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5468863001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
     excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."
     publishedDateTime: 2021-08-08T23:12:00Z
@@ -129,24 +145,6 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 45
-  - title: "President Biden Meets With Governors and Mayors on Infrastructure"
-    excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"
-    publishedDateTime: 2021-08-11T17:15:00Z
-    webUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
-    excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
-    publishedDateTime: 2021-08-10T11:29:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 13
 
 secured: "+/vAfYu2DyBSAxdS5kwSCn0Kjrtzg0Iq0wQXgfX7LBc3g1nr3b1y6lkVZ5oeR21+qog2w83WCRKDS9dPy/eJIdrhb0pQnlChchS5bIyOzEr3SWlnInV6TNvVSuqgN56XPKmIxbxiNSwhtUy+LQIrz81lxiULmpO9x6EyG/U0fDGiKuLCZZyGjT/+74sGzLuMAlRLz+RzCt2lEm8OoHv98Cw7hsENc+DDdJbKVYv25iBaBGXL8s4HUWS8NUqb3G13O2PGDojmCpHSbhanKKYk5l7cPYAShBURpoQdrjFLkM90+Pe3W84F65kgUy6dVE0bpXXMlChtufEIxAfkEoTnulsENM3Gy4YbYhmGQ06uqMnCZHXftH/Vt6Nw0uzhxUIdcx21ayhnPub33dty6TfUd3eggbntBP1UXhurAufqZglCjImmgfM4fcp0NTww+dQUdI3eKEmJmAkvY5heUbXutbppM16/i//aIWS1JdGxHr+KyCcQap0iJvi/+4WMFKugNGQVSBFLXoVGw4fv0N9PiQ==;YHucIRgVDQYBBXgqPzetnQ=="
 ---

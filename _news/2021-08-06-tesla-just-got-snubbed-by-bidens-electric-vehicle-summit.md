@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden eyes tougher vaccine rules without provoking backlash"
+    excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that's what it took to get shots in arms."
+    publishedDateTime: 2021-08-13T14:44:00Z
+    webUrl: "https://apnews.com/caae4c9b16be16c4ad43500fb240b801"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/1699084b91154d16909a59708b7c9b48/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Joe Biden: half of new vehicles sold in US to be electric by 2030 – video"
     excerpt: "Joe Biden says half of new vehicles sold in US to be electric by 2030"
     publishedDateTime: 2021-08-05T20:58:00Z
@@ -241,22 +255,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Biden’s complicated new task: keeping Democrats together"
-    excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
-    publishedDateTime: 2021-08-12T11:44:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2PFTKOXIRAA7LGGHI6QX7C3WQ.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Senate Confirms First Biden Ambassador Amid Showdown"
     excerpt: "The US Senate on Wednesday confirmed the first of President Joe Biden's ambassadors to foreign capitals, approving his pick for Mexico, an unusually long delay amid a showdown with a Republican critic."
     publishedDateTime: 2021-08-11T17:19:00Z
@@ -305,22 +303,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden eyes tougher vaccine rules without provoking backlash"
-    excerpt: "The White House is weighing options to be more assertive at the state and local level, including potential support for school districts imposing rules to prevent spread of the virus"
-    publishedDateTime: 2021-08-13T12:45:00Z
-    webUrl: "https://www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html"
-    ampWebUrl: "https://www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/08/biden-eyes-tougher-vaccine-rules-without-provoking-backlash.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3HKH62Y33FFXLKJXL3SO2TJ4TU.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Biden, other leaders weigh in on Aug. 12 on fourth anniversary"
     excerpt: "\"[Heather Heyer's] life and activism are reminders that while we have never fully lived up to the promise of America, we have never fully walked away from it either.\""
     publishedDateTime: 2021-08-13T00:23:00Z
@@ -337,6 +319,22 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "Biden’s eviction moratorium defies the rule of law"
+    excerpt: "As Biden’s casual disregard for the law shows once again, an independent judiciary is a crucial check on that impulse."
+    publishedDateTime: 2021-08-12T17:25:00Z
+    webUrl: "https://www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/"
+    ampWebUrl: "https://www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 75
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/OCR-L-CDCMASK-0514-02.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "9/11 families want Biden to stay out of Pa., NY memorial events | Today in Pa."
     excerpt: "Biden out of memorials unless Saudi promise is fulfilled. Unvaccinated prisoners to be housed together. This week’s weather looking hot. App launches to help Philly “trash epidemic.”"
     publishedDateTime: 2021-08-09T09:31:00Z
@@ -352,6 +350,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VFEV2NBMTBHOHB4I5YZI433DC4.jpg"
         width: 5000
         height: 3000
+        isCached: true
+  - title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
+    excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
+    publishedDateTime: 2021-08-04T20:41:00Z
+    webUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Congress-Infrastructure-2.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Biden’s new evictions moratorium faces legality doubts"
     excerpt: "The Biden administration may have averted a flood of evictions and solved a political problem when it reinstated a temporary ban on evictions because of the pandemic. But Biden left his lawyers with legal arguments that might not stand"
@@ -494,6 +506,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Biden wants to create clean energy jobs. Here’s what they might look like"
+    excerpt: "It’s not a sure bet, and the transition away from fossil fuels could cause upheaval for some workers even as it produces new opportunity for others."
+    publishedDateTime: 2021-08-13T15:23:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2021/08/13/biden-wants-create-clean-energy-jobs-heres-what-they-might-look-like/8121807002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 34
 
 secured: "lwJ/b9u7i3QFEK98uGTEtcJMyohBKJxFQ0lqmku7tCmoO77W+xoJin4Gs26Aq2JU4DBw+A9lHZx/Y1q39/qG97GUqY71QIxzt3JrZD1mSLe8xjSD5+nA3dcXUqSlDM+xZ1WZy+9HSRK3XijPmD2d/0d2s0rip9VNkiQ5BcKvfiMUVf62MlG4Tw13RyITvmxxWtgzfXAnaoBQnz5IcfFpbxz/sTX8xUmR22AqP5v93kPbW01WPKPznJkmHntYfGAfokR6cssvxizv9rDxWxVM3zyW8X89L2KFXlnoMplUF180z413uNEEoKyrcaxhjO59fPCf843odnzMuz8U/UbDzlzcTNOyCmZRpcaPkPnwDyY=;SA+YGZ3YtDHJ0LXQICxhBA=="
 ---

@@ -27,96 +27,115 @@ images:
     isCached: true
 
 related:
-  - title: "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?"
-    excerpt: "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold."
-    publishedDateTime: 2021-08-03T04:00:00Z
-    webUrl: "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
-    ampWebUrl: "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
+  - title: "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden"
+    excerpt: "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it."
+    publishedDateTime: 2021-08-13T14:49:00Z
+    webUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152"
+    ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F212df0d0-e94b-11eb-8b52-d9a1d750df18-standard.png?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 357
+      - url: "https://d.newsweek.com/en/full/1870140/donald-trump-reinstatement-day-president-mike-lindell.jpg"
+        width: 2500
+        height: 1665
         isCached: true
-  - title: "Why Joe Biden is such an elusive target for his critics"
-    excerpt: "First, whatever Joe Biden’s line on abortion, neither his pastor nor the Holy See support his exclusion. Second, and here the clergy will have to forgive a dip into earthly politics, they only served to highlight the president’s stalwart churchgoing."
-    publishedDateTime: 2021-08-03T12:23:00Z
-    webUrl: "https://www.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
-    ampWebUrl: "https://amp.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb70378cc-f219-44fb-a451-8db757e7160f.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live"
-    excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
-    publishedDateTime: 2021-07-29T21:56:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+  - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
+    excerpt: "The president appeals to the ‘civil religion’ of Washington and Kennedy. His opponents use weasel words and seek to limit democracy. The stakes could not be higher"
+    publishedDateTime: 2021-08-08T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 92
-  - title: "US Economy: Joe Biden Unveils New 'Buy American' Proposal"
-    excerpt: "President Biden unveiled his new 'Buy American' proposal to ensure goods manufactured in the United States were at least 60% made in America."
-    publishedDateTime: 2021-07-28T22:49:00Z
-    webUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836"
-    ampWebUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
+    quality: 135
+    images:
+      - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
+    excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
+    publishedDateTime: 2021-08-12T23:29:00Z
+    webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
+    ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
+        width: 3431
+        height: 2282
+        isCached: true
+  - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
+    excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
+    publishedDateTime: 2021-08-13T08:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/08/13/dan-crenshaw-heckled-bobby-piton/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
+    publishedDateTime: 2021-08-09T15:38:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/09/trump-told-cali-rake-leaves-whats-bidens-plan-wildfires/5538438001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5538438001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5538438001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "President Biden’s complicated new task: keeping Democrats together"
+    excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
+    publishedDateTime: 2021-08-12T11:44:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/28/us-president-joe-biden-announces-plans-to-strengthen.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2PFTKOXIRAA7LGGHI6QX7C3WQ.jpg"
         width: 1024
-        height: 654
+        height: 683
         isCached: true
-  - title: "GOP: Biden’s Policies Have Put Our Nation In Crisis"
-    excerpt: "We are a District made up of honest, hard-working, freedom-loving Americans who provide the fuel and fiber for this nation by hosting one of the most dynamic energy and agriculture sectors in the country."
-    publishedDateTime: 2021-08-03T13:00:00Z
-    webUrl: "https://www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html"
-    ampWebUrl: "https://www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html/amp"
-    cdnAmpWebUrl: "https://www-mymotherlode-com.cdn.ampproject.org/c/s/www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html/amp"
+  - title: "President Biden eyes tougher vaccine rules"
+    excerpt: "Even as Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
+    publishedDateTime: 2021-08-13T15:04:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
     type: article
     provider:
-      name: My MotherLode
-      domain: mymotherlode.com
+      name: First Coast News
+      domain: firstcoastnews.com
     quality: 75
     images:
-      - url: "https://www.mymotherlode.com/wp-content/uploads/2014/01/1013955-BID-radio_mic_american_flag.jpg"
-        width: 500
-        height: 344
-        isCached: true
-  - title: "Biden praises Olympians for inspiring Americans with courage"
-    excerpt: "President Joe Biden praised U.S. Olympians for navigating the difficulties of a coronavirus-tarnished games with “moral courage” that made Americans’ “hearts"
-    publishedDateTime: 2021-08-07T23:04:00Z
-    webUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/"
-    ampWebUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
-    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
-    type: article
-    provider:
-      name: TexomasHomepage.com
-      domain: texomashomepage.com
-    quality: 75
-    images:
-      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/08/b44b54581a0c49048a645e4cd20e36d1.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
     excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
@@ -134,64 +153,169 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
-    excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
-    publishedDateTime: 2021-08-05T21:34:00Z
-    webUrl: "https://www.sacbee.com/news/california/article253260458.html"
-    ampWebUrl: "https://amp.sacbee.com/news/california/article253260458.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article253260458.html"
+  - title: "Secretary of Defense, President Biden to Require COVID-19 Vaccine For Military"
+    excerpt: "U.S. Secretary of Defense Lloyd J. Austin III's announcement Monday that he is seeking approval from President Joe Biden to make the COVID-19 vaccine mandatory for all service members by Sept. 15."
+    publishedDateTime: 2021-08-09T19:05:00Z
+    webUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    ampWebUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 67
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 71
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/2bd4a008-4ddf-4ddd-9d09-3dd56470f28a/9dddc9e8-1ec8-4d37-a254-9021a763ce3b/1280x720/match/image.jpg"
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/Pierside-Vaccinations.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
+    excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
+    publishedDateTime: 2021-08-12T08:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/virginia-heffernan-biden-s-build-back-better-just-beat-trump-all-over-again/article_114e6da1-e563-555d-bdaa-88eb685f1b0a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 66
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "One-third of Native Americans aren’t registered to vote. Can President Biden change that?"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253429449.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 66
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden touts 'Buy American' to boost US businesses"
-    excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
-    publishedDateTime: 2021-07-28T21:45:00Z
-    webUrl: "https://www.freep.com/videos/news/nation/2021/07/28/biden-touts-buy-american-boost-us-businesses/5408639001/"
+  - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
+    publishedDateTime: 2021-08-09T16:26:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/09/trump-told-california-to-sweep-the-forest-floors-whats-bidens-plan-to-combat-wildfires/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Columbian
+      domain: columbian.com
+    quality: 60
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Senate votes to advance Biden’s $1T infrastructure bill"
+    excerpt: "Senators have convened for a second consecutive weekend session on the bipartisan infrastructure bill as they edge toward a vote."
+    publishedDateTime: 2021-08-08T14:24:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article253331388.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article253331388.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253331388.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 55
+  - title: "Democrats applaud Biden’s unconstitutional act"
+    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden’s CDC to extend an eviction moratorium sure to be"
+    publishedDateTime: 2021-08-09T13:32:00Z
+    webUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
+    type: article
+    provider:
+      name: Williamsport Sun-Gazette
+      domain: sungazette.com
     quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b8872a3d-8c49-4786-9a9e-6a13b0d00e90_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.sungazette.com/images/2016/10/17135124/fblike1.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "US President Joe Biden meets Latino community leaders"
-    excerpt: "US President Joe Biden meets with Latino community leaders to discuss his economic agenda, immigration reform and the need to protect the right to vote in the State Dining Room of the White House in Washington,"
-    publishedDateTime: 2021-08-03T18:17:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9daa8c8e52c6061fd4c202bc0d671d07/US-President-Joe-Biden-meets-Latino-community-leaders/"
+  - title: "Biden Welcomes Fresh Review of Sept. 11 Attack Documents"
+    excerpt: "U.S. President Joe Biden said he welcomed a Justice Department filing on Monday committing to a fresh review of documents related to the Sept. 11, 2001, attacks on the United States for which the government has previously asserted privileges."
+    publishedDateTime: 2021-08-09T19:21:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "US Senate Passes Biden's Massive Infrastructure Bill"
+    excerpt: "The US Senate approved Joe Biden's historic $1.2 trillion infrastructure plan on Tuesday, paving the way for a major victory to the president if it wins final passage in the lower chamber of Congress."
+    publishedDateTime: 2021-08-10T16:25:00Z
+    webUrl: "https://www.ibtimes.com/us-senate-passes-bidens-massive-infrastructure-bill-3270617"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/10/the-ambitious-plan-provides-for-550-billion-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "President Biden delivers remarks on the Infrastructure Act"
+    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks on the passage of the Senate's bipartisan Infrastructure Investment and Jobs Act in the East Room of the White House in Washington,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d454b789edba3fa918c29838db56d5ff/President-Biden-delivers-remarks-on-the-Infrastructure-Act/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/d454b789edba3fa918c29838db56d5ff/Biden-Infrastructure.jpg"
         width: 650
-        height: 975
+        height: 433
         isCached: true
-  - title: "Joe Voisine: Biden’s vax incentives promote inflation"
-    excerpt: "Rewarding the unvaccinated with a $100 shot, a chance at a $1 million lottery, and let’s not forget free beer. What’s next? Free tattoos, ear rings, free rent if you get vaccinated as soon as possible?"
-    publishedDateTime: 2021-08-10T04:00:00Z
-    webUrl: "https://www.sunjournal.com/2021/08/10/joe-voisine-bidens-vax-incentives-promote-inflation/"
+  - title: "President Joe Biden Delivers Remarks on Infrastructure"
+    excerpt: "Vice President Kamala Harris introduces President Joe Biden to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    publishedDateTime: 2021-08-10T21:00:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0b39f6565abe13f0b3779d83cb9885f8/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
-      name: Sun Journal
-      domain: sunjournal.com
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/11/2018/12/sunjournal-social.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdnph.upi.com/pv/upi/0b39f6565abe13f0b3779d83cb9885f8/WHITE-HOUSEINFRASTRUCTURE.jpg"
+        width: 650
+        height: 433
         isCached: true
+  - title: "Trump's latest con victims are his own political donors"
+    excerpt: "In what should qualify as the least surprising story of the year, it turns out former President Donald Trump is lying to his own political donors about what he’s using their money for. The ex-president has raised tens of millions of dollars toward the stated goals of challenging the last election and helping Republicans win in the coming midterms."
+    publishedDateTime: 2021-08-11T21:10:00Z
+    webUrl: "https://www.theday.com/article/20210811/OP01/210819872"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
+  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
+    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
+    publishedDateTime: 2021-08-11T20:25:00Z
+    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
   - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
     excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
     publishedDateTime: 2021-08-08T23:39:00Z
@@ -206,50 +330,33 @@ related:
         width: 948
         height: 711
         isCached: true
-  - title: "Cuomo Harassment Allegations: Joe Biden Calls On New York Governor To Resign"
-    excerpt: "President Joe Biden responds to new report that found that New York Gov. Andrew Cuomo sexually harassed multiple current and former female employees."
-    publishedDateTime: 2021-08-03T22:56:00Z
-    webUrl: "https://www.ibtimes.com/cuomo-harassment-allegations-joe-biden-calls-new-york-governor-resign-3265623"
+  - title: "President Biden Meets With Governors and Mayors on Infrastructure"
+    excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"
+    publishedDateTime: 2021-08-11T17:15:00Z
+    webUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/29/us-president-joe-biden-unveiled-new-requirements-for.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "President Joe Biden’s American Rescue Plan offers a healthcare insurance benefit, but time is running out to sign up for it"
-    excerpt: "President Joe Biden signed the American Rescue Plan back in March, and while the $1,400 stimulus checks were the big focus for many Americans, the bill has provided many other benefits — including healthcare."
-    publishedDateTime: 2021-08-09T21:57:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html?outputType=amp"
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
+    excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
+    publishedDateTime: 2021-08-12T09:02:00Z
+    webUrl: "https://www.lohud.com/story/news/2021/08/12/trump-tower-white-plains-remove-ex-presidents-brand/5531008001/"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 49
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWZ6PLG35BG5HAX4FAH7H4MIJ4.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
-    excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"
-    publishedDateTime: 2021-07-29T19:30:00Z
-    webUrl: "https://www.mcall.com/news/breaking/mc-biz-biden-lehigh-valley-buy-american-20210729-uacsnn7kyzf55ayfilnf63lpti-story.html"
+      name: The Journal News
+      domain: lohud.com
+    quality: 32
+  - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
+    excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
+    publishedDateTime: 2021-08-10T11:29:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 42
-    images:
-      - url: "https://www.mcall.com/resizer/yy6jKFAuNqMH7Fzb1nVgee3lHfs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VXCNOKDEPBFGVG2NMNJTVF6CBI.jpg"
-        width: 1200
-        height: 815
-        isCached: true
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 13
 
 secured: "bOw1zQPfP72HFjbyh/8LeT6YOvtO/JYKNrSqj33kKzPei0PgAZ1+H/pRqa9r6kNbWd9tW1aJEfGBoTb3DJI8nBssr8cEYR6F+xvQVaLcJTMU+LBrvEQ15sH4Z5jwblmI/ei1dvb2cH1LnA8zLtoF6IdAlwOLN3mqf7gMZ+fv5fX0eARwr7KqvL4FBHhols+hoy6qNvv1OS16IaAxuDJeMlEGbsimRk7aEdSAkqf/YrFGSB6qOmHD/mlIywv44C6S3NohTZocIC0yYeaTMMKVhjOItPg6bYzcemciaiJw6/N+Fn+klU6pKqerS9UdmnkNaTNNfhInFFCGw+UwZmsgRqd0PG9UjP6ARt1rbL08O34=;IgJ29getTbvu3PZYh4Ndww=="
 ---

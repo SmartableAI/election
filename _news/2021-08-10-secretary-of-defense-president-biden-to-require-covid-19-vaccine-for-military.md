@@ -27,519 +27,336 @@ images:
     isCached: true
 
 related:
-  - title: "Biden provides details on plan to share 80m Covid vaccine doses – live"
-    excerpt: "President offers details, explaining how the first 25m doses will be disbursed, and says ‘We are sharing these vaccines to save lives’ – follow the latest"
-    publishedDateTime: 2021-06-03T16:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/e12d9e9cd48b8789d15d47a0c8e752777252b3af/0_261_7804_4682/master/7804.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ffedaf4586025e10f958c141c511648"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Senate GOP rejects Biden infrastructure plan, prep new offer"
-    excerpt: "Senate Republicans are panning President Joe Biden’s latest infrastructure proposal WASHINGTON -- Senate Republicans on Friday panned President Joe Biden's latest infrastructure proposal and are expected to make a new offer as talks grind toward next week's deadline for progress on a bipartisan deal."
-    publishedDateTime: 2021-06-04T09:24:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8f57953f6aad4fa3ba32d78d8a74b5aa_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden gears up for trip to Europe to meet Queen and Putin – live"
-    excerpt: "President to meet world leaders at G7 in Cornwall this week and have summit with Putin in Geneva – follow all the latest news"
-    publishedDateTime: 2021-06-07T13:04:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be1af98f082e80569f8ec0"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/a3c5544ffc302674b7bea8972132487246448464/0_99_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d9e8f8fae7f2bd463eea29473facb83"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Will Europe sign up to Joe Biden’s plan to counter China?"
-    excerpt: "The EU has become more sceptical about Beijing but some leaders worry about Washington’s new cold war rhetoric"
-    publishedDateTime: 2021-06-07T04:00:00Z
-    webUrl: "https://www.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
-    ampWebUrl: "https://amp.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce05cbcc-e76e-46de-9795-bcfba664c88f.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "Biden invites Ukrainian president to White House this summer"
-    excerpt: "President Joe Biden has invited Ukrainian President Volodymyr Zelenskyy for a White House visit this summer. National security adviser Jake Sullivan said Biden extended the invitation during a phone call on Monday with Zelenskyy,"
-    publishedDateTime: 2021-06-07T18:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-invites-ukrainian-president-white-house-summer-78135589"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-invites-ukrainian-president-white-house-summer-78135589"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-invites-ukrainian-president-white-house-summer-78135589"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_32ce982ea5f84f31b1a9ea3e6a935249_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden: The plane spotters gathering for the president's arrival"
-    excerpt: "The Suffolk airbase will be the first place outside the United States that Joe Biden has visited since becoming president following his election victory over Donald Trump last November. \"It has been very busy for the past three days,"
-    publishedDateTime: 2021-06-09T11:50:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-suffolk-57400674"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-suffolk-57400674.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-suffolk-57400674.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AC7B/production/_118855144_vanessaandtracy.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Biden's vaccine pledge ups pressure on rich countries to give more"
-    excerpt: "The United States on Thursday raised the pressure on other Group of Seven leaders to share their vaccine hoards to bring an end to the pandemic by pledging to donate 500 million doses of the Pfizer coronavirus vaccine to the world's poorest countries."
-    publishedDateTime: 2021-06-10T16:43:00Z
-    webUrl: "https://www.reuters.com/article/idUSKCN2DM0FE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DM0FE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DM0FE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565245744&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5912I"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Joe Biden urges Covid vaccination push as Delta cases mount"
-    excerpt: "Joe Biden will on Tuesday urge more Americans to get vaccinated against Covid-19 as cases begin to rise again across the US, fuelled largely by the Delta variant. The US president will announce a series of measures to encourage vaccinations,"
-    publishedDateTime: 2021-07-06T22:56:00Z
-    webUrl: "https://www.ft.com/content/a6059766-50e6-4bc8-888d-c3aaadf56c5c"
-    ampWebUrl: "https://amp.ft.com/content/a6059766-50e6-4bc8-888d-c3aaadf56c5c"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a6059766-50e6-4bc8-888d-c3aaadf56c5c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3cbc24c2-f46b-4114-b944-ecc8a5baef16.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Joe Biden urges new Covid vaccination push as Delta cases mount"
-    excerpt: "Joe Biden will on Tuesday urge more Americans to get vaccinated against Covid-19 as cases begin to rise again across the US, fuelled largely by the Delta variant. The US president will announce a series of measures to encourage vaccinations,"
-    publishedDateTime: 2021-07-06T22:56:00Z
-    webUrl: "https://www.ft.com/content/a6059766-50e6-4bc8-888d-c3aaadf56c5c"
-    ampWebUrl: "https://amp.ft.com/content/a6059766-50e6-4bc8-888d-c3aaadf56c5c"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a6059766-50e6-4bc8-888d-c3aaadf56c5c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3cbc24c2-f46b-4114-b944-ecc8a5baef16.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Watch live: Biden gives remarks on COVID-19 vaccination efforts"
-    excerpt: "President Biden is scheduled to give remarks Thursday afternoon on COVID-19 vaccination efforts amid the rise in cases of the COVID-19 delta variant.He is scheduled to deliver the remarks at 4 p.m. EDT."
-    publishedDateTime: 2021-07-29T19:52:00Z
-    webUrl: "https://thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts"
-    ampWebUrl: "https://thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/565511-watch-live-biden-gives-remarks-on-covid-19-vaccination-efforts?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/video_images/bidenjoe_16.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
-    excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
-    publishedDateTime: 2021-03-30T17:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-6063448a8f0807bf71ddea4f"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/61be9c4ea47590ba4a25375de48c9334d6cf1f4d/0_198_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=497c53613623a4cc3e08d76fef99cc6f"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
-    excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
-    publishedDateTime: 2021-04-22T01:13:00Z
-    webUrl: "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579"
-    ampWebUrl: "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1"
+  - title: "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden"
+    excerpt: "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it."
+    publishedDateTime: 2021-08-13T14:49:00Z
+    webUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152"
+    ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 124
+    quality: 140
     images:
-      - url: "https://d.newsweek.com/en/full/1781388/rand-paul-biden-burn-mask-covid-vaccine.jpg"
+      - url: "https://d.newsweek.com/en/full/1870140/donald-trump-reinstatement-day-president-mike-lindell.jpg"
         width: 2500
-        height: 1667
+        height: 1665
         isCached: true
-  - title: "21,000 sign petition protesting US Catholic Bishops vote on Biden, abortion"
-    excerpt: "More than 21,000 people have signed a letter calling for the U.S. Catholic Bishops to cancel a planned vote on whether President Biden should receive communion."
-    publishedDateTime: 2021-06-10T13:52:00Z
-    webUrl: "https://thehill.com/homenews/administration/557729-more-than-21000-christians-call-on-us-catholic-bishops-to-cancel"
-    ampWebUrl: "https://thehill.com/homenews/administration/557729-more-than-21000-christians-call-on-us-catholic-bishops-to-cancel?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557729-more-than-21000-christians-call-on-us-catholic-bishops-to-cancel?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_060921getty_memo.jpg"
-        width: 980
-        height: 580
-        isCached: true
-  - title: "Joe Biden to meet Boris Johnson as deadlock continues in Washington – live"
-    excerpt: "Pair to look at lifting travel restrictions between US and UK – follow the day’s politics news"
-    publishedDateTime: 2021-06-10T12:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/10/joe-biden-boris-johnson-uk-g7-covid-coronavirus-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/10/joe-biden-boris-johnson-uk-g7-covid-coronavirus-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/10/joe-biden-boris-johnson-uk-g7-covid-coronavirus-us-politics-live"
+  - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
+    excerpt: "The president appeals to the ‘civil religion’ of Washington and Kennedy. His opponents use weasel words and seek to limit democracy. The stakes could not be higher"
+    publishedDateTime: 2021-08-08T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 123
+    quality: 135
     images:
-      - url: "https://i.guim.co.uk/img/media/f24a15c7182dbe3533ea5b2d12461cbbe8074b65/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f565a4c6ac7ec0eba72b3ab92fc8d26"
+      - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
         width: 600
         height: 360
         isCached: true
-  - title: "Biden falls short of target to send 80m Covid vaccines around the world – live"
-    excerpt: "US announces 55m vaccine doses to be distributed but initially sought 80m by end of June – follow all the day’s politics news"
-    publishedDateTime: 2021-06-21T18:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0d8ab8f08d468da92e9ef"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/ca76775a11f66263500549a4762507d422a39a69/0_89_4226_2535/master/4226.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b11f0dc58a6e273b3300e61d05d2c47c"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Biden plans more talks to woo Republicans on $1tn infrastructure deal – live"
-    excerpt: "President to meet Shelley Moore Capito to try to bridge divide on massive rebuilding package – follow the latest"
-    publishedDateTime: 2021-06-04T12:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba22558f08b9889b368d7f"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Biden heads to UK as Democrats rally in support of voting rights bill – live"
-    excerpt: "Biden takes off on first overseas trip as president as Bernie Sanders says he has ‘limited patience’ with Republicans – follow the latest"
-    publishedDateTime: 2021-06-09T12:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/09/joe-biden-uk-democrats-voting-rights-bill-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/09/joe-biden-uk-democrats-voting-rights-bill-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/09/joe-biden-uk-democrats-voting-rights-bill-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/720a7537ae5193d828861c18156041cda88c0f63/0_119_5904_3543/master/5904.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4aecced4024cb4f60038ef8a85e7e68a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – live"
-    excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
-    publishedDateTime: 2021-06-02T23:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b817988f08b9889b367227"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden provides details on plan to share 80m Covid vaccine doses globally – as it happened"
-    excerpt: "President offers details, explaining how the first 25m doses will be disbursed, and says ‘We are sharing these vaccines to save lives’ – follow the latest"
-    publishedDateTime: 2021-06-04T00:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8eb578f08b9889b367d18"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/e12d9e9cd48b8789d15d47a0c8e752777252b3af/0_261_7804_4682/master/7804.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ffedaf4586025e10f958c141c511648"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "FBI chief likens ransomware threat to 9/11 as Biden plans to confront Putin at G7 – live"
-    excerpt: "Chris Wray compares hacking threat to challenge posed by September 11 attacks while Trump suspended from Facebook for two years – get the latest"
-    publishedDateTime: 2021-06-04T15:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba59818f082e80569f6680"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – as it happened"
-    excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
-    publishedDateTime: 2021-06-02T23:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?traffic_source=Connatix"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 112
-    images:
-      - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Biden Praised for 'Bold Leadership' to End Pandemic After Reports U.S. to Donate 500M COVID Shots"
-    excerpt: "\"The Biden administration's decision to purchase and donate additional COVID-19 vaccine doses is the kind of bold leadership that is needed to end this global pandemic,\" said Tom Hart, acting CEO at The ONE Campaign."
-    publishedDateTime: 2021-06-09T19:50:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-praised-bold-leadership-end-pandemic-after-reports-us-donate-500m-covid-shots-1599182"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-praised-bold-leadership-end-pandemic-after-reports-us-donate-500m-covid-shots-1599182?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-praised-bold-leadership-end-pandemic-after-reports-us-donate-500m-covid-shots-1599182?amp=1"
+  - title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
+    excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
+    publishedDateTime: 2021-08-12T23:29:00Z
+    webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
+    ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 110
+    quality: 133
     images:
-      - url: "https://d.newsweek.com/en/full/1817292/biden-g-7.jpg"
-        width: 2500
-        height: 1668
+      - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
+        width: 3431
+        height: 2282
         isCached: true
-  - title: "Biden pushes more vaccines for 'summer of freedom'"
-    excerpt: "Free beer is the latest White House-backed incentive to persuade Americans to get the COVID-19 vaccine. President Joe Biden announced a “month of action” Wednesday to get more shots into arms before July 4th and bring on a \"summer of freedom\"."
-    publishedDateTime: 2021-06-02T19:35:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/02/biden-pushes-more-vaccines-summer-freedom/7511942002/"
+  - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
+    excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
+    publishedDateTime: 2021-08-13T08:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/08/13/dan-crenshaw-heckled-bobby-piton/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0684742e-1cd5-4954-a59d-162b33aa5f7e_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Biden invites Ukrainian president to White House"
-    excerpt: "President Joe Biden has invited Ukrainian President Volodymyr Zelenskyy for a White House visit this summer. The invitation comes as Zelenskyy has expressed concerns about Biden's plan to meet with Russian President Vladimir Putin next week."
-    publishedDateTime: 2021-06-07T19:10:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/07/biden-invites-ukrainian-president-white-house/7589583002/"
+  - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
+    publishedDateTime: 2021-08-09T15:38:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/09/trump-told-cali-rake-leaves-whats-bidens-plan-wildfires/5538438001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5538438001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5538438001"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 83
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1c3c5c11-4fe9-429b-9fdb-7e4ba8d96698_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden made decision to support IP waiver for COVID-19 vaccines- White House"
-    excerpt: "U.S. President Joe Biden made the decision to back a proposed waiver for COVID-19 vaccine intellectual property rights, the White House said on Thursday, denying that Biden administration officials had been split on the issue."
-    publishedDateTime: 2021-05-06T20:06:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-waiver-biden-idUSW1N2M9039"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2M9039"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2M9039"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
-  - title: "What we learned about Joe Biden from riding Amtrak with a Senate colleague who has known the president for five decades"
-    excerpt: "President Biden and Sen. Tom Carper share big goals on infrastructure. They also have a devotion to Amtrak after almost daily commutes from Delaware to DC for several decades."
-    publishedDateTime: 2021-05-29T13:32:00Z
-    webUrl: "https://www.businessinsider.com/biden-amtrak-infrastructure-climate-senate-tom-carper-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/60b01460bee0fc0019d5a148?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 674
         isCached: true
-  - title: "Biden to announce new eviction ban due to COVID spread"
-    excerpt: "The Biden administration will announce a new 60-day eviction moratorium that would protect areas where 90% of the U.S. population lives."
-    publishedDateTime: 2021-08-04T17:55:00Z
-    webUrl: "https://www.newsobserver.com/news/article253214793.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/article253214793.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article253214793.html"
+  - title: "President Biden’s complicated new task: keeping Democrats together"
+    excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
+    publishedDateTime: 2021-08-12T11:44:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/f9f31e34-3a02-410c-8cb9-a9861bd8215e/f8ee1dac-e7db-460c-ac52-9de660aa28d7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Stimulus check update: President Joe Biden leaves door open to 4th payment"
-    excerpt: "Some lawmakers are pushing for a fourth round of coronavirus stimulus checks. So are more than 2 million Americans."
-    publishedDateTime: 2021-06-04T16:51:00Z
-    webUrl: "https://www.masslive.com/politics/2021/06/stimulus-check-update-president-joe-biden-leaves-door-open-to-4th-payment.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/06/stimulus-check-update-president-joe-biden-leaves-door-open-to-4th-payment.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/stimulus-check-update-president-joe-biden-leaves-door-open-to-4th-payment.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ATY6FXNCZVHMXCSKBNT7SPJ74A.JPG"
-        width: 5901
-        height: 3934
-        isCached: true
-  - title: "President Joe Biden directs Pentagon to plan for mandatory COVID-19 vaccines"
-    excerpt: "In a rebuke of Biden's annoucement, U.S. Rep. Cathy McMorris Rodgers called any effort to mandate a vaccine an overreach by the White House.  A spokesman confirmed that her criticism included mandatory COVID-19 vaccines for members of the military."
-    publishedDateTime: 2021-07-30T03:36:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/29/president-joe-biden-directs-pentagon-to-plan-for-m/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 72
-    images:
-      - url: "https://thumb.spokesman.com/XGCIb09jGFhU32rYBMK7qp5N0zc=/480x0/media.spokesman.com/photos/2021/07/29/610349af63740.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "President Joe Biden, G-7 leaders agree on COVID vaccines, China and taxing corporations"
-    excerpt: "Leaders of the Group of Seven wealthy nations on Sunday pledged more than 1 billion COVID-19 vaccine doses to poorer nations, vowed to help developing countries grow their economies while fighting climate change and agreed to challenge China’s “non-market economic practices” and call out Beijing for rights abuses in Xinjiang and Hong Kong."
-    publishedDateTime: 2021-06-13T15:28:00Z
-    webUrl: "https://www.masslive.com/politics/2021/06/president-joe-biden-g-7-leaders-agree-on-covid-vaccines-china-and-taxing-corporations.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/06/president-joe-biden-g-7-leaders-agree-on-covid-vaccines-china-and-taxing-corporations.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/president-joe-biden-g-7-leaders-agree-on-covid-vaccines-china-and-taxing-corporations.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 67
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SAZ2AUEIZVGMZH2Q2GMGT73XP4.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2PFTKOXIRAA7LGGHI6QX7C3WQ.jpg"
         width: 1024
         height: 683
         isCached: true
-  - title: "Joe Biden touts 300 million COVID-19 vaccine doses given in the US, warns of Delta variant"
-    excerpt: "President Joe Biden announced Friday the U.S. has administered 300 million COVID-19 shots, though it's still shy of 70% having one shot by July 4."
-    publishedDateTime: 2021-06-18T20:31:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/06/18/biden-touts-300-m-covid-19-vaccines-given-us-eyes-july-4-goal/7745744002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7745744002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7745744002"
+  - title: "President Biden eyes tougher vaccine rules"
+    excerpt: "Even as Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
+    publishedDateTime: 2021-08-13T15:04:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 65
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "President Joe Biden's COVID-19 presidency"
-    excerpt: "President Joe Biden recently passed his six-month mark in the White House. It might end up being the high-water mark of his presidency."
-    publishedDateTime: 2021-07-30T21:47:00Z
-    webUrl: "https://www.ottumwacourier.com/president-joe-bidens-covid-19-presidency/article_b77fa56a-f17f-11eb-a16e-935491041c48.html"
+  - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
+    excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
+    publishedDateTime: 2021-08-07T22:12:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
     type: article
     provider:
-      name: Ottumwa Courie
-      domain: ottumwacourier.com
-    quality: 55
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 72
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/ottumwacourier.com/content/tncms/assets/v3/editorial/0/bc/0bc6a2cc-cc5b-11ea-8caf-cf093f358dd7/5f18a36ce003e.image.jpg?resize=840%2C630"
-        width: 840
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5T3B72GJKZHL5LEKWA44VBCXGY.jpeg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Student debt | Borrowers relieved as President Biden extends loan repayments"
+    excerpt: "Atlanta filmmaker, Jeremy Thao, said the pause on student loans repayment helped him during the pandemic when he lost film work."
+    publishedDateTime: 2021-08-08T23:25:00Z
+    webUrl: "https://www.11alive.com/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 72
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/a0f1d29b-515a-4486-ad7b-d43953d35f49/a0f1d29b-515a-4486-ad7b-d43953d35f49_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
+    excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
+    publishedDateTime: 2021-08-12T08:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/virginia-heffernan-biden-s-build-back-better-just-beat-trump-all-over-again/article_114e6da1-e563-555d-bdaa-88eb685f1b0a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 66
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
         height: 630
         isCached: true
-  - title: "President Joe Biden Delivers Remarks on COVID-19 Vaccinations"
-    excerpt: "President Joe Biden answers questions from reporters following remarks on COVID-19 vaccinations in the East Room of the White House in Washington DC, on Tuesday, August 3, 2021. President Biden announced Tuesday that the US has donated 110 million vaccines to countries around the world."
-    publishedDateTime: 2021-08-03T21:40:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/ea41e22888bc414f648f835656c044c6/President-Joe-Biden-Delivers-Remarks-on-COVID-19-Vaccinations/"
+  - title: "One-third of Native Americans aren’t registered to vote. Can President Biden change that?"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253429449.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 66
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
+    publishedDateTime: 2021-08-09T16:26:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/09/trump-told-california-to-sweep-the-forest-floors-whats-bidens-plan-to-combat-wildfires/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 60
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Senate votes to advance Biden’s $1T infrastructure bill"
+    excerpt: "Senators have convened for a second consecutive weekend session on the bipartisan infrastructure bill as they edge toward a vote."
+    publishedDateTime: 2021-08-08T14:24:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article253331388.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article253331388.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253331388.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 55
+  - title: "Democrats applaud Biden’s unconstitutional act"
+    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden’s CDC to extend an eviction moratorium sure to be"
+    publishedDateTime: 2021-08-09T13:32:00Z
+    webUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
+    type: article
+    provider:
+      name: Williamsport Sun-Gazette
+      domain: sungazette.com
+    quality: 55
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.sungazette.com/images/2016/10/17135124/fblike1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden Welcomes Fresh Review of Sept. 11 Attack Documents"
+    excerpt: "U.S. President Joe Biden said he welcomed a Justice Department filing on Monday committing to a fresh review of documents related to the Sept. 11, 2001, attacks on the United States for which the government has previously asserted privileges."
+    publishedDateTime: 2021-08-09T19:21:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "US Senate Passes Biden's Massive Infrastructure Bill"
+    excerpt: "The US Senate approved Joe Biden's historic $1.2 trillion infrastructure plan on Tuesday, paving the way for a major victory to the president if it wins final passage in the lower chamber of Congress."
+    publishedDateTime: 2021-08-10T16:25:00Z
+    webUrl: "https://www.ibtimes.com/us-senate-passes-bidens-massive-infrastructure-bill-3270617"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/10/the-ambitious-plan-provides-for-550-billion-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "President Biden delivers remarks on the Infrastructure Act"
+    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks on the passage of the Senate's bipartisan Infrastructure Investment and Jobs Act in the East Room of the White House in Washington,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d454b789edba3fa918c29838db56d5ff/President-Biden-delivers-remarks-on-the-Infrastructure-Act/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/ea41e22888bc414f648f835656c044c6/BIDENCORONAVIRUS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/d454b789edba3fa918c29838db56d5ff/Biden-Infrastructure.jpg"
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Delivers Remarks on Infrastructure"
+    excerpt: "Vice President Kamala Harris introduces President Joe Biden to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    publishedDateTime: 2021-08-10T21:00:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0b39f6565abe13f0b3779d83cb9885f8/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/0b39f6565abe13f0b3779d83cb9885f8/WHITE-HOUSEINFRASTRUCTURE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Trump's latest con victims are his own political donors"
+    excerpt: "In what should qualify as the least surprising story of the year, it turns out former President Donald Trump is lying to his own political donors about what he’s using their money for. The ex-president has raised tens of millions of dollars toward the stated goals of challenging the last election and helping Republicans win in the coming midterms."
+    publishedDateTime: 2021-08-11T21:10:00Z
+    webUrl: "https://www.theday.com/article/20210811/OP01/210819872"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
+  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
+    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
+    publishedDateTime: 2021-08-11T20:25:00Z
+    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+  - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
+    excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
+    publishedDateTime: 2021-08-08T23:39:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1025943104/president-biden-tells-u-s-olympic-squad-it-restored-the-soul-of-america"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 53
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
+        width: 948
+        height: 711
+        isCached: true
+  - title: "President Biden Meets With Governors and Mayors on Infrastructure"
+    excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"
+    publishedDateTime: 2021-08-11T17:15:00Z
+    webUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
+    excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
+    publishedDateTime: 2021-08-12T09:02:00Z
+    webUrl: "https://www.lohud.com/story/news/2021/08/12/trump-tower-white-plains-remove-ex-presidents-brand/5531008001/"
+    type: article
+    provider:
+      name: The Journal News
+      domain: lohud.com
+    quality: 32
+  - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
+    excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
+    publishedDateTime: 2021-08-10T11:29:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 13
 
 secured: "eZUajnl+tpsIn7Z9oRm0SSUU3N7nsHJTe6SNn4sUyREweYZMSqP2iBMlWbwVEnfCNWPo4icHIqdbB19rPDgKsFrTmk5zbUiiDXFB11hX1tqjKcRWiJoCQnP1oSPJGlZAvmJhby08feCBxvn437zfdnCM45DB1dbvc7y4w1GW7Ob3dUbp7bQcUyvEsTc2ybcvz8UDuRmWeRd1pVVz+w/H0zmfan/UpM0O8CdwgMVBOzTOKJylU4eOyCSzSv/cVAFNBrhnYTzIMCcfLpsK5OdSinHMYDY9hwKAskq5gbv4Mn6enqyNTwqhNk+OljKae35Rul0jrQx++gJMBG0gGH2idKa/rmGkKZjcS56FabJ4IWILzHAUMn8Ua0WF6M3ZXI1FAKpznyK8dScPwUMmxayaggsO8cdSeC7lojfnhcurSdSw8whTOSyXcuOIQ8dSM4RbDW/5c+A2vR/dZKB+R5+3HlHasg7urhN4++i7OHB0y94d3tokQvCTaOzsjSletGUvxRHmPqj6/W9mwPcXcAzgGQ==;/UoSAGpiDIpho5tv5LpF2g=="
 ---

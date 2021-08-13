@@ -371,17 +371,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Senate votes to advance Biden’s $1T infrastructure bill"
-    excerpt: "Senators have convened for a second consecutive weekend session on the bipartisan infrastructure bill as they edge toward a vote."
-    publishedDateTime: 2021-08-08T14:24:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article253331388.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article253331388.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253331388.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 55
 
 secured: "FZQHdPNxpW0Tyn51rlQ6VBbA9q2jJctmUrz0CpslKHquZrZ1GvtsH3749i86TaOecmRBu0x5SCuYyJhBW1ZXTo2sK9AFSHnD7qf221+N3z/7wP2I1fQMOKDz+ACAQlcHdBhq5Szk+4Q51mCDQ+d5IcMQZoSRGCfZKzLbq+RU3aGoPC+qB91Fcwv8l4pKCEIY7NTUjBbcHqAzIMHv0EG+mc5ERHTbb2Ofl5qmJRPHQ1bdhE5SYZTg3hOXdjxyzDZNKII63Hexfjt2KVhZ4R20W5hO8GnCBA0QXzMRDamqEKpAoOTVC9gqRTFev7bAiGrRYjBEdWiXgD2YahAQIDkVcnVC/nhvL4tzIHMrqfkVI5JNHOvH+2iJNJeJSoKUG3gHPpZH8zsOnikMr5Ag7bdjtRdJRLqPVT/nP2IXmtF5RagFoFiU4nvY2J/wE6ztGNh571IIajnbc+IQJheNlVkKBd0DMqYNiTcwW4kxdeLFvbm02MBfsf7U8CCN0lThe+gKhmENKh+JmAMQvgomavBU4w==;sIyqf/7XjDEL3XrSk2rcig=="
 ---

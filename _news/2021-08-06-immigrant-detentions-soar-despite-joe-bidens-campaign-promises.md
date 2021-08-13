@@ -25,352 +25,199 @@ images:
     isCached: true
 
 related:
-  - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
-    excerpt: "The president appeals to the ‘civil religion’ of Washington and Kennedy. His opponents use weasel words and seek to limit democracy. The stakes could not be higher"
-    publishedDateTime: 2021-08-08T05:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+  - title: "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?"
+    excerpt: "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold."
+    publishedDateTime: 2021-08-03T04:00:00Z
+    webUrl: "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
+    ampWebUrl: "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F212df0d0-e94b-11eb-8b52-d9a1d750df18-standard.png?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 357
+        isCached: true
+  - title: "Why Joe Biden is such an elusive target for his critics"
+    excerpt: "First, whatever Joe Biden’s line on abortion, neither his pastor nor the Holy See support his exclusion. Second, and here the clergy will have to forgive a dip into earthly politics, they only served to highlight the president’s stalwart churchgoing."
+    publishedDateTime: 2021-08-03T12:23:00Z
+    webUrl: "https://www.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
+    ampWebUrl: "https://amp.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ac275a8d-fe8d-48ee-83ac-57a25eb331c3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb70378cc-f219-44fb-a451-8db757e7160f.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – live"
+    excerpt: "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest"
+    publishedDateTime: 2021-07-29T21:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest?page=with:block-61031d758f089093df86e581"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 135
-    images:
-      - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
-    excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
-    publishedDateTime: 2021-08-12T23:29:00Z
-    webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
-    ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    quality: 92
+  - title: "US Economy: Joe Biden Unveils New 'Buy American' Proposal"
+    excerpt: "President Biden unveiled his new 'Buy American' proposal to ensure goods manufactured in the United States were at least 60% made in America."
+    publishedDateTime: 2021-07-28T22:49:00Z
+    webUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836"
+    ampWebUrl: "https://www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-economy-joe-biden-unveils-new-buy-american-proposal-3261836?amp=1"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
-    images:
-      - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
-        width: 3431
-        height: 2282
-        isCached: true
-  - title: "Biden says Congress should extend eviction ban"
-    excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins CBSN AM to discuss the latest."
-    publishedDateTime: 2021-08-01T20:48:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-urges-congress-to-extend-eviction-ban/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "House Can Have Access to Some of Donald Trump's Financial Records, Judge Rules"
-    excerpt: "U.S. District Judge Amit Mehta's ruling cited separation of power concerns, but the House was entitled to some financial records from 2017 and 2018."
-    publishedDateTime: 2021-08-11T21:04:00Z
-    webUrl: "https://www.newsweek.com/house-can-have-access-some-donald-trumps-financial-records-judge-rules-1618537"
-    ampWebUrl: "https://www.newsweek.com/house-can-have-access-some-donald-trumps-financial-records-judge-rules-1618537?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/house-can-have-access-some-donald-trumps-financial-records-judge-rules-1618537?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1868895/tax-return-form.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump appeals ruling that U.S. House can see financial records"
-    excerpt: "Lawyers for former U.S. President Donald Trump have quickly appealed this week's court ruling that his accounting firm must turn over some of his financial records to a Democratic-led House of Representatives committee."
-    publishedDateTime: 2021-08-12T17:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-mazars/trump-appeals-ruling-that-us-house-can-see-financial-records-idUSKBN2FD1S8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/UOUOEUYW-9C0qKO0w1QqQEP-A6w=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O5BYTKEK2FMHPH3GSJ3XOCH7FI.jpg"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
-    excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
-    publishedDateTime: 2021-08-13T08:09:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2021/08/13/dan-crenshaw-heckled-bobby-piton/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
-    excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
-    publishedDateTime: 2021-08-09T15:38:00Z
-    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/09/trump-told-cali-rake-leaves-whats-bidens-plan-wildfires/5538438001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5538438001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5538438001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 83
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Biden’s eviction moratorium defies the rule of law"
-    excerpt: "As Biden’s casual disregard for the law shows once again, an independent judiciary is a crucial check on that impulse."
-    publishedDateTime: 2021-08-12T17:25:00Z
-    webUrl: "https://www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/"
-    ampWebUrl: "https://www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 75
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/OCR-L-CDCMASK-0514-02.jpg?w=1024&#038;h=682"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/28/us-president-joe-biden-announces-plans-to-strengthen.jpg"
         width: 1024
-        height: 682
+        height: 654
         isCached: true
-  - title: "Van Orden receives Trump endorsement for Wisconsin race"
-    excerpt: "MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep. Ron Kind since 1997. Derrick Van Orden ..."
-    publishedDateTime: 2021-08-12T21:29:00Z
-    webUrl: "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php"
-    ampWebUrl: "https://www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
-    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+  - title: "GOP: Biden’s Policies Have Put Our Nation In Crisis"
+    excerpt: "We are a District made up of honest, hard-working, freedom-loving Americans who provide the fuel and fiber for this nation by hosting one of the most dynamic energy and agriculture sectors in the country."
+    publishedDateTime: 2021-08-03T13:00:00Z
+    webUrl: "https://www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html"
+    ampWebUrl: "https://www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html/amp"
+    cdnAmpWebUrl: "https://www-mymotherlode-com.cdn.ampproject.org/c/s/www.mymotherlode.com/news/local/1885451/gop-bidens-policies-have-put-our-nation-in-crisis.html/amp"
     type: article
     provider:
-      name: Midland Reporter-Telegram
-      domain: mrt.com
+      name: My MotherLode
+      domain: mymotherlode.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.mymotherlode.com/wp-content/uploads/2014/01/1013955-BID-radio_mic_american_flag.jpg"
+        width: 500
+        height: 344
         isCached: true
-  - title: "Van Orden receives Trump endorsement in battleground WI-3 House race"
-    excerpt: "Former President Donald Trump has officially endorsed Republican Derrick Van Orden in his currently unopposed bid for Wisconsin's 3rd Congressional District, a key swing race in the upcoming midterms."
-    publishedDateTime: 2021-08-12T17:15:00Z
-    webUrl: "https://lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.html"
-    ampWebUrl: "https://lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.amp.html"
-    cdnAmpWebUrl: "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.amp.html"
+  - title: "Biden praises Olympians for inspiring Americans with courage"
+    excerpt: "President Joe Biden praised U.S. Olympians for navigating the difficulties of a coronavirus-tarnished games with “moral courage” that made Americans’ “hearts"
+    publishedDateTime: 2021-08-07T23:04:00Z
+    webUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/"
+    ampWebUrl: "https://www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
+    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/political-news/biden-praises-olympians-for-inspiring-americans-with-courage/amp/"
     type: article
     provider:
-      name: La Crosse Tribune
-      domain: lacrossetribune.com
+      name: TexomasHomepage.com
+      domain: texomashomepage.com
     quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/4/31/431a004c-b905-520d-a70c-7bafab18b438/60da3a3801a58.image.jpg?resize=1024%2C710"
-        width: 1024
-        height: 710
+      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/08/b44b54581a0c49048a645e4cd20e36d1.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
-    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
-    publishedDateTime: 2021-08-11T18:01:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
-    ampWebUrl: "https://amp.statesman.com/amp/5468863001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
+  - title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
+    excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
+    publishedDateTime: 2021-08-05T21:34:00Z
+    webUrl: "https://www.sacbee.com/news/california/article253260458.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article253260458.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article253260458.html"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 66
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 67
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
-    excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
-    publishedDateTime: 2021-08-12T08:30:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/virginia-heffernan-biden-s-build-back-better-just-beat-trump-all-over-again/article_114e6da1-e563-555d-bdaa-88eb685f1b0a.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 66
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "One-third of Native Americans aren’t registered to vote. Can President Biden change that?"
-    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
-    publishedDateTime: 2021-08-13T09:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article253429449.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253429449.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253429449.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 66
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/2bd4a008-4ddf-4ddd-9d09-3dd56470f28a/9dddc9e8-1ec8-4d37-a254-9021a763ce3b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
-    excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
-    publishedDateTime: 2021-08-09T16:26:00Z
-    webUrl: "https://www.columbian.com/news/2021/aug/09/trump-told-california-to-sweep-the-forest-floors-whats-bidens-plan-to-combat-wildfires/"
+  - title: "Biden touts 'Buy American' to boost US businesses"
+    excerpt: "President Joe Biden checks out the big rigs at a Pennsylvania truck factory and promises workers that his policies would reshape the U.S. economy for the working class. (July 28)"
+    publishedDateTime: 2021-07-28T21:45:00Z
+    webUrl: "https://www.freep.com/videos/news/nation/2021/07/28/biden-touts-buy-american-boost-us-businesses/5408639001/"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 60
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
-    excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
-    publishedDateTime: 2021-08-04T20:41:00Z
-    webUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 55
     images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Congress-Infrastructure-2.jpg"
-        width: 1200
-        height: 799
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b8872a3d-8c49-4786-9a9e-6a13b0d00e90_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "President Joe Biden Delivers Remarks on Clean Energy"
-    excerpt: "President Joe Biden signs an executive order on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
-    publishedDateTime: 2021-08-05T21:31:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5342ba33f28bc5377a5fd5ad40c14d1f/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
+  - title: "US President Joe Biden meets Latino community leaders"
+    excerpt: "US President Joe Biden meets with Latino community leaders to discuss his economic agenda, immigration reform and the need to protect the right to vote in the State Dining Room of the White House in Washington,"
+    publishedDateTime: 2021-08-03T18:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9daa8c8e52c6061fd4c202bc0d671d07/US-President-Joe-Biden-meets-Latino-community-leaders/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5342ba33f28bc5377a5fd5ad40c14d1f/WHITE-HOUSEBIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9daa8c8e52c6061fd4c202bc0d671d07/BIDEN-VOTING-RIGHTS.jpg"
         width: 650
-        height: 433
+        height: 975
         isCached: true
-  - title: "Democrats applaud Biden’s unconstitutional act"
-    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden’s CDC to extend an eviction moratorium sure to be"
-    publishedDateTime: 2021-08-09T13:32:00Z
-    webUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
+  - title: "Joe Voisine: Biden’s vax incentives promote inflation"
+    excerpt: "Rewarding the unvaccinated with a $100 shot, a chance at a $1 million lottery, and let’s not forget free beer. What’s next? Free tattoos, ear rings, free rent if you get vaccinated as soon as possible?"
+    publishedDateTime: 2021-08-10T04:00:00Z
+    webUrl: "https://www.sunjournal.com/2021/08/10/joe-voisine-bidens-vax-incentives-promote-inflation/"
     type: article
     provider:
-      name: Williamsport Sun-Gazette
-      domain: sungazette.com
+      name: Sun Journal
+      domain: sunjournal.com
     quality: 55
     images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.sungazette.com/images/2016/10/17135124/fblike1.jpg"
+      - url: "https://multifiles.pressherald.com/uploads/sites/11/2018/12/sunjournal-social.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "President Biden delivers remarks on the Infrastructure Act"
-    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks on the passage of the Senate's bipartisan Infrastructure Investment and Jobs Act in the East Room of the White House in Washington,"
-    publishedDateTime: 2021-08-10T19:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d454b789edba3fa918c29838db56d5ff/President-Biden-delivers-remarks-on-the-Infrastructure-Act/"
+  - title: "Cuomo Harassment Allegations: Joe Biden Calls On New York Governor To Resign"
+    excerpt: "President Joe Biden responds to new report that found that New York Gov. Andrew Cuomo sexually harassed multiple current and former female employees."
+    publishedDateTime: 2021-08-03T22:56:00Z
+    webUrl: "https://www.ibtimes.com/cuomo-harassment-allegations-joe-biden-calls-new-york-governor-resign-3265623"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d454b789edba3fa918c29838db56d5ff/Biden-Infrastructure.jpg"
-        width: 650
-        height: 433
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/29/us-president-joe-biden-unveiled-new-requirements-for.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "President Joe Biden Delivers Remarks on Infrastructure"
-    excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
-    publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+  - title: "President Joe Biden’s American Rescue Plan offers a healthcare insurance benefit, but time is running out to sign up for it"
+    excerpt: "President Joe Biden signed the American Rescue Plan back in March, and while the $1,400 stimulus checks were the big focus for many Americans, the bill has provided many other benefits — including healthcare."
+    publishedDateTime: 2021-08-09T21:57:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2021/08/president-joe-bidens-american-rescue-plan-offers-a-healthcare-insurance-benefit-but-time-is-running-out-to-sign-up-for-it.html?outputType=amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: Penn Live
+      domain: pennlive.com
+    quality: 49
     images:
-      - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
-        width: 650
-        height: 433
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JWZ6PLG35BG5HAX4FAH7H4MIJ4.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Ruling goes against Trump"
-    excerpt: "WASHINGTON — House Democrats investigating Donald Trump are entitled to some of the former president’s financial records, a federal judge ruled Wednesday."
-    publishedDateTime: 2021-08-12T04:24:00Z
-    webUrl: "https://www.columbian.com/news/2021/aug/11/ruling-goes-against-trump/"
+  - title: "Do Lehigh Valley business owners think President Biden’s ‘Buy American’ plan will work for them?"
+    excerpt: "President Joe Biden's \"Buy American\" aims to help U.S. manufacturers by increasing the amount of U.S.-made goods being purchased by the federal government. But will it help Lehigh Valley businesses?"
+    publishedDateTime: 2021-07-29T19:30:00Z
+    webUrl: "https://www.mcall.com/news/breaking/mc-biz-biden-lehigh-valley-buy-american-20210729-uacsnn7kyzf55ayfilnf63lpti-story.html"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 55
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 42
     images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/08/Trump_Financial_Records_86507.jpg-5702b.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Trump appeals court’s order for release of company records"
-    excerpt: "Former U.S. President Donald Trump appealed a court order instructing his accountants to release certain financial records of his business to a congressional committee."
-    publishedDateTime: 2021-08-13T01:10:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/trump-appeals-court-s-order-for-release-of-company-records/article_feb5113e-81eb-54c6-bd78-370d5a11154b.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://www.mcall.com/resizer/yy6jKFAuNqMH7Fzb1nVgee3lHfs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VXCNOKDEPBFGVG2NMNJTVF6CBI.jpg"
         width: 1200
-        height: 630
+        height: 815
         isCached: true
-  - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
-    excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."
-    publishedDateTime: 2021-08-12T18:29:00Z
-    webUrl: "https://www.jsonline.com/story/news/politics/2021/08/12/trump-endorses-van-orden-2022-wisconsin-3rd-congressional-race/8109129002/"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 36
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/25/PMJS/a3cb70ae-78f8-4e3a-adcc-5e6c73fb1f4a-Derrick_Van_Orden.jpg?auto=webp&crop=4765,2680,x1,y150&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
-    excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
-    publishedDateTime: 2021-08-01T18:36:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-01/kosovo-awards-rule-of-law-medal-to-bidens-late-son-beau"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Van Orden Receives Trump Endorsement for Wisconsin Race"
-    excerpt: "Former President Donald Trump is giving his “Complete and Total Endorsement!”. MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep."
-    publishedDateTime: 2021-08-12T16:28:00Z
-    webUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2021-08-12/van-orden-receives-trump-endorsement-for-wisconsin-race"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "f+hXaQyGgJ8Fz/8nfOBYyKDrKI46el+CP76gxrTeW2+DwQhGYFQpdP2YvbKIR+5JcbxPXxM8hg4Yi8HNzogF/ZX6fXLOuBqBmowLJO5CPPwn4sEWW6PFuqh7WNZtRRY/XSOgGvHeVDcAZMcfDph3cBQBFHCP8E0/rpBbJJEAnhDdE1tN51EfgSpIzAOrATit1vkyfaN3Q8nIhrtnK7rDld3FHwl2EuseK/Dqz+7kNHuQJAFhKw0Uf2MbSBRROXsj16uSosAh6RgyQD8YHxxe9wRqeEYkjtG1B5AcZ2KxttJKsvcQoY83wmu15MCMWHMGUHGkx0jO0Y8bgZPO+jwiobAHrIzEwabxTtSJjOQtFRDyTQuUXzIqcu8l7TZQte5LxXkUhtUlJT/OB58FRk8ubC+TuAV+Cat+F+XmjRAN6+k8ekA/A3DiDhg4JCeALxSjE8wLv66/OsXKQ7cEyKd7gWa0bWAWke0XfFSWoJN+2v73fz7A+SuGMomeim6l8zCh1IsxzNEcxr1gjaOllh2ACQ==;DnSFjogIHlO7qafXq9qxoQ=="
 ---

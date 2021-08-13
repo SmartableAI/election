@@ -29,401 +29,338 @@ images:
     isCached: true
 
 related:
-  - title: "Biden ends GOP infrastructure talks, but new group emerges"
-    excerpt: "President Joe Biden has ended talks with a group of Republican senators on a big infrastructure package and has started to reach out to senators in a new bipartisan effort"
-    publishedDateTime: 2021-06-09T04:48:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
+  - title: "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden"
+    excerpt: "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it."
+    publishedDateTime: 2021-08-13T14:49:00Z
+    webUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152"
+    ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1bff0f645d8344baa26f3f755411995e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1870140/donald-trump-reinstatement-day-president-mike-lindell.jpg"
+        width: 2500
+        height: 1665
         isCached: true
-  - title: "Biden nominee linked to 1989 sabotage draws Republican ire"
-    excerpt: "President Joe Biden’s nominee to oversee federal lands in the U.S. West is facing Republican pressure to withdraw over her ties to environmental activists convicted of spiking trees to sabotage a nati"
-    publishedDateTime: 2021-06-11T20:52:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229806"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229806"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229806"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Go green or go bipartisan? Biden's big infrastructure choice"
-    excerpt: "President Joe Biden’s hope of pouring billions of dollars into green infrastructure investments is running into the political obstacle of winning over Republican votes"
-    publishedDateTime: 2021-06-12T04:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3d5e1572288b4910be34676fc841b5b8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden Had His First Meeting With Queen Elizabeth As President"
-    excerpt: "President Joe Biden met with Queen Elizabeth II in England on Friday — the first time he has encountered the British sovereign as commander in chief. The president and first lady Jill Biden were photographed chatting with the Queen at an event for heads of state attending the G7 summit in Cornwall."
-    publishedDateTime: 2021-06-11T22:16:00Z
-    webUrl: "https://www.buzzfeednews.com/article/davidmack/joe-biden-meets-queen-elizabeth-g7-summit"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/davidmack/joe-biden-meets-queen-elizabeth-g7-summit"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/davidmack/joe-biden-meets-queen-elizabeth-g7-summit"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 125
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-05/27/14/tmp/buzzfeed-prod-fastlane-03/tmp-name-2-8287-1495908039-5_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "Jill Biden tells English surf therapy group about her board"
-    excerpt: "U.S. first lady Jill Biden told members of a British group that uses surfing as therapy that she once owned a surfboard"
-    publishedDateTime: 2021-06-12T19:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b17758efa8044382aabc7f7d67531f65_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Queen hosts Joe Biden for tea at Windsor Castle"
-    excerpt: "US president and first lady welcomed with guard of honour after arriving from G7 summit in Cornwall"
-    publishedDateTime: 2021-06-13T16:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
+  - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
+    excerpt: "The president appeals to the ‘civil religion’ of Washington and Kennedy. His opponents use weasel words and seek to limit democracy. The stakes could not be higher"
+    publishedDateTime: 2021-08-08T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 125
+    quality: 135
     images:
-      - url: "https://i.guim.co.uk/img/media/fc545c7d35f3ded144c7f42333f776e6e9e50a54/0_173_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0fc688401e638ea4a116f52a1d7b010f"
+      - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
         width: 600
         height: 360
         isCached: true
-  - title: "Biden administration pushes plan to combat domestic terror"
-    excerpt: "The Biden administration says it'll enhance its analysis of threats from domestic terrorists as part of a nationwide strategy to combat domestic terrorism"
-    publishedDateTime: 2021-06-15T11:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-pushes-plan-combat-domestic-terror-78284617"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-pushes-plan-combat-domestic-terror-78284617"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-pushes-plan-combat-domestic-terror-78284617"
+  - title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
+    excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
+    publishedDateTime: 2021-08-12T23:29:00Z
+    webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
+    ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
     images:
-      - url: "https://s.abcnews.com/images/International/biden-jobs-ap-rc-210604_1622818701236_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
+        width: 3431
+        height: 2282
         isCached: true
-  - title: "Biden nominates 9 to high-profile ambassador postings"
-    excerpt: "President Joe Biden has unveiled picks for several high-profile ambassadorial postings, turning to a group that includes career diplomats, political allies and an American aviation hero"
-    publishedDateTime: 2021-06-15T20:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nominates-high-profile-ambassador-postings-78296693"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-high-profile-ambassador-postings-78296693"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-high-profile-ambassador-postings-78296693"
+  - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
+    excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
+    publishedDateTime: 2021-08-13T08:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/08/13/dan-crenshaw-heckled-bobby-piton/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_7e2141ba6e1c4af0bdb6e05dd9171362_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
-    excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"
-    publishedDateTime: 2021-06-11T17:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
+  - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
+    publishedDateTime: 2021-08-09T15:38:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/09/trump-told-cali-rake-leaves-whats-bidens-plan-wildfires/5538438001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5538438001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5538438001"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 83
     images:
-      - url: "https://i.guim.co.uk/img/media/db75f8fd1df67f101245365ecb0501f020301bbc/0_39_2023_1214/master/2023.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f868fa28983de7cc7adef6cd008110dc"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
-    excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."
-    publishedDateTime: 2021-06-12T16:57:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 123
-    images:
-      - url: "https://www.chicagotribune.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
+      - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 674
         isCached: true
-  - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
-    excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
-    publishedDateTime: 2021-06-07T16:06:00Z
-    webUrl: "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
+  - title: "President Biden’s complicated new task: keeping Democrats together"
+    excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
+    publishedDateTime: 2021-08-12T11:44:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564817374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158"
-        width: 828
-        height: 545
-        isCached: true
-  - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
-    excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
-    publishedDateTime: 2021-06-07T17:55:00Z
-    webUrl: "https://www.reuters.com/article/us-g7-summit-biden-idUSKCN2DJ24Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564817374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158"
-        width: 828
-        height: 545
-        isCached: true
-  - title: "White House says Republicans increased offer on Biden infrastructure deal by $50bn - live"
-    excerpt: "Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
-    publishedDateTime: 2021-06-04T22:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "White House says Republicans increased offer on Biden infrastructure deal by $50bn – as it happened"
-    excerpt: "The president spoke with Senator Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
-    publishedDateTime: 2021-06-04T23:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba84448f082ac930aea9aa"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 111
-    images:
-      - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden says US allies 'shocked' by Capitol riot"
-    excerpt: "President Joe Biden says U.S. allies were \"shocked\" and \"surprised\" by the Jan. 6 insurrection at the U.S. Capitol, but they nevertheless are unconcerned about American leadership on the world stage."
-    publishedDateTime: 2021-06-14T21:23:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/14/biden-says-us-allies-shocked-capitol-riot/7693301002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8e793528-cbe1-41e2-9822-e6e78628a018_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "SCOTUS seeks Biden views on admissions dispute"
-    excerpt: "News Agency SCOTUS seeks Biden views on admissions dispute. Posted . The U.S. Supreme Court on Monday asked President Joe Biden's administration to give its views on whether the j"
-    publishedDateTime: 2021-06-14T22:27:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEHDPA73"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210614&i=OVEHDPA73&r=OVEHDPA73&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "GOP nixes debate on Biden's infrastructure plans"
-    excerpt: "Politics GOP nixes debate on Biden's infrastructure plans. Posted . U.S. Senate Republicans blocked a move to open debate on Wednesday on a $1.2 trillion bipartisan infrastructure"
-    publishedDateTime: 2021-07-22T00:46:00Z
-    webUrl: "https://www.reuters.com/video/watch/gop-nixes-debate-on-bidens-infrastructur-idOVEMSHH3Z?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210722&i=OVEMSHH3Z&r=OVEMSHH3Z&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "The Hill's Morning Report - Presented by Citizens' Climate Lobby - Biden floats infrastructure, tax concessions to GOP"
-    excerpt: "Welcome to The Hill’s Morning Report. It is Friday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
-    publishedDateTime: 2021-06-04T10:30:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/556812-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/556812-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/556812-the-hills-morning-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 101
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenbike.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Will Joe Biden Stand Up for a Free Press?"
-    excerpt: "As Russia tries to expel Radio Free Europe/Radio Liberty, the president must show that he’ll protect media rights in ways his predecessor didn’t."
-    publishedDateTime: 2021-06-15T11:24:00Z
-    webUrl: "https://www.theatlantic.com/international/archive/2021/06/donald-trump-joe-biden-vladimir-putin/619175/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/619175/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619175/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 75
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/xAGlQTVq1FBZkjw70xR4cEAxEqA=/570x321/media/img/mt/2021/06/TrumpLegacyPress/original.jpg"
-        width: 570
-        height: 321
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2PFTKOXIRAA7LGGHI6QX7C3WQ.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
-    excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."
-    publishedDateTime: 2021-06-12T19:57:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
+  - title: "President Biden eyes tougher vaccine rules"
+    excerpt: "Even as Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
+    publishedDateTime: 2021-08-13T15:04:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 73
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
     images:
-      - url: "https://www.baltimoresun.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
+    excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
+    publishedDateTime: 2021-08-07T22:12:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 72
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5T3B72GJKZHL5LEKWA44VBCXGY.jpeg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Student debt | Borrowers relieved as President Biden extends loan repayments"
+    excerpt: "Atlanta filmmaker, Jeremy Thao, said the pause on student loans repayment helped him during the pandemic when he lost film work."
+    publishedDateTime: 2021-08-08T23:25:00Z
+    webUrl: "https://www.11alive.com/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 72
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/a0f1d29b-515a-4486-ad7b-d43953d35f49/a0f1d29b-515a-4486-ad7b-d43953d35f49_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Secretary of Defense, President Biden to Require COVID-19 Vaccine For Military"
+    excerpt: "U.S. Secretary of Defense Lloyd J. Austin III's announcement Monday that he is seeking approval from President Joe Biden to make the COVID-19 vaccine mandatory for all service members by Sept. 15."
+    publishedDateTime: 2021-08-09T19:05:00Z
+    webUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    ampWebUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 71
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/Pierside-Vaccinations.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
+    excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
+    publishedDateTime: 2021-08-12T08:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/virginia-heffernan-biden-s-build-back-better-just-beat-trump-all-over-again/article_114e6da1-e563-555d-bdaa-88eb685f1b0a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 66
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "President Joe Biden says Queen Elizabeth reminded him of his mom"
-    excerpt: "US President Joe Biden has compared Queen Elizabeth to his mother. The 78-year-old commander-in-chief and his wife, First Lady Jill Biden, was hosted for tea by the British monarch at her Windsor Castle residence on Sunday (13."
-    publishedDateTime: 2021-06-14T09:00:00Z
-    webUrl: "https://www.djournal.com/lifestyle/arts-entertainment/president-joe-biden-says-queen-elizabeth-reminded-him-of-his-mom/article_45714a26-c9c6-5dc0-926c-015f46bb12ca.html"
+  - title: "One-third of Native Americans aren’t registered to vote. Can President Biden change that?"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253429449.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 66
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
+    publishedDateTime: 2021-08-09T16:26:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/09/trump-told-california-to-sweep-the-forest-floors-whats-bidens-plan-to-combat-wildfires/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 60
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Senate votes to advance Biden’s $1T infrastructure bill"
+    excerpt: "Senators have convened for a second consecutive weekend session on the bipartisan infrastructure bill as they edge toward a vote."
+    publishedDateTime: 2021-08-08T14:24:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article253331388.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article253331388.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253331388.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 55
+  - title: "Democrats applaud Biden’s unconstitutional act"
+    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden’s CDC to extend an eviction moratorium sure to be"
+    publishedDateTime: 2021-08-09T13:32:00Z
+    webUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
+    type: article
+    provider:
+      name: Williamsport Sun-Gazette
+      domain: sungazette.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/68/568bbff0-514f-58a1-987d-21eee6f0834f/60c71742cc8d1.image.jpg?crop=1000%2C563%2C0%2C43&resize=1000%2C563&order=crop%2Cresize"
-        width: 1000
-        height: 563
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.sungazette.com/images/2016/10/17135124/fblike1.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "President Joe Biden speaks following NATO summit"
-    excerpt: "President Joe Biden called Russian President Vladimir Putin a “worthy adversary” but declined to say how he’ll measure the success of the meeting in advance."
-    publishedDateTime: 2021-06-14T20:21:00Z
-    webUrl: "https://www.myhighplains.com/video/president-joe-biden-speaks-following-nato-summit/6718737/"
+  - title: "Biden Welcomes Fresh Review of Sept. 11 Attack Documents"
+    excerpt: "U.S. President Joe Biden said he welcomed a Justice Department filing on Monday committing to a fresh review of documents related to the Sept. 11, 2001, attacks on the United States for which the government has previously asserted privileges."
+    publishedDateTime: 2021-08-09T19:21:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
     type: article
     provider:
-      name: myhighplains.com
-      domain: myhighplains.com
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "President Biden delivers remarks on the Infrastructure Act"
+    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks on the passage of the Senate's bipartisan Infrastructure Investment and Jobs Act in the East Room of the White House in Washington,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d454b789edba3fa918c29838db56d5ff/President-Biden-delivers-remarks-on-the-Infrastructure-Act/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "https://i2.wp.com/www.myhighplains.com/wp-content/uploads/sites/87/2021/06/GettyImages-1233398841-1.jpg?w=2000&#038;ssl=1"
-        width: 1024
-        height: 683
+      - url: "https://cdnph.upi.com/pv/upi/d454b789edba3fa918c29838db56d5ff/Biden-Infrastructure.jpg"
+        width: 650
+        height: 433
         isCached: true
-  - title: "President Joe Biden nominates three to be federal judges in Connecticut"
-    excerpt: "President Joe Biden on Tuesday named his picks to serve as judges on the federal bench in Connecticut, including one prosecutor who could be the first person of South Asian descent to serve in the state’s federal courts."
-    publishedDateTime: 2021-06-15T18:29:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/President-Joe-Biden-nominates-three-to-be-federal-16249747.php?src=sthplocal"
+  - title: "President Joe Biden Delivers Remarks on Infrastructure"
+    excerpt: "Vice President Kamala Harris introduces President Joe Biden to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    publishedDateTime: 2021-08-10T21:00:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0b39f6565abe13f0b3779d83cb9885f8/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/20/46/03/21127399/3/rawImage.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://cdnph.upi.com/pv/upi/0b39f6565abe13f0b3779d83cb9885f8/WHITE-HOUSEINFRASTRUCTURE.jpg"
+        width: 650
+        height: 433
         isCached: true
-  - title: "President Joe Biden calls on Republicans to boost $980B infrastructure offer; Democrats remain ready to go it alone"
-    excerpt: "The White House on Monday called on Republicans to bump their recent $980 billion offer on an infrastructure package, noting President Joe Biden shaved his initial proposal by almost $1 trillion in a move to seal a historic investment in jobs,"
-    publishedDateTime: 2021-06-07T19:01:00Z
-    webUrl: "https://www.masslive.com/politics/2021/06/president-joe-biden-calls-on-republicans-to-boost-980b-infrastructure-offer-democrats-remain-ready-to-go-it-alone.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/06/president-joe-biden-calls-on-republicans-to-boost-980b-infrastructure-offer-democrats-remain-ready-to-go-it-alone.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/president-joe-biden-calls-on-republicans-to-boost-980b-infrastructure-offer-democrats-remain-ready-to-go-it-alone.html?outputType=amp"
+  - title: "Trump's latest con victims are his own political donors"
+    excerpt: "In what should qualify as the least surprising story of the year, it turns out former President Donald Trump is lying to his own political donors about what he’s using their money for. The ex-president has raised tens of millions of dollars toward the stated goals of challenging the last election and helping Republicans win in the coming midterms."
+    publishedDateTime: 2021-08-11T21:10:00Z
+    webUrl: "https://www.theday.com/article/20210811/OP01/210819872"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
+  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
+    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
+    publishedDateTime: 2021-08-11T20:25:00Z
+    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+  - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
+    excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
+    publishedDateTime: 2021-08-08T23:39:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1025943104/president-biden-tells-u-s-olympic-squad-it-restored-the-soul-of-america"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
     quality: 53
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FARDNIG44VBVZGDZP6UJ24ONUE.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
+        width: 948
+        height: 711
         isCached: true
-  - title: "Joe Biden public lands nominee linked to 1989 sabotage draws Republican ire"
-    excerpt: "The animosity toward her nomination reflects anger among some Republicans over Tracy Stone-Manning's role in the 2020 election."
-    publishedDateTime: 2021-06-12T14:13:00Z
-    webUrl: "https://bangordailynews.com/2021/06/12/national-politics/joe-biden-public-lands-nominee-linked-to-1989-sabotage-draws-republican-ire/"
+  - title: "President Biden Meets With Governors and Mayors on Infrastructure"
+    excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"
+    publishedDateTime: 2021-08-11T17:15:00Z
+    webUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
     type: article
     provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 53
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Biden-Public-Lands-Nominee.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "G-7: What's driving the day at summit in U.K. attended by President Joe Biden"
-    excerpt: "President Joe Biden and the leaders of Britain, Canada, France, Germany, Italy and Japan are expected to endorse a plan to ensure a global minimum corporate tax rate of at least 15%. This is to prevent large companies such as Amazon and Apple from paying little-to-no-tax on their overseas earnings."
-    publishedDateTime: 2021-06-11T09:09:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/06/11/g-7-whats-driving-day-u-k-summit-attended-joe-biden/7622607002/"
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
+    excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
+    publishedDateTime: 2021-08-12T09:02:00Z
+    webUrl: "https://www.lohud.com/story/news/2021/08/12/trump-tower-white-plains-remove-ex-presidents-brand/5531008001/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: The Journal News
+      domain: lohud.com
     quality: 32
+  - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
+    excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
+    publishedDateTime: 2021-08-10T11:29:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 13
 
 secured: "yjuO2lx/rL0bWCvMVs4ziO/yf0l3bmsuuyXwhxXUmuSZ0TjAfxVZ7GBtootpz3kwRshIXiOmANXWiln3EkAVUaYVZaOudF188qY9+r3vl4psJUNIbqrTtV/s34WQSRd+mH3NzfUvGjBq2dhoQcPeGFu955XYmVjNzSM/kx3CE05YmSo7d5X9IDsVA1RaBt6aIqNT13Yl3Prxq98rgQhVkNktjtagUx6bJafPDs3qNKdMsQk1HelFhwRTexnoNubvtNmbaAsP8JuIBOAepobXrL8jXSAk7gfzdQQRFT1LTZlcF+UhkpdrQXGaP8NdJtnQjPkuRfUIs+cxDaK7edwtJazWpdAhuK2BDZY+WfFgtJo=;n2ND6Vnsm/dtmM1ZhqV+lw=="
 ---

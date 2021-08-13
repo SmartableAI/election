@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article253365748.
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html"
 type: article
 quality: 73
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says rising prices are temporary, 'no serious' economist predicting spiraling inflation | Charlotte Observer"
+    excerpt: "President Joe Biden sought to alleviate Americans' concerns that price spikes would persist in an economic speech from the White House July 2021."
+    publishedDateTime: 2021-08-13T15:16:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article253468574.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 13
 
 secured: "DGuOhernm913/q6AtYzdliAtWRiyekFQ/CvkJRHw/Q/TW6HQXqZFpkE3nRzlyW0r3iXf6igwL2+rpAGmJR4KMGtrJ2yNMwBjmr302bSt88lBwqPDymbU36RzUoOKUHWhCxvNxV+aHlvaqRCjNoGdNbInmBdILBaeBshcGKnIz9HLTTK2CFvf8qlR1fcae9ZG5keqS/KGN35XHPTXNXETOepq+RrgoPxbACOLn21WPHotej5nAPT3B+42uxG412ZiSw2amdsFceiwqebm4+3Zjw2pK9Kf0FD87hekUwDP1qM8nFZFfPqTEfvAKWpnt+taCXwB1yCZu587BNhiFYpc+bYonYoYRiw7S/EqkFuPbRY=;Oi9iA+MptJQ1roijcxFCyw=="
 ---

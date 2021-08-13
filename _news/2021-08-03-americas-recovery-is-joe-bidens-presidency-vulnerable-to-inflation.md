@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa"
 type: article
 quality: 125
-heat: 425
+heat: 385
 published: true
 
 provider:
@@ -106,38 +106,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
-    excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
-    publishedDateTime: 2021-08-07T22:12:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 72
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5T3B72GJKZHL5LEKWA44VBCXGY.jpeg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Student debt | Borrowers relieved as President Biden extends loan repayments"
-    excerpt: "Atlanta filmmaker, Jeremy Thao, said the pause on student loans repayment helped him during the pandemic when he lost film work."
-    publishedDateTime: 2021-08-08T23:25:00Z
-    webUrl: "https://www.11alive.com/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 72
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/a0f1d29b-515a-4486-ad7b-d43953d35f49/a0f1d29b-515a-4486-ad7b-d43953d35f49_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "President Joe Biden’s agriculture secretary touched down in Fresno. Here’s what he saw"
     excerpt: "His visit comes the same week a the State Water Resources Control Board imposed an “emergency curtailment” on water to farms."
     publishedDateTime: 2021-08-05T21:34:00Z
@@ -182,6 +150,20 @@ related:
         width: 650
         height: 975
         isCached: true
+  - title: "Immigrant detentions soar despite Joe Biden’s campaign promises"
+    excerpt: "Alexander Martinez says he fled from homophobia, government persecution and the notorious MS-13 gang in El Salvador only to run into abuse and harassment in America’s immigration detention"
+    publishedDateTime: 2021-08-06T04:00:00Z
+    webUrl: "https://www.denverpost.com/2021/08/05/immigrant-detentions-joe-biden-campaign-promises/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 55
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21213567247499.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Voisine: Biden’s vax incentives promote inflation"
     excerpt: "Rewarding the unvaccinated with a $100 shot, a chance at a $1 million lottery, and let’s not forget free beer. What’s next? Free tattoos, ear rings, free rent if you get vaccinated as soon as possible?"
     publishedDateTime: 2021-08-10T04:00:00Z
@@ -195,20 +177,6 @@ related:
       - url: "https://multifiles.pressherald.com/uploads/sites/11/2018/12/sunjournal-social.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
-    excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
-    publishedDateTime: 2021-08-08T23:39:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1025943104/president-biden-tells-u-s-olympic-squad-it-restored-the-soul-of-america"
-    type: article
-    provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
-    quality: 53
-    images:
-      - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
-        width: 948
-        height: 711
         isCached: true
   - title: "Cuomo Harassment Allegations: Joe Biden Calls On New York Governor To Resign"
     excerpt: "President Joe Biden responds to new report that found that New York Gov. Andrew Cuomo sexually harassed multiple current and former female employees."

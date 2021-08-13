@@ -357,17 +357,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Senate votes to advance Biden’s $1T infrastructure bill"
-    excerpt: "Senators have convened for a second consecutive weekend session on the bipartisan infrastructure bill as they edge toward a vote."
-    publishedDateTime: 2021-08-08T14:24:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article253331388.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article253331388.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253331388.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 55
   - title: "Joe Biden Speaks to Reporters Outside West Wing on Infrustructure Negotiations"
     excerpt: "MT, outside of the West Wing of the White House following a bipartisan meeting where they reached a deal on the infrastructure plan in Washington, DC, on Thursday, June 24, 2021. Photo by Sarah Silbig"
     publishedDateTime: 2021-06-24T17:26:00Z

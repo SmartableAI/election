@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 type: article
 quality: 125
-heat: 305
+heat: 285
 published: true
 
 provider:
@@ -93,17 +93,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Biden Welcomes Fresh Review of Sept. 11 Attack Documents"
-    excerpt: "U.S. President Joe Biden said he welcomed a Justice Department filing on Monday committing to a fresh review of documents related to the Sept. 11, 2001, attacks on the United States for which the government has previously asserted privileges."
-    publishedDateTime: 2021-08-09T19:21:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Ron DeSantis political committee fundraises off Joe Biden ‘confusion’"
     excerpt: "President Joe Biden may have been joking when he referred to Ron DeSantis as “Governor who?”, but the Friends of Ron DeSantis political committee is taking it seriously … and using it to make some quick cash."
     publishedDateTime: 2021-08-09T23:18:00Z

@@ -464,22 +464,6 @@ related:
         width: 5901
         height: 3934
         isCached: true
-  - title: "Secretary of Defense, President Biden to Require COVID-19 Vaccine For Military"
-    excerpt: "U.S. Secretary of Defense Lloyd J. Austin III's announcement Monday that he is seeking approval from President Joe Biden to make the COVID-19 vaccine mandatory for all service members by Sept. 15."
-    publishedDateTime: 2021-08-09T19:05:00Z
-    webUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
-    ampWebUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
-    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
-    type: article
-    provider:
-      name: Times of San Diego
-      domain: timesofsandiego.com
-    quality: 71
-    images:
-      - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/Pierside-Vaccinations.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "President Joe Biden, G-7 leaders agree on COVID vaccines, China and taxing corporations"
     excerpt: "Leaders of the Group of Seven wealthy nations on Sunday pledged more than 1 billion COVID-19 vaccine doses to poorer nations, vowed to help developing countries grow their economies while fighting climate change and agreed to challenge China’s “non-market economic practices” and call out Beijing for rights abuses in Xinjiang and Hong Kong."
     publishedDateTime: 2021-06-13T15:28:00Z

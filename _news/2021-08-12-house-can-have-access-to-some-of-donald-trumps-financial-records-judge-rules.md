@@ -31,53 +31,110 @@ images:
     isCached: true
 
 related:
-  - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
-    excerpt: "The president appeals to the ‘civil religion’ of Washington and Kennedy. His opponents use weasel words and seek to limit democracy. The stakes could not be higher"
-    publishedDateTime: 2021-08-08T05:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 135
-    images:
-      - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
-    excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
-    publishedDateTime: 2021-08-12T23:29:00Z
-    webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
-    ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
-    images:
-      - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
-        width: 3431
-        height: 2282
-        isCached: true
-  - title: "Biden says Congress should extend eviction ban"
-    excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins CBSN AM to discuss the latest."
-    publishedDateTime: 2021-08-01T20:48:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-urges-congress-to-extend-eviction-ban/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-urges-congress-to-extend-eviction-ban/"
+  - title: "Judge rules Dominion defamation case against Trump allies can proceed"
+    excerpt: "A federal judge cleared the way for a defamation case​ by Dominion Voting Systems to proceed against Sidney Powell, Rudy Giuliani and Mike Lindell."
+    publishedDateTime: 2021-08-12T13:19:00Z
+    webUrl: "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/30/24429d6a-f0d9-4d12-ac4e-f3ec60975e64/thumbnail/1200x630/8b8e0cc45b41c40d8d0282e73756989c/cbsn-fusion-pres-biden-urges-congress-to-extend-eviction-ban-thumbnail-763236-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/08/12/0be33b12-830d-4c03-9278-d82c0bb76461/thumbnail/1200x630g1/bed7589c1d9e274f1896636b27e28722/gettyimages-1229757105.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Judge rules Dominion case can proceed against Trump allies"
+    excerpt: "Sidney Powell, Rudy Giuliani and Mike Lindell, allies of former President Donald Trump, all falsely accused the company of rigging the 2020 election."
+    publishedDateTime: 2021-08-12T20:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/12/judge-says-dominion-case-against-powell-giuliani-lindell-can-proceed/8114114002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8114114002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8114114002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/a60a3572-fe47-4ad3-a8ac-ec67bb8bbcc3-AP_Not_Real_News.jpg?auto=webp&crop=5542,3117,x0,y281&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Ally Roger Stone Hit With $5M Defamation Suit From Judicial Watch Founder"
+    excerpt: "Larry Klayman filed the suit after Stone claimed that the Judicial Watch founder was a \"warped former lawyer that the 11th circuit found guilty of molesting his own children.\""
+    publishedDateTime: 2021-08-12T20:55:00Z
+    webUrl: "https://www.newsweek.com/trump-ally-roger-stone-hit-5m-defamation-suit-judicial-watch-founder-1618952"
+    ampWebUrl: "https://www.newsweek.com/trump-ally-roger-stone-hit-5m-defamation-suit-judicial-watch-founder-1618952?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-roger-stone-hit-5m-defamation-suit-judicial-watch-founder-1618952?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1869744/trump-ally-roger-stone.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Man Who Voted for Trump in Place of Missing Wife Appears in Court on Charges of Her Murder"
+    excerpt: "On top of murder and submitting a fraudulent vote, the man could also be charged with tampering with his wife's deceased body as well as evidence."
+    publishedDateTime: 2021-08-09T19:19:00Z
+    webUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635"
+    ampWebUrl: "https://www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/man-who-voted-trump-place-missing-wife-appears-court-charges-her-murder-1617635?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1866603/man-fraudulently-votes-trump-missing-wife.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
+  - title: "Trump Claims 100M Could Have Died Without Operation Warp Speed, Says Kids Need to Go Back to School"
+    excerpt: "\"Could you imagine if I were president right now and we had this massive attack from the coronavirus?\" the former president asked Fox News host Dan Bongino."
+    publishedDateTime: 2021-08-08T15:23:00Z
+    webUrl: "https://www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291"
+    ampWebUrl: "https://www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-claims-100m-could-have-died-without-operation-warp-speed-says-kids-need-go-back-school-1617291?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
+    images:
+      - url: "https://d.newsweek.com/en/full/1658231/donald-trump-taking-off-mask.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "GOP activist calls out Rep. Dan Crenshaw for saying 2020 election wasn't stolen from Trump"
+    excerpt: "Appearing at a GOP fundraising dinner in Illinois on Wednesday, U.S. Rep. Dan Crenshaw clashed with a conservative activist after insisting there was not enough election fraud to account for Donald Trump’s loss in the 2020 presdential race."
+    publishedDateTime: 2021-08-12T18:48:00Z
+    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/GOP-activists-call-out-Rep-Dan-Crenshaw-for-16382965.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/amp/GOP-activists-call-out-Rep-Dan-Crenshaw-for-16382965.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/houston/amp/GOP-activists-call-out-Rep-Dan-Crenshaw-for-16382965.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 110
+  - title: "The Latest: More candidates emerge for Trump chief of staff"
+    excerpt: "The Latest on the White House chief of staff (all times local): 10 p.m. As President Donald Trump ponders picking a new chief of staff, more names are emerging as possible contenders for the job."
+    publishedDateTime: 2021-08-11T13:34:00Z
+    webUrl: "https://apnews.com/article/donald-trump-politics-michael-pence-north-america-mark-meadows-c76216421a014e0794913b9eae97aa88"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/media:1d786013700b4de28dfc62d50d824d8d/2000.jpeg"
+        width: 2000
+        height: 1234
         isCached: true
   - title: "Trump appeals ruling that U.S. House can see financial records"
     excerpt: "Lawyers for former U.S. President Donald Trump have quickly appealed this week's court ruling that his accounting firm must turn over some of his financial records to a Democratic-led House of Representatives committee."
@@ -93,241 +150,170 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
-    excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
-    publishedDateTime: 2021-08-13T08:09:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2021/08/13/dan-crenshaw-heckled-bobby-piton/"
+  - title: "Man sentenced for shooting Black girl at Iowa Trump rally"
+    excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
+    publishedDateTime: 2021-08-10T04:50:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-09/man-sentenced-for-shooting-black-girl-at-iowa-trump-rally?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
-    excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
-    publishedDateTime: 2021-08-09T15:38:00Z
-    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/09/trump-told-cali-rake-leaves-whats-bidens-plan-wildfires/5538438001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5538438001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5538438001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 83
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Biden’s eviction moratorium defies the rule of law"
-    excerpt: "As Biden’s casual disregard for the law shows once again, an independent judiciary is a crucial check on that impulse."
-    publishedDateTime: 2021-08-12T17:25:00Z
-    webUrl: "https://www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/"
-    ampWebUrl: "https://www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/12/bidens-eviction-moratorium-defies-the-rule-of-law/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
     quality: 75
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/08/OCR-L-CDCMASK-0514-02.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dfe408c/2147483647/strip/true/crop/5150x3444+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff3%2F73%2Fc52d529a5c7aef00c2b6b68f5f30%2Fe5e0390469b54193a0ae4e33394b6505"
+        width: 320
+        height: 214
         isCached: true
-  - title: "Van Orden receives Trump endorsement for Wisconsin race"
-    excerpt: "MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep. Ron Kind since 1997. Derrick Van Orden ..."
-    publishedDateTime: 2021-08-12T21:29:00Z
-    webUrl: "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php"
-    ampWebUrl: "https://www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
-    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+  - title: "Judge says accounting firm must hand over Trump financial records"
+    excerpt: "A federal judge on Wednesday ruled that an accounting firm must hand over some of former President Donald Trump's personal financial records to a House committee investigating him."
+    publishedDateTime: 2021-08-11T18:37:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/08/11/judge-Trump-financial-records/7971628702984/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/08/11/judge-Trump-financial-records/7971628702984/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/11/judge-Trump-financial-records/7971628702984/"
     type: article
     provider:
-      name: Midland Reporter-Telegram
-      domain: mrt.com
+      name: UPI.com
+      domain: upi.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7971628702984/2021/1/b29601c5fbcff241e3e43b3272057ec9/v1.5/Judge-says-accounting-firm-must-hand-over-Trump-financial-records.jpg"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Van Orden receives Trump endorsement in battleground WI-3 House race"
-    excerpt: "Former President Donald Trump has officially endorsed Republican Derrick Van Orden in his currently unopposed bid for Wisconsin's 3rd Congressional District, a key swing race in the upcoming midterms."
-    publishedDateTime: 2021-08-12T17:15:00Z
-    webUrl: "https://lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.html"
-    ampWebUrl: "https://lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.amp.html"
-    cdnAmpWebUrl: "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/news/local/govt-and-politics/van-orden-receives-trump-endorsement-in-battleground-wi-3-house-race/article_48661faa-effc-57e4-8b85-aa9fe107b281.amp.html"
+  - title: "White Army vet who shot Black girl at Trump rally sentenced to 10 years"
+    excerpt: "A white military veteran who shot and wounded a 15-year-old Black girl at a Trump rally last year has been sentenced to ten years."
+    publishedDateTime: 2021-08-11T21:33:00Z
+    webUrl: "https://thegrio.com/2021/08/11/man-who-shot-black-girl-gets-10-years/"
+    ampWebUrl: "https://thegrio.com/2021/08/11/man-who-shot-black-girl-gets-10-years/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/08/11/man-who-shot-black-girl-gets-10-years/amp/"
     type: article
     provider:
-      name: La Crosse Tribune
-      domain: lacrossetribune.com
+      name: The Grio
+      domain: thegrio.com
     quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/4/31/431a004c-b905-520d-a70c-7bafab18b438/60da3a3801a58.image.jpg?resize=1024%2C710"
-        width: 1024
-        height: 710
-        isCached: true
-  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
-    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
-    publishedDateTime: 2021-08-11T18:01:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
-    ampWebUrl: "https://amp.statesman.com/amp/5468863001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
-    excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
-    publishedDateTime: 2021-08-12T08:30:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/virginia-heffernan-biden-s-build-back-better-just-beat-trump-all-over-again/article_114e6da1-e563-555d-bdaa-88eb685f1b0a.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 66
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "One-third of Native Americans aren’t registered to vote. Can President Biden change that?"
-    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
-    publishedDateTime: 2021-08-13T09:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article253429449.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253429449.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253429449.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 66
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+      - url: "https://thegrio.com/wp-content/uploads/2021/08/pjimage-2021-08-10T180930.192.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
-    excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
-    publishedDateTime: 2021-08-09T16:26:00Z
-    webUrl: "https://www.columbian.com/news/2021/aug/09/trump-told-california-to-sweep-the-forest-floors-whats-bidens-plan-to-combat-wildfires/"
+  - title: "Judy Collins wants to have Donald Trump on her podcast. Here's why"
+    excerpt: "Judy Collins is back on tour, along with fellow singer/songwriter and guitarist Richard Thompson, with Jesse Collin Young, at Tanglewood on Aug. 22."
+    publishedDateTime: 2021-08-13T09:30:00Z
+    webUrl: "https://www.metrowestdailynews.com/story/entertainment/music/2021/08/13/judy-collins-tanglewood-jesse-collin-young-richard-thompson-aug-22/8116696002/"
+    ampWebUrl: "https://amp.metrowestdailynews.com/amp/8116696002"
+    cdnAmpWebUrl: "https://amp-metrowestdailynews-com.cdn.ampproject.org/c/s/amp.metrowestdailynews.com/amp/8116696002"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
+      name: The MetroWest Daily News
+      domain: metrowestdailynews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/12/NMWD/a0b7d36f-f202-484a-a9a3-1b50399ec91c-Judy_Collins_Photo_by_Brad_Trent.jpg?auto=webp&crop=1872,1053,x0,y720&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Former President Donald Trump to hold rally in Cullman. What to know before you go"
+    excerpt: "Former President Donald Trump is scheduled to speak at a \"Save America\" rally in Cullman, Alabama, on Aug. 21, 2021."
+    publishedDateTime: 2021-08-05T11:01:00Z
+    webUrl: "https://www.montgomeryadvertiser.com/story/news/politics/2021/08/05/donald-trump-rally-cullman-alabama-tickets-details/5491027001/"
+    ampWebUrl: "https://amp.montgomeryadvertiser.com/amp/5491027001"
+    cdnAmpWebUrl: "https://amp-montgomeryadvertiser-com.cdn.ampproject.org/c/s/amp.montgomeryadvertiser.com/amp/5491027001"
+    type: article
+    provider:
+      name: Montgomery Advertiser
+      domain: montgomeryadvertiser.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/21/USAT/e7258ef3-99e5-4513-87fd-73d0a5ecb6b3-AP_Trump_Politics.jpg?auto=webp&crop=3523,1982,x0,y179&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump-Supporting News Outlets Newsmax, OANN Sued By Dominion In Defamation Lawsuit"
+    excerpt: "Right-wind media outlets Newsmax and OANN are being sued for $1.6 billion each by Dominion Voting Systems in defamation lawsuits."
+    publishedDateTime: 2021-08-10T20:38:00Z
+    webUrl: "https://www.ibtimes.com/trump-supporting-news-outlets-newsmax-oann-sued-dominion-defamation-lawsuit-3270717"
+    ampWebUrl: "https://www.ibtimes.com/trump-supporting-news-outlets-newsmax-oann-sued-dominion-defamation-lawsuit-3270717?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-supporting-news-outlets-newsmax-oann-sued-dominion-defamation-lawsuit-3270717?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/04/election-2016-rigged-safe-hackers-cyber-attacks-hacking-election-vote-voting-machines_0.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Judge rules Congress can get some Trump tax records related to D.C. hotel lease, gifts"
+    excerpt: "The ruling is limiting to a far broader House panel's demand as part of a long-running inquiry into Trump's financial disclosures."
+    publishedDateTime: 2021-08-11T19:49:00Z
+    webUrl: "https://www.app.com/story/news/politics/2021/08/11/judge-congress-can-get-some-trump-docs-covering-hotel-lease-gifts/8096428002/"
+    ampWebUrl: "https://amp.app.com/amp/8096428002"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/8096428002"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/28/USAT/c85f972b-b954-4c15-8b79-0149c362ba88-3_-_Trump_International_Hotel_Washington_D.C..jpg?auto=webp&crop=1999,1125,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump applied ‘persistent’ pressure to get DOJ to discredit election, his AG tells senators"
+    excerpt: "The testimony is part of a trough of information that investigators are assembling about Trump's frantic efforts to reverse his defeat and use the Justice Department to stay in office."
+    publishedDateTime: 2021-08-12T13:01:00Z
+    webUrl: "https://www.pressherald.com/2021/08/12/trump-applied-persistent-pressure-to-get-doj-to-discredit-election-his-ag-tells-senators/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
     quality: 60
     images:
-      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
-        width: 1200
-        height: 628
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Trump_Justice_Department_92346-1.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Angus King could stand in the way of Joe Biden’s ATF nominee"
-    excerpt: "Politico reported on Tuesday that King has signaled to the Biden administration and top senators that he is leaning against supporting the nomination. Only one member of the Democratic caucus — which includes King — must defect to sink the nomination."
-    publishedDateTime: 2021-08-04T20:41:00Z
-    webUrl: "https://bangordailynews.com/2021/08/04/politics/angus-king-could-stand-in-the-way-of-joe-bidens-atf-nominee/"
+  - title: "Dominion sues Trump-friendly broadcasters over fraud claims"
+    excerpt: "Vote-counting machine maker Dominion Voting Systems is filing defamation lawsuits against right-wing broadcasters and a prominent Donald Trump ally over their baseless claims that the 2020 election was marred by fraud."
+    publishedDateTime: 2021-08-11T22:06:00Z
+    webUrl: "https://www.sunherald.com/news/business/article253404220.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article253404220.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article253404220.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
+  - title: "Senate panel interviews former U.S. attorney in Trump probe"
+    excerpt: "The Senate Judiciary Committee met privately Wednesday with a former U.S. attorney in Georgia who resigned in January as then-President Donald Trump waged a pressure campaign on state and federal offi"
+    publishedDateTime: 2021-08-12T12:42:00Z
+    webUrl: "https://triblive.com/news/world/senate-panel-interviews-former-u-s-attorney-in-trump-probe/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 55
+    images:
+      - url: "https://assets-varnish.triblive.com/2021/08/4133458_web1_4133458-6ebcc9be78cf45648a7888e8d7f4450c.jpg"
+        width: 640
+        height: 441
+        isCached: true
+  - title: "Trump accounting firm must release some records to Congress"
+    excerpt: "Mazars will have to turn over largely records relating to Trump’s lease on the Old Post Office in Washington and certain emolument questions."
+    publishedDateTime: 2021-08-11T23:12:00Z
+    webUrl: "https://bangordailynews.com/2021/08/11/news/nation/trump-accounting-firm-must-release-some-records-to-congress/"
     type: article
     provider:
       name: Bangor Daily News
       domain: bangordailynews.com
     quality: 55
     images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Congress-Infrastructure-2.jpg"
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Optimized-Trump-Lawsuit.jpg"
         width: 1200
-        height: 799
-        isCached: true
-  - title: "Immigrant detentions soar despite Joe Biden’s campaign promises"
-    excerpt: "Alexander Martinez says he fled from homophobia, government persecution and the notorious MS-13 gang in El Salvador only to run into abuse and harassment in America’s immigration detention"
-    publishedDateTime: 2021-08-06T04:00:00Z
-    webUrl: "https://www.denverpost.com/2021/08/05/immigrant-detentions-joe-biden-campaign-promises/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 55
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/08/AP21213567247499.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "President Joe Biden Delivers Remarks on Clean Energy"
-    excerpt: "President Joe Biden signs an executive order on electric vehicles on the South Lawn of the White House in Washington, DC, on Thursday, August 5, 2021. President Biden announced a plan to reinstate tailpipe regulations in an effort to encourage Americans to move away from gasoline-powered cars and trucks to electric vehicles."
-    publishedDateTime: 2021-08-05T21:31:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5342ba33f28bc5377a5fd5ad40c14d1f/President-Joe-Biden-Delivers-Remarks-on-Clean-Energy/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/5342ba33f28bc5377a5fd5ad40c14d1f/WHITE-HOUSEBIDEN.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Democrats applaud Biden’s unconstitutional act"
-    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden’s CDC to extend an eviction moratorium sure to be"
-    publishedDateTime: 2021-08-09T13:32:00Z
-    webUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
-    type: article
-    provider:
-      name: Williamsport Sun-Gazette
-      domain: sungazette.com
-    quality: 55
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.sungazette.com/images/2016/10/17135124/fblike1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President Biden delivers remarks on the Infrastructure Act"
-    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks on the passage of the Senate's bipartisan Infrastructure Investment and Jobs Act in the East Room of the White House in Washington,"
-    publishedDateTime: 2021-08-10T19:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d454b789edba3fa918c29838db56d5ff/President-Biden-delivers-remarks-on-the-Infrastructure-Act/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/d454b789edba3fa918c29838db56d5ff/Biden-Infrastructure.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "President Joe Biden Delivers Remarks on Infrastructure"
-    excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
-    publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Ruling goes against Trump"
-    excerpt: "WASHINGTON — House Democrats investigating Donald Trump are entitled to some of the former president’s financial records, a federal judge ruled Wednesday."
-    publishedDateTime: 2021-08-12T04:24:00Z
-    webUrl: "https://www.columbian.com/news/2021/aug/11/ruling-goes-against-trump/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 55
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/08/Trump_Financial_Records_86507.jpg-5702b.jpg"
-        width: 900
-        height: 600
+        height: 800
         isCached: true
   - title: "Trump appeals court’s order for release of company records"
     excerpt: "Former U.S. President Donald Trump appealed a court order instructing his accountants to release certain financial records of his business to a congressional committee."
@@ -340,6 +326,20 @@ related:
     quality: 55
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump appeals split decision in fight with House over financial records"
+    excerpt: "A long-running court fight between Donald Trump and a House of Representatives committee over his financial records is heading back to an appeals court after a judge issued"
+    publishedDateTime: 2021-08-13T00:30:00Z
+    webUrl: "https://www.unionleader.com/news/courts/trump-appeals-split-decision-in-fight-with-house-over-financial-records/article_81c964ab-4f5a-552d-93d3-0eae6040a72e.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -357,19 +357,10 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kosovo Awards Rule of Law Medal to Biden’s Late Son Beau"
-    excerpt: "Kosovo on Sunday awarded a presidential medal on the rule of law to U.S. President Joe Biden’s late son Beau. In a ceremony held in front of the presidential office, Kosovo President Vjosa Osmani handed over the medal to the U."
-    publishedDateTime: 2021-08-01T18:36:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-08-01/kosovo-awards-rule-of-law-medal-to-bidens-late-son-beau"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Van Orden Receives Trump Endorsement for Wisconsin Race"
-    excerpt: "Former President Donald Trump is giving his “Complete and Total Endorsement!”. MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep."
-    publishedDateTime: 2021-08-12T16:28:00Z
-    webUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2021-08-12/van-orden-receives-trump-endorsement-for-wisconsin-race"
+  - title: "Judge: House Entitled to Some of Trump's Financial Records"
+    excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."
+    publishedDateTime: 2021-08-12T00:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-08-11/judge-house-entitled-to-some-of-trumps-financial-records"
     type: article
     provider:
       name: U.S. News & World Report

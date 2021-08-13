@@ -47,6 +47,20 @@ related:
         width: 2500
         height: 1658
         isCached: true
+  - title: "Ruling goes against Trump"
+    excerpt: "WASHINGTON — House Democrats investigating Donald Trump are entitled to some of the former president’s financial records, a federal judge ruled Wednesday."
+    publishedDateTime: 2021-08-12T04:24:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/11/ruling-goes-against-trump/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 55
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/08/Trump_Financial_Records_86507.jpg-5702b.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "pnH9jixcm8b4yt1N9e8KrxdgNL3Ylb4aGZ9btdEyu7gDxBzMqsMd3U/WQ+M9km4pxK4XEZil61ZmgI909jMo4bEKM5dYJEKZcZxC5HVm08wqOwufieY0WWmrtcxJ13TABoBN2zktl1IR4ByQ/cj/2HxCljSFg8V8PV7xyrKx+SlqaBaYQfzbCAi/BgD2XYRlxtN5zo+L+cUvHX6WY+zVDykIsWwGhrkyfsseCqgLE3Fr/3dRnFamSbE4tftIKIBpitZBhH23ZJfuThFiB88YsoDVP5EUGj3SgP+GnZrPbSuyWLVW/Aj6gT6PoEm/I0jo5+14TYZVENVs69KtAz4CS9MrKR27ylGE1Aufi02QJD0=;kPfo5NlqhzMQYF1Uy+oROQ=="
 ---

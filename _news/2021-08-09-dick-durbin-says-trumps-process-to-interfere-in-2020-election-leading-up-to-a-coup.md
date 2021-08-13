@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/dick-durbin-says-trumps-process-interfere-2
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313?amp=1"
 type: article
 quality: 132
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
     images:
       - url: "https://i.insider.com/6110f43138aff700189078bc?width=1200&format=jpeg"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "Ruling goes against Trump"
+    excerpt: "WASHINGTON — House Democrats investigating Donald Trump are entitled to some of the former president’s financial records, a federal judge ruled Wednesday."
+    publishedDateTime: 2021-08-12T04:24:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/11/ruling-goes-against-trump/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 55
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/08/Trump_Financial_Records_86507.jpg-5702b.jpg"
+        width: 900
         height: 600
         isCached: true
 

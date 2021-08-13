@@ -19,124 +19,334 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Will McConnell lift roadblock of Biden for infrastructure?"
-    excerpt: "Senate Republican leader Mitch McConnell had vowed to be “100% focused” on stopping President Joe Biden’s agenda"
-    publishedDateTime: 2021-08-05T04:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497"
+  - title: "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden"
+    excerpt: "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it."
+    publishedDateTime: 2021-08-13T14:49:00Z
+    webUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152"
+    ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d780b5e9d5574b8788053aa12c3bd597_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1870140/donald-trump-reinstatement-day-president-mike-lindell.jpg"
+        width: 2500
+        height: 1665
         isCached: true
-  - title: "'Every step of the way': McConnell pledges battle over Biden infrastructure plan"
-    excerpt: "WASHINGTON (Reuters) -President Joe Biden on Thursday faced the prospect of all-out political war with Republicans over his $2 trillion blueprint to revitalize America’s infrastructure, with a top Democrat also offering only partial support over how to ..."
-    publishedDateTime: 2021-04-01T23:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-mcconnell-idUSKBN2BO68D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO68D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO68D"
+  - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
+    excerpt: "The president appeals to the ‘civil religion’ of Washington and Kennedy. His opponents use weasel words and seek to limit democracy. The stakes could not be higher"
+    publishedDateTime: 2021-08-08T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
+      name: The Guardian
+      domain: theguardian.com
+    quality: 135
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557086703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH30381"
-        width: 796
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Senate passes $1 trillion bipartisan infrastructure plan, delivering a cornerstone of Biden’s agenda"
-    excerpt: "With a robust vote after weeks of fits and starts, the Senate approved a $1 trillion bipartisan infrastructure plan on Tuesday, a rare coalition of Democrats and Republicans joining to overcome skeptics and deliver a cornerstone of President Joe Biden’s agenda."
-    publishedDateTime: 2021-08-10T17:05:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-senate-infrastructure-bill-20210810-xngoltwnhjdw7djgsnkbnwxvpe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-senate-infrastructure-bill-20210810-xngoltwnhjdw7djgsnkbnwxvpe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-senate-infrastructure-bill-20210810-xngoltwnhjdw7djgsnkbnwxvpe-story.html?outputType=amp"
+  - title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
+    excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
+    publishedDateTime: 2021-08-12T23:29:00Z
+    webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
+    ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 110
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
     images:
-      - url: "https://www.chicagotribune.com/resizer/9A4Psas_2pSRGH1fQ836JMh-l0o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SZJ2IW6LTWM26RC3DJTFFZHVXA.aspx"
+      - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
+        width: 3431
+        height: 2282
+        isCached: true
+  - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
+    excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
+    publishedDateTime: 2021-08-13T08:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/08/13/dan-crenshaw-heckled-bobby-piton/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
+    publishedDateTime: 2021-08-09T15:38:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/09/trump-told-cali-rake-leaves-whats-bidens-plan-wildfires/5538438001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5538438001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5538438001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 674
         isCached: true
-  - title: "WATCH LIVE: Biden remarks after major wins on infrastructure spending"
-    excerpt: "The Senate approved a $1T bill that would boost federal spending for major improvements of roads, bridges, internet access and other public works across the US."
-    publishedDateTime: 2021-08-11T17:42:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/president-biden-to-address-build-back-better-plan/507-c2fc0af7-669d-481e-84ee-513a527dc3d1"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/president-biden-to-address-build-back-better-plan/507-c2fc0af7-669d-481e-84ee-513a527dc3d1"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/president-biden-to-address-build-back-better-plan/507-c2fc0af7-669d-481e-84ee-513a527dc3d1"
+  - title: "President Biden’s complicated new task: keeping Democrats together"
+    excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
+    publishedDateTime: 2021-08-12T11:44:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 75
     images:
-      - url: "https://media.khou.com/assets/CCT/images/4e04e287-a4ba-4563-8498-01052b016446/4e04e287-a4ba-4563-8498-01052b016446_1140x641.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2PFTKOXIRAA7LGGHI6QX7C3WQ.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "President Biden eyes tougher vaccine rules"
+    excerpt: "Even as Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
+    publishedDateTime: 2021-08-13T15:04:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
-  - title: "Biden, senators knew ‘world was watching’ progress of infrastructure bill"
-    excerpt: "For the president and a group of bipartisan lawmakers, the recent infrastructure deal was about more than building roads; it was about building confidence in the legislative process."
-    publishedDateTime: 2021-08-12T01:10:00Z
-    webUrl: "https://www.yorkdispatch.com/story/news/2021/08/11/biden-senators-knew-world-watching-progress-infrastructure-bill/118129404/"
-    ampWebUrl: "https://amp.yorkdispatch.com/amp/118129404"
-    cdnAmpWebUrl: "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/118129404"
+  - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
+    excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
+    publishedDateTime: 2021-08-07T22:12:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
     type: article
     provider:
-      name: The York Dispatch
-      domain: yorkdispatch.com
-    quality: 74
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 72
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/24d5cefd693ff6ee924c1244734278201dbff648/c=0-106-1600-1006/local/-/media/2021/08/11/YorkDispatch/B991037004Z.1_20210811210246_000_GIG388C20.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5T3B72GJKZHL5LEKWA44VBCXGY.jpeg"
+        width: 1024
+        height: 681
         isCached: true
-  - title: "Trump blames McConnell for infrastructure bill’s passage: ‘Most overrated man in politics’"
-    excerpt: "Former President Donald Trump slammed Senate Minority Leader Mitch McConnell on Tuesday for helping pass the White House’s $1.2 trillion infrastructure bill, saying the Kentucky Republican is the “most overrated man in politics."
-    publishedDateTime: 2021-08-10T15:22:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/trump-blames-mcconnell-infrastructure-bills-passag/"
+  - title: "Student debt | Borrowers relieved as President Biden extends loan repayments"
+    excerpt: "Atlanta filmmaker, Jeremy Thao, said the pause on student loans repayment helped him during the pandemic when he lost film work."
+    publishedDateTime: 2021-08-08T23:25:00Z
+    webUrl: "https://www.11alive.com/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 65
+      name: 11Alive
+      domain: 11alive.com
+    quality: 72
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/07/22/Virus_Outbreak_Congress_Outlook_02559.jpg-6909b_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
+      - url: "https://media.11alive.com/assets/WXIA/images/a0f1d29b-515a-4486-ad7b-d43953d35f49/a0f1d29b-515a-4486-ad7b-d43953d35f49_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Biden nudges Senate over ‘historic’ $1T infrastructure bill"
-    excerpt: "Despite a rocky week of fits and starts, President Joe Biden on Friday praised the Senate for edging the bipartisan infrastructure plan closer to passage, ahead of a key vote on the $1 trillion package."
-    publishedDateTime: 2021-08-08T23:12:00Z
-    webUrl: "https://www.sacbee.com/news/business/article253303958.html"
-    ampWebUrl: "https://amp.sacbee.com/news/business/article253303958.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article253303958.html"
+  - title: "Secretary of Defense, President Biden to Require COVID-19 Vaccine For Military"
+    excerpt: "U.S. Secretary of Defense Lloyd J. Austin III's announcement Monday that he is seeking approval from President Joe Biden to make the COVID-19 vaccine mandatory for all service members by Sept. 15."
+    publishedDateTime: 2021-08-09T19:05:00Z
+    webUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    ampWebUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 71
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/Pierside-Vaccinations.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
+    excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
+    publishedDateTime: 2021-08-12T08:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/virginia-heffernan-biden-s-build-back-better-just-beat-trump-all-over-again/article_114e6da1-e563-555d-bdaa-88eb685f1b0a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 66
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "One-third of Native Americans aren’t registered to vote. Can President Biden change that?"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253429449.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 66
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
+    publishedDateTime: 2021-08-09T16:26:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/09/trump-told-california-to-sweep-the-forest-floors-whats-bidens-plan-to-combat-wildfires/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 60
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Senate votes to advance Biden’s $1T infrastructure bill"
+    excerpt: "Senators have convened for a second consecutive weekend session on the bipartisan infrastructure bill as they edge toward a vote."
+    publishedDateTime: 2021-08-08T14:24:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article253331388.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article253331388.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article253331388.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 55
-  - title: "‘A gargantuan task’: How will Biden satisfy both progressives, moderates on infrastructure?"
-    excerpt: "President Joe Biden is caught between retaining support of centrist Democrats, Republicans for an infrastructure deal while satisfying his party’s liberal faction."
-    publishedDateTime: 2021-08-05T17:39:00Z
-    webUrl: "https://www.bellinghamherald.com/news/politics-government/article253279158.html"
-    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/article253279158.html"
-    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/article253279158.html"
+  - title: "Democrats applaud Biden’s unconstitutional act"
+    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden’s CDC to extend an eviction moratorium sure to be"
+    publishedDateTime: 2021-08-09T13:32:00Z
+    webUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
     type: article
     provider:
-      name: The Bellingham Herald
-      domain: bellinghamherald.com
-    quality: 45
+      name: Williamsport Sun-Gazette
+      domain: sungazette.com
+    quality: 55
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.sungazette.com/images/2016/10/17135124/fblike1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden Welcomes Fresh Review of Sept. 11 Attack Documents"
+    excerpt: "U.S. President Joe Biden said he welcomed a Justice Department filing on Monday committing to a fresh review of documents related to the Sept. 11, 2001, attacks on the United States for which the government has previously asserted privileges."
+    publishedDateTime: 2021-08-09T19:21:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "US Senate Passes Biden's Massive Infrastructure Bill"
+    excerpt: "The US Senate approved Joe Biden's historic $1.2 trillion infrastructure plan on Tuesday, paving the way for a major victory to the president if it wins final passage in the lower chamber of Congress."
+    publishedDateTime: 2021-08-10T16:25:00Z
+    webUrl: "https://www.ibtimes.com/us-senate-passes-bidens-massive-infrastructure-bill-3270617"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/10/the-ambitious-plan-provides-for-550-billion-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "President Biden delivers remarks on the Infrastructure Act"
+    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks on the passage of the Senate's bipartisan Infrastructure Investment and Jobs Act in the East Room of the White House in Washington,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d454b789edba3fa918c29838db56d5ff/President-Biden-delivers-remarks-on-the-Infrastructure-Act/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d454b789edba3fa918c29838db56d5ff/Biden-Infrastructure.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "President Joe Biden Delivers Remarks on Infrastructure"
+    excerpt: "Vice President Kamala Harris introduces President Joe Biden to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    publishedDateTime: 2021-08-10T21:00:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0b39f6565abe13f0b3779d83cb9885f8/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/0b39f6565abe13f0b3779d83cb9885f8/WHITE-HOUSEINFRASTRUCTURE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Trump's latest con victims are his own political donors"
+    excerpt: "In what should qualify as the least surprising story of the year, it turns out former President Donald Trump is lying to his own political donors about what he’s using their money for. The ex-president has raised tens of millions of dollars toward the stated goals of challenging the last election and helping Republicans win in the coming midterms."
+    publishedDateTime: 2021-08-11T21:10:00Z
+    webUrl: "https://www.theday.com/article/20210811/OP01/210819872"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
+  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
+    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
+    publishedDateTime: 2021-08-11T20:25:00Z
+    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+  - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
+    excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
+    publishedDateTime: 2021-08-08T23:39:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1025943104/president-biden-tells-u-s-olympic-squad-it-restored-the-soul-of-america"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 53
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
+        width: 948
+        height: 711
+        isCached: true
+  - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
+    excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
+    publishedDateTime: 2021-08-12T09:02:00Z
+    webUrl: "https://www.lohud.com/story/news/2021/08/12/trump-tower-white-plains-remove-ex-presidents-brand/5531008001/"
+    type: article
+    provider:
+      name: The Journal News
+      domain: lohud.com
+    quality: 32
   - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
     excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
     publishedDateTime: 2021-08-10T11:29:00Z

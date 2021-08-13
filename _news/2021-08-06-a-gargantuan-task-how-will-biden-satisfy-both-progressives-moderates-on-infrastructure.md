@@ -101,6 +101,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tougher battles ahead for Joe Biden after Senate approval of sweeping infrastructure bill"
+    excerpt: "Joe Biden celebrates victory on infrastructure but faces even more difficult decisions on COVID-19, voting rights, police reform and other issues."
+    publishedDateTime: 2021-08-11T18:01:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/08/11/tougher-battles-await-biden-after-senate-approves-infrastructure-bill/5468863001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5468863001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5468863001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/10/USAT/6a559b4c-beb5-44eb-9359-6cf6ace821b1-Biden-infrastructure-pic.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump blames McConnell for infrastructure bill’s passage: ‘Most overrated man in politics’"
     excerpt: "Former President Donald Trump slammed Senate Minority Leader Mitch McConnell on Tuesday for helping pass the White House’s $1.2 trillion infrastructure bill, saying the Kentucky Republican is the “most overrated man in politics."
     publishedDateTime: 2021-08-10T15:22:00Z
@@ -128,24 +144,6 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 55
-  - title: "President Biden Meets With Governors and Mayors on Infrastructure"
-    excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"
-    publishedDateTime: 2021-08-11T17:15:00Z
-    webUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
-    excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
-    publishedDateTime: 2021-08-10T11:29:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 13
 
 secured: "IJCBjSa9hhvJCQpU4nuuPRzFr2kmO+nOTRyIYgUQZOGrQYr9XGabeoNdRH4/fgtQFsKRb7OCWQdPB3G/8HvkaQIgKmcSUQmuBHosNNu/4qfNBNvO0DKS3UDAS3NSxxB0lll+BO9nkSaM70JAEIaFg8f6EWsuw6tAscdj69IQzu+qn0I+hr6HVeIFjur0lrarIlB2Teph/HJV2ZDX91Aa129oBnHLJ6HjZOSVgnOWxWy52qV4YtpuYLqFZE2AY8tr54hdkGhnDwBXxo6AtMa5SxrlaQvDWKDV5YsKjzUSlG6pYVFmCCLE/k90TakAXJQUH4ivTIt+gIQJd/q4hdWmEVbUkAxDlebxbq8iCL/nqOH6d9pm8PLHVTfAeWl++VMA20pXzeNbyU7oox2iaZhw4U5e6u7WiAqWfTDGxOnnyL6yJsip7KV2GYBar5/X0eoTfqCta1gQ9Fq5cYtr8BD0t3JYq859nH0OtnPFzU0tn37xWww2xcx0AH7jHdi28KfuSPMcQZeAILM6TKhK3rDeRg==;q8/+CJdR39Yg99hrOxTInw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-grilled-biden-vaccine-hesitancy-2020-comments-trust-trump.amp"
 type: article
 quality: 180
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4773e1-c6e3-456a-821b-b9147f44bb39/f7e732ff-b006-4030-aaad-5715e7df8fcb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Sec. Mayorkas blames Trump, rule of law for huge spike in illegal immigration during Biden administration"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas blamed former President Donald Trump’s administration for the record rise of border crossings occurring during the Biden administration."
+    publishedDateTime: 2021-08-13T14:23:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PuWNHNiZe2I/migrant-surge-mayorkas-blames-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-surge-mayorkas-blames-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-surge-mayorkas-blames-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ea11597-34c5-4d7b-8aa8-0598d069a7e2/0e21a2d7-7861-47cc-8133-17278c5f44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

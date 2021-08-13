@@ -21,366 +21,341 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden: Infrastructure vow was not intended to be veto threat"
-    excerpt: "President Joe Biden is seeking to clarify his position on the infrastructure package he's trying to work out with Congress"
-    publishedDateTime: 2021-06-26T20:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
+  - title: "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden"
+    excerpt: "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it."
+    publishedDateTime: 2021-08-13T14:49:00Z
+    webUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152"
+    ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bbe97dbebf429b9fb4b7ea1a25a487_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1870140/donald-trump-reinstatement-day-president-mike-lindell.jpg"
+        width: 2500
+        height: 1665
         isCached: true
-  - title: "McConnell urges Biden to pressure Democrats over infrastructure plan"
-    excerpt: "U.S. Senate Minority Leader Mitch McConnell on Monday called on President Joe Biden to get the two top Democrats in Congress to abandon a plan to link a new $1.2 trillion bipartisan infrastructure deal to a larger reconciliation package that Republicans reject."
-    publishedDateTime: 2021-06-28T12:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-idUSKCN2E41BV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E41BV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E41BV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210628&t=2&i=1567243867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5R0PR"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Cities' plea to Biden: Help us lower speed limits"
-    excerpt: "President Joe Biden frequently promises to get America moving again with new spending on roads and other infrastructure. Pittsburgh city council member Erika Strassburger hopes he can slow things down."
-    publishedDateTime: 2021-06-30T09:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-speed/cities-plea-to-biden-help-us-lower-speed-limits-idUSL2N2OA1WJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6143"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6143"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567462489&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T0Z3"
-        width: 804
-        height: 545
-        isCached: true
-  - title: "Biden announces investigation into international ransomware attack"
-    excerpt: "President addresses hack of Kaseya software that has affected hundreds of US businesses and shut down Swedish shops"
-    publishedDateTime: 2021-07-03T20:43:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden"
+  - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
+    excerpt: "The president appeals to the ‘civil religion’ of Washington and Kennedy. His opponents use weasel words and seek to limit democracy. The stakes could not be higher"
+    publishedDateTime: 2021-08-08T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/08/battle-for-the-soul-biden-trump-democrats-republicans-charlottesville-anniversary"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 125
+    quality: 135
     images:
-      - url: "https://i.guim.co.uk/img/media/a3f1388062eca83406c3f5dcc2736e9bb8f99aab/0_395_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a5454fc28d687256a9de300228285eab"
+      - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
         width: 600
         height: 360
         isCached: true
-  - title: "Biden visits Michigan to tout bipartisan infrastructure plan"
-    excerpt: "President Biden visited a fruit farm with Michigan Governor Gretchen Whitmer and Senators Debbie Stabenow and Gary Peters."
-    publishedDateTime: 2021-07-03T19:36:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-michigan-visit-infrastructure-plan/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-michigan-visit-infrastructure-plan/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-michigan-visit-infrastructure-plan/"
+  - title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
+    excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
+    publishedDateTime: 2021-08-12T23:29:00Z
+    webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
+    ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/03/aa6c4adc-a88b-4437-9112-a3e228a36735/thumbnail/1200x630/cac65258e747cdcb9faaeebae26880f4/biden-michigan.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
+        width: 3431
+        height: 2282
         isCached: true
-  - title: "Republicans will ‘move forward’ on infrastructure after Biden veto threat"
-    excerpt: "Portman says GOP will back bill after Biden climbdown while Democrat Manchin appeals for progressive support"
-    publishedDateTime: 2021-06-27T16:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/27/republicans-democrats-infrastructure-biden-veto-threat-portman-manchin-romney"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/27/republicans-democrats-infrastructure-biden-veto-threat-portman-manchin-romney"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/27/republicans-democrats-infrastructure-biden-veto-threat-portman-manchin-romney"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/ff2a9a14392586d986a464813248210a25c1c7fe/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d17d7c5ebdeb15e1656727ee60cb74e2"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Whitmer says she's spoken with Biden about infrastructure following flooding"
-    excerpt: "Michigan Gov. Gretchen Whitmer (D) said Saturday that she has spoken with President Biden over infrastructure in the state following major flooding in the area at the end of June."
-    publishedDateTime: 2021-07-03T20:41:00Z
-    webUrl: "https://thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following"
-    ampWebUrl: "https://thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/whitmergretchen_bidenjoe_7321_gettyimages.png"
-        width: 746
-        height: 551
-        isCached: true
-  - title: "Biden administration working to allow deported veterans back into United States"
-    excerpt: "Homeland Security and Veterans Affairs will begin a policy review to bring back deported noncitizen veterans and immediate family members."
-    publishedDateTime: 2021-07-03T02:08:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 121
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6e59b9b/2147483647/strip/true/crop/4032x2633+0+66/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Fe2%2Ff7699175b1fc9c7522a90d4334cf%2F7608fd4d0ba64cdd8d426d99c4643d73"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – live"
-    excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
-    publishedDateTime: 2021-06-24T16:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d4b0348f0814bdddf9a356"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/d184f4040a8a05520d17665bd6671bce16daa30e/0_57_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaddaaf063eb2b95a26b18dd19c75c39"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – live"
-    excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
-    publishedDateTime: 2021-06-24T21:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d4eac88f0834183eee1242"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/d184f4040a8a05520d17665bd6671bce16daa30e/0_57_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaddaaf063eb2b95a26b18dd19c75c39"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden: Families of victims of Surfside building collapse 'realistic' about rescue"
-    excerpt: "President Biden said Thursday that the families of the victims in the Surfside condo building collapse were “realistic” about the ongoing rescue effort."
-    publishedDateTime: 2021-07-01T21:27:00Z
-    webUrl: "https://thehill.com/homenews/administration/561216-biden-families-of-victims-of-florida-building-collapse-very-realistic"
-    ampWebUrl: "https://thehill.com/homenews/administration/561216-biden-families-of-victims-of-florida-building-collapse-very-realistic?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561216-biden-families-of-victims-of-florida-building-collapse-very-realistic?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 120
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_7121_gettyimages.png"
-        width: 868
-        height: 551
-        isCached: true
-  - title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
-    excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
-    publishedDateTime: 2021-06-29T12:55:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 118
-    images:
-      - url: "https://i.guim.co.uk/img/media/8bff498bda948e8b27a223aa3e2d27a9c7db8022/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9e16a305ee44d9081816e3ce86dbd2"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – as it happened"
-    excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
-    publishedDateTime: 2021-06-24T23:26:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d5149c8f0834183eee13da"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 115
-    images:
-      - url: "https://i.guim.co.uk/img/media/d184f4040a8a05520d17665bd6671bce16daa30e/0_57_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaddaaf063eb2b95a26b18dd19c75c39"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden whisperer, longtime Washington lobbyist helps secure breakthrough in infrastructure talks"
-    excerpt: "Steve Ricchetti is playing a key role in guiding the president through negotiations, pulling on decades of experience and relationships"
-    publishedDateTime: 2021-06-24T10:46:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/?outputType=amp"
+  - title: "Texas Rep. Dan Crenshaw told supporters Trump lost to Biden. The Republican was heckled and called a RINO."
+    excerpt: "A fellow Republican heckled Rep. Dan Crenshaw after the Texas congressman said former president Donald Trump lost the 2020 election."
+    publishedDateTime: 2021-08-13T08:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/08/13/dan-crenshaw-heckled-bobby-piton/"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 102
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SH67FQGTPYI6XM47AWRNO5VR6Q.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "The Hill's Morning Report - McConnell pressures Dem leaders to follow Biden's infrastructure lead"
-    excerpt: "Welcome to The Hill’s Morning Report. It is Tuesday! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
-    publishedDateTime: 2021-06-29T10:31:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/560654-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/560654-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/560654-the-hills-morning-report?amp"
+  - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
+    publishedDateTime: 2021-08-09T15:38:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/08/09/trump-told-cali-rake-leaves-whats-bidens-plan-wildfires/5538438001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5538438001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5538438001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 112
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 83
     images:
-      - url: "https://thehill.com/sites/default/files/mcconnellmitch_5.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2021/08/09/PDTN/6c8cec67-afc3-48d2-9f0a-37e90c9f47c4-AP21211627286288_1.jpg?auto=webp&crop=1023,575,x0,y20&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "Biden: 'Zero tolerance' for law-breaking gun dealers"
-    excerpt: "President Joe Biden declared Wednesday a \"zero tolerance\" policy for gun dealers who willfully violate existing laws and regulations. The announcement is part of a series of new efforts to stem a rising national tide of violent crime."
-    publishedDateTime: 2021-06-23T23:14:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/23/biden-zero-tolerance-law-breaking-gun-dealers/5329197001/"
+  - title: "President Biden’s complicated new task: keeping Democrats together"
+    excerpt: "With exceedingly slim majorities in Congress, Biden can’t afford many defections in a party whose members include moderates and progressives."
+    publishedDateTime: 2021-08-12T11:44:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/president-bidens-complicated-new-task-keeping-democrats-together.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/141cad14-6a90-4a6c-8af6-533266e2ce96_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2PFTKOXIRAA7LGGHI6QX7C3WQ.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Bipartisan group of senators to brief Biden on infrastructure ‘framework’ after potential breakthrough in talks"
-    excerpt: "Some details “still to be worked out,” Sen. Collins said, but lawmakers and White House aides believe major progress was made Wednesday."
-    publishedDateTime: 2021-06-23T22:51:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/06/23/senate-infrastructure-framework-white-house/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/06/23/senate-infrastructure-framework-white-house/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/06/23/senate-infrastructure-framework-white-house/?outputType=amp"
+  - title: "President Biden eyes tougher vaccine rules"
+    excerpt: "Even as Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all his powers."
+    publishedDateTime: 2021-08-13T15:04:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/health/coronavirus/vaccine/biden-eyes-tougher-vaccine-rules/507-6ae4fefb-6b27-437d-8969-6e6eeac79b38"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ABAOLOWUMII6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d/189661a9-8a1b-4ccd-bfc1-a8492cb59a3d_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Cherries and infrastructure for Biden in Michigan"
-    excerpt: "President Joe Biden talked up his bipartisan infrastructure package and additional plans for investing in families and education during a visit Saturday to a Michigan cherry farm. (July 3)"
-    publishedDateTime: 2021-07-03T23:54:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/03/cherries-and-infrastructure-biden-michigan/7856462002/"
+  - title: "Senate votes to advance President Joe Biden’s $1 trillion infrastructure bill"
+    excerpt: "The measure would provide a massive injection of federal money for a range of public works programs, from roads and bridges to broadband internet access, drinking water and more."
+    publishedDateTime: 2021-08-07T22:12:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/08/senate-votes-to-advance-president-joe-bidens-1-trillion-infrastructure-bill.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 72
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9c0aa1ff-1988-4370-8d31-dbbf93203d5a_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5T3B72GJKZHL5LEKWA44VBCXGY.jpeg"
+        width: 1024
+        height: 681
         isCached: true
-  - title: "LA Times Today: Biden reassures moderates on infrastructure, progressives worry"
-    excerpt: "Watch L.A. Times Today at 7 p.m. on Spectrum News 1 on Channel 1 or live stream on the Spectrum News App. Palos Verdes Peninsula and Orange County viewers can watch on Cox Systems on channel 99."
-    publishedDateTime: 2021-06-29T17:12:00Z
-    webUrl: "https://www.latimes.com/politics/0000017a-5a17-dbef-a1fe-5f1708b20000-123"
+  - title: "Student debt | Borrowers relieved as President Biden extends loan repayments"
+    excerpt: "Atlanta filmmaker, Jeremy Thao, said the pause on student loans repayment helped him during the pandemic when he lost film work."
+    publishedDateTime: 2021-08-08T23:25:00Z
+    webUrl: "https://www.11alive.com/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/education/president-biden-extends-student-loan-repayments/85-b50179c1-93fe-4147-a39e-2db8263d8612"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 101
+      name: 11Alive
+      domain: 11alive.com
+    quality: 72
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7d8b63d/2147483647/strip/true/crop/870x457+0+17/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F52%2Fbb%2Fb97eac66499ea5ca10c76df307c8%2Fbipartisan-infrastructure-deal-latt.jpg"
+      - url: "https://media.11alive.com/assets/WXIA/images/a0f1d29b-515a-4486-ad7b-d43953d35f49/a0f1d29b-515a-4486-ad7b-d43953d35f49_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Secretary of Defense, President Biden to Require COVID-19 Vaccine For Military"
+    excerpt: "U.S. Secretary of Defense Lloyd J. Austin III's announcement Monday that he is seeking approval from President Joe Biden to make the COVID-19 vaccine mandatory for all service members by Sept. 15."
+    publishedDateTime: 2021-08-09T19:05:00Z
+    webUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    ampWebUrl: "https://timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/uncategorized/2021/08/09/secretary-of-defense-president-biden-to-require-covid-19-vaccine-for-military/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 71
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/Pierside-Vaccinations.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Virginia Heffernan: Biden’s ‘Build Back Better’ just beat Trump all over again"
+    excerpt: "It’s hard to find an element of daily life that doesn’t lend itself to politicization. There are the obvious ones: media, guns, lattes. But there’s more. Convertibles are evidently a"
+    publishedDateTime: 2021-08-12T08:30:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/virginia-heffernan-biden-s-build-back-better-just-beat-trump-all-over-again/article_114e6da1-e563-555d-bdaa-88eb685f1b0a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 66
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Exxon lobbyist pressured lawmakers to remove climate measures from Biden's initial $2 trillion infrastructure plan, report says"
-    excerpt: "Channel 4 News obtained recordings that revealed an ExxonMobil lobbyist pressured lawmakers to take climate measures out of infrastructure."
-    publishedDateTime: 2021-06-30T20:33:00Z
-    webUrl: "https://www.businessinsider.com/exxonmobil-lobbyist-climate-change-green-biden-infrastructure-bbc-channel-4-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/exxonmobil-lobbyist-climate-change-green-biden-infrastructure-bbc-channel-4-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exxonmobil-lobbyist-climate-change-green-biden-infrastructure-bbc-channel-4-2021-6?amp"
+  - title: "One-third of Native Americans aren’t registered to vote. Can President Biden change that?"
+    excerpt: "Native American voters could play a major role in deciding the next presidential election in key battleground states."
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253429449.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253429449.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253429449.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 66
     images:
-      - url: "https://i.insider.com/60dccce4a08b100012b419a7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/6416380e-f39b-44f4-98b3-0db4d9888c0d/aa0212ec-ae12-4bcf-8926-43cebffe2f5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Joe Biden pitches $1.2T infrastructure deal as 'generational investment'"
-    excerpt: "President Joe Biden traveled to Wisconsin on Tuesday to promote a bipartisan infrastructure proposal that would spend $1.2 trillion on various upgrades and repairs across the United States."
-    publishedDateTime: 2021-06-29T11:32:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/06/29/wisconsin-joe-biden-infrastructure/9821624963795/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/29/wisconsin-joe-biden-infrastructure/9821624963795/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/29/wisconsin-joe-biden-infrastructure/9821624963795/"
+  - title: "Trump told California to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
+    excerpt: "Agriculture Secretary Tom Vilsack and Gov. Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires."
+    publishedDateTime: 2021-08-09T16:26:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/09/trump-told-california-to-sweep-the-forest-floors-whats-bidens-plan-to-combat-wildfires/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 60
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Democrats applaud Biden’s unconstitutional act"
+    excerpt: "Is a president of the United States flagrantly defying the Constitution an authoritarian act? A threat to democracy? Something that at least should be discouraged or frowned upon? Judging by the reaction of Democrats and center-left commentators to the lawless last-minute decision of President Joe Biden’s CDC to extend an eviction moratorium sure to be"
+    publishedDateTime: 2021-08-09T13:32:00Z
+    webUrl: "https://www.sungazette.com/uncategorized/2021/08/democrats-applaud-bidens-unconstitutional-act/"
+    type: article
+    provider:
+      name: Williamsport Sun-Gazette
+      domain: sungazette.com
+    quality: 55
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.sungazette.com/images/2016/10/17135124/fblike1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden Welcomes Fresh Review of Sept. 11 Attack Documents"
+    excerpt: "U.S. President Joe Biden said he welcomed a Justice Department filing on Monday committing to a fresh review of documents related to the Sept. 11, 2001, attacks on the United States for which the government has previously asserted privileges."
+    publishedDateTime: 2021-08-09T19:21:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-08-09/biden-welcomes-fresh-review-of-sept-11-attack-documents?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "US Senate Passes Biden's Massive Infrastructure Bill"
+    excerpt: "The US Senate approved Joe Biden's historic $1.2 trillion infrastructure plan on Tuesday, paving the way for a major victory to the president if it wins final passage in the lower chamber of Congress."
+    publishedDateTime: 2021-08-10T16:25:00Z
+    webUrl: "https://www.ibtimes.com/us-senate-passes-bidens-massive-infrastructure-bill-3270617"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/10/the-ambitious-plan-provides-for-550-billion-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "President Biden delivers remarks on the Infrastructure Act"
+    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks on the passage of the Senate's bipartisan Infrastructure Investment and Jobs Act in the East Room of the White House in Washington,"
+    publishedDateTime: 2021-08-10T19:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d454b789edba3fa918c29838db56d5ff/President-Biden-delivers-remarks-on-the-Infrastructure-Act/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 74
+    quality: 55
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/9821624963795/2021/1/f146dde6695cc6dbd2e62510686c7758/v1.5/Joe-Biden-pitches-12T-infrastructure-deal-as-generational-investment.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
-    excerpt: "Biden was scheduled to visit Cates Family Farm in rural Spring Green but instead made a trip to La Crosse's Municipal Transit Utility."
-    publishedDateTime: 2021-06-29T23:34:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/7789565002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7789565002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/29/PMJS/80305bb6-d86d-4e8f-8606-1a83993bf7a2-Getty_AFP_9DJ7ZY.JPG?auto=webp&crop=2399,1350,x0,y87&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden Speaks to Reporters Outside West Wing on Infrustructure Negotiations"
-    excerpt: "MT, outside of the West Wing of the White House following a bipartisan meeting where they reached a deal on the infrastructure plan in Washington, DC, on Thursday, June 24, 2021. Photo by Sarah Silbig"
-    publishedDateTime: 2021-06-24T17:26:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/33a9f0aa5c69620a0fd614ac5b09cf8b/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 51
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/33a9f0aa5c69620a0fd614ac5b09cf8b/BIDEN-INFRUSTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/d454b789edba3fa918c29838db56d5ff/Biden-Infrastructure.jpg"
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Delivers Remarks on Infrastructure"
+    excerpt: "Vice President Kamala Harris introduces President Joe Biden to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    publishedDateTime: 2021-08-10T21:00:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0b39f6565abe13f0b3779d83cb9885f8/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/0b39f6565abe13f0b3779d83cb9885f8/WHITE-HOUSEINFRASTRUCTURE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Trump's latest con victims are his own political donors"
+    excerpt: "In what should qualify as the least surprising story of the year, it turns out former President Donald Trump is lying to his own political donors about what he’s using their money for. The ex-president has raised tens of millions of dollars toward the stated goals of challenging the last election and helping Republicans win in the coming midterms."
+    publishedDateTime: 2021-08-11T21:10:00Z
+    webUrl: "https://www.theday.com/article/20210811/OP01/210819872"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
+  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
+    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
+    publishedDateTime: 2021-08-11T20:25:00Z
+    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+  - title: "President Biden Tells U.S. Olympic Squad It 'Restored The Soul Of America'"
+    excerpt: "The president praised Team USA athletes for their \"moral courage\" during a Zoom call on Saturday, with special shoutouts to gymnast Simone Biles and swimmer Katie Ledecky."
+    publishedDateTime: 2021-08-08T23:39:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1025943104/president-biden-tells-u-s-olympic-squad-it-restored-the-soul-of-america"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 53
+    images:
+      - url: "https://media.npr.org/assets/img/2021/08/08/gettyimages-1234491481-085b93524935d80a972e93d0d98e909365bdfeae.jpg?s=6"
+        width: 948
+        height: 711
+        isCached: true
+  - title: "President Biden Meets With Governors and Mayors on Infrastructure"
+    excerpt: "President Biden meets with governors and mayors at the White House to discuss the administration’s infrastructure proposals. President Joe Biden touted his administration’s achievements during a Cabinet meeting marking his first six months"
+    publishedDateTime: 2021-08-11T17:15:00Z
+    webUrl: "https://www.c-span.org/video/?514037-1/president-biden-meets-governors-mayors-infrastructure"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
+    excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
+    publishedDateTime: 2021-08-12T09:02:00Z
+    webUrl: "https://www.lohud.com/story/news/2021/08/12/trump-tower-white-plains-remove-ex-presidents-brand/5531008001/"
+    type: article
+    provider:
+      name: The Journal News
+      domain: lohud.com
+    quality: 32
+  - title: "Evictions win is latest example of House progressives' influence on Biden. That may affect the infrastructure bill"
+    excerpt: "Progressive lawmakers, emboldened by a win on extending a federal eviction moratorium, are turning their attention to other aims."
+    publishedDateTime: 2021-08-10T11:29:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/08/10/house-progressives-win-evictions-highlights-influence-biden/5484699001/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 13
 
 secured: "BFAGbuPrnC9jFypBRLivt+05bxMb2S+2sp6bOce2xnrM2We05wydpSK8rFk8NqUMQxK9Z21j0BWTXluKV/L2iffeyGjAt6EaK69IFbMBWWjTROcgyK5AvkvXayo4N2tyr7QdmB/tC13RtLd5jCPuYreEVOurJKe5BQhVBUUeZKwXNQ7cD423IlSByXDXeW6/4fOiH/EXph9ASuaP0NZEA3Icxp7cs5FMrvUZeMHdrvFi1GDtT5Rc+J35g4lOINWERsfzfSYPHoqcSUDUUONmcNEKC32ySOFCyRNjfo15SbAEiArNpdygUfedQQxsl59c0cm5HzgXOZUpF/fTBvFfiH2z41MuJicq+0Vd0DkdMTs0rWIVIxDzYLtBg65NnLJe8bBERMIcnQM5fcPHGEty/D7vBNz/bYpKGikP98BoepwpiwTW30tjG5d+ZSYt0dBggl3vpPRvfWs9gypD5beYGL3BKiq/eEPPn7H0tccXvQDEgr9um2ukcIbZ+edx3/DjOdU/0lucFgSkthH6QH9Pig==;MVJFHF+PdclDB96D0mazTQ=="
 ---

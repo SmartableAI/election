@@ -87,20 +87,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump's latest con victims are his own political donors"
-    excerpt: "In what should qualify as the least surprising story of the year, it turns out former President Donald Trump is lying to his own political donors about what he’s using their money for. The ex-president has raised tens of millions of dollars toward the stated goals of challenging the last election and helping Republicans win in the coming midterms."
-    publishedDateTime: 2021-08-11T21:10:00Z
-    webUrl: "https://www.theday.com/article/20210811/OP01/210819872"
-    type: article
-    provider:
-      name: The Day
-      domain: theday.com
-    quality: 55
-    images:
-      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
-        width: 360
-        height: 360
-        isCached: true
 
 secured: "1sMhZQesun6+o/zGFF44eWD4qPpzkZGZoEldwaZSZul6U956+YzA/glb+bNh0F2o15BXsqV9jJZNnX97wUu/xsrOl9J514JeJp9Lsp/AbOUVjux5qdYzpnwImAy1LHNhODVZzjsXlJIxrELX8ASl2q+k3E7is85btOZ2YCMyGYkILtDOtvTm5ZvstV8Fi7AoSgOJB7d4Xr4xEPHRwQSYTNA9LOhkMTw0LW10LN6tiCLXrHXVv/Jp+7Z3Eh91brRzqrorU0ps2ckx66WTD+lFWfXTpHOUQCEphmkn2U9oBnFb9pSaEiIODXjPKvg8S7lUIaOvhth+iVGQhpwkLO6DS4kzZnZF/2wV2pxdJ+6hK5E=;+ynn9qeQl5iuTIymRtP2jA=="
 ---

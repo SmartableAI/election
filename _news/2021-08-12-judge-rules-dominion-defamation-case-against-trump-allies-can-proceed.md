@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuli
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/"
 type: article
 quality: 125
-heat: 545
+heat: 585
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/a60a3572-fe47-4ad3-a8ac-ec67bb8bbcc3-AP_Not_Real_News.jpg?auto=webp&crop=5542,3117,x0,y281&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "House Can Have Access to Some of Donald Trump's Financial Records, Judge Rules"
+    excerpt: "U.S. District Judge Amit Mehta's ruling cited separation of power concerns, but the House was entitled to some financial records from 2017 and 2018."
+    publishedDateTime: 2021-08-11T21:04:00Z
+    webUrl: "https://www.newsweek.com/house-can-have-access-some-donald-trumps-financial-records-judge-rules-1618537"
+    ampWebUrl: "https://www.newsweek.com/house-can-have-access-some-donald-trumps-financial-records-judge-rules-1618537?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/house-can-have-access-some-donald-trumps-financial-records-judge-rules-1618537?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1868895/tax-return-form.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump Ally Roger Stone Hit With $5M Defamation Suit From Judicial Watch Founder"
     excerpt: "Larry Klayman filed the suit after Stone claimed that the Judicial Watch founder was a \"warped former lawyer that the 11th circuit found guilty of molesting his own children.\""
@@ -119,6 +135,20 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/media:1d786013700b4de28dfc62d50d824d8d/2000.jpeg"
         width: 2000
         height: 1234
+        isCached: true
+  - title: "Trump appeals ruling that U.S. House can see financial records"
+    excerpt: "Lawyers for former U.S. President Donald Trump have quickly appealed this week's court ruling that his accounting firm must turn over some of his financial records to a Democratic-led House of Representatives committee."
+    publishedDateTime: 2021-08-12T17:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-mazars/trump-appeals-ruling-that-us-house-can-see-financial-records-idUSKBN2FD1S8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/UOUOEUYW-9C0qKO0w1QqQEP-A6w=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O5BYTKEK2FMHPH3GSJ3XOCH7FI.jpg"
+        width: 800
+        height: 419
         isCached: true
   - title: "Man sentenced for shooting Black girl at Iowa Trump rally"
     excerpt: "A 26-year-old supporter of former President Donald Trump has been sentenced to up to 10 years in prison for shooting into a car carrying Black girls after an Iowa Trump rally, injuring a teenager"
@@ -285,17 +315,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "White House Spokesman Says President \"Still Doesn't Trust Donald Trump\""
-    excerpt: "Responding to a question about whether President Biden bears some responsibility for COVID-19 vaccine hesitancy in the country because of his criticism of then-President Trump when the vaccine was being developed,"
-    publishedDateTime: 2021-08-11T20:25:00Z
-    webUrl: "https://www.c-span.org/video/?c4973203/white-house-spokesman-president-still-trust-donald-trump"
-    ampWebUrl: "https://www.c-span.org/amp/video/?c4973203"
-    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4973203"
+  - title: "Trump appeals court’s order for release of company records"
+    excerpt: "Former U.S. President Donald Trump appealed a court order instructing his accountants to release certain financial records of his business to a congressional committee."
+    publishedDateTime: 2021-08-13T01:10:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/trump-appeals-court-s-order-for-release-of-company-records/article_feb5113e-81eb-54c6-bd78-370d5a11154b.html"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
     quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump appeals split decision in fight with House over financial records"
     excerpt: "A long-running court fight between Donald Trump and a House of Representatives committee over his financial records is heading back to an appeals court after a judge issued"
     publishedDateTime: 2021-08-13T00:30:00Z
@@ -310,6 +343,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump endorses Republican Derrick Van Orden to replace Democrat Ron Kind in 3rd Congressional District"
+    excerpt: "Former President Donald Trump is throwing his support behind the Republican candidate for Wisconsin's 3rd District congressional seat being vacated by Democratic U.S. Rep. Ron Kind. Derrick Van Orden received the former president's approval this week after the long-time incumbent Kind announced he would not seek another term."
+    publishedDateTime: 2021-08-12T18:29:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2021/08/12/trump-endorses-van-orden-2022-wisconsin-3rd-congressional-race/8109129002/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 36
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/PMJS/a3cb70ae-78f8-4e3a-adcc-5e6c73fb1f4a-Derrick_Van_Orden.jpg?auto=webp&crop=4765,2680,x1,y150&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Judge: House Entitled to Some of Trump's Financial Records"
     excerpt: "House Democrats who have spent years investigating Donald Trump are entitled to some of the former president’s financial records."
     publishedDateTime: 2021-08-12T00:18:00Z
@@ -319,15 +366,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
-    excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
-    publishedDateTime: 2021-08-12T09:02:00Z
-    webUrl: "https://www.lohud.com/story/news/2021/08/12/trump-tower-white-plains-remove-ex-presidents-brand/5531008001/"
-    type: article
-    provider:
-      name: The Journal News
-      domain: lohud.com
-    quality: 32
 
 secured: "8KeaZErHowd8SJG/wD+g6W97c2GZzeT4hITcignrzvN4xviGg3helSxwjUW8DMmAQZS3dl9q0AEhB1aIQQqkPLvPBPCpYZJ4Vb3tSn7vaUzHp8mn1SNzDATi4yakqR5QMHqARt4pbtr7dCvsvk1YIxXM21JAa074hIufslKMefIht/ubd3Fbrkbi25vmytNrLYBv2qziApbVX7JW1RfRMr7tB0Ge53nBFHjHPiONr5IclqAIiK600tapfqhtqt3GKl2tbIt2NIwgTS2UfzNAyOshUiz7Yk7RryzeiEMsafovvFvmPQ15Gj7G9t/gsE3XLFbWb5qId6/krdM9y5vD4oAT/f2gZRSKaIfXpA06G6b1f+aPmGTXVfqvm3BEPbSp3bp6KDbJ+5w4GH1YMoXvfsog0F8Uw7frPHxpIPOdloPoUHkngLHASgsR/mqPL72OjA4LU64et+AivlKtAhgB1TfE1MOd266Y33O9VuO9fuhWkSXW0d+2A7rdWjTjwUD2SahA8yIZuZu/bNgwheDLRA==;YcAbGI2INY1u3c0BjdWm1Q=="
 ---
