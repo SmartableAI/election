@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-epa-nominee-touted-defund-the
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden pick for top EPA post endorsed defunding police on Chinese TV"
+    excerpt: "Joe Biden’s nominee for a high-ranking position at the EPA backed the push to defund police departments on a Chinese state-run TV network last year."
+    publishedDateTime: 2021-08-13T02:20:00Z
+    webUrl: "https://nypost.com/2021/08/12/carlton-waterhouse-biden-pick-for-top-epa-post-endorsed-defunding-police/"
+    ampWebUrl: "https://nypost.com/2021/08/12/carlton-waterhouse-biden-pick-for-top-epa-post-endorsed-defunding-police/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/carlton-waterhouse-biden-pick-for-top-epa-post-endorsed-defunding-police/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/epa-nominee-defund-police-index.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "p383fiBaQd+aB9xB9U8b0GGmeb+00LBbGpVq4DBiVE7gZffvFctEj8/f7mY0qJ5BYRX1nNgsEFTmhx9NNJP8SpcXHY2N3KjEeo2DQrDdfPYVeV/UP9jQThNHAJcjzUl8aT28/IIsa8tOdSVvgFG17kf32ejwALxbLzXZp4yeQIoRRBq96XDXiMMc7rVZ+PZq7iQzdMc2OaTEac3OZZrvf2eKoY5SuGz4hk+VCrS17gqLpRwGzwET/KbbDMbRT2M6ABga5YqrXmlSUH6GIsJznxB/T7c3uriQEEvJwdbxswqlQPS0Zd3SDpCsMGkzBQmIweLRTNapf1N8yNL7ZrtISdIhwx25SwO3hCnTOg7JLJw=;BTL2wakliIzSoTYooiIXCg=="
 ---

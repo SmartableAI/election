@@ -317,6 +317,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden eyes tougher vaccine rules without provoking backlash"
+    excerpt: "Even as President Joe Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all of his powers"
+    publishedDateTime: 2021-08-13T03:00:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/fc3f070/2147483647/strip/true/crop/3955x2645+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2F5b%2F152b7cfe555e119d1ca1afe2fba9%2Fa28adc8badc349f9913383206dca0698"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Biden, other leaders weigh in on Aug. 12 on fourth anniversary"
     excerpt: "\"[Heather Heyer's] life and activism are reminders that while we have never fully lived up to the promise of America, we have never fully walked away from it either.\""
     publishedDateTime: 2021-08-13T00:23:00Z
@@ -480,15 +496,6 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 35
-  - title: "Biden eyes tougher vaccine rules without provoking backlash"
-    excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that's what it took to get shots in arms. But as new coronavirus infections soar,"
-    publishedDateTime: 2021-08-13T01:34:00Z
-    webUrl: "https://lasvegassun.com/news/2021/aug/12/biden-eyes-tougher-vaccine-rules-without-provoking/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
     quality: 35
 
 secured: "lSkAApzL1ommE/z16Y/N3FwUibNnLHf/o8i1zmmvQh+LxMJeZBSpsw+dc9iWYw3raSrMkJQk7UpoElYEu9JiDPVoIjM5zz7QUMjOvP6LakUFKULI2FabOB8u3nN/5DwTmgrlR1+fnZVwmr6fJR/175OCO8ZG65HVj94IFXq+ugyfDNYUmyasIWxD9ceTHA2XxWwBjgY/oMLSrKAHU9Iw9A3LW3ITB06V69dV8z1TmksetLcrx3gA8kWYvDQE9aP2WiG0dAaotHGcxfQKpk3FegBKW4qXYgKCm/xS2ffrnpg5s1Dnfam8Gtr9m3IjFebxccWmb+SStHUPJpNJRq2kaV2qHhZmwgDFh37/foSCczmWPmj3ZvMS2WaIzFKbjUW/rQMllXWvbfPyhjyISFx/1Tl0utE/JDDOjHH7Eyq2tJh6rLlL81MeIOwY45YWRictzgLPWP+z6ADiVUV5bfRzD37VdDpW/1RdHFEi3xwS+TSNBfH69rkISWfXTKwusj6XajCFXmKWXTqpoK/oVYNmUg==;dTKdk0HD3zMHmI6iq+l4Jw=="

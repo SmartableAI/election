@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Biden's complicated new task: keeping Dems together"
-excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
-publishedDateTime: 2021-08-12T02:40:00Z
-originalUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
-webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
+title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
+excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
+publishedDateTime: 2021-08-13T01:57:00Z
+originalUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
+webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
+ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
 type: article
-quality: 55
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Texarkana Gazette
-  domain: texarkanagazette.com
+  name: Merced Sun-Star
+  domain: sacbee.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://media-cdn.wehco.com/img/photos/2021/07/27/bideneconomy4374046600_t1070_h62d769030b5428c8067704a70df1574b25cff470.jpg"
-    width: 1070
-    height: 714
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/0f121ceb-48c1-4832-a10a-a5a016caa35f/04d10534-d759-4584-9768-33f2b8ab34ba/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -105,22 +107,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
-    excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
-    publishedDateTime: 2021-08-13T01:57:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
-    type: article
-    provider:
-      name: Merced Sun-Star
-      domain: sacbee.com
-    quality: 66
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/0f121ceb-48c1-4832-a10a-a5a016caa35f/04d10534-d759-4584-9768-33f2b8ab34ba/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
     excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
     publishedDateTime: 2021-08-08T04:28:00Z
@@ -157,6 +143,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's complicated new task: keeping Dems together"
+    excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill."
+    publishedDateTime: 2021-08-12T02:40:00Z
+    webUrl: "https://www.texarkanagazette.com/news/national/story/2021/aug/12/bidens-complicated-new-task-keeping-dems-together/883254/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 55
+    images:
+      - url: "https://media-cdn.wehco.com/img/photos/2021/07/27/bideneconomy4374046600_t1070_h62d769030b5428c8067704a70df1574b25cff470.jpg"
+        width: 1070
+        height: 714
+        isCached: true
   - title: "Biden Says He Does Not Believe He Can Intervene in States Banning Mask Mandates"
     excerpt: "President Joe Biden said on Tuesday that he did not believe he had the power to intervene in U.S. states that have banned mask mandates but said his administration was looking into the issue. \"I don't believe that I do,"
     publishedDateTime: 2021-08-10T19:49:00Z
@@ -167,6 +167,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "hE2T5tP5Ii5cGu3SDeDd1TgLdprp5b3tQmG8cBWDJG0TXagb9OLYTXhU/NZIDWMGdoMHUPTKPxIwTJkO33IimkJXgfeD+S8WgRZAjBsnGXQ8jIjD9XaIRe51INr9yXuG/TfDC/Ca8IWpiugAOYJbH9Hi0DmQfwRJxBTrqh8iD050oSabI3JNFbV5ygCHVg5AD+cn2EtYOMDYSK0U1Jo5X3JImLXEBtz/jGAwv06IF/wVz2EFRCzYcR3+4fQ4rJZQjsKee16hH4YwXgMhMVAKE9rCEZl3/4hF+++pfZhW+y62smm0m1SqXyMTjkFVz2eEyRxdhrTtNUEyguhCFYZKKqzbfwFr/FL5UnAug7Fi/HU=;talOEzEdP5D3JFxm9zX1EA=="
+secured: "1vxPOhWjzruCz6Lw8jY5Te5o244cVFpAiGAu8WwLiFOotEik8jr8B06J9Mctidi79yRC6NGC54WB4Fszr6sf0Fwj5PHFYl6ZHQkPWJheUzpj6ikHbjyKD/94crOp//8pWmFHhzyGD4YcgmMFPZoPze1JFgBfmkQgciy1pH0Imh1G26UhoIwuSx1Me6Gcd2+32ORaHTLg2/P+Zf3kTYJPW1yGM4A9EEfI7UcbIOczIW1DauI74g0lVZRuiruRlbR4Du2sCCUqUCkKwr0eFVqbLSyOblo6RGBqi6dTGHUCa1kHzUgRZem0bX9aOx5/wcPNbZMV493IeMe4i+aitKxbjw+1eu8h5HPEXxst8mrpVG8=;dRgMBp58KXzB2UL2t2VL4w=="
 ---
 

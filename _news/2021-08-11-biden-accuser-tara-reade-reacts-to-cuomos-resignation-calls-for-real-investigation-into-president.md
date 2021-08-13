@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "President Biden urges voters to vote ‘no’ in Newsom’s recall vote"
+    excerpt: "President Joe Biden made a statement on Thursday supporting California Governor Gavin Newsom and urging voters to vote “no” in the recall election."
+    publishedDateTime: 2021-08-13T02:00:00Z
+    webUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/"
+    ampWebUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-newsom-recall-600.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "It's Up to Democrats to Stop Biden's Radical Agenda"
     excerpt: "Senate Democrats released a 92-page outline of President Joe Biden's agenda Monday morning. It is nothing short of a blueprint for a far-left, radical remaking of the United States."
     publishedDateTime: 2021-08-10T11:58:00Z

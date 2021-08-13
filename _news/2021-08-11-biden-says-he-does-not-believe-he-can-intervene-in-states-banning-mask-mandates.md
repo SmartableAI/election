@@ -103,6 +103,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
+    excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
+    publishedDateTime: 2021-08-13T01:57:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article253458584.html"
+    type: article
+    provider:
+      name: Merced Sun-Star
+      domain: sacbee.com
+    quality: 66
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/0f121ceb-48c1-4832-a10a-a5a016caa35f/04d10534-d759-4584-9768-33f2b8ab34ba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden’s new fuel economy rules"
     excerpt: "President Joe Biden's new standards are basically a return to those adopted under Obama, requiring new vehicles to average 5% in carbon dioxide emissions cuts every model year through 2025."
     publishedDateTime: 2021-08-08T04:28:00Z

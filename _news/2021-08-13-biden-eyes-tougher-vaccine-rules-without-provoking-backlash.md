@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Biden eyes tougher vaccine rules without provoking backlash"
-excerpt: "When the pace of vaccinations in the U.S. first began to slow, President Joe Biden backed incentives like million-dollar cash lotteries if that's what it took to get shots in arms. But as new coronavirus infections soar,"
-publishedDateTime: 2021-08-13T01:34:00Z
-originalUrl: "https://lasvegassun.com/news/2021/aug/12/biden-eyes-tougher-vaccine-rules-without-provoking/"
-webUrl: "https://lasvegassun.com/news/2021/aug/12/biden-eyes-tougher-vaccine-rules-without-provoking/"
+excerpt: "Even as President Joe Biden becomes more aggressive in pressuring Americans to get vaccinated, he has refrained from using all of his powers"
+publishedDateTime: 2021-08-13T03:00:00Z
+originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
+webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash"
+ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-12/biden-eyes-tougher-vaccine-rules-without-provoking-backlash?_amp=true"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Sun
-  domain: lasvegassun.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/fc3f070/2147483647/strip/true/crop/3955x2645+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2F5b%2F152b7cfe555e119d1ca1afe2fba9%2Fa28adc8badc349f9913383206dca0698"
+    width: 320
+    height: 214
+    isCached: true
 
 related:
   - title: "Joe Biden to tout strong July jobs numbers – US politics live"
@@ -487,6 +495,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "hqMkbErYZmWZP+UwjHUCF/GyjLEEUq/ujb5jBnt1ro/IIwa5T7+o/E399lyVpZWzRcFOYhE8AWiYK3/E/eCeTBOshHxFJu6LiKrRN07V2y0X8dzpeekr6R+9fvCckzu2EAtEi7qqvX438n9QIQ9RU4qvCJfiktaClcGGIi5hTQO1ATFaUUCxr1NDrKa24GcquWIdFt1NFdMl+N+9ezHRu9W6R8kQnKWRH9iVAU+nBz7EPKn8FMBwWq3y5KyEwNm1lP3BfleJFEYN8RqSXql3/PST+DG1ImzIfYksHO5rSu1KU5aOYKrbEAmJBj1n1zgCSuA0EFA99N6xb4gO5d0iF8K/rmb/dKL8tLn+x3NC9q0=;LEEKTJ7Egy7ax/UvX09ZGw=="
+secured: "f40T4vowtAnBe2DNCGZoE+FuF6QAWuP0SGIFZ7UtsLCBFt6iyQbYx6p2XeC1gWynPNWYLm/VgiCkHs3BQudtAXNSro7N3uyTG4xHuUptAL1wWc6+11zZqvSadNxSqgQ9TCqGGLv3jr5Zi8OKwX/QHAgZS7LLzW28PGHXpuem0w277Qg7f6aHfnq3HrXjffmCR3HX2fW7LL4tUvgnYQwzb8EWokq8oZUahymoo33zXqvXrVGjM5bnInQ9Hg0LGnCzfuf8QXXZ3ZD/l5OPSiZiCFIpRtJSWV1i+5z3Dp3XXbWMHihYJV3zPBwPqs+B1FhPoYMFoJNO/qvWbgjD17qbmR1OEwqlurCf955CDZbScOo=;rO6axesEDC+yiBniNE+3pg=="
 ---
 

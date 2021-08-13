@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "President Biden urges voters to vote ‘no’ in Newsom’s recall vote"
+    excerpt: "President Joe Biden made a statement on Thursday supporting California Governor Gavin Newsom and urging voters to vote “no” in the recall election."
+    publishedDateTime: 2021-08-13T02:00:00Z
+    webUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/"
+    ampWebUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-newsom-recall-600.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden accuser Tara Reade reacts to Cuomo's resignation, calls for 'real investigation' into president"
     excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, weighed in on the stunning resignation of Democratic New York Gov. Andrew Cuomo amid his sexual harassment scandal."
     publishedDateTime: 2021-08-10T17:25:00Z

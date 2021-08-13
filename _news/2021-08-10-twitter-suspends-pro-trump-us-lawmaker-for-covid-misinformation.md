@@ -1077,7 +1077,7 @@ related:
   - title: "Sen. Chris Coons On Infrastructure, Donald Trump, And Bipartisanship"
     excerpt: "One of those burning the midnight oil was Democratic Sen. Chris Coons. What’s in the bill? And what are the next steps for it to pass? Copyright 2021. To see more, visit."
     publishedDateTime: 2021-08-09T18:57:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1026173117/seaglefestival.org"
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1026173117/sen-chris-coons-on-infrastructure-donald-trump-and-bipartisanship"
     type: article
     provider:
       name: Northcountrypublicradio.org
