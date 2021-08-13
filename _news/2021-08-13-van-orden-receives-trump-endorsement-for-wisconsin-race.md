@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Van Orden receives Trump endorsement for Wisconsin race"
-excerpt: "Derrick Van Orden was also endorsed by Trump in 2020 when he lost to Kind by less than 3 points. Trump carried the district by nearly 5 points, making it a prime target for Republicans even before Kind announced this week that he would not be running for a 14th term in 2022."
+excerpt: "MADISON, Wis. (AP) — Former President Donald Trump on Thursday gave his “Complete and Total Endorsement!” to the Republican seeking to flip a southwestern Wisconsin congressional district held by Democratic Rep. Ron Kind since 1997. Derrick Van Orden ..."
 publishedDateTime: 2021-08-12T21:29:00Z
-originalUrl: "https://www.expressnews.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php"
-webUrl: "https://www.expressnews.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php"
-ampWebUrl: "https://www.expressnews.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
-cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+originalUrl: "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+webUrl: "https://www.mrt.com/news/article/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+ampWebUrl: "https://www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
+cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Van-Orden-receives-Trump-endorsement-for-16382562.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: expressnews.com
+  name: Midland Reporter-Telegram
+  domain: mrt.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Battle for the Soul: can Joe Biden beat Trump’s Republicans in the war of words?"
@@ -36,6 +42,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/b154e2ec1a066f21654de9b210264780a46f1bc0/0_212_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9ed661e9ea12877cfeb20e43f16806"
         width: 600
         height: 360
+        isCached: true
+  - title: "14 Percent of Biden Voters Say Trump Will Be Reinstated as President This Year: Poll"
+    excerpt: "Just over one-quarter of voters who were very or somewhat \"favorable of Biden\" said that former President Trump was likely to be \"reinstated\" as president."
+    publishedDateTime: 2021-08-12T23:29:00Z
+    webUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985"
+    ampWebUrl: "https://www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/14-percent-biden-voters-say-trump-will-reinstated-president-this-year-poll-1618985?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1869775/donald-trump-reinstated-joe-biden-poll-conspiracy.jpg"
+        width: 3431
+        height: 2282
         isCached: true
   - title: "Biden says Congress should extend eviction ban"
     excerpt: "President Joe Biden wants Congress to extend an eviction moratorium before millions lose their homes. CBS MoneyWatch reporter Irina Ivanova joins CBSN AM to discuss the latest."
@@ -246,16 +268,16 @@ related:
         height: 433
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Infrastructure"
-    excerpt: "Vice President Kamala Harris introduces President Joe Biden to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
+    excerpt: "President Joe Biden removes a protective face masks to deliver remarks on infrastructure in the East Room of the White House in Washington, DC, on Tuesday, August 10, 2021. The Senate voted to pass the Infrastructure Investment and Jobs Act in a bipartisan majority of 69-30."
     publishedDateTime: 2021-08-10T21:00:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0b39f6565abe13f0b3779d83cb9885f8/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/80e32b74255dcfe90f52e6842aed443d/President-Joe-Biden-Delivers-Remarks-on-Infrastructure/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0b39f6565abe13f0b3779d83cb9885f8/WHITE-HOUSEINFRASTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/80e32b74255dcfe90f52e6842aed443d/WHITE-HOUSEINFRASTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -306,6 +328,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "gcltTFlaT1ZhRZIzxA0HoyQrEj9P3ULO/jOZhcwvdNOXoEDgl26A7tnfmbaCTP01psL7PcVH8wqEMHzguGtL+SixFvr+mfOrehc69rRkz7Zlwf/ybmPY1bMEEHtDXN8Cqn2cSlVKjNjo170YMdmmT9Le0gwEZOSVUWwJ5e2+AkabA0GD3rS7mbLavUiSZxl2aY85hK8oMIQ0sI/Wf5PDd+i5Kff2dO8KgUdFzOKKKqPAmslSwMMLBzxDbboLIFcqNM0pONdw70LDT+8YIg/b50SYIBPE2p55JX/uLTrUfgRZa8VMA9PLKQjY86/j4eEQoGyhjs0EUZR9UWBiIqION17HwwX3CbPEMjZ3AxoQGu0=;H9wjwfhJQDfIf2/5fFAr6w=="
+secured: "378xg9+za/V3T7CnMFVR8J1O+Dx19/4zkpjmU+E+1x8tqKpHhsaAw9Sg9c+26NfchmfYdjfT8uUxuwvT7BJW9CnSJ+SINevERwZE2oHR92W0UqOH/f/yD4eRrebrDqOo2utyS9aidHqHeT8LyQ2BiqBAp+cOH8LIS82OFMQ8w8NZIqZpSms3Fy99IjNoh0E2iLbyUc6y/5UphPgzsXhFaUkRtYrbWXPJDT7vXIOCEqpfoqYBwxiDMEJSgdpbsZwEGvO9QVwm5gid/vJv5tGC6IDTFnuoW6LxwcZXglh6eIqCPWnjB0zq7oInr/kXymEQCraLvQKXzd9brEtK1CWHc63m2N3OyY8TwW1+PBBYHtw=;keccL+25RFT9aT+pcSA3vA=="
 ---
 

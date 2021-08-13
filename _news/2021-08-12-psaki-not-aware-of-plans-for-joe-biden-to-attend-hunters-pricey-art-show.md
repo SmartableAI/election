@@ -156,6 +156,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Pompeo: Biden failing to execute Afghan withdrawal, Trump warned Taliban of consequences"
+    excerpt: "Former Secretary of State Mike Pompeo called out the Biden administration for what he described as poor planning and poor execution of a U.S. troop withdrawal from Afghanistan, which may lead to the nation's capital of Kabul to fall to Taliban insurgents within the next 3 months."
+    publishedDateTime: 2021-08-12T22:25:00Z
+    webUrl: "https://www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences"
+    ampWebUrl: "https://www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pompeo-biden-failing-to-execute-afghan-withdrawal-trump-warned-taliban-of-consequences.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Oh, Joe: Biden mistakenly says 350M Americans vaccinated"
     excerpt: "Biden, 78, is often accused of being in mental decline and then-President Donald Trump made his cognitive fitness a central campaign issue last year."
     publishedDateTime: 2021-08-06T18:56:00Z

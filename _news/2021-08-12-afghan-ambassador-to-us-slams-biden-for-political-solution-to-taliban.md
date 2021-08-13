@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Fox News Poll: High concern about crime and illegal immigration, two of Biden’s weak spots"
+    excerpt: "The latest Fox News poll finds that voters are concerned about crime and illegal immigration, two of President Joe Biden's weakest issues."
+    publishedDateTime: 2021-08-12T22:00:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aShXM3ULN3U/high-concern-about-crime-and-illegal-immigration-two-of-bidens-weak-spots"
+    ampWebUrl: "https://www.foxnews.com/politics/high-concern-about-crime-and-illegal-immigration-two-of-bidens-weak-spots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/high-concern-about-crime-and-illegal-immigration-two-of-bidens-weak-spots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4b29d26-6c5c-46c4-895a-78a70978a0d9/cf34ead9-d7fd-408a-9b6d-50962f407817/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "jHjR2RLJSuhJBY7AfWcCCRG83Kl7j/+Nz879egp55rdYFTE5p3JWrB39LyqRyFBIcyrtGHtKBXH4RIqXefk5D63fq6EGi7AXWtkqHk2gzDyyg5nrQY2YKlNrp9Yr3oQuNdKO+myNxESqb8SMBEapqf4obqdR6kxB3bmsgPBxts/wN4Rvu1khZLUm+6DvInKDB96LoMOdR0WRfXd7ZkUCXGDvfEYHcbDFaRZjT8I3vj068fDwPew7olfH7/5eVPr7FyoV+BnPzf2TThuka5BBquaSPs/GgbY7fvJzAN3hmCSY7J/v38zDGjyywGuqLkzBiMlQhjkOv1fUWi4CBQQV8wbPyLkCJhPOTEeFQ/9F8Is=;IKak232h79Uc1ZMRuJ65Ww=="
 ---

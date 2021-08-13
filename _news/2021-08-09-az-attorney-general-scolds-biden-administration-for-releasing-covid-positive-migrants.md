@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/az-attorney-general-scolds-biden-ad
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fox News Poll: High concern about crime and illegal immigration, two of Biden’s weak spots"
+    excerpt: "The latest Fox News poll finds that voters are concerned about crime and illegal immigration, two of President Joe Biden's weakest issues."
+    publishedDateTime: 2021-08-12T22:00:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aShXM3ULN3U/high-concern-about-crime-and-illegal-immigration-two-of-bidens-weak-spots"
+    ampWebUrl: "https://www.foxnews.com/politics/high-concern-about-crime-and-illegal-immigration-two-of-bidens-weak-spots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/high-concern-about-crime-and-illegal-immigration-two-of-bidens-weak-spots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4b29d26-6c5c-46c4-895a-78a70978a0d9/cf34ead9-d7fd-408a-9b6d-50962f407817/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Afghan ambassador to US slams Biden for political solution to Taliban"
     excerpt: "The Afghan ambassador to the US criticized the Biden administration for suggesting that lasting peace in her country is possible only through a political solution."
     publishedDateTime: 2021-08-12T15:09:00Z

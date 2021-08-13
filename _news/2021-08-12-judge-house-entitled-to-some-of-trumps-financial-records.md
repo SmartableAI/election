@@ -288,6 +288,20 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 55
+  - title: "Trump appeals split decision in fight with House over financial records"
+    excerpt: "A long-running court fight between Donald Trump and a House of Representatives committee over his financial records is heading back to an appeals court after a judge"
+    publishedDateTime: 2021-08-12T22:38:00Z
+    webUrl: "https://gazette.com/trump-appeals-split-decision-in-fight-with-house-over-financial-records/article_fb951864-fbbd-11eb-8b6e-07bc48113b28.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/custom/image/3f755dae-418c-11e8-a244-53852639d709.png?resize=600%2C592"
+        width: 600
+        height: 592
+        isCached: true
   - title: "Condo owners at Trump Tower in White Plains vote to dump ex-president's brand"
     excerpt: "Trump Tower at City Place in White Plains opened in 2005, but owners voted to banish the former president's name."
     publishedDateTime: 2021-08-12T09:02:00Z

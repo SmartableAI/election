@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: 805
+heat: 825
 published: true
 
 provider:
@@ -337,6 +337,20 @@ related:
       - url: "https://www.reuters.com/resizer/46TFA8Rimgf0gnSMCKOpsqam3I4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKSFTIVGHZNWRETH5BNZ44TAYI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Will Biden Invite Afghanistan to His Democracy Summit?"
+    excerpt: "In light of the debacle in Afghanistan, does the U.S. president expect any of his fellow democratic leaders to believe him when they convene in December?"
+    publishedDateTime: 2021-08-12T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/business/will-biden-invite-afghanistan-to-his-democracy-summit/2021/08/12/a5862210-fbbd-11eb-911c-524bc8b68f17_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/US5P4WX3XUI6XEI4KJF4RNUPC4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""

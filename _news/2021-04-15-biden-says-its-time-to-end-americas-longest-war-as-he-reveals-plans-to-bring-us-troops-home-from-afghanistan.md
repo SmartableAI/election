@@ -354,6 +354,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Will Biden Invite Afghanistan to His Democracy Summit?"
+    excerpt: "In light of the debacle in Afghanistan, does the U.S. president expect any of his fellow democratic leaders to believe him when they convene in December?"
+    publishedDateTime: 2021-08-12T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/business/will-biden-invite-afghanistan-to-his-democracy-summit/2021/08/12/a5862210-fbbd-11eb-911c-524bc8b68f17_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/US5P4WX3XUI6XEI4KJF4RNUPC4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Daily 202: Biden says he has no Afghanistan withdrawal regrets. But."
     excerpt: "Welcome to The Daily 202 newsletter! Tell your friends to sign up here. On this day in 2014, the world lost actress Lauren Bacall. “You know how to whistle, don’t you Steve? You just put your lips together,"
     publishedDateTime: 2021-08-12T19:56:00Z
