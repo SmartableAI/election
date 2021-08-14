@@ -29,15 +29,20 @@ images:
 related:
   - title: "Biden admin backs Texas, Florida districts on mask mandates"
     excerpt: "President Joe Biden’s administration is offering its full-throated support for local cities and school boards in Texas and Florida that are defying orders by their Republican governors that prohibit m"
-    publishedDateTime: 2021-08-14T01:33:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/?amp=1"
+    publishedDateTime: 2021-08-14T05:37:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/399e1a4/2147483647/strip/true/crop/3648x2440+0+148/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F6d%2Fd6fe6349dcfb4bad22a3bbbcdffc%2F18cf34c5ce1143509d2ae694f42f956b"
+        width: 320
+        height: 214
+        isCached: true
 
 secured: "NODmTW1bZ0uJyavE59/KxKgM5TJsx/4HscvRlY5lPfZZseUhU0ZWV2PwYAjyrR3inBmyAfek0IQ3gCkD/+E7ZsRVBzzKLlJIUEQaoOI/PytwTj5IhDl8YpQn0pGFT4MHaQ8XoBDtxtTNP98BFHVGZ3D5EvUws8OpzcGGQRMS4l2BRNQN3zvw8TeIJgdTpjGVr22rUenicZW7yj3yTgUy+/sEP+Ix8lgROUmWysnhvw4xZ3hUC3YBw/jbxgOVXxew1osiluFFXjczPhs6wv37/lyIwkeg0fi5i4SpVlFqVdHaH+EfyehUUIgD61VN6bHVRz3sVpzoGvEQL2sgucv8fQzraCtcyjcfvP1Jj+WmzmEfTMMjE9KlEVyq3fMsvx5PLdJuITsH2NKo+o/AbUd1Idm/t3+NVKNRvIxhDvjNUoZl+ab/CYmJlFTQTi9QnMtXeHhWJucJukp9K9a2DeC74/VMgHwuuJBsKGcp2gD25cf0qTbKsrXZ2TGGle1aTsho3WmEQSRkNd5H50o1BbRnOg==;vsNPtejdA8gwjCuM5hwuWQ=="
 ---

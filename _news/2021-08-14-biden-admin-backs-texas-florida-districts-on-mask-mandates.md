@@ -2,23 +2,29 @@
 category: news
 title: "Biden admin backs Texas, Florida districts on mask mandates"
 excerpt: "President Joe Biden’s administration is offering its full-throated support for local cities and school boards in Texas and Florida that are defying orders by their Republican governors that prohibit m"
-publishedDateTime: 2021-08-14T01:33:00Z
-originalUrl: "https://www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/"
-webUrl: "https://www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/"
-ampWebUrl: "https://www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/?amp=1"
+publishedDateTime: 2021-08-14T05:37:00Z
+originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates"
+webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates"
+ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-08-13/biden-admin-backs-texas-florida-districts-on-mask-mandates?_amp=true"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/399e1a4/2147483647/strip/true/crop/3648x2440+0+148/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F6d%2Fd6fe6349dcfb4bad22a3bbbcdffc%2F18cf34c5ce1143509d2ae694f42f956b"
+    width: 320
+    height: 214
+    isCached: true
 
 related:
   - title: "Joe Biden’s own Delaware homies hit back hard at vaccine mandates"
@@ -38,6 +44,6 @@ related:
         height: 700
         isCached: true
 
-secured: "UU5NSq2L7Z7qwPYbQt3Yp5jU1cECUIws8c42fohCb69EPeWU0tWmFRSo3awVW2y6xb1Se9o2eqdxrjejwUMYfFGn/y5MwwLjhvEqwftLBVLTxcvdgqrBx+e8rm1IpeBNVwyH0dguzxQZSrK+ZUuZr2OkxQ1qyfkkb8lOSm/G3FAmuRlm3oVpp5LZc9hPhQaKB0xoBMqANAlTZJpT7fxC1SDTItXfVPYd0NW4M7Kf3NLeUgUs1niGaHbeVTEf1Hsa0mnn7SofItC/sEhEMnc9L+k/YPyPnMWcwv+45fUTzuyC8o+oTx6D0X6W3tnNPxHAuAvEbqHsXOz7bjL5w22kBQ+py/54oxRACV8ZU2AAiZQTDMoHNNvp5jOCabVGK7SJPezlxKdWOS8fXBgyp8CTg15+QjC4JdzxMqywnvHpIaY6ULIi9Y7Mp9WK1/uodBlqnQ6sbhRsOUPXEA+5aSskW46LMT7Ghs5JUYl6Va1N61GN0XHYAr1nxIk37cc4HDwzg/YzKk6FZzUZZWiSEEyuqg==;DduwKsz5tgA58XSC+Hb0MQ=="
+secured: "aJoRenVB2kVe3CG//wGKpHr1OWTN8e0MWwmeB+emPRSGY8/6J8r0Yb2wofPSM1oxoqhj02ADMzYaylxcyKt9/4Yb4tyjSzAoQyRdY+faIcq0AeFqqAhsw9uLVuK5LiC8Mub9HTYn8TZ4ny+dTsLTwVGYgFWqByHHOgMMRYOnl+BFp6j+dx8QmvTWPVmYMzRnkscuCz4deL51Z6VUyJFIvjCRD2bBoKjR1kLyxir0Bk+T1f7Q/CKUcRkFBnbMC5VHB9J4U0nBplXqeJ+U3nxw8eZX5bD2tpqFAf5kVAY8c8PY5sqPhgUlmOHEzcUmjrM+1Eq7YA8RSGNBNGyxg0LYXK0Mfgqb4S6XlyFqjY0d9qc=;NXW6R3BZSwWQ8oYsbx5v9g=="
 ---
 

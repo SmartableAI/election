@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Knows She’s Trapped"
 excerpt: "I think it’s okay if we shake hands,” Kamala Harris told me last week. The vice president came out from behind her West Wing desk to greet me, her eyes smiling above her face mask. The last time I was in this particular office,"
 publishedDateTime: 2021-08-06T14:00:00Z
-originalUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/?%3Foref=GovExecTCO"
-webUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/?%3Foref=GovExecTCO"
+originalUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/"
+webUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/"
 type: article
 quality: 55
 heat: -1
@@ -398,6 +398,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "wKsn9js0LoE82wgLoa4THrS4iXMqlo7XHVwr7x9cKbeRyAWUkx1+CH5Nd4xueKVeUA9hMPPU23/oYmQS83Kvbe3q9byPkcnM9innm1WZ+2/LsffI5k2kVG+zpKyU1yDCUJG2npcxOasFd0pUN6BmY3e4frHlfWlV042OO2BRwbUR/ckArLVjWUe9BjztE0EdgWHu2hvLaKbHVZW15FcR4sEiITj87/z2KqbPvPUi+WK0sLYeoKSzjgE1insOWUdNcW/t70rfPFWjmYzIQ1O1oPEvQ0JaDZLvB7K9H5zODAHIJn6hN7JVP6v+GETIp/KXWYijcsyRibo81VkP/2OXyneunEsz1bIqQ+Nzh6PMQP7WID+0G0R3hw6EbxHIxpZgr1FUC58mKZlsXJh+zWlIBbiBxiqLjd84V+DQf6pBNesYI45h6rBMp8FvE55W70l/yJsx2F1ipO46eilkWymBMv5L84JSPaHWUP7H3G9hyEzTqZIqTdfMUd3dqxjW9udDMW1rvU64V+7GUvqmeuGH7g==;P7JF6JzAN1/M70ohxPTYCA=="
+secured: "tJQ5qxE3w4KT9Z0ChIalLRjzINNTsCG68P/0uc7jj6VlzuGiNY61ZneEmsqmbka0PAfpSPXjtWFoEZORdEfz1zcqYo7lN6mEdZx8boGSspQqX+qcOs9y7Ve6QMP9s550fXqbi+A99AFehUtoQqh8+HjqXAIjoG9zH3dCGCbfTMch4f691RRG7WOiwhAr/lNgDuUSYsnTWBAilJcNANGefkoM4ScWBdG+HizvmcaK5VHrSFaoX9pT5nbVuMSNQRAA4Z5UhyLWtTALlMklG5ZbmR7MaPV54C9KeNz/5c4kWxIjTKBkOgAZm7CVplOzNXyn+7xB2B/RkRcYv4c5SxMXhtt/BnCupYVmQc+kDn6UCtA=;Nch1KKFuAvuRxYAT48nVJw=="
 ---
 

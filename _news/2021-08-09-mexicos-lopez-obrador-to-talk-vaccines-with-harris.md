@@ -326,7 +326,7 @@ related:
   - title: "Kamala Harris Knows She’s Trapped"
     excerpt: "I think it’s okay if we shake hands,” Kamala Harris told me last week. The vice president came out from behind her West Wing desk to greet me, her eyes smiling above her face mask. The last time I was in this particular office,"
     publishedDateTime: 2021-08-06T14:00:00Z
-    webUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/?%3Foref=GovExecTCO"
+    webUrl: "https://www.govexec.com/management/2021/08/kamala-harris-knows-shes-trapped/184333/"
     type: article
     provider:
       name: Government Executive
