@@ -604,6 +604,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden Administration Ordered to Reinstate Trump’s Remain in Mexico Policy"
+    excerpt: "The program, which the Department of Homeland Security introduced in 2019 at the height of a surge in Central American families coming to the U.S. border, was wound down by President Biden soon after he took office."
+    publishedDateTime: 2021-08-14T18:11:00Z
+    webUrl: "https://www.wsj.com/articles/biden-administration-ordered-to-reinstate-trumps-remain-in-mexico-policy-11628963982"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-ordered-to-reinstate-trumps-remain-in-mexico-policy-11628963982"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-ordered-to-reinstate-trumps-remain-in-mexico-policy-11628963982"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-385740/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden orders diversity training for federal agencies, flipping Trump’s ban"
     excerpt: "President Joe Biden is mandating critical race theory training programs in federal agencies — courses that former President Donald Trump banned for being “un-American” propaganda."
     publishedDateTime: 2021-06-26T20:12:00Z

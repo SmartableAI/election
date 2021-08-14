@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "McCarthy slams Biden's Afghanistan withdrawal as 'embarrassment to our nation'"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., slammed President Biden's \"complete mismanagement\" of the withdrawal of troops from Afghanistan and called for the U.S. military to continue to provide \"close air support\" to combat the surging Taliban forces. "
+    publishedDateTime: 2021-08-14T18:13:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHVp8WEUaCE/mccarthy-slams-biden-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-slams-biden-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-slams-biden-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell pushes Biden to 'hammer' Taliban with airstrikes as Afghanistan spirals"
     excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., pressed President Biden to order airstrikes against Taliban forces on Friday following what he described as an “urgent conversation” with Afghanistan’s ambassador to the United States, Adela Raz."
     publishedDateTime: 2021-08-13T23:23:15Z

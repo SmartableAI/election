@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris visits Unity Health Care's Brentwood Health Center"
-excerpt: "U.S. Vice President Kamala Harris speaks about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington, DC. Photo by Oliver Contreras/UPI"
+excerpt: "U.S. Vice President Kamala Harris arrives to talks to health care workers before speaking about health care affordability at Unity Health Care's Brentwood Health Center on Tuesday, August 10, 20010 in Washington,"
 publishedDateTime: 2021-08-10T18:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/57a86ff633df2b4522be0d816b953da4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/57a86ff633df2b4522be0d816b953da4/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/b9df6aec35c1c3009eb4a288f1ced78d/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/b9df6aec35c1c3009eb4a288f1ced78d/Vice-President-Kamala-Harris-visits-Unity-Health-Cares-Brentwood-Health-Center/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/57a86ff633df2b4522be0d816b953da4/HARRIS-HEALTH-CARE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/b9df6aec35c1c3009eb4a288f1ced78d/HARRIS-HEALTH-CARE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -106,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5jYO9cxC23cE7yFMO9hVjSu80ICTchwBaULOxd5kohkHQMeFzVgrdoS102cljLI8FnAVPEz4x+fx6sNJlimRXsDjrsotCDyxalSUgYqPLh1QzsDIKmAW/jqB7Yu8v7cHRwfDA+88OTP80Zj1+VfWBCuLTxgBjXVmynvaKoV+Ti/I58SDUhFk5dVPMHdIE2cWGIp3C1NeoHZ8ThgPEhfTzJZ5k5ddeJ1CJYgdUkbJojsTshYdfp9zb2uQcGl5CkVoWp662TlbzQWk4Qj/MN/7eXYgAssZ61rB34X+h6Avt3Q/em/xlViFyfZ6OvnasWFIwrr71rfL9yzSoSHtBrd/wx3iDtnaho+M/RyNFCfVoqHduNA8VAsguwp40iuV2qrIb6mKeVyLOE0gu7aBw/wWcIoHcCHCdfpJvJmUcLky71W63bOHTdLoC2FNnezWyKetjo9Dy/U+gj9yWYwTC5/DDj5ZgtX8DuVWWT7iPt1S3c39BHgpalfhgomHEulh5/djxQl3QI5HmWI0aj2vceWtfQ==;9hSWxNxt4iTV0Eyf36Po/w=="
+secured: "nEsghLhY9asmR/VXrC3nQilPUVXOey9CHhU0nimSzaXwK3kwKrqyyQiKw1nBTFbsWH2s+ulevaRpfGPoMGH/m3HMKpcsR+z49cgxMv4VnDL3l6UPF3KuX7JC1RYEZwgWAKGNe6VQbh3uvp/GvOMw0TrINnHpa34EinlhkSUo4BFu8GR9cJrOUA93hnsH8F+MWeJRwjF/z7yQ4sjl5m1+vOk4WJm1uOHIeSMh2P7xkrw7EfMYJpptw9Q7FaqVBKDmWvmgGFsfRJ2YyEkZ9v1+myDRAiXsg0hFH+mq36Q+el7Z7aICoVj2vpV7Ro0i3Etpx0/GG8Y3niGjiuWfSX6ZzMQej3DpAhJ96OFPuqPl6d0=;GdgDTEA7z65iKwY1rnWJfA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1650
+heat: 1670
 published: true
 
 provider:
@@ -590,6 +590,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077770966304.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden Administration Ordered to Reinstate Trump’s Remain in Mexico Policy"
+    excerpt: "The program, which the Department of Homeland Security introduced in 2019 at the height of a surge in Central American families coming to the U.S. border, was wound down by President Biden soon after he took office."
+    publishedDateTime: 2021-08-14T18:11:00Z
+    webUrl: "https://www.wsj.com/articles/biden-administration-ordered-to-reinstate-trumps-remain-in-mexico-policy-11628963982"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-ordered-to-reinstate-trumps-remain-in-mexico-policy-11628963982"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-ordered-to-reinstate-trumps-remain-in-mexico-policy-11628963982"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-385740/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Former Trump aide Stephen Miller launches group targeting Biden’s policies"
     excerpt: "Former President Donald Trump’s senior aide Stephen Miller has launched a new organization that aims to challenge the Biden administration’s policies in courts."

@@ -913,6 +913,22 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "The Latest: Biden, Harris hold video link on Afghan chaos"
+    excerpt: "WASHINGTON — President Joe Biden and Vice President Kamala Harris have held a secure video conference on Saturday morning with national security officials in response to the worsening situation in Afghanistan."
+    publishedDateTime: 2021-08-14T19:48:00Z
+    webUrl: "https://www.chron.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 100
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Biden and Harris talk about navigating the southern border crisis"
     excerpt: "(The following is a copy of an imaginary leaked conversation between President Biden and Vice President Kamala Harris secretly recorded in Biden’s basement.) “You want me to do what?” (spontaneously laughing). “Kamala, I want you to take over the ..."
     publishedDateTime: 2021-04-06T05:05:00Z
