@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-20-biden-will-certainly-welcome-help-from-trump-to-get-more-americans-vaccinated.md",
+      "title": "Biden Will 'Certainly Welcome' Help From Trump To Get More Americans Vaccinated",
+      "excerpt": "White House press secretary Jen Psaki has said that President Joe Biden will “certainly welcome” help from his predecessor Donald Trump to combat vaccine hesitancy amid a surge of COVID-19 cases. During a press briefing Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383",
+      "originalUrl": "https://www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/30/former-us-president-donald-trumps-visit-to-the.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383?amp=1",
+      "publishedDateTime": "2021-07-19T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
       "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
       "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
@@ -1482,63 +1534,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-michael-wolff-on-donald-trumps-last-days-for-now.md",
-      "title": "Michael Wolff on Donald Trump’s Last Days (for Now)",
-      "excerpt": "Landslide” tells the dramatic and unprecedented story of the weeks after the 2020 presidential election from inside the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/06/books/review/Lemann1/Lemann1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.amp.html",
-      "publishedDateTime": "2021-07-12T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

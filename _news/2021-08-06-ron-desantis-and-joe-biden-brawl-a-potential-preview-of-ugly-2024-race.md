@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/22OhioStreet060420_NAW2-1.jpg"
         width: 1024
         height: 640
+        isCached: true
+  - title: "Joe Biden administration backs school boards defying Ron DeSantis’ mask mandate ban"
+    excerpt: "DeSantis' press secretary says the Secretary of Education's letter does not change Florida's course of action."
+    publishedDateTime: 2021-08-13T23:37:00Z
+    webUrl: "https://floridapolitics.com/archives/450252-joe-biden-administration-backs-school-boards-defying-ron-desantis-mask-mandate-ban/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 49
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/SCHOOL-MASKS-2-Large.jpeg"
+        width: 1620
+        height: 1080
         isCached: true
   - title: "Joe Biden to Ron DeSantis: ‘If you aren’t going to help, at least get out of the way’"
     excerpt: "Biden called bans against mask and vaccine mandates the 'worst of all.' The White House issued a warning to Gov. Ron DeSantis Tuesday after Florida saw a record number of new hospitalizations related to COVID-19."

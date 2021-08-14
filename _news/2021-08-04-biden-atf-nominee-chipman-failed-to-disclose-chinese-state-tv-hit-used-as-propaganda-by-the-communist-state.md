@@ -47,6 +47,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "It's Up to Democrats to Stop Biden's Radical Agenda"
+    excerpt: "Senate Democrats released a 92-page outline of President Joe Biden's agenda Monday morning. It is nothing short of a blueprint for a far-left, radical remaking of the United States."
+    publishedDateTime: 2021-08-10T11:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/10/its_up_to_democrats_to_stop_bidens_radical_agenda_549108.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "meTh1fqfzJsiMmBfqBXuBpbl4ZtcimsK7E3cPBviCgUmLvZU2fpsc/nhRvPrY+TZKDMVVGAcEQYLhqkYZeCGHqKPEDGCQ1ngdtnkf8S2y8WG/iqhtQ0a59+zUOYK9zwQInW1np+8/UbKd6YBtYu93eE22KKpxLRyMjOukzWi60DmR1euA4gwws356ugfHF4y3VYeyL2bTVkFIF57+vQ/1uftnhO4EZ567MNXRBrbg+IrcPUSiPeyqolbQ7PzdBEELBGjg/Phnm+YZsfyhakerRmXErLXbgEEWRiZEGjx11qsc9THBtLzzYeK1hJFzAhT112OzHyjtjpYBWrlKnog2/0bQ/Ed15rXkuFQqkL7c8Q=;EgJaTdL6S/k6i842ac6/Sw=="
 ---

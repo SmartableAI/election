@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-dela
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/"
 type: article
 quality: 75
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 1200
     height: 700
     isCached: true
+
+related:
+  - title: "Biden admin backs Texas, Florida districts on mask mandates"
+    excerpt: "President Joe Biden’s administration is offering its full-throated support for local cities and school boards in Texas and Florida that are defying orders by their Republican governors that prohibit m"
+    publishedDateTime: 2021-08-14T01:33:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/health/biden-admin-backs-texas-florida-districts-on-mask-mandates/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "NODmTW1bZ0uJyavE59/KxKgM5TJsx/4HscvRlY5lPfZZseUhU0ZWV2PwYAjyrR3inBmyAfek0IQ3gCkD/+E7ZsRVBzzKLlJIUEQaoOI/PytwTj5IhDl8YpQn0pGFT4MHaQ8XoBDtxtTNP98BFHVGZ3D5EvUws8OpzcGGQRMS4l2BRNQN3zvw8TeIJgdTpjGVr22rUenicZW7yj3yTgUy+/sEP+Ix8lgROUmWysnhvw4xZ3hUC3YBw/jbxgOVXxew1osiluFFXjczPhs6wv37/lyIwkeg0fi5i4SpVlFqVdHaH+EfyehUUIgD61VN6bHVRz3sVpzoGvEQL2sgucv8fQzraCtcyjcfvP1Jj+WmzmEfTMMjE9KlEVyq3fMsvx5PLdJuITsH2NKo+o/AbUd1Idm/t3+NVKNRvIxhDvjNUoZl+ab/CYmJlFTQTi9QnMtXeHhWJucJukp9K9a2DeC74/VMgHwuuJBsKGcp2gD25cf0qTbKsrXZ2TGGle1aTsho3WmEQSRkNd5H50o1BbRnOg==;vsNPtejdA8gwjCuM5hwuWQ=="
 ---

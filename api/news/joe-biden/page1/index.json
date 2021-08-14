@@ -2,25 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-14-pompeo-slams-bidens-actions-in-afghanistan-amid-taliban-attacks.md",
-      "title": "Pompeo slams Biden’s actions in Afghanistan amid Taliban attacks",
-      "excerpt": "Former Secretary of State Mike Pompeo ripped President Biden over his administration’s “panicked” tactics in Afghanistan, saying in a TV interview that “weakness begets war.”",
+      "path": "_news/2021-08-14-jill-biden-wears-medical-boot-after-foot-injury-in-hawaii.md",
+      "title": "Jill Biden wears medical boot after foot injury in Hawaii",
+      "excerpt": "Jill Biden is wearing a medical boot following a recent foot injury on a Hawaiian beach. The boot was on the first lady's left foot Friday as she and President Joe Biden boarded a helicopter in Delaware to fly to the Camp David presidential retreat in Maryland.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/",
-      "originalUrl": "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/",
+      "webUrl": "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
+      "originalUrl": "https://www.ctpost.com/news/article/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
+      "highlight": null,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/pompeo-biden-afghanistan1.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/",
-      "publishedDateTime": "2021-08-13T10:00:00-07:00",
+      "ampWebUrl": "https://www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
+      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Jill-Biden-wears-medical-boot-after-foot-injury-16385810.php",
+      "publishedDateTime": "2021-08-13T16:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
+        "name": "Connecticut Post",
+        "domain": "ctpost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,8 +41,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
-        "Republican Voice"
+        "Joe Biden"
       ]
     },
     {
@@ -220,7 +215,7 @@
       "originalUrl": "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -314,10 +309,10 @@
     {
       "path": "_news/2021-08-12-meet-joe-bidens-secret-weapon-the-woman-who-wrangles-with-congress.md",
       "title": "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress",
-      "excerpt": "Louisa Terrell, White House director of legislative, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscape",
+      "excerpt": "Louisa Terrell, White House director of the office of legislative affairs, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscap",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
+      "webUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress?wpisrc=nl_powerup",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress?wpisrc=nl_powerup",
       "featuredContent": null,
       "highlight": null,
       "heat": 205,
@@ -336,7 +331,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "publishedDateTime": "2021-08-11T23:33:00-07:00",
+      "publishedDateTime": "2021-08-12T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -620,7 +615,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -815,7 +810,7 @@
       "originalUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {

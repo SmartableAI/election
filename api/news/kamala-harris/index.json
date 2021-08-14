@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-california-gov-newsom-confirms-biden-harris-will-campaign-for-him-in-a-matter-of-weeks.md",
+      "title": "California Gov. Newsom confirms Biden, Harris will campaign for him in a 'matter of weeks'",
+      "excerpt": "Embattled California Gov. Gavin Newsom confirmed Friday that President Biden and Vice President Kamala Harris would campaign on his behalf in the coming weeks as he attempts to stave off a recall vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qi_21MX4m6E/california-gov-newsom-biden-harris-campaign-recall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qi_21MX4m6E/california-gov-newsom-biden-harris-campaign-recall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cec80a1-b696-4f84-98d7-a096e98659e3/1c756d90-99fa-4394-8aac-ef9932071362/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp",
+      "publishedDateTime": "2021-08-13T15:03:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-harris-to-meet-with-ceos-on-child-care-proposals-white-house.md",
       "title": "Harris to meet with CEOs on child care proposals -White House",
       "excerpt": "U.S. Vice President Kamala Harris will meet with the chief executives of seven companies including Microsoft Corp on Thursday to discuss the Biden administration's child care proposals as the White House seeks broad support for its agenda.",
@@ -428,7 +485,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1531,63 +1588,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp",
       "publishedDateTime": "2021-07-02T10:18:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-kamala-harris-silent-on-scotus-ruling-on-lawsuit-that-started-while-she-was-state-ag.md",
-      "title": "Kamala Harris silent on SCOTUS ruling on lawsuit that started while she was state AG",
-      "excerpt": "SCOTUS ruled 6-3 against the rule started under Harris",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAQ2G5LFufU/kamala-harris-scotus-ruling-donor-rule",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAQ2G5LFufU/kamala-harris-scotus-ruling-donor-rule",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72d03751-eeaa-4f93-88a8-2f91e2a84421/1c01f40a-7be0-4fa3-a103-f41cd5e73663/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp",
-      "publishedDateTime": "2021-07-01T13:56:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

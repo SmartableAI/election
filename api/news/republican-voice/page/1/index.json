@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-mcconnell-pushes-biden-to-hammer-taliban-with-airstrikes-as-afghanistan-spirals.md",
+      "title": "McConnell pushes Biden to 'hammer' Taliban with airstrikes as Afghanistan spirals",
+      "excerpt": "Senate Minority Leader Mitch McConnell, R-Ky., pressed President Biden to order airstrikes against Taliban forces on Friday following what he described as an “urgent conversation” with Afghanistan’s ambassador to the United States, Adela Raz.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9qUk9PhvYIk/mcconnell-biden-taliban-airstrikes-afghanistan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9qUk9PhvYIk/mcconnell-biden-taliban-airstrikes-afghanistan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/858ee941-d24c-488c-a9b4-e553d23c6170/61a55a57-4c87-4f5c-a011-bf338d451d68/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-biden-taliban-airstrikes-afghanistan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-taliban-airstrikes-afghanistan.amp",
+      "publishedDateTime": "2021-08-13T16:23:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-california-gov-newsom-confirms-biden-harris-will-campaign-for-him-in-a-matter-of-weeks.md",
+      "title": "California Gov. Newsom confirms Biden, Harris will campaign for him in a 'matter of weeks'",
+      "excerpt": "Embattled California Gov. Gavin Newsom confirmed Friday that President Biden and Vice President Kamala Harris would campaign on his behalf in the coming weeks as he attempts to stave off a recall vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qi_21MX4m6E/california-gov-newsom-biden-harris-campaign-recall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qi_21MX4m6E/california-gov-newsom-biden-harris-campaign-recall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cec80a1-b696-4f84-98d7-a096e98659e3/1c756d90-99fa-4394-8aac-ef9932071362/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp",
+      "publishedDateTime": "2021-08-13T15:03:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-trump-fundraises-off-total-loser-andrew-cuomo-resigning.md",
       "title": "Trump fundraises off ‘total loser’ Andrew Cuomo resigning",
       "excerpt": "Former President Donald Trump is fundraising off the resignation of “total loser” and soon-to-be-former New York Gov. Andrew Cuomo.",
@@ -106,54 +219,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-14-pompeo-slams-bidens-actions-in-afghanistan-amid-taliban-attacks.md",
-      "title": "Pompeo slams Biden’s actions in Afghanistan amid Taliban attacks",
-      "excerpt": "Former Secretary of State Mike Pompeo ripped President Biden over his administration’s “panicked” tactics in Afghanistan, saying in a TV interview that “weakness begets war.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/",
-      "originalUrl": "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/pompeo-biden-afghanistan1.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/mike-pompeo-slams-joe-biden-amid-taliban-attacks-in-afghanistan/amp/",
-      "publishedDateTime": "2021-08-13T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-13-hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.md",
       "title": "Hannity: Biden's 'America Last' agenda putting more than just the US at risk",
       "excerpt": "In his Opening Monologue, “Hannity” host Sean Hannity challenged his audience to name a single positive accomplishment of President Joe Biden or his administration.",
@@ -207,62 +272,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-backs-newsom-as-california-recall-election-looms-urges-residents-to-vote-no.md",
-      "title": "Biden backs Newsom as California recall election looms, urges residents to 'vote no'",
-      "excerpt": "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 283,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
-      "publishedDateTime": "2021-08-12T18:49:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -874,7 +883,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 480,
+      "heat": 500,
       "tags": null,
       "images": [
         {

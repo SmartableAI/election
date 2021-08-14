@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3M3QUYGD7EI6XGUN7FOXOJEWPQ.jpg&w=1440"
         width: 1440
         height: 1022
+        isCached: true
+  - title: "Trump endorses Tennessee Gov. Lee in 2022 reelection bid"
+    excerpt: "Former President Donald Trump has endorsed Tennessee Gov. Bill Lee in his 2022 reelection campaign. Lee tweeted out the endorsement Friday released by Trump's political action committee. “Governor Bill Lee is an outsider who led the Great State of Tennessee through difficult times,"
+    publishedDateTime: 2021-08-14T01:12:00Z
+    webUrl: "https://www.bgdailynews.com/news/state/trump-endorses-tennessee-gov-lee-in-2022-reelection-bid/article_1529fd9b-bed4-51f4-b838-6b1ede24a221.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "n7yfBrOaJbKVd4BlRy/W/8zv2r750rA/EYHb7+0puFoBiJ/VyL/piDYfIpHTL0wYS/9UISEiDaq7OD7ZHhACX/hFuqJdhGSGAmFd6n0Y6hxBcdWs0qoqAwZiS6sx4cqKoXVwTaggcYZXDgOxtfswxhmRhuqusYeAlGAU4z9IrKwYxDDVs/rZdIrFgKW1kLAmbqpHQUG8FBhy/B8SY2Ru6PF1yscZC9NZJWKQqJZ6m8QqoWg5538lF8rkEaICD4ejOMGxaQsv0yVY5O4uritszBEbqP+VfYbGCLDI3W+cpoOpzQJ6A+B39e2kgCIrUE7r25ZgozXMFGJw2xfi1/CFaIXe9IHSlYl66y7OVPJXuOM=;NxApFV5nqWWX5xjcm3TXVw=="

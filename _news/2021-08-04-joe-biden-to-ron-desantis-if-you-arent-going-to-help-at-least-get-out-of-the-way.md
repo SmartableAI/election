@@ -145,6 +145,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Joe Biden administration backs school boards defying Ron DeSantis’ mask mandate ban"
+    excerpt: "DeSantis' press secretary says the Secretary of Education's letter does not change Florida's course of action."
+    publishedDateTime: 2021-08-13T23:37:00Z
+    webUrl: "https://floridapolitics.com/archives/450252-joe-biden-administration-backs-school-boards-defying-ron-desantis-mask-mandate-ban/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 49
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/SCHOOL-MASKS-2-Large.jpeg"
+        width: 1620
+        height: 1080
+        isCached: true
 
 secured: "2n4Y8t14sNNn2b5pI6SkvlVLfikyGCl1jn9pONxCB6Zu5NrXZcW/vo6mDdjsDmc6R2cDJ/ZlbUvVG+Y3LkOQiucs6d5knxXech57HPANP67bERItEZK8C7hVcI+YbGEWAFVUPo0HG7bbYUGtMtsjbhtRLHhbu/rZpYfy2nlXQZLtloIVYcZBLyXA7+WsM9HTnDqtMKuVbFLUPWAzMkQIyERlCKqAoqJJrbGrECFt3SOcUfJnZUtu/GxlKzmOyfIpPCw8tYo+ufhUyXePDP0bkFwd7dRnf2QA38gzDOsPkXIymZkupbcrV9tcdc6OEBpV+PQFzZoHCgyx1r7d0R08euJTuIIMnyijSroomaGz3KWtXnMN+P8h0QVMOidHI7C3UG0lLOQmByQjyc1Rc0Bf8nYJzkfAOrbihHJDyimzFY2ccox/zLVU9dlyNqfDoYAH+KylcH2CPYxu+k9UnTbqZ8b8Gp40+cMoYu5jfi2UMFIc895YofFSuVEYiIKKNDZYhXinnfG9vGpXa+W797Cjvg==;vCbyDmNr2rpxOGxvH6bpZw=="
 ---

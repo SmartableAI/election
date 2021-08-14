@@ -63,6 +63,20 @@ related:
         width: 1440
         height: 1022
         isCached: true
+  - title: "Trump endorses Tennessee Gov. Lee in 2022 reelection bid"
+    excerpt: "Former President Donald Trump has endorsed Tennessee Gov. Bill Lee in his 2022 reelection campaign. Lee tweeted out the endorsement Friday released by Trump's political action committee. “Governor Bill Lee is an outsider who led the Great State of Tennessee through difficult times,"
+    publishedDateTime: 2021-08-14T01:12:00Z
+    webUrl: "https://www.bgdailynews.com/news/state/trump-endorses-tennessee-gov-lee-in-2022-reelection-bid/article_1529fd9b-bed4-51f4-b838-6b1ede24a221.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/custom/image/5f9f4c50-c126-11e4-999e-83ffe8e0c765.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vqqv7SvLWKzQp6PyybPmexovOhHIP6PS1Mn7NiAND3YEyvBY9ZlGJHcxe92mSaersb20SuTF8BnLiJj+aBooc6ON1EgUvcAW8dUpaduu9amYHH9bENUkUbqW2RST/8EksWs/eEdzaoBxizgYT2U7KLEFDGudngAHbZC2SbEhTQKhOGZNlGm6Pq15RSkgeRpIbPxUjPJz9gOV42LzvudAL7tM6w3rXkYCME8gvqs5B8UT3ESUy5qt6L5cmpHEh7xVZAHBdpNOvtFRNA/B/lEQ3w0u/Sq1KZfIgTdl3fyb4zbpPCU3VHwOxJqcSUlfCIzGctNlcspgAD17JfgRGchTiaZTixO/sxvfSEIESosKhx2C3FuJjpQJ51rIUCvxzH50aKOx3p0Msx1lTh1SFsydzK1J5nC38OFfizD1WobaCeQb7f241RNfmi0MezeiLAjq0Z+MrBGgNW5CDwwoIMrvuPaHikXe+6OpLa6ek6K3YxNHdKArPQ3FY78XjyLlPTiZDli7eddOM2FbN6ykYDgDqg==;dCg8uPIVSwetr77/alN89g=="
 ---

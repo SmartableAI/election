@@ -47,21 +47,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Afghan ambassador to US slams Biden for political solution to Taliban"
-    excerpt: "The Afghan ambassador to the US criticized the Biden administration for suggesting that lasting peace in her country is possible only through a political solution."
-    publishedDateTime: 2021-08-12T15:09:00Z
-    webUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/"
-    ampWebUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
+  - title: "Biden administration faces lawsuit over ‘shockingly deplorable’ child migrant conditions in Texas"
+    excerpt: "Lawyers representing children in U.S. immigration custody sued the Biden administration over \"shockingly deplorable\" conditions in two Texas facilities."
+    publishedDateTime: 2021-08-13T22:52:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xMWp5nFzmaA/biden-administration-lawsuit-shockingly-deplorable-child-migrant-conditions-in-texas-facilities"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-lawsuit-shockingly-deplorable-child-migrant-conditions-in-texas-facilities.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-lawsuit-shockingly-deplorable-child-migrant-conditions-in-texas-facilities.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/afghan-ambassador-biden-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d62eb1e-9fd6-41ee-a672-2512e5fbcd11/834d4d79-eb36-4eae-857d-a375eadbcdf0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "xCMA+zPD98PxgnT/82ttC+2WdF9rmY/nBWSMqoCK4EMy+g/eb2shaWXHcEG1EMKHgmHZ8bxTsGF8T16YXS1DNZxvzIVXU9c1Lih/OWjZX8gQQtYOvK3v89tw8MhQrECe3k1VKrhzbQcyupiW8Mda7ZpMvhB0NNg18aAuTJzA8OAprY0Rm2Et3T7HLgQzOvIiFVoxIYr+b/Mw0xLRtc/Q9WLguOhpl3uyX+CsEHznyd8gK2xrRhAyjiVR4OHx6/HT3367oQeCjT4qkMcVndqIZLRS57bLl/ZWOJrXUqWjThM4MFb0NrqSoLngW6Xy6k/pdZ8ZtCOlTg6+p+r9xyWl0YUVBrC5Zj+5SsWjTgIFaYQ=;vMgzdhVf4CwkDYBk91ObHA=="

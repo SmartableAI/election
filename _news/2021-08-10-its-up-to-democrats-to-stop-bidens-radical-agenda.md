@@ -20,83 +20,37 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden backs Newsom as California recall election looms, urges residents to 'vote no'"
-    excerpt: "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election."
-    publishedDateTime: 2021-08-13T01:49:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden departs for vacation as multiple crises escalate"
-    excerpt: "Biden departed the White House for a vacation in Wilmington as multiple crises escalated Thursday"
-    publishedDateTime: 2021-08-12T21:56:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPjuYw6QT58/biden-departs-for-vacation-as-multiple-crises-escalate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
+  - title: "Former ATF agents slam Biden nominee's 'divisive gun control agenda'"
+    excerpt: "Several former agents of the Bureau of Alcohol, Tobacco, Firearms and Explosives are publicly urging the Biden administration not to confirm former agent David Chipman to lead the agency."
+    publishedDateTime: 2021-08-04T00:44:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5R7wwT0kAM/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32eb7cbf-b336-4d76-b468-20c975733e88/87d46112-8a3c-435b-bc26-cab352d0de6b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "President Biden urges voters to vote ‘no’ in Newsom’s recall vote"
-    excerpt: "President Joe Biden made a statement on Thursday supporting California Governor Gavin Newsom and urging voters to vote “no” in the recall election."
-    publishedDateTime: 2021-08-13T02:00:00Z
-    webUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/"
-    ampWebUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-newsom-recall-600.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Biden accuser Tara Reade reacts to Cuomo's resignation, calls for 'real investigation' into president"
-    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, weighed in on the stunning resignation of Democratic New York Gov. Andrew Cuomo amid his sexual harassment scandal."
-    publishedDateTime: 2021-08-10T17:25:00Z
-    webUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden"
-    ampWebUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
+  - title: "Biden ATF nominee Chipman failed to disclose Chinese state TV hit used as propaganda by the communist state"
+    excerpt: "EXCLUSIVE: President Biden's nominee to head the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) failed to disclose to the Senate a media appearance on Chinese state TV, which may have been used as propaganda by the communist state to cover up a mass stabbing of children. "
+    publishedDateTime: 2021-08-04T15:49:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyhZhsV2sWc/biden-atf-chipman-senate-china-propaganda"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-atf-chipman-senate-china-propaganda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-chipman-senate-china-propaganda.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 120
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32eb7cbf-b336-4d76-b468-20c975733e88/87d46112-8a3c-435b-bc26-cab352d0de6b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden Admits Green New Deal Is a Dream"
-    excerpt: "\"What the IPCC told us is what President Biden has believed all along,\" White House press secretary Jen Psaki noted on Tuesday. \"Climate change is an urgent threat that requires bold action.\" The very next day,"
-    publishedDateTime: 2021-08-13T11:28:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/08/13/biden_admits_green_new_deal_is_a_dream_146243.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/55/550662_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "xXJZmZpNrLzU7jQjW8TZwWUTxpTdJ33kGHIe49n2Vz2dMdxgiRDmeWGaNks6kHpGshGssJGLyXEGDqShupXN4D2dkuUigI1w0TqbyoqoL3Gp/wB/6pCI0GxuCGv8K1X6FBbujb/bfxLPUtRq8QdSM8nQdhGP6swjaS4k7CK7LtPmJAjzOsGcG6fCY4QRu/SfFKoPVD42BuaQI7DFYv79gz/jTRQQFqIC0TnOFVEosO8JHpT37O73w7ivcODknUT3CGc27pAQZ4XCstr3FWl4IyNRaDGrMIce9OcoFSfreNU2PcCtiRO73YxUrx1IzEOtUFvORgYlNP8RJ8u6Jlh0pSOhAkVwGVh8IAHVr+0DAFg=;ObggypvKTmUOA+xUKUMExg=="

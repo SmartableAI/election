@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-reacts-anti-mask-protest-video-our-he
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-reacts-anti-mask-protest-video-our-healthcare-workers-are-heroes-1618974?amp=1"
 type: article
 quality: 122
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/1551628599124/2021/1/e37dc134d7c4c6c658c2118e2e398eb5/v1.5/Biden-calls-for-healthcare-upgrades-as-ACA-enrollment-period-nears-end.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Biden made 'Obamacare' cheaper, now sign-up deadline is here"
+    excerpt: "With the Obama health care law undergoing a revival under President Joe Biden, this Sunday is the deadline for consumers to take advantage of a special sign-up period for private coverage made more affordable by his COVID-19 relief law."
+    publishedDateTime: 2021-08-13T23:30:00Z
+    webUrl: "https://www.timesfreepress.com/news/business/aroundregion/story/2021/aug/13/biden-made-obamacare-cheaper-now-sign-deadline/552238/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/08/13/1628895651_101984343-c1352563b7554dba9d9e29939bc31c32_gs_t1070_hc784f5babc252e37d8eb15efdd950bd0d1a4c367.jpg"
+        width: 1070
+        height: 594
         isCached: true
 
 secured: "dpyoozmTWZtOB1lk2hwoKtpD8m2VMj//pyxbFt6lpIgLc4GUBUP192wmFi+xLYya1c6alFR/jgc92qUsjD/wQXCmU48tc9Gs4/4sF4xYlOyEs+EgzUYty33mzs9l2TkV2blemapl4RxGj8li81OOkoFf7imIWnYcbkgaXl7SC1qsTZxk5TMtCZ6K6jGl+6HlhZ99MGr5UgrdNfW5hUfcJq03VJMCYhJtabo+jDkNtrHW9TU3Z64EUnnUN8YzgY37lgGbpoum6SdOUcwHrWnyKX7kxjhA+WIlN8wxtxe67TajH1rtnrliVbaDXQVWSy1uTP8sIHL8vx0Lt6c/FwSRSKNNGYL2DkElt+qC48BzKtk=;r7Ov+QapXhAzZCn8caA5YA=="

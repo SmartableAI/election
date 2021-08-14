@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-backs-newsom-california-recal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
 type: article
 quality: 183
-heat: 283
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden departs for vacation as multiple crises escalate"
-    excerpt: "Biden departed the White House for a vacation in Wilmington as multiple crises escalated Thursday"
-    publishedDateTime: 2021-08-12T21:56:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPjuYw6QT58/biden-departs-for-vacation-as-multiple-crises-escalate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
+  - title: "California Gov. Newsom confirms Biden, Harris will campaign for him in a 'matter of weeks'"
+    excerpt: "Embattled California Gov. Gavin Newsom confirmed Friday that President Biden and Vice President Kamala Harris would campaign on his behalf in the coming weeks as he attempts to stave off a recall vote."
+    publishedDateTime: 2021-08-13T22:03:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qi_21MX4m6E/california-gov-newsom-biden-harris-campaign-recall"
+    ampWebUrl: "https://www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-gov-newsom-biden-harris-campaign-recall.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cec80a1-b696-4f84-98d7-a096e98659e3/1c756d90-99fa-4394-8aac-ef9932071362/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -63,45 +63,20 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Biden accuser Tara Reade reacts to Cuomo's resignation, calls for 'real investigation' into president"
-    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, weighed in on the stunning resignation of Democratic New York Gov. Andrew Cuomo amid his sexual harassment scandal."
-    publishedDateTime: 2021-08-10T17:25:00Z
-    webUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden"
-    ampWebUrl: "https://www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-cuomo-resignation-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 120
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden Admits Green New Deal Is a Dream"
-    excerpt: "\"What the IPCC told us is what President Biden has believed all along,\" White House press secretary Jen Psaki noted on Tuesday. \"Climate change is an urgent threat that requires bold action.\" The very next day,"
-    publishedDateTime: 2021-08-13T11:28:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/08/13/biden_admits_green_new_deal_is_a_dream_146243.html"
+  - title: "Kamala Harris Utterly Flubbing Her Job as Veep"
+    excerpt: "Kamala Harris isn't very good at this. The vice president has never won an election on her own outside of the hothouse of California politics, and it shows. On paper, she was a strong"
+    publishedDateTime: 2021-08-09T11:33:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/09/kamala_harris_utterly_flubbing_her_job_as_veep_549009.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/55/550662_5_.jpg"
+      - url: "https://assets.realclear.com/images/55/550314_5_.jpg"
         width: 750
         height: 500
         isCached: true
-  - title: "It's Up to Democrats to Stop Biden's Radical Agenda"
-    excerpt: "Senate Democrats released a 92-page outline of President Joe Biden's agenda Monday morning. It is nothing short of a blueprint for a far-left, radical remaking of the United States."
-    publishedDateTime: 2021-08-10T11:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/08/10/its_up_to_democrats_to_stop_bidens_radical_agenda_549108.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "KM11xg+XKLFwhxtgBsx59f6CdjpvTjXm9oNiTRk549cgomX8nnoqoGKTWa3Lgk2r4Bv23HmrJnVv42+emrx7e7D0zlC7JESAYcjVpRRp+WAjl9RNHFWSDo/lboikNdX2JLyBX+gEdzYMuoMWeIIMhk5BOwQkcP2hvJh5B2FTgvuBt0FV2CEFFdMDYiSpmzUeWkLooQL4qNxhe8xkAzNrTeczTg26RqgyydH99f7GEtNn00CCXJL1CKchA8jBEOlITQDV64NMtfwiSCTF4sLiyEtffm19+SNtovRK8A14gR4KC7N2Vyf7DAmhEALQo7XKCQFLdKYbTpp1wq9alr2zUVEvIQPmGGDPdLhQQsmj8uE=;N7ESWB8MHZZUux9Ywj01XQ=="
 ---

@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Rush of troops to Kabul tests Biden's withdrawal deadline"
-excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug. 31 deadline for fully withdrawing combat forces."
-publishedDateTime: 2021-08-13T21:41:00Z
-originalUrl: "https://www.11alive.com/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
-webUrl: "https://www.11alive.com/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
-ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
-cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
+title: "Rush of troops to Kabul tests Biden’s withdrawal deadline"
+excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden can meet his deadline for fully withdrawing by the end of the month."
+publishedDateTime: 2021-08-13T23:14:00Z
+originalUrl: "https://www.miamiherald.com/news/business/article253462849.html"
+webUrl: "https://www.miamiherald.com/news/business/article253462849.html"
+ampWebUrl: "https://amp.miamiherald.com/news/business/article253462849.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article253462849.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: 11Alive
-  domain: 11alive.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://media.11alive.com/assets/CCT/images/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
 
 related:
   - title: "Joe Biden to tout strong July jobs numbers – US politics live"
@@ -576,6 +570,6 @@ related:
       domain: detroitnews.com
     quality: 34
 
-secured: "Ax/hrCGtUCvsgXzTMDPa9RubNSB6+0M9NrRBdkpwS/npjILhbKc5VSrtkzs8+tAl808rGOdrOHlTiHy5ViaZe2zn+w2fElOWcGHwrJ0Io3HMbQ+AEh2IlMzsojufys3oak/fxr1rRQWrbG8G27YuuDZ5wtIpUdHOqiQqYJ7pktrKOg7wKebQ9epGEI2jcCTE/Mi+jT4oWKWIROZdnruwtTZbvdQVMEMgbm0nd7PJNOK8pVU0BI19QqgbbaJyVGtCvhevhXr7EK7T7nH4JmGmjZOq/nEVsvqpReH/wyDq2CpprTqIFuqWUPKKmQq70V9go7SJQ4U3EIjKdDUwBRtHPUqKHnA7gI53T7cYaU6iQgM=;6bgalt57f/LFRNO3oHWAaw=="
+secured: "pZQpus0fHKmF8pmoT5u5Wi6DDjGNZait34nM4rv+eDrV2kT+MrS+HBUgs8X5n5u3JVWRRJCP/IFiwtNGazvK60g6WdfKUGAjYezkJdw8ALSj7yhiRMqnWolmhKcw+7es0Ug9pL+9CrDD0pqcjXK+drSjWOYANZkqwYu+Gs2bs0+xp9OJ3Ua/PxcfGttAsMH7qjb5BzDCNh/fqpv/I6IhTHnowuNyuOuTW6ocdiGWJK7CJ5fu02jM96kjQg5WlTO6e1f1B0jlbkT79UfdApBYatyFSD0avyt8okWZAC96gfd9lAeC93CQjrX5OPorOPITvkmAXvUN2c0swvEBTJy+dhVA96w1GM17o4KwWBYoU5kebR7WVzCDE2r6xVho5nW9GyTHs1l+yolx1QRA4h/dpEApjkspwYCMTOqr24NfY6VEVcquUjs1EUbnnTseeEsjuy4Wsfn6u0AF1OTFASV8dttcjmOP9nbRzy28yrCFvKQtwAN4O29wDi5vkyIK2wyKmg7udYnUiNr7+mk1vjBEgQ==;9Y4DHrxpCO9QFHl42IFuQQ=="
 ---
 

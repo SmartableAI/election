@@ -28,6 +28,38 @@ images:
     isCached: true
 
 related:
+  - title: "McConnell pushes Biden to 'hammer' Taliban with airstrikes as Afghanistan spirals"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., pressed President Biden to order airstrikes against Taliban forces on Friday following what he described as an “urgent conversation” with Afghanistan’s ambassador to the United States, Adela Raz."
+    publishedDateTime: 2021-08-13T23:23:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9qUk9PhvYIk/mcconnell-biden-taliban-airstrikes-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-taliban-airstrikes-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-taliban-airstrikes-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/858ee941-d24c-488c-a9b4-e553d23c6170/61a55a57-4c87-4f5c-a011-bf338d451d68/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Afghan ambassador to US slams Biden for political solution to Taliban"
+    excerpt: "The Afghan ambassador to the US criticized the Biden administration for suggesting that lasting peace in her country is possible only through a political solution."
+    publishedDateTime: 2021-08-12T15:09:00Z
+    webUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/"
+    ampWebUrl: "https://nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/afghan-ambassador-to-us-slams-biden-for-taliban-response/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/afghan-ambassador-biden-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pompeo slams Biden’s actions in Afghanistan amid Taliban attacks"
     excerpt: "Former Secretary of State Mike Pompeo ripped President Biden over his administration’s “panicked” tactics in Afghanistan, saying in a TV interview that “weakness begets war.”"
     publishedDateTime: 2021-08-13T17:00:00Z

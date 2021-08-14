@@ -244,6 +244,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden Admits Green New Deal Is a Dream"
+    excerpt: "\"What the IPCC told us is what President Biden has believed all along,\" White House press secretary Jen Psaki noted on Tuesday. \"Climate change is an urgent threat that requires bold action.\" The very next day,"
+    publishedDateTime: 2021-08-13T11:28:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/08/13/biden_admits_green_new_deal_is_a_dream_146243.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/55/550662_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "This Afghan Rout Is Entirely on Joe Biden"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-08-13T11:28:00Z

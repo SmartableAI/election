@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress"
-excerpt: "Louisa Terrell, White House director of legislative, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscape"
-publishedDateTime: 2021-08-12T06:33:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
-webUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
+excerpt: "Louisa Terrell, White House director of the office of legislative affairs, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscap"
+publishedDateTime: 2021-08-12T13:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress?wpisrc=nl_powerup"
+webUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress?wpisrc=nl_powerup"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
 type: article
@@ -89,6 +89,6 @@ related:
       domain: seattletimes.com
     quality: 50
 
-secured: "KYPhEutQ1T2KhL44FtcvIdO8aLmKCLLdu0ReqFI0X+T4/AZqWE7V3vfNTqeb07COsufDv4iu8H3mhsmBf4c1r+6nH+drLex9HcLQtfFQQh6Dz9DAiqFO8lddZNGcyzeaH2YlJSLIxYLOY98NMMGrhn9E2n7PdEUIYQtL0cG9lSswt5aZ+oYakc16BkQr2o8gLsVqx9ZElx2/8+Ebq1OA3H2TeU/blzA95cpwjxTZhySaMe8mrC3twknx2D5Uo7vEPKnMwzr6lpi1MVyYbhhGs9NYV6MwNoY99seyQ4otF1EtjD1NYRYyVOE7TWl81+Q5dpSZ7j10oCh1PbBpWM1+yN7pPYSANgOCxhr2e6Ii7luWnBLTEqiKSbr2zyZUzAuqd8Bc0nUtc4xqhoNkHnhEvgVTM8yBpvXnOzZ+RivOcIOiz6uOLXhcLxCWSwdb6BTqYE/4MAISA12/aomlVV7f0bVXR1K9gz24vu7BQNGwRz4zYjjc1IY+JAHrvsoFU/JYu05KBffGGfm4fpFMZzTGpQ==;8nHvMKmoyeO6wxvCTBj+Jg=="
+secured: "S2DjOcDc9nMdzCIkxVKrHiW+OIZlSCtzRE8J8P4IGlq+H3ykkZ2lmgtHEykrPNJ5UlwX+ro9IT67nfcaiKiBI3obU6t+yV08MqVGrkwta+I/WR2pv2EIq6DYPI9hJnzkB6/kSS/8YV/aL/cnhfMSfnnperp9x8+S8P3wxIl1jstrbN39oTe3m134lftTDpDJGwG4yLp2lmEkijKB/7yIGjpMvbVeJPtGG9eJNwqAUoaJ7zpoWIPJ7pkVkOTkynviAVdljoKWB1XYSDomr/g1trO//BO94bXjqbIDtliXkb1M9CDhSm9yYuDhVzXdIpuc5Dm6fpaYTbu5QzVOE4QBAsFwAE1KMrCnjWRSlP0sCG8=;Z429egNrkijLmC/2gxny2w=="
 ---
 

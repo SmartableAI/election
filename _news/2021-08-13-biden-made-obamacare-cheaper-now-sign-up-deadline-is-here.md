@@ -57,6 +57,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Biden made 'Obamacare' cheaper, now sign-up deadline is here"
+    excerpt: "With the Obama health care law undergoing a revival under President Joe Biden, this Sunday is the deadline for consumers to take advantage of a special sign-up period for private coverage made more affordable by his COVID-19 relief law."
+    publishedDateTime: 2021-08-13T23:30:00Z
+    webUrl: "https://www.timesfreepress.com/news/business/aroundregion/story/2021/aug/13/biden-made-obamacare-cheaper-now-sign-deadline/552238/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/08/13/1628895651_101984343-c1352563b7554dba9d9e29939bc31c32_gs_t1070_hc784f5babc252e37d8eb15efdd950bd0d1a4c367.jpg"
+        width: 1070
+        height: 594
+        isCached: true
 
 secured: "8gUMmxYI0GXX7Hq0Iz4FI12j2fn9Zr+xXcD6OEkg3whGPVvdTZUnZtFxRAnsnylXy0okJm76yAyS7SW8xCtBYWwUZ1b35C7R61g8qmuacZmADR+UocUZgUSkYI3TKypA+LhLkjrxIIOlX+29j9gVpUuR/4tM3pUzk5Tp8ihhthiZpfSGQU8F7ivyxUKVCXgAizqFt0H3AYdnVwWre6G3XxEydFlUh/oAi91XtXEdpQBGFKG37qJ91sK6cbQD+MtEs1S47mrQP2XAQTonNlkitwHvC16zhpj67TtjU1uMW6dZxEt3lbRlPrbATgNnKo5mcNQE+sozSlEkqj1FnLs6XpLipBrMGONipjnJW1AcHV4=;KrZ6pDUCZ8CjGJAbjq1RZA=="
 ---

@@ -377,22 +377,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Rush of troops to Kabul tests Biden's withdrawal deadline"
-    excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug. 31 deadline for fully withdrawing combat forces."
-    publishedDateTime: 2021-08-13T21:41:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/biden-afghanistan-withdraw-taliban/507-2b33fe63-22b3-4044-94e1-c0fc57e52682"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
-    images:
-      - url: "https://media.11alive.com/assets/CCT/images/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3/eb445e0d-6ecc-4093-8479-6ac1f07bc5f3_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Wyo drilling rig count triples during Biden leasing pause"
     excerpt: "Oil and gas companies were operating five rigs in Wyoming the week when Biden announced the leasing pause. Fifteen are now operating."
     publishedDateTime: 2021-08-13T19:26:00Z
@@ -506,6 +490,17 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Rush of troops to Kabul tests Biden’s withdrawal deadline"
+    excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden can meet his deadline for fully withdrawing by the end of the month."
+    publishedDateTime: 2021-08-13T23:14:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article253462849.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article253462849.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article253462849.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 55
   - title: "Joe Biden’s new challenge is keeping together a fractious Democratic Party"
     excerpt: "President Joe Biden overcame skepticism, deep political polarization and legislative gamesmanship to win bipartisan approval in the Senate this week of his $1 trillion infrastructure bill. But as the bill moves to consideration in the House alongside a $3."
     publishedDateTime: 2021-08-12T11:50:00Z
