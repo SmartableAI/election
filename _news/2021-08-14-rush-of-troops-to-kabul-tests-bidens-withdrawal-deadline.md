@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Rush of troops to Kabul tests Biden’s withdrawal deadline"
-excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden can meet his deadline for fully withdrawing by the end of the month."
-publishedDateTime: 2021-08-13T23:14:00Z
-originalUrl: "https://www.miamiherald.com/news/business/article253462849.html"
-webUrl: "https://www.miamiherald.com/news/business/article253462849.html"
-ampWebUrl: "https://amp.miamiherald.com/news/business/article253462849.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article253462849.html"
+title: "Rush of troops to Kabul tests Biden's withdrawal deadline"
+excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug. 31 deadline for fully withdrawing combat forces."
+publishedDateTime: 2021-08-14T03:49:00Z
+originalUrl: "https://www.seattlepi.com/news/article/US-sending-3K-troops-for-partial-Afghan-embassy-16384192.php"
+webUrl: "https://www.seattlepi.com/news/article/US-sending-3K-troops-for-partial-Afghan-embassy-16384192.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/US-sending-3K-troops-for-partial-Afghan-embassy-16384192.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/US-sending-3K-troops-for-partial-Afghan-embassy-16384192.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Joe Biden to tout strong July jobs numbers – US politics live"
@@ -570,6 +576,6 @@ related:
       domain: detroitnews.com
     quality: 34
 
-secured: "pZQpus0fHKmF8pmoT5u5Wi6DDjGNZait34nM4rv+eDrV2kT+MrS+HBUgs8X5n5u3JVWRRJCP/IFiwtNGazvK60g6WdfKUGAjYezkJdw8ALSj7yhiRMqnWolmhKcw+7es0Ug9pL+9CrDD0pqcjXK+drSjWOYANZkqwYu+Gs2bs0+xp9OJ3Ua/PxcfGttAsMH7qjb5BzDCNh/fqpv/I6IhTHnowuNyuOuTW6ocdiGWJK7CJ5fu02jM96kjQg5WlTO6e1f1B0jlbkT79UfdApBYatyFSD0avyt8okWZAC96gfd9lAeC93CQjrX5OPorOPITvkmAXvUN2c0swvEBTJy+dhVA96w1GM17o4KwWBYoU5kebR7WVzCDE2r6xVho5nW9GyTHs1l+yolx1QRA4h/dpEApjkspwYCMTOqr24NfY6VEVcquUjs1EUbnnTseeEsjuy4Wsfn6u0AF1OTFASV8dttcjmOP9nbRzy28yrCFvKQtwAN4O29wDi5vkyIK2wyKmg7udYnUiNr7+mk1vjBEgQ==;9Y4DHrxpCO9QFHl42IFuQQ=="
+secured: "XVqAniI/Gmgox4aHxrtynLCKATccHzsx4z/nDeVggtkIAUEdzDHJKqw1n2js77d5Pt3pecEkkVLvwBSKesNtC4joQND475Ocwkp5nZlo+QM/m3oW0tbKNzVNG/E+OcYkSUoMoW2tB6fhd8BJldRRR/qZpYMWyHvLogmEeUViSaPo2SKxlPq7mXDy+SeJEqQoC/NAiNLElNg5W3d+D82PtAI1LjJhM8ZqZVmYhv2TBTTmL1nIvns1UjS73LWkNwB8q8nirU0Gx295oHlxMoZJp1JmBi6ok8svsb5+rYCaQZKYHjSqYrqDGwoWVupa+nDp2srDY+7EoorTds+P69SstdwwUSzgasJieurZBaTtgSM=;Z42dwB9pzsqPAdSSh46JnA=="
 ---
 

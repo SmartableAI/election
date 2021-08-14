@@ -79,6 +79,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Remain-in-Mexico court ruling a win for Texas, Missouri over Biden admin"
+    excerpt: "A federal judge on Friday ordered the Biden administration to \"enforce and implement\" the Trump-era Remain-in-Mexico policy in response to a lawsuit from Texas and Missouri, which claimed that the administration’s attempt to terminate the policy was illegal and harmful."
+    publishedDateTime: 2021-08-14T02:18:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Is6oB0Ik29A/judge-biden-admin-trump-era-remain-in-mexico-policy-texas-missouri-lawsuit"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2db98055-f815-4c77-b234-38b7b893338a/d927afc4-94b3-4edb-aba3-9e8b594af183/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "wvzEKYhg1JHLw8X8uHWUCBy4ElmRWIS/G5WU/pdeOXjdRnhKN2hwLD+fzPu/eGOYBvTD8Ayh5ifJPXim90soq5ukuTg1YQ3dZX/IvxbZne0OC2o6WBXCA1zoitaQuJMypCM0yzIrmN6yLBBhGfja2bQIa02R9kUMd8ALlRN8BZZD8m1F6i3HEb0ckgx4Ks3lkVf8U/1vIGX0KTrGBNOpC+YYA3mDMQ0Ty/KXpCuCZ+zIINWVrxBuMFKafyGB67Bjx5OFBiy4swsDBAE7Destiwix8AuunMmu6Mz/Jv/bI7MsjtMTqORHH66fcz/JIIErYHtw+uFcvohoLLYat77hrnKLSiJreBpmKfQTVIYjLos=;ZF1tsgh/vLE3O9IYp13KYA=="
 ---

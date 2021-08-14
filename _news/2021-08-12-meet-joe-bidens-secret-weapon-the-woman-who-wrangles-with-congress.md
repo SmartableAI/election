@@ -3,8 +3,8 @@ category: news
 title: "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress"
 excerpt: "Louisa Terrell, White House director of the office of legislative affairs, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscap"
 publishedDateTime: 2021-08-12T13:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress?wpisrc=nl_powerup"
-webUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress?wpisrc=nl_powerup"
+originalUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
+webUrl: "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress"
 type: article
@@ -89,6 +89,6 @@ related:
       domain: seattletimes.com
     quality: 50
 
-secured: "S2DjOcDc9nMdzCIkxVKrHiW+OIZlSCtzRE8J8P4IGlq+H3ykkZ2lmgtHEykrPNJ5UlwX+ro9IT67nfcaiKiBI3obU6t+yV08MqVGrkwta+I/WR2pv2EIq6DYPI9hJnzkB6/kSS/8YV/aL/cnhfMSfnnperp9x8+S8P3wxIl1jstrbN39oTe3m134lftTDpDJGwG4yLp2lmEkijKB/7yIGjpMvbVeJPtGG9eJNwqAUoaJ7zpoWIPJ7pkVkOTkynviAVdljoKWB1XYSDomr/g1trO//BO94bXjqbIDtliXkb1M9CDhSm9yYuDhVzXdIpuc5Dm6fpaYTbu5QzVOE4QBAsFwAE1KMrCnjWRSlP0sCG8=;Z429egNrkijLmC/2gxny2w=="
+secured: "zLbWQDxV2u9G/ZyN7yUouMMfrIQVZdrEYxxRlhypoF9Lzi71ANNj0n137ZLdJAaTSbb6klIp3fZE7M2pFQCibMauliJlIqgqNwxxXOL6HAaxtNJBJqlFVgRD23bRtQ2nNKK9vIqxttWaG4QAvbnNN5B1qvpT/Rm+Lh2K/6mOEF5cwmJD3oZQyBoJspfkS9Kjy4nbBfW68cAjYa5AIhOZXhL+roPeLuokbMGtZku2xG/bCNH3VsgnaP/QUTs9q3R7toQx3L77jhqN2e/hdcn+Rc0Ehj3bcWJ4UWCLU5PYdIj5bhzWLLsNULBgf/GlFY2pp/YI4L9/1MlsUicKYXxCJAytWc7OvB0j2HovrtHHOKQ=;PHiitBlMvdyhWTvSoJ4Xxw=="
 ---
 

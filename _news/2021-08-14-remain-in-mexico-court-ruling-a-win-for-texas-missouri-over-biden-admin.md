@@ -1,16 +1,14 @@
 ---
 category: news
-title: "Texas, Missouri sue Biden administration over scrapping of 'Remain-in-Mexico' policy"
-excerpt: "Texas and Missouri on Tuesday sued the Biden administration for its scrapping of the Migrant Protection Protocols (MPP) – demanding the program, which kept migrants in Mexico while their immigration hearings played out, be restored."
-publishedDateTime: 2021-04-13T17:08:41Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywynGyngX-A/texas-missouri-sue-biden-administration-remain-in-mexico-policy"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywynGyngX-A/texas-missouri-sue-biden-administration-remain-in-mexico-policy"
-ampWebUrl: "https://www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
+title: "Remain-in-Mexico court ruling a win for Texas, Missouri over Biden admin"
+excerpt: "A federal judge on Friday ordered the Biden administration to \"enforce and implement\" the Trump-era Remain-in-Mexico policy in response to a lawsuit from Texas and Missouri, which claimed that the administration’s attempt to terminate the policy was illegal and harmful."
+publishedDateTime: 2021-08-14T02:18:15Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Is6oB0Ik29A/judge-biden-admin-trump-era-remain-in-mexico-policy-texas-missouri-lawsuit"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Is6oB0Ik29A/judge-biden-admin-trump-era-remain-in-mexico-policy-texas-missouri-lawsuit"
 type: article
-quality: 168
-heat: 248
-published: true
+quality: 154
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +23,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1eb67794-4d8f-4d9f-a776-7df7951f5ad9/12a23b16-a8f4-4a44-840c-9252568a16b4/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2db98055-f815-4c77-b234-38b7b893338a/d927afc4-94b3-4edb-aba3-9e8b594af183/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
 
 related:
+  - title: "Texas, Missouri sue Biden administration over scrapping of 'Remain-in-Mexico' policy"
+    excerpt: "Texas and Missouri on Tuesday sued the Biden administration for its scrapping of the Migrant Protection Protocols (MPP) – demanding the program, which kept migrants in Mexico while their immigration hearings played out, be restored."
+    publishedDateTime: 2021-04-13T17:08:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywynGyngX-A/texas-missouri-sue-biden-administration-remain-in-mexico-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1eb67794-4d8f-4d9f-a776-7df7951f5ad9/12a23b16-a8f4-4a44-840c-9252568a16b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas, Louisiana sue Biden administration for ‘refusing’ to take criminal illegal immigrants"
     excerpt: "Texas and Louisiana are suing the Department of Homeland Security for its alleged refusal to take criminal illegal immigrants into custody, after rules that narrowed enforcement priorities."
     publishedDateTime: 2021-04-06T21:51:21Z
@@ -79,21 +93,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Remain-in-Mexico court ruling a win for Texas, Missouri over Biden admin"
-    excerpt: "A federal judge on Friday ordered the Biden administration to \"enforce and implement\" the Trump-era Remain-in-Mexico policy in response to a lawsuit from Texas and Missouri, which claimed that the administration’s attempt to terminate the policy was illegal and harmful."
-    publishedDateTime: 2021-08-14T02:18:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Is6oB0Ik29A/judge-biden-admin-trump-era-remain-in-mexico-policy-texas-missouri-lawsuit"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2db98055-f815-4c77-b234-38b7b893338a/d927afc4-94b3-4edb-aba3-9e8b594af183/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "0eqn6xrVqazo1ycCZfBtwSlHoQcruHq2igmVueecLQVnMw0+7JTOxB5kBRxKyLvbX26pvz87sV4RdRqDrZpqXdI2ME5/DDvEw3xFVYfCUm52TFgVcJR2tW5gA4DAcX8/5/7lav29Iq0ydX6htC20cjFdPupvvlhpm4GCKLNr4iE4pWtls3WTmD1OaW47Hp8VCJ+dKvjclEA6ZkMo6ZbiehdLXQtmK+CjWIvEaRHmrb0DhS8Ic8aEHyTxhy5JDrYt9njXpU6E/+DaFH8Mw9KwgmDz25cCFREZJkbrKg6/TkeIAZGwbUOUFwZevKjHBXp0gXAAXeSkhE8YGOzBG4Gnsz5cltYHfiFe/TZ2gQr4YOc=;EppmUtWPXOjpJG0TAcl6qw=="
+secured: "ptpWPyVvGE5du9B0w85K1P/bJQ1Gi1ZwTQqDQXwCD8kNzXlVu3sCOA17138FOlvvdzE4Sj3FyStoMVxzuxF+IRfrsoaa05vfW65oRZJiqZ+Ry+b0sTW9y3Gi0oBfHvvd3K2s/AkQ4aGQbX9TY5UMeNcgfC1gQJsou7E5w0mpyJz08f1Ebr4Re+qjYz7v2iN+ybdrkkYJ0ifunbRF9tSt0lQV49Ni4vm4S5StgZY2uZRKVHSj/d7XvxMhavXnxQQGHd9AgYpTTiiqPq6QkFiy1wU0T1g/gDA4ROF/50Gys5qpovUHaxXO2W25v3mrh8/cH/+sfzKETLqWRMq+qX3qoj08kdbyYJMzmt6eShunbHw=;+RrJf+WIe3LzBk3NGAIJag=="
 ---
 
