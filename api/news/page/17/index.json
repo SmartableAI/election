@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-11-new-january-6-bodycam-videos-show-police-trying-to-help-a-trampled-trump-supporter-being-brutally-beaten-with-flagpoles-and-batons-by-mob.md",
+      "title": "New January 6 bodycam videos show police trying to help a trampled Trump supporter being brutally beaten with flagpoles and batons by mob",
+      "excerpt": "New video footage from police bodycams released Friday of the January 6 Washington riot shows officers dragged into a mob and beaten.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7",
+      "originalUrl": "https://www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60eab3b861b8600019f1680f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/january-6-bodycam-videos-shows-police-dragged-beaten-with-weapons-2021-7?amp",
+      "publishedDateTime": "2021-07-11T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video.md",
       "title": "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video",
       "excerpt": "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House.",
@@ -1291,63 +1343,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-your-world-on-biden-withdrawing-troops-florida-recovery-efforts.md",
-      "title": "'Your World' on Biden withdrawing troops, Florida recovery efforts",
-      "excerpt": "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts",
-      "originalUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
-      "publishedDateTime": "2021-07-09T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

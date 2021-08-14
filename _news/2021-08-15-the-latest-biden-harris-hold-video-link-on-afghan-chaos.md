@@ -1,30 +1,27 @@
 ---
 category: news
 title: "The Latest: Biden, Harris hold video link on Afghan chaos"
-excerpt: "WASHINGTON — President Joe Biden and Vice President Kamala Harris have held a secure video conference on Saturday morning with national security officials in response to the worsening situation in Afghanistan."
-publishedDateTime: 2021-08-14T19:48:00Z
-originalUrl: "https://www.chron.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
-webUrl: "https://www.chron.com/news/article/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
-ampWebUrl: "https://www.chron.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-Czech-diplomats-to-be-evacuated-to-16387129.php"
+excerpt: "The Latest developments on Afghanistan, where a weeklong Taliban offensive is now approaching the outskirts of the capital, Kabul, after the insurgents captured most of the north, west and south"
+publishedDateTime: 2021-08-14T19:45:00Z
+originalUrl: "https://www.djournal.com/news/nation-world/the-latest-biden-harris-hold-video-link-on-afghan-chaos/article_d5883392-7025-5f1e-9fd6-727e5bbe8a5b.html"
+webUrl: "https://www.djournal.com/news/nation-world/the-latest-biden-harris-hold-video-link-on-afghan-chaos/article_d5883392-7025-5f1e-9fd6-727e5bbe8a5b.html"
 type: article
-quality: 100
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/c0/dc0f927b-405b-5673-8433-e90fe94c3a68/6117e19da3aa3.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -1708,6 +1705,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "zmKqeMCChjFd+RAYdzM88JjoAVx3qq6iZLwre2DMyn78VnfL8CR7djuU62wjRcVSvyJV3n+cMuXAzQ9sS5s3nUoVno1x/YuOXcMKysvqs2G81piB5bo12GJn1JqTSITojQ6BVNzaLZWuEuqVu7bZlRzY8tymNzS/SGjEzJSl8HhsngKUFP6/OOrqRkoXwg2VercI/sdHHhT0sexfyNy038Cs7XQ2z4yxn+KQ2ykY/T5pJaGSTnevD+israCFDXH9hhWYdreoylKETlNig9MX9cByKF20d4OKS9Hlw/nWc1U3/VYJVASHWbxcexVRoT3bKi8WePHUKwQtsgcRWvZka8z/FnJIeG1/e11oAt35Hes=;T5M8dJhzXYIERTHuzR7oBA=="
+secured: "/rifwlPSWmbwqMfyGjwUwy4WLz9C/BTumo89PPe3dR5eyKS6u+xYN98SqeA/KgVp43abXblw0t6sadqRergq3hmuNvmSVa2h2ZUO3pzArkX8G/OUmcG+b4eKLczF2iOgC8XLKGz+C8ctw01wSvgunqzLbgcpCEDmZ9hJ9+EGiXHnbekZDbXCrPOHF1E4K48vfZHMcT0e0NKTqpLQHCKD5Out4tNBUKIK5JdxkzN5pYrPmYI8gRb5wSB3JlKCB/Us4RKF9/Jjv6srD7jIYWgylSwU/qSYhvhYCmncICetbYaxxsONKxjIjfzATaxqEVPBeoml+8pgJBn76n3flq6l/5nW5iabK1/ZcYy2ce97xwg=;bguPuDA9bab2fMN/RjdaTg=="
 ---
 

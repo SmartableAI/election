@@ -77,6 +77,22 @@ related:
         width: 3431
         height: 2282
         isCached: true
+  - title: "Federal Judge Orders Biden to Resume Trump’s ‘Remain in Mexico’ Immigration Policy"
+    excerpt: "U.S. District Judge Matthew Kacsmaryk, a Trump appointee, stayed his decision for a week to allow the Biden administration to appeal."
+    publishedDateTime: 2021-08-14T20:51:00Z
+    webUrl: "https://timesofsandiego.com/politics/2021/08/14/federal-judge-orders-biden-to-resume-trumps-remain-in-mexico-immigration-policy/"
+    ampWebUrl: "https://timesofsandiego.com/politics/2021/08/14/federal-judge-orders-biden-to-resume-trumps-remain-in-mexico-immigration-policy/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/08/14/federal-judge-orders-biden-to-resume-trumps-remain-in-mexico-immigration-policy/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 84
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/MEXICO3.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"
     publishedDateTime: 2021-08-09T15:38:00Z

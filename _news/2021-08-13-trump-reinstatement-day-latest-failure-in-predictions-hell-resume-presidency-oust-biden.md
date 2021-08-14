@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-reinstatement-day-latest-failure-pred
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1"
 type: article
 quality: 140
-heat: 700
+heat: 720
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNOMQDXOHUI6XANSTNYGDJMC3A.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Federal Judge Orders Biden to Resume Trump’s ‘Remain in Mexico’ Immigration Policy"
+    excerpt: "U.S. District Judge Matthew Kacsmaryk, a Trump appointee, stayed his decision for a week to allow the Biden administration to appeal."
+    publishedDateTime: 2021-08-14T20:51:00Z
+    webUrl: "https://timesofsandiego.com/politics/2021/08/14/federal-judge-orders-biden-to-resume-trumps-remain-in-mexico-immigration-policy/"
+    ampWebUrl: "https://timesofsandiego.com/politics/2021/08/14/federal-judge-orders-biden-to-resume-trumps-remain-in-mexico-immigration-policy/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/08/14/federal-judge-orders-biden-to-resume-trumps-remain-in-mexico-immigration-policy/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 84
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/MEXICO3.jpg"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Trump told Cali. to sweep the forest floors. What’s Biden’s plan to combat wildfires?"
     excerpt: "Gavin Newsom stood side by side, in a forest that burned badly a year ago, pledging to work together against California’s raging wildfires. Vilsack, acknowledging criticisms that the U.S. Forest Service hasn’t done enough to fight fires,"

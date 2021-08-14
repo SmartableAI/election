@@ -142,7 +142,7 @@ related:
   - title: "Joe Biden’s credibility has been shredded in Afghanistan"
     excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
     publishedDateTime: 2021-08-13T11:03:00Z
-    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?63bac0e6-3d28-36b1-7417-423982f60790"
+    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     type: article
@@ -537,6 +537,22 @@ related:
       - url: "https://www.pilotonline.com/resizer/qt6G6h6LD1Kq06Qrz210cRwnUfo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G7LXEZMMHZAHASB6FTOTCY3V4E.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden authorizes 5,000 troops to Afghanistan to assist with 'orderly and safe' withdrawal"
+    excerpt: "Biden said he's authorized additional troops to help with \"an orderly and safe drawdown\" in Afghanistan as the Taliban continued to make rapid gains."
+    publishedDateTime: 2021-08-14T21:35:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/08/14/biden-us-sending-5-000-troops-afghanistan-assist-drawdown/8138113002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/8138113002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/8138113002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/14/USAT/6930268e-7a2e-4609-b02f-968543fb8b57-GTY_1333633670.jpg?auto=webp&crop=6622,3725,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden sets new target for US troop withdrawal from Afghanistan: 20th anniversary of 9/11"
     excerpt: "President Joe Biden has decided to leave American troops in Afghanistan beyond the May 1 deadline negotiated with the Taliban by the Trump administration, and has set the 20th anniversary of the Sept. 11 attacks as the new goal, a U.S. official said Tuesday."

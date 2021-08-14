@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-15-mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-to-run-in-2024.md",
+      "title": "Mary Trump Says GOP 'Voter Suppression Laws' May 'Convince' Donald Trump to Run in 2024",
+      "excerpt": "\"Republicans are going to use those accusations of fraud—those grievances that are really stirring up the base and spreading by the way—to enact these voter suppression laws,\" said the niece of former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-run-2024-1619437",
+      "originalUrl": "https://www.newsweek.com/mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-run-2024-1619437",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1871391/mary-trump-donald-trump-gop-election-reform.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-run-2024-1619437?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-says-gop-voter-suppression-laws-may-convince-donald-trump-run-2024-1619437?amp=1",
+      "publishedDateTime": "2021-08-14T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-moscow-says-no-plans-to-discuss-edward-snowdens-status-during-trump-putin-summit.md",
       "title": "Moscow says no plans to discuss Edward Snowden’s status during Trump-Putin summit",
       "excerpt": "Russia's foreign minister on Friday cast doubt on the possibility of extraditing Edward Snowden, the fugitive former National Security Agency contractor who received political asylum from Moscow after leaking classified documents to the media in 2013.",
@@ -144,7 +196,7 @@
       "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
       "featuredContent": null,
       "highlight": null,
-      "heat": 700,
+      "heat": 720,
       "tags": null,
       "images": [
         {
@@ -1408,58 +1460,6 @@
         "name": "The Journal News",
         "domain": "lohud.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-cuomo-jams-democrats-with-trump-playbook-the-note.md",
-      "title": "Cuomo jams Democrats with Trump playbook: The Note",
-      "excerpt": "Gov. Andrew Cuomo is clinging to office by running plays made familiar by former President Trump, mixing indignant denials with what-aboutism and an instinct to fight.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
-      "originalUrl": "https://abcnews.go.com/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/governor-como-gty-jt-210803_1628032388719_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cuomo-jams-democrats-trump-playbook-note/story?id=79245633",
-      "publishedDateTime": "2021-08-04T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

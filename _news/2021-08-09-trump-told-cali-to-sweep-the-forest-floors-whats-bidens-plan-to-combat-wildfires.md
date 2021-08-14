@@ -89,6 +89,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Federal Judge Orders Biden to Resume Trump’s ‘Remain in Mexico’ Immigration Policy"
+    excerpt: "U.S. District Judge Matthew Kacsmaryk, a Trump appointee, stayed his decision for a week to allow the Biden administration to appeal."
+    publishedDateTime: 2021-08-14T20:51:00Z
+    webUrl: "https://timesofsandiego.com/politics/2021/08/14/federal-judge-orders-biden-to-resume-trumps-remain-in-mexico-immigration-policy/"
+    ampWebUrl: "https://timesofsandiego.com/politics/2021/08/14/federal-judge-orders-biden-to-resume-trumps-remain-in-mexico-immigration-policy/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/08/14/federal-judge-orders-biden-to-resume-trumps-remain-in-mexico-immigration-policy/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 84
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/03/MEXICO3.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "‘Miss me yet?’: Trump mocks Biden, Democrats over mounting domestic and foreign woes"
     excerpt: "Former President Donald Trump mocked Democrats on Friday over the country’s mounting domestic and international problems, even asking if voters were pining for the days of his administration."
     publishedDateTime: 2021-08-13T16:31:00Z
