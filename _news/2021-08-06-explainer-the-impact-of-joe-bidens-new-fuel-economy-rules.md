@@ -91,6 +91,20 @@ related:
         width: 3000
         height: 2001
         isCached: true
+  - title: "Rush of troops to Kabul tests Biden’s withdrawal deadline"
+    excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug."
+    publishedDateTime: 2021-08-14T13:22:00Z
+    webUrl: "https://apnews.com/article/lifestyle-joe-biden-middle-east-evacuations-kabul-8ec855b3f943dafe80d3d3ca6b0953f2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/dec2f2acfe554fdb96500f958a8762d0/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "President Biden urges no vote in Gavin Newsom recall, showing California governor support"
     excerpt: "President Joe Biden on Thursday urged Californians to vote no in the upcoming election to recall Gov. Gavin Newsom in a show of support for the embattled Democratic governor. In a statement released by Newsom’s campaign,"
     publishedDateTime: 2021-08-13T01:57:00Z

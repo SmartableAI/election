@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
-excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
-publishedDateTime: 2021-04-15T02:37:32Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+title: "August turns into a month of crises as Biden stares down a pivotal point in his presidency"
+excerpt: "President Joe Biden is facing multiple August crises with Afghanistan on the verge of collapse, Covid-19 patients overwhelming hospitals in some states, persistent inflation concerns, an uncertain path forward for his sweeping infrastructure agenda and surging attempted border crossings.\n    \n"
+publishedDateTime: 2021-08-14T13:26:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L1f7y2s_Usw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L1f7y2s_Usw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-august-crises-afghanistan-covid-inflation-border/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-august-crises-afghanistan-covid-inflation-border/index.html"
 type: article
-quality: 172
+quality: 165
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414143405-02-biden-afghanistan-remarks-0414-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812140239-01-biden-0812-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
+    excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
+    publishedDateTime: 2021-04-15T02:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414143405-02-biden-afghanistan-remarks-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP Senate candidates align with Trump in bashing bipartisan infrastructure bill"
     excerpt: "Sen. Rob Portman, the longtime Washington veteran and savvy deal-cutter, is on the cusp of achieving a major bipartisan achievement that would amount to a capstone of his three decades of public service: The Senate's passage of a roughly $1 trillion package to rebuild the nation's infrastructure.\n  "
     publishedDateTime: 2021-08-06T17:54:49Z
@@ -124,22 +140,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210810152029-05-biden-harris-remarks-0810-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "August turns into a month of crises as Biden stares down a pivotal point in his presidency"
-    excerpt: "President Joe Biden is facing multiple August crises with Afghanistan on the verge of collapse, Covid-19 patients overwhelming hospitals in some states, persistent inflation concerns, an uncertain path forward for his sweeping infrastructure agenda and surging attempted border crossings.\n    \n"
-    publishedDateTime: 2021-08-14T13:26:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L1f7y2s_Usw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-august-crises-afghanistan-covid-inflation-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-august-crises-afghanistan-covid-inflation-border/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812140239-01-biden-0812-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -222,6 +222,6 @@ related:
         height: 629
         isCached: true
 
-secured: "j1vkPU0s0/0ZD7QB1ahbbFHXPbplcUKmR/UnQ8OHPbs7whZikBeXWQ/ohwiGNzY4Qdq3jr/q75A7zs4JuYad8HGpPLovpeS3/BmwCafz5X5REXIuhAI4c0RZzAHhd4jx6KyvyunS7gPP1m+jkYcIBt8CuWdJBHTIv5v2MBM5rzUvhCHtnpqiKjwVAmn29kQx5w6UZpYWGwOlFEt9g7gf5wMN3Oo9cZx4ioENiS+rEQf7yaxkAzWNsd5aX8BwdonGlMZHHRJ0f7ZF31RVi3UuAUX5Tb9MYyAirkVDxMiPv/dKjhyt8j34r9bcy1zMfz7XPLdWsNmO33ihco/z2TR1JIK1J2XnKHiwmBdjvSI2kaA=;z+fhxeQ++3YuZGJoET/peQ=="
+secured: "LbqPoVtDruum4CRJ6TRRik51pg1SwWe8PhT15Pd++spM44Dlpv0bXYPO8HUIyJoBRY5zg/lSCUcBe01+5rOe/MC3fXIRea3IYsWA8CwwzvI5Nv4519ZvnXSW9f6fyV1eUvab0MpEBVmatbIL02dKJrT0i41m28Binh7lgsrooHca2j1uZVAiWlLV4+W/XwmSZmhflYt7/oAGCv5+G41hB3+moGmhAg4u5OhzS91DWzxSGNoY/v9EFYGXV889jwhgOA8+oQMDcdy7eNo5U8zHtGFkP9vROkVxTMLKfibEH0Hbqfo7EbTCkkoFfvykoJBgU5cU4skj++moIWMhwdJSBg27rKIJ3BeU1u++WQfXKBY=;sZNDaUH62ik84ctQTpZQbA=="
 ---
 

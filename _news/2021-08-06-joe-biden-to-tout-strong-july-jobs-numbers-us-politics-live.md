@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live"
 type: article
 quality: 125
-heat: 885
+heat: 865
 published: true
 
 provider:
@@ -366,22 +366,6 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2021/08/OCR-L-CDCMASK-0514-02.jpg?w=1024&#038;h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Rush of troops to Kabul tests Biden's withdrawal deadline"
-    excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug. 31 deadline for fully withdrawing combat forces."
-    publishedDateTime: 2021-08-14T03:49:00Z
-    webUrl: "https://www.seattlepi.com/news/article/US-sending-3K-troops-for-partial-Afghan-embassy-16384192.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/US-sending-3K-troops-for-partial-Afghan-embassy-16384192.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/US-sending-3K-troops-for-partial-Afghan-embassy-16384192.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Wyo drilling rig count triples during Biden leasing pause"
     excerpt: "Oil and gas companies were operating five rigs in Wyoming the week when Biden announced the leasing pause. Fifteen are now operating."

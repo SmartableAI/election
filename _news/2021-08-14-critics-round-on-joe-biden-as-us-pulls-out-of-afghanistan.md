@@ -146,7 +146,7 @@ related:
   - title: "Joe Biden’s credibility has been shredded in Afghanistan"
     excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
     publishedDateTime: 2021-08-13T11:03:00Z
-    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
+    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?63bac0e6-3d28-36b1-7417-423982f60790"
     ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     type: article
@@ -601,6 +601,6 @@ related:
         height: 707
         isCached: true
 
-secured: "R7VM1v9zrcmnOmieIWmcVCNvbxsMc/AMxoXFsU+iZ6Z3NMbL2xqlFk9ECE1GcpxW7fIpUvHmWn9rEF3kuhNeLk/quPTHYz0+0Ro5smMzXYcwNiM81yhi1j+441wINZRc+MpRKxwfCcckvTkM2h31qAc1HAZBQ8S6CFuKHIfLIgiCSynU6Za7nc+CR4pnlfWBEq9a7CakYXgIoI2IZt1pLnMIoefVUg3ioq90zcyZRaGo/b2A7R+BD3jRIN9vr9fPIwmctTePca3b2lCAu1irJNodOxxRMZtWpgb6UtKMQvmR4F7jdoCSboChqcIDCgTNit/OZhZzNnm5WNNUNAFEZYp1DXjptp95V3U4NFI8RyE=;ukySU2zE2AT4madocD5EOw=="
+secured: "/loZSX85G6uCqOxNtDkm48lKCwNu/KOB+F9aHFdmF9UGN97DqOQJ15OLzZZ2YufY2a/UOm44Mpxja7UWuN2YZbwgW+cee8/BoBMLQLGNTJhpaCrcP6b1dAIBjy3Yb8sQMuUykz5B5RxQWUhQ8zCH/hqvBdiq860Q6PfDshvaUqEdL2iOu4uABHy87aikuu6sfJFlIjdSoaVYBZtcar4LF3SyTw+6RhEo28aHbOAa9Rh0qdE8oCSYts6EdHPJlzaZU1ipweVkBTz0YPNTXPiG0T+l4mIh9GywJhex10wYqjS/GZXIsy/Jb9Xkrx98az4+lBuA0TN0Cj73+Xu5rKMHLBwv7C0TfkYmgnb2JpCjbErPd4r12O3eyDVfKTrYD3rpo2xhmIuXTuXIL4Fl5TbXf/BH8EV1V0Z1rgtB6iMRpyMhgdfLjN4RO3MrW+fIpuyQ3Sx+sr1j6oBwFlYfFNlYVm6dqwjWp/uuNHxblXZngGTWMeaVL/Rc93mhU12CQpr93Yo4xOhhI/Oys5vFcbgwuw==;uyTXB57pyKm3Rsjx08Xxww=="
 ---
 

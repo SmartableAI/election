@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "August turns into a month of crises as Biden stares down a pivotal point in his presidency"
+    excerpt: "President Joe Biden is facing multiple August crises with Afghanistan on the verge of collapse, Covid-19 patients overwhelming hospitals in some states, persistent inflation concerns, an uncertain path forward for his sweeping infrastructure agenda and surging attempted border crossings.\n    \n"
+    publishedDateTime: 2021-08-14T13:26:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L1f7y2s_Usw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-august-crises-afghanistan-covid-inflation-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-august-crises-afghanistan-covid-inflation-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210812140239-01-biden-0812-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How two long-term Biden aides led efforts to court Republicans ahead of the Senate infrastructure deal"
     excerpt: "In touting the $1.2 trillion infrastructure bill hours after it passed the Senate with 19 Republican votes on Tuesday, President Joe Biden took a moment to needle his critics.\n    \n"
     publishedDateTime: 2021-08-13T10:00:56Z

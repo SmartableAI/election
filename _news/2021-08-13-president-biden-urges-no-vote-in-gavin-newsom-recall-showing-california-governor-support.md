@@ -91,6 +91,20 @@ related:
         width: 3000
         height: 2001
         isCached: true
+  - title: "Rush of troops to Kabul tests Biden’s withdrawal deadline"
+    excerpt: "The last-minute decision to send 3,000 U.S. troops to Afghanistan to help partially evacuate the U.S. Embassy is calling into question whether President Joe Biden will meet his Aug."
+    publishedDateTime: 2021-08-14T13:22:00Z
+    webUrl: "https://apnews.com/article/lifestyle-joe-biden-middle-east-evacuations-kabul-8ec855b3f943dafe80d3d3ca6b0953f2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/dec2f2acfe554fdb96500f958a8762d0/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "EXPLAINER: The impact of Joe Biden's new fuel economy rules"
     excerpt: "President Joe Biden wants to erase Donald Trump's rollback of automobile pollution and fuel economy standards. He proposed new rules Thursday and unveiled a nonbinding deal with most automakers to have electric,"
     publishedDateTime: 2021-08-06T11:21:00Z
