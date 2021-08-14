@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s credibility has been shredded in Afghanistan"
 excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
 publishedDateTime: 2021-08-13T11:03:00Z
-originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?63bac0e6-3d28-36b1-7417-423982f60790"
-webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?63bac0e6-3d28-36b1-7417-423982f60790"
+originalUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
+webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
 ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
 type: article
@@ -600,7 +600,21 @@ related:
         width: 1200
         height: 707
         isCached: true
+  - title: "Rush of troops to Afghanistan tests Joe Biden’s withdrawal deadline"
+    excerpt: "The vanguard of a Marine contingent arrived in Kabul on Friday, and most of the rest of the 3,000 are due by Sunday."
+    publishedDateTime: 2021-08-14T14:17:00Z
+    webUrl: "https://bangordailynews.com/2021/08/14/national-politics/rush-of-troops-to-afghanistan-tests-joe-bidens-withdrawal-deadline/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Pentagon-Kirby.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "T5PE/YsKcDRPBNbBSTPZvjtAybwSSnIM/tk5jWGMme/GoPkJSOeOLfWakayqLUhZLq7h5pDZNtZW7Tn4Lt6FBCTAB0yy8WRVq+r2zH0YiSbOoB1uGq1l3DW4e1DDeEqafbbW0GfSsRoQu7kO+G6brlvtWSwy3vbu7lqt9u+8J47L0UMTlJtryMaqkeoEZKkdIIiFAn3PzxCh/Wovme4hJh1mlcFMH7mEDH8ycDOjShIwGHRhDTwhOwe1cijhpRBgdEcerOb0S/t5NQQ7+wzSGx1ykBUuHMlYCtPnVfJJ7dtXHftXwGm8ZOJKF1Nj3uVuSi3QQkz6D6DQQ49ZcAXXwEman6Ct3HsTttg6qoctcFU=;Tb4lB9SvD2PsxS1xhuty4w=="
+secured: "5lc6FnCWnWLx+oYMpYrharJmTmcRU22OV7L20mSf2S0cIGiNY4ySIuwwBDh69BGzXxQh1VR4+KmPA2djsmKuzHUnHdoCYmhe9gHKl8MaKnAdif1yWMLgGYUdLHb+7kBy0hoLxoj2dtpAXPu0KCzM4O4JM50ciJsOUpGCcIC3S+aT28Wc8MDkyWWzafEM9E+CCdu4H8RfnTbTGejQBskfBZsiN00x7CWoL5rIsxv7Eka/sWbL+h9PCE4JGLJgfZe4wMPlJx63wUkcTNtsUMtiC0aAHXbqOxQGxZ9plA9r8571qGUtV8ReuRG/YbRF1izXuhP02FBOFao5MHHI6+wVL3CPd5UPSO38nPTRynEyp+k=;W45NHbM3yS6lwjApjBxPRA=="
 ---
 

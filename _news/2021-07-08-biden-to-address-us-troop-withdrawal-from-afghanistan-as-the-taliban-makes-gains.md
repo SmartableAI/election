@@ -144,7 +144,7 @@ related:
   - title: "Joe Biden’s credibility has been shredded in Afghanistan"
     excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
     publishedDateTime: 2021-08-13T11:03:00Z
-    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?63bac0e6-3d28-36b1-7417-423982f60790"
+    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
     ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     type: article
@@ -599,6 +599,20 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
         width: 1200
         height: 707
+        isCached: true
+  - title: "Rush of troops to Afghanistan tests Joe Biden’s withdrawal deadline"
+    excerpt: "The vanguard of a Marine contingent arrived in Kabul on Friday, and most of the rest of the 3,000 are due by Sunday."
+    publishedDateTime: 2021-08-14T14:17:00Z
+    webUrl: "https://bangordailynews.com/2021/08/14/national-politics/rush-of-troops-to-afghanistan-tests-joe-bidens-withdrawal-deadline/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Pentagon-Kirby.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "Wk7j5bW0C86iwBe3Fi8X6F/yBoJnbh/QJbfnFMFK04MSP4+Ub61Vep72wve3ROqZ7MYfeqRu3gmlQD1byBsFYv0AFpgddLpI7LpakBWzTVAZuxiVZnszbAcBupc51SPnZ0jY93+/0Mq8liAXxuf+qOI1Kiu8hIhVFmWNXq739uaaSjgFjkKZJonM53dS59BpxCzZ4cvZeYrPetG1vEPjduHxb5+8sjz4cwmsvnxiaoU8L23FC/dTO0sgJPTYHGjkGhs9KCYe2LbQ5ZEDyk08S7WP/7hp3B/Zt2hbS8zVB+amrEqzbi/YBwKhhcw3H7X0CGcHVxRH3UxScoctrjIHkfcgZByeBkOKC14CX20+Bec=;pL9iG2rP+g2I7hdXIMFLRg=="

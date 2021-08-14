@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp"
 type: article
 quality: 171
-heat: 311
+heat: 331
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
+    excerpt: ""
+    publishedDateTime: 2021-08-14T15:05:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnGeOElIWNk/biden-response-covid-afghanistan-border-inflation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd25a285-c918-41c0-9457-cc079ae539d2/3ab06f84-ef1f-4f92-9e7f-0cfefaac564b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

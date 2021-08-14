@@ -144,7 +144,7 @@ related:
   - title: "Joe Biden’s credibility has been shredded in Afghanistan"
     excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
     publishedDateTime: 2021-08-13T11:03:00Z
-    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?63bac0e6-3d28-36b1-7417-423982f60790"
+    webUrl: "https://www.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2?shareType=nongift"
     ampWebUrl: "https://amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/71629b28-f730-431a-b8da-a2d45387a0c2"
     type: article
@@ -599,6 +599,20 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
         width: 1200
         height: 707
+        isCached: true
+  - title: "Rush of troops to Afghanistan tests Joe Biden’s withdrawal deadline"
+    excerpt: "The vanguard of a Marine contingent arrived in Kabul on Friday, and most of the rest of the 3,000 are due by Sunday."
+    publishedDateTime: 2021-08-14T14:17:00Z
+    webUrl: "https://bangordailynews.com/2021/08/14/national-politics/rush-of-troops-to-afghanistan-tests-joe-bidens-withdrawal-deadline/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Pentagon-Kirby.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "GZvjKcazb7K9ka2EyP7a/xEccZ6mZ34/fL/ZFBB9GiQqd2xLRfpJU+mxlafCpUMLOuyZCyB8DR+umpFKeajCJgjAYmdx2DXNtSL46Fhh2XYZgfyOwW0vLl5ihUqI4FX/2lzZ4I/x7EpjA2rPmxCNj33X8RFkFa0F8b6SCmgBzK41EIZaVhxG5dLUML90jgiKvRx49a8nxUgeBF661MYw+tkDEIc9T5Xb0rX4CDeRZBQXHGMlTqAKpHoiQ84s6d4p6sNKSkjNZOdZwMdzGn9OSGMF8r8pEeBbr25PsUvjNNz+zRFFr176NRQRoLVMhMdTLVsqFnMjVOsLI8JN9UaoyoYZcLaq4foh2QLt5cUzhSSG2Cl4JYLqYlHd17bXNyTBcFGVSoCOSlg+ToGgC3OpmbJWMW0w4UwzMb8DhmLBNIS3LQxC+wy/i04CjDyNxT9oyM2jJryrIxRpFjPispRyq5rNPu7RThiuhFQd1wdP+0JixIDekm8CeTL08QudmoOJv2hNl5r14n7XLHGvhQeRFg==;Qb67I3tRYSPBQpoPl6lgpg=="

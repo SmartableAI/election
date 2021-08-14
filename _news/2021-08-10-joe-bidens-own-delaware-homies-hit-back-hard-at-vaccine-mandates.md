@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-dela
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/joe-bidens-own-delaware-homies-hit-back-hard-vacci/"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/399e1a4/2147483647/strip/true/crop/3648x2440+0+148/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F6d%2Fd6fe6349dcfb4bad22a3bbbcdffc%2F18cf34c5ce1143509d2ae694f42f956b"
         width: 320
         height: 214
+        isCached: true
+  - title: "Biden calls Broward superintendent to support the school district’s mask mandate"
+    excerpt: "President Joe Biden on Friday night called Broward County Schools interim superintendent Vickie Cartwright to say he supports the district’s staying the course on mask mandates in defiance of Gov. Ron DeSantis’ order,"
+    publishedDateTime: 2021-08-14T15:26:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253491299.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253491299.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253491299.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d15725ae-ed58-4b96-8823-c15eeeeb6014/ffe52e48-2ec3-40dd-ada9-09adfce4283d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "NODmTW1bZ0uJyavE59/KxKgM5TJsx/4HscvRlY5lPfZZseUhU0ZWV2PwYAjyrR3inBmyAfek0IQ3gCkD/+E7ZsRVBzzKLlJIUEQaoOI/PytwTj5IhDl8YpQn0pGFT4MHaQ8XoBDtxtTNP98BFHVGZ3D5EvUws8OpzcGGQRMS4l2BRNQN3zvw8TeIJgdTpjGVr22rUenicZW7yj3yTgUy+/sEP+Ix8lgROUmWysnhvw4xZ3hUC3YBw/jbxgOVXxew1osiluFFXjczPhs6wv37/lyIwkeg0fi5i4SpVlFqVdHaH+EfyehUUIgD61VN6bHVRz3sVpzoGvEQL2sgucv8fQzraCtcyjcfvP1Jj+WmzmEfTMMjE9KlEVyq3fMsvx5PLdJuITsH2NKo+o/AbUd1Idm/t3+NVKNRvIxhDvjNUoZl+ab/CYmJlFTQTi9QnMtXeHhWJucJukp9K9a2DeC74/VMgHwuuJBsKGcp2gD25cf0qTbKsrXZ2TGGle1aTsho3WmEQSRkNd5H50o1BbRnOg==;vsNPtejdA8gwjCuM5hwuWQ=="

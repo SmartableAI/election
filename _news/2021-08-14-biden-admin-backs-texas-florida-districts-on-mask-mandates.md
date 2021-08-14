@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Biden calls Broward superintendent to support the school district’s mask mandate"
+    excerpt: "President Joe Biden on Friday night called Broward County Schools interim superintendent Vickie Cartwright to say he supports the district’s staying the course on mask mandates in defiance of Gov. Ron DeSantis’ order,"
+    publishedDateTime: 2021-08-14T15:26:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article253491299.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article253491299.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article253491299.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d15725ae-ed58-4b96-8823-c15eeeeb6014/ffe52e48-2ec3-40dd-ada9-09adfce4283d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "aJoRenVB2kVe3CG//wGKpHr1OWTN8e0MWwmeB+emPRSGY8/6J8r0Yb2wofPSM1oxoqhj02ADMzYaylxcyKt9/4Yb4tyjSzAoQyRdY+faIcq0AeFqqAhsw9uLVuK5LiC8Mub9HTYn8TZ4ny+dTsLTwVGYgFWqByHHOgMMRYOnl+BFp6j+dx8QmvTWPVmYMzRnkscuCz4deL51Z6VUyJFIvjCRD2bBoKjR1kLyxir0Bk+T1f7Q/CKUcRkFBnbMC5VHB9J4U0nBplXqeJ+U3nxw8eZX5bD2tpqFAf5kVAY8c8PY5sqPhgUlmOHEzcUmjrM+1Eq7YA8RSGNBNGyxg0LYXK0Mfgqb4S6XlyFqjY0d9qc=;NXW6R3BZSwWQ8oYsbx5v9g=="
 ---

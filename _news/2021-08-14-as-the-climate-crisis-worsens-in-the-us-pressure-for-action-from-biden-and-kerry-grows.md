@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden touts LGBTQ diversity in announcing sixth round of judicial nominees"
-excerpt: "President Joe Biden on Thursday announced four judicial nominees, including two barrier-breaking nominations of LGBTQ judges, marking his sixth round of judicial nominees since taking office as his administration seeks to maintain a rapid pace of nominations and confirmations.\n    \n"
-publishedDateTime: 2021-08-05T14:37:53Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WHFzKZz_Z_Y/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WHFzKZz_Z_Y/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
+title: "As the climate crisis worsens in the US, pressure for action from Biden and Kerry grows"
+excerpt: "In a summer of deadly and life-altering extreme weather, the Biden administration and Democrats are walking a tightrope, with a razor-thin majority in Congress, to enact policies that will reroute the US economy away from fossil fuels and show the world that the US will lead on climate change.\n    \n"
+publishedDateTime: 2021-08-14T14:01:15Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vEstYXUxLWY/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vEstYXUxLWY/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-kerry-climate-change/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-kerry-climate-change/index.html"
 type: article
-quality: 173
+quality: 167
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803165508-01-biden-0803-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811070029-biden-harris-kerry-climate-0127-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden touts LGBTQ diversity in announcing sixth round of judicial nominees"
+    excerpt: "President Joe Biden on Thursday announced four judicial nominees, including two barrier-breaking nominations of LGBTQ judges, marking his sixth round of judicial nominees since taking office as his administration seeks to maintain a rapid pace of nominations and confirmations.\n    \n"
+    publishedDateTime: 2021-08-05T14:37:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WHFzKZz_Z_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-judicial-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210803165508-01-biden-0803-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democratic organizations prepare to defend the Biden agenda during August recess "
     excerpt: "A range of Democratic committees and organizations are gearing up to defend President Joe Biden's agenda with what they hope will be a cohesive message during Congress' August recess, a sign of how critical Biden's popularity is to the party's success in 2022 and beyond.\n    \n"
     publishedDateTime: 2021-08-11T15:34:21Z
@@ -140,22 +156,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525164345-david-chipman-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "As the climate crisis worsens in the US, pressure for action from Biden and Kerry grows"
-    excerpt: "In a summer of deadly and life-altering extreme weather, the Biden administration and Democrats are walking a tightrope, with a razor-thin majority in Congress, to enact policies that will reroute the US economy away from fossil fuels and show the world that the US will lead on climate change.\n    \n"
-    publishedDateTime: 2021-08-14T14:01:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vEstYXUxLWY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-kerry-climate-change/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-kerry-climate-change/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811070029-biden-harris-kerry-climate-0127-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -270,6 +270,6 @@ related:
         height: 773
         isCached: true
 
-secured: "djtp0/waLTpVfdiuI7i4TSHzYQ8BEAOhnGpyKxERjmh/g7LCMeu8zoHKmIRKQeYNarsQ0vnCFjyF0/8ctHQKbl1HHtim0FDl8Z3B9T23L7jgVTUak8n1evUttTYPBymzBmiasXlPe9Io2ZAClpi8mkDpkbTv+sZdJz7iX2lfWEpfRjko1qqIQUv7NAYo3PqE1FVz0i3NpgDRPObyM3R91EJI0qi2mfuj5bCX/sc6905fL9Axvnq6SgSHAqQ7FmhiZy/nR12Uwhn+KHVJfeSxCUtYw+Wjy+HSYt0RBrl7qq/2X9prp82flDgwe7lN3R8b560rwOB0/R2/3DSn5k/xsRuNY/pWYeVUqoqP2JJVoyI=;pi5Z06mZQwCjjpU8JPDbJQ=="
+secured: "WJUn48efrFh3O5pwRL1hbve+13PYe2wPEzOIW0Lu/zyNr6OOOmTuv6OaOmJVLVl/peTwsHwo/lwknImBw4lWu+3UwJmCQlVh1ZRNjlK1U25ISmErwYyVFfmcNiWjHfFfhX9SuBKRh+vtFnk1OE9BRQKAtzb2z9OiiwJMhpwdEk6VVTYBP93nLljHHe6EWYp8aQMfFqSZhphYhcwu+BMtUcbKWrkt4+8NnJKFokCUjZf0lx0BdQGDnuAAziHyMrxzrJD/Ghky/whbfG5gJm8Hc8xodpOv51Sl0d0TdJ7RAsf1syjK5hH5F8lqnI15DlnJ19cKc/aOi9wr6QPNEmsJUKf720WVgFIADqSChOEYkqs=;MsbQqSqGbwn78jHMSV2b6g=="
 ---
 

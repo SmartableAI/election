@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525164345-david-chipman-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As the climate crisis worsens in the US, pressure for action from Biden and Kerry grows"
+    excerpt: "In a summer of deadly and life-altering extreme weather, the Biden administration and Democrats are walking a tightrope, with a razor-thin majority in Congress, to enact policies that will reroute the US economy away from fossil fuels and show the world that the US will lead on climate change.\n    \n"
+    publishedDateTime: 2021-08-14T14:01:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vEstYXUxLWY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/14/politics/biden-kerry-climate-change/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/14/politics/biden-kerry-climate-change/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210811070029-biden-harris-kerry-climate-0127-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

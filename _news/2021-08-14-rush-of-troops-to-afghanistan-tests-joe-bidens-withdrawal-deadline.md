@@ -1,31 +1,27 @@
 ---
 category: news
-title: "The Daily 202: Biden says he has no Afghanistan withdrawal regrets. But."
-excerpt: "Welcome to The Daily 202 newsletter! Tell your friends to sign up here. On this day in 2014, the world lost actress Lauren Bacall. “You know how to whistle, don’t you Steve? You just put your lips together,"
-publishedDateTime: 2021-08-12T19:56:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/08/12/daily-202-biden-says-he-has-no-afghanistan-withdrawal-regrets/"
-webUrl: "https://www.washingtonpost.com/politics/2021/08/12/daily-202-biden-says-he-has-no-afghanistan-withdrawal-regrets/"
+title: "Rush of troops to Afghanistan tests Joe Biden’s withdrawal deadline"
+excerpt: "The vanguard of a Marine contingent arrived in Kabul on Friday, and most of the rest of the 3,000 are due by Sunday."
+publishedDateTime: 2021-08-14T14:17:00Z
+originalUrl: "https://bangordailynews.com/2021/08/14/national-politics/rush-of-troops-to-afghanistan-tests-joe-bidens-withdrawal-deadline/"
+webUrl: "https://bangordailynews.com/2021/08/14/national-politics/rush-of-troops-to-afghanistan-tests-joe-bidens-withdrawal-deadline/"
 type: article
-quality: 104
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/22RUGIX244I6XEI4KJF4RNUPC4.jpg&w=1440"
-    width: 1440
-    height: 956
+  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Pentagon-Kirby.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -430,6 +426,20 @@ related:
         width: 702
         height: 351
         isCached: true
+  - title: "The Daily 202: Biden says he has no Afghanistan withdrawal regrets. But."
+    excerpt: "Welcome to The Daily 202 newsletter! Tell your friends to sign up here. On this day in 2014, the world lost actress Lauren Bacall. “You know how to whistle, don’t you Steve? You just put your lips together,"
+    publishedDateTime: 2021-08-12T19:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/08/12/daily-202-biden-says-he-has-no-afghanistan-withdrawal-regrets/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/22RUGIX244I6XEI4KJF4RNUPC4.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
   - title: "White House says Biden to meet with Afghanistan's Ghani and Abdullah Abdullah"
     excerpt: "U.S. President Joe Biden will meet at the White House with Afghan President Ashraf Ghani and Abdullah Abdullah, chairman of Afghanistan's High Council for National Reconciliation, on June 25, the White House said on Sunday."
     publishedDateTime: 2021-06-20T14:13:00Z
@@ -600,21 +610,7 @@ related:
         width: 1200
         height: 707
         isCached: true
-  - title: "Rush of troops to Afghanistan tests Joe Biden’s withdrawal deadline"
-    excerpt: "The vanguard of a Marine contingent arrived in Kabul on Friday, and most of the rest of the 3,000 are due by Sunday."
-    publishedDateTime: 2021-08-14T14:17:00Z
-    webUrl: "https://bangordailynews.com/2021/08/14/national-politics/rush-of-troops-to-afghanistan-tests-joe-bidens-withdrawal-deadline/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Pentagon-Kirby.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
-secured: "UEgaDY0vtUKoLmZi+XWDVpX8A9DICw2tCParcDMymxyjvVGwVD2yyUd6wexzQvW6dQQs8EDVlfKAbFxbTO5w+DdOb3/bq4Nv0+3TpNKwcT72C/faSFtggBCBhvYGbIrhV51cgDvvA7nkJZ2kD4ishJPvOwUmQiND2ZKDbetkeNU9hwX21mzPCZYcu9DYMlTjpXKCcKBZ6Yj4my9VSGFiB6E+/n89Kjebfuz9TeLIVkrpRisZSht3Zt/ADURK5l7XAuVuLZEE6G7SnisexydIC73nHdGiTeq9Qf2OQcq4WVz2OvqDZ9Uj+183I4Irv9NA36BZ8nbV63y2Mn5FmIWd6t99a9zp8fVsl28DdmLtDRc=;dubG1OreAL4IdaOZ2a3JaA=="
+secured: "QHIuOEazTEEJXNqVMhb7FgZWCyYCiScM07YOkrKonA5H3NG81sYTKZ46BZsKghSxM6qR9brXnBkcUNZdywZRTXmi9qR9BvI+fpZuWSog9yhYpwNuLv2l1V+uwEgXkUj8UdD0uVf9Ls0MOSvik/XanXd947DVMWH+MoUdKptpx8YYIsinmQmV884zvr+KSBBx2AIdXObJGgzdNgONSJVCPZQ1EuLtDdSx0mXd8AelGDSZSayF8vqIMcd50KqvMy9HQkVGJDDfsjZg1z/l+EfWm7B20W8DKSUHnSG0XoapmiVi094Swm9yqTRCgDUO/4W1WRY/Czmj7eGlZ42thLIaBs+e+/CAa05l7+74RsJO2mM=;i9Hz0LqSpUBKL6/WpeCsRw=="
 ---
 

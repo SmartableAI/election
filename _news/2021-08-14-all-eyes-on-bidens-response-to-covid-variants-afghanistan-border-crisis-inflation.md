@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden annoyed by repeated questions on Afghanistan: 'I'm not going to answer ... It's a holiday weekend'"
-excerpt: "President Biden grew irked Friday with repeated press questions about the Afghanistan troop drawdown, correcting himself after saying he was done with the “negative” questions and noting it's a holiday weekend."
-publishedDateTime: 2021-07-02T16:20:00Z
-originalUrl: "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend"
-webUrl: "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend"
-ampWebUrl: "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend.amp"
+title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
+excerpt: ""
+publishedDateTime: 2021-08-14T15:05:33Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnGeOElIWNk/biden-response-covid-afghanistan-border-inflation"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnGeOElIWNk/biden-response-covid-afghanistan-border-inflation"
+ampWebUrl: "https://www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
 type: article
-quality: 118
+quality: 168
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd25a285-c918-41c0-9457-cc079ae539d2/3ab06f84-ef1f-4f92-9e7f-0cfefaac564b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -61,22 +60,6 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "All eyes on Biden's response to COVID variants, Afghanistan, border crisis, inflation"
-    excerpt: ""
-    publishedDateTime: 2021-08-14T15:05:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jnGeOElIWNk/biden-response-covid-afghanistan-border-inflation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-response-covid-afghanistan-border-inflation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd25a285-c918-41c0-9457-cc079ae539d2/3ab06f84-ef1f-4f92-9e7f-0cfefaac564b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -144,6 +127,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden annoyed by repeated questions on Afghanistan: 'I'm not going to answer ... It's a holiday weekend'"
+    excerpt: "President Biden grew irked Friday with repeated press questions about the Afghanistan troop drawdown, correcting himself after saying he was done with the “negative” questions and noting it's a holiday weekend."
+    publishedDateTime: 2021-07-02T16:20:00Z
+    webUrl: "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend"
+    ampWebUrl: "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's Afghansitan Speech Was Worst of His Presidency"
     excerpt: "CNN National Security Analyst Peter Bergen argues that President Joe Biden's speech defending US withdrawal from Afghanistan was peopled with straw men and littered with false assertions."
     publishedDateTime: 2021-07-09T18:50:00Z
@@ -159,6 +158,6 @@ related:
         height: 500
         isCached: true
 
-secured: "1US9f3IvcX7SU/7qPO2wDTcZyacdU+I32FCWe6tqUlfqnXECBUOcboCs6wiiNmKr+EfvvkdqWAzFqqYxSeh8dy6zOceeJIiNCrkYufF2pph39tmJFd7wMJTl+ctqYCWfPTIg+OaQB43i1nQ5auSQj32mXJpFmX95bS0HJlyRT9TdL0gkuRnzvWpxqrJMW0BeTArXaq0vdg5fmW12/rzq+ytbSfbZWQ/qiUVtaQedYc2ahv9QfPMN4Z2byfMV+DWO/G8ymi7DrQKibPxsifX492hzKl7hjYsAJIK1TRDX/1vhrdndZ3RRoxBkKhLC8/w9hHKS0knOiV8eoN8gpuXDwkmkFkyqsfj4eE56AV6ztow=;P9ZJKT4LAtQ87ccbmibdkQ=="
+secured: "hYrO2Su+i/MCZK3RX3j0JHhk7zoAM3NYHNZ4DkJRQ8FzBpnSlnDkbdD8IamtyCYTTtXUT54/xKqCciFFvTrCnfZ3Nb0qloyHfwD4wyR5GFoLlT9ANPXqmYVOm8g+XNEMSF5nKIhKLelfRtvF5UvugMu1O0msk9XpLVJOdZ1KgP54hb/GLNHPP8xekXbLjDfmAKnl/kExSNXxlwZaIFPpEYZwVGXBWYx7Xwv5dg1HNXuIU3YkUg0a41zOlHUtnQQ9OK6pBHImt8erY4g5pCUCgtJCuuB8w+W6GDk+tS+t5PF2A4oMh4X8aWgz875+57w3qNsy++gZF2SH82txysrSgXgO8GkKEDGexxPcoRtNim4=;v18ky7PL5Xy/DU0xJ3JotQ=="
 ---
 
